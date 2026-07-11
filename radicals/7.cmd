@@ -377,6 +377,14 @@ For all radicals, see [Index of characters by radical](./).
       - $豊fung1
       ==
       </nav>
+  //
+    , 11
+    ,
+      <nav class="sideways">
+      ==
+      - $豐fung1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾖-characters ##>

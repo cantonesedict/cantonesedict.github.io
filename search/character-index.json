@@ -8607,6 +8607,12 @@
 "text":"U+8C4A (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊) Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上."
 }
 },
+"豐":{
+"fung1":{
+"isCanonical":true,
+"text":"U+8C50 豊 (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊; here normalised to 豐) ~~A full goblet;~~ abundant, affluent, copious, exuberant (Kangxi: 茂也盛也); rich, fertile, prolific; talented; _fung nin_ (fung1 nin4 豐年), a plenteous year; _fung shing_ (fung1 sing6 豐盛) flourishing, prosperous; _fung shuk_ (fung1 suk6 豐熟) ripe, fully grown; _fung hau_ (fung1 hau5 豐厚) generous (as a feast); _fung tang_ (fung1 dang1 豐登), large supplies (of corn). (Page 715 豐) Is the full form of 豊; the latter (豊) is the least used. Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上. Williams' \"A full goblet\": This is a misreading of Kangxi 豆之豐滿者也. Here, 豐滿者 means \"the full-sized\", while 豆 is a ritual vessel much flatter than a typical goblet. Williams' 豐厚: Normalised _hau_ (hau6) to _hau_ (hau5). A type of ritual vessel (Kangxi: 一曰器名, 似豆而卑). Great (Kangxi: 大也). Ample (Kangxi: 多也, 猶厚也). A surname (Kangxi: 姓). 【豐】 (phjuwng) (_noun-like_) flat-goblet (_adjective-like_) plenteous, ample (_adjective-like_) exuberant"
+}
+},
 "風":{
 "fung1":{
 "isCanonical":true,

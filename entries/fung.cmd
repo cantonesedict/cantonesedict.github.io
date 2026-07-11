@@ -52,6 +52,7 @@ $$
 - $瘋1
 - $葑1
 - ($豊1)
+- $豐1
 - $風1
 ==
 </nav>
@@ -264,7 +265,7 @@ W
   ====
   - [[Page~66 (1)豊]]
     --
-    [[Alternative form of 豐. **See $豐fung1 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 豐. **See $豐fung1 for the canonical entry.**]]
     --
   ====
 C
@@ -275,6 +276,78 @@ S
   ==
   - $豊lai5 (TODO)
   ==
+$$
+
+### 豐1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⾖ + 11
+U
+  U+8C50
+A
+  ==
+  - $豊1
+  ==
+F
+  ==
+  - (F1.58 豐) ::大也[盛]也又豐熟::
+  - (F1.58 豊) ::同[上]::
+  ==
+W
+  ====
+  - [[Page~66 (1)豊; here normalised to 豐]]
+    ==
+    - ~~A full goblet;~~
+    - abundant, affluent, copious, exuberant [[Kangxi: 茂也盛也]];
+    - rich, fertile, prolific;
+    - talented;
+    - _(1)fung (4)n(i/)n_
+        [[fung1 nin4 豐年]],
+        a plenteous year;
+    - _(1)fung shing(6)_
+        [[fung1 sing6 豐盛]]
+        flourishing, prosperous;
+    - _(1)fung shuk(9)_
+        [[fung1 suk6 豐熟]]
+        ripe, fully grown;
+    - _(1)fung ~~hau(6)~~ ``(5)hau``_
+        [[fung1 hau5 豐厚]]
+        generous (as a feast);
+    - _(1)fung (1)tang_
+        [[fung1 dang1 豐登]],
+        large supplies (of corn).
+    ==
+  - [[Page~715 (1)豐]]
+    ==
+    - Is the full form of 豊;
+    - the latter [[豊]] is the least used.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上.
+  - Williams' "A full goblet": This is a misreading of Kangxi 豆之豐滿者也.
+    Here, 豐滿者 means "the full-sized",
+    while 豆 is a ritual vessel much flatter than a typical goblet.
+  - Williams' 豐厚: Normalised _hau(6)_ (hau6) to _(5)hau_ (hau5).
+  ==
+P
+  ++
+  1. A type of ritual vessel (Kangxi: 一曰器名, ::似豆而[卑]::).
+  1. Great (Kangxi: 大也).
+  1. Ample (Kangxi: 多也, 猶厚也).
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【豐】 (phjuwng)
+    ==
+    - (_noun-like_) flat-goblet
+    - (_adjective-like_) plenteous, ample
+    - (_adjective-like_) exuberant
+    ==
+  ====
 $$
 
 ### 風1 | _(1)Fung_ [[fung1]]

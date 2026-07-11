@@ -3924,6 +3924,15 @@ window.onload = applyFilter;
       - Used in [反覆](/entries/fuk#rendering-反覆).
       ==
   //
+    , `phjuwng`
+    , [豐](/entries/fung#rendering-豐)
+    ,
+      ==
+      - (_noun-like_) flat-goblet
+      - (_adjective-like_) plenteous, ample
+      - (_adjective-like_) exuberant
+      ==
+  //
     , `phuwH`
     , [仆](/entries/fu#rendering-仆)
     ,
