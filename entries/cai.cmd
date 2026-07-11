@@ -145,6 +145,10 @@ R
   ⼼ + 8
 U
   U+60BD
+A
+  ==
+  - 凄 (Mainland simplified)
+  ==
 F
   ==
   - (F1.28 悽) 悲也

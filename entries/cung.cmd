@@ -1094,6 +1094,10 @@ R
   ⼟ + 10
 U
   U+585A
+A
+  ==
+  - 冢 (Mainland simplified)
+  ==
 V
   ==
   - zung2 (per 《廣韻》知隴切)

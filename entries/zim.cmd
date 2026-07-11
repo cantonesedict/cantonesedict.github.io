@@ -801,6 +801,10 @@ R
   ⼈ + 3
 U
   U+4F54
+A
+  ==
+  - 占 (Mainland simplified)
+  ==
 F
   ==
   - (F2.50 占) ::霸占擅[據]也::

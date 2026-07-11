@@ -2609,14 +2609,15 @@ class CharacterEntry:
             return None
 
         return [
-            AlternativeForm(character_or_link, jyutping)
+            AlternativeForm(character_or_link, jyutping, qualifier)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ )',
+                pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ ) [ ]* (?P<qualifier> .*)',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
                 character_or_link := match.group('character_or_link'),
+                qualifier := match.group('qualifier'),
             )
         ]
 
@@ -2866,9 +2867,10 @@ class AlternativeForm:
     content: str
     character: str
     jyutping: str
+    qualifier: str
     linked_tone: Optional[str]
 
-    def __init__(self, character_or_link: str, jyutping: str):
+    def __init__(self, character_or_link: str, jyutping: str, qualifier: str):
         if not (match := re.fullmatch(
             pattern=r'(?P<dollar> \$? ) (?P<character> \S ) (?P<tone> [1-6]? ) (?P<caret> \^? )',
             string=CmdIdioms.strip_compositions(character_or_link),
@@ -2896,6 +2898,7 @@ class AlternativeForm:
         self.content = character_or_link
         self.character = character
         self.jyutping = jyutping
+        self.qualifier = qualifier
         self.linked_tone = tone
 
 
@@ -3530,9 +3533,10 @@ class Linter:
                     except KeyError:
                         other_character_entry = None
 
-                    if other_character_entry:
+                    if other_character_entry and 'Mainland simplified' not in alternative_form.qualifier:
                         raise LintException(
-                            f'alternative form `{alternative_form.content}` not linked under `{character_entry}`'
+                            f'alternative form `{alternative_form.content}` not linked under `{character_entry}` '
+                            f'(suppress with `(Mainland simplified)` if appropriate)'
                         )
 
     @staticmethod
