@@ -356,7 +356,7 @@
 "縊":{
 "ai3":{
 "isCanonical":true,
-"text":"U+7E0A ngai3 (hypercorrected initial) (F1.32 縊) 懸樑自縊也 (Page 2 縊) To hang, to strangle one's self (Kangxi: 經也, 懸繩曰縊); ~~the warp of cloth;~~ _ai sz' kwai_ (ai3 sei2 gwai2 縊死鬼), ghost of a suicide; _ai keng_ (ai3 geng2 縊頸), hung by the neck. Williams' \"the warp of cloth\": This is a misreading of Kangxi 經也. 【縊】 ('ejH, 'jieH) (_verb-like_) to hang, to strangle"
+"text":"U+7E0A 缢 (Mainland simplified) ngai3 (hypercorrected initial) (F1.32 縊) 懸樑自縊也 (Page 2 縊) To hang, to strangle one's self (Kangxi: 經也, 懸繩曰縊); ~~the warp of cloth;~~ _ai sz' kwai_ (ai3 sei2 gwai2 縊死鬼), ghost of a suicide; _ai keng_ (ai3 geng2 縊頸), hung by the neck. Williams' \"the warp of cloth\": This is a misreading of Kangxi 經也. 【縊】 ('ejH, 'jieH) (_verb-like_) to hang, to strangle"
 }
 },
 "翳":{
@@ -1832,7 +1832,7 @@
 "縝":{
 "can2":{
 "isCanonical":true,
-"text":"U+7E1D May appear as either ⿰糹眞 or ⿰糹真 (assumed here), depending on the font. zan2 (per 《廣韻》章忍切) (F1.82 縝) 結也縷也 (Page 18|n61 縝) Filaments from a coccoon (Kangxi: 縝緻也); a thread (Kangxi: 縝纑縷也); to tie (Kangxi: 結也單也); black (Kangxi: 縝黑也); _shui ch'an pat pin_ (seoi4 can2 bat1 bin3 誰縝不變) whose black hair will not change?"
+"text":"U+7E1D May appear as either ⿰糹眞 or ⿰糹真 (assumed here), depending on the font. 缜 (Mainland simplified) zan2 (per 《廣韻》章忍切) (F1.82 縝) 結也縷也 (Page 18|n61 縝) Filaments from a coccoon (Kangxi: 縝緻也); a thread (Kangxi: 縝纑縷也); to tie (Kangxi: 結也單也); black (Kangxi: 縝黑也); _shui ch'an pat pin_ (seoi4 can2 bat1 bin3 誰縝不變) whose black hair will not change?"
 }
 },
 "袗":{
@@ -1952,7 +1952,7 @@
 "緝":{
 "cap1":{
 "isCanonical":true,
-"text":"U+7DDD (F2.39 緝) 繼續也續也 (Page 557 緝) To twist a cord (Kangxi: 績也); to join, to continue (Kangxi: 續也); to come after, to follow, to succeed; to pursue, to follow after, to be on the search for; to apprehend; _ts'ap wok_ (cap1 wok6 緝獲) to pursue and seize; _ts'ap sz'_ (cap1 si1 緝私) to watch smugglers; _ts'ap sz' shun_ (cap1 si1 syun4 緝私船), revenue cutters; _ts'ap cheuk_ (cap1 zoek6 緝着) caught him; _ch'a ts'ap_ (caa4 cap1 查緝) on the search; _ts'un ts'ap_ (ceon4 cap1 巡緝) to get on the trail. 【緝】 (tship) (_verb-like_) to spin (thread), to hem (_verb-like_) to continue Used in 緝熙. 【緝熙】 (tship xi) (_adjective-like_) brilliant"
+"text":"U+7DDD 缉 (Mainland simplified) (F2.39 緝) 繼續也續也 (Page 557 緝) To twist a cord (Kangxi: 績也); to join, to continue (Kangxi: 續也); to come after, to follow, to succeed; to pursue, to follow after, to be on the search for; to apprehend; _ts'ap wok_ (cap1 wok6 緝獲) to pursue and seize; _ts'ap sz'_ (cap1 si1 緝私) to watch smugglers; _ts'ap sz' shun_ (cap1 si1 syun4 緝私船), revenue cutters; _ts'ap cheuk_ (cap1 zoek6 緝着) caught him; _ch'a ts'ap_ (caa4 cap1 查緝) on the search; _ts'un ts'ap_ (ceon4 cap1 巡緝) to get on the trail. 【緝】 (tship) (_verb-like_) to spin (thread), to hem (_verb-like_) to continue Used in 緝熙. 【緝熙】 (tship xi) (_adjective-like_) brilliant"
 }
 },
 "葺":{
@@ -2116,7 +2116,7 @@
 "紬":{
 "cau1":{
 "isCanonical":true,
-"text":"U+7D2C (Page 27|n70 紬 _Ch'au_ (cau4); here corrected to _Ch'au_ (cau1)) to draw out threads for weaving (Kangxi: 紬抽也); to arrange the details of a subject, to search for first causes (Kangxi: 紬繹者引其端緒也);"
+"text":"U+7D2C 䌷 (Mainland simplified) (Page 27|n70 紬 _Ch'au_ (cau4); here corrected to _Ch'au_ (cau1)) to draw out threads for weaving (Kangxi: 紬抽也); to arrange the details of a subject, to search for first causes (Kangxi: 紬繹者引其端緒也);"
 },
 "cau4":{
 "isCanonical":false,
@@ -2312,13 +2312,13 @@
 "籌":{
 "cau4":{
 "isCanonical":true,
-"text":"U+7C4C cau4-2 (vernacular rising-tone noun) (F1.52 籌) 算也又壺矢也 (Page 28|n71 籌) To compute, to calculate (Kangxi: 籌算也); to devise, to plan, to arrange (Kangxi: 籌策); a lot; a reed; a time, a tally, a tillot; _chap ch'au_ (zap1 cau4-2 執籌) or _ts'im ch'au_ (cim4 cau4-2 撍籌), to draw lots; _kang ch'au_ (gaang1 cau4 更籌), a watchman beating the hour; _tuk ki ch'au shu_ (duk6 gei2 cau4 syu1 讀幾籌書), how many times have you studied it? _p'ai ch'au_ (paai3 cau4-2 派籌), to give tickets; _ch'au ch'ak_ (cau4 caak3 籌策) a stratagem; to scheme; _ch'au wak_ (cau4 waak6 籌劃) to settle a plan of action; _ch'au ch'i_ (cau4 ci2 籌矢), wands thrown into a jar, a sort of game. Williams' \"To compute, to calculate\": Alternatively, a counting-stick. Williams' 更籌: Corrected _kang_ (gang1) to _kang_ (gaang1). 【籌】 (drjuw) (_noun-like_) throwing-arrow (_noun-like_) counting-stick (_noun-like_) plan 【籌】 (cau4-2) A ticket or a token for a queue or allocation. 派籌 (paai3 cau4-2): \"Handing out tickets.\" 攞籌 (lo2 cau4-2): \"Getting a ticket.\""
+"text":"U+7C4C 筹 (Mainland simplified) cau4-2 (vernacular rising-tone noun) (F1.52 籌) 算也又壺矢也 (Page 28|n71 籌) To compute, to calculate (Kangxi: 籌算也); to devise, to plan, to arrange (Kangxi: 籌策); a lot; a reed; a time, a tally, a tillot; _chap ch'au_ (zap1 cau4-2 執籌) or _ts'im ch'au_ (cim4 cau4-2 撍籌), to draw lots; _kang ch'au_ (gaang1 cau4 更籌), a watchman beating the hour; _tuk ki ch'au shu_ (duk6 gei2 cau4 syu1 讀幾籌書), how many times have you studied it? _p'ai ch'au_ (paai3 cau4-2 派籌), to give tickets; _ch'au ch'ak_ (cau4 caak3 籌策) a stratagem; to scheme; _ch'au wak_ (cau4 waak6 籌劃) to settle a plan of action; _ch'au ch'i_ (cau4 ci2 籌矢), wands thrown into a jar, a sort of game. Williams' \"To compute, to calculate\": Alternatively, a counting-stick. Williams' 更籌: Corrected _kang_ (gang1) to _kang_ (gaang1). 【籌】 (drjuw) (_noun-like_) throwing-arrow (_noun-like_) counting-stick (_noun-like_) plan 【籌】 (cau4-2) A ticket or a token for a queue or allocation. 派籌 (paai3 cau4-2): \"Handing out tickets.\" 攞籌 (lo2 cau4-2): \"Getting a ticket.\""
 }
 },
 "綢":{
 "cau4":{
 "isCanonical":true,
-"text":"U+7DA2 紬 (for \"silk\" sense) (F1.52 綢) 綢緞又密也纏也 (F1.52 紬) 同上 (Page 27|n70 紬; here normalised to 綢) Silk (Kangxi 紬: 大絲繒也); pongee, senshaw, levantine, lustring; _shang ch'au_ (saang1 cau4 生綢), stiff pongee; _shuk ch'au_ (suk6 cau4 熟綢), soft silk; _ning ch'au_ (ning4 cau4 寧綢), finest pongee; _shu leung ch'au_ (syu4 loeng4 cau4 薯莨綢), rust colored senshaw; _ch'au tun_ (cau4 dyun6 綢緞) silks and satins; _fong ch'au_ (fong2 cau4 紡綢), reeled pongee; _min ch'au_ (min4 cau4 綿綢), fabric of silk and cotton; _kan ch'au_ (gaan2 cau4 繭綢), coarse rough serge; _ch'un ch'au_ (cyun1 cau4 川綢), Sz'chuen (四川) pongee. (Page 27|n70 綢) Used for the last (紬), when denoting silk; to bind, to wrap around, to twine about (Kangxi 綢: 繆也, 綢縛束也); _ch'au mau_ (cau4 mau4 綢繆), to tie up; to be intimate with, to consult upon. Williams' 生綢: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【綢】 (drjuw) (_verb-like_) to wind Used in 綢繆. 【綢繆】 (drjuw mjuw) (_verb-like_) to wind and bind"
+"text":"U+7DA2 紬 (for \"silk\" sense) 绸 (Mainland simplified) (F1.52 綢) 綢緞又密也纏也 (F1.52 紬) 同上 (Page 27|n70 紬; here normalised to 綢) Silk (Kangxi 紬: 大絲繒也); pongee, senshaw, levantine, lustring; _shang ch'au_ (saang1 cau4 生綢), stiff pongee; _shuk ch'au_ (suk6 cau4 熟綢), soft silk; _ning ch'au_ (ning4 cau4 寧綢), finest pongee; _shu leung ch'au_ (syu4 loeng4 cau4 薯莨綢), rust colored senshaw; _ch'au tun_ (cau4 dyun6 綢緞) silks and satins; _fong ch'au_ (fong2 cau4 紡綢), reeled pongee; _min ch'au_ (min4 cau4 綿綢), fabric of silk and cotton; _kan ch'au_ (gaan2 cau4 繭綢), coarse rough serge; _ch'un ch'au_ (cyun1 cau4 川綢), Sz'chuen (四川) pongee. (Page 27|n70 綢) Used for the last (紬), when denoting silk; to bind, to wrap around, to twine about (Kangxi 綢: 繆也, 綢縛束也); _ch'au mau_ (cau4 mau4 綢繆), to tie up; to be intimate with, to consult upon. Williams' 生綢: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【綢】 (drjuw) (_verb-like_) to wind Used in 綢繆. 【綢繆】 (drjuw mjuw) (_verb-like_) to wind and bind"
 }
 },
 "裯":{
@@ -2554,7 +2554,7 @@
 "縗":{
 "ceoi1":{
 "isCanonical":true,
-"text":"U+7E17 衰 (F2.80 衰) 齊衰喪服也 (F2.80 縗) 同上 (Page 598 衰縗) The unhemmed, frayed edges of mourning clothes (Kangxi: 喪服也), which are left so; to ravel out; _cham ts'ui_ (zaam2 ceoi1 斬縗), clipped, unhemmed. Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上. 【縗】 (tshwoj) (_noun-like_) mourning-clothes, sackcloth"
+"text":"U+7E17 衰 缞 (Mainland simplified) (F2.80 衰) 齊衰喪服也 (F2.80 縗) 同上 (Page 598 衰縗) The unhemmed, frayed edges of mourning clothes (Kangxi: 喪服也), which are left so; to ravel out; _cham ts'ui_ (zaam2 ceoi1 斬縗), clipped, unhemmed. Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上. 【縗】 (tshwoj) (_noun-like_) mourning-clothes, sackcloth"
 }
 },
 "蛆":{
@@ -2894,7 +2894,7 @@
 "紃":{
 "ceon4":{
 "isCanonical":true,
-"text":"U+7D03 seon4 (alternative per 《廣韻》食倫切) (F2.52 紃) 組紃 (Page 603 紃) Fine, silken cords or bindings (Kangxi: 圜采也, 絛紃也, etc.); tassels, ornaments; a model, a pattern (Kangxi: 法也); _tit ts'un_ (dit3 ceon4), the spindle of a spinning-wheel --- a colloquial term. 【紃】 (zwin, zywin) (_noun-like_) silk-cord"
+"text":"U+7D03 𬘓 (Mainland simplified) seon4 (alternative per 《廣韻》食倫切) (F2.52 紃) 組紃 (Page 603 紃) Fine, silken cords or bindings (Kangxi: 圜采也, 絛紃也, etc.); tassels, ornaments; a model, a pattern (Kangxi: 法也); _tit ts'un_ (dit3 ceon4), the spindle of a spinning-wheel --- a colloquial term. 【紃】 (zwin, zywin) (_noun-like_) silk-cord"
 }
 },
 "螓":{
@@ -2936,7 +2936,7 @@
 },
 "zyut3":{
 "isCanonical":true,
-"text":"U+7D40 fat1 (per 《正韻牋》曲勿切 for \"bent/withdrawn\" sense) zeot1 (per 《廣韻》竹律切) (F1.86 絀 _Fat_ (fat1)) 嬴絀猶屈伸也 (Page 41 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) Crimson (Kangxi: 絳也) silk; to sew (Kangxi: 紩也); ~~to baste or sew badly;~~ _ying chut_ (jing4 zyut3 嬴絀) to retire and come forth (Kangxi: 猶言屈伸也); unequal; (Page 713 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) This word also means ~~obstructed,~~ bent; withdrawn~~, as money from circulation~~; _ts'oi yung chi chut_ (coi4 jung6 zi1 zyut3 財用之絀) ~~obstructions in the way of trade~~ ``insufficiency of funds``. Williams' \"to baste or sew badly\": This is a misreading of Kangxi ...故作秫絀耳此蓋言其女工箴縷之麤拙也. Here, it is 秫 that supplies the meaning of \"poor\". The character 絀 simply means \"sew\" or \"stitch\". Insufficient."
+"text":"U+7D40 绌 (Mainland simplified) fat1 (per 《正韻牋》曲勿切 for \"bent/withdrawn\" sense) zeot1 (per 《廣韻》竹律切) (F1.86 絀 _Fat_ (fat1)) 嬴絀猶屈伸也 (Page 41 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) Crimson (Kangxi: 絳也) silk; to sew (Kangxi: 紩也); ~~to baste or sew badly;~~ _ying chut_ (jing4 zyut3 嬴絀) to retire and come forth (Kangxi: 猶言屈伸也); unequal; (Page 713 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) This word also means ~~obstructed,~~ bent; withdrawn~~, as money from circulation~~; _ts'oi yung chi chut_ (coi4 jung6 zi1 zyut3 財用之絀) ~~obstructions in the way of trade~~ ``insufficiency of funds``. Williams' \"to baste or sew badly\": This is a misreading of Kangxi ...故作秫絀耳此蓋言其女工箴縷之麤拙也. Here, it is 秫 that supplies the meaning of \"poor\". The character 絀 simply means \"sew\" or \"stitch\". Insufficient."
 }
 },
 "黜":{
@@ -3280,7 +3280,7 @@
 },
 "zik1":{
 "isCanonical":true,
-"text":"U+7E54 zi3 (per Kangxi 職利切 for \"dyed-weaving\" sense) (F1.76 織) 扣結布帛之總名 (Page 13* 織) To weave (Kangxi: 作布帛之總名); woven; _chik u_ (zik1 jyu4 織餘), a thrum left in the web; _ts'uk chik_ (cuk1 zik1 促織) a cricket; _chik ki_ (zik1 gei1 織機), a loom; _chik nu_ (zik1 neoi5-2 織女), the star Wega _α_ in Lyra; _chik po_ (zik1 bou3 織布) to weave cloth. Williams' 織布: Corrected _po_ (bou6) to _po_ (bou3). Dyed woven cloth (Kangxi: 織染絲織之士衣染繒也). 【織-departing】 (tsyiH) (_noun-like_) dyed-weaving 【織-entering】 (tsyik) (_verb-like_) to weave"
+"text":"U+7E54 织 (Mainland simplified) zi3 (per Kangxi 職利切 for \"dyed-weaving\" sense) (F1.76 織) 扣結布帛之總名 (Page 13* 織) To weave (Kangxi: 作布帛之總名); woven; _chik u_ (zik1 jyu4 織餘), a thrum left in the web; _ts'uk chik_ (cuk1 zik1 促織) a cricket; _chik ki_ (zik1 gei1 織機), a loom; _chik nu_ (zik1 neoi5-2 織女), the star Wega _α_ in Lyra; _chik po_ (zik1 bou3 織布) to weave cloth. Williams' 織布: Corrected _po_ (bou6) to _po_ (bou3). Dyed woven cloth (Kangxi: 織染絲織之士衣染繒也). 【織-departing】 (tsyiH) (_noun-like_) dyed-weaving 【織-entering】 (tsyik) (_verb-like_) to weave"
 }
 },
 "翄":{
@@ -3648,19 +3648,19 @@
 "簽":{
 "cim1":{
 "isCanonical":true,
-"text":"U+7C3D (F2.47 簽) 竹簾又簽書 (Page 571 簽) to subscribe, to write one's name (Kangxi: 簽書文字也); a sort of basket (Kangxi: 簽籯籠也); _ts'im tsz'_ (cim1 zi6 簽字) a circular, a subscription paper; _ts'im meng_ (cim1 meng4-2 簽名), to write one's name; _ts'im t'ai_ (cim1 tai4 簽題), to subscribe to; _ts'im kwan_ (cim1 gwaan1 簽關), to join in engaging a teacher;"
+"text":"U+7C3D 签 (Mainland simplified) (F2.47 簽) 竹簾又簽書 (Page 571 簽) to subscribe, to write one's name (Kangxi: 簽書文字也); a sort of basket (Kangxi: 簽籯籠也); _ts'im tsz'_ (cim1 zi6 簽字) a circular, a subscription paper; _ts'im meng_ (cim1 meng4-2 簽名), to write one's name; _ts'im t'ai_ (cim1 tai4 簽題), to subscribe to; _ts'im kwan_ (cim1 gwaan1 簽關), to join in engaging a teacher;"
 }
 },
 "籤":{
 "cim1":{
 "isCanonical":true,
-"text":"U+7C64 簽 (F2.47 籖) 神籤騐也又竹籌 (Page 571 簽; here normalised to 籤) Slips of bamboo written on for lots (...); _ts'im u_ (cim1 jyu5 籤語), to draw lots for a response. (Page 571 ~~韱~~``籤``) Similar to the above (簽); a slip, a lot (Kangxi: 驗也, 竹籤用以卜者); a warrant, a permit, a ticket having the officer's name on it; to probe, to bore through (Kangxi: 一曰...貫也); sharp-pointed (Kangxi: 一曰銳也); _chai ts'im_ (zai3 cim1 掣籤) or _cha ts'im_ (zaa1 cim1 揸籤), to lot out officers to their stations; _ngo ts'im_ (ngou4 cim1 摮籤), to ~~draw~~ ``cast`` lots before idols; _ts'im t'ung_ (cim1 tung4 籤筒), a cup to hold the slips; _ch'ut ts'im_ (ceot1 cim1 出籤), to issue a warrant or permit; _k'au ts'im_ (kau4 cim1 求籤), to divine."
+"text":"U+7C64 簽 签 (Mainland simplified) (F2.47 籖) 神籤騐也又竹籌 (Page 571 簽; here normalised to 籤) Slips of bamboo written on for lots (...); _ts'im u_ (cim1 jyu5 籤語), to draw lots for a response. (Page 571 ~~韱~~``籤``) Similar to the above (簽); a slip, a lot (Kangxi: 驗也, 竹籤用以卜者); a warrant, a permit, a ticket having the officer's name on it; to probe, to bore through (Kangxi: 一曰...貫也); sharp-pointed (Kangxi: 一曰銳也); _chai ts'im_ (zai3 cim1 掣籤) or _cha ts'im_ (zaa1 cim1 揸籤), to lot out officers to their stations; _ngo ts'im_ (ngou4 cim1 摮籤), to ~~draw~~ ``cast`` lots before idols; _ts'im t'ung_ (cim1 tung4 籤筒), a cup to hold the slips; _ch'ut ts'im_ (ceot1 cim1 出籤), to issue a warrant or permit; _k'au ts'im_ (kau4 cim1 求籤), to divine."
 }
 },
 "纖":{
 "cim1":{
 "isCanonical":true,
-"text":"U+7E96 摻 (for \"delicate\" senses) 孅 (for \"delicate\" senses) (F2.47 纖) 細微也 (F2.47 摻) 與纖同又音覽 (Page 572 纖摻) Fine silk (Kangxi: 繒帛之細者謂之纖); small, delicate (Kangxi: 細也, 纖小也, 纖細也), like silken fibres; silk woven with a white woof and black warp (Kangxi: 黑經白緯曰纖); niggardly, stingy (Kangxi: 纖儉嗇也); _ts'im ho_ (cim1 hou4 纖毫), like a fibre, minute; _ts'im ts'im yuk shau_ (cim1 cim1 juk6 sau2 纖纖玉手), a delicate hand; _ts'im iu_ (cim1 jiu1 纖腰), a slender waist, (Page 572 孅; here normalised to 纖) slender, sharp-pointed, acute (Kangxi 孅: 銳細也與纖通); _ts'im yeuk_ (cim1 joek6 纖弱) weak and delicate. 【纖】 (sjem) (_adjective-like_) delicate (_noun-like_) chequered-silk"
+"text":"U+7E96 摻 (for \"delicate\" senses) 孅 (for \"delicate\" senses) 纤 (Mainland simplified) (F2.47 纖) 細微也 (F2.47 摻) 與纖同又音覽 (Page 572 纖摻) Fine silk (Kangxi: 繒帛之細者謂之纖); small, delicate (Kangxi: 細也, 纖小也, 纖細也), like silken fibres; silk woven with a white woof and black warp (Kangxi: 黑經白緯曰纖); niggardly, stingy (Kangxi: 纖儉嗇也); _ts'im ho_ (cim1 hou4 纖毫), like a fibre, minute; _ts'im ts'im yuk shau_ (cim1 cim1 juk6 sau2 纖纖玉手), a delicate hand; _ts'im iu_ (cim1 jiu1 纖腰), a slender waist, (Page 572 孅; here normalised to 纖) slender, sharp-pointed, acute (Kangxi 孅: 銳細也與纖通); _ts'im yeuk_ (cim1 joek6 纖弱) weak and delicate. 【纖】 (sjem) (_adjective-like_) delicate (_noun-like_) chequered-silk"
 }
 },
 "襜":{
@@ -3848,7 +3848,7 @@
 "纏":{
 "cin4":{
 "isCanonical":true,
-"text":"U+7E8F zin6 (alternative per 《廣韻》持碾切) (F1.21 纏) 牽纏 (Page 17* 纏) To wind around (Kangxi: 繞也), to bind up (Kangxi: 約也, 束也), to wrap, to bandage; to entwine, to cling to; to molest, to implicate; to bother; _ch'in keuk_ (cin4 goek3 纏腳) to bandage the feet; _ch'in t'au_ (cin4 tau4 纏頭), to bind the head with a turban; _ch'in shau_ (cin4 sau2 纏手), to prevent doing; _ch'in kan_ (cin4 gan2 纏緊), bind it tight; _ch'in toi_ (cin4 doi6-2 纏袋) a waist bag for money; _ch'in min_ (cin4 min4 纏綿), to think of; _ch'in chu_ (cin4 zyu6 纏住) importunate, to bother; _ch'i ch'in_ (ci1 cin4 癡纏), troublesome, to annoy. Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 纏. Williams' 纏綿: More to be entangled or caught up in. Williams' 癡纏: Corrected _ch'i_ to _ch'i_. Also to be madly in love with. 【纏】 (drjen) (_verb-like_) to twine"
+"text":"U+7E8F 缠 (Mainland simplified) zin6 (alternative per 《廣韻》持碾切) (F1.21 纏) 牽纏 (Page 17* 纏) To wind around (Kangxi: 繞也), to bind up (Kangxi: 約也, 束也), to wrap, to bandage; to entwine, to cling to; to molest, to implicate; to bother; _ch'in keuk_ (cin4 goek3 纏腳) to bandage the feet; _ch'in t'au_ (cin4 tau4 纏頭), to bind the head with a turban; _ch'in shau_ (cin4 sau2 纏手), to prevent doing; _ch'in kan_ (cin4 gan2 纏緊), bind it tight; _ch'in toi_ (cin4 doi6-2 纏袋) a waist bag for money; _ch'in min_ (cin4 min4 纏綿), to think of; _ch'in chu_ (cin4 zyu6 纏住) importunate, to bother; _ch'i ch'in_ (ci1 cin4 癡纏), troublesome, to annoy. Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 纏. Williams' 纏綿: More to be entangled or caught up in. Williams' 癡纏: Corrected _ch'i_ to _ch'i_. Also to be madly in love with. 【纏】 (drjen) (_verb-like_) to twine"
 }
 },
 "躔":{
@@ -4438,7 +4438,7 @@
 "綽":{
 "coek3":{
 "isCanonical":true,
-"text":"U+7DBD (F1.94 綽) 寬也緩也 (Page 33|n76 綽) Large, ample (Kangxi: 緩也, 綽綽寬也, 綽猶多也); ~~slow, leisurely;~~ _ch'euk yeuk_ (coek3 joek3 綽約) delicate, as a girl; _fun ch'euk_ (fun1 coek3 寬綽) broad, liberal; _ch'euk ch'euk yau u_ (coek3 coek3 jau5 jyu4 綽綽有餘), an overplus, more than enough. Williams' \"slow, leisurely\": This is a misreading of Kangxi 緩也. 【綽】 (tsyhak) (_adjective-like_) generous, ample (_adjective-like_) gentle"
+"text":"U+7DBD 绰 (Mainland simplified) (F1.94 綽) 寬也緩也 (Page 33|n76 綽) Large, ample (Kangxi: 緩也, 綽綽寬也, 綽猶多也); ~~slow, leisurely;~~ _ch'euk yeuk_ (coek3 joek3 綽約) delicate, as a girl; _fun ch'euk_ (fun1 coek3 寬綽) broad, liberal; _ch'euk ch'euk yau u_ (coek3 coek3 jau5 jyu4 綽綽有餘), an overplus, more than enough. Williams' \"slow, leisurely\": This is a misreading of Kangxi 緩也. 【綽】 (tsyhak) (_adjective-like_) generous, ample (_adjective-like_) gentle"
 }
 },
 "芍":{
@@ -5754,7 +5754,7 @@
 "紵":{
 "cyu5":{
 "isCanonical":true,
-"text":"U+7D35 苧 (F1.47 紵) 絲屬 (Page 32* 紵) ~~Contracted to ⿰糸⿳宀一 (紵 with the last stroke unwritten), unless it is used for the private name of Hienfung (咸豐).~~ A ~~coarse~~ kind of hemp (Kangxi: ~~檾屬細者爲絟粗者爲紵~~, 紵亦麻也); a ~~coarse~~ covering. Fan Wan entry: Normalised 𮈔 to 絲. Williams' \"coarse\": According to 段玉裁's annotations of 《說文》, 粗者爲紵 should be replaced with 布白而細曰紵. Williams' \"Contracted to ⿰糸⿳宀一 \": Likely a mistake. The personal name of Emperor 咸豐 is 奕詝, not 奕紵. 【紵】 (drjoX) (_noun-like_) ramie"
+"text":"U+7D35 苧 纻 (Mainland simplified) (F1.47 紵) 絲屬 (Page 32* 紵) ~~Contracted to ⿰糸⿳宀一 (紵 with the last stroke unwritten), unless it is used for the private name of Hienfung (咸豐).~~ A ~~coarse~~ kind of hemp (Kangxi: ~~檾屬細者爲絟粗者爲紵~~, 紵亦麻也); a ~~coarse~~ covering. Fan Wan entry: Normalised 𮈔 to 絲. Williams' \"coarse\": According to 段玉裁's annotations of 《說文》, 粗者爲紵 should be replaced with 布白而細曰紵. Williams' \"Contracted to ⿰糸⿳宀一 \": Likely a mistake. The personal name of Emperor 咸豐 is 奕詝, not 奕紵. 【紵】 (drjoX) (_noun-like_) ramie"
 }
 },
 "羜":{
@@ -6792,13 +6792,13 @@
 "紛":{
 "fan1":{
 "isCanonical":true,
-"text":"U+7D1B 分 (for \"confused\" and \"many\" senses) 棼 (for \"confused\" and \"many\" senses) 汾 (for \"confused\" and \"many\" senses) 芬 (for \"confused\" and \"many\" senses) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 紛) A variegated ribbon (Kangxi: 紛如綬有文而狹者也); confused, perplexed (Kangxi: 亂也); raveled; to mix up; many things at once (Kangxi: 紛紛衆也, 紛衆也, 紛紛言其多); hurry, bustle, clamor; _fan lun_ (fan1 lyun6 紛亂) hubbub; _fan fan to sz'_ (fan1 fan1 do1 si6 紛紛多事) distracted by business; _fan fa lau lun_ (fan1 faa1 lau5 lyun6 紛花柳亂) all in disorder; _fan wan_ (fan1 wan4 紛紜), confused. (Page 46 芬; here normalised to 紛) Numerous (Kangxi 芬: 芬謂衆多), (...). Fan Wan entry: Fixed missing strokes in 衆 and 亂. A horse-tail tie (Kangxi: 馬尾韜也). Dispute. To disturb. 【紛】 (phjun) (_adjective-like_) confused (_adjective-like_) numbersome (_noun-like_) lace-ribbon"
+"text":"U+7D1B 分 (for \"confused\" and \"many\" senses) 棼 (for \"confused\" and \"many\" senses) 汾 (for \"confused\" and \"many\" senses) 芬 (for \"confused\" and \"many\" senses) 纷 (Mainland simplified) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 紛) A variegated ribbon (Kangxi: 紛如綬有文而狹者也); confused, perplexed (Kangxi: 亂也); raveled; to mix up; many things at once (Kangxi: 紛紛衆也, 紛衆也, 紛紛言其多); hurry, bustle, clamor; _fan lun_ (fan1 lyun6 紛亂) hubbub; _fan fan to sz'_ (fan1 fan1 do1 si6 紛紛多事) distracted by business; _fan fa lau lun_ (fan1 faa1 lau5 lyun6 紛花柳亂) all in disorder; _fan wan_ (fan1 wan4 紛紜), confused. (Page 46 芬; here normalised to 紛) Numerous (Kangxi 芬: 芬謂衆多), (...). Fan Wan entry: Fixed missing strokes in 衆 and 亂. A horse-tail tie (Kangxi: 馬尾韜也). Dispute. To disturb. 【紛】 (phjun) (_adjective-like_) confused (_adjective-like_) numbersome (_noun-like_) lace-ribbon"
 }
 },
 "纁":{
 "fan1":{
 "isCanonical":true,
-"text":"U+7E81 (F1.80 纁) 淡紅色也 (Page 713 纁) A light red (Kangxi: 淺絳也), produced by a trine immersion in the dye (Kangxi: 三染謂之纁); a scarlet tint. 【纁】 (xjun) (_adjective-like_) light-red, pink"
+"text":"U+7E81 𫄸 (Mainland simplified) (F1.80 纁) 淡紅色也 (Page 713 纁) A light red (Kangxi: 淺絳也), produced by a trine immersion in the dye (Kangxi: 三染謂之纁); a scarlet tint. 【纁】 (xjun) (_adjective-like_) light-red, pink"
 }
 },
 "芬":{
@@ -6880,7 +6880,7 @@
 "糞":{
 "fan3":{
 "isCanonical":true,
-"text":"U+7CDE (F1.85 糞) 糞穢又壅也 (Page 47 糞) Ordure, filth, muck (Kangxi: 穢也), excrement; to manure (Kangxi: 治也培也); _fan hang_ (fan3 haang1 糞坑), a privy; _fan mun_ (fan3 mun4 糞門), the anus; _lok fan_ (lok6 fan3 落糞) to manure; _fan liu_ (fan3 liu6-2 糞料) muck prepared for sale; _fan ti_ (fan3 dei6 糞地) a public necessary. Fan Wan entry: Fixed missing strokes in 穢. To remove, to sweep away (Kangxi: 掃除也, 糞除也). 【糞】 (pjunH) (_noun-like_) manure, muck (_verb-like_) to sweep (away)"
+"text":"U+7CDE 粪 (Mainland simplified) (F1.85 糞) 糞穢又壅也 (Page 47 糞) Ordure, filth, muck (Kangxi: 穢也), excrement; to manure (Kangxi: 治也培也); _fan hang_ (fan3 haang1 糞坑), a privy; _fan mun_ (fan3 mun4 糞門), the anus; _lok fan_ (lok6 fan3 落糞) to manure; _fan liu_ (fan3 liu6-2 糞料) muck prepared for sale; _fan ti_ (fan3 dei6 糞地) a public necessary. Fan Wan entry: Fixed missing strokes in 穢. To remove, to sweep away (Kangxi: 掃除也, 糞除也). 【糞】 (pjunH) (_noun-like_) manure, muck (_verb-like_) to sweep (away)"
 }
 },
 "訓":{
@@ -7112,13 +7112,13 @@
 "紱":{
 "fat1":{
 "isCanonical":true,
-"text":"U+7D31 紼 韍 黻 (F1.86 紱) 綬也 (Page 50 紱) A ribbon to hold a seal (Kangxi: 綬也, 紱或作紼); ~~used for the two preceding (茀, 紼).~~ (Page 50 韍; here normalised to 紱) a string on a seal (Kangxi 韍: 璽之組也). Williams' \"used for the two preceding\": Not the case for 茀, and the other way round for 紼 (i.e. 紼 is used for 紱). 【紱】 (pjut) (_noun-like_) seal-ribbon"
+"text":"U+7D31 紼 韍 黻 绂 (Mainland simplified) (F1.86 紱) 綬也 (Page 50 紱) A ribbon to hold a seal (Kangxi: 綬也, 紱或作紼); ~~used for the two preceding (茀, 紼).~~ (Page 50 韍; here normalised to 紱) a string on a seal (Kangxi 韍: 璽之組也). Williams' \"used for the two preceding\": Not the case for 茀, and the other way round for 紼 (i.e. 紼 is used for 紱). 【紱】 (pjut) (_noun-like_) seal-ribbon"
 }
 },
 "紼":{
 "fat1":{
 "isCanonical":true,
-"text":"U+7D3C 綍 茀 (F1.86 茀) 繫印組也又引柩索 (Page 49 紼) Raveled silk (Kangxi: 亂糸也); a trace to drag a bier (Kangxi: 從前引之曰紼紼發也發車使前); _chap fat_ (zap1 fat1 執紼) to accompany a funeral. Williams' \"Raveled silk\": 《說文》 actually has 亂系也, with 段玉裁's annotations saying this should instead be 亂枲也, \"ravelled hemp\". A rope (Kangxi: 紼繂也, 紼縳也). A coffin-rope (for burial) (Kangxi: 引棺索也). 【紼】 (pjut) (_noun-like_) rope, coffin-rope"
+"text":"U+7D3C 綍 茀 绋 (Mainland simplified) (F1.86 茀) 繫印組也又引柩索 (Page 49 紼) Raveled silk (Kangxi: 亂糸也); a trace to drag a bier (Kangxi: 從前引之曰紼紼發也發車使前); _chap fat_ (zap1 fat1 執紼) to accompany a funeral. Williams' \"Raveled silk\": 《說文》 actually has 亂系也, with 段玉裁's annotations saying this should instead be 亂枲也, \"ravelled hemp\". A rope (Kangxi: 紼繂也, 紼縳也). A coffin-rope (for burial) (Kangxi: 引棺索也). 【紼】 (pjut) (_noun-like_) rope, coffin-rope"
 }
 },
 "綍":{
@@ -7356,7 +7356,7 @@
 "緋":{
 "fei1":{
 "isCanonical":true,
-"text":"U+7DCB fei2 (common in 緋聞) (F1.35 緋) 絳色也一曰赤練 (Page 52 緋) Red or crimson silk (Kangxi: 帛赤色, 絳色又赤練); _fi p'o_ (fei1 pou4 緋袍), carnation robes. Fan Wan entry: Corrected 終 to 絳."
+"text":"U+7DCB 绯 (Mainland simplified) fei2 (common in 緋聞) (F1.35 緋) 絳色也一曰赤練 (Page 52 緋) Red or crimson silk (Kangxi: 帛赤色, 絳色又赤練); _fi p'o_ (fei1 pou4 緋袍), carnation robes. Fan Wan entry: Corrected 終 to 絳."
 }
 },
 "蜚":{
@@ -7756,7 +7756,7 @@
 "紡":{
 "fong2":{
 "isCanonical":true,
-"text":"U+7D21 (F1.99 紡) 紡績 (Page 56 紡) To spin, to twist into thread, to twine (Kangxi: 績紡, 謂紡切麻絲之屬爲纑縷也); lines, threads; _fong tsik_ (fong2 zik1 紡績) to spin; _fong sha_ (fong2 saa1 紡紗), to spin cotton yarn. 【紡】 (phjangX) (_verb-like_) to spin (_noun-like_) spun-silk"
+"text":"U+7D21 纺 (Mainland simplified) (F1.99 紡) 紡績 (Page 56 紡) To spin, to twist into thread, to twine (Kangxi: 績紡, 謂紡切麻絲之屬爲纑縷也); lines, threads; _fong tsik_ (fong2 zik1 紡績) to spin; _fong sha_ (fong2 saa1 紡紗), to spin cotton yarn. 【紡】 (phjangX) (_verb-like_) to spin (_noun-like_) spun-silk"
 }
 },
 "訪":{
@@ -8782,11 +8782,11 @@
 "簀":{
 "zaai3":{
 "isCanonical":true,
-"text":"U+7C00 (Page 12|n55 簀) Read _chai_ (zaai3); a strainer for spirits (Kangxi: 壓酒具)."
+"text":"U+7C00 箦 (Mainland simplified) (Page 12|n55 簀) Read _chai_ (zaai3); a strainer for spirits (Kangxi: 壓酒具)."
 },
 "zaak3":{
 "isCanonical":true,
-"text":"U+7C00 zak1 (per Fan Wan) (F2.32 簀 _Chak_ (zak1)) ？？也 (Page 12|n55 簀 _Chak_ (zak1); here normalised to _Chak_ (zaak3)) Boards of a bed (Kangxi: 牀棧也); a bed mat (Kangxi: 簀謂之笫); to collect (Kangxi: 積聚也); luxuriant (Kangxi: 簀積也言茂盛似如積聚). Fan Wan entry: The first two characters of the explanation are incomprehensible. The first, ⿱𥫗章, does not exist. The second is illegible, but appears like a deformed version of 䓂. 【簀】 (tsreak) (_noun-like_) bed-mat, (_met._) dense-padding"
+"text":"U+7C00 箦 (Mainland simplified) zak1 (per Fan Wan) (F2.32 簀 _Chak_ (zak1)) ？？也 (Page 12|n55 簀 _Chak_ (zak1); here normalised to _Chak_ (zaak3)) Boards of a bed (Kangxi: 牀棧也); a bed mat (Kangxi: 簀謂之笫); to collect (Kangxi: 積聚也); luxuriant (Kangxi: 簀積也言茂盛似如積聚). Fan Wan entry: The first two characters of the explanation are incomprehensible. The first, ⿱𥫗章, does not exist. The second is illegible, but appears like a deformed version of 䓂. 【簀】 (tsreak) (_noun-like_) bed-mat, (_met._) dense-padding"
 },
 "zak1":{
 "isCanonical":false,
@@ -9168,7 +9168,7 @@
 "綻":{
 "zaan6":{
 "isCanonical":true,
-"text":"U+7DBB (F2.71 綻) 衣縫裂也事不完全曰破綻 (Page 19|n62 綻) A rent seam (Kangxi: 衣縫); to rip, to tear, to rend (Kangxi: 綻猶解也); a hint, inkling; _p'o chan_ (po3 zaan6 破綻) the affair is known, to hint a matter; _ta tak p'i hoi yuk chan_ (daa2 dak1 pei4 hoi1 juk6 zaan6 打得皮開肉綻) beaten till the flesh was laid bare; _chan lit_ (zaan6 lit6 綻裂) rip the seams. To blossom. 綻放 (zaan6 fong3): \"To blossom.\" 【綻】 (dreanH) (_adjective-like_) rent"
+"text":"U+7DBB 绽 (Mainland simplified) (F2.71 綻) 衣縫裂也事不完全曰破綻 (Page 19|n62 綻) A rent seam (Kangxi: 衣縫); to rip, to tear, to rend (Kangxi: 綻猶解也); a hint, inkling; _p'o chan_ (po3 zaan6 破綻) the affair is known, to hint a matter; _ta tak p'i hoi yuk chan_ (daa2 dak1 pei4 hoi1 juk6 zaan6 打得皮開肉綻) beaten till the flesh was laid bare; _chan lit_ (zaan6 lit6 綻裂) rip the seams. To blossom. 綻放 (zaan6 fong3): \"To blossom.\" 【綻】 (dreanH) (_adjective-like_) rent"
 }
 },
 "虥":{
@@ -9944,7 +9944,7 @@
 "繒":{
 "zang1":{
 "isCanonical":true,
-"text":"U+7E52 cang4 (per 《廣韻》疾陵切) (F2.29 繒) 魚網 (F2.29 罾) 同上 (Page 556 繒) A general name for common silken fabrics, as pongee, sarsnet, lutestring (Kangxi: 帛也). The reading _tsang_ (zang1) is not unattested; 《集韻》 has the reading 咨騰切, explained 帛也. Fan Wan erroneously has 繒 explained 魚網 (綱 corrected to 網), and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below) explained 同上, here normalised to 罾. 【繒】 (dzing) (_noun-like_) silk"
+"text":"U+7E52 缯 (Mainland simplified) cang4 (per 《廣韻》疾陵切) (F2.29 繒) 魚網 (F2.29 罾) 同上 (Page 556 繒) A general name for common silken fabrics, as pongee, sarsnet, lutestring (Kangxi: 帛也). The reading _tsang_ (zang1) is not unattested; 《集韻》 has the reading 咨騰切, explained 帛也. Fan Wan erroneously has 繒 explained 魚網 (綱 corrected to 網), and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below) explained 同上, here normalised to 罾. 【繒】 (dzing) (_noun-like_) silk"
 }
 },
 "罾":{
@@ -9990,7 +9990,7 @@
 "縶":{
 "zap1":{
 "isCanonical":true,
-"text":"U+7E36 (F2.39 縶) 羈係也絆馬足曰縶 (F2.39 ？) 同上 (Page 22|n65 縶) To fetter a horse (Kangxi: 縶絆也) or cow ``with rope``; ~~fetters, shackles;~~ to bind, to secure (Kangxi: 相縶也連也); a cord (Kangxi: 縷也). Fan Wan entry: Corrected 紏 to 絆. The variant entry is 馬 with 山 replacing 灬. 【縶】 (trip) (_verb-like_) to tether"
+"text":"U+7E36 絷 (Mainland simplified) (F2.39 縶) 羈係也絆馬足曰縶 (F2.39 ？) 同上 (Page 22|n65 縶) To fetter a horse (Kangxi: 縶絆也) or cow ``with rope``; ~~fetters, shackles;~~ to bind, to secure (Kangxi: 相縶也連也); a cord (Kangxi: 縷也). Fan Wan entry: Corrected 紏 to 絆. The variant entry is 馬 with 山 replacing 灬. 【縶】 (trip) (_verb-like_) to tether"
 }
 },
 "蓻":{
@@ -10354,7 +10354,7 @@
 "縐":{
 "zau3":{
 "isCanonical":true,
-"text":"U+7E10 (F1.55 縐) 縮而不光曰縐 (Page 561 縐) Crape (Kangxi: 絺之細者); rumpled, crenulated, crinkled, crisp, frizzled; to corrugate, to wrinkle; _tsau sha_ (zau3 saa1 縐紗), crape; _sin tsau_ (sin3 zau3 線縐) camlet; _tsau mai_ (zau3 maai4 縐埋), puckered, shriveled up, wrinkled; _tsau ch'au_ (zau3 cau4 縐綢), wrinkled silk; _tsau sha t'o_ (zau3 saa1 tou5 縐紗肚), a capacious paunch; _u tsau_ (wu4 zau3 湖縐) Nanking crape; _tsau man_ (zau3 man4 縐紋), marks of wrinkles. Strictly, the pre-merger reading should be _chau_ per 《廣韻》側救切. 【縐】 (tsrjuwH) (_noun-like_) wrinkled-cloth, fine-cloth"
+"text":"U+7E10 绉 (Mainland simplified) (F1.55 縐) 縮而不光曰縐 (Page 561 縐) Crape (Kangxi: 絺之細者); rumpled, crenulated, crinkled, crisp, frizzled; to corrugate, to wrinkle; _tsau sha_ (zau3 saa1 縐紗), crape; _sin tsau_ (sin3 zau3 線縐) camlet; _tsau mai_ (zau3 maai4 縐埋), puckered, shriveled up, wrinkled; _tsau ch'au_ (zau3 cau4 縐綢), wrinkled silk; _tsau sha t'o_ (zau3 saa1 tou5 縐紗肚), a capacious paunch; _u tsau_ (wu4 zau3 湖縐) Nanking crape; _tsau man_ (zau3 man4 縐紋), marks of wrinkles. Strictly, the pre-merger reading should be _chau_ per 《廣韻》側救切. 【縐】 (tsrjuwH) (_noun-like_) wrinkled-cloth, fine-cloth"
 }
 },
 "冑":{
@@ -10396,7 +10396,7 @@
 "紂":{
 "zau6":{
 "isCanonical":true,
-"text":"U+7D02 (F1.55 紂) 商王之號 (Page 26|n69 紂) A crupper (Kangxi: 馬緧也); a silk trace; _Chau wong_ (zau6 wong4 紂王), the infamous king who ended the Shang (商) dynasty (Kangxi: 帝辛天下謂之紂). Williams' \"ended\": Not the best wording. He was the final king of that dynasty; he did not bring that dynasty to an end (unless you count his committing suicide, which would be semantics). 【紂】 (drjuwX) (_noun-like_) crupper"
+"text":"U+7D02 纣 (Mainland simplified) (F1.55 紂) 商王之號 (Page 26|n69 紂) A crupper (Kangxi: 馬緧也); a silk trace; _Chau wong_ (zau6 wong4 紂王), the infamous king who ended the Shang (商) dynasty (Kangxi: 帝辛天下謂之紂). Williams' \"ended\": Not the best wording. He was the final king of that dynasty; he did not bring that dynasty to an end (unless you count his committing suicide, which would be semantics). 【紂】 (drjuwX) (_noun-like_) crupper"
 }
 },
 "胄":{
@@ -10860,7 +10860,7 @@
 "綴":{
 "zeoi3":{
 "isCanonical":true,
-"text":"U+7DB4 zeoi6 (per Fan Wan, common) zyut3 (per 《廣韻》陟劣切 for \"stitch/connect\" senses and common in 點綴) zyut6 (common in 點綴) (F2.24 綴 _Chut_ (zyut3)) 聯也又舞列也又止也禮記綴兆舒疾樂之文也 (F2.57 綴 _Chui_ (zeoi6)) 冠系又聯也 (Page 34* 綴 _Chui_ (zeoi6); here normalised to _Chui_ (zeoi3)) Connected (Kangxi: 連也, 緝也); to carry on (Kangxi: 綴言不絕也); to sew together (Kangxi: 綴猶結也); mixed, variegated (Kangxi: 綴雜彩有文之具); to oversee royal robes (Kangxi: 掌衣服 etc.). (Page 42 綴 _Chut_ (zyut3); here normalised to _Chui_ (zeoi3)) To connect, to join; ~~a band of posture-makers.~~ Williams' \"a band of posture-makers\": This is perhaps a rendering of Fan Wan 舞列也, or of Kangxi 綴表也所以表行列也, the latter of which is (not particularly helpful) commentary for 《禮樂記》行其綴兆. Undeviating (Kangxi: 不乖離之貌). 【綴】 (trjwet, trjwejH) (_verb-like_) to stitch (together), to connect"
+"text":"U+7DB4 缀 (Mainland simplified) zeoi6 (per Fan Wan, common) zyut3 (per 《廣韻》陟劣切 for \"stitch/connect\" senses and common in 點綴) zyut6 (common in 點綴) (F2.24 綴 _Chut_ (zyut3)) 聯也又舞列也又止也禮記綴兆舒疾樂之文也 (F2.57 綴 _Chui_ (zeoi6)) 冠系又聯也 (Page 34* 綴 _Chui_ (zeoi6); here normalised to _Chui_ (zeoi3)) Connected (Kangxi: 連也, 緝也); to carry on (Kangxi: 綴言不絕也); to sew together (Kangxi: 綴猶結也); mixed, variegated (Kangxi: 綴雜彩有文之具); to oversee royal robes (Kangxi: 掌衣服 etc.). (Page 42 綴 _Chut_ (zyut3); here normalised to _Chui_ (zeoi3)) To connect, to join; ~~a band of posture-makers.~~ Williams' \"a band of posture-makers\": This is perhaps a rendering of Fan Wan 舞列也, or of Kangxi 綴表也所以表行列也, the latter of which is (not particularly helpful) commentary for 《禮樂記》行其綴兆. Undeviating (Kangxi: 不乖離之貌). 【綴】 (trjwet, trjwejH) (_verb-like_) to stitch (together), to connect"
 },
 "zeoi6":{
 "isCanonical":false,
@@ -10868,7 +10868,7 @@
 },
 "zyut3":{
 "isCanonical":true,
-"text":"U+7DB4 (F2.24 綴) 聯也又舞列也又止也禮記綴兆舒疾樂之文也 (F2.57 綴 _Chui_ (zeoi6)) 冠系又聯也 (Page 42 綴) to stop (Kangxi: 綴猶止也); To bind (Kangxi: 綴猶拘也)."
+"text":"U+7DB4 缀 (Mainland simplified) (F2.24 綴) 聯也又舞列也又止也禮記綴兆舒疾樂之文也 (F2.57 綴 _Chui_ (zeoi6)) 冠系又聯也 (Page 42 綴) to stop (Kangxi: 綴猶止也); To bind (Kangxi: 綴猶拘也)."
 },
 "zyut6":{
 "isCanonical":false,
@@ -10924,7 +10924,7 @@
 "縋":{
 "zeoi6":{
 "isCanonical":true,
-"text":"U+7E0B (F2.57 縋) 以繩懸物而垂下曰縋 (Page 33* 縋) A rope (Kangxi: 縋繩索也); to let down by a cord (Kangxi: 以繩有所懸也); _chui lok_ (zeoi6 lok6 縋落) to let down, as into a well, or over a wall; _chui un_ (zeoi6 jyun4 縋鉛), lead put in sycee. 【縋】 (drjweH) (_noun-like_) (hung) cord (_verb-like_) to hang cord"
+"text":"U+7E0B 缒 (Mainland simplified) (F2.57 縋) 以繩懸物而垂下曰縋 (Page 33* 縋) A rope (Kangxi: 縋繩索也); to let down by a cord (Kangxi: 以繩有所懸也); _chui lok_ (zeoi6 lok6 縋落) to let down, as into a well, or over a wall; _chui un_ (zeoi6 jyun4 縋鉛), lead put in sycee. 【縋】 (drjweH) (_noun-like_) (hung) cord (_verb-like_) to hang cord"
 }
 },
 "罪":{
@@ -11202,7 +11202,7 @@
 "縉":{
 "zeon3":{
 "isCanonical":true,
-"text":"U+7E09 May appear as either ⿰糹晉 (assumed here) or ⿰糹晋, depending on the font. (F2.54 縉) 居官曰縉紳插笏于大帶之間曰縉 (F2.54 搢) 同上 (Page 602 縉) Carnation colored silk (Kangxi: 帛赤色), a light red (Kangxi: 縉淺赤色也);"
+"text":"U+7E09 May appear as either ⿰糹晉 (assumed here) or ⿰糹晋, depending on the font. 缙 (Mainland simplified) (F2.54 縉) 居官曰縉紳插笏于大帶之間曰縉 (F2.54 搢) 同上 (Page 602 縉) Carnation colored silk (Kangxi: 帛赤色), a light red (Kangxi: 縉淺赤色也);"
 }
 },
 "進":{
@@ -11370,7 +11370,7 @@
 "緇":{
 "zi1":{
 "isCanonical":true,
-"text":"U+7DC7 May appear as either ⿰糹甾 (+8 assumed here) or ⿰糹⿱⿻巛一田 (+9), depending on the font. (Page 611 緇) Dark colored silk (Kangxi: 帛黑色, 緇謂之皁), dyed many times (Kangxi: 七入爲緇, 緅又復再染以黑乃成緇矣); the dark color of a sediment (Kangxi: 緇滓也泥緇黑色者曰滓此色然也); black (Kangxi: 緇黑色); _tsz' i_ (zi1 ji1 緇衣), black garments. Strictly, the pre-merger reading should be _chi_ per 《廣韻》側持切. Fan Wan entry: The headword 緇 is a misprint of 輜. 【緇】 (tsri) (_noun-like_) black-silk (_adjective-like_) black"
+"text":"U+7DC7 May appear as either ⿰糹甾 (+8 assumed here) or ⿰糹⿱⿻巛一田 (+9), depending on the font. 缁 (Mainland simplified) (Page 611 緇) Dark colored silk (Kangxi: 帛黑色, 緇謂之皁), dyed many times (Kangxi: 七入爲緇, 緅又復再染以黑乃成緇矣); the dark color of a sediment (Kangxi: 緇滓也泥緇黑色者曰滓此色然也); black (Kangxi: 緇黑色); _tsz' i_ (zi1 ji1 緇衣), black garments. Strictly, the pre-merger reading should be _chi_ per 《廣韻》側持切. Fan Wan entry: The headword 緇 is a misprint of 輜. 【緇】 (tsri) (_noun-like_) black-silk (_adjective-like_) black"
 }
 },
 "肢":{
@@ -11604,7 +11604,7 @@
 "紙":{
 "zi2":{
 "isCanonical":true,
-"text":"U+7D19 帋 (F1.39 紙) 字紙 (F1.39 帋) 帋帛 (Page 39|n82 帋紙) Paper (Kangxi: 絮一苫也 etc.); a document; _yat cheung chi_ (jat1 zoeng1 zi2 一張紙), a sheet of paper; _sha chi_ (saa1 zi2 紗紙), wrapping paper; _ts'o chi_ (cou2 zi2 草紙), coarse paper; _chi mui_ (zi2 mui4 紙煤), a paper match; _chi t'ung fa_ (zi2 tung1 faa1 紙蓪花), artificial flowers; _chi p'ai_ (zi2 paai4-2 紙牌), cards; _chi pak_ (zi2 baak6 紙帛) paper houses and clothes burned in sacrifices; _king un chi_ (ging1 jyun6 zi2 ？？紙), cotton paper; _kai p'i chi_ (gai1 pei4 zi2 雞皮紙), brown wrapping paper; _chi ts'in_ (zi2 cin4 紙錢), scolloped pieces of paper used at funerals to buy the road; _fan chi_ (faan4 zi2 幡紙), sized paper; _lang kam tsin chi_ (laang5 gam1 zin1 zi2 冷金箋紙), gold dusted paper; _king sik tsz' chi_ (ging3 sik1 zi6 zi2 敬惜字紙), respect written paper; _yat chi shu_ (jat1 zi2 syu1 一紙書), one letter; _fong chi iu_ (fong3 zi2 jiu4-2 放紙鷂), to fly a kite; _ta shiu chi_ (daa2 siu1 zi2 打燒紙), to torture in prison; _ch'an chi_ (can3 zi2 襯紙), a fly leaf. Fan Wan entry: Corrected headword ⿰糸氐 to 紙. Williams' 草紙: Also dated for toilet paper. 【紙】 (tsyeX) (_noun-like_) paper 【花紙】 (faa1 zi2) Gift wrapping paper. 【膠紙】 (gaau1 zi2) Sticky tape. 【雞皮紙】 (gai1 pei4 zi2) Kraft paper."
+"text":"U+7D19 帋 纸 (Mainland simplified) (F1.39 紙) 字紙 (F1.39 帋) 帋帛 (Page 39|n82 帋紙) Paper (Kangxi: 絮一苫也 etc.); a document; _yat cheung chi_ (jat1 zoeng1 zi2 一張紙), a sheet of paper; _sha chi_ (saa1 zi2 紗紙), wrapping paper; _ts'o chi_ (cou2 zi2 草紙), coarse paper; _chi mui_ (zi2 mui4 紙煤), a paper match; _chi t'ung fa_ (zi2 tung1 faa1 紙蓪花), artificial flowers; _chi p'ai_ (zi2 paai4-2 紙牌), cards; _chi pak_ (zi2 baak6 紙帛) paper houses and clothes burned in sacrifices; _king un chi_ (ging1 jyun6 zi2 ？？紙), cotton paper; _kai p'i chi_ (gai1 pei4 zi2 雞皮紙), brown wrapping paper; _chi ts'in_ (zi2 cin4 紙錢), scolloped pieces of paper used at funerals to buy the road; _fan chi_ (faan4 zi2 幡紙), sized paper; _lang kam tsin chi_ (laang5 gam1 zin1 zi2 冷金箋紙), gold dusted paper; _king sik tsz' chi_ (ging3 sik1 zi6 zi2 敬惜字紙), respect written paper; _yat chi shu_ (jat1 zi2 syu1 一紙書), one letter; _fong chi iu_ (fong3 zi2 jiu4-2 放紙鷂), to fly a kite; _ta shiu chi_ (daa2 siu1 zi2 打燒紙), to torture in prison; _ch'an chi_ (can3 zi2 襯紙), a fly leaf. Fan Wan entry: Corrected headword ⿰糸氐 to 紙. Williams' 草紙: Also dated for toilet paper. 【紙】 (tsyeX) (_noun-like_) paper 【花紙】 (faa1 zi2) Gift wrapping paper. 【膠紙】 (gaau1 zi2) Sticky tape. 【雞皮紙】 (gai1 pei4 zi2) Kraft paper."
 }
 },
 "紫":{
@@ -11990,7 +11990,7 @@
 "績":{
 "zik1":{
 "isCanonical":true,
-"text":"U+7E3E 勣 (for \"achievement\" and \"merit\" senses) (F1.74 績) 襞績紡績又功績 (Page 569 勣) Interchanged with the next (績) (Kangxi 勣: 通作績). (Page 569 績) To twist hempen threads (Kangxi: 緝也) on the knee; ~~to split hempen fibres;~~ merit by laudable works (Kangxi: 績功也); ~~an affair, a business;~~ to complete, to bring to a conclusion (Kangxi: 事也成也); ~~to join, to piece;~~ _tsik ma_ (zik1 maa4 績麻), to twist hemp; _kung tsik_ (gung1 zik1 功績) works of ~~public~~ merit. Williams' \"public merit\": Public is 公, not 功. An achievement (Kangxi: 績業也). To continue (Kangxi: 績繼也). 【績】 (tsek) (_verb-like_) to twist (thread) (_noun-like_) achievement"
+"text":"U+7E3E 勣 (for \"achievement\" and \"merit\" senses) 绩 (Mainland simplified) (F1.74 績) 襞績紡績又功績 (Page 569 勣) Interchanged with the next (績) (Kangxi 勣: 通作績). (Page 569 績) To twist hempen threads (Kangxi: 緝也) on the knee; ~~to split hempen fibres;~~ merit by laudable works (Kangxi: 績功也); ~~an affair, a business;~~ to complete, to bring to a conclusion (Kangxi: 事也成也); ~~to join, to piece;~~ _tsik ma_ (zik1 maa4 績麻), to twist hemp; _kung tsik_ (gung1 zik1 功績) works of ~~public~~ merit. Williams' \"public merit\": Public is 公, not 功. An achievement (Kangxi: 績業也). To continue (Kangxi: 績繼也). 【績】 (tsek) (_verb-like_) to twist (thread) (_noun-like_) achievement"
 }
 },
 "職":{
@@ -12240,13 +12240,13 @@
 "箋":{
 "zin1":{
 "isCanonical":true,
-"text":"U+7B8B 牋 (F1.20 箋) 簡牒 (Page 573 箋) Tablets or slips on which to make memoranda (Kangxi: 表識書也); a letter, a writing (Kangxi: 書也); note paper with water-line or stamped pictures; writings handed to the monarch; _tsin chi_ (zin1 zi2 箋紙), fancy notepaper; _ts'at hong tsin_ (cat1 hong4 zin1 七行箋), seven lined billet paper; _lap tsin_ (laap6 zin1 蠟箋), glazed billet paper. A commentary at a lower level than a 傳 or 註, used self-deprecatingly (Kangxi: 聖人制作曰經賢者著述曰傳...謙敬不敢言註但表識其不明者耳). 【箋】 (tsen) (_noun-like_) lesser-note"
+"text":"U+7B8B 牋 笺 (Mainland simplified) (F1.20 箋) 簡牒 (Page 573 箋) Tablets or slips on which to make memoranda (Kangxi: 表識書也); a letter, a writing (Kangxi: 書也); note paper with water-line or stamped pictures; writings handed to the monarch; _tsin chi_ (zin1 zi2 箋紙), fancy notepaper; _ts'at hong tsin_ (cat1 hong4 zin1 七行箋), seven lined billet paper; _lap tsin_ (laap6 zin1 蠟箋), glazed billet paper. A commentary at a lower level than a 傳 or 註, used self-deprecatingly (Kangxi: 聖人制作曰經賢者著述曰傳...謙敬不敢言註但表識其不明者耳). 【箋】 (tsen) (_noun-like_) lesser-note"
 }
 },
 "籛":{
 "zin1":{
 "isCanonical":true,
-"text":"U+7C5B (F1.20 籛) 彭祖姓 (Page 573 籛) A man's name, called _Tsin Hang_ (zin1 hang1 籛鏗), or Tsien Hing, who lived in the Shang (商) and Chau (周) dynasties, to the age of 767, ~~and then vanished~~ ``yet waned not`` (Kangxi: 彭祖姓籛名鏗...歷夏殷周年七百六十七歲而不衰). Williams' \"man's name\": Specifically, a surname (Kangxi: 姓也)."
+"text":"U+7C5B 篯 (Mainland simplified) (F1.20 籛) 彭祖姓 (Page 573 籛) A man's name, called _Tsin Hang_ (zin1 hang1 籛鏗), or Tsien Hing, who lived in the Shang (商) and Chau (周) dynasties, to the age of 767, ~~and then vanished~~ ``yet waned not`` (Kangxi: 彭祖姓籛名鏗...歷夏殷周年七百六十七歲而不衰). Williams' \"man's name\": Specifically, a surname (Kangxi: 姓也)."
 }
 },
 "羶":{
@@ -12662,7 +12662,7 @@
 "節":{
 "zit3":{
 "isCanonical":true,
-"text":"U+7BC0 May appear as either ⿱𥫗即 (+7 assumed here) or ⿱𥫗卽 (+9), depending on the font. 卩 㔾 卪 岊 (for mountain-related senses) zit6 (alternative per 《集韻》昨結切 for \"lofty\" sense) (F1.26 節) 制也儉也符節時節 (F1.26 节) 同上 (Page 579 節) The joint of bamboos (Kangxi: 竹節也); a joint, a knot, a node; an article, a verse, a section of a chapter; a limit, a term; a holiday, a festival; a time, a regular interval (Kangxi: 時節); an emergency, the period or manner of doing a thing; economy, temperance, moderation (Kangxi: 止也檢也制也 etc.); chastity, virtue, in widows; to limit a thing, to maintain, to restrain one's passions; ~~to mark~~ ``rhythm or beat``, as ``in`` music; a classifier of joints, limbs, affairs; _tsit yam shik_ (zit3 jam2 sik6 節飲食) temperate in eating; _fan leung tsit_ (fan1 loeng5 zit3 分兩節) do it two ways, pay it at two times; _mo tsit chai_ (mou4 zit3 zai3 無節制) no limits to his outlay, careless; _fu tsit_ (fu4 zit3 符節) tally, passport, credentials (Kangxi: 符節所以示信); _tsit i_ (zit3 ji6 節義) chaste, in not remarrying; _shat tsit_ (sat1 zit3 失節) lost her virtue; _tsit ling_ (zit3 ling6 節令) the 24 solar terms; _tso tsit_ (zou6 zit3 做節) to keep holiday; _pai tsit_ (baai3 zit3 拜節) holiday visits; _hi tsit_ (hei3 zit3 ？節) anger, feeling; _yat tsit sz'_ (jat1 zit3 si6 一節事) an affair; _mai kwan tsit_ (maai5 gwaan1 zit3 買關節) to get degrees by bribery, to bribe; _tsit tsau_ (zit3 zau3 節奏) ~~to mark the time in music~~ ``musical beat``; _to shang chi tsit_ (do1 sang1 zi1 zit3 多生枝節) full of cares and business; _na shi tsit_ (naa5 si4 zit3 那時節) on that occasion; _t'in chung tsit_ (tin1 zung1 zit3 天中節) dragon-boat festival; _shau tsit cheung_ (sau1 zit3 zoeng3 收節賬) to collect bills at four terms; _tsit tsit ko_ (zit3 zit3 gou1 節節高), gradually rising in rank or wealth; _tsit kim_ (zit3 gim6 節儉) frugal, within the limits. Williams' 買關節: Dated. Williams' 節儉: Corrected _kim_ (gim3) to _kim_ (gim6). The reading variation _tsit_ (zit6) is a complicated matter. The rabbit hole goes like this: Kangxi gives the reading 《集韻》昨結切 _tsit_ (zit6) with the example 《詩小雅》節彼南山, but gives no explanation. The entry in 《集韻》 does not have this example, but gives the explanation 山高峻貌 \"lofty\", with the alternative forms 𡵒 and 𡾃. Of these, the form 𡵒 is perhaps a sloppy version of ⿱㔾山, i.e. \"knot\" + \"mountain\". In 《廣韻》 under the reading 昨結切 _tsit_ (zit6) there is the character ⿱⿴㔾丶山. The top component 𭅲 is a stylised 卪, so again we have \"knot\" + \"mountain\". The explanation is 山峯又子結切, i.e. \"mountain summit\" with the alternative reading 子結切 _tsit_ (zit3) (which appears to be a genuine alternative, *not* a cross-reference). Kangxi has neither 𡵒 nor ⿱㔾山 nor 𭅲, but instead has an entry for 岊 (⿱巴山). This seems to be sloppy formatting of the \"knot\" component as 巴 based on the similar shape of the seal character for 卪 \"knot\". *Only* the reading 子結切 _tsit_ (zit3) is given, which makes this entry's citations of 《集韻》 erroneous. In 《說文》 the glyph is \"knot\" + \"mountain\" (从山从卪). So what is the conclusion? Well, it seems like the \"lofty\" sense comes from the notion of being \"crested\", which seems to be the intent behind the glyph being \"mountain knot\". So, in my opinion, we read _tsit_ (zit3) for \"crested\", and either _tsit_ (zit3) or _tsit_ (zit6) for \"lofty\". But it would just be easier if the \"lofty\" sense did not exist. Crested (of a mountain). Lofty (of a mountain). 【節】 (tset) (_noun-like_) joint, node, juncture, (_met._) division (_noun-like_) moral restraint, (_met._) regulation, chastity (_verb-like_) to restrain, (_met._) to regulate (_noun-like_) token (_adjective-like_) (_met._) crested"
+"text":"U+7BC0 May appear as either ⿱𥫗即 (+7 assumed here) or ⿱𥫗卽 (+9), depending on the font. 卩 㔾 卪 岊 (for mountain-related senses) 节 (Mainland simplified) zit6 (alternative per 《集韻》昨結切 for \"lofty\" sense) (F1.26 節) 制也儉也符節時節 (F1.26 节) 同上 (Page 579 節) The joint of bamboos (Kangxi: 竹節也); a joint, a knot, a node; an article, a verse, a section of a chapter; a limit, a term; a holiday, a festival; a time, a regular interval (Kangxi: 時節); an emergency, the period or manner of doing a thing; economy, temperance, moderation (Kangxi: 止也檢也制也 etc.); chastity, virtue, in widows; to limit a thing, to maintain, to restrain one's passions; ~~to mark~~ ``rhythm or beat``, as ``in`` music; a classifier of joints, limbs, affairs; _tsit yam shik_ (zit3 jam2 sik6 節飲食) temperate in eating; _fan leung tsit_ (fan1 loeng5 zit3 分兩節) do it two ways, pay it at two times; _mo tsit chai_ (mou4 zit3 zai3 無節制) no limits to his outlay, careless; _fu tsit_ (fu4 zit3 符節) tally, passport, credentials (Kangxi: 符節所以示信); _tsit i_ (zit3 ji6 節義) chaste, in not remarrying; _shat tsit_ (sat1 zit3 失節) lost her virtue; _tsit ling_ (zit3 ling6 節令) the 24 solar terms; _tso tsit_ (zou6 zit3 做節) to keep holiday; _pai tsit_ (baai3 zit3 拜節) holiday visits; _hi tsit_ (hei3 zit3 ？節) anger, feeling; _yat tsit sz'_ (jat1 zit3 si6 一節事) an affair; _mai kwan tsit_ (maai5 gwaan1 zit3 買關節) to get degrees by bribery, to bribe; _tsit tsau_ (zit3 zau3 節奏) ~~to mark the time in music~~ ``musical beat``; _to shang chi tsit_ (do1 sang1 zi1 zit3 多生枝節) full of cares and business; _na shi tsit_ (naa5 si4 zit3 那時節) on that occasion; _t'in chung tsit_ (tin1 zung1 zit3 天中節) dragon-boat festival; _shau tsit cheung_ (sau1 zit3 zoeng3 收節賬) to collect bills at four terms; _tsit tsit ko_ (zit3 zit3 gou1 節節高), gradually rising in rank or wealth; _tsit kim_ (zit3 gim6 節儉) frugal, within the limits. Williams' 買關節: Dated. Williams' 節儉: Corrected _kim_ (gim3) to _kim_ (gim6). The reading variation _tsit_ (zit6) is a complicated matter. The rabbit hole goes like this: Kangxi gives the reading 《集韻》昨結切 _tsit_ (zit6) with the example 《詩小雅》節彼南山, but gives no explanation. The entry in 《集韻》 does not have this example, but gives the explanation 山高峻貌 \"lofty\", with the alternative forms 𡵒 and 𡾃. Of these, the form 𡵒 is perhaps a sloppy version of ⿱㔾山, i.e. \"knot\" + \"mountain\". In 《廣韻》 under the reading 昨結切 _tsit_ (zit6) there is the character ⿱⿴㔾丶山. The top component 𭅲 is a stylised 卪, so again we have \"knot\" + \"mountain\". The explanation is 山峯又子結切, i.e. \"mountain summit\" with the alternative reading 子結切 _tsit_ (zit3) (which appears to be a genuine alternative, *not* a cross-reference). Kangxi has neither 𡵒 nor ⿱㔾山 nor 𭅲, but instead has an entry for 岊 (⿱巴山). This seems to be sloppy formatting of the \"knot\" component as 巴 based on the similar shape of the seal character for 卪 \"knot\". *Only* the reading 子結切 _tsit_ (zit3) is given, which makes this entry's citations of 《集韻》 erroneous. In 《說文》 the glyph is \"knot\" + \"mountain\" (从山从卪). So what is the conclusion? Well, it seems like the \"lofty\" sense comes from the notion of being \"crested\", which seems to be the intent behind the glyph being \"mountain knot\". So, in my opinion, we read _tsit_ (zit3) for \"crested\", and either _tsit_ (zit3) or _tsit_ (zit6) for \"lofty\". But it would just be easier if the \"lofty\" sense did not exist. Crested (of a mountain). Lofty (of a mountain). 【節】 (tset) (_noun-like_) joint, node, juncture, (_met._) division (_noun-like_) moral restraint, (_met._) regulation, chastity (_verb-like_) to restrain, (_met._) to regulate (_noun-like_) token (_adjective-like_) (_met._) crested"
 }
 },
 "蜇":{
@@ -13410,7 +13410,7 @@
 "組":{
 "zou2":{
 "isCanonical":true,
-"text":"U+7D44 (F2.13 組 _Tsu_) 綬也織也 (Page 584 組) A band, a fillet, a string, a tape, for tying (Kangxi: 綬屬其小者以爲冕纓) ~~the dress or hair~~; ~~a fringe or tuft of silk;~~ _kai tso kwai t'in_ (gaai2 zou2 gwai1 tin4 解組歸田), to untie the cord and go home --- to resign office. Williams' \"the dress or hair\": These are not technically wrong, per Kangxi's examples from 《儀禮士喪禮》 pertaining to tying: 著組繫《註》組繫可爲結也 (in the context of tying an eye-covering/veil) 鬠用組《註》用組組束髮也 (for tying the hair) However, the *main* definition of 組 should not be specific to these applications. The metaphorical sense of \"official\" comes from the use of such ribbon to tie up an official seal (hence Williams' 解組歸田). Woven ribbon (Kangxi: 組織組也). Thin, wide ribbon (Kangxi: 組紃俱爲絛薄闊爲組似繩者爲紃). An official (or his seal). A group, an organisation. To group, to organise. 【組】 (tsuX) (_noun-like_) ribbon, band"
+"text":"U+7D44 组 (Mainland simplified) (F2.13 組 _Tsu_) 綬也織也 (Page 584 組) A band, a fillet, a string, a tape, for tying (Kangxi: 綬屬其小者以爲冕纓) ~~the dress or hair~~; ~~a fringe or tuft of silk;~~ _kai tso kwai t'in_ (gaai2 zou2 gwai1 tin4 解組歸田), to untie the cord and go home --- to resign office. Williams' \"the dress or hair\": These are not technically wrong, per Kangxi's examples from 《儀禮士喪禮》 pertaining to tying: 著組繫《註》組繫可爲結也 (in the context of tying an eye-covering/veil) 鬠用組《註》用組組束髮也 (for tying the hair) However, the *main* definition of 組 should not be specific to these applications. The metaphorical sense of \"official\" comes from the use of such ribbon to tie up an official seal (hence Williams' 解組歸田). Woven ribbon (Kangxi: 組織組也). Thin, wide ribbon (Kangxi: 組紃俱爲絛薄闊爲組似繩者爲紃). An official (or his seal). A group, an organisation. To group, to organise. 【組】 (tsuX) (_noun-like_) ribbon, band"
 }
 },
 "藻":{
@@ -13518,7 +13518,7 @@
 "築":{
 "zuk1":{
 "isCanonical":true,
-"text":"U+7BC9 (F1.63 築) 擣也築室築城 (Page 34* 築) To make adobie walls; to rear, to pile up earth; to build, to erect; _chuk ts'eung_ (zuk1 coeng4 築牆), to build a ~~wal!~~ ``wall``; _chuk ma t'au_ (zuk1 maa5 tau4 築碼頭), to lay a jetty; _chuk ch'eung po_ (zuk1 coeng4 bou2 築場圃), to lay out a kitchen-garden; _chuk t'in ki_ (zuk1 tin4 gei1 築田基), to raise dikes in or between fields. A pestle for pounding earth. To pound with a pestle (Kangxi: 擣也). A residence, a building. 【築】 (trjuwk) (_verb-like_) to pound (_verb-like_) to build"
+"text":"U+7BC9 筑 (Mainland simplified) (F1.63 築) 擣也築室築城 (Page 34* 築) To make adobie walls; to rear, to pile up earth; to build, to erect; _chuk ts'eung_ (zuk1 coeng4 築牆), to build a ~~wal!~~ ``wall``; _chuk ma t'au_ (zuk1 maa5 tau4 築碼頭), to lay a jetty; _chuk ch'eung po_ (zuk1 coeng4 bou2 築場圃), to lay out a kitchen-garden; _chuk t'in ki_ (zuk1 tin4 gei1 築田基), to raise dikes in or between fields. A pestle for pounding earth. To pound with a pestle (Kangxi: 擣也). A residence, a building. 【築】 (trjuwk) (_verb-like_) to pound (_verb-like_) to build"
 }
 },
 "粥":{
@@ -13560,7 +13560,7 @@
 "續":{
 "zuk6":{
 "isCanonical":true,
-"text":"U+7E8C May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠, depending on the font. (F1.66 續) 繼續連續 (Page 599 續) To continue, to join on, to succeed (Kangxi: 繼也); to keep up; tied together, ligatured (Kangxi: 連也); following, continuous, successively; carrying on what another has begun; _tsip tsuk_ (zip3 zuk6 接續) to join on, as a short cord; to take up and carry on; _tsuk ts'u_ (zuk6 ceoi2 續娶) or _tsuk in_ (zuk6 jin4 續弦), to join the guitar string---to ~~take a second wife~~ ``remarry after becoming a widower``; _luk tsuk yau lai_ (luk6 zuk6 jau5 lai4 陸續有嚟), coming one after another; _ch'un tsuk_ (cyun4 zuk6 傳續) to continue a family; _tsuk chu mi tso_ (zuk6 zyu6 mei5 zou6 續住尾做) to work by spells. Williams' 續娶: Changed _ts'u_ (ceoi3) to common reading _ts'u_ (ceoi2). To renew, to extend. To reprise. 【續】 (zjowk) (_verb-like_) to continue, to carry on, (_met._) to join"
+"text":"U+7E8C May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠, depending on the font. 续 (Mainland simplified) (F1.66 續) 繼續連續 (Page 599 續) To continue, to join on, to succeed (Kangxi: 繼也); to keep up; tied together, ligatured (Kangxi: 連也); following, continuous, successively; carrying on what another has begun; _tsip tsuk_ (zip3 zuk6 接續) to join on, as a short cord; to take up and carry on; _tsuk ts'u_ (zuk6 ceoi2 續娶) or _tsuk in_ (zuk6 jin4 續弦), to join the guitar string---to ~~take a second wife~~ ``remarry after becoming a widower``; _luk tsuk yau lai_ (luk6 zuk6 jau5 lai4 陸續有嚟), coming one after another; _ch'un tsuk_ (cyun4 zuk6 傳續) to continue a family; _tsuk chu mi tso_ (zuk6 zyu6 mei5 zou6 續住尾做) to work by spells. Williams' 續娶: Changed _ts'u_ (ceoi3) to common reading _ts'u_ (ceoi2). To renew, to extend. To reprise. 【續】 (zjowk) (_verb-like_) to continue, to carry on, (_met._) to join"
 }
 },
 "蓫":{
@@ -13636,41 +13636,41 @@
 "終":{
 "zung1":{
 "isCanonical":true,
-"text":"U+7D42 (F1.57 終) 末也盡也 (Page 39* 終) The end, the termination, a finis (Kangxi: 極也窮也, 一曰盡也); death; to end, to terminate; to the last; to end one's days; _fun ho pat chung_ (fun1 hou2 bat1 zung1 歡好不終) not again to be on good terms; _chung su_ (zung1 seoi1 終須), must have it, need it; _chung shan_ (zung1 san1 終身), all one's life; _lam chung_ (lam4 zung1 臨終), near death; _chung yat_ (zung1 jat6 終日) the whole day; _shin chung_ (sin6 zung1 善終) a happy death; _chung sing nan koi_ (zung1 sing3 naan4 goi2 終性難改), hard to change one's nature; _chung pat koi kak_ (zung1 bat1 goi2 gaak3 終不改格) never reformed; _ts'ung yat i chung_ (cung4 jat1 ji4 zung1 從一而終), firm to one husband. Williams' \"death\": In classical usage, the death of a superior man as opposed to a little man (Kangxi: 君子曰終小人曰死). Williams' \"to the last\": That is, the whole. Williams' 終不改格: Or 終不改革. A surname (Kangxi: 姓). 【終】 (tsyuwng) (_verb-like_) to end (_adverb-like_) in the end, to the end, ultimately (_determiner-like_) complete, (_met._) all (_determiner-like_) (_met._) both"
+"text":"U+7D42 终 (Mainland simplified) (F1.57 終) 末也盡也 (Page 39* 終) The end, the termination, a finis (Kangxi: 極也窮也, 一曰盡也); death; to end, to terminate; to the last; to end one's days; _fun ho pat chung_ (fun1 hou2 bat1 zung1 歡好不終) not again to be on good terms; _chung su_ (zung1 seoi1 終須), must have it, need it; _chung shan_ (zung1 san1 終身), all one's life; _lam chung_ (lam4 zung1 臨終), near death; _chung yat_ (zung1 jat6 終日) the whole day; _shin chung_ (sin6 zung1 善終) a happy death; _chung sing nan koi_ (zung1 sing3 naan4 goi2 終性難改), hard to change one's nature; _chung pat koi kak_ (zung1 bat1 goi2 gaak3 終不改格) never reformed; _ts'ung yat i chung_ (cung4 jat1 ji4 zung1 從一而終), firm to one husband. Williams' \"death\": In classical usage, the death of a superior man as opposed to a little man (Kangxi: 君子曰終小人曰死). Williams' \"to the last\": That is, the whole. Williams' 終不改格: Or 終不改革. A surname (Kangxi: 姓). 【終】 (tsyuwng) (_verb-like_) to end (_adverb-like_) in the end, to the end, ultimately (_determiner-like_) complete, (_met._) all (_determiner-like_) (_met._) both"
 }
 },
 "綜":{
 "zung1":{
 "isCanonical":true,
-"text":"U+7D9C zung3 (per 《廣韻》子宋切) (F1.57 綜) 理也又治也 (Page 606 綜) to hold the reins of authority (Fan Wan: 理也又治也). Fan Wan entry: Fixed missing dot in 治. Williams' \"to hold the reins of authority\": That is, to manage or to administer. To collect, to gather, to synthesise (Kangxi: 綜謂總聚). 【綜】 (tsowngH) (_verb-like_) to collect together"
+"text":"U+7D9C 综 (Mainland simplified) zung3 (per 《廣韻》子宋切) (F1.57 綜) 理也又治也 (Page 606 綜) to hold the reins of authority (Fan Wan: 理也又治也). Fan Wan entry: Fixed missing dot in 治. Williams' \"to hold the reins of authority\": That is, to manage or to administer. To collect, to gather, to synthesise (Kangxi: 綜謂總聚). 【綜】 (tsowngH) (_verb-like_) to collect together"
 },
 "zung3":{
 "isCanonical":true,
-"text":"U+7D9C (F1.62 綜) 織機綜線 (Page 606 綜 _Tsung_ (zung1); here corrected to _Tsung_ (zung3)) The harness of a loom (Kangxi: 織縷也 etc.); to work the slaie, and arrange the patterns in weaving; ~~to grasp threads;~~ Williams' \"to grasp threads\": This is a poor rendering of Kangxi 持絲交, which is intended as a noun, \"that which graspeth threads to cross\"."
+"text":"U+7D9C 综 (Mainland simplified) (F1.62 綜) 織機綜線 (Page 606 綜 _Tsung_ (zung1); here corrected to _Tsung_ (zung3)) The harness of a loom (Kangxi: 織縷也 etc.); to work the slaie, and arrange the patterns in weaving; ~~to grasp threads;~~ Williams' \"to grasp threads\": This is a poor rendering of Kangxi 持絲交, which is intended as a noun, \"that which graspeth threads to cross\"."
 }
 },
 "縱":{
 "zung1":{
 "isCanonical":true,
-"text":"U+7E31 從 (F1.57 縱) 縱橫 (Page 606 縱) Perpendicularly, downward (Kangxi: 縱橫也, 或作從); a meridian line (Kangxi: 東西曰衡南北曰從); _tsung wang_ (zung1 waang4 縱橫), crosswise, up and across; versatile, pettish, cross-grained. 【從-vertical】 (tsjowng) (_adjective-like_) vertical, (_met._) meridian"
+"text":"U+7E31 從 纵 (Mainland simplified) (F1.57 縱) 縱橫 (Page 606 縱) Perpendicularly, downward (Kangxi: 縱橫也, 或作從); a meridian line (Kangxi: 東西曰衡南北曰從); _tsung wang_ (zung1 waang4 縱橫), crosswise, up and across; versatile, pettish, cross-grained. 【從-vertical】 (tsjowng) (_adjective-like_) vertical, (_met._) meridian"
 },
 "zung2":{
 "isCanonical":true,
-"text":"U+7E31 Used in 縱縱 (hurried) (Kangxi: 讀如總領之總急遽趨事貌). 【縱-rising】 (tsuwngX) (_adjective-like_) hurried"
+"text":"U+7E31 纵 (Mainland simplified) Used in 縱縱 (hurried) (Kangxi: 讀如總領之總急遽趨事貌). 【縱-rising】 (tsuwngX) (_adjective-like_) hurried"
 },
 "zung3":{
 "isCanonical":true,
-"text":"U+7E31 從 (F1.62 縱) 縱肆又故縱 (Page 607 縱) Remiss, careless; ~~extravagant, as in speech;~~ to allow, to wrongfully permit, to connive at; to let things take their course; to indulge in (Kangxi: 緩也, 恣也放也); to let go, as a mouse; although, allowing, perhaps; to shoot an arrow (Kangxi: 發矢曰縱); _tsung yung_ (zung3 jung4 縱容), not to check, unfettered, unrestrained; _ku tsung_ (gu3 zung3 故縱) purposely conniving at; _tsung in kom yeung_ (zung3 jin4 gam2 joeng6-2 縱然噉樣) although it is so; _tsung kwan_ (zung3 gwaan3 縱慣) overindulgence, as by parents; _tsung tai k'u ko tam_ (zung3 daai6 keoi5 go3 daam2 縱大佢個膽), not to restrain. Williams' \"extravagant, as in speech\": This is a misreading of Kangxi 縱言汎說事. Here, 汎說事 means \"generally speaking of matters.\" Williams' \"conniving at\": In the (now) archaic sense of turning a blind eye. Williams' \"to shoot an arrow\": That is, to let it loose. To leap up. 【縱-departig】 (tsjowngH) (_verb-like_) to let loose (_verb-like_) to indulge (_noun-like_) looseness (_conjunction-like_) although"
+"text":"U+7E31 從 纵 (Mainland simplified) (F1.62 縱) 縱肆又故縱 (Page 607 縱) Remiss, careless; ~~extravagant, as in speech;~~ to allow, to wrongfully permit, to connive at; to let things take their course; to indulge in (Kangxi: 緩也, 恣也放也); to let go, as a mouse; although, allowing, perhaps; to shoot an arrow (Kangxi: 發矢曰縱); _tsung yung_ (zung3 jung4 縱容), not to check, unfettered, unrestrained; _ku tsung_ (gu3 zung3 故縱) purposely conniving at; _tsung in kom yeung_ (zung3 jin4 gam2 joeng6-2 縱然噉樣) although it is so; _tsung kwan_ (zung3 gwaan3 縱慣) overindulgence, as by parents; _tsung tai k'u ko tam_ (zung3 daai6 keoi5 go3 daam2 縱大佢個膽), not to restrain. Williams' \"extravagant, as in speech\": This is a misreading of Kangxi 縱言汎說事. Here, 汎說事 means \"generally speaking of matters.\" Williams' \"conniving at\": In the (now) archaic sense of turning a blind eye. Williams' \"to shoot an arrow\": That is, to let it loose. To leap up. 【縱-departig】 (tsjowngH) (_verb-like_) to let loose (_verb-like_) to indulge (_noun-like_) looseness (_conjunction-like_) although"
 }
 },
 "總":{
 "zung1":{
 "isCanonical":true,
-"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 緫 Classifier for silk by a certain thread count (Kangxi: 絲數詩曰素絲五緫). 【總-level】 (tsuwng) (_noun-like_) thread-bundle"
+"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 搃 総 緫 縂 总 (Mainland simplified) Classifier for silk by a certain thread count (Kangxi: 絲數詩曰素絲五緫). 【總-level】 (tsuwng) (_noun-like_) thread-bundle"
 },
 "zung2":{
 "isCanonical":true,
-"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 搃 総 緫 (F1.61 總) 統也括也合也 (F1.61 搃) 同上 (Page 607 總搃) To collect and tie up (Kangxi 總: 聚束也); to unite the whole (Kangxi 總: 合也); to combine or comprehend in one; all, altogether, the whole (Kangxi 總: 皆也); still, nevertheless; a supervisor, one who controls all; a general of generic term; generally; _tsung kung_ (zung2 gung6 總共) or _lung tsung_ (lung5 zung2 攏總), all, the whole; _tsung pat nang ying yat tsz'_ (zung2 bat1 nang4 jing3 jat6 zi2 總不能應日子) he never once came on the promised day; _a tsung_ (aa3 zung2 阿總) or _tsung t'au_ (zung2 tau4-2 總頭), boss, a head workman; _tsung kok_ (zung2 gok3 總角) tufts of hair on young children (Kangxi 總: 總聚其髮以爲兩角); _yat tsung ki to ts'in_ (jat1 zung2 gei2 do1 cin4 一總幾多錢), how many cash for the whole? _tsung iu hu_ (zung2 jiu3 heoi3 總要去) still I must go; _tsung 'm hang_ (zung2 m4 hang2 總唔肯), after all he refused; _tsung lai mai_ (zung2 laai1 maai4 總拉埋), lump or bring them all together; _tsung 'm t'ung_ (zung2 m4 tung4 總唔同) not all the same; _tsung ch'am yam_ (zung2 cam4 jam1 總沉音), not the least answer; _tsung tuk_ (zung2 duk1 總督) a governor-general; _tsung ping_ (zung2 bing1 總兵), a major-general; _ts'in tsung_ (cin1 zung2 千總), a chiliarch, a colonel; _tsung kun_ (zung2 gun2 總管), a general manager or clerk; _tsung ch'e ke ngan_ (zung2 ce2 ge3 ngan4 總扯嘅銀), an average price. Williams' 攏總: Corrected _lung_ (lung2) to _lung_ (lung5). Grain bundles (Kangxi: 禾稾曰總). To lead (Kangxi: 總將領也). To tie, to knot (Kangxi: 總結也). 【總-rising】 (tsuwngX) (_verb-like_) to bundle (together), to aggregate (_noun-like_) grain-bundle (_verb-like_) to take command (of)"
+"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 搃 総 緫 縂 总 (Mainland simplified) (F1.61 總) 統也括也合也 (F1.61 搃) 同上 (Page 607 總搃) To collect and tie up (Kangxi 總: 聚束也); to unite the whole (Kangxi 總: 合也); to combine or comprehend in one; all, altogether, the whole (Kangxi 總: 皆也); still, nevertheless; a supervisor, one who controls all; a general of generic term; generally; _tsung kung_ (zung2 gung6 總共) or _lung tsung_ (lung5 zung2 攏總), all, the whole; _tsung pat nang ying yat tsz'_ (zung2 bat1 nang4 jing3 jat6 zi2 總不能應日子) he never once came on the promised day; _a tsung_ (aa3 zung2 阿總) or _tsung t'au_ (zung2 tau4-2 總頭), boss, a head workman; _tsung kok_ (zung2 gok3 總角) tufts of hair on young children (Kangxi 總: 總聚其髮以爲兩角); _yat tsung ki to ts'in_ (jat1 zung2 gei2 do1 cin4 一總幾多錢), how many cash for the whole? _tsung iu hu_ (zung2 jiu3 heoi3 總要去) still I must go; _tsung 'm hang_ (zung2 m4 hang2 總唔肯), after all he refused; _tsung lai mai_ (zung2 laai1 maai4 總拉埋), lump or bring them all together; _tsung 'm t'ung_ (zung2 m4 tung4 總唔同) not all the same; _tsung ch'am yam_ (zung2 cam4 jam1 總沉音), not the least answer; _tsung tuk_ (zung2 duk1 總督) a governor-general; _tsung ping_ (zung2 bing1 總兵), a major-general; _ts'in tsung_ (cin1 zung2 千總), a chiliarch, a colonel; _tsung kun_ (zung2 gun2 總管), a general manager or clerk; _tsung ch'e ke ngan_ (zung2 ce2 ge3 ngan4 總扯嘅銀), an average price. Williams' 攏總: Corrected _lung_ (lung2) to _lung_ (lung5). Grain bundles (Kangxi: 禾稾曰總). To lead (Kangxi: 總將領也). To tie, to knot (Kangxi: 總結也). 【總-rising】 (tsuwngX) (_verb-like_) to bundle (together), to aggregate (_noun-like_) grain-bundle (_verb-like_) to take command (of)"
 }
 },
 "舂":{
@@ -14108,7 +14108,7 @@
 "纘":{
 "zyun2":{
 "isCanonical":true,
-"text":"U+7E98 繤 纂 纉 (F2.22 纘) 繼也集也 (Page 604 纘) ~~To tie things together;~~ to continue, to carry on (Kangxi: 繼也); to take up where others left off; to imitate, as virtues. Fan Wan entry: The character 繼 is printed poorly. 【纘】 (tswanX) (_verb-like_) to succeed, to continue"
+"text":"U+7E98 繤 纂 纉 缵 (Mainland simplified) (F2.22 纘) 繼也集也 (Page 604 纘) ~~To tie things together;~~ to continue, to carry on (Kangxi: 繼也); to take up where others left off; to imitate, as virtues. Fan Wan entry: The character 繼 is printed poorly. 【纘】 (tswanX) (_verb-like_) to succeed, to continue"
 }
 },
 "轉":{
@@ -14176,7 +14176,7 @@
 "絕":{
 "zyut6":{
 "isCanonical":true,
-"text":"U+7D55 絶 (F2.25 絶) 斷絶滅絶又最也 (Page 609 絕) To interrupt a connection with, to cut off a thread (Kangxi: 斷絲); to interrupt; to sunder, to break off (Kangxi: 斷也), to terminate; to exterminate, to utterly destroy (Kangxi: 滅也); to renounce, to abjure; to cross water (Kangxi: 絕度也, 絕過也); to overpass; ~~shooting athwart, like a meteor;~~ ~~a superlative~~ ``absolutely``, very, extremely, entirely, most; a stanzas of four lines; _shat tsut_ (saat3 zyut6 殺絕) to kill every one; _miu tsut_ (miu6 zyut6 妙絕) superior to all, finest; _tsut shik_ (zyut6 sik1 絕色) exceedingly beautiful; _tsut u_ (zyut6 wu6 絕戶) or _tsut hau_ (zyut6 hau6 絕後) leaving no heir, posterity cut off; _tsut mo ho ch'u_ (zyut6 mou4 hou2 cyu3 絕無好處) no good luck at all; ~~by no means a good place;~~ _tun tsut_ (dyun6 zyut6 斷絕) to stop, as a ration; _tsut lo_ (zyut6 lou6 絕路) the road is stopped; ~~resources are~~ all cut off; _kon to tsut lung ~~ling~~ ``leng``_ (gon2 dou3 zyut6 lung4 leng5 趕到絕龍嶺), I am driven to the edge, reduced to the last extremity; _'ng tsut_ (ng5 zyut6 五絕) a stanzas in pentameters; _ma pat tsut hau_ (maa6 bat1 zyut6 hau2 罵不絕口), he never ceases to rail; _t'in mo tsut yan chi lo_ (tin1 mou4 zyut6 jan4 zi1 lou6 天無絕人之路) heaven never intends to cut off ~~men's resources~~ ``man``; _tsut mai_ (zyut6 maai6 絕賣) a final sale, as land never to be redeemed``.`` Fan Wan entry: Fixed missing strokes in 斷 and 滅. Williams' 趕到絕龍嶺: Changed _ling_ (ling5) to vernacular reading _leng_ (leng5). Williams' 天無絕人之路: Better rendered \"Heaven lays no path that cuts off man\". Desperate, dire, extreme. Remote, isolated. To refuse. 【絕】 (dzjwet) (_verb-like_) to cut (off), to sever, (_met._) to destroy (utterly) (_adjective-like_) extreme, absolute"
+"text":"U+7D55 絶 绝 (Mainland simplified) (F2.25 絶) 斷絶滅絶又最也 (Page 609 絕) To interrupt a connection with, to cut off a thread (Kangxi: 斷絲); to interrupt; to sunder, to break off (Kangxi: 斷也), to terminate; to exterminate, to utterly destroy (Kangxi: 滅也); to renounce, to abjure; to cross water (Kangxi: 絕度也, 絕過也); to overpass; ~~shooting athwart, like a meteor;~~ ~~a superlative~~ ``absolutely``, very, extremely, entirely, most; a stanzas of four lines; _shat tsut_ (saat3 zyut6 殺絕) to kill every one; _miu tsut_ (miu6 zyut6 妙絕) superior to all, finest; _tsut shik_ (zyut6 sik1 絕色) exceedingly beautiful; _tsut u_ (zyut6 wu6 絕戶) or _tsut hau_ (zyut6 hau6 絕後) leaving no heir, posterity cut off; _tsut mo ho ch'u_ (zyut6 mou4 hou2 cyu3 絕無好處) no good luck at all; ~~by no means a good place;~~ _tun tsut_ (dyun6 zyut6 斷絕) to stop, as a ration; _tsut lo_ (zyut6 lou6 絕路) the road is stopped; ~~resources are~~ all cut off; _kon to tsut lung ~~ling~~ ``leng``_ (gon2 dou3 zyut6 lung4 leng5 趕到絕龍嶺), I am driven to the edge, reduced to the last extremity; _'ng tsut_ (ng5 zyut6 五絕) a stanzas in pentameters; _ma pat tsut hau_ (maa6 bat1 zyut6 hau2 罵不絕口), he never ceases to rail; _t'in mo tsut yan chi lo_ (tin1 mou4 zyut6 jan4 zi1 lou6 天無絕人之路) heaven never intends to cut off ~~men's resources~~ ``man``; _tsut mai_ (zyut6 maai6 絕賣) a final sale, as land never to be redeemed``.`` Fan Wan entry: Fixed missing strokes in 斷 and 滅. Williams' 趕到絕龍嶺: Changed _ling_ (ling5) to vernacular reading _leng_ (leng5). Williams' 天無絕人之路: Better rendered \"Heaven lays no path that cuts off man\". Desperate, dire, extreme. Remote, isolated. To refuse. 【絕】 (dzjwet) (_verb-like_) to cut (off), to sever, (_met._) to destroy (utterly) (_adjective-like_) extreme, absolute"
 }
 }
 }

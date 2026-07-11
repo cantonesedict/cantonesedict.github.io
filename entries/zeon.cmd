@@ -1596,6 +1596,10 @@ U
 H
   May appear as either ⿰糹晉 (assumed here) or ⿰糹晋,
   depending on the font.
+A
+  ==
+  - 缙 (Mainland simplified)
+  ==
 F
   ==
   - (F2.54 縉) ::居官曰縉紳插笏[于]大帶之間曰縉::

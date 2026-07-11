@@ -671,6 +671,7 @@ U
 A
   ==
   - $勣1 (for "achievement" and "merit" senses)
+  - 绩 (Mainland simplified)
   ==
 F
   ==
@@ -727,6 +728,10 @@ R
   ⽷ + 12
 U
   U+7E54
+A
+  ==
+  - 织 (Mainland simplified)
+  ==
 V
   ==
   - zi3 (per Kangxi 職利切 for "dyed-weaving" sense)

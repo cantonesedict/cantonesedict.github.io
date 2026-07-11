@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -663,6 +663,7 @@ A
   - $紼1
   - $韍1
   - $黻1
+  - 绂 (Mainland simplified)
   ==
 F
   ==
@@ -709,6 +710,7 @@ A
   ==
   - $綍1
   - $茀1
+  - 绋 (Mainland simplified)
   ==
 F
   ==

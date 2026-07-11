@@ -498,6 +498,10 @@ R
   ⽵ + 10
 U
   U+7BC9
+A
+  ==
+  - 筑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.63 築) 擣也築室築城
@@ -1063,6 +1067,10 @@ U
 H
   May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠,
   depending on the font.
+A
+  ==
+  - 续 (Mainland simplified)
+  ==
 F
   ==
   - (F1.66 續) 繼續連續

@@ -568,6 +568,10 @@ U
 H
   May appear as either ⿰糹眞 or ⿰糹真 (assumed here),
   depending on the font.
+A
+  ==
+  - 缜 (Mainland simplified)
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)

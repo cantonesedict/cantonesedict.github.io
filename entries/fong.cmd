@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-06-19
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1094,6 +1094,10 @@ R
   ⽷ + 4
 U
   U+7D21
+A
+  ==
+  - 纺 (Mainland simplified)
+  ==
 F
   ==
   - (F1.99 紡) 紡績

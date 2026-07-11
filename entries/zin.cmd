@@ -509,6 +509,7 @@ U
 A
   ==
   - $牋1
+  - 笺 (Mainland simplified)
   ==
 F
   ==
@@ -553,6 +554,10 @@ R
   ⽵ + 16
 U
   U+7C5B
+A
+  ==
+  - 篯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.20 籛) 彭祖姓

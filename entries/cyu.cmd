@@ -966,6 +966,7 @@ U
 A
   ==
   - $苧5
+  - 纻 (Mainland simplified)
   ==
 F
   ==

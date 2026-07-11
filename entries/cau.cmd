@@ -631,6 +631,10 @@ R
   ⽷ + 5
 U
   U+7D2C
+A
+  ==
+  - 䌷 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1712,6 +1716,10 @@ R
   ⽵ + 14
 U
   U+7C4C
+A
+  ==
+  - 筹 (Mainland simplified)
+  ==
 V
   ==
   - cau4-2 (vernacular rising-tone noun)
@@ -1816,6 +1824,7 @@ U
 A
   ==
   - $紬4 (for "silk" sense)
+  - 绸 (Mainland simplified)
   ==
 F
   ==

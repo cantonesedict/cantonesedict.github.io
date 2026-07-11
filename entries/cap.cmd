@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -178,6 +178,10 @@ R
   ⽷ + 9
 U
   U+7DDD
+A
+  ==
+  - 缉 (Mainland simplified)
+  ==
 F
   ==
   - (F2.39 緝) 繼續也續也

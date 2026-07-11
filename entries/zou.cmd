@@ -515,6 +515,10 @@ R
   ⽷ + 5
 U
   U+7D44
+A
+  ==
+  - 组 (Mainland simplified)
+  ==
 F
   ==
   - (F2.13 組 _(2)Ts(u/)_) 綬也織也

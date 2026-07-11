@@ -599,6 +599,10 @@ R
   ⽷ + 12
 U
   U+7E52
+A
+  ==
+  - 缯 (Mainland simplified)
+  ==
 V
   ==
   - cang4 (per 《廣韻》疾陵切)

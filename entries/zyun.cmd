@@ -647,6 +647,7 @@ A
   - 繤
   - $纂2
   - 纉
+  - 缵 (Mainland simplified)
   ==
 F
   ==

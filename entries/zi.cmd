@@ -975,6 +975,10 @@ U
 H
   May appear as either ⿰糹甾 (+8 assumed here) or ⿰糹⿱⿻巛一田 (+9),
   depending on the font.
+A
+  ==
+  - 缁 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -3155,6 +3159,7 @@ U
 A
   ==
   - $帋2
+  - 纸 (Mainland simplified)
   ==
 F
   ==

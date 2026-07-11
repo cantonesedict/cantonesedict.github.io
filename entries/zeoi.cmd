@@ -1163,6 +1163,10 @@ R
   ⽷ + 8
 U
   U+7DB4
+A
+  ==
+  - 缀 (Mainland simplified)
+  ==
 V
   ==
   - zeoi6 (per Fan Wan, common)
@@ -1634,6 +1638,10 @@ R
   ⽷ + 10
 U
   U+7E0B
+A
+  ==
+  - 缒 (Mainland simplified)
+  ==
 F
   ==
   - (F2.57 縋) 以繩懸物而垂下曰縋

@@ -307,6 +307,10 @@ R
   ⽷ + 10
 U
   U+7E0A
+A
+  ==
+  - 缢 (Mainland simplified)
+  ==
 V
   ==
   - ngai3 (hypercorrected initial)

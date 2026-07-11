@@ -352,6 +352,10 @@ R
   ⽵ + 11
 U
   U+7C00
+A
+  ==
+  - 箦 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

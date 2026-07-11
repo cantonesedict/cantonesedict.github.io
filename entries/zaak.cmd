@@ -471,6 +471,10 @@ R
   ⽵ + 11
 U
   U+7C00
+A
+  ==
+  - 箦 (Mainland simplified)
+  ==
 V
   ==
   - zak1 (per Fan Wan)

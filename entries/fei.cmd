@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-07-10
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -168,6 +168,10 @@ R
   ⽷ + 8
 U
   U+7DCB
+A
+  ==
+  - 绯 (Mainland simplified)
+  ==
 V
   ==
   - fei2 (common in 緋聞)

@@ -852,6 +852,10 @@ R
   ⽷ + 8
 U
   U+7DBB
+A
+  ==
+  - 绽 (Mainland simplified)
+  ==
 F
   ==
   - (F2.71 綻) 衣縫裂也事不完全曰破綻

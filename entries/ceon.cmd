@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -665,6 +665,10 @@ R
   ⽷ + 3
 U
   U+7D03
+A
+  ==
+  - {𬘓=⿰纟川} (Mainland simplified)
+  ==
 V
   ==
   - seon4 (alternative per 《廣韻》食倫切)

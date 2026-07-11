@@ -980,6 +980,7 @@ A
   - $棼1 (for "confused" and "many" senses)
   - $汾1 (for "confused" and "many" senses)
   - $芬1 (for "confused" and "many" senses)
+  - 纷 (Mainland simplified)
   ==
 F
   ==
@@ -1048,6 +1049,10 @@ R
   ⽷ + 14
 U
   U+7E81
+A
+  ==
+  - {𫄸=⿰纟熏} (Mainland simplified)
+  ==
 F
   ==
   - (F1.80 纁) 淡紅色也
@@ -1672,6 +1677,10 @@ R
   ⽶ + 11
 U
   U+7CDE
+A
+  ==
+  - 粪 (Mainland simplified)
+  ==
 F
   ==
   - (F1.85 糞) ::糞[穢]又壅也::

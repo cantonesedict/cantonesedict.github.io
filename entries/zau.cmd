@@ -1909,6 +1909,10 @@ R
   ⽷ + 10
 U
   U+7E10
+A
+  ==
+  - 绉 (Mainland simplified)
+  ==
 F
   ==
   - (F1.55 縐) 縮而不光曰縐
@@ -2263,6 +2267,10 @@ R
   ⽷ + 3
 U
   U+7D02
+A
+  ==
+  - 纣 (Mainland simplified)
+  ==
 F
   ==
   - (F1.55 紂) 商王之號

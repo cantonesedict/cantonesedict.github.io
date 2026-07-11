@@ -647,6 +647,10 @@ R
   ⽷ + 5
 U
   U+7D42
+A
+  ==
+  - 终 (Mainland simplified)
+  ==
 F
   ==
   - (F1.57 終) 末也盡也
@@ -719,6 +723,10 @@ R
   ⽷ + 8
 U
   U+7D9C
+A
+  ==
+  - 综 (Mainland simplified)
+  ==
 V
   ==
   - zung3 (per 《廣韻》子宋切)
@@ -767,6 +775,7 @@ U
 A
   ==
   - $從1
+  - 纵 (Mainland simplified)
   ==
 F
   ==
@@ -814,7 +823,11 @@ H
   depending on the font.
 A
   ==
+  - 搃
+  - 総
   - 緫
+  - 縂
+  - 总 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -1498,6 +1511,10 @@ R
   ⽷ + 11
 U
   U+7E31
+A
+  ==
+  - 纵 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1535,6 +1552,8 @@ A
   - 搃
   - 総
   - 緫
+  - 縂
+  - 总 (Mainland simplified)
   ==
 F
   ==
@@ -2061,6 +2080,10 @@ R
   ⽷ + 8
 U
   U+7D9C
+A
+  ==
+  - 综 (Mainland simplified)
+  ==
 F
   ==
   - (F1.62 綜) 織機綜線
@@ -2099,6 +2122,7 @@ U
 A
   ==
   - $從3
+  - 纵 (Mainland simplified)
   ==
 F
   ==

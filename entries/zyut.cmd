@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2026-04-23
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -450,6 +450,10 @@ R
   ⽷ + 5
 U
   U+7D40
+A
+  ==
+  - 绌 (Mainland simplified)
+  ==
 V
   ==
   - fat1 (per 《正韻牋》曲勿切 for "bent/withdrawn" sense)
@@ -505,6 +509,10 @@ R
   ⽷ + 8
 U
   U+7DB4
+A
+  ==
+  - 缀 (Mainland simplified)
+  ==
 F
   ==
   - (F2.24 綴) 聯也又舞列也又止也禮記綴兆舒疾樂之文也
@@ -734,6 +742,7 @@ U
 A
   ==
   - 絶
+  - 绝 (Mainland simplified)
   ==
 F
   ==

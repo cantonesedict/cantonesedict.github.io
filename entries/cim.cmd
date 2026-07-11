@@ -397,6 +397,10 @@ R
   ⽵ + 13
 U
   U+7C3D
+A
+  ==
+  - 签 (Mainland simplified)
+  ==
 F
   ==
   - (F2.47 簽) 竹簾又簽書
@@ -438,6 +442,7 @@ U
 A
   ==
   - $簽1
+  - 签 (Mainland simplified)
   ==
 F
   ==
@@ -491,6 +496,7 @@ A
   ==
   - $摻1 (for "delicate" senses)
   - $孅1 (for "delicate" senses)
+  - 纤 (Mainland simplified)
   ==
 F
   ==

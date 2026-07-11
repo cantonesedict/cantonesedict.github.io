@@ -658,6 +658,10 @@ R
   ⽺ + 15
 U
   U+7E8F
+A
+  ==
+  - 缠 (Mainland simplified)
+  ==
 V
   ==
   - zin6 (alternative per 《廣韻》持碾切)
