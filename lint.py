@@ -3521,7 +3521,8 @@ class Linter:
                         )
                     except KeyError:
                         raise LintException(
-                            f'non-existent target for alternative form link `{alternative_form.content}`'
+                            f'non-existent target for alternative form link `{alternative_form.content}` '
+                            f'under `{character_entry}`'
                         )
 
                     if not re.search(
