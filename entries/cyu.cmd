@@ -116,6 +116,7 @@ A
   ==
   - $処2
   - 䖏
+  - 处 (Mainland simplified)
   ==
 V
   ==
@@ -249,6 +250,8 @@ U
 A
   ==
   - $処3
+  - 䖏
+  - 处 (Mainland simplified)
   ==
 V
   ==

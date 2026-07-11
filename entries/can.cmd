@@ -199,6 +199,10 @@ R
   ⾒ + 9
 U
   U+89AA
+A
+  ==
+  - 亲 (Mainland simplified)
+  ==
 F
   ==
   - (F1.81 親) 愛也近也姻也眷也
@@ -811,6 +815,10 @@ R
   ⾐ + 16
 U
   U+896F
+A
+  ==
+  - 衬 (Mainland simplified)
+  ==
 V
   ==
   - can3-2 (rising second in vernacular 襯襯地)
@@ -882,6 +890,10 @@ R
   ⾒ + 9
 U
   U+89AA
+A
+  ==
+  - 亲 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

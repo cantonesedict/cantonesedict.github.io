@@ -2014,7 +2014,7 @@ U
   U+84C6
 A
   ==
-  - $席6 (for "mat" sense)
+  - $席6 (for "mat" sense and Mainland simplified for all senses)
   ==
 V
   ==

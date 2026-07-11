@@ -430,6 +430,10 @@ R
   ⾍ + 13
 U
   U+87F6
+A
+  ==
+  - 蛏 (Mainland simplified)
+  ==
 V
   ==
   - sing3 (common)

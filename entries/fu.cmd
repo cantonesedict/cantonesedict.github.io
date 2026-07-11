@@ -2640,6 +2640,7 @@ A
   ==
   - $絝3
   - $袴3
+  - 裤 (Mainland simplified)
   ==
 F
   ==

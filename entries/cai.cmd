@@ -601,6 +601,10 @@ R
   ⾍ + 14
 U
   U+8810
+A
+  ==
+  - 蛴 (Mainland simplified)
+  ==
 F
   ==
   - (F1.30 蠐) 螬蠐蟲名
@@ -765,6 +769,10 @@ R
   ⾋ + 14
 U
   U+85BA
+A
+  ==
+  - 荠 (Mainland simplified)
+  ==
 F
   ==
   - (F1.31 薺) 甘菜

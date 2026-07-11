@@ -853,6 +853,10 @@ R
   ⾏ + 9
 U
   U+885D
+A
+  ==
+  - 冲 (Mainland simplified)
+  ==
 V
   ==
   - cung3 (possibly from Mandarin-matching for "toward" and "fierce" senses)

@@ -387,6 +387,7 @@ U
 A
   ==
   - $倉1
+  - 苍 (Mainland simplified)
   ==
 F
   ==

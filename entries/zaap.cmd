@@ -464,6 +464,10 @@ R
   ⾐ + 16
 U
   U+8972
+A
+  ==
+  - 袭 (Mainland simplified)
+  ==
 F
   ==
   - (F2.39 襲 _Tsap(9)_ (zap6)) 重衣也因也又潛師揜取曰襲

@@ -431,6 +431,7 @@ U
 A
   ==
   - $復1
+  - 复 (Mainland simplified)
   ==
 V
   ==

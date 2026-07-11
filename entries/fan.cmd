@@ -1140,6 +1140,7 @@ A
   - $焄1
   - $蔒1
   - $薰1
+  - 荤 (Mainland simplified)
   ==
 F
   ==

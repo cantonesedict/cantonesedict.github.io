@@ -1168,6 +1168,7 @@ U
 A
   ==
   - $覰3
+  - 觑 (Mainland simplified)
   ==
 F
   ==

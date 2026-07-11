@@ -554,6 +554,7 @@ A
   - $佔1
   - $占1
   - $沾1
+  - 觇 (Mainland simplified)
   ==
 V
   ==

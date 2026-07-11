@@ -3507,7 +3507,7 @@ class Linter:
                     )
 
                 if linked_tone := alternative_form.linked_tone:
-                    if 'Mainland simplified' in alternative_form.qualifier:
+                    if '(Mainland simplified' in alternative_form.qualifier:
                         raise LintException(
                             f'linked alternative form `{alternative_form.content}` is Mainland simplification '
                             f'under `{character_entry}`'
@@ -3540,7 +3540,7 @@ class Linter:
                     except KeyError:
                         other_character_entry = None
 
-                    if other_character_entry and 'Mainland simplified' not in alternative_form.qualifier:
+                    if other_character_entry and '(Mainland simplified' not in alternative_form.qualifier:
                         raise LintException(
                             f'alternative form `{alternative_form.content}` not linked under `{character_entry}` '
                             f'(suppress with `(Mainland simplified)` if appropriate)'

@@ -668,6 +668,10 @@ R
   ⾋ + 11
 U
   U+8523
+A
+  ==
+  - 蒋 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -702,6 +706,10 @@ R
   ⾍ + 11
 U
   U+87BF
+A
+  ==
+  - 螀 (Mainland simplified)
+  ==
 F
   ==
   - (F1.89 螿) 寒螿虫名
@@ -976,6 +984,10 @@ R
   ⾋ + 11
 U
   U+8523
+A
+  ==
+  - 蒋 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 蔣) 地名周公子封于蔣後遂爲姓

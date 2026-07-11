@@ -1929,6 +1929,10 @@ R
   ⾋ + 8
 U
   U+8407
+A
+  ==
+  - 苌 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 萇) 萇楚今羊桃也
@@ -1962,6 +1966,10 @@ R
   ⾋ + 13
 U
   U+8594
+A
+  ==
+  - 蔷 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 薔) 薔薇花名

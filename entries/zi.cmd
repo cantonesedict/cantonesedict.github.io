@@ -4528,6 +4528,10 @@ R
   ⾓ + 12
 U
   U+89F6
+A
+  ==
+  - 觯 (Mainland simplified)
+  ==
 V
   ==
   - zi1 (alternative per 《廣韻》章移切)
