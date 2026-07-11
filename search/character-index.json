@@ -860,7 +860,7 @@
 },
 "cak1":{
 "isCanonical":true,
-"text":"U+60FB caak1 (longer syllable) (F2.32 惻) 隱傷也痛也 (Page 12|n55 惻) Secret grief, distress (Kangxi: 痛也); to pity, to commisserate, to sympathize; _ch'ak yan chi sam_ (cak1 jan2 zi1 sam1 惻隱之心), kind-hearted, humane. Fan Wan entry: Corrected 𭙡 to 痛. Williams' 惻隱之心: Corrected _yan_ (jan4) to _yan_ (jan2). 【惻】 (tsrhik) (_verb-like_) to compassion"
+"text":"U+60FB 恻 (Mainland simplified) caak1 (longer syllable) (F2.32 惻) 隱傷也痛也 (Page 12|n55 惻) Secret grief, distress (Kangxi: 痛也); to pity, to commisserate, to sympathize; _ch'ak yan chi sam_ (cak1 jan2 zi1 sam1 惻隱之心), kind-hearted, humane. Fan Wan entry: Corrected 𭙡 to 痛. Williams' 惻隱之心: Corrected _yan_ (jan4) to _yan_ (jan2). 【惻】 (tsrhik) (_verb-like_) to compassion"
 }
 },
 "測":{
@@ -962,17 +962,17 @@
 },
 "caam2":{
 "isCanonical":true,
-"text":"U+647B saam2 (per 《廣韻》所斬切) (F2.64 摻) 羅而取之 (Page 554 摻) to take up with the hand (Kangxi: 取也一曰執也). 【摻】 (sreamX) (_verb-like_) to take (hold)"
+"text":"U+647B 撡 掺 (Mainland simplified) saam2 (per 《廣韻》所斬切) (F2.64 摻) 羅而取之 (Page 554 摻) to take up with the hand (Kangxi: 取也一曰執也). 【摻】 (sreamX) (_verb-like_) to take (hold)"
 },
 "cim1":{
 "isCanonical":true,
-"text":"U+647B saam1 (per 《廣韻》所咸切) (F2.47 摻) 與纖同又音覽 (Page 554 摻 _Ts'am_ (caam2); here corrected to _Ts'im_ (cim1)) A delicate hand (Kangxi: 女手貌), a hand with tapering fingers; fine, tapering, small; The reading _ts'im_ (cim1) is not unattested; 《集韻》 has the reading 思廉切, explained 摻摻女好手貌."
+"text":"U+647B 撡 掺 (Mainland simplified) saam1 (per 《廣韻》所咸切) (F2.47 摻) 與纖同又音覽 (Page 554 摻 _Ts'am_ (caam2); here corrected to _Ts'im_ (cim1)) A delicate hand (Kangxi: 女手貌), a hand with tapering fingers; fine, tapering, small; The reading _ts'im_ (cim1) is not unattested; 《集韻》 has the reading 思廉切, explained 摻摻女好手貌."
 }
 },
 "攙":{
 "caam1":{
 "isCanonical":true,
-"text":"U+6519 摻 (for \"support\" and \"mix\" senses) caam4 (per 《廣韻》士咸切 for \"stab\" sense) (Page 16|n59 攙 _Ch'am_ (caam4); here normalised to _Ch'am_ (caam1)) To stab (Kangxi: 刺也); to sustain, to support (Kangxi: 一曰扶也), to lead; to divide with another; _ch'am fan lai t'im_ (caam1 fan6 lai4 tim1 攙分嚟添), make another share for him; _ch'am fu_ (caam1 fu4 攙扶), to uphold. Whilst _ch'am_ (caam4) is attested in Middle Chinese, it is only explained \"stab\" (刺也). Kangxi records the canonical reading 楚銜切 _ch'am_ (caam1), explained both \"stab\" (刺也) and \"arm-support\" (一曰扶也). It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平. To mix, to blend."
+"text":"U+6519 摻 (for \"support\" and \"mix\" senses) 搀 (Mainland simplified) caam4 (per 《廣韻》士咸切 for \"stab\" sense) (Page 16|n59 攙 _Ch'am_ (caam4); here normalised to _Ch'am_ (caam1)) To stab (Kangxi: 刺也); to sustain, to support (Kangxi: 一曰扶也), to lead; to divide with another; _ch'am fan lai t'im_ (caam1 fan6 lai4 tim1 攙分嚟添), make another share for him; _ch'am fu_ (caam1 fu4 攙扶), to uphold. Whilst _ch'am_ (caam4) is attested in Middle Chinese, it is only explained \"stab\" (刺也). Kangxi records the canonical reading 楚銜切 _ch'am_ (caam1), explained both \"stab\" (刺也) and \"arm-support\" (一曰扶也). It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平. To mix, to blend."
 },
 "caam4":{
 "isCanonical":false,
@@ -980,7 +980,7 @@
 },
 "zaam6":{
 "isCanonical":true,
-"text":"U+6519 (Page 16|n59 攙 _Ch'am_ (caam4); here corrected to _Cham_ (zaam6)) to supply a want, to make up (Kangxi: 完補也); to pull out (Kangxi: 一曰旁掣也);"
+"text":"U+6519 搀 (Mainland simplified) (Page 16|n59 攙 _Ch'am_ (caam4); here corrected to _Cham_ (zaam6)) to supply a want, to make up (Kangxi: 完補也); to pull out (Kangxi: 一曰旁掣也);"
 }
 },
 "篸":{
@@ -1006,7 +1006,7 @@
 "慘":{
 "caam2":{
 "isCanonical":true,
-"text":"U+6158 𢡖 (F2.64 𢡖) 酷毒也愁戚也甚也 (F2.64 慘) 同上 (Page 554 慘𢡖) Cruel, hard-hearted, inhuman (Kangxi 慘: 毒也); to be afflicted, injured, wounded in the mind (Kangxi 慘: 痛也); a superlative, applied to sufferings; _pi ts'am_ (bei1 caam2 悲慘), extreme grief; _sheung tak ts'am_ (soeng1 dak1 caam2 傷得慘), horribly wounded; _ts'am huk_ (caam2 huk6 慘酷) unfeeling, callous; _ho ts'am_ (hou2 caam2 好慘), very shocking; _ts'am hak_ (caam2 hak1 慘刻) oppressive, fleecing the people; _ts'am tso wang wo_ (caam2 zou1 waang4 wo6 慘遭橫禍) to meet with cruelty and misfortunes."
+"text":"U+6158 𢡖 惨 (Mainland simplified) (F2.64 𢡖) 酷毒也愁戚也甚也 (F2.64 慘) 同上 (Page 554 慘𢡖) Cruel, hard-hearted, inhuman (Kangxi 慘: 毒也); to be afflicted, injured, wounded in the mind (Kangxi 慘: 痛也); a superlative, applied to sufferings; _pi ts'am_ (bei1 caam2 悲慘), extreme grief; _sheung tak ts'am_ (soeng1 dak1 caam2 傷得慘), horribly wounded; _ts'am huk_ (caam2 huk6 慘酷) unfeeling, callous; _ho ts'am_ (hou2 caam2 好慘), very shocking; _ts'am hak_ (caam2 hak1 慘刻) oppressive, fleecing the people; _ts'am tso wang wo_ (caam2 zou1 waang4 wo6 慘遭橫禍) to meet with cruelty and misfortunes."
 }
 },
 "憯":{
@@ -1030,7 +1030,7 @@
 "懺":{
 "caam3":{
 "isCanonical":true,
-"text":"U+61FA (F2.64 杉) 懺悔自陳其悔也 (Page 16|n59 懺) To repent (Kangxi: 悔也); to confess one's errors; _ch'am fui_ (caam3 fui3 懺悔) to repent."
+"text":"U+61FA 忏 (Mainland simplified) (F2.64 杉) 懺悔自陳其悔也 (Page 16|n59 懺) To repent (Kangxi: 悔也); to confess one's errors; _ch'am fui_ (caam3 fui3 懺悔) to repent."
 }
 },
 "杉":{
@@ -1064,7 +1064,7 @@
 "慚":{
 "caam4":{
 "isCanonical":true,
-"text":"U+615A 慙 (F2.63 慚) 愧也作也 (F2.63 慙) 同上 (Page 554 慚慙) Ashamed, mortified, chopfallen (Kangxi 慙: 媿也); to feel ashamed of, to blush for; to be sensible of one's defects or failure; _sau ts'am_ (sau1 caam4 羞慚), to redden from mortification; _tai in pat ts'am_ (daai6 jin4 bat1 caam4 大言不慚), he does not blush for a lie, he has no modesty; _ts'am tak_ (caam4 dak1 慚德) conscious of one's defects. 【慚】 (dzam) (_adjective-like_) ashamed"
+"text":"U+615A 慙 惭 (Mainland simplified) (F2.63 慚) 愧也作也 (F2.63 慙) 同上 (Page 554 慚慙) Ashamed, mortified, chopfallen (Kangxi 慙: 媿也); to feel ashamed of, to blush for; to be sensible of one's defects or failure; _sau ts'am_ (sau1 caam4 羞慚), to redden from mortification; _tai in pat ts'am_ (daai6 jin4 bat1 caam4 大言不慚), he does not blush for a lie, he has no modesty; _ts'am tak_ (caam4 dak1 慚德) conscious of one's defects. 【慚】 (dzam) (_adjective-like_) ashamed"
 }
 },
 "毚":{
@@ -1212,7 +1212,7 @@
 },
 "zin1":{
 "isCanonical":true,
-"text":"U+6214 caan4 (per 《廣韻》昨干切) (F1.20 戔) 戔戔淺小之貌 (Page 573 戔) Small, narrow, cramped (Kangxi: 戔戔淺小之意); contracted, as one's mind. The reading _tsin_ (zin1) is not unattested; 《集韻》 has the reading 將先切, explained 戔戔猥積皃 (cramped?). The reading _ts'an_ (caan4) is the sole reading that appears in 《廣韻》, explained 傷也 (the sense interchangeable with 殘) and 戔戔束帛皃易曰束帛戔戔 (bundley? in the Classic of Changes). Fan Wan entry: Corrected 少 to 小. 【戔】 (dzan, tsen) (_adjective-like_) slender, cramped"
+"text":"U+6214 戋 (Mainland simplified) caan4 (per 《廣韻》昨干切) (F1.20 戔) 戔戔淺小之貌 (Page 573 戔) Small, narrow, cramped (Kangxi: 戔戔淺小之意); contracted, as one's mind. The reading _tsin_ (zin1) is not unattested; 《集韻》 has the reading 將先切, explained 戔戔猥積皃 (cramped?). The reading _ts'an_ (caan4) is the sole reading that appears in 《廣韻》, explained 傷也 (the sense interchangeable with 殘) and 戔戔束帛皃易曰束帛戔戔 (bundley? in the Classic of Changes). Fan Wan entry: Corrected 少 to 小. 【戔】 (dzan, tsen) (_adjective-like_) slender, cramped"
 }
 },
 "殘":{
@@ -1246,11 +1246,11 @@
 },
 "coeng1":{
 "isCanonical":true,
-"text":"U+6436 槍 (F1.89 搶) 拒也 (Page 567 搶) To defend, to withstand (Kangxi: 拒也); to thrust at (Kangxi: 搶猶刺也); to rush against (Kangxi: 突也); _i t'au ts'eung ti_ (ji5 tau4 coeng1 dei6 以頭搶地) to knock the head against the ground. (Page 567 槍; here normalised to 搶) to ~~bow~~ ``knock`` the head low (Kangxi 槍: 抵也); 【搶】 (tshjang) (_verb-like_) to knock (against)"
+"text":"U+6436 槍 抢 (Mainland simplified) (F1.89 搶) 拒也 (Page 567 搶) To defend, to withstand (Kangxi: 拒也); to thrust at (Kangxi: 搶猶刺也); to rush against (Kangxi: 突也); _i t'au ts'eung ti_ (ji5 tau4 coeng1 dei6 以頭搶地) to knock the head against the ground. (Page 567 槍; here normalised to 搶) to ~~bow~~ ``knock`` the head low (Kangxi 槍: 抵也); 【搶】 (tshjang) (_verb-like_) to knock (against)"
 },
 "coeng2":{
 "isCanonical":true,
-"text":"U+6436 (F1.92 搶) 搶奪 (Page 568 搶) To take, to extort, to force away, to ravish, to snatch (Kangxi: 爭取也); to dispute for, to struggle for; ~~sudden, abrupt, rude;~~ to rob, as bands do; _ts'eung pak ki ku_ (coeng2 baak6 gei2 geoi3 搶白幾句) he denounced him in many phrases; _ts'eung kip_ (coeng2 gip3 搶劫) to take by force; _ts'eung sin hang_ (coeng2 sin1 hang4 搶先行), to thrust one's self forward; _ts'eung p'au t'au_ (coeng2 paau3 tau4 搶炮頭), to struggle for the rocket stick on the 2d of 2d month; _ts'eung tut_ (coeng2 dyut6 搶奪) to snatch; _tun ts'eung_ (dyun3 coeng2 斷搶), to grab at all. ~~Read _ts'ong_ (cong1); to saw (Kangxi: 搶搪鋸也).~~ Williams' \"sudden, abrupt, rude\": This is a misreading of Kangxi 突也. Williams' 搶炮頭: Corrected _p'au_ (pau3) to _p'au_ (paau3). Williams' \"to saw\": This sense should actually be written 槍, as seen under 《集韻》千剛切. Kangxi 搶搪 is a typo for 槍搪."
+"text":"U+6436 抢 (Mainland simplified) (F1.92 搶) 搶奪 (Page 568 搶) To take, to extort, to force away, to ravish, to snatch (Kangxi: 爭取也); to dispute for, to struggle for; ~~sudden, abrupt, rude;~~ to rob, as bands do; _ts'eung pak ki ku_ (coeng2 baak6 gei2 geoi3 搶白幾句) he denounced him in many phrases; _ts'eung kip_ (coeng2 gip3 搶劫) to take by force; _ts'eung sin hang_ (coeng2 sin1 hang4 搶先行), to thrust one's self forward; _ts'eung p'au t'au_ (coeng2 paau3 tau4 搶炮頭), to struggle for the rocket stick on the 2d of 2d month; _ts'eung tut_ (coeng2 dyut6 搶奪) to snatch; _tun ts'eung_ (dyun3 coeng2 斷搶), to grab at all. ~~Read _ts'ong_ (cong1); to saw (Kangxi: 搶搪鋸也).~~ Williams' \"sudden, abrupt, rude\": This is a misreading of Kangxi 突也. Williams' 搶炮頭: Corrected _p'au_ (pau3) to _p'au_ (paau3). Williams' \"to saw\": This sense should actually be written 槍, as seen under 《集韻》千剛切. Kangxi 搶搪 is a typo for 槍搪."
 }
 },
 "撐":{
@@ -4966,11 +4966,11 @@
 "愴":{
 "cong2":{
 "isCanonical":true,
-"text":"U+6134 (F1.98 愴) 悽愴言傷心也 (Page 29* 愴) Used in 愴怳 (disappointed) (Kangxi: 愴怳失意貌)."
+"text":"U+6134 怆 (Mainland simplified) (F1.98 愴) 悽愴言傷心也 (Page 29* 愴) Used in 愴怳 (disappointed) (Kangxi: 愴怳失意貌)."
 },
 "cong3":{
 "isCanonical":true,
-"text":"U+6134 cong2 (per Fan Wan) (F1.98 愴 _Ch'ong_ (cong2)) 悽愴言傷心也 (Page 29* 愴 _Ch'ong_ (cong2); here normalised to _Ch'ong_ (cong3)) Grief (Kangxi: 傷也); _ts'ai ch'ong_ (cai1 cong3 悽愴), sorrow; to pity; _ch'ong ch'ak_ (cong3 cak1 愴惻) a wounded heart, distressed. 【愴】 (tsrhjangH) (_adjective-like_) grieved"
+"text":"U+6134 怆 (Mainland simplified) cong2 (per Fan Wan) (F1.98 愴 _Ch'ong_ (cong2)) 悽愴言傷心也 (Page 29* 愴 _Ch'ong_ (cong2); here normalised to _Ch'ong_ (cong3)) Grief (Kangxi: 傷也); _ts'ai ch'ong_ (cai1 cong3 悽愴), sorrow; to pity; _ch'ong ch'ak_ (cong3 cak1 愴惻) a wounded heart, distressed. 【愴】 (tsrhjangH) (_adjective-like_) grieved"
 }
 },
 "𢠵":{
@@ -5842,7 +5842,7 @@
 },
 "cyun3":{
 "isCanonical":true,
-"text":"U+651B 竄 (for \"tempt\" sense) cyun1 (per Kangxi 七丸切 for \"tempt\" sense) cyun2 (per Fan Wan) (F2.21 攛 _Ch'un_ (cyun2)) 擲也 (Page 38* 竄 _Ch'un_ (cyun2); here normalised to 攛 _Ts'un_ (cyun3)) to seduce, to beguile (Kangxi 竄: 誘人爲惡曰竄俗曰攛掇); (Page 38* 攛 _Ch'un_ (cyun2); here normalised to _Ts'un_ (cyun3)) To fling away (Kangxi 攛: 擲也); to tempt, to seduce to evil (Kangxi 攛: 俗謂誘人爲非曰攛掇); to get one to consent; _~~ch'un~~ ``ts'un`` chut_ (cyun3 zyut3 攛掇) to entice, to inveigle. Fan Wan entry: Corrected malformed headword."
+"text":"U+651B 竄 (for \"tempt\" sense) 撺 (Mainland simplified) cyun1 (per Kangxi 七丸切 for \"tempt\" sense) cyun2 (per Fan Wan) (F2.21 攛 _Ch'un_ (cyun2)) 擲也 (Page 38* 竄 _Ch'un_ (cyun2); here normalised to 攛 _Ts'un_ (cyun3)) to seduce, to beguile (Kangxi 竄: 誘人爲惡曰竄俗曰攛掇); (Page 38* 攛 _Ch'un_ (cyun2); here normalised to _Ts'un_ (cyun3)) To fling away (Kangxi 攛: 擲也); to tempt, to seduce to evil (Kangxi 攛: 俗謂誘人爲非曰攛掇); to get one to consent; _~~ch'un~~ ``ts'un`` chut_ (cyun3 zyut3 攛掇) to entice, to inveigle. Fan Wan entry: Corrected malformed headword."
 }
 },
 "竄":{
@@ -5936,7 +5936,7 @@
 "攢":{
 "cyun4":{
 "isCanonical":true,
-"text":"U+6522 攅 櫕 欑 zaan2 (possibly from Mandarin-matching in 積攢) zyun6 (per 《廣韻》在玩切 for \"gather\" sense) (F2.21 攢) 聚也又攢盒 (Page 605 ~~？~~``攅``; here normalised to 攢) ~~Interchanged with 欑;~~ to collect, to come together, to assemble (Kangxi 攢: 族聚也); to lay a coffin under a shed, and not bury it (Kangxi 攢: 不葬而掩其柩曰攢亦作欑); _ts'un hop_ (cyun4 hap6-2 攢盒) a box with partitions, used for sweetmeats``.`` The reading _ts'un_ (cyun4) is not unattested; 《正韻牋》 has the reading 徂官切, explained 族聚也 etc. The reading _tsan_ (zaan2) is used in 積攢 \"accumulate/save\". Whilst this reading appears in 《集韻》 as 子䍐切, the explanation 折也 is unrelated in meaning. Therefore, I would wager that zaan2 is from analogy with the Mandarin reading zan in 積攢. Williams' \"Interchanged with 欑\": The character 攢 can be written as 欑, but not the other way round."
+"text":"U+6522 攅 櫕 欑 攒 (Mainland simplified) zaan2 (possibly from Mandarin-matching in 積攢) zyun6 (per 《廣韻》在玩切 for \"gather\" sense) (F2.21 攢) 聚也又攢盒 (Page 605 ~~？~~``攅``; here normalised to 攢) ~~Interchanged with 欑;~~ to collect, to come together, to assemble (Kangxi 攢: 族聚也); to lay a coffin under a shed, and not bury it (Kangxi 攢: 不葬而掩其柩曰攢亦作欑); _ts'un hop_ (cyun4 hap6-2 攢盒) a box with partitions, used for sweetmeats``.`` The reading _ts'un_ (cyun4) is not unattested; 《正韻牋》 has the reading 徂官切, explained 族聚也 etc. The reading _tsan_ (zaan2) is used in 積攢 \"accumulate/save\". Whilst this reading appears in 《集韻》 as 子䍐切, the explanation 折也 is unrelated in meaning. Therefore, I would wager that zaan2 is from analogy with the Mandarin reading zan in 積攢. Williams' \"Interchanged with 欑\": The character 攢 can be written as 欑, but not the other way round."
 },
 "zyun1":{
 "isCanonical":false,
@@ -6444,13 +6444,13 @@
 "揮":{
 "fai1":{
 "isCanonical":true,
-"text":"U+63EE (F1.27 揮) 指揮發揮又揮霍 (Page 43 揮) To move, to shake (Kangxi: 振也動也); to be agitated (Kangxi: 奮也); to animate; to sprinkle (Kangxi: 灑也, 揮湔也); to scatter~~, to throw away~~; _fai ch'un_ (fai1 ceon1 揮春), ~~to write~~ new-year's inscriptions; _fai ho_ (fai1 hou4 揮毫), to write; _fai kam u t'o_ (fai1 gam1 jyu4 tou2 揮金如土), to spend money like dirt; _fai fok_ (fai1 fok3 揮霍) extravagant; _chi fai_ (zi2 fai1 指揮), a major in a Manchu corps, to point with the hand; _fai sha_ (fai1 saa2 揮灑), to sprinkle, to spend fast; _fai tsau_ (fai1 zau6 揮袖) written. Also read _wan_ (wan4), in the phrase _wan lun_ (wan4 leon4 揮掄), entire, unbroken (Kangxi: 揮掄全而不破也). Williams' 揮毫: Corrected _ho_ (hou1) to _ho_ (hou4). To direct, to command (Kangxi: 指揮也). To brandish. 【揮】 (xjw+j) (_verb-like_) to shake (_verb-like_) to brandish 【揮春】 (fai1 ceon1) New Year calligraphic banners. 寫揮春 (se2 fai1 ceon1): \"Write New Year banners.\""
+"text":"U+63EE 挥 (Mainland simplified) (F1.27 揮) 指揮發揮又揮霍 (Page 43 揮) To move, to shake (Kangxi: 振也動也); to be agitated (Kangxi: 奮也); to animate; to sprinkle (Kangxi: 灑也, 揮湔也); to scatter~~, to throw away~~; _fai ch'un_ (fai1 ceon1 揮春), ~~to write~~ new-year's inscriptions; _fai ho_ (fai1 hou4 揮毫), to write; _fai kam u t'o_ (fai1 gam1 jyu4 tou2 揮金如土), to spend money like dirt; _fai fok_ (fai1 fok3 揮霍) extravagant; _chi fai_ (zi2 fai1 指揮), a major in a Manchu corps, to point with the hand; _fai sha_ (fai1 saa2 揮灑), to sprinkle, to spend fast; _fai tsau_ (fai1 zau6 揮袖) written. Also read _wan_ (wan4), in the phrase _wan lun_ (wan4 leon4 揮掄), entire, unbroken (Kangxi: 揮掄全而不破也). Williams' 揮毫: Corrected _ho_ (hou1) to _ho_ (hou4). To direct, to command (Kangxi: 指揮也). To brandish. 【揮】 (xjw+j) (_verb-like_) to shake (_verb-like_) to brandish 【揮春】 (fai1 ceon1) New Year calligraphic banners. 寫揮春 (se2 fai1 ceon1): \"Write New Year banners.\""
 }
 },
 "撝":{
 "fai1":{
 "isCanonical":true,
-"text":"U+649D May appear as either ⿰扌為 (+9 assumed here) or ⿰扌爲 (+12), depending on the font. (F1.27 撝) 指也又發撝 (Page 43 撝) To rend open, to tear off (Kangxi: 裂也); to point ~~out~~; humble, unassuming; ~~used for the preceding (翬).~~ Williams' \"humble, unassuming\": Note that Kangxi's example 《易謙爻》撝謙 should *not* be read as defining 撝 as \"humility\" (even though the \"humility\" sense is probably derived from this). To signal, to direct, to command (Kangxi: 一曰手指麾也). 【撝】 (xjwe) (_verb-like_) to signal"
+"text":"U+649D May appear as either ⿰扌為 (+9 assumed here) or ⿰扌爲 (+12), depending on the font. 㧑 (Mainland simplified) (F1.27 撝) 指也又發撝 (Page 43 撝) To rend open, to tear off (Kangxi: 裂也); to point ~~out~~; humble, unassuming; ~~used for the preceding (翬).~~ Williams' \"humble, unassuming\": Note that Kangxi's example 《易謙爻》撝謙 should *not* be read as defining 撝 as \"humility\" (even though the \"humility\" sense is probably derived from this). To signal, to direct, to command (Kangxi: 一曰手指麾也). 【撝】 (xjwe) (_verb-like_) to signal"
 }
 },
 "暉":{
@@ -6986,7 +6986,7 @@
 "憤":{
 "fan5":{
 "isCanonical":true,
-"text":"U+61A4 忿 (for \"anger\" sense) 賁 (F1.83 憤) 心求通而未能也又發憤又怒也 (Page 47 憤) Impatient desire (Kangxi: 懣也), zeal, ardor; anger, violent feeling; _fat fan_ (faat3 fan5 發憤), excited, zealous after; _fan lik_ (fan5 lik6 憤力) to put forth one's energies; ~~_fan kit_ (fan5 git3)~~ ``_fan lit_ (fan5 lit6 憤烈)`` wrought up by passion. (Page 713 憤) Under this character, for _fan kit_ (fan5 git3) read _fan lit_ (fan5 lit6 憤烈). See commentary at 忿 on the distinction from 憤. Fan Wan entry: Fixed missing stroke in 通. Williams' 發憤, 憤力: These are effectively alternative forms of 發奮, 奮力. 【憤】 (bjunX) (_adjective-like_) disgruntled"
+"text":"U+61A4 忿 (for \"anger\" sense) 賁 愤 (Mainland simplified) (F1.83 憤) 心求通而未能也又發憤又怒也 (Page 47 憤) Impatient desire (Kangxi: 懣也), zeal, ardor; anger, violent feeling; _fat fan_ (faat3 fan5 發憤), excited, zealous after; _fan lik_ (fan5 lik6 憤力) to put forth one's energies; ~~_fan kit_ (fan5 git3)~~ ``_fan lit_ (fan5 lit6 憤烈)`` wrought up by passion. (Page 713 憤) Under this character, for _fan kit_ (fan5 git3) read _fan lit_ (fan5 lit6 憤烈). See commentary at 忿 on the distinction from 憤. Fan Wan entry: Fixed missing stroke in 通. Williams' 發憤, 憤力: These are effectively alternative forms of 發奮, 奮力. 【憤】 (bjunX) (_adjective-like_) disgruntled"
 }
 },
 "揈":{
@@ -8084,7 +8084,7 @@
 "撫":{
 "fu2":{
 "isCanonical":true,
-"text":"U+64AB 拊 (F2.13 撫) 安慰也又擊也 (F2.13 拊) 循也詩拊我畜我防其驚惧拊循之也又拊而勉之又擊也拍也 (Page 59 撫) To keep down with the hand~~, to fold the hands~~; to stroke, (...); to soothe, to tranquillize (Kangxi: 安也, 慰勉也); to manage; to cherish, to bear; to cheer up; to play a lute; _fu kim_ (fu2 gim3 撫劍) to seize a sword; _fu t'oi_ (fu2 toi4 撫臺), or _fu un_ (fu2 jyun6 撫院) the governor of a province; _fu yeung_ (fu2 joeng5 撫養), to rear a child, to supply wants. (Page 59 拊) (...), to put the hand on, (...); to quiet; Used for the preceding (撫) (Kangxi 拊: 揗也, 通作撫). Fan Wan entry: Corrected malformed 擊 (under 撫), corrected malformed 驚, and fixed missing horizontal stroke in 惧. Williams' 撫臺, 撫院: Synonymous with 巡撫. Williams' 撫養: Especially to foster. To hold (Kangxi: 持也). To press or hold still (Kangxi: 以手按止之也). To conform (Kangxi: 一曰循也). 【撫】 (phjuX) (_verb-like_) to lay hand upon, to hold (_verb-like_) to soothe, to comfort, to pacify, (_met._) to stabilise (_verb-like_) to conform"
+"text":"U+64AB 拊 抚 (Mainland simplified) (F2.13 撫) 安慰也又擊也 (F2.13 拊) 循也詩拊我畜我防其驚惧拊循之也又拊而勉之又擊也拍也 (Page 59 撫) To keep down with the hand~~, to fold the hands~~; to stroke, (...); to soothe, to tranquillize (Kangxi: 安也, 慰勉也); to manage; to cherish, to bear; to cheer up; to play a lute; _fu kim_ (fu2 gim3 撫劍) to seize a sword; _fu t'oi_ (fu2 toi4 撫臺), or _fu un_ (fu2 jyun6 撫院) the governor of a province; _fu yeung_ (fu2 joeng5 撫養), to rear a child, to supply wants. (Page 59 拊) (...), to put the hand on, (...); to quiet; Used for the preceding (撫) (Kangxi 拊: 揗也, 通作撫). Fan Wan entry: Corrected malformed 擊 (under 撫), corrected malformed 驚, and fixed missing horizontal stroke in 惧. Williams' 撫臺, 撫院: Synonymous with 巡撫. Williams' 撫養: Especially to foster. To hold (Kangxi: 持也). To press or hold still (Kangxi: 以手按止之也). To conform (Kangxi: 一曰循也). 【撫】 (phjuX) (_verb-like_) to lay hand upon, to hold (_verb-like_) to soothe, to comfort, to pacify, (_met._) to stabilise (_verb-like_) to conform"
 }
 },
 "斧":{
@@ -8650,7 +8650,7 @@
 "撾":{
 "zaa1":{
 "isCanonical":true,
-"text":"U+64BE (F2.74 撾) 擊鼓曰撾 (Page 7 撾) To beat a drum or a bell with a stick (Kangxi: 擊也, 擊鼓也)."
+"text":"U+64BE 挝 (Mainland simplified) (F2.74 撾) 擊鼓曰撾 (Page 7 撾) To beat a drum or a bell with a stick (Kangxi: 擊也, 擊鼓也)."
 }
 },
 "㪥":{
@@ -8938,7 +8938,7 @@
 "擇":{
 "zaak6":{
 "isCanonical":true,
-"text":"U+64C7 (F2.89 擇) 揀擇選擇 (Page 13|n56 擇) To select, to pick out, to choose, to prefer (Kangxi: 揀選也); _chak yat_ (zaak6 jat6-2 擇日) to choose a lucky day; _ni kom kan chak_ (nei5 gam3 gaan2 zaak6 你咁揀擇) you are so hard to suit; _yam ni kan chak_ (jam6 nei5 gaan2 zaak6 任你揀擇) just as you like; _chak kau_ (zaak6 gaau1 擇交), to take associates. 【擇】 (draek) (_verb-like_) to select"
+"text":"U+64C7 择 (Mainland simplified) (F2.89 擇) 揀擇選擇 (Page 13|n56 擇) To select, to pick out, to choose, to prefer (Kangxi: 揀選也); _chak yat_ (zaak6 jat6-2 擇日) to choose a lucky day; _ni kom kan chak_ (nei5 gam3 gaan2 zaak6 你咁揀擇) you are so hard to suit; _yam ni kan chak_ (jam6 nei5 gaan2 zaak6 任你揀擇) just as you like; _chak kau_ (zaak6 gaau1 擇交), to take associates. 【擇】 (draek) (_verb-like_) to select"
 }
 },
 "擢":{
@@ -8954,7 +8954,7 @@
 "擲":{
 "zaak6":{
 "isCanonical":true,
-"text":"U+64F2 (F2.89 擲) 棄擲 (Page 13|n56 擲) To throw down, to throw at (Kangxi: 投也); to throw away, to reject (Kangxi: 拋也掉也); to waste, as one's time; _chak ui_ (zaak6 wui4 擲回), to refuse, to give back; _chak chung_ (zaak6 zung3 擲中) to hit; _chak t'au_ (zaak6 tau4 擲骰) or _chak shik_ (zaak6 sik1 擲色) to throw dice; _chak kau tsai_ (zaak6 gau2 zai2 擲九仔), to throw nines, _i.e._ to gamble; _hi chak_ (hei3 zaak6 棄擲) to discard."
+"text":"U+64F2 掷 (Mainland simplified) (F2.89 擲) 棄擲 (Page 13|n56 擲) To throw down, to throw at (Kangxi: 投也); to throw away, to reject (Kangxi: 拋也掉也); to waste, as one's time; _chak ui_ (zaak6 wui4 擲回), to refuse, to give back; _chak chung_ (zaak6 zung3 擲中) to hit; _chak t'au_ (zaak6 tau4 擲骰) or _chak shik_ (zaak6 sik1 擲色) to throw dice; _chak kau tsai_ (zaak6 gau2 zai2 擲九仔), to throw nines, _i.e._ to gamble; _hi chak_ (hei3 zaak6 棄擲) to discard."
 }
 },
 "澤":{
@@ -9018,7 +9018,7 @@
 "斬":{
 "zaam2":{
 "isCanonical":true,
-"text":"U+65AC (F2.64 斬) 截也斷也 (Page 15|n58 斬) To sunder, to cut in two (Kangxi: 截也, 裁也); to cut off (Kangxi: 斬...卽斷也); to execute, to decapitate; capital; to root up; to break off, as ~~intercousre~~ ``intercourse``; ~~faded, forgotten, vanished;~~ _cham ~~shui~~ ``ts'ui``_ (zaam2 ceoi1 斬衰), mourning for parents; _cham t'un_ (zaam2 tyun5 斬斷), to cut in two, to break off, as a business; _cham t'au_ (zaam2 tau4-2 斬頭), to decollate; _iu cham_ (jiu1 zaam2 腰斬), to divide a criminal in the middle; _cham teng tsit t'it_ (zaam2 deng1 zit6 tit3 斬釘截鐵) to cut an iron nail---decided, sincere; _kam cham_ (gaam1 zaam2 監斬), to superintend an execution; _cham hoi_ (zaam2 hoi1 斬開), to cut open; _cham fat_ (zaam2 fat6 斬伐) to subjugate; to prune. Williams' 斬衰: Corrected _shui_ (seoi1) to _ts'ui_ (ceoi1). Williams' 腰斬: Now used figuratively for midway cancellation or termination. Williams' 斬伐: Changed _fat_ (faat6) to modern _fat_ (fat6). 【斬】 (tsreamX) (_verb-like_) to chop (off), to sever"
+"text":"U+65AC 斩 (Mainland simplified) (F2.64 斬) 截也斷也 (Page 15|n58 斬) To sunder, to cut in two (Kangxi: 截也, 裁也); to cut off (Kangxi: 斬...卽斷也); to execute, to decapitate; capital; to root up; to break off, as ~~intercousre~~ ``intercourse``; ~~faded, forgotten, vanished;~~ _cham ~~shui~~ ``ts'ui``_ (zaam2 ceoi1 斬衰), mourning for parents; _cham t'un_ (zaam2 tyun5 斬斷), to cut in two, to break off, as a business; _cham t'au_ (zaam2 tau4-2 斬頭), to decollate; _iu cham_ (jiu1 zaam2 腰斬), to divide a criminal in the middle; _cham teng tsit t'it_ (zaam2 deng1 zit6 tit3 斬釘截鐵) to cut an iron nail---decided, sincere; _kam cham_ (gaam1 zaam2 監斬), to superintend an execution; _cham hoi_ (zaam2 hoi1 斬開), to cut open; _cham fat_ (zaam2 fat6 斬伐) to subjugate; to prune. Williams' 斬衰: Corrected _shui_ (seoi1) to _ts'ui_ (ceoi1). Williams' 腰斬: Now used figuratively for midway cancellation or termination. Williams' 斬伐: Changed _fat_ (faat6) to modern _fat_ (fat6). 【斬】 (tsreamX) (_verb-like_) to chop (off), to sever"
 }
 },
 "眨":{
@@ -9564,7 +9564,7 @@
 "擠":{
 "zai1":{
 "isCanonical":true,
-"text":"U+64E0 zai3 (alternative per 《廣韻》子計切) (F1.28 擠) 排也推也 (Page 9|n52 擠 _Chai_ (zai1)) A colloquial word. To place, to put down, to put by; _chai mai_ (zai1 maai4 擠埋), put it aside; _chai pin ch'u_ (zai1 bin1 cyu3 擠邊處) where shall I put it? _chai pin ch'u to ho_ (zai1 bin1 cyu3 dou1 hou2 擠邊處都好), put ~~in~~ it down anywhere. (Page 548 擠 _Tsai_ (zai1)) To push (Kangxi: 排也一曰推也), to push over, to upset (Kangxi: 擠墜也); to press upon, to crowd; _tsai yung_ (zai1 jung2 擠擁), to crowd and press upon. 【擠】 (tsej, tsejH) (_verb-like_) to push 【擠】 (zai1) To put, or put down. The spelling 擠 for this word is arbitrary (but well established). 擠喺度 (zai1 hai2 dou6): \"Put it over here.\" 【擠迫】 (zai1 bik1) Crowded. 人多擠迫 (jan4 do1 zai1 bik1): \"Lots of people and crowded.\""
+"text":"U+64E0 挤 (Mainland simplified) zai3 (alternative per 《廣韻》子計切) (F1.28 擠) 排也推也 (Page 9|n52 擠 _Chai_ (zai1)) A colloquial word. To place, to put down, to put by; _chai mai_ (zai1 maai4 擠埋), put it aside; _chai pin ch'u_ (zai1 bin1 cyu3 擠邊處) where shall I put it? _chai pin ch'u to ho_ (zai1 bin1 cyu3 dou1 hou2 擠邊處都好), put ~~in~~ it down anywhere. (Page 548 擠 _Tsai_ (zai1)) To push (Kangxi: 排也一曰推也), to push over, to upset (Kangxi: 擠墜也); to press upon, to crowd; _tsai yung_ (zai1 jung2 擠擁), to crowd and press upon. 【擠】 (tsej, tsejH) (_verb-like_) to push 【擠】 (zai1) To put, or put down. The spelling 擠 for this word is arbitrary (but well established). 擠喺度 (zai1 hai2 dou6): \"Put it over here.\" 【擠迫】 (zai1 bik1) Crowded. 人多擠迫 (jan4 do1 zai1 bik1): \"Lots of people and crowded.\""
 }
 },
 "穧":{
@@ -12310,7 +12310,7 @@
 "戩":{
 "zin2":{
 "isCanonical":true,
-"text":"U+6229 (F1.22 戩) 盡也 (Page 573 戩) to finish, to exhaust; entirely (Kangxi: 盡也); _pat tsin_ (bat1 zin2 不戩), unlimited. A blessing. 【戩】 (tsjenX) (_adjective-like_) complete"
+"text":"U+6229 戬 (Mainland simplified) (F1.22 戩) 盡也 (Page 573 戩) to finish, to exhaust; entirely (Kangxi: 盡也); _pat tsin_ (bat1 zin2 不戩), unlimited. A blessing. 【戩】 (tsjenX) (_adjective-like_) complete"
 }
 },
 "碾":{
@@ -12358,7 +12358,7 @@
 "戰":{
 "zin3":{
 "isCanonical":true,
-"text":"U+6230 (F1.25 戰) 閩戰又恐懼貌 (Page 17* 戰) To fight (Kangxi: 鬭也); ~~to be alarmed,~~ struck with dread (Kangxi: 懼也); fearful~~, anxious~~; a battle, an engagement; war, hostilities; military, pertaining to war; _hut chin_ (hyut3 zin3 血戰) a bloody fight; _chin shing_ (zin3 sing3 戰勝) a victory; _ta chin_ (daa2 zin3 打戰) terrified; _chin tau_ (zin3 dau3 戰鬥) or _kau chin_ (gaau1 zin3 交戰) to join battle; _chin ~~ch'an~~ ``chan``_ (zin3 zan6 戰陳), troops drawn up for battle; _chin pai_ (zin3 baai6 戰敗) to be discomfited; _chin chin king king_ (zin3 zin3 ging1 ging1 戰戰兢兢), frightened, afraid of; _chin shun_ (zin3 syun4 戰船), a war-junk, a ship of war; _chin shu_ (zin3 syu1 戰書), a challenge to fight. Fan Wan entry: 閩 is probably a typo for 鬪 or similar. Williams' 戰陳: Corrected _ch'an_ (can4) to _chan_ (zan6). Williams' 戰敗: Corrected _pai_ (baai3) to _pai_ (baai6). 【戰】 (tsyenH) (_verb-like_) to battle (_verb-like_) to tremble"
+"text":"U+6230 战 (Mainland simplified) (F1.25 戰) 閩戰又恐懼貌 (Page 17* 戰) To fight (Kangxi: 鬭也); ~~to be alarmed,~~ struck with dread (Kangxi: 懼也); fearful~~, anxious~~; a battle, an engagement; war, hostilities; military, pertaining to war; _hut chin_ (hyut3 zin3 血戰) a bloody fight; _chin shing_ (zin3 sing3 戰勝) a victory; _ta chin_ (daa2 zin3 打戰) terrified; _chin tau_ (zin3 dau3 戰鬥) or _kau chin_ (gaau1 zin3 交戰) to join battle; _chin ~~ch'an~~ ``chan``_ (zin3 zan6 戰陳), troops drawn up for battle; _chin pai_ (zin3 baai6 戰敗) to be discomfited; _chin chin king king_ (zin3 zin3 ging1 ging1 戰戰兢兢), frightened, afraid of; _chin shun_ (zin3 syun4 戰船), a war-junk, a ship of war; _chin shu_ (zin3 syu1 戰書), a challenge to fight. Fan Wan entry: 閩 is probably a typo for 鬪 or similar. Williams' 戰陳: Corrected _ch'an_ (can4) to _chan_ (zan6). Williams' 戰敗: Corrected _pai_ (baai3) to _pai_ (baai6). 【戰】 (tsyenH) (_verb-like_) to battle (_verb-like_) to tremble"
 }
 },
 "洊":{

@@ -203,6 +203,7 @@ U
 A
   ==
   - $摻1 (for "support" and "mix" senses)
+  - 搀 (Mainland simplified)
   ==
 V
   ==
@@ -340,6 +341,7 @@ U
 A
   ==
   - ${𢡖=⿰忄叅}2
+  - 惨 (Mainland simplified)
   ==
 F
   ==
@@ -432,6 +434,11 @@ R
   ⼿ + 11
 U
   U+647B
+A
+  ==
+  - 撡
+  - 掺 (Mainland simplified)
+  ==
 V
   ==
   - saam2 (per 《廣韻》所斬切)
@@ -578,6 +585,10 @@ R
   ⼼ + 17
 U
   U+61FA
+A
+  ==
+  - 忏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.64 杉) 懺悔自陳其悔也
@@ -766,6 +777,7 @@ U
 A
   ==
   - $慙4
+  - 惭 (Mainland simplified)
   ==
 F
   ==

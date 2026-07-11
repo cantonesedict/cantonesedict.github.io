@@ -1667,6 +1667,7 @@ U
 A
   ==
   - $拊2
+  - 抚 (Mainland simplified)
   ==
 F
   ==

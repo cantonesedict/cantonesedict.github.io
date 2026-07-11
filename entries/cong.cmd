@@ -691,6 +691,10 @@ R
   ⼼ + 10
 U
   U+6134
+A
+  ==
+  - 怆 (Mainland simplified)
+  ==
 F
   ==
   - (F1.98 愴) 悽愴言傷心也
@@ -918,6 +922,10 @@ R
   ⼼ + 10
 U
   U+6134
+A
+  ==
+  - 怆 (Mainland simplified)
+  ==
 V
   ==
   - cong2 (per Fan Wan)

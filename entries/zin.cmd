@@ -131,6 +131,10 @@ R
   ⼽ + 4
 U
   U+6214
+A
+  ==
+  - 戋 (Mainland simplified)
+  ==
 V
   ==
   - caan4 (per 《廣韻》昨干切)
@@ -1013,6 +1017,10 @@ R
   ⼽ + 10
 U
   U+6229
+A
+  ==
+  - 戬 (Mainland simplified)
+  ==
 F
   ==
   - (F1.22 戩) 盡也
@@ -1442,6 +1450,10 @@ R
   ⼽ + 12
 U
   U+6230
+A
+  ==
+  - 战 (Mainland simplified)
+  ==
 F
   ==
   - (F1.25 戰) 閩戰又恐懼貌

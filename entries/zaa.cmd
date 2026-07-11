@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -294,6 +294,10 @@ R
   ⼿ + 13
 U
   U+64BE
+A
+  ==
+  - 挝 (Mainland simplified)
+  ==
 F
   ==
   - (F2.74 撾) 擊鼓曰撾

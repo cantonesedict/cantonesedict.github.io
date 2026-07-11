@@ -263,6 +263,7 @@ U
 A
   ==
   - $槍1
+  - 抢 (Mainland simplified)
   ==
 F
   ==
@@ -960,6 +961,10 @@ R
   ⼿ + 10
 U
   U+6436
+A
+  ==
+  - 抢 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 搶) 搶奪

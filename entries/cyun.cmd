@@ -793,6 +793,7 @@ U
 A
   ==
   - $竄3 (for "tempt" sense)
+  - 撺 (Mainland simplified)
   ==
 V
   ==
@@ -1245,6 +1246,7 @@ A
   - 攅
   - 櫕
   - $欑4
+  - 攒 (Mainland simplified)
   ==
 V
   ==

@@ -152,6 +152,10 @@ R
   ⼿ + 9
 U
   U+63EE
+A
+  ==
+  - 挥 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 揮) 指揮發揮又揮霍
@@ -236,6 +240,10 @@ U
 H
   May appear as either ⿰扌為 (+9 assumed here) or ⿰扌爲 (+12),
   depending on the font.
+A
+  ==
+  - 㧑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 撝) 指也又發撝

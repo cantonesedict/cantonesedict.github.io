@@ -151,6 +151,10 @@ R
   ⼿ + 14
 U
   U+64E0
+A
+  ==
+  - 挤 (Mainland simplified)
+  ==
 V
   ==
   - zai3 (alternative per 《廣韻》子計切)

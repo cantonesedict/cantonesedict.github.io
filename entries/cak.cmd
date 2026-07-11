@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2026-03-14
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -58,6 +58,10 @@ R
   ⼼ + 9
 U
   U+60FB
+A
+  ==
+  - 恻 (Mainland simplified)
+  ==
 V
   ==
   - caak1 (longer syllable)

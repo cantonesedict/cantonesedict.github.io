@@ -2469,6 +2469,7 @@ A
   ==
   - $忿5 (for "anger" sense)
   - $賁5
+  - 愤 (Mainland simplified)
   ==
 F
   ==

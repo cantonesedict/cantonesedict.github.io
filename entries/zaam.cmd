@@ -172,6 +172,10 @@ R
   ⽄ + 7
 U
   U+65AC
+A
+  ==
+  - 斩 (Mainland simplified)
+  ==
 F
   ==
   - (F2.64 斬) 截也斷也
@@ -401,6 +405,10 @@ R
   ⼿ + 17
 U
   U+6519
+A
+  ==
+  - 搀 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
