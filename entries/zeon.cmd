@@ -707,8 +707,9 @@ U
   U+5118
 A
   ==
+  - 侭
+  - 尽
   - $盡2
-  - 尽 (Mainland simplified)
   ==
 V
   ==
