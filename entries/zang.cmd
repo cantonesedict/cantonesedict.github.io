@@ -155,6 +155,10 @@ R
   ⼭ + 8
 U
   U+5D22
+A
+  ==
+  - 峥
+  ==
 V
   ==
   - caang4 (per 《廣韻》助庚切)
@@ -244,6 +248,10 @@ R
   ⼿ + 8
 U
   U+6399
+A
+  ==
+  - 挣
+  ==
 F
   [[Not present]]
 W
@@ -349,6 +357,10 @@ R
   ⽖ + 4
 U
   U+722D
+A
+  ==
+  - 争
+  ==
 V
   ==
   - zaang1 (longer syllable)
@@ -525,6 +537,10 @@ R
   ⽬ + 8
 U
   U+775C
+A
+  ==
+  - 睁
+  ==
 F
   [[Not present]]
 W
@@ -542,6 +558,10 @@ R
   ⽵ + 8
 U
   U+7B8F
+A
+  ==
+  - 筝
+  ==
 V
   ==
   - zaang1 (longer syllable)
@@ -711,6 +731,10 @@ R
   ⼿ + 8
 U
   U+6399
+A
+  ==
+  - 挣
+  ==
 F
   [[Not present]]
 W
@@ -810,6 +834,7 @@ H
   depending on the font.
 A
   ==
+  - 争
   - $爭3
   ==
 V

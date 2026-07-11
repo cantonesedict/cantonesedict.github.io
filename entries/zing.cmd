@@ -1934,6 +1934,7 @@ H
   depending on the font.
 A
   ==
+  - 静
   - $靚6
   ==
 V
