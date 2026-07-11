@@ -802,6 +802,7 @@ U
 A
   ==
   - $周1
+  - 赒 (Mainland simplified)
   ==
 F
   ==

@@ -572,6 +572,10 @@ R
   ⾙ + 4
 U
   U+8CAC
+A
+  ==
+  - 责 (Mainland simplified)
+  ==
 F
   ==
   - (F2.32 責 _Chak(7)_ (zak1)) 責罰責成
@@ -1184,6 +1188,7 @@ U
 A
   ==
   - $蹢6
+  - 踯 (Mainland simplified)
   ==
 V
   ==

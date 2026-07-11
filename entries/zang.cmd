@@ -944,6 +944,10 @@ R
   ⾙ + 12
 U
   U+8D08
+A
+  ==
+  - 赠 (Mainland simplified)
+  ==
 F
   ==
   - (F2.32 贈) 送也

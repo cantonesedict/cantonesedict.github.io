@@ -316,6 +316,7 @@ U
 A
   ==
   - 䟎
+  - 趱 (Mainland simplified)
   ==
 V
   ==
@@ -629,6 +630,7 @@ A
   ==
   - $讚3
   - 賛
+  - 赞 (Mainland simplified)
   ==
 F
   ==
@@ -983,6 +985,7 @@ U
 A
   ==
   - $贃6
+  - 赚 (Mainland simplified)
   ==
 V
   ==

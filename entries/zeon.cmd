@@ -1022,7 +1022,9 @@ U
   U+8D10
 A
   ==
+  - 䝲
   - 賮
+  - 赆 (Mainland simplified)
   ==
 V
   ==

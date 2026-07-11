@@ -1371,6 +1371,10 @@ R
   ⾛ + 7
 U
   U+8D99
+A
+  ==
+  - 赵 (Mainland simplified)
+  ==
 F
   ==
   - (F2.7 趙) 趨也久也利也又姓

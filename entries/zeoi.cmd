@@ -1844,6 +1844,10 @@ R
   ⾙ + 11
 U
   U+8D05
+A
+  ==
+  - 赘 (Mainland simplified)
+  ==
 V
   ==
   - zeoi3 (per 《廣韻》之芮切)

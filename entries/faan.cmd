@@ -1146,6 +1146,10 @@ R
   ⾙ + 4
 U
   U+8CA9
+A
+  ==
+  - 贩 (Mainland simplified)
+  ==
 V
   ==
   - faan3-2 (vernacular rising-tone noun)

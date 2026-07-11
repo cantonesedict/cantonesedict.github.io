@@ -710,6 +710,7 @@ U
 A
   ==
   - $蹡1
+  - 跄 (Mainland simplified)
   ==
 F
   ==

@@ -289,6 +289,10 @@ R
   ⾜ + 14
 U
   U+8E8B
+A
+  ==
+  - 跻 (Mainland simplified)
+  ==
 V
   ==
   - zai3 (alternative per 《廣韻》子計切)

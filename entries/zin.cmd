@@ -2077,6 +2077,10 @@ R
   ⾙ + 8
 U
   U+8CE4
+A
+  ==
+  - 贱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.25 賤) 卑下也

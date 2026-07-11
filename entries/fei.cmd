@@ -1285,6 +1285,10 @@ U
 H
   May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
   depending on the font.
+A
+  ==
+  - 贲 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

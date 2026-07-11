@@ -2690,6 +2690,10 @@ R
   ⾙ + 8
 U
   U+8CE6
+A
+  ==
+  - 赋 (Mainland simplified)
+  ==
 F
   ==
   - (F2.16 賦) 稅也役也又詞賦
@@ -3837,6 +3841,10 @@ U
 H
   May appear as either ⿱⺈貝 (assumed here) or ⿱刀貝,
   depending on the font.
+A
+  ==
+  - 负 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 負) ::[背]負又孤負::
@@ -3906,6 +3914,10 @@ R
   ⾙ + 10
 U
   U+8CFB
+A
+  ==
+  - 赙 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 賻) 以貨財助喪事曰賻

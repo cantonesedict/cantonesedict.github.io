@@ -994,6 +994,10 @@ R
   ⾙ + 5
 U
   U+8CBB
+A
+  ==
+  - 费 (Mainland simplified)
+  ==
 F
   ==
   - (F1.32 費) 費用又姓
@@ -1210,6 +1214,10 @@ R
   ⾙ + 5
 U
   U+8CBB
+A
+  ==
+  - 费 (Mainland simplified)
+  ==
 V
   ==
   - fei6 (alternative)

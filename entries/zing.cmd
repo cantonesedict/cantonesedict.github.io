@@ -939,6 +939,7 @@ U
 A
   ==
   - $偵1
+  - 贞 (Mainland simplified)
   ==
 F
   ==

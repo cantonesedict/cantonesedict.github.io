@@ -645,6 +645,10 @@ R
   ⾙ + 4
 U
   U+8CA8
+A
+  ==
+  - 货 (Mainland simplified)
+  ==
 F
   ==
   - (F2.61 貨) 貨財凡物可交易皆曰貨

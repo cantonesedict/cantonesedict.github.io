@@ -133,6 +133,11 @@ R
   ⾙ + 8
 U
   U+8CEA
+A
+  ==
+  - 貭
+  - 质 (Mainland simplified)
+  ==
 F
   ==
   - (F1.86 質) 樸也又文質

@@ -2051,6 +2051,10 @@ R
   ⾜ + 14
 U
   U+8E8A
+A
+  ==
+  - 踌 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

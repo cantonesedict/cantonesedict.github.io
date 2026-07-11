@@ -927,6 +927,10 @@ R
   ⾜ + 8
 U
   U+8E10
+A
+  ==
+  - 践 (Mainland simplified)
+  ==
 V
   ==
   - cin2 (common)

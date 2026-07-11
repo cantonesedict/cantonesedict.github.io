@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -540,6 +540,10 @@ R
   ⾙ + 10
 U
   U+8CFA
+A
+  ==
+  - 赚 (Mainland simplified)
+  ==
 F
   ==
   - (F2.65 賺) ::中淡切猶眈誤也阻之也生意[獲]利亦曰賺::

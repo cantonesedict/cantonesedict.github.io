@@ -1429,6 +1429,7 @@ U
 A
   ==
   - $帳3
+  - 账 (Mainland simplified)
   ==
 F
   ==

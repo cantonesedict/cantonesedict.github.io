@@ -1547,6 +1547,7 @@ U
 A
   ==
   - $訾1
+  - 赀 (Mainland simplified)
   ==
 F
   ==
@@ -1589,6 +1590,7 @@ A
   ==
   - $貲1
   - $齎1
+  - 资 (Mainland simplified)
   ==
 F
   ==
@@ -4653,6 +4655,11 @@ R
   ⾙ + 8
 U
   U+8CEA
+A
+  ==
+  - 貭
+  - 质 (Mainland simplified)
+  ==
 F
   ==
   - (F1.41 質) 留人爲當以要信也
@@ -4703,6 +4710,7 @@ A
   ==
   - $摯3
   - $質3
+  - 贽 (Mainland simplified)
   ==
 F
   ==
@@ -4750,6 +4758,7 @@ U
 A
   ==
   - $疐3
+  - 踬 (Mainland simplified)
   ==
 F
   ==

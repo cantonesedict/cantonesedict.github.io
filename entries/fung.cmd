@@ -293,6 +293,7 @@ U
 A
   ==
   - $豊1
+  - 丰 (Mainland simplified)
   ==
 F
   ==

@@ -467,6 +467,7 @@ U
 A
   ==
   - 䞓
+  - 赪 (Mainland simplified)
   ==
 V
   ==

@@ -2109,6 +2109,10 @@ R
   ⾙ + 8
 U
   U+8CDC
+A
+  ==
+  - 赐 (Mainland simplified)
+  ==
 V
   ==
   - si3 (per 《廣韻》斯義切)
