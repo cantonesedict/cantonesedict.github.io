@@ -8601,6 +8601,12 @@
 "text":"U+8451 (F1.58 葑) 葑菲菜名 (Page 66 葑) ~~Vegetables~~ ``A vegetable`` resembling mustard, chives (Kangxi: 菜名 etc.); _fung fi_ (fung1 fei2 葑菲), cheap greens; _met._ poor, trifling, worthless. Possibly turnip (Kangxi: 葑蔓菁也). 【葑】 (pjowng) (_noun-like_) turnip"
 }
 },
+"豊":{
+"fung1":{
+"isCanonical":false,
+"text":"U+8C4A (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊) Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上."
+}
+},
 "風":{
 "fung1":{
 "isCanonical":true,

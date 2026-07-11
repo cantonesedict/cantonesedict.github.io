@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-07-10
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -51,6 +51,7 @@ $$
 - $楓1
 - $瘋1
 - $葑1
+- ($豊1)
 - $風1
 ==
 </nav>
@@ -244,6 +245,35 @@ L
 S
   ==
   - $葑fung3 (TODO) <## 菰根也 ##>
+  ==
+$$
+
+### 豊1 | _(1)Fung_ [[fung1]]
+
+$$.
+R
+  ⾖ + 6
+U
+  U+8C4A
+F
+  ==
+  - (F1.58 豐) ::大也[盛]也又豐熟::
+  - (F1.58 豊) ::同[上]::
+  ==
+W
+  ====
+  - [[Page~66 (1)豊]]
+    --
+    [[Alternative form of 豐. **See $豐fung1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上.
+  ==
+S
+  ==
+  - $豊lai5 (TODO)
   ==
 $$
 
