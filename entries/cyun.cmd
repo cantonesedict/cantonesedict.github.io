@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1021,6 +1021,10 @@ R
   ⼈ + 11
 U
   U+50B3
+A
+  ==
+  - 传 (Mainland simplified)
+  ==
 F
   ==
   - (F2.21 傳) ::傳[授]傳布傳[遞]又續也::

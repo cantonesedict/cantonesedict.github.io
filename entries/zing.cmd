@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-06-27
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,6 +78,10 @@ R
   ⼈ + 9
 U
   U+5075
+A
+  ==
+  - 侦 (Mainland simplified)
+  ==
 V
   ==
   - cing1 (per 《廣韻》丑貞切)

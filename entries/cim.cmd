@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,6 +71,10 @@ R
   ⼈ + 11
 U
   U+50C9
+A
+  ==
+  - 佥 (Mainland simplified)
+  ==
 F
   ==
   - (F2.47 僉) 咸也皆也共也

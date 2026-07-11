@@ -672,6 +672,10 @@ U
 H
   May appear with 者 dotless (+15 assumed here) or dotted (+16),
   depending on the font.
+A
+  ==
+  - 储 (Mainland simplified)
+  ==
 V
   ==
   - cyu4 (per 《廣韻》直魚切)

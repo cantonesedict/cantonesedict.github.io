@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-04-22
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -803,6 +803,10 @@ R
   ⼈ + 11
 U
   U+50B3
+A
+  ==
+  - 传 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1007,6 +1011,10 @@ R
   ⼈ + 11
 U
   U+50B3
+A
+  ==
+  - 传 (Mainland simplified)
+  ==
 V
   ==
   - zyun6-2 (vernacular rising-tone noun for "biography/narrative/legend" sense)

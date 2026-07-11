@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-04-06
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1406,6 +1406,10 @@ R
   ⼈ + 14
 U
   U+5114
+A
+  ==
+  - 俦 (Mainland simplified)
+  ==
 F
   ==
   - (F1.52 儔) 侣也衆也等類也
