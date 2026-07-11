@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-04-19
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -343,7 +343,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 巳 to 己.
-  - Williams' 忠厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
+  - Williams' 忠厚: Normalised _hau(6)_ (hau6) to _(5)hau_ (hau5).
   ==
 L
   ====

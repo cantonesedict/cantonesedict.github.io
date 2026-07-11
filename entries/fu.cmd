@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-07-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2487,7 +2487,7 @@ W
 C
   ==
   - Fan Wan entry: Fixed missing strokes in 豐.
-  - Williams' 富厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
+  - Williams' 富厚: Normalised _hau(6)_ (hau6) to _(5)hau_ (hau5).
   - Williams' 學富: Removed extraneous _(1)ch(e/)_ (ze1).
   - Williams' 學富五車 (Page^~715): Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u:)_ (geoi1).
   ==
