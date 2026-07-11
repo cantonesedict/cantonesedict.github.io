@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-04-14
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,6 +71,7 @@ U
 A
   ==
   - $蒼1 (in 倉皇 spelt 蒼黃)
+  - 仓 (Mainland simplified)
   ==
 V
   ==
@@ -459,6 +460,7 @@ U
 A
   ==
   - 鯧
+  - 䲝 (Mainland simplified)
   ==
 F
   ==

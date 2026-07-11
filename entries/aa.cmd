@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-04-30
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -476,6 +476,11 @@ R
   ⼆ + 6
 U
   U+4E9E
+A
+  ==
+  - 亜
+  - 亚 (Mainland simplified)
+  ==
 V
   ==
   - ngaa3 (hypercorrected initial)

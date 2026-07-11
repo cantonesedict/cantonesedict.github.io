@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-06-07
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,6 +81,10 @@ R
   ⼈ + 8
 U
   U+5000
+A
+  ==
+  - 伥 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
