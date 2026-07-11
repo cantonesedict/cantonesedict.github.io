@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-03-07
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,13 +67,17 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### ~~净~~``凈``1 | _(1)Chang_ [[zang1]]
+###+ 凈1 | _(1)Chang_ [[zang1]]
 
 $$
 R
   ⼎ + 8
 U
   U+51C8
+A
+  ==
+  - 净
+  ==
 V
   ==
   - caang1 (per 《廣韻》楚耕切)
@@ -83,7 +87,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 ::(1)~~净~~``凈``::]]
+  - [[Page~20|n63 (1)净; here normalised to 凈]]
     ==
     - Cold, shivering [[Kangxi 凈: 冷貌]].
     ==
