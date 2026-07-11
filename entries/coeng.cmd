@@ -1192,6 +1192,7 @@ A
   ==
   - $昶3
   - $鬯3
+  - 畅 (Mainland simplified)
   ==
 F
   ==

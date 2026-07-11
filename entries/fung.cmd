@@ -153,6 +153,10 @@ R
   ⽊ + 9
 U
   U+6953
+A
+  ==
+  - 枫 (Mainland simplified)
+  ==
 F
   ==
   - (F1.58 楓) 木名

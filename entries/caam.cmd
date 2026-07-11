@@ -1113,6 +1113,10 @@ R
   ⽊ + 8
 U
   U+68D6
+A
+  ==
+  - 枨 (Mainland simplified)
+  ==
 V
   ==
   - caan5 (per Williams)

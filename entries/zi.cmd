@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -642,6 +642,10 @@ R
   ⽊ + 7
 U
   U+6894
+A
+  ==
+  - 栀
+  ==
 F
   ==
   - (F1.36 梔) ::梔子核可[染]物::

@@ -284,6 +284,10 @@ R
   ⽇ + 9
 U
   U+6689
+A
+  ==
+  - 晖 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 輝) 光輝

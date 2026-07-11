@@ -626,6 +626,10 @@ R
   ⽊ + 8
 U
   U+68D6
+A
+  ==
+  - 枨 (Mainland simplified)
+  ==
 F
   ==
   - (F2.88 棖) 兩邊門枋曰棖又人名申棖

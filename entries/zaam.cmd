@@ -436,6 +436,10 @@ R
   ⽇ + 11
 U
   U+66AB
+A
+  ==
+  - 暂 (Mainland simplified)
+  ==
 F
   ==
   - (F2.65 暫) 卽淡切暫時間言不久也
