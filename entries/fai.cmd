@@ -384,6 +384,10 @@ R
   ⽻ + 9
 U
   U+7FEC
+A
+  ==
+  - 翚 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 翬) 雉也

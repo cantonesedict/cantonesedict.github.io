@@ -1836,6 +1836,11 @@ R
   ⾁ + 9
 U
   U+8178
+A
+  ==
+  - 膓
+  - 肠 (Mainland simplified)
+  ==
 V
   ==
   - coeng4-2 (vernacular rising-tone noun)

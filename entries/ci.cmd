@@ -2854,6 +2854,10 @@ R
   ⾁ + 14
 U
   U+81CD
+A
+  ==
+  - 脐 (Mainland simplified)
+  ==
 F
   ==
   - (F2.34 臍) 肚臍

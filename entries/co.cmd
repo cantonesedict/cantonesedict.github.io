@@ -444,6 +444,10 @@ R
   ⾋ + 4
 U
   U+82BB
+A
+  ==
+  - 刍 (Mainland simplified)
+  ==
 F
   ==
   - (F2.58 芻) 草也

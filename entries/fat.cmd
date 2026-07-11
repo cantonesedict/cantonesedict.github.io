@@ -1451,6 +1451,10 @@ R
   ⼑ + 12
 U
   U+7F70
+A
+  ==
+  - 罚 (Mainland simplified)
+  ==
 F
   ==
   - (F2.73 罰 _F(a/)t(9)_ (faat6)) ::[責]也[治]也::

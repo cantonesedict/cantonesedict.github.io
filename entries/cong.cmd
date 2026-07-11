@@ -333,6 +333,10 @@ R
   ⾈ + 10
 U
   U+8259
+A
+  ==
+  - 舱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

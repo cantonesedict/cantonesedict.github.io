@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -336,6 +336,10 @@ R
   ⽻ + 5
 U
   U+7FD2
+A
+  ==
+  - 习 (Mainland simplified)
+  ==
 F
   ==
   - (F2.39 習 _Tsap(9)_ (zap6)) ::學慣熟也狎也[練]也::

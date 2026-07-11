@@ -1653,6 +1653,10 @@ R
   ⾁ + 9
 U
   U+816B
+A
+  ==
+  - 肿 (Mainland simplified)
+  ==
 F
   ==
   - (F1.61 腫) 脹也

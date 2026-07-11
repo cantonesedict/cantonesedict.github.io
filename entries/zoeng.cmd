@@ -1374,6 +1374,7 @@ A
   ==
   - $張3
   - $漲3
+  - 胀 (Mainland simplified)
   ==
 V
   ==
