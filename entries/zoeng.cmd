@@ -453,6 +453,7 @@ U
 A
   ==
   - $䊢1
+  - 浆 (Mainland simplified)
   ==
 F
   ==
@@ -889,6 +890,10 @@ R
   ⽊ + 11
 U
   U+69F3
+A
+  ==
+  - 桨 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 槳) 船槳
@@ -1295,6 +1300,10 @@ R
   ⽔ + 11
 U
   U+6F32
+A
+  ==
+  - 涨 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 漲) 大水貌又水泛溢

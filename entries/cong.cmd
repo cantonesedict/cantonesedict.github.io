@@ -211,6 +211,10 @@ R
   ⽔ + 10
 U
   U+6EC4
+A
+  ==
+  - 沧 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 滄) 滄浪水名又滄海也

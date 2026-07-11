@@ -352,6 +352,10 @@ R
   ⽊ + 11
 U
   U+6A05
+A
+  ==
+  - 枞 (Mainland simplified)
+  ==
 V
   ==
   - zung1 (alternative per 《廣韻》即容切)

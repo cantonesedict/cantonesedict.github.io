@@ -157,6 +157,10 @@ R
   ⽋ + 11
 U
   U+6B50
+A
+  ==
+  - 欧 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -198,6 +202,10 @@ R
   ⽔ + 11
 U
   U+6F1A
+A
+  ==
+  - 沤 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -477,6 +485,10 @@ R
   ⽎ + 11
 U
   U+6BC6
+A
+  ==
+  - 殴 (Mainland simplified)
+  ==
 V
   ==
   - ngau2 (hypercorrected initial)
@@ -529,6 +541,10 @@ R
   ⽔ + 11
 U
   U+6F1A
+A
+  ==
+  - 沤 (Mainland simplified)
+  ==
 V
   ==
   - ngau3 (hypercorrected initial)

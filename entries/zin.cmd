@@ -369,6 +369,7 @@ U
 A
   ==
   - $淺1
+  - 溅 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -1561,6 +1562,10 @@ R
   ⽔ + 15
 U
   U+6FFA
+A
+  ==
+  - 溅 (Mainland simplified)
+  ==
 F
   ==
   - (F1.23 ::[濺]::) 水激酒也

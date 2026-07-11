@@ -934,6 +934,10 @@ R
   ⽔ + 13
 U
   U+6FA4
+A
+  ==
+  - 泽 (Mainland simplified)
+  ==
 F
   ==
   - (F2.89 澤) 恩澤惠澤潤澤雨澤

@@ -600,6 +600,10 @@ R
   ⽔ + 14
 U
   U+6FDF
+A
+  ==
+  - 济 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -895,6 +899,10 @@ R
   ⽔ + 14
 U
   U+6FDF
+A
+  ==
+  - 济 (Mainland simplified)
+  ==
 F
   ==
   - (F1.32 濟) 周濟又通也
@@ -1334,6 +1342,10 @@ R
   ⽔ + 11
 U
   U+6EEF
+A
+  ==
+  - 滞 (Mainland simplified)
+  ==
 V
   ==
   - zai6-2 (rising second in vernacular 滯滯地)

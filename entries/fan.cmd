@@ -2024,6 +2024,10 @@ U
 H
   May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
+A
+  ==
+  - {𣸣=⿰氵贲} (Mainland simplified)
+  ==
 F
   ==
   - (F1.81 濆) 水涯

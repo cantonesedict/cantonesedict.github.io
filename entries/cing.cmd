@@ -83,6 +83,10 @@ R
   ⽊ + 13
 U
   U+6A89
+A
+  ==
+  - 柽 (Mainland simplified)
+  ==
 F
   ==
   - (F1.71 檉 _(2)Ch(')ing_ (cing2)) 河邊柳

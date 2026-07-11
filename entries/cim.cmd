@@ -321,6 +321,7 @@ U
 A
   ==
   - $瀸1
+  - 歼 (Mainland simplified)
   ==
 V
   ==
@@ -859,6 +860,10 @@ R
   ⽊ + 11
 U
   U+69E7
+A
+  ==
+  - 椠 (Mainland simplified)
+  ==
 V
   ==
   - cim5 (alternative per 《廣韻》慈染切)

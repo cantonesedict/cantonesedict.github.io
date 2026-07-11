@@ -391,6 +391,10 @@ R
   ⽔ + 8
 U
   U+6DFA
+A
+  ==
+  - 浅 (Mainland simplified)
+  ==
 F
   ==
   - (F1.22 淺) 不深也

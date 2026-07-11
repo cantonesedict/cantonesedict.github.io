@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -771,6 +771,10 @@ R
   ⽊ + 16
 U
   U+6AEC
+A
+  ==
+  - 榇 (Mainland simplified)
+  ==
 F
   ==
   - (F1.85 櫬) 棺櫬

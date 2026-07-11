@@ -204,6 +204,7 @@ U
 A
   ==
   - $搶1
+  - 枪 (Mainland simplified)
   ==
 F
   [[Not present]]

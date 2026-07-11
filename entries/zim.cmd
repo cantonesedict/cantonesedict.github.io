@@ -352,6 +352,10 @@ R
   ⽔ + 11
 U
   U+6F38
+A
+  ==
+  - 渐 (Mainland simplified)
+  ==
 F
   ==
   - (F2.50 漸 _Ts(i/)m(6)_ (zim6)) 次也徐也稍也漬也
@@ -908,6 +912,10 @@ R
   ⽔ + 11
 U
   U+6F38
+A
+  ==
+  - 渐 (Mainland simplified)
+  ==
 V
   ==
   - zim6-2 (rising second in reduplication 漸漸)

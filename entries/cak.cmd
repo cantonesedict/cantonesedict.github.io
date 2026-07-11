@@ -106,6 +106,10 @@ R
   ⽔ + 9
 U
   U+6E2C
+A
+  ==
+  - 测 (Mainland simplified)
+  ==
 V
   ==
   - caak1 (longer syllable)

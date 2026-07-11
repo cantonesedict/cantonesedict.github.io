@@ -964,6 +964,10 @@ R
   ⽔ + 13
 U
   U+6FC1
+A
+  ==
+  - 浊
+  ==
 V
   ==
   - zuk6-2 (rising second in vernacular 濁濁地)

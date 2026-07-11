@@ -338,6 +338,10 @@ R
   ⽔ + 7
 U
   U+6D79
+A
+  ==
+  - 浃 (Mainland simplified)
+  ==
 F
   ==
   - (F2.50 浹) 浹洽融？通徹也

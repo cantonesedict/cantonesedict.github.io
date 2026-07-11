@@ -401,6 +401,7 @@ U
 A
   ==
   - $鎗1
+  - 枪 (Mainland simplified)
   ==
 F
   ==
@@ -1661,6 +1662,10 @@ R
   ⽊ + 13
 U
   U+6AA3
+A
+  ==
+  - 樯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 檣) 船桅也

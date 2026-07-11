@@ -183,6 +183,10 @@ R
   ⽊ + 11
 U
   U+6A01
+A
+  ==
+  - 桩 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 樁) 松樁

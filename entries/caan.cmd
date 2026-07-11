@@ -585,6 +585,7 @@ U
 A
   ==
   - $戔4
+  - 残 (Mainland simplified)
   ==
 V
   ==

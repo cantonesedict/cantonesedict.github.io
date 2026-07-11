@@ -3983,6 +3983,10 @@ R
   ⽔ + 11
 U
   U+6F2C
+A
+  ==
+  - 渍 (Mainland simplified)
+  ==
 V
   ==
   - zi6 (per 《廣韻》疾智切)
