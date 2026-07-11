@@ -3507,6 +3507,12 @@ class Linter:
                     )
 
                 if linked_tone := alternative_form.linked_tone:
+                    if 'Mainland simplified' in alternative_form.qualifier:
+                        raise LintException(
+                            f'linked alternative form `{alternative_form.content}` is Mainland simplification '
+                            f'under `{character_entry}`'
+                        )
+
                     other_jyutping = jyutping[:-1] + linked_tone
 
                     try:
