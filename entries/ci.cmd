@@ -3359,6 +3359,10 @@ R
   ⾺ + 3
 U
   U+99B3
+A
+  ==
+  - 驰 (Mainland simplified)
+  ==
 F
   ==
   - (F1.38 馳) 馳驅又馳騖

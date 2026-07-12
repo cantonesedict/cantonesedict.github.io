@@ -1079,6 +1079,10 @@ R
   ⾺ + 10
 U
   U+9A36
+A
+  ==
+  - 驺 (Mainland simplified)
+  ==
 F
   ==
   - (F1.50 騶) 騶虞仁獸

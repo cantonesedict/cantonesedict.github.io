@@ -1823,6 +1823,10 @@ R
   ⾺ + 7
 U
   U+99FF
+A
+  ==
+  - 骏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.54 駿) 良馬

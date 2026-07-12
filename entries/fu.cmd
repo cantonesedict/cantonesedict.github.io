@@ -4157,6 +4157,10 @@ R
   ⾺ + 5
 U
   U+99D9
+A
+  ==
+  - 驸 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 駙) 駙馬王親也

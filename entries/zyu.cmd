@@ -1719,6 +1719,10 @@ R
   ⾺ + 5
 U
   U+99D0
+A
+  ==
+  - 驻 (Mainland simplified)
+  ==
 F
   ==
   - (F1.47 駐) 馬止也

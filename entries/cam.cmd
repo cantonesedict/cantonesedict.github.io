@@ -244,6 +244,10 @@ R
   ⾺ + 7
 U
   U+99F8
+A
+  ==
+  - 骎 (Mainland simplified)
+  ==
 F
   ==
   - (F2.36 駸) 馬疾行也

@@ -672,6 +672,10 @@ R
   ⾺ + 8
 U
   U+9A05
+A
+  ==
+  - 骓 (Mainland simplified)
+  ==
 F
   ==
   - (F2.55 騅) 馬之蒼黑者

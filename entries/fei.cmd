@@ -508,6 +508,7 @@ U
 A
   ==
   - $匪1 (for walking-related senses)
+  - {𬴂=⿰马非} (Mainland simplified)
   ==
 F
   ==
