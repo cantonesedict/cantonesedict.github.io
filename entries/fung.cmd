@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $封1
+- ($峯1)
 - $楓1
 - $瘋1
 - $葑1
@@ -145,6 +146,26 @@ S
   ==
   - ($封bin2) (TODO) <## same as 窆 ##>
   ==
+$$
+
+### 峯1 | _(1)Fung_ [[fung1]]
+
+$$.
+R
+  ⼭ + 7
+U
+  U+5CEF
+F
+  ==
+  - (F1.58 峯) 山之尖頂
+  ==
+W
+  ====
+  - [[Page~65 (1)峯]]
+    --
+    [[Alternative form of 峰. **See $峰fung1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
 $$
 
 ### 楓1 | _(1)Fung_ [[fung1]]
