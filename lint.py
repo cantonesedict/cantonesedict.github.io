@@ -2355,13 +2355,17 @@ class CharacterEntry:
             )))
 
             if potential_characters == character:
-                return
-
-            if ambiguous_kangxi_match := re.search(pattern=r'\[\[Kangxi: \S+\]\]', string=item_content):
-                kangxi_annotation = ambiguous_kangxi_match.group()
-                raise LintException(
-                    f'Kangxi annotation `{kangxi_annotation}` has ambiguous headword ({potential_characters})'
-                )
+                if redundant_match := re.search(pattern=fr'\[\[Kangxi {character}: \S+\]\]', string=item_content):
+                    kangxi_annotation = redundant_match.group()
+                    raise LintException(
+                        f'redundant disambiguator {character} in Kangxi annotation `{kangxi_annotation}`'
+                    )
+            else:
+                if ambiguous_kangxi_match := re.search(pattern=r'\[\[Kangxi: \S+\]\]', string=item_content):
+                    kangxi_annotation = ambiguous_kangxi_match.group()
+                    raise LintException(
+                        f'ambiguous headword ({potential_characters}) in Kangxi annotation `{kangxi_annotation}`'
+                    )
 
     @staticmethod
     def lint_literary_rendering_senses(content: Optional[str]):
