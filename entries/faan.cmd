@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2295,6 +2295,11 @@ R
   ⾷ + 4
 U
   U+98EF
+A
+  ==
+  - 飰
+  - 饭 (Mainland simplified)
+  ==
 V
   ==
   - faan5 (per 《廣韻》扶晚切 rising for verb sense)

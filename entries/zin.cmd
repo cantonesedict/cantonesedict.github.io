@@ -747,6 +747,10 @@ R
   ⾷ + 13
 U
   U+9958
+A
+  ==
+  - {𫗴=⿰饣亶} (Mainland simplified)
+  ==
 V
   ==
   - zin2 (alternative per 《廣韻》旨善切)
@@ -2031,6 +2035,10 @@ R
   ⾷ + 8
 U
   U+991E
+A
+  ==
+  - 饯 (Mainland simplified)
+  ==
 V
   ==
   - cin5 (per 《廣韻》慈演切)

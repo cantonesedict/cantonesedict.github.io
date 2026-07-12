@@ -1055,6 +1055,10 @@ R
   ⾷ + 17
 U
   U+995E
+A
+  ==
+  - 馋 (Mainland simplified)
+  ==
 F
   ==
   - (F2.63 饞) 貪饕也

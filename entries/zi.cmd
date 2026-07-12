@@ -6332,6 +6332,7 @@ U
 A
   ==
   - $飤6
+  - 饲 (Mainland simplified)
   ==
 F
   ==

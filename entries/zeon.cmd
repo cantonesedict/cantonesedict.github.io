@@ -1790,6 +1790,10 @@ R
   ⾷ + 7
 U
   U+9915
+A
+  ==
+  - 馂 (Mainland simplified)
+  ==
 F
   ==
   - (F2.54 餕) 食餘物也
