@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -352,6 +352,10 @@ R
   ⽔ + 11
 U
   U+6F38
+A
+  ==
+  - 渐 (Mainland simplified)
+  ==
 F
   ==
   - (F2.50 漸 _Ts(i/)m(6)_ (zim6)) 次也徐也稍也漬也
@@ -550,6 +554,7 @@ A
   - $佔1
   - $占1
   - $沾1
+  - 觇 (Mainland simplified)
   ==
 V
   ==
@@ -646,6 +651,10 @@ R
   ⾔ + 13
 U
   U+8B6B
+A
+  ==
+  - 谵 (Mainland simplified)
+  ==
 F
   ==
   - (F2.47 譫) 多言也
@@ -801,6 +810,10 @@ R
   ⼈ + 3
 U
   U+4F54
+A
+  ==
+  - 占 (Mainland simplified)
+  ==
 F
   ==
   - (F2.50 占) ::霸占擅[據]也::
@@ -904,6 +917,10 @@ R
   ⽔ + 11
 U
   U+6F38
+A
+  ==
+  - 渐 (Mainland simplified)
+  ==
 V
   ==
   - zim6-2 (rising second in reduplication 漸漸)

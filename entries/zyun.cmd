@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-04-22
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -113,6 +113,7 @@ A
   ==
   - $剸1
   - $耑1
+  - 专 (Mainland simplified)
   ==
 F
   ==
@@ -328,6 +329,7 @@ A
   ==
   - $塼1
   - $甎1
+  - 砖 (Mainland simplified)
   ==
 F
   ==
@@ -553,6 +555,10 @@ R
   ⼝ + 18
 U
   U+56C0
+A
+  ==
+  - 啭 (Mainland simplified)
+  ==
 V
   ==
   - zyun3 (per 《廣韻》知戀切)
@@ -641,6 +647,7 @@ A
   - 繤
   - $纂2
   - 纉
+  - 缵 (Mainland simplified)
   ==
 F
   ==
@@ -679,6 +686,10 @@ R
   ⾞ + 11
 U
   U+8F49
+A
+  ==
+  - 转 (Mainland simplified)
+  ==
 F
   ==
   - (F2.22 轉) 轉動轉運旋轉
@@ -803,6 +814,10 @@ R
   ⼈ + 11
 U
   U+50B3
+A
+  ==
+  - 传 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -833,6 +848,10 @@ R
   ⾞ + 11
 U
   U+8F49
+A
+  ==
+  - 转 (Mainland simplified)
+  ==
 F
   ==
   - (F2.22 轉 _(2)Ch(u:)n_ (zyun2)) 轉動轉運旋轉
@@ -898,6 +917,7 @@ A
   ==
   - $攢1^ (for verb senses read zyun1)
   - 鑚
+  - 钻 (Mainland simplified)
   ==
 V
   ==
@@ -1007,6 +1027,10 @@ R
   ⼈ + 11
 U
   U+50B3
+A
+  ==
+  - 传 (Mainland simplified)
+  ==
 V
   ==
   - zyun6-2 (vernacular rising-tone noun for "biography/narrative/legend" sense)

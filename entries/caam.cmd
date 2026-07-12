@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,6 +67,7 @@ U
 A
   ==
   - $叅1
+  - 参 (Mainland simplified)
   ==
 F
   ==
@@ -202,6 +203,7 @@ U
 A
   ==
   - $摻1 (for "support" and "mix" senses)
+  - 搀 (Mainland simplified)
   ==
 V
   ==
@@ -283,6 +285,10 @@ R
   ⾺ + 11
 U
   U+9A42
+A
+  ==
+  - 骖 (Mainland simplified)
+  ==
 F
   ==
   - (F2.62 ::[驂]::) ::駕車外兩馬曰[驂]馬::
@@ -339,6 +345,7 @@ U
 A
   ==
   - ${𢡖=⿰忄叅}2
+  - 惨 (Mainland simplified)
   ==
 F
   ==
@@ -431,6 +438,11 @@ R
   ⼿ + 11
 U
   U+647B
+A
+  ==
+  - 撡
+  - 掺 (Mainland simplified)
+  ==
 V
   ==
   - saam2 (per 《廣韻》所斬切)
@@ -577,6 +589,10 @@ R
   ⼼ + 17
 U
   U+61FA
+A
+  ==
+  - 忏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.64 杉) 懺悔自陳其悔也
@@ -765,6 +781,7 @@ U
 A
   ==
   - $慙4
+  - 惭 (Mainland simplified)
   ==
 F
   ==
@@ -983,6 +1000,10 @@ R
   ⾔ + 17
 U
   U+8B92
+A
+  ==
+  - 谗 (Mainland simplified)
+  ==
 F
   ==
   - (F2.63 讒) 讒佞也毀譖良善曰讒
@@ -1038,6 +1059,10 @@ R
   ⾷ + 17
 U
   U+995E
+A
+  ==
+  - 馋 (Mainland simplified)
+  ==
 F
   ==
   - (F2.63 饞) 貪饕也
@@ -1100,6 +1125,10 @@ R
   ⽊ + 8
 U
   U+68D6
+A
+  ==
+  - 枨 (Mainland simplified)
+  ==
 V
   ==
   - caan5 (per Williams)
@@ -1147,6 +1176,7 @@ U
 A
   ==
   - $劖5 (for vernacular "pierce" sense)
+  - 錾 (Mainland simplified)
   ==
 V
   ==

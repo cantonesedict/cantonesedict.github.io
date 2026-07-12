@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -294,6 +294,10 @@ R
   ⼿ + 13
 U
   U+64BE
+A
+  ==
+  - 挝 (Mainland simplified)
+  ==
 F
   ==
   - (F2.74 撾) 擊鼓曰撾
@@ -504,6 +508,10 @@ R
   ⿂ + 5
 U
   U+9B93
+A
+  ==
+  - 鲊 (Mainland simplified)
+  ==
 F
   ==
   - (F2.75 鮓) 魚鮓肉鮓
@@ -977,6 +985,10 @@ R
   ⾔ + 5
 U
   U+8A50
+A
+  ==
+  - 诈 (Mainland simplified)
+  ==
 F
   ==
   - (F2.76 詐) 好僞也
@@ -1146,6 +1158,10 @@ R
   ⿂ + 5
 U
   U+9B93
+A
+  ==
+  - 鲊 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

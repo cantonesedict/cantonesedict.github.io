@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1146,6 +1146,10 @@ R
   ⾙ + 4
 U
   U+8CA9
+A
+  ==
+  - 贩 (Mainland simplified)
+  ==
 V
   ==
   - faan3-2 (vernacular rising-tone noun)
@@ -1447,6 +1451,10 @@ R
   ⾴ + 4
 U
   U+7169
+A
+  ==
+  - 烦 (Mainland simplified)
+  ==
 V
   ==
   - faan4-2 (rising second in vernacular 煩煩地)
@@ -1581,6 +1589,10 @@ R
   ⽯ + 15
 U
   U+792C
+A
+  ==
+  - 矾 (Mainland simplified)
+  ==
 F
   ==
   - (F2.68 礬) 白礬
@@ -2283,6 +2295,11 @@ R
   ⾷ + 4
 U
   U+98EF
+A
+  ==
+  - 飰
+  - 饭 (Mainland simplified)
+  ==
 V
   ==
   - faan5 (per 《廣韻》扶晚切 rising for verb sense)

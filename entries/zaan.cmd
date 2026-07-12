@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,6 +256,10 @@ R
   ⽫ + 8
 U
   U+76DE
+A
+  ==
+  - 盏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.69 盞) 酒盞
@@ -312,6 +316,7 @@ U
 A
   ==
   - 䟎
+  - 趱 (Mainland simplified)
   ==
 V
   ==
@@ -513,6 +518,7 @@ U
 A
   ==
   - 瓉
+  - 瓒 (Mainland simplified)
   ==
 V
   ==
@@ -562,6 +568,7 @@ A
   ==
   - 讃
   - $贊3
+  - 赞 (Mainland simplified)
   ==
 F
   ==
@@ -623,6 +630,7 @@ A
   ==
   - $讚3
   - 賛
+  - 赞 (Mainland simplified)
   ==
 F
   ==
@@ -781,6 +789,10 @@ R
   ⽊ + 8
 U
   U+68E7
+A
+  ==
+  - 栈 (Mainland simplified)
+  ==
 V
   ==
   - zaan2 (per Kangxi 阻限切 for "small-bridge" sense)
@@ -843,6 +855,10 @@ R
   ⽷ + 8
 U
   U+7DBB
+A
+  ==
+  - 绽 (Mainland simplified)
+  ==
 F
   ==
   - (F2.71 綻) 衣縫裂也事不完全曰破綻
@@ -969,6 +985,7 @@ U
 A
   ==
   - $贃6
+  - 赚 (Mainland simplified)
   ==
 V
   ==
@@ -1095,6 +1112,10 @@ R
   ⾷ + 12
 U
   U+994C
+A
+  ==
+  - 馔 (Mainland simplified)
+  ==
 F
   ==
   - (F2.71 饌) 具食

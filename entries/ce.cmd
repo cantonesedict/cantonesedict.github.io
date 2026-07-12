@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -170,6 +170,10 @@ R
   ⾞ + 0
 U
   U+8ECA
+A
+  ==
+  - 车 (Mainland simplified)
+  ==
 F
   ==
   - (F2.83 車) 輪輿總名車屬

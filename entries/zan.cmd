@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2026-03-07
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -338,6 +338,10 @@ R
   ⾙ + 7
 U
   U+8CD1
+A
+  ==
+  - 赈 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -574,6 +578,7 @@ U
 A
   ==
   - $振3
+  - 赈 (Mainland simplified)
   ==
 F
   ==
@@ -645,6 +650,7 @@ U
 A
   ==
   - $鎭3
+  - 镇 (Mainland simplified)
   ==
 F
   ==
@@ -795,6 +801,7 @@ U
 A
   ==
   - $陳6
+  - 阵 (Mainland simplified)
   ==
 V
   ==

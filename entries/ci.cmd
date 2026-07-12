@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-06-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -582,6 +582,10 @@ R
   ⿃ + 5
 U
   U+9D1F
+A
+  ==
+  - 鸱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.36 鴟) ::鴟鴞惡鳥[攫]鳥子而食者::
@@ -1395,6 +1399,10 @@ R
   ⿒ + 0
 U
   U+9F52
+A
+  ==
+  - 齿 (Mainland simplified)
+  ==
 F
   ==
   - (F1.39 齒) 牙齒又年齒也
@@ -1697,6 +1705,7 @@ U
 A
   ==
   - $織3
+  - 帜 (Mainland simplified)
   ==
 V
   ==
@@ -1735,6 +1744,7 @@ U
 A
   ==
   - $厠3
+  - 厕 (Mainland simplified)
   ==
 V
   ==
@@ -1912,6 +1922,10 @@ R
   ⽕ + 12
 U
   U+71BE
+A
+  ==
+  - 炽 (Mainland simplified)
+  ==
 F
   ==
   - (F1.42 熾) 火盛
@@ -2103,6 +2117,10 @@ R
   ⾙ + 8
 U
   U+8CDC
+A
+  ==
+  - 赐 (Mainland simplified)
+  ==
 V
   ==
   - si3 (per 《廣韻》斯義切)
@@ -2236,6 +2254,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($兹4)
 - ($呰4)
 - $坻4
 - $墀4
@@ -2269,6 +2288,27 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 兹4 | _(4)Ts(')z'_ [[ci4]]
+
+$$.
+R
+  ⼋ + 7
+U
+  U+5179
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 茲. **See $茲ci4 for the canonical entry.**
+  ++
+S
+  ==
+  - ($兹zi1)
+  ==
+$$
 
 ###+ 呰4 | _(4)Ts(')z'_ [[ci4]]
 
@@ -2848,6 +2888,10 @@ R
   ⾁ + 14
 U
   U+81CD
+A
+  ==
+  - 脐 (Mainland simplified)
+  ==
 F
   ==
   - (F2.34 臍) 肚臍
@@ -2929,6 +2973,10 @@ R
   ⾋ + 6
 U
   U+8332
+A
+  ==
+  - $兹4
+  ==
 F
   [[Not present]]
 W
@@ -2980,6 +3028,7 @@ U
 A
   ==
   - $辭4
+  - 词 (Mainland simplified)
   ==
 F
   ==
@@ -3194,6 +3243,7 @@ U
 A
   ==
   - 遟
+  - 迟 (Mainland simplified)
   ==
 V
   ==
@@ -3317,6 +3367,10 @@ R
   ⾺ + 3
 U
   U+99B3
+A
+  ==
+  - 驰 (Mainland simplified)
+  ==
 F
   ==
   - (F1.38 馳) 馳驅又馳騖
@@ -3369,6 +3423,7 @@ H
 A
   ==
   - $鷀4
+  - 鹚 (Mainland simplified)
   ==
 F
   ==

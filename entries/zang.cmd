@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-03-07
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,13 +67,17 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### ~~净~~``凈``1 | _(1)Chang_ [[zang1]]
+###+ 凈1 | _(1)Chang_ [[zang1]]
 
 $$
 R
   ⼎ + 8
 U
   U+51C8
+A
+  ==
+  - 净
+  ==
 V
   ==
   - caang1 (per 《廣韻》楚耕切)
@@ -83,7 +87,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 ::(1)~~净~~``凈``::]]
+  - [[Page~20|n63 (1)净; here normalised to 凈]]
     ==
     - Cold, shivering [[Kangxi 凈: 冷貌]].
     ==
@@ -151,6 +155,10 @@ R
   ⼭ + 8
 U
   U+5D22
+A
+  ==
+  - 峥
+  ==
 V
   ==
   - caang4 (per 《廣韻》助庚切)
@@ -240,6 +248,10 @@ R
   ⼿ + 8
 U
   U+6399
+A
+  ==
+  - 挣
+  ==
 F
   [[Not present]]
 W
@@ -345,6 +357,10 @@ R
   ⽖ + 4
 U
   U+722D
+A
+  ==
+  - 争
+  ==
 V
   ==
   - zaang1 (longer syllable)
@@ -521,6 +537,10 @@ R
   ⽬ + 8
 U
   U+775C
+A
+  ==
+  - 睁
+  ==
 F
   [[Not present]]
 W
@@ -538,6 +558,10 @@ R
   ⽵ + 8
 U
   U+7B8F
+A
+  ==
+  - 筝
+  ==
 V
   ==
   - zaang1 (longer syllable)
@@ -575,6 +599,10 @@ R
   ⽷ + 12
 U
   U+7E52
+A
+  ==
+  - 缯 (Mainland simplified)
+  ==
 V
   ==
   - cang4 (per 《廣韻》疾陵切)
@@ -658,6 +686,10 @@ U
 H
   May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here),
   depending on the font.
+A
+  ==
+  - 铮 (Mainland simplified)
+  ==
 V
   ==
   - caang1 (per 《廣韻》楚耕切)
@@ -707,6 +739,10 @@ R
   ⼿ + 8
 U
   U+6399
+A
+  ==
+  - 挣
+  ==
 F
   [[Not present]]
 W
@@ -806,7 +842,9 @@ H
   depending on the font.
 A
   ==
+  - 争
   - $爭3
+  - 诤 (Mainland simplified)
   ==
 V
   ==
@@ -910,6 +948,10 @@ R
   ⾙ + 12
 U
   U+8D08
+A
+  ==
+  - 赠 (Mainland simplified)
+  ==
 F
   ==
   - (F2.32 贈) 送也

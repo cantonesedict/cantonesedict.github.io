@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,6 +83,10 @@ R
   ⽊ + 13
 U
   U+6A89
+A
+  ==
+  - 柽 (Mainland simplified)
+  ==
 F
   ==
   - (F1.71 檉 _(2)Ch(')ing_ (cing2)) 河邊柳
@@ -268,6 +272,7 @@ U
 A
   ==
   - $秤1 (for "weigh" sense)
+  - 称 (Mainland simplified)
   ==
 F
   ==
@@ -425,6 +430,10 @@ R
   ⾍ + 13
 U
   U+87F6
+A
+  ==
+  - 蛏 (Mainland simplified)
+  ==
 V
   ==
   - sing3 (common)
@@ -458,6 +467,7 @@ U
 A
   ==
   - 䞓
+  - 赪 (Mainland simplified)
   ==
 V
   ==
@@ -744,6 +754,10 @@ U
 H
   May appear as either ⿰訁靑 or ⿰訁青 (assumed here),
   depending on the font.
+A
+  ==
+  - 请 (Mainland simplified)
+  ==
 V
   ==
   - ceng2 (vernacular)
@@ -1026,6 +1040,10 @@ R
   ⽲ + 9
 U
   U+7A31
+A
+  ==
+  - 称 (Mainland simplified)
+  ==
 F
   ==
   - (F1.73 稱) 度量也快意曰稱意又均等也

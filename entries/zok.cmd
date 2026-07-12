@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-04-12
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -485,6 +485,10 @@ R
   ⾦ + 20
 U
   U+947F
+A
+  ==
+  - 凿 (Mainland simplified)
+  ==
 V
   ==
   - zok3 (per 《廣韻》則落切 for "bright/clear" sense)
@@ -560,6 +564,10 @@ R
   ⿃ + 11
 U
   U+9DDF
+A
+  ==
+  - {𬸦=⿱族鸟} (Mainland simplified)
+  ==
 V
   ==
   - zuk6 (per Kangxi 叶昨木切 and Fan Wan)

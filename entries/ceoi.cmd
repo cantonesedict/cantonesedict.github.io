@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -409,6 +409,7 @@ U
 A
   ==
   - $衰1
+  - 缞 (Mainland simplified)
   ==
 F
   ==
@@ -1167,6 +1168,7 @@ U
 A
   ==
   - $覰3
+  - 觑 (Mainland simplified)
   ==
 F
   ==
@@ -1771,6 +1773,10 @@ R
   ⾜ + 15
 U
   U+8E95
+A
+  ==
+  - 蹰
+  ==
 V
   ==
   - cyu4 (alternative)
@@ -1815,6 +1821,7 @@ U
 A
   ==
   - $鎚4 (for "hammer" senses)
+  - 锤 (Mainland simplified)
   ==
 V
   ==
@@ -2008,6 +2015,10 @@ R
   ⾩ + 13
 U
   U+96A8
+A
+  ==
+  - 随 (Mainland simplified)
+  ==
 F
   ==
   - (F2.56 隨) 從也順也

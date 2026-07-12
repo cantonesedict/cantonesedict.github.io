@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -117,6 +117,9 @@ W
         [[cin1 jat1 bat1 goi2 千一不改]],
         a thousand to one he'll not reform.
     ==
+    --
+    [[Otherwise, an alternative form of 韆. **See $韆cin1 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -305,6 +308,10 @@ U
 H
   May appear as either ⿰革⿺辶⿳覀大㔾 (+15 assumed here) or ⿰革⿺辶⿳覀大巳 (+16),
   depending on the font.
+A
+  ==
+  - $千1
+  ==
 F
   ==
   - (F1.19 韆) 鞦韆
@@ -391,6 +398,10 @@ R
   ⽔ + 8
 U
   U+6DFA
+A
+  ==
+  - 浅 (Mainland simplified)
+  ==
 F
   ==
   - (F1.22 淺) 不深也
@@ -654,6 +665,10 @@ R
   ⽺ + 15
 U
   U+7E8F
+A
+  ==
+  - 缠 (Mainland simplified)
+  ==
 V
   ==
   - zin6 (alternative per 《廣韻》持碾切)
@@ -756,6 +771,10 @@ R
   ⾦ + 8
 U
   U+9322
+A
+  ==
+  - 钱 (Mainland simplified)
+  ==
 V
   ==
   - cin4-2 (vernacular for "money" sense)
@@ -919,6 +938,10 @@ R
   ⾜ + 8
 U
   U+8E10
+A
+  ==
+  - 践 (Mainland simplified)
+  ==
 V
   ==
   - cin2 (common)

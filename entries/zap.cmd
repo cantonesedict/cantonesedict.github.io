@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2026-03-08
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,6 +77,10 @@ R
   ⼟ + 8
 U
   U+57F7
+A
+  ==
+  - 执 (Mainland simplified)
+  ==
 F
   ==
   - (F2.39 執) 持守也拘也捕也
@@ -271,6 +275,10 @@ R
   ⽷ + 11
 U
   U+7E36
+A
+  ==
+  - 絷 (Mainland simplified)
+  ==
 F
   ==
   - (F2.39 縶) ::羈係也[絆]馬足曰縶::

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -206,6 +206,10 @@ W
     [[Otherwise, an alternative form of 滋. **See $滋zi1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - ($兹ci4)
+  ==
 $$
 
 ###+ 卮1 | _(1)Ch(i/)_ [[zi1]]
@@ -642,6 +646,10 @@ R
   ⽊ + 7
 U
   U+6894
+A
+  ==
+  - 栀
+  ==
 F
   ==
   - (F1.36 梔) ::梔子核可[染]物::
@@ -971,6 +979,10 @@ U
 H
   May appear as either ⿰糹甾 (+8 assumed here) or ⿰糹⿱⿻巛一田 (+9),
   depending on the font.
+A
+  ==
+  - 缁 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1535,6 +1547,7 @@ U
 A
   ==
   - $訾1
+  - 赀 (Mainland simplified)
   ==
 F
   ==
@@ -1577,6 +1590,7 @@ A
   ==
   - $貲1
   - $齎1
+  - 资 (Mainland simplified)
   ==
 F
   ==
@@ -1713,6 +1727,7 @@ U
 A
   ==
   - 輺
+  - 辎 (Mainland simplified)
   ==
 F
   ==
@@ -1754,6 +1769,7 @@ U
 A
   ==
   - 鍿
+  - 锱 (Mainland simplified)
   ==
 F
   ==
@@ -1794,6 +1810,10 @@ U
 H
   May appear as either ⿰釒兹 (+9 assumed here) or ⿰釒茲 (+10),
   depending on the font.
+A
+  ==
+  - 镃 (Mainland simplified)
+  ==
 F
   ==
   - (F2.34 鎡) 鋤頭之屬
@@ -3151,6 +3171,7 @@ U
 A
   ==
   - $帋2
+  - 纸 (Mainland simplified)
   ==
 F
   ==
@@ -3535,6 +3556,10 @@ R
   ⾞ + 5
 U
   U+8EF9
+A
+  ==
+  - 轵 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -3979,6 +4004,10 @@ R
   ⽔ + 11
 U
   U+6F2C
+A
+  ==
+  - 渍 (Mainland simplified)
+  ==
 V
   ==
   - zi6 (per 《廣韻》疾智切)
@@ -4511,6 +4540,10 @@ R
   ⾓ + 12
 U
   U+89F6
+A
+  ==
+  - 觯 (Mainland simplified)
+  ==
 V
   ==
   - zi1 (alternative per 《廣韻》章移切)
@@ -4632,6 +4665,11 @@ R
   ⾙ + 8
 U
   U+8CEA
+A
+  ==
+  - 貭
+  - 质 (Mainland simplified)
+  ==
 F
   ==
   - (F1.41 質) 留人爲當以要信也
@@ -4682,6 +4720,7 @@ A
   ==
   - $摯3
   - $質3
+  - 贽 (Mainland simplified)
   ==
 F
   ==
@@ -4729,6 +4768,7 @@ U
 A
   ==
   - $疐3
+  - 踬 (Mainland simplified)
   ==
 F
   ==
@@ -4761,6 +4801,10 @@ R
   ⾞ + 6
 U
   U+8F0A
+A
+  ==
+  - 轾 (Mainland simplified)
+  ==
 F
   ==
   - (F1.41 輊) 車之覆而前也
@@ -4794,6 +4838,7 @@ A
   - $菑3
   - 葘
   - 輺
+  - 辎 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -4828,6 +4873,7 @@ U
 A
   ==
   - $摯3
+  - 鸷 (Mainland simplified)
   ==
 F
   ==
@@ -6105,6 +6151,7 @@ U
 A
   ==
   - 遟
+  - 迟 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -6286,6 +6333,7 @@ U
 A
   ==
   - $飤6
+  - 饲 (Mainland simplified)
   ==
 F
   ==

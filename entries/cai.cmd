@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -145,6 +145,10 @@ R
   ⼼ + 8
 U
   U+60BD
+A
+  ==
+  - 凄 (Mainland simplified)
+  ==
 F
   ==
   - (F1.28 悽) 悲也
@@ -525,6 +529,10 @@ R
   ⼝ + 14
 U
   U+568C
+A
+  ==
+  - 哜 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -593,6 +601,10 @@ R
   ⾍ + 14
 U
   U+8810
+A
+  ==
+  - 蛴 (Mainland simplified)
+  ==
 F
   ==
   - (F1.30 蠐) 螬蠐蟲名
@@ -631,6 +643,10 @@ R
   ⿑ + 0
 U
   U+9F4A
+A
+  ==
+  - 齐 (Mainland simplified)
+  ==
 F
   ==
   - (F1.30 齊) 整齊不參差也又國名
@@ -757,6 +773,10 @@ R
   ⾋ + 14
 U
   U+85BA
+A
+  ==
+  - 荠 (Mainland simplified)
+  ==
 F
   ==
   - (F1.31 薺) 甘菜
@@ -806,6 +826,8 @@ U
 A
   ==
   - $鮆5
+  - 鲚 (Mainland simplified)
+  - {𫚖=⿱此鱼} (Mainland simplified)
   ==
 F
   [[Not present]]

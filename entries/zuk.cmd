@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,6 +69,10 @@ R
   ⼝ + 21
 U
   U+56D1
+A
+  ==
+  - 嘱
+  ==
 F
   ==
   - (F1.63 囑) 囑括又吩咐也
@@ -212,6 +216,10 @@ R
   ⽕ + 13
 U
   U+71ED
+A
+  ==
+  - 烛
+  ==
 F
   ==
   - (F1.63 燭) 火燭
@@ -279,6 +287,10 @@ R
   ⽬ + 21
 U
   U+77DA
+A
+  ==
+  - 瞩
+  ==
 F
   ==
   - (F1.63 矚) 視之甚也
@@ -486,6 +498,10 @@ R
   ⽵ + 10
 U
   U+7BC9
+A
+  ==
+  - 筑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.63 築) 擣也築室築城
@@ -591,6 +607,10 @@ R
   ⾓ + 13
 U
   U+89F8
+A
+  ==
+  - 触
+  ==
 V
   ==
   - cuk1 (per 《廣韻》尺玉切)
@@ -960,6 +980,10 @@ R
   ⽔ + 13
 U
   U+6FC1
+A
+  ==
+  - 浊
+  ==
 V
   ==
   - zuk6-2 (rising second in vernacular 濁濁地)
@@ -1047,6 +1071,10 @@ U
 H
   May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠,
   depending on the font.
+A
+  ==
+  - 续 (Mainland simplified)
+  ==
 F
   ==
   - (F1.66 續) 繼續連續
@@ -1237,6 +1265,7 @@ U
 A
   ==
   - $柚6 (for "spindle/spool" sense)
+  - 轴 (Mainland simplified)
   ==
 F
   ==
@@ -1345,6 +1374,7 @@ U
 A
   ==
   - $族6 (for "arrowhead" sense)
+  - 镞 (Mainland simplified)
   ==
 V
   ==

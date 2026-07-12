@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -793,6 +793,7 @@ U
 A
   ==
   - $竄3 (for "tempt" sense)
+  - 撺 (Mainland simplified)
   ==
 V
   ==
@@ -902,6 +903,10 @@ R
   ⽳ + 13
 U
   U+7AC4
+A
+  ==
+  - 窜 (Mainland simplified)
+  ==
 V
   ==
   - cyun2 (per Fan Wan)
@@ -966,6 +971,10 @@ R
   ⾦ + 3
 U
   U+91E7
+A
+  ==
+  - 钏 (Mainland simplified)
+  ==
 V
   ==
   - cyun1 (common)
@@ -1021,6 +1030,10 @@ R
   ⼈ + 11
 U
   U+50B3
+A
+  ==
+  - 传 (Mainland simplified)
+  ==
 F
   ==
   - (F2.21 傳) ::傳[授]傳布傳[遞]又續也::
@@ -1241,6 +1254,7 @@ A
   - 攅
   - 櫕
   - $欑4
+  - 攒 (Mainland simplified)
   ==
 V
   ==
@@ -1455,6 +1469,10 @@ R
   ⾔ + 6
 U
   U+8A6E
+A
+  ==
+  - 诠 (Mainland simplified)
+  ==
 V
   ==
   - cyun1 (per 《廣韻》此縁切)
@@ -1618,6 +1636,10 @@ R
   ⾦ + 6
 U
   U+9293
+A
+  ==
+  - 铨 (Mainland simplified)
+  ==
 V
   ==
   - cyun1 (per 《廣韻》此縁切)
@@ -1666,6 +1688,10 @@ R
   ⿂ + 12
 U
   U+9C52
+A
+  ==
+  - 鳟 (Mainland simplified)
+  ==
 V
   ==
   - zyun1 (common)

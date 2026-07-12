@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-04-29
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -226,6 +226,7 @@ A
   ==
   - $勛1
   - $薰1
+  - 勋 (Mainland simplified)
   ==
 F
   ==
@@ -979,6 +980,7 @@ A
   - $棼1 (for "confused" and "many" senses)
   - $汾1 (for "confused" and "many" senses)
   - $芬1 (for "confused" and "many" senses)
+  - 纷 (Mainland simplified)
   ==
 F
   ==
@@ -1047,6 +1049,10 @@ R
   ⽷ + 14
 U
   U+7E81
+A
+  ==
+  - {𫄸=⿰纟熏} (Mainland simplified)
+  ==
 F
   ==
   - (F1.80 纁) 淡紅色也
@@ -1134,6 +1140,7 @@ A
   - $焄1
   - $蔒1
   - $薰1
+  - 荤 (Mainland simplified)
   ==
 F
   ==
@@ -1290,6 +1297,7 @@ U
 A
   ==
   - {𨵽=⿵門昬}
+  - 阍 (Mainland simplified)
   ==
 F
   ==
@@ -1671,6 +1679,10 @@ R
   ⽶ + 11
 U
   U+7CDE
+A
+  ==
+  - 粪 (Mainland simplified)
+  ==
 F
   ==
   - (F1.85 糞) ::糞[穢]又壅也::
@@ -1723,6 +1735,10 @@ R
   ⾔ + 3
 U
   U+8A13
+A
+  ==
+  - 训 (Mainland simplified)
+  ==
 F
   ==
   - (F1.85 訓) 敎訓也又誡也
@@ -1797,6 +1813,10 @@ U
 H
   May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
+A
+  ==
+  - 坟 (Mainland simplified)
+  ==
 F
   ==
   - (F1.81 墳) 墳墓又墳典言書籍也
@@ -2019,6 +2039,10 @@ U
 H
   May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
+A
+  ==
+  - {𣸣=⿰氵贲} (Mainland simplified)
+  ==
 F
   ==
   - (F1.81 濆) 水涯
@@ -2169,6 +2193,10 @@ U
 H
   May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
   depending on the font.
+A
+  ==
+  - 贲 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -2248,6 +2276,7 @@ A
   ==
   - $焚5
   - $賁5
+  - 偾 (Mainland simplified)
   ==
 V
   ==
@@ -2299,6 +2328,10 @@ U
 H
   May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
+A
+  ==
+  - 坟 (Mainland simplified)
+  ==
 V
   ==
   - bun6 (per 《集韻》部本切 for "raised" sense)
@@ -2341,6 +2374,10 @@ R
   ⼤ + 13
 U
   U+596E
+A
+  ==
+  - 奋 (Mainland simplified)
+  ==
 V
   ==
   - fan3 (per 《廣韻》方問切)
@@ -2455,6 +2492,7 @@ A
   ==
   - $忿5 (for "anger" sense)
   - $賁5
+  - 愤 (Mainland simplified)
   ==
 F
   ==
@@ -2549,6 +2587,10 @@ U
 H
   May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
   depending on the font.
+A
+  ==
+  - 贲 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,6 +100,10 @@ R
   ⼝ + 11
 U
   U+5616
+A
+  ==
+  - 啧 (Mainland simplified)
+  ==
 V
   ==
   - zaak6 (per 《廣韻》士革切 for "cry-out" sense)
@@ -467,6 +471,10 @@ R
   ⽵ + 11
 U
   U+7C00
+A
+  ==
+  - 箦 (Mainland simplified)
+  ==
 V
   ==
   - zak1 (per Fan Wan)
@@ -564,6 +572,10 @@ R
   ⾙ + 4
 U
   U+8CAC
+A
+  ==
+  - 责 (Mainland simplified)
+  ==
 F
   ==
   - (F2.32 責 _Chak(7)_ (zak1)) 責罰責成
@@ -821,6 +833,10 @@ R
   ⼿ + 13
 U
   U+64C7
+A
+  ==
+  - 择 (Mainland simplified)
+  ==
 F
   ==
   - (F2.89 擇) 揀擇選擇
@@ -884,6 +900,10 @@ R
   ⼿ + 15
 U
   U+64F2
+A
+  ==
+  - 掷 (Mainland simplified)
+  ==
 F
   ==
   - (F2.89 擲) 棄擲
@@ -922,6 +942,10 @@ R
   ⽔ + 13
 U
   U+6FA4
+A
+  ==
+  - 泽 (Mainland simplified)
+  ==
 F
   ==
   - (F2.89 澤) 恩澤惠澤潤澤雨澤
@@ -1067,6 +1091,7 @@ U
 A
   ==
   - $讁6
+  - 谪 (Mainland simplified)
   ==
 V
   ==
@@ -1163,6 +1188,7 @@ U
 A
   ==
   - $蹢6
+  - 踯 (Mainland simplified)
   ==
 V
   ==

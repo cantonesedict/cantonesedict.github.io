@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,6 +172,10 @@ R
   ⽄ + 7
 U
   U+65AC
+A
+  ==
+  - 斩 (Mainland simplified)
+  ==
 F
   ==
   - (F2.64 斬) 截也斷也
@@ -401,6 +405,10 @@ R
   ⼿ + 17
 U
   U+6519
+A
+  ==
+  - 搀 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -428,6 +436,10 @@ R
   ⽇ + 11
 U
   U+66AB
+A
+  ==
+  - 暂 (Mainland simplified)
+  ==
 F
   ==
   - (F2.65 暫) 卽淡切暫時間言不久也
@@ -528,6 +540,10 @@ R
   ⾙ + 10
 U
   U+8CFA
+A
+  ==
+  - 赚 (Mainland simplified)
+  ==
 F
   ==
   - (F2.65 賺) ::中淡切猶眈誤也阻之也生意[獲]利亦曰賺::

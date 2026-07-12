@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,6 +67,10 @@ R
   ⼑ + 14
 U
   U+5291
+A
+  ==
+  - 剂 (Mainland simplified)
+  ==
 V
   ==
   - zai6 (per 《廣韻》在詣切 for verb(?) senses)
@@ -147,6 +151,10 @@ R
   ⼿ + 14
 U
   U+64E0
+A
+  ==
+  - 挤 (Mainland simplified)
+  ==
 V
   ==
   - zai3 (alternative per 《廣韻》子計切)
@@ -281,6 +289,10 @@ R
   ⾜ + 14
 U
   U+8E8B
+A
+  ==
+  - 跻 (Mainland simplified)
+  ==
 V
   ==
   - zai3 (alternative per 《廣韻》子計切)
@@ -327,6 +339,7 @@ U
 A
   ==
   - $躋1 (for "ascend" sense)
+  - {𬯀=⿰阝齐} (Mainland simplified)
   ==
 V
   ==
@@ -383,6 +396,7 @@ A
   ==
   - $賫1
   - $賷1
+  - 赍 (Mainland simplified)
   ==
 V
   ==
@@ -454,6 +468,10 @@ R
   ⿑ + 9
 U
   U+9F4F
+A
+  ==
+  - 齑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.28 虀) 薑蒜爲之又碎也和也
@@ -592,6 +610,10 @@ R
   ⽔ + 14
 U
   U+6FDF
+A
+  ==
+  - 济 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -887,6 +909,10 @@ R
   ⽔ + 14
 U
   U+6FDF
+A
+  ==
+  - 济 (Mainland simplified)
+  ==
 F
   ==
   - (F1.32 濟) 周濟又通也
@@ -1098,6 +1124,10 @@ R
   ⾩ + 11
 U
   U+969B
+A
+  ==
+  - 际 (Mainland simplified)
+  ==
 F
   ==
   - (F1.32 際) 交會也又邊畔也
@@ -1144,6 +1174,10 @@ R
   ⾩ + 14
 U
   U+96AE
+A
+  ==
+  - {𬯀=⿰阝齐} (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1176,6 +1210,7 @@ U
 A
   ==
   - $濟3
+  - 霁 (Mainland simplified)
   ==
 V
   ==
@@ -1234,6 +1269,10 @@ R
   ⼝ + 14
 U
   U+568C
+A
+  ==
+  - 哜 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1322,6 +1361,10 @@ R
   ⽔ + 11
 U
   U+6EEF
+A
+  ==
+  - 滞 (Mainland simplified)
+  ==
 V
   ==
   - zai6-2 (rising second in vernacular 滯滯地)

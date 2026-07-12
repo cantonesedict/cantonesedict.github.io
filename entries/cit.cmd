@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,6 +172,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
   depending on the font.
+A
+  ==
+  - 彻 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 徹) 通明也透也
@@ -339,6 +343,10 @@ R
   ⾔ + 4
 U
   U+8A2D
+A
+  ==
+  - 设 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 設) 置主也陳設也
@@ -412,6 +420,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
   depending on the font.
+A
+  ==
+  - 辙 (Mainland simplified)
+  ==
 V
   ==
   - zit6 (per 《廣韻》直列切)

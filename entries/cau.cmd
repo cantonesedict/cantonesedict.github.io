@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-04-06
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -586,6 +586,9 @@ W
         [[cau1 hei3 秋氣]]
         cool autumnal weather.
     ==
+    --
+    [[Otherwise, an alternative form of 鞦. **See $鞦cau1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -631,6 +634,10 @@ R
   ⽷ + 5
 U
   U+7D2C
+A
+  ==
+  - 䌷 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -656,6 +663,10 @@ R
   ⾰ + 9
 U
   U+97A6
+A
+  ==
+  - $秋1
+  ==
 F
   ==
   - (F1.50 鞦) ::馬[靷]又鞦韆::
@@ -712,6 +723,7 @@ U
 A
   ==
   - $鰌1
+  - 鳅 (Mainland simplified)
   ==
 F
   ==
@@ -748,6 +760,10 @@ R
   ⿃ + 9
 U
   U+9D96
+A
+  ==
+  - 鹙 (Mainland simplified)
+  ==
 F
   ==
   - (F1.50 鶖) 秃鶖食魚之鳥
@@ -856,6 +872,10 @@ R
   ⾣ + 10
 U
   U+919C
+A
+  ==
+  - 丑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.54 醜) 惡也不美也又醜類
@@ -1312,6 +1332,10 @@ R
   ⾞ + 9
 U
   U+8F33
+A
+  ==
+  - 辏 (Mainland simplified)
+  ==
 F
   ==
   - (F1.55 輳) 輻輳猶聚集也
@@ -1406,6 +1430,10 @@ R
   ⼈ + 14
 U
   U+5114
+A
+  ==
+  - 俦 (Mainland simplified)
+  ==
 F
   ==
   - (F1.52 儔) 侣也衆也等類也
@@ -1496,6 +1524,10 @@ R
   ⼱ + 14
 U
   U+5E6C
+A
+  ==
+  - 帱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1601,6 +1633,7 @@ U
 A
   ==
   - $儔4 (for "who" sense)
+  - 畴 (Mainland simplified)
   ==
 F
   ==
@@ -1703,6 +1736,10 @@ R
   ⽵ + 14
 U
   U+7C4C
+A
+  ==
+  - 筹 (Mainland simplified)
+  ==
 V
   ==
   - cau4-2 (vernacular rising-tone noun)
@@ -1807,6 +1844,7 @@ U
 A
   ==
   - $紬4 (for "silk" sense)
+  - 绸 (Mainland simplified)
   ==
 F
   ==
@@ -1937,6 +1975,7 @@ U
 A
   ==
   - $讐4
+  - 雠 (Mainland simplified)
   ==
 V
   ==
@@ -2032,6 +2071,10 @@ R
   ⾜ + 14
 U
   U+8E8A
+A
+  ==
+  - 踌 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-06-27
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,6 +78,10 @@ R
   ⼈ + 9
 U
   U+5075
+A
+  ==
+  - 侦 (Mainland simplified)
+  ==
 V
   ==
   - cing1 (per 《廣韻》丑貞切)
@@ -365,6 +369,10 @@ R
   ⽊ + 9
 U
   U+6968
+A
+  ==
+  - 桢 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 楨) ::楨[榦]::
@@ -544,6 +552,10 @@ R
   ⽧ + 15
 U
   U+7665
+A
+  ==
+  - 症 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 癥) 腹内結疾
@@ -562,6 +574,7 @@ W
 C
   ==
   - Williams' 癥瘕: Corrected _(1)h(a/)_ (haa1) to _(2)k(a/)_ (gaa2).
+  - Used in 癥結 (sticking point or deadlock).
   ==
 $$
 
@@ -614,6 +627,10 @@ R
   ⽰ + 9
 U
   U+798E
+A
+  ==
+  - 祯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 禎) 祥也又善也
@@ -922,6 +939,7 @@ U
 A
   ==
   - $偵1
+  - 贞 (Mainland simplified)
   ==
 F
   ==
@@ -973,6 +991,10 @@ R
   ⾦ + 5
 U
   U+9266
+A
+  ==
+  - 钲 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 鉦) 鐃也
@@ -1527,6 +1549,10 @@ R
   ⾔ + 5
 U
   U+8A3C
+A
+  ==
+  - 证 (Mainland simplified)
+  ==
 F
   ==
   - (F1.72 証) 騐也考也
@@ -1564,6 +1590,7 @@ U
 A
   ==
   - $証3
+  - 证 (Mainland simplified)
   ==
 F
   ==
@@ -1641,6 +1668,7 @@ U
   U+6DE8
 A
   ==
+  - 净
   - 凈
   - 瀞
   ==
@@ -1654,7 +1682,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 ::(1)~~净~~``凈``::]]
+  - [[Page~20|n63 (1)净]]
     --
     [[...]]
     --
@@ -1888,6 +1916,10 @@ U
 H
   May appear as either ⿰靑見 or ⿰青見 (assumed here),
   depending on the font.
+A
+  ==
+  - 靓 (Mainland simplified)
+  ==
 F
   ==
   - (F1.73 靚) 女容徐靚粉白黛黑謂之靚粧
@@ -1929,6 +1961,7 @@ H
   depending on the font.
 A
   ==
+  - 静
   - $靚6
   ==
 V

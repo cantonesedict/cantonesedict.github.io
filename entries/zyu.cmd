@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -438,6 +438,10 @@ R
   ⽯ + 6
 U
   U+7843
+A
+  ==
+  - 朱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.43 硃) 銀硃硃砂
@@ -599,6 +603,10 @@ R
   ⾔ + 6
 U
   U+8A85
+A
+  ==
+  - 诛 (Mainland simplified)
+  ==
 F
   ==
   - (F1.43 誅) 征誅
@@ -655,6 +663,10 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+A
+  ==
+  - 诸 (Mainland simplified)
+  ==
 F
   ==
   - (F1.43 諸) 衆也
@@ -843,6 +855,10 @@ R
   ⾦ + 6
 U
   U+9296
+A
+  ==
+  - 铢 (Mainland simplified)
+  ==
 V
   ==
   - syu4 (per 《廣韻》市朱切)
@@ -1631,6 +1647,10 @@ R
   ⾦ + 14
 U
   U+9444
+A
+  ==
+  - 铸 (Mainland simplified)
+  ==
 F
   ==
   - (F1.47 鑄) ::[鎔]鑄::
@@ -1699,6 +1719,10 @@ R
   ⾺ + 5
 U
   U+99D0
+A
+  ==
+  - 驻 (Mainland simplified)
+  ==
 F
   ==
   - (F1.47 駐) 馬止也

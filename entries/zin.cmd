@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -131,6 +131,10 @@ R
   ⼽ + 4
 U
   U+6214
+A
+  ==
+  - 戋 (Mainland simplified)
+  ==
 V
   ==
   - caan4 (per 《廣韻》昨干切)
@@ -365,6 +369,7 @@ U
 A
   ==
   - $淺1
+  - 溅 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -504,6 +509,7 @@ U
 A
   ==
   - $牋1
+  - 笺 (Mainland simplified)
   ==
 F
   ==
@@ -548,6 +554,10 @@ R
   ⽵ + 16
 U
   U+7C5B
+A
+  ==
+  - 篯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.20 籛) 彭祖姓
@@ -694,6 +704,10 @@ R
   ⾴ + 13
 U
   U+986B
+A
+  ==
+  - 颤 (Mainland simplified)
+  ==
 V
   ==
   - sin1 (per 《集韻》尸連切)
@@ -733,6 +747,10 @@ R
   ⾷ + 13
 U
   U+9958
+A
+  ==
+  - {𫗴=⿰饣亶} (Mainland simplified)
+  ==
 V
   ==
   - zin2 (alternative per 《廣韻》旨善切)
@@ -768,6 +786,10 @@ R
   ⿂ + 13
 U
   U+9C63
+A
+  ==
+  - 鳣 (Mainland simplified)
+  ==
 F
   ==
   - (F1.20 鱣) 魚名
@@ -803,6 +825,10 @@ R
   ⿃ + 13
 U
   U+9E07
+A
+  ==
+  - 鹯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.20 鸇) 食雀之鳥
@@ -855,6 +881,10 @@ R
   ⼑ + 8
 U
   U+5257
+A
+  ==
+  - 刬 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1009,6 +1039,10 @@ R
   ⼽ + 10
 U
   U+6229
+A
+  ==
+  - 戬 (Mainland simplified)
+  ==
 F
   ==
   - (F1.22 戩) 盡也
@@ -1178,6 +1212,10 @@ R
   ⾔ + 8
 U
   U+8AD3
+A
+  ==
+  - {𬣡=⿰讠戋} (Mainland simplified)
+  ==
 V
   ==
   - cin5 (per 《廣韻》慈演切)
@@ -1244,6 +1282,7 @@ U
 A
   ==
   - $謭2
+  - 谫 (Mainland simplified)
   ==
 F
   ==
@@ -1279,6 +1318,7 @@ U
 A
   ==
   - $展2
+  - 辗 (Mainland simplified)
   ==
 F
   ==
@@ -1320,6 +1360,10 @@ R
   ⾦ + 8
 U
   U+9322
+A
+  ==
+  - 钱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1348,6 +1392,10 @@ R
   ⾨ + 12
 U
   U+95E1
+A
+  ==
+  - 阐 (Mainland simplified)
+  ==
 V
   ==
   - cin2 (per 《廣韻》昌善切)
@@ -1438,6 +1486,10 @@ R
   ⼽ + 12
 U
   U+6230
+A
+  ==
+  - 战 (Mainland simplified)
+  ==
 F
   ==
   - (F1.25 戰) 閩戰又恐懼貌
@@ -1545,6 +1597,10 @@ R
   ⽔ + 15
 U
   U+6FFA
+A
+  ==
+  - 溅 (Mainland simplified)
+  ==
 F
   ==
   - (F1.23 ::[濺]::) 水激酒也
@@ -1933,6 +1989,10 @@ R
   ⾴ + 13
 U
   U+986B
+A
+  ==
+  - 颤 (Mainland simplified)
+  ==
 V
   ==
   - zin1 (per Fan Wan)
@@ -1983,6 +2043,10 @@ R
   ⾷ + 8
 U
   U+991E
+A
+  ==
+  - 饯 (Mainland simplified)
+  ==
 V
   ==
   - cin5 (per 《廣韻》慈演切)
@@ -2046,6 +2110,10 @@ R
   ⾙ + 8
 U
   U+8CE4
+A
+  ==
+  - 贱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.25 賤) 卑下也

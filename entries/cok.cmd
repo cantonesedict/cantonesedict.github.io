@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -181,6 +181,7 @@ A
   ==
   - $剒3 (for "cut/work" sense)
   - $厝3 (for "whetstone" sense)
+  - 错 (Mainland simplified)
   ==
 F
   ==

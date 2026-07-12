@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-03-14
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -559,6 +559,7 @@ U
 A
   ==
   - $啍1
+  - 谆 (Mainland simplified)
   ==
 V
   ==
@@ -707,6 +708,8 @@ U
   U+5118
 A
   ==
+  - 侭
+  - 尽
   - $盡2
   ==
 V
@@ -895,6 +898,7 @@ U
   U+71FC
 A
   ==
+  - 烬
   - 㶳
   - $藎2 (for "remainder" sense)
   ==
@@ -970,6 +974,10 @@ R
   ⾋ + 14
 U
   U+85CE
+A
+  ==
+  - 荩
+  ==
 V
   ==
   - zeon6 (per 《廣韻》徐刃切)
@@ -1014,7 +1022,9 @@ U
   U+8D10
 A
   ==
+  - 䝲
   - 賮
+  - 赆 (Mainland simplified)
   ==
 V
   ==
@@ -1593,6 +1603,10 @@ U
 H
   May appear as either ⿰糹晉 (assumed here) or ⿰糹晋,
   depending on the font.
+A
+  ==
+  - 缙 (Mainland simplified)
+  ==
 F
   ==
   - (F2.54 縉) ::居官曰縉紳插笏[于]大帶之間曰縉::
@@ -1618,6 +1632,10 @@ R
   ⾡ + 8
 U
   U+9032
+A
+  ==
+  - 进 (Mainland simplified)
+  ==
 F
   ==
   - (F2.53 進) 登也升也向前去也
@@ -1692,6 +1710,11 @@ R
   ⾦ + 13
 U
   U+942B
+A
+  ==
+  - 鎸
+  - 镌 (Mainland simplified)
+  ==
 V
   ==
   - zyun1 (per 《廣韻》子泉切)
@@ -1767,6 +1790,10 @@ R
   ⾷ + 7
 U
   U+9915
+A
+  ==
+  - 馂 (Mainland simplified)
+  ==
 F
   ==
   - (F2.54 餕) 食餘物也
@@ -1796,6 +1823,10 @@ R
   ⾺ + 7
 U
   U+99FF
+A
+  ==
+  - 骏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.54 駿) 良馬
@@ -1918,6 +1949,7 @@ U
 A
   ==
   - $尽6
+  - 䀆
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -565,6 +565,10 @@ R
   ⾦ + 8
 U
   U+9310
+A
+  ==
+  - 锥 (Mainland simplified)
+  ==
 F
   ==
   - (F2.55 錐) 鎗劍之屬
@@ -668,6 +672,10 @@ R
   ⾺ + 8
 U
   U+9A05
+A
+  ==
+  - 骓 (Mainland simplified)
+  ==
 F
   ==
   - (F2.55 騅) 馬之蒼黑者
@@ -962,6 +970,10 @@ R
   ⿒ + 5
 U
   U+9F5F
+A
+  ==
+  - 龃 (Mainland simplified)
+  ==
 V
   ==
   - zeoi6 (per 《廣韻》牀吕切)
@@ -1163,6 +1175,10 @@ R
   ⽷ + 8
 U
   U+7DB4
+A
+  ==
+  - 缀 (Mainland simplified)
+  ==
 V
   ==
   - zeoi6 (per Fan Wan, common)
@@ -1431,6 +1447,7 @@ U
 A
   ==
   - $隊6
+  - 坠 (Mainland simplified)
   ==
 F
   ==
@@ -1633,6 +1650,10 @@ R
   ⽷ + 10
 U
   U+7E0B
+A
+  ==
+  - 缒 (Mainland simplified)
+  ==
 F
   ==
   - (F2.57 縋) 以繩懸物而垂下曰縋
@@ -1835,6 +1856,10 @@ R
   ⾙ + 11
 U
   U+8D05
+A
+  ==
+  - 赘 (Mainland simplified)
+  ==
 V
   ==
   - zeoi3 (per 《廣韻》之芮切)

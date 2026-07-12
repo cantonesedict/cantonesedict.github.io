@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-07-10
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -168,6 +168,10 @@ R
   ⽷ + 8
 U
   U+7DCB
+A
+  ==
+  - 绯 (Mainland simplified)
+  ==
 V
   ==
   - fei2 (common in 緋聞)
@@ -401,6 +405,7 @@ U
 A
   ==
   - $蜚1
+  - 飞 (Mainland simplified)
   ==
 F
   ==
@@ -503,6 +508,7 @@ U
 A
   ==
   - $匪1 (for walking-related senses)
+  - {𬴂=⿰马非} (Mainland simplified)
   ==
 F
   ==
@@ -1002,6 +1008,7 @@ U
 A
   ==
   - $非2
+  - 诽 (Mainland simplified)
   ==
 V
   ==
@@ -1280,6 +1287,10 @@ U
 H
   May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
   depending on the font.
+A
+  ==
+  - 贲 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

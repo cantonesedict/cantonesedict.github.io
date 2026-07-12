@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,6 +65,10 @@ R
   ⼝ + 18
 U
   U+56C1
+A
+  ==
+  - 嗫 (Mainland simplified)
+  ==
 V
   ==
   - jip6 (alternative per 《廣韻》而涉切)
@@ -334,6 +338,10 @@ R
   ⽔ + 7
 U
   U+6D79
+A
+  ==
+  - 浃 (Mainland simplified)
+  ==
 F
   ==
   - (F2.50 浹) 浹洽融？通徹也
@@ -497,6 +505,11 @@ R
   ⾞ + 7
 U
   U+8F12
+A
+  ==
+  - 輙
+  - 辄 (Mainland simplified)
+  ==
 V
   ==
   - zit3 (common)

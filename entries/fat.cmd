@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -663,6 +663,7 @@ A
   - $紼1
   - $韍1
   - $黻1
+  - 绂 (Mainland simplified)
   ==
 F
   ==
@@ -709,6 +710,7 @@ A
   ==
   - $綍1
   - $茀1
+  - 绋 (Mainland simplified)
   ==
 F
   ==
@@ -953,6 +955,7 @@ A
   - $紱1
   - $芾1
   - $黻1
+  - 韨 (Mainland simplified)
   ==
 F
   ==
@@ -1449,6 +1452,10 @@ R
   ⼑ + 12
 U
   U+7F70
+A
+  ==
+  - 罚 (Mainland simplified)
+  ==
 F
   ==
   - (F2.73 罰 _F(a/)t(9)_ (faat6)) ::[責]也[治]也::
@@ -1501,6 +1508,7 @@ U
 A
   ==
   - $伐6
+  - 阀 (Mainland simplified)
   ==
 F
   ==

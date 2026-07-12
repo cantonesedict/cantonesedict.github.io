@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -454,6 +454,10 @@ U
 H
   May appear as either ⿰木⿱𥫗即 (+13 assumed here) or ⿰木⿱𥫗卽 (+15),
   depending on the font.
+A
+  ==
+  - 栉 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 櫛) 櫛風沐雨
@@ -518,6 +522,10 @@ U
 H
   May appear as either ⿸疒⿱𥫗即 (+13 assumed here) or ⿸疒⿱𥫗卽 (+15),
   depending on the font.
+A
+  ==
+  - 疖 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 癤) 小瘡
@@ -547,6 +555,7 @@ A
   - 㔾
   - 卪
   - 岊 (for mountain-related senses)
+  - 节 (Mainland simplified)
   ==
 V
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -246,6 +246,10 @@ R
   ⾦ + 2
 U
   U+91D7
+A
+  ==
+  - 钊 (Mainland simplified)
+  ==
 V
   ==
   - ziu1 (per 《廣韻》止遥切)
@@ -299,6 +303,7 @@ U
 A
   ==
   - $鍫1
+  - 锹 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -605,6 +610,7 @@ U
 A
   ==
   - $譙3
+  - 诮 (Mainland simplified)
   ==
 V
   ==
@@ -1042,6 +1048,7 @@ U
 A
   ==
   - $樵4
+  - 谯 (Mainland simplified)
   ==
 F
   ==

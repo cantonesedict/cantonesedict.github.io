@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-04-15
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -353,6 +353,10 @@ R
   ⽊ + 8
 U
   U+68D7
+A
+  ==
+  - 枣
+  ==
 F
   ==
   - (F2.13 棗 _(2)Ts(u/)_) 果名
@@ -511,6 +515,10 @@ R
   ⽷ + 5
 U
   U+7D44
+A
+  ==
+  - 组 (Mainland simplified)
+  ==
 F
   ==
   - (F2.13 組 _(2)Ts(u/)_) 綬也織也

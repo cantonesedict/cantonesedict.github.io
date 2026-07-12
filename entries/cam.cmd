@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -244,6 +244,10 @@ R
   ⾺ + 7
 U
   U+99F8
+A
+  ==
+  - 骎 (Mainland simplified)
+  ==
 F
   ==
   - (F2.36 駸) 馬疾行也
@@ -325,6 +329,7 @@ U
 A
   ==
   - 寑
+  - 寝 (Mainland simplified)
   ==
 F
   ==
@@ -434,6 +439,11 @@ A
   ==
   - 唚 (for vernacular "long-winded" sense)
   - $譖3 (for vernacular "long-winded" sense)
+  - 谶 (Mainland simplified)
+  ==
+V
+  ==
+  - caam3 (common for "prognostic" sense)
   ==
 F
   ==
@@ -505,6 +515,10 @@ R
   ⼨ + 9
 U
   U+5C0B
+A
+  ==
+  - 寻 (Mainland simplified)
+  ==
 F
   ==
   - (F2.37 尋) 搜求也覓也
@@ -720,6 +734,10 @@ R
   ⽕ + 12
 U
   U+71D6
+A
+  ==
+  - {𬊈=⿰火寻} (Mainland simplified)
+  ==
 F
   ==
   - (F2.37 燖) 火熟物也
@@ -745,6 +763,10 @@ R
   ⾦ + 12
 U
   U+9414
+A
+  ==
+  - 镡 (Mainland simplified)
+  ==
 V
   ==
   - jam4 (alternative per 《廣韻》餘針切)
@@ -896,6 +918,10 @@ R
   ⿂ + 12
 U
   U+9C58
+A
+  ==
+  - 鲟 (Mainland simplified)
+  ==
 F
   ==
   - (F2.37 鱘) 鱘龍無鱗魚也

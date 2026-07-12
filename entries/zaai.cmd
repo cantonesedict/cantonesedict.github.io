@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -254,6 +254,7 @@ U
 A
   ==
   - $責3
+  - 债 (Mainland simplified)
   ==
 F
   ==
@@ -351,6 +352,10 @@ R
   ⽵ + 11
 U
   U+7C00
+A
+  ==
+  - 箦 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

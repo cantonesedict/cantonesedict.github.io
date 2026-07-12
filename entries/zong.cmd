@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,6 +75,7 @@ A
   ==
   - $粧1
   - $裝1
+  - 妆 (Mainland simplified)
   ==
 F
   ==
@@ -182,6 +183,10 @@ R
   ⽊ + 11
 U
   U+6A01
+A
+  ==
+  - 桩 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 樁) 松樁
@@ -433,6 +438,10 @@ R
   ⾐ + 7
 U
   U+88DD
+A
+  ==
+  - 装 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 裝) ::裝[束]整飾也又嫁裝又行裝::
@@ -630,6 +639,7 @@ A
   - $臧1
   - $賍1
   - $贜1
+  - 赃 (Mainland simplified)
   ==
 F
   ==
@@ -731,6 +741,10 @@ R
   ⼠ + 4
 U
   U+58EF
+A
+  ==
+  - 壮 (Mainland simplified)
+  ==
 F
   ==
   - (F1.100 壯) 强壯壯大壯盛
@@ -1022,6 +1036,10 @@ R
   ⽝ + 4
 U
   U+72C0
+A
+  ==
+  - 状 (Mainland simplified)
+  ==
 V
   ==
   - zong6-2 (in 告狀)
@@ -1095,6 +1113,7 @@ A
   ==
   - $臧6
   - $藏6
+  - 脏 (Mainland simplified)
   ==
 F
   ==

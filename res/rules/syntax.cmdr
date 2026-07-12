@@ -395,6 +395,13 @@ RegexDictionaryReplacement: #.syntax.source-abbreviation-kangxi
   《康熙字典》\g<headword>：
 
 
+RegexDictionaryReplacement: #.syntax.mainland-simplifications
+- queue_position: BEFORE #.syntax.entries
+* [-] [ ] (?P<simplified_run> \S+ ) (?= [ ] \( Mainland [ ] simplified )
+    -->
+  - ::{l=zh-Hans}\g<simplified_run>::
+
+
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
 # U+A700 through U+A707 <https://en.wikipedia.org/wiki/Modifier_Tone_Letters>

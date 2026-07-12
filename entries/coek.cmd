@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-04-07
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -365,6 +365,10 @@ R
   ⽷ + 8
 U
   U+7DBD
+A
+  ==
+  - 绰 (Mainland simplified)
+  ==
 F
   ==
   - (F1.94 綽) 寬也緩也

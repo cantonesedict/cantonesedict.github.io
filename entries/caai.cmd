@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2026-04-27
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -246,6 +246,10 @@ R
   ⾦ + 3
 U
   U+91F5
+A
+  ==
+  - 钗 (Mainland simplified)
+  ==
 F
   ==
   - (F2.25 釵) 婦人之簪
@@ -475,6 +479,10 @@ R
   ⾍ + 13
 U
   U+8806
+A
+  ==
+  - 虿 (Mainland simplified)
+  ==
 F
   ==
   - (F2.28 蠆) 蜂毒也

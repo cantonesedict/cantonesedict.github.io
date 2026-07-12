@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-06-17
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -152,6 +152,10 @@ R
   ⼿ + 9
 U
   U+63EE
+A
+  ==
+  - 挥 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 揮) 指揮發揮又揮霍
@@ -236,6 +240,10 @@ U
 H
   May appear as either ⿰扌為 (+9 assumed here) or ⿰扌爲 (+12),
   depending on the font.
+A
+  ==
+  - 㧑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 撝) 指也又發撝
@@ -276,6 +284,10 @@ R
   ⽇ + 9
 U
   U+6689
+A
+  ==
+  - 晖 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 輝) 光輝
@@ -372,6 +384,10 @@ R
   ⽻ + 9
 U
   U+7FEC
+A
+  ==
+  - 翚 (Mainland simplified)
+  ==
 F
   ==
   - (F1.27 翬) 雉也
@@ -409,6 +425,7 @@ A
   ==
   - $暉1
   - $煇1
+  - 辉 (Mainland simplified)
   ==
 F
   ==
@@ -651,6 +668,10 @@ R
   ⼴ + 12
 U
   U+5EE2
+A
+  ==
+  - 废 (Mainland simplified)
+  ==
 V
   ==
   - fai3-2 (rising second in vernacular 廢廢地)
@@ -974,6 +995,10 @@ R
   ⾙ + 5
 U
   U+8CBB
+A
+  ==
+  - 费 (Mainland simplified)
+  ==
 F
   ==
   - (F1.32 費) 費用又姓
@@ -1190,6 +1215,10 @@ R
   ⾙ + 5
 U
   U+8CBB
+A
+  ==
+  - 费 (Mainland simplified)
+  ==
 V
   ==
   - fei6 (alternative)

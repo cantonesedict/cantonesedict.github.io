@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-07-08
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -431,6 +431,7 @@ U
 A
   ==
   - $復1
+  - 复 (Mainland simplified)
   ==
 V
   ==
@@ -475,6 +476,7 @@ U
 A
   ==
   - $復1
+  - 复 (Mainland simplified for "reply" sense)
   ==
 V
   ==
@@ -639,6 +641,10 @@ R
   ⾞ + 9
 U
   U+8F3B
+A
+  ==
+  - 辐 (Mainland simplified)
+  ==
 F
   ==
   - (F1.64 ::[輻]::) ::[輻]輳::
@@ -862,6 +868,10 @@ R
   ⼻ + 9
 U
   U+5FA9
+A
+  ==
+  - 复
+  ==
 V
   ==
   - fau6 (per 《廣韻》扶富切 for "again" sense)

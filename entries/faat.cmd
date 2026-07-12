@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2026-02-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -179,6 +179,7 @@ U
 A
   ==
   - 彂
+  - 发 (Mainland simplified)
   ==
 F
   ==
@@ -297,6 +298,10 @@ R
   ⾽ + 5
 U
   U+9AEE
+A
+  ==
+  - 发 (Mainland simplified)
+  ==
 F
   ==
   - (F2.72 髮) 毛髮

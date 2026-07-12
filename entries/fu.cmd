@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1042,6 +1042,10 @@ R
   ⾁ + 11
 U
   U+819A
+A
+  ==
+  - 肤
+  ==
 F
   ==
   - (F2.8 膚) ::皮也[卽]肌膚::
@@ -1312,6 +1316,10 @@ R
   ⾦ + 4
 U
   U+9207
+A
+  ==
+  - {𫓧=⿰钅夫} (Mainland simplified)
+  ==
 F
   ==
   - (F2.8 鈇) 斧鉞之屬也
@@ -1373,6 +1381,7 @@ A
   ==
   - $粰1
   - $麱1
+  - 麸
   ==
 F
   ==
@@ -1667,6 +1676,7 @@ U
 A
   ==
   - $拊2
+  - 抚 (Mainland simplified)
   ==
 F
   ==
@@ -2261,6 +2271,10 @@ R
   ⾦ + 4
 U
   U+9207
+A
+  ==
+  - {𫓧=⿰钅夫} (Mainland simplified)
+  ==
 V
   ==
   - fu1 (per 《廣韻》甫無切)
@@ -2512,6 +2526,10 @@ R
   ⼴ + 7
 U
   U+5EAB
+A
+  ==
+  - 库 (Mainland simplified)
+  ==
 F
   ==
   - (F2.16 庫) 貯財之府
@@ -2631,6 +2649,7 @@ A
   ==
   - $絝3
   - $袴3
+  - 裤 (Mainland simplified)
   ==
 F
   ==
@@ -2680,6 +2699,10 @@ R
   ⾙ + 8
 U
   U+8CE6
+A
+  ==
+  - 赋 (Mainland simplified)
+  ==
 F
   ==
   - (F2.16 賦) 稅也役也又詞賦
@@ -3191,6 +3214,7 @@ U
 A
   ==
   - $鳬4
+  - 凫 (Mainland simplified)
   ==
 F
   ==
@@ -3266,6 +3290,7 @@ U
 A
   ==
   - 媍
+  - 妇 (Mainland simplified)
   ==
 V
   ==
@@ -3785,6 +3810,7 @@ U
 A
   ==
   - $赴6
+  - 讣 (Mainland simplified)
   ==
 V
   ==
@@ -3825,6 +3851,10 @@ U
 H
   May appear as either ⿱⺈貝 (assumed here) or ⿱刀貝,
   depending on the font.
+A
+  ==
+  - 负 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 負) ::[背]負又孤負::
@@ -3894,6 +3924,10 @@ R
   ⾙ + 10
 U
   U+8CFB
+A
+  ==
+  - 赙 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 賻) 以貨財助喪事曰賻
@@ -4005,6 +4039,7 @@ U
 A
   ==
   - 䩉 (for jawbone/cheek senses)
+  - 辅 (Mainland simplified)
   ==
 F
   ==
@@ -4124,6 +4159,10 @@ R
   ⾺ + 5
 U
   U+99D9
+A
+  ==
+  - 驸 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 駙) 駙馬王親也
@@ -4149,6 +4188,10 @@ R
   ⿂ + 5
 U
   U+9B92
+A
+  ==
+  - 鲋 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 鮒) 魚名

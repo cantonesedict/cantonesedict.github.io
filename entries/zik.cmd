@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,6 +83,10 @@ R
   ⼑ + 7
 U
   U+5247
+A
+  ==
+  - 则 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -114,6 +118,10 @@ R
   ⼒ + 11
 U
   U+52E3
+A
+  ==
+  - {𪟝=⿰责力} (Mainland simplified)
+  ==
 F
   ==
   - (F1.74 勣) 功也勞也
@@ -405,6 +413,10 @@ R
   ⼱ + 11
 U
   U+5E58
+A
+  ==
+  - 帻 (Mainland simplified)
+  ==
 V
   ==
   - zaak3 (per 《廣韻》側革切)
@@ -430,6 +442,10 @@ R
   ⽔ + 11
 U
   U+6F2C
+A
+  ==
+  - 渍 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -506,6 +522,10 @@ R
   ⽯ + 11
 U
   U+78E7
+A
+  ==
+  - 碛 (Mainland simplified)
+  ==
 V
   ==
   - cik1 (per 《廣韻》七迹切)
@@ -588,6 +608,10 @@ R
   ⽲ + 11
 U
   U+7A4D
+A
+  ==
+  - 积 (Mainland simplified)
+  ==
 V
   ==
   - zi3 (per 《廣韻》子智切 for "store" sense)
@@ -647,6 +671,7 @@ U
 A
   ==
   - $勣1 (for "achievement" and "merit" senses)
+  - 绩 (Mainland simplified)
   ==
 F
   ==
@@ -703,6 +728,10 @@ R
   ⽷ + 12
 U
   U+7E54
+A
+  ==
+  - 织 (Mainland simplified)
+  ==
 V
   ==
   - zi3 (per Kangxi 職利切 for "dyed-weaving" sense)
@@ -766,6 +795,10 @@ R
   ⽿ + 12
 U
   U+8077
+A
+  ==
+  - 职 (Mainland simplified)
+  ==
 F
   ==
   - (F1.76 職) 官職品秩也職任職掌
@@ -1059,6 +1092,10 @@ U
 H
   May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9),
   depending on the font.
+A
+  ==
+  - 鲫 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1981,7 +2018,7 @@ U
   U+84C6
 A
   ==
-  - $席6 (for "mat" sense)
+  - $席6 (for "mat" sense and Mainland simplified for all senses)
   ==
 V
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -451,6 +451,10 @@ R
   ⽊ + 11
 U
   U+6A05
+A
+  ==
+  - 枞 (Mainland simplified)
+  ==
 F
   ==
   - (F1.58 樅) ::植木以懸[鐘]磬者::
@@ -643,6 +647,10 @@ R
   ⽷ + 5
 U
   U+7D42
+A
+  ==
+  - 终 (Mainland simplified)
+  ==
 F
   ==
   - (F1.57 終) 末也盡也
@@ -715,6 +723,10 @@ R
   ⽷ + 8
 U
   U+7D9C
+A
+  ==
+  - 综 (Mainland simplified)
+  ==
 V
   ==
   - zung3 (per 《廣韻》子宋切)
@@ -763,6 +775,7 @@ U
 A
   ==
   - $從1
+  - 纵 (Mainland simplified)
   ==
 F
   ==
@@ -810,7 +823,11 @@ H
   depending on the font.
 A
   ==
+  - 搃
+  - 総
   - 緫
+  - 縂
+  - 总 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -1077,6 +1094,11 @@ R
   ⾦ + 9
 U
   U+937E
+A
+  ==
+  - 钟 (Mainland simplified for non-name/surname senses)
+  - 锺 (Mainland simplified for name/surname senses)
+  ==
 F
   ==
   - (F1.57 鍾) 茶鍾酒鍾又聚也又姓
@@ -1144,6 +1166,7 @@ U
 A
   ==
   - $鍾1 (for "bell" sense)
+  - 钟 (Mainland simplified)
   ==
 F
   ==
@@ -1384,6 +1407,10 @@ R
   ⽲ + 9
 U
   U+7A2E
+A
+  ==
+  - 种 (Mainland simplified)
+  ==
 F
   ==
   - (F1.61 種) 種蒔
@@ -1490,6 +1517,10 @@ R
   ⽷ + 11
 U
   U+7E31
+A
+  ==
+  - 纵 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1527,6 +1558,8 @@ A
   - 搃
   - 総
   - 緫
+  - 縂
+  - 总 (Mainland simplified)
   ==
 F
   ==
@@ -1626,6 +1659,10 @@ R
   ⾁ + 9
 U
   U+816B
+A
+  ==
+  - 肿 (Mainland simplified)
+  ==
 F
   ==
   - (F1.61 腫) 脹也
@@ -1857,6 +1894,7 @@ U
   U+773E
 A
   ==
+  - 众
   - $衆3
   ==
 F
@@ -1930,6 +1968,10 @@ R
   ⽲ + 9
 U
   U+7A2E
+A
+  ==
+  - 种 (Mainland simplified)
+  ==
 F
   ==
   - (F1.62 種) 栽植
@@ -2048,6 +2090,10 @@ R
   ⽷ + 8
 U
   U+7D9C
+A
+  ==
+  - 综 (Mainland simplified)
+  ==
 F
   ==
   - (F1.62 綜) 織機綜線
@@ -2086,6 +2132,7 @@ U
 A
   ==
   - $從3
+  - 纵 (Mainland simplified)
   ==
 F
   ==
@@ -2273,6 +2320,10 @@ R
   ⼻ + 8
 U
   U+5F9E
+A
+  ==
+  - 从
+  ==
 F
   ==
   - (F1.63 從) 隨從首從
@@ -2335,6 +2386,7 @@ U
 A
   ==
   - $誦6 (for "openly" sense)
+  - 讼 (Mainland simplified)
   ==
 V
   ==
@@ -2412,6 +2464,7 @@ U
 A
   ==
   - $頌6
+  - 诵 (Mainland simplified)
   ==
 F
   ==
@@ -2583,6 +2636,7 @@ A
   ==
   - $訟6 (for "laud" sense)
   - $誦6 (for "laud" sense)
+  - 颂 (Mainland simplified)
   ==
 F
   ==

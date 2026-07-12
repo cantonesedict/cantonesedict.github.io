@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-04-07
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -325,6 +325,7 @@ A
   ==
   - $箴1
   - $鍼1
+  - 针 (Mainland simplified)
   ==
 F
   ==
@@ -819,6 +820,7 @@ U
 A
   ==
   - $僭3
+  - 谮 (Mainland simplified)
   ==
 V
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-04-19
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,7 @@ A
   ==
   - $処2
   - 䖏
+  - 处 (Mainland simplified)
   ==
 V
   ==
@@ -249,6 +250,8 @@ U
 A
   ==
   - $処3
+  - 䖏
+  - 处 (Mainland simplified)
   ==
 V
   ==
@@ -632,6 +635,7 @@ A
   ==
   - $宁5
   - $竚5
+  - 伫 (Mainland simplified)
   ==
 F
   ==
@@ -671,6 +675,10 @@ U
 H
   May appear with 者 dotless (+15 assumed here) or dotted (+16),
   depending on the font.
+A
+  ==
+  - 储 (Mainland simplified)
+  ==
 V
   ==
   - cyu4 (per 《廣韻》直魚切)
@@ -961,6 +969,7 @@ U
 A
   ==
   - $苧5
+  - 纻 (Mainland simplified)
   ==
 F
   ==
@@ -1112,6 +1121,7 @@ U
 A
   ==
   - $宁5
+  - 贮 (Mainland simplified)
   ==
 V
   ==

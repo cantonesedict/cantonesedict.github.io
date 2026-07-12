@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -444,6 +444,10 @@ R
   ⾋ + 4
 U
   U+82BB
+A
+  ==
+  - 刍 (Mainland simplified)
+  ==
 F
   ==
   - (F2.58 芻) 草也
@@ -503,6 +507,10 @@ R
   ⾫ + 5
 U
   U+96DB
+A
+  ==
+  - 雏 (Mainland simplified)
+  ==
 V
   ==
   - co4 (per 《廣韻》仕于切)
@@ -661,6 +669,10 @@ R
   ⽯ + 13
 U
   U+790E
+A
+  ==
+  - 础 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -828,6 +840,7 @@ U
 A
   ==
   - $剉3
+  - 锉 (Mainland simplified)
   ==
 V
   ==
@@ -885,6 +898,10 @@ R
   ⾦ + 8
 U
   U+932F
+A
+  ==
+  - 错 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1030,6 +1047,7 @@ U
 A
   ==
   - $鉏4
+  - 锄 (Mainland simplified)
   ==
 F
   ==

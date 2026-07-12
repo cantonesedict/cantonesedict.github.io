@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,6 +65,10 @@ R
   ⼖ + 9
 U
   U+5340
+A
+  ==
+  - 区 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -115,6 +119,10 @@ R
   ⼝ + 11
 U
   U+5614
+A
+  ==
+  - 呕 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -149,6 +157,10 @@ R
   ⽋ + 11
 U
   U+6B50
+A
+  ==
+  - 欧 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -190,6 +202,10 @@ R
   ⽔ + 11
 U
   U+6F1A
+A
+  ==
+  - 沤 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -225,6 +241,10 @@ R
   ⽡ + 11
 U
   U+750C
+A
+  ==
+  - 瓯 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -268,6 +288,7 @@ A
   ==
   - $嘔1
   - $歐1
+  - 讴 (Mainland simplified)
   ==
 V
   ==
@@ -326,6 +347,10 @@ R
   ⿃ + 11
 U
   U+9DD7
+A
+  ==
+  - 鸥 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -374,6 +399,7 @@ U
 A
   ==
   - $歐2
+  - 呕 (Mainland simplified)
   ==
 V
   ==
@@ -468,6 +494,10 @@ R
   ⽎ + 11
 U
   U+6BC6
+A
+  ==
+  - 殴 (Mainland simplified)
+  ==
 V
   ==
   - ngau2 (hypercorrected initial)
@@ -520,6 +550,10 @@ R
   ⽔ + 11
 U
   U+6F1A
+A
+  ==
+  - 沤 (Mainland simplified)
+  ==
 V
   ==
   - ngau3 (hypercorrected initial)

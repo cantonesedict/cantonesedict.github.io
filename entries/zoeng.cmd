@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,6 +99,10 @@ R
   ⼨ + 8
 U
   U+5C07
+A
+  ==
+  - 将 (Mainland simplified)
+  ==
 F
   ==
   - (F1.89 將) 事之未必就時也又奉也送也又干將劍名
@@ -213,6 +217,10 @@ R
   ⼸ + 8
 U
   U+5F35
+A
+  ==
+  - 张 (Mainland simplified)
+  ==
 V
   ==
   - zoeng3^ (per Kangxi 知亮切 for "boast" sense)
@@ -445,6 +453,7 @@ U
 A
   ==
   - $䊢1
+  - 浆 (Mainland simplified)
   ==
 F
   ==
@@ -659,6 +668,10 @@ R
   ⾋ + 11
 U
   U+8523
+A
+  ==
+  - 蒋 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -693,6 +706,10 @@ R
   ⾍ + 11
 U
   U+87BF
+A
+  ==
+  - 螀 (Mainland simplified)
+  ==
 F
   ==
   - (F1.89 螿) 寒螿虫名
@@ -881,6 +898,10 @@ R
   ⽊ + 11
 U
   U+69F3
+A
+  ==
+  - 桨 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 槳) 船槳
@@ -910,6 +931,7 @@ U
 A
   ==
   - $奬2
+  - 奖 (Mainland simplified)
   ==
 F
   ==
@@ -962,6 +984,10 @@ R
   ⾋ + 11
 U
   U+8523
+A
+  ==
+  - 蒋 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 蔣) 地名周公子封于蔣後遂爲姓
@@ -987,6 +1013,10 @@ R
   ⾧ + 0
 U
   U+9577
+A
+  ==
+  - 长 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 長) 尊也大也
@@ -1108,6 +1138,10 @@ R
   ⼨ + 8
 U
   U+5C07
+A
+  ==
+  - 将 (Mainland simplified)
+  ==
 F
   ==
   - (F1.93 將) 將帥統兵之官也
@@ -1152,6 +1186,7 @@ U
 A
   ==
   - $張3
+  - 帐 (Mainland simplified)
   ==
 F
   ==
@@ -1203,6 +1238,10 @@ R
   ⼸ + 8
 U
   U+5F35
+A
+  ==
+  - 张 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1232,6 +1271,10 @@ R
   ⼼ + 8
 U
   U+60B5
+A
+  ==
+  - 怅 (Mainland simplified)
+  ==
 V
   ==
   - coeng3 (per 《廣韻》丑亮切)
@@ -1274,6 +1317,10 @@ R
   ⽔ + 11
 U
   U+6F32
+A
+  ==
+  - 涨 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 漲) 大水貌又水泛溢
@@ -1343,6 +1390,7 @@ A
   ==
   - $張3
   - $漲3
+  - 胀 (Mainland simplified)
   ==
 V
   ==
@@ -1385,6 +1433,7 @@ U
 A
   ==
   - $帳3
+  - 账 (Mainland simplified)
   ==
 F
   ==
@@ -1505,6 +1554,10 @@ R
   ⾣ + 11
 U
   U+91AC
+A
+  ==
+  - 酱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.93 醬) 醢也肉醬謂之醢又豉醬
@@ -2057,6 +2110,10 @@ R
   ⾧ + 0
 U
   U+9577
+A
+  ==
+  - 长 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

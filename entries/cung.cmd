@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-06-28
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -352,6 +352,10 @@ R
   ⽊ + 11
 U
   U+6A05
+A
+  ==
+  - 枞 (Mainland simplified)
+  ==
 V
   ==
   - zung1 (alternative per 《廣韻》即容切)
@@ -715,6 +719,7 @@ A
   - $悤1
   - 聡
   - $聦1
+  - 聪
   ==
 F
   ==
@@ -848,6 +853,10 @@ R
   ⾏ + 9
 U
   U+885D
+A
+  ==
+  - 冲 (Mainland simplified)
+  ==
 V
   ==
   - cung3 (possibly from Mandarin-matching for "toward" and "fierce" senses)
@@ -997,6 +1006,7 @@ H
 A
   ==
   - $騘1
+  - 骢 (Mainland simplified)
   ==
 F
   ==
@@ -1094,6 +1104,10 @@ R
   ⼟ + 10
 U
   U+585A
+A
+  ==
+  - 冢 (Mainland simplified)
+  ==
 V
   ==
   - zung2 (per 《廣韻》知隴切)
@@ -1141,6 +1155,7 @@ A
   ==
   - {𠖥=⿱冖龍}
   - 龍
+  - 宠 (Mainland simplified)
   ==
 F
   ==
@@ -1245,6 +1260,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+5) or 4~strokes (+6 assumed here),
   depending on the font.
+A
+  ==
+  - 铳 (Mainland simplified)
+  ==
 F
   ==
   - (F1.62 銃) 火炮
@@ -1303,6 +1322,7 @@ U
 A
   ==
   - $樷4
+  - 丛 (Mainland simplified)
   ==
 F
   ==

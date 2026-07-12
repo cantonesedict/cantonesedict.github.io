@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -95,6 +95,10 @@ R
   ⼝ + 13
 U
   U+5672
+A
+  ==
+  - 哙 (Mainland simplified)
+  ==
 F
   ==
   - (F2.28 快) 稱意也來也喜也又疾速也
@@ -137,6 +141,7 @@ A
   ==
   - 凷
   - 墤
+  - 块 (Mainland simplified)
   ==
 F
   ==

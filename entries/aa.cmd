@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-04-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -272,6 +272,11 @@ R
   ⼝ + 8
 U
   U+555E
+A
+  ==
+  - 唖
+  - 哑 (Mainland simplified)
+  ==
 V
   ==
   - ngaa1 (hypercorrected initial)
@@ -300,6 +305,10 @@ R
   ⿃ + 4
 U
   U+9D09
+A
+  ==
+  - 鸦 (Mainland simplified)
+  ==
 V
   ==
   - ngaa1 (hypercorrected initial)
@@ -359,7 +368,9 @@ U
   U+555E
 A
   ==
+  - 唖
   - $瘂2
+  - 哑 (Mainland simplified)
   ==
 V
   ==
@@ -434,6 +445,10 @@ R
   ⽧ + 8
 U
   U+7602
+A
+  ==
+  - 痖 (Mainland simplified)
+  ==
 F
   ==
   - (F2.75 啞) 口不能言曰啞
@@ -476,6 +491,11 @@ R
   ⼆ + 6
 U
   U+4E9E
+A
+  ==
+  - 亜
+  - 亚 (Mainland simplified)
+  ==
 V
   ==
   - ngaa3 (hypercorrected initial)
@@ -620,6 +640,7 @@ U
 A
   ==
   - $亞3
+  - 娅 (Mainland simplified)
   ==
 V
   ==

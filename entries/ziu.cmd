@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-06-19
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -687,6 +687,10 @@ R
   ⿃ + 12
 U
   U+9DE6
+A
+  ==
+  - 鹪 (Mainland simplified)
+  ==
 F
   ==
   - (F2.3 鷦) 鷦鷯鳥名
@@ -1043,6 +1047,10 @@ R
   ⾔ + 5
 U
   U+8A54
+A
+  ==
+  - 诏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.6 詔) 告也上命也又敎導之也
@@ -1367,6 +1375,10 @@ R
   ⾛ + 7
 U
   U+8D99
+A
+  ==
+  - 赵 (Mainland simplified)
+  ==
 F
   ==
   - (F2.7 趙) 趨也久也利也又姓

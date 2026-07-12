@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -109,6 +109,7 @@ U
 A
   ==
   - $仄1
+  - 侧 (Mainland simplified)
   ==
 F
   ==
@@ -170,6 +171,10 @@ R
   ⼑ + 7
 U
   U+5247
+A
+  ==
+  - 则 (Mainland simplified)
+  ==
 F
   ==
   - (F2.33 則) 法也準也卽也
@@ -380,6 +385,7 @@ U
 A
   ==
   - $鯽1
+  - 鲗 (Mainland simplified)
   ==
 F
   [[Not present]]

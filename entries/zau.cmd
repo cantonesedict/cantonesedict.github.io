@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-04-19
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -681,6 +681,10 @@ R
   ⾔ + 8
 U
   U+8ACF
+A
+  ==
+  - 诹 (Mainland simplified)
+  ==
 F
   ==
   - (F1.50 諏) 咨事曰諏
@@ -719,6 +723,10 @@ R
   ⾔ + 10
 U
   U+8B05
+A
+  ==
+  - 诌 (Mainland simplified)
+  ==
 V
   ==
   - cau1 (per 《廣韻》楚鳩切)
@@ -755,6 +763,7 @@ U
 A
   ==
   - $侜1
+  - 诪 (Mainland simplified)
   ==
 F
   ==
@@ -793,6 +802,7 @@ U
 A
   ==
   - $周1
+  - 赒 (Mainland simplified)
   ==
 F
   ==
@@ -833,6 +843,10 @@ R
   ⾞ + 6
 U
   U+8F08
+A
+  ==
+  - 辀 (Mainland simplified)
+  ==
 F
   ==
   - (F1.49 輈) 車轅
@@ -883,6 +897,10 @@ R
   ⾡ + 8
 U
   U+9031
+A
+  ==
+  - 周 (Mainland simplified)
+  ==
 F
   ==
   - (F1.49 週) 回也也
@@ -962,6 +980,7 @@ U
 A
   ==
   - $鄹1
+  - 邹 (Mainland simplified)
   ==
 F
   ==
@@ -1060,6 +1079,10 @@ R
   ⾺ + 10
 U
   U+9A36
+A
+  ==
+  - 驺 (Mainland simplified)
+  ==
 F
   ==
   - (F1.50 騶) 騶虞仁獸
@@ -1098,6 +1121,10 @@ R
   ⿂ + 8
 U
   U+9BEB
+A
+  ==
+  - 鲰 (Mainland simplified)
+  ==
 V
   ==
   - cau2 (per 《集韻》此苟切 for "little (man)" sense)
@@ -1734,6 +1761,10 @@ R
   ⽇ + 7
 U
   U+665D
+A
+  ==
+  - 昼
+  ==
 F
   ==
   - (F1.55 晝) 日中曰晝
@@ -1837,6 +1868,7 @@ U
 A
   ==
   - $縐3
+  - 皱 (Mainland simplified)
   ==
 F
   ==
@@ -1904,6 +1936,10 @@ R
   ⽷ + 10
 U
   U+7E10
+A
+  ==
+  - 绉 (Mainland simplified)
+  ==
 F
   ==
   - (F1.55 縐) 縮而不光曰縐
@@ -2258,6 +2294,10 @@ R
   ⽷ + 3
 U
   U+7D02
+A
+  ==
+  - 纣 (Mainland simplified)
+  ==
 F
   ==
   - (F1.55 紂) 商王之號
@@ -2476,6 +2516,10 @@ R
   ⿃ + 12
 U
   U+9DF2
+A
+  ==
+  - 鹫 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2026-03-23
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,10 +198,14 @@ R
   ⼑ + 11
 U
   U+5277
+H
+  May appear as either ⿰產刂 (assumed here) or ⿰産刂,
+  depending on the font.
 A
   ==
   - $剗2
   - $鏟2
+  - 铲 (Mainland simplified)
   ==
 F
   ==
@@ -255,6 +259,9 @@ R
   ⼭ + 11
 U
   U+5D7C
+H
+  May appear as either ⿰山產 (assumed here) or ⿰山産,
+  depending on the font.
 F
   ==
   - (F2.69 嵼) {𡾰=⿰山蹇}嵼山屈曲貌
@@ -278,6 +285,11 @@ R
   ⽣ + 6
 U
   U+7522
+A
+  ==
+  - 産
+  - 产 (Mainland simplified)
+  ==
 V
   ==
   - saan2 (per ::《廣韻》所[簡]切::)
@@ -345,9 +357,13 @@ R
   ⾦ + 11
 U
   U+93DF
+H
+  May appear as either ⿰釒產 (assumed here) or ⿰釒産,
+  depending on the font.
 A
   ==
   - $剷2
+  - 铲 (Mainland simplified)
   ==
 F
   ==
@@ -411,6 +427,10 @@ R
   ⽕ + 13
 U
   U+71E6
+A
+  ==
+  - 灿 (Mainland simplified)
+  ==
 F
   ==
   - (F2.70 燦) 光明也
@@ -584,6 +604,7 @@ U
 A
   ==
   - $戔4
+  - 残 (Mainland simplified)
   ==
 V
   ==

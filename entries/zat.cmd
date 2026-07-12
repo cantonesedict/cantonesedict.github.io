@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -133,6 +133,11 @@ R
   ⾙ + 8
 U
   U+8CEA
+A
+  ==
+  - 貭
+  - 质 (Mainland simplified)
+  ==
 F
   ==
   - (F1.86 質) 樸也又文質
@@ -235,6 +240,10 @@ R
   ⾦ + 15
 U
   U+9455
+A
+  ==
+  - 锧 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -277,6 +286,7 @@ U
 A
   ==
   - $隲1
+  - 骘 (Mainland simplified)
   ==
 F
   ==
@@ -727,6 +737,10 @@ R
   ⾍ + 11
 U
   U+87C4
+A
+  ==
+  - 蛰 (Mainland simplified)
+  ==
 V
   ==
   - zaap6 (per 《廣韻》直立切)

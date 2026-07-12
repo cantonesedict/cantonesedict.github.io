@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -536,6 +536,7 @@ U
 A
   ==
   - $堁2 (for "clod" sense)
+  - 颗 (Mainland simplified)
   ==
 F
   ==
@@ -579,6 +580,10 @@ R
   ⾔ + 8
 U
   U+8AB2
+A
+  ==
+  - 课 (Mainland simplified)
+  ==
 F
   ==
   - (F2.61 課) 說課又試也第也計也程也
@@ -641,6 +646,10 @@ R
   ⾙ + 4
 U
   U+8CA8
+A
+  ==
+  - 货 (Mainland simplified)
+  ==
 F
   ==
   - (F2.61 貨) 貨財凡物可交易皆曰貨

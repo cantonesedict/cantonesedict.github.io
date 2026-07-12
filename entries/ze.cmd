@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -495,6 +495,10 @@ R
   ⾡ + 7
 U
   U+9019
+A
+  ==
+  - 这 (Mainland simplified)
+  ==
 V
   ==
   - ze3 (per Fan Wan)
@@ -869,6 +873,10 @@ R
   ⿃ + 11
 U
   U+9DD3
+A
+  ==
+  - 鹧 (Mainland simplified)
+  ==
 F
   ==
   - (F2.84 鷓) 鷓鴣鳥名
@@ -970,6 +978,10 @@ R
   ⾔ + 10
 U
   U+8B1D
+A
+  ==
+  - 谢 (Mainland simplified)
+  ==
 F
   ==
   - (F2.85 謝) 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩

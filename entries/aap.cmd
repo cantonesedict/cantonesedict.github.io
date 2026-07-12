@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,6 +82,10 @@ R
   ⿃ + 5
 U
   U+9D28
+A
+  ==
+  - 鸭 (Mainland simplified)
+  ==
 V
   ==
   - aap3-2 (vernacular rising-tone noun)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-04-27
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -349,6 +349,10 @@ R
   ⾦ + 14
 U
   U+9454
+A
+  ==
+  - 镲 (Mainland simplified)
+  ==
 V
   ==
   - caa4 (for onomatopoeic senses; low first in reduplication 鑔鑔)
@@ -548,6 +552,7 @@ A
   ==
   - $吒3
   - $咤3
+  - 诧 (Mainland simplified)
   ==
 F
   ==

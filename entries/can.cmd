@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -199,6 +199,10 @@ R
   ⾒ + 9
 U
   U+89AA
+A
+  ==
+  - 亲 (Mainland simplified)
+  ==
 F
   ==
   - (F1.81 親) 愛也近也姻也眷也
@@ -568,6 +572,10 @@ U
 H
   May appear as either ⿰糹眞 or ⿰糹真 (assumed here),
   depending on the font.
+A
+  ==
+  - 缜 (Mainland simplified)
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)
@@ -641,6 +649,10 @@ R
   ⾔ + 5
 U
   U+8A3A
+A
+  ==
+  - 诊 (Mainland simplified)
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)
@@ -679,6 +691,10 @@ R
   ⾞ + 5
 U
   U+8EEB
+A
+  ==
+  - 轸 (Mainland simplified)
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)
@@ -771,6 +787,10 @@ R
   ⽊ + 16
 U
   U+6AEC
+A
+  ==
+  - 榇 (Mainland simplified)
+  ==
 F
   ==
   - (F1.85 櫬) 棺櫬
@@ -803,6 +823,10 @@ R
   ⾐ + 16
 U
   U+896F
+A
+  ==
+  - 衬 (Mainland simplified)
+  ==
 V
   ==
   - can3-2 (rising second in vernacular 襯襯地)
@@ -874,6 +898,10 @@ R
   ⾒ + 9
 U
   U+89AA
+A
+  ==
+  - 亲 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -981,6 +1009,10 @@ R
   ⿒ + 2
 U
   U+9F54
+A
+  ==
+  - 龀 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1114,6 +1146,10 @@ R
   ⾩ + 8
 U
   U+9673
+A
+  ==
+  - 陈 (Mainland simplified)
+  ==
 V
   ==
   - can4-2 (vernacular rising-tone for endearment)

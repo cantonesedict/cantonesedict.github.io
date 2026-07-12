@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-06-07
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,6 +81,10 @@ R
   ⼈ + 8
 U
   U+5000
+A
+  ==
+  - 伥 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -200,6 +204,10 @@ R
   ⼨ + 8
 U
   U+5C07
+A
+  ==
+  - 将 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -255,6 +263,7 @@ U
 A
   ==
   - $槍1
+  - 抢 (Mainland simplified)
   ==
 F
   ==
@@ -392,6 +401,7 @@ U
 A
   ==
   - $鎗1
+  - 枪 (Mainland simplified)
   ==
 F
   ==
@@ -497,6 +507,10 @@ R
   ⽟ + 10
 U
   U+7472
+A
+  ==
+  - 玱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -696,6 +710,7 @@ U
 A
   ==
   - $蹡1
+  - 跄 (Mainland simplified)
   ==
 F
   ==
@@ -814,6 +829,7 @@ U
 A
   ==
   - $鎗1
+  - 锵 (Mainland simplified)
   ==
 F
   ==
@@ -852,6 +868,10 @@ R
   ⾨ + 8
 U
   U+95B6
+A
+  ==
+  - 阊 (Mainland simplified)
+  ==
 F
   ==
   - (F1.90 閶) 閶闔天門也
@@ -879,6 +899,7 @@ U
 A
   ==
   - 䱽
+  - 鲳 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -906,6 +927,10 @@ R
   ⿃ + 10
 U
   U+9DAC
+A
+  ==
+  - 鸧 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 鶬) ::[鞗]革聲之和也又音倉鶬[鶊]鳥名::
@@ -952,6 +977,10 @@ R
   ⼿ + 10
 U
   U+6436
+A
+  ==
+  - 抢 (Mainland simplified)
+  ==
 F
   ==
   - (F1.92 搶) 搶奪
@@ -1179,6 +1208,7 @@ A
   ==
   - $昶3
   - $鬯3
+  - 畅 (Mainland simplified)
   ==
 F
   ==
@@ -1408,6 +1438,7 @@ U
 A
   ==
   - $塲4
+  - 场 (Mainland simplified)
   ==
 F
   ==
@@ -1646,6 +1677,10 @@ R
   ⽊ + 13
 U
   U+6AA3
+A
+  ==
+  - 樯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 檣) 船桅也
@@ -1672,6 +1707,7 @@ U
 A
   ==
   - $墻4
+  - 墙 (Mainland simplified)
   ==
 F
   ==
@@ -1811,6 +1847,11 @@ R
   ⾁ + 9
 U
   U+8178
+A
+  ==
+  - 膓
+  - 肠 (Mainland simplified)
+  ==
 V
   ==
   - coeng4-2 (vernacular rising-tone noun)
@@ -1899,6 +1940,10 @@ R
   ⾋ + 8
 U
   U+8407
+A
+  ==
+  - 苌 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 萇) 萇楚今羊桃也
@@ -1932,6 +1977,10 @@ R
   ⾋ + 13
 U
   U+8594
+A
+  ==
+  - 蔷 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 薔) 薔薇花名
@@ -1965,6 +2014,7 @@ U
 A
   ==
   - $祥4
+  - 详 (Mainland simplified)
   ==
 F
   ==
@@ -2022,6 +2072,10 @@ R
   ⾧ + 0
 U
   U+9577
+A
+  ==
+  - 长 (Mainland simplified)
+  ==
 V
   ==
   - coeng4-2 (rising second in vernacular 長長地)

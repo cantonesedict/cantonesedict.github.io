@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-04-07
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -819,6 +819,10 @@ R
   ⿃ + 8
 U
   U+9D72
+A
+  ==
+  - 鹊 (Mainland simplified)
+  ==
 V
   ==
   - coek3 (per 《廣韻》七雀切)

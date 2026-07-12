@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,6 +64,10 @@ R
   ⼿ + 8
 U
   U+6399
+A
+  ==
+  - 挣
+  ==
 F
   [[Not present]]
 W
@@ -200,6 +204,7 @@ U
 A
   ==
   - $搶1
+  - 枪 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -300,6 +305,7 @@ A
   ==
   - $罉1 (for vernacular "pot" sense)
   - $鎗1
+  - 铛 (Mainland simplified)
   ==
 V
   ==
@@ -587,6 +593,10 @@ R
   ⼈ + 8
 U
   U+5000
+A
+  ==
+  - 伥 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -618,6 +628,10 @@ R
   ⽊ + 8
 U
   U+68D6
+A
+  ==
+  - 枨 (Mainland simplified)
+  ==
 F
   ==
   - (F2.88 棖) 兩邊門枋曰棖又人名申棖

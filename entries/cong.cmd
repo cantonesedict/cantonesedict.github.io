@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-04-14
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,6 +71,7 @@ U
 A
   ==
   - $蒼1 (in 倉皇 spelt 蒼黃)
+  - 仓 (Mainland simplified)
   ==
 V
   ==
@@ -160,6 +161,7 @@ A
   ==
   - $刅1
   - 戧
+  - 创 (Mainland simplified)
   ==
 V
   ==
@@ -209,6 +211,10 @@ R
   ⽔ + 10
 U
   U+6EC4
+A
+  ==
+  - 沧 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 滄) 滄浪水名又滄海也
@@ -238,6 +244,10 @@ R
   ⽟ + 10
 U
   U+7472
+A
+  ==
+  - 玱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 瑲) 玉名
@@ -266,6 +276,7 @@ U
 A
   ==
   - $創1
+  - 疮 (Mainland simplified)
   ==
 F
   ==
@@ -322,6 +333,10 @@ R
   ⾈ + 10
 U
   U+8259
+A
+  ==
+  - 舱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -372,6 +387,7 @@ U
 A
   ==
   - $倉1
+  - 苍 (Mainland simplified)
   ==
 F
   ==
@@ -459,6 +475,7 @@ U
 A
   ==
   - 鯧
+  - 䲝 (Mainland simplified)
   ==
 F
   ==
@@ -511,6 +528,7 @@ U
 A
   ==
   - $倉1
+  - 鸧 (Mainland simplified)
   ==
 F
   ==
@@ -605,6 +623,7 @@ U
 A
   ==
   - $厰2
+  - 厂 (Mainland simplified)
   ==
 F
   ==
@@ -687,6 +706,10 @@ R
   ⼼ + 10
 U
   U+6134
+A
+  ==
+  - 怆 (Mainland simplified)
+  ==
 F
   ==
   - (F1.98 愴) 悽愴言傷心也
@@ -768,6 +791,10 @@ R
   ⾨ + 10
 U
   U+95D6
+A
+  ==
+  - 闯 (Mainland simplified)
+  ==
 V
   ==
   - cam3 (per 《廣韻》丑禁切)
@@ -850,6 +877,7 @@ U
 A
   ==
   - $刱3
+  - 创 (Mainland simplified)
   ==
 F
   ==
@@ -913,6 +941,10 @@ R
   ⼼ + 10
 U
   U+6134
+A
+  ==
+  - 怆 (Mainland simplified)
+  ==
 V
   ==
   - cong2 (per Fan Wan)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -625,6 +625,10 @@ R
   ⾙ + 10
 U
   U+8CFD
+A
+  ==
+  - 赛 (Mainland simplified)
+  ==
 F
   ==
   - (F2.45 賽 _Soi(3)_ (soi3)) 比併也又報賽
@@ -938,6 +942,10 @@ R
   ⾙ + 3
 U
   U+8CA1
+A
+  ==
+  - 财 (Mainland simplified)
+  ==
 F
   ==
   - (F2.44 財) 寶也又貨也

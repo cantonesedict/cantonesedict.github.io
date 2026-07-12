@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -153,6 +153,10 @@ R
   ⽊ + 9
 U
   U+6953
+A
+  ==
+  - 枫 (Mainland simplified)
+  ==
 F
   ==
   - (F1.58 楓) 木名
@@ -180,6 +184,7 @@ U
 A
   ==
   - $風1
+  - 疯 (Mainland simplified)
   ==
 F
   ==
@@ -288,6 +293,7 @@ U
 A
   ==
   - $豊1
+  - 丰 (Mainland simplified)
   ==
 F
   ==
@@ -358,6 +364,10 @@ R
   ⾍ + 3
 U
   U+98A8
+A
+  ==
+  - 风 (Mainland simplified)
+  ==
 F
   ==
   - (F1.58 風) 風雨又風化

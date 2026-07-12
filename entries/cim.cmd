@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,6 +71,10 @@ R
   ⼈ + 11
 U
   U+50C9
+A
+  ==
+  - 佥 (Mainland simplified)
+  ==
 F
   ==
   - (F2.47 僉) 咸也皆也共也
@@ -270,6 +274,11 @@ R
   ⼿ + 11
 U
   U+647B
+A
+  ==
+  - 撡
+  - 掺 (Mainland simplified)
+  ==
 V
   ==
   - saam1 (per 《廣韻》所咸切)
@@ -312,6 +321,7 @@ U
 A
   ==
   - $瀸1
+  - 歼 (Mainland simplified)
   ==
 V
   ==
@@ -387,6 +397,10 @@ R
   ⽵ + 13
 U
   U+7C3D
+A
+  ==
+  - 签 (Mainland simplified)
+  ==
 F
   ==
   - (F2.47 簽) 竹簾又簽書
@@ -428,6 +442,7 @@ U
 A
   ==
   - $簽1
+  - 签 (Mainland simplified)
   ==
 F
   ==
@@ -481,6 +496,7 @@ A
   ==
   - $摻1 (for "delicate" senses)
   - $孅1 (for "delicate" senses)
+  - 纤 (Mainland simplified)
   ==
 F
   ==
@@ -553,6 +569,10 @@ R
   ⾦ + 7
 U
   U+92DF
+A
+  ==
+  - 锓 (Mainland simplified)
+  ==
 V
   ==
   - cam1 (alternative per 《集韻》千尋切)
@@ -606,6 +626,7 @@ U
 A
   ==
   - $讇2
+  - 谄 (Mainland simplified)
   ==
 F
   ==
@@ -758,6 +779,7 @@ U
 A
   ==
   - $壍3
+  - 堑 (Mainland simplified)
   ==
 F
   ==
@@ -849,6 +871,10 @@ R
   ⽊ + 11
 U
   U+69E7
+A
+  ==
+  - 椠 (Mainland simplified)
+  ==
 V
   ==
   - cim5 (alternative per 《廣韻》慈染切)
