@@ -4186,6 +4186,10 @@ R
   ⿂ + 5
 U
   U+9B92
+A
+  ==
+  - 鲋 (Mainland simplified)
+  ==
 F
   ==
   - (F2.17 鮒) 魚名

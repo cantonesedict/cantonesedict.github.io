@@ -918,6 +918,10 @@ R
   ⿂ + 12
 U
   U+9C58
+A
+  ==
+  - 鲟 (Mainland simplified)
+  ==
 F
   ==
   - (F2.37 鱘) 鱘龍無鱗魚也

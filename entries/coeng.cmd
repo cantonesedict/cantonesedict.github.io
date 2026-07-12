@@ -899,6 +899,7 @@ U
 A
   ==
   - 䱽
+  - 鲳 (Mainland simplified)
   ==
 F
   [[Not present]]

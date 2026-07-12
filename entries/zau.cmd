@@ -1121,6 +1121,10 @@ R
   ⿂ + 8
 U
   U+9BEB
+A
+  ==
+  - 鲰 (Mainland simplified)
+  ==
 V
   ==
   - cau2 (per 《集韻》此苟切 for "little (man)" sense)

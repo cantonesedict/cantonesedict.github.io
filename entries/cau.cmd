@@ -723,6 +723,7 @@ U
 A
   ==
   - $鰌1
+  - 鳅 (Mainland simplified)
   ==
 F
   ==

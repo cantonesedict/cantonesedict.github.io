@@ -1688,6 +1688,10 @@ R
   ⿂ + 12
 U
   U+9C52
+A
+  ==
+  - 鳟 (Mainland simplified)
+  ==
 V
   ==
   - zyun1 (common)

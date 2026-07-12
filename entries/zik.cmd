@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1092,6 +1092,10 @@ U
 H
   May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9),
   depending on the font.
+A
+  ==
+  - 鲫 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

@@ -936,11 +936,11 @@
 "鰂":{
 "caak6":{
 "isCanonical":true,
-"text":"U+9C02 Used in 鰞鰂 (cuttlefish) (Kangxi: 鰞鰂魚名, 一名墨魚). Note that in Cantonese, the synonym 墨魚 \"inkfish\" is preferred."
+"text":"U+9C02 鲗 (Mainland simplified) Used in 鰞鰂 (cuttlefish) (Kangxi: 鰞鰂魚名, 一名墨魚). Note that in Cantonese, the synonym 墨魚 \"inkfish\" is preferred."
 },
 "zak1":{
 "isCanonical":true,
-"text":"U+9C02 鯽 (Page 551 鯽; here normalised to 鰂) A species of bream _(Cyprinus gibelioides)_ with a long dorsal, called _tsak na u_ (zak1 naa2 jyu4-2 鰂乸魚); _shuk kwat tsak_ (suk1 gwat1 zak1 縮骨鰂) the blunt headed bream _(Cyprinus abbreviatus)_; _kam tsak_ (gam1 zak1 金鰂) the red tailed bream _(Cyprinus auratus)_. Used in 鰂魚涌 Quarry Bay, in Hong Kong. Williams' 鰂乸魚: Corrected _na_ (naa5) to _na_ (naa2)."
+"text":"U+9C02 鯽 鲗 (Mainland simplified) (Page 551 鯽; here normalised to 鰂) A species of bream _(Cyprinus gibelioides)_ with a long dorsal, called _tsak na u_ (zak1 naa2 jyu4-2 鰂乸魚); _shuk kwat tsak_ (suk1 gwat1 zak1 縮骨鰂) the blunt headed bream _(Cyprinus abbreviatus)_; _kam tsak_ (gam1 zak1 金鰂) the red tailed bream _(Cyprinus auratus)_. Used in 鰂魚涌 Quarry Bay, in Hong Kong. Williams' 鰂乸魚: Corrected _na_ (naa5) to _na_ (naa2)."
 }
 },
 "參":{
@@ -1616,7 +1616,7 @@
 "鱭":{
 "cai5":{
 "isCanonical":true,
-"text":"U+9C6D 鮆 (Page 550 鱭鮆) A thin fish, with a silvery belly; a mullet; _ma ts'ai_ (maa5 cai5 馬鱭), a kind of anchovy _(Coilia playfairii)_; _wong mi ts'ai_ (wong4 mei5 cai5 黃尾鱭), yellow tail mullet _(Mullus xanthurus)_; _pak ts'ai_ (baak6 cai5 白鱭), green ish mullet _Mugil ventricosus_."
+"text":"U+9C6D 鮆 鲚 (Mainland simplified) 𫚖 (Mainland simplified) (Page 550 鱭鮆) A thin fish, with a silvery belly; a mullet; _ma ts'ai_ (maa5 cai5 馬鱭), a kind of anchovy _(Coilia playfairii)_; _wong mi ts'ai_ (wong4 mei5 cai5 黃尾鱭), yellow tail mullet _(Mullus xanthurus)_; _pak ts'ai_ (baak6 cai5 白鱭), green ish mullet _Mugil ventricosus_."
 }
 },
 "侵":{
@@ -1762,7 +1762,7 @@
 "鱘":{
 "cam4":{
 "isCanonical":true,
-"text":"U+9C58 (F2.37 鱘) 鱘龍無鱗魚也 (Page 552 鱘) The sturgeon; _ts'am lung u_ (cam4 lung4 jyu4-2 鱘龍魚), the sturgeon. Fan Wan entry: The component 尋 of the headword is printed like ⿳彑⿰工几寸."
+"text":"U+9C58 鲟 (Mainland simplified) (F2.37 鱘) 鱘龍無鱗魚也 (Page 552 鱘) The sturgeon; _ts'am lung u_ (cam4 lung4 jyu4-2 鱘龍魚), the sturgeon. Fan Wan entry: The component 尋 of the headword is printed like ⿳彑⿰工几寸."
 }
 },
 "嗔":{
@@ -2138,7 +2138,7 @@
 "鰍":{
 "cau1":{
 "isCanonical":true,
-"text":"U+9C0D 鰌 (F1.50 鰍) 魚名 (Page 563 鰌鰍) An eel; the mud or conger eel (Kangxi 鰌: 鰼也); _nai ts'au_ (nai4 cau1 泥鰍), a freshwater eel; _hoi ts'au_ (hoi2 cau1 海鰍), a sea-dragon, myriads of miles long; a long, narrow boat; _ts'au u kwat_ (cau1 jyu4 gwat1 鰍魚骨) whalebone. Williams' \"eel\": More a loach than an eel."
+"text":"U+9C0D 鰌 鳅 (Mainland simplified) (F1.50 鰍) 魚名 (Page 563 鰌鰍) An eel; the mud or conger eel (Kangxi 鰌: 鰼也); _nai ts'au_ (nai4 cau1 泥鰍), a freshwater eel; _hoi ts'au_ (hoi2 cau1 海鰍), a sea-dragon, myriads of miles long; a long, narrow boat; _ts'au u kwat_ (cau1 jyu4 gwat1 鰍魚骨) whalebone. Williams' \"eel\": More a loach than an eel."
 }
 },
 "鶖":{
@@ -4616,7 +4616,7 @@
 "鯧":{
 "coeng1":{
 "isCanonical":true,
-"text":"U+9BE7 䱽 Effectively, 鯧 and 䱽 are the same semantic word \"pomfret\", but: 鯧 is classical with reading _ch'eung_ (coeng1); and 䱽 is vernacular with reading _ts'ong_ (cong1) (see 䱽 cong1). The pomfret (Kangxi: 鯧鯸魚名, 閩人譌爲䱽魚)."
+"text":"U+9BE7 䱽 鲳 (Mainland simplified) Effectively, 鯧 and 䱽 are the same semantic word \"pomfret\", but: 鯧 is classical with reading _ch'eung_ (coeng1); and 䱽 is vernacular with reading _ts'ong_ (cong1) (see 䱽 cong1). The pomfret (Kangxi: 鯧鯸魚名, 閩人譌爲䱽魚)."
 }
 },
 "鶬":{
@@ -6004,7 +6004,7 @@
 "鱒":{
 "cyun5":{
 "isCanonical":true,
-"text":"U+9C52 zyun1 (common) zyun6 (recast to departing) (F2.22 鱒) 赤目魚 (Page 605 鱒) A fish like the roach, with small scales ``and red eyes`` (Kangxi: 鱒似鯶魚而鱗細於鯶赤眼). In Japan, this character denotes the salmon. Williams' \"In Japan, ... denotes the salmon\": I am not knowledgeable enough in either Japanese or biology to say whether this is unreasonable. Note that both {lang=ja}鮭 _sake_ (salmon?) and {lang=ja}鱒 _masu_ (trout?) belong to the Salmonidae family. The trout. 【鱒】 (dzwonX, dzwonH) (_noun-like_) redeye-carp"
+"text":"U+9C52 鳟 (Mainland simplified) zyun1 (common) zyun6 (recast to departing) (F2.22 鱒) 赤目魚 (Page 605 鱒) A fish like the roach, with small scales ``and red eyes`` (Kangxi: 鱒似鯶魚而鱗細於鯶赤眼). In Japan, this character denotes the salmon. Williams' \"In Japan, ... denotes the salmon\": I am not knowledgeable enough in either Japanese or biology to say whether this is unreasonable. Note that both {lang=ja}鮭 _sake_ (salmon?) and {lang=ja}鱒 _masu_ (trout?) belong to the Salmonidae family. The trout. 【鱒】 (dzwonX, dzwonH) (_noun-like_) redeye-carp"
 },
 "zyun1":{
 "isCanonical":false,
@@ -7818,7 +7818,7 @@
 "魴":{
 "fong4":{
 "isCanonical":true,
-"text":"U+9B74 (F1.98 魴) 魚名 (Page 56 魴) A kind of bream, a foot long, common at Canton; the tail is red (Kangxi: 赤尾魚), or is said to turn so from ~~fear~~ ``toil`` (Kangxi: 魚勞則尾赤, 魴魚尾本不赤赤故爲勞也). 【魴】 (bjang) (_noun-like_) bream"
+"text":"U+9B74 鲂 (Mainland simplified) (F1.98 魴) 魚名 (Page 56 魴) A kind of bream, a foot long, common at Canton; the tail is red (Kangxi: 赤尾魚), or is said to turn so from ~~fear~~ ``toil`` (Kangxi: 魚勞則尾赤, 魴魚尾本不赤赤故爲勞也). 【魴】 (bjang) (_noun-like_) bream"
 }
 },
 "乎":{
@@ -8346,7 +8346,7 @@
 "鮒":{
 "fu6":{
 "isCanonical":true,
-"text":"U+9B92 (F2.17 鮒) 魚名 (Page 61 鮒) A ``small`` freshwater fish resembling the perch (Kangxi: 魚名, 鮒鰿也今作鯽, 鮒魚魚之小者), said to go in pairs or shoals (Kangxi: 以相附謂之鮒), and be faithful to each other (Kangxi: 義取夫婦相依附者也); _fu hang_ (fu6 hang4 鮒行), to ~~go in shoals~~ ``walk in pairs``. 【鮒】 (bjuH) (_noun-like_) small-carp"
+"text":"U+9B92 鲋 (Mainland simplified) (F2.17 鮒) 魚名 (Page 61 鮒) A ``small`` freshwater fish resembling the perch (Kangxi: 魚名, 鮒鰿也今作鯽, 鮒魚魚之小者), said to go in pairs or shoals (Kangxi: 以相附謂之鮒), and be faithful to each other (Kangxi: 義取夫婦相依附者也); _fu hang_ (fu6 hang4 鮒行), to ~~go in shoals~~ ``walk in pairs``. 【鮒】 (bjuH) (_noun-like_) small-carp"
 }
 },
 "恢":{
@@ -8696,11 +8696,11 @@
 "鮓":{
 "zaa2":{
 "isCanonical":true,
-"text":"U+9B93 (F2.75 鮓) 魚鮓肉鮓 (Page 7 鮓) A rank condiment of fish or flesh and salted hashed fine, with red rice and oil (Kangxi: 藏魚也 etc.); _la cha_ (laa5 zaa2 揦鮓), rank, dirty, foul. Williams' 揦鮓: Corrected _la_ (laa6) to _la_ (laa5). 【揦鮓】 (laa5 zaa2) Dirty. 𨋢掣揦鮓 (lip1 zai3 laa5 zaa2): \"The lift button is dirty.\" 【鮓】 (zaa2) Low quality or crappy. 咁鮓 (gam3 zaa2): \"How is it so crappy?\" 鮓嘢 (zaa2 je5): \"A crappy thing.\" The spellings 揦鮓 and 鮓 are arbitrary."
+"text":"U+9B93 鲊 (Mainland simplified) (F2.75 鮓) 魚鮓肉鮓 (Page 7 鮓) A rank condiment of fish or flesh and salted hashed fine, with red rice and oil (Kangxi: 藏魚也 etc.); _la cha_ (laa5 zaa2 揦鮓), rank, dirty, foul. Williams' 揦鮓: Corrected _la_ (laa6) to _la_ (laa5). 【揦鮓】 (laa5 zaa2) Dirty. 𨋢掣揦鮓 (lip1 zai3 laa5 zaa2): \"The lift button is dirty.\" 【鮓】 (zaa2) Low quality or crappy. 咁鮓 (gam3 zaa2): \"How is it so crappy?\" 鮓嘢 (zaa2 je5): \"A crappy thing.\" The spellings 揦鮓 and 鮓 are arbitrary."
 },
 "zaa6":{
 "isCanonical":true,
-"text":"U+9B93 (Page 7 鮓 _Cha_ (zaa2); here corrected to _Cha_ (zaa6)) _cha u_ (zaa6 jyu4 鮓魚), a sort of Medusa or sea-blubber (Kangxi: 海魚名 etc.);"
+"text":"U+9B93 鲊 (Mainland simplified) (Page 7 鮓 _Cha_ (zaa2); here corrected to _Cha_ (zaa6)) _cha u_ (zaa6 jyu4 鮓魚), a sort of Medusa or sea-blubber (Kangxi: 海魚名 etc.);"
 }
 },
 "乍":{
@@ -9754,7 +9754,7 @@
 },
 "zik1":{
 "isCanonical":true,
-"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font. The crucian carp."
+"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font. 鲫 (Mainland simplified) The crucian carp."
 }
 },
 "斟":{
@@ -10280,7 +10280,7 @@
 "鯫":{
 "zau1":{
 "isCanonical":true,
-"text":"U+9BEB cau2 (per 《集韻》此苟切 for \"little (man)\" sense) cau4 (per 《廣韻》徂鉤切) zau6 (per 《廣韻》仕垢切) (F1.50 魚名又鯫生小人也) (Page 560 鯫) Minnows, white fish (Kangxi: 白魚也, 一曰小魚) which skip over the water; _met._ a simpleton (Kangxi: 小人貌也); _tsau shang_ (zau1 sang1 鯫生), a foolish fellow. The reading _tsau_ (zau1) is not unattested, at least for the \"small-fish\" sense; 《集韻》 has the reading 將侯切, explained 小魚也."
+"text":"U+9BEB 鲰 (Mainland simplified) cau2 (per 《集韻》此苟切 for \"little (man)\" sense) cau4 (per 《廣韻》徂鉤切) zau6 (per 《廣韻》仕垢切) (F1.50 魚名又鯫生小人也) (Page 560 鯫) Minnows, white fish (Kangxi: 白魚也, 一曰小魚) which skip over the water; _met._ a simpleton (Kangxi: 小人貌也); _tsau shang_ (zau1 sang1 鯫生), a foolish fellow. The reading _tsau_ (zau1) is not unattested, at least for the \"small-fish\" sense; 《集韻》 has the reading 將侯切, explained 小魚也."
 }
 },
 "走":{
@@ -12290,7 +12290,7 @@
 "鱣":{
 "zin1":{
 "isCanonical":true,
-"text":"U+9C63 (F1.20 鱣) 魚名 (Page 17* 鱣) ~~A sea-monster;~~ a large sturgeon, or perhaps a grampus (Kangxi: 大魚似鱏 etc.); _chin k'ing_ (zin1 king4 鱣鯨), whales and grampuses, applied to an unscrupulous, grasping man. 【鱣】 (trjen) (_noun-like_) great-sturgeon"
+"text":"U+9C63 鳣 (Mainland simplified) (F1.20 鱣) 魚名 (Page 17* 鱣) ~~A sea-monster;~~ a large sturgeon, or perhaps a grampus (Kangxi: 大魚似鱏 etc.); _chin k'ing_ (zin1 king4 鱣鯨), whales and grampuses, applied to an unscrupulous, grasping man. 【鱣】 (trjen) (_noun-like_) great-sturgeon"
 }
 },
 "鸇":{

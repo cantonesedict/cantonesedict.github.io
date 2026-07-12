@@ -786,6 +786,10 @@ R
   ⿂ + 13
 U
   U+9C63
+A
+  ==
+  - 鳣 (Mainland simplified)
+  ==
 F
   ==
   - (F1.20 鱣) 魚名
