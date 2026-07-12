@@ -892,7 +892,7 @@ class CmdIdioms:
         )
 
     @staticmethod
-    def lint_see_also_link_order(see_also_links: list['SeeAlsoLink']):
+    def lint_see_also_link_order(see_also_links: Optional[list['SeeAlsoLink']]):
         if see_also_links is None:
             return
 
@@ -1859,9 +1859,9 @@ class PageHeading:
 
 class PageEntry:
     content_from_key: Optional[dict[str, str]]
-    wh_williams_list: Optional[str]
-    wp_williams_list: Optional[str]
-    mp_jyutping_list: Optional[str]
+    wh_williams_list: Optional[list[str]]
+    wp_williams_list: Optional[list[str]]
+    mp_jyutping_list: Optional[list[str]]
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
@@ -2333,7 +2333,7 @@ class CharacterEntry:
             )
 
     @staticmethod
-    def lint_literary_rendering_senses(content: str):
+    def lint_literary_rendering_senses(content: Optional[str]):
         if content is None:
             return
 
@@ -2397,7 +2397,7 @@ class CharacterEntry:
                         )
 
     @staticmethod
-    def lint_character_jyutping_consistency(content: str):
+    def lint_character_jyutping_consistency(content: Optional[str]):
         if content is None:
             return
 
