@@ -2162,6 +2162,7 @@ class CharacterEntry:
         CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
+        CharacterEntry.lint_kangxi_headword(character, w_content)
         CharacterEntry.lint_literary_rendering_senses(l_content)
         CharacterEntry.lint_character_jyutping_consistency(e_content)
 
@@ -2331,6 +2332,36 @@ class CharacterEntry:
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
+
+    @staticmethod
+    def lint_kangxi_headword(character: str, content: str):
+        for match in re.finditer(
+            pattern=r'''
+                ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] \n
+                (?P<item_content> (?s: .*? ) )
+                (?= ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] \n | \Z )
+            ''',
+            string=content,
+            flags=re.MULTILINE | re.VERBOSE,
+        ):
+            headword_run = match.group('headword_run')
+            item_content = match.group('item_content')
+
+            potential_characters = ''.join(sorted(set(
+                re.findall(
+                    pattern='[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
+                    string=CmdIdioms.strip_compositions(headword_run),
+                )
+            )))
+
+            if potential_characters == character:
+                return
+
+            if ambiguous_kangxi_match := re.search(pattern=r'\[\[Kangxi: \S+\]\]', string=item_content):
+                kangxi_annotation = ambiguous_kangxi_match.group()
+                raise LintException(
+                    f'Kangxi annotation `{kangxi_annotation}` has ambiguous headword ({potential_characters})'
+                )
 
     @staticmethod
     def lint_literary_rendering_senses(content: Optional[str]):
