@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,6 +198,9 @@ R
   ⼑ + 11
 U
   U+5277
+H
+  May appear as either ⿰產刂 (assumed here) or ⿰産刂,
+  depending on the font.
 A
   ==
   - $剗2
@@ -256,6 +259,9 @@ R
   ⼭ + 11
 U
   U+5D7C
+H
+  May appear as either ⿰山產 (assumed here) or ⿰山産,
+  depending on the font.
 F
   ==
   - (F2.69 嵼) {𡾰=⿰山蹇}嵼山屈曲貌
@@ -351,6 +357,9 @@ R
   ⾦ + 11
 U
   U+93DF
+H
+  May appear as either ⿰釒產 (assumed here) or ⿰釒産,
+  depending on the font.
 A
   ==
   - $剷2
