@@ -1101,6 +1101,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $峭ciu3
       - $峯fung1
+      - $峰fung1
       - $峻zeon3
       ==
       </nav>

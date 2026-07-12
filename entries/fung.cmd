@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $封1
 - ($峯1)
+- $峰1
 - $楓1
 - $瘋1
 - $葑1
@@ -163,8 +164,43 @@ W
   ====
   - [[Page~65 (1)峯]]
     --
-    [[Alternative form of 峰. **See $峰fung1 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 峰. **See $峰fung1 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 峰1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⼭ + 7
+U
+  U+5CF0
+A
+  ==
+  - $峯1
+  ==
+F
+  ==
+  - (F1.58 峯) 山之尖頂
+  ==
+W
+  ====
+  - [[Page~65 (1)峯; here normalised to 峰]]
+    ==
+    - The peak of a mountain [[Kangxi: 山耑也]];
+    - a camel's hump;
+    - _(1)fung (4)l(u:)n_
+        [[fung1 lyun4 峰巒]],
+        ridges and peaks.
+    ==
+  ====
+L
+  ====
+  * 【峰】 (phjowng)
+    ==
+    - (_noun-like_) peak, summit
+    ==
   ====
 $$
 
