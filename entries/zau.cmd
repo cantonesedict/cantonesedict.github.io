@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -843,6 +843,10 @@ R
   ⾞ + 6
 U
   U+8F08
+A
+  ==
+  - 辀 (Mainland simplified)
+  ==
 F
   ==
   - (F1.49 輈) 車轅
@@ -893,6 +897,10 @@ R
   ⾡ + 8
 U
   U+9031
+A
+  ==
+  - 周 (Mainland simplified)
+  ==
 F
   ==
   - (F1.49 週) 回也也
@@ -972,6 +980,7 @@ U
 A
   ==
   - $鄹1
+  - 邹 (Mainland simplified)
   ==
 F
   ==

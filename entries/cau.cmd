@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -860,6 +860,10 @@ R
   ⾣ + 10
 U
   U+919C
+A
+  ==
+  - 丑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.54 醜) 惡也不美也又醜類
@@ -1316,6 +1320,10 @@ R
   ⾞ + 9
 U
   U+8F33
+A
+  ==
+  - 辏 (Mainland simplified)
+  ==
 F
   ==
   - (F1.55 輳) 輻輳猶聚集也

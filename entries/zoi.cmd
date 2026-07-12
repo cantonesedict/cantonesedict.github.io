@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -458,6 +458,10 @@ R
   ⾞ + 6
 U
   U+8F09
+A
+  ==
+  - 载 (Mainland simplified)
+  ==
 F
   ==
   - (F2.44 載) 年也
@@ -575,6 +579,10 @@ R
   ⾞ + 6
 U
   U+8F09
+A
+  ==
+  - 载 (Mainland simplified)
+  ==
 V
   ==
   - zoi6 (per 《集韻》昨代切 for "load" senses)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,6 +276,10 @@ R
   ⾞ + 9
 U
   U+8F2F
+A
+  ==
+  - 辑 (Mainland simplified)
+  ==
 V
   ==
   - zap6 (per 《廣韻》秦入切)

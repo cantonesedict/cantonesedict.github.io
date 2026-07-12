@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -215,6 +215,10 @@ R
   ⾢ + 12
 U
   U+912D
+A
+  ==
+  - 郑 (Mainland simplified)
+  ==
 V
   ==
   - zing6 (uncommon)

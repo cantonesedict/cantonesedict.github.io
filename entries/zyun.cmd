@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -686,6 +686,10 @@ R
   ⾞ + 11
 U
   U+8F49
+A
+  ==
+  - 转 (Mainland simplified)
+  ==
 F
   ==
   - (F2.22 轉) 轉動轉運旋轉
@@ -844,6 +848,10 @@ R
   ⾞ + 11
 U
   U+8F49
+A
+  ==
+  - 转 (Mainland simplified)
+  ==
 F
   ==
   - (F2.22 轉 _(2)Ch(u:)n_ (zyun2)) 轉動轉運旋轉

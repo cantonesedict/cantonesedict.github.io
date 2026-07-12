@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1727,6 +1727,7 @@ U
 A
   ==
   - 輺
+  - 辎 (Mainland simplified)
   ==
 F
   ==
@@ -3550,6 +3551,10 @@ R
   ⾞ + 5
 U
   U+8EF9
+A
+  ==
+  - 轵 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -4791,6 +4796,10 @@ R
   ⾞ + 6
 U
   U+8F0A
+A
+  ==
+  - 轾 (Mainland simplified)
+  ==
 F
   ==
   - (F1.41 輊) 車之覆而前也
@@ -4824,6 +4833,7 @@ A
   - $菑3
   - 葘
   - 輺
+  - 辎 (Mainland simplified)
   ==
 F
   [[Not present]]
@@ -6135,6 +6145,7 @@ U
 A
   ==
   - 遟
+  - 迟 (Mainland simplified)
   ==
 F
   [[Not present]]

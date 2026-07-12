@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1550,6 +1550,10 @@ R
   ⾣ + 11
 U
   U+91AC
+A
+  ==
+  - 酱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.93 醬) 醢也肉醬謂之醢又豉醬
