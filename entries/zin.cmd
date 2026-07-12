@@ -704,6 +704,10 @@ R
   ⾴ + 13
 U
   U+986B
+A
+  ==
+  - 颤 (Mainland simplified)
+  ==
 V
   ==
   - sin1 (per 《集韻》尸連切)
@@ -1376,6 +1380,10 @@ R
   ⾨ + 12
 U
   U+95E1
+A
+  ==
+  - 阐 (Mainland simplified)
+  ==
 V
   ==
   - cin2 (per 《廣韻》昌善切)
@@ -1969,6 +1977,10 @@ R
   ⾴ + 13
 U
   U+986B
+A
+  ==
+  - 颤 (Mainland simplified)
+  ==
 V
   ==
   - zin1 (per Fan Wan)

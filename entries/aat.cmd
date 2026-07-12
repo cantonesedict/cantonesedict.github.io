@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -434,6 +434,10 @@ R
   ⾨ + 8
 U
   U+95BC
+A
+  ==
+  - 阏 (Mainland simplified)
+  ==
 V
   ==
   - ngaat3 (hypercorrected initial)

@@ -586,6 +586,9 @@ W
         [[cau1 hei3 秋氣]]
         cool autumnal weather.
     ==
+    --
+    [[Otherwise, an alternative form of 鞦. **See $鞦cau1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -660,6 +663,10 @@ R
   ⾰ + 9
 U
   U+97A6
+A
+  ==
+  - $秋1
+  ==
 F
   ==
   - (F1.50 鞦) ::馬[靷]又鞦韆::

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -339,6 +339,7 @@ U
 A
   ==
   - $躋1 (for "ascend" sense)
+  - {𬯀=⿰阝齐} (Mainland simplified)
   ==
 V
   ==
@@ -1118,6 +1119,10 @@ R
   ⾩ + 11
 U
   U+969B
+A
+  ==
+  - 际 (Mainland simplified)
+  ==
 F
   ==
   - (F1.32 際) 交會也又邊畔也
@@ -1164,6 +1169,10 @@ R
   ⾩ + 14
 U
   U+96AE
+A
+  ==
+  - {𬯀=⿰阝齐} (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1196,6 +1205,7 @@ U
 A
   ==
   - $濟3
+  - 霁 (Mainland simplified)
   ==
 V
   ==

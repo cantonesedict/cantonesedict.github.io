@@ -868,6 +868,10 @@ R
   ⾨ + 8
 U
   U+95B6
+A
+  ==
+  - 阊 (Mainland simplified)
+  ==
 F
   ==
   - (F1.90 閶) 閶闔天門也
@@ -2063,6 +2067,10 @@ R
   ⾧ + 0
 U
   U+9577
+A
+  ==
+  - 长 (Mainland simplified)
+  ==
 V
   ==
   - coeng4-2 (rising second in vernacular 長長地)

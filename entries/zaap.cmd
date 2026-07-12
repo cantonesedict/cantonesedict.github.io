@@ -595,6 +595,10 @@ R
   ⾨ + 5
 U
   U+9598
+A
+  ==
+  - 闸 (Mainland simplified)
+  ==
 V
   ==
   - aap3 (per 《廣韻》烏甲切 for "barrier" sense)
@@ -749,6 +753,7 @@ A
   ==
   - $什6
   - $襍6
+  - 杂 (Mainland simplified)
   ==
 V
   ==

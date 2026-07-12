@@ -1142,6 +1142,10 @@ R
   ⾩ + 8
 U
   U+9673
+A
+  ==
+  - 陈 (Mainland simplified)
+  ==
 V
   ==
   - can4-2 (vernacular rising-tone for endearment)

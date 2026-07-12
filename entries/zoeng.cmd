@@ -1013,6 +1013,10 @@ R
   ⾧ + 0
 U
   U+9577
+A
+  ==
+  - 长 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 長) 尊也大也
@@ -2106,6 +2110,10 @@ R
   ⾧ + 0
 U
   U+9577
+A
+  ==
+  - 长 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

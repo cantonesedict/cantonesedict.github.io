@@ -2636,6 +2636,7 @@ A
   ==
   - $訟6 (for "laud" sense)
   - $誦6 (for "laud" sense)
+  - 颂 (Mainland simplified)
   ==
 F
   ==

@@ -1916,6 +1916,10 @@ U
 H
   May appear as either ⿰靑見 or ⿰青見 (assumed here),
   depending on the font.
+A
+  ==
+  - 靓 (Mainland simplified)
+  ==
 F
   ==
   - (F1.73 靚) 女容徐靚粉白黛黑謂之靚粧

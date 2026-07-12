@@ -507,6 +507,10 @@ R
   ⾫ + 5
 U
   U+96DB
+A
+  ==
+  - 雏 (Mainland simplified)
+  ==
 V
   ==
   - co4 (per 《廣韻》仕于切)

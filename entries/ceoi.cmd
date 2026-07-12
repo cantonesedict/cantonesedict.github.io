@@ -2015,6 +2015,10 @@ R
   ⾩ + 13
 U
   U+96A8
+A
+  ==
+  - 随 (Mainland simplified)
+  ==
 F
   ==
   - (F2.56 隨) 從也順也

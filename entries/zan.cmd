@@ -801,6 +801,7 @@ U
 A
   ==
   - $陳6
+  - 阵 (Mainland simplified)
   ==
 V
   ==
