@@ -1374,6 +1374,7 @@ U
 A
   ==
   - $族6 (for "arrowhead" sense)
+  - 镞 (Mainland simplified)
   ==
 V
   ==

@@ -1344,6 +1344,10 @@ R
   ⾦ + 8
 U
   U+9322
+A
+  ==
+  - 钱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

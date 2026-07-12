@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1094,6 +1094,11 @@ R
   ⾦ + 9
 U
   U+937E
+A
+  ==
+  - 钟 (Mainland simplified for non-name/surname senses)
+  - 锺 (Mainland simplified for name/surname senses)
+  ==
 F
   ==
   - (F1.57 鍾) 茶鍾酒鍾又聚也又姓

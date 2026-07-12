@@ -1316,6 +1316,10 @@ R
   ⾦ + 4
 U
   U+9207
+A
+  ==
+  - {𫓧=⿰钅夫} (Mainland simplified)
+  ==
 F
   ==
   - (F2.8 鈇) 斧鉞之屬也
@@ -2266,6 +2270,10 @@ R
   ⾦ + 4
 U
   U+9207
+A
+  ==
+  - {𫓧=⿰钅夫} (Mainland simplified)
+  ==
 V
   ==
   - fu1 (per 《廣韻》甫無切)

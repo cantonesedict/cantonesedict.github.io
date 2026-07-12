@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -686,6 +686,10 @@ U
 H
   May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here),
   depending on the font.
+A
+  ==
+  - 铮 (Mainland simplified)
+  ==
 V
   ==
   - caang1 (per 《廣韻》楚耕切)

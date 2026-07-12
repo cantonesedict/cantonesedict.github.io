@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -531,6 +531,10 @@ R
   ⾦ + 4
 U
   U+9212
+A
+  ==
+  - 钑 (Mainland simplified)
+  ==
 V
   ==
   - zaap6-2 (vernacular rising-tone noun)

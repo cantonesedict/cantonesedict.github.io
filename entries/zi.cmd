@@ -1769,6 +1769,7 @@ U
 A
   ==
   - 鍿
+  - 锱 (Mainland simplified)
   ==
 F
   ==
@@ -1809,6 +1810,10 @@ U
 H
   May appear as either ⿰釒兹 (+9 assumed here) or ⿰釒茲 (+10),
   depending on the font.
+A
+  ==
+  - 镃 (Mainland simplified)
+  ==
 F
   ==
   - (F2.34 鎡) 鋤頭之屬

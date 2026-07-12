@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1259,6 +1259,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+5) or 4~strokes (+6 assumed here),
   depending on the font.
+A
+  ==
+  - 铳 (Mainland simplified)
+  ==
 F
   ==
   - (F1.62 銃) 火炮

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -569,6 +569,10 @@ R
   ⾦ + 7
 U
   U+92DF
+A
+  ==
+  - 锓 (Mainland simplified)
+  ==
 V
   ==
   - cam1 (alternative per 《集韻》千尋切)

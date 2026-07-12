@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -855,6 +855,10 @@ R
   ⾦ + 6
 U
   U+9296
+A
+  ==
+  - 铢 (Mainland simplified)
+  ==
 V
   ==
   - syu4 (per 《廣韻》市朱切)
