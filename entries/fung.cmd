@@ -53,6 +53,7 @@ $$
 - $葑1
 - ($豊1)
 - $豐1
+- $酆1
 - $風1
 ==
 </nav>
@@ -354,6 +355,46 @@ L
     - (_adjective-like_) exuberant
     ==
   ====
+$$
+
+### 酆1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⾢ + 18
+U
+  U+9146
+A
+  ==
+  - 鄷
+  ==
+F
+  ==
+  - (F1.58 鄷) 鄷都山又地名
+  ==
+W
+  ====
+  - [[Page~66 (1)酆]]
+    ==
+    - The capital of Wan w(a/)ng [[文王]] [[Kangxi: 周文王所都]],
+      now H(u/) hien [[鄠縣]] in S(i/)-ng(a/)n f(u/) [[西安府]]
+      in Shens(i/) [[陝西]];
+    - _(1)fung (1)t(o\)_
+        [[fung1 dou1 酆都]],
+        a district in Chung chau [[中州]] in Sz'chuen [[四川]],
+        where the fire-wells occur,
+        hence used as a name for hell, or Tophet,
+        from the popular belief.
+    ==
+  ====
+C
+  ==
+  - Williams' 酆都: Now 豐都.
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 風1 | _(1)Fung_ [[fung1]]
