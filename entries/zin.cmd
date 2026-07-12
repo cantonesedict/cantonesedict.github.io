@@ -825,6 +825,10 @@ R
   ⿃ + 13
 U
   U+9E07
+A
+  ==
+  - 鹯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.20 鸇) 食雀之鳥

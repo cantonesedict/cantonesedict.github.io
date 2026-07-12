@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -687,6 +687,10 @@ R
   ⿃ + 12
 U
   U+9DE6
+A
+  ==
+  - 鹪 (Mainland simplified)
+  ==
 F
   ==
   - (F2.3 鷦) 鷦鷯鳥名

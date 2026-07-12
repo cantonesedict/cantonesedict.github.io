@@ -1009,6 +1009,10 @@ R
   ⿒ + 2
 U
   U+9F54
+A
+  ==
+  - 龀 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

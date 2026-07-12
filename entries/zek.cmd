@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -641,6 +641,7 @@ U
 A
   ==
   - $脊3
+  - 鹡 (Mainland simplified)
   ==
 V
   ==

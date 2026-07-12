@@ -760,6 +760,10 @@ R
   ⿃ + 9
 U
   U+9D96
+A
+  ==
+  - 鹙 (Mainland simplified)
+  ==
 F
   ==
   - (F1.50 鶖) 秃鶖食魚之鳥

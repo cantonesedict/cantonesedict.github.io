@@ -582,6 +582,10 @@ R
   ⿃ + 5
 U
   U+9D1F
+A
+  ==
+  - 鸱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.36 鴟) ::鴟鴞惡鳥[攫]鳥子而食者::
@@ -1395,6 +1399,10 @@ R
   ⿒ + 0
 U
   U+9F52
+A
+  ==
+  - 齿 (Mainland simplified)
+  ==
 F
   ==
   - (F1.39 齒) 牙齒又年齒也
@@ -3415,6 +3423,7 @@ H
 A
   ==
   - $鷀4
+  - 鹚 (Mainland simplified)
   ==
 F
   ==

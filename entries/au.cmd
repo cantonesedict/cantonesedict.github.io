@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -347,6 +347,10 @@ R
   ⿃ + 11
 U
   U+9DD7
+A
+  ==
+  - 鸥 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)

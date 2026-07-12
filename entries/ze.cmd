@@ -873,6 +873,10 @@ R
   ⿃ + 11
 U
   U+9DD3
+A
+  ==
+  - 鹧 (Mainland simplified)
+  ==
 F
   ==
   - (F2.84 鷓) 鷓鴣鳥名

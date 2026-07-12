@@ -528,6 +528,7 @@ U
 A
   ==
   - $倉1
+  - 鸧 (Mainland simplified)
   ==
 F
   ==

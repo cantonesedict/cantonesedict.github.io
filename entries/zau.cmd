@@ -2516,6 +2516,10 @@ R
   ⿃ + 12
 U
   U+9DF2
+A
+  ==
+  - 鹫 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

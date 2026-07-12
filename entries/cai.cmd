@@ -643,6 +643,10 @@ R
   ⿑ + 0
 U
   U+9F4A
+A
+  ==
+  - 齐 (Mainland simplified)
+  ==
 F
   ==
   - (F1.30 齊) 整齊不參差也又國名

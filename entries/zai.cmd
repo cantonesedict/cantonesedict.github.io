@@ -396,6 +396,7 @@ A
   ==
   - $賫1
   - $賷1
+  - 赍 (Mainland simplified)
   ==
 V
   ==
@@ -467,6 +468,10 @@ R
   ⿑ + 9
 U
   U+9F4F
+A
+  ==
+  - 齑 (Mainland simplified)
+  ==
 F
   ==
   - (F1.28 虀) 薑蒜爲之又碎也和也

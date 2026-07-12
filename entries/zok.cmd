@@ -564,6 +564,10 @@ R
   ⿃ + 11
 U
   U+9DDF
+A
+  ==
+  - {𬸦=⿱族鸟} (Mainland simplified)
+  ==
 V
   ==
   - zuk6 (per Kangxi 叶昨木切 and Fan Wan)

@@ -970,6 +970,10 @@ R
   ⿒ + 5
 U
   U+9F5F
+A
+  ==
+  - 龃 (Mainland simplified)
+  ==
 V
   ==
   - zeoi6 (per 《廣韻》牀吕切)
