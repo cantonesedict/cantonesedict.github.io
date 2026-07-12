@@ -363,6 +363,7 @@ H
 A
   ==
   - $剷2
+  - 铲 (Mainland simplified)
   ==
 F
   ==

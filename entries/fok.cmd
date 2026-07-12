@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fok
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -287,6 +287,10 @@ R
   ⾦ + 20
 U
   U+9481
+A
+  ==
+  - 䦆 (Mainland simplified)
+  ==
 V
   ==
   - gwok3 (per 《廣韻》居縛切)

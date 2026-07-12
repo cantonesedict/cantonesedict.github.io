@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-07-11
+* %date-modified --> 2026-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -305,6 +305,7 @@ A
   ==
   - $罉1 (for vernacular "pot" sense)
   - $鎗1
+  - 铛 (Mainland simplified)
   ==
 V
   ==

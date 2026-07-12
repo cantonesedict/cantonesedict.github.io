@@ -476,6 +476,7 @@ U
 A
   ==
   - $復1
+  - 复 (Mainland simplified for "reply" sense)
   ==
 V
   ==

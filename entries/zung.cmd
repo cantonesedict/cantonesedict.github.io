@@ -1166,6 +1166,7 @@ U
 A
   ==
   - $鍾1 (for "bell" sense)
+  - 钟 (Mainland simplified)
   ==
 F
   ==

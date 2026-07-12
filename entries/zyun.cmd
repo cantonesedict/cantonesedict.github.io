@@ -917,6 +917,7 @@ A
   ==
   - $攢1^ (for verb senses read zyun1)
   - 鑚
+  - 钻 (Mainland simplified)
   ==
 V
   ==

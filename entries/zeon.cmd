@@ -1710,6 +1710,11 @@ R
   ⾦ + 13
 U
   U+942B
+A
+  ==
+  - 鎸
+  - 镌 (Mainland simplified)
+  ==
 V
   ==
   - zyun1 (per 《廣韻》子泉切)
