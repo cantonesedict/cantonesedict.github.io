@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faak
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -60,7 +60,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of {𢫦=⿰扌百}. **See ${𢫦=⿰扌百}faak3 for the canonical entry.**
+  1. Alternative form of {𢫦=⿰扌百} (Cantonese). **See ${𢫦=⿰扌百}faak3 for the canonical entry.**
   ++
 $$
 
@@ -73,7 +73,7 @@ U
   U+22AE6
 A
   ==
-  - ${𢪎=⿰扌化}3
+  - ${𢪎=⿰扌化}3 (Cantonese)
   ==
 F
   [[Not present]]

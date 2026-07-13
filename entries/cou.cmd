@@ -1385,7 +1385,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 造. **See $造cou5 for the canonical entry.**
+  1. Alternative form of 造 (Cantonese). **See $造cou5 for the canonical entry.**
   ++
 S
   ==
@@ -1406,7 +1406,7 @@ H
   depending on the font.
 A
   ==
-  - $儲5
+  - $儲5 (Cantonese)
   ==
 F
   [[Not present]]

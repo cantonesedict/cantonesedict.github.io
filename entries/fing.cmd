@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fing
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -70,7 +70,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 揈. **See $揈fing1 for the canonical entry.**
+  1. Alternative form of 揈 (Cantonese). **See $揈fing1 for the canonical entry.**
   ++
 S
   ==
@@ -90,7 +90,7 @@ U
   U+63C8
 A
   ==
-  - $捹1
+  - $捹1 (Cantonese)
   ==
 F
   [[Not present]]
@@ -145,7 +145,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 揈. **See $揈fing3 for the canonical entry.**
+  1. Alternative form of 揈 (Cantonese). **See $揈fing3 for the canonical entry.**
   ++
 S
   ==
@@ -165,7 +165,7 @@ U
   U+63C8
 A
   ==
-  - $捹3
+  - $捹3 (Cantonese)
   ==
 F
   [[Not present]]
@@ -223,7 +223,7 @@ W
   ====
   - [[Page~53 捹(6)]]
     --
-    [[Alternative form of 揈. **See $揈fing6 for the canonical entry.**]]
+    [[Alternative form of 揈 (Cantonese). **See $揈fing6 for the canonical entry.**]]
     --
   ====
 S
@@ -244,7 +244,7 @@ U
   U+63C8
 A
   ==
-  - $捹6
+  - $捹6 (Cantonese)
   ==
 V
   ==

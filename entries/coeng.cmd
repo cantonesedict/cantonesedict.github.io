@@ -1143,6 +1143,9 @@ W
         [[coeng3 muk6 jyu4-2 唱木魚]],
         to sing in the Canton dialect.
     ==
+    --
+    [[Otherwise, an alternative form of 暢 (for the Cantonese cash-breaking sense). **See $暢coeng3 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -1206,6 +1209,7 @@ U
   U+66A2
 A
   ==
+  - $唱3 (for Cantonese cash-breaking sense)
   - $昶3
   - $鬯3
   - 畅 (Mainland simplified)

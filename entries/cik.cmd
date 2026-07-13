@@ -195,6 +195,12 @@ W
         [[cik1 cik1 戚戚]]
         melancholy.
     ==
+    --
+    [[Otherwise, an alternative form of 摵 (Cantonese). **See $摵cik1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of {𥄎=⿱目攴} (Cantonese). **See ${𥄎=⿱目攴}cik1 for the canonical entry.**]]
+    --
   - [[Page~571 慼(7)]]
     --
     [[...]]
@@ -225,10 +231,18 @@ R
   ⼿ + 11
 U
   U+6475
+A
+  ==
+  - $戚1 (Cantonese)
+  ==
 F
   [[Not present]]
 W
   [[Not present]]
+P
+  ++
+  1. Alternative form of {𥄎=⿱目攴} (Cantonese). **See ${𥄎=⿱目攴}cik1 for the canonical entry.**
+  ++
 E
   ====
   - 【摵】 (cik1)
@@ -418,6 +432,11 @@ R
   ⽬ + 4
 U
   U+2510E
+A
+  ==
+  - $戚1 (Cantonese)
+  - $摵1 (Cantonese)
+  ==
 F
   [[Not present]]
 W

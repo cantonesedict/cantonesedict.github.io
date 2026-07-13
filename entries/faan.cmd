@@ -276,7 +276,7 @@ W
         a foreigner.
     ==
     --
-    [[Otherwise, an alternative form of 返. **See $返faan1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 返 (Cantonese). **See $返faan1 for the canonical entry.**]]
     --
   ====
 P
@@ -424,7 +424,7 @@ W
     - [[...]].
     ==
     --
-    [[Alternative form of 返. See $返faan1.]]
+    [[Alternative form of 返 (Cantonese). See $返faan1.]]
     --
   ====
 P
@@ -523,8 +523,8 @@ U
   U+8FD4
 A
   ==
-  - $番1
-  - $翻1
+  - $番1 (Cantonese)
+  - $翻1 (Cantonese)
   ==
 F
   [[Not present]]
