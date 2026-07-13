@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -190,7 +190,7 @@ W
     [[Reading variation. **See $哽gang2 for the canonical entry.**]] [[TODO]]
     --
     --
-    [[Otherwise, an alternative form of 㾘. **See $㾘ang2 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 㾘 (Cantonese). **See $㾘ang2 for the canonical entry.**]]
     --
   ====
 S
@@ -233,7 +233,7 @@ U
   U+3F98
 A
   ==
-  - $哽2
+  - $哽2 (Cantonese)
   ==
 V
   ==

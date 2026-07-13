@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,8 +136,8 @@ U
   U+5416
 A
   ==
-  - $呀1
-  - $啊1
+  - $呀1 (Cantonese)
+  - $啊1 (Cantonese)
   ==
 V
   ==
@@ -232,7 +232,7 @@ W
   ====
   - [[Page~1|n44 (1)呀]]
     --
-    [[Alternative form of 吖. **See $吖aa1 for the canonical entry.**]]
+    [[Alternative form of 吖 (Cantonese). **See $吖aa1 for the canonical entry.**]]
     --
   ====
 S
@@ -257,7 +257,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 吖. **See $吖aa1 for the canonical entry.**
+  1. Alternative form of 吖 (Cantonese). **See $吖aa1 for the canonical entry.**
   ++
 S
   ==
@@ -551,7 +551,7 @@ W
   ====
   - [[Page~1|n44 呀(3)]]
     --
-    [[Alternative form of 啊. **See $啊aa3 for the canonical entry.**]]
+    [[Alternative form of 啊 (Cantonese). **See $啊aa3 for the canonical entry.**]]
     --
   ====
 S
@@ -572,7 +572,7 @@ U
   U+554A
 A
   ==
-  - $呀3
+  - $呀3 (Cantonese)
   ==
 V
   ==

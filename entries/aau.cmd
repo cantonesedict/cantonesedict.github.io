@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -330,7 +330,7 @@ W
         whimsical, contrariwise.
     ==
     --
-    [[Otherwise, an alternative form of 詏 "argue". **See $詏aau3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 詏 (Cantonese). **See $詏aau3 for the canonical entry.**]]
     --
   ====
 C
@@ -360,7 +360,7 @@ U
   U+8A4F
 A
   ==
-  - $拗3
+  - $拗3 (Cantonese)
   ==
 V
   ==

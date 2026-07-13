@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,7 +89,7 @@ U
   U+5443
 A
   ==
-  - $阨1
+  - $阨1 (Cantonese)
   ==
 V
   ==
@@ -209,7 +209,7 @@ W
   ====
   - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1)]]
     --
-    [[Alternative form of 呃. **See $呃aak1 for the canonical entry.**]]
+    [[Alternative form of 呃 (Cantonese). **See $呃aak1 for the canonical entry.**]]
     --
     --
     [[Otherwise, a reading variation. **See $阨ak1 for the canonical entry.**]]

@@ -8,7 +8,7 @@
 "吖":{
 "aa1":{
 "isCanonical":true,
-"text":"U+5416 呀 啊 a1 (shorter syllable) (Page 1|n44 吖) A colloquial word. An interrogative particle; also one indicating that the affirmation is indisputable; a mere final answering tone, having no meaning; _ho a_ (hou2 aa1 好吖) well, very well; _a wai_ (aa1 wai3 吖？) poor, necessitous; _k'u kom wa a_ (keoi5 gam2 waa6 aa1 佢噉話吖), he said so; _mat ye a_ (mat1 je5 aa1 乜嘢吖), what? _kom tso a_ (gam2 zou6 aa1 噉做吖), no, this is the way to do it. (Page 1|n44 呀; here normalised to 吖) A colloquial word. An interjection used in answers, denoting surprise or alarm; alas! dreadful. 【吖】 (a1, aa1) An interrogative-ish final particle suggesting the preceding. 今晚吖 (gam1 maan5-1 a1): \"How about tonight.\" 你行先吖 (nei5 haang4 sin1 a1): \"Why don't you go first.\" An imperative-ish final particle (when the preceding is spoken with force). 飲吖 (jam2 a1): \"Drink it.\" An emphatic final particle. 好吖 (hou2 a1): \"OK\" (as an active, enthusiastic endorsement). 【吖嘛】 (a1 maa3) An indicative-ish final particle pointing out the preceding. Similar to ending on a falling intonation in English. 天氣凍吖嘛 (tin1 hei3 dung3 a1 maa3): \"Because the weather's cold.\" An interrogative-ish final particle seeking affirmation of the preceding. 今晚吖嘛 (gam1 maan5-1 a1 maa3): \"That's tonight, right?\" The spellings 吖 and 吖嘛 are arbitrary."
+"text":"U+5416 呀 (Cantonese) 啊 (Cantonese) a1 (shorter syllable) (Page 1|n44 吖) A colloquial word. An interrogative particle; also one indicating that the affirmation is indisputable; a mere final answering tone, having no meaning; _ho a_ (hou2 aa1 好吖) well, very well; _a wai_ (aa1 wai3 吖？) poor, necessitous; _k'u kom wa a_ (keoi5 gam2 waa6 aa1 佢噉話吖), he said so; _mat ye a_ (mat1 je5 aa1 乜嘢吖), what? _kom tso a_ (gam2 zou6 aa1 噉做吖), no, this is the way to do it. (Page 1|n44 呀; here normalised to 吖) A colloquial word. An interjection used in answers, denoting surprise or alarm; alas! dreadful. 【吖】 (a1, aa1) An interrogative-ish final particle suggesting the preceding. 今晚吖 (gam1 maan5-1 a1): \"How about tonight.\" 你行先吖 (nei5 haang4 sin1 a1): \"Why don't you go first.\" An imperative-ish final particle (when the preceding is spoken with force). 飲吖 (jam2 a1): \"Drink it.\" An emphatic final particle. 好吖 (hou2 a1): \"OK\" (as an active, enthusiastic endorsement). 【吖嘛】 (a1 maa3) An indicative-ish final particle pointing out the preceding. Similar to ending on a falling intonation in English. 天氣凍吖嘛 (tin1 hei3 dung3 a1 maa3): \"Because the weather's cold.\" An interrogative-ish final particle seeking affirmation of the preceding. 今晚吖嘛 (gam1 maan5-1 a1 maa3): \"That's tonight, right?\" The spellings 吖 and 吖嘛 are arbitrary."
 }
 },
 "呀":{
@@ -40,7 +40,7 @@
 },
 "aa3":{
 "isCanonical":true,
-"text":"U+554A 呀 a3 (shorter syllable) (Page 1|n44 呀; here normalised to 啊) A colloquial word. A final particle, adding intensity to the meaning; _'m ho a_ (m4 hou2 aa3 唔好啊) not at all good. Williams' 唔好啊: Also an emphatic form of the imperative \"don't\". 【啊-final】 (a3, aa3) A final particle (with a hint of emphasis). 到未啊 (dou3 mei6 a3): \"Are we there yet?\" 未到啊 (mei6 dou3 a3): \"Not there yet.\" 有排啊 (jau5 paai4 a3): \"It'll be ages.\" A vocative particle, especially used before airing a grievance. 阿爹啊 (aa3 de1 a3): \"Dad!\" 【啊-list】 (aa3) A particle after each item in a list of examples. Similar to the non-falling intonation for list items in English. 例如蘋果啊、橙啊、香蕉啊 (lai6 jyu4 ping4 gwo2 aa3, caang4-2 aa3, hoeng1 ziu1 aa3): \"Such as apples, oranges, bananas, ....\" The spelling 啊 is arbitrary."
+"text":"U+554A 呀 (Cantonese) a3 (shorter syllable) (Page 1|n44 呀; here normalised to 啊) A colloquial word. A final particle, adding intensity to the meaning; _'m ho a_ (m4 hou2 aa3 唔好啊) not at all good. Williams' 唔好啊: Also an emphatic form of the imperative \"don't\". 【啊-final】 (a3, aa3) A final particle (with a hint of emphasis). 到未啊 (dou3 mei6 a3): \"Are we there yet?\" 未到啊 (mei6 dou3 a3): \"Not there yet.\" 有排啊 (jau5 paai4 a3): \"It'll be ages.\" A vocative particle, especially used before airing a grievance. 阿爹啊 (aa3 de1 a3): \"Dad!\" 【啊-list】 (aa3) A particle after each item in a list of examples. Similar to the non-falling intonation for list items in English. 例如蘋果啊、橙啊、香蕉啊 (lai6 jyu4 ping4 gwo2 aa3, caang4-2 aa3, hoeng1 ziu1 aa3): \"Such as apples, oranges, bananas, ....\" The spelling 啊 is arbitrary."
 }
 },
 "啞":{
@@ -140,7 +140,7 @@
 "呃":{
 "aak1":{
 "isCanonical":true,
-"text":"U+5443 阨 ak1 (shorter syllable) ngaak1 (alternative) (Page 3 阨; here normalised to 呃) A colloquial word; also pronounced _ak_ (ak1) and _ngak_ (ngak1) To deceive, to delude, to take in; _kom yeung ak yan ke_ (gam2 joeng6-2 aak1 jan4 ge3-2 噉樣呃人嘅) are you going to cheat him so! 【呃】 (aak1, ngaak1) To deceive, to trick, to scam. 你呃人 (nei5 ngaak1 jan4): \"You're deceiving others.\" 呃錢 (aak1 cin4-2): \"That's a scam for money\" (i.e. a rip-off). The spelling 呃 is arbitrary."
+"text":"U+5443 阨 (Cantonese) ak1 (shorter syllable) ngaak1 (alternative) (Page 3 阨; here normalised to 呃) A colloquial word; also pronounced _ak_ (ak1) and _ngak_ (ngak1) To deceive, to delude, to take in; _kom yeung ak yan ke_ (gam2 joeng6-2 aak1 jan4 ge3-2 噉樣呃人嘅) are you going to cheat him so! 【呃】 (aak1, ngaak1) To deceive, to trick, to scam. 你呃人 (nei5 ngaak1 jan4): \"You're deceiving others.\" 呃錢 (aak1 cin4-2): \"That's a scam for money\" (i.e. a rip-off). The spelling 呃 is arbitrary."
 }
 },
 "握":{
@@ -308,13 +308,13 @@
 "詏":{
 "aau3":{
 "isCanonical":true,
-"text":"U+8A4F 拗 ngaau3 (hypercorrected initial) There is a subtle difference between 拗 aau3 \"stubborn\" and 詏 aau3 \"argue\". Defiant speech (Kangxi: 言逆也). 【詏】 (aau3) To argue. 詏撬 (aau3 giu6): \"Argument.\" 詏贏 (aau3 jeng4): \"Win the argument.\" Olden attestation for 詏 _au_ (aau3) meaning \"argue\": 《康熙字典》詏 《集韻》《正韻》𠀤於敎切妖去聲言逆也"
+"text":"U+8A4F 拗 (Cantonese) ngaau3 (hypercorrected initial) There is a subtle difference between 拗 aau3 \"stubborn\" and 詏 aau3 \"argue\". Defiant speech (Kangxi: 言逆也). 【詏】 (aau3) To argue. 詏撬 (aau3 giu6): \"Argument.\" 詏贏 (aau3 jeng4): \"Win the argument.\" Olden attestation for 詏 _au_ (aau3) meaning \"argue\": 《康熙字典》詏 《集韻》《正韻》𠀤於敎切妖去聲言逆也"
 }
 },
 "哎":{
 "ai1":{
 "isCanonical":true,
-"text":"U+54CE 𫫃 唉 ngai1 (common for \"beg\" sense) (Page 2 𫫃; here normalised to 哎) A particle of surprise or pain; to beg, to ask; _ai ya_, (ai1 jaa1 哎吔) whew! halloo! oh, dear! _ai, mat ni kom tso_ (ai1 mat1 nei5 gam2 zou6 哎乜你噉做) oh! why did you do so? _ai k'au ni_ (ai1 kau4 nei5 哎求你), I intreat you. Williams' 哎求你: Corrected _k'au_ (kau1) to _k'au_ (kau4). 【哎吔-pain】 (ai1 ja4) An interjection of pain, mistake, etc. 哎吔 (ai1 ja4): \"Ouch\", \"Whoops\", etc. 【哎吔-indignation】 (ai1 jaa1) An interjection of surprise, shock, indignation, etc. 哎吔 (ai1 jaa1): \"Oh dear!\", \"How dare you!\", etc. So-called, or nominal. 哎吔經理 (ai1 jaa1 ging1 lei5): \"So-called manager.\" The spelling 哎吔 is arbitrary."
+"text":"U+54CE 𫫃 (Cantonese) 唉 (Cantonese) ngai1 (common for \"beg\" sense) (Page 2 𫫃; here normalised to 哎) A particle of surprise or pain; to beg, to ask; _ai ya_, (ai1 jaa1 哎吔) whew! halloo! oh, dear! _ai, mat ni kom tso_ (ai1 mat1 nei5 gam2 zou6 哎乜你噉做) oh! why did you do so? _ai k'au ni_ (ai1 kau4 nei5 哎求你), I intreat you. Williams' 哎求你: Corrected _k'au_ (kau1) to _k'au_ (kau4). 【哎吔-pain】 (ai1 ja4) An interjection of pain, mistake, etc. 哎吔 (ai1 ja4): \"Ouch\", \"Whoops\", etc. 【哎吔-indignation】 (ai1 jaa1) An interjection of surprise, shock, indignation, etc. 哎吔 (ai1 jaa1): \"Oh dear!\", \"How dare you!\", etc. So-called, or nominal. 哎吔經理 (ai1 jaa1 ging1 lei5): \"So-called manager.\" The spelling 哎吔 is arbitrary."
 }
 },
 "𫫃":{
@@ -340,7 +340,7 @@
 "屭":{
 "ai3":{
 "isCanonical":true,
-"text":"U+5C6D 屓 屃 (Mainland simplified) ngai3 (hypercorrected initial) (Page 2 屭) A colloquial word; grief, sorrow; _pai ai_ (bai3 ai3 贔屭) trouble, resulting from affliction or poverty. 【贔屭】 (bai3 ai3) To be exceedingly afflicted or troubled by something. The spelling 贔屭 is arbitrary (but well established)."
+"text":"U+5C6D 屓 屃 (Mainland simplified) ngai3 (hypercorrected initial) (Page 2 屭) A colloquial word; grief, sorrow; _pai ai_ (bai3 ai3 贔屭) trouble, resulting from affliction or poverty. 【贔屭】 (bai3 ai3) To be exceedingly afflicted or troubled by something. Also spelt 閉翳. The spelling 贔屭 is arbitrary (but well established)."
 },
 "hei3":{
 "isCanonical":true,
@@ -456,7 +456,7 @@
 "揞":{
 "am2":{
 "isCanonical":true,
-"text":"U+63DE 掩 ngam2 (hypercorrected initial) (F2.87 揞) 藏也覆之也 (Page 3 掩 _Am_ (am2); here normalised to 揞 _Om_ (am2)) A colloquial word. To cover with the hand (Kangxi 揞: 手覆也); to conceal from (Kangxi 揞: 藏也); _am mai sheung ngan_, (am2 maai4 soeng1 ngaan5 揞埋雙眼) to cover both eyes; _am chu_ (am2 zyu6 揞住) hide it; _am tik pui shau_, (am2 dik1 bui6 sau2 揞滴背手) give him a little sop, cover his palm. (Page 341 掩揞) To cover, to hide, to screen, by putting something on (Kangxi 揞: 掩也); ~~to extinguish, to suppress;~~ _om chu hau_ (am2 zyu6 hau2 揞住口), to put the hand over the mouth; _che om pat chu_ (ze1 am2 bat1 zyu6 遮揞不住) can not be hid; _om chu t'au hok_ (am2 zyu6 tau4 hok3 揞住頭殼) to lean the head on the hand; _pi shau om chu_ (bei2 sau2 am2 zyu6 畀手揞住) cover it with your hand; _om mat lo ku_ (am2 mat6 lo4 gu2 揞密鑼鼓), \"muffle the gong,\" _i. e._ keep it quiet; _om fung k'am_ (am2 fung1 kam4 揞風琴), to play a piano; ~~_om mit_ (am2 mit6 揞滅) to put out, as fire; to quash;~~ _om pak mai mung_ (am2 baak6 mai4 mung4 揞白迷濛), blindman's buff; _om chu k'u sheung ngan_ (am2 zyu6 keoi5 soeng1 ngaan5 揞住佢雙眼), blindfold his eyes; _om mak_ (am2 mak6 揞脈) to feel the pulse; _om pui shau_ (am2 bui6 sau2 揞背手) to give hush-money, to bribe. The first character (掩) is read _im_ (jim2), but also used with this meaning in the _p'ing shing_ (平聲). Fan Wan entry: Corrected 𡈼 to 也. Williams' \"to extinguish, to suppress\", 揞滅: These are dubious. Kangxi 揞 has 《揚子方言》滅也荆楚曰揞 under the reading 於咸切黯平聲 _am_ (am1). But 《抱經堂叢書》本 annotates a reading of 烏感反 _am_ (am2), and says that 滅 is a typo for 藏. Williams' 揞白迷濛: Corrected _pak_ (baak3) to _pak_ (baak6). Williams' 揞背手: Now rarely heard; 揞口費 is more common for \"hush money\". 【揞】 (am2) To cover with the hand. 揞口費 (am2 hau2 fai3): \"Hush money.\" Olden attestation for 揞 _om_ (am2) meaning \"cover\": 《廣韻》烏感切 揞 手覆 《康熙字典》揞 《唐韻》《集韻》《韻會》《正韻》𠀤烏感切庵上聲藏也手覆也..."
+"text":"U+63DE 掩 (Cantonese) ngam2 (hypercorrected initial) (F2.87 揞) 藏也覆之也 (Page 3 掩 _Am_ (am2); here normalised to 揞 _Om_ (am2)) A colloquial word. To cover with the hand (Kangxi 揞: 手覆也); to conceal from (Kangxi 揞: 藏也); _am mai sheung ngan_, (am2 maai4 soeng1 ngaan5 揞埋雙眼) to cover both eyes; _am chu_ (am2 zyu6 揞住) hide it; _am tik pui shau_, (am2 dik1 bui6 sau2 揞滴背手) give him a little sop, cover his palm. (Page 341 掩揞) To cover, to hide, to screen, by putting something on (Kangxi 揞: 掩也); ~~to extinguish, to suppress;~~ _om chu hau_ (am2 zyu6 hau2 揞住口), to put the hand over the mouth; _che om pat chu_ (ze1 am2 bat1 zyu6 遮揞不住) can not be hid; _om chu t'au hok_ (am2 zyu6 tau4 hok3 揞住頭殼) to lean the head on the hand; _pi shau om chu_ (bei2 sau2 am2 zyu6 畀手揞住) cover it with your hand; _om mat lo ku_ (am2 mat6 lo4 gu2 揞密鑼鼓), \"muffle the gong,\" _i. e._ keep it quiet; _om fung k'am_ (am2 fung1 kam4 揞風琴), to play a piano; ~~_om mit_ (am2 mit6 揞滅) to put out, as fire; to quash;~~ _om pak mai mung_ (am2 baak6 mai4 mung4 揞白迷濛), blindman's buff; _om chu k'u sheung ngan_ (am2 zyu6 keoi5 soeng1 ngaan5 揞住佢雙眼), blindfold his eyes; _om mak_ (am2 mak6 揞脈) to feel the pulse; _om pui shau_ (am2 bui6 sau2 揞背手) to give hush-money, to bribe. The first character (掩) is read _im_ (jim2), but also used with this meaning in the _p'ing shing_ (平聲). Fan Wan entry: Corrected 𡈼 to 也. Williams' \"to extinguish, to suppress\", 揞滅: These are dubious. Kangxi 揞 has 《揚子方言》滅也荆楚曰揞 under the reading 於咸切黯平聲 _am_ (am1). But 《抱經堂叢書》本 annotates a reading of 烏感反 _am_ (am2), and says that 滅 is a typo for 藏. Williams' 揞白迷濛: Corrected _pak_ (baak3) to _pak_ (baak6). Williams' 揞背手: Now rarely heard; 揞口費 is more common for \"hush money\". 【揞】 (am2) To cover with the hand. 揞口費 (am2 hau2 fai3): \"Hush money.\" Olden attestation for 揞 _om_ (am2) meaning \"cover\": 《廣韻》烏感切 揞 手覆 《康熙字典》揞 《唐韻》《集韻》《韻會》《正韻》𠀤烏感切庵上聲藏也手覆也..."
 }
 },
 "欿":{
@@ -498,7 +498,7 @@
 "㾘":{
 "ang2":{
 "isCanonical":true,
-"text":"U+3F98 哽 ngang2 (alternative) (Page 4 㾘) A colloquial word; to stick up, to press into or on; to inchase or emboss; _ang tak keuk t'ung_ (ang2 dak1 goek3 tung3 㾘得腳痛) they hurt my foot; _ang fa_ (ang2 faa1 㾘花), to emboss; _shang shek ang_ (saang1 sek6 ang2 生石㾘), to have a stone bruise; _ang sam_ (ang2 sam1 㾘心), to disturb one, as bad news; painful. Williams' 生石㾘: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【㾘】 (ang2) To exert (or experience) a pressing force over a smallish or lump-sized area. 㾘牙 (ang2 ngaa4): \"The food is hard and presses against my teeth.\" 㾘腳 (ang2 goek3): \"It presses against my foot.\" The spelling 㾘 is arbitrary."
+"text":"U+3F98 哽 (Cantonese) ngang2 (alternative) (Page 4 㾘) A colloquial word; to stick up, to press into or on; to inchase or emboss; _ang tak keuk t'ung_ (ang2 dak1 goek3 tung3 㾘得腳痛) they hurt my foot; _ang fa_ (ang2 faa1 㾘花), to emboss; _shang shek ang_ (saang1 sek6 ang2 生石㾘), to have a stone bruise; _ang sam_ (ang2 sam1 㾘心), to disturb one, as bad news; painful. Williams' 生石㾘: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【㾘】 (ang2) To exert (or experience) a pressing force over a smallish or lump-sized area. 㾘牙 (ang2 ngaa4): \"The food is hard and presses against my teeth.\" 㾘腳 (ang2 goek3): \"It presses against my foot.\" The spelling 㾘 is arbitrary."
 }
 },
 "更":{
@@ -708,7 +708,7 @@
 },
 "caa5":{
 "isCanonical":true,
-"text":"U+643D 扠 【搽-smudge】 (caa5) To smudge or scribble out. 搽咗佢 (caa5 zo2 keoi5): \"Scribble it out.\" 【搽禍】 (caa5 wo5) To ruin or spoil. 搽禍咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): \"It's spoilt the plan.\" The spelling 搽 is arbitrary (but attested in Eitel (1877)). Wiktionary as of 2026-01-01 suggests 䵦 as the original character, but I am not convinced of this. While the classical meaning (to dirty) is reasonable, the reading per 《廣韻》徐野切 is _ts'a_, not _ch'a_. The second is required if it is cognate with level-tone 搽 caa4, from 塗 read _ch'a_ per 《廣韻》宅加切."
+"text":"U+643D 扠 (Cantonese) 【搽-smudge】 (caa5) To smudge or scribble out. 搽咗佢 (caa5 zo2 keoi5): \"Scribble it out.\" 【搽禍】 (caa5 wo5) To ruin or spoil. 搽禍咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): \"It's spoilt the plan.\" The spelling 搽 is arbitrary (but attested in Eitel (1877)). Wiktionary as of 2026-01-01 suggests 䵦 as the original character, but I am not convinced of this. While the classical meaning (to dirty) is reasonable, the reading per 《廣韻》徐野切 is _ts'a_, not _ch'a_. The second is required if it is cognate with level-tone 搽 caa4, from 塗 read _ch'a_ per 《廣韻》宅加切."
 }
 },
 "查":{

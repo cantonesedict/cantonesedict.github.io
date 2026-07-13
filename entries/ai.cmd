@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,8 +62,8 @@ U
   U+54CE
 A
   ==
-  - ${𫫃=⿰口挨}1
-  - 唉
+  - ${𫫃=⿰口挨}1 (Cantonese)
+  - 唉 (Cantonese)
   ==
 V
   ==
@@ -131,7 +131,7 @@ W
   ====
   - [[Page~2 (1){𫫃=⿰口挨}]]
     --
-    [[Alternative form of 哎. **See $哎ai1 for the canonical entry.**]]
+    [[Alternative form of 哎 (Cantonese). **See $哎ai1 for the canonical entry.**]]
     --
   ====
 S
@@ -251,7 +251,7 @@ E
   ====
   - 【贔屭】 (bai3 ai3)
     ++
-    1. To be exceedingly afflicted or troubled by something.
+    1. To be exceedingly afflicted or troubled by something. Also spelt 閉翳.
     ++
   ====
   --
