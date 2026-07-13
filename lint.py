@@ -2355,14 +2355,20 @@ class CharacterEntry:
             )))
 
             if potential_characters == character:
-                if redundant_match := re.search(pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: \S+\]\]', string=item_content):
+                if redundant_match := re.search(
+                    pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: \S+\]\]',
+                    string=item_content,
+                ):
                     annotation = redundant_match.group()
                     source = redundant_match.group('source')
                     raise LintException(
                         f'redundant disambiguator {character} in {source} annotation `{annotation}`'
                     )
             else:
-                if ambiguous_match := re.search(pattern=r'\[\[(?P<source>Kangxi|Fan Wan): \S+\]\]', string=item_content):
+                if ambiguous_match := re.search(
+                    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): \S+\]\]',
+                    string=item_content,
+                ):
                     annotation = ambiguous_match.group()
                     source = ambiguous_match.group('source')
                     raise LintException(
