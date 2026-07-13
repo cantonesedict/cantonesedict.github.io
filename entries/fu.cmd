@@ -1001,7 +1001,7 @@ W
   - [[Page~715 (1)粰; here normalised to 稃]]
     ==
     - [[...]];
-    - (1)稃 is also the capsule or pericarp of a seed [[Kangxi: 稃卽米殻, 穀皮也]]~~,
+    - (1)稃 is also the capsule or pericarp of a seed [[Kangxi 稃: 稃卽米殻, 穀皮也]]~~,
       the calyx of a flower~~.
     ==
   ====
@@ -1520,7 +1520,7 @@ W
   - [[Page~715 (2)俛; here normalised to 俯]]
     ==
     - Interchanged with 頫 ~~_t(')i(u/)(3)_ [[tiu3]]~~
-      in the senses of hanging down the head [[Kangxi: 同俯頫 etc.]];
+      in the senses of hanging down the head [[Kangxi 俛: 同俯頫 etc.]];
     - to look down;
     - to condescend, to examine into.
     ==
@@ -2287,7 +2287,7 @@ W
   ====
   - [[Page~57 (1)鈇 _(1)F(u/)_ (fu1); here normalised to _(2)F(u/)_ (fu2)]]
     ==
-    - A kind of hatchet of small ax [[Kangxi 鈇: 斧也, 鈇方于反又音斧]].
+    - A kind of hatchet of small ax [[Kangxi: 斧也, 鈇方于反又音斧]].
     ==
     --
     [[Alternative form of 斧. See $斧fu2.]]

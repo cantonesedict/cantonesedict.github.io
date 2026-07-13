@@ -493,7 +493,7 @@ W
   ====
   - [[Page~569 ::~~{？=⿳田儿又}~~``畟``(7)::]]
     ==
-    - ~~A~~ sharp ~~agricultural instrument~~ like a mattoc [[Kangxi: 治稼畟畟進也, 畟畟耜也, 言嚴利]];
+    - ~~A~~ sharp ~~agricultural instrument~~ like a mattoc [[Kangxi 畟: 治稼畟畟進也, 畟畟耜也, 言嚴利]];
     - ~~to attend to husbandry.~~
     ==
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -141,7 +141,7 @@ W
     - to pole;
     - to push off [[Kangxi 撐: 撥也]];
     - to make a show;
-    - an inclined post [[Kangxi: 與樘同, 樘衺柱也]], a fulcrum, a prop, a stay;
+    - an inclined post [[Kangxi 撐: 與樘同, 樘衺柱也]], a fulcrum, a prop, a stay;
     - to border on, to adjoin, to stretch or run up into;
     - _(1)ch(')(a/)ng (4)sh(u:)n_
         [[caang1 syun4 撐船]],

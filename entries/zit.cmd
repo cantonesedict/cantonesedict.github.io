@@ -202,7 +202,7 @@ W
   ====
   - [[Page~22* 哲(8)喆(8)]]
     ==
-    - Wise, perspicacious, sage [[Kangxi: 哲智也, 哲知也]];
+    - Wise, perspicacious, sage [[Kangxi 哲: 哲智也, 哲知也]];
     - to know intuitively;
     - versed in;
     - to be fully aware of;

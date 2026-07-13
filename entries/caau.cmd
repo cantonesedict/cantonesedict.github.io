@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,7 +149,7 @@ W
     ==
   - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); _(1)Ch(')(a/)u_ (caau1) implied]]
     ==
-    - Interchanged with 抄 to copy [[Kangxi: 今俗別作抄, 謄寫也]];
+    - Interchanged with 抄 to copy [[Kangxi 鈔: 今俗別作抄, 謄寫也]];
     - [[...]].
     ==
   ====

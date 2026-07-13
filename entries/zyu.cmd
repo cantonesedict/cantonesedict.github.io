@@ -773,7 +773,7 @@ W
   ====
   - [[Page~29* (1)猪; here normalised to 豬]]
     ==
-    - A hog [[Kangxi: 豕而三毛叢居者 etc.]];
+    - A hog [[Kangxi 豬: 豕而三毛叢居者 etc.]];
     - _(1)ch(u:) (2)n(a/)_
         [[zyu1 naa2 豬乸]],
         a sow;

@@ -258,7 +258,7 @@ W
   ====
   - [[Page~23* (1)朝(1)晁]]
     ==
-    - Dawn, morning [[Kangxi: 旦也, 朝早也]];
+    - Dawn, morning [[Kangxi 朝: 旦也, 朝早也]];
     - early;
     - _(1)chi(u/) (5)m(a/)n_
         [[ziu1 maan5 朝晚]],

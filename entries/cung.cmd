@@ -820,7 +820,7 @@ W
         the onion bulb;
     - _(1)ts(')ung ~~(5)ling~~ ``(5)leng``_
         [[cung1 leng5 蔥嶺]],
-        the ~~Karakorum~~ ``Pamir`` Mts [[Kangxi: 山名 etc.]].
+        the ~~Karakorum~~ ``Pamir`` Mts [[Kangxi 葱: 山名 etc.]].
     ==
   ====
 C
@@ -1016,7 +1016,7 @@ W
   ====
   - [[Page~608 (1)騘; here normalised to 驄]]
     ==
-    - A dapple-gray horse [[Kangxi: 馬靑白雜毛也 etc.]]~~, a bay horse~~;
+    - A dapple-gray horse [[Kangxi 驄: 馬靑白雜毛也 etc.]]~~, a bay horse~~;
     - _(5)'ng (1)f(a/) (1)ts(')ung_
         [[ng5 faa1 cung1 五花驄]],
         a piebald, fancy horse.

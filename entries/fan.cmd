@@ -237,7 +237,7 @@ W
   ====
   - [[Page~45 ::(1)~~{？=⿺熏力}~~``勳``::]]
     ==
-    - Loyal merit [[Kangxi: 能成王功也 etc.]], meritorious;
+    - Loyal merit [[Kangxi 勳: 能成王功也 etc.]], meritorious;
     - to spend strength for one's king;
     - _(1)fan (4)l(o\)_
         [[fan1 lou4 勳勞]],

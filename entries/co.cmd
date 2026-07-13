@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -679,7 +679,7 @@ W
   ====
   - [[Page~26* ::(2)~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``::]]
     ==
-    - The stone base of a pillar or column [[Kangxi: 柱下石, 礩也]];
+    - The stone base of a pillar or column [[Kangxi 礎: 柱下石, 礩也]];
     - a pedestal;
     - a plinth.
     ==

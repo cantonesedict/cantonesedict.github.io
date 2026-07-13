@@ -1891,7 +1891,7 @@ W
   - [[Page~27|n70 (4)綢]]
     ==
     - Used for the last [[紬]], when denoting silk;
-    - to bind, to wrap around, to twine about [[Kangxi 綢: 繆也, 綢縛束也]];
+    - to bind, to wrap around, to twine about [[Kangxi 綢^: 繆也, 綢縛束也]];
     - [[...]];
     - _(4)ch(')au (4)mau_
         [[cau4 mau4 綢繆]],

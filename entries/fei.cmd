@@ -838,7 +838,7 @@ W
     --
   - [[Page~53 (2)篚]]
     ==
-    - A round bamboo basket [[Kangxi 篚: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
+    - A round bamboo basket [[Kangxi: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
     ==
   ====
 L

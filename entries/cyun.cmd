@@ -139,7 +139,7 @@ W
   ====
   - [[Page~604 (1)村(1)邨]]
     ==
-    - A hamlet, a village [[Kangxi: 墅也, 聚落也]];
+    - A hamlet, a village [[Kangxi 村: 墅也, 聚落也]];
     - _(1)h(e/)ung (1)ts(')(u:)n_
         [[hoeng1 cyun1 鄉村]],
         a village, the country;

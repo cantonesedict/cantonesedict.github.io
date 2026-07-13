@@ -850,7 +850,7 @@ W
   ====
   - [[Page~16* 占(3)佔(3)]]
     ==
-    - To usurp, to seize, to take forcibly [[Kangxi: 固有也, 擅據也著位也]];
+    - To usurp, to seize, to take forcibly [[Kangxi 占: 固有也, 擅據也著位也]];
     - to assume, to arrogate, to take the liberty;
     - to possess [[Kangxi 占: 有也]];
     - _p(a/)(3) ch(i/)m(3)_

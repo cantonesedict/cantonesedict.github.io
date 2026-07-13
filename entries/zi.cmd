@@ -3182,7 +3182,7 @@ W
   ====
   - [[Page~39|n82 (2)帋(2)紙]]
     ==
-    - Paper [[Kangxi: 絮一苫也 etc.]];
+    - Paper [[Kangxi 紙: 絮一苫也 etc.]];
     - a document;
     - _yat(7) (1)ch(e/)ung (2)ch(i/)_
         [[jat1 zoeng1 zi2 一張紙]],

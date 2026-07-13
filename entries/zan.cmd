@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -816,7 +816,7 @@ W
   ====
   - [[Page~17|n60 陣(6)陳(6)]]
     ==
-    - A rank, a file of soldiers, a battalion [[Kangxi: 旅也, 列也]];
+    - A rank, a file of soldiers, a battalion [[Kangxi 陣: 旅也, 列也]];
     - an army;
     - to arrange, to place in ranks;
     - a little while, passing, transitory;
