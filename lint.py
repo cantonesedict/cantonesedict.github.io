@@ -2361,7 +2361,8 @@ class CharacterEntry:
                     annotation = redundant_match.group()
                     source = redundant_match.group('source')
                     raise LintException(
-                        f'redundant disambiguator {character} in {source} annotation `{annotation}`'
+                        f'redundant disambiguator {character} in {source} annotation `{annotation}` '
+                        f'(suppress with caret before colon if legitimate)'
                     )
             else:
                 if ambiguous_match := re.search(
