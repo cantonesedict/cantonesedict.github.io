@@ -2162,7 +2162,7 @@ class CharacterEntry:
         CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
-        CharacterEntry.lint_kangxi_headword(character, w_content)
+        CharacterEntry.lint_annotation_headword(character, w_content)
         CharacterEntry.lint_literary_rendering_senses(l_content)
         CharacterEntry.lint_character_jyutping_consistency(e_content)
 
@@ -2334,7 +2334,7 @@ class CharacterEntry:
             )
 
     @staticmethod
-    def lint_kangxi_headword(character: str, content: str):
+    def lint_annotation_headword(character: str, content: str):
         for match in re.finditer(
             pattern=r'''
                 ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] \n
@@ -2355,16 +2355,18 @@ class CharacterEntry:
             )))
 
             if potential_characters == character:
-                if redundant_match := re.search(pattern=fr'\[\[Kangxi {character}: \S+\]\]', string=item_content):
-                    kangxi_annotation = redundant_match.group()
+                if redundant_match := re.search(pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: \S+\]\]', string=item_content):
+                    annotation = redundant_match.group()
+                    source = redundant_match.group('source')
                     raise LintException(
-                        f'redundant disambiguator {character} in Kangxi annotation `{kangxi_annotation}`'
+                        f'redundant disambiguator {character} in {source} annotation `{annotation}`'
                     )
             else:
-                if ambiguous_kangxi_match := re.search(pattern=r'\[\[Kangxi: \S+\]\]', string=item_content):
-                    kangxi_annotation = ambiguous_kangxi_match.group()
+                if ambiguous_match := re.search(pattern=r'\[\[(?P<source>Kangxi|Fan Wan): \S+\]\]', string=item_content):
+                    annotation = ambiguous_match.group()
+                    source = ambiguous_match.group('source')
                     raise LintException(
-                        f'ambiguous headword ({potential_characters}) in Kangxi annotation `{kangxi_annotation}`'
+                        f'ambiguous headword ({potential_characters}) in {source} annotation `{annotation}`'
                     )
 
     @staticmethod
