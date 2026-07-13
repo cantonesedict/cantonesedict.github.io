@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -141,7 +141,7 @@ W
     - [[...]].
     ==
     --
-    [[Otherwise, an alternative form of 啜 (for the vernacular "suck" sense). **See $啜zyut3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 啜 (for the Cantonese "suck" sense). **See $啜zyut3 for the canonical entry.**]]
     --
   ====
 S
@@ -160,14 +160,14 @@ U
   U+555C
 A
   ==
-  - $啐3 (for vernacular "suck" sense)
-  - $嘬3 (for vernacular "suck" sense)
+  - $啐3 (for Cantonese "suck" sense)
+  - $嘬3 (for Cantonese "suck" sense)
   - 諁 (for "talkative" sense)
   ==
 V
   ==
   - cyut3 (per 《廣韻》昌恱切 for "taste/sip" sense)
-  - zyut3-1 (for vernacular "kiss" sense)
+  - zyut3-1 (for Cantonese "kiss" sense)
   ==
 F
   ==
@@ -258,7 +258,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 啜 (for the vernacular "suck" sense). **See $啜zyut3 for the canonical entry.**
+  1. Alternative form of 啜 (for the Cantonese "suck" sense). **See $啜zyut3 for the canonical entry.**
   ++
 S
   ==

@@ -98,7 +98,7 @@ A
   ==
 V
   ==
-  - zem1 (for vernacular "jam" sense)
+  - zem1 (for Cantonese "jam" sense)
   ==
 F
   ==

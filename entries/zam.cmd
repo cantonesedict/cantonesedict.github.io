@@ -671,7 +671,7 @@ A
   ==
 V
   ==
-  - zam6 (for vernacular "drown" sense)
+  - zam6 (for Cantonese "drown" sense)
   ==
 F
   ==
@@ -746,7 +746,7 @@ W
   ====
 C
   ====
-  - Some hold that the reading variation zam6 for the vernacular "drown" sense
+  - Some hold that the reading variation zam6 for the Cantonese "drown" sense
     is from Middle Chinese 直禁切 _cham(6)_ (zam6) for 沈 (now spelt 沉).
     For this departing-tone reading of 沈, note that:
     ==
@@ -973,7 +973,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation (for the vernacular "drown" sense). **See $浸zam3 for the canonical entry.**
+  1. Reading variation (for the Cantonese "drown" sense). **See $浸zam3 for the canonical entry.**
   ++
 S
   ==

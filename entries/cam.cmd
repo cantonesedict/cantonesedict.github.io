@@ -415,7 +415,7 @@ W
     [[Reading variation. **See $譖zam3 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 讖 (for the vernacular "long-winded" sense). **See $讖cam3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 讖 (for the Cantonese "long-winded" sense). **See $讖cam3 for the canonical entry.**]]
     --
   ====
 C
@@ -437,8 +437,8 @@ U
   U+8B96
 A
   ==
-  - 唚 (for vernacular "long-winded" sense)
-  - $譖3 (for vernacular "long-winded" sense)
+  - 唚 (for Cantonese "long-winded" sense)
+  - $譖3 (for Cantonese "long-winded" sense)
   - 谶 (Mainland simplified)
   ==
 V

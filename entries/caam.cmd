@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1110,7 +1110,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 鏨 (for the vernacular "pierce" sense). **See $鏨caam5 for the canonical entry.**
+  1. Alternative form of 鏨 (for the Cantonese "pierce" sense). **See $鏨caam5 for the canonical entry.**
   ++
 S
   ==
@@ -1175,7 +1175,7 @@ U
   U+93E8
 A
   ==
-  - $劖5 (for vernacular "pierce" sense)
+  - $劖5 (for Cantonese "pierce" sense)
   - 錾 (Mainland simplified)
   ==
 V

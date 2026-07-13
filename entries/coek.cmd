@@ -278,7 +278,7 @@ U
   U+707C
 A
   ==
-  - $焯3 (for "manifest/clear" sense and vernacular "blanch" sense)
+  - $焯3 (for "manifest/clear" sense and Cantonese "blanch" sense)
   ==
 V
   ==
@@ -354,7 +354,7 @@ W
 P
   ++
   1. Clear, bright. (Alternative form of 灼 (for the "manifest/clear" sense). See $灼coek3.)
-  1. Alternative form of 灼 (for the vernacular "blanch" sense). **See $灼coek3 for the canonical entry.**
+  1. Alternative form of 灼 (for the Cantonese "blanch" sense). **See $灼coek3 for the canonical entry.**
   ++
 $$
 

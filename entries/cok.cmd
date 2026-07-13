@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ U
   U+5252
 A
   ==
-  - $錯3 (for vernacular "choppiness" and "jolt" senses)
+  - $錯3 (for Cantonese "choppiness" and "jolt" senses)
   ==
 V
   ==
@@ -210,7 +210,7 @@ W
         to tattoo the arm.
     ==
     --
-    [[Otherwise, an alternative form of 剒 (for the vernacular "choppiness" and "jolt" senses). **See $剒cok3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 剒 (for the Cantonese "choppiness" and "jolt" senses). **See $剒cok3 for the canonical entry.**]]
     --
   ====
 L

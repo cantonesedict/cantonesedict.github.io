@@ -805,7 +805,7 @@ A
   ==
 V
   ==
-  - zan6-2 (for vernacular "time", "later", and subjunctive marker senses)
+  - zan6-2 (for Cantonese "time", "later", and subjunctive marker senses)
   ==
 F
   ==

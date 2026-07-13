@@ -263,7 +263,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 鐺 (for the vernacular "pot" sense). **See $鐺caang1 for the canonical entry.**
+  1. Alternative form of 鐺 (for the Cantonese "pot" sense). **See $鐺caang1 for the canonical entry.**
   ++
 $$
 
@@ -303,7 +303,7 @@ U
   U+943A
 A
   ==
-  - $罉1 (for vernacular "pot" sense)
+  - $罉1 (for Cantonese "pot" sense)
   - $鎗1
   - 铛 (Mainland simplified)
   ==
