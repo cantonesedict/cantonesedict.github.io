@@ -2355,7 +2355,7 @@ class CharacterEntry:
 
             if len(potential_characters) == 1:
                 if redundant_match := re.search(
-                    pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: \S+\]\]',
+                    pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: .*?\]\]',
                     string=item_content,
                 ):
                     annotation = redundant_match.group()
@@ -2366,7 +2366,7 @@ class CharacterEntry:
                     )
             else:
                 if ambiguous_match := re.search(
-                    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): \S+\]\]',
+                    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): .*?\]\]',
                     string=item_content,
                 ):
                     annotation = ambiguous_match.group()
