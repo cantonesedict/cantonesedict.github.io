@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1510,11 +1510,11 @@ W
   ====
   - [[Page~595 序(6)]]
     ==
-    - Eastern and western walls ~~or rooms~~ [[Kangxi 序: 東西牆謂之序]];
-    - a college, a school [[Kangxi 序: 學也]];
+    - Eastern and western walls ~~or rooms~~ [[Kangxi 序^: 東西牆謂之序]];
+    - a college, a school [[Kangxi 序^: 學也]];
     - an asylum for old men;
     - a preface, an introduction, an exordium [[Kangxi 敍: 凡書策舉其綱要列卷首爲敍或作序]];
-    - order, precedence, series [[Kangxi 序: 次也]];
+    - order, precedence, series [[Kangxi 序^: 次也]];
     - to follow in order;
     - _ts(')z'(3) ts(u:)(6)_
         [[ci3 zeoi6 次序]]

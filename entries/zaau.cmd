@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -542,7 +542,7 @@ W
   ====
   - [[Page~29|n72 {𦻐=⿱艹焯}(3); here normalised to 㷹]]
     ==
-    - Blazing fire [[Kangxi: 火急煎貌]];
+    - Blazing fire [[Kangxi 㷹: 火急煎貌]];
     - to fry;
     - to boil in fat;
     - _(4)yau ch(a/)u(3)_
@@ -604,7 +604,7 @@ W
   ====
   - [[Page~29|n72 ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
     ==
-    - A net, or basket to catch mud fish by covering them [[Kangxi: 捕魚器也]];
+    - A net, or basket to catch mud fish by covering them [[Kangxi 罩: 捕魚器也]];
     - to catch or cover over;
     - to shade;
     - a shade, a cover, a protection from wind or dust;

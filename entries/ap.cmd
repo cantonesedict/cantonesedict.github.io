@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -143,10 +143,10 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~341 (1)庵(1)菴 _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]]
+  - [[Page~341 ::(1)庵~~(1)菴~~:: _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]]
     ==
     - [[...]];
-    - a pig-sty [[Kangxi: 豕屋]];
+    - a pig-sty [[Kangxi 庵: 豕屋]];
     - [[...]].
     ==
   ====

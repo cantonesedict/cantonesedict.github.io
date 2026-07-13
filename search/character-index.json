@@ -396,7 +396,7 @@
 },
 "ap3":{
 "isCanonical":true,
-"text":"U+5EB5 ngap3 (hypercorrected initial) (Page 341 庵菴 _Om_ (am1); here corrected to _Op_ (ap3)) a pig-sty (Kangxi: 豕屋);"
+"text":"U+5EB5 ngap3 (hypercorrected initial) (Page 341 庵~~菴~~ _Om_ (am1); here corrected to _Op_ (ap3)) a pig-sty (Kangxi 庵: 豕屋);"
 }
 },
 "菴":{
@@ -1636,7 +1636,7 @@
 },
 "zam3":{
 "isCanonical":true,
-"text":"U+6D78 湛 zam6 (for vernacular \"drown\" sense) (F2.38 浸) 漬也潤也 (Page 15|n58 浸 _Cham_) A colloquial word. A coat, as of paint; a thickness, an envelop, a skin; _ts'at sam cham_ (cat1 saam1 zam3 漆三浸) varnished it three times; _mok yat cham p'i_ (mok1 jat1 zam3 pei4 剝一浸皮), pull off one covering. (Page 16|n59 湛 _Cham_ (zaam3); here corrected to _Tsam_ (zam3) and normalised to 浸) to soak, to immerse, to imbibe, as a sponge (Kangxi: 與浸同漬也); to plunge in (Kangxi: 投物水中也); (Page 551 浸 _Tsam_) To soak through, to penetrate (Kangxi: 漬也); to saturate, to steep in, to macerate, to wet (Kangxi: 潤也); to submerge, to immerse (Kangxi: 沒也); to flood, to lay under water, as fields (Kangxi: 涵也沈也澤之總名也); drenched, wet, imbued with, watered; gradually, gently (Kangxi: 漸也); _tsam sz'_ (zam3 sei2 浸死) drowned; _tsam t'ong_ (zam3 tong4 浸糖) soaked in syrup; _tsam yun_ (zam3 jeon6 浸潤) to imbue with, to prejudice against, to bias; _tsam cha_ (zam3 zaa6 浸？) niggardly, closefisted; _shui tsam_ (seoi2 zam3 水浸) overflowed``, flooded``; _hon tsam hung ngan_ (hon6 zam3 hung4 ngaan4 汗浸紅顏), the perspiration rolled down his face; _tsam shap_ (zam3 sap1 浸濕) wet it, soak it; _pi shui tsam chu_ (bei2 seoi2 zam3 zyu6 畀水浸住) cover it with water; _tsam tsau_ (zam3 zau2 浸酒), spirits in which fruits have been soaked; _tsam yap sam_ (zam3 jap6 sam1 浸入心), it is wet through. Some hold that the reading variation zam6 for the vernacular \"drown\" sense is from Middle Chinese 直禁切 _cham_ (zam6) for 沈 (now spelt 沉). For this departing-tone reading of 沈, note that: 《廣韻》 provides no explanation (it simply cross-references the level-tone reading _ch'am_ (cam4) as 又直壬切). 《集韻》 has the explanation 沒也. Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也. Williams' 汗浸紅顏: Although 紅顏 does not preclude men, it is generally used to describe a lady's face. 【浸】 (tsimH) (_verb-like_) to soak, to immerse, (_met._) lake (_adverb-like_) gradually 【浸】 (zam3) Classifier for layers. 剷甩浸油 (caan2 lat1 zam3 jau4-2): \"Strip away the layer of paint.\" 有浸肥膏 (jau5 zam3 fei4 gou1): \"There's a layer of fat.\" The spelling 浸 is arbitrary."
+"text":"U+6D78 湛 zam6 (for vernacular \"drown\" sense) (F2.38 浸) 漬也潤也 (Page 15|n58 浸 _Cham_) A colloquial word. A coat, as of paint; a thickness, an envelop, a skin; _ts'at sam cham_ (cat1 saam1 zam3 漆三浸) varnished it three times; _mok yat cham p'i_ (mok1 jat1 zam3 pei4 剝一浸皮), pull off one covering. (Page 16|n59 湛 _Cham_ (zaam3); here corrected to _Tsam_ (zam3) and normalised to 浸) to soak, to immerse, to imbibe, as a sponge (Kangxi 湛: 與浸同漬也); to plunge in (Kangxi 湛: 投物水中也); (Page 551 浸 _Tsam_) To soak through, to penetrate (Kangxi: 漬也); to saturate, to steep in, to macerate, to wet (Kangxi: 潤也); to submerge, to immerse (Kangxi: 沒也); to flood, to lay under water, as fields (Kangxi: 涵也沈也澤之總名也); drenched, wet, imbued with, watered; gradually, gently (Kangxi: 漸也); _tsam sz'_ (zam3 sei2 浸死) drowned; _tsam t'ong_ (zam3 tong4 浸糖) soaked in syrup; _tsam yun_ (zam3 jeon6 浸潤) to imbue with, to prejudice against, to bias; _tsam cha_ (zam3 zaa6 浸？) niggardly, closefisted; _shui tsam_ (seoi2 zam3 水浸) overflowed``, flooded``; _hon tsam hung ngan_ (hon6 zam3 hung4 ngaan4 汗浸紅顏), the perspiration rolled down his face; _tsam shap_ (zam3 sap1 浸濕) wet it, soak it; _pi shui tsam chu_ (bei2 seoi2 zam3 zyu6 畀水浸住) cover it with water; _tsam tsau_ (zam3 zau2 浸酒), spirits in which fruits have been soaked; _tsam yap sam_ (zam3 jap6 sam1 浸入心), it is wet through. Some hold that the reading variation zam6 for the vernacular \"drown\" sense is from Middle Chinese 直禁切 _cham_ (zam6) for 沈 (now spelt 沉). For this departing-tone reading of 沈, note that: 《廣韻》 provides no explanation (it simply cross-references the level-tone reading _ch'am_ (cam4) as 又直壬切). 《集韻》 has the explanation 沒也. Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也. Williams' 汗浸紅顏: Although 紅顏 does not preclude men, it is generally used to describe a lady's face. 【浸】 (tsimH) (_verb-like_) to soak, to immerse, (_met._) lake (_adverb-like_) gradually 【浸】 (zam3) Classifier for layers. 剷甩浸油 (caan2 lat1 zam3 jau4-2): \"Strip away the layer of paint.\" 有浸肥膏 (jau5 zam3 fei4 gou1): \"There's a layer of fat.\" The spelling 浸 is arbitrary."
 },
 "zam6":{
 "isCanonical":false,
@@ -1750,7 +1750,7 @@
 "魫":{
 "cam4":{
 "isCanonical":true,
-"text":"U+9B6B sam2 (per 《廣韻》式荏切) zam2 (per Fan Wan) (F2.37 魫 _Cham_ (zam2)) 魚名 (Page 15|n58 ~~𩵫~~``魫`` _Ch'am_ (cam2); here corrected to _Ch'am_ (cam4)) The roe or eggs of fish (Kangxi: 魚子); the name of a fish (Fan Wan: 魚名). The reading _ch'am_ (cam4) is not unattested; 《集韻》 has the reading 持林切, explained 魚子也. Williams' placement under _Ch'am_ (cam2) is erroneous because it does not follow any of the following: _cham_ (zam2) per Fan Wan (which places it between 枕 and 怎) _ch'am_ (cam4) per 《集韻》持林切. _sham_ (sam2) per 《廣韻》式任切 rising. It is possible that Williams has simply misprinted __ as __, in which case _ch'am_ (cam4) is intended."
+"text":"U+9B6B sam2 (per 《廣韻》式荏切) zam2 (per Fan Wan) (F2.37 魫 _Cham_ (zam2)) 魚名 (Page 15|n58 ~~𩵫~~``魫`` _Ch'am_ (cam2); here corrected to _Ch'am_ (cam4)) The roe or eggs of fish (Kangxi 魫: 魚子); the name of a fish (Fan Wan 魫: 魚名). The reading _ch'am_ (cam4) is not unattested; 《集韻》 has the reading 持林切, explained 魚子也. Williams' placement under _Ch'am_ (cam2) is erroneous because it does not follow any of the following: _cham_ (zam2) per Fan Wan (which places it between 枕 and 怎) _ch'am_ (cam4) per 《集韻》持林切. _sham_ (sam2) per 《廣韻》式任切 rising. It is possible that Williams has simply misprinted __ as __, in which case _ch'am_ (cam4) is intended."
 }
 },
 "鱏":{
@@ -1982,7 +1982,7 @@
 "漆":{
 "cat1":{
 "isCanonical":true,
-"text":"U+6F06 柒 桼 (F1.86 漆) 木之滓也可以漆物 (Page 559 七柒) The second (柒) (...) is also (...) a contracted form of the next (漆) (Kangxi 柒: 俗漆字). (Page 559 ~~？~~``漆``) Varnish, lacquer; viscid or resinous juices which can be used in painting (Kangxi: 木汁可髤物); to paint, to varnish; black, as lacquer (Kangxi: 物之黑者曰漆); adhesive; exceedingly friendly, doating on; _yau ts'at_ (jau4 cat1 油漆) to paint and varnish; _yau ts'at lo_ (jau4 cat1 lou2 油漆佬), a house-painter; _ts'at shik_ (cat1 sik6 漆蝕) poisoned with lacquer; _ts'at hi_ (cat1 hei3 漆器) lacquered-ware; _fo ts'at_ (fo2 cat1 火漆) sealing-wax; _fo ts'at p'in_ (fo2 cat1 pin3 火漆片) wafers; _ho ts'at shui_ (hou2 cat1 seoi2 好漆水), lustrous varnish; _ts'at tsing_ (cat1 zing1 漆精), fine varnish; _ts'ing u kau ts'at_ (cing4 jyu4 gaau1 cat1 情如膠漆) his disposition is very affectionate; _kam ts'at_ (gam1 cat1 金漆) gilt lacquer; _yap ts'at_ (jap6 cat1 入漆) been varnished; _ts'at shu_ (cat1 syu6 漆樹) the varnish tree. 【漆】 (tshit) (_noun-like_) varnish-tree, varnish"
+"text":"U+6F06 柒 桼 (F1.86 漆) 木之滓也可以漆物 (Page 559 七柒) The second (柒) (...) is also (...) a contracted form of the next (漆) (Kangxi 柒: 俗漆字). (Page 559 ~~？~~``漆``) Varnish, lacquer; viscid or resinous juices which can be used in painting (Kangxi 漆: 木汁可髤物); to paint, to varnish; black, as lacquer (Kangxi 漆: 物之黑者曰漆); adhesive; exceedingly friendly, doating on; _yau ts'at_ (jau4 cat1 油漆) to paint and varnish; _yau ts'at lo_ (jau4 cat1 lou2 油漆佬), a house-painter; _ts'at shik_ (cat1 sik6 漆蝕) poisoned with lacquer; _ts'at hi_ (cat1 hei3 漆器) lacquered-ware; _fo ts'at_ (fo2 cat1 火漆) sealing-wax; _fo ts'at p'in_ (fo2 cat1 pin3 火漆片) wafers; _ho ts'at shui_ (hou2 cat1 seoi2 好漆水), lustrous varnish; _ts'at tsing_ (cat1 zing1 漆精), fine varnish; _ts'ing u kau ts'at_ (cing4 jyu4 gaau1 cat1 情如膠漆) his disposition is very affectionate; _kam ts'at_ (gam1 cat1 金漆) gilt lacquer; _yap ts'at_ (jap6 cat1 入漆) been varnished; _ts'at shu_ (cat1 syu6 漆樹) the varnish tree. 【漆】 (tshit) (_noun-like_) varnish-tree, varnish"
 }
 },
 "𫵱":{
@@ -2024,7 +2024,7 @@
 },
 "ciu2":{
 "isCanonical":true,
-"text":"U+6100 cau1 (alternative per 《集韻》雌由切) cau5 (alternative per 《廣韻》在九切) (F1.50 愀 _Ts'au_ (cau1)) 色變也 (Page 562 ~~愁~~``愀`` _Ts'au_ (cau1); here normalised to _Ts'iu_ (ciu2)) ~~To blush, to redden, to change color~~ ``To change the countenance`` (Kangxi: 容色變也); ~~downhearted, sad.~~ Williams misprints 愀 as 愁. In doing so, Williams has erroneously included the definition \"downhearted, sad\". That definition is only applicable to 愁. 【愀】 (tshjewX, dzjuwX) (_verb-like_) to change countenance"
+"text":"U+6100 cau1 (alternative per 《集韻》雌由切) cau5 (alternative per 《廣韻》在九切) (F1.50 愀 _Ts'au_ (cau1)) 色變也 (Page 562 ~~愁~~``愀`` _Ts'au_ (cau1); here normalised to _Ts'iu_ (ciu2)) ~~To blush, to redden, to change color~~ ``To change the countenance`` (Kangxi 愀: 容色變也); ~~downhearted, sad.~~ Williams misprints 愀 as 愁. In doing so, Williams has erroneously included the definition \"downhearted, sad\". That definition is only applicable to 愁. 【愀】 (tshjewX, dzjuwX) (_verb-like_) to change countenance"
 }
 },
 "抽":{
@@ -2188,7 +2188,7 @@
 "湊":{
 "cau3":{
 "isCanonical":true,
-"text":"U+6E4A 凑 輳 (for \"gather\" senses) (F1.55 凑) 會合也 (Page 563 凑湊) To collect, to gather (Kangxi: 一曰聚也); to run together; to run into each other; a gathering on the water, as at a regatta (Kangxi: 水上人所會也); a reunion; to go with one, to take care of; with, together; a concurrence of circumstances, to estimate the probabilities of; to strive to excel (Kangxi: 競進也); for; _ni hu ts'au ngo ta ~~t'eng~~ ``t'ing``_ (nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽) will you go and learn about it for me; _ts'au hau_ (cau3 haau2 湊巧), a lucky guess, a fortunate coincidence, just as; _ts'au ngam_ (cau3 ngaam1 湊啱), a lucky hit; just the thing; _pi sam ki ts'au k'u_ (bei2 sam1 gei1 cau3 keoi5 畀心機湊佢), look carefully after him; _t'ai lai ts'au_ (tai2 lai4 cau3 睇嚟湊) I'll see how I can do; _ts'au kau_ (cau3 gau3 湊夠) to make up enough; _'m ts'au ni ho_ (m4 cau3 nei5 hou2 唔湊你好), I'll have nothing to do with you; _ts'au mai yat hi_ (cau3 maai4 jat1 hei3 湊埋一氣) lump it all in one; _ts'au hop_ (cau3 hap6 湊合) to group. (Page 563 輳) Similar to the preceding (湊) (Kangxi 輳: 通作湊); Williams' 你去湊我打聽: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). The use of 湊 as \"for\" is very dated. 【湊】 (cau3) To look after, to raise, to baby sit. 湊仔 (cau3 zai2): \"Look after kids.\" 湊大佢 (cau3 daai6 keoi5): \"Raised him up.\""
+"text":"U+6E4A 凑 輳 (for \"gather\" senses) (F1.55 凑) 會合也 (Page 563 凑湊) To collect, to gather (Kangxi 湊: 一曰聚也); to run together; to run into each other; a gathering on the water, as at a regatta (Kangxi 湊: 水上人所會也); a reunion; to go with one, to take care of; with, together; a concurrence of circumstances, to estimate the probabilities of; to strive to excel (Kangxi 湊: 競進也); for; _ni hu ts'au ngo ta ~~t'eng~~ ``t'ing``_ (nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽) will you go and learn about it for me; _ts'au hau_ (cau3 haau2 湊巧), a lucky guess, a fortunate coincidence, just as; _ts'au ngam_ (cau3 ngaam1 湊啱), a lucky hit; just the thing; _pi sam ki ts'au k'u_ (bei2 sam1 gei1 cau3 keoi5 畀心機湊佢), look carefully after him; _t'ai lai ts'au_ (tai2 lai4 cau3 睇嚟湊) I'll see how I can do; _ts'au kau_ (cau3 gau3 湊夠) to make up enough; _'m ts'au ni ho_ (m4 cau3 nei5 hou2 唔湊你好), I'll have nothing to do with you; _ts'au mai yat hi_ (cau3 maai4 jat1 hei3 湊埋一氣) lump it all in one; _ts'au hop_ (cau3 hap6 湊合) to group. (Page 563 輳) Similar to the preceding (湊) (Kangxi 輳: 通作湊); Williams' 你去湊我打聽: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). The use of 湊 as \"for\" is very dated. 【湊】 (cau3) To look after, to raise, to baby sit. 湊仔 (cau3 zai2): \"Look after kids.\" 湊大佢 (cau3 daai6 keoi5): \"Raised him up.\""
 }
 },
 "簇":{
@@ -2366,7 +2366,7 @@
 "酬":{
 "cau4":{
 "isCanonical":true,
-"text":"U+916C 讎 讐 酧 醻 (F1.52 酬) 答也報也 (F1.52 酧) 同酬 (Page 26|n69 讐~~仇~~) used for the next (酬) (Kangxi 讎: 通作酬); (Page 27|n70 酬酧) To pledge a guest (Kangxi: 主人實觶酬賔); to recompense; to make a return; to invite a guest to drink; _ch'au tsok_ (cau4 zok6 酬酢) pledging as host and guest; _ch'au tse_ (cau4 ze6 酬謝) to return thanks, to present in return; _ch'au tap_ (cau4 daap3 酬答) to recompense, to respond; _ch'au shan_ (cau4 san4 酬神) to thank the gods; _ch'au un_ (cau4 jyun6 酬願) to make a thank offering; _ch'au lo_ (cau4 lou4 酬勞), present for carefulness, as to workmen; _ch'au wan_ (cau4 waan4 酬還), to pay, as a vow; _ch'au tap t'in yan_ (cau4 daap3 tin1 jan1 酬答天恩), to requite heaven's favor---in being saved from fire. 【酬】 (dzyuw) (_verb-like_) to toast (in return) (_verb-like_) to repay"
+"text":"U+916C 讎 讐 酧 醻 (F1.52 酬) 答也報也 (F1.52 酧) 同酬 (Page 26|n69 讐~~仇~~) used for the next (酬) (Kangxi 讎: 通作酬); (Page 27|n70 酬酧) To pledge a guest (Kangxi 酬: 主人實觶酬賔); to recompense; to make a return; to invite a guest to drink; _ch'au tsok_ (cau4 zok6 酬酢) pledging as host and guest; _ch'au tse_ (cau4 ze6 酬謝) to return thanks, to present in return; _ch'au tap_ (cau4 daap3 酬答) to recompense, to respond; _ch'au shan_ (cau4 san4 酬神) to thank the gods; _ch'au un_ (cau4 jyun6 酬願) to make a thank offering; _ch'au lo_ (cau4 lou4 酬勞), present for carefulness, as to workmen; _ch'au wan_ (cau4 waan4 酬還), to pay, as a vow; _ch'au tap t'in yan_ (cau4 daap3 tin1 jan1 酬答天恩), to requite heaven's favor---in being saved from fire. 【酬】 (dzyuw) (_verb-like_) to toast (in return) (_verb-like_) to repay"
 }
 },
 "唓":{
@@ -2554,7 +2554,7 @@
 "縗":{
 "ceoi1":{
 "isCanonical":true,
-"text":"U+7E17 衰 缞 (Mainland simplified) (F2.80 衰) 齊衰喪服也 (F2.80 縗) 同上 (Page 598 衰縗) The unhemmed, frayed edges of mourning clothes (Kangxi: 喪服也), which are left so; to ravel out; _cham ts'ui_ (zaam2 ceoi1 斬縗), clipped, unhemmed. Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上. 【縗】 (tshwoj) (_noun-like_) mourning-clothes, sackcloth"
+"text":"U+7E17 衰 缞 (Mainland simplified) (F2.80 衰) 齊衰喪服也 (F2.80 縗) 同上 (Page 598 衰縗) The unhemmed, frayed edges of mourning clothes (Kangxi 縗: 喪服也), which are left so; to ravel out; _cham ts'ui_ (zaam2 ceoi1 斬縗), clipped, unhemmed. Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上. 【縗】 (tshwoj) (_noun-like_) mourning-clothes, sackcloth"
 }
 },
 "蛆":{
@@ -2576,7 +2576,7 @@
 "趨":{
 "ceoi1":{
 "isCanonical":true,
-"text":"U+8DA8 趋 (F1.44 趨) 趨向 (F1.44 趋) 同上 (Page 595 趨趋) To hasten to one's place (Kangxi: 疾行曰趨趨赴也赴所至也, 趨今之捷步), to stride off (Kangxi: 行而張足曰趨), as in a superior's presence; to run, to walk quick (Kangxi 趨: 走也, 行也); _ts'u shi_ (ceoi1 si4 趨時), to run after, as a fashion; _ts'u po_ (ceoi1 bou6 趨步) to straddle off, as a courier does; _ts'u im fu shai_ (ceoi1 jim4 fu6 sai3 趨炎附勢) to run to the flame and stick to the strong --- a parasite. 【趨】 (tshju) (_verb-like_) to haste toward"
+"text":"U+8DA8 趋 (F1.44 趨) 趨向 (F1.44 趋) 同上 (Page 595 趨趋) To hasten to one's place (Kangxi 趨: 疾行曰趨趨赴也赴所至也, 趨今之捷步), to stride off (Kangxi 趨: 行而張足曰趨), as in a superior's presence; to run, to walk quick (Kangxi 趨: 走也, 行也); _ts'u shi_ (ceoi1 si4 趨時), to run after, as a fashion; _ts'u po_ (ceoi1 bou6 趨步) to straddle off, as a courier does; _ts'u im fu shai_ (ceoi1 jim4 fu6 sai3 趨炎附勢) to run to the flame and stick to the strong --- a parasite. 【趨】 (tshju) (_verb-like_) to haste toward"
 }
 },
 "龡":{
@@ -2700,7 +2700,7 @@
 "廚":{
 "ceoi4":{
 "isCanonical":true,
-"text":"U+5EDA 厨 ceoi4-2 (uncommon vernacular for \"chef\" sense) cyu4 (alternative) cyu4-2 (vernacular for \"chef\" sense) (F1.45 厨) 庖厨 (Page 32* 廚厨) A kitchen, a cook-room (Kangxi: 庖屋也); a slaughter-house; a ~~quiver~~ ``box or cabinet`` (Kangxi 廚: 櫝也); _ch'u yan_ (cyu4 jan4 廚人) or _ch'u kun_ (cyu4 gun1 廚官), a cook; _pong ch'u yan_ (bong1 cyu4 jan4 幫廚人), a cook's mate, a scullion; _kiu tso ch'u_ (giu3 zou6 cyu4-2 叫做廚), call the cook; _ch'u fong_ (cyu4 fong4-2 廚房), a kitchen. Fan Wan entry: Normalised headword 𢊍 to 厨. 【廚】 (drju) (_noun-like_) kitchen"
+"text":"U+5EDA 厨 ceoi4-2 (uncommon vernacular for \"chef\" sense) cyu4 (alternative) cyu4-2 (vernacular for \"chef\" sense) (F1.45 厨) 庖厨 (Page 32* 廚厨) A kitchen, a cook-room (Kangxi 廚: 庖屋也); a slaughter-house; a ~~quiver~~ ``box or cabinet`` (Kangxi 廚: 櫝也); _ch'u yan_ (cyu4 jan4 廚人) or _ch'u kun_ (cyu4 gun1 廚官), a cook; _pong ch'u yan_ (bong1 cyu4 jan4 幫廚人), a cook's mate, a scullion; _kiu tso ch'u_ (giu3 zou6 cyu4-2 叫做廚), call the cook; _ch'u fong_ (cyu4 fong4-2 廚房), a kitchen. Fan Wan entry: Normalised headword 𢊍 to 厨. 【廚】 (drju) (_noun-like_) kitchen"
 },
 "cyu4":{
 "isCanonical":false,
@@ -2774,7 +2774,7 @@
 "躕":{
 "ceoi4":{
 "isCanonical":true,
-"text":"U+8E95 蹰 cyu4 (alternative) (F1.45 蹰) 踟蹰 (Page 32* ~~𨆼~~``躕``) Embarrassed, hindered (Kangxi: 踟躕行不進貌); _ch'i ch'u_ (ci4 ceoi4 踟躕), entangled. Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰. Williams' \"Embarrassed\": In the (now) archaic sense of \"impeded\", \"obstructed\". 【躕】 (drju) Used in 踟躕."
+"text":"U+8E95 蹰 cyu4 (alternative) (F1.45 蹰) 踟蹰 (Page 32* ~~𨆼~~``躕``) Embarrassed, hindered (Kangxi 躕: 踟躕行不進貌); _ch'i ch'u_ (ci4 ceoi4 踟躕), entangled. Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰. Williams' \"Embarrassed\": In the (now) archaic sense of \"impeded\", \"obstructed\". 【躕】 (drju) Used in 踟躕."
 },
 "cyu4":{
 "isCanonical":false,
@@ -2784,7 +2784,7 @@
 "錘":{
 "ceoi4":{
 "isCanonical":true,
-"text":"U+9318 鎚 (for \"hammer\" senses) 锤 (Mainland simplified) ceoi4-2 (vernacular rising-tone noun) (F2.56 錘) 鉄錘又秤錘 (Page 34* 錘鎚) The weight on a steelyard (Kangxi 錘: 稱錘也); a hammer; to hammer; to beat, to pound; a blow, a knock; _ch'ui t'au_ (ceoi4 tau4 錘頭), the fist; _wang ch'ui_ (waang4 ceoi4 橫錘), a side blow; _yat```` ch'ui ta to_ (jat1 ceoi4 daa2 dou2 一錘打倒), felled him with a blow; _ch'ui lan_ (ceoi4 laan6 錘爛) hammered to pieces. The first word (錘) also means a weight of 12 taels (Kangxi: 六兩曰鍿倍鍿曰錘〇按此與說文解異). Williams' \"12 taels\": As noted by Kangxi, this differs from the 《說文》 definition of 八銖, which works out to one third of a tael. Williams' 一錘打倒: Corrected _yat_ (jat) to _yat_ (jat1). 【錘】 (ceoi4) A punch with the fist. 打佢兩錘 (daa2 keoi5 loeng5 ceoi4): \"Hit him with two blows.\" 【錘仔】 (ceoi4 zai2) A hammer."
+"text":"U+9318 鎚 (for \"hammer\" senses) 锤 (Mainland simplified) ceoi4-2 (vernacular rising-tone noun) (F2.56 錘) 鉄錘又秤錘 (Page 34* 錘鎚) The weight on a steelyard (Kangxi 錘: 稱錘也); a hammer; to hammer; to beat, to pound; a blow, a knock; _ch'ui t'au_ (ceoi4 tau4 錘頭), the fist; _wang ch'ui_ (waang4 ceoi4 橫錘), a side blow; _yat```` ch'ui ta to_ (jat1 ceoi4 daa2 dou2 一錘打倒), felled him with a blow; _ch'ui lan_ (ceoi4 laan6 錘爛) hammered to pieces. The first word (錘) also means a weight of 12 taels (Kangxi 錘: 六兩曰鍿倍鍿曰錘〇按此與說文解異). Williams' \"12 taels\": As noted by Kangxi, this differs from the 《說文》 definition of 八銖, which works out to one third of a tael. Williams' 一錘打倒: Corrected _yat_ (jat) to _yat_ (jat1). 【錘】 (ceoi4) A punch with the fist. 打佢兩錘 (daa2 keoi5 loeng5 ceoi4): \"Hit him with two blows.\" 【錘仔】 (ceoi4 zai2) A hammer."
 }
 },
 "鎚":{
@@ -2978,7 +2978,7 @@
 "媸":{
 "ci1":{
 "isCanonical":true,
-"text":"U+5AB8 (F1.36 媸) 妍媸 (Page 11* ~~𡟎~~``媸``) Ugly (Kangxi: 醜也); a homely woman; lewd (Kangxi: 淫也), worthless, foolish (Kangxi: 癡也); _ch'i no_ (ci1 nou4 媸奴), a harridan; _in ch'i tsz' ~~kin~~ ``in``_ (jin4 ci1 zi6 jin6 妍媸自見) he knows whether he is handsome or ugly. Fan Wan entry: Normalised headword 𡟎 to 媸. Williams' \"homely\": In the sense of \"unattractive\". Williams' 妍媸自見: Corrected _kin_ (gin6) to _in_ (jin6)."
+"text":"U+5AB8 (F1.36 媸) 妍媸 (Page 11* ~~𡟎~~``媸``) Ugly (Kangxi 媸: 醜也); a homely woman; lewd (Kangxi 媸: 淫也), worthless, foolish (Kangxi 媸: 癡也); _ch'i no_ (ci1 nou4 媸奴), a harridan; _in ch'i tsz' ~~kin~~ ``in``_ (jin4 ci1 zi6 jin6 妍媸自見) he knows whether he is handsome or ugly. Fan Wan entry: Normalised headword 𡟎 to 媸. Williams' \"homely\": In the sense of \"unattractive\". Williams' 妍媸自見: Corrected _kin_ (gin6) to _in_ (jin6)."
 }
 },
 "疵":{
@@ -3090,7 +3090,7 @@
 "齝":{
 "ci1":{
 "isCanonical":true,
-"text":"U+9F5D 呞 𪗪 (F1.36 呞) 口張開也 (Page 10* 呞𪗪; here normalised to 齝) To ruminate, to chew the cud (Kangxi 齝: 吐而噍也), vulgarly called _ngau t'o ts'o_ (ngau4 tou3 cou2 牛吐草). The Fan Wan defines it (呞) to gape (Fan Wan: 口張開也)."
+"text":"U+9F5D 呞 𪗪 (F1.36 呞) 口張開也 (Page 10* 呞𪗪; here normalised to 齝) To ruminate, to chew the cud (Kangxi 齝: 吐而噍也), vulgarly called _ngau t'o ts'o_ (ngau4 tou3 cou2 牛吐草). The Fan Wan defines it (呞) to gape (Fan Wan 呞: 口張開也)."
 }
 },
 "𪗪":{
@@ -3384,7 +3384,7 @@
 "瓷":{
 "ci4":{
 "isCanonical":true,
-"text":"U+74F7 磁 (F2.34 磁) 磁器 (Page 615 磁; here normalised to 瓷) porcelain, chinaware (Kangxi: 瓦器也); _ts'z' hi_ (ci4 hei3 瓷器) crockeryware; _yeung ts'z'_ (joeng4 ci4 洋瓷) foreign chinaware. Williams does not consider 瓷 (porcelain) to be a different word to 磁 (magnet). I have split things up accordingly."
+"text":"U+74F7 磁 (F2.34 磁) 磁器 (Page 615 磁; here normalised to 瓷) porcelain, chinaware (Kangxi 瓷: 瓦器也); _ts'z' hi_ (ci4 hei3 瓷器) crockeryware; _yeung ts'z'_ (joeng4 ci4 洋瓷) foreign chinaware. Williams does not consider 瓷 (porcelain) to be a different word to 磁 (magnet). I have split things up accordingly."
 }
 },
 "磁":{
@@ -3470,7 +3470,7 @@
 "辭":{
 "ci4":{
 "isCanonical":true,
-"text":"U+8FAD 辞 辤 (F2.34 辭) 言辭又不受也 (F2.34 辞) 同上 (Page 615 辭辞) an expression, a word, a particle, a part of speech; evidence (Kangxi: 訟辭也), speech, words (Kangxi: 辭說也); to refuse, to decline with thanks (Kangxi: 卻不受也); to resign, to leave, to go, to retire, to depart (Kangxi: 別去也); _t'ui ts'z'_ (teoi1 ci4 推辭) to decline, as an office; _ts'z' hu_ (ci4 heoi3 辭去) to leave, as one's service; _ko ts'z'_ (gou3 ci4 告辭) to take leave, to bid good bye; _sam ts'z'_ (sam1 ci4 心辭) to dislike, averse to; _kung ts'z' pak sheung_ (gung1 ci4 bak1 soeng5 恭辭北上), a respectful adieu on going to Peking (北京); _kok chap yat ts'z'_ (gok3 zap1 jat1 ci4 各執一辭) each held to his own argument; _ts'z' t'ip_ (ci4 tip3-2 辭帖) to send a card of invitation back; _ts'z' hang t'ip_ (ci4 hang4 tip3-2 辭行帖) a card to take leave; _hu ts'z'_ (heoi1 ci4 虛辭) a falsehood; _t'an u ts'z'_ (taan3 jyu5 ci4 嘆語辭) an interjection; _ho ts'z' ku_ (hou2 ci4 geoi3 好辭句) a good style. Williams' 辭帖, 辭行帖: Corrected _t'ip_ (tip6) to _t'ip_ (tip3). 【辭】 (zi) (_noun-like_) statement (_verb-like_) to decline (_verb-like_) to take leave"
+"text":"U+8FAD 辞 辤 (F2.34 辭) 言辭又不受也 (F2.34 辞) 同上 (Page 615 辭辞) an expression, a word, a particle, a part of speech; evidence (Kangxi 辭: 訟辭也), speech, words (Kangxi 辭: 辭說也); to refuse, to decline with thanks (Kangxi 辭: 卻不受也); to resign, to leave, to go, to retire, to depart (Kangxi 辭: 別去也); _t'ui ts'z'_ (teoi1 ci4 推辭) to decline, as an office; _ts'z' hu_ (ci4 heoi3 辭去) to leave, as one's service; _ko ts'z'_ (gou3 ci4 告辭) to take leave, to bid good bye; _sam ts'z'_ (sam1 ci4 心辭) to dislike, averse to; _kung ts'z' pak sheung_ (gung1 ci4 bak1 soeng5 恭辭北上), a respectful adieu on going to Peking (北京); _kok chap yat ts'z'_ (gok3 zap1 jat1 ci4 各執一辭) each held to his own argument; _ts'z' t'ip_ (ci4 tip3-2 辭帖) to send a card of invitation back; _ts'z' hang t'ip_ (ci4 hang4 tip3-2 辭行帖) a card to take leave; _hu ts'z'_ (heoi1 ci4 虛辭) a falsehood; _t'an u ts'z'_ (taan3 jyu5 ci4 嘆語辭) an interjection; _ho ts'z' ku_ (hou2 ci4 geoi3 好辭句) a good style. Williams' 辭帖, 辭行帖: Corrected _t'ip_ (tip6) to _t'ip_ (tip3). 【辭】 (zi) (_noun-like_) statement (_verb-like_) to decline (_verb-like_) to take leave"
 }
 },
 "遲":{
@@ -3558,7 +3558,7 @@
 "敕":{
 "cik1":{
 "isCanonical":true,
-"text":"U+6555 勅 勑 飭 sik1 (common for \"order\" sense spelt 飭) (F1.74 勅) 天子制書曰勅命 (F1.74 勑) 同上 (F1.74 敕) 同上又戒謹 (Page 14* 勅敕) An order, a prohibition or command from the emperor; an ordinance, a special precept (Kangxi: 誡也); a charter, a commission; _ch'ik shu_ (cik1 syu1 敕書), credentials; letters-patent; _ch'ik fung_ (cik1 fung1 敕封), a special perferment; _ch'ik ming_ (cik1 ming6 敕命) an imperial order; _ch'ik fu_ (cik1 fu4 敕符) to make a charm efficacious by spurting water on it; _ch'ik shau_ (cik1 sau6 敕受) to receive commands; _ch'ik tsang_ (cik1 zang6 敕贈) to bestow honors on one's dead parents. (Page 439 飭 _Shik_ (sik1); here normalised to 敕 _Ch'ik_ (cik1)) To enjoin, to direct, to command~~, as an inferior~~ (Kangxi 飭: 與敕同命令也); _~~shik~~ ``ch'ik`` ch'ai_ (cik1 caai1 敕差), to dispatch on public service; _shan ~~shik~~ ``ch'ik``_ (san1 cik1 申敕) to strictly charge, to order; _~~shik~~ ``ch'ik`` fong_ (cik1 fong4 敕房), to direct the proper office or department; _~~shik~~ ``ch'ik`` ling_ (cik1 ling6 敕令) to command, to direct. 【敕】 (trhik) (_verb-like_) to caution (_verb-like_) to command 【得敕】 (dak1 cik1) Smug. The spelling 敕 for cik1 is arbitrary."
+"text":"U+6555 勅 勑 飭 sik1 (common for \"order\" sense spelt 飭) (F1.74 勅) 天子制書曰勅命 (F1.74 勑) 同上 (F1.74 敕) 同上又戒謹 (Page 14* 勅敕) An order, a prohibition or command from the emperor; an ordinance, a special precept (Kangxi 敕: 誡也); a charter, a commission; _ch'ik shu_ (cik1 syu1 敕書), credentials; letters-patent; _ch'ik fung_ (cik1 fung1 敕封), a special perferment; _ch'ik ming_ (cik1 ming6 敕命) an imperial order; _ch'ik fu_ (cik1 fu4 敕符) to make a charm efficacious by spurting water on it; _ch'ik shau_ (cik1 sau6 敕受) to receive commands; _ch'ik tsang_ (cik1 zang6 敕贈) to bestow honors on one's dead parents. (Page 439 飭 _Shik_ (sik1); here normalised to 敕 _Ch'ik_ (cik1)) To enjoin, to direct, to command~~, as an inferior~~ (Kangxi 飭: 與敕同命令也); _~~shik~~ ``ch'ik`` ch'ai_ (cik1 caai1 敕差), to dispatch on public service; _shan ~~shik~~ ``ch'ik``_ (san1 cik1 申敕) to strictly charge, to order; _~~shik~~ ``ch'ik`` fong_ (cik1 fong4 敕房), to direct the proper office or department; _~~shik~~ ``ch'ik`` ling_ (cik1 ling6 敕令) to command, to direct. 【敕】 (trhik) (_verb-like_) to caution (_verb-like_) to command 【得敕】 (dak1 cik1) Smug. The spelling 敕 for cik1 is arbitrary."
 }
 },
 "斥":{
@@ -3664,13 +3664,13 @@
 "籤":{
 "cim1":{
 "isCanonical":true,
-"text":"U+7C64 簽 签 (Mainland simplified) (F2.47 籖) 神籤騐也又竹籌 (Page 571 簽; here normalised to 籤) Slips of bamboo written on for lots (...); _ts'im u_ (cim1 jyu5 籤語), to draw lots for a response. (Page 571 ~~韱~~``籤``) Similar to the above (簽); a slip, a lot (Kangxi: 驗也, 竹籤用以卜者); a warrant, a permit, a ticket having the officer's name on it; to probe, to bore through (Kangxi: 一曰...貫也); sharp-pointed (Kangxi: 一曰銳也); _chai ts'im_ (zai3 cim1 掣籤) or _cha ts'im_ (zaa1 cim1 揸籤), to lot out officers to their stations; _ngo ts'im_ (ngou4 cim1 摮籤), to ~~draw~~ ``cast`` lots before idols; _ts'im t'ung_ (cim1 tung4 籤筒), a cup to hold the slips; _ch'ut ts'im_ (ceot1 cim1 出籤), to issue a warrant or permit; _k'au ts'im_ (kau4 cim1 求籤), to divine."
+"text":"U+7C64 簽 签 (Mainland simplified) (F2.47 籖) 神籤騐也又竹籌 (Page 571 簽; here normalised to 籤) Slips of bamboo written on for lots (...); _ts'im u_ (cim1 jyu5 籤語), to draw lots for a response. (Page 571 ~~韱~~``籤``) Similar to the above (簽); a slip, a lot (Kangxi 籤: 驗也, 竹籤用以卜者); a warrant, a permit, a ticket having the officer's name on it; to probe, to bore through (Kangxi 籤: 一曰...貫也); sharp-pointed (Kangxi 籤: 一曰銳也); _chai ts'im_ (zai3 cim1 掣籤) or _cha ts'im_ (zaa1 cim1 揸籤), to lot out officers to their stations; _ngo ts'im_ (ngou4 cim1 摮籤), to ~~draw~~ ``cast`` lots before idols; _ts'im t'ung_ (cim1 tung4 籤筒), a cup to hold the slips; _ch'ut ts'im_ (ceot1 cim1 出籤), to issue a warrant or permit; _k'au ts'im_ (kau4 cim1 求籤), to divine."
 }
 },
 "纖":{
 "cim1":{
 "isCanonical":true,
-"text":"U+7E96 摻 (for \"delicate\" senses) 孅 (for \"delicate\" senses) 纤 (Mainland simplified) (F2.47 纖) 細微也 (F2.47 摻) 與纖同又音覽 (Page 572 纖摻) Fine silk (Kangxi: 繒帛之細者謂之纖); small, delicate (Kangxi: 細也, 纖小也, 纖細也), like silken fibres; silk woven with a white woof and black warp (Kangxi: 黑經白緯曰纖); niggardly, stingy (Kangxi: 纖儉嗇也); _ts'im ho_ (cim1 hou4 纖毫), like a fibre, minute; _ts'im ts'im yuk shau_ (cim1 cim1 juk6 sau2 纖纖玉手), a delicate hand; _ts'im iu_ (cim1 jiu1 纖腰), a slender waist, (Page 572 孅; here normalised to 纖) slender, sharp-pointed, acute (Kangxi 孅: 銳細也與纖通); _ts'im yeuk_ (cim1 joek6 纖弱) weak and delicate. 【纖】 (sjem) (_adjective-like_) delicate (_noun-like_) chequered-silk"
+"text":"U+7E96 摻 (for \"delicate\" senses) 孅 (for \"delicate\" senses) 纤 (Mainland simplified) (F2.47 纖) 細微也 (F2.47 摻) 與纖同又音覽 (Page 572 纖摻) Fine silk (Kangxi 纖: 繒帛之細者謂之纖); small, delicate (Kangxi 纖: 細也, 纖小也, 纖細也), like silken fibres; silk woven with a white woof and black warp (Kangxi 纖: 黑經白緯曰纖); niggardly, stingy (Kangxi 纖: 纖儉嗇也); _ts'im ho_ (cim1 hou4 纖毫), like a fibre, minute; _ts'im ts'im yuk shau_ (cim1 cim1 juk6 sau2 纖纖玉手), a delicate hand; _ts'im iu_ (cim1 jiu1 纖腰), a slender waist, (Page 572 孅; here normalised to 纖) slender, sharp-pointed, acute (Kangxi 孅: 銳細也與纖通); _ts'im yeuk_ (cim1 joek6 纖弱) weak and delicate. 【纖】 (sjem) (_adjective-like_) delicate (_noun-like_) chequered-silk"
 }
 },
 "襜":{
@@ -3686,7 +3686,7 @@
 "諂":{
 "cim2":{
 "isCanonical":true,
-"text":"U+8AC2 讇 谄 (Mainland simplified) (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* 諂~~𨶒~~``讇``) To flatter (Kangxi: 同讇省諛也), to lie to; to cajole; to give a god or man worship or praise not due to him; to fawn on, to court; gratifying to one's feelings, adulation, sycophancy; _ch'im mi chi yan_ (cim2 mei6 zi1 jan4 諂媚之人), a flatterer; _ch'im u_ (cim2 jyu6 諂譽) to praise extravagantly; _ch'im siu_ (cim2 siu3 諂笑) to cajole and laugh with; _p'an i mo ch'im_ (pan4 ji4 mou4 cim2 貧而無諂), poor without being sycophantic. Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上. 【諂】 (trhjemX) (_verb-like_) to flatter"
+"text":"U+8AC2 讇 谄 (Mainland simplified) (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* 諂~~𨶒~~``讇``) To flatter (Kangxi 諂: 同讇省諛也), to lie to; to cajole; to give a god or man worship or praise not due to him; to fawn on, to court; gratifying to one's feelings, adulation, sycophancy; _ch'im mi chi yan_ (cim2 mei6 zi1 jan4 諂媚之人), a flatterer; _ch'im u_ (cim2 jyu6 諂譽) to praise extravagantly; _ch'im siu_ (cim2 siu3 諂笑) to cajole and laugh with; _p'an i mo ch'im_ (pan4 ji4 mou4 cim2 貧而無諂), poor without being sycophantic. Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上. 【諂】 (trhjemX) (_verb-like_) to flatter"
 }
 },
 "讇":{
@@ -3784,7 +3784,7 @@
 "遷":{
 "cin1":{
 "isCanonical":true,
-"text":"U+9077 May appear as either ⿺辶⿳覀大㔾 (+11 assumed here) or ⿺辶⿳覀大巳 (+12), depending on the font. 迁 (F1.19 遷) 移徙 (F1.19 迁) 同上 (Page 574 遷迁) To move, to remove, to place elsewhere (Kangxi: 移物曰遷); to ascend (Kangxi 遷: 登也, 去下之高也); to be promoted; to change, to transpose (Kangxi 遷: 變易也), to improve (Kangxi 遷: 遷徙也); to banish, to deport, to drive off (Kangxi 遷: 謫也放逐也); _pun ts'in_ (bun1 cin1 搬遷), to move, as one's residence; _ts'in ku_ (cin1 geoi1 遷居), to change one's lodgings; _~~ap~~ ``at`` ts'in_ (aat3 cin1 押遷), to eject, as a tenant; _tso ts'in_ (zo2 cin1 左遷), to degrade to a lower place or rank. Fan Wan entry: Corrected 徒 to 徙. Williams' 押遷: Changed _ap_ (aap3) to common reading _at_ (aat3). 【遷】 (tshjen) (_verb-like_) to shift"
+"text":"U+9077 May appear as either ⿺辶⿳覀大㔾 (+11 assumed here) or ⿺辶⿳覀大巳 (+12), depending on the font. 迁 (F1.19 遷) 移徙 (F1.19 迁) 同上 (Page 574 遷迁) To move, to remove, to place elsewhere (Kangxi 遷: 移物曰遷); to ascend (Kangxi 遷: 登也, 去下之高也); to be promoted; to change, to transpose (Kangxi 遷: 變易也), to improve (Kangxi 遷: 遷徙也); to banish, to deport, to drive off (Kangxi 遷: 謫也放逐也); _pun ts'in_ (bun1 cin1 搬遷), to move, as one's residence; _ts'in ku_ (cin1 geoi1 遷居), to change one's lodgings; _~~ap~~ ``at`` ts'in_ (aat3 cin1 押遷), to eject, as a tenant; _tso ts'in_ (zo2 cin1 左遷), to degrade to a lower place or rank. Fan Wan entry: Corrected 徒 to 徙. Williams' 押遷: Changed _ap_ (aap3) to common reading _at_ (aat3). 【遷】 (tshjen) (_verb-like_) to shift"
 }
 },
 "阡":{
@@ -3870,7 +3870,7 @@
 "錢":{
 "cin4":{
 "isCanonical":true,
-"text":"U+9322 钱 (Mainland simplified) cin4-2 (vernacular for \"money\" sense) (F1.21 錢) 十分爲錢 (F1.21 ？) 同上 (Page 575 錢？) Copper coin, cash, coppers (Kangxi: 冶銅爲錢易貨也); coin, a piece of money; cash, wealth, money, property (Kangxi: 財也); a tenth of a tael (両), or mace, which the cash once weighed; _t'ung ts'in_ (tung4 cin4 銅錢), copper cash; _kam ts'in_ (gam1 cin4 金錢), gold coins; _yau ts'in_ (jau5 cin4-2 有錢), rich, wealthy; _ts'in kuk_ (cin4 guk6-2 錢局) a mint; _chau ts'in_ (zaau2 cin4 找錢), to exchange into cash; _ki ts'in ~~chung~~ ``ch'ung``_ (gei2 cin4 cung5 幾錢重) how many mace does it weigh? _fong lo ts'in_ (fong3 lou6 cin4 放路錢), to scatter paper money at burials; _tai kong ts'in_ (daai6 gong1 cin4 大？錢), large coins of Kanghi (康熙); _lan ts'in_ (laan6 cin4 爛錢), bad cash; _ts'in pan kom hau_ (cin4 baan2 gam3 hau5 錢板咁厚) thick as a cash board; _li ts'in_ (lei6 cin4 利錢), interest; _shau ts'in no_ (sau2 cin4 nou4 守錢奴), a miser; _nan ts'in_ (nan2 cin4-2 㤻錢), to gamble; _ts'in leung_ (cin4 loeng4 錢糧), taxes, revenue; _ts'in leung tsz'_ (cin4 loeng2 zi2 錢両子) shot, bullets; _chang ts'in_ (zaang1 cin4-2 爭錢), disputing about money; _ts'in shan pai po_ (cin4 san4 baai2 bou3 錢神擺布) money serves for everything; _ts'in shui tai_ (cin4 seoi2 dai1 錢水低), the rate of exchange is low. Williams' 幾錢重: Corrected _chung_ (zung6 去聲) to _ch'ung_ (cung5 上聲). Williams' 錢板咁厚: Normalised _hau_ (hau6) to _hau_ (hau5). A surname (Kangxi: 姓). 【錢-level】 (dzjen) (_noun-like_) coin 【錢銀】 (cin4-2 ngan4-2) Money. 錢銀嘢 (cin4-2 ngan4-2 je5): \"Matters of money.\""
+"text":"U+9322 钱 (Mainland simplified) cin4-2 (vernacular for \"money\" sense) (F1.21 錢) 十分爲錢 (F1.21 ？) 同上 (Page 575 錢？) Copper coin, cash, coppers (Kangxi 錢: 冶銅爲錢易貨也); coin, a piece of money; cash, wealth, money, property (Kangxi 錢: 財也); a tenth of a tael (両), or mace, which the cash once weighed; _t'ung ts'in_ (tung4 cin4 銅錢), copper cash; _kam ts'in_ (gam1 cin4 金錢), gold coins; _yau ts'in_ (jau5 cin4-2 有錢), rich, wealthy; _ts'in kuk_ (cin4 guk6-2 錢局) a mint; _chau ts'in_ (zaau2 cin4 找錢), to exchange into cash; _ki ts'in ~~chung~~ ``ch'ung``_ (gei2 cin4 cung5 幾錢重) how many mace does it weigh? _fong lo ts'in_ (fong3 lou6 cin4 放路錢), to scatter paper money at burials; _tai kong ts'in_ (daai6 gong1 cin4 大？錢), large coins of Kanghi (康熙); _lan ts'in_ (laan6 cin4 爛錢), bad cash; _ts'in pan kom hau_ (cin4 baan2 gam3 hau5 錢板咁厚) thick as a cash board; _li ts'in_ (lei6 cin4 利錢), interest; _shau ts'in no_ (sau2 cin4 nou4 守錢奴), a miser; _nan ts'in_ (nan2 cin4-2 㤻錢), to gamble; _ts'in leung_ (cin4 loeng4 錢糧), taxes, revenue; _ts'in leung tsz'_ (cin4 loeng2 zi2 錢両子) shot, bullets; _chang ts'in_ (zaang1 cin4-2 爭錢), disputing about money; _ts'in shan pai po_ (cin4 san4 baai2 bou3 錢神擺布) money serves for everything; _ts'in shui tai_ (cin4 seoi2 dai1 錢水低), the rate of exchange is low. Williams' 幾錢重: Corrected _chung_ (zung6 去聲) to _ch'ung_ (cung5 上聲). Williams' 錢板咁厚: Normalised _hau_ (hau6) to _hau_ (hau5). A surname (Kangxi: 姓). 【錢-level】 (dzjen) (_noun-like_) coin 【錢銀】 (cin4-2 ngan4-2) Money. 錢銀嘢 (cin4-2 ngan4-2 je5): \"Matters of money.\""
 },
 "zin2":{
 "isCanonical":true,
@@ -3996,7 +3996,7 @@
 "懲":{
 "cing4":{
 "isCanonical":true,
-"text":"U+61F2 惩 (F1.69 懲) 懲治懲戒懲創 (Page 21* 惩懲) To repress, to curb (Kangxi: 㣻也); to warn; to reprove, to reprimand; a warning, a caution, a lesson; _siu ch'ing_ (siu2 cing4 小懲), an admonitory hint; _ch'ing chi_ (cing4 zi6 懲治) to ~~govern strictly~~ ``punish``. Williams' 懲治: To punish, not necessarily in relation to governance. 【懲】 (dring) (_verb-like_) to chastise"
+"text":"U+61F2 惩 (F1.69 懲) 懲治懲戒懲創 (Page 21* 惩懲) To repress, to curb (Kangxi 懲: 㣻也); to warn; to reprove, to reprimand; a warning, a caution, a lesson; _siu ch'ing_ (siu2 cing4 小懲), an admonitory hint; _ch'ing chi_ (cing4 zi6 懲治) to ~~govern strictly~~ ``punish``. Williams' 懲治: To punish, not necessarily in relation to governance. 【懲】 (dring) (_verb-like_) to chastise"
 }
 },
 "晴":{
@@ -4156,7 +4156,7 @@
 "誚":{
 "ciu3":{
 "isCanonical":true,
-"text":"U+8A9A 譙 诮 (Mainland simplified) ziu6 (per 《廣韻》才笑切) (F2.7 誚) 以言相譏詆曰誚 (Page 581 譙) Often used for _ts'iu_ (ciu3) 誚, to scold (Kangxi: 譙誚二字古通). to ridicule (Kangxi 譙: 嬈譊也); to bawl out at (Kangxi 譙: 呵也); to reprehend (Kangxi 譙: 責也); (Page 582 誚) To ridicule; to blame, to reprehend (Kangxi: 讓也, 誚責也); to speak harshly against; _ki ts'iu_ (gei1 ciu3 譏誚) to satirize. 【誚】 (dzjewH) (_verb-like_) to blame"
+"text":"U+8A9A 譙 诮 (Mainland simplified) ziu6 (per 《廣韻》才笑切) (F2.7 誚) 以言相譏詆曰誚 (Page 581 譙) Often used for _ts'iu_ (ciu3) 誚, to scold (Kangxi 譙: 譙誚二字古通). to ridicule (Kangxi 譙: 嬈譊也); to bawl out at (Kangxi 譙: 呵也); to reprehend (Kangxi 譙: 責也); (Page 582 誚) To ridicule; to blame, to reprehend (Kangxi: 讓也, 誚責也); to speak harshly against; _ki ts'iu_ (gei1 ciu3 譏誚) to satirize. 【誚】 (dzjewH) (_verb-like_) to blame"
 }
 },
 "譙":{
@@ -4198,7 +4198,7 @@
 },
 "ziu1":{
 "isCanonical":true,
-"text":"U+671D 晁 zi1 (lazy elision in 朝頭早) (F2.2 朝) 旦也早也又朝鮮國名 (Page 23* 朝晁) Dawn, morning (Kangxi: 旦也, 朝早也); early; _chiu man_ (ziu1 maan5 朝晚), morning and evening, early and late; _yat chiu_ (jat1 ziu1 一朝), in a morning, quickly, in a trice; _chiu t'au tso_ (ziu1 tau4 zou2 朝頭早), early in morning; _chiu fan_ (ziu1 faan6 朝飯) breakfast; _chiu shan_ (ziu1 san4 朝晨), morning time; _chiu chiu_ (ziu1 ziu1 朝朝) every morning; _Chiu sin kwok_ (ziu1 sin1 gwok3 朝鮮國) Corea (Kangxi: 朝鮮國名); _yung chiu mi_ (jung6 ziu1 mei6 用朝未) have you breakfasted? _yau chiu mo man_ (jau5 ziu1 mou4 maan5 有朝無晚), there is a morning but no evening, the day is very short; _tai pun chiu loi_ (daai6 bun3 ziu1 loi4 大半朝來), come before breakfast. Fan Wan entry: Corrected 且 to 旦. Williams' 朝鮮國: Opinion is divided on whether 朝 in 朝鮮 should be read _chiu_ (ziu1) or _ch'iu_ (ciu4). _chiu_ (ziu1) is recorded in the dictionaries: 《廣韻》陟遥切 朝 早也...又朝鮮國名... 《康熙字典》朝 古文晁 《唐韻》《廣韻》《集韻》《類篇》《韻會》𠀤陟遙切音昭... 又朝鮮國名... _ch'iu_ (ciu4) is recorded in 《史記索隱》, specifically as a note under 朝鮮列傳第五十五: 案朝音潮直驕反鮮音仙以有汕水故名也汕一音訕 Corrected _sin_ to _sin_. Williams' 朝飯, 朝晨, 用朝未: Dated. 【朝-unvoiced】 (trjew) (_noun-like_) morning 【朝頭早】 (ziu1 tau4 zou2) The morning. 朝頭早沖涼 (ziu1 tau4 zou2 cung1 loeng4): \"I shower in the morning.\" 【朝早】 (ziu1 zou2) Morning. 聽朝早 (ting1 ziu1 zou2): \"Tomorrow morning.\" 琴日朝早 (kam4 jat6 ziu1 zou2): \"Yesterday morning\". 朝早八點 (ziu1 zou2 baat3 dim2): \"Eight o'clock in the morning.\""
+"text":"U+671D 晁 zi1 (lazy elision in 朝頭早) (F2.2 朝) 旦也早也又朝鮮國名 (Page 23* 朝晁) Dawn, morning (Kangxi: 旦也, 朝早也); early; _chiu man_ (ziu1 maan5 朝晚), morning and evening, early and late; _yat chiu_ (jat1 ziu1 一朝), in a morning, quickly, in a trice; _chiu t'au tso_ (ziu1 tau4 zou2 朝頭早), early in morning; _chiu fan_ (ziu1 faan6 朝飯) breakfast; _chiu shan_ (ziu1 san4 朝晨), morning time; _chiu chiu_ (ziu1 ziu1 朝朝) every morning; _Chiu sin kwok_ (ziu1 sin1 gwok3 朝鮮國) Corea (Kangxi 朝: 朝鮮國名); _yung chiu mi_ (jung6 ziu1 mei6 用朝未) have you breakfasted? _yau chiu mo man_ (jau5 ziu1 mou4 maan5 有朝無晚), there is a morning but no evening, the day is very short; _tai pun chiu loi_ (daai6 bun3 ziu1 loi4 大半朝來), come before breakfast. Fan Wan entry: Corrected 且 to 旦. Williams' 朝鮮國: Opinion is divided on whether 朝 in 朝鮮 should be read _chiu_ (ziu1) or _ch'iu_ (ciu4). _chiu_ (ziu1) is recorded in the dictionaries: 《廣韻》陟遥切 朝 早也...又朝鮮國名... 《康熙字典》朝 古文晁 《唐韻》《廣韻》《集韻》《類篇》《韻會》𠀤陟遙切音昭... 又朝鮮國名... _ch'iu_ (ciu4) is recorded in 《史記索隱》, specifically as a note under 朝鮮列傳第五十五: 案朝音潮直驕反鮮音仙以有汕水故名也汕一音訕 Corrected _sin_ to _sin_. Williams' 朝飯, 朝晨, 用朝未: Dated. 【朝-unvoiced】 (trjew) (_noun-like_) morning 【朝頭早】 (ziu1 tau4 zou2) The morning. 朝頭早沖涼 (ziu1 tau4 zou2 cung1 loeng4): \"I shower in the morning.\" 【朝早】 (ziu1 zou2) Morning. 聽朝早 (ting1 ziu1 zou2): \"Tomorrow morning.\" 琴日朝早 (kam4 jat6 ziu1 zou2): \"Yesterday morning\". 朝早八點 (ziu1 zou2 baat3 dim2): \"Eight o'clock in the morning.\""
 }
 },
 "樵":{
@@ -4560,7 +4560,7 @@
 "窗":{
 "coeng1":{
 "isCanonical":true,
-"text":"U+7A97 May appear as either ⿱穴囪 (assumed here) or ⿱穴囱, depending on the font. 牕 窓 窻 (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 窓窗牕) A window, an aperture to admit light (Kangxi: 助戸爲明); a sash; a venetian blind, a shutter; a school; a student; _ch'eung mun_ (coeng1 mun4-2 窗門), a window; _t'in ch'eung_ (tin1 coeng1 天窗), a sky-light; _ch'eung mun ~~ch'an~~ ``ch'am``_ (coeng1 mun4-2 caam5 窗門棖), a window-sill; _shu ch'eung_ (syu1 coeng1 書窗), or _kai ch'eung_ (gai1 coeng1 雞窗), a schoolroom; _t'ong ch'eung_ (tong3 coeng1 摥窗), to pull the sash to; _hon ch'eung_ (hon4 coeng1 寒窗), a poor student; _ch'eung at_ (coeng1 aat3 窗壓) a window-bar; _t'ung ch'eung_ (tung4 coeng1 同窗), or _ch'eung yau_ (coeng1 jau5 窗友), chums, fellow-students; _ch'eung ha_ (coeng1 haa6 窗下) at school, while at his studies. Williams' \"sash\": In the sense of the sliding panel in a sash window. Williams' 窗門棖: Changed uncommon reading _ch'an_ (caan5) to _ch'am_ (caam5). 【窗】 (tsrhaewng) (_noun-like_) window"
+"text":"U+7A97 May appear as either ⿱穴囪 (assumed here) or ⿱穴囱, depending on the font. 牕 窓 窻 (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 窓窗牕) A window, an aperture to admit light (Kangxi 窗: 助戸爲明); a sash; a venetian blind, a shutter; a school; a student; _ch'eung mun_ (coeng1 mun4-2 窗門), a window; _t'in ch'eung_ (tin1 coeng1 天窗), a sky-light; _ch'eung mun ~~ch'an~~ ``ch'am``_ (coeng1 mun4-2 caam5 窗門棖), a window-sill; _shu ch'eung_ (syu1 coeng1 書窗), or _kai ch'eung_ (gai1 coeng1 雞窗), a schoolroom; _t'ong ch'eung_ (tong3 coeng1 摥窗), to pull the sash to; _hon ch'eung_ (hon4 coeng1 寒窗), a poor student; _ch'eung at_ (coeng1 aat3 窗壓) a window-bar; _t'ung ch'eung_ (tung4 coeng1 同窗), or _ch'eung yau_ (coeng1 jau5 窗友), chums, fellow-students; _ch'eung ha_ (coeng1 haa6 窗下) at school, while at his studies. Williams' \"sash\": In the sense of the sliding panel in a sash window. Williams' 窗門棖: Changed uncommon reading _ch'an_ (caan5) to _ch'am_ (caam5). 【窗】 (tsrhaewng) (_noun-like_) window"
 }
 },
 "窻":{
@@ -4722,7 +4722,7 @@
 "牆":{
 "coeng4":{
 "isCanonical":true,
-"text":"U+7246 墻 墙 (Mainland simplified) (F1.91 牆) 卑曰垣高曰牆 (F1.91 墻) 同上 (Page 568 牆墻) A wall made of stone, brick, or mud (Kangxi: 垣蔽也, 牆謂之墉); a defense or wall (Kangxi: 牆所以防非常); _chun ts'eung_ (zyun1 coeng4 磚牆), a brick wall; _nai ts'eung_ (nai4 coeng4 泥牆), an adobie wall; _chuk ts'eung_ (zuk1 coeng4 築牆), to build a wall; _tong ts'eung_ (dong6 coeng4 盪牆), to plaster a wall; _mi shui chung ts'eung_ (mei6 seoi2 zung1 coeng4 寐水舂牆), to crawl under water, and build a wall, _met._ hard labor; _tiu ts'eung_ (diu1 coeng4 雕牆), to adorn and paint a wall; _ts'eung pik_ (coeng4 bik1 牆壁) a wall; _yat t'iu ts'eung kwo_ (jat1 tiu4 coeng4 gwo3 一條牆過) a single back wall for several houses. 【牆】 (dzjang) (_noun-like_) wall"
+"text":"U+7246 墻 墙 (Mainland simplified) (F1.91 牆) 卑曰垣高曰牆 (F1.91 墻) 同上 (Page 568 牆墻) A wall made of stone, brick, or mud (Kangxi 牆: 垣蔽也, 牆謂之墉); a defense or wall (Kangxi 牆: 牆所以防非常); _chun ts'eung_ (zyun1 coeng4 磚牆), a brick wall; _nai ts'eung_ (nai4 coeng4 泥牆), an adobie wall; _chuk ts'eung_ (zuk1 coeng4 築牆), to build a wall; _tong ts'eung_ (dong6 coeng4 盪牆), to plaster a wall; _mi shui chung ts'eung_ (mei6 seoi2 zung1 coeng4 寐水舂牆), to crawl under water, and build a wall, _met._ hard labor; _tiu ts'eung_ (diu1 coeng4 雕牆), to adorn and paint a wall; _ts'eung pik_ (coeng4 bik1 牆壁) a wall; _yat t'iu ts'eung kwo_ (jat1 tiu4 coeng4 gwo3 一條牆過) a single back wall for several houses. 【牆】 (dzjang) (_noun-like_) wall"
 }
 },
 "祥":{
@@ -4908,11 +4908,11 @@
 "創":{
 "cong1":{
 "isCanonical":true,
-"text":"U+5275 刅 戧 创 (Mainland simplified) cong3 (common) (Page 28* 創刅) To wound, to cut and injure (Kangxi: 傷也); to butt, to gore; a wound, a cut; wounded, gashed; _shan pi to ch'ong_ (san1 bei6 do1 cong1 身被多創) he received many wounds. Whilst the classical reading for the \"wound\" sense is level-tone _ch'ong_ (cong1), the common reading departing-tone _ch'ong_ (cong3) is not unattested; Kangxi has 又《唐韻》初亮切瘡去聲始也造也...又傷也《前漢匈奴傳》人民創艾戰鬭. 【創-level】 (tsrhjang) (_verb-like_) to wound"
+"text":"U+5275 刅 戧 创 (Mainland simplified) cong3 (common) (Page 28* 創刅) To wound, to cut and injure (Kangxi 創: 傷也); to butt, to gore; a wound, a cut; wounded, gashed; _shan pi to ch'ong_ (san1 bei6 do1 cong1 身被多創) he received many wounds. Whilst the classical reading for the \"wound\" sense is level-tone _ch'ong_ (cong1), the common reading departing-tone _ch'ong_ (cong3) is not unattested; Kangxi has 又《唐韻》初亮切瘡去聲始也造也...又傷也《前漢匈奴傳》人民創艾戰鬭. 【創-level】 (tsrhjang) (_verb-like_) to wound"
 },
 "cong3":{
 "isCanonical":true,
-"text":"U+5275 刱 创 (Mainland simplified) (F1.100 創) 創造創始又懲創儆也 (F1.100 ？) 同上 (Page 28* 創刱) To begin, to invent (Kangxi: 始也造也); to create, to found, to lay the foundation of; to take measures for; ~~to reprove;~~ the commencement, first; _tso ch'ong_ (zou6 cong3 造創) to invent; _ch'ong ch'i_ (cong3 ci2 創始), to begin; _ch'ong ip_ (cong3 jip6 創業) to found a family or a settlement; _t'in ti hoi ch'ong_ (tin1 dei6 hoi1 cong3 天地開創) the creation; _ch'ong lap ma t'au_ (cong3 lap6 maa5 tau4 創立碼頭), to build a ferry or jetty; _ch'ing ch'ong_ (cing4 cong3 懲創) to blame. To take heed or warning (Kangxi: 懲也). 【創-departing】 (tsrhjangH) (_verb-like_) to create, to initiate (_verb-like_) to take heed"
+"text":"U+5275 刱 创 (Mainland simplified) (F1.100 創) 創造創始又懲創儆也 (F1.100 ？) 同上 (Page 28* 創刱) To begin, to invent (Kangxi 創: 始也造也); to create, to found, to lay the foundation of; to take measures for; ~~to reprove;~~ the commencement, first; _tso ch'ong_ (zou6 cong3 造創) to invent; _ch'ong ch'i_ (cong3 ci2 創始), to begin; _ch'ong ip_ (cong3 jip6 創業) to found a family or a settlement; _t'in ti hoi ch'ong_ (tin1 dei6 hoi1 cong3 天地開創) the creation; _ch'ong lap ma t'au_ (cong3 lap6 maa5 tau4 創立碼頭), to build a ferry or jetty; _ch'ing ch'ong_ (cing4 cong3 懲創) to blame. To take heed or warning (Kangxi: 懲也). 【創-departing】 (tsrhjangH) (_verb-like_) to create, to initiate (_verb-like_) to take heed"
 }
 },
 "滄":{
@@ -5174,7 +5174,7 @@
 "嘈":{
 "cou4":{
 "isCanonical":true,
-"text":"U+5608 cou4-2 (rising second in vernacular 嘈嘈地) (F2.12 嘈 _Ts'u_) 喧也又胡酒也 (Page 586 ~~？~~``嘈``) Noise, clamor, hubbub (Kangxi: 聲也); an outcry (Kangxi: 喧嘈); to make a din; to vociferate; _ts'o nau_ (cou4 naau6 嘈鬧) wrangling, squabbling; _hu kom ts'o_ (heoi1 gam3 cou4 墟咁嘈), noisy as a market; _ts'o ts'o pai_ (cou4 cou4 bai3 嘈嘈閉) a brawl; _mai ts'o yan i_ (mai5 cou4 jan4 ji5 咪嘈人耳), don't deafen people with your noise; _lo ts'o_ (lou4 cou4 嘮嘈), rude, rough, unmannerly; _shap fan ts'o hi_ (sap6 fan1 cou4 hei3 十分嘈氣) panting after an angry brawl; _ts'o ts'o ch'au ch'au_ (cou4 cou4 caau2 caau2 嘈嘈吵吵), a tumult, squalling, as tanka women do; _'m ho ts'o_ (m4 hou2 cou4 唔好嘈), don't make a noise. Fan Wan entry: Corrected ⿰口冋 to 喧."
+"text":"U+5608 cou4-2 (rising second in vernacular 嘈嘈地) (F2.12 嘈 _Ts'u_) 喧也又胡酒也 (Page 586 ~~？~~``嘈``) Noise, clamor, hubbub (Kangxi 嘈: 聲也); an outcry (Kangxi 嘈: 喧嘈); to make a din; to vociferate; _ts'o nau_ (cou4 naau6 嘈鬧) wrangling, squabbling; _hu kom ts'o_ (heoi1 gam3 cou4 墟咁嘈), noisy as a market; _ts'o ts'o pai_ (cou4 cou4 bai3 嘈嘈閉) a brawl; _mai ts'o yan i_ (mai5 cou4 jan4 ji5 咪嘈人耳), don't deafen people with your noise; _lo ts'o_ (lou4 cou4 嘮嘈), rude, rough, unmannerly; _shap fan ts'o hi_ (sap6 fan1 cou4 hei3 十分嘈氣) panting after an angry brawl; _ts'o ts'o ch'au ch'au_ (cou4 cou4 caau2 caau2 嘈嘈吵吵), a tumult, squalling, as tanka women do; _'m ho ts'o_ (m4 hou2 cou4 唔好嘈), don't make a noise. Fan Wan entry: Corrected ⿰口冋 to 喧."
 }
 },
 "徂":{
@@ -5260,7 +5260,7 @@
 "樕":{
 "cuk1":{
 "isCanonical":true,
-"text":"U+6A15 𣙙 (F1.64 𣙙) 樸𣙙小木也 (Page 600 𣙙; here normalised to 樕) A small tree, a shrub, a sapling (Kangxi: 樸樕小木也); _puk ts'uk_ (buk6 cuk1 樸樕) small trees, suitable for posts. Fan Wan entry: Corrected headword ⿰木敇 to 𣙙. 【樕】 (suwk) (_noun-like_) oak (_noun-like_) shrub"
+"text":"U+6A15 𣙙 (F1.64 𣙙) 樸𣙙小木也 (Page 600 𣙙; here normalised to 樕) A small tree, a shrub, a sapling (Kangxi 樕: 樸樕小木也); _puk ts'uk_ (buk6 cuk1 樸樕) small trees, suitable for posts. Fan Wan entry: Corrected headword ⿰木敇 to 𣙙. 【樕】 (suwk) (_noun-like_) oak (_noun-like_) shrub"
 }
 },
 "𣙙":{
@@ -5284,7 +5284,7 @@
 "簌":{
 "cuk1":{
 "isCanonical":true,
-"text":"U+7C0C 𫂙 (Page 600 𫂙; here normalised to 簌) To sift, and cause to shower down (Kangxi: 篩也); close, thickset (Kangxi: 茂密貌); showering down, like autumnal leaves blown by the wind. Fan Wan entry: The headword 𫂙 is a misprint of 蔌."
+"text":"U+7C0C 𫂙 (Page 600 𫂙; here normalised to 簌) To sift, and cause to shower down (Kangxi 簌: 篩也); close, thickset (Kangxi 簌: 茂密貌); showering down, like autumnal leaves blown by the wind. Fan Wan entry: The headword 𫂙 is a misprint of 蔌."
 }
 },
 "𫂙":{
@@ -5524,19 +5524,19 @@
 "冢":{
 "cung2":{
 "isCanonical":true,
-"text":"U+51A2 塚 (for \"mound\" sense) zung2 (per 《廣韻》知隴切) (F1.61 冢) 大也長子長婦俱曰冢 (Page 41 ~~冡~~``冢``) The peak of a hill (Kangxi: 山頂也); a mound or tumulus (Kangxi: 墓之墳者亦曰冢); great, honorable, first, the eldest (Kangxi: 大也); _ch'ung tsz'_ (cung2 zi2 冢子) the eldest son; _ch'ung fu_ (cung2 fu5 冢婦), the wife; _ch'ung tsoi_ (cung2 zoi2 冢宰), the highest cabinet ministers. Fan Wan entry: Corrected headword 冡 to 冢. A high mound (Kangxi: 高墳也 etc.). A raised mound for an altar (Kangxi: 封土爲社). 【冢】 (trjowngX) (_noun-like_) mound (_adjective-like_) great, (_met._) prime"
+"text":"U+51A2 塚 (for \"mound\" sense) zung2 (per 《廣韻》知隴切) (F1.61 冢) 大也長子長婦俱曰冢 (Page 41 ~~冡~~``冢``) The peak of a hill (Kangxi 冢: 山頂也); a mound or tumulus (Kangxi 冢: 墓之墳者亦曰冢); great, honorable, first, the eldest (Kangxi 冢: 大也); _ch'ung tsz'_ (cung2 zi2 冢子) the eldest son; _ch'ung fu_ (cung2 fu5 冢婦), the wife; _ch'ung tsoi_ (cung2 zoi2 冢宰), the highest cabinet ministers. Fan Wan entry: Corrected headword 冡 to 冢. A high mound (Kangxi: 高墳也 etc.). A raised mound for an altar (Kangxi: 封土爲社). 【冢】 (trjowngX) (_noun-like_) mound (_adjective-like_) great, (_met._) prime"
 }
 },
 "塚":{
 "cung2":{
 "isCanonical":true,
-"text":"U+585A 冢 (Mainland simplified) zung2 (per 《廣韻》知隴切) (F1.61 塚) 墓封曰塚 (Page 41 ~~塜~~``塚``) A grave, a tomb (Kangxi: 冢俗作塚); _fong ch'ung_ (fong1 cung2 荒塚), a deserted, unlucky grave; _wat ch'ung_ (waat3 cung2 挖塚), to rifle a grave; _ch'ung mo_ (cung2 mou6 塚墓) a grave; _ming ch'ung_ (ming4 cung2 明塚), a vaulted grave. Fan Wan entry: Corrected headword 塜 to 塚."
+"text":"U+585A 冢 (Mainland simplified) zung2 (per 《廣韻》知隴切) (F1.61 塚) 墓封曰塚 (Page 41 ~~塜~~``塚``) A grave, a tomb (Kangxi 塚: 冢俗作塚); _fong ch'ung_ (fong1 cung2 荒塚), a deserted, unlucky grave; _wat ch'ung_ (waat3 cung2 挖塚), to rifle a grave; _ch'ung mo_ (cung2 mou6 塚墓) a grave; _ming ch'ung_ (ming4 cung2 明塚), a vaulted grave. Fan Wan entry: Corrected headword 塜 to 塚."
 }
 },
 "寵":{
 "cung2":{
 "isCanonical":true,
-"text":"U+5BF5 𠖥 龍 宠 (Mainland simplified) (F1.61 寵) 愛也恩也尊榮也寵 (Page 41 𠖥; here normalised to 寵) Grace, kindness, affection (Kangxi: 一曰愛也恩也), regard, friendship; favor of superiors; to esteem (Kangxi: 尊榮也); to indulge to allow; _ch'ung oi_ (cung2 oi3 寵愛) delight in; _ch'ung fi_ (cung2 fei1 寵妃), a favorite concubine; _ch'ung sik_ (cung2 sik1 寵錫) a special favor of the king; _yan ch'ung_ (jan4 cung2 仁寵), loving-kindness. (Page 713 𠖥寵) The second form (寵) of this character is the most correct. _Ling ch'ung_ (ling6 cung2 令寵), your concubine; _tak ch'ung_ (dak1 cung2 得寵), to win a hushand's love. 【寵】 (trhjowngX) (_verb-like_) to favour, to adore"
+"text":"U+5BF5 𠖥 龍 宠 (Mainland simplified) (F1.61 寵) 愛也恩也尊榮也寵 (Page 41 𠖥; here normalised to 寵) Grace, kindness, affection (Kangxi 寵: 一曰愛也恩也), regard, friendship; favor of superiors; to esteem (Kangxi 寵: 尊榮也); to indulge to allow; _ch'ung oi_ (cung2 oi3 寵愛) delight in; _ch'ung fi_ (cung2 fei1 寵妃), a favorite concubine; _ch'ung sik_ (cung2 sik1 寵錫) a special favor of the king; _yan ch'ung_ (jan4 cung2 仁寵), loving-kindness. (Page 713 𠖥寵) The second form (寵) of this character is the most correct. _Ling ch'ung_ (ling6 cung2 令寵), your concubine; _tak ch'ung_ (dak1 cung2 得寵), to win a hushand's love. 【寵】 (trhjowngX) (_verb-like_) to favour, to adore"
 }
 },
 "㧤":{
@@ -5704,7 +5704,7 @@
 "處":{
 "cyu2":{
 "isCanonical":true,
-"text":"U+8655 処 䖏 处 (Mainland simplified) cyu5 (common in certain usages) (F1.46 處) 止居也又處置 (F1.46 䖏) 同上 (F1.46 処) 同上 (Page 32* 處処) To dwell, to reside (Kangxi: 居也); to be, to act, to occupy the place of; while in; to distinguish (Kangxi: 分別也), to manage, to judge, to decide on, to attend to, to do what is proper; to place; _ch'u tsz'_ (cyu5 zi2 處子) a young lady; _ch'u chi t'a_ (cyu2 zi6 taa1 處治他), do it for him, settle him, fix him; _seung ch'u_ (soeng1 cyu5 相處), familiar, friendly; _ch'u kwan shan_ (cyu5 gwan1 san4 處君臣), to be an officer; _nan ch'u_ (naan4 cyu2 難處), not easy to judge; _ch'u ~~kut~~ ``k'ut``_ (cyu2 kyut3 處決) execute him; _ch'u fu fu_ (cyu5 fu1 fu5 處夫婦) when married. I have changed _ch'u_ (cyu2) to the common reading _ch'u_ (cyu5) when it seems appropriate (although I am not aware of any logic that can be used to determine when this is the case). From personal experience: The classical reading _ch'u_ (cyu2) seems mandatory in 處決, 處置. The common reading _ch'u_ (cyu5) seems preferred in 共處, 判處, 懲處, 獨處, 相處, 處分, 處境, 處女, 處斬, 處方, 處死, 處罰. Either reading seems acceptable in 處世, 處事, 處理. Williams' 處決: Changed _kut_ (gyut3) to common reading _k'ut_ (kyut3). 【處-rising】 (tsyhoX) (_verb-like_) to reside, to stay (_verb-like_) to place"
+"text":"U+8655 処 䖏 处 (Mainland simplified) cyu5 (common in certain usages) (F1.46 處) 止居也又處置 (F1.46 䖏) 同上 (F1.46 処) 同上 (Page 32* 處処) To dwell, to reside (Kangxi 處: 居也); to be, to act, to occupy the place of; while in; to distinguish (Kangxi 處: 分別也), to manage, to judge, to decide on, to attend to, to do what is proper; to place; _ch'u tsz'_ (cyu5 zi2 處子) a young lady; _ch'u chi t'a_ (cyu2 zi6 taa1 處治他), do it for him, settle him, fix him; _seung ch'u_ (soeng1 cyu5 相處), familiar, friendly; _ch'u kwan shan_ (cyu5 gwan1 san4 處君臣), to be an officer; _nan ch'u_ (naan4 cyu2 難處), not easy to judge; _ch'u ~~kut~~ ``k'ut``_ (cyu2 kyut3 處決) execute him; _ch'u fu fu_ (cyu5 fu1 fu5 處夫婦) when married. I have changed _ch'u_ (cyu2) to the common reading _ch'u_ (cyu5) when it seems appropriate (although I am not aware of any logic that can be used to determine when this is the case). From personal experience: The classical reading _ch'u_ (cyu2) seems mandatory in 處決, 處置. The common reading _ch'u_ (cyu5) seems preferred in 共處, 判處, 懲處, 獨處, 相處, 處分, 處境, 處女, 處斬, 處方, 處死, 處罰. Either reading seems acceptable in 處世, 處事, 處理. Williams' 處決: Changed _kut_ (gyut3) to common reading _k'ut_ (kyut3). 【處-rising】 (tsyhoX) (_verb-like_) to reside, to stay (_verb-like_) to place"
 },
 "cyu3":{
 "isCanonical":true,
@@ -5724,7 +5724,7 @@
 "佇":{
 "cyu5":{
 "isCanonical":true,
-"text":"U+4F47 宁 竚 伫 (Mainland simplified) (F1.47 佇) 立也 (F1.47 竚) 久立又企也 (Page 32* 佇竚) To stand a long time (Kangxi: 佇久立也); to wait, to look for; _ch'u lap_ (cyu5 lap6 佇立) to stand up; _ch'u mong_ (cyu5 mong6 佇望) to be hoping, expecting. 【佇】 (drjoX) (_verb-like_) to stand long"
+"text":"U+4F47 宁 竚 伫 (Mainland simplified) (F1.47 佇) 立也 (F1.47 竚) 久立又企也 (Page 32* 佇竚) To stand a long time (Kangxi 佇: 佇久立也); to wait, to look for; _ch'u lap_ (cyu5 lap6 佇立) to stand up; _ch'u mong_ (cyu5 mong6 佇望) to be hoping, expecting. 【佇】 (drjoX) (_verb-like_) to stand long"
 }
 },
 "宁":{
@@ -5800,7 +5800,7 @@
 "貯":{
 "cyu5":{
 "isCanonical":true,
-"text":"U+8CAF 宁 贮 (Mainland simplified) zyu2 (per 《廣韻》丁吕切) (F1.47 貯) 積貯 (Page 32* 宁; here normalised to 貯) to accumulate (Kangxi: 宁辨積物也). (Page 33* 貯) To hoard, to store up, to lay by in safety (Kangxi: 積也, 藏也); a hoard, a treasure; _ch'u tsik_ (cyu5 zik1 貯積) to accumulate; _ch'u tun_ (cyu5 deon6 貯頓) to store up goods; _ts'un ch'u_ (cyun4 cyu5 存貯) or _ch'u mai_ (cyu5 maai4 貯埋), to lay by. 【貯】 (trjoX) (_verb-like_) to stockpile"
+"text":"U+8CAF 宁 贮 (Mainland simplified) zyu2 (per 《廣韻》丁吕切) (F1.47 貯) 積貯 (Page 32* 宁; here normalised to 貯) to accumulate (Kangxi 宁: 宁辨積物也). (Page 33* 貯) To hoard, to store up, to lay by in safety (Kangxi: 積也, 藏也); a hoard, a treasure; _ch'u tsik_ (cyu5 zik1 貯積) to accumulate; _ch'u tun_ (cyu5 deon6 貯頓) to store up goods; _ts'un ch'u_ (cyun4 cyu5 存貯) or _ch'u mai_ (cyu5 maai4 貯埋), to lay by. 【貯】 (trjoX) (_verb-like_) to stockpile"
 }
 },
 "巛":{
@@ -5852,7 +5852,7 @@
 },
 "cyun3":{
 "isCanonical":true,
-"text":"U+651B 竄 (for \"tempt\" sense) 撺 (Mainland simplified) cyun1 (per Kangxi 七丸切 for \"tempt\" sense) cyun2 (per Fan Wan) (F2.21 攛 _Ch'un_ (cyun2)) 擲也 (Page 38* 竄 _Ch'un_ (cyun2); here normalised to 攛 _Ts'un_ (cyun3)) to seduce, to beguile (Kangxi 竄: 誘人爲惡曰竄俗曰攛掇); (Page 38* 攛 _Ch'un_ (cyun2); here normalised to _Ts'un_ (cyun3)) To fling away (Kangxi 攛: 擲也); to tempt, to seduce to evil (Kangxi 攛: 俗謂誘人爲非曰攛掇); to get one to consent; _~~ch'un~~ ``ts'un`` chut_ (cyun3 zyut3 攛掇) to entice, to inveigle. Fan Wan entry: Corrected malformed headword."
+"text":"U+651B 竄 (for \"tempt\" sense) 撺 (Mainland simplified) cyun1 (per Kangxi 七丸切 for \"tempt\" sense) cyun2 (per Fan Wan) (F2.21 攛 _Ch'un_ (cyun2)) 擲也 (Page 38* 竄 _Ch'un_ (cyun2); here normalised to 攛 _Ts'un_ (cyun3)) to seduce, to beguile (Kangxi 竄: 誘人爲惡曰竄俗曰攛掇); (Page 38* 攛 _Ch'un_ (cyun2); here normalised to _Ts'un_ (cyun3)) To fling away (Kangxi: 擲也); to tempt, to seduce to evil (Kangxi: 俗謂誘人爲非曰攛掇); to get one to consent; _~~ch'un~~ ``ts'un`` chut_ (cyun3 zyut3 攛掇) to entice, to inveigle. Fan Wan entry: Corrected malformed headword."
 }
 },
 "竄":{
@@ -5902,7 +5902,7 @@
 "爨":{
 "cyun3":{
 "isCanonical":true,
-"text":"U+7228 May appear with interior of the top-middle component as ⿱一丅 (+25 assumed here), ⿱一コ (+25), or ⿱一口 (+26), depending on the font. 㸑 cyun1 (alternative per 《集韻》七丸切 for verb sense) (F2.22 㸑 _Ts'un_ (cyun2)) 炊也 (Page 605 㸑 _Ts'un_ (cyun2); here corrected to _Ts'un_ (cyun3) and normalised to 爨) A furnace or cooking-place (Kangxi: 竈也 etc.); a mess, a table; to cook ``over a fire`` (Kangxi: 炊也) ~~gently~~; ~~to steam;~~ _ch'ui ts'un_ (ceoi1 cyun3 炊爨) to cook; _tsz' ki hoi ts'un_ (zi6 gei2 hoi1 cyun3 自己開爨), eats by himself; _fan ts'un_ (fan1 cyun3 分爨), to eat at separate tables; _t'ung ts'un_ (tung4 cyun3 同爨), at the same table, messmate; _tap ts'un_ (daap3 cyun3 搭爨), a boarder. 【爨】 (tshwanH, tshwan) (_noun-like_) cookstove 【開火爨】 (hoi1 fo2 cyun3) To start a fire stove (and, by extension, to cook)."
+"text":"U+7228 May appear with interior of the top-middle component as ⿱一丅 (+25 assumed here), ⿱一コ (+25), or ⿱一口 (+26), depending on the font. 㸑 cyun1 (alternative per 《集韻》七丸切 for verb sense) (F2.22 㸑 _Ts'un_ (cyun2)) 炊也 (Page 605 㸑 _Ts'un_ (cyun2); here corrected to _Ts'un_ (cyun3) and normalised to 爨) A furnace or cooking-place (Kangxi 爨: 竈也 etc.); a mess, a table; to cook ``over a fire`` (Kangxi 爨: 炊也) ~~gently~~; ~~to steam;~~ _ch'ui ts'un_ (ceoi1 cyun3 炊爨) to cook; _tsz' ki hoi ts'un_ (zi6 gei2 hoi1 cyun3 自己開爨), eats by himself; _fan ts'un_ (fan1 cyun3 分爨), to eat at separate tables; _t'ung ts'un_ (tung4 cyun3 同爨), at the same table, messmate; _tap ts'un_ (daap3 cyun3 搭爨), a boarder. 【爨】 (tshwanH, tshwan) (_noun-like_) cookstove 【開火爨】 (hoi1 fo2 cyun3) To start a fire stove (and, by extension, to cook)."
 }
 },
 "釧":{
@@ -6740,7 +6740,7 @@
 "棼":{
 "fan1":{
 "isCanonical":true,
-"text":"U+68FC fan4 (per Kangxi 符分切) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 棼) confused, disordered, complicated (Kangxi 棼: 亂也); Kangxi has this sense under the reading 符分切 _fan_ (fan4). In my opinion, this is dubious, as 《廣韻》符分切 is explained 複屋棟也, which is unrelated to confusion/disorder. Fan Wan entry: Fixed missing strokes in 衆 and 亂."
+"text":"U+68FC fan4 (per Kangxi 符分切) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 棼) confused, disordered, complicated (Kangxi: 亂也); Kangxi has this sense under the reading 符分切 _fan_ (fan4). In my opinion, this is dubious, as 《廣韻》符分切 is explained 複屋棟也, which is unrelated to confusion/disorder. Fan Wan entry: Fixed missing strokes in 衆 and 亂."
 },
 "fan4":{
 "isCanonical":true,
@@ -6778,7 +6778,7 @@
 "焄":{
 "fan1":{
 "isCanonical":true,
-"text":"U+7104 (F1.80 焄) 香氣也禮云焄蒿悽愴 (Page 45 ~~蔒~~焄) fumes from cooked vegetables; ~~savory~~ odors (Kangxi: 香臭之氣也); _fan ho_ (fan1 hou1 焄蒿), steam from viands; odorous exhalations. Fan Wan entry: Fixed missing stroke in 愴. Williams considers 蔒 and 焄 interchangeable. This is only true in the sense that both are alternative forms of 葷. Williams' \"savory odors\": This is a misreading of Kangxi 香臭, which refers odours in general (whether good or bad). Williams' 焄蒿: Corrected _ho_ (ho1) to _ho_ (hou1). 【焄】 (xjun) (_noun-like_) fume, odour"
+"text":"U+7104 (F1.80 焄) 香氣也禮云焄蒿悽愴 (Page 45 ~~蔒~~焄) fumes from cooked vegetables; ~~savory~~ odors (Kangxi 焄: 香臭之氣也); _fan ho_ (fan1 hou1 焄蒿), steam from viands; odorous exhalations. Fan Wan entry: Fixed missing stroke in 愴. Williams considers 蔒 and 焄 interchangeable. This is only true in the sense that both are alternative forms of 葷. Williams' \"savory odors\": This is a misreading of Kangxi 香臭, which refers odours in general (whether good or bad). Williams' 焄蒿: Corrected _ho_ (ho1) to _ho_ (hou1). 【焄】 (xjun) (_noun-like_) fume, odour"
 }
 },
 "熏":{
@@ -7328,7 +7328,7 @@
 "阜":{
 "fau6":{
 "isCanonical":true,
-"text":"U+961C 阝 (as a character component on the left) 𨸏 (F1.56 阜) 山無石曰阜又曲阜地名又民豐物阜 (Page 52 阜阝) A ``great`` mound or hill of earth (Kangxi: 大陸曰阜, 山無石者); ``the 170th ``radical (\"mound\") of elevations, hills, &c.; great (Kangxi: 大也), large (Kangxi: 肥也), high, abundant (Kangxi: 盛也), numerous (Kangxi: 多也); _mat fau_ (mat6 fau6 物阜) plenty of things; _fung fau_ (fung1 fau6 豐阜) abundant, as a harvest. Fan Wan entry: Fixed missing strokes in 豐. 【阜】 (bjuw) (_noun-like_) great-mound (_adjective-like_) great, large, abundant"
+"text":"U+961C 阝 (as a character component on the left) 𨸏 (F1.56 阜) 山無石曰阜又曲阜地名又民豐物阜 (Page 52 阜阝) A ``great`` mound or hill of earth (Kangxi 阜: 大陸曰阜, 山無石者); ``the 170th ``radical (\"mound\") of elevations, hills, &c.; great (Kangxi 阜: 大也), large (Kangxi 阜: 肥也), high, abundant (Kangxi 阜: 盛也), numerous (Kangxi 阜: 多也); _mat fau_ (mat6 fau6 物阜) plenty of things; _fung fau_ (fung1 fau6 豐阜) abundant, as a harvest. Fan Wan entry: Fixed missing strokes in 豐. 【阜】 (bjuw) (_noun-like_) great-mound (_adjective-like_) great, large, abundant"
 }
 },
 "啡":{
@@ -7354,7 +7354,7 @@
 "妃":{
 "fei1":{
 "isCanonical":true,
-"text":"U+5983 (F1.35 妃) 妃嬪 (Page 52 ~~？~~``妃``) Royal concubines (Kangxi: 女與己身儔也古嬪御之貴次于后者曰妃); _wong fi_ (wong4 fei1 王妃), wife of the heir apparent; _ching fi_ (zing3 fei1 正妃), the empress; _t'in fi_ (tin1 fei1 天妃), the Amphitrite of the Chinese (Kangxi: 天妃水神); _fi tsz' siu_ (fei1 zi2 siu3 妃子笑) the best sort of laichi (荔枝). Fan Wan entry: Normalised headword ⿰女巳 to 妃. A spouse (Kangxi: 匹也). 【妃】 (phj+j) (_noun-like_) consort"
+"text":"U+5983 (F1.35 妃) 妃嬪 (Page 52 ~~？~~``妃``) Royal concubines (Kangxi 妃: 女與己身儔也古嬪御之貴次于后者曰妃); _wong fi_ (wong4 fei1 王妃), wife of the heir apparent; _ching fi_ (zing3 fei1 正妃), the empress; _t'in fi_ (tin1 fei1 天妃), the Amphitrite of the Chinese (Kangxi 妃: 天妃水神); _fi tsz' siu_ (fei1 zi2 siu3 妃子笑) the best sort of laichi (荔枝). Fan Wan entry: Normalised headword ⿰女巳 to 妃. A spouse (Kangxi: 匹也). 【妃】 (phj+j) (_noun-like_) consort"
 }
 },
 "扉":{
@@ -7660,7 +7660,7 @@
 "肓":{
 "fong1":{
 "isCanonical":true,
-"text":"U+8093 (F1.96 肓) 膏肓心之上鬲之下也 (Page 56 ~~盲~~``肓``) A part of the thorax ~~above the heart (Kangxi: 心上鬲下也)~~ ``below the heart and above the diaphragm``; the vitals. Fan Wan entry: Corrected headword 盲 to 肓. Williams' \"above the heart\": 《說文》心上鬲下也 quoted by Kangxi (\"above the heart and below the diaphragm\") is clearly erroneous, and should instead be 心下鬲上也. 【肓】 (xwang) (_noun-like_) mediastinal-floor"
+"text":"U+8093 (F1.96 肓) 膏肓心之上鬲之下也 (Page 56 ~~盲~~``肓``) A part of the thorax ~~above the heart (Kangxi 肓: 心上鬲下也)~~ ``below the heart and above the diaphragm``; the vitals. Fan Wan entry: Corrected headword 盲 to 肓. Williams' \"above the heart\": 《說文》心上鬲下也 quoted by Kangxi (\"above the heart and below the diaphragm\") is clearly erroneous, and should instead be 心下鬲上也. 【肓】 (xwang) (_noun-like_) mediastinal-floor"
 }
 },
 "舫":{
@@ -7682,7 +7682,7 @@
 "荒":{
 "fong1":{
 "isCanonical":true,
-"text":"U+8352 𮎰 (F1.96 荒) 荒蕪荒廢大也遠也 (Page 56 𮎰; here normalised to 荒) Waste, wild (Kangxi 荒: 蕪也), barren, deserted, unproductive; distant (Fan Wan: 遠也); jungle, heath (Kangxi 荒: 一曰草掩地也); empty, uncultivated, void (Kangxi 荒: 空也), ~~unripe,~~ blasted; a famine, a dearth (Kangxi 荒: 四穀不升謂之荒, 果不熟爲荒); to overshadow``, to overgrow`` (Kangxi 荒: 掩也); to magnify (Kangxi 荒: 大也); _fong mo_ (fong1 mou4 荒蕪), bushy, overgrown; _fong fai_ (fong1 fai3 荒廢) to disregard, to cease, old, desuetude; _fong t'ong_ (fong1 tong4 荒唐), incoherent, incredible, unworthy of belief; _fong nin_ (fong1 nin4 荒年), a year of scarcity; _fong sho_ (fong1 so1 荒疏), disused, neglected, obsolete; _fong kau_ (fong1 gaau1 荒郊), wilderness, wilds; _fong yam_ (fong1 jam4 荒淫), lustful. Williams' \"unripe\": Here, Williams has been misled by Kangxi's example 《爾雅釋天》果不熟爲荒. The full passage (with punctuation) is 穀不熟爲饑、蔬不熟爲饉、果不熟爲荒、仍饑爲荐, which gives the names of various types of crop failure: 饑 for grain, 饉 for vegetable, 荒 for fruit, and 荐 for repeated grain failure. It does *not* define 荒 as meaning \"fruit not ripe\". To neglect (Kangxi: 廢也). Used in 荒唐, 荒謬, etc. (which now mean \"absurd\"). 【荒】 (xwang) (_adjective-like_) uncultivated, overgrown (_noun-like_) dearth (_adjective-like_) desolate (_adjective-like_) extensive, (_met._) excessive (_verb-like_) to extend (_verb-like_) to neglect"
+"text":"U+8352 𮎰 (F1.96 荒) 荒蕪荒廢大也遠也 (Page 56 𮎰; here normalised to 荒) Waste, wild (Kangxi 荒: 蕪也), barren, deserted, unproductive; distant (Fan Wan 荒: 遠也); jungle, heath (Kangxi 荒: 一曰草掩地也); empty, uncultivated, void (Kangxi 荒: 空也), ~~unripe,~~ blasted; a famine, a dearth (Kangxi 荒: 四穀不升謂之荒, 果不熟爲荒); to overshadow``, to overgrow`` (Kangxi 荒: 掩也); to magnify (Kangxi 荒: 大也); _fong mo_ (fong1 mou4 荒蕪), bushy, overgrown; _fong fai_ (fong1 fai3 荒廢) to disregard, to cease, old, desuetude; _fong t'ong_ (fong1 tong4 荒唐), incoherent, incredible, unworthy of belief; _fong nin_ (fong1 nin4 荒年), a year of scarcity; _fong sho_ (fong1 so1 荒疏), disused, neglected, obsolete; _fong kau_ (fong1 gaau1 荒郊), wilderness, wilds; _fong yam_ (fong1 jam4 荒淫), lustful. Williams' \"unripe\": Here, Williams has been misled by Kangxi's example 《爾雅釋天》果不熟爲荒. The full passage (with punctuation) is 穀不熟爲饑、蔬不熟爲饉、果不熟爲荒、仍饑爲荐, which gives the names of various types of crop failure: 饑 for grain, 饉 for vegetable, 荒 for fruit, and 荐 for repeated grain failure. It does *not* define 荒 as meaning \"fruit not ripe\". To neglect (Kangxi: 廢也). Used in 荒唐, 荒謬, etc. (which now mean \"absurd\"). 【荒】 (xwang) (_adjective-like_) uncultivated, overgrown (_noun-like_) dearth (_adjective-like_) desolate (_adjective-like_) extensive, (_met._) excessive (_verb-like_) to extend (_verb-like_) to neglect"
 }
 },
 "衁":{
@@ -7722,7 +7722,7 @@
 "彷":{
 "fong2":{
 "isCanonical":true,
-"text":"U+5F77 仿 髣 (F1.99 髣) 髣髴近似也 (F1.99 彷) 同上 (F1.99 恍) 同上 (Page 56 彷髣) Like, resembling (Kangxi 彷: 彷彿也), ~~seen indistinctly (Kangxi: 彷彿見不審也)~~; seeming, ~~dreamy~~; _fong fat_ (fong2 fat1 彷彿) somewhat like; Fan Wan entry: The alternative form 恍 is erroneous. 【彷】 (phjangX) Used in 彷彿."
+"text":"U+5F77 仿 髣 (F1.99 髣) 髣髴近似也 (F1.99 彷) 同上 (F1.99 恍) 同上 (Page 56 彷髣) Like, resembling (Kangxi 彷: 彷彿也), ~~seen indistinctly (Kangxi 彷: 彷彿見不審也)~~; seeming, ~~dreamy~~; _fong fat_ (fong2 fat1 彷彿) somewhat like; Fan Wan entry: The alternative form 恍 is erroneous. 【彷】 (phjangX) Used in 彷彿."
 }
 },
 "怳":{
@@ -8248,7 +8248,7 @@
 "鳧":{
 "fu4":{
 "isCanonical":true,
-"text":"U+9CE7 鳬 凫 (Mainland simplified) (F2.11 鳬) 鴨也 (Page 59 鳬; here normalised to 鳧) A sheldrake or mallard (Kangxi: 野曰鳧家曰鴨); a wild duck with a crest; a small ``but abundant`` species near the Yangtsz' R. (揚子江) (Kangxi: 江東有小鳧其多無數) is called ~~_kun fu_ (gun1 fu4 冠鳧), the crowned duck (Kangxi: 俗謂之冠鳧)~~ ``_k'au fu_`` (kau3 fu4 寇鳧). Williams' \"the crowned duck\": Here, Williams has been misled by Kangxi's quote of 《揚子方言郭註》, in which 冠鳧 is a typo for 寇鳧. The original text of 《揚子方言》 (to which the commentary applies) is 凡物盛多謂之寇, and the original commentary has 寇 instead of 冠. 【鳧】 (bju) (_noun-like_) mallard"
+"text":"U+9CE7 鳬 凫 (Mainland simplified) (F2.11 鳬) 鴨也 (Page 59 鳬; here normalised to 鳧) A sheldrake or mallard (Kangxi 鳧: 野曰鳧家曰鴨); a wild duck with a crest; a small ``but abundant`` species near the Yangtsz' R. (揚子江) (Kangxi 鳧: 江東有小鳧其多無數) is called ~~_kun fu_ (gun1 fu4 冠鳧), the crowned duck (Kangxi 鳧: 俗謂之冠鳧)~~ ``_k'au fu_`` (kau3 fu4 寇鳧). Williams' \"the crowned duck\": Here, Williams has been misled by Kangxi's quote of 《揚子方言郭註》, in which 冠鳧 is a typo for 寇鳧. The original text of 《揚子方言》 (to which the commentary applies) is 凡物盛多謂之寇, and the original commentary has 寇 instead of 冠. 【鳧】 (bju) (_noun-like_) mallard"
 }
 },
 "鳬":{
@@ -8602,7 +8602,7 @@
 "峰":{
 "fung1":{
 "isCanonical":true,
-"text":"U+5CF0 峯 (F1.58 峯) 山之尖頂 (Page 65 峯; here normalised to 峰) The peak of a mountain (Kangxi: 山耑也); a camel's hump; _fung lun_ (fung1 lyun4 峰巒), ridges and peaks. 【峰】 (phjowng) (_noun-like_) peak, summit"
+"text":"U+5CF0 峯 (F1.58 峯) 山之尖頂 (Page 65 峯; here normalised to 峰) The peak of a mountain (Kangxi 峯: 山耑也); a camel's hump; _fung lun_ (fung1 lyun4 峰巒), ridges and peaks. 【峰】 (phjowng) (_noun-like_) peak, summit"
 }
 },
 "楓":{
@@ -8632,7 +8632,7 @@
 "豐":{
 "fung1":{
 "isCanonical":true,
-"text":"U+8C50 豊 丰 (Mainland simplified) (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊; here normalised to 豐) ~~A full goblet;~~ abundant, affluent, copious, exuberant (Kangxi: 茂也盛也); rich, fertile, prolific; talented; _fung nin_ (fung1 nin4 豐年), a plenteous year; _fung shing_ (fung1 sing6 豐盛) flourishing, prosperous; _fung shuk_ (fung1 suk6 豐熟) ripe, fully grown; _fung hau_ (fung1 hau5 豐厚) generous (as a feast); _fung tang_ (fung1 dang1 豐登), large supplies (of corn). (Page 715 豐) Is the full form of 豊; the latter (豊) is the least used. Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上. Williams' \"A full goblet\": This is a misreading of Kangxi 豆之豐滿者也. Here, 豐滿者 means \"the full-sized\", while 豆 is a ritual vessel much flatter than a typical goblet. Williams' 豐厚: Normalised _hau_ (hau6) to _hau_ (hau5). A type of ritual vessel (Kangxi: 一曰器名, 似豆而卑). Great (Kangxi: 大也). Ample (Kangxi: 多也, 猶厚也). A surname (Kangxi: 姓). 【豐】 (phjuwng) (_noun-like_) flat-goblet (_adjective-like_) plenteous, ample (_adjective-like_) exuberant"
+"text":"U+8C50 豊 丰 (Mainland simplified) (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊; here normalised to 豐) ~~A full goblet;~~ abundant, affluent, copious, exuberant (Kangxi 豐: 茂也盛也); rich, fertile, prolific; talented; _fung nin_ (fung1 nin4 豐年), a plenteous year; _fung shing_ (fung1 sing6 豐盛) flourishing, prosperous; _fung shuk_ (fung1 suk6 豐熟) ripe, fully grown; _fung hau_ (fung1 hau5 豐厚) generous (as a feast); _fung tang_ (fung1 dang1 豐登), large supplies (of corn). (Page 715 豐) Is the full form of 豊; the latter (豊) is the least used. Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上. Williams' \"A full goblet\": This is a misreading of Kangxi 豆之豐滿者也. Here, 豐滿者 means \"the full-sized\", while 豆 is a ritual vessel much flatter than a typical goblet. Williams' 豐厚: Normalised _hau_ (hau6) to _hau_ (hau5). A type of ritual vessel (Kangxi: 一曰器名, 似豆而卑). Great (Kangxi: 大也). Ample (Kangxi: 多也, 猶厚也). A surname (Kangxi: 姓). 【豐】 (phjuwng) (_noun-like_) flat-goblet (_adjective-like_) plenteous, ample (_adjective-like_) exuberant"
 }
 },
 "酆":{
@@ -8798,7 +8798,7 @@
 "齋":{
 "zaai1":{
 "isCanonical":true,
-"text":"U+9F4B 斋 齊 (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊 (F2.25 齋) 齋成又燕居之室曰齋 (F2.25 斋) 同上 (Page 10|n53 齋~~？~~``斋``) To respect, to reverence (Kangxi 齋: 恭也, 齋敬也); to abstain from (Kangxi 齋: 潔也, 洗心曰齋); pure, reverential, serious (Kangxi 齋: 莊也); a retiring room, a closet (Kangxi 齋: 燕居之室曰齋); _ta chai_ (daa2 zaai1 打齋), to get a soul out of tartarus; _ta chai hok_ (daa2 zaai1 hok6-2 打齋鶴) storks for the soul to ride to heaven; _met._ a pander; _tai sz' chai_ (daai6 si6 zaai1 大士齋), offerings before the purveyor of hungry spirits; _han chai_ (haan4 zaai1 閒齋), a closet; _shu chai_ (syu1 zaai1 書齋), a library; _ts'ing chai_ (cing1 zaai1 清齋), an entire fast; _lo chai_ (lo2 zaai1 攞齋), to beg vegetables; _chai kai_ (zaai1 gaai3 齋戒) to fast from animal food; _chai tsiu_ (zaai1 ziu3 齋醮) to fast at All-souls; _shik chai_ (sik6 zaai1 食齋), to fast on vegetables; _lo hon chai_ (lo4 hon3 zaai1 羅漢齋), all sorts of vegetables; _chai ku_ (zaai1 geoi1 齋居), to live at ease; _chai chong_ (zaai1 zong1 齋莊), respectful, reverential. A colloquial word. A final particle denoting that it was said, that it is so; _mat yan wa chai_ (mat1 jan4 waa6 zaai1 乜人話齋), somebody has said; _ho ts'z' k'u wa chai_ (hou2 ci5 keoi5 waa6 zaai1 好似佢話齋), just as he said. (Page 10|n53 齊) Interchanged with the last (齋) (Kangxi: 與齋同). To respect; decorous; the heart pure, to chasten the desires. Williams' 齋戒: Properly, to abstain from all pleasures (meat, alcohol, sex). Williams' 齋醮: Corrected _tsiu_ (ziu6) to _tsiu_ (ziu3). Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight. 【齋】 (tsreaj) (_verb-like_) to purify by abstinence 【話齋】 (waa6 zaai1) Emphatic form of \"as he said\". The spelling 齋 for zaai1 is arbitrary. 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): \"As he said.\" 【齋】 (zaai1) Vegetarian food. 初一十五食齋 (co1 jat1 sap6 ng5 sik6 zaai1): \"Eating vegetarian on the first and fifteenth of the lunar month.\" 齋口唔齋心 (zaai1 hau2 m4 zaai1 sam1): \"Vegetarian in mouth but not vegetarian at heart\" (said of vegetarians that eat imitation meat). Plain, pure, etc. 齋啡 (zaai1 fe1): \"Straight coffee.\" 齋腸 (zaai1 coeng4-2): \"Plain rice-noodle rolls.\" 齋噏 (zaai1 ngap1): \"Purely blabbering.\""
+"text":"U+9F4B 斋 齊 (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊 (F2.25 齋) 齋成又燕居之室曰齋 (F2.25 斋) 同上 (Page 10|n53 齋~~？~~``斋``) To respect, to reverence (Kangxi 齋: 恭也, 齋敬也); to abstain from (Kangxi 齋: 潔也, 洗心曰齋); pure, reverential, serious (Kangxi 齋: 莊也); a retiring room, a closet (Kangxi 齋: 燕居之室曰齋); _ta chai_ (daa2 zaai1 打齋), to get a soul out of tartarus; _ta chai hok_ (daa2 zaai1 hok6-2 打齋鶴) storks for the soul to ride to heaven; _met._ a pander; _tai sz' chai_ (daai6 si6 zaai1 大士齋), offerings before the purveyor of hungry spirits; _han chai_ (haan4 zaai1 閒齋), a closet; _shu chai_ (syu1 zaai1 書齋), a library; _ts'ing chai_ (cing1 zaai1 清齋), an entire fast; _lo chai_ (lo2 zaai1 攞齋), to beg vegetables; _chai kai_ (zaai1 gaai3 齋戒) to fast from animal food; _chai tsiu_ (zaai1 ziu3 齋醮) to fast at All-souls; _shik chai_ (sik6 zaai1 食齋), to fast on vegetables; _lo hon chai_ (lo4 hon3 zaai1 羅漢齋), all sorts of vegetables; _chai ku_ (zaai1 geoi1 齋居), to live at ease; _chai chong_ (zaai1 zong1 齋莊), respectful, reverential. A colloquial word. A final particle denoting that it was said, that it is so; _mat yan wa chai_ (mat1 jan4 waa6 zaai1 乜人話齋), somebody has said; _ho ts'z' k'u wa chai_ (hou2 ci5 keoi5 waa6 zaai1 好似佢話齋), just as he said. (Page 10|n53 齊) Interchanged with the last (齋) (Kangxi 齊: 與齋同). To respect; decorous; the heart pure, to chasten the desires. Williams' 齋戒: Properly, to abstain from all pleasures (meat, alcohol, sex). Williams' 齋醮: Corrected _tsiu_ (ziu6) to _tsiu_ (ziu3). Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight. 【齋】 (tsreaj) (_verb-like_) to purify by abstinence 【話齋】 (waa6 zaai1) Emphatic form of \"as he said\". The spelling 齋 for zaai1 is arbitrary. 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): \"As he said.\" 【齋】 (zaai1) Vegetarian food. 初一十五食齋 (co1 jat1 sap6 ng5 sik6 zaai1): \"Eating vegetarian on the first and fifteenth of the lunar month.\" 齋口唔齋心 (zaai1 hau2 m4 zaai1 sam1): \"Vegetarian in mouth but not vegetarian at heart\" (said of vegetarians that eat imitation meat). Plain, pure, etc. 齋啡 (zaai1 fe1): \"Straight coffee.\" 齋腸 (zaai1 coeng4-2): \"Plain rice-noodle rolls.\" 齋噏 (zaai1 ngap1): \"Purely blabbering.\""
 }
 },
 "債":{
@@ -8834,7 +8834,7 @@
 "寨":{
 "zaai6":{
 "isCanonical":true,
-"text":"U+5BE8 砦 (F2.29 寨) 木檽爲之蜜口營壘也 (F2.29 砦) 同上 (Page 10|n53 寨砦) A stockade, a palisade (Kangxi: 山居以木柵, 籬落也); an encampment; a stockaded village; a sheep-pen (Kangxi: 羊栖宿處也); _ts'ak chai_ (caak6 zaai6 賊寨) a robber's hold; _chai chu_ (zaai6 zyu2 寨主), wife of a bandit chief who guards the hold; _ta chai_ (daa2 zaai6 打寨) to frequent brothels; _luk kok chai_ (luk6 gok3 zaai6 六角寨) a stockade defended by chevaux-de-frise; _ying chai_ (jing4 zaai6 營寨) barracks, a camp, a military station. Fan Wan entry: 寨 is printed with bottom component 氺 (rather than 朩 or 木), whilst 蜜 (used for 密) is printed as ⿳冖一虫."
+"text":"U+5BE8 砦 (F2.29 寨) 木檽爲之蜜口營壘也 (F2.29 砦) 同上 (Page 10|n53 寨砦) A stockade, a palisade (Kangxi 寨: 山居以木柵, 籬落也); an encampment; a stockaded village; a sheep-pen (Kangxi 寨: 羊栖宿處也); _ts'ak chai_ (caak6 zaai6 賊寨) a robber's hold; _chai chu_ (zaai6 zyu2 寨主), wife of a bandit chief who guards the hold; _ta chai_ (daa2 zaai6 打寨) to frequent brothels; _luk kok chai_ (luk6 gok3 zaai6 六角寨) a stockade defended by chevaux-de-frise; _ying chai_ (jing4 zaai6 營寨) barracks, a camp, a military station. Fan Wan entry: 寨 is printed with bottom component 氺 (rather than 朩 or 木), whilst 蜜 (used for 密) is printed as ⿳冖一虫."
 }
 },
 "廌":{
@@ -9136,7 +9136,7 @@
 "趲":{
 "zaan2":{
 "isCanonical":true,
-"text":"U+8DB2 䟎 趱 (Mainland simplified) zaan3 (per 《廣韻》則旰切 for \"scatter\" sense and 《集韻》則旰切 for \"hasten\" sense) zaan6 (per 《廣韻》藏旱切 for \"scatter\" sense) zou1 (per 《集韻》宗蘇切 for \"run\" sense) (F2.69 趲) 催也促也 (Page 555 䟎; here normalised to 趲) To ~~walk~~ ``run``, to get on (Kangxi 趲: 走也); to flee, to run away, to scatter, to put to flight (Kangxi 趲: 散走也); to hasten, to urge, to quicken, to press (Kangxi: 逼使走也); _tsan po_ (zaan2 bou6 趲步) to walk quicker; _ts'ui tsan_ (ceoi1 zaan2 催趲), to urge on; _yat yat loi tsan_ (jat6 jat6 loi4 zaan2 日日來趲), he comes urging me daily; _tsan k'u hi shan_ (zaan2 keoi5 hei2 san1 趲佢起身), urge him to get out of bed. The reading _tsan_ (zaan2) is not unattested; Kangxi has 《集韻》...又子罕切 for the \"run\" sense. However, note that 《集韻》 actually has 子䍐切 for the \"hasten\" sense, explained 逼使赱也. Williams' 日日來趲: Corrected _yat_ (jat1) to _yat_ (jat6). 【走趲】 (zau2 zaan2) Wiggle room or leeway. 冇得走趲 (mou5 dak1 zau2 zaan2): \"There's no wiggle room.\" 有得走趲 (jau5 dak1 zau2 zaan2): \"There's wiggle room.\""
+"text":"U+8DB2 䟎 趱 (Mainland simplified) zaan3 (per 《廣韻》則旰切 for \"scatter\" sense and 《集韻》則旰切 for \"hasten\" sense) zaan6 (per 《廣韻》藏旱切 for \"scatter\" sense) zou1 (per 《集韻》宗蘇切 for \"run\" sense) (F2.69 趲) 催也促也 (Page 555 䟎; here normalised to 趲) To ~~walk~~ ``run``, to get on (Kangxi 趲: 走也); to flee, to run away, to scatter, to put to flight (Kangxi 趲: 散走也); to hasten, to urge, to quicken, to press (Kangxi 趲: 逼使走也); _tsan po_ (zaan2 bou6 趲步) to walk quicker; _ts'ui tsan_ (ceoi1 zaan2 催趲), to urge on; _yat yat loi tsan_ (jat6 jat6 loi4 zaan2 日日來趲), he comes urging me daily; _tsan k'u hi shan_ (zaan2 keoi5 hei2 san1 趲佢起身), urge him to get out of bed. The reading _tsan_ (zaan2) is not unattested; Kangxi has 《集韻》...又子罕切 for the \"run\" sense. However, note that 《集韻》 actually has 子䍐切 for the \"hasten\" sense, explained 逼使赱也. Williams' 日日來趲: Corrected _yat_ (jat1) to _yat_ (jat6). 【走趲】 (zau2 zaan2) Wiggle room or leeway. 冇得走趲 (mou5 dak1 zau2 zaan2): \"There's no wiggle room.\" 有得走趲 (jau5 dak1 zau2 zaan2): \"There's wiggle room.\""
 }
 },
 "醆":{
@@ -9408,7 +9408,7 @@
 "雜":{
 "zaap6":{
 "isCanonical":true,
-"text":"U+96DC 什 襍 杂 (Mainland simplified) zaap6-2 (in 打雜, and rising second in vernacular 雜雜地) (F2.40 雜 _Tsap_ (zap6)) 參錯也亂也 (F2.40 襍 _Tsap_ (zap6)) 同上 (F2.66 雜) 叅錯也五綵相合也 (F2.66 襍) 同上 (Page 558 雜襍) A mixture of different colors (Kangxi: 五彩相合也) or ingredients; particolored, streaked; mixed, unassorted, blended, mingled, confused; various, all sorts, miscellaneous, heterogenous, fragmentary (Kangxi: 碎也); to mix, to confuse; ~~to repeat;~~ to revolve (Kangxi: 帀也); to bore through (Kangxi: 穿也); _tsap fo_ (zaap6 fo3 雜貨) miscellaneous goods; _tsap fo p'o_ (zaap6 fo3 pou3 雜貨舖) a variety store; _tsap shik_ (zaap6 sik1 雜色) variegated; _sam tsap_ (sam1 zaap6 心雜) distracted, not keeping long at a purpose; _tsap chung tsai_ (zaap6 zung2 zai2 雜種仔), a bastard; _tsap t'ong kwo_ (zaap6 tong4 gwo2 雜糖果), chowchow sweetmeats; _'ng fong tsap ch'u_ (ng5 fong1 zaap6 cyu5 五方雜處), a place where all sorts of people live; _tsap lun_ (zaap6 lyun6 雜亂) confused, put in disorder; _han tsap yan tang_ (haan4 zaap6 jan4 dang2 閒雜人等) loafers, idlers; _ta tsap_ (daa2 zaap6-2 打雜) man of all work; _shik tsap_ (sik6 zaap6 食雜) to eat anything, not to fast; _lap tsap_ (laap6 zaap6 垃雜) miscellaneous, a medley. Williams' \"unassorted\": Meaning \"unsorted\" or \"miscellaneous\". Williams' 五方雜處: Changed _ch'u_ (cyu2) to common reading _ch'u_ (cyu5). 【雜】 (dzop) (_adjective-like_) mingled 【垃雜】 (laap6 zaap6) Disorganised or cluttered. Commonly spelt 立雜 (see discussion below). 【雜】 (zaap6) Used to describe a place as dodgy, due to the presence of miscellaneous unsavoury characters. 城好雜 (seng4-2 hou2 zaap6): \"The city is very dodgy.\" Offal. 牛雜 (ngau4 zaap6): \"Beef assortment of offal.\" (In Hong Kong noodle shops, the typical parts are tripe (肚 tou5), lung (肺 fai3), intestine (腸 coeng4-2), and spleen (膀 bong2). ) There is an argument that 垃雜 _lap tsap_ (laap6 zaap6) should be spelt 擸𢶍. Indeed 擸𢶍 has an expected reading of _lap tsap_ (lap6 zap6), and is explained \"broken\" or \"cluttered\": 《廣韻》盧盍切 擸 折也又擸𢶍破壞也 《廣韻》才盍切 𢶍 擸𢶍和雜 《康熙字典》𢶍 《唐韻》才盍切《集韻》疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也... However, since 擸𢶍 is also considered the original spelling of 垃圾 laap6 saap3 \"rubbish\", it would be confusing to use it for laap6 zaap6 also. As a compromise that acknowledges the possible common ancestry, I have opted to spell laap6 zaap6 as 垃雜, even though the common spelling is 立雜."
+"text":"U+96DC 什 襍 杂 (Mainland simplified) zaap6-2 (in 打雜, and rising second in vernacular 雜雜地) (F2.40 雜 _Tsap_ (zap6)) 參錯也亂也 (F2.40 襍 _Tsap_ (zap6)) 同上 (F2.66 雜) 叅錯也五綵相合也 (F2.66 襍) 同上 (Page 558 雜襍) A mixture of different colors (Kangxi 雜: 五彩相合也) or ingredients; particolored, streaked; mixed, unassorted, blended, mingled, confused; various, all sorts, miscellaneous, heterogenous, fragmentary (Kangxi 雜: 碎也); to mix, to confuse; ~~to repeat;~~ to revolve (Kangxi 雜: 帀也); to bore through (Kangxi 雜: 穿也); _tsap fo_ (zaap6 fo3 雜貨) miscellaneous goods; _tsap fo p'o_ (zaap6 fo3 pou3 雜貨舖) a variety store; _tsap shik_ (zaap6 sik1 雜色) variegated; _sam tsap_ (sam1 zaap6 心雜) distracted, not keeping long at a purpose; _tsap chung tsai_ (zaap6 zung2 zai2 雜種仔), a bastard; _tsap t'ong kwo_ (zaap6 tong4 gwo2 雜糖果), chowchow sweetmeats; _'ng fong tsap ch'u_ (ng5 fong1 zaap6 cyu5 五方雜處), a place where all sorts of people live; _tsap lun_ (zaap6 lyun6 雜亂) confused, put in disorder; _han tsap yan tang_ (haan4 zaap6 jan4 dang2 閒雜人等) loafers, idlers; _ta tsap_ (daa2 zaap6-2 打雜) man of all work; _shik tsap_ (sik6 zaap6 食雜) to eat anything, not to fast; _lap tsap_ (laap6 zaap6 垃雜) miscellaneous, a medley. Williams' \"unassorted\": Meaning \"unsorted\" or \"miscellaneous\". Williams' 五方雜處: Changed _ch'u_ (cyu2) to common reading _ch'u_ (cyu5). 【雜】 (dzop) (_adjective-like_) mingled 【垃雜】 (laap6 zaap6) Disorganised or cluttered. Commonly spelt 立雜 (see discussion below). 【雜】 (zaap6) Used to describe a place as dodgy, due to the presence of miscellaneous unsavoury characters. 城好雜 (seng4-2 hou2 zaap6): \"The city is very dodgy.\" Offal. 牛雜 (ngau4 zaap6): \"Beef assortment of offal.\" (In Hong Kong noodle shops, the typical parts are tripe (肚 tou5), lung (肺 fai3), intestine (腸 coeng4-2), and spleen (膀 bong2). ) There is an argument that 垃雜 _lap tsap_ (laap6 zaap6) should be spelt 擸𢶍. Indeed 擸𢶍 has an expected reading of _lap tsap_ (lap6 zap6), and is explained \"broken\" or \"cluttered\": 《廣韻》盧盍切 擸 折也又擸𢶍破壞也 《廣韻》才盍切 𢶍 擸𢶍和雜 《康熙字典》𢶍 《唐韻》才盍切《集韻》疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也... However, since 擸𢶍 is also considered the original spelling of 垃圾 laap6 saap3 \"rubbish\", it would be confusing to use it for laap6 zaap6 also. As a compromise that acknowledges the possible common ancestry, I have opted to spell laap6 zaap6 as 垃雜, even though the common spelling is 立雜."
 }
 },
 "霫":{
@@ -9432,7 +9432,7 @@
 "紮":{
 "zaat3":{
 "isCanonical":true,
-"text":"U+7D2E 扎 (F2.72 扎) 拔也作也 (Page 24|n67 扎; here normalised to 紮) to bind, to bind around, to bundle up (Kangxi: 纏束也); a bundle; to make or cut out paper images; _chat yat chat_ (zaat3 jat1 zaat3 紮一紮) bind it into a bundle; _chat keuk_ (zaat3 goek3 紮腳) to bind the feet of girls; _chat kan_ (zaat3 gan2 紮緊), bind it tight; _chi chat_ (zi2 zaat3 紙紮) paper houses, &c., to burn to the dead; also paper strings; _chat mai k'u_ (zaat3 maai4 keoi5 紮埋佢), tie it up in a roll; _yat chat fa_ (jat1 zaat3 faa1 一紮花), a nosegay; _chat tak shang_ (zaat3 dak1 sang1 紮得生), cut out to the life. To station. 紮營 (zaat3 jing4): \"Set up camp.\""
+"text":"U+7D2E 扎 (F2.72 扎) 拔也作也 (Page 24|n67 扎; here normalised to 紮) to bind, to bind around, to bundle up (Kangxi 紮: 纏束也); a bundle; to make or cut out paper images; _chat yat chat_ (zaat3 jat1 zaat3 紮一紮) bind it into a bundle; _chat keuk_ (zaat3 goek3 紮腳) to bind the feet of girls; _chat kan_ (zaat3 gan2 紮緊), bind it tight; _chi chat_ (zi2 zaat3 紙紮) paper houses, &c., to burn to the dead; also paper strings; _chat mai k'u_ (zaat3 maai4 keoi5 紮埋佢), tie it up in a roll; _yat chat fa_ (jat1 zaat3 faa1 一紮花), a nosegay; _chat tak shang_ (zaat3 dak1 sang1 紮得生), cut out to the life. To station. 紮營 (zaat3 jing4): \"Set up camp.\""
 }
 },
 "茁":{
@@ -9540,7 +9540,7 @@
 "㷹":{
 "zaau3":{
 "isCanonical":true,
-"text":"U+3DF9 𦻐 zaau6 (per 《廣韻》直敎切) (Page 29|n72 𦻐; here normalised to 㷹) Blazing fire (Kangxi: 火急煎貌); to fry; to boil in fat; _yau chau_ (jau4 zaau3 油㷹) boiled in fat; _chau to ts'ui_ (zaau3 dou3 ceoi3 㷹到脆) fried crisp. The \"deep-fry\" sense is very dated; 炸 zaa3 is now preferred. Williams' 㷹到脆: Corrected _to_ (dou2) to _to_ (dou3)."
+"text":"U+3DF9 𦻐 zaau6 (per 《廣韻》直敎切) (Page 29|n72 𦻐; here normalised to 㷹) Blazing fire (Kangxi 㷹: 火急煎貌); to fry; to boil in fat; _yau chau_ (jau4 zaau3 油㷹) boiled in fat; _chau to ts'ui_ (zaau3 dou3 ceoi3 㷹到脆) fried crisp. The \"deep-fry\" sense is very dated; 炸 zaa3 is now preferred. Williams' 㷹到脆: Corrected _to_ (dou2) to _to_ (dou3)."
 }
 },
 "笊":{
@@ -9552,7 +9552,7 @@
 "罩":{
 "zaau3":{
 "isCanonical":true,
-"text":"U+7F69 (F2.42 罩) 嘲去聲取魚器也 (F2.42 䈇) 同上 (Page 29|n72 ~~𦋇~~``罩``) A net, or basket to catch mud fish by covering them (Kangxi: 捕魚器也); to catch or cover over; to shade; a shade, a cover, a protection from wind or dust; _tang chau_ (dang1 zaau3 燈罩) a lamp-globe; _kun chau_ (gun1 zaau3 棺罩) a network pall; _chau u_ (zaau3 jyu4-2 罩魚), to catch fish; _kai chau_ (gai1 zaau3 雞罩) a hen basket; _kiu chau_ (giu6-2 zaau3 轎罩) a rain cover on a sedan. Fan Wan entry: Normalised headword 𦋇 to 罩. Williams' 轎罩: Corrected _kiu_ (giu6-5) to _kiu_ (giu6-2). 【罩】 (traewH) (_noun-like_) covering-trap"
+"text":"U+7F69 (F2.42 罩) 嘲去聲取魚器也 (F2.42 䈇) 同上 (Page 29|n72 ~~𦋇~~``罩``) A net, or basket to catch mud fish by covering them (Kangxi 罩: 捕魚器也); to catch or cover over; to shade; a shade, a cover, a protection from wind or dust; _tang chau_ (dang1 zaau3 燈罩) a lamp-globe; _kun chau_ (gun1 zaau3 棺罩) a network pall; _chau u_ (zaau3 jyu4-2 罩魚), to catch fish; _kai chau_ (gai1 zaau3 雞罩) a hen basket; _kiu chau_ (giu6-2 zaau3 轎罩) a rain cover on a sedan. Fan Wan entry: Normalised headword 𦋇 to 罩. Williams' 轎罩: Corrected _kiu_ (giu6-5) to _kiu_ (giu6-2). 【罩】 (traewH) (_noun-like_) covering-trap"
 }
 },
 "𦻐":{
@@ -9790,7 +9790,7 @@
 "砧":{
 "zam1":{
 "isCanonical":true,
-"text":"U+7827 椹 碪 (F2.36 砧) 擣衣石 (F2.36 碪) 與砧同 (Page 14|n57 砧碪) A stone to beat clothes on (Kangxi: 擣衣石也); an anvil (Kangxi 椹: 鐵椹斫木櫍也); a block for lifting by athletes; _muk cham_ (muk6 zam1 木砧), a horse block; _chu pi cham_ (zyu1 bei2 zam1 豬髀砧), a fillet of pork; _cham pan_ (zam1 baan2 砧板), a cutting board, used by butchers. Fan Wan entry: Corrected ⿰衣鳥 to 擣. Williams' 砧板: Now chopping boards in general (not necessarily a butcher's). 【砧板】 (zam1 baan2) A chopping board."
+"text":"U+7827 椹 碪 (F2.36 砧) 擣衣石 (F2.36 碪) 與砧同 (Page 14|n57 砧碪) A stone to beat clothes on (Kangxi 砧: 擣衣石也); an anvil (Kangxi 椹: 鐵椹斫木櫍也); a block for lifting by athletes; _muk cham_ (muk6 zam1 木砧), a horse block; _chu pi cham_ (zyu1 bei2 zam1 豬髀砧), a fillet of pork; _cham pan_ (zam1 baan2 砧板), a cutting board, used by butchers. Fan Wan entry: Corrected ⿰衣鳥 to 擣. Williams' 砧板: Now chopping boards in general (not necessarily a butcher's). 【砧板】 (zam1 baan2) A chopping board."
 }
 },
 "碪":{
@@ -10082,7 +10082,7 @@
 "騭":{
 "zat1":{
 "isCanonical":true,
-"text":"U+9A2D 隲 骘 (Mainland simplified) (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 ~~？~~``騭``隲) A stallion (Kangxi: 牡馬也, 牡曰騭); to mount; to ascend (Kangxi: 乗馬登山也); to raise, to promote (Kangxi: 騭陞也); to fix, to determine (Kangxi: 定也); _yam chat_ (jam1 zat1 陰騭) to think upon kindly, a secret benevolence; _tsik yam chat_ (zik1 jam1 zat1 積陰騭) to perform many good deeds. Fan Wan entry: Corrected 降 to 陞. 【騭】 (tsyit) (_verb-like_) to secure (_verb-like_) to raise"
+"text":"U+9A2D 隲 骘 (Mainland simplified) (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 ~~？~~``騭``隲) A stallion (Kangxi 騭: 牡馬也, 牡曰騭); to mount; to ascend (Kangxi 騭: 乗馬登山也); to raise, to promote (Kangxi 騭: 騭陞也); to fix, to determine (Kangxi 騭: 定也); _yam chat_ (jam1 zat1 陰騭) to think upon kindly, a secret benevolence; _tsik yam chat_ (zik1 jam1 zat1 積陰騭) to perform many good deeds. Fan Wan entry: Corrected 降 to 陞. 【騭】 (tsyit) (_verb-like_) to secure (_verb-like_) to raise"
 }
 },
 "咥":{
@@ -10626,7 +10626,7 @@
 "跖":{
 "zek3":{
 "isCanonical":true,
-"text":"U+8DD6 蹠 zik3 (alternative) (F1.78 跖) 盗跖秦之大盗 (F1.78 蹠) 同上又脚掌也又踐履也 (Page 14* before 隻) (The three next characters (隻, 蹠跖, 炙) are usually pronounced _chek_ (zek).) (Page 14* 蹠跖 _Chik_ (zik6); _Chek_ (zek6) implied by variational note; here corrected to _Chek_ (zek3)) the sole of the foot (Kangxi: 足下); metatarsus of birds; _to chek_ (dou6 zek3 盜跖) a ``tyrannical`` leader of thieves~~, a certain Robin Hood~~ in the ~~days of Ts'in (秦)~~ ``Spring and Autumn``. Williams has been misled by Fan Wan's placement of the series 跖蹠拓隻炙 (_chik_) *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 跖 is read 陽入 _chik_ (zik6). However, since Fan Wan has a separate series for 直値殖植稙湜埴 (_chik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 跖 under _chek_ (zek3) here. Williams does not provide separate entries for 跖 and 蹠. I have split things up accordingly."
+"text":"U+8DD6 蹠 zik3 (alternative) (F1.78 跖) 盗跖秦之大盗 (F1.78 蹠) 同上又脚掌也又踐履也 (Page 14* before 隻) (The three next characters (隻, 蹠跖, 炙) are usually pronounced _chek_ (zek).) (Page 14* 蹠跖 _Chik_ (zik6); _Chek_ (zek6) implied by variational note; here corrected to _Chek_ (zek3)) the sole of the foot (Kangxi 跖: 足下); metatarsus of birds; _to chek_ (dou6 zek3 盜跖) a ``tyrannical`` leader of thieves~~, a certain Robin Hood~~ in the ~~days of Ts'in (秦)~~ ``Spring and Autumn``. Williams has been misled by Fan Wan's placement of the series 跖蹠拓隻炙 (_chik_) *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 跖 is read 陽入 _chik_ (zik6). However, since Fan Wan has a separate series for 直値殖植稙湜埴 (_chik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 跖 under _chek_ (zek3) here. Williams does not provide separate entries for 跖 and 蹠. I have split things up accordingly."
 }
 },
 "蹐":{
@@ -10642,7 +10642,7 @@
 "蹠":{
 "zek3":{
 "isCanonical":true,
-"text":"U+8E60 zik3 (alternative) (F1.78 跖) 盗跖秦之大盗 (F1.78 蹠) 同上又脚掌也又踐履也 (Page 14* before 隻) (The three next characters (隻, 蹠跖, 炙) are usually pronounced _chek_ (zek).) (Page 14* 蹠~~跖~~ _Chik_ (zik6); _Chek_ (zek6) implied by variational note; here corrected to _Chek_ (zek3)) To tread on (Kangxi: 足履踐也, 蹠蹈也, 蹠踐也); to leap (Kangxi: 楚人謂跳躍曰蹠); Williams has been misled by Fan Wan's placement of the series 跖蹠拓隻炙 (_chik_) *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 蹠 is read 陽入 _chik_ (zik6). However, since Fan Wan has a separate series for 直値殖植稙湜埴 (_chik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 蹠 under _chek_ (zek3) here. Williams does not provide separate entries for 跖 and 蹠. I have split things up accordingly. To go unto (Kangxi: 蹠適也)."
+"text":"U+8E60 zik3 (alternative) (F1.78 跖) 盗跖秦之大盗 (F1.78 蹠) 同上又脚掌也又踐履也 (Page 14* before 隻) (The three next characters (隻, 蹠跖, 炙) are usually pronounced _chek_ (zek).) (Page 14* 蹠~~跖~~ _Chik_ (zik6); _Chek_ (zek6) implied by variational note; here corrected to _Chek_ (zek3)) To tread on (Kangxi 蹠: 足履踐也, 蹠蹈也, 蹠踐也); to leap (Kangxi 蹠: 楚人謂跳躍曰蹠); Williams has been misled by Fan Wan's placement of the series 跖蹠拓隻炙 (_chik_) *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 蹠 is read 陽入 _chik_ (zik6). However, since Fan Wan has a separate series for 直値殖植稙湜埴 (_chik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 蹠 under _chek_ (zek3) here. Williams does not provide separate entries for 跖 and 蹠. I have split things up accordingly. To go unto (Kangxi: 蹠適也)."
 }
 },
 "隻":{
@@ -11136,7 +11136,7 @@
 },
 "zeon6":{
 "isCanonical":true,
-"text":"U+76E1 尽 䀆 (F2.54 盡) 空也竭也終也悉也 (F2.54 尽) 同上 (Page 602 盡尽) An empty vessel (Kangxi: 器中空也); to exhaust, to use all (Kangxi: 竭也); ~~to indulge, as one's grief;~~ a quantity used up, a work brought to an end; made an end of (Kangxi: 止也, 終也), as life; finished, achieved, empty, exhausted; all, entirely, fully, wholly (Kangxi: 悉也); to do to the utmost, with the whole of; a superlative, the uttermost, extreme; _tsun ngo sam_ (zeon6 ngo5 sam1 盡我心), obeying with my whole heart; _tsun ti kom to_ (zeon6 dei6-2 gam3 do1 盡地咁多), there's only so much; _tsun ti tso_ (zeon6 dei6-2 zou6 盡地做) ~~use it all up then~~ ``do to the extent possible``; _yung tsun sam ki_ (jung6 zeon6 sam1 gei1 用盡心機), employing all my abilities; _ka ts'oi san tsun_ (gaa1 coi4 saan3 zeon6 家財散盡) the whole estate is dissipated; _shat ko tsun tsut_ (saat3 go3 zeon6 zyut6 殺個盡絕) slew them all; _tsun ut_ (zeon6 jyut6 盡月) the twelfth month; _tsun ut pi ni_ (zeon6 jyut6 bei2 nei5 盡月畀你), I'll pay you at the ~~at the~~ month's end; _kom tse pat tsun_ (gam2 ze6 bat1 zeon6 感謝不盡) I cannot express all my thanks; _tsun chik_ (zeon6 zik1 盡職) to perform one's official duties fully; _hang tsun_ (haang4 zeon6 行盡) gone through the whole, gone all over; _tsun ni po_ (zeon6 ni1 bou1 盡呢煲), try this one chance; one chance left; _tsun hai shui tsik_ (zeon6 hai6 seoi2 zik1 盡係水漬) all are water-soaked; _tsz' tsun_ (zi6 zeon6 自盡) put an end to himself; _tsun t'au_ (zeon6 tau4 盡頭), gone to the end, at the extreme; _mo k'ung tsun_ (mou4 kung4 zeon6 無窮盡) inexhaustible; _tsun tsit_ (zeon6 zit3 盡節) died a martyr to chastity. Williams' 行盡: Changed _hang_ (hang4) to vernacular reading _hang_ (haang4). 【盡-voiced】 (dzinX) (_verb-like_) to exhaust, to complete 【盡地】 (zeon6 dei6-2) Fully, to the extent possible, all in."
+"text":"U+76E1 尽 䀆 (F2.54 盡) 空也竭也終也悉也 (F2.54 尽) 同上 (Page 602 盡尽) An empty vessel (Kangxi 盡: 器中空也); to exhaust, to use all (Kangxi 盡: 竭也); ~~to indulge, as one's grief;~~ a quantity used up, a work brought to an end; made an end of (Kangxi 盡: 止也, 終也), as life; finished, achieved, empty, exhausted; all, entirely, fully, wholly (Kangxi 盡: 悉也); to do to the utmost, with the whole of; a superlative, the uttermost, extreme; _tsun ngo sam_ (zeon6 ngo5 sam1 盡我心), obeying with my whole heart; _tsun ti kom to_ (zeon6 dei6-2 gam3 do1 盡地咁多), there's only so much; _tsun ti tso_ (zeon6 dei6-2 zou6 盡地做) ~~use it all up then~~ ``do to the extent possible``; _yung tsun sam ki_ (jung6 zeon6 sam1 gei1 用盡心機), employing all my abilities; _ka ts'oi san tsun_ (gaa1 coi4 saan3 zeon6 家財散盡) the whole estate is dissipated; _shat ko tsun tsut_ (saat3 go3 zeon6 zyut6 殺個盡絕) slew them all; _tsun ut_ (zeon6 jyut6 盡月) the twelfth month; _tsun ut pi ni_ (zeon6 jyut6 bei2 nei5 盡月畀你), I'll pay you at the ~~at the~~ month's end; _kom tse pat tsun_ (gam2 ze6 bat1 zeon6 感謝不盡) I cannot express all my thanks; _tsun chik_ (zeon6 zik1 盡職) to perform one's official duties fully; _hang tsun_ (haang4 zeon6 行盡) gone through the whole, gone all over; _tsun ni po_ (zeon6 ni1 bou1 盡呢煲), try this one chance; one chance left; _tsun hai shui tsik_ (zeon6 hai6 seoi2 zik1 盡係水漬) all are water-soaked; _tsz' tsun_ (zi6 zeon6 自盡) put an end to himself; _tsun t'au_ (zeon6 tau4 盡頭), gone to the end, at the extreme; _mo k'ung tsun_ (mou4 kung4 zeon6 無窮盡) inexhaustible; _tsun tsit_ (zeon6 zit3 盡節) died a martyr to chastity. Williams' 行盡: Changed _hang_ (hang4) to vernacular reading _hang_ (haang4). 【盡-voiced】 (dzinX) (_verb-like_) to exhaust, to complete 【盡地】 (zeon6 dei6-2) Fully, to the extent possible, all in."
 }
 },
 "藎":{
@@ -11178,7 +11178,7 @@
 "晉":{
 "zeon3":{
 "isCanonical":true,
-"text":"U+6649 晋 (F2.54 晉) 進也又國名又卦名 (F2.54 晋) 同上 (Page 602 晉晋) To increase, to flourish, to grow, as the sun makes all things (Kangxi: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義); to curb in a horse (Kangxi: 晉猶抑也); name of a dynasty, divided into the Western and Eastern Tsin, A.D. 265--419; a feudal state (Kangxi: 國名), now the southern part of Shansi (山西). To rise, to promote. A surname (Kangxi: 姓). 【晉】 (tsinH) (_verb-like_) to advance"
+"text":"U+6649 晋 (F2.54 晉) 進也又國名又卦名 (F2.54 晋) 同上 (Page 602 晉晋) To increase, to flourish, to grow, as the sun makes all things (Kangxi 晉: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義); to curb in a horse (Kangxi 晉: 晉猶抑也); name of a dynasty, divided into the Western and Eastern Tsin, A.D. 265--419; a feudal state (Kangxi 晉: 國名), now the southern part of Shansi (山西). To rise, to promote. A surname (Kangxi: 姓). 【晉】 (tsinH) (_verb-like_) to advance"
 }
 },
 "朘":{
@@ -11194,7 +11194,7 @@
 "浚":{
 "zeon3":{
 "isCanonical":true,
-"text":"U+6D5A 濬 (for \"deep\", \"dig\", and proper-name senses) (F2.54 浚) 深也 (F2.54 濬) 同上 (Page 602 浚濬) Deep, profound (Kangxi: 深也), as water; to dig a channel, to deepen a water-course; deep, serious, as reverence (Kangxi: 稟浚敬也); abstruse; well read; to use part of, to employ (Kangxi: 抒也, 抒取出之也); a district in Honan (河南); _tsun tseng_ (zeon3 zeng2 浚井), to deepen a well. Some modern Cantonese dictionaries prescribe the reading seon3 for the proper-name sense of 浚, presumably per 《廣韻》私閏切. To me, it does not make sense for *only* the proper-name sense to get this treatment, when 《廣韻》 also has 私閏切 for 濬, explained 深也. 【浚】 (swinH) (_verb-like_) to scoop (_adjective-like_) deep"
+"text":"U+6D5A 濬 (for \"deep\", \"dig\", and proper-name senses) (F2.54 浚) 深也 (F2.54 濬) 同上 (Page 602 浚濬) Deep, profound (Kangxi 浚: 深也), as water; to dig a channel, to deepen a water-course; deep, serious, as reverence (Kangxi 浚: 稟浚敬也); abstruse; well read; to use part of, to employ (Kangxi 浚: 抒也, 抒取出之也); a district in Honan (河南); _tsun tseng_ (zeon3 zeng2 浚井), to deepen a well. Some modern Cantonese dictionaries prescribe the reading seon3 for the proper-name sense of 浚, presumably per 《廣韻》私閏切. To me, it does not make sense for *only* the proper-name sense to get this treatment, when 《廣韻》 also has 私閏切 for 濬, explained 深也. 【浚】 (swinH) (_verb-like_) to scoop (_adjective-like_) deep"
 }
 },
 "濬":{
@@ -11306,7 +11306,7 @@
 "孳":{
 "zi1":{
 "isCanonical":true,
-"text":"U+5B73 孶 (F2.34 孳) 生息也亦作孜 (Page 611 孶; here normalised to 孳) To bear, to produce (Kangxi: 孳息也); to suckle, to nourish, said of animals; to grow, to increase (Kangxi 孳: 汲汲生也); ardent, affectionate, loving; strong love, like a mother's; _tsz' sik_ (zi1 sik1 孳息) to bear young; _man mat tsz' shang_ (maan6 mat6 zi1 sang1 萬物孳生), all things gradually multiply. 【孳-level】 (tsi) (_verb-like_) to breed, to multiply"
+"text":"U+5B73 孶 (F2.34 孳) 生息也亦作孜 (Page 611 孶; here normalised to 孳) To bear, to produce (Kangxi 孳: 孳息也); to suckle, to nourish, said of animals; to grow, to increase (Kangxi 孳: 汲汲生也); ardent, affectionate, loving; strong love, like a mother's; _tsz' sik_ (zi1 sik1 孳息) to bear young; _man mat tsz' shang_ (maan6 mat6 zi1 sang1 萬物孳生), all things gradually multiply. 【孳-level】 (tsi) (_verb-like_) to breed, to multiply"
 },
 "zi6":{
 "isCanonical":true,
@@ -11426,11 +11426,11 @@
 "菑":{
 "zi1":{
 "isCanonical":true,
-"text":"U+83D1 甾 葘 (F2.34 菑) 田一歲曰菑始反草也 (Page 611 甾菑) ~~Waste, untilled land, overgrown, jungly (Kangxi: 不耕田也);~~ to clear new or waste land; ground under cultivation one year (Kangxi: 田一歲曰葘); to open a road; Strictly, the pre-merger reading should be _chi_ per 《廣韻》側持切. Fan Wan entry: Corrected 革 to 草. 【菑-level】 (tsri) (_noun-like_) new-tillage (_verb-like_) to till newly"
+"text":"U+83D1 甾 葘 (F2.34 菑) 田一歲曰菑始反草也 (Page 611 甾菑) ~~Waste, untilled land, overgrown, jungly (Kangxi 菑: 不耕田也);~~ to clear new or waste land; ground under cultivation one year (Kangxi 菑: 田一歲曰葘); to open a road; Strictly, the pre-merger reading should be _chi_ per 《廣韻》側持切. Fan Wan entry: Corrected 革 to 草. 【菑-level】 (tsri) (_noun-like_) new-tillage (_verb-like_) to till newly"
 },
 "zi3":{
 "isCanonical":true,
-"text":"U+83D1 葘 (Page 611 ~~甾~~菑 _Tsz'_ (zi1); here corrected to _Chi_ and _Tsz'_ (zi3)) to cut, to rend (Kangxi: 剖也裂也); a dead tree still standing (Kangxi: 木立死曰葘). In terms of pre-merger readings: The \"dead-tree\" sense is _chi_ per Kangxi 側吏切; and The \"cut/rend\" sense is _tsz'_ per Kangxi 資四切. 【菑-departing】 (tsriH) (_noun-like_) standing-dead-tree"
+"text":"U+83D1 葘 (Page 611 ~~甾~~菑 _Tsz'_ (zi1); here corrected to _Chi_ and _Tsz'_ (zi3)) to cut, to rend (Kangxi 菑: 剖也裂也); a dead tree still standing (Kangxi 菑: 木立死曰葘). In terms of pre-merger readings: The \"dead-tree\" sense is _chi_ per Kangxi 側吏切; and The \"cut/rend\" sense is _tsz'_ per Kangxi 資四切. 【菑-departing】 (tsriH) (_noun-like_) standing-dead-tree"
 },
 "zoi1":{
 "isCanonical":false,
@@ -11758,7 +11758,7 @@
 "置":{
 "zi3":{
 "isCanonical":true,
-"text":"U+7F6E May appear with bottom component as the right component of 値 or 值 (assumed here), depending on the font. 寘 植 (F1.41 置) 立也又安厝也又棄也 (F1.41 寘) 同上 (Page 9* 置寘) To make firm, to establish (Kangxi: 立也, 設也), to place; to appoint; to arrange (Kangxi: 安置也); to purchase for one's self; ~~to employ;~~ to reject, to dismiss (Kangxi: 赦也, ...與罷同意置之則去之也); to put aside; to determine, to judge, to decide; _ch'u chi_ (cyu2 zi3 處置) to punish, treat as a criminal; _chi pan_ (zi3 baan6 置辦) to buy; _chi ka_ (zi3 gaa1 置家), to take a wife; _on chi_ (on1 zi3 安置) to arrange a place for, as to spend the night; _fai chi_ (fai3 zi3 廢置) to refuse, to remove; _chi shan sz' ngoi_ (zi3 san1 si6 ngoi6 置身事外) it is none of my business; _nim nim pat chi_ (nim6 nim6 bat1 zi3 念念不置) unceasingly thinking of it; _chi shan mo ti_ (zi3 san1 mou4 dei6 置身無地) ashamed, no place to hide myself. (Page 13* 植 _Chik_ (zik6); here corrected to _Chi_ (zi3)) to place, to lay down (Kangxi 植: 通置); A relay station for horses (Kangxi: 置若今之驛也). 【置】 (triH) (_verb-like_) to put, to set 【寘】 (tsyeH) (_verb-like_) to put"
+"text":"U+7F6E May appear with bottom component as the right component of 値 or 值 (assumed here), depending on the font. 寘 植 (F1.41 置) 立也又安厝也又棄也 (F1.41 寘) 同上 (Page 9* 置寘) To make firm, to establish (Kangxi 置: 立也, 設也), to place; to appoint; to arrange (Kangxi 置: 安置也); to purchase for one's self; ~~to employ;~~ to reject, to dismiss (Kangxi 置: 赦也, ...與罷同意置之則去之也); to put aside; to determine, to judge, to decide; _ch'u chi_ (cyu2 zi3 處置) to punish, treat as a criminal; _chi pan_ (zi3 baan6 置辦) to buy; _chi ka_ (zi3 gaa1 置家), to take a wife; _on chi_ (on1 zi3 安置) to arrange a place for, as to spend the night; _fai chi_ (fai3 zi3 廢置) to refuse, to remove; _chi shan sz' ngoi_ (zi3 san1 si6 ngoi6 置身事外) it is none of my business; _nim nim pat chi_ (nim6 nim6 bat1 zi3 念念不置) unceasingly thinking of it; _chi shan mo ti_ (zi3 san1 mou4 dei6 置身無地) ashamed, no place to hide myself. (Page 13* 植 _Chik_ (zik6); here corrected to _Chi_ (zi3)) to place, to lay down (Kangxi 植: 通置); A relay station for horses (Kangxi: 置若今之驛也). 【置】 (triH) (_verb-like_) to put, to set 【寘】 (tsyeH) (_verb-like_) to put"
 }
 },
 "至":{
@@ -11794,7 +11794,7 @@
 "贄":{
 "zi3":{
 "isCanonical":true,
-"text":"U+8D04 摯 質 贽 (Mainland simplified) (F1.41 贄) 初相見之禮物或玉帛或禽鳥 (Page 9* 摯) to present to; used for the next (贄) (Kangxi: 執物以爲相見之禮也與贄質通); (Page 9* 贄) A present to make way for one, given at an audience or first interview, or when entering school; to present gifts; _chi i_ (zi3 ji4 贄儀), presents; _chi kin_ (zi3 gin3 贄見) to visit with a present. 【贄】 (tsyijH) (_noun-like_) first-meeting-gift"
+"text":"U+8D04 摯 質 贽 (Mainland simplified) (F1.41 贄) 初相見之禮物或玉帛或禽鳥 (Page 9* 摯) to present to; used for the next (贄) (Kangxi 摯: 執物以爲相見之禮也與贄質通); (Page 9* 贄) A present to make way for one, given at an audience or first interview, or when entering school; to present gifts; _chi i_ (zi3 ji4 贄儀), presents; _chi kin_ (zi3 gin3 贄見) to visit with a present. 【贄】 (tsyijH) (_noun-like_) first-meeting-gift"
 }
 },
 "躓":{
@@ -11812,7 +11812,7 @@
 "鷙":{
 "zi3":{
 "isCanonical":true,
-"text":"U+9DD9 摯 鸷 (Mainland simplified) (F1.41 鷙) 惡鳥 (Page 9* ~~？~~``鷙``) Birds of prey, accipitrine birds (Kangxi: 擊殺鳥也, 猛鳥也); violent, ruthless, hawklike (Kangxi: 又凡鳥之勇獸之猛者皆曰鷙); ~~to seize by violence.~~ Williams' \"to seize by violence\": This is a misreading of Kangxi 鷙執也. This describes the \"bird-of-prey\" sense as \"a bird that seizeth\". It does not define a verb. 【鷙】 (tsyijH) (_noun-like_) bird-of-prey (_verb-like_) to prey (upon)"
+"text":"U+9DD9 摯 鸷 (Mainland simplified) (F1.41 鷙) 惡鳥 (Page 9* ~~？~~``鷙``) Birds of prey, accipitrine birds (Kangxi 鷙: 擊殺鳥也, 猛鳥也); violent, ruthless, hawklike (Kangxi 鷙: 又凡鳥之勇獸之猛者皆曰鷙); ~~to seize by violence.~~ Williams' \"to seize by violence\": This is a misreading of Kangxi 鷙執也. This describes the \"bird-of-prey\" sense as \"a bird that seizeth\". It does not define a verb. 【鷙】 (tsyijH) (_noun-like_) bird-of-prey (_verb-like_) to prey (upon)"
 }
 },
 "伺":{
@@ -11824,7 +11824,7 @@
 "俟":{
 "zi6":{
 "isCanonical":true,
-"text":"U+4FDF 竢 (F2.35 俟) 待也候也 (Page 614 俟竢) To wait, to stay (Kangxi: 待也); to wait upon; to expect, to look for, to hope; to prepare for; until, expecting; _tsz' hau_ (zi6 hau6 俟候) waiting for; _lap tsz' ui yam_ (lap6 zi6 wui4 jam1 立俟回音), wait for an answer; _tsz' ha ut_ (zi6 haa6 jyut6 俟下月) till next month. Strictly, the pre-merger reading should be _chi_ per 《廣韻》牀史切. Used in 俟俟 (walking slowly in a large group) (Kangxi: 俟俟衆多徐行貌). 【俟】 (zriX) (_verb-like_) to await (_adjective-like_) ambling together"
+"text":"U+4FDF 竢 (F2.35 俟) 待也候也 (Page 614 俟竢) To wait, to stay (Kangxi 俟: 待也); to wait upon; to expect, to look for, to hope; to prepare for; until, expecting; _tsz' hau_ (zi6 hau6 俟候) waiting for; _lap tsz' ui yam_ (lap6 zi6 wui4 jam1 立俟回音), wait for an answer; _tsz' ha ut_ (zi6 haa6 jyut6 俟下月) till next month. Strictly, the pre-merger reading should be _chi_ per 《廣韻》牀史切. Used in 俟俟 (walking slowly in a large group) (Kangxi: 俟俟衆多徐行貌). 【俟】 (zriX) (_verb-like_) to await (_adjective-like_) ambling together"
 }
 },
 "値":{
@@ -11862,7 +11862,7 @@
 "寺":{
 "zi6":{
 "isCanonical":true,
-"text":"U+5BFA 䦙 zi6-2 (vernacular rising-tone noun) (F2.36 寺) 僧舍也又官名如大理寺之類又寺人閹宦也 (F2.36 䦙) 亦作寺閹宦也 (Page 614 寺) An official residence, chambers about a court; a court, an office, a hall (Kangxi: 廷也有法度者也); an eunuch (Kangxi: 宦寺); a monastery, a Budhist temple (Kangxi: ...後名浮屠所居皆曰寺); Budhists; _tsz' mun_ (zi6 mun4 寺門), Budhists; _yap tsz'_ (jap6 zi6-2 入寺) to become a priest; _tai li tsz'_ (daai6 lei5 zi6-2 大理寺) the Court of Appeal at Peking (北京); _tsz' shing_ (zi6 sing4 寺丞), chief clerk in a court; _yau tsz'_ (jau4 zi6 遊寺) to be changed from one office to another; to saunter in a monastery. ~~Used for the next (䦙).~~ (Page 614 䦙; here normalised to 寺) A court, a hall where officers hold sittings (Kangxi 䦙: 廷也有法度者也本作寺); an eunuch (Kangxi: 宦寺); a chamberlain, an officer in waiting; _tsz' yan_ (zi6 jan4 寺人), an eunuch. 【寺】 (ziH) (_noun-like_) court, (_met._) eunuch (_noun-like_) temple Used in 寺人. 【寺人】 (ziH nyin) (_noun-like_) eunuch"
+"text":"U+5BFA 䦙 zi6-2 (vernacular rising-tone noun) (F2.36 寺) 僧舍也又官名如大理寺之類又寺人閹宦也 (F2.36 䦙) 亦作寺閹宦也 (Page 614 寺) An official residence, chambers about a court; a court, an office, a hall (Kangxi: 廷也有法度者也); an eunuch (Kangxi: 宦寺); a monastery, a Budhist temple (Kangxi: ...後名浮屠所居皆曰寺); Budhists; _tsz' mun_ (zi6 mun4 寺門), Budhists; _yap tsz'_ (jap6 zi6-2 入寺) to become a priest; _tai li tsz'_ (daai6 lei5 zi6-2 大理寺) the Court of Appeal at Peking (北京); _tsz' shing_ (zi6 sing4 寺丞), chief clerk in a court; _yau tsz'_ (jau4 zi6 遊寺) to be changed from one office to another; to saunter in a monastery. ~~Used for the next (䦙).~~ (Page 614 䦙; here normalised to 寺) A court, a hall where officers hold sittings (Kangxi 䦙: 廷也有法度者也本作寺); an eunuch (Kangxi 寺: 宦寺); a chamberlain, an officer in waiting; _tsz' yan_ (zi6 jan4 寺人), an eunuch. 【寺】 (ziH) (_noun-like_) court, (_met._) eunuch (_noun-like_) temple Used in 寺人. 【寺人】 (ziH nyin) (_noun-like_) eunuch"
 }
 },
 "巳":{
@@ -11964,7 +11964,7 @@
 "飼":{
 "zi6":{
 "isCanonical":true,
-"text":"U+98FC 飤 饲 (Mainland simplified) (F2.35 飼) 以食食人也 (Page 614 飤飼) To feed, to nourish (Kangxi: 以食食人也); to set food before; to rear, as animals; feed, provisions, eatables (Kangxi 飤: 糧也, 食也與飼同)."
+"text":"U+98FC 飤 饲 (Mainland simplified) (F2.35 飼) 以食食人也 (Page 614 飤飼) To feed, to nourish (Kangxi 飤: 以食食人也); to set food before; to rear, as animals; feed, provisions, eatables (Kangxi 飤: 糧也, 食也與飼同)."
 }
 },
 "勣":{
@@ -12108,7 +12108,7 @@
 "籍":{
 "zik6":{
 "isCanonical":true,
-"text":"U+7C4D 藉 (F1.78 籍) 書籍典籍又册籍也 (Page 570 ~~？~~``籍``) A book for records (Kangxi: 書籍)~~, a tablet~~; a list, a register of the people (Kangxi: 戸籍); the place for enroling, one's native place; _shu tsik_ (syu1 zik6 書籍) books; _ui tsik_ (wui4 zik6 回籍) to return to one's home; _un tsik_ (jyun4 zik6 原籍) place where one's family originated; _lok tsik_ (lok6 zik6 落籍) to be registered; _sheung tsik_ (soeng1 zik6 雙籍) enrolled in two places; _mo tsik yau man_ (mou4 zik6 jau4 man4 無籍遊民), vagrants, gypsey-like, without origin. Williams' 雙籍: Now 雙重國籍 for \"dual nationality\". Land tax (Kangxi: 租籍). (The emperor) personally tilling the field (Kangxi: 籍田 etc.). A surname (Kangxi: 姓). 【籍】 (dzjek) (_noun-like_) register, book (_adjective-like_) personally-tilled"
+"text":"U+7C4D 藉 (F1.78 籍) 書籍典籍又册籍也 (Page 570 ~~？~~``籍``) A book for records (Kangxi 籍: 書籍)~~, a tablet~~; a list, a register of the people (Kangxi 籍: 戸籍); the place for enroling, one's native place; _shu tsik_ (syu1 zik6 書籍) books; _ui tsik_ (wui4 zik6 回籍) to return to one's home; _un tsik_ (jyun4 zik6 原籍) place where one's family originated; _lok tsik_ (lok6 zik6 落籍) to be registered; _sheung tsik_ (soeng1 zik6 雙籍) enrolled in two places; _mo tsik yau man_ (mou4 zik6 jau4 man4 無籍遊民), vagrants, gypsey-like, without origin. Williams' 雙籍: Now 雙重國籍 for \"dual nationality\". Land tax (Kangxi: 租籍). (The emperor) personally tilling the field (Kangxi: 籍田 etc.). A surname (Kangxi: 姓). 【籍】 (dzjek) (_noun-like_) register, book (_adjective-like_) personally-tilled"
 }
 },
 "藉":{
@@ -12134,7 +12134,7 @@
 },
 "zim3":{
 "isCanonical":true,
-"text":"U+5360 佔 (F2.50 占) 霸占擅據也 (Page 16* 占佔) To usurp, to seize, to take forcibly (Kangxi: 固有也, 擅據也著位也); to assume, to arrogate, to take the liberty; to possess (Kangxi: 有也); _pa chim_ (baa3 zim3 霸占) to take possession of; _chim sin hu_ (zim3 sin1 heoi3 占先去) to assume precedence; _chim siu shin_ (zim3 siu2 sin6 占小善) ~~to praise one's self;~~ _chim p'in i_ (zim3 pin4 ji4-2 占便宜), to take what one likes, to assume more for one's self; _chim shan fan_ (zim3 san1 fan6 占身份) to regard one's place, to exercise one's rights. The second character (佔) is commonly but incorrectly used in this sense. Fan Wan entry: Corrected illegible character to 據. Williams' \"to praise one's self\": This is a misreading of 占小善 from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered \"they that possess even a little quality are all employed\". Williams' \"incorrectly used\": The form 佔 is \"incorrect\" to the extent that, in classical usage, it is an alternative form of 覘 rather than departing-tone 占. See 覘 zim1. 【占-departing】 (tsyemH) (_verb-like_) to occupy (_verb-like_) to possess"
+"text":"U+5360 佔 (F2.50 占) 霸占擅據也 (Page 16* 占佔) To usurp, to seize, to take forcibly (Kangxi: 固有也, 擅據也著位也); to assume, to arrogate, to take the liberty; to possess (Kangxi 占: 有也); _pa chim_ (baa3 zim3 霸占) to take possession of; _chim sin hu_ (zim3 sin1 heoi3 占先去) to assume precedence; _chim siu shin_ (zim3 siu2 sin6 占小善) ~~to praise one's self;~~ _chim p'in i_ (zim3 pin4 ji4-2 占便宜), to take what one likes, to assume more for one's self; _chim shan fan_ (zim3 san1 fan6 占身份) to regard one's place, to exercise one's rights. The second character (佔) is commonly but incorrectly used in this sense. Fan Wan entry: Corrected illegible character to 據. Williams' \"to praise one's self\": This is a misreading of 占小善 from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered \"they that possess even a little quality are all employed\". Williams' \"incorrectly used\": The form 佔 is \"incorrect\" to the extent that, in classical usage, it is an alternative form of 覘 rather than departing-tone 占. See 覘 zim1. 【占-departing】 (tsyemH) (_verb-like_) to occupy (_verb-like_) to possess"
 }
 },
 "尖":{
@@ -12362,7 +12362,7 @@
 "譾":{
 "zin2":{
 "isCanonical":true,
-"text":"U+8B7E 謭 谫 (Mainland simplified) (F1.22 謭) 謭劣粗也陋也 (Page 573 謭; here normalised to 譾) Shallow-pated, superficial, not profound; unskilled, shallow, not deep (Kangxi: 淺也); _ts'oi tsin_ (coi4 zin2 材譾), mediocre, of small capacity; _tsin lut_ (zin2 lyut6 譾劣) mean, insignificant. Williams' 譾劣: Changed _lut_ (lyut3) to _lut_ (lyut6)."
+"text":"U+8B7E 謭 谫 (Mainland simplified) (F1.22 謭) 謭劣粗也陋也 (Page 573 謭; here normalised to 譾) Shallow-pated, superficial, not profound; unskilled, shallow, not deep (Kangxi 譾: 淺也); _ts'oi tsin_ (coi4 zin2 材譾), mediocre, of small capacity; _tsin lut_ (zin2 lyut6 譾劣) mean, insignificant. Williams' 譾劣: Changed _lut_ (lyut3) to _lut_ (lyut6)."
 }
 },
 "輾":{
@@ -12386,7 +12386,7 @@
 "洊":{
 "zin3":{
 "isCanonical":true,
-"text":"U+6D0A 瀳 zin6 (per 《廣韻》在甸切) (F1.23 洊) 重復也 (Page 573 洊) ~~Water flowing on;~~ a stream bursting forth again; repeated (Kangxi 洊: 通薦); _tsin lik_ (zin3 lik6 洊歷) successively. Water arriving (Kangxi 瀳: 水至也)."
+"text":"U+6D0A 瀳 zin6 (per 《廣韻》在甸切) (F1.23 洊) 重復也 (Page 573 洊) ~~Water flowing on;~~ a stream bursting forth again; repeated (Kangxi: 通薦); _tsin lik_ (zin3 lik6 洊歷) successively. Water arriving (Kangxi 瀳: 水至也)."
 }
 },
 "牮":{
@@ -12672,7 +12672,7 @@
 "浙":{
 "zit3":{
 "isCanonical":true,
-"text":"U+6D59 (F1.25 浙) 浙江 (Page 23* ~~淅~~``浙``) A river (Kangxi: 江名) in Chehkiang (浙江), called _Chit shui_ (zit3 seoi2 浙水), from which the province is named."
+"text":"U+6D59 (F1.25 浙) 浙江 (Page 23* ~~淅~~``浙``) A river (Kangxi 浙: 江名) in Chehkiang (浙江), called _Chit shui_ (zit3 seoi2 浙水), from which the province is named."
 }
 },
 "癤":{
@@ -12760,7 +12760,7 @@
 "照":{
 "ziu3":{
 "isCanonical":true,
-"text":"U+7167 炤 (F2.6 照) 明也燭也 (F2.6 炤) 同上 (Page 24* 照炤) Light; to illuminate, to brighten, to shine on (Kangxi: 明所燭也); to patronize, to regard, to care for, to oversee, to assist; conformably to, as, according to, like, same as; _chiu keng_ (ziu3 geng3 照鏡) to look in a glass; _chiu shan keng_ (ziu3 san1 geng3 照身鏡) a pier-glass; _chiu pik_ (ziu3 bik1 照壁) a wall opposite offices or temples; _ko chiu_ (gou1 ziu3 高照) a high lantern used to lead processions; _fan chiu_ (faan2 ziu3 反照) reflected light; reillumined; to shine again; _chiu ku_ (ziu3 gu3 照顧) to assist, to patronize, to buy of; _chiu yeung tso_ (ziu3 joeng6-2 zou6 照樣做) make it like the pattern; _chiu sz' hang sz'_ (ziu3 si6 hang4 si6 照事行事) do what you've begun; _ta chiu min_ (daa2 ziu3 min6 打照面) catch a glimpse of; _chiu i k'u_ (ziu3 ji1 keoi5 照依佢), do as he does; _chiu chu k'u_ (ziu3 zyu6 keoi5 照住佢), light him with a lantern; _chiu kin ni ke sam kon_ (ziu3 gin3 nei5 ge3 sam1 gon1 照見你嘅心肝), I can see through your design. To reflect. To inform. (_adverb_) Still (used to describe an action being done despite reasons against it). 【照】 (tsyewH) (_verb-like_) to illume 【照計】 (ziu3 gai3) Used to emphasise an expectation associated with normal or unexceptional circumstances."
+"text":"U+7167 炤 (F2.6 照) 明也燭也 (F2.6 炤) 同上 (Page 24* 照炤) Light; to illuminate, to brighten, to shine on (Kangxi 照: 明所燭也); to patronize, to regard, to care for, to oversee, to assist; conformably to, as, according to, like, same as; _chiu keng_ (ziu3 geng3 照鏡) to look in a glass; _chiu shan keng_ (ziu3 san1 geng3 照身鏡) a pier-glass; _chiu pik_ (ziu3 bik1 照壁) a wall opposite offices or temples; _ko chiu_ (gou1 ziu3 高照) a high lantern used to lead processions; _fan chiu_ (faan2 ziu3 反照) reflected light; reillumined; to shine again; _chiu ku_ (ziu3 gu3 照顧) to assist, to patronize, to buy of; _chiu yeung tso_ (ziu3 joeng6-2 zou6 照樣做) make it like the pattern; _chiu sz' hang sz'_ (ziu3 si6 hang4 si6 照事行事) do what you've begun; _ta chiu min_ (daa2 ziu3 min6 打照面) catch a glimpse of; _chiu i k'u_ (ziu3 ji1 keoi5 照依佢), do as he does; _chiu chu k'u_ (ziu3 zyu6 keoi5 照住佢), light him with a lantern; _chiu kin ni ke sam kon_ (ziu3 gin3 nei5 ge3 sam1 gon1 照見你嘅心肝), I can see through your design. To reflect. To inform. (_adverb_) Still (used to describe an action being done despite reasons against it). 【照】 (tsyewH) (_verb-like_) to illume 【照計】 (ziu3 gai3) Used to emphasise an expectation associated with normal or unexceptional circumstances."
 }
 },
 "詔":{
@@ -12816,7 +12816,7 @@
 "俎":{
 "zo2":{
 "isCanonical":true,
-"text":"U+4FCE 爼 (F2.60 爼) 爼豆祭器 (Page 25* 爼; here normalised to 俎) A basin or bowl like a tripod, used in sacrifice (Kangxi: 祭享之器); _cho tau_ (zo2 dau6 俎豆) a basin used in worship. A small table (Kangxi: 俎几也). A chopping board (Kangxi: 刀俎, 俎椹版也). 【俎】 (tsrjoX) (_noun-like_) sacrificial-stand"
+"text":"U+4FCE 爼 (F2.60 爼) 爼豆祭器 (Page 25* 爼; here normalised to 俎) A basin or bowl like a tripod, used in sacrifice (Kangxi 俎: 祭享之器); _cho tau_ (zo2 dau6 俎豆) a basin used in worship. A small table (Kangxi: 俎几也). A chopping board (Kangxi: 刀俎, 俎椹版也). 【俎】 (tsrjoX) (_noun-like_) sacrificial-stand"
 }
 },
 "咗":{
@@ -13282,7 +13282,7 @@
 "妝":{
 "zong1":{
 "isCanonical":true,
-"text":"U+599D 粧 裝 妆 (Mainland simplified) (F1.95 粧) 粧飾又嫁粧 (F1.95 妝) 同上 (Page 27* 粧妝) To adorn (Kangxi: 飾也) the head; ornamented, dressed; to dress; to rouge, to adorn; to feign, to appear in false guise; _sho chong_ (so1 zong1 梳妝), to dress the hair; _chong pan_ (zong1 baan6 妝扮) the dress, the style; _chong pan hi lai_ (zong1 baan6 hei2 lai4 妝扮起嚟), her toilet is made; _im chong_ (jim6 zong1 豔妝), elegantly dressed; _chong shik_ (zong1 sik1 妝飾) dressed out, elegant, adorned; _chong lim_ (zong1 lim4 妝奩), or _ka chong_ (gaa3 zong1 嫁妝), a bride's trousseau, or dowry; _sho chong p'un_ (so1 zong1 pun4 梳妝盆), a paper toilette burned to Diana in the 7th moon; _so chong_ (sou3 zong1 素妝), plainly dressed; _chong hong_ (zong1 hong1 妝腔), proud, distant; _yung chong_ (jung4 zong1 濃妝), overdressed, bedizened. (Page 27* 裝) Used for the preceding (妝);"
+"text":"U+599D 粧 裝 妆 (Mainland simplified) (F1.95 粧) 粧飾又嫁粧 (F1.95 妝) 同上 (Page 27* 粧妝) To adorn (Kangxi 妝: 飾也) the head; ornamented, dressed; to dress; to rouge, to adorn; to feign, to appear in false guise; _sho chong_ (so1 zong1 梳妝), to dress the hair; _chong pan_ (zong1 baan6 妝扮) the dress, the style; _chong pan hi lai_ (zong1 baan6 hei2 lai4 妝扮起嚟), her toilet is made; _im chong_ (jim6 zong1 豔妝), elegantly dressed; _chong shik_ (zong1 sik1 妝飾) dressed out, elegant, adorned; _chong lim_ (zong1 lim4 妝奩), or _ka chong_ (gaa3 zong1 嫁妝), a bride's trousseau, or dowry; _sho chong p'un_ (so1 zong1 pun4 梳妝盆), a paper toilette burned to Diana in the 7th moon; _so chong_ (sou3 zong1 素妝), plainly dressed; _chong hong_ (zong1 hong1 妝腔), proud, distant; _yung chong_ (jung4 zong1 濃妝), overdressed, bedizened. (Page 27* 裝) Used for the preceding (妝);"
 }
 },
 "庄":{
@@ -13294,7 +13294,7 @@
 "樁":{
 "zong1":{
 "isCanonical":true,
-"text":"U+6A01 桩 (Mainland simplified) (F1.95 樁) 松樁 (Page 27* ~~？~~``樁``) ~~A club;~~ a post, a stake driven deep into the ground (Kangxi: 橛杙也); _ta chong_ (daa2 zong1 打樁), to drive piles; _ts'ung chong_ (cung4 zong1 松樁), fir piles."
+"text":"U+6A01 桩 (Mainland simplified) (F1.95 樁) 松樁 (Page 27* ~~？~~``樁``) ~~A club;~~ a post, a stake driven deep into the ground (Kangxi 樁: 橛杙也); _ta chong_ (daa2 zong1 打樁), to drive piles; _ts'ung chong_ (cung4 zong1 松樁), fir piles."
 }
 },
 "牂":{
@@ -13342,7 +13342,7 @@
 "贓":{
 "zong1":{
 "isCanonical":true,
-"text":"U+8D13 臧 賍 贜 赃 (Mainland simplified) (F1.95 贓) 非理而得財物曰贓官之貪者曰贓官 (F1.96 賍) 同上 (Page 593 贓賍) Booty, plunder, loot, stolen goods; to receive bribes (Kangxi: 納賄曰贓); ~~to suborn, to bribe;~~ ~~to hide, to secrete~~ ``that which is stored`` (Kangxi: 藏也); _tsong kun_ (zong1 gun1 贓官), an officer who takes bribes; _hi tsong_ (hei2 zong1 起贓), to seize the booty; _tsong mat_ (zong1 mat6 贓物) spoil, things secreted; _t'am tsong_ (taam1 zong1 貪贓), sordid, covetous of bribes; _tso tsong_ (zo6 zong1 坐贓), to take bribes; bribery. Fan Wan entry: Fixed missing final stroke in 財."
+"text":"U+8D13 臧 賍 贜 赃 (Mainland simplified) (F1.95 贓) 非理而得財物曰贓官之貪者曰贓官 (F1.96 賍) 同上 (Page 593 贓賍) Booty, plunder, loot, stolen goods; to receive bribes (Kangxi 贓: 納賄曰贓); ~~to suborn, to bribe;~~ ~~to hide, to secrete~~ ``that which is stored`` (Kangxi 贓: 藏也); _tsong kun_ (zong1 gun1 贓官), an officer who takes bribes; _hi tsong_ (hei2 zong1 起贓), to seize the booty; _tsong mat_ (zong1 mat6 贓物) spoil, things secreted; _t'am tsong_ (taam1 zong1 貪贓), sordid, covetous of bribes; _tso tsong_ (zo6 zong1 坐贓), to take bribes; bribery. Fan Wan entry: Fixed missing final stroke in 財."
 }
 },
 "贜":{
@@ -13366,7 +13366,7 @@
 "葬":{
 "zong3":{
 "isCanonical":true,
-"text":"U+846C 塟 (F1.100 塟) 殯塟理也瘞也 (F1.100 葬) 同上 (Page 593 葬塟) To bury, to inter, to put under the ground (Kangxi: 葬者藏也); _tsong mai_ (zong3 maai4 葬埋), to bury; _sung tsong_ (sung3 zong3 送葬) to carry to the grave; _koi tsong_ (goi2 zong3 改葬) or _ts'in tsong_ (cin1 zong3 遷葬) to change bodies to another grave; _hau tsong_ (hau5 zong3 厚葬) a deep grave; to bury in rich dresses; _fo tsong_ (fo2 zong3 火葬) to burn the dead, cremation; _ko tsong_ (gou2 zong3 稿葬) buried in a mat; _pa k'u kam shang tsong_ (baa2 keoi5 gaam3 saang1 zong3 把佢監生葬) to be buried alive. Fan Wan entry: Corrected ⿸疒圶 to 瘞. Williams' 厚葬: Normalised _hau_ (hau6) to _hau_ (hau5). Williams' 把佢監生葬: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【葬】 (tsangH) (_verb-like_) to inter, to bury"
+"text":"U+846C 塟 (F1.100 塟) 殯塟理也瘞也 (F1.100 葬) 同上 (Page 593 葬塟) To bury, to inter, to put under the ground (Kangxi 葬: 葬者藏也); _tsong mai_ (zong3 maai4 葬埋), to bury; _sung tsong_ (sung3 zong3 送葬) to carry to the grave; _koi tsong_ (goi2 zong3 改葬) or _ts'in tsong_ (cin1 zong3 遷葬) to change bodies to another grave; _hau tsong_ (hau5 zong3 厚葬) a deep grave; to bury in rich dresses; _fo tsong_ (fo2 zong3 火葬) to burn the dead, cremation; _ko tsong_ (gou2 zong3 稿葬) buried in a mat; _pa k'u kam shang tsong_ (baa2 keoi5 gaam3 saang1 zong3 把佢監生葬) to be buried alive. Fan Wan entry: Corrected ⿸疒圶 to 瘞. Williams' 厚葬: Normalised _hau_ (hau6) to _hau_ (hau5). Williams' 把佢監生葬: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【葬】 (tsangH) (_verb-like_) to inter, to bury"
 }
 },
 "撞":{
@@ -13806,7 +13806,7 @@
 "眾":{
 "zung3":{
 "isCanonical":true,
-"text":"U+773E 众 衆 (F1.62 衆) 多也 (F1.62 众) 同上 (Page 40* 衆; here normalised to 眾) A multitude (Kangxi: 多也), a concourse of at least three (Kangxi: 國語三人爲眾數成於三也); ~~a quorum, a majority;~~ a sign of the plural; ~~they;~~ much people, many, all; _chung to_ (zung3 do1 眾多), a great many; _chung muk sho kin_ (zung3 muk6 so2 gin3 眾目所見) every body saw it; _ho chung ti fong_ (hou2 zung3 dei6 fong1 好眾地方), a thickly settled place; _tai chung_ (daai6 zung3 大眾) ~~all of you; the company~~ ``the masses``; _chung yan_ (zung3 jan4 眾人), all men, mankind; _yat chung ~~sang~~ ``tsang``_ (jat1 zung3 zang1 一眾僧), a company of priests; _yat chung_ (jat1 zung3 一眾) one bonze; _chung yeuk_ (zung3 joek3 眾約) all the neighborhoods; _chung i_ (zung3 ji5 眾議), public opinion; _chung wai_ (zung3 wai6-2 眾位) all the gentlemen. Williams' 一眾僧: Changed _sang_ (sang1) to common reading _tsang_ (zang1). The masses, the multitude (Kangxi: 寡者爲人上者也眾者爲人下者也). 【眾】 (tsyuwngH) (_noun-like_) multitude"
+"text":"U+773E 众 衆 (F1.62 衆) 多也 (F1.62 众) 同上 (Page 40* 衆; here normalised to 眾) A multitude (Kangxi 眾: 多也), a concourse of at least three (Kangxi 眾: 國語三人爲眾數成於三也); ~~a quorum, a majority;~~ a sign of the plural; ~~they;~~ much people, many, all; _chung to_ (zung3 do1 眾多), a great many; _chung muk sho kin_ (zung3 muk6 so2 gin3 眾目所見) every body saw it; _ho chung ti fong_ (hou2 zung3 dei6 fong1 好眾地方), a thickly settled place; _tai chung_ (daai6 zung3 大眾) ~~all of you; the company~~ ``the masses``; _chung yan_ (zung3 jan4 眾人), all men, mankind; _yat chung ~~sang~~ ``tsang``_ (jat1 zung3 zang1 一眾僧), a company of priests; _yat chung_ (jat1 zung3 一眾) one bonze; _chung yeuk_ (zung3 joek3 眾約) all the neighborhoods; _chung i_ (zung3 ji5 眾議), public opinion; _chung wai_ (zung3 wai6-2 眾位) all the gentlemen. Williams' 一眾僧: Changed _sang_ (sang1) to common reading _tsang_ (zang1). The masses, the multitude (Kangxi: 寡者爲人上者也眾者爲人下者也). 【眾】 (tsyuwngH) (_noun-like_) multitude"
 }
 },
 "衆":{
@@ -14012,7 +14012,7 @@
 },
 "zyu6":{
 "isCanonical":true,
-"text":"U+7BB8 筯 (F1.49 筯) 快子 (F1.49 箸) 同上 (Page 31* 筯箸) Chopsticks (Kangxi: 匙箸飯具); _nga chu yat tui_ (ngaa4 zyu6 jat1 deoi3 牙箸一對) a pair of ivory chopsticks; _pi chu_ (bei2 zyu6 匕箸) spoons and chopsticks; _pat hom ha chu_ (bat1 ham1 haa6 zyu6 不堪下箸) it is not worth nipping up, uneatable. 【箸】 (drjoH) (_noun-like_) chopsticks 【箸】 (zyu6) Classifier for a chopstickful of long or strand-like food. 夾箸麪 (gaap3 zyu6 min6): \"Take a chopstickful of noodles.\" 留返箸菜 (lau4 faan1 zyu6 coi3): \"Save a chopstickful of vegetables for later.\""
+"text":"U+7BB8 筯 (F1.49 筯) 快子 (F1.49 箸) 同上 (Page 31* 筯箸) Chopsticks (Kangxi 箸: 匙箸飯具); _nga chu yat tui_ (ngaa4 zyu6 jat1 deoi3 牙箸一對) a pair of ivory chopsticks; _pi chu_ (bei2 zyu6 匕箸) spoons and chopsticks; _pat hom ha chu_ (bat1 ham1 haa6 zyu6 不堪下箸) it is not worth nipping up, uneatable. 【箸】 (drjoH) (_noun-like_) chopsticks 【箸】 (zyu6) Classifier for a chopstickful of long or strand-like food. 夾箸麪 (gaap3 zyu6 min6): \"Take a chopstickful of noodles.\" 留返箸菜 (lau4 faan1 zyu6 coi3): \"Save a chopstickful of vegetables for later.\""
 }
 },
 "蛀":{
@@ -14100,7 +14100,7 @@
 },
 "zyun3":{
 "isCanonical":true,
-"text":"U+947D 攢 (for verb senses read zyun1) 鑚 钻 (Mainland simplified) zyun1 (per 《廣韻》借官切 for verb senses) (F2.23 鑽) 尊去聲以鉄爲之所以穿物孔 (Page 604 鑽鑚) An awl, a gimlet, an ~~augur~~ ``auger``, a borer; an instrument for perforating (Kangxi: 所以穿也); ~~point of a weapon;~~ to bore, to pierce, as a sting (Kangxi: 刺也); to worm one's self into, to search into secrets (Kangxi: 凡深入者借用鑽); _tsun ngan_ (zyun3 ngaan5 鑽眼), to bore a hole; _t'it tsun_ (tit3 zyun3 鐵鑽) an awl; _kam kong tsun_ (gam1 gong1 zyun3 金剛鑽) ~~a~~ diamond or corundum ~~borer~~ (Kangxi: 金剛鑽生水底 etc.); _tsun ling_ (zyun3 ling6 鑽？) to seek into, to act wilily; _shing tsun_ (sing1 zyun3 ？鑽) a centre-bit; _tsun lung tsun la_ (zyun3 lung4-1 zyun3 laa3 鑽窿鑽罅) to pry into every nook and corner, to search thoroughly; _chi ma tsun_ (zi1 maa4 zyun3 芝麻鑽) a flaxseed awl,---a skinflint; _man tsz' tsun_ (man4-1 zi2 zyun3 蚊子鑽) a hardhearted villain. Fan Wan entry: Corrected ⿰⿱丿口斤 to 所. Whilst 《廣韻》 has the headline reading 借官切 _tsun_ (zyun1) for 鑚 in the verb sense (explained 刺也), it also has the in-entry alternative 又借玩切 _tsun_ (zyun3). It is unclear whether this is intended as a cross-reference to 子筭切 _tsun_ (zyun3) (explained 錐鑚) as a separate noun sense or as a genuine alternative for the verb sense. Kangxi has: Level-tone 借官切 _tsun_ (zyun1) covering *both* the noun and the verb senses; then Departing-tone 子算切 _tsun_ (zyun3) as 義同 \"synonymous\"; then Some commentary noting that an insistence on distinguishing the verb/noun senses into level/departing tone is 泥 \"clinging unto an outdated tradition\": 《六書故》去聲借貫切穿器也用之穿物曰鑽平聲 《正字通》按以鑿鑿木皆讀昨不聞鑿一音鑿物又一音鑽亦如之必分平去二聲泥 The commentary gives as reasoning the homophony of the noun and verb senses of 鑿 _tsok_ (zok6) \"chisel\". Interestingly, in the vernacular register of Cantonese, one has the option of changing the tone to rising (zok6-2) to explicitly indicate the noun sense of \"chisel\". Pointed weaponry (Kangxi: 鑽謂矛矢及鏃也). Diamond. 【鑽】 (tswan) (_verb-like_) to drill (into)"
+"text":"U+947D 攢 (for verb senses read zyun1) 鑚 钻 (Mainland simplified) zyun1 (per 《廣韻》借官切 for verb senses) (F2.23 鑽) 尊去聲以鉄爲之所以穿物孔 (Page 604 鑽鑚) An awl, a gimlet, an ~~augur~~ ``auger``, a borer; an instrument for perforating (Kangxi 鑽: 所以穿也); ~~point of a weapon;~~ to bore, to pierce, as a sting (Kangxi 鑽: 刺也); to worm one's self into, to search into secrets (Kangxi 鑽: 凡深入者借用鑽); _tsun ngan_ (zyun3 ngaan5 鑽眼), to bore a hole; _t'it tsun_ (tit3 zyun3 鐵鑽) an awl; _kam kong tsun_ (gam1 gong1 zyun3 金剛鑽) ~~a~~ diamond or corundum ~~borer~~ (Kangxi 鑽: 金剛鑽生水底 etc.); _tsun ling_ (zyun3 ling6 鑽？) to seek into, to act wilily; _shing tsun_ (sing1 zyun3 ？鑽) a centre-bit; _tsun lung tsun la_ (zyun3 lung4-1 zyun3 laa3 鑽窿鑽罅) to pry into every nook and corner, to search thoroughly; _chi ma tsun_ (zi1 maa4 zyun3 芝麻鑽) a flaxseed awl,---a skinflint; _man tsz' tsun_ (man4-1 zi2 zyun3 蚊子鑽) a hardhearted villain. Fan Wan entry: Corrected ⿰⿱丿口斤 to 所. Whilst 《廣韻》 has the headline reading 借官切 _tsun_ (zyun1) for 鑚 in the verb sense (explained 刺也), it also has the in-entry alternative 又借玩切 _tsun_ (zyun3). It is unclear whether this is intended as a cross-reference to 子筭切 _tsun_ (zyun3) (explained 錐鑚) as a separate noun sense or as a genuine alternative for the verb sense. Kangxi has: Level-tone 借官切 _tsun_ (zyun1) covering *both* the noun and the verb senses; then Departing-tone 子算切 _tsun_ (zyun3) as 義同 \"synonymous\"; then Some commentary noting that an insistence on distinguishing the verb/noun senses into level/departing tone is 泥 \"clinging unto an outdated tradition\": 《六書故》去聲借貫切穿器也用之穿物曰鑽平聲 《正字通》按以鑿鑿木皆讀昨不聞鑿一音鑿物又一音鑽亦如之必分平去二聲泥 The commentary gives as reasoning the homophony of the noun and verb senses of 鑿 _tsok_ (zok6) \"chisel\". Interestingly, in the vernacular register of Cantonese, one has the option of changing the tone to rising (zok6-2) to explicitly indicate the noun sense of \"chisel\". Pointed weaponry (Kangxi: 鑽謂矛矢及鏃也). Diamond. 【鑽】 (tswan) (_verb-like_) to drill (into)"
 }
 },
 "鱄":{
@@ -14124,7 +14124,7 @@
 "纂":{
 "zyun2":{
 "isCanonical":true,
-"text":"U+7E82 繤 纉 纘 (F2.22 纂) 編緝也 (Page 604 纂~~藄~~) A kind of carnation band or cord (Kangxi: 似組而赤); ~~to connect;~~ to collect together (Kangxi: 一曰集也); to compile a work, to edit, to abridge; a resume, a compend, a digest, a collection, a compilation; _tsun sau_ (zyun2 sau1 纂修), to arrange literary materials; _tsun tsap_ (zyun2 zaap6 纂集) a collectanea; _tsun ts'ap_ (zyun2 cap1 纂緝) to prepare and publish. Fan Wan entry: Corrected ⿰糸⿱巳耳 to 緝. Williams erroneously has 藄 for an alternative form instead of 繤. 【纂】 (tswanX) (_noun-like_) red-band"
+"text":"U+7E82 繤 纉 纘 (F2.22 纂) 編緝也 (Page 604 纂~~藄~~) A kind of carnation band or cord (Kangxi 纂: 似組而赤); ~~to connect;~~ to collect together (Kangxi 纂: 一曰集也); to compile a work, to edit, to abridge; a resume, a compend, a digest, a collection, a compilation; _tsun sau_ (zyun2 sau1 纂修), to arrange literary materials; _tsun tsap_ (zyun2 zaap6 纂集) a collectanea; _tsun ts'ap_ (zyun2 cap1 纂緝) to prepare and publish. Fan Wan entry: Corrected ⿰糸⿱巳耳 to 緝. Williams erroneously has 藄 for an alternative form instead of 繤. 【纂】 (tswanX) (_noun-like_) red-band"
 }
 },
 "纘":{

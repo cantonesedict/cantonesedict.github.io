@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-07-04
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -737,9 +737,9 @@ W
   ====
   - [[Page~52 阜(6)阝]]
     ==
-    - A ``great`` mound or hill of earth [[Kangxi: 大陸曰阜, 山無石者]];
+    - A ``great`` mound or hill of earth [[Kangxi 阜: 大陸曰阜, 山無石者]];
     - ``the 170th~``radical [["mound"]] of elevations, hills, &c.;
-    - great [[Kangxi: 大也]], large [[Kangxi: 肥也]], high, abundant [[Kangxi: 盛也]], numerous [[Kangxi: 多也]];
+    - great [[Kangxi 阜: 大也]], large [[Kangxi 阜: 肥也]], high, abundant [[Kangxi 阜: 盛也]], numerous [[Kangxi 阜: 多也]];
     - _mat(9) fau(6)_
         [[mat6 fau6 物阜]]
         plenty of things;

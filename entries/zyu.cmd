@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -1889,7 +1889,7 @@ W
   ====
   - [[Page~31* 筯(6)箸(6)]]
     ==
-    - Chopsticks [[Kangxi: 匙箸飯具]];
+    - Chopsticks [[Kangxi 箸: 匙箸飯具]];
     - _(4)ng(a/) ch(u:)(6) yat(7) t(u/)i(3)_
         [[ngaa4 zyu6 jat1 deoi3 牙箸一對]]
         a pair of ivory chopsticks;

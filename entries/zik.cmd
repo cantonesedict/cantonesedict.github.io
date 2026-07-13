@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1962,8 +1962,8 @@ W
   ====
   - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::]]
     ==
-    - A book for records [[Kangxi: 書籍]]~~, a tablet~~;
-    - a list, a register of the people [[Kangxi: 戸籍]];
+    - A book for records [[Kangxi 籍: 書籍]]~~, a tablet~~;
+    - a list, a register of the people [[Kangxi 籍: 戸籍]];
     - the place for enroling, one's native place;
     - _(1)sh(u:) tsik(9)_
         [[syu1 zik6 書籍]]

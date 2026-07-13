@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -188,9 +188,9 @@ W
   - [[Page~559 ::~~{？=⿰氵⿱來氺}~~``漆``(7)::]]
     ==
     - Varnish, lacquer;
-    - viscid or resinous juices which can be used in painting [[Kangxi: 木汁可髤物]];
+    - viscid or resinous juices which can be used in painting [[Kangxi 漆: 木汁可髤物]];
     - to paint, to varnish;
-    - black, as lacquer [[Kangxi: 物之黑者曰漆]];
+    - black, as lacquer [[Kangxi 漆: 物之黑者曰漆]];
     - adhesive;
     - exceedingly friendly, doating on;
     - _(4)yau ts(')at(7)_

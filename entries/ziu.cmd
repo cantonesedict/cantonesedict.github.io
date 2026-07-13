@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -280,7 +280,7 @@ W
         every morning;
     - _(1)Chi(u/) ~~(1)sin~~ ``(1)s(i/)n`` kwok(8)_
         [[ziu1 sin1 gwok3 朝鮮國]]
-        Corea [[Kangxi: 朝鮮國名]];
+        Corea [[Kangxi 朝: 朝鮮國名]];
     - _yung(6) (1)chi(u/) m(i/)(6)_
         [[jung6 ziu1 mei6 用朝未]]
         have you breakfasted?
@@ -943,7 +943,7 @@ W
   - [[Page~24* 照(3)炤(3)]]
     ==
     - Light;
-    - to illuminate, to brighten, to shine on [[Kangxi: 明所燭也]];
+    - to illuminate, to brighten, to shine on [[Kangxi 照: 明所燭也]];
     - to patronize, to regard, to care for, to oversee, to assist;
     - conformably to, as, according to, like, same as;
     - _chi(u/)(3) keng(3)_

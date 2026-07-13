@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -814,8 +814,8 @@ W
     ==
   - [[Page~38* (2)攛 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
     ==
-    - To fling away [[Kangxi 攛: 擲也]];
-    - to tempt, to seduce to evil [[Kangxi 攛: 俗謂誘人爲非曰攛掇]];
+    - To fling away [[Kangxi: 擲也]];
+    - to tempt, to seduce to evil [[Kangxi: 俗謂誘人爲非曰攛掇]];
     - to get one to consent;
     - _~~(2)ch(')(u:)n~~ ``ts(')(u:)n(3)`` ch(u:)t(8)_
         [[cyun3 zyut3 攛掇]]
@@ -859,9 +859,9 @@ W
   ====
   - [[Page~605 (2)㸑 _(2)Ts(')(u:)n_ (cyun2); here corrected to _Ts(')(u:)n(3)_ (cyun3) and normalised to 爨]]
     ==
-    - A furnace or cooking-place [[Kangxi: 竈也 etc.]];
+    - A furnace or cooking-place [[Kangxi 爨: 竈也 etc.]];
     - a mess, a table;
-    - to cook ``over a fire`` [[Kangxi: 炊也]] ~~gently~~;
+    - to cook ``over a fire`` [[Kangxi 爨: 炊也]] ~~gently~~;
     - ~~to steam;~~
     - _(1)ch(')ui ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[ceoi1 cyun3 炊爨]]^

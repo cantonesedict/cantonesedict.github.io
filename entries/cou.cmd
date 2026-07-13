@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -466,7 +466,7 @@ W
     ==
     - The chirping and singing of many birds [[Kangxi 喿: 鳥羣鳴也, 或作噪{𠹏=⿰口蚤}]];
     - the hum of men;
-    - to cry out [[Kangxi 噪: 呼噪也]].
+    - to cry out [[Kangxi 噪^: 呼噪也]].
     ==
     --
     [[Alternative form of 譟. See $譟cou3.]]
@@ -1048,8 +1048,8 @@ W
   ====
   - [[Page~586 ::(4)~~{？=⿰口⿱曲曰}~~``嘈``::]]
     ==
-    - Noise, clamor, hubbub [[Kangxi: 聲也]];
-    - an outcry [[Kangxi: 喧嘈]];
+    - Noise, clamor, hubbub [[Kangxi 嘈: 聲也]];
+    - an outcry [[Kangxi 嘈: 喧嘈]];
     - to make a din;
     - to vociferate;
     - _(4)ts(')(o\) n(a/)u(6)_

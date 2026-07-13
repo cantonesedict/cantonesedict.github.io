@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -505,7 +505,7 @@ W
   ====
   - [[Page~23* ::~~淅~~``浙``(8)::]]
     ==
-    - A river [[Kangxi: 江名]] in Chehki(a/)ng [[浙江]],
+    - A river [[Kangxi 浙: 江名]] in Chehki(a/)ng [[浙江]],
       called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
       from which the province is named.
     ==

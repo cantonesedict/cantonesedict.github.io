@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -583,7 +583,7 @@ W
   ====
   - [[Page~36|n79 (1)窓(1)窗(1)牕]]
     ==
-    - A window, an aperture to admit light [[Kangxi: 助戸爲明]];
+    - A window, an aperture to admit light [[Kangxi 窗: 助戸爲明]];
     - a sash;
     - a venetian blind, a shutter;
     - a school;
@@ -1718,8 +1718,8 @@ W
   ====
   - [[Page~568 (4)牆(4)墻]]
     ==
-    - A wall made of stone, brick, or mud [[Kangxi: 垣蔽也, 牆謂之墉]];
-    - a defense or wall [[Kangxi: 牆所以防非常]];
+    - A wall made of stone, brick, or mud [[Kangxi 牆: 垣蔽也, 牆謂之墉]];
+    - a defense or wall [[Kangxi 牆: 牆所以防非常]];
     - _(1)ch(u:)n (4)ts(')(e/)ung_
         [[zyun1 coeng4 磚牆]],
         a brick wall;

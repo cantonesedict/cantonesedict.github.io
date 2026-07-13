@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -392,7 +392,7 @@ W
   ====
   - [[Page~56 ::(1)~~盲~~``肓``::]]
     ==
-    - A part of the thorax ~~above the heart [[Kangxi: 心上鬲下也]]~~ ``below the heart and above the diaphragm``;
+    - A part of the thorax ~~above the heart [[Kangxi 肓: 心上鬲下也]]~~ ``below the heart and above the diaphragm``;
     - the vitals.
     ==
   ====
@@ -502,7 +502,7 @@ W
   - [[Page~56 (1){𮎰=⿱艹㠩}; here normalised to 荒]]
     ==
     - Waste, wild [[Kangxi 荒: 蕪也]], barren, deserted, unproductive;
-    - distant [[Fan Wan: 遠也]];
+    - distant [[Fan Wan 荒: 遠也]];
     - jungle, heath [[Kangxi 荒: 一曰草掩地也]];
     - empty, uncultivated, void [[Kangxi 荒: 空也]], ~~unripe,~~ blasted;
     - a famine, a dearth [[Kangxi 荒: 四穀不升謂之荒, 果不熟爲荒]];
@@ -803,7 +803,7 @@ W
   ====
   - [[Page~56 (2)彷(2)髣]]
     ==
-    - Like, resembling [[Kangxi 彷: 彷彿也]], ~~seen indistinctly [[Kangxi: 彷彿見不審也]]~~;
+    - Like, resembling [[Kangxi 彷: 彷彿也]], ~~seen indistinctly [[Kangxi 彷: 彷彿見不審也]]~~;
     - seeming, ~~dreamy~~;
     - _(2)fong fat(7)_
         [[fong2 fat1 彷彿]]

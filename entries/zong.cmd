@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,7 @@ W
   ====
   - [[Page~27* (1)粧(1)妝]]
     ==
-    - To adorn [[Kangxi: 飾也]] the head;
+    - To adorn [[Kangxi 妝: 飾也]] the head;
     - ornamented, dressed;
     - to dress;
     - to rouge, to adorn;
@@ -196,7 +196,7 @@ W
   - [[Page~27* ::(1)~~{？=⿰才舂}~~``樁``::]]
     ==
     - ~~A club;~~
-    - a post, a stake driven deep into the ground [[Kangxi: 橛杙也]];
+    - a post, a stake driven deep into the ground [[Kangxi 樁: 橛杙也]];
     - _(2)t(a/) (1)chong_
         [[daa2 zong1 打樁]],
         to drive piles;
@@ -651,9 +651,9 @@ W
   - [[Page~593 (1)贓(1)賍]]
     ==
     - Booty, plunder, loot, stolen goods;
-    - to receive bribes [[Kangxi: 納賄曰贓]];
+    - to receive bribes [[Kangxi 贓: 納賄曰贓]];
     - ~~to suborn, to bribe;~~
-    - ~~to hide, to secrete~~ ``that which is stored`` [[Kangxi: 藏也]];
+    - ~~to hide, to secrete~~ ``that which is stored`` [[Kangxi 贓: 藏也]];
     - _(1)tsong (1)k(u/)n_
         [[zong1 gun1 贓官]],
         an officer who takes bribes;
@@ -827,7 +827,7 @@ W
   ====
   - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     ==
-    - To bury, to inter, to put under the ground [[Kangxi: 葬者藏也]];
+    - To bury, to inter, to put under the ground [[Kangxi 葬: 葬者藏也]];
     - _tsong(3) (4)m(a/)i_
         [[zong3 maai4 葬埋]],
         to bury;

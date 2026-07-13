@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -244,7 +244,7 @@ W
   ====
   - [[Page~574 (1)遷(1)迁]]
     ==
-    - To move, to remove, to place elsewhere [[Kangxi: 移物曰遷]];
+    - To move, to remove, to place elsewhere [[Kangxi 遷: 移物曰遷]];
     - to ascend [[Kangxi 遷: 登也, 去下之高也]];
     - to be promoted;
     - to change, to transpose [[Kangxi 遷: 變易也]], to improve [[Kangxi 遷: 遷徙也]];
@@ -788,9 +788,9 @@ W
   ====
   - [[Page~575 (4)錢(4){？=⿸⿻勹丿丶}]]
     ==
-    - Copper coin, cash, coppers [[Kangxi: 冶銅爲錢易貨也]];
+    - Copper coin, cash, coppers [[Kangxi 錢: 冶銅爲錢易貨也]];
     - coin, a piece of money;
-    - cash, wealth, money, property [[Kangxi: 財也]];
+    - cash, wealth, money, property [[Kangxi 錢: 財也]];
     - a tenth of a tael [[両]], or mace, which the cash once weighed;
     - _(4)t(')ung (4)ts(')(i/)n_
         [[tung4 cin4 銅錢]],

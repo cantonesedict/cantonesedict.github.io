@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -188,7 +188,7 @@ W
   ====
   - [[Page~65 (1)峯; here normalised to 峰]]
     ==
-    - The peak of a mountain [[Kangxi: 山耑也]];
+    - The peak of a mountain [[Kangxi 峯: 山耑也]];
     - a camel's hump;
     - _(1)fung (4)l(u:)n_
         [[fung1 lyun4 峰巒]],
@@ -363,7 +363,7 @@ W
   - [[Page~66 (1)豊; here normalised to 豐]]
     ==
     - ~~A full goblet;~~
-    - abundant, affluent, copious, exuberant [[Kangxi: 茂也盛也]];
+    - abundant, affluent, copious, exuberant [[Kangxi 豐: 茂也盛也]];
     - rich, fertile, prolific;
     - talented;
     - _(1)fung (4)n(i/)n_

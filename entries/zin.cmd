@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -1293,7 +1293,7 @@ W
   - [[Page~573 (2)謭; here normalised to 譾]]
     ==
     - Shallow-pated, superficial, not profound;
-    - unskilled, shallow, not deep [[Kangxi: 淺也]];
+    - unskilled, shallow, not deep [[Kangxi 譾: 淺也]];
     - _(4)ts(')oi (2)ts(i/)n_
         [[coi4 zin2 材譾]],
         mediocre, of small capacity;
@@ -1575,7 +1575,7 @@ W
     ==
     - ~~Water flowing on;~~
     - a stream bursting forth again;
-    - repeated [[Kangxi 洊: 通薦]];
+    - repeated [[Kangxi: 通薦]];
     - _ts(i/)n(3) lik(9)_
         [[zin3 lik6 洊歷]]
         successively.

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -852,7 +852,7 @@ W
     ==
     - To usurp, to seize, to take forcibly [[Kangxi: 固有也, 擅據也著位也]];
     - to assume, to arrogate, to take the liberty;
-    - to possess [[Kangxi: 有也]];
+    - to possess [[Kangxi 占: 有也]];
     - _p(a/)(3) ch(i/)m(3)_
         [[baa3 zim3 霸占]]
         to take possession of;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -420,7 +420,7 @@ W
   ====
   - [[Page~598 (1)衰(1)縗]]
     ==
-    - The unhemmed, frayed edges of mourning clothes [[Kangxi: 喪服也]], which are left so;
+    - The unhemmed, frayed edges of mourning clothes [[Kangxi 縗: 喪服也]], which are left so;
     - to ravel out;
     - _(2)ch(a/)m (1)ts(')(u/)i_
         [[zaam2 ceoi1 斬縗]],
@@ -533,7 +533,7 @@ W
   ====
   - [[Page~595 (1)趨(1)趋]]
     ==
-    - To hasten to one's place [[Kangxi: 疾行曰趨趨赴也赴所至也, 趨今之捷步]], to stride off [[Kangxi: 行而張足曰趨]], as in a superior's presence;
+    - To hasten to one's place [[Kangxi 趨: 疾行曰趨趨赴也赴所至也, 趨今之捷步]], to stride off [[Kangxi 趨: 行而張足曰趨]], as in a superior's presence;
     - to run, to walk quick [[Kangxi 趨: 走也, 行也]];
     - _(1)ts(')(u:) (4)sh(i/)_
         [[ceoi1 si4 趨時]],
@@ -1379,7 +1379,7 @@ W
   ====
   - [[Page~32* (4)廚(4)厨]]
     ==
-    - A kitchen, a cook-room [[Kangxi: 庖屋也]];
+    - A kitchen, a cook-room [[Kangxi 廚: 庖屋也]];
     - a slaughter-house;
     - a ~~quiver~~ ``box or cabinet`` [[Kangxi 廚: 櫝也]];
     - _(4)ch(')(u:) (4)yan_ [[cyu4 jan4 廚人]]^
@@ -1787,7 +1787,7 @@ W
   ====
   - [[Page~32* ::(4)~~{𨆼=⿰𧾷㕑}~~``躕``::]]
     ==
-    - Embarrassed, hindered [[Kangxi: 踟躕行不進貌]];
+    - Embarrassed, hindered [[Kangxi 躕: 踟躕行不進貌]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
         [[ci4 ceoi4 踟躕]],
         entangled.
@@ -1854,7 +1854,7 @@ W
         hammered to pieces.
     ==
     --
-    The first word [[錘]] also means a weight of 12~taels [[Kangxi: 六兩曰鍿倍鍿曰錘〇按此與說文解異]].
+    The first word [[錘]] also means a weight of 12~taels [[Kangxi 錘: 六兩曰鍿倍鍿曰錘〇按此與說文解異]].
     --
   ====
 C

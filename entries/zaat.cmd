@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -163,7 +163,7 @@ W
   - [[Page~24|n67 扎(8); here normalised to 紮]]
     ==
     - [[...]];
-    - to bind, to bind around, to bundle up [[Kangxi: 纏束也]];
+    - to bind, to bind around, to bundle up [[Kangxi 紮: 纏束也]];
     - a bundle;
     - to make or cut out paper images;
     - _ch(a/)t(8) yat(7) ch(a/)t(8)_

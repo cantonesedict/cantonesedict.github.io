@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -461,10 +461,10 @@ W
   - [[Page~571 ::(1)~~韱~~``籤``::]]
     ==
     - Similar to the above [[簽]];
-    - a slip, a lot [[Kangxi: 驗也, 竹籤用以卜者]];
+    - a slip, a lot [[Kangxi 籤: 驗也, 竹籤用以卜者]];
     - a warrant, a permit, a ticket having the officer's name on it;
-    - to probe, to bore through [[Kangxi: ::一曰[...]貫也::]];
-    - sharp-pointed [[Kangxi: 一曰銳也]];
+    - to probe, to bore through [[Kangxi 籤: ::一曰[...]貫也::]];
+    - sharp-pointed [[Kangxi 籤: 一曰銳也]];
     - _chai(3) (1)ts(')(i/)m_ [[zai3 cim1 掣籤]]^
         or
       _(1)ch(a/) (1)ts(')(i/)m_ [[zaa1 cim1 揸籤]],
@@ -507,10 +507,10 @@ W
   ====
   - [[Page~572 (1)纖(1)摻]]
     ==
-    - Fine silk [[Kangxi: 繒帛之細者謂之纖]];
-    - small, delicate [[Kangxi: 細也, 纖小也, 纖細也]], like silken fibres;
-    - silk woven with a white woof and black warp [[Kangxi: 黑經白緯曰纖]];
-    - niggardly, stingy [[Kangxi: 纖儉嗇也]];
+    - Fine silk [[Kangxi 纖: 繒帛之細者謂之纖]];
+    - small, delicate [[Kangxi 纖: 細也, 纖小也, 纖細也]], like silken fibres;
+    - silk woven with a white woof and black warp [[Kangxi 纖: 黑經白緯曰纖]];
+    - niggardly, stingy [[Kangxi 纖: 纖儉嗇也]];
     - _(1)ts(')(i/)m (4)h(o\)_
         [[cim1 hou4 纖毫]],
         like a fibre, minute;
@@ -637,7 +637,7 @@ W
   ====
   - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     ==
-    - To flatter [[Kangxi: 同讇省諛也]], to lie to;
+    - To flatter [[Kangxi 諂: 同讇省諛也]], to lie to;
     - to cajole;
     - to give a god or man worship or praise not due to him;
     - to fawn on, to court;

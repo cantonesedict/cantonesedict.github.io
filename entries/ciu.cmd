@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -399,7 +399,7 @@ W
   ====
   - [[Page~562 ::(1)~~愁~~``愀``:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
-    - ~~To blush, to redden, to change color~~ ``To change the countenance`` [[Kangxi: 容色變也]];
+    - ~~To blush, to redden, to change color~~ ``To change the countenance`` [[Kangxi 愀: 容色變也]];
     - ~~downhearted, sad.~~
     ==
   ====
@@ -624,7 +624,7 @@ W
   ====
   - [[Page~581 (4)譙]]
     --
-    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold [[Kangxi: 譙誚二字古通]].
+    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold [[Kangxi 譙: 譙誚二字古通]].
     --
     ==
     - [[...]];

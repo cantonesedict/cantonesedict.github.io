@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -770,14 +770,14 @@ W
   ====
   - [[Page~558 雜(9)襍(9)]]
     ==
-    - A mixture of different colors [[Kangxi: 五彩相合也]] or ingredients;
+    - A mixture of different colors [[Kangxi 雜: 五彩相合也]] or ingredients;
     - particolored, streaked;
     - mixed, unassorted, blended, mingled, confused;
-    - various, all sorts, miscellaneous, heterogenous, fragmentary [[Kangxi: 碎也]];
+    - various, all sorts, miscellaneous, heterogenous, fragmentary [[Kangxi 雜: 碎也]];
     - to mix, to confuse;
     - ~~to repeat;~~
-    - to revolve [[Kangxi: 帀也]];
-    - to bore through [[Kangxi: 穿也]];
+    - to revolve [[Kangxi 雜: 帀也]];
+    - to bore through [[Kangxi 雜: 穿也]];
     - _ts(a/)p(9) fo(3)_
         [[zaap6 fo3 雜貨]]
         miscellaneous goods;

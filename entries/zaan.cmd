@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -334,7 +334,7 @@ W
     ==
     - To ~~walk~~ ``run``, to get on [[Kangxi 趲: 走也]];
     - to flee, to run away, to scatter, to put to flight [[Kangxi 趲: 散走也]];
-    - to hasten, to urge, to quicken, to press [[Kangxi: 逼使走也]];
+    - to hasten, to urge, to quicken, to press [[Kangxi 趲: 逼使走也]];
     - _(2)ts(a/)n p(o\)(6)_
         [[zaan2 bou6 趲步]]
         to walk quicker;

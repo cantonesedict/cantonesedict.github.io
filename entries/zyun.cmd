@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -602,9 +602,9 @@ W
   ====
   - [[Page~604 ::(2)纂~~(2)藄~~::]]
     ==
-    - A kind of carnation band or cord [[Kangxi: 似組而赤]];
+    - A kind of carnation band or cord [[Kangxi 纂: 似組而赤]];
     - ~~to connect;~~
-    - to collect together [[Kangxi: 一曰集也]];
+    - to collect together [[Kangxi 纂: 一曰集也]];
     - to compile a work, to edit, to abridge;
     - a resumé, a compend, a digest, a collection, a compilation;
     - _(2)ts(u:)n (1)sau_
@@ -932,10 +932,10 @@ W
   - [[Page~604 鑽(3)鑚(3)]]
     ==
     - An awl, a gimlet, an ~~augur~~ ``auger``, a borer;
-    - an instrument for perforating [[Kangxi: 所以穿也]];
+    - an instrument for perforating [[Kangxi 鑽: 所以穿也]];
     - ~~point of a weapon;~~
-    - to bore, to pierce, as a sting [[Kangxi: 刺也]];
-    - to worm one's self into, to search into secrets [[Kangxi: 凡深入者借用鑽]];
+    - to bore, to pierce, as a sting [[Kangxi 鑽: 刺也]];
+    - to worm one's self into, to search into secrets [[Kangxi 鑽: 凡深入者借用鑽]];
     - _ts(u:)n(3) (5)ng(a/)n_
         [[zyun3 ngaan5 鑽眼]],
         to bore a hole;
@@ -944,7 +944,7 @@ W
         an awl;
     - _(1)kam (1)kong ts(u:)n(3)_
         [[gam1 gong1 zyun3 金剛鑽]]
-        ~~a~~ diamond or corundum ~~borer~~ [[Kangxi: 金剛鑽生水底 etc.]];
+        ~~a~~ diamond or corundum ~~borer~~ [[Kangxi 鑽: 金剛鑽生水底 etc.]];
     - _ts(u:)n(3) ling(6)_
         [[zyun3 ling6 鑽？]]
         to seek into, to act wilily;

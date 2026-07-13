@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -296,11 +296,11 @@ W
   ====
   - [[Page~23|n66 ::~~{？=⿰阝⿱步馬}~~``騭``(7)隲(7)::]]
     ==
-    - A stallion [[Kangxi: 牡馬也, 牡曰騭]];
+    - A stallion [[Kangxi 騭: 牡馬也, 牡曰騭]];
     - to mount;
-    - to ascend [[Kangxi: 乗馬登山也]];
-    - to raise, to promote [[Kangxi: 騭陞也]];
-    - to fix, to determine [[Kangxi: 定也]];
+    - to ascend [[Kangxi 騭: 乗馬登山也]];
+    - to raise, to promote [[Kangxi 騭: 騭陞也]];
+    - to fix, to determine [[Kangxi 騭: 定也]];
     - _(1)yam chat(7)_
         [[jam1 zat1 陰騭]]
         to think upon kindly, a secret benevolence;

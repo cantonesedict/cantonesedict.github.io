@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,7 +75,7 @@ W
   ====
   - [[Page~25* (2)爼; here normalised to 俎]]
     ==
-    - A basin or bowl like a tripod, used in sacrifice [[Kangxi: 祭享之器]];
+    - A basin or bowl like a tripod, used in sacrifice [[Kangxi 俎: 祭享之器]];
     - _(2)cho tau(6)_
         [[zo2 dau6 俎豆]]
         a basin used in worship.

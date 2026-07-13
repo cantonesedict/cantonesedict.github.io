@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1906,7 +1906,7 @@ W
   ====
   - [[Page~40* 衆(3); here normalised to 眾]]
     ==
-    - A multitude [[Kangxi: 多也]], a concourse of at least three [[Kangxi: 國語三人爲眾數成於三也]];
+    - A multitude [[Kangxi 眾: 多也]], a concourse of at least three [[Kangxi 眾: 國語三人爲眾數成於三也]];
     - ~~a quorum, a majority;~~
     - a sign of the plural;
     - ~~they;~~

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -173,7 +173,7 @@ W
   ====
   - [[Page~28* (1)創(1)刅]]
     ==
-    - To wound, to cut and injure [[Kangxi: 傷也]];
+    - To wound, to cut and injure [[Kangxi 創: 傷也]];
     - to butt, to gore;
     - a wound, a cut;
     - wounded, gashed;
@@ -888,7 +888,7 @@ W
   ====
   - [[Page~28* 創(3)刱(3)]]
     ==
-    - To begin, to invent [[Kangxi: 始也造也]];
+    - To begin, to invent [[Kangxi 創: 始也造也]];
     - to create, to found, to lay the foundation of;
     - to take measures for;
     - ~~to reprove;~~

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -632,7 +632,7 @@ W
   - [[Page~46 (1)棼]]
     ==
     - [[...]];
-    - confused, disordered, complicated [[Kangxi 棼: 亂也]];
+    - confused, disordered, complicated [[Kangxi: 亂也]];
     - [[...]].
     ==
     --
@@ -808,7 +808,7 @@ W
     ==
     - [[...]];
     - fumes from cooked vegetables;
-    - ~~savory~~ odors [[Kangxi: 香臭之氣也]];
+    - ~~savory~~ odors [[Kangxi 焄: 香臭之氣也]];
     - _(1)fan ~~(1)ho~~ ``(1)h(o\)``_
         [[fan1 hou1 焄蒿]],
         steam from viands;

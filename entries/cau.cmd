@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1053,15 +1053,15 @@ W
   ====
   - [[Page~563 凑(3)湊(3)]]
     ==
-    - To collect, to gather [[Kangxi: 一曰聚也]];
+    - To collect, to gather [[Kangxi 湊: 一曰聚也]];
     - to run together;
     - to run into each other;
-    - a gathering on the water, as at a regatta [[Kangxi: 水上人所會也]];
+    - a gathering on the water, as at a regatta [[Kangxi 湊: 水上人所會也]];
     - a reunion;
     - to go with one, to take care of;
     - with, together;
     - a concurrence of circumstances, to estimate the probabilities of;
-    - to strive to excel [[Kangxi: 競進也]];
+    - to strive to excel [[Kangxi 湊: 競進也]];
     - for;
     - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) ~~t(')eng(3)~~ ``t(')ing(3)``_
         [[nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽]]
@@ -2205,7 +2205,7 @@ W
     ==
   - [[Page~27|n70 (4)酬(4)酧]]
     ==
-    - To pledge a guest [[Kangxi: 主人實觶酬賔]];
+    - To pledge a guest [[Kangxi 酬: 主人實觶酬賔]];
     - to recompense;
     - to make a return;
     - to invite a guest to drink;

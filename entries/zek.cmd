@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -438,7 +438,7 @@ W
   - [[Page~14* 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - [[...]];
-    - the sole of the foot [[Kangxi: 足下]];
+    - the sole of the foot [[Kangxi 跖: 足下]];
     - metatarsus of birds;
     - _t(o\)(6) ~~chek(9)~~ ``chek(8)``_
         [[dou6 zek3 盜跖]]
@@ -525,8 +525,8 @@ W
     --
   - [[Page~14* ::蹠(9)~~跖(9)~~:: _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
-    - To tread on [[Kangxi: 足履踐也, 蹠蹈也, 蹠踐也]];
-    - to leap [[Kangxi: 楚人謂跳躍曰蹠]];
+    - To tread on [[Kangxi 蹠: 足履踐也, 蹠蹈也, 蹠踐也]];
+    - to leap [[Kangxi 蹠: 楚人謂跳躍曰蹠]];
     - [[...]].
     ==
     --

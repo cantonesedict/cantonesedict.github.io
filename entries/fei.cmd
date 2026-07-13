@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -97,7 +97,7 @@ W
   ====
   - [[Page~52 ::(1)~~{？=⿰女㔾}~~``妃``::]]
     ==
-    - Royal concubines [[Kangxi: ::女與己身儔也古[嬪]御之貴次于后者曰妃::]];
+    - Royal concubines [[Kangxi 妃: ::女與己身儔也古[嬪]御之貴次于后者曰妃::]];
     - _~~(1)wong~~ ``(4)wong`` (1)f(i/)_
         [[wong4 fei1 王妃]],
         wife of the heir apparent;
@@ -106,7 +106,7 @@ W
         the empress;
     - _(1)t(')(i/)n (1)f(i/)_
         [[tin1 fei1 天妃]],
-        the Amphitrite of the Chinese [[Kangxi: 天妃水神]];
+        the Amphitrite of the Chinese [[Kangxi 妃: 天妃水神]];
     - _(1)f(i/) (2)tsz' si(u/)(3)_
         [[fei1 zi2 siu3 妃子笑]]
         the best sort of laich(i/) [[荔枝]].

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -917,7 +917,7 @@ W
     - The ashes [[Kangxi 㶳: 火餘也]], embers [[Kangxi 㶳: 火餘木]], snuff [[Kangxi 㶳: 灺也, 燭餘也]], or residue after combustion;
     - a quenched brand;
     - the residuum;
-    - the relics, what is left, as of a conquered people [[Kangxi 燼: 燼遺民]];
+    - the relics, what is left, as of a conquered people [[Kangxi 燼^: 燼遺民]];
     - _f(a/)(3) (4)wai (1)f(u/)i (2)tsun_
         [[faa3 wai4 fui1 zeon2 化為灰燼]],
         all turned to ashes;
@@ -1119,8 +1119,8 @@ W
     ==
   - [[Page~602 俊(3)]]
     ==
-    - Similar to the last [[儁]] [[Kangxi 俊: ::與儁[...]通::]];
-    - superior, remarkable, one of a thousand [[Kangxi 俊: ::材[過]千人也:: etc.]];
+    - Similar to the last [[儁]] [[Kangxi 俊^: ::與儁[...]通::]];
+    - superior, remarkable, one of a thousand [[Kangxi 俊^: ::材[過]千人也:: etc.]];
     - eminent;
     - _(1)ying tsun(3)_
         [[jing1 zeon3 英俊]]
@@ -1334,11 +1334,11 @@ W
   ====
   - [[Page~602 晉(3)晋(3)]]
     ==
-    - To increase, to flourish, to grow, as the sun makes all things [[Kangxi: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義]];
+    - To increase, to flourish, to grow, as the sun makes all things [[Kangxi 晉: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義]];
     - [[...]];
-    - to curb in a horse [[Kangxi: 晉猶抑也]];
+    - to curb in a horse [[Kangxi 晉: 晉猶抑也]];
     - name of a dynasty, divided into the Western and Eastern Tsin, A.D.~265--419;
-    - a feudal state [[Kangxi: 國名]], now the southern part of Sh(a/)ns(i/) [[山西]].
+    - a feudal state [[Kangxi 晉: 國名]], now the southern part of Sh(a/)ns(i/) [[山西]].
     ==
     --
     [[Otherwise, an alternative form of 搢. **See $搢zeon3 for the canonical entry.**]]
@@ -1403,12 +1403,12 @@ W
   ====
   - [[Page~602 浚(3)濬(3)]]
     ==
-    - Deep, profound [[Kangxi: 深也]], as water;
+    - Deep, profound [[Kangxi 浚: 深也]], as water;
     - to dig a channel, to deepen a water-course;
-    - deep, serious, as reverence [[Kangxi: 稟浚敬也]];
+    - deep, serious, as reverence [[Kangxi 浚: 稟浚敬也]];
     - abstruse;
     - well read;
-    - to use part of, to employ [[Kangxi: 抒也, 抒取出之也]];
+    - to use part of, to employ [[Kangxi 浚: 抒也, 抒取出之也]];
     - a district in Hon(a/)n [[河南]];
     - _tsun(3) (2)tseng_
         [[zeon3 zeng2 浚井]],
@@ -1960,13 +1960,13 @@ W
   ====
   - [[Page~602 盡(6)尽(6)]]
     ==
-    - An empty vessel [[Kangxi: 器中空也]];
-    - to exhaust, to use all [[Kangxi: 竭也]];
+    - An empty vessel [[Kangxi 盡: 器中空也]];
+    - to exhaust, to use all [[Kangxi 盡: 竭也]];
     - ~~to indulge, as one's grief;~~
     - a quantity used up, a work brought to an end;
-    - made an end of [[Kangxi: 止也, 終也]], as life;
+    - made an end of [[Kangxi 盡: 止也, 終也]], as life;
     - finished, achieved, empty, exhausted;
-    - all, entirely, fully, wholly [[Kangxi: 悉也]];
+    - all, entirely, fully, wholly [[Kangxi 盡: 悉也]];
     - to do to the utmost, with the whole of;
     - a superlative, the uttermost, extreme;
     - _tsun(6) (5)ngo (1)sam_

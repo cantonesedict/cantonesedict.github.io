@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1064,9 +1064,9 @@ W
   ====
   - [[Page~41 ::(2)~~冡~~``冢``::]]
     ==
-    - The peak of a hill [[Kangxi: 山頂也]];
-    - a mound or tumulus [[Kangxi: 墓之墳者亦曰冢]];
-    - great, honorable, first, the eldest [[Kangxi: 大也]];
+    - The peak of a hill [[Kangxi 冢: 山頂也]];
+    - a mound or tumulus [[Kangxi 冢: 墓之墳者亦曰冢]];
+    - great, honorable, first, the eldest [[Kangxi 冢: 大也]];
     - _(2)ch(')ung (2)tsz'_
         [[cung2 zi2 冢子]]
         the eldest son;
@@ -1120,7 +1120,7 @@ W
   ====
   - [[Page~41 ::(2)~~塜~~``塚``::]]
     ==
-    - A grave, a tomb [[Kangxi: 冢俗作塚]];
+    - A grave, a tomb [[Kangxi 塚: 冢俗作塚]];
     - _(1)fong (2)ch(')ung_
         [[fong1 cung2 荒塚]],
         a deserted, unlucky grave;
@@ -1165,9 +1165,9 @@ W
   ====
   - [[Page~41 (2){𠖥=⿱冖龍}; here normalised to 寵]]
     ==
-    - Grace, kindness, affection [[Kangxi: 一曰愛也恩也]], regard, friendship;
+    - Grace, kindness, affection [[Kangxi 寵: 一曰愛也恩也]], regard, friendship;
     - favor of superiors;
-    - to esteem [[Kangxi: 尊榮也]];
+    - to esteem [[Kangxi 寵: 尊榮也]];
     - to indulge to allow;
     - _(2)ch(')ung oi(3)_
         [[cung2 oi3 寵愛]]

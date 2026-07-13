@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -159,9 +159,9 @@ W
   ====
   - [[Page~11* ::(1)~~{𡟎=⿰女⿱山虫}~~``媸``::]]
     ==
-    - Ugly [[Kangxi: 醜也]];
+    - Ugly [[Kangxi 媸: 醜也]];
     - a homely woman;
-    - lewd [[Kangxi: 淫也]], worthless, foolish [[Kangxi: 癡也]];
+    - lewd [[Kangxi 媸: 淫也]], worthless, foolish [[Kangxi 媸: 癡也]];
     - _(1)ch(')(i/) (4)n(o\)_
         [[ci1 nou4 媸奴]],
         a harridan;
@@ -750,7 +750,7 @@ W
         [[ngau4 tou3 cou2 牛吐草]].
     ==
     --
-    The Fan Wan defines it [[呞]] to gape [[Fan Wan: 口張開也]].
+    The Fan Wan defines it [[呞]] to gape [[Fan Wan 呞: 口張開也]].
     --
   ====
 $$
@@ -2686,7 +2686,7 @@ W
   - [[Page~615 (4)磁; here normalised to 瓷]]
     ==
     - [[...]];
-    - porcelain, chinaware [[Kangxi: 瓦器也]];
+    - porcelain, chinaware [[Kangxi 瓷: 瓦器也]];
     - [[...]];
     - _(4)ts(')z' h(i/)(3)_
         [[ci4 hei3 瓷器]]
@@ -3177,9 +3177,9 @@ W
     ==
     - [[...]];
     - an expression, a word, a particle, a part of speech;
-    - evidence [[Kangxi: 訟辭也]], speech, words [[Kangxi: 辭說也]];
-    - to refuse, to decline with thanks [[Kangxi: 卻不受也]];
-    - to resign, to leave, to go, to retire, to depart [[Kangxi: 別去也]];
+    - evidence [[Kangxi 辭: 訟辭也]], speech, words [[Kangxi 辭: 辭說也]];
+    - to refuse, to decline with thanks [[Kangxi 辭: 卻不受也]];
+    - to resign, to leave, to go, to retire, to depart [[Kangxi 辭: 別去也]];
     - _(1)t(')(u/)i (4)ts(')z'_
         [[teoi1 ci4 推辭]]
         to decline, as an office;

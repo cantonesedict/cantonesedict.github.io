@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -403,7 +403,7 @@ W
   ====
   - [[Page~611 (1)孶; here normalised to 孳]]
     ==
-    - To bear, to produce [[Kangxi: 孳息也]];
+    - To bear, to produce [[Kangxi 孳: 孳息也]];
     - to suckle, to nourish, said of animals;
     - to grow, to increase [[Kangxi 孳: 汲汲生也]];
     - ardent, affectionate, loving;
@@ -1278,9 +1278,9 @@ W
   ====
   - [[Page~611 (1)甾(1)菑]]
     ==
-    - ~~Waste, untilled land, overgrown, jungly [[Kangxi: 不耕田也]];~~
+    - ~~Waste, untilled land, overgrown, jungly [[Kangxi 菑: 不耕田也]];~~
     - to clear new or waste land;
-    - ground under cultivation one year [[Kangxi: 田一歲曰葘]];
+    - ground under cultivation one year [[Kangxi 菑: 田一歲曰葘]];
     - to open a road;
     - [[...]].
     ==
@@ -4203,12 +4203,12 @@ W
   ====
   - [[Page~9* 置(3)寘(3)]]
     ==
-    - To make firm, to establish [[Kangxi: 立也, 設也]], to place;
+    - To make firm, to establish [[Kangxi 置: 立也, 設也]], to place;
     - to appoint;
-    - to arrange [[Kangxi: 安置也]];
+    - to arrange [[Kangxi 置: 安置也]];
     - to purchase for one's self;
     - ~~to employ;~~
-    - to reject, to dismiss [[Kangxi: 赦也, ::[...]與罷同意置之則去之也::]];
+    - to reject, to dismiss [[Kangxi 置: 赦也, ::[...]與罷同意置之則去之也::]];
     - to put aside;
     - to determine, to judge, to decide;
     - _(2)ch(')(u:) ch(i/)(3)_
@@ -4501,8 +4501,8 @@ W
   - [[Page~611 ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ and _Tsz'(3)_ (zi3)]]
     ==
     - [[...]];
-    - to cut, to rend [[Kangxi: 剖也裂也]];
-    - a dead tree still standing [[Kangxi: 木立死曰葘]].
+    - to cut, to rend [[Kangxi 菑: 剖也裂也]];
+    - a dead tree still standing [[Kangxi 菑: 木立死曰葘]].
     ==
     --
     [[...]]
@@ -4733,7 +4733,7 @@ W
     - [[...]];
     - to present to;
     - [[...]];
-    - used for the next [[贄]] [[Kangxi: 執物以爲相見之禮也與贄質通]];
+    - used for the next [[贄]] [[Kangxi 摯: 執物以爲相見之禮也與贄質通]];
     - [[...]].
     ==
   - [[Page~9* 贄(3)]]
@@ -4883,8 +4883,8 @@ W
   ====
   - [[Page~9* ::~~{？=⿱⿰辛丸鳥}~~``鷙``(3)::]]
     ==
-    - Birds of prey, accipitrine birds [[Kangxi: 擊殺鳥也, 猛鳥也]];
-    - violent, ruthless, hawklike [[Kangxi: 又凡鳥之勇獸之猛者皆曰鷙]];
+    - Birds of prey, accipitrine birds [[Kangxi 鷙: 擊殺鳥也, 猛鳥也]];
+    - violent, ruthless, hawklike [[Kangxi 鷙: 又凡鳥之勇獸之猛者皆曰鷙]];
     - ~~to seize by violence.~~
     ==
   ====
@@ -4995,7 +4995,7 @@ W
   ====
   - [[Page~614 俟(6)竢(6)]]
     ==
-    - To wait, to stay [[Kangxi: 待也]];
+    - To wait, to stay [[Kangxi 俟: 待也]];
     - to wait upon;
     - to expect, to look for, to hope;
     - to prepare for;
@@ -5384,7 +5384,7 @@ W
   - [[Page~614 䦙(6); here normalised to 寺]]
     ==
     - A court, a hall where officers hold sittings [[Kangxi 䦙: 廷也有法度者也本作寺]];
-    - an eunuch [[Kangxi: 宦寺]];
+    - an eunuch [[Kangxi 寺: 宦寺]];
     - a chamberlain, an officer in waiting;
     - _tsz'(6) (4)yan_
         [[zi6 jan4 寺人]],
@@ -6343,7 +6343,7 @@ W
   ====
   - [[Page~614 飤(6)飼(6)]]
     ==
-    - To feed, to nourish [[Kangxi: 以食食人也]];
+    - To feed, to nourish [[Kangxi 飤: 以食食人也]];
     - to set food before;
     - to rear, as animals;
     - feed, provisions, eatables [[Kangxi 飤: 糧也, 食也與飼同]].

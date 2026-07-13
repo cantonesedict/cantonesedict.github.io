@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -132,10 +132,10 @@ W
   ====
   - [[Page~32* (2)處(2)処]]
     ==
-    - To dwell, to reside [[Kangxi: 居也]];
+    - To dwell, to reside [[Kangxi 處: 居也]];
     - to be, to act, to occupy the place of;
     - while in;
-    - to distinguish [[Kangxi: 分別也]], to manage, to judge, to decide on,
+    - to distinguish [[Kangxi 處: 分別也]], to manage, to judge, to decide on,
       to attend to, to do what is proper;
     - to place;
     - _~~(2)ch(')(u:)~~ ``(5)ch(')(u:)`` (2)tsz'_
@@ -646,7 +646,7 @@ W
   ====
   - [[Page~32* (5)佇(5)竚]]
     ==
-    - To stand a long time [[Kangxi: 佇久立也]];
+    - To stand a long time [[Kangxi 佇: 佇久立也]];
     - to wait, to look for;
     - _(5)ch(')(u:) lap(9)_
         [[cyu5 lap6 佇立]]
@@ -1136,7 +1136,7 @@ W
   - [[Page~32* (5)宁; here normalised to 貯]]
     ==
     - [[...]];
-    - to accumulate [[Kangxi: ::宁[辨]積物也::]].
+    - to accumulate [[Kangxi 宁: ::宁[辨]積物也::]].
     ==
   - [[Page~33* (5)貯]]
     ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -3224,11 +3224,11 @@ W
   ====
   - [[Page~59 (4)鳬; here normalised to 鳧]]
     ==
-    - A sheldrake or mallard [[Kangxi: 野曰鳧家曰鴨]];
+    - A sheldrake or mallard [[Kangxi 鳧: 野曰鳧家曰鴨]];
     - a wild duck with a crest;
-    - a small ``but abundant`` species near the Y(a/)ngtsz'~R. [[揚子江]] [[Kangxi: 江東有小鳧其多無數]]
+    - a small ``but abundant`` species near the Y(a/)ngtsz'~R. [[揚子江]] [[Kangxi 鳧: 江東有小鳧其多無數]]
       is called ~~_(1)k(u/)n (4)f(u/)_ [[gun1 fu4 冠鳧]],
-      the crowned duck [[Kangxi: 俗謂之冠鳧]]~~
+      the crowned duck [[Kangxi 鳧: 俗謂之冠鳧]]~~
       ``_k(')au(3) (4)f(u/)_`` [[kau3 fu4 寇鳧]].
     ==
   ====

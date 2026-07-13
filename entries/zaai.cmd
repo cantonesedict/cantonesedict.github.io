@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -180,7 +180,7 @@ W
     ==
   - [[Page~10|n53 (1)齊]]
     --
-    Interchanged with the last [[齋]] [[Kangxi: 與齋同]].
+    Interchanged with the last [[齋]] [[Kangxi 齊: 與齋同]].
     --
     ==
     - To respect;
@@ -434,10 +434,10 @@ W
   ====
   - [[Page~10|n53 寨(6)砦(6)]]
     ==
-    - A stockade, a palisade [[Kangxi: 山居以木柵, 籬落也]];
+    - A stockade, a palisade [[Kangxi 寨: 山居以木柵, 籬落也]];
     - an encampment;
     - a stockaded village;
-    - a sheep-pen [[Kangxi: 羊栖宿處也]];
+    - a sheep-pen [[Kangxi 寨: 羊栖宿處也]];
     - _ts(')(a/)k(9) ch(a/)i(6)_
         [[caak6 zaai6 賊寨]]
         a robber's hold;
