@@ -421,8 +421,8 @@ U
   U+6490
 A
   ==
-  - $橕3
-  - $撑3
+  - $橕3 (Cantonese)
+  - $撑3 (Cantonese)
   ==
 F
   [[Not present]]
@@ -478,7 +478,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 撐. **See $撐caang3 for the canonical entry.**
+  1. Alternative form of 撐 (Cantonese). **See $撐caang3 for the canonical entry.**
   ++
 S
   ==
@@ -499,7 +499,7 @@ W
   ====
   - [[Page~21|n64 (1)橕 Read _ch(')(a/)ng(3)_ (caang3)]]
     --
-    [[Alternative form of 撐 and {𨅝=⿰𧾷牚}. **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
+    [[Alternative form of 撐 (Cantonese) and {𨅝=⿰𧾷牚} (Cantonese). **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
     --
   ====
 S
@@ -517,7 +517,7 @@ U
   U+2815D
 A
   ==
-  - $橕3
+  - $橕3 (Cantonese)
   ==
 V
   ==

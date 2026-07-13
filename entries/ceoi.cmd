@@ -1313,7 +1313,7 @@ U
   U+210F4
 A
   ==
-  - $隨4
+  - $隨4 (Cantonese)
   ==
 F
   [[Not present]]
@@ -2070,7 +2070,7 @@ W
         it is all about, they are everywhere.
     ==
     --
-    [[Otherwise, an alternative form of {𡃴=⿰口隨}. **See ${𡃴=⿰口隨}ceoi4 for the canonical entry.**]]
+    [[Otherwise, an alternative form of {𡃴=⿰口隨} (Cantonese). **See ${𡃴=⿰口隨}ceoi4 for the canonical entry.**]]
     --
   ====
 L

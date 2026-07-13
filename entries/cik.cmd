@@ -753,7 +753,7 @@ W
         barren wastes.
     ==
     --
-    [[Otherwise, an alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of {𤷫=⿸疒刺} (Cantonese), and reading variation. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
     --
   ====
 P

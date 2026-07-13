@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -86,7 +86,7 @@ W
         the ~~first month~~ ``new year``.
     ==
     --
-    [[Otherwise, an alternative form of 膥. **See $膥ceon1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 膥 (Cantonese). **See $膥ceon1 for the canonical entry.**]]
     --
   ====
 C
@@ -158,7 +158,7 @@ U
   U+81A5
 A
   ==
-  - $春1
+  - $春1 (Cantonese)
   ==
 F
   ==

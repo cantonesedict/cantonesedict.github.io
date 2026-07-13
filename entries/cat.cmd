@@ -265,7 +265,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of {𨳍=⿵門七}. **See ${𨳍=⿵門七}cat6 for the canonical entry.**
+  1. Alternative form of {𨳍=⿵門七} (Cantonese). **See ${𨳍=⿵門七}cat6 for the canonical entry.**
   ++
 $$
 
@@ -278,7 +278,7 @@ U
   U+28CCD
 A
   ==
-  - ${𫵱=⿱山十}6
+  - ${𫵱=⿱山十}6 (Cantonese)
   ==
 F
   [[Not present]]

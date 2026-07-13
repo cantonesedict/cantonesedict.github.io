@@ -333,18 +333,6 @@ W
     [[Otherwise, an alternative form of 詏 (Cantonese). **See $詏aau3 for the canonical entry.**]]
     --
   ====
-C
-  ====
-  - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
-    Kangxi has:
-    ==
-    - For 拗: 拗戾固相違也 "stubborn-perverse: obstinately going against".
-    - For 詏: 言逆也 "speech defying".
-    ==
-    Nevertheless, being stubborn is not too far from being argumentative;
-    together with 拗 being a more commonly seen character,
-    its use as an alternative form of 詏 is understandable.
-  ====
 S
   ==
   - $拗aau2
@@ -370,13 +358,9 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
-  ==
 P
   ++
-  1. Defiant speech (Kangxi: 言逆也).
+  1. Defiant in speech (Kangxi: 言逆也).
   ++
 E
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -104,7 +104,7 @@ U
   U+56AB
 A
   ==
-  - $親1
+  - $親1 (Cantonese)
   ==
 F
   [[Not present]]
@@ -275,7 +275,7 @@ W
         nobody knows his poor relations.
     ==
     --
-    [[Otherwise, an alternative form of 嚫. **See $嚫can1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 嚫 (Cantonese). **See $嚫can1 for the canonical entry.**]]
     --
   ====
 C
