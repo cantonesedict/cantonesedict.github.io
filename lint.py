@@ -2347,14 +2347,13 @@ class CharacterEntry:
             headword_run = match.group('headword_run')
             item_content = match.group('item_content')
 
-            potential_characters = ''.join(sorted(set(
-                re.findall(
-                    pattern='[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
-                    string=CmdIdioms.strip_compositions(headword_run),
-                )
-            )))
+            headword_characters = re.findall(
+                pattern='[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
+                string=CmdIdioms.strip_compositions(headword_run),
+            )
+            potential_characters = ''.join(sorted({character, *headword_characters}))
 
-            if potential_characters == character:
+            if len(potential_characters) == 1:
                 if redundant_match := re.search(
                     pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: \S+\]\]',
                     string=item_content,
