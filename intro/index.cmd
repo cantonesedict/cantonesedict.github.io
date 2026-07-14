@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -179,8 +179,8 @@ are among the most common works in bookstores; but the
 largest of them are so cumbrous and bulky as to be troublesome to
 refer to, while the smaller kinds are too condensed to be satisfactory
 for reference. Consequently, neither of them are well suited for
-convenient use. W(u/) Hioh-p(u/) of Y(u/)-sh(a/)n, and Wan K(')i-shih of
-W(u/)-k(')(i/) have, however, jointly arranged a collection of words by
+convenient use. W(u/) Hioh-p(u/) [[吳學圃]] of Y(u/)-sh(a/)n [[虞山]], and Wan K(')i-shih [[溫岐石]] of
+W(u/)-k(')(i/) [[武溪]] have, however, jointly arranged a collection of words by
 their tones, and an assortment of letters for the use of traders in
 their travels, which are both comprehensive and brief, giving the
 kernel of the matter. The two works assist each other; and as
@@ -200,16 +200,57 @@ these remarks. A prefatory note.
 --
 Summer of 1782.
 --
-
-[[The English here more closely matches the Chinese text
-of a [Summer of 1833 (道光癸巳年仲夏) preface][1833]
-than a [Summer of 1782 (乾隆歲次壬寅仲夏) preface][1782].
-It is likely that Williams had a third edition whose text was
-closer to said 1833 version, yet still dated 1782.]]
-
-[1833]: https://nla.gov.au/nla.obj-56620350/view?partId=nla.obj-56620571#page/n2/mode/1up
-[1782]: https://books.google.com/books?id=WO5WAAAAcAAJ&newbks=0&pg=PP5
 """"
+
+{+++
+--
+(I was able to find two Chinese versions of the preface,
+given here with punctuation added and non-trivial differences marked.
+I could not decipher some of the cursive characters in the second version;
+these are denoted with a question mark.
+--
+--
+[Summer of 1782 version](https://books.google.com/books?id=WO5WAAAAcAAJ&newbks=0&pg=PP3):
+--
+""""
+--
+::尺牘字韻(:两書:)、坊刻甚(:劇:)、(:然:)大者卷帙浩繁、難於查閱、小本者略而不偹、(:均属未善:)。\
+虞山呉子、武溪温子、合輯分韻撮要及江湖尺牘、可謂簡而(:括:)、確而當(:矣:)。\
+(:惟两書相輔:)而行、(:携帶不難:)、(:簡閱而便:)、\
+(:但購求者多費贏餘:)、(:而携帶簡閱:)、(:終:)未便捷、兹特合為一編、截分上下。\
+或有疑於文者、不妨取徵於韻、或有疑於韻者、不妨再質於文。\
+且水陸舟車、皆(:可按閱:)、誠至便也。(:識者當以予言為不謬:)。\
+是為序。::
+--
+--
+::旹(:乾隆歲次壬寅:)仲夏、花港主人(:書於羊城客舎:)。::
+--
+""""
+--
+[Summer of 1833 version](https://nla.gov.au/nla.obj-56620571):
+--
+""""
+--
+::尺牘字韵(:諸編:)、(:書:)坊(:刋:)刻甚(:盛:)。\
+(:苐見:)大(:本:)者卷帙浩繁、難於查閱、小本者略而不偹、(:未？全？？:)。\
+虞山吳子(:與:)武溪温子、合輯分韵撮要及江湖尺牘、可謂簡而(:朙:)、確而當(:者也:)。\
+(:猶恐此書在江湖之上携帶:)而行、(:大本者:)未(:為:)便㨗、\
+兹特合為(:䄂玉:)一編、截分上下、(:以便携帶:)。\
+或有疑於文者、不妨取徵於韵、或有疑於韵者、不妨再質於文。\
+且水陸舟車、(:凡言信礼:)、皆(:堪取用:)、誠至便也？。\
+是為序(:云:)。::
+--
+--
+::峕(:道光癸巳年:)仲夏、花港主人(:謹識:)。::
+--
+""""
+--
+Williams' English is closer to the first version,
+but contains elements of the second version (in particular 䄂玉, "sleeve gem").
+It is likely that Williams had a version that was published between the two,
+but which was still dated 1782.)
+--
++++}
 
 --{.williams}
 This pocket dictionary is usually bound in four thin volumes, and
