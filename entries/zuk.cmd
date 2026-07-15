@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -156,7 +156,7 @@ E
   ====
   - 【捉】 (zuk1)
     ++
-    1. To play a board game.
+    1. To play a chess-like board game.
        ==
        - 捉棋 (zuk1 kei4-2): "Play chess."
        - 捉圍棋 (zuk1 wai4 kei4-2): "Play surrounding-chess" (i.e. go).

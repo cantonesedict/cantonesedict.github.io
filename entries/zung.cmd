@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -87,7 +87,7 @@ U
   U+4E2D
 A
   ==
-  - $鍾1 (in vernacular 中意 spelt 鍾意)
+  - $鍾1 (in Cantonese 中意 spelt 鍾意)
   ==
 F
   ==
@@ -1129,7 +1129,7 @@ W
     [[Otherwise, an alternative form of 盅. **See $盅zung1 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 中 (in vernacular 中意 spelt 鍾意). **See $中zung1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 中 (in Cantonese 中意 spelt 鍾意). **See $中zung1 for the canonical entry.**]]
     --
   ====
 C

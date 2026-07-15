@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -245,7 +245,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 䁪. **See $䁪zaam2 for the canonical entry.**
+  1. Alternative form of 䁪 (Cantonese). **See $䁪zaam2 for the canonical entry.**
   ++
 S
   ==
@@ -262,7 +262,7 @@ U
   U+406A
 A
   ==
-  - $眨2
+  - $眨2 (Cantonese)
   ==
 F
   [[Not present]]

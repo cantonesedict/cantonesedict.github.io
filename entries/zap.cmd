@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ W
   ====
   - [[Page~557 {𠽃=⿰口執}(7)]]
     --
-    [[Alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
+    [[Alternative form of 蓻 (Cantonese). **See $蓻zap1 for the canonical entry.**]]
     --
   ====
 $$
@@ -130,7 +130,7 @@ W
         take by the hand.
     ==
     --
-    [[Otherwise, an alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 蓻 (Cantonese). **See $蓻zap1 for the canonical entry.**]]
     --
   ====
 P
@@ -317,8 +317,8 @@ U
   U+84FB
 A
   ==
-  - ${𠽃=⿰口執}1
-  - $執1
+  - ${𠽃=⿰口執}1 (Cantonese)
+  - $執1 (Cantonese)
   ==
 F
   [[Not present]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fe
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -124,7 +124,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 淝. **See $淝fe4 for the canonical entry.**
+  1. Alternative form of 淝 (for the Cantonese "diarrhoea" sense). **See $淝fe4 for the canonical entry.**
   ++
 S
   ==
@@ -142,7 +142,7 @@ U
   U+6DDD
 A
   ==
-  - $啡4
+  - $啡4 (for Cantonese "diarrhoea" sense)
   ==
 V
   ==

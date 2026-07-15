@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,14 +79,10 @@ P
   ++
   1. To pierce, to jab, to push through.
   1. To spread, to extend.
-  1. Used in [掙扎](zang#1掙) (to struggle, to break free).
+  1. Used in [掙扎](/entries/zang#掙-1) (to struggle, to break free).
   ++
 E
   ====
-  - 【扎馬】 (zaat3 maa5)
-    ++
-    1. To do the horse stance.
-    ++
   - 【扎醒】 (zaat3 seng2)
     ++
     1. To wake with a start.
@@ -197,6 +193,13 @@ P
       - 紮營 (zaat3 jing4): "Set up camp."
       ==
   ++
+E
+  ====
+  - 【紮馬】 (zaat3 maa5)
+    ++
+    1. To do the horse stance.
+    ++
+  ====
 $$
 
 ### 茁3 | _Ch(a/)t(8)_ [[zaat3]]

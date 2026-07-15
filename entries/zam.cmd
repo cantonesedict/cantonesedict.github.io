@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -883,7 +883,7 @@ U
   U+20E7B
 A
   ==
-  - $朕6
+  - $朕6 (Cantonese)
   ==
 F
   [[Not present]]
@@ -940,7 +940,7 @@ W
         subtile, recondite.
     ==
     --
-    [[Otherwise, an alternative form of {𠹻=⿰口朕}. **See ${𠹻=⿰口朕}zam6 for the canonical entry.**]]
+    [[Otherwise, an alternative form of {𠹻=⿰口朕} (Cantonese). **See ${𠹻=⿰口朕}zam6 for the canonical entry.**]]
     --
   ====
 C

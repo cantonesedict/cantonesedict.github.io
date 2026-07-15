@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -104,8 +104,8 @@ U
   U+5497
 A
   ==
-  - $唨2
-  - $阻2
+  - $唨2 (Cantonese)
+  - $阻2 (Cantonese)
   ==
 F
   [[Not present]]
@@ -172,7 +172,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 咗. **See $咗zo2 for the canonical entry.**
+  1. Alternative form of 咗 (Cantonese). **See $咗zo2 for the canonical entry.**
   ++
 S
   ==
@@ -352,7 +352,7 @@ W
         to retard or interrupt business.
     ==
     --
-    [[Otherwise, an alternative form of 咗. **See $咗zo2 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 咗 (Cantonese). **See $咗zo2 for the canonical entry.**]]
     --
   - [[Page~26* (2)岨]]
     --

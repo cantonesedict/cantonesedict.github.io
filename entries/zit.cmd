@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ W
   ====
   - [[Page~22* 折(7)]]
     --
-    [[Alternative form of 擳. **See $擳zit1 for the canonical entry.**]]
+    [[Alternative form of 擳 (Cantonese). **See $擳zit1 for the canonical entry.**]]
     --
   ====
 S
@@ -87,9 +87,9 @@ H
   depending on the font.
 A
   ==
-  - 㘉
-  - $折1
-  - 瀄 (for "squirt" senses)
+  - 㘉 (Cantonese)
+  - $折1 (Cantonese)
+  - 瀄 (for Cantonese "squirt" senses)
   ==
 F
   [[Not present]]

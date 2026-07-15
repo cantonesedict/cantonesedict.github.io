@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-07-12
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -223,9 +223,9 @@ U
   U+77FA
 A
   ==
-  - $砸3
-  - $磧3
-  - $責3
+  - $砸3 (Cantonese)
+  - $磧3 (Cantonese)
+  - $責3 (Cantonese)
   ==
 V
   ==
@@ -326,7 +326,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
+  1. Alternative form of 矺 (Cantonese). **See $矺zaak3 for the canonical entry.**
   ++
 S
   ==
@@ -347,7 +347,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
+  1. Alternative form of 矺 (Cantonese). **See $矺zaak3 for the canonical entry.**
   ++
 S
   ==
@@ -611,7 +611,7 @@ W
     - [[...]].
     ==
     --
-    [[Otherwise, an alternative form of 矺. **See $矺zaak3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 矺 (Cantonese). **See $矺zaak3 for the canonical entry.**]]
     --
   ====
 C

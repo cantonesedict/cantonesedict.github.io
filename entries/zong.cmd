@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -252,7 +252,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 䚎. **See $䚎zong1 for the canonical entry.**
+  1. Alternative form of 䚎 (Cantonese). **See $䚎zong1 for the canonical entry.**
   ++
 $$
 
@@ -269,7 +269,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 䚎. **See $䚎zong1 for the canonical entry.**
+  1. Alternative form of 䚎 (Cantonese). **See $䚎zong1 for the canonical entry.**
   ++
 $$
 
@@ -555,8 +555,8 @@ U
   U+468E
 A
   ==
-  - ${𥅾=⿰目庄}1
-  - ${𥊙=⿰目⿳囟儿夊}1
+  - ${𥅾=⿰目庄}1 (Cantonese)
+  - ${𥊙=⿰目⿳囟儿夊}1 (Cantonese)
   ==
 F
   [[Not present]]
