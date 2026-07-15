@@ -54,6 +54,7 @@ $$
 - $瘋1
 - $葑1
 - $蜂1
+- ($蠭1)
 - ($豊1)
 - $豐1
 - $酆1
@@ -322,7 +323,7 @@ U
   U+8702
 A
   ==
-  - 蠭
+  - $蠭1
   ==
 F
   ==
@@ -369,6 +370,34 @@ L
     - (_noun-like_) bee, wasp, hornet
     ==
   ====
+$$
+
+### 蠭1 | _(1)Fung_ [[fung1]]
+
+$$.
+R
+  ⾍ + 17
+U
+  U+882D
+F
+  ==
+  - (F1.58 蜂) ::[蜜]蜂::
+  - (F1.58 ::[蠭]::) 同蜂字
+  ==
+W
+  ====
+  - [[Page~66 (1)蜂(1)蠭]]
+    --
+    [[Alternative form of 蜂. **See $蜂fung1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 鋒. **See $鋒fung1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 蜜, and normalised headword {𧔧=⿱逄䖵} to 蠭.
+  ==
 $$
 
 ### 豊1 | _(1)Fung_ [[fung1]]

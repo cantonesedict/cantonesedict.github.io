@@ -8629,6 +8629,12 @@
 "text":"U+8702 蠭 (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 蜂蠭) Bees, wasps, hornets (Kangxi 蠭: 飛蟲螫人者 etc.); _mat fung_ (mat6 fung1 蜜蜂), a honey bee; _fung tau_ (fung1 dau3 蜂竇) a bee's-nest; _wong fung tau_ (wong4 fung1 dau3 黃蜂竇) a hornet's nest, a villain; _fung ch'au_ (fung1 caau4 蜂巢), a bee-hive; _ma fung_ (maa5 fung1 馬蜂), a ~~horse-fly, a breeze~~ ``wasp or hornet``; _fung cham_ (fung1 zam1 蜂針), a sting. Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭. Williams' 蜂竇, 黃蜂竇: Corrected _tau_ (dau6) to _tau_ (dau3). 【蜂】 (phjowng) (_noun-like_) bee, wasp, hornet"
 }
 },
+"蠭":{
+"fung1":{
+"isCanonical":false,
+"text":"U+882D (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 蜂蠭) Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭."
+}
+},
 "豊":{
 "fung1":{
 "isCanonical":false,

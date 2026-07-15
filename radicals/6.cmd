@@ -1658,6 +1658,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 17
+    ,
+      <nav class="sideways">
+      ==
+      - $蠭fung1
+      ==
+      </nav>
+  //
     , 18
     ,
       <nav class="sideways">
