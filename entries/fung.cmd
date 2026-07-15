@@ -53,6 +53,7 @@ $$
 - $楓1
 - $瘋1
 - $葑1
+- $蜂1
 - ($豊1)
 - $豐1
 - $酆1
@@ -310,6 +311,64 @@ S
   ==
   - $葑fung3 (TODO) <## 菰根也 ##>
   ==
+$$
+
+### 蜂1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⾍ + 7
+U
+  U+8702
+A
+  ==
+  - 蠭
+  ==
+F
+  ==
+  - (F1.58 蜂) ::[蜜]蜂::
+  - (F1.58 ::[蠭]::) 同蜂字
+  ==
+W
+  ====
+  - [[Page~66 (1)蜂(1)蠭]]
+    ==
+    - Bees, wasps, hornets [[Kangxi 蠭: 飛蟲螫人者 etc.]];
+    - _mat(9) (1)fung_
+        [[mat6 fung1 蜜蜂]],
+        a honey bee;
+    - _(1)fung ~~tau(6)~~ ``tau(3)``_
+        [[fung1 dau3 蜂竇]]
+        a bee's-nest;
+    - _(4)wong (1)fung ~~tau(6)~~ ``tau(3)``_
+        [[wong4 fung1 dau3 黃蜂竇]]
+        a hornet's nest, a villain;
+    - _(1)fung (4)ch(')(a/)u_
+        [[fung1 caau4 蜂巢]],
+        a bee-hive;
+    - _(5)m(a/) (1)fung_
+        [[maa5 fung1 馬蜂]],
+        a ~~horse-fly, a breeze~~ ``wasp or hornet``;
+    - _(1)fung (1)cham_
+        [[fung1 zam1 蜂針]],
+        a sting.
+    ==
+    --
+    [[Otherwise, an alternative form of 鋒. **See $鋒fung1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 蜜, and normalised headword {𧔧=⿱逄䖵} to 蠭.
+  - Williams' 蜂竇, 黃蜂竇: Corrected _tau(6)_ (dau6) to _tau(3)_ (dau3).
+  ==
+L
+  ====
+  * 【蜂】 (phjowng)
+    ==
+    - (_noun-like_) bee, wasp, hornet
+    ==
+  ====
 $$
 
 ### 豊1 | _(1)Fung_ [[fung1]]
