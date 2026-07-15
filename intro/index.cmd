@@ -227,7 +227,7 @@ these are denoted with a question mark.
 --
 """"
 --
-[Summer of 1833 version](https://nla.gov.au/nla.obj-56620571):
+[Summer of 1833 version]<1.3>:
 --
 """"
 --
