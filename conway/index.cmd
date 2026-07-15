@@ -83,7 +83,7 @@ I have decided to leverage Williams' 1856 ''Tonic Dictionary''
 for two reasons:
 --
 ++{.modern}
-1. It is an extremely high quality English record of the Cantonese vernacular; and
+1. It is an extremely high-quality English record of the Cantonese vernacular; and
 2. At the same time, it is very obvious where Williams has drawn upon the Kangxi Dictionary to document the classical language.
 ++
 --{.modern}
