@@ -320,7 +320,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-williams
   [|] (?P<page_slug> [n]? [0-9]+ )
   (?P<etc> [ ] of [ ] the [ ] original ) ?
     -->
-  [Page~\g<page_number>\g<asterisk>\g<etc>](https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
+  [Page~\g<page_number>\g<asterisk>\g<etc>]<\g<page_slug>>
 * < (?P<page_slug> [n]? [0-9]+ ) >
     -->
   (https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
