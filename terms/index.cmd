@@ -733,6 +733,12 @@ window.onload = applyFilter;
     , jau5 zaau2
     , [有找](/entries/zaau#cantonese-有找)
   //
+    , jau5 zan6 si4
+    , [有陣時](/entries/zan#cantonese-有陣時)
+  //
+    , jau5 zan6 si4-2
+    , [有陣時](/entries/zan#cantonese-有陣時)
+  //
     , ji5 cin4
     , [以前](/entries/cin#cantonese-以前)
   //

@@ -902,6 +902,10 @@ E
        (both in the ["moment"](#cantonese-一陣-moment) sense
        and in the ["later" and subjunctive marker](#cantonese-一陣-later) senses).
     ++
+  - 【有陣時】 (jau5 zan6 si4, jau5 zan6 si4-2)
+    ++
+    1. Sometimes.
+    ++
   - 【陣-moment】 (zan6)
     ++
     1. Short for [一陣](#cantonese-一陣-moment) in the "moment" sense.
