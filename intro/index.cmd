@@ -1019,7 +1019,7 @@ see [vowel shift chart].)
 
 ++{.williams}
 1.{#final-order-1}
-  _S(i/)n_, s(i/)t,
+  _S(i/)n_, _s(i/)t_,
   like _seen_, _seat_, _peat_, _mean_.
   Several of the words commencing with a vowel,
   as _(i/)n_ 言, _(i/)n_ 現, _(i/)t_ 熱, are heard with
