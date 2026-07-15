@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Conway's preface
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> Conway's preface
 
@@ -59,8 +59,8 @@ due to the political reality of what is considered "standard".
 is difficult to characterise.
 On the one hand, it is folly to suggest that Cantonese is not Chinese:
 it is clearly a descendant of the classical language,
-and preserves many usages that Mandarin does not
-(e.g. preferring 飲食 over 吃喝, 似 over 像, 今日 over 今天, etc.).
+and preserves many usages that Mandarin disprefers
+(e.g. 飲食 not 吃喝, 似 not 像, 今日 not 今天, etc.).
 On the other hand, it is equally folly to suggest that
 *every* aspect of Cantonese can be traced to the classics:
 this is demonstrably false by way of the comparative method.
