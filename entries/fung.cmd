@@ -162,7 +162,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)峯]]
+  - [[Page~66 (1)峯]]
     --
     [[Alternative form of 峰. **See $峰fung1 for the canonical entry.**]]
     --
@@ -186,7 +186,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)峯; here normalised to 峰]]
+  - [[Page~66 (1)峯; here normalised to 峰]]
     ==
     - The peak of a mountain [[Kangxi 峯: 山耑也]];
     - a camel's hump;
