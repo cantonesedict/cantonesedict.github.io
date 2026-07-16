@@ -583,6 +583,9 @@ window.onload = applyFilter;
     , fang6
     , [揈~(swing)](/entries/fing#cantonese-揈-swing)
   //
+    , fat1
+    , [唿](/entries/fat#cantonese-唿)
+  //
     , fe1
     , [啡](/entries/fe#cantonese-啡)
   //

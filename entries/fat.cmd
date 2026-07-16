@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-16
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -43,6 +43,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($佛1)
+- $唿1
 - ($巿1)
 - $弗1
 - $彿1
@@ -89,6 +90,34 @@ S
   - $佛bat6 (TODO)
   - $佛fat6
   ==
+$$
+
+###+ 唿1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+553F
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【唿】 (fat1)
+    ++
+    1. A connected part or portion.
+       ==
+       - 甩錦唿 (lat1 gam2 fat1): "Lost [a] patch [of hair]."
+       - 邊一唿 (bin1 jat1 fat1): "Which part?"
+       - 呢一唿 (ni1 jat1 fat1): "This part."
+       ==
+    ++
+  ====
+  --
+  The spelling 唿 is arbitrary.
+  --
 $$
 
 ###+ 巿1 | _Fat(7)_ [[fat1]]
