@@ -646,6 +646,15 @@ window.onload = applyFilter;
       - (_verb-like_) [to] fine
       ==
   //
+    , `bjowng`
+    , [逢~(meet)](/entries/fung#rendering-逢-meet)
+    ,
+      ==
+      - (_verb-like_) [to] encounter, [to] meet (with)
+      - (_verb-like_) (_met._) [to] pander unto
+      - (_adjective-like_) large
+      ==
+  //
     , `bju`
     , [夫~(voiced)](/entries/fu#rendering-夫-voiced)
     ,

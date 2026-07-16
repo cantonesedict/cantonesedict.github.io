@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fung1](#1)
+- [fung4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -837,5 +838,77 @@ L
 S
   ==
   - $風fung3 (TODO)
+  ==
+$$
+
+
+##{#4 .williams} (4)Fung [[fung4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $逢4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 逢4 | _(4)Fung_ [[fung4]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+9022
+F
+  ==
+  - (F1.59 逢) 遇也迎也
+  ==
+W
+  ====
+  - [[Page~66 (4)逢]]
+    ==
+    - To meet undesignedly [[Kangxi: 遇也, 値也]];
+    - to meet with;
+    - to run against, to occur;
+    - great, wide [[Kangxi: 大也]];
+    - _(4)n(a/)n (4)fung_
+        [[naan4 fung4 難逢]],
+        difficulty in seeing (as a friend);
+    - _(4)fung (4)ying_
+        [[fung4 jing4 逢迎]],
+        to go out to meet;
+    - _(1)s(e/)ung (4)fung_
+        [[soeng1 fung4 相逢]],
+        two persons meeting;
+    - _(4)fung (4)yan p(i/)n(6) sh(u:)t(8) (1)s(a/)m (1)fan w(a/)(6)_
+        [[fung4 jan4 bin6 syut3 saam1 fan1 waa6 逢人便說三分話]]
+        speak only a little to strangers;
+    - _(4)fung ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
+        [[fung4 zoek6 逢着]]
+        to meet one.
+    ==
+  ====
+C
+  ==
+  - Williams' 逢迎: Figuratively, to pander to.
+  - Williams' 逢着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+P
+  ++
+  1. Every, for all, whenever.
+  1. To pander to.
+  ++
+L
+  ====
+  * 【逢-meet】 (bjowng)
+    ==
+    - (_verb-like_) [to] encounter, [to] meet (with)
+    - (_verb-like_) (_met._) [to] pander unto
+    - (_adjective-like_) large
+    ==
+  ====
+S
+  ==
+  - $逢pung4 (TODO)
   ==
 $$
