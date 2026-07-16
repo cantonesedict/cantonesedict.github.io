@@ -647,12 +647,26 @@ window.onload = applyFilter;
       ==
   //
     , `bjowng`
+    , [縫~(verb)](/entries/fung#rendering-縫-verb)
+    ,
+      ==
+      - (_verb-like_) [to] sew, (_met._) [to] mend
+      ==
+  //
+    , `bjowng`
     , [逢~(meet)](/entries/fung#rendering-逢-meet)
     ,
       ==
       - (_verb-like_) [to] encounter, [to] meet (with)
       - (_verb-like_) (_met._) [to] pander unto
       - (_adjective-like_) large
+      ==
+  //
+    , `bjowngH`
+    , [縫~(noun)](/entries/fung#rendering-縫-noun)
+    ,
+      ==
+      - (_noun-like_) seam
       ==
   //
     , `bju`

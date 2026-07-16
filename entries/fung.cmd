@@ -847,10 +847,80 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $縫4
 - $逢4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 縫4 | _(4)Fung_ [[fung4]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E2B
+A
+  ==
+  - 綘
+  - 缝 (Mainland simplified)
+  ==
+V
+  ==
+  - fung4-2 (vernacular rising-tone noun in 裁縫)
+  - fung6 (per 《廣韻》扶用切 for noun sense)
+  ==
+F
+  ==
+  - (F1.59 縫) ::裁縫[彌]縫::
+  ==
+W
+  ====
+  - [[Page~66 (4)縫]]
+    ==
+    - To sew, to stitch [[Kangxi: 以鍼紩衣也]];
+    - a seam [[Kangxi: 衣縫也]], a cleft;
+    - _(4)fung (1)(i/)_
+        [[fung4 ji1 縫衣]],
+        to sew clothes;
+    - _(4)fung (1)san_
+        [[fung4 san1 縫新]],
+        to make new clothes;
+    - _(4)fung (2)hau_
+        [[fung4 hau2 縫口]],
+        a seam;
+    - _(4)fung (4)m(a/)i_
+        [[fung4 maai4 縫埋]],
+        to sew together.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 彌.
+  ==
+P
+  ++
+  1. A gap.
+      ==
+      - 牙縫刷 (ngaa4 fung4 caat3-2): "Interdental brush."
+      ==
+  ++
+L
+  ====
+  * 【縫-verb】 (bjowng)
+    ==
+    - (_verb-like_) [to] sew, (_met._) [to] mend
+    ==
+  * 【縫-noun】 (bjowngH)
+    ==
+    - (_noun-like_) seam
+    ==
+  ====
+S
+  ==
+  - ($縫fung6) (TODO)
+  ==
+$$
 
 ### 逢4 | _(4)Fung_ [[fung4]]
 
