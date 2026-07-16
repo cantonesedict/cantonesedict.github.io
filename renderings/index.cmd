@@ -3696,6 +3696,13 @@ window.onload = applyFilter;
       ==
   //
     , `phjowng`
+    , [丰](/entries/fung#rendering-丰)
+    ,
+      ==
+      - (_adjective-like_) luxuriant, lush
+      ==
+  //
+    , `phjowng`
     , [峰](/entries/fung#rendering-峰)
     ,
       ==

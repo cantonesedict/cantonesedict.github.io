@@ -47,6 +47,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $丰1
 - $封1
 - ($峯1)
 - $峰1
@@ -64,6 +65,52 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 丰1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⼁ + 3
+U
+  U+4E30
+H
+  May appear with first stroke ㇒ (assumed here) or ㇐,
+  depending on the font.
+V
+  ==
+  - fung4 (alternative per 《集韻》符風切)
+  ==
+F
+  ==
+  - (F1.58 丰) ::丰采又面丰[滿]也::
+  ==
+W
+  ====
+  - [[Page~66 (1)丰]]
+    ==
+    - Luxuriant [[Kangxi: 丰茸草盛貌]];
+    - plump, good-looking [[Kangxi: 容色美好貌]];
+    - easy, melodious;
+    - a round face;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 風 (for the "manner/demeanour" sense). **See $風fung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Kangxi considers the form with first stroke ㇐ (horizontal) to be standard.
+  - Fan Wan entry: Corrected malformed 滿.
+  ==
+L
+  ====
+  * 【丰】 (phjowng)
+    ==
+    - (_adjective-like_) luxuriant, lush
+    ==
+  ====
+$$
 
 ### 封1 | _(1)Fung_ [[fung1]]
 
@@ -662,6 +709,7 @@ U
   U+98A8
 A
   ==
+  - $丰1 (for "manner/demeanour" senses)
   - 风 (Mainland simplified)
   ==
 F
@@ -745,6 +793,16 @@ W
     --
     [[Otherwise, an alternative form of 瘋. **See $瘋fung1 for the canonical entry.**]]
     --
+  - [[Page~66 (1)丰]]
+    ==
+    - [[...]];
+    - _(2)s(e/)ung mong(6) (1)fung (4)(i/)_
+        [[soeng2 mong6 fung1 ji4 想望丰儀]],
+        I wish to see your pleasant ``demeanour and`` face;
+    - _(1)fung (2)ts(')oi_
+        [[fung1 coi2 丰采]],
+        a graceful carriage.
+    ==
   ====
 C
   ==
