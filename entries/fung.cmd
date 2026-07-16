@@ -51,6 +51,7 @@ $$
 - ($峯1)
 - $峰1
 - $楓1
+- $烽1
 - $瘋1
 - $葑1
 - $蜂1
@@ -231,6 +232,46 @@ W
     - _(1)fung (4)shan_
         [[fung1 san4 楓宸]],
         the palace, the emperor [[Kangxi: 楓木漢宮殿中多植之故稱楓宸]].
+    ==
+  ====
+$$
+
+### 烽1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⽕ + 7
+U
+  U+70FD
+A
+  ==
+  - 㷭
+  ==
+F
+  ==
+  - (F1.58 烽) 烽火置薪火於高處[賊]至則焚之以相吿曰烽火
+  ==
+W
+  ====
+  - [[Page~66 (1)烽]]
+    ==
+    - A fire-place erected on hills, in which fires are lighted;
+    - _(1)fung (1)(i/)n_
+        [[fung1 jin1 烽煙]],
+        a beacon-fire.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 賊.
+  - Williams' "A fire-place [...]": Specifically, for the purposes of
+    signalling or warning (Kangxi 㷭: 同烽, 燧表{𠋫=⿰亻侯}也邊有警則舉火).
+  ==
+L
+  ====
+  * 【烽】 (phjowng)
+    ==
+    - (_noun-like_) beacon
     ==
   ====
 $$

@@ -8611,6 +8611,12 @@
 "text":"U+6953 枫 (Mainland simplified) (F1.58 楓) 木名 (Page 65 楓) The maple (Kangxi: 木也 etc.); also applied to the sycamore; _fung shan_ (fung1 san4 楓宸), the palace, the emperor (Kangxi: 楓木漢宮殿中多植之故稱楓宸)."
 }
 },
+"烽":{
+"fung1":{
+"isCanonical":true,
+"text":"U+70FD 㷭 (F1.58 烽) 烽火置薪火於高處賊至則焚之以相吿曰烽火 (Page 66 烽) A fire-place erected on hills, in which fires are lighted; _fung in_ (fung1 jin1 烽煙), a beacon-fire. Fan Wan entry: Fixed missing strokes in 賊. Williams' \"A fire-place ...\": Specifically, for the purposes of signalling or warning (Kangxi 㷭: 同烽, 燧表𠋫也邊有警則舉火). 【烽】 (phjowng) (_noun-like_) beacon"
+}
+},
 "瘋":{
 "fung1":{
 "isCanonical":true,

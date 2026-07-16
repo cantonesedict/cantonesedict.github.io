@@ -3703,6 +3703,13 @@ window.onload = applyFilter;
       ==
   //
     , `phjowng`
+    , [烽](/entries/fung#rendering-烽)
+    ,
+      ==
+      - (_noun-like_) beacon
+      ==
+  //
+    , `phjowng`
     , [蜂](/entries/fung#rendering-蜂)
     ,
       ==
