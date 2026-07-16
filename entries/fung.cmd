@@ -1061,6 +1061,10 @@ A
   ==
   - 冯 (Mainland simplified)
   ==
+V
+  ==
+  - fung4-2 (vernacular rising-tone for endearment)
+  ==
 F
   ==
   - (F1.59 馮) 姓又音朋
