@@ -8626,7 +8626,7 @@
 "蜂":{
 "fung1":{
 "isCanonical":true,
-"text":"U+8702 蠭 (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 蜂蠭) Bees, wasps, hornets (Kangxi 蠭: 飛蟲螫人者 etc.); _mat fung_ (mat6 fung1 蜜蜂), a honey bee; _fung tau_ (fung1 dau3 蜂竇) a bee's-nest; _wong fung tau_ (wong4 fung1 dau3 黃蜂竇) a hornet's nest, a villain; _fung ch'au_ (fung1 caau4 蜂巢), a bee-hive; _ma fung_ (maa5 fung1 馬蜂), a ~~horse-fly, a breeze~~ ``wasp or hornet``; _fung cham_ (fung1 zam1 蜂針), a sting. Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭. Williams' 蜂竇, 黃蜂竇: Corrected _tau_ (dau6) to _tau_ (dau3). 【蜂】 (phjowng) (_noun-like_) bee, wasp, hornet"
+"text":"U+8702 蠭 鋒 (for \"swarming\" sense) (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 蜂蠭) Bees, wasps, hornets (Kangxi 蠭: 飛蟲螫人者 etc.); _mat fung_ (mat6 fung1 蜜蜂), a honey bee; _fung tau_ (fung1 dau3 蜂竇) a bee's-nest; _wong fung tau_ (wong4 fung1 dau3 黃蜂竇) a hornet's nest, a villain; _fung ch'au_ (fung1 caau4 蜂巢), a bee-hive; _ma fung_ (maa5 fung1 馬蜂), a ~~horse-fly, a breeze~~ ``wasp or hornet``; _fung cham_ (fung1 zam1 蜂針), a sting. Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭. Williams' 蜂竇, 黃蜂竇: Corrected _tau_ (dau6) to _tau_ (dau3). Swarming. 【蜂】 (phjowng) (_noun-like_) bee, wasp, hornet (_adjective-like_) (_met._) swarming"
 }
 },
 "蠭":{
@@ -8656,7 +8656,7 @@
 "鋒":{
 "fung1":{
 "isCanonical":true,
-"text":"U+92D2 蜂 蠭 鏠 锋 (Mainland simplified) (F1.58 鋒) 刀劍之芒 (Page 66 鋒) The point of a weapon, a sharp pont (Kangxi: 兵耑也 etc.); the vanguard (Kangxi: 軍之前列); bristling; turbulent; to rise up (as spears appear); _kau fung_ (gaau1 fung1 交鋒), to ~~attack~~ ``engage in battle``; _sin fung_ (sin1 fung1 先鋒), the van. Williams' 先鋒: Here, \"van\" is short for \"vanguard\". The cutting edge of a weapon. A meteorological front. Pointed, sharp. 【鋒】 (phjowng) (_noun-like_) weapon-point, pointed-weapon (_noun-like_) (_met._) vanguard (_noun-like_) (_met._) momentum"
+"text":"U+92D2 蜂 蠭 鏠 锋 (Mainland simplified) (F1.58 鋒) 刀劍之芒 (Page 66 鋒) The point of a weapon, a sharp pont (Kangxi: 兵耑也 etc.); the vanguard (Kangxi: 軍之前列); bristling; turbulent; ~~to rise up (as spears appear);~~ _kau fung_ (gaau1 fung1 交鋒), to ~~attack~~ ``engage in battle``; _sin fung_ (sin1 fung1 先鋒), the van. Williams' \"to rise up (as spears appear)\": This is a reasonable rendering of Kangxi 《註》如鋒刃齊起而難犯, but that commentary applies to examples with the phrase 鋒起 rather than to 鋒 by itself. Williams' 先鋒: Here, \"van\" is short for \"vanguard\". The cutting edge of a weapon. A meteorological front. Pointed, sharp. 【鋒】 (phjowng) (_noun-like_) weapon-point, (_met._) vanguard, momentum (_adjective-like_) pointed"
 }
 },
 "風":{

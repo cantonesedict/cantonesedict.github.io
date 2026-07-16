@@ -3707,15 +3707,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) bee, wasp, hornet
+      - (_adjective-like_) (_met._) swarming
       ==
   //
     , `phjowng`
     , [鋒](/entries/fung#rendering-鋒)
     ,
       ==
-      - (_noun-like_) [weapon]-point, pointed-[weapon]
-      - (_noun-like_) (_met._) vanguard
-      - (_noun-like_) (_met._) momentum
+      - (_noun-like_) [weapon]-point, (_met._) vanguard, momentum
+      - (_adjective-like_) pointed
       ==
   //
     , `phju`

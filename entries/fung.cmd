@@ -325,6 +325,7 @@ U
 A
   ==
   - $蠭1
+  - $鋒1 (for "swarming" sense)
   ==
 F
   ==
@@ -364,11 +365,16 @@ C
   - Fan Wan entry: Corrected malformed 蜜, and normalised headword {𧔧=⿱逄䖵} to 蠭.
   - Williams' 蜂竇, 黃蜂竇: Corrected _tau(6)_ (dau6) to _tau(3)_ (dau3).
   ==
+P
+  ++
+  1. Swarming.
+  ++
 L
   ====
   * 【蜂】 (phjowng)
     ==
     - (_noun-like_) bee, wasp, hornet
+    - (_adjective-like_) (_met._) swarming
     ==
   ====
 $$
@@ -569,7 +575,7 @@ W
     - the vanguard [[Kangxi: 軍之前列]];
     - bristling;
     - turbulent;
-    - to rise up (as spears appear);
+    - ~~to rise up (as spears appear);~~
     - _(1)k(a/)u (1)fung_
         [[gaau1 fung1 交鋒]],
         to ~~attack~~ ``engage in battle``;
@@ -577,9 +583,16 @@ W
         [[sin1 fung1 先鋒]],
         the van.
     ==
+    --
+    [[Otherwise, an alternative form of 蜂 (for the "swarming" sense). **See $蜂fung1 for the canonical entry.**]]
+    --
   ====
 C
   ==
+  - Williams' "to rise up (as spears appear)":
+    This is a reasonable rendering of Kangxi 《註》如鋒刃齊起而難犯,
+    but that commentary applies to examples with the phrase 鋒起
+    rather than to 鋒 by itself.
   - Williams' 先鋒: Here, "van" is short for "vanguard".
   ==
 P
@@ -592,9 +605,8 @@ L
   ====
   * 【鋒】 (phjowng)
     ==
-    - (_noun-like_) [weapon]-point, pointed-[weapon]
-    - (_noun-like_) (_met._) vanguard
-    - (_noun-like_) (_met._) momentum
+    - (_noun-like_) [weapon]-point, (_met._) vanguard, momentum
+    - (_adjective-like_) pointed
     ==
   ====
 $$
