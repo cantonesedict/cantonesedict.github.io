@@ -796,7 +796,7 @@ that collapses the merged pairs (including Jyutping).
     , [__or__ as in n__or__],
       in a general Australian accent with strictly no R consonant,
       followed by [__ü__ as in __ü__ber], in German
-    , Also pronounced an unrounded coda, i.e. [ɔːi].
+    , Also pronounced with an unrounded coda, i.e. [ɔːi].
   //
     , 高
     , [ou]
@@ -867,7 +867,7 @@ that collapses the merged pairs (including Jyutping).
     , [__u__ as in p__u__ll],
       in a general Australian accent, but longer,
       followed by [__ü__ as in __ü__ber], in German
-    , Also pronounced an unrounded coda, i.e. [uːi].
+    , Also pronounced with an unrounded coda, i.e. [uːi].
   //
     , 歡
     , [uːn]
