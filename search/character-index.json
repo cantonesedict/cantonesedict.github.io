@@ -8695,6 +8695,12 @@
 "text":"U+6367 (F1.61 捧) 兩手持物也 (Page 66 捧)"
 }
 },
+"諷":{
+"fung3":{
+"isCanonical":true,
+"text":"U+8AF7 風 讽 (Mainland simplified) (F1.61 諷 _Fung_ (fung2)) 譏諷又諷諫 (F1.61 風 _Fung_ (fung2)) 同上 (Page 67 諷 _Fung_ (fung2); here corrected to _Fung_ (fung3)) To recite (Kangxi: 誦也) ~~or rehearse in a musical tone~~; ~~recitative;~~ to ridicule, to satirize~~,~~``;`` to reprove by irony~~;~~``,`` metaphor, ``or`` allusion (Kangxi: 敎也, 譬喩也, 諫刺也); _fung kan_ (fung3 gaan3 諷諫) ~~satire,~~ to censure; _fung ts'z'_ (fung3 ci3 諷刺) pointed irony; _fung sz'_ (fung3 si6 諷？) satirical ballads; _fung tsung_ (fung3 zung6 諷誦) to chant (as priests do). Fan Wan entry: Corrected 幾 to 譏. Williams' \"or rehearse in a musical tone\", \"recitative\": Kangxi gives the commentary 《註》倍文曰諷以聲節之曰誦, which prescribes 誦, not 諷, as being the rhythmic (or musical) type of recitation. 【諷】 (pjuwngH) (_verb-like_) to recite (_verb-like_) to criticise (tactfully)"
+}
+},
 "縫":{
 "fung4":{
 "isCanonical":true,
@@ -13896,7 +13902,7 @@
 "誦":{
 "zung6":{
 "isCanonical":true,
-"text":"U+8AA6 頌 诵 (Mainland simplified) (F1.63 誦) 誦讀 (Page 608 誦) To hum, to recite over, to read in a humming tone (Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.), as priests do; a murmuring, recitative way of reading; ~~disputing,~~ reviling (Kangxi: 怨謗亦曰誦); _pui tsung_ (bui6 zung6 背誦) to say memoriter; _tsung king_ (zung6 ging1 誦經), to recite the liturgy; _tsung tuk_ (zung6 duk6 誦讀) to read in a singing way, as children do in school. Williams' 背誦: Corrected _pui_ (bui3) to _pui_ (bui6). Williams' 誦經: Especially Buddhist scriptures. To discourse, to speak of (Kangxi: 論也言也 etc.). 【誦】 (zjowngH) (_verb-like_) to recite (_noun-like_) recitative (_verb-like_) to mock"
+"text":"U+8AA6 頌 诵 (Mainland simplified) (F1.63 誦) 誦讀 (Page 608 誦) To hum, to recite over, to read in a humming tone (Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.), as priests do; a murmuring, recitative way of reading; ~~disputing,~~ reviling (Kangxi: 怨謗亦曰誦); _pui tsung_ (bui6 zung6 背誦) to say memoriter; _tsung king_ (zung6 ging1 誦經), to recite the liturgy; _tsung tuk_ (zung6 duk6 誦讀) to read in a singing way, as children do in school. Williams' 背誦: Corrected _pui_ (bui3) to _pui_ (bui6). Williams' 誦經: Especially Buddhist scriptures. To discourse, to speak of (Kangxi: 論也言也 etc.). 【誦】 (zjowngH) (_verb-like_) to chant, to recite (_noun-like_) recitative (_verb-like_) to mock"
 }
 },
 "頌":{

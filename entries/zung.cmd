@@ -2507,7 +2507,7 @@ L
   ====
   * 【誦】 (zjowngH)
     ==
-    - (_verb-like_) [to] recite
+    - (_verb-like_) [to] chant, [to] recite
     - (_noun-like_) recitative
     - (_verb-like_) [to] mock
     ==

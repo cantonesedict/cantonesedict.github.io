@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fung1](#1)
 - [fung2](#2)
+- [fung3](#3)
 - [fung4](#4)
 ==
 </nav>
@@ -905,6 +906,74 @@ S
   - ($捧bung2) (TODO)
   - $捧pung2 (TODO)
   ==
+$$
+
+
+##{#3 .williams} Fung(3) [[fung3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $諷3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 諷3 | _Fung(3)_ [[fung3]]
+
+$$
+R
+  ⾔ + 9
+U
+  U+8AF7
+A
+  ==
+  - 風
+  - 讽 (Mainland simplified)
+  ==
+F
+  ==
+  - (F1.61 諷 _(2)Fung_ (fung2)) ::[譏]諷又諷諫::
+  - (F1.61 風 _(2)Fung_ (fung2)) 同上
+  ==
+W
+  ====
+  - [[Page~67 (2)諷 _(2)Fung_ (fung2); here corrected to _Fung(3)_ (fung3)]]
+    ==
+    - To recite [[Kangxi: 誦也]] ~~or rehearse in a musical tone~~;
+    - ~~recitative;~~
+    - to ridicule, to satirize~~,~~``;``
+    - to reprove by irony~~;~~``,`` metaphor, ``or`` allusion [[Kangxi: 敎也, 譬喩也, 諫刺也]];
+    - _~~(2)fung~~ ``fung(3)`` k(a/)n(3)_
+        [[fung3 gaan3 諷諫]]
+        ~~satire,~~ to censure;
+    - _~~(2)fung~~ ``fung(3)`` ts(')z'(3)_
+        [[fung3 ci3 諷刺]]
+        pointed irony;
+    - _~~(2)fung~~ ``fung(3)`` sz'(6)_
+        [[fung3 si6 諷？]]
+        satirical ballads;
+    - _~~(2)fung~~ ``fung(3)`` tsung(6)_
+        [[fung3 zung6 諷誦]]
+        to chant (as priests do).
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 幾 to 譏.
+  - Williams' "or rehearse in a musical tone", "recitative":
+    Kangxi gives the commentary 《註》倍文曰諷以聲節之曰誦,
+    which prescribes 誦, not 諷,
+    as being the rhythmic (or musical) type of recitation.
+  ==
+L
+  ====
+  * 【諷】 (pjuwngH)
+    ==
+    - (_verb-like_) [to] recite
+    - (_verb-like_) [to] criticise (tactfully)
+    ==
+  ====
 $$
 
 

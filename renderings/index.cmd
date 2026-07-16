@@ -4615,6 +4615,14 @@ window.onload = applyFilter;
       - (_noun-like_) (_met._) [in] heat
       ==
   //
+    , `pjuwngH`
+    , [諷](/entries/fung#rendering-諷)
+    ,
+      ==
+      - (_verb-like_) [to] recite
+      - (_verb-like_) [to] criticise (tactfully)
+      ==
+  //
     , `sa`
     , [傞](/entries/co#rendering-傞)
     ,
@@ -10957,7 +10965,7 @@ window.onload = applyFilter;
     , [誦](/entries/zung#rendering-誦)
     ,
       ==
-      - (_verb-like_) [to] recite
+      - (_verb-like_) [to] chant, [to] recite
       - (_noun-like_) recitative
       - (_verb-like_) [to] mock
       ==

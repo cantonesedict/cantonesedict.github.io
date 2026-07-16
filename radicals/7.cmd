@@ -250,6 +250,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$諳am1, $諳am2}
+      - $諷fung3
       - $諮zi1
       ==
       </nav>
