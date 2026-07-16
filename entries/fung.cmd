@@ -849,6 +849,7 @@ $$
 =={.modern}
 - $縫4
 - $逢4
+- $馮4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -980,5 +981,37 @@ L
 S
   ==
   - $逢pung4 (TODO)
+  ==
+$$
+
+### 馮4 | _(4)Fung_ [[fung4]]
+
+$$
+R
+  ⾺ + 2
+U
+  U+99AE
+A
+  ==
+  - 冯 (Mainland simplified)
+  ==
+F
+  ==
+  - (F1.59 馮) 姓又音朋
+  ==
+W
+  ====
+  - [[Page~66 (4)馮]]
+    ==
+    <## TODO: correct to $馮pang4
+    - A horse running;
+    ##>
+    - [[...]];
+    - a surname [[Kangxi: 姓也]].
+    ==
+  ====
+S
+  ==
+  - $馮pang4 (TODO)
   ==
 $$
