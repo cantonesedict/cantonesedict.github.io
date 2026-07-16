@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fung1](#1)
+- [fung2](#2)
 - [fung4](#4)
 ==
 </nav>
@@ -838,6 +839,45 @@ L
 S
   ==
   - $風fung3 (TODO)
+  ==
+$$
+
+
+##{#2 .williams} (2)Fung [[fung2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($俸2)
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 俸2 | _(2)Fung_ [[fung2]]
+
+$$.
+R
+  ⼈ + 8
+U
+  U+4FF8
+F
+  ==
+  - (F1.61 俸) ::俸[祿]::
+  ==
+W
+  ====
+  - [[Page~66 (2)俸]]
+    --
+    [[Reading variation (vernacular rising-tone noun). **See $俸fung6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 祿.
+  ==
+S
+  ==
+  - $俸fung6 (TODO)
   ==
 $$
 
