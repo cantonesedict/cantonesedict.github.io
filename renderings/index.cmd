@@ -4620,7 +4620,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] recite
-      - (_verb-like_) [to] criticise (tactfully)
+      - (_verb-like_) [to] criticise tactfully
+      ==
+  //
+    , `pjuwngH`
+    , [風~(verb)](/entries/fung#rendering-風-verb)
+    ,
+      ==
+      - (_verb-like_) [to] blow
+      - (_verb-like_) [to] criticise tactfully
       ==
   //
     , `sa`

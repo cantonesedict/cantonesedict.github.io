@@ -839,7 +839,7 @@ L
   ====
 S
   ==
-  - $風fung3 (TODO)
+  - $風fung3
   ==
 $$
 
@@ -915,6 +915,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $諷3
+- $風3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -928,7 +929,7 @@ U
   U+8AF7
 A
   ==
-  - 風
+  - $風3
   - 讽 (Mainland simplified)
   ==
 F
@@ -963,7 +964,7 @@ C
   - Fan Wan entry: Corrected 幾 to 譏.
   - Williams' "or rehearse in a musical tone", "recitative":
     Kangxi gives the commentary 《註》倍文曰諷以聲節之曰誦,
-    which prescribes 誦, not 諷,
+    which prescribes 誦, *not* 諷,
     as being the rhythmic (or musical) type of recitation.
   ==
 L
@@ -971,9 +972,47 @@ L
   * 【諷】 (pjuwngH)
     ==
     - (_verb-like_) [to] recite
-    - (_verb-like_) [to] criticise (tactfully)
+    - (_verb-like_) [to] criticise tactfully
     ==
   ====
+$$
+
+###+ 風3 | _Fung(3)_ [[fung3]]
+
+$$
+R
+  ⾵ + 0
+  ⾍ + 3
+U
+  U+98A8
+A
+  ==
+  - 风 (Mainland simplified)
+  ==
+F
+  ==
+  - (F1.61 諷 _(2)Fung_ (fung2)) ::[譏]諷又諷諫::
+  - (F1.61 風 _(2)Fung_ (fung2)) 同上
+  ==
+W
+  [[Not present]]
+P
+  ++
+  1. To blow.
+  1. To criticise tactfully or through allusion (Kangxi: 風化風刺皆謂譬諭不直言也). (Alternative form of 諷. See $諷fung3.)
+  ++
+L
+  ====
+  * 【風-verb】 (pjuwngH)
+    ==
+    - (_verb-like_) [to] blow
+    - (_verb-like_) [to] criticise tactfully
+    ==
+  ====
+S
+  ==
+  - $風fung1
+  ==
 $$
 
 
