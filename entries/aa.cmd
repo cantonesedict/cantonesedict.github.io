@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -746,7 +746,7 @@ W
   [[Not present]]
 E
   ====
-  - 【呀】 (a4)
+  - 【呀-particle】 (a4)
     ++
     1. An interrogative-ish final particle of surprise, suspicion, disappointment, etc.
        ==
@@ -790,9 +790,9 @@ R
   ⼝ + 4
 U
   U+5440
-V
+A
   ==
-  - a6 (shorter syllable for elided "ten" sense)
+  - 十
   ==
 F
   [[Not present]]
@@ -809,7 +809,7 @@ W
     Also spoken _(a/)(6)_ [[aa6]];
     --
     ==
-    - ten, used after a higher number;
+    - ten, used ~~after a higher number~~ ``between syllables``;
     - an answer, a word of reply like Aye!
     - _(a/)(6) (2)h(o\)_
         [[aa6 hou2 呀好]],
@@ -819,13 +819,24 @@ W
         forty cash.
     ==
   ====
-C
-  ==
-  - Williams' 四呀錢:
-    The "ten" sense would never actually appear in writing as 呀;
-    it would still be spelt 十,
-    with the pronunciation being a matter of preference.
-  ==
+E
+  ====
+  - 【呀-ten】 (aa6)
+    ++
+    1. Elided reading of 十 sap6 "ten",
+       when forming a number whose tens component is thirty to ninety.
+       ==
+       - 卅呀蚊 (saa1 aa6 man1): "Thirty bucks."
+       - 四呀幾 (sei3 aa6 gei2): "Forty-something."
+       - 六呀三 (luk6 aa6 saam1): "Sixty-three."
+       - 九呀歲 (gau2 aa6 seoi3): "Ninety years old."
+       ==
+    ++
+  ====
+  --
+  The spelling 呀 is arbitrary.
+  In practice, "ten" is spelt 十 whether elided or not.
+  --
 S
   ==
   - ($呀aa1)
