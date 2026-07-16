@@ -966,6 +966,8 @@ C
     Kangxi gives the commentary 《註》倍文曰諷以聲節之曰誦,
     which prescribes 誦, *not* 諷,
     as being the rhythmic (or musical) type of recitation.
+  - Williams' 諷諫: Not satire, but tactful or allusive remonstrance.
+    This is, in a way, the *opposite* of the (non-classical) "satire" sense.
   ==
 L
   ====
@@ -999,7 +1001,7 @@ W
 P
   ++
   1. To blow.
-  1. To criticise tactfully or through allusion (Kangxi: 風化風刺皆謂譬諭不直言也). (Alternative form of 諷. See $諷fung3.)
+  1. To criticise tactfully or allusively (Kangxi: 風化風刺皆謂譬諭不直言也). (Alternative form of 諷. See $諷fung3.)
   ++
 L
   ====
