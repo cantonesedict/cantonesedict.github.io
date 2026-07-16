@@ -8683,6 +8683,12 @@
 "text":"U+4FF8 (F1.61 俸) 俸祿 (Page 66 俸) Fan Wan entry: Fixed incomplete strokes in 祿."
 }
 },
+"捧":{
+"fung2":{
+"isCanonical":false,
+"text":"U+6367 (F1.61 捧) 兩手持物也 (Page 66 捧)"
+}
+},
 "縫":{
 "fung4":{
 "isCanonical":true,

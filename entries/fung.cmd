@@ -849,6 +849,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($俸2)
+- ($捧2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -878,6 +879,31 @@ C
 S
   ==
   - $俸fung6 (TODO)
+  ==
+$$
+
+### 捧2 | _(2)Fung_ [[fung2]]
+
+$$.
+R
+  ⼿ + 8
+U
+  U+6367
+F
+  ==
+  - (F1.61 捧) 兩手持物也
+  ==
+W
+  ====
+  - [[Page~66 (2)捧]]
+    --
+    [[Reading variation. **See $捧pung2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - ($捧bung2) (TODO)
+  - $捧pung2 (TODO)
   ==
 $$
 

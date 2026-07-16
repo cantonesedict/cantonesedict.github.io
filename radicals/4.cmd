@@ -463,6 +463,7 @@ For all radicals, see [Index of characters by radical](./).
       - $㧾fat1
       - $掝fik6
       - {$捹fing1, $捹fing3, $捹fing6}
+      - $捧fung2
       - $掉zaau6
       - $接zip3
       - {$捷zit3, $捷zit6}
