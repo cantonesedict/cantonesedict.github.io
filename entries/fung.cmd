@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-16
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -58,6 +58,7 @@ $$
 - ($豊1)
 - $豐1
 - $酆1
+- $鋒1
 - $風1
 ==
 </nav>
@@ -355,7 +356,7 @@ W
         a sting.
     ==
     --
-    [[Otherwise, an alternative form of 鋒. **See $鋒fung1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 鋒. **See $鋒fung1 for the canonical entry.**]]
     --
   ====
 C
@@ -391,7 +392,7 @@ W
     [[Alternative form of 蜂. **See $蜂fung1 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 鋒. **See $鋒fung1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 鋒. **See $鋒fung1 for the canonical entry.**]]
     --
   ====
 C
@@ -540,6 +541,62 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+$$
+
+### 鋒1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⾦ + 7
+U
+  U+92D2
+A
+  ==
+  - $蜂1
+  - $蠭1
+  - 鏠
+  - 锋 (Mainland simplified)
+  ==
+F
+  ==
+  - (F1.58 鋒) 刀劍之芒
+  ==
+W
+  ====
+  - [[Page~66 (1)鋒]]
+    ==
+    - The point of a weapon, a sharp pont [[Kangxi: 兵耑也 etc.]];
+    - the vanguard [[Kangxi: 軍之前列]];
+    - bristling;
+    - turbulent;
+    - to rise up (as spears appear);
+    - _(1)k(a/)u (1)fung_
+        [[gaau1 fung1 交鋒]],
+        to ~~attack~~ ``engage in battle``;
+    - _(1)s(i/)n (1)fung_
+        [[sin1 fung1 先鋒]],
+        the van.
+    ==
+  ====
+C
+  ==
+  - Williams' 先鋒: Here, "van" is short for "vanguard".
+  ==
+P
+  ++
+  1. The cutting edge of a weapon.
+  1. A meteorological front.
+  1. Pointed, sharp.
+  ++
+L
+  ====
+  * 【鋒】 (phjowng)
+    ==
+    - (_noun-like_) [weapon]-point, pointed-[weapon]
+    - (_noun-like_) (_met._) vanguard
+    - (_noun-like_) (_met._) momentum
+    ==
+  ====
 $$
 
 ### 風1 | _(1)Fung_ [[fung1]]
