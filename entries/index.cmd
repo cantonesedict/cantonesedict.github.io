@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2026-07-09
+* %date-modified --> 2026-07-17
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -246,7 +246,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $fui
 - $fuk
 - $fun
-- $fung (work in progress)
+- $fung
 - $fut (work in progress)
 ==
 </nav>

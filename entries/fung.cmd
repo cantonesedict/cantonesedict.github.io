@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Fung. [[fung]]
 
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
@@ -1000,7 +994,7 @@ L
 $$
 
 
-##{#3 .williams} Fung(3) [[fung3 陰去]]
+##{#3 .williams} ``Fung(3)`` [[fung3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways characters">
