@@ -1108,12 +1108,49 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $渢4
 - $縫4
 - $逢4
 - $馮4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 渢4 | _(4)Fung_ [[fung4]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E22
+V
+  ==
+  - faan3 (per 《集韻》孚梵切 for "neutral/even-sounding" sense)
+  - faan4 (per 《集韻》符咸切 for "neutral/even-sounding" sense and Kangxi for "floating" sense)
+  - fung1 (per Fan Wan, common)
+  ==
+F
+  ==
+  - (F1.58 渢 _(1)Fung_ (fung1)) ::水[名]::
+  ==
+W
+  ====
+  - [[Page~715 (4)渢]]
+    ==
+    - The noise or roaring of water or waves [[Kangxi: 水聲一曰弘大聲]];
+    - floating [[Kangxi: 一曰浮貌]].
+    ==
+    --
+    Read _f(a/)n(3)_ [[faan3]]^,
+    in the phrase _f(a/)n(3) f(a/)n(3)_ [[faan3 faan3 渢渢]]
+    an easy, even sound [[Kangxi: 渢渢中庸之聲也]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete and missing strokes in 名.
+  ==
+$$
 
 ### 縫4 | _(4)Fung_ [[fung4]]
 
