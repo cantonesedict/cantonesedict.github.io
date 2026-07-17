@@ -403,7 +403,7 @@ L
   ====
 S
   ==
-  - $葑fung3 (TODO) <## 菰根也 ##>
+  - $葑fung3
   ==
 $$
 
@@ -977,11 +977,33 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $葑3
 - $諷3
 - $風3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 葑3 | _Fung(3)_ [[fung3]]
+
+$$
+R
+  ⾋ + 9
+U
+  U+8451
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Wild rice root (Kangxi: 菰根也).
+  ++
+S
+  ==
+  - $葑fung1
+  ==
+$$
 
 ###+ 諷3 | _Fung(3)_ [[fung3]]
 

@@ -1358,7 +1358,7 @@ For all radicals, see [Index of characters by radical](./).
       - $葱cung1
       - $葷fan1
       - $葍fuk1
-      - $葑fung1
+      - {$葑fung1, $葑fung3}
       - $塟zong3
       - $葬zong3
       ==
