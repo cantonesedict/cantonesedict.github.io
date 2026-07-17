@@ -56,6 +56,7 @@ $$
 - ($峯1)
 - $峰1
 - $楓1
+- ($渢1)
 - $烽1
 - $瘋1
 - $葑1
@@ -285,6 +286,33 @@ W
         the palace, the emperor [[Kangxi: 楓木漢宮殿中多植之故稱楓宸]].
     ==
   ====
+$$
+
+###+ 渢1 | _(1)Fung_ [[fung1]]
+
+$$.
+R
+  ⽔ + 9
+U
+  U+6E22
+F
+  ==
+  - (F1.58 渢) ::水[名]::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Fixed incomplete and missing strokes in 名.
+  ==
+P
+  ++
+  1. Reading variation. **See $渢fung4 for the canonical entry.**
+  ++
+S
+  ==
+  - $渢fung4
+  ==
 $$
 
 ### 烽1 | _(1)Fung_ [[fung1]]
@@ -1149,6 +1177,10 @@ W
 C
   ==
   - Fan Wan entry: Fixed incomplete and missing strokes in 名.
+  ==
+S
+  ==
+  - ($渢fung1)
   ==
 $$
 
