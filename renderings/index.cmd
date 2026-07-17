@@ -4273,6 +4273,13 @@ window.onload = applyFilter;
       - (_noun-like_) turnip
       ==
   //
+    , `pjowngX`
+    , [覂](/entries/fung#rendering-覂)
+    ,
+      ==
+      - (_verb-like_) [to] overturn, [to] overthrow
+      ==
+  //
     , `pju`
     , [夫~(unvoiced)](/entries/fu#rendering-夫-unvoiced)
     ,

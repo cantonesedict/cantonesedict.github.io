@@ -853,6 +853,7 @@ $$
 - ($俸2)
 - ($捧2)
 - ($泛2)
+- $覂2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -923,7 +924,7 @@ W
   ====
   - [[Page~67 (2)泛]]
     --
-    [[Alternative form of 覂. **See $覂fung2 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 覂 (for the "overturn" sense). **See $覂fung2 for the canonical entry.**]]
     --
   ====
 S
@@ -931,6 +932,43 @@ S
   - $泛faan3
   - ($泛faan6)
   ==
+$$
+
+###+ 覂2 | _(2)Fung_ [[fung2]]
+
+$$
+R
+  ⾑ + 5
+U
+  U+8982
+A
+  ==
+  - $泛2 (for "overturn/overthrow" sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~67 (2)泛; here normalised to 覂]]
+    ==
+    - To overthrow [[Kangxi 覂: 反覆也, 泛本作覂後通用耳]],
+      to throw a rider, to "spill" him;
+    - _(2)fung k(a/)(3) (1)ch(i/) (5)m(a/)_
+        [[fung2 gaa3 zi1 maa5 覂駕之馬]],
+        a vicious horse, _met._ a stubborn boy.
+    ==
+  ====
+P
+  ++
+  1. Lacking (Kangxi 覂: 乏也).
+  ++
+L
+  ====
+  * 【覂】 (pjowngX)
+    ==
+    - (_verb-like_) [to] overturn, [to] overthrow
+    ==
+  ====
 $$
 
 
