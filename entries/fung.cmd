@@ -873,7 +873,7 @@ W
   ====
   - [[Page~66 (2)俸]]
     --
-    [[Reading variation (vernacular rising-tone noun). **See $俸fung6 for the canonical entry.**]] [[TODO]]
+    [[Reading variation (vernacular rising-tone noun). **See $俸fung6 for the canonical entry.**]]
     --
   ====
 C
@@ -882,7 +882,7 @@ C
   ==
 S
   ==
-  - $俸fung6 (TODO)
+  - $俸fung6
   ==
 $$
 
@@ -1265,11 +1265,71 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $俸6
 - $奉6
 - $鳳6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 俸6 | _Fung(6)_ [[fung6]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+4FF8
+A
+  ==
+  - $奉6
+  ==
+V
+  ==
+  - fung6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - (F1.61 俸 _(2)Fung_ (fung2)) ::俸[祿]::
+  ==
+W
+  ====
+  - [[Page~66 (2)俸 _(2)Fung_ (fung2)]]
+    ==
+    - Salary, emoluments [[Kangxi: 秩祿也, 亦作奉]];
+    - wages, stipend, pay, rations, allowance;
+    - _(2)fung luk(9)_
+        [[fung6-2 luk6 俸祿]]
+        an officer's salary;
+    - _(2)fung (1)sau_
+        [[fung6-2 sau1 俸修]],
+        government allowances;
+    - _t(a/)``i``(3) (2)fung (1)kwai (4)t(')(i/)n_
+        [[daai3 fung6-2 gwai1 tin4 帶俸歸田]],
+        to retire fr``o``m an offi``c``e on its salary;
+    - _(2)fung (5)mai_
+        [[fung6-2 mai5 俸米]],
+        soldiers' rations.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 祿.
+  - Williams' 帶俸歸田: Inferred incompletely printed letters _i_ in _t(a/)i(3)_,
+    "o" in "from", and "c" in "office".
+  - Williams' 俸米: Also the grain allowance for non-military officials.
+  ==
+L
+  ====
+  * 【俸】 (bjowngH)
+    ==
+    - (_noun-like_) emolument
+    ==
+  ====
+S
+  ==
+  - ($俸fung2)
+  ==
+$$
 
 ### 奉6 | _Fung(6)_ [[fung6]]
 
@@ -1311,7 +1371,7 @@ W
         to offer congratulations.
     ==
     --
-    [[Otherwise, an alternative form of 俸. **See $俸fung6 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 俸. **See $俸fung6 for the canonical entry.**]]
     --
   ====
 C

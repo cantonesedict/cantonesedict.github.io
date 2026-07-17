@@ -675,6 +675,13 @@ window.onload = applyFilter;
       ==
   //
     , `bjowngH`
+    , [俸](/entries/fung#rendering-俸)
+    ,
+      ==
+      - (_noun-like_) emolument
+      ==
+  //
+    , `bjowngH`
     , [縫~(noun)](/entries/fung#rendering-縫-noun)
     ,
       ==
