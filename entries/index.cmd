@@ -247,7 +247,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $fuk
 - $fun
 - $fung
-- $fut (work in progress)
+- $fut
 ==
 </nav>
 
