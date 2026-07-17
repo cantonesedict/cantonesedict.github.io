@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-07-16
+* %date-modified --> 2026-07-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -25,6 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [fung2](#2)
 - [fung3](#3)
 - [fung4](#4)
+- [fung6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -1194,4 +1195,84 @@ S
   ==
   - $馮pang4 (TODO)
   ==
+$$
+
+
+##{#6 .williams} Fung(6) [[fung6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $奉6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 奉6 | _Fung(6)_ [[fung6]]
+
+$$
+R
+  ⼤ + 5
+  ⼿ + 5
+U
+  U+5949
+F
+  ==
+  - (F1.62 奉) 承也進也又奉侍奉養
+  ==
+W
+  ====
+  - [[Page~67 奉(6)]]
+    ==
+    - To respectfully receive in both hands,
+      to receive from a superior [[Kangxi: 承也 etc.]],
+      or offer to him [[Kangxi: 與也獻也]];
+    - to praise, to reverence;
+    - _fung(6) ming(6)_
+        [[fung6 ming6 奉命]]
+        to receive orders;
+    - _sh(i/)(6) fung(6)_
+        [[si6 fung6 侍奉]]
+        to cherish one's parents;
+    - _fung(6) (4)shing_
+        [[fung6 sing4 奉承]],
+        to flatter;
+    - _fung(6) ho(6)_
+        [[fung6 ho6 奉賀]]
+        to make a congratulatory present;
+    - _fung(6) sz'(6)_
+        [[fung6 si6 奉事]]
+        to wait upon;
+    - _fung(6) hau(6)_
+        [[fung6 hau6 奉候]]
+        to offer congratulations.
+    ==
+    --
+    [[Otherwise, an alternative form of 俸. **See $俸fung6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' 奉候: Or, to await respectfully.
+  ==
+P
+  ++
+  1. With both hands, i.e. respectfully.
+  1. To serve, to provide for.
+  1. To adhere to.
+  1. To believe.
+  1. To carry out.
+  ++
+L
+  ====
+  * 【奉】 (bjowngX)
+    ==
+    - (_verb-like_) [to] receive (two-handedly)
+    - (_verb-like_) [to] present (two-handedly)
+    - (_verb-like_) [to] carry (two-handedly), [to] serve
+    - (_verb-like_) (_met._) [to] carry [out]
+    - (_verb-like_) (_met._) [to] reverence
+    - (_verb-like_) (_met._) [to] adhere unto
+    ==
+  ====
 $$
