@@ -8722,7 +8722,11 @@
 "縫":{
 "fung4":{
 "isCanonical":true,
-"text":"U+7E2B 綘 缝 (Mainland simplified) fung4-2 (vernacular rising-tone noun in 裁縫) fung6 (per 《廣韻》扶用切 for noun sense) (F1.59 縫) 裁縫彌縫 (Page 66 縫) To sew, to stitch (Kangxi: 以鍼紩衣也); a seam (Kangxi: 衣縫也), a cleft; _fung i_ (fung4 ji1 縫衣), to sew clothes; _fung san_ (fung4 san1 縫新), to make new clothes; _fung hau_ (fung4 hau2 縫口), a seam; _fung mai_ (fung4 maai4 縫埋), to sew together. Fan Wan entry: Fixed incomplete strokes in 彌. A gap. 牙縫刷 (ngaa4 fung4 caat3-2): \"Interdental brush.\" 【縫-verb】 (bjowng) (_verb-like_) to sew, (_met._) to mend 【縫-noun】 (bjowngH) (_noun-like_) seam"
+"text":"U+7E2B 綘 缝 (Mainland simplified) fung4-2 (vernacular rising-tone noun in 裁縫) fung6 (per 《廣韻》扶用切 for noun senses) (F1.59 縫) 裁縫彌縫 (Page 66 縫) To sew, to stitch (Kangxi: 以鍼紩衣也); a seam (Kangxi: 衣縫也), a cleft; _fung i_ (fung4 ji1 縫衣), to sew clothes; _fung san_ (fung4 san1 縫新), to make new clothes; _fung hau_ (fung4 hau2 縫口), a seam; _fung mai_ (fung4 maai4 縫埋), to sew together. Fan Wan entry: Fixed incomplete strokes in 彌. A gap. 牙縫刷 (ngaa4 fung4 caat3-2): \"Interdental brush.\" 【縫-verb】 (bjowng) (_verb-like_) to sew, (_met._) to mend 【縫-noun】 (bjowngH) (_noun-like_) seam"
+},
+"fung6":{
+"isCanonical":false,
+"text":"U+7E2B"
 }
 },
 "逢":{

@@ -1108,7 +1108,7 @@ A
 V
   ==
   - fung4-2 (vernacular rising-tone noun in 裁縫)
-  - fung6 (per 《廣韻》扶用切 for noun sense)
+  - fung6 (per 《廣韻》扶用切 for noun senses)
   ==
 F
   ==
@@ -1158,7 +1158,7 @@ L
   ====
 S
   ==
-  - ($縫fung6) (TODO)
+  - ($縫fung6)
   ==
 $$
 
@@ -1267,6 +1267,7 @@ $$
 =={.modern}
 - $俸6
 - $奉6
+- ($縫6)
 - $鳳6
 ==
 </nav>
@@ -1398,6 +1399,27 @@ L
     - (_verb-like_) (_met._) [to] adhere unto
     ==
   ====
+$$
+
+###+ 縫6 | _Fung(6)_ [[fung6]]
+
+$$.
+R
+  ⽷ + 11
+U
+  U+7E2B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for the noun senses). **See $縫fung4 for the canonical entry.**
+  ++
+S
+  ==
+  - $縫fung4
+  ==
 $$
 
 ### 鳳6 | _Fung(6)_ [[fung6]]

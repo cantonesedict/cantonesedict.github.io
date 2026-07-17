@@ -449,7 +449,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $繁faan4
       - $徽fai1
-      - $縫fung4
+      - {$縫fung4, $縫fung6}
       - $縶zap1
       - $績zik1
       - {$縱zung1, $縱zung2, $縱zung3}
