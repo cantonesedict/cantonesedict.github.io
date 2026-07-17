@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fut
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
-
---{.modern}
-(From Page~67 of the original onwards.)
---
 
 #{.williams} F(u/)t. [[fut]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - F(u/)t. [[Page~67]]
+  ==
+WP
+  ==
+  - F(u/)t <span class="modern">= *[fuːt̚]</span>
+  ==
+MP
+  ==
+  - fut = [fuːt̚]
+  ==
+$$
