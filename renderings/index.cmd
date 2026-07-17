@@ -3397,6 +3397,14 @@ window.onload = applyFilter;
       - (_adjective-like_) indifferent, sorrowless
       ==
   //
+    , `khet khwat`
+    , [契闊](/entries/fut#rendering-契闊)
+    ,
+      ==
+      - (_adjective-like_) widely separated
+      - (_adjective-like_) hard working
+      ==
+  //
     , `khjuwX`
     , [糗](/entries/cau#rendering-糗)
     ,
@@ -3499,6 +3507,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) hollow
+      ==
+  //
+    , `khwat`
+    , [闊](/entries/fut#rendering-闊)
+    ,
+      ==
+      - (_adjective-like_) widely separated
+      - (_adjective-like_) wide
+      - (_verb-like_) [to] widen, (_met._) [to] ease
+      - Used in [契闊](/entries/fut#rendering-契闊).
       ==
   //
     , `khweajH`
