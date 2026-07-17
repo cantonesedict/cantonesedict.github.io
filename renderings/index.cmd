@@ -1091,6 +1091,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] float (about)
       ==
   //
+    , `bjuwngH`
+    , [鳳](/entries/fung#rendering-鳳)
+    ,
+      ==
+      - (_noun-like_) male-phoenix
+      ==
+  //
     , `bok`
     , [仆](/entries/fu#rendering-仆)
     ,

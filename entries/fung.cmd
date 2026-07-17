@@ -1204,6 +1204,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $奉6
+- $鳳6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1274,5 +1275,73 @@ L
     - (_verb-like_) (_met._) [to] reverence
     - (_verb-like_) (_met._) [to] adhere unto
     ==
+  ====
+$$
+
+### 鳳6 | _Fung(6)_ [[fung6]]
+
+$$
+R
+  ⿃ + 3
+U
+  U+9CF3
+A
+  ==
+  - 凤
+  ==
+V
+  ==
+  - fung6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - (F1.62 鳳) ::鳳[凰]羽虫之長::
+  ==
+W
+  ====
+  - [[Page~67 鳳(6)]]
+    ==
+    - A fabulous bird [[Kangxi: 神鳥也 etc.]],
+      the male is called _fung(6)_ [[fung6 鳳]]^,
+      the female _(4)wong_ [[wong4 凰]];
+    - the Chinese phœnix;
+    - it seems to be derived from the argus pheasant;
+    - the empress is poetically called _fung(6)_ [[fung6 鳳]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 凰.
+  - That 鳳 in the generic "phoenix" sense is considered feminine
+    is because it is contrasted with masculine 龍 "dragon".
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【鳳】 (bjuwngH)
+    ==
+    - (_noun-like_) male-phoenix
+    ==
+  ====
+E
+  --
+  The "female prostitute" sense appears to be local to Hong Kong.
+  --
+  ====
+  - 【鳳】 (fung6, fung6-2)
+    ++
+    1. A female prostitute.
+       ==
+       - 鳳姐 (fung6 ze2): "Prostitute lady."
+       - 一樓一鳳 (jat1 lau4 jat1 fung6-2): "One apartment one prostitute."
+       ==
+    ++
+  - 【鳳爪】 (fung6 zaau2)
+    ++
+    1. Chicken feet (as food).
+    ++
   ====
 $$
