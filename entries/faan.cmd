@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1062,7 +1062,7 @@ C
 S
   ==
   - ($泛faan6)
-  - $泛fung2 (TODO)
+  - ($泛fung2)
   ==
 $$
 
@@ -2101,7 +2101,7 @@ P
 S
   ==
   - $泛faan3
-  - $泛fung2 (TODO)
+  - ($泛fung2)
   ==
 $$
 

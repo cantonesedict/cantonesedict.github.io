@@ -1689,7 +1689,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$治ci4, $治zi6}
       - $泉cyun4
-      - {$泛faan3, $泛faan6}
+      - {$泛faan3, $泛faan6, $泛fung2}
       - $沷faat3
       - $法faat3
       - $沸fai3

@@ -852,6 +852,7 @@ $$
 =={.modern}
 - ($俸2)
 - ($捧2)
+- ($泛2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -906,6 +907,29 @@ S
   ==
   - ($捧bung2) (TODO)
   - $捧pung2 (TODO)
+  ==
+$$
+
+### 泛2 | _(2)Fung_ [[fung2]]
+
+$$.
+R
+  ⽔ + 5
+U
+  U+6CDB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~67 (2)泛]]
+    --
+    [[Alternative form of 覂. **See $覂fung2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $泛faan3
+  - ($泛faan6)
   ==
 $$
 
