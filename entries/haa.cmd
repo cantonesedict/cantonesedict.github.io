@@ -156,6 +156,20 @@ C
   - Williams' 生蝦咁跳: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
+E
+  ====
+  - 【蝦】 (haa1)
+    ++
+    1. To bully, to pick on.
+       ==
+       - 大蝦細 (daai6 haa1 sai3): "Elder picking on younger."
+       - 唔准蝦人 (m4 zeon2 haa1 jan4): "No bullying others!"
+       ==
+    ++
+  ====
+  --
+  The spelling 蝦 is arbitrary (but well established).
+  --
 S
   ==
   - $蝦haa4

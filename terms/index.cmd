@@ -706,6 +706,9 @@ window.onload = applyFilter;
     , goek3 zi2 mei5-1
     , [腳趾尾](/entries/zi#cantonese-腳趾尾)
   //
+    , haa1
+    , [蝦](/entries/haa#cantonese-蝦)
+  //
     , haap3 cou3
     , [呷醋](/entries/cou#cantonese-呷醋)
   //
