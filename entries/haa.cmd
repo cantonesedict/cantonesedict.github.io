@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [haa1](#1)
+- [haa4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -101,7 +102,7 @@ W
     [[...]]
     --
     --
-    [[Otherwise, an alternative form of 蛤, and reading variation. **See $蛤haa4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, a reading variation. **See $蝦haa4 for the canonical entry.**]]
     --
   ====
 C
@@ -111,7 +112,7 @@ C
   ==
 S
   ==
-  - ($蝦haa4) (TODO)
+  - $蝦haa4
   ==
 $$
 
@@ -134,4 +135,66 @@ W
     [[Alternative form of 蝦. **See $蝦haa1 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#4 .williams} (4)H(a/) [[haa4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $蝦4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 蝦4 | _(4)H(a/)_ [[haa4]]
+
+$$
+R
+  ⾍ + 9
+U
+  U+8766
+A
+  ==
+  - 蛤
+  ==
+V
+  ==
+  - haa1 (common)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~67 (1)蝦(1)鰕]]
+    --
+    [[...]]
+    --
+    --
+    The first character [[蝦]] is also read _(4)h(a/)_ [[haa4]],
+    as _(4)h(a/) (4)m(a/)_ [[haa4 maa4 蝦蟆]], a striped frog.
+    --
+  ====
+C
+  ==
+  - Williams' 蝦蟆: Or, a toad.
+  - The common reading of 蝦蟆 (or 蛤蟆) is haa1 mou1; see ''Kung Fu Hustle''.
+    The prescribed reading haa4 maa4 is almost never heard.
+  ==
+L
+  ====
+  * 【蝦】 (hae)
+    ==
+    - Used in [蝦蟆](/entries/haa#rendering-蝦蟆).
+    ==
+  * 【蝦蟆】 (hae mae)
+    ==
+    - (_noun-like_) frog, toad
+    ==
+  ====
+S
+  ==
+  - $蝦haa1
+  ==
 $$

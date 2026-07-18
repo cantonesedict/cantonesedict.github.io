@@ -1600,7 +1600,7 @@ For all radicals, see [Index of characters by radical](./).
       - $蝌fo1
       - $蝠fuk1
       - $蝮fuk1
-      - $蝦haa1
+      - {$蝦haa1, $蝦haa4}
       ==
       </nav>
   //

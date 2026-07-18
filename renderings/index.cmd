@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-17
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3365,6 +3365,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_adverb-like_) quickly
+      ==
+  //
+    , `hae`
+    , [蝦](/entries/haa#rendering-蝦)
+    ,
+      ==
+      - Used in [蝦蟆](/entries/haa#rendering-蝦蟆).
+      ==
+  //
+    , `hae mae`
+    , [蝦蟆](/entries/haa#rendering-蝦蟆)
+    ,
+      ==
+      - (_noun-like_) frog, toad
       ==
   //
     , `homX`
