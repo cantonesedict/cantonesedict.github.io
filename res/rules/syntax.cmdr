@@ -318,7 +318,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-williams
   Page~\g<page_number>\g<asterisk>|\g<page_number>
 * Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
   [|] (?P<page_slug> [n]? [0-9]+ )
-  (?P<etc> [ ] of [ ] the [ ] original ) ?
+  (?P<etc> [ ] of [ ] the [ ] original | [ ] of [ ] Williams [ ] \(1856\) ) ?
     -->
   [Page~\g<page_number>\g<asterisk>\g<etc>]<\g<page_slug>>
 * < (?P<page_slug> [n]? [0-9]+ ) >

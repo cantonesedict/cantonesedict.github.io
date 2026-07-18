@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 {+++
 --
-(From [Page~ix of the original]{#page-ix}<n16> onwards.)
+(From [Page~ix of Williams (1856)]{#page-ix}<n16> onwards.)
 --
 +++}
 
@@ -55,7 +55,7 @@ made in their courts by the common people.
 --
 
 --{.williams}
-[[[Page~x of the original]{#page-x}<n17> here]]
+[[[Page~x of Williams (1856)]{#page-x}<n17> here]]
 The variations between the court and Canton [[廣州]] dialects, in the
 pronunciation of the great body of characters, are so regular as to
 enable one to guess with a tolerable degree of certainty, what their
@@ -159,7 +159,7 @@ village exhibiting some peculiarities in the sounds of a few words.
 --
 
 --{.williams}
-[[[Page~xi of the original]{#page-xi}<n18> here]]
+[[[Page~xi of Williams (1856)]{#page-xi}<n18> here]]
 The standard of pronunciation for the Canton [[廣州]] dialect is a small
 duodecimo handbook, sometimes issued separately, but more frequently
 combined with a letter-writer and forms of invitation, cards,
@@ -256,7 +256,7 @@ but which was still dated 1782.)
 This pocket dictionary is usually bound in four thin volumes, and
 sold for twenty-five cents; it contains 7327~characters, and only 175~pages,
 or on the average 42~to each page, which plainly shows how
-[[[Page~xii of the original]{#page-xii}<n19> here]]
+[[[Page~xii of Williams (1856)]{#page-xii}<n19> here]]
 meagre are the definitions. In comparison with the local vocabularies
 used at Amoy [[廈門]] and Fuhchau [[福州]], it is very imperfect, and proves the
 ignorance of the compilers of what was wanted for a local dictionary,
@@ -297,7 +297,7 @@ the character _hau_ [[hau]] 口 mouth, or _yan_ [[jan]] 人 a man, at the side o
 well known character of the same sound, but not always of the same
 tone. The words _tsoi(6)_ [[zoi6]] 儎 a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
 _(5)mai_ [[mai5]] 咪 do not; _(1)ts(')oi_ [[coi1]] 啋 pshaw! and _(2)t(e/)_ [[de2]] 嗲 remiss, &c., are examples
-[[[Page~xiii of the original]{#page-xiii}<n20> here]]
+[[[Page~xiii of Williams (1856)]{#page-xiii}<n20> here]]
 of this sort. Sometimes, again, a character which comes nearest in
 tone is taken to represent the needed sound, and the knowledge of
 the reader is expected to inform him that it is employed in a vulgar
@@ -345,7 +345,7 @@ include the terminations in the fourth tone.
 
 {+++
 --
-(Table covers [Page~xiv of the original]{#page-xiv}<n21> and [Page~xv of the original]{#page-xv}<n22>.)
+(Table covers [Page~xiv of Williams (1856)]{#page-xiv}<n21> and [Page~xv of Williams (1856)]{#page-xv}<n22>.)
 --
 +++}
 
@@ -992,7 +992,7 @@ include the terminations in the fourth tone.
 ||||
 
 --{.williams}
-[[[Page~xvi of the original]{#page-xvi}<n23> here]]
+[[[Page~xvi of Williams (1856)]{#page-xvi}<n23> here]]
 The variations heard in the pronunciation of words under these
 thirty-three finals, though rather perplexing, bear only a small proportion
 to the whole number of words in the language. The most
@@ -1112,7 +1112,7 @@ see [vowel shift chart].)
   +++}
 
 7.{#final-order-7}
-[[[Page~xvii of the original]{#page-xvii}<n24> here]]
+[[[Page~xvii of Williams (1856)]{#page-xvii}<n24> here]]
   _Ying_, _yik_,
   like _sing_, _king_, _quick_, _wing_.
   So many words under this order change the final into _eng_ and _ek_,
@@ -1230,7 +1230,7 @@ see [vowel shift chart].)
   +++}
 
 14.{#final-order-14}
-[[[Page~xviii of the original]{#page-xviii}<n25> here]]
+[[[Page~xviii of Williams (1856)]{#page-xviii}<n25> here]]
   _K(a/)i_,
   like _aye_, _aisle_,
   never shortened into _nigh_, _fly_, like the
@@ -1346,7 +1346,7 @@ see [vowel shift chart].)
   easy to distinguish the _u_ in this order
   from the _u_ in _tung_, _tuk_, as
   some have endeavored to do, for if the word _tsun_ be slowly prolonged
-  [[[Page~xix of the original]{#page-xix}<n26> before 'ed']] into _tsung_,
+  [[[Page~xix of Williams (1856)]{#page-xix}<n26> before 'ed']] into _tsung_,
   it will be seen the difference is in the quantity rather
   than in the quality of the vowel.
   _(Tsun, soot.)_
@@ -1488,7 +1488,7 @@ see [vowel shift chart].)
   +++}
 
 31.{#final-order-31}
-[[[Page~xx of the original]{#page-xx}<n27> here]]
+[[[Page~xx of Williams (1856)]{#page-xx}<n27> here]]
   _K(o\)m_, _k(o\)p_,
   like _home_, _comb_, _hope_,
   not like _some_, _come_, _sup_,
@@ -1585,7 +1585,7 @@ give more trouble, perhaps, than the others.
   persons are absolutely unable to detect the difference, more frequently
   calling the words under _ts_ as _ch_, than contrariwise.
   All characters
-  [[[Page~xxi of the original]{#page-xxi}<n28> before 'racters']]
+  [[[Page~xxi of Williams (1856)]{#page-xxi}<n28> before 'racters']]
   with the sounds _tsz'_ and _ts(')z'_ are liable to be heard _ch(i/)_ and
   _ch(')(i/)_, with a stronger breathing than those properly read _ch(i/)_ and
   _ch(')(i/)_.
@@ -1674,7 +1674,7 @@ in the following table:---
     , _(e/)_ as in _they_, _neigh_, _say_;
     , _ch(e/), m(e/), sh(e/), ts(e/)ung_.
   //
-    , 5. [[[Page~xxii of the original]{#page-xxii}<n29> here]]
+    , 5. [[[Page~xxii of Williams (1856)]{#page-xxii}<n29> here]]
     , _i_ as in _pin, finish_;
     , _ying, kik_.
   //
@@ -1822,7 +1822,7 @@ pronounced as in English [[modulo aspirates, and likely with [ɕ] in place of [�
 The above comprise all the vowels, diphthongs and consonants,
 found in the Canton [[廣州]] dialect. In addition the Court Dialect contains
 a few more, and as the pronunciation of each character in the
-[[[Page~xxiii of the original]{#page-xxiii}<n30> here]]
+[[[Page~xxiii of Williams (1856)]{#page-xxiii}<n30> here]]
 Fan Wan [[分韻]] is given in that dialect under it, they are here added.
 For the sounds given to the characters in this dialect, the dictionaries
 of De~Guignes, Morrison, Gonçalves, and Medhurst, nearly
@@ -1870,13 +1870,13 @@ column is arranged according to the table from the Fan Wan [[分韻]] on
 
 --{.williams}
 [["Table of Sounds in the Canton Dialect"
-covers [Page~xxiv of the original]{#page-xxiv}<n31>
-and [Page~xxv of the original]{#page-xxv}<n32>;
+covers [Page~xxiv of Williams (1856)]{#page-xxiv}<n31>
+and [Page~xxv of Williams (1856)]{#page-xxv}<n32>;
 omitted here due to its size.]]
 --
 
 --{.williams}
-[[[Page~xxvi of the original]{#page-xxvi}<n33> here]]
+[[[Page~xxvi of Williams (1856)]{#page-xxvi}<n33> here]]
 The final _h(u\)_ [[hoe]], _k(u\)_ [[goe]], _l(u\)_ [[loe]] &c.,
 in the last line but one in this Table,
 is not found in the Fan Wan [[分韻]] at all; the compilers appear to have
@@ -1928,7 +1928,7 @@ for the _(e/)_, _(i/)_, _(o\)_, _o_, and _(u/)_,
 in this table. He did not perceive that he was confusing his
 own pronunciation by representing the _(i/)_ in _machine_ and in _pin_ by
 the same letter; as he was by blending the _e_ in _they_ and _men_. At
-[[[Page~xxvii of the original]{#page-xxvii}<n34> here]]
+[[[Page~xxvii of Williams (1856)]{#page-xxvii}<n34> here]]
 Amoy [[廈門]], unaccented vowels have been used, and the tones marked
 by accents over the letters, which is likely still more to confuse
 those who may try to read the sounds in that dialect, as a single
@@ -1982,7 +1982,7 @@ or man; the note is alike on the gamut, and it chords on all those
 instruments; but let _G_~sharp be struck on one of them, and we feel
 the discord, it is not the note at all. So in respect to Chinese
 _shing_; if the right _shing_ be not spoken, the right word is not spoken,
-[[[Page~xxviii of the original]{#page-xxviii}<n35> here]]
+[[[Page~xxviii of Williams (1856)]{#page-xxviii}<n35> here]]
 it is some other word. For instance, if a person says _k(u/)(3)_ [[gu3]] instead
 of _(1)k(u/)_ [[gu1]] 孤 an orphan, he does not say the word for _orphan_ at all;
 he says that for 故 _old_, or 固 _firm_, or 顧 _to hire_, or some other
@@ -2035,7 +2035,7 @@ student will derive all the hints about the tones that description can give him.
 The compilers of the Fan Wan [[分韻]] have formally arranged the characters
 under each final by the four tones; and have also further
 separated the upper and lower series, and the aspirated characters
-[[[Page~xxix of the original]{#page-xxix}<n36> here]]
+[[[Page~xxix of Williams (1856)]{#page-xxix}<n36> here]]
 into separate columns, though they have not so distinctly specified
 them. The eight tones as given in the Table on pages~[xiv](#page-xiv), [xv](#page-xv), are
 clearly distinguished by the Cantonese, and every word in this
@@ -2133,7 +2133,7 @@ to adopt a new symbol.
 --
 
 --{.williams}
-[[[Page~xxx of the original]{#page-xxx}<n37> here]]
+[[[Page~xxx of Williams (1856)]{#page-xxx}<n37> here]]
 The Burmese, Siamese, and Shyan languages all possess something
 resembling the Chinese tones. The Burmese have two marks,
 a _shay-pouk_ (း) [[U+1038]] and an _anmyeet_ (့) [[U+1037]] to denote the different tones or
@@ -2185,7 +2185,7 @@ The Table given on pages~[xiv](#page-xiv), [xv](#page-xv), should be thoroughly 
 by reading it backwards and forwards, until the distinction between
 the first three tones in both series is seen. A good practice also is
 to read over the tables of characters given in the Fan Wan [[分韻]] under
-[[[Page~xxxi of the original]{#page-xxxi}<n38> here]]
+[[[Page~xxxi of Williams (1856)]{#page-xxxi}<n38> here]]
 each final in the first part of it, where all the initials found under
 each one are arranged by the tones. Thus, under the 27th~final [[un]],
 these leading characters are thus arranged, the upper coming before
@@ -2277,7 +2277,7 @@ final, like the following:---
   [[kau5 jau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
   he stole ten pecks of uncle's beans and ran off.
 
-- [[[Page~xxxii of the original]{#page-xxxii}<n39> here]]
+- [[[Page~xxxii of Williams (1856)]{#page-xxxii}<n39> here]]
   _(5)Ming (2)ting (1)ping (1)ting (4)t(')ing (5)t(')ing t(')ing(3)_
   [[ming5 ding2 bing1 ding1 ting4 ting5 ting3]] 酩酊兵丁停梃聽
   a drunken soldier leaned on his staff to listen.
@@ -2320,7 +2320,7 @@ this way, no rules can help him.
 
 {+++
 --
-([Page~xxxiii of the original]{#page-xxxiii}<n40> here)
+([Page~xxxiii of Williams (1856)]{#page-xxxiii}<n40> here)
 --
 +++}
 
@@ -2409,7 +2409,7 @@ and tone of each word in every quotation, to enable the student,
 with the help of the translation following it, to refer to all the characters
 in it, by turning to them under their proper syllables. If
 the characters had been introduced without their sounds, there
-[[[Page~xxxiv of the original]{#page-xxxiv}<n41> here]]
+[[[Page~xxxiv of Williams (1856)]{#page-xxxiv}<n41> here]]
 would have been a saving of room, but not enough to make the book
 its present size. Portability was deemed of so much importance,
 that advantages incompatible with it were sacrificed. A single instance
@@ -2429,7 +2429,7 @@ it will be more practicable to introduce them.
 ||
 
 --{.williams}
-[[[Page~xxxv of the original]{#page-xxxv}<n42> here]]
+[[[Page~xxxv of Williams (1856)]{#page-xxxv}<n42> here]]
 Care has been taken to have all the characters quoted in the
 examples contained in the book, so that when at a loss it can be
 referred to. If there be any doubt as to which is the right one out of
@@ -2473,7 +2473,7 @@ where they should be looked for first. For instance, 以, 仝, 令, 仄
 are all under ⼈; 亞, 亘, 井, are under ⼆; 兒, 先, are under ⼉;
 all of which are referred to these radicals chiefly
 because it was a prominent part of the character, and likely to catch
-[[[Page~xxxvi of the original]{#page-xxxvi}<n43> here]]
+[[[Page~xxxvi of Williams (1856)]{#page-xxxvi}<n43> here]]
 the eye. Such anomalous instances amount to about two hundred,
 all of them primitives, while the remainder will give less trouble in
 ascertaining the proper radical. About one half (108) of the radicals

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 {+++
 --
-(From [the Chinese title page of the original]<n9>.)
+(From [the Chinese title page of Williams (1856)]<n9>.)
 --
 +++}
 
