@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $蝦1
+- ($鰕1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -61,7 +62,7 @@ U
   U+8766
 A
   ==
-  - 鰕
+  - $鰕1
   - 虾 (Mainland simplified)
   ==
 F
@@ -112,4 +113,25 @@ S
   ==
   - ($蝦haa4) (TODO)
   ==
+$$
+
+### 鰕1 | _(1)H(a/)_ [[haa1]]
+
+$$.
+R
+  ⿂ + 9
+U
+  U+9C15
+F
+  ==
+  - (F2.74 蝦) 魚蝦
+  - (F2.74 鰕) 同上
+  ==
+W
+  ====
+  - [[Page~67 (1)蝦(1)鰕]]
+    --
+    [[Alternative form of 蝦. **See $蝦haa1 for the canonical entry.**]]
+    --
+  ====
 $$
