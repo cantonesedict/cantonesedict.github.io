@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -682,7 +682,7 @@ E
        ==
     1. Short for [黐線](#cantonese-黐線).
        ==
-       - 做到黐咗 (zou6 dou3 ci1 zo2): "Worked till [he's] crazy."
+       - 做到黐咗 (zou6 dou3 ci1 zo2): "Worked so much [he's gone] crazy."
        ==
     ++
   - 【黐肺】 (ci1 fai3)
