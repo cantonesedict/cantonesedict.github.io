@@ -334,6 +334,9 @@ window.onload = applyFilter;
     , ceoi3 bok1 bok1
     , [脆扑扑](/entries/ceoi#cantonese-脆扑扑)
   //
+    , ceoi3 ceoi3-2 dei6-2
+    , [趣趣地](/entries/ceoi#cantonese-趣趣地)
+  //
     , ceoi4
     , [錘](/entries/ceoi#cantonese-錘)
   //

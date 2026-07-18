@@ -1244,6 +1244,13 @@ L
     - (_verb-like_) [to] haste
     ==
   ====
+E
+  ====
+  - 【趣趣地】 (ceoi3 ceoi3-2 dei6-2)
+    ++
+    1. Used to indicate relative smallness or unimportance of a matter or a quantity. (Literally, "slightly interesting".)
+    ++
+  ====
 S
   ==
   - $趣cau2
