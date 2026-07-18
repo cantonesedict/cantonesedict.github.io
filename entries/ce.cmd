@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -365,7 +365,7 @@ W
   ====
   - [[Page~12* (2)哆]]
     ==
-    - [[....]];
+    - [[...]];
     - _~~(2)ch(')(i/)~~ ``(2)ch(')(e/)`` (4)(i/)n_
         [[ce2 jin4 哆然]],
         sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]``.``
