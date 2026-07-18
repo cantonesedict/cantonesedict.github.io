@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -982,6 +982,10 @@ A
   ==
   - 谢 (Mainland simplified)
   ==
+V
+  ==
+  - ze4 (vernacular alternative for "withered" and Cantonese "exhausted" senses)
+  ==
 F
   ==
   - (F2.85 謝) 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩
@@ -1067,4 +1071,14 @@ E
   or for goods/services that the speaker is paying for,
   唔該 (TODO) should instead be used. <## m4 goi1 ##>
   --
+  ====
+  - 【謝】 (ze6, ze4)
+    ++
+    1. Exhausted, fatigued, spent.
+       ==
+       - 做到謝咗 (zou6 dou3 ze4 zo2): "Burnt out from working."
+       - 個人謝嗮 (go3 jan4 ze6 saai3): "[He's] completely spent."
+       ==
+    ++
+  ====
 $$
