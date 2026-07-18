@@ -279,7 +279,7 @@ E
   ====
   - 【快脆】 (faai3 ceoi3)
     ++
-    1. Quick.
+    1. Quick. Erroneously spelt 快趣.
        ==
        - 咁快脆 (gam3 faai3 ceoi3): "That quick?"
        - 行快脆啲 (haang4 faai3 ceoi3 di1): "Walk quicker."
