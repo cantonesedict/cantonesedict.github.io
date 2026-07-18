@@ -8777,6 +8777,10 @@
 "haa1":{
 "isCanonical":false,
 "text":"U+86E4"
+},
+"haa4":{
+"isCanonical":false,
+"text":"U+86E4"
 }
 },
 "蝦":{
@@ -8786,7 +8790,7 @@
 },
 "haa4":{
 "isCanonical":true,
-"text":"U+8766 蛤 haa1 (common) (Page 67 蝦鰕) The first character (蝦) is also read _ha_ (haa4), as _ha ma_ (haa4 maa4 蝦蟆), a striped frog. Williams' 蝦蟆: Or, a toad. The common reading of 蝦蟆 (or 蛤蟆) is haa1 mou1; see ''Kung Fu Hustle''. The prescribed reading haa4 maa4 is almost never heard. 【蝦】 (hae) Used in 蝦蟆. 【蝦蟆】 (hae mae) (_noun-like_) frog, toad"
+"text":"U+8766 蛤 haa1 (common) (Page 67 蝦鰕) The first character (蝦) is also read _ha_ (haa4), as _ha ma_ (haa4 maa4 蝦蟆), a striped frog. Williams' 蝦蟆: Or, a toad. The common reading of 蝦蟆 (usually spelt 蛤蟆) is haa1 mou1; see ''Kung Fu Hustle''. The prescribed reading haa4 maa4 is almost never heard. 【蝦】 (hae) Used in 蝦蟆. 【蝦蟆】 (hae mae) (_noun-like_) frog, toad"
 }
 },
 "鰕":{

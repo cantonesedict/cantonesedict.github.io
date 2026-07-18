@@ -74,7 +74,7 @@ S
   ==
   - ($蛤gaap3) (TODO)
   - $蛤gap3 (TODO)
-  - ($蛤haa4) (TODO)
+  - ($蛤haa4)
   ==
 $$
 
@@ -167,10 +167,34 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($蛤4)
 - $蝦4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 蛤4 | _(4)H(a/)_ [[haa4]]
+
+$$.
+R
+  ⾍ + 6
+U
+  U+86E4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 蝦. **See $蝦haa4 for the canonical entry.**
+  ++
+S
+  ==
+  - ($蛤gaap3) (TODO)
+  - $蛤gap3 (TODO)
+  - ($蛤haa1)
+  ==
+$$
 
 ### 蝦4 | _(4)H(a/)_ [[haa4]]
 
@@ -181,7 +205,7 @@ U
   U+8766
 A
   ==
-  - 蛤
+  - $蛤4
   ==
 V
   ==
@@ -203,7 +227,8 @@ W
 C
   ==
   - Williams' 蝦蟆: Or, a toad.
-  - The common reading of 蝦蟆 (or 蛤蟆) is haa1 mou1; see ''Kung Fu Hustle''.
+  - The common reading of 蝦蟆 (usually spelt 蛤蟆) is haa1 mou1;
+    see ''Kung Fu Hustle''.
     The prescribed reading haa4 maa4 is almost never heard.
   ==
 L
