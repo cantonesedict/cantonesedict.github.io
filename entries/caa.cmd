@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -355,7 +355,7 @@ A
   ==
 V
   ==
-  - caa4 (for onomatopoeic senses; low first in reduplication 鑔鑔)
+  - caa4 (for onomatopoeic senses, and low first in reduplication 鑔鑔)
   ==
 F
   [[Not present]]

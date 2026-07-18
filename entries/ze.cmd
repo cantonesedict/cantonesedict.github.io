@@ -298,8 +298,8 @@ U
   U+59D0
 V
   ==
-  - ze2-1 (vernacular; high second in reduplication 姐姐)
-  - ze2-4 (low endearing suffix after a name; low first in reduplication 姐姐)
+  - ze2-1 (vernacular, and high second in reduplication 姐姐)
+  - ze2-4 (low suffix for endearment, and low first in reduplication 姐姐)
   ==
 F
   ==
