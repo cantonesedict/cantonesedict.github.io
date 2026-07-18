@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -293,6 +293,7 @@ U
   U+6D6E
 V
   ==
+  - fau4-2 (rising second in vernacular 浮浮地)
   - pou4 (vernacular)
   ==
 F

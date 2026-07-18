@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1198,6 +1198,10 @@ R
   ⾛ + 8
 U
   U+8DA3
+V
+  ==
+  - ceoi3-2 (rising second in vernacular 趣趣地)
+  ==
 F
   ==
   - (F1.48 趣) 趣味趣致

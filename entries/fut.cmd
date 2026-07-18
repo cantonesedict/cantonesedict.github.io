@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fut
-* %date-modified --> 2026-07-17
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -57,6 +57,10 @@ A
   ==
   - 濶
   - 阔 (Mainland simplified)
+  ==
+V
+  ==
+  - fut3-2 (rising second in vernacular 闊闊地)
   ==
 F
   ==
