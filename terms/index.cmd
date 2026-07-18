@@ -1141,6 +1141,9 @@ window.onload = applyFilter;
     , ze1 lei2
     , [啫喱](/entries/ze#cantonese-啫喱)
   //
+    , ze1 ze1
+    , [啫啫](/entries/ze#cantonese-啫啫)
+  //
     , ze4
     , [謝](/entries/ze#cantonese-謝)
   //
@@ -1287,6 +1290,9 @@ window.onload = applyFilter;
   //
     , zoe1
     , [脧](/entries/zeoi#cantonese-脧)
+  //
+    , zoe1 zoe1
+    , [啫啫](/entries/ze#cantonese-啫啫)
   //
     , zoek3
     , [着~(wear)](/entries/zoek#cantonese-着-wear)

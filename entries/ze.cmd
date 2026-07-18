@@ -65,6 +65,10 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+V
+  ==
+  - zoe1 (alternative in 啫啫)
+  ==
 F
   [[Not present]]
 W
@@ -83,9 +87,17 @@ E
     ++
     1. Jelly.
     ++
+  - 【啫啫】 (ze1 ze1, zoe1 zoe1)
+    ++
+    1. (_onomatopoeia_) The sizzling of a hot claypot.
+       ==
+       - 啫啫雞煲 (ze1 ze1 gai1 bou1): "Sizzling chicken claypot."
+       - 啫啫聲 (ze1 ze1 seng1): "Sizzling [claypot] sounds" (also heard as ze4 ze2 seng1).
+       ==
+    ++
   ====
   --
-  The spellings 啫 and 啫喱 are arbitrary (but well established).
+  The spellings 啫, 啫喱, and 啫啫 are arbitrary (but well established).
   --
 S
   ==
