@@ -1162,6 +1162,9 @@ window.onload = applyFilter;
     , zeng3
     , [正](/entries/zing#cantonese-正)
   //
+    , zeoi6 sau2
+    , [墜手](/entries/zeoi#cantonese-墜手)
+  //
     , zeon1
     , [樽](/entries/zeon#cantonese-樽)
   //

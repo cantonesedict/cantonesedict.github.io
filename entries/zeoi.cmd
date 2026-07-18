@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1486,6 +1486,13 @@ L
     ==
     - (_verb-like_) [to] fall
     ==
+  ====
+E
+  ====
+  - 【墜手】 (zeoi6 sau2)
+    ++
+    1. Weighty, as felt by the hands.
+    ++
   ====
 $$
 
