@@ -2860,6 +2860,9 @@ class CharacterEntry:
             flags=re.VERBOSE,
         )
 
+        # Remove insertion markers
+        text = text.replace('``', '')
+
         return text
 
 class RadicalStrokes:
