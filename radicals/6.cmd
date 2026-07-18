@@ -1564,6 +1564,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$蛓ci3, $蛓zi1}
       - $蛗fau6
+      - $蛤haa1
       - $蛭zat6
       - $蛛zyu1
       ==

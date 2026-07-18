@@ -48,11 +48,35 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($蛤1)
 - $蝦1
 - ($鰕1)
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 蛤1 | _(1)H(a/)_ [[haa1]]
+
+$$.
+R
+  ⾍ + 6
+U
+  U+86E4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 蝦, and reading variation. **See $蝦haa4 for the canonical entry.**
+  ++
+S
+  ==
+  - ($蛤gaap3) (TODO)
+  - $蛤gap3 (TODO)
+  - ($蛤haa4) (TODO)
+  ==
+$$
 
 ### 蝦1 | _(1)H(a/)_ [[haa1]]
 
