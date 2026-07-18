@@ -48,12 +48,34 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $哈1
 - ($蛤1)
 - $蝦1
 - ($鰕1)
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 哈1 | _(1)H(a/)_ [[haa1]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54C8
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. (_onomatopoeia_) The sound of laughter.
+  ++
+S
+  ==
+  - ($哈hap1) (TODO) <## same as $瞌hap1 ##>
+  ==
+$$
 
 ###+ 蛤1 | _(1)H(a/)_ [[haa1]]
 
