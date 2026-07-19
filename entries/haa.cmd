@@ -251,6 +251,7 @@ $$
 - ($蛤4)
 - $蝦4
 - $遐4
+- $霞4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -424,6 +425,7 @@ U
 A
   ==
   - $瑕4
+  - $霞4
   ==
 F
   ==
@@ -458,4 +460,49 @@ L
     - (_adverb-like_) how, why
     ==
   ====
+$$
+
+### 霞4 | _(4)H(a/)_ [[haa4]]
+
+$$
+R
+  ⾬ + 9
+U
+  U+971E
+A
+  ==
+  - 赮
+  ==
+F
+  ==
+  - (F2.74 霞) 雲霞烟霞
+  ==
+W
+  ====
+  - [[Page~67 (4)霞]]
+    ==
+    - Clouds tinged red [[Kangxi: 赤雲氣也 etc., 通作赮]];
+    - vapor, smokiness;
+    - _mok(9) (4)h(a/) m(o\)(6)_
+        [[mok6 haa4 mou6 莫霞霧]]
+        don't move about so, be still;
+    - _(4)h(a/) p(')(u/)i(3)_
+        [[haa4 pui3 霞珮]]
+        a noblewoman's robe.
+    ==
+    --
+    [[Otherwise, an alternative form of 遐. **See $遐haa4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 霞珮: Whilst 珮 is literally a jade ornament,
+    the rendering as "robe" is correct.
+    See the Cantonese opera 《紫釵記》, which has 戴鳳冠、披霞珮
+    ("put on [the] phoenix crown, [and] drape [the] sky-red ornamental [robe]").
+  ==
+P
+  ++
+  1. Sky-red.
+  ++
 $$

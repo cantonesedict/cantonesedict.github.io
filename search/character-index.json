@@ -8824,7 +8824,13 @@
 "遐":{
 "haa4":{
 "isCanonical":true,
-"text":"U+9050 瑕 (F2.74 遐) 遠也 (Page 67 遐) Remote, distant, far from (Kangxi: 遠也); why, how; _ha i kai chi_ (haa4 ji5 gaai1 zi1 遐邇皆知), it is known by everybody. (Page 67 ~~？~~瑕; here normalised to 遐) distant (Kangxi 瑕: 遠也), (...); Long-lasting. 【遐】 (hae) (_adjective-like_) distant, (_met._) lasting (_adverb-like_) how, why"
+"text":"U+9050 瑕 霞 (F2.74 遐) 遠也 (Page 67 遐) Remote, distant, far from (Kangxi: 遠也); why, how; _ha i kai chi_ (haa4 ji5 gaai1 zi1 遐邇皆知), it is known by everybody. (Page 67 ~~？~~瑕; here normalised to 遐) distant (Kangxi 瑕: 遠也), (...); Long-lasting. 【遐】 (hae) (_adjective-like_) distant, (_met._) lasting (_adverb-like_) how, why"
+}
+},
+"霞":{
+"haa4":{
+"isCanonical":true,
+"text":"U+971E 赮 (F2.74 霞) 雲霞烟霞 (Page 67 霞) Clouds tinged red (Kangxi: 赤雲氣也 etc., 通作赮); vapor, smokiness; _mok ha mo_ (mok6 haa4 mou6 莫霞霧) don't move about so, be still; _ha p'ui_ (haa4 pui3 霞珮) a noblewoman's robe. Williams' 霞珮: Whilst 珮 is literally a jade ornament, the rendering as \"robe\" is correct. See the Cantonese opera 《紫釵記》, which has 戴鳳冠、披霞珮 (\"put on the phoenix crown, and drape the sky-red ornamental robe\"). Sky-red."
 }
 },
 "之":{
