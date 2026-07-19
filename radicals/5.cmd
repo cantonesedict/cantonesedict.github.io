@@ -460,7 +460,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $瘋fung1
-      - $瘕haa1
+      - {$瘕haa1, $瘕haa4}
       ==
       </nav>
   //

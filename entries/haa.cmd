@@ -118,7 +118,7 @@ P
 S
   ==
   - $瘕gaa2 (TODO)
-  - ($瘕haa4) (TODO)
+  - ($瘕haa4)
   ==
 $$
 
@@ -248,11 +248,34 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($瘕4)
 - ($蛤4)
 - $蝦4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 瘕4 | _(4)H(a/)_ [[haa4]]
+
+$$.
+R
+  ⽧ + 9
+U
+  U+7615
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 瑕. **See $瑕haa4 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $瘕gaa2 (TODO)
+  - $瘕haa1
+  ==
+$$
 
 ###+ 蛤4 | _(4)H(a/)_ [[haa4]]
 
