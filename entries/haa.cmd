@@ -108,7 +108,7 @@ W
   ====
 C
   ==
-  - Williams prints the headword with the 9th~stroke missing.
+  - Williams prints the headword with the 9th~stroke missing; here corrected.
   - Fan Wan entry: Normalised {𠻳=⿰口敕} to 嗽.
   ==
 P
