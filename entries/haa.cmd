@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-07-19
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $哈1
+- $瘕1
 - ($蛤1)
 - $蝦1
 - ($鰕1)
@@ -74,6 +75,50 @@ P
 S
   ==
   - ($哈hap1) (TODO) <## same as $瞌hap1 ##>
+  ==
+$$
+
+### ~~？~~``瘕``1 | _(1)H(a/)_ [[haa1]]
+
+$$
+R
+  ⽧ + 9
+U
+  U+7615
+F
+  ==
+  - (F2.74 瘕) ::瘕[嗽]::
+  ==
+W
+  ====
+  - [[Page~67 ::(1)~~？~~``瘕``::]]
+    ==
+    - A difficulty in breathing;
+    - _(1)h(a/) sau(3)_
+        [[haa1 sau3 瘕嗽]]
+        a hacking, a cough;
+    <## TODO: correct to $瘕haa4 and note as misreading
+    - a scar;
+    ##>
+    <## TODO: correct to $瘕gaa2
+    - an obstruction in the belly.
+    ##>
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword with the 9th~stroke missing.
+  - Fan Wan entry: Normalised {𠻳=⿰口敕} to 嗽.
+  ==
+P
+  ++
+  1. A throat ailment (Kangxi: 喉病或作疨).
+  ++
+S
+  ==
+  - $瘕gaa2 (TODO)
+  - ($瘕haa4) (TODO)
   ==
 $$
 
