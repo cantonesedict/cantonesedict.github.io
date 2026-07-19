@@ -251,6 +251,7 @@ $$
 - ($瘕4)
 - ($蛤4)
 - $蝦4
+- $遐4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -350,4 +351,40 @@ S
   ==
   - $蝦haa1
   ==
+$$
+
+### 遐4 | _(4)H(a/)_ [[haa4]]
+
+$$
+R
+  ⾡ + 9
+U
+  U+9050
+F
+  ==
+  - (F2.74 遐) 遠也
+  ==
+W
+  ====
+  - [[Page~67 (4)遐]]
+    ==
+    - Remote, distant, far from [[Kangxi: 遠也]];
+    - why``, how``;
+    - _(4)h(a/) (5)(i/) (1)k(a/)i (1)ch(i/)_
+        [[haa4 ji5 gaai1 zi1 遐邇皆知]],
+        it is known by everybody.
+    ==
+  ====
+P
+  ++
+  1. Long-lasting.
+  ++
+L
+  ====
+  * 【遐】 (hae)
+    ==
+    - (_adjective-like_) distant, (_met._) lasting
+    - (_adverb-like_) how, why
+    ==
+  ====
 $$
