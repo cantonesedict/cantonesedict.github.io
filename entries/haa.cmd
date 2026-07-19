@@ -97,9 +97,6 @@ W
     - _(1)h(a/) sau(3)_
         [[haa1 sau3 瘕嗽]]
         a hacking, a cough;
-    <## TODO: correct to $瘕haa4 and note as misreading
-    - a scar;
-    ##>
     <## TODO: correct to $瘕gaa2
     - an obstruction in the belly.
     ##>
@@ -108,7 +105,8 @@ W
   ====
 C
   ==
-  - Williams prints the headword with the 9th~stroke missing; here corrected.
+  - Williams misprints the headword 瘕 with the 9th~stroke missing;
+    here corrected.
   - Fan Wan entry: Normalised {𠻳=⿰口敕} to 嗽.
   ==
 P
@@ -248,6 +246,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $瑕4
 - ($瘕4)
 - ($蛤4)
 - $蝦4
@@ -255,6 +254,68 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### ~~？~~``瑕``4 | _(4)H(a/)_ [[haa4]]
+
+$$
+R
+  ⽟ + 9
+U
+  U+7455
+A
+  ==
+  - $瘕4
+  ==
+F
+  ==
+  - (F2.74 瑕) ::玉之[玷]也::
+  ==
+W
+  ====
+  - [[Page~67 ::(1)~~？~~``瘕``:: _(1)H(a/)_ (haa1); here corrected to _(4)H(a/)_ (haa4) and normalised to 瑕]]
+    ==
+    - [[...]];
+    - a ~~scar~~ ``blemish`` [[Kangxi 瘕: 與瑕同]];
+    - [[...]].
+    ==
+  - [[Page~67 ::(4)~~？~~``瑕``::]]
+    ==
+    - A blemish in a gem [[Kangxi 瑕: 玉玷也, 瑕玉之病也]];
+    - a crack [[Kangxi 瑕: 瑕裂也]], a flaw;
+    - a fault [[Kangxi 瑕: 過也]], a bad habit;
+    - [[...]], separated [[Kangxi 瑕: 相閒曰瑕]];
+    - _(5)m(i/) yuk(9) (4)m(o\) (4)h(a/)_
+        [[mei5 juk6 mou4 haa4 美玉無瑕]],
+        a gem without a flaw, perfect;
+    - _(4)h(a/) ~~ts(')z'(3)~~ ``(1)ts(')z'``_
+        [[haa4 ci1 瑕疵]]
+        a mistake, carelessness.
+    ==
+    --
+    [[Otherwise, an alternative form of 遐. **See $遐haa4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams misprints the headword 瑕 with an additional stroke
+    in the middle component (equivalent to 𩙿 minus 亼);
+    here corrected.
+  - Fan Wan entry: Corrected {𪻕=⿰𤣩古} to 玷.
+  - Williams' "a crack": Metaphorically, a gap.
+  - Williams' 瑕疵: Corrected _ts(')z'(3)_ (ci3) to _(4)ts(')z'_ (ci4) and normalised to _(1)ts(')z'_ (ci1).
+  ==
+P
+  ++
+  1. Emptiness (Kangxi: 瑕謂虛脆也).
+  ++
+L
+  ====
+  * 【瑕】 (hae)
+    ==
+    - (_noun-like_) blemish, flaw
+    ==
+  ====
+$$
 
 ###+ 瘕4 | _(4)H(a/)_ [[haa4]]
 
@@ -269,7 +330,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 瑕. **See $瑕haa4 for the canonical entry.** (TODO)
+  1. Alternative form of 瑕. **See $瑕haa4 for the canonical entry.**
   ++
 S
   ==
@@ -360,6 +421,10 @@ R
   ⾡ + 9
 U
   U+9050
+A
+  ==
+  - $瑕4
+  ==
 F
   ==
   - (F2.74 遐) 遠也
@@ -373,6 +438,12 @@ W
     - _(4)h(a/) (5)(i/) (1)k(a/)i (1)ch(i/)_
         [[haa4 ji5 gaai1 zi1 遐邇皆知]],
         it is known by everybody.
+    ==
+  - [[Page~67 ::(4)~~？~~``瑕``::; here normalised to 遐]]
+    ==
+    - [[...]];
+    - distant [[Kangxi 瑕: 遠也]], [[...]];
+    - [[...]].
     ==
   ====
 P

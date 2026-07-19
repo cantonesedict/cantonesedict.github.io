@@ -3368,6 +3368,13 @@ window.onload = applyFilter;
       ==
   //
     , `hae`
+    , [瑕](/entries/haa#rendering-瑕)
+    ,
+      ==
+      - (_noun-like_) blemish, flaw
+      ==
+  //
+    , `hae`
     , [蝦](/entries/haa#rendering-蝦)
     ,
       ==

@@ -8782,7 +8782,7 @@
 "瘕":{
 "haa1":{
 "isCanonical":true,
-"text":"U+7615 (F2.74 瘕) 瘕嗽 (Page 67 ~~？~~瘕) A difficulty in breathing; _ha sau_ (haa1 sau3 瘕嗽) a hacking, a cough; Williams prints the headword with the 9th stroke missing; here corrected. Fan Wan entry: Normalised 𠻳 to 嗽. A throat ailment (Kangxi: 喉病或作疨)."
+"text":"U+7615 (F2.74 瘕) 瘕嗽 (Page 67 ~~？~~瘕) A difficulty in breathing; _ha sau_ (haa1 sau3 瘕嗽) a hacking, a cough; Williams misprints the headword 瘕 with the 9th stroke missing; here corrected. Fan Wan entry: Normalised 𠻳 to 嗽. A throat ailment (Kangxi: 喉病或作疨)."
 },
 "haa4":{
 "isCanonical":false,
@@ -8815,10 +8815,16 @@
 "text":"U+9C15 (F2.74 蝦) 魚蝦 (F2.74 鰕) 同上 (Page 67 蝦鰕)"
 }
 },
+"瑕":{
+"haa4":{
+"isCanonical":true,
+"text":"U+7455 瘕 (F2.74 瑕) 玉之玷也 (Page 67 ~~？~~瘕 _Ha_ (haa1); here corrected to _Ha_ (haa4) and normalised to 瑕) a ~~scar~~ blemish (Kangxi 瘕: 與瑕同); (Page 67 ~~？~~瑕) A blemish in a gem (Kangxi 瑕: 玉玷也, 瑕玉之病也); a crack (Kangxi 瑕: 瑕裂也), a flaw; a fault (Kangxi 瑕: 過也), a bad habit; (...), separated (Kangxi 瑕: 相閒曰瑕); _mi yuk mo ha_ (mei5 juk6 mou4 haa4 美玉無瑕), a gem without a flaw, perfect; _ha ts'z'_ (haa4 ci1 瑕疵) a mistake, carelessness. Williams misprints the headword 瑕 with an additional stroke in the middle component (equivalent to 𩙿 minus 亼); here corrected. Fan Wan entry: Corrected 𪻕 to 玷. Williams' \"a crack\": Metaphorically, a gap. Williams' 瑕疵: Corrected _ts'z'_ (ci3) to _ts'z'_ (ci4) and normalised to _ts'z'_ (ci1). Emptiness (Kangxi: 瑕謂虛脆也). 【瑕】 (hae) (_noun-like_) blemish, flaw"
+}
+},
 "遐":{
 "haa4":{
 "isCanonical":true,
-"text":"U+9050 (F2.74 遐) 遠也 (Page 67 遐) Remote, distant, far from (Kangxi: 遠也); why, how; _ha i kai chi_ (haa4 ji5 gaai1 zi1 遐邇皆知), it is known by everybody. Long-lasting. 【遐】 (hae) (_adjective-like_) distant, (_met._) lasting (_adverb-like_) how, why"
+"text":"U+9050 瑕 (F2.74 遐) 遠也 (Page 67 遐) Remote, distant, far from (Kangxi: 遠也); why, how; _ha i kai chi_ (haa4 ji5 gaai1 zi1 遐邇皆知), it is known by everybody. (Page 67 ~~？~~瑕; here normalised to 遐) distant (Kangxi 瑕: 遠也), (...); Long-lasting. 【遐】 (hae) (_adjective-like_) distant, (_met._) lasting (_adverb-like_) how, why"
 }
 },
 "之":{
