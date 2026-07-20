@@ -567,7 +567,7 @@ C
     Thus, for practical purposes, I have not normalised 吓 to 下.
   - Williams' 一吓同去: Corrected _(4)^tung_ (dung4) to _(4)t(')ung_ (tung4).
   - Williams' 問候吓佢嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
-    In modern Cantonese the final particle would be $啫ze1 instead of $嗻ze3.
+    In modern Cantonese the final particle would be $啫ze1 instead of the (now) dated $嗻ze3.
   ==
 S
   ==
