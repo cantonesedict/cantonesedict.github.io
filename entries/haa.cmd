@@ -529,7 +529,7 @@ U
   U+5413
 A
   ==
-  - 下
+  - 下 (for occurrence classifier and "moment/momentarily" senses)
   ==
 F
   [[Not present]]
@@ -570,10 +570,24 @@ C
     to disambiguate between haa5 and haa6 if 下 is used
     (e.g. 觀吓場 vs 觀下場 under $場coeng4, and 詳吓 vs 詳下 under $詳coeng4).
     Thus, for practical purposes, I have *not* normalised 吓 to 下.
+  - *Separately*, there are some haa5 that *are* exclusive to Cantonese;
+    see below.
   - Williams' 一吓同去: Corrected _(4)^tung_ (dung4) to _(4)t(')ung_ (tung4).
   - Williams' 問候吓佢嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
     In modern Cantonese the final particle would be $啫ze1 instead of the (now) dated $嗻ze3.
   ==
+E
+  ====
+  - 【吓-modifier】 (haa5)
+    ++
+    1. Suffixed after an adjective that has been degree-modified by 幾 "quite".
+       The added suffix somewhat(?) lessens the degree.
+       ==
+       - 今日幾凍吓 (gam1 jat6 gei2 dung3 haa5): "[It's] quite cold today."
+       - 碟餸幾辣吓 (dip6 sung3 gei2 laat6 haa5): "[The] dish [is] quite spicy."
+       ==
+    ++
+  ====
 S
   ==
   - $吓haa2 (TODO)
