@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [haa1](#1)
 - [haa4](#4)
+- [haa5](#5)
 - [haa6](#6)
 ==
 </nav>
@@ -506,6 +507,72 @@ P
   ++
   1. Sky-red.
   ++
+$$
+
+
+##{#5 .williams} (5)H(a/) [[haa5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $吓5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 吓5 | _(5)H(a/)_ [[haa5]]
+
+$$
+R
+  ⼝ + 3
+U
+  U+5413
+A
+  ==
+  - 下
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~67 (5)吓]]
+    ==
+    - Once, a time;
+    - a while;
+    - _(2)tang yat(7) (5)h(a/)_
+        [[dang2 jat1 haa5 等一吓]],
+        stop a little;
+    - _(2)t(a/) yat(7) (5)h(a/)_
+        [[daa2 jat1 haa5 打一吓]],
+        strike it once;
+    - _(2)k(i/) (5)h(a/)_
+        [[gei2 haa5 幾吓]],
+        several times;
+    - _yat(7) (5)h(a/) ~~(4)^tung~~ ``(4)t(')ung`` h(u:)(3)_
+        [[jat1 haa5 tung4 heoi3 一吓同去]]
+        I will go with you soon;
+    - _man(6) hau(6) (5)h(a/) (5)k(')(u:) ~~(2)ch(e/)~~ ``ch(e/)(3)``_
+        [[man6 hau6 haa5 keoi5 ze3 問候吓佢嗻]]^
+        only came to visit him.
+    ==
+  ====
+C
+  ==
+  - Usually spelt 下 as it is the same word as the 下 in 一下 and 一下子.
+    This word is not exclusive to Cantonese.
+    However, spelling it 下 can lead to confusion in some of Williams' examples,
+    especially where there is insufficient semantic context to disambiguate
+    _(5)h(a/)_ (haa5) from _h(a/)(6)_ (haa6)
+    (e.g. 觀吓場 vs 觀下場 under $場coeng4, and 詳吓 vs 詳下 under $詳coeng4).
+    Thus, for practical purposes, I have not normalised 吓 to 下.
+  - Williams' 一吓同去: Corrected _(4)^tung_ (dung4) to _(4)t(')ung_ (tung4).
+  - Williams' 問候吓佢嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
+    In modern Cantonese the final particle would be $啫ze1 instead of $嗻ze3.
+  ==
+S
+  ==
+  - $吓haa2 (TODO)
+  ==
 $$
 
 

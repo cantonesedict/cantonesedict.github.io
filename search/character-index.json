@@ -8833,6 +8833,12 @@
 "text":"U+971E 赮 (F2.74 霞) 雲霞烟霞 (Page 67 霞) Clouds tinged red (Kangxi: 赤雲氣也 etc., 通作赮); vapor, smokiness; _mok ha mo_ (mok6 haa4 mou6 莫霞霧) don't move about so, be still; _ha p'ui_ (haa4 pui3 霞珮) a noblewoman's robe. Williams' 霞珮: Whilst 珮 is literally a jade ornament, the rendering as \"robe\" is correct. See the Cantonese opera 《紫釵記》, which has 戴鳳冠、披霞珮 (\"put on the phoenix crown, and drape the sky-red ornamental robe\"). Sky-red."
 }
 },
+"吓":{
+"haa5":{
+"isCanonical":true,
+"text":"U+5413 下 (Page 67 吓) Once, a time; a while; _tang yat ha_ (dang2 jat1 haa5 等一吓), stop a little; _ta yat ha_ (daa2 jat1 haa5 打一吓), strike it once; _ki ha_ (gei2 haa5 幾吓), several times; _yat ha ~~tung~~ t'ung hu_ (jat1 haa5 tung4 heoi3 一吓同去) I will go with you soon; _man hau ha k'u che_ (man6 hau6 haa5 keoi5 ze3 問候吓佢嗻) only came to visit him. Usually spelt 下 as it is the same word as the 下 in 一下 and 一下子. This word is not exclusive to Cantonese. However, spelling it 下 can lead to confusion in some of Williams' examples, especially where there is insufficient semantic context to disambiguate _ha_ (haa5) from _ha_ (haa6) (e.g. 觀吓場 vs 觀下場 under 場 coeng4, and 詳吓 vs 詳下 under 詳 coeng4). Thus, for practical purposes, I have not normalised 吓 to 下. Williams' 一吓同去: Corrected _tung_ (dung4) to _t'ung_ (tung4). Williams' 問候吓佢嗻: Corrected _che_ (ze2) to _che_ (ze3). In modern Cantonese the final particle would be 啫 ze1 instead of 嗻 ze3."
+}
+},
 "下":{
 "haa6":{
 "isCanonical":true,
