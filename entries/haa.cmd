@@ -538,7 +538,7 @@ W
   - [[Page~67 (5)吓]]
     ==
     - Once, a time;
-    - a while;
+    - a while``, momentarily``;
     - _(2)tang yat(7) (5)h(a/)_
         [[dang2 jat1 haa5 等一吓]],
         stop a little;
@@ -558,13 +558,18 @@ W
   ====
 C
   ==
-  - Usually spelt 下 as it is the same word as the 下 in 一下 and 一下子.
-    This word is not exclusive to Cantonese.
-    However, spelling it 下 can lead to confusion in some of Williams' examples,
-    especially where there is insufficient semantic context to disambiguate
-    _(5)h(a/)_ (haa5) from _h(a/)(6)_ (haa6)
+  - Usually spelt 下 for the above senses
+    (i.e. the occurrence classifier and "moment/momentarily" senses).
+    This 下 (haa5) is *not* exclusive to Cantonese;
+    it is the same 下 (haa5) that is present
+    in 一下 (jat1 haa5) and in 一下子 (jat1 haa5 zi2).
+    However, the spelling 下 for this haa5 can be confusing in Cantonese
+    because this 下 is *not* homophonous with 下 (haa6) meaning "down" or "go down".
+    This is especially true in some of Williams' examples,
+    where there is insufficient semantic context
+    to disambiguate between haa5 and haa6 if 下 is used
     (e.g. 觀吓場 vs 觀下場 under $場coeng4, and 詳吓 vs 詳下 under $詳coeng4).
-    Thus, for practical purposes, I have not normalised 吓 to 下.
+    Thus, for practical purposes, I have *not* normalised 吓 to 下.
   - Williams' 一吓同去: Corrected _(4)^tung_ (dung4) to _(4)t(')ung_ (tung4).
   - Williams' 問候吓佢嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
     In modern Cantonese the final particle would be $啫ze1 instead of the (now) dated $嗻ze3.
