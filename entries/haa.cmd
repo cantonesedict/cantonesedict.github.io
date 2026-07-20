@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-07-19
+* %date-modified --> 2026-07-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [haa1](#1)
 - [haa4](#4)
+- [haa6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -505,4 +506,149 @@ P
   ++
   1. Sky-red.
   ++
+$$
+
+
+##{#6 .williams} H(a/)(6) [[haa6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $下6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 下6 | _H(a/)(6)_ [[haa6]]
+
+$$
+R
+  ⼀ + 2
+U
+  U+4E0B
+A
+  ==
+  - 丅
+  ==
+V
+  ==
+  - haa4 (common in 下巴)
+  - haa6-2 (vernacular in 咁上下)
+  ==
+F
+  ==
+  - (F2.76 下) ::上下[低]也早也降也::
+  ==
+W
+  ====
+  - [[Page~67 (5)下 _(5)H(a/)_ (haa5); here corrected to _H(a/)(6)_ (haa6)]]
+    ==
+    - To descend, to come down [[Kangxi: 降也自上而下也]];
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` (4)sh(u:)n_
+        [[haa6 syun4 下船]]^
+        to go aboard;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` (4)lau_
+        [[haa6 lau4 下樓]],
+        go down stairs;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` h(i/)(3)_
+        [[haa6 hei3 下氣]]
+        to restrain the temper;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` (2)ki(u/)_
+        [[haa6 giu6-2 下轎]]^
+        to get out of a sedan;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` t(a/)n(6)_
+        [[haa6 daan6-2 下蛋]]
+        to lay an egg;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` t(')(a/)p(8)_
+        [[haa6 taap3 下榻]]
+        to lodge;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` pat(7)_
+        [[haa6 bat1 下筆]]
+        to write;
+    - _(1)kwan (4)nang ~~(5)h(a/)~~ ``h(a/)(6)`` h(a/)(6)_
+        [[gwan1 nang4 haa6 haa6 君能下下]]
+        a sage knows how to condescend;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` (2)shau_
+        [[haa6 sau2 下手]],
+        to begin to act.
+    ==
+  - [[Page~68 下(6)]]
+    ==
+    - Below, down, bottom, inferior [[Kangxi: 在下之下對上之稱]];
+    - mean, vulgar [[Kangxi: 賤也]];
+    - next [[Kangxi: 後也]];
+    - _tsoi(6) (2)tai h(a/)(6)_
+        [[zoi6 dai2 haa6 在底下]]
+        it is below;
+    - _h(a/)(6) (2)tai_
+        [[haa6 dai2 下底]],
+        the bottom, underneath;
+    - _h(a/)(6) ~~t(')sz'(3)~~ ``ts(')z'(3)``_
+        [[haa6 ci3 下次]]
+        next time;
+    - _h(a/)(6) (u:)t(9)_
+        [[haa6 jyut6 下月]]
+        next moon;
+    - _h(a/)(6) (4)man_
+        [[haa6 man4 下民]],
+        common people;
+    - _h(a/)(6) (4)lau_
+        [[haa6 lau4 下流]],
+        the lowest classes, lowlive, vicious;
+    - _(4)m(o\) h(a/)(6) lok(9)_
+        [[mou4 haa6 lok6 無下落]]
+        no fixed business or residence;
+    - _h(a/)(6) (5)m(a/) (1)wai_
+        [[haa6 maa5 wai1 下馬威]],
+        a humbug;
+    - _h(a/)(6) tsok(8)_
+        [[haa6 zok3 下作]]
+        to covet, to long for, unscrupulous;
+    - _h(a/)(6) ~~(4)^p(a/)~~ ``(4)p(')(a/)``_
+        [[haa6 paa4 下巴]],
+        the chin;
+    - _h(a/)(6) (1)sheng_
+        [[haa6 seng1 下聲]],
+        a low sound, or voice;
+    - _h(a/)(6) p(i/)n(6)_
+        [[haa6 bin6 下便]]
+        the right side, the lower;
+    - _h(a/)(6) (4)yan_
+        [[haa6 jan4 下人]],
+        official underlings.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰亻氏 to 低.
+  - Williams has attempted to distinguish
+    the now (very) obsolete rising-tone reading _(5)h(a/)_ (haa5)
+    from the departing-tone reading _h(a/)(6)_ (haa6),
+    but he has gotten the senses the wrong way round.
+    Classically, it is the positional/directional sense that is rising,
+    and the verb sense that is departing.
+  - Williams' 下船: That is, to go down *onto* the boat.
+    Also used to mean the opposite (to go down *from* the boat, i.e. to disembark).
+  - Williams' 下底: Less common than 下低.
+  - Williams' 下次: Corrected _t(')sz'(3)_ (aspirate in wrong position^) to _ts(')z'(3)_.
+  - Williams' 下馬威: Here, "humbug" means "fraud" or "sham".
+    This is the meaning when 下馬威 is used sarcastically
+    to mock a (vain) show of authority or might.
+  - Williams' 下作: Better rendered as adjectives.
+  - Williams' 下巴: Corrected _(4)^p(a/)_ (baa4) to _(4)p(')(a/)_ (paa4).
+  ==
+L
+  ====
+  * 【下-rising】 (haeX)
+    ==
+    - (_adverb-like_) down, downward
+    - (_postposition-like_) below, under
+    - (_adjective-like_) below, lower, inferior
+    ==
+  * 【下-departing】 (haeH)
+    ==
+    - (_verb-like_) [to] go down, [to] alight
+    - (_verb-like_) [to] down, [to] put down
+    ==
+  ====
 $$
