@@ -515,10 +515,49 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $下5
 - $吓5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+### 下5 | _(5)H(a/)_ [[haa5]]
+
+$$
+R
+  ⼀ + 2
+U
+  U+4E0B
+A
+  ==
+  - $吓5 (Cantonese)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~67 (5)下]]
+    --
+    [[...]]
+    --
+  ====
+C
+  ==
+  - The reading _(5)h(a/)_ (haa5) is present in Williams,
+    but not with the correct senses.
+  - The alternative form 吓 may be more practical in Cantonese.
+    See commentary at $吓haa5.
+  ==
+P
+  ++
+  1. Classifier for occurrences of a repeatable action.
+  1. A while, a moment, momentarily.
+  ++
+S
+  ==
+  - $下haa6
+  ==
+$$
 
 ### 吓5 | _(5)H(a/)_ [[haa5]]
 
@@ -527,10 +566,6 @@ R
   ⼝ + 3
 U
   U+5413
-A
-  ==
-  - 下 (for occurrence classifier and "moment/momentarily" senses)
-  ==
 V
   ==
   - haa5-2 (for Cantonese "during" suffix sense)
@@ -559,6 +594,9 @@ W
         [[man6 hau6 haa5 keoi5 ze3 問候吓佢嗻]]^
         only came to visit him.
     ==
+    --
+    [[Alternative form of 下. See $下haa5.]]
+    --
   ====
 C
   ==
@@ -574,8 +612,8 @@ C
     to disambiguate between haa5 and haa6 if 下 is used
     (e.g. 觀吓場 vs 觀下場 under $場coeng4, and 詳吓 vs 詳下 under $詳coeng4).
     Thus, for practical purposes, I have *not* normalised 吓 to 下.
-  - Separately, there are haa5 that *are* exclusive to Cantonese;
-    see below.
+  - However, there are separate haa5 that *are* exclusive to Cantonese;
+    see the Cantonese entry below.
   - Williams' 一吓同去: Corrected _(4)^tung_ (dung4) to _(4)t(')ung_ (tung4).
   - Williams' 問候吓佢嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
     In modern Cantonese the final particle would be $啫ze1 instead of the (now) dated $嗻ze3.
@@ -756,4 +794,8 @@ L
     - (_verb-like_) [to] down, [to] put down
     ==
   ====
+S
+  ==
+  - $下haa5
+  ==
 $$

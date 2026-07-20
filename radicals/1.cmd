@@ -56,7 +56,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $下haa6
+      - {$下haa5, $下haa6}
       - $丈zoeng6
       ==
       </nav>
