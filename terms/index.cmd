@@ -712,6 +712,12 @@ window.onload = applyFilter;
     , haa5
     , [吓~(modifier)](/entries/haa#cantonese-吓-modifier)
   //
+    , haa5
+    , [吓~(during)](/entries/haa#cantonese-吓-during)
+  //
+    , haa5-2
+    , [吓~(during)](/entries/haa#cantonese-吓-during)
+  //
     , haap3 cou3
     , [呷醋](/entries/cou#cantonese-呷醋)
   //

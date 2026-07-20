@@ -531,6 +531,10 @@ A
   ==
   - 下 (for occurrence classifier and "moment/momentarily" senses)
   ==
+V
+  ==
+  - haa5-2 (for Cantonese "during" suffix sense)
+  ==
 F
   [[Not present]]
 W
@@ -570,7 +574,7 @@ C
     to disambiguate between haa5 and haa6 if 下 is used
     (e.g. 觀吓場 vs 觀下場 under $場coeng4, and 詳吓 vs 詳下 under $詳coeng4).
     Thus, for practical purposes, I have *not* normalised 吓 to 下.
-  - *Separately*, there are some haa5 that *are* exclusive to Cantonese;
+  - Separately, there are haa5 that *are* exclusive to Cantonese;
     see below.
   - Williams' 一吓同去: Corrected _(4)^tung_ (dung4) to _(4)t(')ung_ (tung4).
   - Williams' 問候吓佢嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
@@ -585,6 +589,21 @@ E
        ==
        - 今日幾凍吓 (gam1 jat6 gei2 dung3 haa5): "[It's] quite cold today."
        - 碟餸幾辣吓 (dip6 sung3 gei2 laat6 haa5): "[The] dish [is] quite spicy."
+       ==
+    ++
+  - 【吓-during】 (haa5, haa5-2)
+    ++
+    1. Suffixed after a reduplicated verb,
+       before introducing an event that occurs
+       during the action of the verb
+       (i.e. after the action has started
+       but before the action ought to cease).
+       The (tone-unchanged) reading haa5 is strongly preferred
+       when the reduplicated verb is tone~2.
+       ==
+       - 行行吓腳軟 (haang4 haang4 haa5-2 goek3 jyun5): "In [the] middle of walking [I felt] weak-legged."
+       - 食食吓想嘔 (sik6 sik6 haa5 soeng2 au2): "In [the] middle of eating [I] wanted to vomit."
+       - 講講吓唔記得咗 (gong2 gong2 haa5 m4 gei3 dak1 zo2): "In [the] middle of speaking [he] forgot [about it]."
        ==
     ++
   ====
