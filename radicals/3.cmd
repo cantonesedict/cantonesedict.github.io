@@ -496,6 +496,14 @@ For all radicals, see [Index of characters by radical](./).
       - $致zi3
       ==
       </nav>
+  //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $夏haa6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼢-characters ##>

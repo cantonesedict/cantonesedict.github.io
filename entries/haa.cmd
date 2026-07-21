@@ -703,6 +703,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $下6
+- $夏6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -842,5 +843,68 @@ L
 S
   ==
   - $下haa5
+  ==
+$$
+
+### 夏6 | _H(a/)(6)_ [[haa6]]
+
+$$
+R
+  ⼢ + 7
+U
+  U+590F
+F
+  ==
+  - (F2.76 夏) ::春夏又[大]也::
+  ==
+W
+  ====
+  - [[Page~68 夏(6)]]
+    ==
+    - Summer [[Kangxi: 四時二曰夏 etc.]];
+    - a mansion [[Kangxi: 大屋曰夏]];
+    - ~~clear;~~
+    - variegated [[Kangxi: 五色曰夏]];
+    - name of a dynasty from B.C.~2205 to 1766 [[Kangxi: 國號禹受舜禪易虞爲夏]];
+    - _h(a/)(6) (1)t(')(i/)n_
+        [[haa6 tin1 夏天]],
+        summer weather;
+    - _h(a/)(6) kwai(3)_
+        [[haa6 gwai3 夏季]]
+        summer months;
+    - _h(a/)(6) p(o\)(3)_
+        [[haa6 bou3 夏布]]
+        grasscloth;
+    - _H(a/)(6) (4)ch(')i(u/)_
+        [[haa6 ciu4 夏朝]],
+        the Hi(a/) dynasty.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 夭 to 大.
+  - Williams' "B.C.~2205 to 1766": Per the traditional chronology.
+  ==
+P
+  ++
+  1. An historical appellation for the notion of "civilised China" (Kangxi: 中國曰華夏).
+  1. The name of a state (Kangxi: 國名).
+  1. A surname.
+  ++
+L
+  ====
+  * 【夏-rising】 (haeX)
+    ==
+    - (_adjective-like_) great
+    - (_adjective-like_) variegated
+    ==
+  * 【夏-departing】 (haeH)
+    ==
+    - (_noun-like_) summer
+    ==
+  ====
+S
+  ==
+  - $夏gaa2 (TODO) <## Kangxi: 夏用木革用皮皆鞭扑之{𠛬=⿰幵刂} ##>
   ==
 $$
