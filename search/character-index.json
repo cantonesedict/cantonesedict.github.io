@@ -8821,6 +8821,16 @@
 "text":"U+9C15 (F2.74 蝦) 魚蝦 (F2.74 鰕) 同上 (Page 67 蝦鰕)"
 }
 },
+"暇":{
+"haa4":{
+"isCanonical":false,
+"text":"U+6687"
+},
+"haa6":{
+"isCanonical":true,
+"text":"U+6687 haa4 (common) (F2.76 暇) 閒逸也 (Page 68 暇) Leisure, relaxation (Kangxi: 閑也); self-indulgence, unoccupied; _han ha_ (haan4 haa6 閒暇) at leisure; _mi ha_ (mei6 haa6 未暇) busy. Carefree. 【暇】 (haeH) (_noun-like_) leisure (_adjective-like_) leisurely, (_met._) carefree"
+}
+},
 "瑕":{
 "haa4":{
 "isCanonical":true,
@@ -8871,12 +8881,6 @@
 "haa6":{
 "isCanonical":true,
 "text":"U+5EC8 厦 夏 (F2.76 厦) 屋也 (Page 68 厦; here normalised to 廈) A mansion (Kangxi 廈: 大屋), a side room (Kangxi 廈: 今之門廡旁廣而卑); _ha mun_ (haa6 mun4 廈門), Amoy; _Mong ha_ (mong6 haa6 望廈) the village of Wanghia near Macao. A house (Kangxi 廈: 屋也). 【廈】 (haeX) (_noun-like_) house, mansion"
-}
-},
-"暇":{
-"haa6":{
-"isCanonical":true,
-"text":"U+6687 haa4 (common) (F2.76 暇) 閒逸也 (Page 68 暇) Leisure, relaxation (Kangxi: 閑也); self-indulgence, unoccupied; _han ha_ (haan4 haa6 閒暇) at leisure; _mi ha_ (mei6 haa6 未暇) busy. Carefree. 【暇】 (haeH) (_noun-like_) leisure (_adjective-like_) leisurely, (_met._) carefree"
 }
 },
 "之":{

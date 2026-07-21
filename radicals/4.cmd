@@ -984,7 +984,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $暗am3
       - $暉fai1
-      - $暇haa6
+      - {$暇haa4, $暇haa6}
       ==
       </nav>
   //

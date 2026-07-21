@@ -295,6 +295,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($暇4)
 - $瑕4
 - ($瘕4)
 - ($蛤4)
@@ -304,6 +305,27 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 暇4 | _(4)H(a/)_ [[haa4]]
+
+$$.
+R
+  ⽇ + 9
+U
+  U+6687
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $暇haa6 for the canonical entry.**
+  ++
+S
+  ==
+  - $暇haa6
+  ==
+$$
 
 ### ~~？~~``瑕``4 | _(4)H(a/)_ [[haa4]]
 
@@ -1018,4 +1040,8 @@ L
     - (_adjective-like_) leisurely, (_met._) carefree
     ==
   ====
+S
+  ==
+  - ($暇haa4)
+  ==
 $$
