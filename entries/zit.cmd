@@ -251,6 +251,10 @@ R
   ⼥ + 8
 U
   U+5A55
+A
+  ==
+  - 媫
+  ==
 V
   ==
   - zip3 (per 《廣韻》即葉切 for "woman-officer" sense)
