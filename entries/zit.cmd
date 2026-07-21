@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -840,6 +840,10 @@ R
   ⼿ + 8
 U
   U+6377
+A
+  ==
+  - 㨗
+  ==
 V
   ==
   - zip6 (per 《廣韻》疾葉切)
@@ -847,8 +851,8 @@ V
   ==
 F
   ==
-  - (F1.27 ::[捷]::) ::勝也敏疾也報勝曰[捷]報::
-  - (F2.50 ::[捷]:: _Ts(i/)p(8)_ (zip3)) ::[勝]也::
+  - (F1.27 㨗) 勝也敏疾也報勝曰㨗報
+  - (F2.50 㨗 _Ts(i/)p(8)_ (zip3)) ::[勝]也::
   ==
 W
   ====
@@ -883,8 +887,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword (with right component like 偼) to 捷
-    for both readings, and fixed missing strokes in 勝 for the second reading.
+  - Fan Wan entry: Fixed missing strokes in 勝 for the second reading.
   - Williams' "also read [...]": Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
   ==
 P
