@@ -3413,6 +3413,13 @@ window.onload = applyFilter;
       - (_adjective-like_) variegated
       ==
   //
+    , `haeX`
+    , [廈](/entries/haa#rendering-廈)
+    ,
+      ==
+      - (_noun-like_) house, mansion
+      ==
+  //
     , `haeH`
     , [下~(departing)](/entries/haa#rendering-下-departing)
     ,

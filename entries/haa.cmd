@@ -704,6 +704,7 @@ $$
 =={.modern}
 - $下6
 - $夏6
+- $廈6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -879,6 +880,9 @@ W
         [[haa6 ciu4 夏朝]],
         the Hi(a/) dynasty.
     ==
+    --
+    [[Otherwise, an alternative form of 廈. **See $廈haa6 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -907,4 +911,46 @@ S
   ==
   - $夏gaa2 (TODO) <## Kangxi: 夏用木革用皮皆鞭扑之{𠛬=⿰幵刂} ##>
   ==
+$$
+
+###+ 廈6 | _H(a/)(6)_ [[haa6]]
+
+$$
+R
+  ⼴ + 10
+U
+  U+5EC8
+A
+  ==
+  - 厦
+  - $夏6
+  ==
+F
+  ==
+  - (F2.76 厦) 屋也
+  ==
+W
+  ====
+  - [[Page~68 厦(6); here normalised to 廈]]
+    ==
+    - A mansion [[Kangxi 廈: 大屋]], a side room [[Kangxi 廈: ::今之門廡旁廣而[卑]::]];
+    - _h(a/)(6) (4)m(u/)n_
+        [[haa6 mun4 廈門]],
+        Amoy;
+    - _Mong(6) h(a/)(6)_
+        [[mong6 haa6 望廈]]
+        the village of W(a/)nghi(a/) near Macao.
+    ==
+  ====
+P
+  ++
+  1. A house (Kangxi 廈: 屋也).
+  ++
+L
+  ====
+  * 【廈】 (haeX)
+    ==
+    - (_noun-like_) house, mansion
+    ==
+  ====
 $$
