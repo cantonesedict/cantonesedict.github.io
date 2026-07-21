@@ -712,6 +712,9 @@ window.onload = applyFilter;
     , haa1
     , [蝦](/entries/haa#cantonese-蝦)
   //
+    , haa2
+    , [吓~(interrogative)](/entries/haa#cantonese-吓-interrogative)
+  //
     , haa5
     , [吓~(modifier)](/entries/haa#cantonese-吓-modifier)
   //

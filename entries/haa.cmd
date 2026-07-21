@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [haa1](#1)
+- [haa2](#2)
 - [haa4](#4)
 - [haa5](#5)
 - [haa6](#6)
@@ -308,6 +309,63 @@ W
     [[Alternative form of 蝦. **See $蝦haa1 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#2 .williams} ``(2)H(a/)`` [[haa2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $吓2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 吓2 | _(2)H(a/)_ [[haa2]]
+
+$$
+R
+  ⼝ + 3
+U
+  U+5413
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【吓-interrogative】 (haa2)
+    ++
+    1. An initial interrogative particle of doubt, confusion, surprise, disbelief, etc.
+       Similar to initial "Huh?" or "What?" with rising intonation in English.
+       ==
+       - 吓、咁貴 (haa2? gam3 gwai3?): "What? That expensive?"
+       ==
+    1. An initial interrogative particle used after not properly hearing
+       something spoken.
+       Similar to initial "Huh?" or "What?" with rising intonation in English,
+       but not considered impolite.
+       ==
+       - 吓 (haa2): "What [was that]?"
+       ==
+    1. A final particle for forming a tag question.
+       ==
+       - 下次我請喇吓 (haa6 ci3 ngo5 ceng2 laa3 haa2): "Next time I'm paying, OK?"
+       ==
+    ++
+  ====
+  --
+  The spelling 吓 is arbitrary.
+  --
+  --
+  Otherwise, a reading variation of [吓~haa5](/entries/haa#cantonese-吓-during),
+  the "during" suffix after a reduplicated verb.
+  --
+S
+  ==
+  - $吓haa5
+  ==
 $$
 
 
@@ -658,7 +716,7 @@ U
   U+5413
 V
   ==
-  - haa5-2 (for Cantonese "during" suffix sense)
+  - haa5-2^ (for Cantonese "during" suffix sense)
   ==
 F
   [[Not present]]
@@ -738,7 +796,7 @@ E
   --
 S
   ==
-  - $吓haa2 (TODO)
+  - $吓haa2
   ==
 $$
 

@@ -85,7 +85,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $吖aa1
       - {$吒caa3, $吒zaa1, $吒zaa3}
-      - $吓haa5
+      - {$吓haa2, $吓haa5}
       ==
       </nav>
   //
