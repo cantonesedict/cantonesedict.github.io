@@ -116,6 +116,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 㗇 is arbitrary.
+  --
 $$
 
 ### ~~？~~``瘕``1 | _(1)H(a/)_ [[haa1]]
@@ -712,6 +715,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 吓 is arbitrary.
+  --
 S
   ==
   - $吓haa2 (TODO)
