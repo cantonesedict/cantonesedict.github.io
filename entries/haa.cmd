@@ -70,11 +70,29 @@ U
 F
   [[Not present]]
 W
-  [[Not present]]
-P
-  ++
-  1. (_onomatopoeia_) The sound of laughter.
-  ++
+  ====
+  - [[Page~68 (1)㗿; here corrected to 哈]]
+    ==
+    - Laughter;
+    - _(1)h(a/) (1)h(a/)_
+        [[haa1 haa1 哈哈]],
+        the sound of immoderate laughter.
+    ==
+  ====
+C
+  ====
+  - Here, Williams takes 㗿 to be a non-colloquial word
+    (since he gives the Ts(')ing Mandarin reading Hi(a/) under the headword).
+    This is an erroneous reading of the Kangxi entry, as:
+    ==
+    - The laughter-related senses of 㗿 are *not* read _(1)h(a/)_ (haa1); and
+    - The sense that *is* read 虛加切 _(1)h(a/)_ (haa1)
+      is explained 與谺同谽谺谷中大空貌.
+    ==
+  - Instead, Williams ought to have acknowledged
+    that _(1)h(a/)_ (haa1) is a colloquial word
+    (though not a Cantonese-specific one).
+  ====
 S
   ==
   - ($哈hap1) (TODO) <## same as $瞌hap1 ##>
