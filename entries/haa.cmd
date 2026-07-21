@@ -106,6 +106,16 @@ W
     [[Otherwise, an alternative form of 蝦 (for the Cantonese "bully" sense). **See $蝦haa1 for the canonical entry.**]]
     --
   ====
+E
+  ====
+  - 【㗇】 (haa1)
+    ++
+    1. An interjection of indignation (usually used before chiding someone with a rhetorical question).
+       ==
+       - 㗇乜你噉㗎 (haa1 mat1 nei5 gam2 gaa3): "How could you [be] like this?"
+       ==
+    ++
+  ====
 $$
 
 ### ~~？~~``瘕``1 | _(1)H(a/)_ [[haa1]]
