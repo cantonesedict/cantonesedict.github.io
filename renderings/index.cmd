@@ -3435,6 +3435,14 @@ window.onload = applyFilter;
       - (_noun-like_) summer
       ==
   //
+    , `haeH`
+    , [暇](/entries/haa#rendering-暇)
+    ,
+      ==
+      - (_noun-like_) leisure
+      - (_adjective-like_) leisurely, (_met._) carefree
+      ==
+  //
     , `homX`
     , [菡](/entries/haam#rendering-菡)
     ,

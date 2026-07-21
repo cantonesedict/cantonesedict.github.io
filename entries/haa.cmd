@@ -706,6 +706,7 @@ $$
 - ($厦6)
 - $夏6
 - $廈6
+- $暇6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -972,6 +973,49 @@ L
   * 【廈】 (haeX)
     ==
     - (_noun-like_) house, mansion
+    ==
+  ====
+$$
+
+### 暇6 | _H(a/)(6)_ [[haa6]]
+
+$$
+R
+  ⽇ + 9
+U
+  U+6687
+V
+  ==
+  - haa4 (common)
+  ==
+F
+  ==
+  - (F2.76 暇) 閒逸也
+  ==
+W
+  ====
+  - [[Page~68 暇(6)]]
+    ==
+    - Leisure, relaxation [[Kangxi: 閑也]];
+    - self-indulgence, unoccupied;
+    - _(4)h(a/)n h(a/)(6)_
+        [[haan4 haa6 閒暇]]
+        at leisure;
+    - _m(i/)(6) h(a/)(6)_
+        [[mei6 haa6 未暇]]
+        busy.
+    ==
+  ====
+P
+  ++
+  1. Carefree.
+  ++
+L
+  ====
+  * 【暇】 (haeH)
+    ==
+    - (_noun-like_) leisure
+    - (_adjective-like_) leisurely, (_met._) carefree
     ==
   ====
 $$
