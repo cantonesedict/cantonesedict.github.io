@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2490,6 +2490,7 @@ W
   ====
 C
   ==
+  - The form ⿱茲心 is compatibility ideograph U+2F8A6.
   - Williams' 承慈命: Used in marriage invitations,
     indicating that the groom/bride's father has arranged the marriage
     according to the wishes of the groom/bride's father's mother.
