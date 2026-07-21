@@ -942,7 +942,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword (with right component like 偼) to 睫.
+  - Fan Wan entry: Normalised headword (with right component like 㨗) to 睫.
   ==
 L
   ====

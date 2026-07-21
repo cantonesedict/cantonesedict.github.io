@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2026-07-16
+* %date-modified --> 2026-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -426,7 +426,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword (with right component like 偼) to 睫.
+  - Fan Wan entry: Normalised headword (with right component like 㨗) to 睫.
   ==
 S
   ==
