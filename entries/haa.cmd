@@ -51,6 +51,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $哈1
+- $㗇1
 - $瘕1
 - ($蛤1)
 - $蝦1
@@ -78,6 +79,33 @@ S
   ==
   - ($哈hap1) (TODO) <## same as $瞌hap1 ##>
   ==
+$$
+
+### 㗇1 | _(1)H(a/)_ [[haa1]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+35C7
+V
+  ==
+  - haa4 (alternative per 《集韻》何加切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~68 (1)㗇]]
+    ==
+    - The throat [[Kangxi: 咽也]];
+    - to swallow;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 蝦 (for the Cantonese "bully" sense). **See $蝦haa1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### ~~？~~``瘕``1 | _(1)H(a/)_ [[haa1]]
@@ -154,6 +182,7 @@ U
   U+8766
 A
   ==
+  - $㗇1 (for Cantonese "bully" sense)
   - $鰕1
   - 虾 (Mainland simplified)
   ==
@@ -195,6 +224,13 @@ W
     --
     [[Otherwise, a reading variation. **See $蝦haa4 for the canonical entry.**]]
     --
+  - [[Page~68 (1)㗇; here normalised to 蝦]]
+    ==
+    - [[...]];
+    - _(1)h(a/) p(a/)(3)_
+        [[haa1 baa3 蝦霸]]
+        to insult, to reproach.
+    ==
   ====
 C
   ==
@@ -207,6 +243,7 @@ E
     ++
     1. To bully, to pick on.
        ==
+       - 蝦蝦霸霸 (haa1 haa1 baa3 baa3): "Bullying [and] tyrannising."
        - 大蝦細 (daai6 haa1 sai3): "Elder picking on younger."
        - 唔准蝦人 (m4 zeon2 haa1 jan4): "No bullying others!"
        ==
