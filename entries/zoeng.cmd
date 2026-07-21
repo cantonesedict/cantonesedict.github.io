@@ -121,7 +121,7 @@ W
     - long [[Kangxi: 長也]]~~, large~~;
     - to receive and act upon, endued with [[Kangxi: 承也奉也行也]];
     - to act``, to perform, to implement`` [[Kangxi: 將行也]];
-    - to progress, ~~to increase~~, to approach, to advance [[Kangxi: 進也]] ~~towards a mark~~;
+    - to progress, ~~to increase,~~ to approach, to advance [[Kangxi: 進也]] ~~towards a mark~~;
     - to follow [[Kangxi: 從也隨也]];
     - going, passing, as time [[Kangxi: 去也 etc.]];
     - the side [[Kangxi: 側也]];
