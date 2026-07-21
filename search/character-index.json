@@ -8855,6 +8855,12 @@
 "text":"U+5413 haa5-2 (for Cantonese \"during\" suffix sense) (Page 67 吓) Once, a time; a while, momentarily; _tang yat ha_ (dang2 jat1 haa5 等一吓), stop a little; _ta yat ha_ (daa2 jat1 haa5 打一吓), strike it once; _ki ha_ (gei2 haa5 幾吓), several times; _yat ha ~~tung~~ t'ung hu_ (jat1 haa5 tung4 heoi3 一吓同去) I will go with you soon; _man hau ha k'u che_ (man6 hau6 haa5 keoi5 ze3 問候吓佢嗻) only came to visit him. Usually spelt 下 for the above senses (i.e. the occurrence classifier and \"moment/momentarily\" senses). This 下 (haa5) is *not* exclusive to Cantonese; it is the same 下 (haa5) that is present in 一下 (jat1 haa5) and in 一下子 (jat1 haa5 zi2). However, the spelling 下 for this haa5 can be confusing in Cantonese because this 下 is *not* homophonous with 下 (haa6) meaning \"down\" or \"go down\". This is especially true in some of Williams' examples, where there is insufficient semantic context to disambiguate between haa5 and haa6 if 下 is used (e.g. 觀吓場 vs 觀下場 under 場 coeng4, and 詳吓 vs 詳下 under 詳 coeng4). Thus, for practical purposes, I have *not* normalised 吓 to 下. However, there are separate haa5 that *are* exclusive to Cantonese; see the Cantonese entry below. Williams' 一吓同去: Corrected _tung_ (dung4) to _t'ung_ (tung4). Williams' 問候吓佢嗻: Corrected _che_ (ze2) to _che_ (ze3). In modern Cantonese the final particle would be 啫 ze1 instead of the (now) dated 嗻 ze3. 【吓-modifier】 (haa5) Suffixed after an adjective that has been degree-modified by 幾 \"quite\". The added suffix somewhat(?) lessens the degree. 今日幾凍吓 (gam1 jat6 gei2 dung3 haa5): \"It's quite cold today.\" 碟餸幾辣吓 (dip6 sung3 gei2 laat6 haa5): \"The dish is quite spicy.\" 【吓-during】 (haa5, haa5-2) Suffixed after a reduplicated verb, before introducing an event that occurs during the action of the verb (i.e. after the action has started but before the action ought to cease). The (tone-unchanged) reading haa5 is strongly preferred when the reduplicated verb is tone 2. 行行吓腳軟 (haang4 haang4 haa5-2 goek3 jyun5): \"In the middle of walking I felt weak-legged.\" 食食吓想嘔 (sik6 sik6 haa5 soeng2 au2): \"In the middle of eating I wanted to vomit.\" 講講吓唔記得咗 (gong2 gong2 haa5 m4 gei3 dak1 zo2): \"In the middle of speaking he forgot about it.\""
 }
 },
+"厦":{
+"haa6":{
+"isCanonical":false,
+"text":"U+53A6 (F2.76 厦) 屋也 (Page 68 厦)"
+}
+},
 "夏":{
 "haa6":{
 "isCanonical":true,
