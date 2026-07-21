@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-07-20
+* %date-modified --> 2026-07-21
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -632,10 +632,8 @@ E
   - 【吓-during】 (haa5, haa5-2)
     ++
     1. Suffixed after a reduplicated verb,
-       before introducing an event that occurs
-       during the action of the verb
-       (i.e. after the action has started
-       but before the action ought to cease).
+       before introducing an event that occurs during the action of the verb
+       (i.e. after the action has started but before the action ought to cease).
        The (tone-unchanged) reading haa5 is strongly preferred
        when the reduplicated verb is tone~2.
        ==
