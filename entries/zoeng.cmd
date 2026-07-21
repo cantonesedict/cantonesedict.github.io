@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -163,6 +163,9 @@ W
   ====
 C
   ==
+  - Williams' "sometimes a form of the accusative":
+    In the sense that 將 is used before the direct object of a verb
+    so that the verb can be placed after the direct object.
   - Williams' 將軍: In the non-Manchu context, a general;
     in Chinese chess, to check.
   - Two of Williams' examples
