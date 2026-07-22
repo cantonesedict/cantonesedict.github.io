@@ -375,6 +375,7 @@ $$
 - ($暇4)
 - $瑕4
 - ($瘕4)
+- $蕸4
 - ($蛤4)
 - $蝦4
 - $遐4
@@ -485,6 +486,38 @@ S
   ==
   - $瘕gaa2 (TODO)
   - $瘕haa1
+  ==
+$$
+
+### 蕸4 | _(4)H(a/)_ [[haa4]]
+
+$$
+R
+  ⾋ + 13
+U
+  U+8578
+F
+  ==
+  - (F2.74 蕸) ::芙[蕖葉]::
+  ==
+W
+  ====
+  - [[Page~716 (4)蕸]]
+    ==
+    - The leaves of the water lily [[Kangxi: 荷芙蕖, 其葉蕸]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱艹⿱⿰氵臣木 to 蕖, and corrected 藥 to 葉.
+  - Williams' "leaves of the water lily": That is, the lotus leaf.
+  ==
+S
+  ==
+  - $蕸gaa1 (TODO) <## 《集韻》居牙切音加葦未秀者 ##>
   ==
 $$
 
