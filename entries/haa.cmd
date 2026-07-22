@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-07-21
+* %date-modified --> 2026-07-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -118,6 +118,10 @@ W
     --
     [[Otherwise, an alternative form of 蝦 (for the Cantonese "bully" sense). **See $蝦haa1 for the canonical entry.**]]
     --
+  - [[Page~716 (1)㗇]]
+    ==
+    - Is also a word of regret, an exclamation of dissatisfaction.
+    ==
   ====
 E
   ====
