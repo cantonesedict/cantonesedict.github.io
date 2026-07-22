@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $奚4
 - $徯4
+- $蹊4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -97,6 +98,10 @@ R
   ⼻ + 10
 U
   U+5FAF
+A
+  ==
+  - $蹊4
+  ==
 V
   ==
   - hai5 (alternative per 《廣韻》胡禮切)
@@ -110,10 +115,18 @@ W
   - [[Page~68 (4)徯]]
     ==
     - To wait for [[Kangxi: 待也]], to hope [[Kangxi: 有所望也]];
-    - a narrow pathway [[Kangxi: 與蹊通]];
-    - _(4)hai king(3)_
-        [[hai4 ging3 徯徑]]
-        a footpath [[Kangxi: 徯徑細小狹路也]].
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 蹊. **See $蹊hai4 for the canonical entry.**]]
+    --
+  - [[Page~716 (1)蹊]]
+    ==
+    - Same as 徯 _(4)hai_ [[hai4]], [[...]].
+    <## TODO: move under $蹊kei1
+    - [[...]], but read _(1)h(i/)_ [[hei1]]
+      in the phrase _(1)hi(u/) (1)h(i/)_ [[hiu1 hei1 蹺蹊]], ominous.
+    ##>
     ==
   ====
 L
@@ -123,4 +136,64 @@ L
     - (_verb-like_) [to] await
     ==
   ====
+$$
+
+###+ 蹊4 | _(4)Hai_ [[hai4]]
+
+$$
+R
+  ⾜ + 10
+U
+  U+8E4A
+A
+  ==
+  - $徯4
+  ==
+V
+  ==
+  - kai1 (per Fan Wan)
+  ==
+F
+  ==
+  - (F1.28 蹊 _(1)K(')ai_ (kai1)) 小路
+  ==
+W
+  ====
+  - [[Page~68 (4)徯]]
+    ==
+    - [[...]];
+    - a narrow pathway [[Kangxi 徯: 與蹊通]];
+    - _(4)hai king(3)_
+        [[hai4 ging3 徯徑]]
+        a footpath [[Kangxi 徯: 徯徑細小狹路也]].
+    ==
+  - [[Page~120 (1)蹊 _(1)K(')ai_ (kai1); here normalised to _(4)Hai_ (hai4)]]
+    ==
+    - A foot or bridle-path [[Kangxi: 徑道也, 步所用道曰蹊]], a narrow pathway;
+    - to penetrate through byways, to go where no road is [[Kangxi: 徑也]].
+    ==
+    --
+    ~~Often read _(1)hai_ [[hai1]].~~
+    --
+    --
+    [[Otherwise, an alternative form of 徯. **See $徯hai4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' "Often read [...]": The reading _(1)hai_ (hai1) is very dubious.
+  ==
+L
+  ====
+  * 【蹊】 (hej)
+    ==
+    - (_noun-like_) footpath
+    - (_verb-like_) [to] path
+    ==
+  ====
+S
+  ==
+  - ($蹊kai1) (TODO)
+  - $蹊kei1 (TODO)
+  ==
 $$

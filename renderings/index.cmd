@@ -3458,6 +3458,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] await
       ==
   //
+    , `hej`
+    , [蹊](/entries/hai#rendering-蹊)
+    ,
+      ==
+      - (_noun-like_) footpath
+      - (_verb-like_) [to] path
+      ==
+  //
     , `hejX`
     , [徯](/entries/hai#rendering-徯)
     ,

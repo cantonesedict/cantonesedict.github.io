@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 7-stroke radicals
-* %date-modified --> 2026-07-19
+* %date-modified --> 2026-07-22
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 7-stroke radicals
 
@@ -819,6 +819,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $蹉co1
       - {$蹌coeng1, $蹌coeng3}
+      - $蹊hai4
       - {$蹐zek3, $蹐zik3}
       ==
       </nav>
