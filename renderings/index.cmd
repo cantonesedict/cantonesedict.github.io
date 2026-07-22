@@ -3451,6 +3451,20 @@ window.onload = applyFilter;
       - (_noun-like_) slave
       ==
   //
+    , `hej`
+    , [徯](/entries/hai#rendering-徯)
+    ,
+      ==
+      - (_verb-like_) [to] await
+      ==
+  //
+    , `hejX`
+    , [徯](/entries/hai#rendering-徯)
+    ,
+      ==
+      - (_verb-like_) [to] await
+      ==
+  //
     , `homX`
     , [菡](/entries/haam#rendering-菡)
     ,

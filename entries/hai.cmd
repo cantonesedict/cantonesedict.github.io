@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $奚4
+- $徯4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -85,6 +86,41 @@ L
     ==
     - (_adverb-like_) what, why
     - (_noun-like_) slave
+    ==
+  ====
+$$
+
+### 徯4 | _(4)Hai_ [[hai4]]
+
+$$
+R
+  ⼻ + 10
+U
+  U+5FAF
+V
+  ==
+  - hai5 (alternative per 《廣韻》胡禮切)
+  ==
+F
+  ==
+  - (F1.29 徯) 待也
+  ==
+W
+  ====
+  - [[Page~68 (4)徯]]
+    ==
+    - To wait for [[Kangxi: 待也]], to hope [[Kangxi: 有所望也]];
+    - a narrow pathway [[Kangxi: 與蹊通]];
+    - _(4)hai king(3)_
+        [[hai4 ging3 徯徑]]
+        a footpath [[Kangxi: 徯徑細小狹路也]].
+    ==
+  ====
+L
+  ====
+  * 【徯】 (hej, hejX)
+    ==
+    - (_verb-like_) [to] await
     ==
   ====
 $$
