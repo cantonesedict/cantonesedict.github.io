@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-21
+* %date-modified --> 2026-07-22
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3441,6 +3441,14 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) leisure
       - (_adjective-like_) leisurely, (_met._) carefree
+      ==
+  //
+    , `hej`
+    , [奚](/entries/hai#rendering-奚)
+    ,
+      ==
+      - (_adverb-like_) what, why
+      - (_noun-like_) slave
       ==
   //
     , `homX`
