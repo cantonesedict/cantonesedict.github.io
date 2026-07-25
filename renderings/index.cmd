@@ -3495,6 +3495,14 @@ window.onload = applyFilter;
       - (_noun-like_) (_met._) lineage
       ==
   //
+    , `hejH`
+    , [繫~(voiced)](/entries/hai#rendering-繫-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] connect
+      - (_verb-like_) [to] suspend, [to] hang, (_met._) [to] attach
+      ==
+  //
     , `homX`
     , [菡](/entries/haam#rendering-菡)
     ,
@@ -3531,6 +3539,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] tie, [to] bind
       - (_verb-like_) (_met._) [to] connect, [to] relate (to)
+      ==
+  //
+    , `kejH`
+    , [繫~(unvoiced)](/entries/hai#rendering-繫-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] tie, [to] bind
       ==
   //
     , `khet khwat`

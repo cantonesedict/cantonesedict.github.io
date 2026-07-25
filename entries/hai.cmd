@@ -347,6 +347,7 @@ $$
 =={.modern}
 - $係6
 - $系6
+- $繫6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -414,11 +415,14 @@ W
         [[zi3 hai6 至係]]
         ~~at the time,~~ that is better.
     ==
+    --
+    [[Otherwise, an alternative form of 繫. **See $繫hai6 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - The reading _hai(6)_ (hai6) is not unattested;
-    《集韻》 has the reading 胡計切, explained ::説文絜[束]也[...]::.
+    《集韻》 has the reading 胡計切, explained ::説文絜[束]也通作結::.
   - Fan Wan entry: Corrected malformed 聯.
   - Williams' 係咯: Corrected _lok(9)_ (lok6) to _lok(8)_ (lok3).
     Better rendered "[it] is".
@@ -496,6 +500,9 @@ W
         continuous.
     ==
     --
+    [[Intrinsically, and otherwise, an alternative form of 繫. **See $繫hai6 for the canonical entry.**]]
+    --
+    --
     [[Otherwise, an alternative form of 係. **See $係hai6 for the canonical entry.**]]
     --
   ====
@@ -514,6 +521,77 @@ L
     ==
     - (_verb-like_) [to] connect
     - (_noun-like_) (_met._) lineage
+    ==
+  ====
+$$
+
+### 繫6 | _Hai(6)_ [[hai6]]
+
+$$
+R
+  ⽷ + 13
+U
+  U+7E6B
+A
+  ==
+  - $係6
+  - $系6
+  ==
+V
+  ==
+  - gai3 (per 《廣韻》古詣切 for "tie/bind" sense)
+  ==
+F
+  ==
+  - (F1.31 ::[繫]:: _Kai(3)_ (gai3)) 結也束縛也
+  - (F1.34 繫) ::因繫[羈]繫[又]音計::
+  ==
+W
+  ====
+  - [[Page~68 繫(6)]]
+    ==
+    - To tie, to bind [[Kangxi: 約束也]];
+    - ~~to continue;~~
+    - attached to [[Kangxi: 繫辭者聖人繫屬此辭于卦爻之下]], to think of;
+    - to retain, to hold;
+    - _hai(6) (1)chau_
+        [[hai6 zau1 繫舟]],
+        to fasten a boat;
+    - _hai(6) ~~(5)lui~~ ``lui(6)``_
+        [[hai6 leoi6 繫累]],
+        to implicate.
+    ==
+  - [[Page~120 繫(3) _Kai(3)_ (gai3)]]
+    ==
+    - Usually read _~~hai(3)~~ ``hai(6)``_ [[hai6]]^, to tie;
+    - ~~to pertain to, to follow in consequence of.~~
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete stroke in (first) headword 繫,
+    corrected malformed 羈, and fixed missing character 又.
+  - Williams' "to continue": This is a misreading of Kangxi 續也
+    (but an understandable one, since 續也 is a very poor way of explaining
+    the "connect" sense).
+  - Williams' 繫累: Corrected _(5)lui_ (leoi5) to _lui(6)_ (leoi6).
+  - Williams' "Usually read [...]": Corrected _hai(3)_ (hai3) to _hai(6)_ (hai6).
+  ==
+P
+  ++
+  1. To connect (Kangxi: 繫聯綴也).
+  1. To suspend, to hang.
+  ++
+L
+  ====
+  * 【繫-voiced】 (hejH)
+    ==
+    - (_verb-like_) [to] connect
+    - (_verb-like_) [to] suspend, [to] hang, (_met._) [to] attach
+    ==
+  * 【繫-unvoiced】 (kejH)
+    ==
+    - (_verb-like_) [to] tie, [to] bind
     ==
   ====
 $$
