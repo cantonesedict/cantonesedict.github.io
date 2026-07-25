@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-07-22
+* %date-modified --> 2026-07-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -47,12 +47,43 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $兮4
 - $奚4
 - $徯4
 - $蹊4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 兮4 | _(4)Hai_ [[hai4]]
+
+$$
+R
+  ⼋ + 2
+U
+  U+516E
+F
+  ==
+  - (F1.29 兮) 語詞
+  ==
+W
+  ====
+  - [[Page~68 (4)兮]]
+    ==
+    - A poetical word used as an exclamation [[Kangxi: 語有所稽也 etc.]]
+      ~~of admiration or interrogation,
+      according as it is~~ in the middle or end of a sentence;
+    - ah!
+    ==
+  ====
+L
+  ====
+  * 【兮】 (hej)
+    ==
+    - (_speech-assist_)
+    ==
+  ====
+$$
 
 ### 奚4 | _(4)Hai_ [[hai4]]
 
