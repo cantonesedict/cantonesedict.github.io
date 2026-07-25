@@ -51,6 +51,7 @@ $$
 - $奚4
 - $徯4
 - $蹊4
+- $鼷4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -227,4 +228,37 @@ S
   - ($蹊kai1) (TODO)
   - $蹊kei1 (TODO)
   ==
+$$
+
+### 鼷4 | _(4)Hai_ [[hai4]]
+
+$$
+R
+  ⿏ + 10
+U
+  U+9F37
+F
+  ==
+  - (F1.29 ::[鼷]::) ::小[鼠]春秋[鼷鼠]食郊牛角::
+  ==
+W
+  ====
+  - [[Page~68 (4)鼷]]
+    ==
+    - A small meadow mouse, whose bite is considered poisonous [[Kangxi: 小鼠也, 螫毒食人及鳥獸皆不痛今之甘口鼠也, etc.]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿺⿱白⿵𠘨氺奚 to 鼷,
+    fixed missing dot in ⿱白⿵𠘨氺 then normalised to 鼠,
+    and normalised ⿱白⿵𠘨⿻二丨 to 鼠.
+  ==
+L
+  ====
+  * 【鼷】 (hej)
+    ==
+    - (_noun-like_) small-mouse
+    ==
+  ====
 $$

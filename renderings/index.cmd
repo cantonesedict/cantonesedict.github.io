@@ -3473,6 +3473,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] path
       ==
   //
+    , `hej`
+    , [鼷](/entries/hai#rendering-鼷)
+    ,
+      ==
+      - (_noun-like_) small-mouse
+      ==
+  //
     , `hejX`
     , [徯](/entries/hai#rendering-徯)
     ,
