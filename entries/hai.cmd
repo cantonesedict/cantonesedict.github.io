@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [hai2](#2)
 - [hai4](#4)
+- [hai6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -337,3 +338,133 @@ L
     ==
   ====
 $$
+
+
+##{#6 .williams} Hai(6) [[hai6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $係6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 係6 | _Hai(6)_ [[hai6]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FC2
+A
+  ==
+  - 系 (Mainland simplified)
+  ==
+V
+  ==
+  - gai3 (per 《廣韻》古詣切)
+  ==
+F
+  ==
+  - (F1.34 係) ::戀也又[聯]也是也::
+  ==
+W
+  ====
+  - [[Page~68 係(6)]]
+    ==
+    - The substantive verb;
+    - to be, am, is;
+    - to connect, to succeed to``, to relate to`` [[Kangxi: 係繼也]];
+    - _(1)p(i/)n hai(6)_
+        [[bin1 hai6 邊係]]
+        not at all so;
+    - _hai(6) (4)'m hai(6)_
+        [[hai6 m4 hai6 係唔係]]
+        is it so?
+    - _(1)h(a/)n hai(6)_
+        [[haan1 hai6 ？係]]
+        was it not so?
+    - _hai(6) ~~lok(9)~~ ``lok(8)``_
+        [[hai6 lok3 係咯]]
+        yes;
+    - _(4)'m hai(6)_
+        [[m4 hai6 唔係]]
+        no;
+    - _(2)t(i/)m hai(6)_
+        [[dim2 hai6 點係]]
+        how will it be?
+    - _(2)tsung hai(6) (2)k(o\)m_
+        [[zung2 hai6 gam2 總係噉]],
+        it is all just so;
+    - _tsau(6) hai(6) (5)k(')(u:)_
+        [[zau6 hai6 keoi5 就係佢]],
+        it is just him;
+    - _hai(6) ~~(4)mo~~ ``(1)mo``_
+        [[hai6 mo1 係麼]],
+        is it not so?
+    - _hai(6) (1)t(o\) (5)yau_
+        [[hai6 dou1 jau5 係都有]],
+        everything is here, you have all sorts;
+    - _(2)kwo (4)(i/)n hai(6)_
+        [[gwo2 jin4 hai6 果然係]]
+        it is the case~~, you have all sorts~~;
+    - _ch(i/)(3) hai(6)_
+        [[zi3 hai6 至係]]
+        ~~at the time,~~ that is better.
+    ==
+  ====
+C
+  ==
+  - The reading _hai(6)_ (hai6) is not unattested;
+    《集韻》 has the reading 胡計切, explained ::説文絜[束]也[...]::.
+  - Fan Wan entry: Corrected malformed 聯.
+  - Williams' 係咯: Corrected _lok(9)_ (lok6) to _lok(8)_ (lok3).
+    Better rendered "[it] is".
+  - Williams' 唔係: Better rendered "[it] isn't".
+  - Williams' 係麼: Corrected _(4)mo_ (mo4) to _(1)mo_ (mo1).
+  ==
+P
+  ++
+  1. To tie, to bind (Kangxi: 係縛也).
+  ++
+L
+  ====
+  * 【係】 (kejH)
+    ==
+    - (_verb-like_) [to] tie, [to] bind
+    - (_verb-like_) (_met._) [to] connect, [to] relate (to)
+    ==
+  ====
+E
+  ====
+  - 【係】 (hai6)
+    ++
+    1. (_copula_) To be.
+       ==
+       - 係 (hai6): "[It] is."
+       - 唔係 (m4 hai6): "[It] isn't."
+       - 係咪 (hai6 mai6): "Is [it or] isn't [it]?"
+       - 係咪啊 (hai6 mai6 aa3): "Is [it or] isn't [it]?" (i.e. am I not right?)
+       - 係人都想 (hai6 jan4 dou1 soeng2): "All [that] are human want to" (i.e. everyone wants to).
+       - 係得咁多 (hai6 dak1 gam3 do1): "[There] is only that much."
+       - 係定啦 (hai6 ding6-2 laa1): "[It] certainly is!"
+       - 又係佢 (jau6 hai6 keoi5): "[It] is him again."
+       - 即係話 (zik1 hai6 waa6): "That is [to] say."
+       ==
+    ++
+  - 【係咪】 (hai6 mai6)
+    ++
+    1. Short for ::[係](#cantonese-係)唔係::, "is [it or] isn't [it]".
+    ++
+  ====
+  --
+  The copulative sense of 係 is not exclusive to Cantonese.
+  It appears in old-school formal writing
+  (e.g. [Yu Ying-shih's graduation certificate][certificate]).
+  However, it is mainly Cantonese and Hakka that use it in everyday speech,
+  leading to the (incorrect) perception that it is informal.
+  --
+$$
+
+[certificate]: https://web.archive.org/web/20260121105052/https://www.na.cuhk.edu.hk/wp-content/uploads/2025/07/2.-第一屆畢業生余英時畢業證書.jpg

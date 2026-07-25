@@ -3517,6 +3517,14 @@ window.onload = applyFilter;
       - (_adjective-like_) indifferent, sorrowless
       ==
   //
+    , `kejH`
+    , [係](/entries/hai#rendering-係)
+    ,
+      ==
+      - (_verb-like_) [to] tie, [to] bind
+      - (_verb-like_) (_met._) [to] connect, [to] relate (to)
+      ==
+  //
     , `khet khwat`
     , [契闊](/entries/fut#rendering-契闊)
     ,

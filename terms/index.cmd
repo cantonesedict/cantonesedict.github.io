@@ -730,6 +730,12 @@ window.onload = applyFilter;
     , hai2
     , [喺](/entries/hai#cantonese-喺)
   //
+    , hai6
+    , [係](/entries/hai#cantonese-係)
+  //
+    , hai6 mai6
+    , [係咪](/entries/hai#cantonese-係咪)
+  //
     , ham6 gaa1 caan2
     , [冚家剷](/entries/caan#cantonese-冚家剷)
   //
