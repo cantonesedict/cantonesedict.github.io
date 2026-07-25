@@ -31,7 +31,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Hai. [[Page~68, Page~716]]
+  - Hai. [[Page~68]]
   ==
 WP
   ==
