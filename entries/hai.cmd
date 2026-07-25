@@ -100,12 +100,12 @@ E
   ====
   - 【喺】 (hai2)
     ++
-    1. To be in, to be at.
+    1. To be at, to be in.
        ==
        - 我喺屋企 (ngo5 hai2 uk1 kei2): "I'm at home."
        - 我喺街 (ngo5 hai2 gaai1): "I'm in [the] street" (i.e. out and about).
        ==
-    1. In, at.
+    1. At, in.
        ==
        - 喺澳洲 (hai2 ou3 zau1): "In Australia."
        ==
