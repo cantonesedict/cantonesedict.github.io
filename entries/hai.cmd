@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [hai2](#2)
 - [hai4](#4)
 ==
 </nav>
@@ -39,6 +40,80 @@ MP
   ==
   - hai = [hɐi]
   ==
+$$
+
+
+##{#2 .williams} (2)Hai [[hai2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $喺2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 喺2 | _(2)Hai_ [[hai2]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+55BA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~68 (2)喺]]
+    ==
+    - To be at, to be in;
+    - ~~is;~~
+    - well so, no more;
+    - a final particle denoting that there is no more to be said or done;
+    - _(5)n(i/) chung(6) (2)hai ~~ko(3)~~ ``(2)ko`` ch(')(u:)(3)_
+        [[nei5 zung6 hai2 go2 cyu3 你重喺嗰處]]
+        do you still stay there?
+    - _(2)hai ~~ch(u:)(3)~~ ``ch(')(u:)(3)`` (4)'m (2)hai_
+        [[hai2 cyu3 m4 hai2 喺處唔喺]],
+        is it there? is he in?
+    - _(2)hai (1)p(i/)n ch(')(u:)(3) (4)loi_
+        [[hai2 bin1 cyu3 loi4 喺邊處來]],
+        where do you come from?
+    - _(2)k(o\)m y(e/)ung(6) (2)hai l(e/)(3)_
+        [[gam2 joeng6-2 hai2 le3 噉樣喺唎]]
+        that will do, no more;
+    - _(2)hai lok(8)_
+        [[hai2 lok3 喺咯]]
+        that's the fact, there!---an expression of surprise.
+    ==
+  ====
+C
+  ==
+  - Williams' "is": This sense is incorrect.
+  - Williams' "well so, no more", "a final particle [...]": These senses are very dated.
+  - Williams' 你重喺嗰處: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
+  - Williams' 喺處唔喺: Corrected _ch(u:)(3)_ (zyu3) to _ch(')(u:)(3)_ (cyu3).
+    This is dated syntax. In modern Cantonese,
+    it would be 喺唔喺處, with only the verb hugging the negative.
+  ==
+E
+  ====
+  - 【喺】 (hai2)
+    ++
+    1. To be in, to be at.
+       ==
+       - 我喺屋企 (ngo5 hai2 uk1 kei2): "I'm at home."
+       - 我喺街 (ngo5 hai2 gaai1): "I'm in [the] street" (i.e. out and about).
+       ==
+    1. In, at.
+       ==
+       - 喺澳洲 (hai2 ou3 zau1): "In Australia."
+       ==
+    ++
+  ====
+  --
+  The spelling 喺 is arbitrary (but well established).
+  --
 $$
 
 
