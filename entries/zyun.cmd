@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -651,7 +651,7 @@ A
   ==
 F
   ==
-  - (F2.22 纘) 繼也集也
+  - (F2.22 纘) ::[繼]也集也::
   ==
 W
   ====
@@ -668,7 +668,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The character 繼 is printed poorly.
+  - Fan Wan entry: Corrected malformed 繼.
   ==
 L
   ====

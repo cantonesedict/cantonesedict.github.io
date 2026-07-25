@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-07-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -980,7 +980,7 @@ V
   ==
 F
   ==
-  - (F1.46 齟) 齟齬不相合也
+  - (F1.46 ::[齟]::) ::[齟齬]不相合也::
   ==
 W
   ====
@@ -993,7 +993,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The radical of the headword is printed very poorly.
+  - Fan Wan entry: Corrected malformed radical in headword 齟 and in 齬.
   ==
 $$
 
