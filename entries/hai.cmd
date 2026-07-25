@@ -346,6 +346,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $係6
+- $系6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -359,7 +360,7 @@ U
   U+4FC2
 A
   ==
-  - 系 (Mainland simplified)
+  - $系6
   ==
 V
   ==
@@ -468,3 +469,51 @@ E
 $$
 
 [certificate]: https://web.archive.org/web/20260121105052/https://www.na.cuhk.edu.hk/wp-content/uploads/2025/07/2.-第一屆畢業生余英時畢業證書.jpg
+
+### 系6 | _Hai(6)_ [[hai6]]
+
+$$
+R
+  ⽷ + 1
+U
+  U+7CFB
+F
+  ==
+  - (F1.34 系) ::世系緒也[繼]也::
+  ==
+W
+  ====
+  - [[Page~68 系(6)]]
+    ==
+    - To connect, to tie [[Kangxi: 繫也, 相連繫也]];
+    - to continue [[Kangxi: 系繼也]];
+    - a succession [[Kangxi: 系者胤也]];
+    - _shai(3) hai(6)_
+        [[sai3 hai6 世系]]
+        a genealogy, a family record;
+    - _(1)s(e/)ung hai(6)_
+        [[soeng1 hai6 相系]]
+        continuous.
+    ==
+    --
+    [[Otherwise, an alternative form of 係. **See $係hai6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 繼.
+  ==
+P
+  ++
+  1. A system.
+  1. An educational department or faculty.
+  ++
+L
+  ====
+  * 【系】 (hejH)
+    ==
+    - (_verb-like_) [to] connect
+    - (_noun-like_) (_met._) lineage
+    ==
+  ====
+$$

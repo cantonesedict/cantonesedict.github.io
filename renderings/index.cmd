@@ -3487,6 +3487,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] await
       ==
   //
+    , `hejH`
+    , [系](/entries/hai#rendering-系)
+    ,
+      ==
+      - (_verb-like_) [to] connect
+      - (_noun-like_) (_met._) lineage
+      ==
+  //
     , `homX`
     , [菡](/entries/haam#rendering-菡)
     ,
