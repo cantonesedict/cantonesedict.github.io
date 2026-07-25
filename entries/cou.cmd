@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -97,7 +97,7 @@ W
   ====
 C
   ==
-  - Williams' 下操: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+  - Williams' 下操: Corrected _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6).
   ==
 L
   ====

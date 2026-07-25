@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-07-17
+* %date-modified --> 2026-07-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -853,7 +853,7 @@ W
 C
   ==
   - Williams' 返嘵鄉下: Corrected _(4)hi(u/)_ (hiu4) to _(1)hi(u/)_ (hiu1)
-    and changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+    and changed (very) obsolete _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6-2).
   - Williams' 返去歸: Corrected _(4)^kwai_ (gwai4) to _(1)kwai_ (gwai1).
   - Williams' 往返幾日: Corrected _(2)wong_ (wong2) to _(5)wong_ (wong5).
   - All three examples read like they belong under $返faan1 instead.
@@ -1280,7 +1280,7 @@ C
   ==
   - Fan Wan entry: Corrected malformed 槩 and 鄙.
   - Williams' 凡間: The mortal world, as opposed to the heavenly realm.
-  - Williams' 下凡: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+  - Williams' 下凡: Corrected _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6).
     Specifically, to descend into the mortal world from the heavenly realm above.
   ==
 P

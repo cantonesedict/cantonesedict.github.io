@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-07-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -439,7 +439,7 @@ C
   ==
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
   - Williams' 仁者樂山: This example should appear under the "indicates a class" sense.
-  - Williams' 中也者天下之大本也: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+  - Williams' 中也者天下之大本也: Changed (very) obsolete _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
     This example should appear under the "puts them in apposition" sense.
   - Eight of Williams' examples
     (愚者, 死者, 無情者, 性者, 誠者, 德者本也, 仁者樂山, 中也者天下之大本也)
