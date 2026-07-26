@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-07-25
+* %date-modified --> 2026-07-26
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [hai1](#1)
 - [hai2](#2)
 - [hai4](#4)
 - [hai6](#6)
@@ -42,6 +43,55 @@ MP
   - hai = [hɐi]
   ==
 $$
+
+
+##{#1 .williams} ``(1)Hai`` [[hai1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $閪1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 閪1 | _(1)Hai_ [[hai1]]
+
+$$
+R
+  ⾨ + 6
+U
+  U+95AA
+A
+  ==
+  - {𡚦=⿴女丶}
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ^
+  --
+  **One of the five profanities censored on Hong Kong television.**
+  --
+  ====
+  - 【閪】 (hai1)
+    ++
+    1. (_vulgar_) The female genitals.
+    1. (_vulgar_) The vagina.
+    ++
+    --
+    More or less equivalent to English "cunt".
+    For non-literal senses, see the [Wiktionary entry for 閪][wiktionary-閪].
+    --
+  ====
+  --
+  The spelling 閪 is arbitrary.
+  --
+$$
+
+[wiktionary-閪]: https://en.wiktionary.org/w/index.php?title=閪&oldid=91365747
 
 
 ##{#2 .williams} (2)Hai [[hai2 陰上]]
