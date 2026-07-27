@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-07-26
+* %date-modified --> 2026-07-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -509,13 +509,23 @@ E
   ====
   --
   The copulative sense of 係 is not exclusive to Cantonese.
-  It appears in old-school formal writing
-  (e.g. [Yu Ying-shih's graduation certificate][certificate]).
+  It appears in formal writing, for example:
+  --
+  ==
+  - In numerous entries of 《集韻考正》,
+    typically in the stock comment [案此係新坿字],
+    "Note. This is [a] New Annex character",
+    made against characters not in the original 《說文》.
+  - In [Yu Ying-shih's graduation certificate][certificate],
+    which begins with 學生余英時係安徽省市潛山縣人.
+  ==
+  --
   However, it is mainly Cantonese and Hakka that use it in everyday speech,
   leading to the (incorrect) perception that it is informal.
   --
 $$
 
+[案此係新坿字]: https://archive.org/details/02077160.cn/page/n14/mode/1up
 [certificate]: https://web.archive.org/web/20260121105052/https://www.na.cuhk.edu.hk/wp-content/uploads/2025/07/2.-第一屆畢業生余英時畢業證書.jpg
 
 ### 系6 | _Hai(6)_ [[hai6]]
