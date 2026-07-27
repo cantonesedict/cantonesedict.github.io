@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,7 +151,7 @@ W
     The second [[柒]] [[...]] is also a sort of tree [[Kangxi 柒: 木名]] [[...]].
     --
     --
-    [[Otherwise, an alternative form of 七 (to prevent alteration). **See $七cat1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 七 (anti-alteration). **See $七cat1 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 漆. **See $漆cat1 for the canonical entry.**]]
