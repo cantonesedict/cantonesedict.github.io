@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-07-27
+* %date-modified --> 2026-07-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -72,7 +72,7 @@ E
   ====
   - 【閪】 (hai1)
     ++
-    1. (_vulgar_) The female genitals.
+    1. (_vulgar_) The vulva.
     1. (_vulgar_) The vagina.
     ++
     --
