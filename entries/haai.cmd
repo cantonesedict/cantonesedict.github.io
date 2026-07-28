@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-07-27
+* %date-modified --> 2026-07-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [haai1](#1)
+- [haai4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -107,3 +108,67 @@ S
   - $揩gaat3 (TODO) <## same as 戛 (訖黠切 = keat) (Kangxi: 敔也擽之以止樂) ##>
   ==
 $$
+
+
+##{#4 .williams} (4)H(a/)i [[haai4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $諧4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 諧4 | _(4)H(a/)i_ [[haai4]]
+
+$$
+R
+  ⾔ + 9
+U
+  U+8AE7
+A
+  ==
+  - 龤
+  - 谐 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.26 諧) 和也合也
+  ==
+W
+  ====
+  - [[Page~69 (4)諧]]
+    ==
+    - To harmonize, to agree [[Kangxi: 詥也]];
+    - to pair [[Kangxi: 耦也]];
+    - consenting, in concord [[Kangxi: 合也調也]];
+    - of one mind;
+    - ~~to laugh~~ ``laughworthy, humorous`` [[Kangxi: 諧之言皆也辭淺會俗皆悅笑也]];
+    - _(4)h(a/)i (5)l(o\)_
+        [[haai4 lou5 諧老]],
+        an old couple;
+    - _(4)wo (4)h(a/)i_
+        [[wo4 haai4 和諧]],
+        agreeing (as married people), cordial;
+    - _(4)h(a/)i (1)yam_
+        [[haai4 jam1 諧音]],
+        a chord.
+    ==
+  ====
+C
+  ==
+  - Williams' 和諧: In 21st-century usage,
+    a [euphemism for Internet censorship in China][hexie].
+  - Williams' 諧音: Also near-homophony.
+  ==
+L
+  ====
+  * 【諧】 (heaj)
+    ==
+    - (_adjective-like_) concordant, resonant
+    ==
+  ====
+$$
+
+[hexie]: https://en.wikipedia.org/w/index.php?title=Euphemisms_for_Internet_censorship_in_China&oldid=1361808709
