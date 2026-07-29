@@ -318,6 +318,7 @@ $$
 - $獬5
 - $蟹5
 - ($蠏5)
+- ($解5)
 - $邂5
 ==
 </nav>
@@ -332,7 +333,7 @@ U
   U+736C
 A
   ==
-  - 解
+  - $解5
   ==
 V
   ==
@@ -442,6 +443,31 @@ C
   ==
 $$
 
+###+ 解5 | _(5)H(a/)i_ [[haai5]]
+
+$$.
+R
+  ⾓ + 6
+U
+  U+89E3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 獬. **See $獬haai5 for the canonical entry.**
+  1. Alternative form of 邂. **See $邂haai5 for the canonical entry.**
+  1. Reading variation. **See $解haai6 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $解gaai2 (TODO)
+  - $解gaai3 (TODO)
+  - $解haai6 (TODO)
+  ==
+$$
+
 ### 邂5 | _(5)H(a/)i_ [[haai5]]
 
 $$
@@ -451,7 +477,7 @@ U
   U+9082
 A
   ==
-  - 解
+  - $解5
   - 迦
   ==
 V
