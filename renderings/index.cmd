@@ -1224,6 +1224,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) unicorn
+      - Used in [獬豸](/entries/zaai#rendering-獬豸).
       ==
   //
     , `dreamX`
@@ -3455,6 +3456,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) understanding
+      - Used in [獬豸](/entries/zaai#rendering-獬豸).
       ==
   //
     , `heaX`
@@ -3462,6 +3464,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) crab
+      ==
+  //
+    , `heaX dreaX`
+    , [獬豸](/entries/zaai#rendering-獬豸)
+    ,
+      ==
+      - (_noun-like_) unicorn of understanding
       ==
   //
     , `heaH`

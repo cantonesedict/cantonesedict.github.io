@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -578,6 +578,11 @@ L
   * 【豸】 (dreaX)
     ==
     - (_noun-like_) unicorn
+    - Used in [獬豸](/entries/zaai#rendering-獬豸).
+    ==
+  * 【獬豸】 (heaX dreaX)
+    ==
+    - (_noun-like_) unicorn of understanding
     ==
   ====
 S

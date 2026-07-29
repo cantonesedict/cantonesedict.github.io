@@ -361,6 +361,7 @@ L
   * 【獬】 (heaX)
     ==
     - (_adjective-like_) understanding
+    - Used in [獬豸](/entries/zaai#rendering-獬豸).
     ==
   ====
 $$
