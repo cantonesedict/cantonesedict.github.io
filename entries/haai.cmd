@@ -318,6 +318,7 @@ $$
 - $獬5
 - $蟹5
 - ($蠏5)
+- $邂5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -438,4 +439,60 @@ C
   - Fan Wan entry: Normalised headword ⿲虫角⿱刀㐄 to 蠏,
     and normalised headword ⿱⿰角⿱刀㐄虫 to 蟹.
   ==
+$$
+
+### 邂5 | _(5)H(a/)i_ [[haai5]]
+
+$$
+R
+  ⾡ + 13
+U
+  U+9082
+A
+  ==
+  - 解
+  - 迦
+  ==
+V
+  ==
+  - haai6 (per 《廣韻》胡懈切)
+  ==
+F
+  ==
+  - (F2.27 ::[邂]::) ::[邂]逅不期而[會]也::
+  ==
+W
+  ====
+  - [[Page~69 (5)邂]]
+    ==
+    - Accidentally [[Kangxi: 邂逅不期而會也]], a pleasant hap;
+    - _(5)h(a/)i hau(6)_
+        [[haai5 hau6 邂逅]]
+        an unexpected meeting.
+    ==
+  ====
+C
+  ==
+  - The reading _(5)h(a/)i_ (haai5) is not unattested
+    for the "carefree" sense (supplemented below);
+    《集韻》 has the reading 下買切, explained 邂逅解説皃.
+  - Fan Wan entry: Normalised headword ⿺辶⿰角⿱刀㐄 to 邂,
+    and fixed third stroke in 會.
+  ==
+P
+  ++
+  1. Carefree (Kangxi: ::邂逅[解]悅貌::).
+  ++
+L
+  ====
+  * 【邂】 (heaH)
+    ==
+    - (_adjective-like_) carefree
+    - Used in [邂逅](/entries/haai#rendering-邂逅).
+    ==
+  * 【邂逅】 (heaH huwH)
+    ==
+    - (_adjective-like_) carefree [and] pleased
+    ==
+  ====
 $$

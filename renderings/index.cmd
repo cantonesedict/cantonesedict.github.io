@@ -3464,6 +3464,21 @@ window.onload = applyFilter;
       - (_noun-like_) crab
       ==
   //
+    , `heaH`
+    , [邂](/entries/haai#rendering-邂)
+    ,
+      ==
+      - (_adjective-like_) carefree
+      - Used in [邂逅](/entries/haai#rendering-邂逅).
+      ==
+  //
+    , `heaH huwH`
+    , [邂逅](/entries/haai#rendering-邂逅)
+    ,
+      ==
+      - (_adjective-like_) carefree [and] pleased
+      ==
+  //
     , `heaj`
     , [諧](/entries/haai#rendering-諧)
     ,
