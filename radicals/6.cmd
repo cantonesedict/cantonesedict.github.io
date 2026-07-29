@@ -1657,6 +1657,7 @@ For all radicals, see [Index of characters by radical](./).
       - $蠆caai3
       - $蠈caak6
       - $蟶cing1
+      - $蟹haai5
       - $蠏haai5
       ==
       </nav>

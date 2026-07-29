@@ -315,10 +315,56 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $蟹5
 - ($蠏5)
 ==
 </nav>
 <## /tone-5-characters ##>
+
+###+ 蟹5 | _(5)H(a/)i_ [[haai5]]
+
+$$
+R
+  ⾍ + 13
+U
+  U+87F9
+A
+  ==
+  - $蠏5
+  - 䲒
+  ==
+F
+  ==
+  - (F2.27 蠏) 螃蠏
+  - (F2.27 蟹) 同上
+  ==
+W
+  ====
+  - [[Page~69 (5)蠏; here normalised to 蟹]]
+    ==
+    - A crab [[Kangxi 蟹: 蟲名, 仄行蟹屬, 今人謂之旁蠏以其側行故也 etc.]];
+    - _(5)h(a/)i (1)kang_
+        [[haai5 gang1 蟹羹]],
+        crab soup;
+    - _(5)h(a/)i (4)k(')(i/)m_
+        [[haai5 kim4 蟹鉗]],
+        crab's ~~pincer's~~ ``pincers``;
+    - _f(a/)i(3) (5)h(a/)i (5)t(')eng_
+        [[faai3 haai5 teng5 快蟹艇]],
+        a boat with many oars;
+    - _(1)ch(')(i/) (1)kam (5)h(a/)i_
+        [[ci1 gam1 haai5 黐金蟹]],
+        'a gilded crab,' a rich villain.
+    ==
+  ====
+L
+  ====
+  * 【蟹】 (heaX)
+    ==
+    - (_noun-like_) crab
+    ==
+  ====
+$$
 
 ### 蠏5 | _(5)H(a/)i_ [[haai5]]
 
@@ -336,7 +382,7 @@ W
   ====
   - [[Page~69 (5)蠏]]
     --
-    [[Alternative form of 蟹. **See $蟹haai5 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 蟹. **See $蟹haai5 for the canonical entry.**]]
     --
   ====
 $$

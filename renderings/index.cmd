@@ -3450,6 +3450,13 @@ window.onload = applyFilter;
       - (_noun-like_) shoe
       ==
   //
+    , `heaX`
+    , [蟹](/entries/haai#rendering-蟹)
+    ,
+      ==
+      - (_noun-like_) crab
+      ==
+  //
     , `heaj`
     , [諧](/entries/haai#rendering-諧)
     ,
