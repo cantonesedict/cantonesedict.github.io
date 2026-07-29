@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [haai1](#1)
 - [haai4](#4)
+- [haai5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -305,5 +306,37 @@ L
     ==
     - (_noun-like_) shoe
     ==
+  ====
+$$
+
+
+##{#5 .williams} (5)H(a/)i [[haai5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($蠏5)
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 蠏5 | _(5)H(a/)i_ [[haai5]]
+
+$$.
+R
+  ⾍ + 13
+U
+  U+880F
+F
+  ==
+  - (F2.27 蠏) 螃蠏
+  - (F2.27 蟹) 同上
+  ==
+W
+  ====
+  - [[Page~69 (5)蠏]]
+    --
+    [[Alternative form of 蟹. **See $蟹haai5 for the canonical entry.**]] [[TODO]]
+    --
   ====
 $$
