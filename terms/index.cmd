@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-07-27
+* %date-modified --> 2026-07-29
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -726,6 +726,18 @@ window.onload = applyFilter;
   //
     , haai1
     , [揩](/entries/haai#cantonese-揩)
+  //
+    , haai4
+    , [嚡~(interjection)](/entries/haai#cantonese-嚡-interjection)
+  //
+    , haai4
+    , [嚡~(rough)](/entries/haai#cantonese-嚡-rough)
+  //
+    , haai4 saap6 saap6
+    , [嚡澀澀](/entries/haai#cantonese-嚡澀澀)
+  //
+    , haai5
+    , [嚡~(interjection)](/entries/haai#cantonese-嚡-interjection)
   //
     , haap3 cou3
     , [呷醋](/entries/cou#cantonese-呷醋)

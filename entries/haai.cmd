@@ -115,11 +115,71 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $嚡4
 - $諧4
 - $鞋4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 嚡4 | _(4)H(a/)i_ [[haai4]]
+
+$$
+R
+  ⼝ + 15
+U
+  U+56A1
+A
+  ==
+  - $鞋4 (for Cantonese "rough" sense)
+  ==
+V
+  ==
+  - haai4-2 (rising second in vernacular 嚡嚡地)
+  - haai5 (rising alternative for interjection)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~69 (4)嚡]]
+    ==
+    - An exclamation of disappointment, Alas! Oh!
+    - rough, hispid, harsh;
+    - _lak(9) k(o\)m(3) (4)h(a/)i_
+        [[lak6-1 gam3 haai4 竻咁嚡]],
+        sharp as a bramble, morose, surly;
+    - _(1)ts(')(o\) (4)h(a/)i_
+        [[cou1 haai4 粗嚡]],
+        coarse and rough;
+    - _(5)k(')(u:) sham(6) (4)h(a/)i_
+        [[keoi5 sam6 haai4 佢甚嚡]],
+        he's very stingy.
+    ==
+  ====
+E
+  ====
+  - 【嚡-interjection】 (haai4, haai5)
+    ++
+    1. An interjection of disappointment, complaint, etc. (i.e. a sigh).
+    ++
+  - 【嚡-rough】 (haai4)
+    ++
+    1. Rough (of a surface or texture).
+       ==
+       - 煮嚡咗 (zyu2 haai4 zo2): "Cooked [it] rough" (i.e. overcooked, as opposed to 滑 "smooth").
+       ==
+    ++
+  - 【嚡澀澀】 (haai4 saap6 saap6)
+    ++
+    1. Rough (of a surface or texture).
+    ++
+  ====
+  --
+  The spelling 嚡 is arbitrary both for the interjection and for "rough"
+  (which are distinct words).
+  --
+$$
 
 ### 諧4 | _(4)H(a/)i_ [[haai4]]
 
@@ -231,7 +291,7 @@ W
         to put on shoes.
     ==
     --
-    [[Otherwise, an alternative form of 嚡 (Cantonese). **See $嚡haai4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 嚡 (for the Cantonese "rough" sense). **See $嚡haai4 for the canonical entry.**]]
     --
   ====
 C
