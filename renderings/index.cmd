@@ -3451,6 +3451,13 @@ window.onload = applyFilter;
       ==
   //
     , `heaX`
+    , [獬](/entries/haai#rendering-獬)
+    ,
+      ==
+      - (_adjective-like_) understanding
+      ==
+  //
+    , `heaX`
     , [蟹](/entries/haai#rendering-蟹)
     ,
       ==

@@ -315,11 +315,50 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $獬5
 - $蟹5
 - ($蠏5)
 ==
 </nav>
 <## /tone-5-characters ##>
+
+### 獬5 | _(5)H(a/)i_ [[haai5]]
+
+$$
+R
+  ⽝ + 13
+U
+  U+736C
+A
+  ==
+  - 解
+  ==
+V
+  ==
+  - haai6 (recast to departing)
+  ==
+F
+  ==
+  - (F2.28 獬 _H(a/)i(6)_ (haai6)) 獬豸
+  ==
+W
+  ====
+  - [[Page~69 (5)獬]]
+    ==
+    - A fabulous animal, called _(5)h(a/)i ch(a/)i(6)_ [[haai5 zaai6 獬豸]] [[Kangxi: 獬豸也 etc.]]^,
+      or ~~lion-unicorn~~ ``unicorn of understanding``;
+    - embroidered on the robes of censors and judges;
+    - haughty, stern.
+    ==
+  ====
+L
+  ====
+  * 【獬】 (heaX)
+    ==
+    - (_adjective-like_) understanding
+    ==
+  ====
+$$
 
 ###+ 蟹5 | _(5)H(a/)i_ [[haai5]]
 
