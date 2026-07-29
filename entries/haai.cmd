@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-07-28
+* %date-modified --> 2026-07-29
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -116,6 +116,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $諧4
+- $鞋4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -172,3 +173,77 @@ L
 $$
 
 [hexie]: https://en.wikipedia.org/w/index.php?title=Euphemisms_for_Internet_censorship_in_China&oldid=1361808709
+
+### 鞋4 | _(4)H(a/)i_ [[haai4]]
+
+$$
+R
+  ⾰ + 6
+U
+  U+978B
+A
+  ==
+  - {𩋔=⿰革佳}
+  - {𩋘=⿰革隹}
+  - 鞵
+  ==
+V
+  ==
+  - haai4-2 (vernacular rising-tone noun in 拖鞋)
+  ==
+F
+  ==
+  - (F2.26 {𩋘=⿰革隹}) 履{𩋘=⿰革隹}
+  - (F2.26 鞋) 同上
+  - (F2.26 鞵) 同上
+  ==
+W
+  ====
+  - [[Page~69 (4)鞋]]
+    ==
+    - A shoe [[Kangxi: 鞋解也著時縮其上如履然解其上則舒解也, 本作鞵]];
+    - _yat(7) t(u/)i(3) (4)h(a/)i_
+        [[jat1 deoi3 haai4 一對鞋]],
+        a pair of shoes;
+    - _(4)h(a/)i h(u:)n(3)_
+        [[haai4 hyun3 鞋楦]]
+        a last;
+    - _(1)kung (4)h(a/)i_
+        [[gung1 haai4 弓鞋]],
+        a woman's shoe;
+    - _(1)t(')o (4)h(a/)i_
+        [[to1 haai4-2 拖鞋]],
+        slippers;
+    - _(4)h(a/)i (1)kam_
+        [[haai4 gam1 鞋金]],
+        fees paid house agents;
+    - _(4)h(a/)i pat(9)_
+        [[haai4 bat6 鞋拔]]
+        a shoe-horn;
+    - _(4)shing (2)tsai (4)h(a/)i_
+        [[sing4-2 zai2 haai4 繩仔鞋]],
+        cord sandals;
+    - _(2)p(o\) (4)h(a/)i (2)l(o\)_
+        [[bou2 haai4 lou2 補鞋佬]]^
+        a cobbler;
+    - _ch(e/)uk(8) (4)h(a/)i_
+        [[zoek3 haai4 着鞋]],
+        to put on shoes.
+    ==
+    --
+    [[Otherwise, an alternative form of 嚡 (Cantonese). **See $嚡haai4 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' 弓鞋: Per the practice of foot binding.
+  - Williams' 鞋拔: The preferred term for "shoehorn" in Cantonese is 鞋抽.
+  ==
+L
+  ====
+  * 【鞋】 (hea)
+    ==
+    - (_noun-like_) shoe
+    ==
+  ====
+$$
