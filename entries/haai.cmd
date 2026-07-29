@@ -339,7 +339,7 @@ V
   ==
 F
   ==
-  - (F2.28 獬 _H(a/)i(6)_ (haai6)) 獬豸
+  - (F2.28 ::[獬]:: _H(a/)i(6)_ (haai6)) ::[獬]豸::
   ==
 W
   ====
@@ -351,6 +351,10 @@ W
     - haughty, stern.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿲犭角⿱刀㐄 to 獬.
+  ==
 L
   ====
   * 【獬】 (heaX)
@@ -374,8 +378,8 @@ A
   ==
 F
   ==
-  - (F2.27 蠏) 螃蠏
-  - (F2.27 蟹) 同上
+  - (F2.27 ::[蠏]::) ::螃[蠏]::
+  - (F2.27 ::[蟹]::) 同上
   ==
 W
   ====
@@ -396,6 +400,11 @@ W
         'a gilded crab,' a rich villain.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿲虫角⿱刀㐄 to 蠏,
+    and normalised headword ⿱⿰角⿱刀㐄虫 to 蟹.
+  ==
 L
   ====
   * 【蟹】 (heaX)
@@ -414,8 +423,8 @@ U
   U+880F
 F
   ==
-  - (F2.27 蠏) 螃蠏
-  - (F2.27 蟹) 同上
+  - (F2.27 ::[蠏]::) ::螃[蠏]::
+  - (F2.27 ::[蟹]::) 同上
   ==
 W
   ====
@@ -424,4 +433,9 @@ W
     [[Alternative form of 蟹. **See $蟹haai5 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿲虫角⿱刀㐄 to 蠏,
+    and normalised headword ⿱⿰角⿱刀㐄虫 to 蟹.
+  ==
 $$
