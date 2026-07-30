@@ -342,7 +342,7 @@ V
   ==
 F
   ==
-  - (F2.28 ::[獬]:: _H(a/)i(6)_ (haai6)) ::[獬]豸::
+  - (F2.28 獬 _H(a/)i(6)_ (haai6)) 獬豸
   ==
 W
   ====
@@ -356,7 +356,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿲犭角⿱刀㐄 to 獬.
+  - Fan Wan and Williams print the component 牛 as 㐄.
   ==
 L
   ====
@@ -382,8 +382,8 @@ A
   ==
 F
   ==
-  - (F2.27 ::[蠏]::) ::螃[蠏]::
-  - (F2.27 ::[蟹]::) 同上
+  - (F2.27 蠏) 螃蠏
+  - (F2.27 蟹) 同上
   ==
 W
   ====
@@ -406,8 +406,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿲虫角⿱刀㐄 to 蠏,
-    and normalised headword ⿱⿰角⿱刀㐄虫 to 蟹.
+  - Fan Wan and Williams print the component 牛 as 㐄.
   ==
 L
   ====
@@ -427,8 +426,8 @@ U
   U+880F
 F
   ==
-  - (F2.27 ::[蠏]::) ::螃[蠏]::
-  - (F2.27 ::[蟹]::) 同上
+  - (F2.27 蠏) 螃蠏
+  - (F2.27 蟹) 同上
   ==
 W
   ====
@@ -439,8 +438,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿲虫角⿱刀㐄 to 蠏,
-    and normalised headword ⿱⿰角⿱刀㐄虫 to 蟹.
+  - Fan Wan and Williams print the component 牛 as 㐄.
   ==
 $$
 
@@ -487,7 +485,7 @@ V
   ==
 F
   ==
-  - (F2.27 ::[邂]::) ::[邂]逅不期而[會]也::
+  - (F2.27 邂) ::邂逅不期而[會]也::
   ==
 W
   ====
@@ -504,8 +502,8 @@ C
   - The reading _(5)h(a/)i_ (haai5) is not unattested
     for the "carefree" sense (supplemented below);
     《集韻》 has the reading 下買切, explained 邂逅解説皃.
-  - Fan Wan entry: Normalised headword ⿺辶⿰角⿱刀㐄 to 邂,
-    and fixed third stroke in 會.
+  - Fan Wan and Williams print the component 牛 as 㐄.
+  - Fan Wan entry: Fixed third stroke in 會.
   ==
 P
   ++
