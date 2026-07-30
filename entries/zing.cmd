@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -187,6 +187,10 @@ R
   ⼻ + 12
 U
   U+5FB5
+A
+  ==
+  - 征 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 徵) 証也明也又徵辟
