@@ -531,6 +531,7 @@ $$
 =={.modern}
 - $懈6
 - $械6
+- $薤6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -629,6 +630,42 @@ L
     - (_noun-like_) shackle
     - (_noun-like_) weapon
     - (_noun-like_) utensil, mechanism
+    ==
+  ====
+$$
+
+### 薤6 | _H(a/)i(6)_ [[haai6]]
+
+$$
+R
+  ⾋ + 13
+U
+  U+85A4
+A
+  ==
+  - 䪥
+  ==
+F
+  ==
+  - (F2.28 ::[薤]::) ::[葷菜]山上有[薤]者下有金::
+  ==
+W
+  ====
+  - [[Page~69 薤(6)]]
+    ==
+    - Chives or onions [[Kangxi: 薤似韭之菜也]], not permitted to be eaten by people who fast.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰歹⿳艹非一 to 薤,
+    and corrected malformed 葷 and 菜.
+  ==
+L
+  ====
+  * 【薤】 (heajH)
+    ==
+    - (_noun-like_) chive
     ==
   ====
 $$

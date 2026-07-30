@@ -3504,6 +3504,13 @@ window.onload = applyFilter;
       - (_noun-like_) utensil, mechanism
       ==
   //
+    , `heajH`
+    , [薤](/entries/haai#rendering-薤)
+    ,
+      ==
+      - (_noun-like_) chive
+      ==
+  //
     , `hej`
     , [兮](/entries/hai#rendering-兮)
     ,
