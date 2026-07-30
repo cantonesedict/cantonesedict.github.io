@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-07-22
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -554,6 +554,7 @@ U
 A
   ==
   - $蛤4
+  - 虾 (Mainland simplified)
   ==
 V
   ==
