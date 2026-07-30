@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -777,6 +777,7 @@ U
 A
   ==
   - $槍1
+  - 枪 (Mainland simplified)
   ==
 F
   ==
