@@ -3511,6 +3511,13 @@ window.onload = applyFilter;
       - (_noun-like_) chive
       ==
   //
+    , `heajH`
+    , [齘](/entries/haai#rendering-齘)
+    ,
+      ==
+      - (_verb-like_) [to] gnash
+      ==
+  //
     , `hej`
     , [兮](/entries/hai#rendering-兮)
     ,

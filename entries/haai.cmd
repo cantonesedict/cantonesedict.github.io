@@ -532,6 +532,7 @@ $$
 - $懈6
 - $械6
 - $薤6
+- $齘6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -666,6 +667,46 @@ L
   * 【薤】 (heajH)
     ==
     - (_noun-like_) chive
+    ==
+  ====
+$$
+
+### 齘6 | _H(a/)i(6)_ [[haai6]]
+
+$$
+R
+  ⿒ + 4
+U
+  U+9F58
+A
+  ==
+  - {𬹼=⿰齿介} (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.28 齘) ::齒相[抵]也::
+  ==
+W
+  ====
+  - [[Page~69 齘(6)]]
+    ==
+    - To gnash the teeth [[Kangxi: 齒相切也]], angry [[Kangxi: 䫴齘者切齒怒也 etc.]];
+    - ~~plates in mail arranged like teeth.~~
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰扌氏 to 抵.
+  - Williams' "plates in mail arranged like teeth":
+    This is a misreading of Kangxi's example 凡甲衣之欲其無齘也,
+    which should be rendered
+    "For all armour: wearing it, [we] wish [that] it have not gnashing".
+  ==
+L
+  ====
+  * 【齘】 (heajH)
+    ==
+    - (_verb-like_) [to] gnash
     ==
   ====
 $$
