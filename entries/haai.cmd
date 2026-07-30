@@ -700,6 +700,10 @@ W
     [[Otherwise, an alternative form of 懈. **See $懈haai6 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Williams prints the component 牛 as 㐄.
+  ==
 P
   ++
   1. To understand (Kangxi: 曉也 etc., 謂曉悟也).
