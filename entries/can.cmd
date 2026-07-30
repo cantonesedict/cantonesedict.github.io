@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1045,6 +1045,10 @@ R
   ⼟ + 11
 U
   U+5875
+A
+  ==
+  - 尘
+  ==
 F
   ==
   - (F1.82 塵) 塵上塵埃
