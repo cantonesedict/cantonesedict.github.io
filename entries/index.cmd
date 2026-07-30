@@ -325,7 +325,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 <nav>
 =={.modern}
 - $haa
-- $haai (work in progress)
+- $haai
 - $haak (work in progress)
 - $haam (work in progress)
 - $haan (work in progress)
