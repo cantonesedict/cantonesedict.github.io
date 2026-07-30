@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-07-25
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -740,14 +740,11 @@ W
         to learn and relish the beauties of a style.
     ==
     --
-    [[Otherwise, an alternative form of 嘴. **See $嘴zeoi2 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 嘴 (Cantonese). **See $嘴zeoi2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - It is only in modern Cantonese
-    that 咀 _(2)ts(u:)_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
-    and that 咀 is an alternative form of 嘴.
   - Williams' 咀嚼吓: Changed _ts(e/)uk(9)_ (zoek6) to common reading _ts(e/)uk(8)_ (zoek3).
   - Williams' 含英咀華: Corrected _(1)w(a/)_ (waa1) to _(4)w(a/)_ (waa4).
   ==
@@ -762,7 +759,8 @@ U
   U+5634
 A
   ==
-  - $咀2
+  - $咀2 (Cantonese)
+  - {𠲿=⿰口束}
   - $觜2
   ==
 F
@@ -774,7 +772,7 @@ W
   - [[Page~596 (2)嘴]]
     ==
     - The lips;
-    - a beak, a bill of a bird [[Kangxi {𠲿=⿰口束}: 鳥喙也]];
+    - a beak, a bill of a bird [[Kangxi {𠲿=⿰口束}: 鳥喙也, 與觜同 etc.]];
     - a spout, a nozzle, an aperture, an adit;
     - to wrangle, to chatter, to talk much and impudently, to give lip;
     - _m(u/)t(8) (5)h(a/) (4)t(')i(u/) (2)tsui_
