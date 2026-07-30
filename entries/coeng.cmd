@@ -1574,6 +1574,10 @@ R
   ⼥ + 13
 U
   U+5B19
+A
+  ==
+  - 嫱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.91 嬙) 嬪嬙女官名
