@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-07-29
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [haai1](#1)
 - [haai4](#4)
 - [haai5](#5)
+- [haai6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -520,6 +521,62 @@ L
   * 【邂逅】 (heaH huwH)
     ==
     - (_adjective-like_) carefree [and] pleased
+    ==
+  ====
+$$
+
+
+##{#6 .williams} H(a/)i(6) [[haai6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $械6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 械6 | _H(a/)i(6)_ [[haai6]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+68B0
+F
+  ==
+  - (F2.28 械) ::器械機械又[桎]梏也::
+  ==
+W
+  ====
+  - [[Page~69 械(6)]]
+    ==
+    - Military weapons, as spear, bow, &c. [[Kangxi: 一曰器之總名]];
+    - shackles, fetters [[Kangxi: 一曰桎梏也]];
+    - _(1)k(i/) h(a/)i(6)_
+        [[gei1 haai6 機械]]
+        a curious contrivance, the nicer parts of a machine, a craft or art;
+    - _(1)ts(')(e/)ung (1)t(o\) h(i/)(3) h(a/)i(6)_
+        [[coeng1 dou1 hei3 haai6 槍刀器械]]
+        ~~guns~~ ``spears``, swords, and other arms.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 桎.
+  - Williams' 槍刀器械: Unlikely to be "guns" unless the context is the Opium Wars.
+  ==
+P
+  ++
+  1. A utensil, implement, or mechanism.
+  ++
+L
+  ====
+  * 【械】 (heajH)
+    ==
+    - (_noun-like_) shackle
+    - (_noun-like_) weapon
+    - (_noun-like_) utensil, mechanism
     ==
   ====
 $$

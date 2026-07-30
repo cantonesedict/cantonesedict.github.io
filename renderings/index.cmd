@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-29
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3493,6 +3493,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) concordant, resonant
+      ==
+  //
+    , `heajH`
+    , [械](/entries/haai#rendering-械)
+    ,
+      ==
+      - (_noun-like_) shackle
+      - (_noun-like_) weapon
+      - (_noun-like_) utensil, mechanism
       ==
   //
     , `hej`
