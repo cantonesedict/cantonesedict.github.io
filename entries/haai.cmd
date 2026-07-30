@@ -529,10 +529,64 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $懈6
 - $械6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 懈6 | _H(a/)i(6)_ [[haai6]]
+
+$$
+R
+  ⼼ + 13
+U
+  U+61C8
+A
+  ==
+  - 解
+  ==
+V
+  ==
+  - gaai3 (per 《廣韻》古隘切)
+  - haai5 (uncommon)
+  ==
+F
+  ==
+  - (F2.28 懈) 怠也倦也
+  ==
+W
+  ====
+  - [[Page~69 懈(6)]]
+    ==
+    - Remiss, slow, negligent, inattentive [[Kangxi: 怠也, 又或作解]];
+    - _h(a/)i(6) toi(6)_
+        [[haai6 doi6 懈怠]]
+        lazy, slow;
+    - _h(a/)i(6) to(6)_
+        [[haai6 do6 懈惰]]
+        lazy.
+    ==
+  ====
+C
+  ==
+  - The reading _h(a/)i(6)_ (haai6) is not unattested,
+    though Kangxi considers it vulgar and erroneous (俗讀匣母非).
+  - Fan Wan and Williams print the component 牛 as 㐄.
+  ==
+P
+  ++
+  1. Tired (Fan Wan: 倦也).
+  ++
+L
+  ====
+  * 【懈】 (keaH)
+    ==
+    - (_adjective-like_) lax, remiss
+    - (_verb-like_) [to] laxen
+    ==
+  ====
+$$
 
 ### 械6 | _H(a/)i(6)_ [[haai6]]
 

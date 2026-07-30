@@ -3587,6 +3587,14 @@ window.onload = applyFilter;
       - (_preposition-like_) than
       ==
   //
+    , `keaH`
+    , [懈](/entries/haai#rendering-懈)
+    ,
+      ==
+      - (_adjective-like_) lax, remiss
+      - (_verb-like_) [to] laxen
+      ==
+  //
     , `keat`
     , [恝](/entries/aat#rendering-恝)
     ,
