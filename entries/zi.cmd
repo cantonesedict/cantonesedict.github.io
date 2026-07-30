@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3873,6 +3873,10 @@ R
   ⼿ + 11
 U
   U+646F
+A
+  ==
+  - 挚 (Mainland simplified)
+  ==
 F
   ==
   - (F1.41 摯) 至也又握持也又絆其足也
