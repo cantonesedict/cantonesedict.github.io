@@ -3466,6 +3466,21 @@ window.onload = applyFilter;
       - (_noun-like_) crab
       ==
   //
+    , `heaX`
+    , [解~(lax)](/entries/haai#rendering-解-lax)
+    ,
+      ==
+      - (_adjective-like_) lax, remiss
+      - (_verb-like_) [to] laxen
+      ==
+  //
+    , `heaX`
+    , [解~(understand)](/entries/haai#rendering-解-understand)
+    ,
+      ==
+      - (_verb-like_) [to] understand
+      ==
+  //
     , `heaX dreaX`
     , [獬豸](/entries/zaai#rendering-獬豸)
     ,
@@ -3599,14 +3614,6 @@ window.onload = applyFilter;
       - (_speech-assist_)
       - (_preposition-like_) in, upon, unto
       - (_preposition-like_) than
-      ==
-  //
-    , `keaH`
-    , [懈](/entries/haai#rendering-懈)
-    ,
-      ==
-      - (_adjective-like_) lax, remiss
-      - (_verb-like_) [to] laxen
       ==
   //
     , `keat`

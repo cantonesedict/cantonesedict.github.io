@@ -8939,6 +8939,10 @@
 "haai5":{
 "isCanonical":false,
 "text":"U+89E3"
+},
+"haai6":{
+"isCanonical":true,
+"text":"U+89E3 haai5 (alternative) (Page 122 解) Read _hai_ (haai6), to mean, to intend; _hai i_ (haai6 ji3 解意) to make motions, as to the dumb; to talk by signs; to guess. This last (解意) is a local phrase. To understand (Kangxi: 曉也 etc., 謂曉悟也). A place name (Kangxi: 地名). A surname (Kangxi: 姓). 【解-understand】 (heaX) (_verb-like_) to understand"
 }
 },
 "邂":{
@@ -8950,7 +8954,7 @@
 "懈":{
 "haai6":{
 "isCanonical":true,
-"text":"U+61C8 解 gaai3 (per 《廣韻》古隘切) haai5 (uncommon) (F2.28 懈) 怠也倦也 (Page 69 懈) Remiss, slow, negligent, inattentive (Kangxi: 怠也, 又或作解); _hai toi_ (haai6 doi6 懈怠) lazy, slow; _hai to_ (haai6 do6 懈惰) lazy. The reading _hai_ (haai6) is not unattested, though Kangxi considers it vulgar and erroneous (俗讀匣母非). Fan Wan and Williams print the component 牛 as 㐄. Tired (Fan Wan: 倦也). 【懈】 (keaH) (_adjective-like_) lax, remiss (_verb-like_) to laxen"
+"text":"U+61C8 解 gaai3 (per 《廣韻》古隘切) haai5 (uncommon) (F2.28 懈) 怠也倦也 (Page 69 懈) Remiss, slow, negligent, inattentive (Kangxi: 怠也, 又或作解); _hai toi_ (haai6 doi6 懈怠) lazy, slow; _hai to_ (haai6 do6 懈惰) lazy. The reading _hai_ (haai6) is not unattested, though Kangxi considers it vulgar and erroneous (俗讀匣母非). Fan Wan and Williams print the component 牛 as 㐄. Tired (Fan Wan: 倦也). 【解-lax】 (heaX) (_adjective-like_) lax, remiss (_verb-like_) to laxen"
 }
 },
 "械":{

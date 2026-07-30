@@ -457,13 +457,13 @@ P
   ++
   1. Alternative form of 獬. **See $獬haai5 for the canonical entry.**
   1. Alternative form of 邂. **See $邂haai5 for the canonical entry.**
-  1. Reading variation. **See $解haai6 for the canonical entry.** (TODO)
+  1. Reading variation. **See $解haai6 for the canonical entry.**
   ++
 S
   ==
   - $解gaai2 (TODO)
   - $解gaai3 (TODO)
-  - $解haai6 (TODO)
+  - $解haai6
   ==
 $$
 
@@ -532,6 +532,7 @@ $$
 - $懈6
 - $械6
 - $薤6
+- $解6
 - $齘6
 ==
 </nav>
@@ -546,7 +547,7 @@ U
   U+61C8
 A
   ==
-  - 解
+  - $解6
   ==
 V
   ==
@@ -582,7 +583,7 @@ P
   ++
 L
   ====
-  * 【懈】 (keaH)
+  * 【解-lax】 (heaX)
     ==
     - (_adjective-like_) lax, remiss
     - (_verb-like_) [to] laxen
@@ -669,6 +670,61 @@ L
     - (_noun-like_) chive
     ==
   ====
+$$
+
+### 解6 | _H(a/)i(6)_ [[haai6]]
+
+$$
+R
+  ⾓ + 6
+U
+  U+89E3
+V
+  ==
+  - haai5 (alternative)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~122 解(3)]]
+    --
+    [[...]]
+    --
+    ==
+    - Read _h(a/)i(6)_ [[haai6]]^, to mean, to intend;
+    - _h(a/)i(6) (i/)(3)_
+        [[haai6 ji3 解意]]
+        to make motions, as to the dumb;
+        to talk by signs;
+        to guess.
+    ==
+    --
+    This last [[解意]] is a local phrase.
+    --
+    --
+    [[Otherwise, an alternative form of 懈. **See $懈haai6 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. To understand (Kangxi: 曉也 etc., 謂曉悟也).
+  1. A place name (Kangxi: 地名).
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【解-understand】 (heaX)
+    ==
+    - (_verb-like_) [to] understand
+    ==
+  ====
+S
+  ==
+  - $解gaai2 (TODO)
+  - $解gaai3 (TODO)
+  - ($解haai5)
+  ==
 $$
 
 ### 齘6 | _H(a/)i(6)_ [[haai6]]
