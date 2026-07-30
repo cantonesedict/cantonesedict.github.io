@@ -3420,7 +3420,7 @@ class Linter:
             '<nav class="sideways">',
             '=={.modern}',
             [
-                f'- [{incipit_upper}](#{incipit_upper})'
+                f'- [{incipit_upper}](#{incipit})'
                 for incipit in entry_pages_from_incipit
                 if (
                     incipit_upper := incipit.upper(),
@@ -3971,7 +3971,7 @@ class Linter:
             [
                 [
                     '',
-                    f'##{{#{incipit_upper} .modern}} {incipit_upper}',
+                    f'##{{#{incipit} .modern}} {incipit_upper}',
                     '',
                     '<nav>',
                     '=={.modern}',

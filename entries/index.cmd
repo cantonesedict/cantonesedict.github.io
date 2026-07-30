@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2026-07-26
+* %date-modified --> 2026-07-30
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -20,26 +20,26 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 <## incipits ##>
 <nav class="sideways">
 =={.modern}
-- [A](#A)
-- [B](#B)
-- [C](#C)
-- [D](#D)
-- [E](#E)
-- [F](#F)
-- [G](#G)
-- [H](#H)
-- [J](#J)
-- [K](#K)
-- [L](#L)
-- [M](#M)
-- [N](#N)
-- [O](#O)
-- [P](#P)
-- [S](#S)
-- [T](#T)
-- [U](#U)
-- [W](#W)
-- [Z](#Z)
+- [A](#a)
+- [B](#b)
+- [C](#c)
+- [D](#d)
+- [E](#e)
+- [F](#f)
+- [G](#g)
+- [H](#h)
+- [J](#j)
+- [K](#k)
+- [L](#l)
+- [M](#m)
+- [N](#n)
+- [O](#o)
+- [P](#p)
+- [S](#s)
+- [T](#t)
+- [U](#u)
+- [W](#w)
+- [Z](#z)
 ==
 </nav>
 <## /incipits ##>
@@ -47,7 +47,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 <## entries ##>
 
-##{#A .modern} A
+##{#a .modern} A
 
 <nav>
 =={.modern}
@@ -71,7 +71,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#B .modern} B
+##{#b .modern} B
 
 <nav>
 =={.modern}
@@ -111,7 +111,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#C .modern} C
+##{#c .modern} C
 
 <nav>
 =={.modern}
@@ -162,7 +162,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#D .modern} D
+##{#d .modern} D
 
 <nav>
 =={.modern}
@@ -211,7 +211,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#E .modern} E
+##{#e .modern} E
 
 <nav>
 =={.modern}
@@ -220,7 +220,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#F .modern} F
+##{#f .modern} F
 
 <nav>
 =={.modern}
@@ -252,7 +252,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#G .modern} G
+##{#g .modern} G
 
 <nav>
 =={.modern}
@@ -320,7 +320,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#H .modern} H
+##{#h .modern} H
 
 <nav>
 =={.modern}
@@ -368,7 +368,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#J .modern} J
+##{#j .modern} J
 
 <nav>
 =={.modern}
@@ -403,7 +403,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#K .modern} K
+##{#k .modern} K
 
 <nav>
 =={.modern}
@@ -453,7 +453,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#L .modern} L
+##{#l .modern} L
 
 <nav>
 =={.modern}
@@ -505,7 +505,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#M .modern} M
+##{#m .modern} M
 
 <nav>
 =={.modern}
@@ -545,7 +545,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#N .modern} N
+##{#n .modern} N
 
 <nav>
 =={.modern}
@@ -615,7 +615,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#O .modern} O
+##{#o .modern} O
 
 <nav>
 =={.modern}
@@ -629,7 +629,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#P .modern} P
+##{#p .modern} P
 
 <nav>
 =={.modern}
@@ -666,7 +666,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#S .modern} S
+##{#s .modern} S
 
 <nav>
 =={.modern}
@@ -718,7 +718,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#T .modern} T
+##{#t .modern} T
 
 <nav>
 =={.modern}
@@ -759,7 +759,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#U .modern} U
+##{#u .modern} U
 
 <nav>
 =={.modern}
@@ -769,7 +769,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#W .modern} W
+##{#w .modern} W
 
 <nav>
 =={.modern}
@@ -797,7 +797,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </nav>
 
 
-##{#Z .modern} Z
+##{#z .modern} Z
 
 <nav>
 =={.modern}
