@@ -485,6 +485,9 @@ W
     --
     [[Alternative form of 嘔. **See $嘔au2 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 毆. **See $毆au2 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -501,6 +504,7 @@ U
   U+6BC6
 A
   ==
+  - $歐2
   - 殴 (Mainland simplified)
   ==
 V
