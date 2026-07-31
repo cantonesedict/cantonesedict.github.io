@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -46,6 +46,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $晏3
+- ($鴳3)
 - $鷃3
 ==
 </nav>
@@ -160,6 +161,23 @@ E
   """"
 $$
 
+###+ 鴳3 | _(A/)n(3)_ [[aan3]]
+
+$$.
+R
+  ⿃ + 6
+U
+  U+9D33
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鷃. **See $鷃aan3 for the canonical entry.**
+  ++
+$$
+
 ### 鷃3 | _(A/)n(3)_ [[aan3]]
 
 $$
@@ -169,7 +187,7 @@ U
   U+9DC3
 A
   ==
-  - 鴳
+  - $鴳3
   ==
 V
   ==
