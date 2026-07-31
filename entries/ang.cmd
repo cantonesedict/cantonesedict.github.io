@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,6 +113,7 @@ U
   U+9DAF
 A
   ==
+  - 鸎
   - 莺 (Mainland simplified)
   ==
 V
