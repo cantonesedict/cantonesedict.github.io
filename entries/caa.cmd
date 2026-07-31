@@ -228,17 +228,6 @@ W
         like what most men think.
     ==
   ====
-C
-  ====
-  - The etymology of 阿差, a slur for "South Asian" (see below), is unclear,
-    although it is almost certainly not derived from the "mistake" or "differ" senses.
-    I have heard it said that it is from the presence of Indian policemen in colonial Hong Kong,
-    either:
-    ==
-    - from 摩囉差 (mo1 lo1 caa1), an historical term for an Indian policeman, or
-    - from 差人 (caai1 jan4), meaning "officer".
-    ==
-  ====
 L
   ====
   * 【差-discrepancy】 (tsrhae)
@@ -248,11 +237,15 @@ L
   ====
 E
   ====
-  - 【阿差】 (aa3 caa1)
+  - 【差】 (caa1)
     ++
-    1. (_derogatory_) A South Asian person.
+    1. (_derogatory_) South Asian.
     ++
   ====
+  --
+  The etymology of 差 as a slur for "South Asian" is unclear.
+  The spelling is well established.
+  --
 S
   ==
   - $差caai1
