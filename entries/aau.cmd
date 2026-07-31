@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -108,6 +108,10 @@ R
   ⼿ + 5
 U
   U+62D7
+A
+  ==
+  - 抝
+  ==
 V
   ==
   - ngaau2 (hypercorrected initial)
@@ -299,6 +303,11 @@ R
   ⼿ + 5
 U
   U+62D7
+A
+  ==
+  - 㑃
+  - 抝
+  ==
 V
   ==
   - ngaau3 (hypercorrected initial)
