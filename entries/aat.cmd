@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -475,6 +475,10 @@ R
   ⾴ + 6
 U
   U+981E
+A
+  ==
+  - 齃
+  ==
 V
   ==
   - ngaat3 (hypercorrected initial)
