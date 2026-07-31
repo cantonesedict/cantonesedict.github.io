@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,6 +45,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($义1)
 - $叉1
 - $岔1
 - $差1
@@ -55,22 +56,49 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 叉1 | _(1)Ch(')(a/)_ [[caa1]]
+### 义1 | _(1)Ch(')(a/)_ [[caa1]]
+
+$$.
+R
+  ⼂ + 2
+  ⼃ + 2
+U
+  U+4E49
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~8 (1)义]]
+    --
+    [[Alternative form of 叉. **See $叉caa1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - ($义ji6) (TODO)
+  ==
+$$
+
+###+ 叉1 | _(1)Ch(')(a/)_ [[caa1]]
 
 $$
 R
   ⼜ + 1
 U
   U+53C9
+A
+  ==
+  - $义1
+  ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)叉]]
+  - [[Page~8 (1)义; here normalised to 叉]]
     ==
     - A fork in a road;
     - a prong, a crotch;
-    - to cross or interlace the fingers [[Kangxi: 手指相錯, 指相交也]];
+    - to cross or interlace the fingers [[Kangxi 叉: 手指相錯, 指相交也]];
     - _(4)wo (1)ch(')(a/)_
         [[wo4 caa1 禾叉]],
         a pitch-fork;

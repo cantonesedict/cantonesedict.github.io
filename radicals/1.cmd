@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 1-stroke radicals
-* %date-modified --> 2026-07-20
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 1-stroke radicals
 
@@ -140,6 +140,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $义caa1
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">
@@ -162,6 +170,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $义caa1
+      ==
+      </nav>
   //
     , 3
     ,
