@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -159,6 +159,10 @@ R
   ⽮ + 8
 U
   U+77EE
+A
+  ==
+  - 躷
+  ==
 V
   ==
   - ngai2 (hypercorrected initial)
