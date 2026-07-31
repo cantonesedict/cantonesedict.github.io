@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -227,6 +227,9 @@ W
     - bubbles on the water [[Kangxi: 浮漚也]];
     - frothy spume.
     ==
+    --
+    [[Otherwise, an alternative form of 鷗. **See $鷗au1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -349,6 +352,8 @@ U
   U+9DD7
 A
   ==
+  - $漚1
+  - 䳼
   - 鸥 (Mainland simplified)
   ==
 V
