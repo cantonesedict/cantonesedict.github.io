@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -350,7 +350,8 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams print the component 牛 as 㐄.
+  - Fan Wan entry: The component 牛 of the headword is printed as 㐄.
+  - Williams also prints the component 牛 of the headword as 㐄.
   ==
 L
   ====
@@ -400,7 +401,8 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams print the component 牛 as 㐄.
+  - Fan Wan entry: The component 牛 of the headword is printed as 㐄.
+  - Williams also prints the component 牛 of the headword as 㐄.
   ==
 L
   ====
@@ -432,7 +434,8 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams print the component 牛 as 㐄.
+  - Fan Wan entry: The component 牛 of the headword is printed as 㐄.
+  - Williams also prints the component 牛 of the headword as 㐄.
   ==
 $$
 
@@ -496,8 +499,9 @@ C
   - The reading _(5)h(a/)i_ (haai5) is not unattested
     for the "carefree" sense (supplemented below);
     《集韻》 has the reading 下買切, explained 邂逅解説皃.
-  - Fan Wan and Williams print the component 牛 as 㐄.
   - Fan Wan entry: Fixed third stroke in 會.
+    The component 牛 of the headword is printed as 㐄.
+  - Williams also prints the component 牛 of the headword as 㐄.
   ==
 P
   ++
@@ -569,7 +573,8 @@ C
   ==
   - The reading _h(a/)i(6)_ (haai6) is not unattested,
     though Kangxi considers it vulgar and erroneous (俗讀匣母非).
-  - Fan Wan and Williams print the component 牛 as 㐄.
+  - Fan Wan entry: The component 牛 of the headword is printed as 㐄.
+  - Williams also prints the component 牛 of the headword as 㐄.
   ==
 P
   ++
