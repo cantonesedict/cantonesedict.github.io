@@ -776,7 +776,7 @@ L
   ====
   * 【燖】 (zim)
     ==
-    - (_verb-like_) [to] heat (up), (_met._) [to] reheat, [to] revise
+    - (_verb-like_) [to] heat (up), (_met._) [to] reheat, [to] revise, [to] renew
     ==
   ====
 $$
