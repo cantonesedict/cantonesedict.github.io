@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -3544,11 +3544,13 @@ W
         [[fu6 jau4 傅油]],
         to oil.
     ==
+    --
+    [[Alternative form of 附 (for the "attach" and "close" senses). See $附fu6.]]
+    --
   ====
 C
   ==
   - Williams' "To annex": Better rendered "To attach".
-    In this and the "close" sense, 傅 is almost like an alternative form of $附fu6.
   - Williams' "to arrange": This is a misreading of Kangxi 同敷陳也.
     Here, 陳 means "[to] state", and the sense belongs under $敷fu1.
   - Williams' 師傅: Used for a third-person master of a trade (e.g. 點心師傅).
@@ -4083,6 +4085,7 @@ U
   U+9644
 A
   ==
+  - $傅6 (for "attach" and "close" senses)
   - 坿 (for "add to" sense)
   - $柎6
   ==
@@ -4142,6 +4145,7 @@ C
 P
   ++
   1. To add to (Kangxi: 附益也).
+  1. Used in 附會 (to make strained interpretation/analogy) (Kangxi 傅: 同附曲意黨同曰傅會).
   ++
 L
   ====
