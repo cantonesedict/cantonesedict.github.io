@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 9-stroke radicals
-* %date-modified --> 2026-07-29
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 9-stroke radicals
 
@@ -217,7 +217,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $顣cuk1
+      - ($顣cuk1)
       ==
       </nav>
   //
@@ -295,7 +295,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $飜faan1
+      - ($飜faan1)
       ==
       </nav>
 ''
@@ -326,8 +326,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $飡caan1
-      - $飤zi6
+      - ($飡caan1)
+      - ($飤zi6)
       ==
       </nav>
   //
@@ -370,7 +370,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $餴fan1
+      - ($餴fan1)
       - $餞zin3
       ==
       </nav>

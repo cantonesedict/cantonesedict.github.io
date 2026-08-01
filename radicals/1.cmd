@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 1-stroke radicals
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 1-stroke radicals
 
@@ -73,7 +73,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$且ce2, $且cou4, $且zeoi1}
+      - {$且ce2, ($且cou4), $且zeoi1}
       ==
       </nav>
 ''
@@ -144,7 +144,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $义caa1
+      - ($义caa1)
       ==
       </nav>
   //
@@ -175,7 +175,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $义caa1
+      - ($义caa1)
       ==
       </nav>
   //
@@ -192,7 +192,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $乏fat6
-      - {$乎fu1, $乎fu4}
+      - {($乎fu1), $乎fu4}
       - $乍zaa3
       ==
       </nav>

@@ -1790,13 +1790,16 @@ class RadicalPage:
                             f'      - {link_sequence_braced}'
                             for character_entries in character_entries_from_character.values()
                             if (
-                                link_sequence := ', '.join(
-                                    character_entry.universal_link()
+                                link_sequence_content := ', '.join(
+                                    (
+                                        character_entry.universal_link() if character_entry.is_canonical
+                                        else f'({character_entry.universal_link()})'
+                                    )
                                     for character_entry in character_entries
                                 ),
                                 link_sequence_braced := (
-                                    f'{{{link_sequence}}}' if len(character_entries) > 1
-                                    else link_sequence
+                                    f'{{{link_sequence_content}}}' if len(character_entries) > 1
+                                    else link_sequence_content
                                 ),
                             )
                         ],

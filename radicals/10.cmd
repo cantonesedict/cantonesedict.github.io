@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 10-stroke radicals
-* %date-modified --> 2026-07-16
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 10-stroke radicals
 
@@ -58,7 +58,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $馴ceon4
+      - ($馴ceon4)
       - $馳ci4
       ==
       </nav>
@@ -94,7 +94,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $騘cung1
+      - ($騘cung1)
       - $騣zung1
       ==
       </nav>
@@ -104,7 +104,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $騭zat1
-      - {$騶zau1, $騶zau6}
+      - {$騶zau1, ($騶zau6)}
       ==
       </nav>
   //
@@ -121,7 +121,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$驟zaau6, $驟zau6}
+      - {$驟zaau6, ($驟zau6)}
       ==
       </nav>
 ''
@@ -152,7 +152,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$骴ci1, $骴ci3}
+      - {($骴ci1), $骴ci3}
       ==
       </nav>
 ''
@@ -190,7 +190,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $髣fong2
+      - ($髣fong2)
       ==
       </nav>
   //
@@ -284,7 +284,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鬴fu2
+      - ($鬴fu2)
       ==
       </nav>
   //
@@ -308,7 +308,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鬻zuk1
+      - ($鬻zuk1)
       ==
       </nav>
 ''

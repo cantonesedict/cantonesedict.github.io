@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 11-stroke radicals
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 11-stroke radicals
 
@@ -57,7 +57,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鮆cai5
+      - ($鮆cai5)
       - $鮒fu6
       - {$鮓zaa2, $鮓zaa6}
       ==
@@ -67,7 +67,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鮪fui2
+      - ($鮪fui2)
       ==
       </nav>
   //
@@ -75,7 +75,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$鯽zak1, $鯽zik1}
+      - {($鯽zak1), $鯽zik1}
       ==
       </nav>
   //
@@ -93,9 +93,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$鰂caak6, $鰂zak1}
-      - $鰌cau1
+      - ($鰌cau1)
       - $鰍cau1
-      - $鰕haa1
+      - ($鰕haa1)
       ==
       </nav>
   //
@@ -121,7 +121,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鱏cam4
       - $鱘cam4
-      - {$鱒cyun5, $鱒zyun1}
+      - {$鱒cyun5, ($鱒zyun1)}
       ==
       </nav>
   //
@@ -162,7 +162,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $鳧fu4
-      - $鳬fu4
+      - ($鳬fu4)
       ==
       </nav>
   //
@@ -195,7 +195,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鴳aan3
+      - ($鴳aan3)
       ==
       </nav>
   //
@@ -204,7 +204,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $鵪am1
-      - {$鵲coek3, $鵲zoek3}
+      - {($鵲coek3), $鵲zoek3}
       ==
       </nav>
   //
@@ -214,7 +214,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鶖cau1
       - $鶿ci4
-      - $鷀ci4
+      - ($鷀ci4)
       - $鶒cik1
       ==
       </nav>
@@ -226,7 +226,7 @@ For all radicals, see [Index of characters by radical](./).
       - $鷃aan3
       - $鶯ang1
       - {$鶬coeng1, $鶬cong1}
-      - {$鶺zek3, $鶺zik3}
+      - {$鶺zek3, ($鶺zik3)}
       ==
       </nav>
   //
@@ -234,12 +234,12 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $䳺am1
+      - ($䳺am1)
       - $鷗au1
-      - $鷘cik1
+      - ($鷘cik1)
       - $鷓ze3
       - $鷙zi3
-      - {$鷟zok6, $鷟zuk6}
+      - {$鷟zok6, ($鷟zuk6)}
       ==
       </nav>
   //
@@ -302,7 +302,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $麞zoeng1
+      - ($麞zoeng1)
       ==
       </nav>
   //
@@ -341,7 +341,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $麱fu1
+      - ($麱fu1)
       ==
       </nav>
 ''

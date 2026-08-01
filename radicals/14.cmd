@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 14-stroke radicals
-* %date-modified --> 2026-03-05
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 14-stroke radicals
 
@@ -59,7 +59,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$齊cai4, $齊zaai1}
+      - {$齊cai4, ($齊zaai1)}
       ==
       </nav>
   //
@@ -75,7 +75,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$齎zai1, $齎zi1}
+      - {$齎zai1, ($齎zi1)}
       ==
       </nav>
   //

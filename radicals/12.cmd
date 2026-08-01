@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 12-stroke radicals
-* %date-modified --> 2026-05-24
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 12-stroke radicals
 
@@ -61,7 +61,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $黏zim1
+      - ($黏zim1)
       ==
       </nav>
   //
@@ -92,7 +92,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$黜ceot1, $黜zeot1}
+      - {($黜ceot1), $黜zeot1}
       ==
       </nav>
   //
