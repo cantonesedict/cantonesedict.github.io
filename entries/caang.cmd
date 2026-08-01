@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,6 +126,8 @@ U
 A
   ==
   - $撑1
+  - 樘
+  - 牚
   ==
 F
   ==
@@ -160,6 +162,9 @@ W
         [[caang1 soeng5 heoi3 saai3 撐上去曬]]
         stretch them up to dry.
     ==
+    --
+    [[Alternative form of 橕. See $橕caang1.]]
+    --
   ====
 C
   ==
@@ -230,6 +235,12 @@ R
   ⽊ + 12
 U
   U+6A55
+A
+  ==
+  - $撐1
+  - 樘
+  - 牚
+  ==
 F
   [[Not present]]
 W
@@ -304,6 +315,7 @@ U
 A
   ==
   - $罉1 (for Cantonese "pot" sense)
+  - {𦉘=⿰缶牚} (for Cantonese "pot" sense)
   - $鎗1
   - 铛 (Mainland simplified)
   ==
@@ -340,7 +352,7 @@ E
   ::B2.w228a0405 (:楚庚切:) 鎗 (:鼎類:)::
   """"
   """"
-  ::B2.w228a0501 (:楚庚切:) (:鐺:) 俗本音當::
+  ::B2.w228a0501 (:楚庚切:) (:鐺:) (:俗:)本音當::
   """"
   """"
   ::K. 鎗 《唐韻》(:楚庚切:)《集韻》《韻會》(:楚耕切:){𠀤=⿱夶一}音璫[...]　^\
@@ -357,8 +369,8 @@ E
   - The original character is 鎗, read _(1)ch(')ang_ (cang1),
     meaning a pot with legs.
   - Later, 鐺 is used vulgarly for 鎗.
-  - Later, the character 罉 is created for the Cantonese vernacular sense
-    of flat-bottomed pot.
+  - Later, the characters 罉 and {𦉘=⿰缶牚} are created
+    for the Cantonese vernacular sense of flat-bottomed pot.
   ==
 S
   ==
@@ -518,6 +530,7 @@ U
 A
   ==
   - $橕3 (Cantonese)
+  - 䟫 (Cantonese)
   ==
 V
   ==
