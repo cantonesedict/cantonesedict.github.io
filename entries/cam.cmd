@@ -607,6 +607,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 尋 is arbitrary (but well established).
+  --
 $$
 
 ### 沈4 | _(4)Ch(')am_ [[cam4]]
