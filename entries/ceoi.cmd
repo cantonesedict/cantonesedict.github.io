@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1375,6 +1375,7 @@ U
 A
   ==
   - $厨4
+  - 㕑
   ==
 V
   ==
@@ -1777,7 +1778,7 @@ S
   ==
 $$
 
-### ~~{𨆼=⿰𧾷㕑}~~``躕``4 | _(4)Ch(')(u:)_ [[ceoi4]]
+###+ 躕4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -1787,6 +1788,7 @@ U
 A
   ==
   - 蹰
+  - {𨆼=⿰𧾷㕑}
   ==
 V
   ==
@@ -1796,7 +1798,7 @@ F
   (F1.45 ::[蹰]::) ::踟[蹰]::
 W
   ====
-  - [[Page~32* ::(4)~~{𨆼=⿰𧾷㕑}~~``躕``::]]
+  - [[Page~32* (4){𨆼=⿰𧾷㕑}; here normalised to 躕]]
     ==
     - Embarrassed, hindered [[Kangxi 躕: 踟躕行不進貌]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
