@@ -59,7 +59,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$齊cai4, ($齊zaai1)}
+      - $齊cai4, ($齊zaai1)
       ==
       </nav>
   //
@@ -75,7 +75,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$齎zai1, ($齎zi1)}
+      - $齎zai1, ($齎zi1)
       ==
       </nav>
   //

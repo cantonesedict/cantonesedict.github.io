@@ -225,7 +225,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$顫zin1, $顫zin3}
+      - $顫zin1, $顫zin3
       ==
       </nav>
 ''
@@ -248,7 +248,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$風fung1, $風fung3}
+      - $風fung1, $風fung3
       ==
       </nav>
   //

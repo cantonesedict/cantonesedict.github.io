@@ -104,7 +104,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $騭zat1
-      - {$騶zau1, ($騶zau6)}
+      - $騶zau1, ($騶zau6)
       ==
       </nav>
   //
@@ -121,7 +121,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$驟zaau6, ($驟zau6)}
+      - $驟zaau6, ($驟zau6)
       ==
       </nav>
 ''
@@ -152,7 +152,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {($骴ci1), $骴ci3}
+      - ($骴ci1), $骴ci3
       ==
       </nav>
 ''

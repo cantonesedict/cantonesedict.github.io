@@ -56,7 +56,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$下haa5, $下haa6}
+      - $下haa5, $下haa6
       - $丈zoeng6
       ==
       </nav>
@@ -73,7 +73,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$且ce2, ($且cou4), $且zeoi1}
+      - $且ce2, ($且cou4), $且zeoi1
       ==
       </nav>
 ''
@@ -105,7 +105,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $丰fung1
-      - {$中zung1, $中zung3}
+      - $中zung1, $中zung3
       ==
       </nav>
   //
@@ -183,7 +183,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$之zaa1, $之zi1}
+      - $之zaa1, $之zi1
       ==
       </nav>
   //
@@ -192,7 +192,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $乏fat6
-      - {($乎fu1), $乎fu4}
+      - ($乎fu1), $乎fu4
       - $乍zaa3
       ==
       </nav>

@@ -92,7 +92,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {($黜ceot1), $黜zeot1}
+      - ($黜ceot1), $黜zeot1
       ==
       </nav>
   //

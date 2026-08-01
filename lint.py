@@ -1787,7 +1787,7 @@ class RadicalPage:
                         f'      <nav class="sideways">',
                         f'      ==',
                         [
-                            f'      - {link_sequence_braced}'
+                            f'      - {link_sequence_content}'
                             for character_entries in character_entries_from_character.values()
                             if (
                                 link_sequence_content := ', '.join(
@@ -1796,10 +1796,6 @@ class RadicalPage:
                                         else f'({character_entry.universal_link()})'
                                     )
                                     for character_entry in character_entries
-                                ),
-                                link_sequence_braced := (
-                                    f'{{{link_sequence_content}}}' if len(character_entries) > 1
-                                    else link_sequence_content
                                 ),
                             )
                         ],
