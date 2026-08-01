@@ -751,7 +751,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~500 (4)燂 read ^_(4)Ts(')am_ (cam4)]]
+  - [[Page~500 (4)燂 also read ^_(4)Ts(')am_ (cam4)]]
     --
     [[Reading variation. **See $燂cim4 and $燂taam4 for the canonical entries.**]] [[TODO]]
     --

@@ -509,7 +509,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕 Read _ch(')(a/)ng(3)_ (caang3)]]
+  - [[Page~21|n64 (1)橕 read ^_Ch(')(a/)ng(3)_ (caang3)]]
     --
     [[Alternative form of 撐 (Cantonese) and {𨅝=⿰𧾷牚} (Cantonese). **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
     --
