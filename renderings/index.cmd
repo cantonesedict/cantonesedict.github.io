@@ -11032,7 +11032,7 @@ window.onload = applyFilter;
     , [爓~(noun)](/entries/cam#rendering-爓-noun)
     ,
       ==
-      - (_noun-like_) [to] poached-meat
+      - (_noun-like_) poached-meat
       ==
   //
     , `zim`

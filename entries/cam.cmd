@@ -816,7 +816,7 @@ L
   ====
   * 【爓-noun】 (zim)
     ==
-    - (_noun-like_) [to] poached-meat
+    - (_noun-like_) poached-meat
     ==
   * 【爓-verb】 (zjem)
     ==
