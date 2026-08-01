@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,6 +60,10 @@ R
   ⼑ + 6
 U
   U+5237
+A
+  ==
+  - 㕞
+  ==
 V
   ==
   - caat3-2 (vernacular rising-tone noun)
@@ -87,6 +91,11 @@ W
         to wipe off disgrace by reforming,
     ==
   ====
+C
+  ==
+  - According to 段玉裁's annotations of 《說文》,
+    刷 "scrub" (with a knife) should be distinguished from 㕞 "wipe" (with a hand).
+  ==
 L
   ====
   * 【刷】 (srjwet, srwaet)
@@ -235,7 +244,8 @@ C
   - The character 擦 is not attested in the Middle Chinese rime books.
     Kangxi has 《篇海》《字彙》{𠀤=⿱夶一}初戛切音察,
     which is _ch(')(a/)t(8)_ rather than _ts(')(a/)t(8)_.
-  - In modern usage, the noun sense of "brush" is spelt 刷; see $刷caat3.
+  - In modern usage, the noun sense of "brush" is borne by the word 刷;
+    see $刷caat3.
   ==
 E
   ====
@@ -263,6 +273,7 @@ U
   U+737A
 A
   ==
+  - 㺚
   - 獭 (Mainland simplified)
   ==
 V
