@@ -1991,7 +1991,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$燂cam4, $燂cim4}
       - {$燅cam4, $燅cim4}
-      - $燖cam4
+      - {$燖cam4, $燖cim4}
       - $熾ci3
       - $燔faan4
       - $㷹zaau3

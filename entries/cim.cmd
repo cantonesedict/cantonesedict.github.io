@@ -932,6 +932,7 @@ $$
 - ($潜4)
 - $燂4
 - ($燅4)
+- ($燖4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1085,7 +1086,7 @@ U
 A
   ==
   - $燅4
-  - 燖
+  - $燖4
   ==
 V
   ==
@@ -1171,5 +1172,27 @@ P
 S
   ==
   - ($燅cam4)
+  ==
+$$
+
+###+ 燖4 | _(4)Ts(')(i/)m_ [[cim4]]
+
+$$.
+R
+  ⽕ + 12
+U
+  U+71D6
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 燂. **See $燂cim4 for the canonical entry.**
+  1. Alternative form of 爓, and reading variation (for the verb(?) sense). **See $爓cam4 for the canonical entry.**
+  ++
+S
+  ==
+  - $燖cam4
   ==
 $$
