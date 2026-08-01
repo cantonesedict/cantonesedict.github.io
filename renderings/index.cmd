@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -11022,6 +11022,13 @@ window.onload = applyFilter;
       ==
   //
     , `zim`
+    , [燖](/entries/cam#rendering-燖)
+    ,
+      ==
+      - (_verb-like_) [to] heat
+      ==
+  //
+    , `zim`
     , [鬵](/entries/cam#rendering-鬵)
     ,
       ==
@@ -11182,6 +11189,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) large
+      ==
+  //
+    , `zjem`
+    , [燅](/entries/cam#rendering-燅)
+    ,
+      ==
+      - (_verb-like_) [to] poach
       ==
   //
     , `zjo`

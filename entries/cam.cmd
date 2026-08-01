@@ -578,6 +578,9 @@ W
         [[cam4 mat6 尋物]]
         a colloquial phrase for yesterday.
     ==
+    --
+    [[Otherwise, an alternative form of 燖 (for the "heat/warm" sense). **See $燖cam4 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -741,7 +744,16 @@ U
   U+71D6
 A
   ==
+  - $尋4 (for "heat/warm" sense)
+  - 煔 (for "poach" sense)
+  - 燂
+  - 燅
+  - 爓 (for "poach" sense)
   - {𬊈=⿰火寻} (Mainland simplified)
+  ==
+V
+  ==
+  - cim4 (per 《廣韻》徐鹽切 for "poach" sense)
   ==
 F
   ==
@@ -752,13 +764,28 @@ W
   - [[Page~552 (4)燖]]
     ==
     - To scald, as a fowl, in order to pluck it;
-    - to steep in hot broth, to make a broth of.
+    - to steep in hot broth [[Kangxi: 沈肉於湯也或作爓煔]], to make a broth of.
     ==
   ====
 C
   ==
   - Fan Wan entry: The component 尋 of the headword is printed like ⿳彑⿰工几寸.
   ==
+P
+  ++
+  1. To heat, to warm (Kangxi: 古文燅皆作尋記或作燖).
+  ++
+L
+  ====
+  * 【燖】 (zim)
+    ==
+    - (_verb-like_) [to] heat
+    ==
+  * 【燅】 (zjem)
+    ==
+    - (_verb-like_) [to] poach
+    ==
+  ====
 $$
 
 ### 鐔4 | _(4)Ts(')am_ [[cam4]]
