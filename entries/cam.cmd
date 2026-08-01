@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,6 +62,10 @@ R
   ⼈ + 7
 U
   U+4FB5
+A
+  ==
+  - 㑴
+  ==
 F
   ==
   - (F2.36 侵) 侵占侵凌侵害
@@ -517,6 +521,7 @@ U
   U+5C0B
 A
   ==
+  - {𢒫=⿰彡尋}
   - 寻 (Mainland simplified)
   ==
 F
