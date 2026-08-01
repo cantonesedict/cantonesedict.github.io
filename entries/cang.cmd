@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ U
   U+5C64
 A
   ==
+  - $曾4
   - 层 (Mainland simplified)
   ==
 F
@@ -147,6 +148,9 @@ W
         [[zou6 m4 cang4 做唔曾]],
         is it done yet?
     ==
+    --
+    [[Otherwise, an alternative form of 層. **See $層cang4 for the canonical entry.**]]
+    --
   ====
 C
   ==
