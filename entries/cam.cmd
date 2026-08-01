@@ -501,6 +501,7 @@ $$
 - ($沈4)
 - $沉4
 - ($湛4)
+- ($燂4)
 - $燖4
 - $爓4
 - $鐔4
@@ -739,6 +740,32 @@ S
   ==
 $$
 
+### 燂4 | _(4)Ts(')am_ [[cam4]]
+
+$$.
+R
+  ⽕ + 12
+U
+  U+71C2
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~500 (4)燂 read ^_(4)Ts(')am_ (cam4)]]
+    --
+    [[Reading variation. **See $燂cim4 and $燂taam4 for the canonical entries.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 燖. **See $燖cam4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $燂cim4
+  - $燂taam4 (TODO)
+  ==
+$$
+
 ### 燖4 | _(4)Ts(')am_ [[cam4]]
 
 $$
@@ -749,7 +776,7 @@ U
 A
   ==
   - $尋4
-  - 燂
+  - $燂4
   - 燅
   - {𬊈=⿰火寻} (Mainland simplified)
   ==

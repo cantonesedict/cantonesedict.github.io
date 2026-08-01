@@ -1989,9 +1989,9 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - {$燂cam4, $燂cim4}
       - $燖cam4
       - $熾ci3
-      - $燂cim4
       - $燔faan4
       - $㷹zaau3
       - {$燋ziu1, $燋ziu3}
