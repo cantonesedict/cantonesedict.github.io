@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,6 +160,12 @@ R
   ⼿ + 5
 U
   U+62BD
+A
+  ==
+  - {𢭆=⿰扌秀}
+  - 㨨
+  - 㩅
+  ==
 F
   ==
   - (F1.50 抽) 收也援引也
@@ -540,6 +546,7 @@ U
 A
   ==
   - 秌
+  - 龝
   ==
 F
   ==
@@ -614,6 +621,10 @@ R
   ⽵ + 10
 U
   U+7BD8
+A
+  ==
+  - 醔
+  ==
 F
   ==
   - (F1.50 篘) 酒篘
@@ -762,6 +773,7 @@ U
   U+9D96
 A
   ==
+  - {𪀖=⿰尗鳥}
   - 鹙 (Mainland simplified)
   ==
 F
@@ -1006,6 +1018,8 @@ U
   U+55C5
 A
   ==
+  - 㗜
+  - $臭3
   - 齅
   ==
 V
@@ -1233,6 +1247,9 @@ W
         [[cau3 mei6 臭味]]
         a bad ~~taste~~ ``smell``.
     ==
+    --
+    [[Alternative form of 嗅. See $嗅cau3.]]
+    --
   ====
 C
   ==
@@ -2100,6 +2117,10 @@ R
   ⾡ + 9
 U
   U+9052
+A
+  ==
+  - 逎
+  ==
 F
   ==
   - (F1.53 遒) 聚也
@@ -2185,6 +2206,7 @@ U
   U+916C
 A
   ==
+  - 詶
   - $讎4
   - $讐4
   - $酧4
