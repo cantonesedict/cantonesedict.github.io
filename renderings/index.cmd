@@ -11029,6 +11029,13 @@ window.onload = applyFilter;
       ==
   //
     , `zim`
+    , [爓~(noun)](/entries/cam#rendering-爓-noun)
+    ,
+      ==
+      - (_noun-like_) [to] poached-meat
+      ==
+  //
+    , `zim`
     , [鬵](/entries/cam#rendering-鬵)
     ,
       ==
@@ -11192,7 +11199,7 @@ window.onload = applyFilter;
       ==
   //
     , `zjem`
-    , [燅](/entries/cam#rendering-燅)
+    , [爓~(verb)](/entries/cam#rendering-爓-verb)
     ,
       ==
       - (_verb-like_) [to] poach

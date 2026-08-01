@@ -502,6 +502,7 @@ $$
 - $沉4
 - ($湛4)
 - $燖4
+- $爓4
 - $鐔4
 - $霃4
 - $鬵4
@@ -747,16 +748,10 @@ U
   U+71D6
 A
   ==
-  - $尋4 (for "heat/warm" sense)
-  - 煔 (for "poach" sense)
+  - $尋4
   - 燂
   - 燅
-  - 爓 (for "poach" sense)
   - {𬊈=⿰火寻} (Mainland simplified)
-  ==
-V
-  ==
-  - cim4 (per 《廣韻》徐鹽切 for "poach" sense)
   ==
 F
   ==
@@ -765,10 +760,9 @@ F
 W
   ====
   - [[Page~552 (4)燖]]
-    ==
-    - To scald, as a fowl, in order to pluck it;
-    - to steep in hot broth [[Kangxi: 沈肉於湯也或作爓煔]], to make a broth of.
-    ==
+    --
+    [[Alternative form of 爓. **See $爓cam4 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -784,11 +778,55 @@ L
     ==
     - (_verb-like_) [to] heat (up), (_met._) [to] reheat, [to] revise
     ==
-  * 【燅】 (zjem)
+  ====
+$$
+
+###+ 爓4 | _(4)Ts(')am_ [[cam4]]
+
+$$
+R
+  ⽕ + 16
+U
+  U+7213
+A
+  ==
+  - 煔
+  - 燅
+  - $燖4
+  ==
+V
+  ==
+  - cim4 (per 《廣韻》徐鹽切 for verb(?) sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~552 (4)燖; here normalised to 爓]]
+    ==
+    - To scald, as a fowl, in order to pluck it;
+    - to steep in hot broth [[Kangxi 爓: 爓沈肉于湯也]], to make a broth of.
+    ==
+  ====
+P
+  ++
+  1. Poached meat for sacrifice (Kangxi: 湯肉曰爓, 音尋).
+  ++
+L
+  ====
+  * 【爓-noun】 (zim)
+    ==
+    - (_noun-like_) [to] poached-meat
+    ==
+  * 【爓-verb】 (zjem)
     ==
     - (_verb-like_) [to] poach
     ==
   ====
+S
+  ==
+  - ($爓jim6) (TODO) <## same as 焰燄 ##>
+  ==
 $$
 
 ### 鐔4 | _(4)Ts(')am_ [[cam4]]
