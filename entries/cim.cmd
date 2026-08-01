@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -930,6 +930,7 @@ $$
 - $撍4
 - $潛4
 - ($潜4)
+- $燂4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1071,4 +1072,80 @@ W
     [[Alternative form of 潛. **See $潛cim4 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 燂4 | _(4)Ts(')(i/)m_ [[cim4]]
+
+$$
+R
+  ⽕ + 12
+U
+  U+71C2
+A
+  ==
+  - 燅
+  - 燖
+  ==
+V
+  ==
+  - cam4 (per 《集韻》徐心切)
+  - taam4 (alternative per 《廣韻》徒含切)
+  ==
+F
+  ==
+  - (F2.37 燖 _(4)Ts(')am_ (cam4)) 火熟物也
+  ==
+W
+  ====
+  - [[Page~500 (4)燂 _(4)T(')(a/)m_ (taam4)]]
+    <## TODO: move under $燂taam4
+    ==
+    - To burn in the fire;
+    - to scorch, to bream;
+    - to dry at a fire, to put in the blaze;
+    - to warm, to boil;
+    - _(4)t(')(a/)m (4)sh(u:)n_
+        [[taam4 syun4]],
+        to bream a boat's bottom;
+    - _(4)t(')(a/)m (2)k(i/) ts(o\)(3) (2)fo_
+        [[taam4 gei2 zou3 fo2]],
+        burn some faggots of grass;
+    - _(1)tang (4)t(')au (4)t(')(a/)m (5)h(a/)_
+        [[dang1 tau4 taam4 haa5]],
+        dry it in the lamp;
+    - _(4)t(')(a/)m (2)shui_
+        [[taam4 seoi2]],
+        to warm some water, as in a boiler;
+    - _(4)t(')(a/)m t(a/)m(6) (4)ch(')(a/)_
+        [[taam4 daam6 caa4]],
+        warm a cup of tea;
+    - _(2)fo (4)t(')(a/)m wok(9) (2)tai tsau(6) (1)ch(i/) (4)k(')ung_
+        [[fo2 taam4 wok6 dai2 zau6 zi1 kung4]],
+        when the fire scorches the boiler, you'll know what poverty is.
+    ==
+    ##>
+    --
+    [[...]]
+    --
+    --
+    Also read _(4)ts(')am_ [[cam4]].
+    --
+  ====
+P
+  ++
+  1. To heat up (Kangxi: ::火[熱]也::, 燂溫也).
+  1. To roast, to burn (Kangxi: 燂炙爛也, 火孰物也或作燖燅, ::火[爇]也::).
+  ++
+L
+  ====
+  * 【燂】 (dzjem, zjem, dom)
+    ==
+    - (_verb-like_) [to] heat
+    - (_verb-like_) [to] roast, [to] burn
+    ==
+  ====
+S
+  ==
+  - $燂taam4 (TODO)
+  ==
 $$

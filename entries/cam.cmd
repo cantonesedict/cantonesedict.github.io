@@ -763,6 +763,9 @@ W
     --
     [[Alternative form of 爓. **See $爓cam4 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 燂, and reading variation. **See $燂cim4 for the canonical entry.**]]
+    --
   ====
 C
   ==

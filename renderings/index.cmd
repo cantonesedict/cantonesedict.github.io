@@ -1133,6 +1133,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] crawl
       ==
   //
+    , `dom`
+    , [燂](/entries/cim#rendering-燂)
+    ,
+      ==
+      - (_verb-like_) [to] heat
+      - (_verb-like_) [to] roast, [to] burn
+      ==
+  //
     , `downg`
     , [爞](/entries/cung#rendering-爞)
     ,
@@ -2481,6 +2489,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] hide
+      ==
+  //
+    , `dzjem`
+    , [燂](/entries/cim#rendering-燂)
+    ,
+      ==
+      - (_verb-like_) [to] heat
+      - (_verb-like_) [to] roast, [to] burn
       ==
   //
     , `dzjem`
@@ -11196,6 +11212,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) large
+      ==
+  //
+    , `zjem`
+    , [燂](/entries/cim#rendering-燂)
+    ,
+      ==
+      - (_verb-like_) [to] heat
+      - (_verb-like_) [to] roast, [to] burn
       ==
   //
     , `zjem`
