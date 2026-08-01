@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -274,6 +274,13 @@ R
   ⽕ + 4
 U
   U+7092
+A
+  ==
+  - 焣
+  - 㷅
+  - 煼
+  - {𩱦=⿱⿲弓芻弓鬲}
+  ==
 F
   ==
   - (F2.42 炒) 乾熬食物曰炒
@@ -284,7 +291,7 @@ W
   - [[Page~30|n73 (2)炒]]
     ==
     - To roast in a boiler;
-    - to fry in fat or batter;
+    - to fry [[Kangxi: 熬也]] in fat or batter;
     - _(1)kon (2)ch(')(a/)u_
         [[gon1 caau2 乾炒]],
         to fry brown;
