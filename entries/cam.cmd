@@ -770,7 +770,7 @@ C
   ==
 P
   ++
-  1. To heat, to warm (Kangxi: 古文燅皆作尋記或作燖).
+  1. To heat, to warm (Kangxi 燅: 燅溫也).
   ++
 L
   ====
