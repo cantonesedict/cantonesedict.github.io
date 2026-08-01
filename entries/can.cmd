@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,6 +64,11 @@ U
 H
   May appear as either ⿰口眞 or ⿰口真 (assumed here),
   depending on the font.
+A
+  ==
+  - 㥲
+  - 謓
+  ==
 F
   ==
   - (F1.81 嗔) 怒也
@@ -168,6 +173,7 @@ H
 A
   ==
   - $嗔1
+  - 䀼
   ==
 F
   ==
@@ -450,6 +456,10 @@ R
   ⽧ + 5
 U
   U+75B9
+A
+  ==
+  - 胗
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)
@@ -489,6 +499,7 @@ U
 A
   ==
   - 矤
+  - 訠
   ==
 F
   ==
@@ -609,6 +620,7 @@ U
 A
   ==
   - 振
+  - 裖
   ==
 V
   ==
@@ -651,6 +663,7 @@ U
   U+8A3A
 A
   ==
+  - 胗
   - 诊 (Mainland simplified)
   ==
 V
@@ -739,6 +752,10 @@ U
 H
   May appear as either ⿱髟眞 or ⿱髟真 (assumed here),
   depending on the font.
+A
+  ==
+  - 㐱
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)
@@ -1011,6 +1028,7 @@ U
   U+9F54
 A
   ==
+  - 齓
   - 龀 (Mainland simplified)
   ==
 F

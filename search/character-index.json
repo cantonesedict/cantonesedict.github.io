@@ -1810,7 +1810,7 @@
 "嗔":{
 "can1":{
 "isCanonical":true,
-"text":"U+55D4 May appear as either ⿰口眞 or ⿰口真 (assumed here), depending on the font. (F1.81 嗔) 怒也 (Page 17|n60 嗔) To get angry (Kangxi: 怒也); passionate, angry; to rail; _shang ch'an_ (sang1 can1 生嗔), to get into a rage; _ch'an kwai_ (can1 gwaai3 嗔怪) to scold."
+"text":"U+55D4 May appear as either ⿰口眞 or ⿰口真 (assumed here), depending on the font. 㥲 謓 (F1.81 嗔) 怒也 (Page 17|n60 嗔) To get angry (Kangxi: 怒也); passionate, angry; to rail; _shang ch'an_ (sang1 can1 生嗔), to get into a rage; _ch'an kwai_ (can1 gwaai3 嗔怪) to scold."
 }
 },
 "嚫":{
@@ -1822,7 +1822,7 @@
 "瞋":{
 "can1":{
 "isCanonical":true,
-"text":"U+778B May appear as either ⿰目眞 or ⿰目真 (assumed here), depending on the font. 嗔 (F1.81 瞋) 怒而張目也 (Page 18|n61 瞋) To stare at angrily, to glare at (Kangxi: 張目也, 怒也); _ch'an no mo to_ (can1 nou6 mou4 dou6 瞋怒無度) angry beyond measure. 【瞋】 (tsyhin) (_verb-like_) to glare"
+"text":"U+778B May appear as either ⿰目眞 or ⿰目真 (assumed here), depending on the font. 嗔 䀼 (F1.81 瞋) 怒而張目也 (Page 18|n61 瞋) To stare at angrily, to glare at (Kangxi: 張目也, 怒也); _ch'an no mo to_ (can1 nou6 mou4 dou6 瞋怒無度) angry beyond measure. 【瞋】 (tsyhin) (_verb-like_) to glare"
 }
 },
 "親":{
@@ -1856,13 +1856,13 @@
 "疹":{
 "can2":{
 "isCanonical":true,
-"text":"U+75B9 zan2 (per 《廣韻》章忍切) (F1.82 疹) 豆疹 (Page 18|n61 疹~~疢~~) Pustules of any kind (Kangxi 疹: 疹診也有結氣可得診見也); eruptions, pimples (Kangxi 疹: 癮疹皮外小起也); a cutaneous disease; sore lips (Kangxi 疹: 脣瘍也); _tau ch'an_ (dau6 can2 痘疹) small pox pustules; _pan ch'an_ (baan1 can2 斑疹), eruptions."
+"text":"U+75B9 胗 zan2 (per 《廣韻》章忍切) (F1.82 疹) 豆疹 (Page 18|n61 疹~~疢~~) Pustules of any kind (Kangxi 疹: 疹診也有結氣可得診見也); eruptions, pimples (Kangxi 疹: 癮疹皮外小起也); a cutaneous disease; sore lips (Kangxi 疹: 脣瘍也); _tau ch'an_ (dau6 can2 痘疹) small pox pustules; _pan ch'an_ (baan1 can2 斑疹), eruptions."
 }
 },
 "矧":{
 "can2":{
 "isCanonical":true,
-"text":"U+77E7 矤 (F1.82 矧) 况也 (Page 18|n61 矧) To stretch; still more, how much more (Kangxi: 况也); ~~to grin wide;~~ _ch'an ut_ (can2 jyut6 矧曰) to say further. Williams' \"to grin wide\": This is a misreading of Kangxi's example 笑不至矧, in which 矧 means \"tooth-base\", not \"grin wide\". Moreover, this sense should be read _ngan_ (ngan4) as it is an alternative form of 齗. Williams' 矧曰: Corrected _ut_ (jyut3) to _ut_ (jyut6). 【矧】 (syinX) (_conjunction-like_) moreover, let alone"
+"text":"U+77E7 矤 訠 (F1.82 矧) 况也 (Page 18|n61 矧) To stretch; still more, how much more (Kangxi: 况也); ~~to grin wide;~~ _ch'an ut_ (can2 jyut6 矧曰) to say further. Williams' \"to grin wide\": This is a misreading of Kangxi's example 笑不至矧, in which 矧 means \"tooth-base\", not \"grin wide\". Moreover, this sense should be read _ngan_ (ngan4) as it is an alternative form of 齗. Williams' 矧曰: Corrected _ut_ (jyut3) to _ut_ (jyut6). 【矧】 (syinX) (_conjunction-like_) moreover, let alone"
 }
 },
 "紾":{
@@ -1880,7 +1880,7 @@
 "袗":{
 "can2":{
 "isCanonical":true,
-"text":"U+8897 振 zan2 (per 《廣韻》章忍切) (F1.82 袗) 單也衣服也盛服也又畫也 (Page 18|n61 袗) Single thin garments (Kangxi: 單也), black silk worn in summer (Kangxi: 玄服); embroidered garments (Kangxi: 畫衣); _ch'an hi kwik_ (can2 hei1 gwik1 袗絺綌) single grasscloth. 【袗】 (tsyinX, tsyinH) (_noun-like_) unlined-garment"
+"text":"U+8897 振 裖 zan2 (per 《廣韻》章忍切) (F1.82 袗) 單也衣服也盛服也又畫也 (Page 18|n61 袗) Single thin garments (Kangxi: 單也), black silk worn in summer (Kangxi: 玄服); embroidered garments (Kangxi: 畫衣); _ch'an hi kwik_ (can2 hei1 gwik1 袗絺綌) single grasscloth. 【袗】 (tsyinX, tsyinH) (_noun-like_) unlined-garment"
 },
 "zan2":{
 "isCanonical":false,
@@ -1890,7 +1890,7 @@
 "診":{
 "can2":{
 "isCanonical":true,
-"text":"U+8A3A 诊 (Mainland simplified) zan2 (per 《廣韻》章忍切) (F1.82 診) 視也騐也又診脉 (Page 18|n61 診) To examine, to look at (Kangxi: 視也); to try, to verify (Kangxi: 驗也); _ch'an mung_ (can2 mung6 診夢) to interpret a dream; _ch'an mak_ (can2 mak6 診脈) to feel the pulse. 【診】 (tsyinX, drinH) (_verb-like_) to examine"
+"text":"U+8A3A 胗 诊 (Mainland simplified) zan2 (per 《廣韻》章忍切) (F1.82 診) 視也騐也又診脉 (Page 18|n61 診) To examine, to look at (Kangxi: 視也); to try, to verify (Kangxi: 驗也); _ch'an mung_ (can2 mung6 診夢) to interpret a dream; _ch'an mak_ (can2 mak6 診脈) to feel the pulse. 【診】 (tsyinX, drinH) (_verb-like_) to examine"
 }
 },
 "軫":{
@@ -1902,7 +1902,7 @@
 "鬒":{
 "can2":{
 "isCanonical":true,
-"text":"U+9B12 May appear as either ⿱髟眞 or ⿱髟真 (assumed here), depending on the font. zan2 (per 《廣韻》章忍切) (F1.82 鬒) 髮之黑也 (Page 18|n61 鬒) Bushy, black hair (Kangxi: 稠髮也, 黑髮也); a fine head of black hair. 【鬒】 (tsyinX) (_noun-like_) bushy-hair, black-hair"
+"text":"U+9B12 May appear as either ⿱髟眞 or ⿱髟真 (assumed here), depending on the font. 㐱 zan2 (per 《廣韻》章忍切) (F1.82 鬒) 髮之黑也 (Page 18|n61 鬒) Bushy, black hair (Kangxi: 稠髮也, 黑髮也); a fine head of black hair. 【鬒】 (tsyinX) (_noun-like_) bushy-hair, black-hair"
 }
 },
 "櫬":{
@@ -1932,7 +1932,7 @@
 "齔":{
 "can3":{
 "isCanonical":true,
-"text":"U+9F54 龀 (Mainland simplified) (Page 19|n62 齔) To shed the milk teeth, as children do (Kangxi: 毀齒也 etc.); shedding or renewing the teeth."
+"text":"U+9F54 齓 龀 (Mainland simplified) (Page 19|n62 齔) To shed the milk teeth, as children do (Kangxi: 毀齒也 etc.); shedding or renewing the teeth."
 }
 },
 "塵":{
