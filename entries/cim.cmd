@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-08-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -862,6 +862,14 @@ W
         through the Portuguese language.
     ==
   ====
+C
+  ==
+  - Williams' "corrupted from _Sien_ [...]":
+    It is not clear whether the name 暹 for Siam predates
+    the merger of final [m] into [n] in (Ming Dynasty?) Mandarin.
+    In any case, Williams' hypothesis of corruption does not hold
+    if the Portuguese got the word via an [m]-preserving variety of Chinese.
+  ==
 $$
 
 ### 槧3 | _Ts(')(i/)m(3)_ [[cim3]]
