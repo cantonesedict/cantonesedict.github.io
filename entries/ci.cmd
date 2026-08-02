@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-07-21
+* %date-modified --> 2026-08-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -525,6 +525,10 @@ R
   ⾫ + 6
 U
   U+96CC
+A
+  ==
+  - 䳄
+  ==
 F
   ==
   - (F2.34 雌) ::鳥之[母]者曰雌::
@@ -584,6 +588,7 @@ U
   U+9D1F
 A
   ==
+  - 鵄
   - 鸱 (Mainland simplified)
   ==
 F
@@ -917,6 +922,10 @@ R
   ⼥ + 5
 U
   U+59CB
+A
+  ==
+  - 乨
+  ==
 F
   ==
   - (F1.39 始) 初也原也
@@ -1024,6 +1033,7 @@ L
   * 【恥】 (trhiX)
     ==
     - (_noun-like_) shame
+    - (_verb-like_) [to] ashame
     ==
   ====
 $$
@@ -1401,6 +1411,7 @@ U
   U+9F52
 A
   ==
+  - 歯
   - 齿 (Mainland simplified)
   ==
 F
@@ -1542,6 +1553,10 @@ R
   ⼑ + 6
 U
   U+523A
+A
+  ==
+  - $朿3 (for "thorn" sense)
+  ==
 V
   ==
   - cik3 (alternative for "stab" senses)
@@ -1841,6 +1856,9 @@ W
     ==
     -  A thorn, a prickle, a sliver, a sharp slit [[Kangxi: 木芒也]].
     ==
+    --
+    [[Alternative form of 刺 (for the "thorn" sense). See $刺ci3.]]
+    --
   ====
 $$
 
@@ -2070,6 +2088,7 @@ U
   U+86D3
 A
   ==
+  - 蚝
   - $螆3
   ==
 F
@@ -2487,6 +2506,9 @@ W
         [[ci4 oi3 慈愛]]
         loving affection.
     ==
+    --
+    [[Otherwise, an alternative form of 磁. **See $磁ci4 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -2676,6 +2698,7 @@ U
   U+74F7
 A
   ==
+  - 甆
   - $磁4
   ==
 F
@@ -2739,7 +2762,9 @@ U
   U+78C1
 A
   ==
+  - $慈4
   - {𥔵=⿰石茲}
+  - 礠
   ==
 F
   ==
@@ -2749,7 +2774,7 @@ W
   ====
   - [[Page~615 (4)磁]]
     ==
-    - The loadstone [[Kangxi: 石名可以引鍼]];
+    - The loadstone [[Kangxi: 本作礠省从兹, 石名可以引鍼]];
     - [[...]];
     - _(4)ts(')z' shek(9)_
         [[ci4 sek6 磁石]]
@@ -2820,6 +2845,12 @@ R
   ⽵ + 10
 U
   U+7BEA
+A
+  ==
+  - 竾
+  - 筂
+  - 䶵
+  ==
 F
   ==
   - (F1.38 篪) 塤篪又樂器
@@ -2895,6 +2926,7 @@ U
   U+81CD
 A
   ==
+  - 齊
   - 脐 (Mainland simplified)
   ==
 F
@@ -3032,6 +3064,7 @@ U
   U+8A5E
 A
   ==
+  - 䛐
   - $辭4
   - 词 (Mainland simplified)
   ==
@@ -3328,6 +3361,7 @@ A
   ==
   - $粢4
   - $糍4
+  - 䭣
   ==
 F
   ==
@@ -3374,6 +3408,7 @@ U
   U+99B3
 A
   ==
+  - 䮈
   - 驰 (Mainland simplified)
   ==
 F
@@ -3492,6 +3527,10 @@ R
   ⼈ + 5
 U
   U+4F3C
+A
+  ==
+  - 佀
+  ==
 V
   ==
   - ci5-2 (rising second in vernacular 似似地)
@@ -3577,6 +3616,10 @@ R
   ⼥ + 5
 U
   U+59D2
+A
+  ==
+  - 㚶
+  ==
 F
   ==
   - (F2.35 姒) 兄弟之妻相謂曰姒又文王之妃曰太姒
@@ -3603,6 +3646,10 @@ R
   ⽊ + 5
 U
   U+67FF
+A
+  ==
+  - 柹
+  ==
 V
   ==
   - ci4 (per Fan Wan)
@@ -3658,6 +3705,10 @@ R
   ⽔ + 3
 U
   U+6C5C
+A
+  ==
+  - 洍
+  ==
 F
   [[Not present]]
 W
