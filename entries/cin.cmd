@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,6 +151,11 @@ R
   ⾋ + 3
 U
   U+828A
+A
+  ==
+  - 仟
+  - $阡1
+  ==
 F
   ==
   - (F1.19 芊) 草盛貌
@@ -233,6 +238,7 @@ H
   depending on the font.
 A
   ==
+  - 拪
   - $迁1
   ==
 F
@@ -295,6 +301,9 @@ W
     - A road going north and south [[Kangxi: 路南北爲阡]];
     - a cross-way through a field, a path to a grave [[Kangxi: 墓道也]].
     ==
+    --
+    [[Otherwise, an alternative form of 芊. **See $芊cin1 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -526,6 +535,10 @@ R
   ⼑ + 7
 U
   U+524D
+A
+  ==
+  - 歬
+  ==
 F
   ==
   - (F1.21 前) 前後
