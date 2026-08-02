@@ -46,6 +46,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $仟1
 - $千1
 - $芊1
 - ($躚1)
@@ -57,6 +58,26 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
+###+ 仟1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⼈ + 3
+U
+  U+4EDF
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A captain of a thousand men (Kangxi: 千人之長曰仟).
+  1. Alternative form of 千 (anti-alteration). **See $千cin1 for the canonical entry.**
+  1. Alternative form of 芊. **See $芊cin1 for the canonical entry.**
+  1. Alternative form of 阡. **See $阡cin1 for the canonical entry.**
+  ++
+$$
+
 ### 千1 | _(1)Ts(')(i/)n_ [[cin1]]
 
 $$
@@ -66,7 +87,7 @@ U
   U+5343
 A
   ==
-  - 仟 (anti-alteration)
+  - $仟1 (anti-alteration)
   ==
 F
   ==
@@ -153,7 +174,7 @@ U
   U+828A
 A
   ==
-  - 仟
+  - $仟1
   - $阡1
   ==
 F
@@ -290,6 +311,10 @@ R
   ⾩ + 3
 U
   U+9621
+A
+  ==
+  - $仟1
+  ==
 F
   ==
   - (F1.19 阡) 田基也南北曰阡東西曰陌

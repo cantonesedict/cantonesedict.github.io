@@ -3799,6 +3799,12 @@
 "text":"U+6F5C (Page 572 潛潜)"
 }
 },
+"仟":{
+"cin1":{
+"isCanonical":true,
+"text":"U+4EDF A captain of a thousand men (Kangxi: 千人之長曰仟)."
+}
+},
 "千":{
 "cin1":{
 "isCanonical":true,
@@ -3832,7 +3838,7 @@
 "阡":{
 "cin1":{
 "isCanonical":true,
-"text":"U+9621 (F1.19 阡) 田基也南北曰阡東西曰陌 (Page 574 阡) A road going north and south (Kangxi: 路南北爲阡); a cross-way through a field, a path to a grave (Kangxi: 墓道也)."
+"text":"U+9621 仟 (F1.19 阡) 田基也南北曰阡東西曰陌 (Page 574 阡) A road going north and south (Kangxi: 路南北爲阡); a cross-way through a field, a path to a grave (Kangxi: 墓道也)."
 }
 },
 "韆":{
