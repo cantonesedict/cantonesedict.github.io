@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -720,6 +720,11 @@ R
   ⾚ + 0
 U
   U+8D64
+A
+  ==
+  - 灻
+  - 烾
+  ==
 V
   ==
   - cek3 (alternative)
