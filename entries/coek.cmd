@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -125,6 +125,11 @@ R
   ⼗ + 6
 U
   U+5353
+A
+  ==
+  - 㔬
+  - $桌3
+  ==
 V
   ==
   - zoek3 (per initial of 《廣韻》竹角切)
@@ -158,6 +163,9 @@ W
         [[coek3 ji6 卓異]]
         meritorious, said of officers at the quinqennial trial.
     ==
+    --
+    [[Otherwise, an alternative form of 桌. **See $桌coek3 for the canonical entry.**]]
+    --
   ====
 P
   ++
@@ -208,7 +216,9 @@ U
   U+684C
 A
   ==
+  - $卓3
   - $棹3
+  - 槕
   ==
 V
   ==
@@ -230,6 +240,9 @@ W
         [[ji2 coek3 椅桌]];
         tables and chairs.
     ==
+    --
+    [[Otherwise, an alternative form of 卓. **See $卓coek3 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -367,6 +380,7 @@ U
   U+7DBD
 A
   ==
+  - 繛
   - 绰 (Mainland simplified)
   ==
 F
