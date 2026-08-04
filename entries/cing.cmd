@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -272,6 +272,7 @@ U
 A
   ==
   - $秤1 (for "weigh" sense)
+  - 穪
   - 称 (Mainland simplified)
   ==
 F
@@ -466,6 +467,8 @@ U
   U+8D6C
 A
   ==
+  - 緽
+  - 頳
   - 䞓
   - 赪 (Mainland simplified)
   ==
@@ -681,6 +684,11 @@ R
   ⼿ + 6
 U
   U+62EF
+A
+  ==
+  - 丞
+  - 抍
+  ==
 V
   ==
   - zing2 (per 《廣韻》蒸上聲)
@@ -1042,6 +1050,7 @@ U
   U+7A31
 A
   ==
+  - 穪
   - 称 (Mainland simplified)
   ==
 F
@@ -1324,6 +1333,7 @@ U
   U+61F2
 A
   ==
+  - 徵
   - 惩
   ==
 F
@@ -1369,6 +1379,12 @@ U
 H
   May appear as either ⿰日靑 or ⿰日青 (assumed here),
   depending on the font.
+A
+  ==
+  - 夝
+  - 甠
+  - 暒
+  ==
 F
   ==
   - (F1.71 晴) 雲收雨止而日出也
