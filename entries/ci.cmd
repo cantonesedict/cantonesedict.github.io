@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-08-02
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1776,7 +1776,7 @@ W
     - To cleanse, to wash [[Kangxi 廁: 廁淸也]];
     - a place which must be kept clean [[Kangxi 廁: ::[...]至穢之處宜常修治使潔淸也::]];
     - a privy, a necessary [[Kangxi 廁: 或曰溷, 或曰圊]];
-    - in order, to put in proper places, as guests [[Kangxi 廁: 閒也次也]];
+    - ~~in order, to put in proper places, as guests~~ ``to put amongst, to mingle`` [[Kangxi 廁: 閒也次也]];
     - a gorge, where a stream forces its way [[Kangxi 廁: 高岸夾水曰廁]];
     - _ts(')z'(3) (1)h(a/)ng_ [[ci3 haang1 廁坑]]^
         or
@@ -1787,6 +1787,10 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _ch(')(i/)(3)_ per 《廣韻》初吏切.
+  - Williams' "[...] to put in proper places, as guests":
+    This is a misreading of Kangxi's example 《史記樂毅傳》廁之賔客之中.
+    Here, it is not the guests who are being put in place;
+    rather, someone is being placed *amongst* the guests.
   ==
 $$
 
