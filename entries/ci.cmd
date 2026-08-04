@@ -1787,6 +1787,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _ch(')(i/)(3)_ per 《廣韻》初吏切.
+  - Williams' "privy", "necessary": That is, a toilet.
   - Williams' "[...] to put in proper places, as guests":
     This is a misreading of Kangxi's example 《史記樂毅傳》廁之賔客之中.
     Here, it is not the guests who are being put in place;
