@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -302,7 +302,10 @@ U
   U+936C
 A
   ==
+  - 喿
+  - 橾
   - $鍫1
+  - 鐰
   - 锹 (Mainland simplified)
   ==
 F
@@ -520,6 +523,10 @@ R
   ⼭ + 7
 U
   U+5CED
+A
+  ==
+  - 陗
+  ==
 F
   ==
   - (F2.5 峭 _(2)Ts(')i(u/)_ (ciu2)) ::[陖]也險也::
@@ -681,6 +688,11 @@ R
   ⾰ + 7
 U
   U+9798
+A
+  ==
+  - 削
+  - 韒
+  ==
 F
   ==
   - (F2.5 鞘 _(2)Ts(')i(u/)_ (ciu2)) 刀劍殿
@@ -727,6 +739,11 @@ R
   ⼼ + 12
 U
   U+6194
+A
+  ==
+  - 䩌
+  - 顦
+  ==
 F
   ==
   - (F2.5 ::[憔]::) ::[憔]悴？苦貌::
