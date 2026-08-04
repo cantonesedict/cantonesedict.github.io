@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-02
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -6918,6 +6918,7 @@ window.onload = applyFilter;
     , [妾](/entries/cip#rendering-妾)
     ,
       ==
+      - (_noun-like_) slave-woman, slave-girl
       - (_noun-like_) concubine
       ==
   //

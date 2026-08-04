@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cip
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -84,10 +84,15 @@ W
         my young concubine.
     ==
   ====
+P
+  ++
+  1. A woman or girl in servitude.
+  ++
 L
   ====
   * 【妾】 (tshjep)
     ==
+    - (_noun-like_) slave-woman, slave-girl
     - (_noun-like_) concubine
     ==
   ====
