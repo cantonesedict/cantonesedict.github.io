@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -267,6 +267,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
   depending on the font.
+A
+  ==
+  - 勶
+  ==
 F
   ==
   - (F1.26 撤) 抽除也握也
