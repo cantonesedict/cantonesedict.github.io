@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -192,11 +192,15 @@ C
     ==
   - Williams' 處決: Changed _k(u:)t(8)_ (gyut3) to common reading _k(')(u:)t(8)_ (kyut3).
   ====
+P
+  ++
+  1. (_adjective_) Virgin.
+  ++
 L
   ====
   * 【處-rising】 (tsyhoX)
     ==
-    - (_verb-like_) [to] reside, [to] stay
+    - (_verb-like_) [to] reside, [to] stay, (_met._) ^virgin
     - (_verb-like_) [to] place
     ==
   ====

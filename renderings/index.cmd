@@ -9628,7 +9628,7 @@ window.onload = applyFilter;
     , [處~(rising)](/entries/cyu#rendering-處-rising)
     ,
       ==
-      - (_verb-like_) [to] reside, [to] stay
+      - (_verb-like_) [to] reside, [to] stay, (_met._) ^virgin
       - (_verb-like_) [to] place
       ==
   //
