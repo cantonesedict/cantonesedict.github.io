@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -570,8 +570,12 @@ H
   depending on the font.
 A
   ==
+  - 囪
+  - 囱
+  - 牎
   - $牕1
   - $窓1
+  - 䆫
   - $窻1
   ==
 F
@@ -689,7 +693,7 @@ A
   ==
 F
   ==
-  - (F1.90 ⿰巾昌) 披衣不帶曰{𢃑=⿰巾昌}
+  - (F1.90 {𢃑=⿰巾昌}) 披衣不帶曰{𢃑=⿰巾昌}
   ==
 W
   ====
@@ -980,6 +984,7 @@ U
   U+6436
 A
   ==
+  - 摤
   - 抢 (Mainland simplified)
   ==
 F
@@ -1212,6 +1217,7 @@ A
   ==
   - $唱3 (for Cantonese cash-breaking sense)
   - $昶3
+  - 畼
   - $鬯3
   - 畅 (Mainland simplified)
   ==
@@ -1421,6 +1427,7 @@ $$
 - $檣4
 - $牆4
 - $祥4
+- ($羊4)
 - $翔4
 - $腸4
 - $萇4
@@ -1688,6 +1695,7 @@ U
   U+6AA3
 A
   ==
+  - 艢
   - 樯 (Mainland simplified)
   ==
 F
@@ -1716,6 +1724,7 @@ U
 A
   ==
   - $墻4
+  - 廧
   - 墙 (Mainland simplified)
   ==
 F
@@ -1771,6 +1780,10 @@ R
   ⽰ + 6
 U
   U+7965
+A
+  ==
+  - $羊4
+  ==
 F
   ==
   - (F1.91 祥) 祥瑞言祥禍也善也又喪服有大祥小祥謂除凶從吉也
@@ -1815,6 +1828,27 @@ L
     - (_noun-like_) auspice
     ==
   ====
+$$
+
+###+ 羊4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$.
+R
+  ⽺ + 0
+U
+  U+7F8A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 祥. **See $祥coeng4 for the canonical entry.**
+  ++
+S
+  ==
+  - $羊joeng4 (TODO)
+  ==
 $$
 
 ### 翔4 | _(4)Ts(')(e/)ung_ [[coeng4]]
@@ -2083,6 +2117,9 @@ U
   U+9577
 A
   ==
+  - 仧
+  - 兏
+  - 镸
   - 长 (Mainland simplified)
   ==
 V

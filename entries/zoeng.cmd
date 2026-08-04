@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-07-21
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1018,6 +1018,9 @@ U
   U+9577
 A
   ==
+  - 仧
+  - 兏
+  - 镸
   - 长 (Mainland simplified)
   ==
 F
