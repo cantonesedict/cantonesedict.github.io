@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -742,7 +742,7 @@ C
 P
   ++
   1. Implicatory collective punishment (Kangxi: 《律》有罪坐).
-  1. A defence lawyer(?) (Kangxi: 罪人對理曰坐).
+  1. A defence lawyer or cross-examination(?) (Kangxi: 罪人對理曰坐).
   ++
 L
   ====
