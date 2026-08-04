@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -222,6 +222,10 @@ R
   ⼭ + 10
 U
   U+5D6F
+A
+  ==
+  - 嵳
+  ==
 V
   ==
   - co4 (per 《廣韻》昨何切)
@@ -446,7 +450,8 @@ U
   U+82BB
 A
   ==
-  - 刍 (Mainland simplified)
+  - 刍
+  - 蒭
   ==
 F
   ==
@@ -509,7 +514,8 @@ U
   U+96DB
 A
   ==
-  - 雏 (Mainland simplified)
+  - 雏
+  - 鶵
   ==
 V
   ==
@@ -588,6 +594,8 @@ U
 A
   ==
   - $憷2 (for "pain/suffering" senses)
+  - 椘
+  - 䠂
   ==
 F
   ==
