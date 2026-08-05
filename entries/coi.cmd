@@ -547,6 +547,10 @@ R
   ⾋ + 8
 U
   U+83DC
+A
+  ==
+  - $采3
+  ==
 F
   ==
   - (F2.45 菜) 蔬菜
@@ -727,6 +731,7 @@ W
 P
   ++
   1. Alternative form of 埰. **See $埰coi3 for the canonical entry.**
+  1. Alternative form of 菜. **See $菜coi3 for the canonical entry.**
   ++
 S
   ==
