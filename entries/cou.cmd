@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-07-25
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,6 +59,10 @@ R
   ⼿ + 13
 U
   U+64CD
+A
+  ==
+  - 撡
+  ==
 F
   ==
   - (F2.9 操 _(1)Ts(')(u/)_) 操持
@@ -121,6 +125,9 @@ U
   U+7C97
 A
   ==
+  - 觕
+  - 麁
+  - 麄
   - $麤1
   ==
 F
@@ -202,6 +209,11 @@ R
   ⿅ + 22
 U
   U+9EA4
+A
+  ==
+  - 麁
+  - 麄
+  ==
 F
   ==
   - (F2.9 粗 _(1)Ts(')(u/)_) 不精也臭惡也
@@ -582,6 +594,10 @@ R
   ⼿ + 13
 U
   U+64CD
+A
+  ==
+  - 撡
+  ==
 V
   ==
   - cou1 (common)
@@ -836,6 +852,10 @@ U
 H
   May appear as either ⿺辶吿 or ⿺辶告 (assumed here),
   depending on the font.
+A
+  ==
+  - 艁
+  ==
 F
   ==
   - (F2.16 造 _Ts(')(u/)(3)_) ::至也[詣]也進也又造次::
@@ -1130,6 +1150,10 @@ R
   ⽈ + 7
 U
   U+66F9
+A
+  ==
+  - {𣍘=⿱㯥曰}
+  ==
 F
   ==
   - (F2.12 曹 _(4)Ts(')(u/)_) 局也衆也軰也又同事曰曹
