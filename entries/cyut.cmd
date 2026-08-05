@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -58,6 +58,10 @@ R
   ⼗ + 6
 U
   U+5352
+A
+  ==
+  - 䘚
+  ==
 F
   ==
   - (F2.24 卒) ::急也[速]也::
