@@ -1824,6 +1824,10 @@ A
   ==
   - $虫4
   ==
+V
+  ==
+  - cung4-2 (vernacular rising-tone noun in 蠶蟲)
+  ==
 F
   ==
   - (F1.60 虫) 虫蟻
