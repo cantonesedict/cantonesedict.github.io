@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -267,6 +267,9 @@ W
         [[coi2 faa1 採花]],
         to gather flowers.
     ==
+    --
+    [[Otherwise, an alternative form of 睬. **See $睬coi2 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -314,6 +317,11 @@ R
   ⽬ + 8
 U
   U+776C
+A
+  ==
+  - 倸
+  - $採2
+  ==
 F
   [[Not present]]
 W
