@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1217,6 +1217,7 @@ A
   ==
   - $唱3 (for Cantonese cash-breaking sense)
   - $昶3
+  - 㫤
   - 畼
   - $鬯3
   - 畅 (Mainland simplified)

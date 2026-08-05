@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,6 +70,7 @@ U
   U+5009
 A
   ==
+  - 仺
   - $蒼1 (in 倉皇 spelt 蒼黃)
   - 仓 (Mainland simplified)
   ==
@@ -160,6 +161,9 @@ U
 A
   ==
   - $刅1
+  - 刱
+  - 剏
+  - 剙
   - 戧
   - 创 (Mainland simplified)
   ==
@@ -657,6 +661,7 @@ W
   ====
 C
   ==
+  - In modern usage, "factory".
   - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
   - Williams' 嗰間屋好廠: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2)
     and corrected _(4)^k(a/)n_ (gaan4) to _(1)k(a/)n_ (gaan1).
@@ -672,7 +677,9 @@ U
   U+60DD
 A
   ==
+  - 㒉
   - ${𢠵=⿰忄敞}2
+  - 戃
   ==
 V
   ==
@@ -762,6 +769,10 @@ R
   ⽇ + 5
 U
   U+6636
+A
+  ==
+  - 㫤
+  ==
 F
   ==
   - (F1.98 昶) 日長也明也通也舒也
@@ -877,6 +888,8 @@ U
 A
   ==
   - $刱3
+  - 剏
+  - 剙
   - 创 (Mainland simplified)
   ==
 F
@@ -1056,6 +1069,7 @@ U
 A
   ==
   - $床4
+  - 爿
   ==
 F
   ==
@@ -1142,6 +1156,7 @@ U
   U+85CF
 A
   ==
+  - 匨
   - $臧4
   ==
 F

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,6 +301,10 @@ R
   ⾂ + 8
 U
   U+81E7
+A
+  ==
+  - 匨
+  ==
 F
   ==
   - (F1.95 臧) ::善也厚也又奴婢曰臧[獲]::
