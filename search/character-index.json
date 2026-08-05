@@ -4875,12 +4875,16 @@
 "coi2":{
 "isCanonical":true,
 "text":"U+91C7 (F2.44 采) 文采又采取 (Page 590 采) To be distinguished from 釆 _pin_ (bin6) to divide. To pluck, to choose, to take with the hand (Kangxi: 捋取也, 擇也); variegated, adorned with colors (Kangxi: 采色, 物采); cities allotted to officers for revenue (Kangxi: 采地); in these senses the three next (採, 寀, 彩) are used; ~~a business, an employment;~~ _ts'oi yap_ (coi2 jap1 采邑) territory set apart for the support of grandees, an ancient usage; _nap ts'oi_ (naap6 coi2 納采), to choose and send the betrothal presents. Williams' 采邑: Corrected _yap_ (jap6) to _yap_ (jap1). See commentary at 埰 coi3 on the reading of 采."
+},
+"coi3":{
+"isCanonical":false,
+"text":"U+91C7"
 }
 },
 "埰":{
 "coi3":{
 "isCanonical":true,
-"text":"U+57F0 采 coi2 (per 《集韻》此宰切 for \"mound\" sense and alternative per Kangxi 倉宰切 for \"fief\" sense spelt 采) Note that the \"fief\" sense spelt 采 is recorded in Kangxi under *both* rising _ts'oi_ (coi2) and departing _ts'oi_ (coi3): 《康熙字典》采 《唐韻》倉宰切《集韻》《韻會》此宰切𠀤音採...又采地《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原...又《韻會》《正韻》𠀤倉代切音菜臣食邑《周禮天官八則註》公卿大夫采邑音菜《孟子元士受地視子男註》所受采地之制音菜《前漢食貨志註》采官也因官食地故曰采地... The confusion stems from the fact that 采 is used for both: Rising-tone 寀 _ts'oi_ (coi2) \"fief-holder\" (see 寀 coi2); and Departing-tone 埰 _ts'oi_ (coi3) \"fief\". As a result, the term 采地 can be interpreted as either \"fief-holder's land\" (采 rising) or \"fief-land\" (采 departing). A fief (Kangxi: 采地也). A mound (Kangxi: 冢或謂之埰)."
+"text":"U+57F0 采 coi2 (per 《集韻》此宰切 for \"mound\" sense and alternative per Kangxi 倉宰切 for \"fief\" sense spelt 采) Note that \"fief\" spelt 采 is recorded in Kangxi under *both* rising _ts'oi_ (coi2) and departing _ts'oi_ (coi3): 《康熙字典》采 《唐韻》倉宰切《集韻》《韻會》此宰切𠀤音採...又采地《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原...又《韻會》《正韻》𠀤倉代切音菜臣食邑《周禮天官八則註》公卿大夫采邑音菜《孟子元士受地視子男註》所受采地之制音菜《前漢食貨志註》采官也因官食地故曰采地... The confusion stems from the fact that 采 is used for both: Rising-tone 寀 _ts'oi_ (coi2) \"fief-holder\" (see 寀 coi2); and Departing-tone 埰 _ts'oi_ (coi3) \"fief\". As a result, the term 采地 can be interpreted as either \"fief-holder's land\" (采 rising) or \"fief-land\" (采 departing). A fief (Kangxi: 采地也). A mound (Kangxi: 冢或謂之埰)."
 }
 },
 "塞":{

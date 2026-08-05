@@ -432,6 +432,10 @@ C
   - Williams' 采邑: Corrected _yap(9)_ (jap6) to _yap(7)_ (jap1).
     See commentary at $埰coi3 on the reading of 采.
   ==
+S
+  ==
+  - ($采coi3)
+  ==
 $$
 
 
@@ -445,6 +449,7 @@ $$
 - $菜3
 - $蔡3
 - $賽3
+- ($采3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -458,7 +463,7 @@ U
   U+57F0
 A
   ==
-  - 采
+  - $采3
   ==
 V
   ==
@@ -470,7 +475,7 @@ W
   [[Not present]]
 C
   ====
-  - Note that the "fief" sense spelt 采 is recorded in Kangxi
+  - Note that "fief" spelt 采 is recorded in Kangxi
     under *both* rising _(2)ts(')oi_ (coi2)
     and departing _ts(')oi(3)_ (coi3):
     """"
@@ -705,6 +710,27 @@ W
 C
   ==
   - Williams' "to announce": This is a misreading of 報 in Kangxi 今俗報祭曰賽神.
+  ==
+$$
+
+###+ 采3 | _Ts(')oi(3)_ [[coi3]]
+
+$$.
+R
+  ⾤ + 1
+U
+  U+91C7
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 埰. **See $埰coi3 for the canonical entry.**
+  ++
+S
+  ==
+  - $采coi2
   ==
 $$
 
