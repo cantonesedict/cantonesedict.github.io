@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-07-25
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1365,6 +1365,12 @@ R
   ⼱ + 3
 U
   U+5E06
+A
+  ==
+  - 㠶
+  - 䑺
+  - 颿
+  ==
 V
   ==
   - faan6 (per 《廣韻》扶泛切 for verb sense)
