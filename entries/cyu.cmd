@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -529,6 +529,10 @@ U
 H
   May appear with 者 dotless (+12 assumed here) or dotted (+13),
   depending on the font.
+A
+  ==
+  - 䠧
+  ==
 V
   ==
   - ceoi4 (uncommon)
@@ -824,6 +828,10 @@ R
   ⽊ + 4
 U
   U+677C
+A
+  ==
+  - 䇡
+  ==
 F
   ==
   - (F1.47 杼) ::杼[柚機]之緯也::
@@ -913,6 +921,10 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+A
+  ==
+  - 柠
+  ==
 V
   ==
   - cyu2 (per 《廣韻》丑吕切)
