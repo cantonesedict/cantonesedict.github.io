@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2026-07-16
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> 2024--
 * %meta-description --> Cantonese phonology
 
@@ -574,11 +574,9 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-am} am
     , [__um__ as in s__um__],
       in a general Australian accent,
-    , Also pronounced [om] in vernacular
-        噉 (gam2) "like so",
-        咁 (gam3) "so/that",
-        泵 (bam1) "pump",
-        etc.
+    , Conservatively pronounced [om] in vernacular
+      噉 (gam2) "like so" and 咁 (gam3) "so/that".
+      Also heard as [om] in 泵 (bam1) "pump" etc.
   //
     , 真
     , [ɐn]
