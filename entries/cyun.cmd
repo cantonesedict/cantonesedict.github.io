@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -160,6 +160,11 @@ R
   ⽳ + 4
 U
   U+7A7F
+A
+  ==
+  - 䆤
+  - 䆥
+  ==
 V
   ==
   - cyun3 (per 《廣韻》尺絹切 for "thorough" sense)
@@ -517,6 +522,7 @@ U
   U+821B
 A
   ==
+  - 僢
   - $踳2
   ==
 F
@@ -845,6 +851,7 @@ H
   depending on the font.
 A
   ==
+  - 熶
   - 㸑
   ==
 V
@@ -1101,6 +1108,10 @@ R
   ⼊ + 4
 U
   U+5168
+A
+  ==
+  - 㒰
+  ==
 F
   ==
   - (F2.21 全) ::完[備]也::
@@ -1303,6 +1314,10 @@ R
   ⽊ + 19
 U
   U+6B11
+A
+  ==
+  - 櫕
+  ==
 F
   [[Not present]]
 W
@@ -1334,6 +1349,10 @@ R
   ⽔ + 5
 U
   U+6CC9
+A
+  ==
+  - 湶
+  ==
 F
   ==
   - (F2.21 泉) 源泉有源之水也
