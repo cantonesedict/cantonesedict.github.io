@@ -144,6 +144,11 @@ W
         officers exercising jurisdiction over the same circuit [[Kangxi: 寀寮官也, 官地爲寀同官爲寮]].
     ==
   ====
+C
+  ==
+  - Strictly speaking, 寀 refers to the fief-*holder*,
+    rather than the fief itself. See commentary at $埰coi3.
+  ==
 $$
 
 ### 彩2 | _(2)Ts(')oi_ [[coi2]]
@@ -392,14 +397,6 @@ R
   ⾤ + 1
 U
   U+91C7
-A
-  ==
-  - 埰 (for "fief" sense)
-  ==
-V
-  ==
-  - coi3 (alternative for "fief" sense)
-  ==
 F
   ==
   - (F2.44 采) 文采又采取
@@ -415,7 +412,7 @@ W
     - variegated, adorned with colors [[Kangxi: 采色, 物采]];
     - cities allotted to officers for revenue [[Kangxi: 采地]];
     - in these senses the three next [[採, 寀, 彩]] are used;
-    - a business, an employment;
+    - ~~a business, an employment;~~
     - _(2)ts(')oi ~~yap(9)~~ ``yap(7)``_
         [[coi2 jap1 采邑]]
         territory set apart for the support of grandees, an ancient usage;
@@ -426,23 +423,14 @@ W
     --
     [[Alternative form of 寀, 彩, and 採. See $寀coi2, $彩coi2, and $採coi2.]]
     --
+    --
+    [[Otherwise, an alternative form of 埰, and reading variation. **See $埰coi3 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Note that the "fief" sense is recorded in Kangxi
-    under *both* rising _(2)ts(')oi_ (coi2) and departing _ts(')oi(3)_ (coi3):
-    """"
-    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切{𠀤=⿱夶一}音採:)[...]^\
-    (:又采地:)《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原[...]^\
-    (:又:)《韻會》《正韻》(:{𠀤=⿱夶一}倉代切音菜臣食邑:)\
-    《周禮天官八則註》公卿大夫采邑音菜\
-    《孟子元士受地視子男註》所受采地之制音菜\
-    《前漢食貨志註》采官也因官食地故曰采地[...]::
-    """"
-    Prescription of the departing-tone reading _ts(')oi(3)_ (coi3)
-    is a result of zealously following 《廣韻》,
-    which only has the departing reading 倉代切 for the alternative form 埰.
   - Williams' 采邑: Corrected _yap(9)_ (jap6) to _yap(7)_ (jap1).
+    See commentary at $埰coi3 on the reading of 采.
   ==
 $$
 
@@ -452,6 +440,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $埰3
 - $塞3
 - $菜3
 - $蔡3
@@ -459,6 +448,55 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 埰3 | _Ts(')oi(3)_ [[coi3]]
+
+$$
+R
+  ⼟ + 8
+U
+  U+57F0
+A
+  ==
+  - 采
+  ==
+V
+  ==
+  - coi2 (per 《集韻》此宰切 for "mound" sense and alternative per Kangxi 倉宰切 for "fief" sense spelt 采)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ====
+  - Note that the "fief" sense spelt 采 is recorded in Kangxi
+    under *both* rising _(2)ts(')oi_ (coi2)
+    and departing _ts(')oi(3)_ (coi3):
+    """"
+    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切{𠀤=⿱夶一}音採:)[...]^\
+    (:又采地:)《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原[...]^\
+    (:又:)《韻會》《正韻》(:{𠀤=⿱夶一}倉代切音菜臣食邑:)\
+    《周禮天官八則註》公卿大夫采邑音菜\
+    《孟子元士受地視子男註》所受采地之制音菜\
+    《前漢食貨志註》采官也因官食地故曰采地[...]::
+    """"
+  - The confusion stems from the fact that 采 is used for both:
+    ==
+    - Rising-tone 寀 _(2)ts(')oi_ (coi2) "fief-holder" (see $寀coi2);
+      and
+    - Departing-tone 埰 _ts(')oi(3)_ (coi3) "fief".
+    ==
+    As a result, the term 采地 can be interpreted as
+    either "fief-holder's land" (采 rising)
+    or "fief-land" (采 departing).
+  ====
+P
+  ++
+  1. A fief (Kangxi: 采地也).
+  1. A mound (Kangxi: 冢或謂之埰).
+  ++
+$$
 
 ### 塞3 | _Ts(')oi(3)_ [[coi3]]
 
