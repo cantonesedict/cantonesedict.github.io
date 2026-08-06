@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -305,6 +305,10 @@ R
   ⾬ + 8
 U
   U+970F
+A
+  ==
+  - 䬠
+  ==
 F
   ==
   - (F1.35 霏) 雨雪之貌
