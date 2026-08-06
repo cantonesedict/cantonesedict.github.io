@@ -2380,6 +2380,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $副3
+- $咐3
 - $富3
 - $庫3
 - $戽3
@@ -2462,6 +2463,33 @@ S
   ==
   - $副pik1 (TODO)
   ==
+$$
+
+###+ 咐3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+5490
+A
+  ==
+  - 付
+  ==
+V
+  ==
+  - fu6 (per Fan Wan)
+  ==
+F
+  ==
+  - (F2.17 付 _F(u/)(6)_ (fu6)) ::[畀]也授也又分付::
+  ==
+W
+  [[Not present]]
+P
+  ++
+  1. Used in 吩咐, 囑咐 (to bid, to direct, to give instructions).
+  ++
 $$
 
 ### 富3 | _F(u/)(3)_ [[fu3]]
@@ -3501,6 +3529,9 @@ W
     ==
     --
     [[Otherwise, an alternative form of 祔. **See $祔fu6 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 咐, and reading variation. **See $咐fu3 for the canonical entry.**]]
     --
   ====
 C

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ W
   ====
 C
   ==
-  - Williams' 囑咐: Changed _f(u/)(6)_ (fu6) to common reading _f(u/)(3)_ (fu3).
+  - Williams' 囑咐: Normalised _f(u/)(6)_ (fu6) to _f(u/)(3)_ (fu3).
   ==
 $$
 
