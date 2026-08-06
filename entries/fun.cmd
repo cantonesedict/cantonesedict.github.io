@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fun
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -48,6 +48,7 @@ $$
 - ($懽1)
 - $歡1
 - ($獾1)
+- $讙1
 - $貛1
 ==
 </nav>
@@ -192,6 +193,7 @@ A
   ==
   - $懽1
   - 欢
+  - $讙1
   - 驩
   ==
 F
@@ -254,6 +256,35 @@ P
   ++
   1. Alternative form of 貛. **See $貛fun1 for the canonical entry.**
   ++
+$$
+
+###+ 讙1 | _(1)F(u/)n_ [[fun1]]
+
+$$
+R
+  ⾔ + 18
+U
+  U+8B99
+V
+  ==
+  - hyun1 (alternative per ::《廣韻》況[袁]切::)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To clamour (Kangxi: 譁也, 鳴也, 諠也).
+  1. Alternative form of 歡. **See $歡fun1 for the canonical entry.**
+  ++
+L
+  ====
+  * 【讙】 (xwan, xjwon)
+    ==
+    - (_verb-like_) [to] clamour
+    ==
+  ====
 $$
 
 ### 貛1 | _(1)F(u/)n_ [[fun1]]
