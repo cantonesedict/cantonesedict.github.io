@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,6 +83,7 @@ U
   U+7C2A
 A
   ==
+  - 兂
   - $篸1
   ==
 F
@@ -307,6 +308,10 @@ R
   ⽔ + 9
 U
   U+6E5B
+A
+  ==
+  - 㴴
+  ==
 V
   ==
   - zaam6 (per Kangxi 宅減切 for non-surname senses and 丈陷切 for surname sense)
@@ -438,6 +443,7 @@ U
   U+66AB
 A
   ==
+  - 蹔
   - 暂 (Mainland simplified)
   ==
 F
