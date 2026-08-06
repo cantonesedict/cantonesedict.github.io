@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-07-29
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -109,6 +109,8 @@ U
 A
   ==
   - $斋1
+  - 㪰
+  - 䬩
   - $齊1
   ==
 F
