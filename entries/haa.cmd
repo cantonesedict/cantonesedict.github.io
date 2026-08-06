@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -606,6 +606,7 @@ U
   U+9050
 A
   ==
+  - 徦
   - $瑕4
   - $霞4
   ==
@@ -1012,6 +1013,10 @@ R
   ⼢ + 7
 U
   U+590F
+A
+  ==
+  - 昰
+  ==
 F
   ==
   - (F2.76 夏) ::春夏又[大]也::
