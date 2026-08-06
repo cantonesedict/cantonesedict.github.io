@@ -147,6 +147,9 @@ W
     --
     [[Otherwise, an alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 吩 (in 吩咐 spelt 分付). **See $吩fan1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -297,6 +300,10 @@ R
   ⼝ + 4
 U
   U+5429
+A
+  ==
+  - $分1 (in 吩咐 spelt 分付)
+  ==
 F
   ==
   - (F1.80 吩) 吩咐
