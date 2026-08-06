@@ -46,6 +46,7 @@ $$
 =={.modern}
 - $劄3
 - $匝3
+- ($帀3)
 - $眨3
 - $砸3
 - ($箚3)
@@ -121,7 +122,7 @@ U
   U+531D
 A
   ==
-  - 帀
+  - $帀3
   - 迊
   ==
 V
@@ -188,6 +189,23 @@ S
   ==
   - $匝saap3 (TODO)
   ==
+$$
+
+###+ 帀3 | _Ts(a/)p(8)_ [[zaap3]]
+
+$$.
+R
+  ⼱ + 1
+U
+  U+5E00
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 匝. **See $匝zaap3 for the canonical entry.**
+  ++
 $$
 
 ###+ 眨3 | _Ch(a/)p(8)_ [[zaap3]]
