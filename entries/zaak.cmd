@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -102,11 +102,12 @@ U
   U+5616
 A
   ==
+  - 謮
   - 啧 (Mainland simplified)
   ==
 V
   ==
-  - zaak6 (per 《廣韻》士革切 for "cry-out" sense)
+  - zaak6 (alternative per 《廣韻》士革切)
   - zik1 (per Fan Wan, common)
   ==
 F
@@ -258,7 +259,8 @@ W
   ====
 C
   ==
-  - This character (in the vernacular "weight/crush" senses) is commonly written 砸.
+  - This character (in the vernacular "weight/crush" senses)
+    is commonly written 砸 (from appropriation of formal 砸 zaap3).
     In my opinion, 矺 is a better character to use than $砸3 because:
     ++
     1. 矺 is attested in Middle Chinese
@@ -717,6 +719,10 @@ R
   ⼧ + 3
 U
   U+5B85
+A
+  ==
+  - 㡯
+  ==
 V
   ==
   - zaak6-2 (vernacular rising-tone noun)
@@ -836,6 +842,7 @@ U
   U+64C7
 A
   ==
+  - 睪
   - 择 (Mainland simplified)
   ==
 F
@@ -903,6 +910,7 @@ U
   U+64F2
 A
   ==
+  - 擿
   - 掷 (Mainland simplified)
   ==
 F
@@ -914,7 +922,7 @@ W
   - [[Page~13|n56 擲(9)]]
     ==
     - To throw down, to throw at [[Kangxi: 投也]];
-    - to throw away, to reject [[Kangxi: 拋也掉也]];
+    - to throw away, to reject [[Kangxi: 拋也掉也與擿同]];
     - to waste, as one's time;
     - _ch(a/)k(9) (4)(u/)i_
         [[zaak6 wui4 擲回]],
@@ -945,6 +953,7 @@ U
   U+6FA4
 A
   ==
+  - 睪
   - 泽 (Mainland simplified)
   ==
 F
@@ -1092,6 +1101,7 @@ U
 A
   ==
   - $讁6
+  - 適
   - 谪 (Mainland simplified)
   ==
 V
