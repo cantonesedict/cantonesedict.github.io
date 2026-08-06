@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -318,6 +318,7 @@ U
   U+70FD
 A
   ==
+  - 㶻
   - 㷭
   ==
 F
@@ -438,6 +439,8 @@ U
   U+8702
 A
   ==
+  - 蚌
+  - 䗬
   - $蠭1
   - $鋒1 (for "swarming" sense)
   ==
@@ -736,6 +739,7 @@ U
 A
   ==
   - $丰1 (for "manner/demeanour" senses)
+  - 凬
   - 风 (Mainland simplified)
   ==
 F
@@ -1096,6 +1100,7 @@ U
   U+98A8
 A
   ==
+  - 凬
   - 风 (Mainland simplified)
   ==
 F
