@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -89,6 +89,11 @@ R
   ⽷ + 11
 U
   U+5FBD
+A
+  ==
+  - 幑 (for "banner" sense)
+  - 㫎 (for "banner" sense)
+  ==
 F
   ==
   - (F1.27 ::[徽]::) 美也
@@ -102,7 +107,7 @@ W
     - ~~queenly garments;~~
     - ~~a kind of sash;~~
     - good, beautiful [[Kangxi: 善也, 徽者美善也]];
-    - a banner;
+    - a banner [[Kangxi: 與幑通幟也 etc.]];
     - the stops on a guitar [[Kangxi: 琴節曰徽]];
     - _(1)Fai mak(9)_
         [[fai1 mak6 徽墨]]
@@ -154,6 +159,7 @@ U
   U+63EE
 A
   ==
+  - 㩣
   - 挥 (Mainland simplified)
   ==
 F
@@ -424,6 +430,7 @@ U
 A
   ==
   - $暉1
+  - 灳
   - $煇1
   - 辉 (Mainland simplified)
   ==
