@@ -166,7 +166,7 @@ E
        - 煮嚡咗 (zyu2 haai4 zo2): "Cooked [it] rough" (i.e. overcooked, as opposed to 滑 "smooth").
        ==
     ++
-  - 【嚡澀澀】 (haai4 saap6 saap6)
+  - 【嚡澀澀】 (haai4 saap3 saap3, haai4 saap6 saap6)
     ++
     1. Rough (of a surface or texture).
     ++
