@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -193,6 +193,10 @@ R
   ⽸ + 0
 U
   U+7F36
+A
+  ==
+  - 缻
+  ==
 F
   ==
   - (F1.50 缶 _(1)Fau_ (fau1))
@@ -652,6 +656,7 @@ U
 A
   ==
   - ${𧌓=⿰虫阜}6
+  - 䘀
   - $阜6
   ==
 F
@@ -727,6 +732,7 @@ U
   U+961C
 A
   ==
+  - 峊
   - 阝 (as a character component on the left) <## TODO: 耳仔邊 ji5 ##>
   - 𨸏
   ==
