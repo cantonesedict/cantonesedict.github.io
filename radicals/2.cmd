@@ -817,6 +817,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $匝zaap3
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">

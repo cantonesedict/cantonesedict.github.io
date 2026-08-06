@@ -8982,7 +8982,7 @@
 "嚡":{
 "haai4":{
 "isCanonical":true,
-"text":"U+56A1 鞋 (for Cantonese \"rough\" sense) haai4-2 (rising second in vernacular 嚡嚡地) haai5 (rising alternative for interjection) (Page 69 嚡) An exclamation of disappointment, Alas! Oh! rough, hispid, harsh; _lak kom hai_ (lak6-1 gam3 haai4 竻咁嚡), sharp as a bramble, morose, surly; _ts'o hai_ (cou1 haai4 粗嚡), coarse and rough; _k'u sham hai_ (keoi5 sam6 haai4 佢甚嚡), he's very stingy. 【嚡-interjection】 (haai4, haai5) An interjection of disappointment, complaint, etc. (i.e. a sigh). 【嚡-rough】 (haai4) Rough (of a surface or texture). 煮嚡咗 (zyu2 haai4 zo2): \"Cooked it rough\" (i.e. overcooked, as opposed to 滑 \"smooth\"). 【嚡澀澀】 (haai4 saap3 saap3, haai4 saap6 saap6) Rough (of a surface or texture). The spelling 嚡 is arbitrary both for the interjection and for \"rough\" (which are distinct words)."
+"text":"U+56A1 鞋 (for Cantonese \"rough\" sense) haai4-2 (rising second in vernacular 嚡嚡地) haai5 (rising alternative for interjection) (Page 69 嚡) An exclamation of disappointment, Alas! Oh! rough, hispid, harsh; _lak kom hai_ (lak6-1 gam3 haai4 竻咁嚡), sharp as a bramble, morose, surly; _ts'o hai_ (cou1 haai4 粗嚡), coarse and rough; _k'u sham hai_ (keoi5 sam6 haai4 佢甚嚡), he's very stingy. 【嚡-interjection】 (haai4, haai5) An interjection of disappointment, complaint, etc. (i.e. a sigh). 【嚡-rough】 (haai4) Rough (of a surface or texture). 煮嚡咗 (zyu2 haai4 zo2): \"Cooked it rough\" (i.e. overcooked, as opposed to 滑 \"smooth\"). 【嚡澀澀】 (haai4 saap3 saap3, haai4 saap6 saap6) Rough (of a surface or texture). The spelling 嚡 is arbitrary both for the interjection and for \"rough\" (which are distinct words). The spelling 澀 in 嚡澀澀 is etymologically sound. However, it should be noted that Williams has 嚡匝匝, taking 匝 _sap_ (saap3) to be a colloquial word that \"when repeated ... is a strong affirmative\". See 匝 saap3 (TODO)."
 }
 },
 "諧":{
@@ -9791,6 +9791,12 @@
 "zaap3":{
 "isCanonical":true,
 "text":"U+5284 箚 (F2.66 劄) 帋劄又以針刺也又柬疏謂之劄子 (Page 22|n65 劄) To prick, to puncture (Kangxi 箚: 以鍼刺也); to embroider; a document, a paper (Kangxi 箚: 牋劄用以奏事非表非狀者謂之劄子); a particular sort of paper; ~~a diploma;~~ a contract; to write out, as a list of prices; a reply from a higher officer; ~~a remonstrance to the emperor;~~ _chi chap_ (zi2 zaap3 紙劄) stationery; _chap tsz'_ (zaap3 zi2 劄子) ~~a remonstrance~~; _kam chap_ (gaam3 zaap3 監劄) a diploma bought by a _kiensang_ (監生); _chap ka ts'in_ (zaap3 gaa3 cin4 劄價錢), write the prices; _chap lok po_ (zaap3 lok6 bou6-2 劄落簿) put it to account; _chap tan_ (zaap3 daan1 劄單), a contract for a purchase. The word _chop_, used in Canton is derived from this. Fan Wan entry: Corrected 剌 to 刺. Kangxi has 箚 (⿱𥫗㓣) for the headword, but 劄 (⿰答刂) in the explanations."
+}
+},
+"匝":{
+"zaap3":{
+"isCanonical":true,
+"text":"U+531D 帀 迊 saap3 (per Williams) (F2.66 匝) 作荅切適也遍也 (Page 408 匝 _Sap_ (saap3); here normalised to _Tsap_ (zaap3)) To make a circuit, to go the rounds, like a watchman; pervading; a revolution; a side, a row; _chau ~~sap~~ tsap_ (zau1 zaap3 周匝) to go about everywhere; _sam ~~sap~~ tsap_ (saam1 zaap3 三匝) on three sides; _yat ~~sap~~ tsap_ (jat1 zaap3 一匝) a row. Fan Wan entry: Fixed missing and incomplete strokes in 切適. 【匝】 (tsop) (_noun-like_) circuit, turn"
 }
 },
 "箚":{

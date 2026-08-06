@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,6 +45,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $劄3
+- $匝3
 - $眨3
 - $砸3
 - ($箚3)
@@ -108,6 +109,84 @@ C
   ==
   - Fan Wan entry: Corrected 剌 to 刺.
   - Kangxi has 箚 (⿱𥫗㓣) for the headword, but 劄 (⿰答刂) in the explanations.
+  ==
+$$
+
+###+ 匝3 | _Ts(a/)p(8)_ [[zaap3]]
+
+$$
+R
+  ⼕ + 3
+U
+  U+531D
+A
+  ==
+  - 帀
+  - 迊
+  ==
+V
+  ==
+  - saap3 (per Williams)
+  ==
+F
+  ==
+  - (F2.66 匝) ::作荅[切適]也遍也::
+  ==
+W
+  ====
+  - [[Page~408 匝(8) _S(a/)p(8)_ (saap3); here normalised to _Ts(a/)p(8)_ (zaap3)]]
+    ==
+    - To make a circuit, to go the rounds, like a watchman;
+    - pervading;
+    - a revolution;
+    - a side, a row;
+    - _(1)chau ~~s(a/)p(8)~~ ``ts(a/)p(8)``_
+        [[zau1 zaap3 周匝]]
+        to go about everywhere;
+    - _(1)s(a/)m ~~s(a/)p(8)~~ ``ts(a/)p(8)``_
+        [[saam1 zaap3 三匝]]
+        on three sides;
+    - _yat(7) ~~s(a/)p(8)~~ ``ts(a/)p(8)``_
+        [[jat1 zaap3 一匝]]
+        a row.
+    ==
+    --
+    [[...]]
+    --
+    <## TODO: move to $匝saap3 and link to discussion under 嚡澀澀
+    --
+    A colloquial word.
+    --
+    ==
+    - To please, to delight;
+    - shining, lustrous, as silk;
+    - when repeated, it is a strong affirmative;
+    - _(4)'m s(a/)p(8) (5)ng(a/)n_
+        [[m4 saap3 ngaan5 唔匝眼]],
+        does not please the eye, makes no display;
+    - _(4)h(a/)i s(a/)p(8) s(a/)p(8)_
+        [[haai4 saap3 saap3 嚡匝匝]]
+        exceedingly rough;
+    - _(4)l(a/)m s(a/)p(8) s(a/)p(8)_
+        [[laam4 saap3 saap3 藍匝匝]]
+        very blue.
+    ==
+    ##>
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing and incomplete strokes in 切適.
+  ==
+L
+  ====
+  * 【匝】 (tsop)
+    ==
+    - (_noun-like_) circuit, turn
+    ==
+  ====
+S
+  ==
+  - $匝saap3 (TODO)
   ==
 $$
 

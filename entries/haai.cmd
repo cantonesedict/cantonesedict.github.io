@@ -175,6 +175,13 @@ E
   The spelling 嚡 is arbitrary both for the interjection and for "rough"
   (which are distinct words).
   --
+  --
+  The spelling 澀 in 嚡澀澀 is etymologically sound.
+  However, it should be noted that Williams has 嚡匝匝,
+  taking 匝 _s(a/)p(8)_ (saap3) to be a colloquial word
+  that "when repeated [...] is a strong affirmative".
+  See $匝saap3 (TODO).
+  --
 $$
 
 ### 諧4 | _(4)H(a/)i_ [[haai4]]

@@ -8174,6 +8174,13 @@ window.onload = applyFilter;
       - (_adjective-like_) great-
       ==
   //
+    , `tsop`
+    , [匝](/entries/zaap#rendering-匝)
+    ,
+      ==
+      - (_noun-like_) circuit, turn
+      ==
+  //
     , `tsowng`
     , [宗](/entries/zung#rendering-宗)
     ,
