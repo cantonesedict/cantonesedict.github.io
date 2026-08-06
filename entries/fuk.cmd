@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-07-25
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -66,6 +66,10 @@ R
   ⼱ + 9
 U
   U+5E45
+A
+  ==
+  - 䋹
+  ==
 F
   ==
   - (F1.64 幅) ::布之一片曰一幅又[邊]幅::
@@ -683,6 +687,10 @@ R
   ⾹ + 9
 U
   U+99A5
+A
+  ==
+  - 䫝
+  ==
 V
   ==
   - bik6 (per 《廣韻》符逼切 for "fragrance" sense and Kangxi 符逼切 for onomatopoeic sense)
