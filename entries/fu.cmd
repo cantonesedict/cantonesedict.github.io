@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -894,6 +894,10 @@ R
   ⽔ + 11
 U
   U+6EF9
+A
+  ==
+  - 泘
+  ==
 F
   [[Not present]]
 W
@@ -1380,8 +1384,10 @@ U
 A
   ==
   - $粰1
-  - $麱1
   - 麸
+  - 麬
+  - $麱1
+  - 䴸
   ==
 F
   ==
@@ -2162,6 +2168,10 @@ R
   ⾌ + 2
 U
   U+864E
+A
+  ==
+  - 乕
+  ==
 F
   ==
   - (F2.13 虎) ::虎[狼]猛[獸]也::
@@ -2228,6 +2238,7 @@ U
   U+91DC
 A
   ==
+  - 釡
   - $鬴2
   ==
 V
@@ -2460,6 +2471,10 @@ R
   ⼧ + 9
 U
   U+5BCC
+A
+  ==
+  - 冨
+  ==
 F
   ==
   - (F2.16 富) ::[豐]於財也::
@@ -2701,6 +2716,7 @@ U
   U+8CE6
 A
   ==
+  - 䝾
   - 赋 (Mainland simplified)
   ==
 F
@@ -3453,6 +3469,10 @@ R
   ⼈ + 3
 U
   U+4ED8
+A
+  ==
+  - 仅
+  ==
 V
   ==
   - fu3 (per 《廣韻》方遇切)
