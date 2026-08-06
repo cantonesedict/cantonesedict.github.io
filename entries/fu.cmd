@@ -2379,6 +2379,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($付3)
 - $副3
 - $咐3
 - $富3
@@ -2391,6 +2392,28 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 付3 | _F(u/)(3)_ [[fu3]]
+
+$$.
+R
+  ⼈ + 3
+U
+  U+4ED8
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 咐. **See $咐fu3 for the canonical entry.**
+  1. Reading variation. **See $付fu6 for the canonical entry.**
+  ++
+S
+  ==
+  - $付fu6
+  ==
+$$
 
 ### 副3 | _F(u/)(3)_ [[fu3]]
 
@@ -2474,11 +2497,11 @@ U
   U+5490
 A
   ==
-  - 付
+  - $付3
   ==
 V
   ==
-  - fu6 (per Fan Wan)
+  - fu6 (per Fan Wan for 付)
   ==
 F
   ==
@@ -3550,6 +3573,10 @@ L
     - (_verb-like_) [to] give
     ==
   ====
+S
+  ==
+  - ($付fu3)
+  ==
 $$
 
 ### 傅6 | _F(u/)(6)_ [[fu6]]
