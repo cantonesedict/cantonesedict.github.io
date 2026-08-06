@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2026-07-16
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1222,10 +1222,6 @@ R
   ⼈ + 5
 U
   U+4F5B
-A
-  ==
-  - 仸
-  ==
 F
   ==
   - (F1.88 佛) ::仙佛以空虚[寂滅]爲敎::
