@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -510,6 +510,8 @@ U
   U+9B93
 A
   ==
+  - 鮺
+  - 䱹
   - 鲊 (Mainland simplified)
   ==
 F
@@ -925,6 +927,10 @@ R
   ⾍ + 8
 U
   U+8721
+A
+  ==
+  - 䄍
+  ==
 V
   ==
   - caa3 (per Fan Wan)
@@ -959,7 +965,6 @@ W
   ====
 C
   ==
-  - The reading _ch(a/)(3)_ (zaa3) is per 《廣韻》又音乍.
   - Fan Wan entry: Corrected ⿰釒⿱丿乂 to 釵, corrected 入 to 八,
     and corrected 士 to 土.
   ==
@@ -1160,6 +1165,7 @@ U
   U+9B93
 A
   ==
+  - 蚱
   - 鲊 (Mainland simplified)
   ==
 F
