@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2026-04-19
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -244,7 +244,7 @@ $${.modern}
   by the Ministry of Education (ROC).
   ,
   --
-  A comprehensive variant character dictionary, with convenient scans of
+  An extensive variant character dictionary, with convenient scans of
   olden character and rime dictionaries in the side bar.
   --
 
@@ -253,6 +253,12 @@ $${.modern}
   ,
   --
   Taiwan g0v (gov-zero) dictionary.
+  --
+
+; [字統网 (zi.tools)](https://zi.tools/)
+  ,
+  --
+  A very impressive CJKV index.
   --
 $$
 
