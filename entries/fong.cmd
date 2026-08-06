@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -679,6 +679,7 @@ U
   U+4EFF
 A
   ==
+  - 㑂
   - $倣2
   - $放2
   ==
@@ -791,6 +792,7 @@ U
 A
   ==
   - $仿2
+  - 㧍
   - $髣2
   ==
 F
@@ -1727,7 +1729,7 @@ W
     - an office;
     - a department of an office;
     - one living in the same room;
-    - sexual act;
+    - ``a`` sexual act;
     - a calyx;
     - a quiver [[Kangxi: 箭室也]];
     - a bee's nest;
@@ -1867,6 +1869,7 @@ U
   U+9B74
 A
   ==
+  - 鰟
   - 鲂 (Mainland simplified)
   ==
 F
