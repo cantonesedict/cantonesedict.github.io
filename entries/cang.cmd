@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,6 +118,10 @@ R
   ⽈ + 8
 U
   U+66FE
+A
+  ==
+  - 曽
+  ==
 F
   ==
   - (F2.31 曾) 嘗也又不料之詞又反詞

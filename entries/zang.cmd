@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -106,6 +106,7 @@ U
   U+589E
 A
   ==
+  - 増
   - $曾1
   ==
 F
@@ -158,10 +159,11 @@ U
 A
   ==
   - 峥
+  - 崝
   ==
 V
   ==
-  - caang4 (per 《廣韻》助庚切)
+  - caang4 (per 《廣韻》助庚切 and ::[士]耕切::)
   - zaang1 (longer syllable)
   ==
 F
@@ -278,6 +280,10 @@ R
   ⽈ + 8
 U
   U+66FE
+A
+  ==
+  - 曽
+  ==
 F
   ==
   - (F2.29 曾) 則也乃也又曾祖曾孫
@@ -688,6 +694,7 @@ H
   depending on the font.
 A
   ==
+  - 鏳
   - 铮 (Mainland simplified)
   ==
 V
@@ -797,6 +804,10 @@ R
   ⽡ + 12
 U
   U+7511
+A
+  ==
+  - 䰝
+  ==
 V
   ==
   - zang6 (common)

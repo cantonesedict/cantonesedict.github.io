@@ -1980,11 +1980,11 @@
 "曾":{
 "cang4":{
 "isCanonical":true,
-"text":"U+66FE (F2.31 曾) 嘗也又不料之詞又反詞 (Page 557 曾) An adverb of time; past, already, done (Kangxi: 經也, 嘗也); how? a sign of past time; _'m ts'ang_ (m4 cang4 唔曾) or _mi ts'ang_ (mei6 cang4 未曾), not yet; often a polite way of saying no; _ya ts'ang tso kwo_ (jaa5 cang4 zou6 gwo3 也曾做過) it is already done; _ho ts'ang_ (ho4 cang4 何曾), when ~~will it be~~ was it? _ts'ang kin_ (cang4 gin3 曾見) I have seen it; _tso 'm ts'ang_ (zou6 m4 cang4 做唔曾), is it done yet? Williams' \"how?\": This appears to be an attempt at rendering the very vague and unhelpful 《說文》詞之舒也. Note that Kangxi has this sense under 昨稜切 _ts'ang_ (cang4), and includes such examples as 《論語》曾是以爲孝乎 that other sources would instead put under the reading _tsang_ (zang1). For example, 萌典 puts the \"astonishingly\" sense (乃、竟然) under zeng with the example ...曾是以為孝乎. Williams' 唔曾: Dated. Astonishingly. 【曾-voiced】 (dzong) (_adverb-like_) once, ever (_adverb-like_) astonishingly, (_met._) and yet, dare"
+"text":"U+66FE 曽 (F2.31 曾) 嘗也又不料之詞又反詞 (Page 557 曾) An adverb of time; past, already, done (Kangxi: 經也, 嘗也); how? a sign of past time; _'m ts'ang_ (m4 cang4 唔曾) or _mi ts'ang_ (mei6 cang4 未曾), not yet; often a polite way of saying no; _ya ts'ang tso kwo_ (jaa5 cang4 zou6 gwo3 也曾做過) it is already done; _ho ts'ang_ (ho4 cang4 何曾), when ~~will it be~~ was it? _ts'ang kin_ (cang4 gin3 曾見) I have seen it; _tso 'm ts'ang_ (zou6 m4 cang4 做唔曾), is it done yet? Williams' \"how?\": This appears to be an attempt at rendering the very vague and unhelpful 《說文》詞之舒也. Note that Kangxi has this sense under 昨稜切 _ts'ang_ (cang4), and includes such examples as 《論語》曾是以爲孝乎 that other sources would instead put under the reading _tsang_ (zang1). For example, 萌典 puts the \"astonishingly\" sense (乃、竟然) under zeng with the example ...曾是以為孝乎. Williams' 唔曾: Dated. Astonishingly. 【曾-voiced】 (dzong) (_adverb-like_) once, ever (_adverb-like_) astonishingly, (_met._) and yet, dare"
 },
 "zang1":{
 "isCanonical":true,
-"text":"U+66FE (F2.29 曾) 則也乃也又曾祖曾孫 (Page 556 曾) To duplicate (Kangxi: 曾猶重也), (...); _tsang sun_ (zang1 syun1 曾孫), a great-grandson; _tsang tso mo_ (zang1 zou2 mou5 曾祖母), a great-grandmother; _tsang tso_ (zang1 zou2 曾祖), a great-grandfather. A surname (Kangxi: 姓). 【曾-unvoiced】 (tsong) (_adjective-like_) great-"
+"text":"U+66FE 曽 (F2.29 曾) 則也乃也又曾祖曾孫 (Page 556 曾) To duplicate (Kangxi: 曾猶重也), (...); _tsang sun_ (zang1 syun1 曾孫), a great-grandson; _tsang tso mo_ (zang1 zou2 mou5 曾祖母), a great-grandmother; _tsang tso_ (zang1 zou2 曾祖), a great-grandfather. A surname (Kangxi: 姓). 【曾-unvoiced】 (tsong) (_adjective-like_) great-"
 }
 },
 "咠":{
@@ -9718,7 +9718,7 @@
 },
 "zang1":{
 "isCanonical":true,
-"text":"U+5D22 峥 caang4 (per 《廣韻》助庚切) zaang1 (longer syllable) (F2.29 崢) 山峻貌又頭角崢嶸 (Page 21|n64 崢 _Chang_ (zaang1); here normalised to _Chang_ (zang1)) To rise above; conspicuous, eminent, like a lofty mountain (Kangxi: 崝嶸也); _t'au kok chang ~~ying~~ wing_ (tau4 gok3 zang1 wing4 頭角崢嶸) a noble appearance, dignified. Williams' 頭角崢嶸: Corrected _ying_ (jing4) to _wing_ (wing4)."
+"text":"U+5D22 峥 崝 caang4 (per 《廣韻》助庚切 and 士耕切) zaang1 (longer syllable) (F2.29 崢) 山峻貌又頭角崢嶸 (Page 21|n64 崢 _Chang_ (zaang1); here normalised to _Chang_ (zang1)) To rise above; conspicuous, eminent, like a lofty mountain (Kangxi: 崝嶸也); _t'au kok chang ~~ying~~ wing_ (tau4 gok3 zang1 wing4 頭角崢嶸) a noble appearance, dignified. Williams' 頭角崢嶸: Corrected _ying_ (jing4) to _wing_ (wing4)."
 }
 },
 "棦":{
@@ -9788,7 +9788,7 @@
 },
 "zang1":{
 "isCanonical":true,
-"text":"U+931A May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here), depending on the font. 铮 (Mainland simplified) caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (F2.29 錚) 金聲 (Page 20|n63 錚) A small cymbal, a small sized gong (Kangxi: 鉦也); the ringing sound of metals (Kangxi: 金聲也). The reading _chang_ (zang1) is not unattested; 《集韻》 has the reading 甾莖切, explained 說文金聲也."
+"text":"U+931A May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here), depending on the font. 鏳 铮 (Mainland simplified) caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (F2.29 錚) 金聲 (Page 20|n63 錚) A small cymbal, a small sized gong (Kangxi: 鉦也); the ringing sound of metals (Kangxi: 金聲也). The reading _chang_ (zang1) is not unattested; 《集韻》 has the reading 甾莖切, explained 說文金聲也."
 }
 },
 "諍":{
@@ -10444,7 +10444,7 @@
 "增":{
 "zang1":{
 "isCanonical":true,
-"text":"U+589E 曾 (F2.29 增) 益也加也 (Page 556 曾) (...), to add (Kangxi 曾: 與增同); (Page 556 增) To add, to double, to increase (Kangxi: 益也); repeated, doubled (Kangxi: 一曰重也); _ka tsang_ (gaa1 zang1 加增), to augment; _tsang ka_ (zang1 gaa3 增價) to raise the price; _tsang mai_ (zang1 maai4 增埋), to give a higher price, to throw in the difference. Multitudinous (Kangxi: 衆也). 【增】 (tsong) (_verb-like_) to increase (_adjective-like_) multitudinous"
+"text":"U+589E 増 曾 (F2.29 增) 益也加也 (Page 556 曾) (...), to add (Kangxi 曾: 與增同); (Page 556 增) To add, to double, to increase (Kangxi: 益也); repeated, doubled (Kangxi: 一曰重也); _ka tsang_ (gaa1 zang1 加增), to augment; _tsang ka_ (zang1 gaa3 增價) to raise the price; _tsang mai_ (zang1 maai4 增埋), to give a higher price, to throw in the difference. Multitudinous (Kangxi: 衆也). 【增】 (tsong) (_verb-like_) to increase (_adjective-like_) multitudinous"
 }
 },
 "憎":{
@@ -10474,7 +10474,7 @@
 "甑":{
 "zang3":{
 "isCanonical":true,
-"text":"U+7511 zang6 (common) (F2.31 甑) 炊飯之器又酒甑 (Page 556 甑) A boiler for distilling (Fan Wan: 酒甑), an alembic, a still made of pewter; a boiler for steaming (Kangxi: 甗也) rice; to steam, to distil; _lok tsang ching_ (lok6 zang3 zing1 落甑蒸), put it in the still and steam it. 【甑】 (tsingH) (_noun-like_) boiler"
+"text":"U+7511 䰝 zang6 (common) (F2.31 甑) 炊飯之器又酒甑 (Page 556 甑) A boiler for distilling (Fan Wan: 酒甑), an alembic, a still made of pewter; a boiler for steaming (Kangxi: 甗也) rice; to steam, to distil; _lok tsang ching_ (lok6 zang3 zing1 落甑蒸), put it in the still and steam it. 【甑】 (tsingH) (_noun-like_) boiler"
 },
 "zang6":{
 "isCanonical":false,
