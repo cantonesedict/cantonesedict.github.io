@@ -3637,7 +3637,7 @@ W
     - _~~(2)ts(')z'~~ ``(5)ts(')z'`` tai(6)_
         [[ci5 dai6 姒娣]]
         sisters-in-law;
-    - _~~(2)ts(')z'~~ ``(5)ts(')z'`` (5)f(u/)_
+    - _(5)ts(')z' (5)f(u/)_
         [[ci5 fu5 姒婦]],
         an old lady---a term used by the young.
     ==
