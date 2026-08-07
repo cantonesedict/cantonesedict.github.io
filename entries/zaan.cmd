@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -711,6 +711,7 @@ U
   U+64B0
 A
   ==
+  - 篹 (for "write" and "compile" senses)
   - $譔6 (for "write" and "compile" senses)
   ==
 V
@@ -857,6 +858,7 @@ U
   U+7DBB
 A
   ==
+  - 袒 (for "rent" sense)
   - 绽 (Mainland simplified)
   ==
 F
@@ -928,7 +930,6 @@ C
   - Williams' 虥苗: Corrected _(4)m(a/)i_ (maai4) to _(4)mi(u/)_ (miu4).
     Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓
     is homophonous with 苗 _(4)mi(u/)_ (miu4).
-    In any case, Williams' _(4)m(a/)i_ (maai4) is a typo.
   ==
 $$
 
@@ -1083,6 +1084,10 @@ R
   ⾞ + 8
 U
   U+8F1A
+A
+  ==
+  - 轏
+  ==
 F
   ==
   - (F2.71 輚) 臥車
@@ -1114,6 +1119,8 @@ U
   U+994C
 A
   ==
+  - 籑
+  - 䉵
   - 馔 (Mainland simplified)
   ==
 F
