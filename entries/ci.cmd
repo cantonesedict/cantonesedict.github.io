@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -144,7 +144,7 @@ C
   ==
 $$
 
-### ~~{𡟎=⿰女⿱山虫}~~``媸``1 | _(1)Ch(')(i/)_ [[ci1]]
+### ~~{？=⿰女⿱山虫}~~``媸``1 | _(1)Ch(')(i/)_ [[ci1]]
 
 $$
 R
@@ -157,7 +157,7 @@ F
   ==
 W
   ====
-  - [[Page~11* ::(1)~~{𡟎=⿰女⿱山虫}~~``媸``::]]
+  - [[Page~11* ::(1)~~{？=⿰女⿱山虫}~~``媸``::]]
     ==
     - Ugly [[Kangxi 媸: 醜也]];
     - a homely woman;
