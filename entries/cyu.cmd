@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -558,7 +558,7 @@ C
   ==
 $$
 
-### ~~{𨆼=⿰𧾷㕑}~~``躕``4 | _(4)Ch(')(u:)_ [[cyu4]]
+###+ 躕4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -566,18 +566,13 @@ R
 U
   U+8E95
 F
-  (F1.45 ::[蹰]::) ::踟[蹰]::
+  [[Not present]]
 W
-  ====
-  - [[Page~32* (4)::~~{𨆼=⿰𧾷㕑}~~``躕``::]]
-    --
-    [[Reading variation. **See $躕ceoi4 for the canonical entry.**]]
-    --
-  ====
-C
-  ==
-  - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
-  ==
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $躕ceoi4 for the canonical entry.**
+  ++
 S
   ==
   - $躕ceoi4
