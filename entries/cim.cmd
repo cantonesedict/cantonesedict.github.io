@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-08-02
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -432,7 +432,7 @@ W
   ====
 $$
 
-### ~~韱~~``籤``1 | _(1)Ts(')(i/)m_ [[cim1]]
+###+ 籤1 | _(1)Ts(')(i/)m_ [[cim1]]
 
 $$
 R
@@ -458,7 +458,7 @@ W
         [[cim1 jyu5 籤語]],
         to draw lots for a response.
     ==
-  - [[Page~571 ::(1)~~韱~~``籤``::]]
+  - [[Page~571 (1)韱; here corrected to 籤]]
     ==
     - Similar to the above [[簽]];
     - a slip, a lot [[Kangxi 籤: 驗也, 竹籤用以卜者]];
