@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,6 +101,7 @@ U
 A
   ==
   - $啁1
+  - 謿
   ==
 F
   ==
@@ -168,6 +169,7 @@ U
   U+5E1A
 A
   ==
+  - 菷
   - $箒2
   ==
 V
@@ -331,6 +333,7 @@ U
   U+722A
 A
   ==
+  - 㕚
   - $蚤2
   ==
 F
@@ -595,6 +598,11 @@ R
   ⽹ + 8
 U
   U+7F69
+A
+  ==
+  - 箌
+  - 䈇
+  ==
 F
   ==
   - (F2.42 ::[罩]::) 嘲去聲取魚器也
