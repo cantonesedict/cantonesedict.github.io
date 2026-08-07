@@ -945,6 +945,20 @@
 "text":"U+8CCA 贼 (Mainland simplified) caak3 (vernacular) caak6-2 (vernacular rising-tone noun) (F2.33 賊) 盗賊又賊害 (Page 551 賊) A thief, a robber, a highwayman (Kangxi: 盜也); a bandit; seditious, those who rise against the government; the enemy; a term of contempt; to rob (Kangxi: 刧人也), to murder (Kangxi: 殺人曰賊); to maltreat, to oppress (Kangxi: 賊虐); _lo ts'ak_ (lou5 caak6-2 老賊) an old robber; _ts'ak kom ngan_ (caak6 gam2 ngaan5 賊噉眼), eyes sharp as a thief's; _ts'ak ping_ (caak6 bing1 賊兵), the enemy's force; _hoi ts'ak_ (hoi2 caak6 海賊) a pirate, corsair, freebooter; _ts'ak t'au_ (caak6 tau4-2 賊頭), a ringleader of robbers; _ts'ak tsai_ (caak6-2 zai2 賊仔), a rascal, a pilferer; _tso ts'ak_ (zou6 caak6-2 做賊) to turn robber; _ts'ak chong_ (caak6 zong1 賊贓), booty; _ts'ak ying_ (caak6-2 jing4 賊型), a suspicious looking fellow. To injure (Kangxi: 賊傷害也). 【賊】 (dzok) (_verb-like_) to injure (_noun-like_) bandit, renegade"
 }
 },
+"鯽":{
+"caak6":{
+"isCanonical":false,
+"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font."
+},
+"zak1":{
+"isCanonical":false,
+"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font. (F2.33 鯽) 魚名 (Page 551 鯽)"
+},
+"zik1":{
+"isCanonical":true,
+"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font. 鲫 (Mainland simplified) The crucian carp."
+}
+},
 "鰂":{
 "caak6":{
 "isCanonical":true,
@@ -10243,16 +10257,6 @@
 "zik1":{
 "isCanonical":true,
 "text":"U+7A37 (F1.74 稷) 黍稷社稷又舜臣名 (Page 569 稷) Panicled millet _(Milium)_, one of the five grains (Kangxi: 𪗉也五穀之長); quick, rapid (Kangxi: 疾也); the god of ~~agriculture~~ grains (Kangxi: 神名 etc.); _she tsik_ (se5 zik1 社稷) the Ceres of the Chinese; its altars have no roofs; _hau tsik_ (hau6 zik1 后稷) ~~a god of harvests~~; Fan Wan entry: Corrected ⿱⿻一火氺 to 黍. Williams' 社稷: Strictly two gods, one of soil (社) and one of grains (稷). Williams' 后稷: Not quite a god, though a legendary figure. Used in the titles of agricultural officials (Kangxi: 農官名曰后稷), after the legendary 后稷. 【稷】 (tsik) (_noun-like_) millet (_adjective-like_) prompt"
-}
-},
-"鯽":{
-"zak1":{
-"isCanonical":false,
-"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font. (F2.33 鯽) 魚名 (Page 551 鯽)"
-},
-"zik1":{
-"isCanonical":true,
-"text":"U+9BFD May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9), depending on the font. 鲫 (Mainland simplified) The crucian carp."
 }
 },
 "斟":{

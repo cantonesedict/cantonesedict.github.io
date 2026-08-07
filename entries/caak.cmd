@@ -447,6 +447,7 @@ $$
 =={.modern}
 - $蠈6
 - $賊6
+- ($鯽6)
 - $鰂6
 ==
 </nav>
@@ -567,6 +568,31 @@ L
   ====
 $$
 
+###+ 鯽6 | _Ts(')(a/)k(9)_ [[caak6]]
+
+$$.
+R
+  ⿂ + 7
+U
+  U+9BFD
+H
+  May appear as either ⿰魚即 (+7 assumed here) or ⿰魚卽 (+9),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鰂. **See $鰂caak6 for the canonical entry.**
+  ++
+S
+  ==
+  - ($鯽zak1)
+  - $鯽zik1
+  ==
+$$
+
 ###+ 鰂6 | _Ts(')(a/)k(9)_ [[caak6]]
 
 $$
@@ -578,7 +604,7 @@ A
   ==
   - $賊6
   - 䰹
-  - 鯽
+  - $鯽6
   - 鱡
   - 鲗 (Mainland simplified)
   ==
