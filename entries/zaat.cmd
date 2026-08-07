@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,6 +74,9 @@ W
     --
     [[Otherwise, an alternative form of 紮. **See $紮zaat3 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 札. **See $札zaat3 for the canonical entry.**]]
+    --
   ====
 P
   ++
@@ -104,6 +107,10 @@ R
   ⽊ + 1
 U
   U+672D
+A
+  ==
+  - $扎3
+  ==
 F
   ==
   - (F2.72 札) 柬也又書札
@@ -149,6 +156,7 @@ U
 A
   ==
   - $扎3
+  - 紥
   ==
 F
   ==
@@ -298,7 +306,7 @@ W
   ====
   - [[Page~560 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6)]]
     --
-    [[Alternative form of 甴 where 曱甴 is reversed. **See $甴zaat6 for the canonical entry.**]]
+    [[Alternative form of 甴 (in 曱甴 spelt 甴曱). **See $甴zaat6 for the canonical entry.**]]
     --
   ====
 C
@@ -321,7 +329,7 @@ U
   U+7534
 A
   ==
-  - $曱6
+  - $曱6 (in 曱甴 spelt 甴曱)
   ==
 V
   ==
