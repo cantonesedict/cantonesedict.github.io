@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -733,7 +733,7 @@ U
 A
   ==
   - 峊
-  - 阝 (as a character component on the left) <## TODO: 耳仔邊 ji5 ##>
+  - 阝 (character component on left) <## TODO: 耳仔邊 ji5 ##>
   - 𨸏
   ==
 F

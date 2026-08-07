@@ -334,6 +334,7 @@ U
 A
   ==
   - 㕚
+  - 爫 (character component on top)
   - $蚤2
   ==
 F

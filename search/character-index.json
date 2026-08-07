@@ -5146,7 +5146,7 @@
 "艸":{
 "cou2":{
 "isCanonical":true,
-"text":"U+8278 (F2.14 草 _Ts'u_) 草木 (F2.14 艸 _Ts'u_) 同上 (Page 587 草艸) the 140th radical (\"grass\") of characters relating to herbs;"
+"text":"U+8278 艹 (character component on top) (F2.14 草 _Ts'u_) 草木 (F2.14 艸 _Ts'u_) 同上 (Page 587 草艸) the 140th radical (\"grass\") of characters relating to herbs;"
 }
 },
 "草":{
@@ -7402,7 +7402,7 @@
 "阜":{
 "fau6":{
 "isCanonical":true,
-"text":"U+961C 峊 阝 (as a character component on the left) 𨸏 (F1.56 阜) 山無石曰阜又曲阜地名又民豐物阜 (Page 52 阜阝) A great mound or hill of earth (Kangxi 阜: 大陸曰阜, 山無石者); the 170th radical (\"mound\") of elevations, hills, &c.; great (Kangxi 阜: 大也), large (Kangxi 阜: 肥也), high, abundant (Kangxi 阜: 盛也), numerous (Kangxi 阜: 多也); _mat fau_ (mat6 fau6 物阜) plenty of things; _fung fau_ (fung1 fau6 豐阜) abundant, as a harvest. Fan Wan entry: Fixed missing strokes in 豐. 【阜】 (bjuw) (_noun-like_) great-mound (_adjective-like_) great, large, abundant"
+"text":"U+961C 峊 阝 (character component on left) 𨸏 (F1.56 阜) 山無石曰阜又曲阜地名又民豐物阜 (Page 52 阜阝) A great mound or hill of earth (Kangxi 阜: 大陸曰阜, 山無石者); the 170th radical (\"mound\") of elevations, hills, &c.; great (Kangxi 阜: 大也), large (Kangxi 阜: 肥也), high, abundant (Kangxi 阜: 盛也), numerous (Kangxi 阜: 多也); _mat fau_ (mat6 fau6 物阜) plenty of things; _fung fau_ (fung1 fau6 豐阜) abundant, as a harvest. Fan Wan entry: Fixed missing strokes in 豐. 【阜】 (bjuw) (_noun-like_) great-mound (_adjective-like_) great, large, abundant"
 }
 },
 "啡":{
@@ -7616,7 +7616,7 @@
 "火":{
 "fo2":{
 "isCanonical":true,
-"text":"U+706B (F2.60 火) 水火五行之一燒炙物也 (Page 54 火) Fire, flame (Kangxi: 火燬也南方之行炎而上); to burn, to consume (Kangxi: 火化也消化物也 etc.); _fo chuk_ (fo2 zuk1 火燭) a conflagration; _fo fa_ (fo2 faa1 火花), a spark; _fo im_ (fo2 jim6 火焰), a flame; _kau fo_ (gau3 fo2 救火), to put out conflagration; _shat fo_ (sat1 fo2 失火), to catch fire; _t'ai fo shik_ (tai2 fo2 sik1 睇火色) watch how the fire is, see the blaze! _fo ts'eung_ (fo2 coeng1 火鎗), fire-arms; _tse fo_ (ze3 fo2 借火), trouble you for a light; _mo fo chung_ (mou5 fo2 zung2 冇火種), 'no fire-seed,' poor; _fo shek fan_, (fo2 sek6 fan2 火石粉) chalk; _fo shun_ (fo2 syun4 火船), a steamer; _fo sik_ (fo2 sik1 火熄) the fire is out; _fo p'iu_ (fo2 piu3 火票) an urgent warrant; _mo ming fo_ (mou4 ming4 fo2 無名火), causeless anger; _fo keng_ (fo2 geng2 火頸), testy; _fo pa_ (fo2 baa2 火把), a torch; _fo lo_ (fo2 lou1 火撈), soot; _fo yan_ (fo2 jan5 火引), a match; _fo hi_ (fo2 hei3 火氣) fiery, feverish ; _ta fo_ (daa2 fo2 打火), to strike a fire; _fo fa_ (fo2 faa3 火化), burned up; _mai shai fo hi_ (mai5 sai2 fo2 hei3 咪使火氣) ~~do n't~~ don't be so hasty; _fo ku to sz'_ (fo2 geoi1 dou6 si6-2 火居道士) a sect among the Tauists. Fan Wan entry: Fixed missing strokes in 燒. Williams' 火焰: Corrected _im_ (jim1) to _im_ (jim6). Williams' 火船: Dated. Williams' 火熄: Corrected _sik_ (sik6) to _sik_ (sik1). Williams' 無名火: Corrected _mo_ (mou5) to _mo_ (mou4). Williams' 火引: Perhaps better rendered \"a kindler\". Williams' 火化: Corrected _fa_ (faa2) to _fa_ (faa3). Cremation. Williams' 咪使火氣: Corrected _shai_ (sai5) to _shai_ (sai2). The 86th radical (\"fire\"). Internal \"fire\" (or \"heat\") in Chinese medicine. 【火】 (xwaX) (_noun-like_) fire, (_met._) light 【火】 (fo2) A watt (of power). 幾多火 (gei2 do1 fo2): \"How many watts?\" 六十火 (luk6 sap6 fo2): \"Sixty watts.\""
+"text":"U+706B 灬 (character component on bottom) (F2.60 火) 水火五行之一燒炙物也 (Page 54 火) Fire, flame (Kangxi: 火燬也南方之行炎而上); to burn, to consume (Kangxi: 火化也消化物也 etc.); _fo chuk_ (fo2 zuk1 火燭) a conflagration; _fo fa_ (fo2 faa1 火花), a spark; _fo im_ (fo2 jim6 火焰), a flame; _kau fo_ (gau3 fo2 救火), to put out conflagration; _shat fo_ (sat1 fo2 失火), to catch fire; _t'ai fo shik_ (tai2 fo2 sik1 睇火色) watch how the fire is, see the blaze! _fo ts'eung_ (fo2 coeng1 火鎗), fire-arms; _tse fo_ (ze3 fo2 借火), trouble you for a light; _mo fo chung_ (mou5 fo2 zung2 冇火種), 'no fire-seed,' poor; _fo shek fan_, (fo2 sek6 fan2 火石粉) chalk; _fo shun_ (fo2 syun4 火船), a steamer; _fo sik_ (fo2 sik1 火熄) the fire is out; _fo p'iu_ (fo2 piu3 火票) an urgent warrant; _mo ming fo_ (mou4 ming4 fo2 無名火), causeless anger; _fo keng_ (fo2 geng2 火頸), testy; _fo pa_ (fo2 baa2 火把), a torch; _fo lo_ (fo2 lou1 火撈), soot; _fo yan_ (fo2 jan5 火引), a match; _fo hi_ (fo2 hei3 火氣) fiery, feverish ; _ta fo_ (daa2 fo2 打火), to strike a fire; _fo fa_ (fo2 faa3 火化), burned up; _mai shai fo hi_ (mai5 sai2 fo2 hei3 咪使火氣) ~~do n't~~ don't be so hasty; _fo ku to sz'_ (fo2 geoi1 dou6 si6-2 火居道士) a sect among the Tauists. Fan Wan entry: Fixed missing strokes in 燒. Williams' 火焰: Corrected _im_ (jim1) to _im_ (jim6). Williams' 火船: Dated. Williams' 火熄: Corrected _sik_ (sik6) to _sik_ (sik1). Williams' 無名火: Corrected _mo_ (mou5) to _mo_ (mou4). Williams' 火引: Perhaps better rendered \"a kindler\". Williams' 火化: Corrected _fa_ (faa2) to _fa_ (faa3). Cremation. Williams' 咪使火氣: Corrected _shai_ (sai5) to _shai_ (sai2). The 86th radical (\"fire\"). Internal \"fire\" (or \"heat\") in Chinese medicine. 【火】 (xwaX) (_noun-like_) fire, (_met._) light 【火】 (fo2) A watt (of power). 幾多火 (gei2 do1 fo2): \"How many watts?\" 六十火 (luk6 sap6 fo2): \"Sixty watts.\""
 }
 },
 "顆":{
@@ -9984,7 +9984,7 @@
 "爪":{
 "zaau2":{
 "isCanonical":true,
-"text":"U+722A 㕚 蚤 (F2.42 爪) 手足甲也 (Page 29|n72 爪) Claws, talons, nails (Kangxi: 覆手曰爪, 手足甲也); an agent, a minion; the 87th radical (\"claw\"); _chau nga_ (zaau2 ngaa4 爪牙), claws and teeth; emissaries, assistants; _mai pan chau_ (maai5 baan6 zaau2 買辦爪), a comprador's market-man. 【爪】 (tsraewX) (_noun-like_) claw, nail 【狗爪邊】 (gau2 zaau2 bin1) The character component 犭. (Literally, \"dog's paw beside\".) 【狗爪頭】 (gau2 zaau2 tau4) The character component 爫. (Literally, \"dog's paw atop\".)"
+"text":"U+722A 㕚 爫 (character component on top) 蚤 (F2.42 爪) 手足甲也 (Page 29|n72 爪) Claws, talons, nails (Kangxi: 覆手曰爪, 手足甲也); an agent, a minion; the 87th radical (\"claw\"); _chau nga_ (zaau2 ngaa4 爪牙), claws and teeth; emissaries, assistants; _mai pan chau_ (maai5 baan6 zaau2 買辦爪), a comprador's market-man. 【爪】 (tsraewX) (_noun-like_) claw, nail 【狗爪邊】 (gau2 zaau2 bin1) The character component 犭. (Literally, \"dog's paw beside\".) 【狗爪頭】 (gau2 zaau2 tau4) The character component 爫. (Literally, \"dog's paw atop\".)"
 }
 },
 "箒":{
@@ -11390,7 +11390,7 @@
 },
 "zuk1":{
 "isCanonical":true,
-"text":"U+8DB3 (F1.65 足) 脚也備足足完足 (Page 598 足) The leg (Kangxi: 人之足也); the foot; enough, sufficient (Kangxi: 滿也止也); full, satiated, no deficiency; entirely, in full, wholly; to satisfy, to please; to satisfy the wants of; pure, as silver; actions, conduct; the ~~137th~~ 157th radical (\"foot\") of characters relating to going; _shap tsuk_ (sap6 zuk1 十足) complete in all respects; _shau tsuk_ (sau2 zuk1 手足) hands and feet, brothers; _tsuk ling_ (zuk1 ling5 足領), enough! no more, I beg of you! _tsz' tsuk_ (zi6 zuk1 自足) self-sufficient, conceited; _tsuk tsuk wan ni pun yat_ (zuk1 zuk1 wan2 nei5 bun3 jat6 足足搵你一日) I've annoyed you half a day; _shat tsuk_ (sat1 zuk1 失足) to slip and fall; to make a blunder, a faux-pas; _tsuk ha_ (zuk1 haa6 足下) your presence, said to a friend; _'m chi tsuk_ (m4 zi1 zuk1 唔知足) discontented, never satisfied; _pat tsuk to_ (bat1 zuk1 dou6 不足道) ~~beyond description, can not be spoken of~~ not worth speaking of; _tsuk sho 'm tsuk_ (zuk1 sou3 m4 zuk1 足數唔足) is the number just right? _fung tsuk_ (fung1 zuk1 豐足) prosperous, to the heart's content; _yan sam mo im tsuk_ (jan4 sam1 mou5 jim3 zuk1 人心冇饜足) the heart is never satisfied; _un tong tsuk tsz'_ (jyun4 dong3 zuk1 zi2 圓當足子) whole dollars alone are reckoned to be full coin. Williams' 足數唔足: This is dated syntax. In modern Cantonese, it would be 足唔足數, with only the adjective hugging the negative. 【足-entering】 (tsjowk) (_noun-like_) foot (_adjective-like_) sufficient"
+"text":"U+8DB3 𧾷 (character component on left) (F1.65 足) 脚也備足足完足 (Page 598 足) The leg (Kangxi: 人之足也); the foot; enough, sufficient (Kangxi: 滿也止也); full, satiated, no deficiency; entirely, in full, wholly; to satisfy, to please; to satisfy the wants of; pure, as silver; actions, conduct; the ~~137th~~ 157th radical (\"foot\") of characters relating to going; _shap tsuk_ (sap6 zuk1 十足) complete in all respects; _shau tsuk_ (sau2 zuk1 手足) hands and feet, brothers; _tsuk ling_ (zuk1 ling5 足領), enough! no more, I beg of you! _tsz' tsuk_ (zi6 zuk1 自足) self-sufficient, conceited; _tsuk tsuk wan ni pun yat_ (zuk1 zuk1 wan2 nei5 bun3 jat6 足足搵你一日) I've annoyed you half a day; _shat tsuk_ (sat1 zuk1 失足) to slip and fall; to make a blunder, a faux-pas; _tsuk ha_ (zuk1 haa6 足下) your presence, said to a friend; _'m chi tsuk_ (m4 zi1 zuk1 唔知足) discontented, never satisfied; _pat tsuk to_ (bat1 zuk1 dou6 不足道) ~~beyond description, can not be spoken of~~ not worth speaking of; _tsuk sho 'm tsuk_ (zuk1 sou3 m4 zuk1 足數唔足) is the number just right? _fung tsuk_ (fung1 zuk1 豐足) prosperous, to the heart's content; _yan sam mo im tsuk_ (jan4 sam1 mou5 jim3 zuk1 人心冇饜足) the heart is never satisfied; _un tong tsuk tsz'_ (jyun4 dong3 zuk1 zi2 圓當足子) whole dollars alone are reckoned to be full coin. Williams' 足數唔足: This is dated syntax. In modern Cantonese, it would be 足唔足數, with only the adjective hugging the negative. 【足-entering】 (tsjowk) (_noun-like_) foot (_adjective-like_) sufficient"
 }
 },
 "醉":{
@@ -13112,7 +13112,7 @@
 "卩":{
 "zit3":{
 "isCanonical":true,
-"text":"U+5369 The 26th radical (\"seal\")."
+"text":"U+5369 㔾 (character component) The 26th radical (\"seal\")."
 }
 },
 "哲":{
@@ -14002,7 +14002,7 @@
 "竹":{
 "zuk1":{
 "isCanonical":true,
-"text":"U+7AF9 (F1.63 竹) 竹木 (Page 34* 竹) The bamboo (Kangxi: 冬生靑艸 etc.); _chuk k'eung_ (zuk1 koeng2 竹蔃), whangees, bamboo roots; _chuk po_ (zuk1 bou3 竹布) linen; _chuk sun_ (zuk1 seon2 竹筍), bamboo sprouts; _chuk tsit yeung_ (zuk1 zit3 joeng6 竹節樣) ridged; _chuk wong_ (zuk1 wong4 竹黃), tabasheer; _chuk shat_ (zuk1 sat6 竹實) seeds of the bamboo; _chuk p'au_ (zuk1 paau3 竹炮) a kind of large fireworks. Bamboo musical instruments (Kangxi: 八音之一). Bamboo writing slips (Kangxi: 竹簡). The 118th radical (\"bamboo\"). 【竹】 (trjuwk) (_noun-like_) bamboo 【竹花頭】 (zuk1 faa1 tau4-2) The character component 𥫗. (Literally, \"bamboo flower atop\".)"
+"text":"U+7AF9 𥫗 (character component on top) (F1.63 竹) 竹木 (Page 34* 竹) The bamboo (Kangxi: 冬生靑艸 etc.); _chuk k'eung_ (zuk1 koeng2 竹蔃), whangees, bamboo roots; _chuk po_ (zuk1 bou3 竹布) linen; _chuk sun_ (zuk1 seon2 竹筍), bamboo sprouts; _chuk tsit yeung_ (zuk1 zit3 joeng6 竹節樣) ridged; _chuk wong_ (zuk1 wong4 竹黃), tabasheer; _chuk shat_ (zuk1 sat6 竹實) seeds of the bamboo; _chuk p'au_ (zuk1 paau3 竹炮) a kind of large fireworks. Bamboo musical instruments (Kangxi: 八音之一). Bamboo writing slips (Kangxi: 竹簡). The 118th radical (\"bamboo\"). 【竹】 (trjuwk) (_noun-like_) bamboo 【竹花頭】 (zuk1 faa1 tau4-2) The character component 𥫗. (Literally, \"bamboo flower atop\".)"
 }
 },
 "竺":{

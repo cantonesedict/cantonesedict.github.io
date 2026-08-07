@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -377,6 +377,10 @@ R
   ⽵ + 0
 U
   U+7AF9
+A
+  ==
+  - 𥫗 (character component on top)
+  ==
 F
   ==
   - (F1.63 竹) 竹木
@@ -666,6 +670,10 @@ R
   ⾜ + 0
 U
   U+8DB3
+A
+  ==
+  - 𧾷 (character component on left)
+  ==
 F
   ==
   - (F1.65 足) 脚也備足足完足

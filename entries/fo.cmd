@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -404,6 +404,10 @@ R
   ⽕ + 0
 U
   U+706B
+A
+  ==
+  - 灬 (character component on bottom)
+  ==
 F
   ==
   - (F2.60 火) ::水火五行之一[燒]炙物也::
