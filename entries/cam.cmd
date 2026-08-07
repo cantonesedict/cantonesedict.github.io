@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -999,7 +999,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 ::(2)~~{𩵫=⿰冘魚}~~``魫``:: _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 (2){𩵫=⿰冘魚} _(2)Ch(')am_ (cam2); here corrected to 魫 _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi 魫: 魚子]];
     - the name of a fish [[Fan Wan 魫: 魚名]].
