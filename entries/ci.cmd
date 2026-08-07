@@ -1389,10 +1389,6 @@ W
         pork.
     ==
   ====
-C
-  ==
-  - Williams radical: Corrected 153d to 152d.
-  ==
 L
   ====
   * 【豕】 (syeX)
