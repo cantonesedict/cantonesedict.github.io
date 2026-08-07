@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1042,7 +1042,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### ~~冡~~``冢``2 | _(2)Ch(')ung_ [[cung2]]
+###+ 冢2 | _(2)Ch(')ung_ [[cung2]]
 
 $$
 R
@@ -1063,7 +1063,7 @@ F
   ==
 W
   ====
-  - [[Page~41 ::(2)~~冡~~``冢``::]]
+  - [[Page~41 (2)冡; here corrected to 冢]]
     ==
     - The peak of a hill [[Kangxi 冢: 山頂也]];
     - a mound or tumulus [[Kangxi 冢: 墓之墳者亦曰冢]];
@@ -1141,6 +1141,8 @@ W
   ====
 C
   ==
+  - Williams misprints 塚 as 塜; here corrected.
+    (The character 塚 appears correctly on Page~751 in the character index.)
   - Fan Wan entry: Corrected headword 塜 to 塚.
   ==
 $$
