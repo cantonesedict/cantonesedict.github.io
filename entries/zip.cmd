@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -498,7 +498,7 @@ W
   ====
 C
   ==
-  - For the vernacular form, see $褶zaap3.
+  - For the vernacular word, see $褶zaap3.
   ==
 $$
 

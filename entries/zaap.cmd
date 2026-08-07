@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,6 +64,7 @@ U
   U+5284
 A
   ==
+  - 剳
   - $箚3
   ==
 F
@@ -304,7 +305,7 @@ W
   ====
 C
   ==
-  - For the literary form, see $襵zip3.
+  - For the literary word, see $襵zip3.
   - Williams' 打褶: Changed _ch(i/)p(8)_ (zip3)
     to common reading _ch(a/)p(8)_ (zaap3).
   ==
@@ -563,7 +564,12 @@ U
   U+8972
 A
   ==
+  - 㦻
   - 袭 (Mainland simplified)
+  ==
+V
+  ==
+  - zap6 (shorter syllable)
   ==
 F
   ==
