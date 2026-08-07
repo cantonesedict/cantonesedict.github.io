@@ -381,7 +381,7 @@ C
   ==
 P
   ++
-  1. The 175th~radical (⾮ "wrong").
+  1. The 175th~radical (U+2FAE ⾮ "wrong").
   ++
 L
   ====
@@ -461,7 +461,7 @@ C
   ==
 P
   ++
-  1. The 183rd~radical (⾶ "fly").
+  1. The 183rd~radical (U+2FB6 ⾶ "fly").
   ++
 L
   ====

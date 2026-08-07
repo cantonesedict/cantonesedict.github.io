@@ -506,7 +506,7 @@ C
   ==
 P
   ++
-  1. The 86th~radical (⽕ "fire").
+  1. The 86th~radical (U+2F55 ⽕ "fire").
   1. Internal "fire" (or "heat") in Chinese medicine.
   ++
 L

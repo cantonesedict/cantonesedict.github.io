@@ -294,7 +294,7 @@ P
   1. Just now.
   1. Now (Kangxi: 今也).
   1. A cube, a power.
-  1. The 70th~radical (⽅ "square").
+  1. The 70th~radical (U+2F45 ⽅ "square").
   ++
 L
   ====

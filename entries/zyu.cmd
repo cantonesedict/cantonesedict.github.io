@@ -926,7 +926,7 @@ W
     ==
     - The flame of a lamp [[Kangxi: 鐙中火丶也]];
     - a stop``,`` a point [[Kangxi: 有所絕止丶而識之也]];
-    - the third radical [[⼂ "dot"]].
+    - the third radical [[U+2F02 ⼂ "dot"]].
     ==
     --
     [[Otherwise, an alternative form of 主. **See $主zyu2 for the canonical entry.**]]

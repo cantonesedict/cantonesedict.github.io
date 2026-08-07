@@ -1441,7 +1441,7 @@ W
     - late;
     - last day of, as a year or month;
     - out of the perpendicular [[Kangxi: 斜也]];
-    - the 36th~radical [[⼣ "evening"]];
+    - the 36th~radical [[U+2F23 ⼣ "evening"]];
     - _(1)chi(u/) tsik(9)_
         [[ziu1 zik6 朝夕]]
         morning and evening;

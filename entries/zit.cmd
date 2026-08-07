@@ -179,7 +179,7 @@ W
   [[Not present]]
 P
   ++
-  1. The 26th~radical (⼙ "seal").
+  1. The 26th~radical (U+2F19 ⼙ "seal").
   1. Alternative form of 節. **See $節zit3 for the canonical entry.**
   ++
 $$

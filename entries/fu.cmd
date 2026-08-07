@@ -3771,7 +3771,7 @@ C
 P
   ++
   1. Elder noblemen or officials of the same surname (Kangxi: 天子謂同姓諸侯諸侯謂同姓大夫皆曰諸父).
-  1. The 88th~radical (⽗ "father").
+  1. The 88th~radical (U+2F57 ⽗ "father").
   ++
 L
   ====

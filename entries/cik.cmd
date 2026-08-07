@@ -742,7 +742,7 @@ W
     - naked, destitute, barren, poor [[Kangxi: 空盡無物曰赤]];
     - to redden;
     - to denude [[Kangxi: 裸裎曰赤體見肉色也]];
-    - the 155th~radical [[⾚ "red"]] of characters referring to red;
+    - the 155th~radical [[U+2F9A ⾚ "red"]] of characters referring to red;
     - _ch(')ik(8) (2)t(a/)m_
         [[cik3 daam2 赤膽]],
         pureminded;

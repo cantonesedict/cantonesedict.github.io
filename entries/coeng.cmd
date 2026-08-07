@@ -1412,7 +1412,7 @@ W
   ====
 P
   ++
-  1. The 192nd~radical (⾿ "sacrificial-wine").
+  1. The 192nd~radical (U+2FBF ⾿ "sacrificial-wine").
   ++
 L
   ====
@@ -2151,7 +2151,7 @@ W
     - superiors [[Kangxi: 長弟猶云先後也]];
     - skilled, used to, practiced;
     - direct, straight;
-    - the 168th~radical [[⾧ "long"]];
+    - the 168th~radical [[U+2FA7 ⾧ "long"]];
     - _(4)ch(')(e/)ung (5)(u:)n_
         [[coeng4 jyun5 長遠]],
         durable;

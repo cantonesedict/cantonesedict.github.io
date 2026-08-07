@@ -677,7 +677,7 @@ W
     - to discriminate [[Kangxi: 辨也]];
     - an ancient feudal state comprising the part of Sh(a/)ntung [[山東]]
       east of T(')(a/)i sh(a/)n [[泰山]];
-    - the 210th~radical [[⿑ "even"]];
+    - the 210th~radical [[U+2FD1 ⿑ "even"]];
     - _(2)ching (4)ts(')ai_
         [[zing2 cai4 整齊]],
         well arranged, properly placed;

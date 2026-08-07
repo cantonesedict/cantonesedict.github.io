@@ -852,7 +852,7 @@ P
       - 傷風 (soeng1 fung1): "[A] cold."
       - 中風 (zung3 fung1): "Stroke."
       ==
-  1. The 182nd~radical (⾵ "wind").
+  1. The 182nd~radical (U+2FB5 ⾵ "wind").
   ++
 L
   ====
