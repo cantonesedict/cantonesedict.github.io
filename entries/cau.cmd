@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -129,7 +129,7 @@ S
   ==
 $$
 
-### ~~愁~~``愀``1 | _(1)Ts(')au_ [[cau1]]
+###+ 愀1 | _(1)Ts(')au_ [[cau1]]
 
 $$.
 R
@@ -141,12 +141,11 @@ F
   - (F1.50 愀) 色變也
   ==
 W
-  ====
-  - [[Page~562 ::(1)~~愁~~``愀``::]]
-    --
-    [[Reading variation. **See $愀ciu2 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $愀ciu2 for the canonical entry.**
+  ++
 S
   ==
   - $愀ciu2

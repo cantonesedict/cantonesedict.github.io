@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -400,18 +400,15 @@ F
   ==
 W
   ====
-  - [[Page~562 ::(1)~~愁~~``愀``:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
+  - [[Page~562 (1)愁 _(1)Ts(')au_ (cau1); here corrected to 愀 and normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
-    - ~~To blush, to redden, to change color~~ ``To change the countenance`` [[Kangxi 愀: 容色變也]];
-    - ~~downhearted, sad.~~
+    - ~~To blush, to redden,~~ to change ~~color~~ ``the countenance`` [[Kangxi 愀: 容色變也]];
+    - [[...]].
+    <## TODO: correct to $愁sau4
+    - downhearted, sad.
+    ##>
     ==
   ====
-C
-  ==
-  - Williams misprints 愀 as 愁. In doing so,
-    Williams has erroneously included the definition "downhearted, sad".
-    That definition is only applicable to 愁.
-  ==
 L
   ====
   * 【愀】 (tshjewX, dzjuwX)
