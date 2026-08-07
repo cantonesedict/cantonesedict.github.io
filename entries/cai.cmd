@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -193,6 +193,11 @@ W
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Williams misprints 栖 as 梄; here corrected.
+    (The character 栖 appears correctly on Page~771 in the character index.)
+  ==
 $$
 
 ### 棲1 | _(1)Ts(')ai_ [[cai1]]
@@ -240,6 +245,11 @@ W
         to and fro, like a stranger.
     ==
   ====
+C
+  ==
+  - Williams misprints 栖 as 梄; here corrected.
+    (The character 栖 appears correctly on Page~771 in the character index.)
+  ==
 L
   ====
   * 【棲】 (sej)
