@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -549,6 +549,9 @@ W
     --
     [[Otherwise, an alternative form of 蠈. **See $蠈caak6 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 鰂. **See $鰂caak6 for the canonical entry.**]]
+    --
   ====
 P
   ++
@@ -573,6 +576,10 @@ U
   U+9C02
 A
   ==
+  - $賊6
+  - 䰹
+  - 鯽
+  - 鱡
   - 鲗 (Mainland simplified)
   ==
 F
