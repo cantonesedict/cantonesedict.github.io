@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -852,7 +852,7 @@ P
       - 傷風 (soeng1 fung1): "[A] cold."
       - 中風 (zung3 fung1): "Stroke."
       ==
-  1. The 182nd~radical ("wind").
+  1. The 182nd~radical (⾵ "wind").
   ++
 L
   ====

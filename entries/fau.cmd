@@ -216,7 +216,7 @@ W
   ====
 P
   ++
-  1. The 121st~radical ("jar").
+  1. The 121st~radical (⽸ "jar").
   ++
 L
   ====
@@ -745,7 +745,7 @@ W
   - [[Page~52 阜(6)阝]]
     ==
     - A ``great`` mound or hill of earth [[Kangxi 阜: 大陸曰阜, 山無石者]];
-    - ``the 170th~``radical [["mound"]] of elevations, hills, &c.;
+    - ``the 170th~``radical [[⾩ "mound"]] of elevations, hills, &c.;
     - great [[Kangxi 阜: 大也]], large [[Kangxi 阜: 肥也]], high, abundant [[Kangxi 阜: 盛也]], numerous [[Kangxi 阜: 多也]];
     - _mat(9) fau(6)_
         [[mat6 fau6 物阜]]

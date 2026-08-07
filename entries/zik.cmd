@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1441,7 +1441,7 @@ W
     - late;
     - last day of, as a year or month;
     - out of the perpendicular [[Kangxi: 斜也]];
-    - the 36th~radical [["evening"]];
+    - the 36th~radical [[⼣ "evening"]];
     - _(1)chi(u/) tsik(9)_
         [[ziu1 zik6 朝夕]]
         morning and evening;

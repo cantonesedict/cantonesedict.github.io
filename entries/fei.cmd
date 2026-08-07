@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -381,7 +381,7 @@ C
   ==
 P
   ++
-  1. The 175th~radical ("wrong").
+  1. The 175th~radical (⾮ "wrong").
   ++
 L
   ====
@@ -461,7 +461,7 @@ C
   ==
 P
   ++
-  1. The 183rd~radical ("fly").
+  1. The 183rd~radical (⾶ "fly").
   ++
 L
   ====

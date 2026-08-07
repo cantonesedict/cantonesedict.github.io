@@ -417,7 +417,7 @@ P
   ++
   1. Bamboo musical instruments (Kangxi: 八音之一).
   1. Bamboo writing slips (Kangxi: ::竹[簡]::).
-  1. The 118th~radical ("bamboo").
+  1. The 118th~radical (⽵ "bamboo").
   ++
 L
   ====
@@ -691,7 +691,7 @@ W
     - to satisfy the wants of;
     - pure, as silver;
     - actions, conduct;
-    - the ~~137th~~^~``157th``~radical [["foot"]] of characters relating to going;
+    - the ~~137th~~^~``157th``~radical [[⾜ "foot"]] of characters relating to going;
     - _shap(9) tsuk(7)_
         [[sap6 zuk1 十足]]
         complete in all respects;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -549,7 +549,7 @@ W
       as the azure of the sky or the green of growing plants [[Kangxi 靑: 靑生也]];
     - a very light green or blue tint;
     - wan, fading away, pale;
-    - the 174th~radical [["blue"]];
+    - the 174th~radical [[⾭ "blue"]];
     - _(1)ts(')ing (2)kwo_
         [[cing1 gwo2 青果]],
         the olive;

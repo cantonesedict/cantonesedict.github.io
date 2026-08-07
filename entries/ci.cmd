@@ -1262,7 +1262,7 @@ W
     - to display;
     - to resolve, to form a purpose;
     - [[...]];
-    - the 111th~radical [["arrow"]];
+    - the 111th~radical [[⽮ "arrow"]];
     - _yat(7) (2)ch(')(i/) (1)ch(i/) t(i/)(6)_
         [[jat1 ci2 zi1 dei6 一矢之地]]
         a little distance, a bowshot;
@@ -1383,7 +1383,7 @@ W
   - [[Page~12* (2)豕]]
     ==
     - A hog, a pig [[Kangxi: 彘也]];
-    - the ~~153d~~^~``152d``~radical [["pig"]] of characters relating mostly to swine;
+    - the ~~153d~~^~``152d``~radical [[⾗ "pig"]] of characters relating mostly to swine;
     - _(2)ch(')(i/) yuk(9)_
         [[ci2 juk6 豕肉]]
         pork.
@@ -1430,7 +1430,7 @@ W
     - to commence [[Kangxi: 齒始也]];
     - to sort, to class by the age [[Kangxi: 年也又列也, ::論量[...]歲數::]];
     - ~~to record, to write in;~~
-    - the 211th~radical [["tooth"]] of characters relating to teeth;
+    - the 211th~radical [[⿒ "tooth"]] of characters relating to teeth;
     - _(2)ch(')(i/) (2)ch(e/)ung_
         [[ci2 zoeng2 齒長]],
         old;

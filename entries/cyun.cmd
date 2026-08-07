@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -70,7 +70,7 @@ W
 P
   ++
   1. Alternative form of 川 (Kangxi: 川本字). See $川cyun1.
-  1. The 47th~radical ("river").
+  1. The 47th~radical (⼮ "river").
   ++
 $$
 
@@ -535,7 +535,7 @@ W
     ==
     - Erroneous [[Kangxi: 舛錯也, 錯亂也]], opposed [[Kangxi: 舛偝也 etc.]];
     - to contradict;
-    - the 136th~radical [["oppose"]]``;``
+    - the 136th~radical [[⾇ "oppose"]]``;``
     - _(2)ch(')(u:)n ts(')ok(8)_
         [[cyun2 cok3 舛錯]]
         wrong;
@@ -744,7 +744,7 @@ W
     - The Chinese inch [[Kangxi: 十分也]], regarded as long as the middle joint of the finger;
     - the tenth of a foot, and varies according to the _ch(')ek(8)_ [[cek3 尺]] [[Kangxi: 十寸爲一尺]];
     - a very little;
-    - the 41st~radical [["inch"]];
+    - the 41st~radical [[⼨ "inch"]];
     - _ts(')(u:)n(3) (1)sam_ [[cyun3 sam1 寸心]]^
         or
       _(1)fong ts(')(u:)n(3)_ [[fong1 cyun3 方寸]]

@@ -291,7 +291,7 @@ W
   - [[Page~587 (2)草(2)艸]]
     ==
     - [[...]];
-    - the 140th~radical [["grass"]] of characters relating to herbs;
+    - the 140th~radical [[⾋ "grass"]] of characters relating to herbs;
     - [[...]].
     ==
     --

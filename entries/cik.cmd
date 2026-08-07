@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2026-08-02
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -742,7 +742,7 @@ W
     - naked, destitute, barren, poor [[Kangxi: 空盡無物曰赤]];
     - to redden;
     - to denude [[Kangxi: 裸裎曰赤體見肉色也]];
-    - the 155th~radical [["red"]] of characters referring to red;
+    - the 155th~radical [[⾚ "red"]] of characters referring to red;
     - _ch(')ik(8) (2)t(a/)m_
         [[cik3 daam2 赤膽]],
         pureminded;
