@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -251,6 +251,11 @@ W
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
+    (The character {𢃑=⿰巾昌} appears correctly on Page~758 in the character index.)
+  ==
 $$
 
 ### 搶1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -702,6 +707,11 @@ W
     - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
   ====
+C
+  ==
+  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
+    (The character {𢃑=⿰巾昌} appears correctly on Page~758 in the character index.)
+  ==
 $$
 
 ### 蹌1 | _(1)Ts(')(e/)ung_ [[coeng1]]
