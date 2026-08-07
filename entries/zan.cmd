@@ -382,6 +382,7 @@ $$
 - $圳3
 - $帪3
 - $振3
+- $瑱3
 - $賑3
 - ($鎭3)
 - $鎮3
@@ -570,6 +571,34 @@ S
   ==
 $$
 
+###+ 瑱3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  ⽟ + 10
+U
+  U+7471
+H
+  May appear as either ⿰𤣩眞 or ⿰𤣩真 (assumed here),
+  depending on the font.
+  The two forms are actually separate characters in Kangxi
+  (p.740#2 and p.740#3 respectively).
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A type of jade (Kangxi: 玉名).
+  1. Reading variation. **See $瑱tin3 for the canonical entry.** (TODO)
+  1. Alternative form of 鎮. **See $鎮zan3 for the canonical entry.**
+  ++
+S
+  ==
+  - $瑱tin3 (TODO) <## also spelt $琠tin3 ##>
+  ==
+$$
+
 ### 賑3 | _Chan(3)_ [[zan3]]
 
 $$
@@ -651,7 +680,7 @@ U
   U+93AE
 A
   ==
-  - 瑱
+  - $瑱3
   - $鎭3
   - 镇 (Mainland simplified)
   ==

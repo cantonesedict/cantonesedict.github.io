@@ -10405,6 +10405,12 @@
 "text":"U+5E2A zan1 (per 《廣韻》職鄰切) (Page 17|n60 帪) A bag to tie on a horse's head, in which his fodder is placed (Kangxi: 囊也馬兜也, 帪飤馬橐). The reading _chan_ (zan3) is not unattested; 《集韻》 has the reading 之刃切, explained 方言飤馬槖."
 }
 },
+"瑱":{
+"zan3":{
+"isCanonical":true,
+"text":"U+7471 May appear as either ⿰𤣩眞 or ⿰𤣩真 (assumed here), depending on the font. The two forms are actually separate characters in Kangxi (p.740#2 and p.740#3 respectively). A type of jade (Kangxi: 玉名)."
+}
+},
 "鎭":{
 "zan3":{
 "isCanonical":false,
