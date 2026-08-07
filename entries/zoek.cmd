@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -982,7 +982,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to  _Ch(e/)uk(9)_ (zoek6)]]
+  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to _Ch(e/)uk(9)_ (zoek6)]]
     ==
     - Right, correct;
     - according to;
@@ -1112,7 +1112,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to  _Ch(e/)uk(9)_ (zoek6)]]
+  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to _Ch(e/)uk(9)_ (zoek6)]]
     --
     [[Alternative form of 着. **See $着zoek6 for the canonical entry.**]]
     --
