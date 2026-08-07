@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,6 +69,7 @@ U
   U+5291
 A
   ==
+  - 剤
   - 剂 (Mainland simplified)
   ==
 V
@@ -153,6 +154,7 @@ U
   U+64E0
 A
   ==
+  - 㨈
   - 挤 (Mainland simplified)
   ==
 V
@@ -291,6 +293,7 @@ U
   U+8E8B
 A
   ==
+  - 䠁
   - 跻 (Mainland simplified)
   ==
 V
@@ -338,6 +341,7 @@ U
   U+96AE
 A
   ==
+  - 䠁
   - $躋1 (for "ascend" sense)
   - {𬯀=⿰阝齐} (Mainland simplified)
   ==
@@ -466,10 +470,14 @@ $$
 $$
 R
   ⿑ + 9
+  ⾲ + 14
 U
   U+9F4F
 A
   ==
+  - 虀
+  - 䪡
+  - 䪢
   - 齑 (Mainland simplified)
   ==
 F
@@ -489,11 +497,6 @@ W
         to blend, as when mixing the tastes of spices.
     ==
   ====
-C
-  ==
-  - Fan Wan entry: Note that the headword 虀
-    is not the same as Williams' headword 齏.
-  ==
 $$
 
 
@@ -612,6 +615,8 @@ U
   U+6FDF
 A
   ==
+  - 済
+  - 㴉
   - 济 (Mainland simplified)
   ==
 F
@@ -911,6 +916,8 @@ U
   U+6FDF
 A
   ==
+  - 済
+  - 㴉
   - 济 (Mainland simplified)
   ==
 F

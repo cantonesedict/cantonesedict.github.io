@@ -656,6 +656,7 @@ U
   U+9F4A
 A
   ==
+  - 亝
   - 斉
   - 斊
   - 齐 (Mainland simplified)
