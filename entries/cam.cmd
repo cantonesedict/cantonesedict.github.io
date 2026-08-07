@@ -138,6 +138,12 @@ R
   ⽔ + 7
 U
   U+6D78
+A
+  ==
+  - 寖
+  - 㴆
+  - 濅
+  ==
 V
   ==
   - zam3 (per Williams, common)
