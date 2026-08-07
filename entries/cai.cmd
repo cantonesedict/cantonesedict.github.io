@@ -789,6 +789,7 @@ U
   U+85BA
 A
   ==
+  - 萕
   - 荠 (Mainland simplified)
   ==
 F
