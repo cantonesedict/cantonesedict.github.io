@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2026-07-18
+* %date-modified --> 2026-08-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,6 +94,8 @@ U
 A
   ==
   - 珎
+  - 鉁
+  - 錱
   ==
 F
   ==
@@ -649,6 +651,7 @@ U
   U+93AE
 A
   ==
+  - 瑱
   - $鎭3
   - 镇 (Mainland simplified)
   ==
@@ -804,6 +807,7 @@ U
   U+9663
 A
   ==
+  - 敶
   - $陳6
   - 阵 (Mainland simplified)
   ==
