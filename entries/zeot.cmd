@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -179,8 +179,8 @@ U
   U+637D
 V
   ==
-  - cyut3 (common for literary senses)
-  - zyut6 (per 《廣韻》昨没切 for literary senses)
+  - cyut3 (common)
+  - zyut6 (per 《廣韻》昨没切)
   ==
 F
   [[Not present]]
