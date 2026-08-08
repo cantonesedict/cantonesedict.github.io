@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,6 +100,10 @@ R
   ⼃ + 3
 U
   U+4E4B
+A
+  ==
+  - 㞢
+  ==
 F
   ==
   - (F1.35 之) 於也往也又語助詞
@@ -264,6 +268,7 @@ U
 A
   ==
   - $諮1 (for "consultation" senses)
+  - 谘 (Mainland simplified for "consultation" senses)
   ==
 F
   ==
@@ -939,6 +944,11 @@ R
   ⽶ + 6
 U
   U+7CA2
+A
+  ==
+  - 秶
+  - 齍
+  ==
 F
   ==
   - (F2.34 粢) ::[黍]稷曰粢::
@@ -1019,6 +1029,10 @@ R
   ⾁ + 4
 U
   U+80A2
+A
+  ==
+  - 胑
+  ==
 F
   ==
   - (F1.36 肢) 四肢
@@ -1210,6 +1224,7 @@ U
 A
   ==
   - $兹1
+  - 茊
   ==
 F
   ==
@@ -1268,6 +1283,7 @@ U
 A
   ==
   - $甾1
+  - 䎩
   - 葘
   ==
 F
@@ -1825,6 +1841,9 @@ W
     - A hoe ~~for removing weeds~~, called _(1)tsz' (1)k(i/)_ [[zi1 gei1 鎡基]] [[Kangxi: 鎡錤鉏也]],
       having a long narrow blade.
     ==
+    --
+    [[Otherwise, an alternative form of 鼒. **See $鼒zi1 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -1848,6 +1867,7 @@ U
   U+9AED
 A
   ==
+  - 頾
   - 頿
   ==
 F
@@ -1869,7 +1889,7 @@ C
   ==
   - Williams' "beautiful, good-looking":
     This is misreading Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
-    when it is intended as an homophony-definition of the "moustache" sense.
+    when it is intended as a near-homophony-definition of the "moustache" sense.
   ==
 L
   ====
@@ -1887,6 +1907,10 @@ R
   ⿍ + 3
 U
   U+9F12
+A
+  ==
+  - $鎡1
+  ==
 F
   ==
   - (F2.34 ::[鼒]::) 小鼎
@@ -2354,6 +2378,10 @@ R
   ⼦ + 0
 U
   U+5B50
+A
+  ==
+  - 㜽
+  ==
 F
   ==
   - (F2.35 子) 子嗣子息子者人之嘉稱故凡有德者稱之曰君子
@@ -2763,6 +2791,11 @@ R
   ⽊ + 7
 U
   U+6893
+A
+  ==
+  - 杍
+  - 榟
+  ==
 F
   ==
   - (F2.35 梓) 木名
@@ -3506,6 +3539,7 @@ U
 A
   ==
   - $止2 (for "foot" sense)
+  - $阯2 (for "toe" sense)
   ==
 F
   ==
@@ -3526,7 +3560,7 @@ W
         to walk.
     ==
     --
-    [[Otherwise, an alternative form of 阯 (in 交阯 spelt 交趾). **See $阯zi2 for the canonical entry.**]]
+    [[Alternative form of 阯 (in 交阯 spelt 交趾). **See $阯zi2 for the canonical entry.**]]
     --
   ====
 L
@@ -3595,19 +3629,21 @@ W
   ====
   - [[Page~39|n82 (2)阯]]
     ==
-    - ~~Used for the last [[趾]];~~
+    - Used for the last [[趾]];
     - _(1)K(a/)u (2)ch(i/)_
         [[gaau1 zi2 交阯]],
         Cochinchina [[Kangxi: 交阯漢郡名]], said to be applied to it because men and women bathed together [[Kangxi: 其俗男女同川而浴故曰交阯]].
     ==
+    --
+    [[Alternative form of 趾 (for the "toe" sense). See $趾zi2.]]
+    --
     --
     [[Otherwise, an alternative form of 址. **See $址zi2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams' "Used for the last":
-    I have only seen this in the other direction, i.e. using 趾 for 阯.
+  - Williams' 交阯: That is, "interlocking toes".
   ==
 $$
 
