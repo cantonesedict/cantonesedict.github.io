@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -277,6 +277,7 @@ U
   U+7E36
 A
   ==
+  - 馽
   - 絷 (Mainland simplified)
   ==
 F
@@ -373,10 +374,10 @@ E
   which matches _tsap(7)_ (zap1) in pronunciation:
   --
   """"
-  ::B5.w543b0405 子入切 (:蓻:) 草生多皃::
+  ::B5.w543b0405 (:子入切:) (:蓻:) 草生多皃::
   """"
   """"
-  ::K. (:蓻:) 《唐韻》子入切音{𥠋=⿰禾咠}草生多貌　又《玉篇》茅芽也[...]::
+  ::K. (:蓻:) 《唐韻》(:子入切音{𥠋=⿰禾咠}:)草生多貌　又《玉篇》茅芽也[...]::
   """"
 $$
 
