@@ -2166,7 +2166,8 @@ class CharacterEntry:
         CharacterEntry.lint_character_jyutping_consistency(e_content)
 
         CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
-        CharacterEntry.lint_additionality(is_added, character_run, williams_run, character, w_content, heading_content)
+        CharacterEntry.lint_additionality(is_canonical, is_added, character_run, williams_run, character,
+                                          w_content, heading_content)
         CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_reading_variation_order(reading_variations)
@@ -2510,8 +2511,9 @@ class CharacterEntry:
                 raise LintException(f'expected `{heading_content}` to be non-canonical')
 
     @staticmethod
-    def lint_additionality(is_added: bool, character_run: str, williams_run: str, character: str, w_content: str,
-                           heading_content: str):
+    def lint_additionality(is_canonical: bool, is_added: bool, character_run: str, williams_run: str, character: str,
+                           w_content: str, heading_content: str):
+        is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
         locator_lines = re.findall(
             pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
@@ -2519,7 +2521,7 @@ class CharacterEntry:
             flags=re.MULTILINE | re.VERBOSE,
         )
 
-        if w_content.strip() != '[[Not present]]' and character not in '\n'.join(locator_lines):
+        if is_williams_present and character not in '\n'.join(locator_lines):
             raise LintException(
                 f'character `{character}` not present in at least one locator under `{heading_content}`'
             )
@@ -2556,6 +2558,8 @@ class CharacterEntry:
         )
 
         if are_locators_all_redirected and not is_heading_edited:
+            if not is_canonical and is_williams_present:
+                raise LintException(f'expected `{heading_content}` to be `[[Not present]]` in Williams')
             if not (is_added or is_alternative_given):
                 raise LintException(f'expected `{heading_content}` to be added ')
         else:
