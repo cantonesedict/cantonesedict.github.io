@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-07-25
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -296,6 +296,10 @@ R
   ⼥ + 5
 U
   U+59D0
+A
+  ==
+  - 媎 (for "mother" sense)
+  ==
 V
   ==
   - ze2-1 (vernacular, and high second in reduplication 姐姐)
@@ -437,6 +441,7 @@ W
   ======
 C
   ==
+  - The dotted form is compatibility ideograph U+FA5B.
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
   - Williams' 仁者樂山: This example should appear under the "indicates a class" sense.
   - Williams' 中也者天下之大本也: Changed (very) obsolete _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
@@ -579,6 +584,10 @@ R
   ⼈ + 8
 U
   U+501F
+A
+  ==
+  - 徣
+  ==
 V
   ==
   - zek3 (alternative per 《廣韻》資昔切)
@@ -926,6 +935,10 @@ R
   ⽊ + 10
 U
   U+69AD
+A
+  ==
+  - $謝6
+  ==
 F
   ==
   - (F2.85 榭) 臺榭有屋曰臺無屋曰榭
@@ -1060,6 +1073,9 @@ W
         [[cau4 ze6 酬謝]]
         to requite in kind.
     ==
+    --
+    [[Otherwise, an alternative form of 榭. **See $榭ze6 for the canonical entry.**]]
+    --
   ====
 P
   ++
