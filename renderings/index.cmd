@@ -10539,6 +10539,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] assist
       ==
   //
+    , `tuwH`
+    , [咮~(departing)](/entries/zau#rendering-咮-departing)
+    ,
+      ==
+      - (_noun-like_) beak
+      ==
+  //
     , `twat`
     , [掇~(take)](/entries/zyut#rendering-掇-take)
     ,

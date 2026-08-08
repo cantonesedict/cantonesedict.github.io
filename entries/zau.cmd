@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1281,6 +1281,11 @@ R
   ⾛ + 0
 U
   U+8D70
+A
+  ==
+  - 㞫
+  - 赱
+  ==
 V
   ==
   - zau3 (alternative per 《廣韻》則候切)
@@ -1601,6 +1606,7 @@ A
   ==
   - $呪3
   - $祝3
+  - 詋
   ==
 F
   ==
@@ -1653,7 +1659,12 @@ U
   U+54AE
 A
   ==
+  - 噣
   - 注
+  ==
+V
+  ==
+  - dau3 (alternative per 《廣韻》都豆切 for 噣)
   ==
 F
   ==
@@ -1663,7 +1674,7 @@ W
   ====
   - [[Page~26|n69 咮(3)]]
     ==
-    - The bill of birds [[Kangxi: 鳥口也, 咮喙也]];
+    - The bill of birds [[Kangxi: 鳥口也, 與噣同, 咮喙也, 通作注]];
     - to peck with the bill~~, the twittering of birds~~.
     ==
     --
@@ -1676,7 +1687,7 @@ C
   ==
 L
   ====
-  * 【咮-departing】 (trjuwH)
+  * 【咮-departing】 (trjuwH, tuwH)
     ==
     - (_noun-like_) beak
     ==
@@ -2022,6 +2033,10 @@ R
   ⼌ + 7
 U
   U+5191
+A
+  ==
+  - 䩜
+  ==
 F
   ==
   - (F1.55 胄) 后裔也又甲胄
@@ -2381,6 +2396,11 @@ R
   ⾐ + 5
 U
   U+8896
+A
+  ==
+  - 褎
+  - 褏
+  ==
 F
   ==
   - (F1.56 袖) 衫袖
