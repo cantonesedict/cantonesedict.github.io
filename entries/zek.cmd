@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -303,6 +303,12 @@ R
   ⽧ + 10
 U
   U+7620
+A
+  ==
+  - 㾊
+  - 脨
+  - 膌
+  ==
 V
   ==
   - zik3 (alternative)
@@ -641,6 +647,8 @@ U
 A
   ==
   - $脊3
+  - 䳭
+  - {𪃹=⿱即鳥}
   - 鹡 (Mainland simplified)
   ==
 V
