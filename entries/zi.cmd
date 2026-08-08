@@ -4581,6 +4581,7 @@ U
   U+89F6
 A
   ==
+  - 觗
   - 觯 (Mainland simplified)
   ==
 V
