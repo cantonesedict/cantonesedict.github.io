@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -390,16 +390,13 @@ R
 U
   U+7B92
 F
-  ==
-  - (F1.53 箒 _(2)Chau_ (zau2)) 掃箒
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~25|n68 (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
-    --
-    [[Alternative form of 帚. **See $帚zaau2 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 帚. **See $帚zaau2 for the canonical entry.**
+  ++
 S
   ==
   - ($箒zau2)
@@ -721,12 +718,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
-    --
-    [[Alternative form of 棹. **See $棹zaau6 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 棹. **See $棹zaau6 for the canonical entry.**
+  ++
 S
   ==
   - $掉deu6 (TODO)
@@ -802,17 +798,13 @@ R
 U
   U+6AC2
 F
-  ==
-  - (F2.42 棹 _Ch(a/)u(3)_ (zaau3)) 進船之器
-  - (F2.43 櫂 _Ch(a/)u(3)_ (zaau3)) 同上
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
-    --
-    [[Alternative form of 棹. **See $棹zaau6 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 棹. **See $棹zaau6 for the canonical entry.**
+  ++
 $$
 
 ###+ 驟6 | _Ch(a/)u(6)_ [[zaau6]]

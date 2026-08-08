@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -522,7 +522,7 @@ W
     - [[...]].
     ==
     --
-    This character is often distinguished into
+    This character is ~~often~~ ``to be`` distinguished into
     _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]].
     --
   ====
@@ -864,7 +864,7 @@ S
 $$
 
 
-##{#6 .williams} ``Ch(e/)uk(9)`` Ts(e/)uk(9) [[zoek6 陽入]]
+##{#6 .williams} Ch(e/)uk(9) Ts(e/)uk(9) [[zoek6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways characters">
@@ -965,7 +965,7 @@ S
   ==
 $$
 
-###+ 着6 | _Ch(e/)uk(9)_ [[zoek6]]
+### 着6 | _Ch(e/)uk(9)_ [[zoek6]]
 
 $$
 R
@@ -982,7 +982,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to _Ch(e/)uk(9)_ (zoek6)]]
+  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
     ==
     - Right, correct;
     - according to;
@@ -1054,7 +1054,7 @@ W
         hidden, sub rosâ, underhand.
     ==
     --
-    This character is often distinguished into
+    This character is ~~often~~ ``to be`` distinguished into
     _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]].
     --
   ====
@@ -1098,7 +1098,7 @@ S
   ==
 $$
 
-###+ 著6 | _Ch(e/)uk(9)_ [[zoek6]]
+### 著6 | _Ch(e/)uk(9)_ [[zoek6]]
 
 $$.
 R
@@ -1112,7 +1112,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to _Ch(e/)uk(9)_ (zoek6)]]
+  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
     --
     [[Alternative form of 着. **See $着zoek6 for the canonical entry.**]]
     --

@@ -4024,12 +4024,11 @@ H
 F
   [[Not present]]
 W
-  ====
-  - [[Page~13* 植(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(3)_ (zi3)]]
-    --
-    [[Alternative form of 置. **See $置zi3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 置. **See $置zi3 for the canonical entry.**
+  ++
 S
   ==
   - ($植zi6)

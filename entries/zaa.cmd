@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -734,12 +734,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]]
-    --
-    [[Alternative form of 吒. **See $吒zaa3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 吒. **See $吒zaa3 for the canonical entry.**
+  ++
 S
   ==
   - ($咤caa3)
