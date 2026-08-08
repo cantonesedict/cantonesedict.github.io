@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,10 @@ R
   ⽊ + 8
 U
   U+690E
+A
+  ==
+  - 㮅 (for tree-type sense)
+  ==
 F
   [[Not present]]
 W
@@ -251,6 +255,7 @@ U
   U+8127
 A
   ==
+  - 啫 (Cantonese vernacular)
   - 䘒
   ==
 V
@@ -1444,6 +1449,7 @@ U
   U+589C
 A
   ==
+  - 䃍
   - $隊6
   - 坠 (Mainland simplified)
   ==
@@ -1965,6 +1971,10 @@ R
   ⿂ + 14
 U
   U+9C6E
+A
+  ==
+  - 魣
+  ==
 F
   ==
   - (F1.48 鱮) 魴鱮魚名
