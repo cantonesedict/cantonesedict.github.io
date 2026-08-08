@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -179,6 +179,10 @@ R
   ⽊ + 10
 U
   U+699B
+A
+  ==
+  - 樼
+  ==
 F
   ==
   - (F2.52 榛) ::榛[檜]木名::
@@ -191,6 +195,9 @@ W
     - ~~wood, brushwood~~ ``a type of tree`` [[Kangxi: 木也]];
     - thorny bushes, as in thickset hedges [[Kangxi: 一曰蕪也]].
     ==
+    --
+    [[Otherwise, an alternative form of 蓁. **See $蓁zeon1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -516,6 +523,10 @@ R
   ⾋ + 10
 U
   U+84C1
+A
+  ==
+  - $榛1
+  ==
 V
   ==
   - ceon4 (per 《集韻》鋤臻切 for "tree-thicket" sense)
@@ -1092,6 +1103,7 @@ U
   U+4FCA
 A
   ==
+  - 㑺
   - $儁3
   - $雋3
   - $駿3
@@ -1324,6 +1336,7 @@ U
 A
   ==
   - 晋
+  - 㬜
   ==
 F
   ==
