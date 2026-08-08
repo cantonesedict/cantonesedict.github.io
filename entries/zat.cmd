@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,7 +276,7 @@ W
   ====
 $$
 
-### ~~{？=⿰阝⿱步馬}~~``騭``1 | _Chat(7)_ [[zat1]]
+###+ 騭1 | _Chat(7)_ [[zat1]]
 
 $$
 R
@@ -286,6 +286,7 @@ U
 A
   ==
   - $隲1
+  - {𨽥=⿰阝⿱步馬}
   - 骘 (Mainland simplified)
   ==
 F
@@ -294,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 ::~~{？=⿰阝⿱步馬}~~``騭``(7)隲(7)::]]
+  - [[Page~23|n66 {𨽥=⿰阝⿱步馬}(7)隲(7); here normalised to 騭]]
     ==
     - A stallion [[Kangxi 騭: 牡馬也, 牡曰騭]];
     - to mount;
@@ -329,6 +330,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($侄6)
 - ($咥6)
 - $姪6
 - $嫉6
@@ -343,6 +345,23 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 侄6 | _Chat(9)_ [[zat6]]
+
+$$.
+R
+  ⼈ + 6
+U
+  U+4F84
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 姪. **See $姪zat6 for the canonical entry.**
+  ++
+$$
 
 ### 咥6 | _Chat(9)_ [[zat6]]
 
@@ -380,8 +399,14 @@ R
   ⼥ + 6
 U
   U+59EA
+A
+  ==
+  - $侄6
+  - 妷
+  ==
 V
   ==
+  - dit6 (alternative per 《廣韻》徒結切)
   - zat6-2 (vernacular rising-tone noun)
   ==
 F
@@ -410,6 +435,13 @@ W
         young relatives.
     ==
   ====
+L
+  ====
+  * 【姪】 (det, drit)
+    ==
+    - (_noun-like_) nephew, niece
+    ==
+  ====
 E
   ==
   - 【姪婦】 (zat6 pou5)
@@ -432,7 +464,13 @@ U
   U+5AC9
 A
   ==
+  - 㑵
+  - 愱
   - $疾6
+  ==
+V
+  ==
+  - zi6 (alternative per 《廣韻》疾二切)
   ==
 F
   ==
@@ -456,6 +494,14 @@ W
     - _tsat(9) t(o\)(3)_
         [[zat6 dou3 嫉妒]]
         jealousy.
+    ==
+  ====
+L
+  ====
+  * 【嫉】 (dzit, dzijH)
+    ==
+    - (_verb-like_) [to] be jealous
+    - (_noun-like_) jealousy
     ==
   ====
 $$

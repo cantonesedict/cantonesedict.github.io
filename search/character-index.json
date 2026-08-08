@@ -10572,7 +10572,13 @@
 "騭":{
 "zat1":{
 "isCanonical":true,
-"text":"U+9A2D 隲 骘 (Mainland simplified) (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 ~~？~~騭隲) A stallion (Kangxi 騭: 牡馬也, 牡曰騭); to mount; to ascend (Kangxi 騭: 乗馬登山也); to raise, to promote (Kangxi 騭: 騭陞也); to fix, to determine (Kangxi 騭: 定也); _yam chat_ (jam1 zat1 陰騭) to think upon kindly, a secret benevolence; _tsik yam chat_ (zik1 jam1 zat1 積陰騭) to perform many good deeds. Fan Wan entry: Corrected 降 to 陞. 【騭】 (tsyit) (_verb-like_) to secure (_verb-like_) to raise"
+"text":"U+9A2D 隲 𨽥 骘 (Mainland simplified) (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 𨽥隲; here normalised to 騭) A stallion (Kangxi 騭: 牡馬也, 牡曰騭); to mount; to ascend (Kangxi 騭: 乗馬登山也); to raise, to promote (Kangxi 騭: 騭陞也); to fix, to determine (Kangxi 騭: 定也); _yam chat_ (jam1 zat1 陰騭) to think upon kindly, a secret benevolence; _tsik yam chat_ (zik1 jam1 zat1 積陰騭) to perform many good deeds. Fan Wan entry: Corrected 降 to 陞. 【騭】 (tsyit) (_verb-like_) to secure (_verb-like_) to raise"
+}
+},
+"侄":{
+"zat6":{
+"isCanonical":false,
+"text":"U+4F84"
 }
 },
 "咥":{
@@ -10584,13 +10590,13 @@
 "姪":{
 "zat6":{
 "isCanonical":true,
-"text":"U+59EA zat6-2 (vernacular rising-tone noun) (F1.87 姪) 兄弟之子曰姪 (Page 24|n67 姪) A brother's children (Kangxi: 兄弟之女也, 兄弟之子); _chat tsz'_ (zat6 zi2 姪子) a nephew; _chat nu_ (zat6 neoi5-2 姪女), a ~~neice~~ niece; _ngoi chat_ (ngoi6 zat6-2 外姪) a wife's nephews; _nin chat_ (nin4 zat6-2 年姪) sons of alumni of the same year; _kun chat_ (gyun3 zat6 眷姪) young relatives. 【姪婦】 (zat6 pou5) A brother's son's wife. 【姪仔】 (zat6 zai2) A brother's son."
+"text":"U+59EA 侄 妷 dit6 (alternative per 《廣韻》徒結切) zat6-2 (vernacular rising-tone noun) (F1.87 姪) 兄弟之子曰姪 (Page 24|n67 姪) A brother's children (Kangxi: 兄弟之女也, 兄弟之子); _chat tsz'_ (zat6 zi2 姪子) a nephew; _chat nu_ (zat6 neoi5-2 姪女), a ~~neice~~ niece; _ngoi chat_ (ngoi6 zat6-2 外姪) a wife's nephews; _nin chat_ (nin4 zat6-2 年姪) sons of alumni of the same year; _kun chat_ (gyun3 zat6 眷姪) young relatives. 【姪】 (det, drit) (_noun-like_) nephew, niece 【姪婦】 (zat6 pou5) A brother's son's wife. 【姪仔】 (zat6 zai2) A brother's son."
 }
 },
 "嫉":{
 "zat6":{
 "isCanonical":true,
-"text":"U+5AC9 疾 (F1.87 嫉) 妬忌也 (Page 559 疾) used for the next (嫉); (Page 559 嫉) Envy, jealousy (Kangxi: 妎也); to envy, to dislike, as a competitor; _tsat in_ (zat6 jin4 嫉賢), to hate the worthy; _tsat to_ (zat6 dou3 嫉妒) jealousy."
+"text":"U+5AC9 㑵 愱 疾 zi6 (alternative per 《廣韻》疾二切) (F1.87 嫉) 妬忌也 (Page 559 疾) used for the next (嫉); (Page 559 嫉) Envy, jealousy (Kangxi: 妎也); to envy, to dislike, as a competitor; _tsat in_ (zat6 jin4 嫉賢), to hate the worthy; _tsat to_ (zat6 dou3 嫉妒) jealousy. 【嫉】 (dzit, dzijH) (_verb-like_) to be jealous (_noun-like_) jealousy"
 }
 },
 "挃":{
