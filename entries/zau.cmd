@@ -1533,6 +1533,7 @@ $$
 - ($呪3)
 - $咒3
 - $咮3
+- ($噣3)
 - $奏3
 - $晝3
 - $椆3
@@ -1659,7 +1660,7 @@ U
   U+54AE
 A
   ==
-  - 噣
+  - $噣3
   - 注
   ==
 V
@@ -1695,6 +1696,27 @@ L
 S
   ==
   - $咮zyu1
+  ==
+$$
+
+###+ 噣3 | _Chau(3)_ [[zau3]]
+
+$$.
+R
+  ⼝ + 13
+U
+  U+5663
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 咮. **See $咮zau3 for the canonical entry.**
+  ++
+S
+  ==
+  - ($噣doek3) (TODO)
   ==
 $$
 
