@@ -3002,7 +3002,7 @@
 },
 "zeot1":{
 "isCanonical":true,
-"text":"U+9EDC 絀 ceot1 (per 《廣韻》丑律切) zyut3 (common) (F2.55 黜) 諄入聲貶斥也 (F2.55 絀) 同上 (Page 41 黜) ~~To blame;~~ to degrade, to dismiss, to put out of office (Kangxi: 貶下也, 退也貶也下也去也放絕也減也); to expel; _chut t'ui_ (zeot1 teoi3 黜退) to cashier; _sam chut_ (saam3 zeot1 三黜) ~~a third reprimand~~ thrice dismissed; _yuk chut_ (juk6 zeot1 辱黜) degraded and ashamed. (Page 41 絀; here normalised to 黜) used for the preceding (黜) (Kangxi 絀: 同黜). Williams' 三黜: Corrected _sam_ (saam1) to _sam_ (saam3) per 《論語集注》三去聲. Here, 黜 refers to dismissal, not a reprimand. To reject. To abolish. To rebuke. 【黜】 (trhwit) (_verb-like_) to expel, to reject, to dismiss, to degrade"
+"text":"U+9EDC 絀 詘 ceot1 (per 《廣韻》丑律切) zyut3 (common) (F2.55 黜) 諄入聲貶斥也 (F2.55 絀) 同上 (Page 41 黜) ~~To blame;~~ to degrade, to dismiss, to put out of office (Kangxi: 貶下也, 退也貶也下也去也放絕也減也); to expel; _chut t'ui_ (zeot1 teoi3 黜退) to cashier; _sam chut_ (saam3 zeot1 三黜) ~~a third reprimand~~ thrice dismissed; _yuk chut_ (juk6 zeot1 辱黜) degraded and ashamed. (Page 41 絀; here normalised to 黜) used for the preceding (黜) (Kangxi 絀: 同黜). Williams' 三黜: Corrected _sam_ (saam1) to _sam_ (saam3) per 《論語集注》三去聲. Here, 黜 refers to dismissal, not a reprimand. To reject. To abolish. To rebuke. 【黜】 (trhwit) (_verb-like_) to expel, to reject, to dismiss, to degrade"
 }
 },
 "呞":{
@@ -11773,6 +11773,12 @@
 "zeon6":{
 "isCanonical":false,
 "text":"U+5C3D (F2.54 盡) 空也竭也終也悉也 (F2.54 尽) 同上 (Page 602 盡尽)"
+}
+},
+"詘":{
+"zeot1":{
+"isCanonical":false,
+"text":"U+8A58"
 }
 },
 "卮":{

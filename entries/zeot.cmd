@@ -47,6 +47,7 @@ $$
 - $怵1
 - $捽1
 - ($絀1)
+- ($詘1)
 - $黜1
 ==
 </nav>
@@ -271,6 +272,27 @@ S
   ==
 $$
 
+###+ 詘1 | _Chut(7)_ [[zeot1]]
+
+$$.
+R
+  ⾔ + 5
+U
+  U+8A58
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 黜. **See $黜zeot1 for the canonical entry.**
+  ++
+S
+  ==
+  - $詘wat1 (TODO)
+  ==
+$$
+
 ### 黜1 | _Chut(7)_ [[zeot1]]
 
 $$
@@ -281,6 +303,7 @@ U
 A
   ==
   - $絀1
+  - $詘1
   ==
 V
   ==
