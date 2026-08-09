@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,6 +149,7 @@ U
 A
   ==
   - $卽1
+  - 皍
   ==
 V
   ==
@@ -797,6 +798,7 @@ U
   U+8077
 A
   ==
+  - 軄
   - 职 (Mainland simplified)
   ==
 F
@@ -1453,6 +1455,9 @@ W
         [[gam1 zik6 今夕]]
         this evening.
     ==
+    --
+    [[Otherwise, an alternative form of 穸. **See $穸zik6 for the canonical entry.**]]
+    --
   ====
 P
   ++
@@ -1593,6 +1598,10 @@ U
 H
   May appear with right component as 値 or 值 (assumed here),
   depending on the font.
+A
+  ==
+  - 㯰
+  ==
 V
   ==
   - zi6 (per 《廣韻》直吏切 for verb "plant" sense and Kangxi 直吏切 for "lean" sense)
@@ -1687,6 +1696,10 @@ W
         nature flourishes.
     ==
   ====
+C
+  ==
+  - In modern usage, "colonise" (殖民).
+  ==
 P
   ++
   1. To cultivate (Kangxi: 封殖也).
@@ -1733,6 +1746,10 @@ R
   ⽔ + 9
 U
   U+6E5C
+A
+  ==
+  - 㵓
+  ==
 V
   ==
   - sat6 (common)
@@ -1919,6 +1936,10 @@ R
   ⽳ + 3
 U
   U+7A78
+A
+  ==
+  - $夕6
+  ==
 F
   ==
   - (F1.78 穸) 窀穸墓穴幽堂也穸夜也言穴中厚暗如長夜也
@@ -1927,7 +1948,7 @@ W
   ====
   - [[Page~570 穸(9)]]
     ==
-    - ~~Dark, obscure, as a winter night;~~
+    - Dark, obscure, as a winter night [[Kangxi: 窀厚也穸夜也言穴中厚暗如長夜也一曰長埋謂之窀長夜謂之穸]];
     - a vault;
     - ~~a niche or recess in~~ a sepulchre [[Kangxi: 窀穸也]];
     - _(1)chun tsik(9)_
@@ -1935,13 +1956,6 @@ W
         the tomb, the grave.
     ==
   ====
-C
-  ==
-  - Williams' "Dark, obscure, as a winter night":
-    This is taking Kangxi ::《註》窀厚也穸夜也[...]一曰[...]長夜謂之穸::
-    as a definition for 穸, when it is simply an attempt in commentary
-    to explain the glyphs 窀穸.
-  ==
 $$
 
 ### ~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``6 | _Tsik(9)_ [[zik6]]
@@ -1992,6 +2006,8 @@ W
   ====
 C
   ==
+  - Williams misprints 籍 as ⿱𥫗⿰耒⿱龷月; here corrected.
+    (The character 籍 appears correctly on Page~792 in the character index.)
   - Williams' 雙籍: Now 雙重國籍 for "dual nationality".
   ==
 P
