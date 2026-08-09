@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -173,6 +173,10 @@ R
   ⼩ + 3
 U
   U+5C16
+A
+  ==
+  - 鑯
+  ==
 F
   ==
   - (F2.48 尖) 小也
@@ -227,6 +231,7 @@ U
   U+5E68
 A
   ==
+  - 裧
   - $襜1
   ==
 V
@@ -450,10 +455,6 @@ A
   ==
   - $黏1
   ==
-V
-  ==
-  - nim4 (per 《廣韻》女廉切)
-  ==
 F
   ==
   - (F2.47 粘) ？也
@@ -496,6 +497,11 @@ R
   ⾐ + 13
 U
   U+895C
+A
+  ==
+  - 裧
+  - 襝
+  ==
 V
   ==
   - cim1 (per 《廣韻》處占切)
@@ -554,6 +560,7 @@ A
   - $佔1
   - $占1
   - $沾1
+  - 䀡
   - 觇 (Mainland simplified)
   ==
 V
@@ -598,6 +605,10 @@ R
   ⾔ + 6
 U
   U+8A79
+A
+  ==
+  - $譫1 (for "verbose" sense)
+  ==
 F
   ==
   - (F2.47 詹) 姓亦竹名
@@ -627,7 +638,6 @@ W
   ====
 C
   ==
-  - Probably cognate with $譫zim1.
   - Fan Wan entry: Corrected headword ⿸厃⿳八土口 to {𦧕=⿸厃⿱儿舌}.
   ==
 P
@@ -653,6 +663,7 @@ U
   U+8B6B
 A
   ==
+  - 噡
   - 谵 (Mainland simplified)
   ==
 F
@@ -671,11 +682,10 @@ W
         [[zim1 jyu5 譫語]],
         wandering talk.
     ==
+    --
+    [[Alternative form of 詹 (for the "verbose" sense). See $詹zim1.]]
+    --
   ====
-C
-  ==
-  - Probably cognate with $詹zim1.
-  ==
 P
   ++
   1. Delirium (Kangxi: 病也).
