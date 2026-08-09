@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3281,6 +3281,8 @@ U
   U+9072
 A
   ==
+  - 赿
+  - 遅
   - 遟
   - 迟 (Mainland simplified)
   ==

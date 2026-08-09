@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4993,6 +4993,10 @@ R
   ⼈ + 5
 U
   U+4F3A
+A
+  ==
+  - 司
+  ==
 V
   ==
   - si1 (per 《廣韻》息兹切)
@@ -5025,6 +5029,7 @@ U
   U+4FDF
 A
   ==
+  - 䇃
   - $竢6
   ==
 F
@@ -5149,6 +5154,10 @@ R
   ⼝ + 10
 U
   U+55E3
+A
+  ==
+  - 孠
+  ==
 F
   ==
   - (F2.35 嗣) 子息也繼也
@@ -5771,7 +5780,7 @@ C
   ==
   - Williams' "to gnaw, as insects do": This is a misreading of Kangxi 痔食也蟲食之也,
     which is an (erroneous) explanation from 《釋名》
-    that haemorrhoids are (or caused by) some parasite feeding on the person.
+    that haemorrhoids are (or are caused by) some parasite feeding on the person.
   ==
 L
   ====
@@ -5832,6 +5841,10 @@ R
   ⽰ + 3
 U
   U+7940
+A
+  ==
+  - 禩
+  ==
 F
   ==
   - (F2.36 祀) 祭祀
@@ -6005,7 +6018,7 @@ U
   U+801C
 A
   ==
-  - 㭒
+  - 枱
   ==
 V
   ==
@@ -6190,6 +6203,7 @@ U
   U+9072
 A
   ==
+  - 遅
   - 遟
   - 迟 (Mainland simplified)
   ==
