@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -508,6 +508,12 @@ P
   ++
   1. The 86th~radical (U+2F55 ⽕ "fire").
   1. Internal "fire" (or "heat") in Chinese medicine.
+  1. A combustion engine.
+      ==
+      - 熄火 (sik1 fo2): "Turn off [the] engine."
+      - 撻火 (taat1 fo2): "Start [the] engine."
+      - 死咗火 (sei2 zo2 fo2): "Engine's stalled."
+      ==
   ++
 L
   ====
