@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10104,7 +10104,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] convect upward, [to] steam
-      - (_verb-like_) [to] adulter upward
+      - (_verb-like_) (_met._) [to] adulter upward
       - (_verb-like_) [to] put forth, [to] advance
       - (_adjective-like_) multitudinous
       - (_adjective-like_) stately
@@ -10116,7 +10116,6 @@ window.onload = applyFilter;
     , [蒸](/entries/zing#rendering-蒸)
     ,
       ==
-      - (_verb-like_) [to] steam
       - (_noun-like_) twig
       ==
   //

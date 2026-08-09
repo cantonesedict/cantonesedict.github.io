@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-07-30
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,6 +122,7 @@ U
   U+5F81
 A
   ==
+  - 徰
   - $正1
   ==
 F
@@ -189,6 +190,7 @@ U
   U+5FB5
 A
   ==
+  - 徴
   - 征 (Mainland simplified)
   ==
 F
@@ -476,6 +478,7 @@ U
   U+70DD
 A
   ==
+  - 㷥
   - $蒸1
   ==
 F
@@ -493,7 +496,7 @@ W
     - clouds of dust [[Kangxi: 塵也, 人衆所以生塵埃]];
     - ~~liberal~~ ``stately``, princely [[Kangxi: 君也]];
     - a winter sacrifice [[Kangxi: ::冬祭[曰]烝::, 進品物也]];
-    - to commit ~~incest with superiors in rank~~ ``adultery with an elder`` [[Kangxi: 上淫曰烝]];
+    - to commit ~~incest~~ ``adultery`` with superiors in rank [[Kangxi: 上淫曰烝]];
     - ~~to lay down;~~
     - _(1)t(')(i/)n (1)shang (1)ching (4)man_
         [[tin1 sang1 zing1 man4 天生烝民]]^
@@ -508,9 +511,6 @@ W
         to intrude one's self;
     - [[...]].
     ==
-    --
-    [[Otherwise, an alternative form of 蒸. **See $蒸zing1 for the canonical entry.**]]
-    --
   - [[Page~18* (1)蒸]]
     --
     Used for the last [[烝]] [[Kangxi 蒸: 通烝]].
@@ -526,12 +526,16 @@ W
   ====
 C
   ==
+  - In classical usage, "steam" is typically spelt 烝,
+    whilst $蒸1 typically refers to "twig".
+    In modern usage, "steam" is usually spelt $蒸1.
+    I have split Williams' entries up according to modern usage.
   - Williams' 烝嘗: Not just winter sacrifice, but sacrifice in general
     (烝 for winter, and 嘗 for autumn).
   ==
 P
   ++
-  1. Air convecting upward from a fire (Kangxi: 火气上行也).
+  1. To convect upward (Kangxi: 火气上行也), to steam. (Alternative form of 蒸 (for the "steam" senses). See $蒸zing1.)
   1. Speech-assist, specifically an initial particle (Kangxi: 烝發語辭).
   ++
 L
@@ -539,7 +543,7 @@ L
   * 【烝】 (tsying)
     ==
     - (_verb-like_) [to] convect upward, [to] steam
-    - (_verb-like_) [to] adulter upward
+    - (_verb-like_) (_met._) [to] adulter upward
     - (_verb-like_) [to] put forth, [to] advance
     - (_adjective-like_) multitudinous
     - (_adjective-like_) stately
@@ -618,7 +622,7 @@ W
   ====
 C
   ==
-  - Kangxi 目珠子也, is to me, a poor definition.
+  - Kangxi 目珠子也 is, to me, a poor definition.
     It is not clear whether 珠子 is the whole eyeball,
     from the iris inward, or just the pupil.
   ==
@@ -828,7 +832,8 @@ U
   U+84B8
 A
   ==
-  - $烝1
+  - 䒱 (for "twig" sense)
+  - $烝1 (for "steam" senses)
   ==
 F
   ==
@@ -876,11 +881,15 @@ W
         daily rising better and higher.
     ==
     --
-    [[Otherwise, an alternative form of 烝. **See $烝zing1 for the canonical entry.**]]
+    [[Alternative form of 烝. See $烝zing1.]]
     --
   ====
 C
   ==
+  - In classical usage, "steam" is typically spelt $烝1,
+    whilst 蒸 typically refers to "twig".
+    In modern usage, "steam" is usually spelt 蒸.
+    I have split Williams' entries up according to modern usage.
   - Williams' "to rise, as vapor or steam": Kangxi has this sense
     under departing-tone _ching(3)_ (zing3) (see $蒸zing3).
   ==
@@ -888,7 +897,6 @@ L
   ====
   * 【蒸】 (tsying)
     ==
-    - (_verb-like_) [to] steam
     - (_noun-like_) twig
     ==
   ====
@@ -1042,6 +1050,10 @@ R
   ⼆ + 2
 U
   U+4E95
+A
+  ==
+  - 丼
+  ==
 V
   ==
   - zeng2 (alternative)
@@ -1318,6 +1330,10 @@ R
   ⽌ + 1
 U
   U+6B63
+A
+  ==
+  - 㱏
+  ==
 V
   ==
   - zeng3 (vernacular adjective)
@@ -1674,6 +1690,7 @@ A
   ==
   - 净
   - 凈
+  - 浄
   - 瀞
   ==
 V
@@ -1817,6 +1834,7 @@ U
   U+9631
 A
   ==
+  - 汬
   - $穽6
   ==
 V
