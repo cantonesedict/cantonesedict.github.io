@@ -3296,6 +3296,14 @@ E
     ++
     1. Kraft paper.
     ++
+  - 【紙】 (zi2)
+    ++
+    1. Currency.
+       ==
+       - 港紙 (gong2 zi2): "Hong Kong currency."
+       - 澳紙 (ou3 zi2): "Australian currency."
+       ==
+    ++
   ====
 $$
 
