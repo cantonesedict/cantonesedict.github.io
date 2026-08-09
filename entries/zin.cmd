@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -133,6 +133,7 @@ U
   U+6214
 A
   ==
+  - 㦮
   - 戋 (Mainland simplified)
   ==
 V
@@ -185,6 +186,10 @@ R
   ⽅ + 6
 U
   U+65C3
+A
+  ==
+  - 旜
+  ==
 F
   ==
   - (F1.20 旃) 通白之器又解曰之
@@ -357,6 +362,10 @@ P
   ++
   1. To wash.
   ++
+S
+  ==
+  - ($湔zin3)
+  ==
 $$
 
 ###+ 濺1 | _(1)Ts(i/)n_ [[zin1]]
@@ -396,6 +405,10 @@ R
   ⽕ + 9
 U
   U+714E
+A
+  ==
+  - 㷙
+  ==
 F
   ==
   - (F1.20 煎) 熬煎
@@ -588,6 +601,7 @@ U
   U+7FB6
 A
   ==
+  - 䍹
   - 羴
   - $膻1
   ==
@@ -978,6 +992,10 @@ R
   ⼫ + 7
 U
   U+5C55
+A
+  ==
+  - 㞡
+  ==
 F
   ==
   - (F1.22 展) 舒展
@@ -1144,6 +1162,7 @@ U
   U+7FE6
 A
   ==
+  - 前
   - $剪2
   - $戩2
   ==
@@ -1362,6 +1381,7 @@ U
   U+9322
 A
   ==
+  - 銭
   - 钱 (Mainland simplified)
   ==
 F
@@ -1394,6 +1414,7 @@ U
   U+95E1
 A
   ==
+  - 閳
   - 阐 (Mainland simplified)
   ==
 V
@@ -1443,6 +1464,7 @@ $$
 - ($墊3)
 - $戰3
 - $洊3
+- ($湔3)
 - $濺3
 - $煎3
 - $牮3
@@ -1590,6 +1612,27 @@ P
   ++
 $$
 
+###+ 湔3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$.
+R
+  ⽔ + 9
+U
+  U+6E54
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 濺. **See $濺zin3 for the canonical entry.**
+  ++
+S
+  ==
+  - $湔zin1
+  ==
+$$
+
 ### 濺3 | _Ts(i/)n(3)_ [[zin3]]
 
 $$
@@ -1599,6 +1642,7 @@ U
   U+6FFA
 A
   ==
+  - $湔3
   - 溅 (Mainland simplified)
   ==
 F
@@ -1611,7 +1655,7 @@ W
     ==
     - [[...]];
     - to spatter up, to dash against;
-    - to squirt out, to spurt [[Kangxi: 水激也]], as blood.
+    - to squirt out, to spurt [[Kangxi: 水激也通作湔]], as blood.
     ==
   ====
 C
@@ -1639,6 +1683,10 @@ R
   ⽕ + 9
 U
   U+714E
+A
+  ==
+  - 㷙
+  ==
 F
   [[Not present]]
 W
@@ -2045,6 +2093,7 @@ U
   U+991E
 A
   ==
+  - 䬻
   - 饯 (Mainland simplified)
   ==
 V
@@ -2112,6 +2161,7 @@ U
   U+8CE4
 A
   ==
+  - 賎
   - 贱 (Mainland simplified)
   ==
 F

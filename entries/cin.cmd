@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-08-02
+* %date-modified --> 2026-08-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -811,6 +811,8 @@ U
   U+9322
 A
   ==
+  - 㦮
+  - 銭
   - 钱 (Mainland simplified)
   ==
 V
