@@ -2633,6 +2633,10 @@
 "ceoi1":{
 "isCanonical":false,
 "text":"U+8D8D"
+},
+"ci4":{
+"isCanonical":true,
+"text":"U+8D8D According to 段玉裁's annotations of 《說文》, the explanation 久也 (for the term 趍趙) should read 夊也, to go slowly (supplemented below). Karlgren has \"to run\" for 趍 on a Stone Drum inscription. Used in 趍趙 (to go slowly) (Kangxi: 趍趙夊也)."
 }
 },
 "趨":{

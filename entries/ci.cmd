@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-08-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2297,6 +2297,7 @@ $$
 - $蚳4
 - $詞4
 - ($訾4)
+- $趍4
 - $踟4
 - ($辞4)
 - $辭4
@@ -3131,6 +3132,34 @@ S
   - ($訾ci1)
   - $訾zi1
   - $訾zi2
+  ==
+$$
+
+###+ 趍4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⾛ + 6
+U
+  U+8D8D
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - According to 段玉裁's annotations of 《說文》,
+    the explanation 久也 (for the term 趍趙) should read 夊也,
+    to go slowly (supplemented below).
+  - Karlgren has "to run" for 趍 on a Stone Drum inscription.
+  ==
+P
+  ++
+  1. Used in 趍趙 (to go slowly) (Kangxi: ::趍趙[夊]也::).
+  ++
+S
+  ==
+  - ($趍ceoi1)
   ==
 $$
 

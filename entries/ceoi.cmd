@@ -529,6 +529,10 @@ P
   ++
   1. Alternative form of 趨. **See $趨ceoi1 for the canonical entry.**
   ++
+S
+  ==
+  - $趍ci4
+  ==
 $$
 
 ### 趨1 | _(1)Ts(')(u:)_ [[ceoi1]]

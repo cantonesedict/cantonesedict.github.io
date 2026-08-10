@@ -705,7 +705,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - ($趍ceoi1)
+      - ($趍ceoi1), $趍ci4
       - $趑zi1
       ==
       </nav>
