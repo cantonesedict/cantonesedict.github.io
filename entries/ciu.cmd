@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -738,6 +738,8 @@ U
   U+6194
 A
   ==
+  - $蕉4
+  - 醮
   - 䩌
   - 顦
   ==
@@ -1045,6 +1047,7 @@ W
 P
   ++
   1. Alternative form of 樵. **See $樵ciu4 for the canonical entry.**
+  1. Alternative form of 憔. **See $憔ciu4 for the canonical entry.**
   ++
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -358,6 +358,10 @@ R
   ⽊ + 8
 U
   U+6912
+A
+  ==
+  - 茮
+  ==
 F
   ==
   - (F2.3 椒) 胡椒皇后稱椒房以椒塗壁取其温柔又姓
@@ -428,6 +432,12 @@ R
   ⽕ + 8
 U
   U+7126
+A
+  ==
+  - {𤊙=⿱隹火}
+  - 㸈
+  - {𤓪=⿱雥火}
+  ==
 V
   ==
   - zeu1 (vernacular for "crust" and "scab" senses)
@@ -459,6 +469,9 @@ W
     ==
     --
     [[Otherwise, an alternative form of 膲. **See $膲ziu1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 鷦 (in 鷦䳟 spelt 焦明). **See $鷦ziu1 for the canonical entry.**]]
     --
   ====
 P
@@ -690,6 +703,7 @@ U
   U+9DE6
 A
   ==
+  - $焦1 (in 鷦䳟 spelt 焦明)
   - 鹪 (Mainland simplified)
   ==
 F
@@ -850,6 +864,10 @@ W
         ponds.
     ==
   ====
+C
+  ==
+  - In modern usage, used in 沼氣 (swamp gas).
+  ==
 L
   ====
   * 【沼】 (tsyewX)
@@ -933,6 +951,8 @@ U
 A
   ==
   - $炤3
+  - 㷖
+  - 燳
   ==
 F
   ==
@@ -1251,6 +1271,7 @@ U
   U+564D
 A
   ==
+  - {𡁻=⿰口趙} (Cantonese)
   - $嚼6
   ==
 V
@@ -1266,7 +1287,7 @@ W
     ~~A colloquial word.~~
     --
     ==
-    - To chew the cud, to ruminate;
+    - ~~To chew the cud, to ruminate;~~
     - to bite hard on, to craunch;
     - to chew, as tobacco.
     ==
