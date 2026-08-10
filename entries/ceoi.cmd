@@ -66,6 +66,7 @@ $$
 - $縗1
 - $蛆1
 - ($衰1)
+- ($趍1)
 - $趨1
 - ($龡1)
 ==
@@ -513,6 +514,23 @@ S
   ==
 $$
 
+###+ 趍1 | _(1)Ts(')(u:)_ [[ceoi1]]
+
+$$.
+R
+  ⾛ + 6
+U
+  U+8D8D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 趨. **See $趨ceoi1 for the canonical entry.**
+  ++
+$$
+
 ### 趨1 | _(1)Ts(')(u:)_ [[ceoi1]]
 
 $$
@@ -523,7 +541,7 @@ U
 A
   ==
   - 趋
-  - 趍
+  - $趍1
   ==
 F
   ==
