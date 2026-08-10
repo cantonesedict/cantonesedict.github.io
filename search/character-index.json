@@ -10172,17 +10172,21 @@
 "晢":{
 "zai3":{
 "isCanonical":true,
-"text":"U+6662 晣 (F1.32 晣) 小星明也又音若 (Page 9|n52 晣; here normalised to 晢) Brightness of stars (Kangxi 晢: 星光也); _ming sing chai chai_ (ming4 sing1 zai3 zai3 明星晢晢) the twinkling lustre of the stars. Fan Wan entry: Corrected headword 䀿 to 晣. The alternative reading (又音若) does not make sense; possibly 折 _chit_ (zit3) was intended. 【晢-departing】 (tsyejH) (_adjective-like_) bright"
+"text":"U+6662 晣 㫼 (F1.32 晣) 小星明也又音若 (Page 9|n52 晣; here normalised to 晢) Brightness of stars (Kangxi 晢: 星光也); _ming sing chai chai_ (ming4 sing1 zai3 zai3 明星晢晢) the twinkling lustre of the stars. Fan Wan entry: Corrected headword 䀿 to 晣. The alternative reading (又音若) does not make sense; possibly 折 _chit_ (zit3) was intended. 【晢-departing】 (tsyejH) (_adjective-like_) bright"
 },
 "zit3":{
 "isCanonical":true,
-"text":"U+6662 Bright (Kangxi: 昭晢明也). 【晢-entering】 (tsyet) (_adjective-like_) bright"
+"text":"U+6662 晣 㫼 Bright (Kangxi: 昭晢明也). 【晢-entering】 (tsyet) (_adjective-like_) bright"
 }
 },
 "晣":{
 "zai3":{
 "isCanonical":false,
 "text":"U+6663 (F1.32 晣) 小星明也又音若 (Page 9|n52 晣) Fan Wan entry: Corrected headword 䀿 to 晣. The alternative reading (又音若) does not make sense; possibly 折 _chit_ (zit3) was intended."
+},
+"zit3":{
+"isCanonical":false,
+"text":"U+6663"
 }
 },
 "祭":{
@@ -13110,7 +13114,7 @@
 },
 "zit6":{
 "isCanonical":true,
-"text":"U+776B zip3 (per 《廣韻》即葉切) zit3 (common) (F2.50 睫 _Tsip_ (zip3)) 目睫目旁毛也 (Page 579 睫 _Tsip_ (zip3); here normalised to _Tsit_ (zit6)) The eye-lashes (Kangxi: 目旁毛也); _met._ the eye; _sheung ~~tsip~~ tsit_ (soeng6 zit6 上睫) the upper eye-lashes. Fan Wan entry: Normalised headword (with right component like 㨗) to 睫. 【睫】 (tsjep) (_noun-like_) eyelash"
+"text":"U+776B 䀹 zip3 (per 《廣韻》即葉切) zit3 (common) (F2.50 睫 _Tsip_ (zip3)) 目睫目旁毛也 (Page 579 睫 _Tsip_ (zip3); here normalised to _Tsit_ (zit6)) The eye-lashes (Kangxi: 同䀹, 目旁毛也); _met._ the eye; _sheung ~~tsip~~ tsit_ (soeng6 zit6 上睫) the upper eye-lashes. Fan Wan entry: Normalised headword (with right component like 㨗) to 睫. 【睫】 (tsjep) (_noun-like_) eyelash"
 }
 },
 "襵":{
@@ -13132,7 +13136,7 @@
 },
 "zit3":{
 "isCanonical":true,
-"text":"U+6298 sit6 (per 《廣韻》常列切 for \"broken\" sense) (F1.25 折) 損也耗也 (Page 22* 折) To sunder, to snap in two, to break off (Kangxi: 拗折也); to fold, to bend (Kangxi: 屈也); to oppress, to repress (Kangxi: 挫也); to reprehend (Kangxi: 直指人過失也); to decide, to discriminate (Kangxi: 斷之也); to deduct; to stop (Kangxi: 止也), to injure; to lose one's heir (Kangxi: 父喪子曰折); an act of a play; to exchange, to lose in trade; to make amends for, to set over against; to abase, to lower; ~~unmarried~~ to die early, especially before marriage (Kangxi: 短折不祿也, 未婚曰折); _chit tsit ha kau_ (zit3 zit3 haa6 gaau1 折節下交), to condescend to men of low estate; _chit yuk_ (zit3 juk6 折獄) to ~~have a jail delivery~~ make judgement in a litigation; _mui p'at chit leung i shek_ (mui5 pat1 zit3 loeng4 ji6 sek6 每匹折量二石) each piece was reckoned as two stone of corn; _'m chit tak_ (m4 zit3 dak1 唔折得) cannot cheapen it; can't break it; _ki shing chit_ (gei2 sing4 zit3 幾成折) what discount will you make? _chit shik_ (zit3 sik6 折食) a composition in money for supplying viands; _chit kwai_ (zit3 gwai3 折桂) to pluck the cassia twig --- to be a graduate; _chit ho kam tik_ (zit3 hou3 gaam2 dik1 折耗減滴) to discount a trifle; a little broken; _ta chit_ (daa2 zit3 打折) broken off; _chit mo_ (zit3 mo4 折磨), greatly afflicted; _tseung kung chit tsui_ (zoeng1 gung1 zit3 zeoi6 將功折罪) to atone for error by meritorious conduct; _chit sun_ (zit3 syun2 折損), to break; _chit ka_ (zit3 gaa3 折價) to lower the price. Kangxi has the adjectival (or intransitive?) \"broken\" sense under the reading 食列切 _shit_ (sit6). Williams' 幾成折: Corrected _shing_ (sing1) to _shing_ (sing4). To turn, to change direction (Kangxi: 曲也). To destroy (Kangxi: 毀也). A burial frame (Kangxi: 葬具也 etc.). A setback, a difficulty. To admire, to be convinced of. 【折-voiced】 (dzyet) (_adjective-like_) broken 【折-unvoiced】 (tsyet) (_verb-like_) to break (off), (_met._) to decide, to die early (_verb-like_) to bend (_noun-like_) burial-frame 【折】 (zit3) A discount. 冇得折 (mou5 dak1 zit3): \"No discount.\" 折咗都係貴 (zit3 zo2 dou1 hai6 gwai3): \"Even discounted it's still expensive.\" 九折 (gau2 zit3): \"Nine-tenths discount\" (i.e. 10% off). 七五折 (cat1 ng5 zit3): \"Seven-tenths-five discount\" (i.e. 25% off)."
+"text":"U+6298 㪿 sit6 (per 《廣韻》常列切 for \"broken\" sense) (F1.25 折) 損也耗也 (Page 22* 折) To sunder, to snap in two, to break off (Kangxi: 拗折也); to fold, to bend (Kangxi: 屈也); to oppress, to repress (Kangxi: 挫也); to reprehend (Kangxi: 直指人過失也); to decide, to discriminate (Kangxi: 斷之也); to deduct; to stop (Kangxi: 止也), to injure; to lose one's heir (Kangxi: 父喪子曰折); an act of a play; to exchange, to lose in trade; to make amends for, to set over against; to abase, to lower; ~~unmarried~~ to die early, especially before marriage (Kangxi: 短折不祿也, 未婚曰折); _chit tsit ha kau_ (zit3 zit3 haa6 gaau1 折節下交), to condescend to men of low estate; _chit yuk_ (zit3 juk6 折獄) to ~~have a jail delivery~~ make judgement in a litigation; _mui p'at chit leung i shek_ (mui5 pat1 zit3 loeng4 ji6 sek6 每匹折量二石) each piece was reckoned as two stone of corn; _'m chit tak_ (m4 zit3 dak1 唔折得) cannot cheapen it; can't break it; _ki shing chit_ (gei2 sing4 zit3 幾成折) what discount will you make? _chit shik_ (zit3 sik6 折食) a composition in money for supplying viands; _chit kwai_ (zit3 gwai3 折桂) to pluck the cassia twig --- to be a graduate; _chit ho kam tik_ (zit3 hou3 gaam2 dik1 折耗減滴) to discount a trifle; a little broken; _ta chit_ (daa2 zit3 打折) broken off; _chit mo_ (zit3 mo4 折磨), greatly afflicted; _tseung kung chit tsui_ (zoeng1 gung1 zit3 zeoi6 將功折罪) to atone for error by meritorious conduct; _chit sun_ (zit3 syun2 折損), to break; _chit ka_ (zit3 gaa3 折價) to lower the price. Kangxi has the adjectival (or intransitive?) \"broken\" sense under the reading 食列切 _shit_ (sit6). Williams' 幾成折: Corrected _shing_ (sing1) to _shing_ (sing4). To turn, to change direction (Kangxi: 曲也). To destroy (Kangxi: 毀也). A burial frame (Kangxi: 葬具也 etc.). A setback, a difficulty. To admire, to be convinced of. 【折-voiced】 (dzyet) (_adjective-like_) broken 【折-unvoiced】 (tsyet) (_verb-like_) to break (off), (_met._) to decide, to die early (_verb-like_) to bend (_noun-like_) burial-frame 【折】 (zit3) A discount. 冇得折 (mou5 dak1 zit3): \"No discount.\" 折咗都係貴 (zit3 zo2 dou1 hai6 gwai3): \"Even discounted it's still expensive.\" 九折 (gau2 zit3): \"Nine-tenths discount\" (i.e. 10% off). 七五折 (cat1 ng5 zit3): \"Seven-tenths-five discount\" (i.e. 25% off)."
 }
 },
 "擳":{
@@ -13150,7 +13154,7 @@
 "哲":{
 "zit3":{
 "isCanonical":true,
-"text":"U+54F2 喆 嚞 悊 (F1.25 哲) 明哲 (F1.25 喆) 同上 (Page 22* 哲喆) Wise, perspicacious, sage (Kangxi 哲: 哲智也, 哲知也); to know intuitively; versed in; to be fully aware of; _ming chit_ (ming4 zit3 明哲) to know thoroughly; _pat chit_ (bat1 zit3 不哲) dull-headed. 【哲】 (trjet) (_adjective-like_) wise"
+"text":"U+54F2 啠 喆 嚞 悊 (F1.25 哲) 明哲 (F1.25 喆) 同上 (Page 22* 哲喆) Wise, perspicacious, sage (Kangxi 哲: 哲智也, 哲知也); to know intuitively; versed in; to be fully aware of; _ming chit_ (ming4 zit3 明哲) to know thoroughly; _pat chit_ (bat1 zit3 不哲) dull-headed. 【哲】 (trjet) (_adjective-like_) wise"
 }
 },
 "喆":{
@@ -13178,13 +13182,13 @@
 "櫛":{
 "zit3":{
 "isCanonical":true,
-"text":"U+6ADB May appear as either ⿰木⿱𥫗即 (+13 assumed here) or ⿰木⿱𥫗卽 (+15), depending on the font. 栉 (Mainland simplified) (F1.26 櫛) 櫛風沐雨 (Page 579 櫛) A comb of any kind (Kangxi: 梳枇之總名也); to comb, to clean (Kangxi: 理髮也); _kan tsit_ (gan1 zit3 巾櫛) towels and combs. Strictly, the pre-merger reading should be _chit_ per 《廣韻》阻瑟切. To remove, to weed out (Kangxi: 剔除也). 【櫛】 (tsrit) (_noun-like_) comb"
+"text":"U+6ADB May appear as either ⿰木⿱𥫗即 (+13 assumed here) or ⿰木⿱𥫗卽 (+15), depending on the font. 楖 栉 (Mainland simplified) (F1.26 櫛) 櫛風沐雨 (Page 579 櫛) A comb of any kind (Kangxi: 梳枇之總名也); to comb, to clean (Kangxi: 理髮也); _kan tsit_ (gan1 zit3 巾櫛) towels and combs. Strictly, the pre-merger reading should be _chit_ per 《廣韻》阻瑟切. To remove, to weed out (Kangxi: 剔除也). 【櫛】 (tsrit) (_noun-like_) comb"
 }
 },
 "浙":{
 "zit3":{
 "isCanonical":true,
-"text":"U+6D59 (F1.25 浙) 浙江 (Page 23* ~~淅~~浙) A river (Kangxi 浙: 江名) in Chehkiang (浙江), called _Chit shui_ (zit3 seoi2 浙水), from which the province is named."
+"text":"U+6D59 (F1.25 浙) 浙江 (Page 23* ~~淅~~浙) A river (Kangxi 浙: 江名) in Chehkiang (浙江), called _Chit shui_ (zit3 seoi2 浙水), from which the province is named. Williams misprints 浙 as 淅; here corrected. (The character 浙 for _chit_ (zit3) appears correctly on Page 777 in the character index.)"
 }
 },
 "癤":{

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -152,6 +152,7 @@ $$
 - $折3
 - ($捷3)
 - $晢3
+- ($晣3)
 - $櫛3
 - $浙3
 - $癤3
@@ -193,6 +194,7 @@ U
   U+54F2
 A
   ==
+  - 啠
   - $喆3
   - 嚞
   - 悊
@@ -284,6 +286,10 @@ R
   ⼿ + 4
 U
   U+6298
+A
+  ==
+  - 㪿
+  ==
 V
   ==
   - sit6 (per 《廣韻》常列切 for "broken" sense)
@@ -431,6 +437,11 @@ R
   ⽇ + 7
 U
   U+6662
+A
+  ==
+  - $晣3
+  - 㫼
+  ==
 F
   [[Not present]]
 W
@@ -452,6 +463,27 @@ S
   ==
 $$
 
+###+ 晣3 | _Ch(i/)t(8)_ [[zit3]]
+
+$$.
+R
+  ⽇ + 7
+U
+  U+6663
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 晢. **See $晢zit3 for the canonical entry.**
+  ++
+S
+  ==
+  - ($晣zai3)
+  ==
+$$
+
 ### 櫛3 | _Ts(i/)t(8)_ [[zit3]]
 
 $$
@@ -464,6 +496,7 @@ H
   depending on the font.
 A
   ==
+  - 楖
   - 栉 (Mainland simplified)
   ==
 F
@@ -518,6 +551,11 @@ W
       from which the province is named.
     ==
   ====
+C
+  ==
+  - Williams misprints 浙 as 淅; here corrected.
+    (The character 浙 for _ch(i/)t(8)_ (zit3) appears correctly on Page~777 in the character index.)
+  ==
 $$
 
 ### 癤3 | _Ts(i/)t(8)_ [[zit3]]
@@ -924,6 +962,10 @@ R
   ⽬ + 8
 U
   U+776B
+A
+  ==
+  - 䀹
+  ==
 V
   ==
   - zip3 (per 《廣韻》即葉切)
@@ -937,7 +979,7 @@ W
   ====
   - [[Page~579 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
     ==
-    - The eye-lashes [[Kangxi: 目旁毛也]];
+    - The eye-lashes [[Kangxi: 同䀹, 目旁毛也]];
     - _met._ the eye;
     - _sh(e/)ung(6) ~~ts(i/)p(8)~~ ``ts(i/)t(9)``_
         [[soeng6 zit6 上睫]]

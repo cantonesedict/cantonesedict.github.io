@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -847,6 +847,7 @@ U
 A
   ==
   - $晣3
+  - 㫼
   ==
 F
   ==
@@ -904,6 +905,10 @@ C
   - Fan Wan entry: Corrected headword 䀿 to 晣.
     The alternative reading (又音若) does not make sense;
     possibly 折 _ch(i/)t(8)_ (zit3) was intended.
+  ==
+S
+  ==
+  - ($晣zit3)
   ==
 $$
 
