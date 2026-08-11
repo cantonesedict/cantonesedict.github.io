@@ -127,3 +127,25 @@ should appear likewise but with an additional underline.
     ,{.font-test} 藥(9)
 ''
 ||||
+
+##{#various .modern} Various characters
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Code point
+    ; Remarks
+    ; Reference image
+    ; Your browser
+|:
+  //
+    , U+6558
+    ,
+      Should appear as ⿰余攵.
+      Appears incorrectly as ⿰余攴 in the serif font "Songti TC"
+      on macOS Tahoe (v26.5.2).
+    ,{.font-test} ![Serif character ⿰余攵](敘-serif.png)
+    ,{#u6558 .font-test style="font-family: serif"} 敘
+''
+||||

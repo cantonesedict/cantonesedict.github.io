@@ -1678,6 +1678,12 @@ W
     [[Otherwise, an alternative form of 序 (for the "order" and "preface" senses). **See $序zeoi6 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - The character U+6558 敘
+    is known to appear incorrectly in at least one serif font;
+    check [Font test page](/font-test/#u6558).
+  ==
 $$
 
 ### 綴6 | _Chui(6)_ [[zeoi6]]
