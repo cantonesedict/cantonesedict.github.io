@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,6 +62,11 @@ R
   ⼝ + 6
 U
   U+54C9
+A
+  ==
+  - 才
+  - 㦲
+  ==
 F
   ==
   - (F2.43 哉) 語助詞又始也
@@ -752,6 +757,11 @@ R
   ⼟ + 3
 U
   U+5728
+A
+  ==
+  - 才
+  - 扗
+  ==
 F
   ==
   - (F2.46 在) 居也存也
