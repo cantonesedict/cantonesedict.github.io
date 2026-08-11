@@ -508,6 +508,7 @@ U
 A
   ==
   - $作3 (for "curse" sense)
+  - 謯
   - 诅 (Mainland simplified)
   ==
 V
