@@ -140,6 +140,15 @@ should appear likewise but with an additional underline.
     ; Your browser
 |:
   //
+    , U+39B2
+    ,
+      Should appear as ⿹𢦏勹 (where 勹 is 万 minus 一).
+      Appears with the bottom-right slash (㇒) missing
+      in the sans-serif font "PingFang TC"
+      on macOS Tahoe (v26.5.2).
+    ,{.font-test} ![Sans-serif character ⿹𢦏勹](㦲.png)
+    ,{#u39b2 .font-test} 㦲
+  //
     , U+6558
     ,
       Should appear as ⿰余攵.
