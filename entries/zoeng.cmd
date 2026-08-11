@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-08-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,6 +73,10 @@ R
   ⼥ + 11
 U
   U+5ADC
+A
+  ==
+  - 傽
+  ==
 F
   ==
   - (F1.89 嫜) 姑嫜
@@ -371,6 +375,10 @@ R
   ⼼ + 11
 U
   U+615E
+A
+  ==
+  - 傽
+  ==
 F
   ==
   - (F1.89 慞) 惶恐
@@ -744,9 +752,6 @@ W
     - A feudal state, now part of T``(')``(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
-    --
-    [[Otherwise, an alternative form of 障, and reading variation. **See $障zoeng3 for the canonical entry.**]]
-    --
   ====
 C
   ==
@@ -934,6 +939,7 @@ U
 A
   ==
   - $奬2
+  - 㢡
   - 奖 (Mainland simplified)
   ==
 F
@@ -1396,6 +1402,7 @@ A
   ==
   - $張3
   - $漲3
+  - 痮
   - 胀 (Mainland simplified)
   ==
 V
@@ -1885,6 +1892,10 @@ R
   ⼕ + 4
 U
   U+5320
+A
+  ==
+  - 匞
+  ==
 F
   ==
   - (F1.93 匠) 工匠
@@ -2008,6 +2019,11 @@ U
 H
   May appear as either ⿰木象 (assumed here) or ⿰木𧰼,
   depending on the font.
+A
+  ==
+  - 様
+  - 樣
+  ==
 F
   [[Not present]]
 W
