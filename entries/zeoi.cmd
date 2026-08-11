@@ -56,6 +56,7 @@ $$
 - $沮1
 - $疽1
 - ($睢1)
+- $砠1
 - $脧1
 - $苴1
 - $菹1
@@ -123,7 +124,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 砠. **See $砠zeoi1 for the canonical entry.** (TODO)
+  1. Alternative form of 砠. **See $砠zeoi1 for the canonical entry.**
   ++
 S
   ==
@@ -266,6 +267,36 @@ S
   - $睢fai1
   - $睢seoi1 (TODO)
   ==
+$$
+
+###+ 砠1 | _(1)Ts(u:)_ [[zeoi1]]
+
+$$
+R
+  ⽯ + 5
+U
+  U+7820
+A
+  ==
+  - $岨1
+  ==
+V
+  ==
+  - ceoi1 (per 《廣韻》七余切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(1)ts(u:)_ (zeoi1) is not unattested;
+    《集韻》 has the reading 子余切, explained 爾雅土戴石為砠.
+  ==
+P
+  ++
+  1. A rocky hill (Kangxi: 土戴石爲砠).
+  ++
 $$
 
 ###+ 脧1 | _(1)Ts(u/)i_ [[zeoi1]]
