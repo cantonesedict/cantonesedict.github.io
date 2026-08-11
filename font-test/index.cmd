@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Font test page
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-08-11
 * %copyright-prior-years --> 2023--
 * %meta-description --> Font test page for tone marks
 
@@ -26,6 +26,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 These tone marks are combining characters,
 and should appear as circles on one of the four corners of a character
 (representing the four tones of Middle Chinese).
+Font support is known to be poor on Windows and iOS/macOS.
 --
 
 ||||{.wide}
