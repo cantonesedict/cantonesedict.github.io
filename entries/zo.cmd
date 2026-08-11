@@ -198,6 +198,10 @@ W
     [[Alternative form of 岨 (for the "mountain-pass" sense). **See $阻zo2 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - ($岨zeoi1)
+  ==
 $$
 
 ### 左2 | _(2)Tso_ [[zo2]]

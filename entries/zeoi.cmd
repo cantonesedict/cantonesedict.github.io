@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $且1
+- ($岨1)
 - $椎1
 - $沮1
 - $疽1
@@ -106,6 +107,27 @@ S
   ==
   - $且ce2
   - ($且cou4)
+  ==
+$$
+
+###+ 岨1 | _(1)Ts(u:)_ [[zeoi1]]
+
+$$.
+R
+  ⼭ + 5
+U
+  U+5CA8
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 砠. **See $砠zeoi1 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - ($岨zo2)
   ==
 $$
 

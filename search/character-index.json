@@ -11275,6 +11275,16 @@
 "text":"U+9631 汬 穽 zeng6 (vernacular) (F1.73 阱) 地坑坎也 (F1.73 穽) 同上 (Page 577 穽阱) A pit, a pitfall, a hole to catch beasts in (Kangxi 阱: 坑也, 陷也); ~~to fall into a pit;~~ _ham tsing_ (ham6 zing6 陷阱) ~~to tumble into a hole~~ a trap. Williams' \"to fall into a pit\": This is a misreading of Kangxi 陷也, which is intended as a noun, not a verb. Williams' 陷阱: Changed _ham_ (haam6) to common reading _ham_ (ham6). 【阱】 (dzjengX) (_noun-like_) pitfall"
 }
 },
+"岨":{
+"zeoi1":{
+"isCanonical":false,
+"text":"U+5CA8"
+},
+"zo2":{
+"isCanonical":false,
+"text":"U+5CA8 (F2.60 岨) 險岨 (Page 26* 岨)"
+}
+},
 "沮":{
 "zeoi1":{
 "isCanonical":true,
@@ -13349,12 +13359,6 @@
 "zo2":{
 "isCanonical":true,
 "text":"U+5497 唨 (Cantonese) 阻 (Cantonese) (Page 25* 阻; here normalised to 咗) A colloquial word. A sign of ~~the past tense~~ completion, placed after verbs, like _hiu_ (hiu1 嘵); _~~ning~~ ling cho lai_ (ling1 zo2 lai4 拎咗嚟), brought it; _hu cho_ (heoi3 zo2 去咗), gone. Williams' 拎咗嚟: Changed _ning_ (ning1) to _ling_ (ling1). 【咗】 (zo2) Marker of the perfective aspect (whole completion of an action). 走咗 (zau2 zo2): \"He's gone.\" 死咗 (sei2 zo2): \"He's died.\" 笨咗添 (ban6 zo2 tim1): \"Oh, I've been foolish!\" 瞓着咗 (fan3 zoek6 zo2): \"Fallen asleep.\" 畢咗業 (bat1 zo2 jip6): \"I've graduated.\" 食咗飯未 (sik6 zo2 faan6 mei6): \"Have you eaten dinner yet?\" Used with certain imperatives. 飲咗佢吖 (jam2 zo2 keoi5 a1): \"Drink it up.\" 剷咗條片啦 (caan2 zo2 tiu4 pin3-2 laa1): \"Delete that video!\" 噉炒咗佢囉 (gam2 caau2 zo2 keoi5 lo1): \"So just fire him!\" The spelling 咗 is arbitrary (but well established)."
-}
-},
-"岨":{
-"zo2":{
-"isCanonical":false,
-"text":"U+5CA8 (F2.60 岨) 險岨 (Page 26* 岨)"
 }
 },
 "左":{
