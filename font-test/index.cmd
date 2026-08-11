@@ -144,16 +144,15 @@ should appear likewise but with an additional underline.
     ,
       Should appear as ⿹𢦏勹 (where 勹 is 万 minus 一).
       Appears with the bottom-right slash (㇒) missing
-      in the sans-serif font "PingFang TC"
-      on macOS Tahoe (v26.5.2).
+      in the sans-serif font "PingFang TC" on macOS Tahoe (v26.5.2).
     ,{.font-test} ![Sans-serif character ⿹𢦏勹](㦲.png)
     ,{#u39b2 .font-test} 㦲
   //
     , U+6558
     ,
       Should appear as ⿰余攵.
-      Appears incorrectly as ⿰余攴 in the serif font "Songti TC"
-      on macOS Tahoe (v26.5.2).
+      Appears incorrectly as ⿰余攴
+      in the serif font "Songti TC" on macOS Tahoe (v26.5.2).
     ,{.font-test} ![Serif character ⿰余攵](敘-serif.png)
     ,{#u6558 .font-test style="font-family: serif"} 敘
 ''
