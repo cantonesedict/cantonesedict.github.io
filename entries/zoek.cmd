@@ -180,11 +180,6 @@ W
         to bite and chew phrases---pedantry.
     ==
   ====
-C
-  ==
-  - Williams' "to ruminate": Not incorrect per 《說文》噍或从爵,
-    but 噍 is now read _tsi(u/)(6)_ (ziu6) per ::《廣韻》才[笑]切::.
-  ==
 S
   ==
   - ($嚼ziu6)
@@ -376,6 +371,11 @@ U
 H
   May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
   depending on the font.
+A
+  ==
+  - 焳
+  - 熦
+  ==
 V
   ==
   - ziu3 (alternative per 《廣韻》子肖切)
@@ -744,6 +744,7 @@ U
 A
   ==
   - $爵3
+  - 䲵
   ==
 V
   ==
@@ -841,6 +842,8 @@ U
   U+9D72
 A
   ==
+  - 舃
+  - 舄
   - 鹊 (Mainland simplified)
   ==
 V
