@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,7 +48,7 @@ $$
 - $嚼3
 - $妁3
 - $斫3
-- ($杓3)
+- $杓3
 - ($桌3)
 - ($棹3)
 - ($灼3)
@@ -73,11 +73,15 @@ R
   ⼓ + 1
 U
   U+52FA
+A
+  ==
+  - $杓3 (for noun sense)
+  ==
 V
   ==
   - coek3 (common)
   - soek3 (common)
-  - soek6 (per 《廣韻》市若切 for noun senses)
+  - soek6 (per 《廣韻》市若切 for noun sense)
   ==
 F
   ==
@@ -102,6 +106,14 @@ W
     --
     --
     [[Otherwise, an alternative form of 芍, and reading variation. **See $芍coek3 for the canonical entry.**]]
+    --
+  - [[Page~32|n75 杓(8); here normalised to 勺]]
+    ==
+    - A ladle [[Kangxi 杓: 以爲桮杓之杓所以抒挹也]];
+    - [[...]].
+    ==
+    --
+    [[...]]
     --
   ====
 C
@@ -256,7 +268,7 @@ $$
 
 ### 杓3 | _Ch(e/)uk(8)_ [[zoek3]]
 
-$$.
+$$
 R
   ⽊ + 3
 U
@@ -268,14 +280,22 @@ F
 W
   ====
   - [[Page~32|n75 杓(8)]]
+    ==
+    - [[...]];
+    - a beam ~~for a~~ bridge [[Kangxi: 橫木橋]].
+    ==
     --
-    [[Reading variation. **See $杓soek3 for the canonical entry.**]] [[TODO]]
+    [[...]]
+    --
+    --
+    [[Otherwise, an alternative form of 勺 (for the noun sense). **See $勺zoek3 for the canonical entry.**]]
     --
   ====
 S
   ==
   - $杓biu1 (TODO)
-  - $杓soek3 (TODO)
+  - ($杓dik1) (TODO)
+  - ($杓soek3) (TODO)
   ==
 $$
 

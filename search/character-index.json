@@ -4462,7 +4462,7 @@
 },
 "zoek3":{
 "isCanonical":true,
-"text":"U+52FA coek3 (common) soek3 (common) soek6 (per 《廣韻》市若切 for noun senses) (F1.94 勺) 挹取也 (Page 32|n75 勺) A ladle or spoon (Kangxi: 勺所以𣂏酒也); a spoonful; _~~tau~~ lau cheuk_ (lau6 zoek3 漏勺) a cullender; _yat cheuk shui chi to_ (jat1 zoek3 seoi2 zi1 do1 一勺水之多), much as a spoonful of water (Kangxi: 一勺水之多言少也). Williams' 漏勺: Corrected _tau_ (dau6) to _lau_ (lau6). To ladle (Kangxi: 挹取也). 【勺-noun】 (dzyak) (_noun-like_) ladle 【勺-verb】 (tsyak) (_verb-like_) to ladle"
+"text":"U+52FA 杓 (for noun sense) coek3 (common) soek3 (common) soek6 (per 《廣韻》市若切 for noun sense) (F1.94 勺) 挹取也 (Page 32|n75 勺) A ladle or spoon (Kangxi: 勺所以𣂏酒也); a spoonful; _~~tau~~ lau cheuk_ (lau6 zoek3 漏勺) a cullender; _yat cheuk shui chi to_ (jat1 zoek3 seoi2 zi1 do1 一勺水之多), much as a spoonful of water (Kangxi: 一勺水之多言少也). (Page 32|n75 杓; here normalised to 勺) A ladle (Kangxi 杓: 以爲桮杓之杓所以抒挹也); Williams' 漏勺: Corrected _tau_ (dau6) to _lau_ (lau6). To ladle (Kangxi: 挹取也). 【勺-noun】 (dzyak) (_noun-like_) ladle 【勺-verb】 (tsyak) (_verb-like_) to ladle"
 }
 },
 "卓":{
@@ -13431,8 +13431,8 @@
 },
 "杓":{
 "zoek3":{
-"isCanonical":false,
-"text":"U+6753 (F1.94 杓) 杯杓 (Page 32|n75 杓)"
+"isCanonical":true,
+"text":"U+6753 (F1.94 杓) 杯杓 (Page 32|n75 杓) a beam ~~for a~~ bridge (Kangxi: 橫木橋)."
 }
 },
 "爝":{
