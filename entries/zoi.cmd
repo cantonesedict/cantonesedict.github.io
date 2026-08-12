@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-08-11
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,9 +119,9 @@ W
   ====
 C
   ==
-  - The alternative form U+39B2 㦲
+  - The alternative form U+39B2 㦲 (⿹𢦏勹)
     is known to appear incorrectly in at least one sans-serif font;
-    check [Font test page](/font-test/#u39b2).
+    check the [Font test page](/font-test/#u39b2).
   - Williams' "to burst forth, as plants in spring": This is a misreading of Kangxi 說文云才草木之初也以聲近借爲哉始之哉,
     which says that the "begin" sense of 哉 was sometimes spelt 才 due to the phonetic nearness
     and the (now considered incorrect) explanation of 才 as a sprouting plant in 《說文》.

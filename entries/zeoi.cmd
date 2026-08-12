@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-08-11
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1680,9 +1680,9 @@ W
   ====
 C
   ==
-  - The character U+6558 敘
+  - The character U+6558 敘 (⿰余攵)
     is known to appear incorrectly in at least one serif font;
-    check [Font test page](/font-test/#u6558).
+    check the [Font test page](/font-test/#u6558).
   ==
 $$
 
