@@ -34,6 +34,13 @@
 a {
   text-decoration-thickness: 1px;
 }
+a[href^="http"] {
+  background-image: url(/res/styles/external-link.svg);
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 0.6em;
+  padding-right: 0.67em;
+}
 
 
 blockquote {
