@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -320,6 +320,10 @@ R
   ⼼ + 12
 U
   U+61A7
+A
+  ==
+  - 偅
+  ==
 F
   ==
   - (F1.58 憧) 意不定也

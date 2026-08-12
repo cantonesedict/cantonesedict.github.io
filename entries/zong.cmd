@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,10 @@ U
   U+599D
 A
   ==
+  - 娤
   - $粧1
+  - 䊋
+  - 糚
   - $裝1
   - 妆 (Mainland simplified)
   ==
@@ -359,6 +362,7 @@ U
 A
   ==
   - $庄1
+  - 庒
   ==
 F
   ==
@@ -642,6 +646,7 @@ A
   ==
   - $臧1
   - $賍1
+  - 賘
   - $贜1
   - 赃 (Mainland simplified)
   ==
