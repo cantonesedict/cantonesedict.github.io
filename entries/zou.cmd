@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -418,6 +418,8 @@ U
   U+74AA
 A
   ==
+  - 繅
+  - 繰
   - $藻2
   ==
 F
@@ -572,6 +574,12 @@ R
   ⾋ + 16
 U
   U+85FB
+A
+  ==
+  - 繅
+  - 繰
+  - 薻
+  ==
 F
   ==
   - (F2.13 藻 _(2)Ts(u/)_) 水草
@@ -617,6 +625,11 @@ R
   ⾍ + 4
 U
   U+86A4
+A
+  ==
+  - 䖣
+  - 䗢
+  ==
 F
   ==
   - (F2.13 早 _(2)Ts(u/)_) 早晨又先也
