@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,12 +44,34 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($乍3)
 - $作3
 - ($昨3)
 - $糳3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 乍3 | _Tsok(8)_ [[zok3]]
+
+$$.
+R
+  ⼃ + 4
+U
+  U+4E4D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 作. **See $作zok3 for the canonical entry.**
+  ++
+S
+  ==
+  - $乍zaa3
+  ==
+$$
 
 ### 作3 | _Tsok(8)_ [[zok3]]
 
@@ -58,6 +80,10 @@ R
   ⼈ + 5
 U
   U+4F5C
+A
+  ==
+  - $乍3
+  ==
 F
   ==
   - (F1.102 作) 起也造也爲也
@@ -322,6 +348,9 @@ W
         [[zok6 man4 昨聞]],
         I recently heard it.
     ==
+    --
+    [[Otherwise, an alternative form of 酢. **See $酢zok6 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -454,6 +483,7 @@ U
   U+9162
 A
   ==
+  - $昨6
   - 醋
   ==
 F
@@ -491,6 +521,7 @@ U
   U+947F
 A
   ==
+  - 䥣
   - 凿 (Mainland simplified)
   ==
 V

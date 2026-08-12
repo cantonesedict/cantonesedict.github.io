@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -628,6 +628,10 @@ L
     - (_adverb-like_) suddenly, unexpectedly
     ==
   ====
+S
+  ==
+  - ($乍zok3)
+  ==
 $$
 
 ###+ 吒3 | _Ch(a/)(3)_ [[zaa3]]
