@@ -1494,6 +1494,7 @@ S
   ==
   - ($穜cung4)
   - $穜tung4 (TODO)
+  - ($穜zung3)
   ==
 $$
 
@@ -1825,6 +1826,7 @@ $$
 - ($從3)
 - $眾3
 - $種3
+- ($穜3)
 - $粽3
 - ($糉3)
 - $綜3
@@ -2020,7 +2022,7 @@ U
   U+7A2E
 A
   ==
-  - 穜
+  - $穜3
   - 种 (Mainland simplified)
   ==
 F
@@ -2058,6 +2060,29 @@ L
 S
   ==
   - $種zung2
+  ==
+$$
+
+###+ 穜3 | _Chung(3)_ [[zung3]]
+
+$$.
+R
+  ⽲ + 12
+U
+  U+7A5C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 種. **See $種zung3 for the canonical entry.**
+  ++
+S
+  ==
+  - ($穜cung4)
+  - $穜tung4 (TODO)
+  - ($穜zung2)
   ==
 $$
 
