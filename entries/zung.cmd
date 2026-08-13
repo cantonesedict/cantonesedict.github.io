@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -775,6 +775,7 @@ U
 A
   ==
   - $從1
+  - 縦
   - 纵 (Mainland simplified)
   ==
 F
@@ -823,7 +824,6 @@ H
   depending on the font.
 A
   ==
-  - 搃
   - 総
   - 緫
   - 縂
@@ -857,6 +857,10 @@ R
   ⾅ + 5
 U
   U+8202
+A
+  ==
+  - 㫪
+  ==
 V
   ==
   - sung1 (per 《廣韻》書容切)
@@ -1049,6 +1053,7 @@ A
   ==
   - $縱1
   - $踪1
+  - 踨
   ==
 F
   ==
@@ -1165,6 +1170,7 @@ U
   U+9418
 A
   ==
+  - 銿
   - $鍾1 (for "bell" sense)
   - 钟 (Mainland simplified)
   ==
@@ -1519,6 +1525,7 @@ U
   U+7E31
 A
   ==
+  - 縦
   - 纵 (Mainland simplified)
   ==
 F
@@ -1555,7 +1562,11 @@ H
   depending on the font.
 A
   ==
+  - 捴
+  - 揔
   - 搃
+  - 摠
+  - 㹅
   - 総
   - 緫
   - 縂
@@ -2132,6 +2143,7 @@ U
 A
   ==
   - $從3
+  - 縦
   - 纵 (Mainland simplified)
   ==
 F
