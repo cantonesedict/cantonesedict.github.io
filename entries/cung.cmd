@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1312,6 +1312,7 @@ $$
 - $爞4
 - $琮4
 - $种4
+- ($穜4)
 - ($虫4)
 - $蟲4
 - $重4
@@ -1795,6 +1796,27 @@ P
   ++
 $$
 
+###+ 穜4 | _(4)Ch(')ung_ [[cung4]]
+
+$$.
+R
+  ⽲ + 12
+U
+  U+7A5C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $穜tung4 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $穜tung4 (TODO) <## slow-ripening-grain ##>
+  ==
+$$
+
 ### 虫4 | _(4)Ch(')ung_ [[cung4]]
 
 $$.
@@ -1906,6 +1928,9 @@ W
         [[cung4 seng4 重城]],
         a double wall, such as are at city gates.
     ==
+    --
+    [[Otherwise, an alternative form of 穜, and reading variation. **See $穜tung4 for the canonical entry.**]] [[TODO]]
+    --
   ====
 C
   ==
