@@ -1306,6 +1306,7 @@ U
 A
   ==
   - $澍3
+  - $註3 (for "annotate" sense)
   ==
 F
   ==
@@ -1318,6 +1319,7 @@ W
     - ~~Water disparting in streamlets,~~ to lead water in channels [[Kangxi: 引也]];
     - to soak;
     - [[...]];
+    - to comment [[Kangxi: 凡以傳釋經曰注通作註]];
     - to collect [[Kangxi: 聚也]];
     - to strike [[Kangxi: 擊也]];
     - to fix the mind on [[Kangxi: 意所嚮曰注]];
@@ -1335,7 +1337,36 @@ W
     --
     [[Otherwise, an alternative form of 註. **See $註zyu3 for the canonical entry.**]]
     --
+  - [[Page~31* 註(3)]]
+    --
+    Used with the last ~~two~~ [[~~著,~~ 注]].
+    --
+    ==
+    - To define, to explain, to illustrate [[Kangxi 註: 訓釋也, 註者著也言爲之解說使其義著明也]];
+    - [[...]];
+    - a commentary, note, definition [[Kangxi 註: 疏也解也]];
+    - _ch(u:)(3) shik(7)_
+        [[zyu3 sik1 註釋]]
+        to explain;
+    - _lok(9) ch(u:)(3) (2)k(a/)i_
+        [[lok6 zyu3 gaai2 落註解]],
+        it needs a commentary;
+    - _ch(u:)(3) (i/)(6)_ [[zyu3 ji6 註義]]
+        or
+      _ch(u:)(3) (2)k(a/)i_ [[zyu3 gaai2 註解]],
+        an explanation;
+    - _(2)p(o\) ch(u:)(3)_
+        [[bou2 zyu3 補註]]
+        to add to the comments.
+    ==
   ====
+C
+  ==
+  - Williams' "Used with the last two":
+    I have not seen 著 used for 註 (or vice versa).
+    Kangxi's reference to 《毛詩序疏》註者著也
+    is an explanation of the "annotate" sense, not an interchanging.
+  ==
 P
   ++
   1. To pour in, to inject (Kangxi: 灌也, 水流射也).
@@ -1350,6 +1381,7 @@ L
     - (_verb-like_) (_met._) [to] bring together
     - (_verb-like_) (_met._) [to] give heed
     - (_verb-like_) (_met._) [to] shoot
+    - (_verb-like_) [to] annotate
     ==
   ====
 $$
@@ -1597,50 +1629,34 @@ F
   ==
 W
   ====
-  - [[Page~31* 注(3)]]
+  - [[Page~31* 注(3); here normalised to 註]]
     ==
     - [[...]];
     - to record [[Kangxi 注: 記也 etc.]];
-    - to comment [[Kangxi 注: 凡以傳釋經曰注通作註]];
     - [[...]].
     ==
   - [[Page~31* 註(3)]]
     --
-    Used with the last ~~two~~ [[~~著,~~ 注]].
+    [[...]]
     --
     ==
-    - To define, to explain, to illustrate [[Kangxi: 訓釋也, 註者著也言爲之解說使其義著明也]];
+    - [[...]];
     - to record, to write about [[Kangxi: 識也, 記物曰註]];
-    - a commentary, note, definition [[Kangxi: 疏也解也]];
-    - _ch(u:)(3) shik(7)_
-        [[zyu3 sik1 註釋]]
-        to explain;
-    - _lok(9) ch(u:)(3) (2)k(a/)i_
-        [[lok6 zyu3 gaai2 落註解]],
-        it needs a commentary;
-    - _ch(u:)(3) (i/)(6)_ [[zyu3 ji6 註義]]
-        or
-      _ch(u:)(3) (2)k(a/)i_ [[zyu3 gaai2 註解]],
-        an explanation;
-    - _(2)p(o\) ch(u:)(3)_
-        [[bou2 zyu3 補註]]
-        to add to the comments.
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 注 (for the "annotate" sense). **See $注zyu3 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿰訁㔾 to 記.
-  - Williams' "Used with the last two":
-    I have not seen 著 used for 註 (or vice versa).
-    Kangxi's reference to 《毛詩序疏》註者著也 is an explanation,
-    not an interchanging.
   ==
 L
   ====
   * 【註】 (trjuH, tsyuH)
     ==
     - (_verb-like_) [to] record
-    - (_verb-like_) [to] annotate
     ==
   ====
 $$

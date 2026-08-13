@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -5974,6 +5974,7 @@ window.onload = applyFilter;
       - (_verb-like_) (_met._) [to] bring together
       - (_verb-like_) (_met._) [to] give heed
       - (_verb-like_) (_met._) [to] shoot
+      - (_verb-like_) [to] annotate
       ==
   //
     , `trjuH`
@@ -5981,7 +5982,6 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] record
-      - (_verb-like_) [to] annotate
       ==
   //
     , `trjuw`
@@ -10308,6 +10308,7 @@ window.onload = applyFilter;
       - (_verb-like_) (_met._) [to] bring together
       - (_verb-like_) (_met._) [to] give heed
       - (_verb-like_) (_met._) [to] shoot
+      - (_verb-like_) [to] annotate
       ==
   //
     , `tsyuH`
@@ -10315,7 +10316,6 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] record
-      - (_verb-like_) [to] annotate
       ==
   //
     , `tsyuH`

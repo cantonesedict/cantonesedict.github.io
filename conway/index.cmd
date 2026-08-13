@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Conway's preface
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> Conway's preface
 
@@ -89,7 +89,7 @@ for two reasons:
 --{.modern}
 The resulting ''<`Conway's Cantonese Dictionary`>'' is best described
 as an annotated version of Williams' ''Tonic Dictionary''.
-If you must refer to it in Chinese, then please call it 《英華分韻註》.
+If you must refer to it in Chinese, then please call it 《英華分韻注》.
 --
 --{.modern}
 It is my hope that this dictionary might help those
