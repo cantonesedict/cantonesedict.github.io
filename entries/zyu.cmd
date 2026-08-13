@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -352,7 +352,7 @@ U
   U+73E0
 A
   ==
-  - $䏭1 (for "cheek" sense)
+  - $䏭1 (for Cantonese "cheek" sense)
   ==
 F
   ==
@@ -520,7 +520,7 @@ W
   ====
   - [[Page~30* (1)䏭]]
     --
-    [[Alternative form of 珠 (for the "cheek" sense). **See $珠zyu1 for the canonical entry.**]]
+    [[Alternative form of 珠 (for the Cantonese "cheek" sense). **See $珠zyu1 for the canonical entry.**]]
     --
   ====
 $$
@@ -764,6 +764,7 @@ H
 A
   ==
   - $猪1
+  - 䐗
   ==
 F
   ==
@@ -1146,6 +1147,10 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+A
+  ==
+  - 陼
+  ==
 F
   ==
   - (F1.46 渚) 小洲也
