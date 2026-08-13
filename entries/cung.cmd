@@ -1312,6 +1312,7 @@ $$
 - $爞4
 - $琮4
 - $种4
+- ($種4)
 - ($穜4)
 - ($虫4)
 - $蟲4
@@ -1794,6 +1795,28 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+$$
+
+###+ 種4 | _(4)Ch(')ung_ [[cung4]]
+
+$$.
+R
+  ⽲ + 9
+U
+  U+7A2E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 穜, and reading variation. **See $穜tung4 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $種zung2
+  - $種zung3
+  ==
 $$
 
 ###+ 穜4 | _(4)Ch(')ung_ [[cung4]]

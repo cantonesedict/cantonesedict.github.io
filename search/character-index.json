@@ -5743,6 +5743,20 @@
 "text":"U+79CD (F1.58 种 _Ch'ung_ (cung1)) 稚也又姓 (Page 40* 种 _Ch'ung_ (cung1); here corrected to _Ch'ung_ (cung4)) Young grain (Kangxi: 稚也); delicate, tender; _ch'ung chi_ (cung4 zi6 种稚) immature, beautiful, as children. A surname (Kangxi: 姓)."
 }
 },
+"種":{
+"cung4":{
+"isCanonical":false,
+"text":"U+7A2E"
+},
+"zung2":{
+"isCanonical":true,
+"text":"U+7A2E 穜 种 (Mainland simplified) (F1.61 種) 種蒔 (Page 39* 種) A seed, a kernel (Kangxi: 穀種也); a sort, a class, a kind (Kangxi: 種類); that which sprouts; _chung chung sz' ts'ing_ (zung2 zung2 si6 cing4 種種事情), every kind of affair; _tsap chung_ (zaap6 zung2 雜種), mixed, illegitimate; _wai chung_ (wai4 zung2 遺種), to leave issue; _chung lui_ (zung2 leoi6 種類) a sort, a race; _ta chung_ (daa2 zung2 打種), to beget; _ch'un chung_ (cyun4 zung2 傳種), to propagate or raise elsewhere. Guts, determination. 【種-noun】 (tsyowngX) (_noun-like_) seed (_noun-like_) kind"
+},
+"zung3":{
+"isCanonical":true,
+"text":"U+7A2E 穜 种 (Mainland simplified) (F1.62 種) 栽植 (F1.62 众) 同上 (Page 39* 種) To plant, to sow (Kangxi: 布也), to grow; to cultivate, to raise; _chung tau_ (zung3 dau6-2 種痘) to vaccinate; _chung chik_ (zung3 zik6 種植) to plant trees; _chung ts'oi_ (zung3 coi3 種菜) to raise greens; _chung fuk_ (zung3 fuk1 種福) to bequeath happiness. 【種-verb】 (tsyowngH) (_verb-like_) to seed"
+}
+},
 "穜":{
 "cung4":{
 "isCanonical":false,
@@ -14313,16 +14327,6 @@
 "zung2":{
 "isCanonical":true,
 "text":"U+5C30 瘇 zung6 (per 《廣韻》時宂切) (F1.61 尰) 足腫 The reading _chung_ (zung2) is not unattested; 《正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇. This reading is probably influenced by 腫, \"swelling\", which is a different word. Swelling of the legs (Kangxi: 脛氣腫). 【尰】 (dzyowngX) (_adjective-like_) swollen"
-}
-},
-"種":{
-"zung2":{
-"isCanonical":true,
-"text":"U+7A2E 穜 种 (Mainland simplified) (F1.61 種) 種蒔 (Page 39* 種) A seed, a kernel (Kangxi: 穀種也); a sort, a class, a kind (Kangxi: 種類); that which sprouts; _chung chung sz' ts'ing_ (zung2 zung2 si6 cing4 種種事情), every kind of affair; _tsap chung_ (zaap6 zung2 雜種), mixed, illegitimate; _wai chung_ (wai4 zung2 遺種), to leave issue; _chung lui_ (zung2 leoi6 種類) a sort, a race; _ta chung_ (daa2 zung2 打種), to beget; _ch'un chung_ (cyun4 zung2 傳種), to propagate or raise elsewhere. Guts, determination. 【種-noun】 (tsyowngX) (_noun-like_) seed (_noun-like_) kind"
-},
-"zung3":{
-"isCanonical":true,
-"text":"U+7A2E 穜 种 (Mainland simplified) (F1.62 種) 栽植 (F1.62 众) 同上 (Page 39* 種) To plant, to sow (Kangxi: 布也), to grow; to cultivate, to raise; _chung tau_ (zung3 dau6-2 種痘) to vaccinate; _chung chik_ (zung3 zik6 種植) to plant trees; _chung ts'oi_ (zung3 coi3 種菜) to raise greens; _chung fuk_ (zung3 fuk1 種福) to bequeath happiness. 【種-verb】 (tsyowngH) (_verb-like_) to seed"
 }
 },
 "粽":{
