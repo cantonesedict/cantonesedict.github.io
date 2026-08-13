@@ -1305,7 +1305,7 @@ U
   U+6CE8
 A
   ==
-  - $澍3
+  - $澍3 (for water/flow-related senses)
   - $註3 (for "annotate" sense)
   ==
 F
@@ -1408,7 +1408,7 @@ W
 P
   ++
   1. Timely rain (Kangxi: 時雨澍生萬物).
-  1. Alternative form of 注. **See $注zyu3 for the canonical entry.**
+  1. Alternative form of 注 (for the water/flow-related senses). **See $注zyu3 for the canonical entry.**
   ++
 S
   ==
@@ -1501,6 +1501,11 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+A
+  ==
+  - 䎝
+  - 䬡
+  ==
 V
   ==
   - zyu2 (per 《正韻牋》腫庾切逸字)
