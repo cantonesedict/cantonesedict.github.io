@@ -1362,6 +1362,7 @@ $$
 =={.modern}
 - $尰2
 - $種2
+- ($穜2)
 - ($粽2)
 - ($糉2)
 - $縱2
@@ -1422,7 +1423,7 @@ U
   U+7A2E
 A
   ==
-  - 穜
+  - $穜2
   - 种 (Mainland simplified)
   ==
 F
@@ -1471,6 +1472,28 @@ L
 S
   ==
   - $種zung3
+  ==
+$$
+
+###+ 穜2 | _(2)Chung_ [[zung2]]
+
+$$.
+R
+  ⽲ + 12
+U
+  U+7A5C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 種. **See $種zung2 for the canonical entry.**
+  ++
+S
+  ==
+  - ($穜cung4)
+  - $穜tung4 (TODO)
   ==
 $$
 
