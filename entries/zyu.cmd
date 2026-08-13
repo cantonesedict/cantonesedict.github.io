@@ -1786,6 +1786,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $住6
+- ($櫡6)
 - ($筯6)
 - $箸6
 ==
@@ -1875,6 +1876,26 @@ E
   ====
 $$
 
+###+ 櫡6 | _Ch(u:)(6)_ [[zyu6]]
+
+$$.
+R
+  ⽊ + 14
+U
+  U+6AE1
+H
+  May appear with 者 dotless (+14 assumed here) or dotted (+15),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 箸. **See $箸zyu6 for the canonical entry.**
+  ++
+$$
+
 ### 筯6 | _Ch(u:)(6)_ [[zyu6]]
 
 $$.
@@ -1905,7 +1926,7 @@ U
   U+7BB8
 A
   ==
-  - 櫡
+  - $櫡6
   - $筯6
   ==
 F
