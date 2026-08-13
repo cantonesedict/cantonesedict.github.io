@@ -1894,6 +1894,10 @@ P
   ++
   1. Alternative form of 箸. **See $箸zyu6 for the canonical entry.**
   ++
+S
+  ==
+  - $櫡zoek3
+  ==
 $$
 
 ### 筯6 | _Ch(u:)(6)_ [[zyu6]]

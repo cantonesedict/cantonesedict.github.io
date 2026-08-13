@@ -1338,7 +1338,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - ($櫂zaau6)
-      - ($櫡zyu6)
+      - $櫡zoek3, ($櫡zyu6)
       ==
       </nav>
   //

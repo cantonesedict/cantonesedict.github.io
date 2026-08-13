@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-08-11
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 - $杓3
 - ($桌3)
 - ($棹3)
+- $櫡3
 - ($灼3)
 - $爝3
 - $爵3
@@ -334,6 +335,34 @@ S
   ==
   - $棹coek3
   - $棹zaau6
+  ==
+$$
+
+###+ 櫡3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽊ + 14
+U
+  U+6AE1
+H
+  May appear with 者 dotless (+14 assumed here) or dotted (+15),
+  depending on the font.
+A
+  ==
+  - 鐯
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A tool for hacking or chopping (Kangxi: 斫謂之櫡, 櫡謂之钁).
+  ++
+S
+  ==
+  - ($櫡zyu6)
   ==
 $$
 
