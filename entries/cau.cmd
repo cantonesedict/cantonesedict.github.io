@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1448,7 +1448,7 @@ U
   U+5114
 A
   ==
-  - 俦 (Mainland simplified)
+  - 俦
   ==
 F
   ==
@@ -1542,7 +1542,7 @@ U
   U+5E6C
 A
   ==
-  - 帱 (Mainland simplified)
+  - 帱
   ==
 F
   [[Not present]]
@@ -1649,7 +1649,7 @@ U
 A
   ==
   - $儔4 (for "who" sense)
-  - 畴 (Mainland simplified)
+  - 畴
   ==
 F
   ==
@@ -1754,7 +1754,7 @@ U
   U+7C4C
 A
   ==
-  - 筹 (Mainland simplified)
+  - 筹
   ==
 V
   ==
@@ -2089,7 +2089,7 @@ U
   U+8E8A
 A
   ==
-  - 踌 (Mainland simplified)
+  - 踌
   ==
 F
   [[Not present]]
