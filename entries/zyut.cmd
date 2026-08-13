@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -97,6 +97,7 @@ U
   U+20B74
 A
   ==
+  - 㑁
   - $掇3
   - 䂐
   ==
@@ -162,6 +163,7 @@ A
   ==
   - $啐3 (for Cantonese "suck" sense)
   - $嘬3 (for Cantonese "suck" sense)
+  - 嚽
   - 諁 (for "talkative" sense)
   ==
 V
@@ -273,6 +275,11 @@ R
   ⼿ + 5
 U
   U+62D9
+A
+  ==
+  - 炪
+  - 䂐
+  ==
 V
   ==
   - zyut6 (common)
@@ -401,6 +408,7 @@ U
   U+6B60
 A
   ==
+  - 吷
   - $啜3
   ==
 V
