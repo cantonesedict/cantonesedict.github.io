@@ -14280,7 +14280,7 @@
 "騣":{
 "zung1":{
 "isCanonical":true,
-"text":"U+9A23 Kangxi erroneously has 全騣馬冠也 instead of 金騣馬冠也, and fails to distinguish \"horse-helmet\" as a separate sense to the \"mane\" sense. A mane (Kangxi: 馬鬣也). A horse-helmet (Kangxi: 金騣馬冠也)."
+"text":"U+9A23 騌 骔 (Mainland simplified) Kangxi erroneously has 全騣馬冠也 instead of 金騣馬冠也, and fails to distinguish \"horse-helmet\" as a separate sense to the \"mane\" sense. A mane (Kangxi: 馬鬣也). A horse-helmet (Kangxi: 金騣馬冠也)."
 }
 },
 "鬃":{
@@ -14298,17 +14298,17 @@
 "尰":{
 "zung2":{
 "isCanonical":true,
-"text":"U+5C30 瘇 zung6 (per 《廣韻》時宂切) (F1.61 尰) 足腫 The reading _chung_ (zung2) is not unattested; 《正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇. Swelling of the legs (Kangxi: 脛氣腫). 【尰】 (dzyowngX) (_adjective-like_) swollen"
+"text":"U+5C30 瘇 zung6 (per 《廣韻》時宂切) (F1.61 尰) 足腫 The reading _chung_ (zung2) is not unattested; 《正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇. This reading is probably influenced by 腫, \"swelling\", which is a different word. Swelling of the legs (Kangxi: 脛氣腫). 【尰】 (dzyowngX) (_adjective-like_) swollen"
 }
 },
 "種":{
 "zung2":{
 "isCanonical":true,
-"text":"U+7A2E 种 (Mainland simplified) (F1.61 種) 種蒔 (Page 39* 種) A seed, a kernel (Kangxi: 穀種也); a sort, a class, a kind (Kangxi: 種類); that which sprouts; _chung chung sz' ts'ing_ (zung2 zung2 si6 cing4 種種事情), every kind of affair; _tsap chung_ (zaap6 zung2 雜種), mixed, illegitimate; _wai chung_ (wai4 zung2 遺種), to leave issue; _chung lui_ (zung2 leoi6 種類) a sort, a race; _ta chung_ (daa2 zung2 打種), to beget; _ch'un chung_ (cyun4 zung2 傳種), to propagate or raise elsewhere. Guts, determination. 【種-noun】 (tsyowngX) (_noun-like_) seed (_noun-like_) kind"
+"text":"U+7A2E 穜 种 (Mainland simplified) (F1.61 種) 種蒔 (Page 39* 種) A seed, a kernel (Kangxi: 穀種也); a sort, a class, a kind (Kangxi: 種類); that which sprouts; _chung chung sz' ts'ing_ (zung2 zung2 si6 cing4 種種事情), every kind of affair; _tsap chung_ (zaap6 zung2 雜種), mixed, illegitimate; _wai chung_ (wai4 zung2 遺種), to leave issue; _chung lui_ (zung2 leoi6 種類) a sort, a race; _ta chung_ (daa2 zung2 打種), to beget; _ch'un chung_ (cyun4 zung2 傳種), to propagate or raise elsewhere. Guts, determination. 【種-noun】 (tsyowngX) (_noun-like_) seed (_noun-like_) kind"
 },
 "zung3":{
 "isCanonical":true,
-"text":"U+7A2E 种 (Mainland simplified) (F1.62 種) 栽植 (F1.62 众) 同上 (Page 39* 種) To plant, to sow (Kangxi: 布也), to grow; to cultivate, to raise; _chung tau_ (zung3 dau6-2 種痘) to vaccinate; _chung chik_ (zung3 zik6 種植) to plant trees; _chung ts'oi_ (zung3 coi3 種菜) to raise greens; _chung fuk_ (zung3 fuk1 種福) to bequeath happiness. 【種-verb】 (tsyowngH) (_verb-like_) to seed"
+"text":"U+7A2E 穜 种 (Mainland simplified) (F1.62 種) 栽植 (F1.62 众) 同上 (Page 39* 種) To plant, to sow (Kangxi: 布也), to grow; to cultivate, to raise; _chung tau_ (zung3 dau6-2 種痘) to vaccinate; _chung chik_ (zung3 zik6 種植) to plant trees; _chung ts'oi_ (zung3 coi3 種菜) to raise greens; _chung fuk_ (zung3 fuk1 種福) to bequeath happiness. 【種-verb】 (tsyowngH) (_verb-like_) to seed"
 }
 },
 "粽":{
@@ -14340,13 +14340,13 @@
 "踵":{
 "zung2":{
 "isCanonical":true,
-"text":"U+8E35 dung2 (common) (F1.61 踵) 足跟又繼也躡也 (Page 39* 踵) The heel (Kangxi: 足後); to follow one, to imitate (Kangxi: 因也), to go after one (Kangxi: 追也); to visit, to arrive (Kangxi: 踵至也); ~~to tread hard;~~ ~~to connect;~~ _tsip chung_ (zip3 zung2 接踵), uninterruptedly; _chung mun_ (zung2 mun4 踵門), to enter the door; _chung kwai kwok_ (zung2 gwai3 gwok3 踵貴國) to come to your country; _chung fu_ (zung2 fu2 踵府), to visit your house. Fan Wan entry: Corrected ⿰⿱口土聶 to 躡. Williams' 接踵: Corrected _tsip_ (zip6) to _tsip_ (zip3). To continue, to succeed (Kangxi: 繼也). Repeatedly, frequently (Kangxi: 頻也). 【踵】 (tsyowngX) (_noun-like_) heel (_verb-like_) to heel, (_met._) to follow (after), to arrive, to visit"
+"text":"U+8E35 㣫 徸 歱 (for \"heel\" sense) dung2 (common) (F1.61 踵) 足跟又繼也躡也 (Page 39* 踵) The heel (Kangxi: 足後); to follow one, to imitate (Kangxi: 因也), to go after one (Kangxi: 追也); to visit, to arrive (Kangxi: 踵至也); ~~to tread hard;~~ ~~to connect;~~ _tsip chung_ (zip3 zung2 接踵), uninterruptedly; _chung mun_ (zung2 mun4 踵門), to enter the door; _chung kwai kwok_ (zung2 gwai3 gwok3 踵貴國) to come to your country; _chung fu_ (zung2 fu2 踵府), to visit your house. Fan Wan entry: Corrected ⿰⿱口土聶 to 躡. Williams' 接踵: Corrected _tsip_ (zip6) to _tsip_ (zip3). To continue, to succeed (Kangxi: 繼也). Repeatedly, frequently (Kangxi: 頻也). 【踵】 (tsyowngX) (_noun-like_) heel (_verb-like_) to heel, (_met._) to follow (after), to arrive, to visit"
 }
 },
 "眾":{
 "zung3":{
 "isCanonical":true,
-"text":"U+773E 众 衆 (F1.62 衆) 多也 (F1.62 众) 同上 (Page 40* 衆; here normalised to 眾) A multitude (Kangxi 眾: 多也), a concourse of at least three (Kangxi 眾: 國語三人爲眾數成於三也); ~~a quorum, a majority;~~ a sign of the plural; ~~they;~~ much people, many, all; _chung to_ (zung3 do1 眾多), a great many; _chung muk sho kin_ (zung3 muk6 so2 gin3 眾目所見) every body saw it; _ho chung ti fong_ (hou2 zung3 dei6 fong1 好眾地方), a thickly settled place; _tai chung_ (daai6 zung3 大眾) ~~all of you; the company~~ the masses; _chung yan_ (zung3 jan4 眾人), all men, mankind; _yat chung ~~sang~~ tsang_ (jat1 zung3 zang1 一眾僧), a company of priests; _yat chung_ (jat1 zung3 一眾) one bonze; _chung yeuk_ (zung3 joek3 眾約) all the neighborhoods; _chung i_ (zung3 ji5 眾議), public opinion; _chung wai_ (zung3 wai6-2 眾位) all the gentlemen. Williams' 一眾僧: Changed _sang_ (sang1) to common reading _tsang_ (zang1). The masses, the multitude (Kangxi: 寡者爲人上者也眾者爲人下者也). 【眾】 (tsyuwngH) (_noun-like_) multitude"
+"text":"U+773E 乑 众 㐺 衆 (F1.62 衆) 多也 (F1.62 众) 同上 (Page 40* 衆; here normalised to 眾) A multitude (Kangxi 眾: 多也), a concourse of at least three (Kangxi 眾: 國語三人爲眾數成於三也); ~~a quorum, a majority;~~ a sign of the plural; ~~they;~~ much people, many, all; _chung to_ (zung3 do1 眾多), a great many; _chung muk sho kin_ (zung3 muk6 so2 gin3 眾目所見) every body saw it; _ho chung ti fong_ (hou2 zung3 dei6 fong1 好眾地方), a thickly settled place; _tai chung_ (daai6 zung3 大眾) ~~all of you; the company~~ the masses; _chung yan_ (zung3 jan4 眾人), all men, mankind; _yat chung ~~sang~~ tsang_ (jat1 zung3 zang1 一眾僧), a company of priests; _yat chung_ (jat1 zung3 一眾) one bonze; _chung yeuk_ (zung3 joek3 眾約) all the neighborhoods; _chung i_ (zung3 ji5 眾議), public opinion; _chung wai_ (zung3 wai6-2 眾位) all the gentlemen. Williams' 一眾僧: Changed _sang_ (sang1) to common reading _tsang_ (zang1). The masses, the multitude (Kangxi: 寡者爲人上者也眾者爲人下者也). 【眾】 (tsyuwngH) (_noun-like_) multitude"
 }
 },
 "衆":{
@@ -14364,7 +14364,7 @@
 "訟":{
 "zung6":{
 "isCanonical":true,
-"text":"U+8A1F 誦 (for \"openly\" sense) 讼 (Mainland simplified) cung4 (alternative per 《廣韻》祥容切) (F1.63 訟) 官訟爭辨也又爭財曰訟 (Page 607 訟) To contend before rulers; to demand justice (Kangxi: 上書爲人雪冤曰訟); litigation, pleadings, contention, wrangling (Kangxi: 爭也, 爭辯也),---it mostly refers to legal strifes; law cases; _tsung ts'z'_ (zung6 ci4 訟辭) an indictment; _chang tsung_ (zang1 zung6 爭訟) disputes; _~~t'eng~~ t'ing tsung_ (ting3 zung6 聽訟) to hear a case; _nau tsung_ (nau2 zung6 扭訟) to grapple a man and carry the dispute into court; _sik tsung_ (sik1 zung6 息訟) to settle a dispute, to quash a case; _kun tsung_ (gun1 zung6 官訟) cases in court; _tsz' tsung_ (zi6 zung6 自訟) self reproach; _tsung kwan_ (zung6 gwan3 訟棍) pettifoggers. Williams' 爭訟: Normalised _chang_ (zaang1) to _chang_ (zang1). Williams' 聽訟: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). To reproach, to reprove (Kangxi: 責也). Openly (Kangxi: 公也). 【訟】 (zjowngH, zjowng) (_verb-like_) to litigate (_verb-like_) to reproach, to reprove"
+"text":"U+8A1F 誦 (for \"openly\" sense) 䛦 讼 (Mainland simplified) cung4 (alternative per 《廣韻》祥容切) (F1.63 訟) 官訟爭辨也又爭財曰訟 (Page 607 訟) To contend before rulers; to demand justice (Kangxi: 上書爲人雪冤曰訟); litigation, pleadings, contention, wrangling (Kangxi: 爭也, 爭辯也),---it mostly refers to legal strifes; law cases; _tsung ts'z'_ (zung6 ci4 訟辭) an indictment; _chang tsung_ (zang1 zung6 爭訟) disputes; _~~t'eng~~ t'ing tsung_ (ting3 zung6 聽訟) to hear a case; _nau tsung_ (nau2 zung6 扭訟) to grapple a man and carry the dispute into court; _sik tsung_ (sik1 zung6 息訟) to settle a dispute, to quash a case; _kun tsung_ (gun1 zung6 官訟) cases in court; _tsz' tsung_ (zi6 zung6 自訟) self reproach; _tsung kwan_ (zung6 gwan3 訟棍) pettifoggers. Williams' 爭訟: Normalised _chang_ (zaang1) to _chang_ (zang1). Williams' 聽訟: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). To reproach, to reprove (Kangxi: 責也). Openly (Kangxi: 公也). 【訟】 (zjowngH, zjowng) (_verb-like_) to litigate (_verb-like_) to reproach, to reprove"
 }
 },
 "誦":{

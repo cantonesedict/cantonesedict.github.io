@@ -1243,6 +1243,11 @@ R
   ⾺ + 9
 U
   U+9A23
+A
+  ==
+  - 騌
+  - 骔 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1392,6 +1397,8 @@ C
   ==
   - The reading _(2)chung_ (zung2) is not unattested;
     《正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇.
+    This reading is probably influenced by $腫2, "swelling",
+    which is a different word.
   ==
 P
   ++
@@ -1415,6 +1422,7 @@ U
   U+7A2E
 A
   ==
+  - 穜
   - 种 (Mainland simplified)
   ==
 F
@@ -1704,7 +1712,7 @@ W
 C
   ==
   - Williams (following Fan Wan) erroneously has 瘇 as an alternative form of 腫
-    (rather than of 尰, "leg-swelling").
+    (rather than of $尰2, "leg-swelling").
   ==
 P
   ++
@@ -1727,6 +1735,12 @@ R
   ⾜ + 9
 U
   U+8E35
+A
+  ==
+  - 㣫
+  - 徸
+  - 歱 (for "heel" sense)
+  ==
 V
   ==
   - dung2 (common)
@@ -1905,7 +1919,9 @@ U
   U+773E
 A
   ==
+  - 乑
   - 众
+  - 㐺
   - $衆3
   ==
 F
@@ -1981,6 +1997,7 @@ U
   U+7A2E
 A
   ==
+  - 穜
   - 种 (Mainland simplified)
   ==
 F
@@ -2399,6 +2416,7 @@ U
 A
   ==
   - $誦6 (for "openly" sense)
+  - 䛦
   - 讼 (Mainland simplified)
   ==
 V
