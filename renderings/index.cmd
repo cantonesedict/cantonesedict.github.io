@@ -24,11 +24,11 @@ ReplacementSequence: #.ensure-baxter
 ||||{.modern .input-container}
 --
 <label for="keys-filter">__Filter for Baxter/Term:__</label>
-<input type="text" id="keys-filter" oninput="applyFilter()" lang="zh-Hant">
+<input type="text" id="keys-filter" oninput="applyFilter()" placeholder="(Baxter notation or Chinese)" lang="zh-Hant">
 --
 --
 <label for="values-filter">__Filter for Renderings:__</label>
-<input type="text" id="values-filter" oninput="applyFilter()">
+<input type="text" id="values-filter" oninput="applyFilter()" placeholder="(English only)">
 --
 <noscript>
 --
