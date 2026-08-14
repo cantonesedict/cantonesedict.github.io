@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-08-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,7 +50,6 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($嚶1)
-- ($罃1)
 - $鶯1
 ==
 </nav>
@@ -77,30 +76,6 @@ W
 S
   ==
   - $嚶jing1 (TODO)
-  ==
-$$
-
-### 罃1 | _(1)Ang_ [[ang1]]
-
-$$.
-R
-  ⽸ + 10
-U
-  U+7F43
-F
-  ==
-  - (F2.30 罃) 魏侯名
-  ==
-W
-  ====
-  - [[Page~4 (1)罃]]
-    --
-    [[Alternative form of 罌, and reading variation. **See $罌aang1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - ($罃aang1)
   ==
 $$
 

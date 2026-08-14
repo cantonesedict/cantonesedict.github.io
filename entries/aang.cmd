@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-08-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -87,10 +87,6 @@ P
   ++
   1. Alternative form of 罌. **See $罌aang1 for the canonical entry.**
   ++
-S
-  ==
-  - ($罃ang1)
-  ==
 $$
 
 ### 罌1 | _(1)(A/)ng_ [[aang1]]
