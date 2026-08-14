@@ -3706,6 +3706,16 @@ window.onload = applyFilter;
       - (_verb-like_) [to] step turning on the spot, [to] step quickly
       ==
   //
+    , `khok`
+    , [克](/entries/hak#rendering-克)
+    ,
+      ==
+      - (_verb-like_) [to] sustain, [to] carry
+      - (_adjective-like_) capable
+      - (_verb-like_) [to] overcome, [to] vanquish
+      - (_verb-like_) [to] subdue
+      ==
+  //
     , `khu`
     , [刳](/entries/fu#rendering-刳)
     ,
