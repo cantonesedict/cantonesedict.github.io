@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-08-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -459,7 +459,7 @@ P
   ++
   1. Hanging down (Kangxi 沖: 垂飾貌).
   1. To offset, to counterbalance.
-  1. Conflicting, incompatible.
+  1. (_astrology_) Conflicting, incompatible.
   ++
 L
   ====

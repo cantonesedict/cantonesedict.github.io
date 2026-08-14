@@ -618,6 +618,7 @@ For all radicals, see [Index of characters by radical](./).
       - ($剎caat3)
       - $前cin4
       - $剉co3
+      - $剋hak1
       - $則zak1, $則zik1
       ==
       </nav>

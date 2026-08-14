@@ -57,6 +57,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $克1
+- $剋1
 - $黑1
 ==
 </nav>
@@ -71,7 +72,7 @@ U
   U+514B
 A
   ==
-  - 剋
+  - $剋1
   - 勀
   - 勊
   - 尅
@@ -108,6 +109,14 @@ W
         [[hak1 gei2 克己]],
         to do what you ask others, self-government.
     ==
+    --
+    [[Otherwise, an alternative form of 剋. **See $剋hak1 for the canonical entry.**]]
+    --
+  - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 克 _Hak(7)_ (hak1)]]
+    ==
+    - To subdue, to overcome [[Kangxi 剋: 剋勝也, 謂得勝也]];
+    - [[...]].
+    ==
   ====
 C
   ==
@@ -131,6 +140,69 @@ L
     - (_verb-like_) [to] subdue
     ==
   ====
+$$
+
+###+ 剋1 | _Hak(7)_ [[hak1]]
+
+$$
+R
+  ⼑ + 7
+U
+  U+524B
+A
+  ==
+  - $克1
+  - 勀
+  - 勊
+  - 尅
+  ==
+V
+  ==
+  - haak1 (longer syllable)
+  ==
+F
+  ==
+  - (F2.33 尅) 殺也損也又五行生尅
+  ==
+W
+  ====
+  - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 剋 _Hak(7)_ (hak1)]]
+    ==
+    - [[...]];
+    - to repress, to exorcise;
+    - urgent [[Kangxi 剋: 必也急也]];
+    - _~~h(a/)k(7)~~ ``hak(7)`` sh(a/)t(8) (1)hung (4)shan_
+        [[hak1 saat3 hung1 san4 剋煞凶神]],
+        to drive off unlucky demons;
+    - _(1)shang ~~h(a/)k(7)~~ ``hak(7)``_
+        [[sang1 hak1 生剋]]
+        to produce and destroy (said of the five elements);
+    - _~~h(a/)k(7)~~ ``hak(7)`` chai(3)_
+        [[hak1 zai3 剋制]]
+        to lord it over one;
+    - _~~h(a/)k(7)~~ ``hak(7)`` (2)k(a/)m_
+        [[hak1 gaam2 剋減]],
+        to reduce a debt or wages by force;
+    - _~~h(a/)k(7)~~ ``hak(7)`` pok(9)_
+        [[hak1 bok6 剋薄]]
+        hardfisted, oppressive, insulting.
+    ==
+    --
+    [[Alternative form of 刻 (for the "appoint" and "harsh" senses). See $刻hak1.]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 克. **See $克hak1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 剋薄: Now usually spelt 刻薄.
+  ==
+P
+  ++
+  1. To appoint (a date) (Kangxi: 剋期約定日期也).
+  1. (_astrology_) To conflict with, to be harmful to.
+  ++
 $$
 
 ### 黑1 | _Hak(7)_ [[hak1]]
