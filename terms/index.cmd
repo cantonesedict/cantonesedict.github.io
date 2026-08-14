@@ -319,6 +319,9 @@ window.onload = applyFilter;
     , ceng1
     , [青](/entries/cing#cantonese-青)
   //
+    , ceng1 bi1 bi1
+    , [青啤啤](/entries/cing#cantonese-青啤啤)
+  //
     , ceng1 dau6-2
     , [青豆](/entries/cing#cantonese-青豆)
   //

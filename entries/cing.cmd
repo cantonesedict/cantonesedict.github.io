@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -638,6 +638,11 @@ E
        - 兩邊剷青 (loeng5 bin1 caan2 ceng1): "Faded [on] both sides."
        - 飛青啲 (fei1 ceng1 di1): "Cut [it] closer."
        ==
+    ++
+  - 【青啤啤】 (ceng1 bi1 bi1)
+    ++
+    1. Very light or lime green.
+       The spelling 啤啤 for the suffix bi1 bi1 is arbitrary.
     ++
   - 【青豆】 (ceng1 dau6-2)
     ++
