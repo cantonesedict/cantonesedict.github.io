@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-08-14
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -756,6 +756,18 @@ window.onload = applyFilter;
   //
     , hai6 mai6
     , [係咪](/entries/hai#cantonese-係咪)
+  //
+    , hak1 maa4-1 maa4-1
+    , [黑麻麻](/entries/hak#cantonese-黑麻麻)
+  //
+    , hak1 mang1 mang1
+    , [黑{𠵼=⿰口孟}{𠵼=⿰口孟}](/entries/hak#cantonese-黑𠵼𠵼)
+  //
+    , hak1 mi1 mang1
+    , [黑咪{𠵼=⿰口孟}](/entries/hak#cantonese-黑咪𠵼)
+  //
+    , hak1 si2 lak6 gwak6
+    , [黑屎竻掘](/entries/hak#cantonese-黑屎竻掘)
   //
     , ham6 gaa1 caan2
     , [冚家剷](/entries/caan#cantonese-冚家剷)

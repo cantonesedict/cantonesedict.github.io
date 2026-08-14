@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-08-14
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10746,6 +10746,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] clamour
+      ==
+  //
+    , `xok`
+    , [黑](/entries/hak#rendering-黑)
+    ,
+      ==
+      - (_adjective-like_) black
       ==
   //
     , `xu`
