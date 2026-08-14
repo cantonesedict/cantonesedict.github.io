@@ -259,6 +259,12 @@ window.onload = applyFilter;
     , caau4
     , [巢](/entries/caau#cantonese-巢)
   //
+    , caau4 mang1 mang1
+    , [巢{𠵼=⿰口孟}{𠵼=⿰口孟}](/entries/caau#cantonese-巢𠵼𠵼)
+  //
+    , caau4 mang1 mang3
+    , [巢{𠵼=⿰口孟}{𠵼=⿰口孟}](/entries/caau#cantonese-巢𠵼𠵼)
+  //
     , cai4 cap1 cap1
     , [齊戢戢](/entries/cap#cantonese-齊戢戢)
   //

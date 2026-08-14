@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -535,13 +535,16 @@ E
     ++
     1. Wrinkled.
        ==
-       - 巢{𠵼=⿰口孟}{𠵼=⿰口孟} (caau4 mang1 mang1): "Wrinkly."
        - 巢皮 (caau4 pei4): "Wrinkled skin."
        ==
     ++
+  - 【巢{𠵼=⿰口孟}{𠵼=⿰口孟}】 (caau4 mang1 mang1, caau4 mang1 mang3)
+    ++
+    1. Wrinkly.
+    ++
   ====
   --
-  The spelling 巢 is arbitrary.
+  The spellings 巢 and 巢{𠵼=⿰口孟}{𠵼=⿰口孟} is arbitrary.
   --
 $$
 
