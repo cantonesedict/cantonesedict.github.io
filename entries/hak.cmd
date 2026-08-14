@@ -58,6 +58,7 @@ $$
 =={.modern}
 - $克1
 - $剋1
+- ($赫1)
 - $黑1
 ==
 </nav>
@@ -203,6 +204,30 @@ P
   1. To appoint (a date) (Kangxi: 剋期約定日期也).
   1. (_astrology_) To conflict with, to be harmful to.
   ++
+$$
+
+### 赫1 | _Hak(7)_ [[hak1]]
+
+$$.
+R
+  ⾚ + 7
+U
+  U+8D6B
+F
+  ==
+  - (F2.33 赫) 明也盛也
+  ==
+W
+  ====
+  - [[Page~69 赫(7)]]
+    --
+    [[Reading variation. **See $赫haak1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $赫haak1 (TODO)
+  ==
 $$
 
 ### 黑1 | _Hak(7)_ [[hak1]]
