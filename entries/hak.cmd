@@ -57,6 +57,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $克1
+- $刻1
 - $剋1
 - ($赫1)
 - $黑1
@@ -93,7 +94,7 @@ W
     - To sustain``, to carry`` [[Kangxi: 肩也]], adequate to [[Kangxi: 肩任也任者又負荷之名也能勝此物謂之克也, 克能也]];
     - superior to;
     - to subdue, to conquer [[Kangxi: 勝也]];
-    - overbearing;
+    - [[...]];
     - _hak(7) chai(3)_
         [[hak1 zai3 克制]]
         to order, to make one obey;
@@ -143,6 +144,85 @@ L
   ====
 $$
 
+###+ 刻1 | _Hak(7)_ [[hak1]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+523B
+A
+  ==
+  - $剋1 (for all senses except time-unit sense)
+  ==
+V
+  ==
+  - haak1 (longer syllable)
+  - kaak1 (lazy elision in 即刻)
+  ==
+F
+  ==
+  - (F2.33 刻) ::[時]刻[刋]刻[鏤]也[刺]也::
+  ==
+W
+  ====
+  - [[Page~70 刻(7) _H(a/)k(7)_ (haak1); here normalised to _Hak(7)_ (hak1)]]
+    ==
+    - To carve [[Kangxi: 鏤也]], to chisel, to sculpture;
+    - ~~a~~ ``to`` cut [[Kangxi: 割也]];
+    - griping [[Kangxi: 一曰痛也]]~~, close~~;
+    - fifteen minutes, a little while [[Kangxi: 刻漏也 etc.]];
+    - _~~h(a/)k(7)~~ hak(7) tsz'(6)_
+        [[hak1 zi6 刻字]]
+        to cut characters;
+    - _~~h(a/)k(7)~~ hak(7) (2)p(a/)n_
+        [[hak1 baan2 刻版]],
+        to cut blocks;
+    - _h(a/)n(6) ~~h(a/)k(7)~~ hak(7)_
+        [[haan6 hak1 限刻]]
+        a limit, a set time;
+    - _~~h(a/)k(7)~~ hak(7) kwat(7) (5)ming (1)sam_
+        [[hak1 gwat1 ming5 sam1 刻骨銘心]],
+        graven on the bones and inscribed in the heart;
+    - _~~h(a/)k(7)~~ hak(7) h(a/)(6)_
+        [[hak1 haa6]]
+        presently;
+    - _~~h(a/)k(7)~~ hak(7) yat(9)_
+        [[hak1 jat6 刻日]]
+        a set day;
+    - _(4)sh(i/) ~~h(a/)k(7)~~ hak(7)_
+        [[si4 hak1 時刻]]
+        constant, usual;
+    - _(2)shi(u/) ~~h(a/)k(7)~~ hak(7)_
+        [[siu2 hak1 少刻]]
+        a little time.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱艹⿰丩寸 to 時, corrected 利 to 刋,
+    corrected 鏌 to 鏤, and corrected 剌 to 刺.
+  - Williams' 刻日: That is, an appointed day.
+  ==
+P
+  ++
+  1. To take away, to deprive (Kangxi: 剝也), to reduce.
+  1. Used in 刻薄, 苛刻 (harsh) (Kangxi: 刻薄慘覈也).
+  1. To injure (Kangxi: 害也).
+  ++
+L
+  ====
+  * 【刻】 (khok)
+    ==
+    - (_verb-like_) [to] engrave, [to] cut
+    - (_verb-like_) (_met._) [to] injure
+    - (_verb-like_) (_met._) [to] appoint
+    - (_adjective-like_) (_met._) harsh
+    - (_noun-like_) [time]-mark
+    ==
+  ====
+$$
+
 ###+ 剋1 | _Hak(7)_ [[hak1]]
 
 $$
@@ -167,6 +247,12 @@ F
   ==
 W
   ====
+  - [[Page~69 克(7); here normalised to 剋]]
+    ==
+    - [[...]];
+    - overbearing;
+    - [[...]].
+    ==
   - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 剋 _Hak(7)_ (hak1)]]
     ==
     - [[...]];
@@ -189,7 +275,7 @@ W
         hardfisted, oppressive, insulting.
     ==
     --
-    [[Alternative form of 刻 (for the "appoint" and "harsh" senses). See $刻hak1.]] [[TODO]]
+    [[Alternative form of 刻 (for all senses except the time-unit sense). See $刻hak1.]]
     --
     --
     [[Otherwise, an alternative form of 克. **See $克hak1 for the canonical entry.**]]

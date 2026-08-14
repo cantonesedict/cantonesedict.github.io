@@ -607,6 +607,7 @@ For all radicals, see [Index of characters by radical](./).
       - $刺ci3, $刺cik3
       - ($刱cong3)
       - $刳fu1
+      - $刻hak1
       - $制zai3
       ==
       </nav>

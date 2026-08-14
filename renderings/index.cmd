@@ -3716,6 +3716,17 @@ window.onload = applyFilter;
       - (_verb-like_) [to] subdue
       ==
   //
+    , `khok`
+    , [刻](/entries/hak#rendering-刻)
+    ,
+      ==
+      - (_verb-like_) [to] engrave, [to] cut
+      - (_verb-like_) (_met._) [to] injure
+      - (_verb-like_) (_met._) [to] appoint
+      - (_adjective-like_) (_met._) harsh
+      - (_noun-like_) [time]-mark
+      ==
+  //
     , `khu`
     , [刳](/entries/fu#rendering-刳)
     ,
