@@ -46,7 +46,7 @@ S
   ==
 $$
 
-##{#1 .williams} H(a/)k(7) [[haak1 高陰入]]
+##{#1 .williams} ``H(a/)k(7)`` [[haak1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways characters">
