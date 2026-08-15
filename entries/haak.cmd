@@ -131,6 +131,7 @@ L
   ====
 S
   ==
+  - ($赫haak3)
   - ($赫hak1)
   ==
 $$
@@ -142,6 +143,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $嚇3
+- ($赫3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -156,7 +158,7 @@ U
 A
   ==
   - 哧
-  - 赫
+  - $赫3
   - 吓 (Mainland simplified)
   ==
 V
@@ -211,4 +213,26 @@ L
     - (_verb-like_) [to] menace
     ==
   ====
+$$
+
+###+ 赫3 | _H(a/)k(8)_ [[haak3]]
+
+$$.
+R
+  ⾚ + 7
+U
+  U+8D6B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 嚇. **See $嚇haak3 for the canonical entry.**
+  ++
+S
+  ==
+  - $赫haak1
+  - ($赫hak1)
+  ==
 $$

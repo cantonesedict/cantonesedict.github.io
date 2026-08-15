@@ -647,7 +647,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $赫haak1, ($赫hak1)
+      - $赫haak1, ($赫haak3), ($赫hak1)
       ==
       </nav>
   //

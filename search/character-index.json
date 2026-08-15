@@ -9108,6 +9108,10 @@
 "isCanonical":true,
 "text":"U+8D6B 焃 爀 hak1 (shorter syllable) (F2.33 赫 _Hak_ (hak1)) 明也盛也 (Page 69 赫 _Hak_ (hak1); here normalised to _Hak_ (haak1)) Bright red, splendid, luminous, like a fire or the sun (Kangxi: 火赤貌 etc., 赫赫然盛也, 赫顯也); angry (Kangxi: 赫怒意); to scorch (Kangxi: 赫炙也), to glisten; clever, elegant; _hak hak_ (haak1 haak1 赫赫) hot, glorious, effulgent; _hin hak_ (hin2 haak1 顯赫) a good scholar, talented. Williams' \"to scorch\": Kangxi has 又《集韻》虛訝切音罅與嚇同《詩大雅》反予來赫《傳》赫炙也《箋》口距人謂之赫《釋文》毛許白反鄭許嫁反莊子所云以梁國嚇我是也 Unravelling this, we have competing interpretations: From the commentary, 赫 is to be read 許白反 _hak_ (haak1), and means \"scorching\" or \"fieriness\". From the lesser-note, 赫 is to be read 許嫁反 _ha_ (haa3) and is being used for 嚇 \"menace\". Whilst both meanings are reasonable, the departing-tone reading is indefensible because rhyme is being made with 時亦弋獲. Thus, if one is to interpret 赫 as meaning \"menace\", then it must be read _hak_ (haak3) and not _ha_ (haa3). A surname (Kangxi: 姓). Used in 赫連 (a compound surname) (Kangxi: 赫連氏複姓). 【赫】 (xaek) (_adjective-like_) fiery-red, fiery (_adjective-like_) (_met._) resplendent (_verb-like_) (_met._) to resplend"
 },
+"haak3":{
+"isCanonical":false,
+"text":"U+8D6B"
+},
 "hak1":{
 "isCanonical":false,
 "text":"U+8D6B (F2.33 赫) 明也盛也 (Page 69 赫)"
