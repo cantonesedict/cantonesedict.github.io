@@ -5,13 +5,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-08-15
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
 %%%
 
 #{.williams} %title
+
+<nav class="sideways">
+=={.modern}
+- [Finals](#finals)
+- [Initials](#initials)
+- [Tones](#tones)
+==
+</nav>
 
 {+++
 --
@@ -1007,7 +1015,7 @@ in parenthesis under each number.
 --
 
 {+++
---
+--{#finals}
 (Here, I have made some guesses for the phonetics of 19th-century Cantonese,
 by reconciling Williams' description against modern Cantonese phonology.
 It should be noted that 19th-century English vowels differ slightly
