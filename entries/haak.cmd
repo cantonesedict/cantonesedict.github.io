@@ -143,6 +143,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $嚇3
+- $客3
 - ($赫3)
 ==
 </nav>
@@ -211,6 +212,99 @@ L
     ==
     - (_verb-like_) [to] frighten
     - (_verb-like_) [to] menace
+    ==
+  ====
+$$
+
+### 客3 | _H(a/)k(8)_ [[haak3]]
+
+$$
+R
+  ⼧ + 6
+U
+  U+5BA2
+F
+  ==
+  - (F2.90 客) ::旅客又[寄]居曰客::
+  ==
+W
+  ====
+  - [[Page~70 客(8)]]
+    ==
+    - A guest, a visitor [[Kangxi: 賔客]], a friend;
+    - a dealer, customer, a stranger [[Kangxi: 凡自外至者皆曰客]];
+    - foreign;
+    - squatters, marauders [[Kangxi: 外寇亦曰客]];
+    - to lodge [[Kangxi: 寄也]];
+    - _(4)yan h(a/)k(8)_
+        [[jan4 haak3 人客]]
+        a visitor;
+    - _(1)sai h(a/)k(8)_
+        [[sai1 haak3 西客]]
+        traders from Shens(i/) [[陝西]] and Sh(a/)ns(i/) [[山西]];
+    - _~~h(a/)k,~~ ``h(a/)k(8)`` t(i/)(6)_
+        [[haak3 dei6 客地]]
+        a trading-place;
+    - _h(a/)k(8) (4)fong_
+        [[haak3 fong4-2 客房]],
+        guest-chamber;
+    - _h(a/)k(8) fo(3)_
+        [[haak3 fo3 客貨]]
+        inferior goods;
+    - _(4)ch(')(a/) h(a/)k(8)_
+        [[caa4 haak3 茶客]]
+        teamen;
+    - _h(a/)k(8) sui(3)_
+        [[haak3 seoi3 客歲]]
+        last year;
+    - _h(a/)k(8) (1)ping_
+        [[haak3 bing1 客兵]],
+        foreign troops;
+    - _(1)f(a/)n h(a/)k(8)_
+        [[faan1 haak3 番客]]
+        a foreigner;
+    - _h(a/)k(8) (1)ts(')ai_
+        [[haak3 cai1 客妻]],
+        a whore;
+    - _h(a/)k(8) (1)k(a/) (4)yan_
+        [[haak3 gaa1 jan4 客家人]],
+        people from Ki(a/)ying chau [[嘉應州]];
+    - _h(a/)k(8) t(')(o\)(3)_
+        [[haak3 tou3 客套]]
+        to flatter a guest;
+    - _(2)h(o\) h(a/)k(8) (4)ts(')ing_
+        [[hou2 haak3 cing4 好客情]],
+        a cordial reception;
+    - _(4)t(')ong h(a/)k(8)_
+        [[tong4 haak3 堂客]]
+        a lady visitor.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿱宀竒 to 寄.
+  - Williams' 客地: Corrected comma to tone marker _(8)_ for 客.
+  - In modern usage, used in 客觀 "objective" (in contrast with 主觀 "subjective").
+  ==
+P
+  ++
+  1. A retainer, a person retained (i.e. employment) by a lord.
+      ==
+      - 食客 (sik6 haak3): "Eating guest" (i.e. one who eats from being retained as a guest by a lord).
+      ==
+  1. A noun-forming suffix used to denote engagement in an activity.
+      ==
+      - 政客 (zing3 haak3): "Politician."
+      - 刺客 (ci3 haak3): "Assassin."
+      - 劍客 (gim3 haak3): "Swordsman."
+      - 海客 (hoi2 haak3): "Mariner."
+      ==
+  ++
+L
+  ====
+  * 【客】 (khaek)
+    ==
+    - (_noun-like_) guest
     ==
   ====
 $$

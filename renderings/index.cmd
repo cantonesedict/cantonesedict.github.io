@@ -3684,6 +3684,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] tie, [to] bind
       ==
   //
+    , `khaek`
+    , [客](/entries/haak#rendering-客)
+    ,
+      ==
+      - (_noun-like_) guest
+      ==
+  //
     , `khet khwat`
     , [契闊](/entries/fut#rendering-契闊)
     ,
