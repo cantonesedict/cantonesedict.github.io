@@ -9103,6 +9103,16 @@
 "text":"U+9F58 𬹼 (Mainland simplified) (F2.28 齘) 齒相抵也 (Page 69 齘) To gnash the teeth (Kangxi: 齒相切也), angry (Kangxi: 䫴齘者切齒怒也 etc.); ~~plates in mail arranged like teeth.~~ Fan Wan entry: Corrected ⿰扌氏 to 抵. Williams' \"plates in mail arranged like teeth\": This is a misreading of Kangxi's example 凡甲衣之欲其無齘也, which should be rendered \"For all armour: wearing it, we wish that it have not gnashing\". 【齘】 (heajH) (_verb-like_) to gnash"
 }
 },
+"赫":{
+"haak1":{
+"isCanonical":true,
+"text":"U+8D6B 焃 爀 hak1 (shorter syllable) (F2.33 赫 _Hak_ (hak1)) 明也盛也 (Page 69 赫 _Hak_ (hak1); here normalised to _Hak_ (haak1)) Bright red, splendid, luminous, like a fire or the sun (Kangxi: 火赤貌 etc., 赫赫然盛也, 赫顯也); angry (Kangxi: 赫怒意); to scorch, to glisten; clever, elegant; _hak hak_ (haak1 haak1 赫赫) hot, glorious, effulgent; _hin hak_ (hin2 haak1 顯赫) a good scholar, talented. A surname (Kangxi: 姓). Used in 赫連 (a compound surname) (Kangxi: 赫連氏複姓). 【赫】 (xaek) (_adjective-like_) fiery-red, fiery (_adjective-like_) (_met._) resplendent (_verb-like_) (_met._) to resplend"
+},
+"hak1":{
+"isCanonical":false,
+"text":"U+8D6B (F2.33 赫) 明也盛也 (Page 69 赫)"
+}
+},
 "閪":{
 "hai1":{
 "isCanonical":true,
@@ -9179,12 +9189,6 @@
 "hak1":{
 "isCanonical":true,
 "text":"U+524B 克 勀 勊 尅 haak1 (longer syllable) (F2.33 尅) 殺也損也又五行生尅 (Page 69 克; here normalised to 剋) overbearing; (Page 70 尅 _Hak_ (haak1); here normalised to 剋 _Hak_ (hak1)) to repress, to exorcise; urgent (Kangxi 剋: 必也急也); _hak shat hung shan_ (hak1 saat3 hung1 san4 剋煞凶神), to drive off unlucky demons; _shang hak_ (sang1 hak1 生剋) to produce and destroy (said of the five elements); _hak chai_ (hak1 zai3 剋制) to lord it over one; _hak kam_ (hak1 gaam2 剋減), to reduce a debt or wages by force; _hak pok_ (hak1 bok6 剋薄) hardfisted, oppressive, insulting. Williams' 剋薄: Now usually spelt 刻薄. To appoint (a date) (Kangxi: 剋期約定日期也). (_astrology_) To conflict with, to be harmful to."
-}
-},
-"赫":{
-"hak1":{
-"isCanonical":false,
-"text":"U+8D6B (F2.33 赫) 明也盛也 (Page 69 赫)"
 }
 },
 "黑":{

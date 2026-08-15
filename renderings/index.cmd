@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-14
+* %date-modified --> 2026-08-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10571,6 +10571,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] take, [to] pluck
+      ==
+  //
+    , `xaek`
+    , [赫](/entries/haak#rendering-赫)
+    ,
+      ==
+      - (_adjective-like_) fiery-red, fiery
+      - (_adjective-like_) (_met._) resplendent
+      - (_verb-like_) (_met._) [to] resplend
       ==
   //
     , `xjun`
