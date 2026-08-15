@@ -301,7 +301,7 @@ W
   ====
   - [[Page~69 赫(7)]]
     --
-    [[Reading variation. **See $赫haak1 for the canonical entry.**]] [[TODO]]
+    [[Reading variation. **See $赫haak1 for the canonical entry.**]]
     --
   ====
 S
