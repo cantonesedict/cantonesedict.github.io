@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-15
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -460,6 +460,10 @@ P
   1. Repeated, layered (Kangxi: 重也).
   1. To repeat.
   1. Complex, complicated.
+  1. Compound.
+      ==
+      - 複姓 (fuk1 sing3): "Compound surname."
+      ==
   ++
 L
   ====
