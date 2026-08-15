@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [haak1](#1)
 - [haak3](#3)
+- [haak6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -328,5 +329,46 @@ S
   ==
   - $赫haak1
   - ($赫hak1)
+  ==
+$$
+
+##{#6 .williams} ``H(a/)k(9)`` [[haak6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $喀6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 喀6 | _H(a/)k(9)_ [[haak6]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+5580
+A
+  ==
+  - 嗄 (Cantonese)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【喀】 (haak6)
+    ++
+    1. An interjection of acknowledgement.
+    ++
+  ====
+  --
+  The spelling 喀 is arbitrary.
+  --
+S
+  ==
+  - $喀haak3 (TODO)
   ==
 $$
