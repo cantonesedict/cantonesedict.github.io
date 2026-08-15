@@ -10578,6 +10578,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] frighten
+      - (_verb-like_) [to] menace
       ==
   //
     , `xaek`
@@ -10585,6 +10586,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] frighten
+      - (_verb-like_) [to] menace
       ==
   //
     , `xaek`

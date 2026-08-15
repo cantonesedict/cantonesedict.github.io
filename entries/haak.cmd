@@ -82,7 +82,7 @@ W
     ==
     - Bright ``red``, splendid, luminous, like a fire or the sun [[Kangxi: 火赤貌 etc., 赫赫然盛也, 赫顯也]];
     - angry [[Kangxi: 赫怒意]];
-    - to scorch<## TODO: same as 嚇 (Kangxi: 赫炙也 etc.) ##>, to glisten;
+    - to scorch [[Kangxi: 赫炙也]], to glisten;
     - clever, elegant;
     - _~~hak(7)~~ ``h(a/)k(7)`` ~~hak(7)~~ ``h(a/)k(7)``_
         [[haak1 haak1 赫赫]]
@@ -92,6 +92,29 @@ W
         a good scholar, talented.
     ==
   ====
+C
+  ==
+  - Williams' "to scorch": Kangxi has
+    """"
+    ::又《集韻》虛訝切音罅與嚇同\
+    《詩大雅》反予來赫\
+    《傳》赫炙也\
+    《箋》口距人謂之赫\
+    《釋文》毛許白反鄭許嫁反莊子所云以梁國嚇我是也::
+    """"
+    Unravelling this, we have competing interpretations:
+    ++
+    1. From the commentary, 赫 is to be read 許白反 _h(a/)k(7)_ (haak1),
+       and means "scorching" or "fieriness".
+    2. From the lesser-note, 赫 is to be read 許嫁反 _h(a/)(3)_ (haa3)
+       and is being used for $嚇3 "menace".
+    ++
+    Whilst both meanings are reasonable,
+    the departing-tone reading is indefensible
+    because rhyme is being made with 時亦弋獲.
+    Thus, if one is to interpret 赫 as meaning "menace",
+    then it must be read _h(a/)k(8)_ (haak3) and not _h(a/)(3)_ (haa3).
+  ==
 P
   ++
   1. A surname (Kangxi: 姓).
@@ -185,6 +208,7 @@ L
   * 【嚇】 (xaek, xaeH)
     ==
     - (_verb-like_) [to] frighten
+    - (_verb-like_) [to] menace
     ==
   ====
 $$
