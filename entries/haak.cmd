@@ -143,12 +143,46 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $喀3
 - $嚇3
 - $客3
 - ($赫3)
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 喀3 | _H(a/)k(8)_ [[haak3]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+5580
+A
+  ==
+  - 䘔
+  ==
+V
+  ==
+  - kaak1 (alternative)
+  - kaak3 (alternative)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. (_onomatopoeia_) The sound of retching or coughing up (Kangxi: 吐聲 etc.).
+      ==
+      - 喀痰 (kaak1 taam4): "Cough [up] phlegm."
+      ==
+  ++
+S
+  ==
+  - $喀haak6
+  ==
+$$
 
 ### 嚇3 | _H(a/)k(8)_ [[haak3]]
 
@@ -369,6 +403,6 @@ E
   --
 S
   ==
-  - $喀haak3 (TODO)
+  - $喀haak3
   ==
 $$

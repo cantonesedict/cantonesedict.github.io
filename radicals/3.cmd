@@ -185,7 +185,7 @@ For all radicals, see [Index of characters by radical](./).
       - $喘cyun2
       - ($喚fun3)
       - $㗇haa1
-      - $喀haak6
+      - $喀haak3, $喀haak6
       - $喺hai2
       - $喳zaa4
       - $啾zau1
