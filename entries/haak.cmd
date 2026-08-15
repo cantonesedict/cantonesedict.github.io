@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [haak1](#1)
+- [haak3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -109,4 +110,81 @@ S
   ==
   - ($赫hak1)
   ==
+$$
+
+
+##{#3 .williams} H(a/)k(8) [[haak3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $嚇3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 嚇3 | _H(a/)k(8)_ [[haak3]]
+
+$$
+R
+  ⼝ + 14
+U
+  U+5687
+A
+  ==
+  - 哧
+  - 赫
+  - 吓 (Mainland simplified)
+  ==
+V
+  ==
+  - haa3 (alternative per 《集韻》虚訝切)
+  ==
+F
+  ==
+  - (F2.90 ::[恐]嚇[驚]嚇::)
+  ==
+W
+  ====
+  - [[Page~70 嚇(8)]]
+    ==
+    - An angry ~~tone~~ ``sound`` [[Kangxi: 怒其聲]];
+    - to threaten, to intimidate;
+    - to anger;
+    - scared, frightened;
+    - _h(a/)k(8) (5)ngo yat(7) t(')i(u/)(3)_
+        [[haak3 ngo5 jat1 tiu3 嚇我一跳]]
+        scared me much;
+    - _h(a/)k(8) (1)keng_
+        [[haak3 geng1 嚇驚]],
+        terrified;
+    - _h(a/)k(8) (1)ts(')an_
+        [[haak3 can1 嚇嚫]],
+        sick from fright;
+    - _h(a/)k(8) ch(a/)(3)_
+        [[haak3 zaa3 嚇詐]]
+        to alarm by threats;
+    - _h(a/)k(8) shai(3)_
+        [[haak3 sai3 嚇勢]]
+        a humbug;
+    - _(2)hung h(a/)k(8)_
+        [[hung2 haak3 恐嚇]]
+        to idly arouse one's fears.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete and missing strokes in 恐 and 驚.
+  ==
+P
+  ++
+  1. To defy verbally (Kangxi: 口拒人謂之赫, 赫亦作嚇).
+  ++
+L
+  ====
+  * 【嚇】 (xaek, xaeH)
+    ==
+    - (_verb-like_) [to] frighten
+    ==
+  ====
 $$

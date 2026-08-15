@@ -10573,6 +10573,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] take, [to] pluck
       ==
   //
+    , `xaeH`
+    , [嚇](/entries/haak#rendering-嚇)
+    ,
+      ==
+      - (_verb-like_) [to] frighten
+      ==
+  //
+    , `xaek`
+    , [嚇](/entries/haak#rendering-嚇)
+    ,
+      ==
+      - (_verb-like_) [to] frighten
+      ==
+  //
     , `xaek`
     , [赫](/entries/haak#rendering-赫)
     ,
