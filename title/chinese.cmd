@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Chinese Title Page: 《英華分韻撮要》
-* %date-modified --> 2026-03-29
+* %date-modified --> 2026-08-16
 * %copyright-prior-years --> "2023, 2025--"
 * %meta-description --> Chinese title page
 
@@ -39,8 +39,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 ==
 - 丙辰 Ping-shan: year 53/60 of the [sexagenary cycle]
-- 咸豐 H(a/)m-fung: [Emperor Hsien-fêng], penultimate of the Ts(')ing Dynasty
-- Fun fact: 咸豐年 is now a Cantonese phrase meaning "ages ago"
+- 咸豐 H(a/)m-fung: [Emperor Hien-fung] of the Ts(')ing Dynasty
+- Fun fact: [咸豐年](/entries/haam#cantonese-咸豐年) is now a Cantonese phrase meaning "ages ago"
 ==
 --
 End of remarks.)
@@ -48,7 +48,7 @@ End of remarks.)
 +++}
 
 [sexagenary cycle]: https://en.wikipedia.org/wiki/Sexagenary_cycle
-[Emperor Hsien-fêng]: https://en.wikipedia.org/wiki/Xianfeng_Emperor
+[Emperor Hien-fung]: https://en.wikipedia.org/wiki/Xianfeng_Emperor
 
 --{.williams .title-information}
 衛三畏廉士甫編譯

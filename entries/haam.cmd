@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-16
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [haam4](#4)
 - [haam5](#5)
 ==
 </nav>
@@ -38,6 +39,93 @@ WP
 MP
   ==
   - haam = [haːm]
+  ==
+$$
+
+
+##{#4 .williams} ``(4)H(a/)m`` [[haam4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $咸4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 咸4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54B8
+F
+  ==
+  - (F2.63 咸) ::皆也又[交感]也::
+  ==
+W
+  ====
+  - [[Page~70 (4)咸]]
+    ==
+    - All, jointly, altogether [[Kangxi: 皆也, 悉也]];
+    - completely, totally;
+    - always, all round, reaching everywhere [[Kangxi: 咸徧也]];
+    - concord [[Kangxi: 咸同也]], associated;
+    - ~~hasty;~~
+    - a diagram [[Kangxi: 卦名]];
+    - _pat(7) (4)h(a/)m_
+        [[bat1 haam4 不咸]],
+        disagreeing;
+    - _(4)H(a/)m (1)fung_
+        [[haam4 fung1 咸豐]],
+        the style of the present emperor;
+    - _m(a/)n(6) kwok(8) (4)h(a/)m (4)ning_
+        [[maan6 gwok3 haam4 ning4 萬國咸寧]],
+        all countries at peace.
+    ==
+    --
+    [[Otherwise, an alternative form of 諴. **See $諴haam4 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 鹹. **See $鹹haam4 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿳一八夂 to 交, and fixed incompletely printed stroke in 感.
+  - Williams' "hasty": Kangxi has 《易雜卦》咸速也.
+    This should not be taken as a definition of 咸.
+  - Williams' 咸豐: See the term 咸豐年 below.
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【咸】 (heam)
+    ==
+    - (_adverb-like_) all, completely, together
+    - (_verb-like_) [to] unite
+    ==
+  ====
+E
+  ====
+  - 【咸豐年】 (haam4 fung1 nin4)
+    ++
+    1. Ages ago.
+    ++
+  ====
+  --
+  Note that Emperor Hien-fung (咸豐) reigned from 1850 to 1861,
+  and died at the age of just 30.
+  --
+S
+  ==
+  - ($咸gaam1) (TODO) <## same as 緘 ##>
+  - ($咸gaam2) (TODO) <## same as 減 ##>
+  - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
   ==
 $$
 
