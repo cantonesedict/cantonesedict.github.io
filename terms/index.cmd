@@ -754,8 +754,14 @@ window.onload = applyFilter;
     , haak6
     , [喀](/entries/haak#cantonese-喀)
   //
+    , haam4
+    , [鹹](/entries/haam#cantonese-鹹)
+  //
     , haam4 fung1 nin4
     , [咸豐年](/entries/haam#cantonese-咸豐年)
+  //
+    , haam4 sap1
+    , [鹹濕](/entries/haam#cantonese-鹹濕)
   //
     , haap3 cou3
     , [呷醋](/entries/cou#cantonese-呷醋)

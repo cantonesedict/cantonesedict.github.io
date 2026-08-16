@@ -3587,6 +3587,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] unite
       ==
   //
+    , `heam`
+    , [鹹](/entries/haam#rendering-鹹)
+    ,
+      ==
+      - (_adjective-like_) salty
+      ==
+  //
     , `hej`
     , [兮](/entries/hai#rendering-兮)
     ,

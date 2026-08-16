@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $咸4
+- $鹹4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -88,7 +89,7 @@ W
     [[Otherwise, an alternative form of 諴. **See $諴haam4 for the canonical entry.**]] [[TODO]]
     --
     --
-    [[Otherwise, an alternative form of 鹹. **See $鹹haam4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 鹹. **See $鹹haam4 for the canonical entry.**]]
     --
   ====
 C
@@ -127,6 +128,74 @@ S
   - ($咸gaam2) (TODO) <## same as 減 ##>
   - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
   ==
+$$
+
+### ~~？~~``鹹``4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⿄ + 9
+U
+  U+9E79
+A
+  ==
+  - $咸4
+  - 醎
+  ==
+F
+  ==
+  - (F2.63 ::[鹹]::) ::[鹽]味不[淡]也::
+  - (F2.63 ::[醎]::) 同上
+  ==
+W
+  ====
+  - [[Page~70 (4)鹹]]
+    ==
+    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi: 北方味也, 不淡, 鹽味]];
+    - salted, preserved in brine;
+    - _(4)h(a/)m shap(7)_
+        [[haam4 sap1 鹹濕]]
+        salacious;
+    - _(4)h(a/)m ts(')oi(3)_
+        [[haam4 coi3 鹹菜]]
+        sour-krout;
+    - _(4)h(a/)m (4)t(')(o\)_
+        [[haam4 tou4-2 鹹桃]],
+        salted peaches.
+    ==
+  ====
+C
+  ==
+  - Williams' prints the headword with the last stroke of 鹵 missing; here corrected.
+    (The character 鹹 appears correctly on Page~828 in the character index.)
+  - Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎,
+    and corrected malformed 鹽 and 淡.
+  ==
+L
+  ====
+  * 【鹹】 (heam)
+    ==
+    - (_adjective-like_) salty
+    ==
+  ====
+E
+  ====
+  - 【鹹】 (haam4)
+    ++
+    1. Lewd, pornographic, erotic.
+       ==
+       - 鹹片 (haam4 pin3-2): "Pornographic video."
+       ==
+    ++
+  - 【鹹濕】 (haam4 sap1)
+    ++
+    1. Lewd, pornographic, erotic.
+       ==
+       - 好鹹濕 (hou2 haam4 sap1): "Very lewd" (or erotic).
+       - 鹹濕鬼 (haam4 sap1 gwai2): "Pervert."
+       ==
+    ++
+  ====
 $$
 
 
