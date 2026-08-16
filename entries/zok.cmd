@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-08-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -431,7 +431,7 @@ W
 C
   ==
   - Williams' "to drink": Kangxi 將飮之而跪之曰賜濯 is erroneous.
-    Here, 賜濯 should be 賜灌 from the Classic of Rites.
+    Here, 賜濯 should be 賜灌 from the Record of Rites.
   ==
 P
   ++

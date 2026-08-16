@@ -111,7 +111,7 @@ C
   - Fan Wan entry: Fixed missing second stroke in 容.
   - Williams' 尊函: Here, "favor" means "letter".
   - Williams' 函丈: Not a teacher's desk, but a teacher,
-    from the Propriety-prescribed distance, 席間函丈
+    from the distance prescribed by the Record of Rites, 席間函丈
     "between [the] mats [there shall be] contained [a] measure".
   ==
 P

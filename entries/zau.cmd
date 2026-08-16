@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -311,7 +311,7 @@ C
     《集韻》 has the reading 將由切, explained 燕雀聲禮啁噍之頃通作啾.
     In fact, this reading is probably *more* reliable
     than 《廣韻》即消切 _(1)tsi(u/)_ (ziu1),
-    as 《集韻》 explicitly has the example 啁噍之頃 from the Classic of Rites,
+    as 《集韻》 explicitly has the example 啁噍之頃 from the Record of Rites,
     for which Kangxi gives 《釋文》噍子流反 in corroboration.
     Moreover, this gives 啁噍 an internal rhyme,
     which makes sense for a term that is onomatopoeic.
