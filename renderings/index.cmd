@@ -3588,6 +3588,14 @@ window.onload = applyFilter;
       ==
   //
     , `heam`
+    , [諴](/entries/haam#rendering-諴)
+    ,
+      ==
+      - (_verb-like_) [to] unite
+      - (_noun-like_) unity, (_met._) sincerity
+      ==
+  //
+    , `heam`
     , [鹹](/entries/haam#rendering-鹹)
     ,
       ==

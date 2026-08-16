@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $咸4
+- $諴4
 - $鹹4
 ==
 </nav>
@@ -128,6 +129,36 @@ S
   - ($咸gaam2) (TODO) <## same as 減 ##>
   - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
   ==
+$$
+
+### 諴4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⾔ + 9
+U
+  U+8AF4
+F
+  ==
+  - (F2.63 諴) 和也誠也
+  ==
+W
+  ====
+  - [[Page~70 (4)諴]]
+    ==
+    - Union, harmony [[Kangxi: 和也]];
+    - to be accordant, united;
+    - sincere, cordial, hearty [[Kangxi: 誠也, 誠感物曰諴]].
+    ==
+  ====
+L
+  ====
+  * 【諴】 (heam)
+    ==
+    - (_verb-like_) [to] unite
+    - (_noun-like_) unity, (_met._) sincerity
+    ==
+  ====
 $$
 
 ### ~~？~~``鹹``4 | _(4)H(a/)m_ [[haam4]]
