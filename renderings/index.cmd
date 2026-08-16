@@ -3662,6 +3662,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] suspend, [to] hang, (_met._) [to] attach
       ==
   //
+    , `hom`
+    , [函](/entries/haam#rendering-函)
+    ,
+      ==
+      - (_verb-like_) [to] contain
+      - (_noun-like_) container, (_met._) armour
+      ==
+  //
     , `homX`
     , [菡](/entries/haam#rendering-菡)
     ,

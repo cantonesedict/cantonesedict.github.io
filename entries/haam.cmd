@@ -48,12 +48,85 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $函4
 - $咸4
 - $諴4
 - $鹹4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 函4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⼐ + 6
+U
+  U+51FD
+H
+  May appear with central component as 了 (assumed here) or 丂,
+  depending on the font.
+A
+  ==
+  - 凾
+  - 圅
+  - 䤴 (for "armour" sense)
+  - 䥁 (for "armour" sense)
+  ==
+V
+  ==
+  - ham4 (per 《廣韻》胡男切 for "contain" sense)
+  ==
+F
+  ==
+  - (F2.63 函) ::包也[容]也::
+  ==
+W
+  ====
+  - [[Page~70 (4)函]]
+    ==
+    - To contain, to infold, to comprehend in, to envelop [[Kangxi: 容也, 函包也, 讀與含同]];
+    - a letter, or what is contained in an envelop [[Kangxi: 書也]];
+    - liberal, capacious;
+    - _(1)p(a/)u (4)h(a/)m_
+        [[baau1 haam4 包函]],
+        to keep close, not to utter;
+    - _(1)sh(u:) (4)h(a/)m_
+        [[syu1 haam4 書函]],
+        a letter;
+    - _(1)ts(u:)n (4)h(a/)m_
+        [[zyun1 haam4 尊函]],
+        your favor;
+    - _(4)h(a/)m ch(e/)ung(6)_
+        [[haam4 zoeng6 函丈]]
+        a teacher ~~or sage's desk~~;
+    - _(4)h(a/)m (4)yung_
+        [[haam4 jung4 函容]],
+        patiently.
+    ==
+  ====
+C
+  ==
+  - The "contain" sense is probably cognate with 含.
+  - Fan Wan entry: Fixed missing second stroke in 容.
+  - Williams' 尊函: Here, "favor" means "letter".
+  - Williams' 函丈: Not a teacher's desk, but a teacher,
+    from the Propriety-prescribed distance, 席間函丈
+    "between [the] mats [there shall be] contained [a] measure".
+  ==
+P
+  ++
+  1. Armour (Kangxi: 鎧也).
+  ++
+L
+  ====
+  * 【函】 (hom)
+    ==
+    - (_verb-like_) [to] contain
+    - (_noun-like_) container, (_met._) armour
+    ==
+  ====
+$$
 
 ### 咸4 | _(4)H(a/)m_ [[haam4]]
 
