@@ -43,7 +43,7 @@ MP
 $$
 
 
-##{#4 .williams} ``(4)H(a/)m`` [[haam4 陽平]]
+##{#4 .williams} (4)H(a/)m [[haam4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways characters">
