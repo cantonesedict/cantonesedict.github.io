@@ -54,6 +54,7 @@ $$
 - $椷4
 - $涵4
 - $諴4
+- $銜4
 - $鹹4
 ==
 </nav>
@@ -360,6 +361,71 @@ L
     ==
     - (_verb-like_) [to] unite
     - (_noun-like_) unity, (_met._) sincerity
+    ==
+  ====
+$$
+
+### 銜4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⾦ + 6
+U
+  U+929C
+A
+  ==
+  - 啣
+  - 㗸
+  - 㘅
+  - 䘖
+  - 衘
+  - 衔 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.63 銜) ::馬勒也又口[含物]曰銜又官之階位曰銜::
+  ==
+W
+  ====
+  - [[Page~71 (4)銜]]
+    ==
+    - Bit of a bridle [[Kangxi: 馬勒口中, 馬銜所以制之行也]];
+    - to hold in the mouth [[Kangxi: 凡口含物曰銜]];
+    - to contain;
+    - to control one's self, to guide, to order;
+    - ~~affected by;~~
+    - ~~moved~~ ``thankful`` [[Kangxi: 感也]], ~~indignant~~ ``resentful`` [[Kangxi: 憾也]];
+    - rank [[Kangxi: 官吏階位曰銜]];
+    - _(2)hau (4)h(a/)m muk(9) (2)l(a/)m_
+        [[hau2 haam4 muk6 laam2 口銜木欖]],
+        to keep silence;
+    - _(4)h(a/)m (4)m(u/)i_
+        [[haam4 mui4 銜枚]],
+        to hold a bit, to be still;
+    - _(1)k(u/)n (4)h(a/)m_ [[gun1 haam4 官銜]]^
+        or
+      _chik(7) (4)h(a/)m_ [[zik1 haam4 職銜]],
+        an official title;
+    - _(4)h(a/)m han(6)_
+        [[haam4 han6 銜恨]]
+        to restrain one's indignation.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 舍 to 含, and corrected {𢪱=⿰扌勿} to 物.
+  ==
+P
+  ++
+  1. To carry (out) (Kangxi: 奉君命而行曰銜命).
+  1. To connect.
+  ++
+L
+  ====
+  * 【銜】 (haem)
+    ==
+    - (_noun-like_) bit
+    - (_verb-like_) [to] carry in [the] mouth, [to] carry
     ==
   ====
 $$

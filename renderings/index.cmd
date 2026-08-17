@@ -3490,6 +3490,14 @@ window.onload = applyFilter;
       - (_adjective-like_) leisurely, (_met._) carefree
       ==
   //
+    , `haem`
+    , [銜](/entries/haam#rendering-銜)
+    ,
+      ==
+      - (_noun-like_) bit
+      - (_verb-like_) [to] carry in [the] mouth, [to] carry
+      ==
+  //
     , `hea`
     , [鞋](/entries/haai#rendering-鞋)
     ,
