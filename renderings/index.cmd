@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-16
+* %date-modified --> 2026-08-17
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3668,6 +3668,14 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] contain
       - (_noun-like_) container, (_met._) armour
+      ==
+  //
+    , `hom`
+    , [涵](/entries/haam#rendering-涵)
+    ,
+      ==
+      - (_verb-like_) [to] contain
+      - (_adjective-like_) well-moistened, well-soaked
       ==
   //
     , `homX`

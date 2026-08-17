@@ -9142,13 +9142,19 @@
 "函":{
 "haam4":{
 "isCanonical":true,
-"text":"U+51FD May appear with central component as 了 (assumed here) or 丂, depending on the font. 凾 圅 䤴 (for \"armour\" sense) 䥁 (for \"armour\" sense) ham4 (per 《廣韻》胡男切 for \"contain\" sense) (F2.63 函) 包也容也 (Page 70 函) To contain, to infold, to comprehend in, to envelop (Kangxi: 容也, 函包也, 讀與含同); a letter, or what is contained in an envelop (Kangxi: 書也); liberal, capacious; _pau ham_ (baau1 haam4 包函), to keep close, not to utter; _shu ham_ (syu1 haam4 書函), a letter; _tsun ham_ (zyun1 haam4 尊函), your favor; _ham cheung_ (haam4 zoeng6 函丈) a teacher ~~or sage's desk~~; _ham yung_ (haam4 jung4 函容), patiently. The \"contain\" sense is probably cognate with 含. Fan Wan entry: Fixed missing second stroke in 容. Williams' 尊函: Here, \"favor\" means \"letter\". Williams' 函丈: Not a teacher's desk, but a teacher, from the distance prescribed by the Record of Rites, 席間函丈 \"between the mats there shall be contained a measure\". Armour (Kangxi: 鎧也). 【函】 (hom) (_verb-like_) to contain (_noun-like_) container, (_met._) armour"
+"text":"U+51FD May appear with central component as 了 (assumed here) or 丂, depending on the font. 凾 圅 䤴 (for \"armour\" sense) 䥁 (for \"armour\" sense) ham4 (per 《廣韻》胡男切 for \"contain\" sense) (F2.63 函) 包也容也 (Page 70 函) To contain, to infold, to comprehend in, to envelop (Kangxi: 容也, 函包也, 讀與含同); a letter, or what is contained in an envelop (Kangxi: 書也); liberal, capacious; _pau ham_ (baau1 haam4 包函), to keep close, not to utter; _shu ham_ (syu1 haam4 書函), a letter; _tsun ham_ (zyun1 haam4 尊函), your favor; _ham cheung_ (haam4 zoeng6 函丈) a teacher ~~or sage's desk~~; _ham yung_ (haam4 jung4 函容), patiently. The \"contain\" sense is probably cognate with 含. Fan Wan entry: Fixed missing second stroke in 容. Williams' 尊函: Here, \"favor\" means \"letter\". Williams' 函丈: Not a teacher's desk, but a teacher, from the distance prescribed by the Record of Rites, 席間函丈 \"between the mats there shall be contained a measure\". In modern usage, used in 函數 \"function\" in mathematics. Armour (Kangxi: 鎧也). 【函】 (hom) (_verb-like_) to contain (_noun-like_) container, (_met._) armour"
 }
 },
 "咸":{
 "haam4":{
 "isCanonical":true,
 "text":"U+54B8 (F2.63 咸) 皆也又交感也 (Page 70 咸) All, jointly, altogether (Kangxi: 皆也, 悉也); completely, totally; always, all round, reaching everywhere (Kangxi: 咸徧也); concord (Kangxi: 咸同也), associated; ~~hasty;~~ a diagram (Kangxi: 卦名); _pat ham_ (bat1 haam4 不咸), disagreeing; _Ham fung_ (haam4 fung1 咸豐), the style of the present emperor; _man kwok ham ning_ (maan6 gwok3 haam4 ning4 萬國咸寧), all countries at peace. Fan Wan entry: Corrected ⿳一八夂 to 交, and fixed incompletely printed stroke in 感. Williams' \"hasty\": Kangxi has 《易雜卦》咸速也. This should not be taken as a definition of 咸. Williams' 咸豐: See the term 咸豐年 below. A surname (Kangxi: 姓). 【咸】 (heam) (_adverb-like_) all, completely, together (_verb-like_) to unite 【咸豐年】 (haam4 fung1 nin4) Ages ago. Note that Emperor Hien-fung (咸豐) reigned from 1850 to 1861, and died at the age of just 30."
+}
+},
+"涵":{
+"haam4":{
+"isCanonical":true,
+"text":"U+6DB5 ham4 (per 《廣韻》胡男切) ham6 (per 《廣韻》胡感切 for \"boat-leak\" sense) (F2.63 涵) 水澤涵濡 (Page 70 涵) Submerged (Kangxi: 涵沉也); to leak (Kangxi: 一曰水入船); ~~marshy;~~ to soak; to contain (Kangxi: 容也), capacious; _ham un_ (haam4 jyun5 涵軟), to soak soft; _ham yeung_ (haam4 joeng5 涵養), kindly, to keep one's temper; _shui ham_ (seoi2 haam4 水涵) a sewer. The reading _ham_ (haam4) is not unattested; 《集韻》 has the reading 胡讒切, explained 同也詩僭始既涵鄭康成讀. I fail to see why the \"contain\" sense of 涵 is not considered the same word as 函 (which is probably cognate with 含). Fan Wan entry: Fixed missing strokes in 濡. Williams' \"marshy\": This is a misreading of Kangxi 水澤多也. Here, 澤 means \"moistened\". Williams' 涵軟: Corrected _un_ (jyun4) to _un_ (jyun5). Well-moistened (Kangxi: 水澤多也). 【涵】 (hom) (_verb-like_) to contain (_adjective-like_) well-moistened, well-soaked"
 }
 },
 "諴":{

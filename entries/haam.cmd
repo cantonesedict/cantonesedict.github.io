@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-08-16
+* %date-modified --> 2026-08-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $函4
 - $咸4
+- $涵4
 - $諴4
 - $鹹4
 ==
@@ -113,6 +114,7 @@ C
   - Williams' 函丈: Not a teacher's desk, but a teacher,
     from the distance prescribed by the Record of Rites, 席間函丈
     "between [the] mats [there shall be] contained [a] measure".
+  - In modern usage, used in 函數 "function" in mathematics.
   ==
 P
   ++
@@ -202,6 +204,68 @@ S
   - ($咸gaam2) (TODO) <## same as 減 ##>
   - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
   ==
+$$
+
+### 涵4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DB5
+V
+  ==
+  - ham4 (per 《廣韻》胡男切)
+  - ham6 (per 《廣韻》胡感切 for "boat-leak" sense)
+  ==
+F
+  ==
+  - (F2.63 涵) ::水澤涵[濡]::
+  ==
+W
+  ====
+  - [[Page~70 (4)涵]]
+    ==
+    - Submerged [[Kangxi: 涵沉也]];
+    - to leak [[Kangxi: 一曰水入船]];
+    - ~~marshy;~~
+    - to soak;
+    - to contain [[Kangxi: 容也]], capacious;
+    - _(4)h(a/)m ~~(4)(u:)n~~ ``(5)(u:)n``_
+        [[haam4 jyun5 涵軟]],
+        to soak soft;
+    - _(4)h(a/)m (5)y(e/)ung_
+        [[haam4 joeng5 涵養]],
+        kindly, to keep one's temper;
+    - _(2)shui (4)h(a/)m_
+        [[seoi2 haam4 水涵]]^
+        a sewer.
+    ==
+  ====
+C
+  ==
+  - The reading _(4)h(a/)m_ (haam4) is not unattested;
+    《集韻》 has the reading 胡讒切, explained 同也詩僭始既涵鄭康成讀.
+  - I fail to see why the "contain" sense of 涵
+    is not considered the same word as 函
+    (which is probably cognate with 含).
+  - Fan Wan entry: Fixed missing strokes in 濡.
+  - Williams' "marshy": This is a misreading of Kangxi 水澤多也.
+    Here, 澤 means "moistened".
+  - Williams' 涵軟: Corrected _(4)(u:)n_ (jyun4) to _(5)(u:)n_ (jyun5).
+  ==
+P
+  ++
+  1. Well-moistened (Kangxi: 水澤多也).
+  ++
+L
+  ====
+  * 【涵】 (hom)
+    ==
+    - (_verb-like_) [to] contain
+    - (_adjective-like_) well-moistened, well-soaked
+    ==
+  ====
 $$
 
 ### 諴4 | _(4)H(a/)m_ [[haam4]]
