@@ -9151,6 +9151,12 @@
 "text":"U+54B8 (F2.63 咸) 皆也又交感也 (Page 70 咸) All, jointly, altogether (Kangxi: 皆也, 悉也); completely, totally; always, all round, reaching everywhere (Kangxi: 咸徧也); concord (Kangxi: 咸同也), associated; ~~hasty;~~ a diagram (Kangxi: 卦名); _pat ham_ (bat1 haam4 不咸), disagreeing; _Ham fung_ (haam4 fung1 咸豐), the style of the present emperor; _man kwok ham ning_ (maan6 gwok3 haam4 ning4 萬國咸寧), all countries at peace. Fan Wan entry: Corrected ⿳一八夂 to 交, and fixed incompletely printed stroke in 感. Williams' \"hasty\": Kangxi has 《易雜卦》咸速也. This should not be taken as a definition of 咸. Williams' 咸豐: See the term 咸豐年 below. A surname (Kangxi: 姓). 【咸】 (heam) (_adverb-like_) all, completely, together (_verb-like_) to unite 【咸豐年】 (haam4 fung1 nin4) Ages ago. Note that Emperor Hien-fung (咸豐) reigned from 1850 to 1861, and died at the age of just 30."
 }
 },
+"㘅":{
+"haam4":{
+"isCanonical":false,
+"text":"U+3605 (F2.63 啣) 口中物 (F2.63 銜) 馬勒也又口含物曰銜又官之階位曰銜 (Page 71 ？㘅) Fan Wan entry: Corrected both occurrences of 𢪱 to 物, and corrected 舍 to 含. Williams prints the first mouth-radical headword as ⿰口䣃 (rather than 啣). A different character, 𠷢, appears on Page 748 in the character index."
+}
+},
 "㮀":{
 "haam4":{
 "isCanonical":true,
@@ -9178,7 +9184,7 @@
 "銜":{
 "haam4":{
 "isCanonical":true,
-"text":"U+929C 啣 㗸 㘅 䘖 衘 衔 (Mainland simplified) (F2.63 銜) 馬勒也又口含物曰銜又官之階位曰銜 (Page 71 銜) Bit of a bridle (Kangxi: 馬勒口中, 馬銜所以制之行也); to hold in the mouth (Kangxi: 凡口含物曰銜); to contain; to control one's self, to guide, to order; ~~affected by;~~ ~~moved~~ thankful (Kangxi: 感也), ~~indignant~~ resentful (Kangxi: 憾也); rank (Kangxi: 官吏階位曰銜); _hau ham muk lam_ (hau2 haam4 muk6 laam2 口銜木欖), to keep silence; _ham mui_ (haam4 mui4 銜枚), to hold a bit, to be still; _kun ham_ (gun1 haam4 官銜) or _chik ham_ (zik1 haam4 職銜), an official title; _ham han_ (haam4 han6 銜恨) to restrain one's indignation. Fan Wan entry: Corrected 舍 to 含, and corrected 𢪱 to 物. To carry (out) (Kangxi: 奉君命而行曰銜命). To connect. 【銜】 (haem) (_noun-like_) bit (_verb-like_) to carry in the mouth, to carry"
+"text":"U+929C 啣 㗸 㘅 䘖 衘 衔 (Mainland simplified) (F2.63 啣) 口中物 (F2.63 銜) 馬勒也又口含物曰銜又官之階位曰銜 (Page 71 銜) Bit of a bridle (Kangxi: 馬勒口中, 馬銜所以制之行也); to hold in the mouth (Kangxi: 凡口含物曰銜); to contain; to control one's self, to guide, to order; ~~affected by;~~ ~~moved~~ thankful (Kangxi: 感也), ~~indignant~~ resentful (Kangxi: 憾也); rank (Kangxi: 官吏階位曰銜); _hau ham muk lam_ (hau2 haam4 muk6 laam5-2 口銜木欖), to keep silence; _ham mui_ (haam4 mui4 銜枚), to hold a bit, to be still; _kun ham_ (gun1 haam4 官銜) or _chik ham_ (zik1 haam4 職銜), an official title; _ham han_ (haam4 han6 銜恨) to restrain one's indignation. (Page 71 ？㘅; here normalised to 銜) To hold in the mouth; used for the preceding (銜) (Kangxi 㘅: 同銜); to receive (as an order); _ham wan_ (haam4 waan4 銜環), to hold a gem in the bill, _met._ to requite a kindness; _ham t'it ~~t'an~~ tan_ (haam4 tit3 daan6-2 銜鐵彈), to hold an iron shot in the mouth (punishment of liars in hell); _ham po_ (haam4 bou3 銜報) to requite; _ham ~~meng~~ ming_ (haam4 ming6 銜命) received your orders (said of a friend's request); _ham chu t'ong lam_ (haam4 zyu6 tong4 laam5-2 銜住糖欖) sucking a sugared olive, _met._ pleased and silent. Fan Wan entry: Corrected both occurrences of 𢪱 to 物, and corrected 舍 to 含. Williams prints the first mouth-radical headword as ⿰口䣃 (rather than 啣). Yet another form, 𠷢, appears on Page 748 in the character index. Williams' 銜鐵彈: Corrected _t'an_ (taan4) to _tan_ (daan6-2). Williams' 銜命: Corrected _meng_ (meng6) to _ming_ (ming6). To carry (out) (Kangxi: 奉君命而行曰銜命). To connect. 【銜】 (haem) (_noun-like_) bit (_verb-like_) to carry in the mouth, to carry"
 }
 },
 "鹹":{

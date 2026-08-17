@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $函4
 - $咸4
+- ($㘅4)
 - $㮀4
 - $椷4
 - $涵4
@@ -207,6 +208,34 @@ S
   - ($咸gaam1) (TODO) <## same as 緘 ##>
   - ($咸gaam2) (TODO) <## same as 減 ##>
   - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
+  ==
+$$
+
+### 㘅4 | _(4)H(a/)m_ [[haam4]]
+
+$$.
+R
+  ⼝ + 14
+U
+  U+3605
+F
+  ==
+  - (F2.63 啣) ::口中[物]::
+  - (F2.63 銜) ::馬勒也又口[含物]曰銜又官之階位曰銜::
+  ==
+W
+  ====
+  - [[Page~71 (4){？=⿰口䣃}(4)㘅]]
+    --
+    [[Alternative form of 銜. **See $銜haam4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected both occurrences of {𢪱=⿰扌勿} to 物,
+    and corrected 舍 to 含.
+  - Williams prints the first mouth-radical headword as ⿰口䣃 (rather than 啣).
+    A different character, {𠷢=⿲口𦈢亍}, appears on Page~748 in the character index.
   ==
 $$
 
@@ -376,13 +405,14 @@ A
   ==
   - 啣
   - 㗸
-  - 㘅
+  - $㘅4
   - 䘖
   - 衘
   - 衔 (Mainland simplified)
   ==
 F
   ==
+  - (F2.63 啣) 口中物
   - (F2.63 銜) ::馬勒也又口[含物]曰銜又官之階位曰銜::
   ==
 W
@@ -397,7 +427,7 @@ W
     - ~~moved~~ ``thankful`` [[Kangxi: 感也]], ~~indignant~~ ``resentful`` [[Kangxi: 憾也]];
     - rank [[Kangxi: 官吏階位曰銜]];
     - _(2)hau (4)h(a/)m muk(9) (2)l(a/)m_
-        [[hau2 haam4 muk6 laam2 口銜木欖]],
+        [[hau2 haam4 muk6 laam5-2 口銜木欖]],
         to keep silence;
     - _(4)h(a/)m (4)m(u/)i_
         [[haam4 mui4 銜枚]],
@@ -410,10 +440,38 @@ W
         [[haam4 han6 銜恨]]
         to restrain one's indignation.
     ==
+  - [[Page~71 (4){？=⿰口䣃}(4)㘅; here normalised to 銜]]
+    ==
+    - To hold in the mouth;
+    - used for the preceding [[銜]] [[Kangxi 㘅: 同銜]];
+    - to receive (as an order);
+    - _(4)h(a/)m (4)w(a/)n_
+        [[haam4 waan4 銜環]],
+        to hold a gem in the bill,
+        _met._ to requite a kindness;
+    - _(4)h(a/)m t(')(i/)t(8) ~~(4)t(')(a/)n~~ ``t(a/)n(6)``_
+        [[haam4 tit3 daan6-2 銜鐵彈]],
+        to hold an iron shot in the mouth (punishment of liars in hell);
+    - _(4)h(a/)m p(o\)(3)_
+        [[haam4 bou3 銜報]]
+        to requite;
+    - _(4)h(a/)m ~~meng(6)~~ ``ming(6)``_
+        [[haam4 ming6 銜命]]
+        received your orders (said of a friend's request);
+    - _(4)h(a/)m ch(u:)(6) (4)t(')ong (2)l(a/)m_
+        [[haam4 zyu6 tong4 laam5-2 銜住糖欖]]^
+        sucking a sugared olive,
+        _met._ pleased and silent.
+    ==
   ====
 C
   ==
-  - Fan Wan entry: Corrected 舍 to 含, and corrected {𢪱=⿰扌勿} to 物.
+  - Fan Wan entry: Corrected both occurrences of {𢪱=⿰扌勿} to 物,
+    and corrected 舍 to 含.
+  - Williams prints the first mouth-radical headword as ⿰口䣃 (rather than 啣).
+    Yet another form, {𠷢=⿲口𦈢亍}, appears on Page~748 in the character index.
+  - Williams' 銜鐵彈: Corrected _(4)t(')(a/)n_ (taan4) to _t(a/)n(6)_ (daan6-2).
+  - Williams' 銜命: Corrected _meng(6)_ (meng6) to _ming(6)_ (ming6).
   ==
 P
   ++
