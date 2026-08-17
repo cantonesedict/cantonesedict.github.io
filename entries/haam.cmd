@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $函4
 - $咸4
+- $㮀4
 - $涵4
 - $諴4
 - $鹹4
@@ -203,6 +204,35 @@ S
   - ($咸gaam1) (TODO) <## same as 緘 ##>
   - ($咸gaam2) (TODO) <## same as 減 ##>
   - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
+  ==
+$$
+
+### 㮀4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+3B80
+A
+  ==
+  - 㮭
+  ==
+F
+  ==
+  - (F2.63 㮀) 植也
+  ==
+W
+  ====
+  - [[Page~70 (4)㮀]]
+    ==
+    - The Fan Wan says, to plant, to set out [[Fan Wan: 植也]];
+    - but K(a/)ngh(i/) defines it a wooden bowl.
+    ==
+  ====
+S
+  ==
+  - ($㮀gaam1) (TODO) <## same as $椷gaam1 "box" ##>
   ==
 $$
 

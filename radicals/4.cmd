@@ -1250,6 +1250,7 @@ For all radicals, see [Index of characters by radical](./).
       - $棻fan1
       - $棼fan1, $棼fan4
       - $棐fei2
+      - $㮀haam4
       - ($棧zaan2), $棧zaan6
       - ($棦zaang1), $棦zang1
       - $棷zau1, $棷zau2
