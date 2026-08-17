@@ -167,7 +167,7 @@ W
         all countries at peace.
     ==
     --
-    [[Otherwise, an alternative form of 諴. **See $諴haam4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 諴. **See $諴haam4 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 鹹. **See $鹹haam4 for the canonical entry.**]]
@@ -371,6 +371,10 @@ R
   ⾔ + 9
 U
   U+8AF4
+A
+  ==
+  - $咸4
+  ==
 F
   ==
   - (F2.63 諴) 和也誠也
