@@ -1270,6 +1270,7 @@ For all radicals, see [Index of characters by radical](./).
       - $楚co2
       - ($楅fuk1)
       - $楓fung1
+      - $椷haam4
       - ($椹zam1)
       - $楨zing1
       - $楫zip3

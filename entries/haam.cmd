@@ -51,6 +51,7 @@ $$
 - $函4
 - $咸4
 - $㮀4
+- $椷4
 - $涵4
 - $諴4
 - $鹹4
@@ -72,6 +73,7 @@ A
   ==
   - 凾
   - 圅
+  - $椷4 (for "contain" sense)
   - 䤴 (for "armour" sense)
   - 䥁 (for "armour" sense)
   ==
@@ -227,12 +229,46 @@ W
   - [[Page~70 (4)㮀]]
     ==
     - The Fan Wan says, to plant, to set out [[Fan Wan: 植也]];
-    - but K(a/)ngh(i/) defines it a wooden bowl.
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 椷. **See $椷haam4 for the canonical entry.**]]
+    --
   ====
 S
   ==
   - ($㮀gaam1) (TODO) <## same as $椷gaam1 "box" ##>
+  ==
+$$
+
+###+ 椷4 | _(4)H(a/)m_ [[haam4]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+6937
+A
+  ==
+  - $㮀4
+  - 㮭
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~70 (4)㮀; here normalised to 椷]]
+    ==
+    - [[...]];
+    - but K(a/)ngh(i/) defines it a wooden ~~bowl~~ ``cup`` [[Kangxi 椷: 杯也 etc.]].
+    ==
+    --
+    [[Otherwise, an alternative form of 函 (for the "contain" sense). **See $函haam4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $椷gaam1 (TODO)
   ==
 $$
 

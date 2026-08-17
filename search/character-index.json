@@ -9142,7 +9142,7 @@
 "函":{
 "haam4":{
 "isCanonical":true,
-"text":"U+51FD May appear with central component as 了 (assumed here) or 丂, depending on the font. 凾 圅 䤴 (for \"armour\" sense) 䥁 (for \"armour\" sense) ham4 (per 《廣韻》胡男切 for \"contain\" sense) (F2.63 函) 包也容也 (Page 70 函) To contain, to infold, to comprehend in, to envelop (Kangxi: 容也, 函包也, 讀與含同); a letter, or what is contained in an envelop (Kangxi: 書也); liberal, capacious; _pau ham_ (baau1 haam4 包函), to keep close, not to utter; _shu ham_ (syu1 haam4 書函), a letter; _tsun ham_ (zyun1 haam4 尊函), your favor; _ham cheung_ (haam4 zoeng6 函丈) a teacher ~~or sage's desk~~; _ham yung_ (haam4 jung4 函容), patiently. The \"contain\" sense is probably cognate with 含. Fan Wan entry: Fixed missing second stroke in 容. Williams' 尊函: Here, \"favor\" means \"letter\". Williams' 函丈: Not a teacher's desk, but a teacher, from the distance prescribed by the Record of Rites, 席間函丈 \"between the mats there shall be contained a measure\". In modern usage, used in 函數 \"function\" in mathematics. Armour (Kangxi: 鎧也). 【函】 (hom) (_verb-like_) to contain (_noun-like_) container, (_met._) armour"
+"text":"U+51FD May appear with central component as 了 (assumed here) or 丂, depending on the font. 凾 圅 椷 (for \"contain\" sense) 䤴 (for \"armour\" sense) 䥁 (for \"armour\" sense) ham4 (per 《廣韻》胡男切 for \"contain\" sense) (F2.63 函) 包也容也 (Page 70 函) To contain, to infold, to comprehend in, to envelop (Kangxi: 容也, 函包也, 讀與含同); a letter, or what is contained in an envelop (Kangxi: 書也); liberal, capacious; _pau ham_ (baau1 haam4 包函), to keep close, not to utter; _shu ham_ (syu1 haam4 書函), a letter; _tsun ham_ (zyun1 haam4 尊函), your favor; _ham cheung_ (haam4 zoeng6 函丈) a teacher ~~or sage's desk~~; _ham yung_ (haam4 jung4 函容), patiently. The \"contain\" sense is probably cognate with 含. Fan Wan entry: Fixed missing second stroke in 容. Williams' 尊函: Here, \"favor\" means \"letter\". Williams' 函丈: Not a teacher's desk, but a teacher, from the distance prescribed by the Record of Rites, 席間函丈 \"between the mats there shall be contained a measure\". In modern usage, used in 函數 \"function\" in mathematics. Armour (Kangxi: 鎧也). 【函】 (hom) (_verb-like_) to contain (_noun-like_) container, (_met._) armour"
 }
 },
 "咸":{
@@ -9154,7 +9154,13 @@
 "㮀":{
 "haam4":{
 "isCanonical":true,
-"text":"U+3B80 㮭 (F2.63 㮀) 植也 (Page 70 㮀) The Fan Wan says, to plant, to set out (Fan Wan: 植也); but Kanghi defines it a wooden bowl."
+"text":"U+3B80 㮭 (F2.63 㮀) 植也 (Page 70 㮀) The Fan Wan says, to plant, to set out (Fan Wan: 植也);"
+}
+},
+"椷":{
+"haam4":{
+"isCanonical":true,
+"text":"U+6937 㮀 㮭 (Page 70 㮀; here normalised to 椷) but Kanghi defines it a wooden ~~bowl~~ cup (Kangxi 椷: 杯也 etc.)."
 }
 },
 "涵":{
