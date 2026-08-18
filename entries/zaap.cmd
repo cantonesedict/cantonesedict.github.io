@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-08-15
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -955,6 +955,10 @@ E
           spleen (膀 bong2).\
          )
        ==
+    ++
+  - 【雜崩冷】 (zaap6 ba1 lang1, zaap6 baa1 laang1, zaap6 bang1 lang1)
+    ++
+    1. Miscellaneous. The spelling 崩冷 for the suffix is arbitrary.
     ++
   ====
   --
