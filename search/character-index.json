@@ -9205,6 +9205,12 @@
 "text":"U+9677 (F2.65 陷) 坑也阱也險也害也 (Page 71 陷) Fan Wan entry: Corrected headword ⿰阝⿱⺈曰 to 陷, and normalised semi-simplified 險 to 險."
 }
 },
+"餡":{
+"haam6":{
+"isCanonical":true,
+"text":"U+9921 May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 膁 䭑 馅 (Mainland simplified) haam6-2 (vernacular rising-tone noun) (F2.65 餡) 餅中之物 (Page 71 餡) ~~Small flour cakes, like dumplings, with meat or fruit inside~~ The filling within flour cakes, dumplings, &c. (Kangxi: 凡米麫食物坎其中實以雜味曰餡或作䭑); _pau ham_ (baau1 haam6-2 包餡) pastry ~~cakes~~ cake filling; _wan t'an ham_ (wan4 tan1 haam6-2 雲吞餡) the filling of pork dumplings cooked in sugar. The original departing reading haam6 is almost never heard, having been supplanted by vernacular rising haam6-2. Fan Wan entry: Corrected headword ⿰𩙿⿱⺈曰 to 餡, and corrected 𢪱 to 物. Williams' \"Small flour cakes, like dumplings, ...\": This is a misreading of Kangxi's definition. 餡 refers to the filling, not to the entire bun or dumpling. Williams' 包餡: Corrected _pau_ (baau2) to _pau_ (baau1). Williams' 雲吞餡: Evidently different from the modern wonton, which is not cooked in sugar."
+}
+},
 "閪":{
 "hai1":{
 "isCanonical":true,

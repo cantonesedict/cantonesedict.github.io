@@ -717,6 +717,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($陷6)
+- $餡6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -747,5 +748,57 @@ C
 S
   ==
   - $陷ham6 (TODO)
+  ==
+$$
+
+### 餡6 | _H(a/)m(6)_ [[haam6]]
+
+$$
+R
+  ⾷ + 8
+U
+  U+9921
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
+A
+  ==
+  - 膁
+  - 䭑
+  - 馅 (Mainland simplified)
+  ==
+V
+  ==
+  - haam6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - (F2.65 ::[餡]::) ::餅中之[物]::
+  ==
+W
+  ====
+  - [[Page~71 餡(6)]]
+    ==
+    - ~~Small flour cakes, like dumplings, with meat or fruit inside~~ ``The filling within flour cakes, dumplings, &c.`` [[Kangxi: 凡米麫食物坎其中實以雜味曰餡或作䭑]];
+    - _~~(2)p(a/)u~~ ``(1)p(a/)u`` h(a/)m(6)_
+        [[baau1 haam6-2 包餡]]
+        pastry ~~cakes~~ ``cake filling``;
+    - _(4)wan (1)t(')an h(a/)m(6)_
+        [[wan4 tan1 haam6-2 雲吞餡]]
+        ``the filling of`` pork dumplings cooked in sugar.
+    ==
+  ====
+C
+  ==
+  - The original departing reading haam6 is almost never heard,
+    having been supplanted by vernacular rising haam6-2.
+  - Fan Wan entry: Corrected headword ⿰𩙿⿱⺈曰 to 餡,
+    and corrected {𢪱=⿰扌勿} to 物.
+  - Williams' "Small flour cakes, like dumplings, [...]":
+    This is a misreading of Kangxi's definition.
+    餡 refers to the filling, not to the entire bun or dumpling.
+  - Williams' 包餡: Corrected _(2)p(a/)u_ (baau2) to _(1)p(a/)u_ (baau1).
+  - Williams' 雲吞餡: Evidently different from the modern wonton,
+    which is not cooked in sugar.
   ==
 $$
