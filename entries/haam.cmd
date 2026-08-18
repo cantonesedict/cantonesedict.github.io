@@ -620,7 +620,7 @@ L
   ====
 $$
 
-### ~~？~~``鹹``4 | _(4)H(a/)m_ [[haam4]]
+### 鹹4 | _(4)H(a/)m_ [[haam4]]
 
 $$
 R
@@ -639,9 +639,9 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)鹹]]
+  - [[Page~70 ::(4)~~？~~``鹹``::]]
     ==
-    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi: 北方味也, 不淡, 鹽味]];
+    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi 鹹: 北方味也, 不淡, 鹽味]];
     - salted, preserved in brine;
     - _(4)h(a/)m shap(7)_
         [[haam4 sap1 鹹濕]]
@@ -653,11 +653,19 @@ W
         [[haam4 tou4-2 鹹桃]],
         salted peaches.
     ==
+  - [[Page~716 (4)鹹]]
+    ==
+    - In a figurative sense, bitter, distressing, hard to bear;
+    - _shau(6) kw(a/)n(3) (4)h(a/)m (2)f(u/)_
+        [[sau6 gwaan3 haam4 fu2 受慣鹹苦]],
+        he has long been used to hardships.
+    ==
   ====
 C
   ==
-  - Williams' prints the headword with the last stroke of 鹵 missing; here corrected.
-    (The character 鹹 appears correctly on Page~828 in the character index.)
+  - Williams' prints the headword on Page~70 with the last stroke of 鹵 missing; here corrected.
+    (The character 鹹 appears correctly on Page~716 in the additional entry,
+    and on Page~828 in the character index.)
   - Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎,
     and corrected malformed 鹽 and 淡.
   ==
