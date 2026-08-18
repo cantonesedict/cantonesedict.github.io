@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-17
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10650,6 +10650,13 @@ window.onload = applyFilter;
       - (_adjective-like_) fiery-red, fiery
       - (_adjective-like_) (_met._) resplendent
       - (_verb-like_) (_met._) [to] resplend
+      ==
+  //
+    , `xamX`
+    , [嚂](/entries/haam#rendering-嚂)
+    ,
+      ==
+      - (_verb-like_) [to] cry (out)
       ==
   //
     , `xjun`

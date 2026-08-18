@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-08-17
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [haam3](#3)
 - [haam4](#4)
 - [haam5](#5)
 ==
@@ -40,6 +41,96 @@ MP
   ==
   - haam = [haːm]
   ==
+$$
+
+
+##{#3 .williams} H(a/)m(3) [[haam3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $喊3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 喊3 | _H(a/)m(3)_ [[haam3]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+558A
+A
+  ==
+  - 嚂
+  - 㘕
+  ==
+V
+  ==
+  - haam2 (per 《廣韻》呼覽切 and 呼豏切)
+  - haam5 (per 《廣韻》下斬切)
+  ==
+F
+  ==
+  - (F2.64 喊) 譁聲
+  ==
+W
+  ====
+  - [[Page~71 喊(3)]]
+    ==
+    - To call, to halloo after, to call for, to vociferate [[Kangxi 嚂: 聲也亦與喊同]];
+    - a call [[Kangxi: 喊聲也]];
+    - to cry, to bawl;
+    - angry cries [[Kangxi: 怒聲]];
+    - _h(a/)m(3) (5)k(')(u:)_
+        [[haam3 keoi5 喊佢]]^
+        call him;
+    - _t(a/)i(6) (1)sheng h(a/)m(3)_
+        [[daai6 seng1 haam3 大聲喊]]
+        to call aloud, to cry out;
+    - _h(a/)m(3) huk(7)_
+        [[haam3 huk1 喊哭]]
+        to cry;
+    - _(2)t(a/) h(a/)m(3) l(o\)(6)_
+        [[daa2 haam3 lou6 打喊露]]
+        to gape;
+    - _h(a/)m(3) (1)t(')ung t(')au(3)_
+        [[haam3 tung1 tau3 喊通透]]
+        to cry it out;
+    - _h(a/)m(3) sh(a/)t(8) (4)l(i/)n (1)t(')(i/)n_
+        [[haam3 saat3 lin4 tin1 喊殺連天]],
+        the noise ``of battle cries`` reaches to heaven;
+    - _h(a/)m(3) (1)sheng t(a/)i(6) k(e/)(3)_
+        [[haam3 seng1 daai6 ge3 喊聲大嘅]]
+        useless regrets;
+    - _h(a/)m(3) kau(3)_
+        [[haam3 gau3 喊救]]
+        to call upon to save.
+    ==
+  ====
+C
+  ==
+  - Williams' 打喊露: Better rendered "to yawn".
+  ==
+L
+  ====
+  * 【嚂】 (xamX)
+    ==
+    - (_verb-like_) [to] cry (out)
+    ==
+  ====
+E
+  ====
+  - 【打喊露】 (daa2 haam3 lou6)
+    ++
+    1. To yawn.
+    ++
+  - 【喊】 (haam3)
+    ++
+    1. To cry, to shed tears.
+    ++
+  ====
 $$
 
 

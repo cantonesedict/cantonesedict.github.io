@@ -496,6 +496,9 @@ window.onload = applyFilter;
     , daa2 fu2 tau4
     , [打斧頭](/entries/fu#cantonese-打斧頭)
   //
+    , daa2 haam3 lou6
+    , [打喊露](/entries/haam#cantonese-打喊露)
+  //
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)
   //
@@ -753,6 +756,9 @@ window.onload = applyFilter;
   //
     , haak6
     , [喀](/entries/haak#cantonese-喀)
+  //
+    , haam3
+    , [喊](/entries/haam#cantonese-喊)
   //
     , haam4
     , [鹹](/entries/haam#cantonese-鹹)
