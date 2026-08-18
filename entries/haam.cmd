@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [haam3](#3)
 - [haam4](#4)
 - [haam5](#5)
+- [haam6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -706,5 +707,45 @@ L
 S
   ==
   - ($菡aam2)
+  ==
+$$
+
+
+##{#6 .williams} H(a/)m(6) [[haam6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($陷6)
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 陷6 | _H(a/)m(6)_ [[haam6]]
+
+$$.
+R
+  ⾩ + 8
+U
+  U+9677
+F
+  ==
+  - (F2.65 ::[陷]::) ::坑也阱也[險]也害也::
+  ==
+W
+  ====
+  - [[Page~71 陷(6)]]
+    --
+    [[Reading variation. **See $陷ham6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰阝⿱⺈曰 to 陷,
+    and normalised semi-simplified 險 to 險.
+  ==
+S
+  ==
+  - $陷ham6 (TODO)
   ==
 $$
