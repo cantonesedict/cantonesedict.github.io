@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [haam2](#2)
 - [haam3](#3)
 - [haam4](#4)
 - [haam5](#5)
@@ -41,6 +42,41 @@ WP
 MP
   ==
   - haam = [haːm]
+  ==
+$$
+
+
+##{#2 .williams} ``(2)H(a/)m`` [[haam2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($餡2)
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 餡2 | _(2)H(a/)m_ [[haam2]]
+
+$$.
+R
+  ⾷ + 8
+U
+  U+9921
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (vernacular rising-tone noun). **See $餡haam6 for the canonical entry.**
+  ++
+S
+  ==
+  - $餡haam6
   ==
 $$
 
@@ -800,5 +836,9 @@ C
   - Williams' 包餡: Corrected _(2)p(a/)u_ (baau2) to _(1)p(a/)u_ (baau1).
   - Williams' 雲吞餡: Evidently different from the modern wonton,
     which is not cooked in sugar.
+  ==
+S
+  ==
+  - ($餡haam2)
   ==
 $$

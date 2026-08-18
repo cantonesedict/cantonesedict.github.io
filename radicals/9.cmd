@@ -379,7 +379,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - ($餴fan1)
-      - $餡haam6
+      - ($餡haam2), $餡haam6
       - $餞zin3
       ==
       </nav>

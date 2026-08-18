@@ -9139,6 +9139,16 @@
 "text":"U+5BA2 (F2.90 客) 旅客又寄居曰客 (Page 70 客) A guest, a visitor (Kangxi: 賔客), a friend; a dealer, customer, a stranger (Kangxi: 凡自外至者皆曰客); foreign; squatters, marauders (Kangxi: 外寇亦曰客); to lodge (Kangxi: 寄也); _yan hak_ (jan4 haak3 人客) a visitor; _sai hak_ (sai1 haak3 西客) traders from Shensi (陝西) and Shansi (山西); _~~hak,~~ hak ti_ (haak3 dei6 客地) a trading-place; _hak fong_ (haak3 fong4-2 客房), guest-chamber; _hak fo_ (haak3 fo3 客貨) inferior goods; _ch'a hak_ (caa4 haak3 茶客) teamen; _hak sui_ (haak3 seoi3 客歲) last year; _hak ping_ (haak3 bing1 客兵), foreign troops; _fan hak_ (faan1 haak3 番客) a foreigner; _hak ts'ai_ (haak3 cai1 客妻), a whore; _hak ka yan_ (haak3 gaa1 jan4 客家人), people from Kiaying chau (嘉應州); _hak t'o_ (haak3 tou3 客套) to flatter a guest; _ho hak ts'ing_ (hou2 haak3 cing4 好客情), a cordial reception; _t'ong hak_ (tong4 haak3 堂客) a lady visitor. Fan Wan entry: Normalised ⿱宀竒 to 寄. Williams' 客地: Corrected comma to tone marker __ for 客. In modern usage, used in 客觀 \"objective\" (in contrast with 主觀 \"subjective\"). A retainer, a person retained (i.e. employment) by a lord. 食客 (sik6 haak3): \"Eating guest\" (i.e. one who eats from being retained as a guest by a lord). A noun-forming suffix used to denote engagement in an activity. 政客 (zing3 haak3): \"Politician.\" 刺客 (ci3 haak3): \"Assassin.\" 劍客 (gim3 haak3): \"Swordsman.\" 海客 (hoi2 haak3): \"Mariner.\" 【客】 (khaek) (_noun-like_) guest"
 }
 },
+"餡":{
+"haam2":{
+"isCanonical":false,
+"text":"U+9921 May appear with radical component 𩙿 or 飠 (assumed here), depending on the font."
+},
+"haam6":{
+"isCanonical":true,
+"text":"U+9921 May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 膁 䭑 馅 (Mainland simplified) haam6-2 (vernacular rising-tone noun) (F2.65 餡) 餅中之物 (Page 71 餡) ~~Small flour cakes, like dumplings, with meat or fruit inside~~ The filling within flour cakes, dumplings, &c. (Kangxi: 凡米麫食物坎其中實以雜味曰餡或作䭑); _pau ham_ (baau1 haam6-2 包餡) pastry ~~cakes~~ cake filling; _wan t'an ham_ (wan4 tan1 haam6-2 雲吞餡) the filling of pork dumplings cooked in sugar. The original departing reading haam6 is almost never heard, having been supplanted by vernacular rising haam6-2. Fan Wan entry: Corrected headword ⿰𩙿⿱⺈曰 to 餡, and corrected 𢪱 to 物. Williams' \"Small flour cakes, like dumplings, ...\": This is a misreading of Kangxi's definition. 餡 refers to the filling, not to the entire bun or dumpling. Williams' 包餡: Corrected _pau_ (baau2) to _pau_ (baau1). Williams' 雲吞餡: Evidently different from the modern wonton, which is not cooked in sugar."
+}
+},
 "喊":{
 "haam3":{
 "isCanonical":true,
@@ -9203,12 +9213,6 @@
 "haam6":{
 "isCanonical":false,
 "text":"U+9677 (F2.65 陷) 坑也阱也險也害也 (Page 71 陷) Fan Wan entry: Corrected headword ⿰阝⿱⺈曰 to 陷, and normalised semi-simplified 險 to 險."
-}
-},
-"餡":{
-"haam6":{
-"isCanonical":true,
-"text":"U+9921 May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 膁 䭑 馅 (Mainland simplified) haam6-2 (vernacular rising-tone noun) (F2.65 餡) 餅中之物 (Page 71 餡) ~~Small flour cakes, like dumplings, with meat or fruit inside~~ The filling within flour cakes, dumplings, &c. (Kangxi: 凡米麫食物坎其中實以雜味曰餡或作䭑); _pau ham_ (baau1 haam6-2 包餡) pastry ~~cakes~~ cake filling; _wan t'an ham_ (wan4 tan1 haam6-2 雲吞餡) the filling of pork dumplings cooked in sugar. The original departing reading haam6 is almost never heard, having been supplanted by vernacular rising haam6-2. Fan Wan entry: Corrected headword ⿰𩙿⿱⺈曰 to 餡, and corrected 𢪱 to 物. Williams' \"Small flour cakes, like dumplings, ...\": This is a misreading of Kangxi's definition. 餡 refers to the filling, not to the entire bun or dumpling. Williams' 包餡: Corrected _pau_ (baau2) to _pau_ (baau1). Williams' 雲吞餡: Evidently different from the modern wonton, which is not cooked in sugar."
 }
 },
 "閪":{
