@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1067,6 +1067,9 @@ R
   ⾷ + 17
 U
   U+995E
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
 A
   ==
   - 馋 (Mainland simplified)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1803,6 +1803,9 @@ R
   ⾷ + 7
 U
   U+9915
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
 A
   ==
   - 馂 (Mainland simplified)

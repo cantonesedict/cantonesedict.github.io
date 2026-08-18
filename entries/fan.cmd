@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1391,7 +1391,8 @@ R
 U
   U+9934
 H
-  May appear as either ⿰飠⿱大卉 (+8 assumed here) or ⿰飠⿱大𠦄 (+9),
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  and with right component ⿱大卉 (+8 assumed here) or ⿱大𠦄 (+9),
   depending on the font.
 F
   ==
@@ -1414,7 +1415,8 @@ R
 U
   U+9959
 H
-  May appear with 艹 having 3~strokes (+12 assumed here) or 4~strokes (+13),
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  and with 艹 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
 A
   ==

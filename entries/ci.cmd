@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-08-10
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2200,6 +2200,9 @@ R
   ⾷ + 12
 U
   U+994E
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
 A
   ==
   - $糦3

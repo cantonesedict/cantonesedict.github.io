@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-08-18
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -761,6 +761,9 @@ R
   ⾷ + 13
 U
   U+9958
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
 A
   ==
   - {𫗴=⿰饣亶} (Mainland simplified)
@@ -2091,6 +2094,9 @@ R
   ⾷ + 8
 U
   U+991E
+H
+  May appear with radical component 𩙿 or 飠 (assumed here),
+  depending on the font.
 A
   ==
   - 䬻
