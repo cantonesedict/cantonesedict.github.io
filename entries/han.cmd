@@ -98,7 +98,7 @@ L
   * 【墾】 (khonX)
     ==
     - (_verb-like_) [to] plough up, [to] open up
-    - (_verb-like_) [to] damage
+    - (_verb-like_) (_met._) [to] damage
     ==
   ====
 $$
