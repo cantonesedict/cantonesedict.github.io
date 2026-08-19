@@ -64,6 +64,7 @@ A
   ==
   - 豤
   - 貇
+  - 頎
   - 恳 (Mainland simplified)
   ==
 F
@@ -75,7 +76,7 @@ W
   - [[Page~71 (2)懇]]
     ==
     - To request, to beg, to ask as a favor;
-    - importunate, truly, earnestly [[Kangxi: 悃也, 誠也 etc.]];
+    - importunate, truly, earnestly [[Kangxi: 悃也, 誠也, 信也, 或作貇, 款誠之意]];
     - _(2)han (4)k(')au_
         [[han2 kau4 懇求]],
         to intreat;
