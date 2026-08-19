@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [han2](#2)
 - [han4](#4)
 ==
 </nav>
@@ -39,6 +40,70 @@ MP
   ==
   - han = [hɐn]
   ==
+$$
+
+
+##{#2 .williams} (2)Han [[han2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $懇2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 懇2 | _(2)Han_ [[han2]]
+
+$$
+R
+  ⼼ + 13
+U
+  U+61C7
+A
+  ==
+  - 豤
+  - 貇
+  - 恳 (Mainland simplified)
+  ==
+F
+  ==
+  - (F1.82 懇) 情切也
+  ==
+W
+  ====
+  - [[Page~71 (2)懇]]
+    ==
+    - To request, to beg, to ask as a favor;
+    - importunate, truly, earnestly [[Kangxi: 悃也, 誠也 etc.]];
+    - _(2)han (4)k(')au_
+        [[han2 kau4 懇求]],
+        to intreat;
+    - _(2)han k(')ap(7)_
+        [[han2 kap1 懇給]]
+        ask to give;
+    - _(2)han (1)yan_
+        [[han2 jan1 懇恩]],
+        to ask a kindness.
+    ==
+  ====
+C
+  ==
+  - Kangxi 亦作頎《禮檀弓》頎乎其至也《註》頎音懇惻隱之貌 is difficult to make sense of.
+    On the surface, this appears to define 頎 (and 懇) as "pitying".
+    But that does not make sense; the context is 稽顙而後拜頎乎其至也,
+    in which 頎乎其至也 describes a mourner kowtowing them bowing to a visitor.
+    The mourner can hardly be "pitying" the visitor.
+    The only way out of this conundrum is if 惻隱之貌 is "pitiable",
+    but that interpretation is still not very satisfactory.
+  ==
+L
+  ====
+  * 【懇】 (khonX)
+    ==
+    - (_adjective-like_) sincere
+    ==
+  ====
 $$
 
 

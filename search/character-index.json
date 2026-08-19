@@ -9299,6 +9299,12 @@
 "text":"U+9ED1 haak1 (longer syllable) (F2.33 黑) 北方之色 (Page 69 黑) Black (Kangxi: 火所熏之色也, 北方隂色), sooty; dark, obscure (Kangxi: 黑晦也如晦冥時色也); cloudy, dull; wicked; _hak shik_ (hak1 sik1 黑色) black color; _hak om_ (hak1 am3 黑暗) dark, not well lighted; _hak sam_ (hak1 sam1 黑心), villainous; _hak fo_ (hak1 fo3 黑貨) opium; _hak pak nan fan_ (hak1 baak6 naan4 fan1 黑白難分), good and bad are not easily distinguished; _kam man hak_ (gam1 maan5-1 hak1 今晚黑) to-night. Williams' 黑貨: More generally, contraband. The 203rd radical (U+2FCA ⿊ \"black\"). 【黑】 (xok) (_adjective-like_) black 【黑麻麻】 (hak1 maa4-1 maa4-1) Very dark (of viewing conditions). 【黑𠵼𠵼】 (hak1 mang1 mang1) Very dark (of viewing conditions, or in colour). 【黑咪𠵼】 (hak1 mi1 mang1) Synonym of 黑𠵼𠵼. 【黑屎竻掘】 (hak1 si2 lak6 gwak6) Black or very dark in colour (when undesirable). The spellings 𠵼𠵼 for mang1 mang1, 咪𠵼 for mi1 mang1, and 竻掘 for lak6 gwak6 are arbitrary; these are likely phonetic suffixes."
 }
 },
+"懇":{
+"han2":{
+"isCanonical":true,
+"text":"U+61C7 豤 貇 恳 (Mainland simplified) (F1.82 懇) 情切也 (Page 71 懇) To request, to beg, to ask as a favor; importunate, truly, earnestly (Kangxi: 悃也, 誠也 etc.); _han k'au_ (han2 kau4 懇求), to intreat; _han k'ap_ (han2 kap1 懇給) ask to give; _han yan_ (han2 jan1 懇恩), to ask a kindness. Kangxi 亦作頎《禮檀弓》頎乎其至也《註》頎音懇惻隱之貌 is difficult to make sense of. On the surface, this appears to define 頎 (and 懇) as \"pitying\". But that does not make sense; the context is 稽顙而後拜頎乎其至也, in which 頎乎其至也 describes a mourner kowtowing them bowing to a visitor. The mourner can hardly be \"pitying\" the visitor. The only way out of this conundrum is if 惻隱之貌 is \"pitiable\", but that interpretation is still not very satisfactory. 【懇】 (khonX) (_adjective-like_) sincere"
+}
+},
 "痕":{
 "han4":{
 "isCanonical":true,

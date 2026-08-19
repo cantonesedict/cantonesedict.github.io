@@ -3788,6 +3788,13 @@ window.onload = applyFilter;
       - (_noun-like_) [time]-mark
       ==
   //
+    , `khonX`
+    , [懇](/entries/han#rendering-懇)
+    ,
+      ==
+      - (_adjective-like_) sincere
+      ==
+  //
     , `khu`
     , [刳](/entries/fu#rendering-刳)
     ,
