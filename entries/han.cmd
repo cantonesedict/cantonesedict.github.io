@@ -48,10 +48,60 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $墾2
 - $懇2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 墾2 | _(2)Han_ [[han2]]
+
+$$
+R
+  ⼟ + 13
+U
+  U+58BE
+A
+  ==
+  - 垦 (Mainland simplified)
+  ==
+F
+  ==
+  - (F1.83 墾) ::開墾又[治]也::
+  ==
+W
+  ====
+  - [[Page~71 (2)墾]]
+    ==
+    - To open new land [[Kangxi: 一曰開田用力反土也]], to plough, to cultivate [[Kangxi: 力治也]];
+    - to injure [[Kangxi: 傷也如鉏墾之傷物也]];
+    - ~~energetic;~~
+    - _(1)hoi (2)han_
+        [[hoi1 han2 開墾]],
+        to clear land;
+    - _(2)han t(i/)(6)_
+        [[han2 dei6 墾地]]
+        new land;
+    - _(2)han chung(3)_
+        [[han2 zung3 墾種]]
+        to plough and sow.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 冶 to 治.
+  - Williams' "to injure": Better rendered "to damage".
+  - Williams' "energetic": This is a misreading of 力 in the various Kangxi definitions.
+  ==
+L
+  ====
+  * 【墾】 (khonX)
+    ==
+    - (_verb-like_) [to] plough up, [to] open up
+    - (_verb-like_) [to] damage
+    ==
+  ====
+$$
 
 ### 懇2 | _(2)Han_ [[han2]]
 
@@ -69,7 +119,7 @@ A
   ==
 F
   ==
-  - (F1.82 懇) 情切也
+  - (F1.83 懇) 情切也
   ==
 W
   ====

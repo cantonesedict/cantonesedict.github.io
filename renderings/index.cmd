@@ -3789,6 +3789,14 @@ window.onload = applyFilter;
       ==
   //
     , `khonX`
+    , [墾](/entries/han#rendering-墾)
+    ,
+      ==
+      - (_verb-like_) [to] plough up, [to] open up
+      - (_verb-like_) [to] damage
+      ==
+  //
+    , `khonX`
     , [懇](/entries/han#rendering-懇)
     ,
       ==
