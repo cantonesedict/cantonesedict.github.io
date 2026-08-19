@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-08-19
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -625,6 +625,10 @@ A
   ==
   - $咸4
   - 醎
+  ==
+V
+  ==
+  - haam4-2 (rising second in vernacular 鹹鹹地)
   ==
 F
   ==
