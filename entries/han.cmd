@@ -51,6 +51,7 @@ $$
 - $墾2
 - $很2
 - $懇2
+- $狠2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -114,7 +115,7 @@ U
 A
   ==
   - 佷 (for "disobey" sense)
-  - 狠 (for "disobey" and "quarrel" senses)
+  - $狠2
   ==
 V
   ==
@@ -128,18 +129,13 @@ W
   ====
   - [[Page~71 (2)很(2)狠]]
     ==
-    - Snarling of dogs; <## TODO: separate to $狠han2 ##>
+    - [[...]];
     - disobedient, perverse [[Kangxi 很: 不聽從也, 很違也]];
     - quarrelsome [[Kangxi 很: 諍訟也, 很鬩也謂爭訟也]], intractable;
-    - revengeful; <## TODO: separate to $狠han2 ##>
+    - [[...]];
     - sign of the superlative;
     - very, much;
-    - _mat(7) (5)n(i/) ~~(2)k(o\)m~~ ``k(o\)m(3)`` (2)han (1)sam_
-        [[mat1 nei5 gam3 han2 sam1]],  <## TODO: separate to $狠han2 ##>
-        how harsh you are!
-    - _f(a/)t(8) (2)han_
-        [[faat3 han2]],  <## TODO: separate to $狠han2 ##>
-        very angry;
+    - [[...]];
     - _(1)to tak(7) ``(2)``han_
         [[do1 dak1 han2 多得很]],
         very many;
@@ -147,9 +143,14 @@ W
         [[han2 waai6 很壞]]
         very bad.
     ==
+    --
+    [[Otherwise, an alternative form of 狠. **See $狠han2 for the canonical entry.**]]
+    --
   ====
 C
   ==
+  - Williams does not provide separate entries for 很 and $狠2.
+    I have split things up accordingly.
   - Williams' "perverse": Meaning "contrary".
   - Williams' "intractable": Meaning "obstinate".
   - Williams' 多得很: Fixed missing tone marker _(2)_ for 很.
@@ -217,6 +218,54 @@ L
     - (_adjective-like_) sincere
     ==
   ====
+$$
+
+### 狠2 | _(2)Han_ [[han2]]
+
+$$
+R
+  ⽝ + 6
+U
+  U+72E0
+A
+  ==
+  - $很2
+  ==
+F
+  ==
+  - (F1.83 狠) ::强狠不[聽]從也::
+  ==
+W
+  ====
+  - [[Page~71 (2)很(2)狠]]
+    ==
+    <## TODO: correct to $狠waan4
+    - Snarling of dogs [[Kangxi 狠: 犬鬭聲也]];
+    ##>
+    - [[...]];
+    - revengeful``, vicious, ruthless``;
+    - [[...]];
+    - _mat(7) (5)n(i/) ~~(2)k(o\)m~~ ``k(o\)m(3)`` (2)han (1)sam_
+        [[mat1 nei5 gam3 han2 sam1 乜你咁狠心]],
+        how harsh you are!
+    - _f(a/)t(8) (2)han_
+        [[faat3 han2 發狠]],
+        very angry;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 很. **See $很han2 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 豤. **See $豤han2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams does not provide separate entries for $很2 and 狠.
+    I have split things up accordingly.
+  - Williams' 乜你咁狠心: Corrected _(2)k(o\)m_ (gam2) to _k(o\)m(3)_ (gam3).
+  ==
 $$
 
 

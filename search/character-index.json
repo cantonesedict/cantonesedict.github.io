@@ -9314,13 +9314,19 @@
 "很":{
 "han2":{
 "isCanonical":true,
-"text":"U+5F88 佷 (for \"disobey\" sense) 狠 (for \"disobey\" and \"quarrel\" senses) han5 (per 《廣韻》胡墾切) (F1.83 狠) 强狠不聽從也 (Page 71 很狠) Snarling of dogs; disobedient, perverse (Kangxi 很: 不聽從也, 很違也); quarrelsome (Kangxi 很: 諍訟也, 很鬩也謂爭訟也), intractable; revengeful; sign of the superlative; very, much; _mat ni kom han sam_ (mat1 nei5 gam3 han2 sam1), how harsh you are! _fat han_ (faat3 han2), very angry; _to tak han_ (do1 dak1 han2 多得很), very many; _han wai_ (han2 waai6 很壞) very bad. Williams' \"perverse\": Meaning \"contrary\". Williams' \"intractable\": Meaning \"obstinate\". Williams' 多得很: Fixed missing tone marker __ for 很. 【很】 (honX) (_verb-like_) to disobey (_verb-like_) to quarrel"
+"text":"U+5F88 佷 (for \"disobey\" sense) 狠 han5 (per 《廣韻》胡墾切) (F1.83 狠) 强狠不聽從也 (Page 71 很狠) disobedient, perverse (Kangxi 很: 不聽從也, 很違也); quarrelsome (Kangxi 很: 諍訟也, 很鬩也謂爭訟也), intractable; sign of the superlative; very, much; _to tak han_ (do1 dak1 han2 多得很), very many; _han wai_ (han2 waai6 很壞) very bad. Williams does not provide separate entries for 很 and 狠. I have split things up accordingly. Williams' \"perverse\": Meaning \"contrary\". Williams' \"intractable\": Meaning \"obstinate\". Williams' 多得很: Fixed missing tone marker __ for 很. 【很】 (honX) (_verb-like_) to disobey (_verb-like_) to quarrel"
 }
 },
 "懇":{
 "han2":{
 "isCanonical":true,
 "text":"U+61C7 豤 貇 頎 恳 (Mainland simplified) (F1.83 懇) 情切也 (F1.83 𢢽) 同上 (Page 71 懇) To request, to beg, to ask as a favor; importunate, truly, earnestly (Kangxi: 悃也, 誠也, 信也, 或作貇, 款誠之意); _han k'au_ (han2 kau4 懇求), to intreat; _han k'ap_ (han2 kap1 懇給) ask to give; _han yan_ (han2 jan1 懇恩), to ask a kindness. Kangxi 亦作頎《禮檀弓》頎乎其至也《註》頎音懇惻隱之貌 is difficult to make sense of. On the surface, this appears to define 頎 (and 懇) as \"pitying\". But that does not make sense; the context is 稽顙而後拜頎乎其至也, in which 頎乎其至也 describes a mourner kowtowing them bowing to a visitor. The mourner can hardly be \"pitying\" the visitor. The only way out of this conundrum is if 惻隱之貌 is \"pitiable\", but that interpretation is still not very satisfactory. 【懇】 (khonX) (_adjective-like_) sincere"
+}
+},
+"狠":{
+"han2":{
+"isCanonical":true,
+"text":"U+72E0 很 (F1.83 狠) 强狠不聽從也 (Page 71 很狠) revengeful, vicious, ruthless; _mat ni kom han sam_ (mat1 nei5 gam3 han2 sam1 乜你咁狠心), how harsh you are! _fat han_ (faat3 han2 發狠), very angry; Williams does not provide separate entries for 很 and 狠. I have split things up accordingly. Williams' 乜你咁狠心: Corrected _kom_ (gam2) to _kom_ (gam3)."
 }
 },
 "痕":{
