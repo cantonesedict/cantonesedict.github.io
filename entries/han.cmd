@@ -53,6 +53,7 @@ $$
 - $懇2
 - $狠2
 - $豤2
+- $齦2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -285,12 +286,45 @@ F
   [[Not present]]
 W
   [[Not present]]
+C
+  ==
+  - Probably cognate with $齦2.
+  ==
 P
   ++
   1. To gnaw like a pig (Kangxi: 齧也, 豕齧地, 豕食貌, 齒深入物也).
   1. Alternative form of 懇. **See $懇han2 for the canonical entry.**
   1. Alternative form of 墾. **See $墾han2 for the canonical entry.**
   ++
+$$
+
+###+ 齦2 | _(2)Han_ [[han2]]
+
+$$
+R
+  ⿒ + 6
+U
+  U+9F66
+A
+  ==
+  - 龈 (Mainland simplified)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Probably cognate with $豤2.
+  ==
+P
+  ++
+  1. To gnaw (Kangxi: 齧也).
+  ++
+S
+  ==
+  - $齦ngan4 (TODO)
+  ==
 $$
 
 

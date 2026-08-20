@@ -9332,7 +9332,13 @@
 "豤":{
 "han2":{
 "isCanonical":true,
-"text":"U+8C64 狠 To gnaw like a pig (Kangxi: 齧也, 豕齧地, 豕食貌, 齒深入物也)."
+"text":"U+8C64 狠 Probably cognate with 齦. To gnaw like a pig (Kangxi: 齧也, 豕齧地, 豕食貌, 齒深入物也)."
+}
+},
+"齦":{
+"han2":{
+"isCanonical":true,
+"text":"U+9F66 龈 (Mainland simplified) Probably cognate with 豤. To gnaw (Kangxi: 齧也)."
 }
 },
 "痕":{
