@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-08-19
+* %date-modified --> 2026-08-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -172,6 +172,7 @@ $$
 =={.modern}
 - $函4
 - $咸4
+- ($啣4)
 - ($㘅4)
 - $㮀4
 - $椷4
@@ -331,6 +332,33 @@ S
   - ($咸gaam2) (TODO) <## same as 減 ##>
   - ($咸ham6) (TODO) <## same as 冚 (Cantonese "entire") ##>
   ==
+$$
+
+###+ 啣4 | _(4)H(a/)m_ [[haam4]]
+
+$$.
+R
+  ⼝ + 9
+U
+  U+5563
+H
+  May appear with 𦈢 having 6~strokes (+8) or 7~strokes (+9 assumed here).
+F
+  ==
+  - (F2.63 啣) ::口中[物]::
+  - (F2.63 銜) ::馬勒也又口[含物]曰銜又官之階位曰銜::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Corrected both occurrences of {𢪱=⿰扌勿} to 物,
+    and corrected 舍 to 含.
+  ==
+P
+  ++
+  1. Alternative form of 銜. **See $銜haam4 for the canonical entry.**
+  ++
 $$
 
 ### 㘅4 | _(4)H(a/)m_ [[haam4]]
@@ -529,7 +557,7 @@ U
   U+929C
 A
   ==
-  - 啣
+  - $啣4
   - 㗸
   - $㘅4
   - 䘖
