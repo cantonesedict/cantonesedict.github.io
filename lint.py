@@ -461,6 +461,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "nong": ['nong'],
     "nui": ['neoi'],
     "nuk": ['nuk'],
+    "nun": ['neon'],
     "nung": ['nung'],
     "nut": ['neot'],
     "o": ['o'],
