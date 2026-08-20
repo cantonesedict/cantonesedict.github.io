@@ -49,3 +49,50 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 (4)閒]]
+    ==
+    - Repose, leisure;
+    - indolent;
+    - unoccupied, empty;
+    - _tak(7) (4)h(a/)n_
+        [[dak1 haan4]],
+        at leisure;
+    - _(4)m(o\) (4)h(a/)n_
+        [[mou4 haan4]],
+        busy;
+    - _(4)h(a/)n (4)yau_
+        [[haan4 jau4]],
+        sauntering about;
+    - _(4)h(a/)n (2)shau_
+        [[haan4 sau2]],
+        an idler;
+    - _(4)h(a/)n w(a/)(6)_
+        [[haan4 waa6-2]]
+        small talk;
+    - _(4)h(a/)n sz'(6)_
+        [[haan4 si6]]
+        private, trifling affairs;
+    - _(4)yau (2)shau h(o\)(3) (4)h(a/)n_
+        [[jau4 sau2 hou3 haan4]],
+        a vagrant loves leisure;
+    - _(4)h(a/)n uk(7)_
+        [[haan4 uk1]]
+        an untenanted house;
+    - _(4)h(a/)n t(i/)(6)_
+        [[haan4 dei6]]
+        a void place, room;
+    - _(1)ch(')au (4)h(a/)n_
+        [[cau1 haan4]],
+        to take time for;
+    - _(4)fong (4)h(a/)n_
+        [[fong4 haan4]],
+        to look out for idlers.
+    ==
+  ====
+$$
+##>
