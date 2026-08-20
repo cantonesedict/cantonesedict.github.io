@@ -54,6 +54,22 @@ $$
 $$
 W
   ====
+  - [[Page~72 (4)僩]]
+    ==
+    - Courageous;
+    - depending on one's-self;
+    - martial;
+    - formidable, brave;
+    - liberal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (4)嫺]]
     ==
     - Accustomed;
