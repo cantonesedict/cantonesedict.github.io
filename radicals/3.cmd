@@ -1741,6 +1741,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $很han2
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">

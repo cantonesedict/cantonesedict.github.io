@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> han
-* %date-modified --> 2026-08-19
+* %date-modified --> 2026-08-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $墾2
+- $很2
 - $懇2
 ==
 </nav>
@@ -103,34 +104,65 @@ L
   ====
 $$
 
-<##
+### 很2 | _(2)Han_ [[han2]]
+
 $$
+R
+  ⼻ + 6
+U
+  U+5F88
+A
+  ==
+  - 佷 (for "disobey" sense)
+  - 狠 (for "disobey" and "quarrel" senses)
+  ==
+V
+  ==
+  - han5 (per 《廣韻》胡墾切)
+  ==
+F
+  ==
+  - (F1.83 狠) ::强狠不[聽]從也::
+  ==
 W
   ====
   - [[Page~71 (2)很(2)狠]]
     ==
-    - Snarling of dogs;
-    - disobedient, perverse;
-    - quarrelsome, intractable;
-    - revengeful;
+    - Snarling of dogs; <## TODO: separate to $狠han2 ##>
+    - disobedient, perverse [[Kangxi 很: 不聽從也, 很違也]];
+    - quarrelsome [[Kangxi 很: 諍訟也, 很鬩也謂爭訟也]], intractable;
+    - revengeful; <## TODO: separate to $狠han2 ##>
     - sign of the superlative;
     - very, much;
     - _mat(7) (5)n(i/) ~~(2)k(o\)m~~ ``k(o\)m(3)`` (2)han (1)sam_
-        [[mat1 nei5 gam3 han2 sam1]],
+        [[mat1 nei5 gam3 han2 sam1]],  <## TODO: separate to $狠han2 ##>
         how harsh you are!
     - _f(a/)t(8) (2)han_
-        [[faat3 han2]],
+        [[faat3 han2]],  <## TODO: separate to $狠han2 ##>
         very angry;
     - _(1)to tak(7) ``(2)``han_
-        [[do1 dak1 han2]],
+        [[do1 dak1 han2 多得很]],
         very many;
     - _(2)han w(a/)i(6)_
-        [[han2 waai6]]
+        [[han2 waai6 很壞]]
         very bad.
     ==
   ====
+C
+  ==
+  - Williams' "perverse": Meaning "contrary".
+  - Williams' "intractable": Meaning "obstinate".
+  - Williams' 多得很: Fixed missing tone marker _(2)_ for 很.
+  ==
+L
+  ====
+  * 【很】 (honX)
+    ==
+    - (_verb-like_) [to] disobey
+    - (_verb-like_) [to] quarrel
+    ==
+  ====
 $$
-##>
 
 ### 懇2 | _(2)Han_ [[han2]]
 
