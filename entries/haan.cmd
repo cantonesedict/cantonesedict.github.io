@@ -54,6 +54,26 @@ $$
 $$
 W
   ====
+  - [[Page~72 (4)嫺]]
+    ==
+    - Accustomed;
+    - loving leisure;
+    - elegant;
+    - _(4)h(a/)n shuk(9)_
+        [[haan4 suk6]]
+        accomplished, skilled~~,~~ in;
+    - _(4)h(a/)n (5)ng(a/)_
+        [[haan4 ngaa5]],
+        apt, polished.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (4)憪]]
     ==
     - Liberal, pleased;
