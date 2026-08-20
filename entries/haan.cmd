@@ -54,6 +54,35 @@ $$
 $$
 W
   ====
+  - [[Page~72 (4)閑]]
+    ==
+    - A bar or barrier, a fence;
+    - an inclosure;
+    - a fold or stable for horses;
+    - to close, to obstruct;
+    - to protect;
+    - to regulate by law, to forbid;
+    - to move about;
+    - large;
+    - accustomed, practiced;
+    - _(4)h(a/)n (2)cho_
+        [[haan4 zo2]],
+        to embarrass;
+    - _(4)h(a/)n ts(a/)p(9)_
+        [[haan4 zaap6]]
+        broken in, used to.
+    ==
+    --
+    Often used for the preceding [[閒]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (4)閒]]
     ==
     - Repose, leisure;
