@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-08-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -329,9 +329,7 @@ H
   May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here),
   depending on the font.
 F
-  ==
-  - (F2.29 諍 _Chang(6)_ (zang6)) 諫諍救正之也
-  ==
+  [[Not present]]
 W
   [[Not present]]
 P
@@ -340,6 +338,7 @@ P
   ++
 S
   ==
+  - ($諍zang1)
   - $諍zang3
   ==
 $$

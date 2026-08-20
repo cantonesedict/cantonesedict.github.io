@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-08-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,6 +62,7 @@ $$
 - $箏1
 - $繒1
 - $罾1
+- ($諍1)
 - $錚1
 ==
 </nav>
@@ -366,6 +367,7 @@ U
 A
   ==
   - 争
+  - $諍1
   ==
 V
   ==
@@ -682,6 +684,31 @@ C
   ==
 $$
 
+###+ 諍1 | _(1)Chang_ [[zang1]]
+
+$$.
+R
+  ⾔ + 8
+U
+  U+8ACD
+H
+  May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 爭. **See $爭zang1 for the canonical entry.**
+  ++
+S
+  ==
+  - ($諍zaang3)
+  - $諍zang3
+  ==
+$$
+
 ### 錚1 | _(1)Chang_ [[zang1]]
 
 $$
@@ -892,6 +919,7 @@ C
 S
   ==
   - ($諍zaang3)
+  - ($諍zang1)
   ==
 $$
 
