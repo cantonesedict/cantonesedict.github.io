@@ -261,3 +261,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 閬(6)]]
+    ==
+    - The threshold of a door.
+    ==
+  - [[Page~716 閬(6)]]
+    ==
+    - Should be changed to {𨵬=⿵門限};
+    - the first [[閬]] is read _(4)long_ [[long4]].
+    ==
+  ====
+$$
+##>
