@@ -221,3 +221,43 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 限(6)]]
+    ==
+    - To limit, to fix or set a time, to assign, to adjust;
+    - to impede, to moderate;
+    - a limit, impediment, boundary, restriction;
+    - a few, a short time;
+    - a threshold;
+    - _(4)m(o\) h(a/)n(6)_
+        [[mou4 haan6]]
+        illimitable;
+    - _(4)ho h(a/)n(6)_
+        [[ho4 haan6]]
+        what limit, endless, numberless;
+    - _(5)yau h(a/)n(6)_
+        [[jau5 haan6]]
+        a few, limited;
+    - _h(a/)n(6) (2)k(i/) ~~yat(7)~~ ``yat(9)``_
+        [[haan6 gei2 jat6]]
+        how many days do you set?
+    - _~~kwo(6)~~ ``kwo(3)`` h(a/)n(6)_
+        [[gwo3 haan6]]
+        overpast the time;
+    - _(1)f(u/)n h(a/)n(6)_
+        [[fun1 haan6]]
+        to extend the time;
+    - _h(a/)n(6) ~~teng(6)~~ ``ting(6)``_
+        [[haan6 ding6]]
+        exactly so many;
+    - _h(a/)n(6) t(o\)(6)_
+        [[haan6 dou6]]
+        a fixed measure.
+    ==
+  ====
+$$
+##>
