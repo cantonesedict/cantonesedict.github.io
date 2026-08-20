@@ -121,6 +121,20 @@ $$
 $$
 W
   ====
+  - [[Page~72 (4)瞯]]
+    ==
+    - To observe narrowly, to watch furtively;
+    - spots in the eyes;
+    - the whites of the eyes showing in convulsions.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (4)閑]]
     ==
     - A bar or barrier, a fence;
