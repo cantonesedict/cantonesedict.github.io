@@ -103,6 +103,35 @@ L
   ====
 $$
 
+<##
+$$
+W
+  ====
+  - [[Page~71 (2)很(2)狠]]
+    ==
+    - Snarling of dogs;
+    - disobedient, perverse;
+    - quarrelsome, intractable;
+    - revengeful;
+    - sign of the superlative;
+    - very, much;
+    - _mat(7) (5)n(i/) ~~(2)k(o\)m~~ ``k(o\)m(3)`` (2)han (1)sam_
+        [[mat1 nei5 gam3 han2 sam1]],
+        how harsh you are!
+    - _f(a/)t(8) (2)han_
+        [[faat3 han2]],
+        very angry;
+    - _(1)to tak(7) ``(2)``han_
+        [[do1 dak1 han2]],
+        very many;
+    - _(2)han w(a/)i(6)_
+        [[han2 waai6]]
+        very bad.
+    ==
+  ====
+$$
+##>
+
 ### 懇2 | _(2)Han_ [[han2]]
 
 $$
