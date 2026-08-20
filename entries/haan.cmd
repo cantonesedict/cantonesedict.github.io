@@ -176,3 +176,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 (4)鷳]]
+    ==
+    - A kind of pheasant;
+    - _p(a/)k(9) (4)h(a/)n_
+        [[baak6 haan4]],
+        the silver pheasant.
+    ==
+  ====
+$$
+##>
