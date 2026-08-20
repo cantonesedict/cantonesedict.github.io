@@ -88,6 +88,23 @@ $$
 $$
 W
   ====
+  - [[Page~72 (4)癇]]
+    ==
+    - Convulsions in children;
+    - spasms from fright;
+    - epilepsy;
+    - vulgarly called
+        _f(a/)t(8) (4)y(e/)ung ti(u/)(3)_
+        [[faat3 joeng4 diu3]]``.``
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (4)閑]]
     ==
     - A bar or barrier, a fence;
