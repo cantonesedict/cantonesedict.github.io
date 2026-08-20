@@ -262,3 +262,36 @@ E
   The spelling 痕 is arbitrary (but well established).
   --
 $$
+
+<##
+$$
+W
+  ====
+  - [[Page~71 恨(6)]]
+    ==
+    - Indignation, resentment, dislike;
+    - hatred, spite;
+    - to regret, to feel sorry;
+    - vexed, sorry;
+    - _han(6) n(o\)(6)_
+        [[han6 nou6]]
+        to hate;
+    - _(2)ho han(6)_
+        [[ho2 han6]]
+        detestable, odious;
+    - _s(u:)t(8) han(6)_
+        [[syut3 han6]]
+        gratified revenge;
+    - _han(6) pat(7) tak(7)_
+        [[han6 bat1 dak1]]
+        would that! O for!
+    - _(4)m(o\) (4)yan han(6)_
+        [[mou4 jan4 han6]]
+        unregretted;
+    - _tak(7) (4)yan han(6)_
+        [[dak1 jan4 han6]]
+        to get men's ill will.
+    ==
+  ====
+$$
+##>
