@@ -54,6 +54,20 @@ $$
 $$
 W
   ====
+  - [[Page~72 (4)憪]]
+    ==
+    - Liberal, pleased;
+    - composed, tranquil, contented;
+    - aroused, anxious for others.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (4)閑]]
     ==
     - A bar or barrier, a fence;
