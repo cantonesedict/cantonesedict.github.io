@@ -52,6 +52,7 @@ $$
 - $很2
 - $懇2
 - $狠2
+- $豤2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -65,6 +66,7 @@ U
   U+58BE
 A
   ==
+  - $豤2
   - 垦 (Mainland simplified)
   ==
 F
@@ -174,7 +176,7 @@ U
   U+61C7
 A
   ==
-  - 豤
+  - $豤2
   - 貇
   - 頎
   - 恳 (Mainland simplified)
@@ -257,7 +259,7 @@ W
     [[Otherwise, an alternative form of 很. **See $很han2 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 豤. **See $豤han2 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 豤. **See $豤han2 for the canonical entry.**]]
     --
   ====
 C
@@ -266,6 +268,29 @@ C
     I have split things up accordingly.
   - Williams' 乜你咁狠心: Corrected _(2)k(o\)m_ (gam2) to _k(o\)m(3)_ (gam3).
   ==
+$$
+
+###+ 豤2 | _(2)Han_ [[han2]]
+
+$$
+R
+  ⾗ + 6
+U
+  U+8C64
+A
+  ==
+  - $狠2
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To gnaw like a pig (Kangxi: 齧也, 豕齧地, 豕食貌, 齒深入物也).
+  1. Alternative form of 懇. **See $懇han2 for the canonical entry.**
+  1. Alternative form of 墾. **See $墾han2 for the canonical entry.**
+  ++
 $$
 
 

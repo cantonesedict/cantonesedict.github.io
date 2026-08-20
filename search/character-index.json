@@ -9308,7 +9308,7 @@
 "墾":{
 "han2":{
 "isCanonical":true,
-"text":"U+58BE 垦 (Mainland simplified) (F1.83 墾) 開墾又治也 (Page 71 墾) To open new land (Kangxi: 一曰開田用力反土也), to plough, to cultivate (Kangxi: 力治也); to injure (Kangxi: 傷也如鉏墾之傷物也); ~~energetic;~~ _hoi han_ (hoi1 han2 開墾), to clear land; _han ti_ (han2 dei6 墾地) new land; _han chung_ (han2 zung3 墾種) to plough and sow. Fan Wan entry: Corrected 冶 to 治. Williams' \"to injure\": Better rendered \"to damage\". Williams' \"energetic\": This is a misreading of 力 in the various Kangxi definitions. 【墾】 (khonX) (_verb-like_) to plough up, to open up (_verb-like_) (_met._) to damage"
+"text":"U+58BE 豤 垦 (Mainland simplified) (F1.83 墾) 開墾又治也 (Page 71 墾) To open new land (Kangxi: 一曰開田用力反土也), to plough, to cultivate (Kangxi: 力治也); to injure (Kangxi: 傷也如鉏墾之傷物也); ~~energetic;~~ _hoi han_ (hoi1 han2 開墾), to clear land; _han ti_ (han2 dei6 墾地) new land; _han chung_ (han2 zung3 墾種) to plough and sow. Fan Wan entry: Corrected 冶 to 治. Williams' \"to injure\": Better rendered \"to damage\". Williams' \"energetic\": This is a misreading of 力 in the various Kangxi definitions. 【墾】 (khonX) (_verb-like_) to plough up, to open up (_verb-like_) (_met._) to damage"
 }
 },
 "很":{
@@ -9327,6 +9327,12 @@
 "han2":{
 "isCanonical":true,
 "text":"U+72E0 很 (F1.83 狠) 强狠不聽從也 (Page 71 很狠) revengeful, vicious, ruthless; _mat ni kom han sam_ (mat1 nei5 gam3 han2 sam1 乜你咁狠心), how harsh you are! _fat han_ (faat3 han2 發狠), very angry; Williams does not provide separate entries for 很 and 狠. I have split things up accordingly. Williams' 乜你咁狠心: Corrected _kom_ (gam2) to _kom_ (gam3)."
+}
+},
+"豤":{
+"han2":{
+"isCanonical":true,
+"text":"U+8C64 狠 To gnaw like a pig (Kangxi: 齧也, 豕齧地, 豕食貌, 齒深入物也)."
 }
 },
 "痕":{

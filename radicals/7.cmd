@@ -430,6 +430,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $豤han2
+      ==
+      </nav>
+  //
     , 8
     ,
       <nav class="sideways">
