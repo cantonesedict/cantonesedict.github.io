@@ -21,3 +21,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 (1)亨]]
+    ==
+    - To penetrate or pervade;
+    - successful;
+    - _(1)hang (1)k(')(u:)_
+        [[hang1 keoi1]],
+        a quiet street, an eligible street.
+    ==
+  ====
+$$
+##>
