@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> han
-* %date-modified --> 2026-08-20
+* %date-modified --> 2026-08-21
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [han2](#2)
 - [han4](#4)
+- [han6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -403,35 +404,74 @@ E
   --
 $$
 
-<##
+
+##{#6 .williams} Han(6) [[han6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $恨6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 恨6 | _Han(6)_ [[han6]]
+
 $$
+R
+  ⼼ + 6
+U
+  U+6068
+F
+  ==
+  - (F1.85 恨) 忿恨怒恨
+  ==
 W
   ====
   - [[Page~71 恨(6)]]
     ==
     - Indignation, resentment, dislike;
-    - hatred, spite;
-    - to regret, to feel sorry;
+    - hatred [[Kangxi: 怨也]], spite;
+    - to regret, to feel sorry [[Kangxi: 悔恨也]];
     - vexed, sorry;
     - _han(6) n(o\)(6)_
-        [[han6 nou6]]
+        [[han6 nou6 恨怒]]
         to hate;
     - _(2)ho han(6)_
-        [[ho2 han6]]
+        [[ho2 han6 可恨]]
         detestable, odious;
     - _s(u:)t(8) han(6)_
-        [[syut3 han6]]
+        [[syut3 han6 雪恨]]
         gratified revenge;
     - _han(6) pat(7) tak(7)_
-        [[han6 bat1 dak1]]
+        [[han6 bat1 dak1 恨不得]]
         would that! O for!
     - _(4)m(o\) (4)yan han(6)_
-        [[mou4 jan4 han6]]
+        [[mou4 jan4 han6 無人恨]]
         unregretted;
     - _tak(7) (4)yan han(6)_
-        [[dak1 jan4 han6]]
+        [[dak1 jan4 han6 得人恨]]
         to get men's ill will.
     ==
   ====
+L
+  ====
+  * 【恨】 (honH)
+    ==
+    - (_verb-like_) [to] detest, [to] hate
+    - (_verb-like_) [to] regret
+    ==
+  ====
+E
+  ====
+  - 【恨】 (han6)
+    ++
+    1. To yearn for, to long for.
+       ==
+       - 恨生仔 (han6 saang1 zai2): "Yearn to have kids."
+       - 恨退休 (han6 teoi3 jau1): "Long for retirement."
+       - 唔使恨喇 (m4 sai2 han6 la3): "[You] needn't [bother] longing for [it]" (i.e. you probably won't get it).
+       ==
+    ++
+  ====
 $$
-##>
