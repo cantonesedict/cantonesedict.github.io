@@ -111,6 +111,21 @@ $$
 $$
 W
   ====
+  - [[Page~73 (4){𧄇=⿱艹⿲彳魚亍}]]
+    ==
+    - A fragrant plant like mallows;
+    - _t(o\)(6) (4)hang_
+        [[dou6 hang4]],
+        sweet vernal-grass. (?)
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 before (4)行]]
     --
     (This character [[行]] is often pronounced like the next syllable [[haang]].)
