@@ -55,6 +55,21 @@ $$
 $$
 W
   ====
+  - [[Page~72 (1)牼]]
+    --
+    The shank bone of an ox.
+    --
+    --
+    A man, Sung(3) (1)Hang [[sung3 hang1]], in the time of Mencius.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (1)硜]]
     ==
     - The jingling of stones, striking hard stones together.
