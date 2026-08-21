@@ -37,3 +37,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 (1)哼]]
+    ==
+    - Frightened, an antipathy to;
+    - a local word applied to smells, lothsome.
+    ==
+  ====
+$$
+##>
