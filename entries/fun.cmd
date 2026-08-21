@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fun
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-21
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -219,9 +219,9 @@ W
         highly delighted.
     ==
   - [[Page~715 (1)懽]]
-    ==
-    - Interchanged with 歡 _(1)f(u/)n_ [[fun1]].
-    ==
+    --
+    Interchanged with 歡 _(1)f(u/)n_ [[fun1]].
+    --
     --
     [[...]]
     --
