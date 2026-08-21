@@ -98,6 +98,37 @@ $$
 $$
 W
   ====
+  - [[Page~73 (4)恒]]
+    ==
+    - Constant, regular, perpetual, according to rule;
+    - to continue of the same mind, persevering;
+    - _(4)hang (4)sh(e/)ung_
+        [[hang4 soeng4]],
+        accustomed to;
+    - _(4)hang (1)sam_
+        [[hang4 sam1]],
+        constant;
+    - _(4)hang (2)yan_
+        [[hang4 jan2]],
+        patient;
+    - _(4)hang (2)ch(')(a/)n_
+        [[hang4 caan2]],
+        enduring possessions;
+    - _(4)Hang (4)ho (1)sh(a/) sh(o\)(3)_
+        [[hang4 ho4 saa1 sou3]]
+        like the sands of the Ganges;
+    - _(4)Hang (1)sh(a/)n_
+        [[hang4 saan1]],
+        a mountain in the west of Chihl(i/) [[直隸]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 (4)珩]]
     ==
     - An ornamented clasp, a gem which has a play of colors,
