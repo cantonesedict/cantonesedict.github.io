@@ -111,6 +111,20 @@ $$
 $$
 W
   ====
+  - [[Page~73 (4)莖]]
+    ==
+    - The culm or stalk of herbs and shrubs;
+    - a twig;
+    - hilt of a sword.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 (4){𧄇=⿱艹⿲彳魚亍}]]
     ==
     - A fragrant plant like mallows;
