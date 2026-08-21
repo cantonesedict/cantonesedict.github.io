@@ -55,6 +55,18 @@ $$
 $$
 W
   ====
+  - [[Page~72 (1)硜]]
+    ==
+    - The jingling of stones, striking hard stones together.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (1)鏗]]
     ==
     - To strike against as sounding glasses or metals,
