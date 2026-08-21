@@ -200,3 +200,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~73 (4){𢖍=⿲彳魚亍}]]
+    ==
+    - A yoke or strap on the head of cattle;
+    - the space under the eyebrows;
+    - a balance, or thing to weigh with;
+    - a balustrade;
+    - to weigh;
+    - transverse;
+    - adjusted, compared;
+    - _(4)hang (4)l(e/)ung_
+        [[hang4 loeng4]],
+        to measure;
+    - _(4)hang (4)p(')ing_
+        [[hang4 ping4]],
+        a pair of scales;
+    - _yuk(9) (4)hang_
+        [[juk6 hang4]],
+        an armillary sphere.
+    ==
+  ====
+$$
+##>
