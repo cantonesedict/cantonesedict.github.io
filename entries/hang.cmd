@@ -50,3 +50,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~72 (1)鏗]]
+    ==
+    - To strike against as sounding glasses or metals,
+      a ringing or metallic sound;
+      - _(1)hang (1)ts(')(e/)ung_
+          [[hang1 coeng1]],
+          jingling of bangles or tamborines.
+    ==
+  ====
+$$
+##>
