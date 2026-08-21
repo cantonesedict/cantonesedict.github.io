@@ -98,6 +98,19 @@ $$
 $$
 W
   ====
+  - [[Page~73 (4)珩]]
+    ==
+    - An ornamented clasp, a gem which has a play of colors,
+      worn on the person.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 before (4)行]]
     --
     (This character [[行]] is often pronounced like the next syllable [[haang]].)
