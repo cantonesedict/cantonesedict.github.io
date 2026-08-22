@@ -295,6 +295,19 @@ W
         [[haang4 leoi4]],
         to thunder.
     ==
+  - [[Page~716 (4)行]]
+    ==
+    - Temporary, for the present;
+    - _(4)hang (4)ying_
+        [[hang4 jing4]],
+        a movable or flying camp.
+    ==
+    --
+    Read _hang(6)_ [[hang6]] in colloquial.
+    --
+    ==
+    - Tense, taut, drawn tight, as a drum or umbrella.
+    ==
   ====
 $$
 ##>
