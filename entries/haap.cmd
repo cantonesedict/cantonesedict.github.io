@@ -21,3 +21,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 呷(8)]]
+    ==
+    - To gulp, to swallow, to drink;
+    - _chuk(7) (2)shui (5)m(o\) t(a/)m(6) h(a/)p(8)_
+        [[zuk1 seoi2 mou5 daam6 haap3]]
+        not even congee water to drink (poor);
+    - _h(a/)p(8) t(a/)m(6) (4)ch(')(a/)_
+        [[haap3 daam6 caa4]],
+        take a mouthful of tea;
+    - clamor or buzz of a crowd.
+    ==
+  ====
+$$
+##>
