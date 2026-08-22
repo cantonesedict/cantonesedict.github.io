@@ -21,3 +21,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 歃(9) _H(a/)p(9)_ (haap6); here normalised to _Sh(a/)p(8)_ (saap3)]]
+    ==
+    - To drink each other's blood in spirits;
+    - to bloody the lips---a form of an oath;
+    - _~~h(a/)p(9)~~ ``sh(a/)p(8)`` h(u:)t(8)_
+        [[saap3 hyut3]]
+        to let blood when swearing, an oath of blood.
+    ==
+  ====
+$$
+##>
