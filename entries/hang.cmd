@@ -315,6 +315,36 @@ $$
 $$
 W
   ====
+  - [[Page~73 幸(6)]]
+    ==
+    - Fortunate, lucky;
+    - blessed;
+    - happily;
+    - an emperor reaching or tarrying in a place;
+    - to hope, to wait or long for;
+    - lucky in getting, to rejoice;
+    - to love, pleased;
+    - _hang(6) tak(7)_
+        [[hang6 dak1]]
+        to succeed pleasantly;
+    - _sh(i/)(6) hang(6)_
+        [[si6 hang6]]
+        is well, will be pleased---a phrase used in a bill;
+    - _(1)k(a/) (4)m(u/)n pat(7) hang(6)_
+        [[gaa1 mun4 bat1 hang6]]
+        domestic affliction, family trouble;
+    - _pat(7) hang(6) (1)chung (1)ch(i/) hang(6)_
+        [[bat1 hang6 zung1 zi1 hang6]]
+        fortunate in the midst of disaster.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 (2)悻]]
     ==
     - _(2)Hang (2)hang_ [[hang2 hang2]],
