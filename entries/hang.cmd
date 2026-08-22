@@ -98,6 +98,29 @@ $$
 $$
 W
   ====
+  - [[Page~73 (2)肯]]
+    ==
+    - The attachment of the muscles;
+    - to assent, willing, acquiescing;
+    - to permit;
+    - _(2)hang (4)'m (2)hang_
+        [[hang2 m4 hang2]],
+        will you or not?
+    - _(4)'m (2)hang_
+        [[m4 hang2]],
+        I will not!
+    - _(5)wan (2)hang_
+        [[wan5 hang2]],
+        to permit.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 (4)恒]]
     ==
     - Constant, regular, perpetual, according to rule;
