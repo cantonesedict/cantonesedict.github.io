@@ -45,6 +45,25 @@ $$
 $$
 W
   ====
+  - [[Page~75 掐(9) _H(a/)p(9)_ (haap6); here normalised to _H(a/)p(8)_ (haap3)]]
+    ==
+    - To press or dig the nails into;
+    - to lacerate;
+    - _~~h(a/)p(9)~~ ``h(a/)p(8)`` ch(')ut(7) h(u:)t(8)_
+        [[haap3 ceot1 hyut3]]
+        to squeeze the blood out;
+    - _(4)ng(a/) (2)ch(')(i/) ~~h(a/)p(9)~~ ``h(a/)p(8)`` ~~yap(7)~~ ``yap(9)`` yuk(9)_
+        [[ngaa4 ci2 haap3 jap6 juk6]]
+        to bite till the blood comes, indignant at, irritated with.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~74 匣(9)]]
     ==
     - A chest or trunk;
