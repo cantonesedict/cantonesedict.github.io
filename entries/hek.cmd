@@ -21,3 +21,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 吃(7) _Hat(7)_ (hat1); here corrected to _Hek(8)_ (hek3)]]
+    ==
+    - To eat, to swallow.
+    ==
+    --
+    Usually pronounced _y(a/)k(8)_ [[jaak3]].
+    --
+  ====
+$$
+##>
