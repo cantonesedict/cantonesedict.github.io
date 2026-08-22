@@ -45,6 +45,33 @@ $$
 $$
 W
   ====
+  - [[Page~74 匣(9)]]
+    ==
+    - A chest or trunk;
+    - a press for clothes;
+    - a coffer, a casket;
+    - a box for a set of books;
+    - _(2)shau shik(7) h(a/)p(9)_
+        [[sau2 sik1 haap6]]
+        a dressing-case;
+    - _p(a/)i(3) h(a/)p(9)_
+        [[baai3 haap6]]
+        a case for sending cards, presents, &c.;
+    - _sz'(3) (2)p(o\) h(a/)p(9)_
+        [[sei3 bou2 haap6]]
+        a writing-case;
+    - _(1)ch(u:) (2)p(o\) h(a/)p(9)_
+        [[zyu1 bou2 haap6]]
+        a casket.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~74 柙(9)]]
     ==
     - A cage for wild beasts or prisoners;
