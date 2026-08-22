@@ -72,6 +72,25 @@ $$
 $$
 W
   ====
+  - [[Page~75 ~~峽(8)~~``峽(9)``]]
+    ==
+    - Hills approaching, forming a gorge,
+      through which a stream forces its way;
+    - _h(a/)p(9) (2)hau_
+        [[haap6 hau2]],
+        a pass in a river;
+    - _Shi(u/)(3)-hing(3) h(a/)p(9)_
+        [[siu3 hing3 haap6]]
+        a gorge near Sh(a/)uking f(u/) [[]] in Kw(a/)ngtung [[廣東]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~74 柙(9)]]
     ==
     - A cage for wild beasts or prisoners;
