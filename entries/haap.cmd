@@ -40,3 +40,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 狎(9)]]
+    ==
+    - Accustomed, familiar with;
+    - irreverent, disrespectful to;
+    - to caress;
+    - to desecrate, to contemn;
+    - to change;
+    - to approach, acquainted with;
+    - _h(a/)p(9) oi(3)_
+        [[haap6 oi3]]
+        mutual attachment;
+    - _h(a/)p(9) ts(a/)p(9)_
+        [[haap6 zaap6]]
+        intimate with;
+    - _h(a/)p(9) (u/)n(6)_
+        [[haap6 wun6]]
+        to play with.
+    ==
+  ====
+$$
+##>
