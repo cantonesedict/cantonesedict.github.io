@@ -82,6 +82,27 @@ $$
 $$
 W
   ====
+  - [[Page~75 核(9)]]
+    ==
+    - The kernel or seed of fruits;
+    - the nucleus;
+    - the facts, the real circumstances;
+    - truly;
+    - _tsung(3) hat(9)_
+        [[zung3 hat6]]
+        to search out a matter;
+    - _hat(9) (4)t(')(o\)_
+        [[hat6 tou4]],
+        walnuts.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~75 檄(9)]]
     ==
     - A piece of board on which orders used to be written;
