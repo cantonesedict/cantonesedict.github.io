@@ -82,6 +82,22 @@ $$
 $$
 W
   ====
+  - [[Page~75 瞎(9)]]
+    ==
+    - Blind of one eye;
+    - ignorant, uneducated;
+    - _hat(9) (2)tsz'_
+        [[hat6 zi2]]
+        a blind man.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~75 覡(9)]]
     ==
     - A sorcerer, a wizard, a necromancer.
