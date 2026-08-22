@@ -52,3 +52,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 檄(9)]]
+    ==
+    - A piece of board on which orders used to be written;
+    - a governmental proclamation;
+    - to give orders;
+    - haste;
+    - a branchless tree;
+    - _hat(9) (4)man_
+        [[hat6 man4]],
+        an official summons or reprimand;
+    - _(5)(u:) hat(9)_
+        [[jyu5 hat6]]
+        a feather (_i.~e._ urgent) dispatch;
+    - _(4)ch(')(e/)ung hat(9)_
+        [[coeng4 hat6]]
+        a passport.
+    ==
+  ====
+$$
+##>
