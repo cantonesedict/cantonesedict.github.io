@@ -57,6 +57,31 @@ $$
 $$
 W
   ====
+  - [[Page~75 劾(9)]]
+    ==
+    - To judge, to examine into, to search out;
+    - to keep in order;
+    - to punish;
+    - to prosecute or to accuse one;
+    - to sentence;
+    - _hat(9) shat(9)_
+        [[hat6 sat6]]
+        to ascertain the facts;
+    - _hat(9) p(a/)n(6)_
+        [[hat6 baan6]]
+        to revise a case;
+    - _hat(9) tsau(3)_
+        [[hat6 zau3]]
+        to accuse by memorial.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~75 檄(9)]]
     ==
     - A piece of board on which orders used to be written;
