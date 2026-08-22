@@ -315,6 +315,24 @@ $$
 $$
 W
   ====
+  - [[Page~74 倖(6)]]
+    ==
+    - To obtain or avoid without merit or right;
+    - _hang(6) (5)m(i/)n_
+        [[hang6 min5]],
+        fortunately escaped;
+    - _(1)hi(u/) hang(6)_
+        [[hiu1 hang6]]
+        very fortunate.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~73 幸(6)]]
     ==
     - Fortunate, lucky;
