@@ -394,3 +394,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 荇(6)]]
+    ==
+    - An aquatic vegetable with a reddish leaf;
+    - not found in Canton.
+    ==
+  ====
+$$
+##>
