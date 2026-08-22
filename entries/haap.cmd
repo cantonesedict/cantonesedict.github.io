@@ -108,3 +108,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 狹(9)]]
+    ==
+    - Narrow, strait;
+    - a contracted passage;
+    - narrow-minded, mean;
+    - _ch(a/)k(8) h(a/)p(9)_
+        [[zaak3 haap6]]
+        narrow;
+    - _h(a/)p(9) (1)sam t(i/)(6)_
+        [[haap6 sam1 dei6-2]],
+        doltish, stupid.
+    ==
+  ====
+$$
+##>
