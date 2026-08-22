@@ -128,3 +128,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 陜(9)]]
+    ==
+    - A strait passage, contracted, narrow;
+    - _h(a/)p(9) (a/)i(3)_
+        [[haap6 aai3]]
+        a narrow pass.
+    ==
+    --
+    Used for the preceding [[狹]].
+    --
+  ====
+$$
+##>
