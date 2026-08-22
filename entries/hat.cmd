@@ -77,3 +77,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 覡(9)]]
+    ==
+    - A sorcerer, a wizard, a necromancer.
+    ==
+    --
+    Usually called a _(2)sheng (1)kung_ [[seng2 gung1]].
+    --
+  ====
+$$
+##>
