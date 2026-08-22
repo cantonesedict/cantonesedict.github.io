@@ -373,3 +373,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 杏(6)]]
+    ==
+    - A kind of plum;
+    - _hang(6) (4)yan_
+        [[hang6 jan4]],
+        almonds;
+    - _(4)ngan hang(6)_
+        [[ngan4 hang6]]
+        nuts of the Salisburia adiantifolia;
+    - _hang(6) (4)m(u/)i_
+        [[hang6 mui4]],
+        a sort of apricot, ripe in June.
+    ==
+  ====
+$$
+##>
