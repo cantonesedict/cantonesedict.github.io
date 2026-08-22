@@ -152,6 +152,19 @@ $$
 $$
 W
   ====
+  - [[Page~75 篋(9)]]
+    ==
+    - A basket for sundries;
+    - a dresser, a pannier.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~75 陜(9)]]
     ==
     - A strait passage, contracted, narrow;
