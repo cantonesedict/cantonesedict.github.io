@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-08-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -97,6 +97,13 @@ W
         to roast a potato or taro in ashes;
         _met._ to enjoy one's self secretly.
     ==
+  - [[Page~716 洽(9)]]
+    --
+    See _ap(7)_ [[ap1]].
+    --
+    --
+    [[...]]
+    --
   ====
 E
   ====
@@ -110,10 +117,10 @@ E
   --
 S
   ==
-  - $洽haap6 (TODO)
+  - ($洽haap6) (TODO)
   - $洽hap1 (TODO)
-  - $洽hap6 (TODO)
-  - $洽ngap1 (TODO)
+  - ($洽hap6) (TODO)
+  - ($洽ngap1) (TODO)
   ==
 $$
 

@@ -58,6 +58,45 @@ $$
 $$
 W
   ====
+  - [[Page~4 洽(7) read _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
+    --
+    Read _~~h(a/)p(9)~~ ``hap(7)``_ [[hap1]].
+    --
+    ==
+    - To instil, ~~ot~~ ``to`` saturate, to soak;
+    - to imbue, to pervade;
+    - to blend, to harmonize, to agree;
+    - _~~h(a/)p(9)~~ ``hap(7)`` (1)sam_
+        [[hap1 sam1]],
+        of one mind.
+    ==
+    --
+    [[...]]
+    --
+  - [[Page~716 洽(9) _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
+    --
+    [[...]]
+    --
+    ==
+    - To join pleasantly, to harmonize;
+    - blending, united;
+    - to instil into;
+    - imbued, pervaded with;
+    - _(1)s(e/)ung ~~h(a/)p(9)~~ ``hap(7)``_
+        [[soeng1 hap1]]
+        agreeing, agreeable;
+    - _~~h(a/)p(9)~~ ``hap(7)`` (1)(u:) (4)man (1)sam_
+        [[hap1 jyu1 man4 sam1]],
+        the people generally feel it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~74 哈(7); here corrected to 瞌]]
     ==
     - ~~A colloquial word, for which this character [[哈]] is sometimes used, meaning~~
