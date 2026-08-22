@@ -69,3 +69,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 俠(9) _H(a/)p(9)_ (haap6); here normalised to _Hap(9)_ (hap6)]]
+    ==
+    - Generous, noble-minded, public spirited;
+    - zealous for right, bold, intrepid;
+    - to assist or redress another's wrongs;
+    - _~~h(a/)p(9)~~ ``hap(9)`` h(a/)k(8)_ [[hap6 haak3]]
+        or
+      _k(i/)m(3) ~~h(a/)p(9)~~ ``hap(9)``_ [[gim3 hap6]]
+        a friend in need, a supernatural advocate;
+    - _~~h(a/)p(9)~~ ``hap(9)`` h(i/)(3)_
+        [[hap6 hei3]]
+        noble-minded, intrepid.
+    ==
+  ====
+$$
+##>
