@@ -407,3 +407,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 行(6)]]
+    ==
+    - Actions, conduct;
+    - _(2)pan hang(6)_
+        [[ban2 hang6]]
+        disposition, character;
+    - _tak(7) hang(6)_
+        [[dak1 hang6]]
+        virtue, good works;
+    - _t(o\)(6) hang(6) (1)sham_
+        [[dou6 hang6 sam1]],
+        able, experienced, learned;
+    - _sun(3) hang(6)_
+        [[seon3 hang6]]
+        honest;
+    - _(2)t(u:)n hang(6)_
+        [[dyun2 hang6]]
+        curt, snappish.
+    ==
+  ====
+$$
+##>
