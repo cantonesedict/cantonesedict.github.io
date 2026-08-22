@@ -53,3 +53,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 哈(7); here corrected to 瞌]]
+    ==
+    - ~~A colloquial word, for which this character [[哈]] is sometimes used, meaning~~
+      to nod, sleepy;
+    - _hap(7) (5)ng(a/)n fan(3)_
+        [[hap1 ngaan5 fan3]]
+        to nod.
+    ==
+  ====
+$$
+##>
