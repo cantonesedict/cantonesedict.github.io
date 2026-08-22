@@ -82,6 +82,21 @@ $$
 $$
 W
   ====
+  - [[Page~716 (1)脝]]
+    ==
+    - A puffed belly;
+    - _(4)p(')(a/)ng (1)hang_
+        [[paang4 hang1]],
+        a swelled belly, one distended by wind.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~72 (1)鏗]]
     ==
     - To strike against as sounding glasses or metals,
