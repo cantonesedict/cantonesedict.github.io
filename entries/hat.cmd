@@ -123,6 +123,25 @@ $$
 $$
 W
   ====
+  - [[Page~75 覈(9)]]
+    ==
+    - To investigate, to ascertain the facts;
+    - to pare or carve;
+    - _(2)h(a/)u hat(9)_
+        [[haau2 hat6]]
+        to search out fully;
+    - _hat(9) (i/)m(6)_
+        [[hat6 jim6]]
+        to verify.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~75 覡(9)]]
     ==
     - A sorcerer, a wizard, a necromancer.
