@@ -92,3 +92,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 轄(9)]]
+    ==
+    - A linch-pin;
+    - the creaking of carriages;
+    - to regulate, to control;
+    - to guide the morals of society;
+    - to turn;
+    - _(2)k(u/)n hat(9)_
+        [[gun2 hat6]]
+        to control.
+    ==
+  ====
+$$
+##>
