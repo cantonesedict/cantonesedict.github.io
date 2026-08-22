@@ -310,3 +310,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~73 (2)悻]]
+    ==
+    - _(2)Hang (2)hang_ [[hang2 hang2]],
+        anger, hatred;
+    - great displeasure, vexed;
+    - quarrelsome, pertinacious.
+    ==
+  ====
+$$
+##>
