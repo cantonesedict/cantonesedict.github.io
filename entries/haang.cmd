@@ -53,3 +53,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~74 (4)桁]]
+    ==
+    - The purlines of a roof;
+    - a plank to cross a rivulet;
+    - stocks for feet;
+    - a clotheshorse;
+    - _(4)h(a/)ng kok(8)_
+        [[haang4 gok3]]
+        purlines and rafters;
+    - _uk(7) (4)h(a/)ng_
+        [[uk1 haang4]],
+        purlines.
+    ==
+  ====
+$$
+##>
