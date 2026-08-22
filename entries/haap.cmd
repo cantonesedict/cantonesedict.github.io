@@ -45,6 +45,21 @@ $$
 $$
 W
   ====
+  - [[Page~74 柙(9)]]
+    ==
+    - A cage for wild beasts or prisoners;
+    - to encage;
+    - a scabbard;
+    - a press.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~74 狎(9)]]
     ==
     - Accustomed, familiar with;
