@@ -21,3 +21,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~716 蛺(9) _H(a/)p(9)_ (haap6); here normalised to _K(a/)p(8)_ (gaap3)]]
+    ==
+    - A butterfly;
+    - _~~h(a/)p(9)~~ ``k(a/)p(8)`` t(i/)p(9)_
+        [[gaap3 dip6]]
+        a small butterfly, such as the cabbage or sulphur butterfly.
+    ==
+  ====
+$$
+##>
