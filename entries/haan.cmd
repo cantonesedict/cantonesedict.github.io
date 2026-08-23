@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [haan1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,8 +41,32 @@ MP
   ==
 $$
 
-<##
+
+##{#1 .williams} (1)H(a/)n [[haan1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $慳1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 慳1 | _(1)H(a/)n_ [[haan1]]
+
 $$
+R
+  ⼼ + 11
+U
+  U+6173
+A
+  ==
+  - 悭 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.67 慳) 香閒切吝嗇也
+  ==
 W
   ====
   - [[Page~72 (1)慳]]
@@ -49,24 +74,40 @@ W
     - Saving, niggardly, stingy;
     - to be sparing of;
     - _(1)h(a/)n k(i/)m(6)_
-        [[haan1 gim6]]
+        [[haan1 gim6 慳儉]]
         parsimonious, close;
-    - _(1)h(a/)n lun(6)_ [[haan1 leon6]]
-        (or _nun(6)_ [[neon6]])
+    - _(1)h(a/)n lun(6)_ [[haan1 leon6 慳吝]]
+        ~~(or _nun(6)_ [[neon6]])~~
         stingy;
     - _(1)h(a/)n lik(9)_
-        [[haan1 lik6]]
+        [[haan1 lik6 慳力]]
         saving of strength;
     - _(2)h(o\) (1)h(a/)n_
-        [[hou2 haan1]],
+        [[hou2 haan1 好慳]],
         closefisted;
     - _(1)h(a/)n (1)f(a/)n_
-        [[haan1 faan1]],
+        [[haan1 faan1 慳返]],
         saved the expense, spared the trouble``.``
     ==
   ====
+E
+  ====
+  - 【慳】 (haan1)
+    ++
+    1. To be frugal, to economise.
+       ==
+       - 慳水 (haan1 seoi2): "Save water."
+       - 慳錢 (haan1 cin4-2): "Save money."
+       - 慳皮 (haan1 pei4-2): "Be frugal."
+       - 慳電膽 (haan1 din6 daam2): "Energy-saving [light]-bulb" (i.e. a compact fluorescent lamp).
+       ==
+    ++
+  ====
+  --
+  In Cantonese, 慳 is often used positively (to mean "frugal" rather than "stingy"),
+  e.g. in the compliment 知慳識儉.
+  --
 $$
-##>
 
 <##
 $$
