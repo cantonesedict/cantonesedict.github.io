@@ -90,6 +90,12 @@ W
         saved the expense, spared the trouble``.``
     ==
   ====
+C
+  ==
+  - In Cantonese, 慳 is usually used positively
+    to mean "frugal" rather than "stingy"
+    (e.g. in the compliment 知慳識儉).
+  ==
 E
   ====
   - 【慳】 (haan1)
@@ -103,10 +109,6 @@ E
        ==
     ++
   ====
-  --
-  In Cantonese, 慳 is often used positively (to mean "frugal" rather than "stingy"),
-  e.g. in the compliment 知慳識儉.
-  --
 $$
 
 <##
