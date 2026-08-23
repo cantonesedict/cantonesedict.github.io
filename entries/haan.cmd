@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [haan1](#1)
+- [haan4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -110,6 +111,17 @@ E
     ++
   ====
 $$
+
+
+##{#4 .williams} (4)H(a/)n [[haan4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $閒4
+==
+</nav>
+<## /tone-4-characters ##>
 
 <##
 $$
@@ -221,52 +233,105 @@ W
 $$
 ##>
 
-<##
+### 閒4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⾨ + 4
+U
+  U+9592
+A
+  ==
+  - 閑
+  - 間
+  - 闲 (Mainland simplified)
+  ==
+V
+  ==
+  - haan4-2 (rising second in vernacular 閒閒地)
+  ==
+F
+  ==
+  - (F2.68 閒) 暇也安逸也
+  ==
 W
   ====
   - [[Page~72 (4)閒]]
     ==
-    - Repose, leisure;
+    - Repose [[Kangxi: 安也]], leisure [[Kangxi: {𨻶=⿰阝⿳少日小}也, ::[...]空閒[...]::]];
     - indolent;
     - unoccupied, empty;
     - _tak(7) (4)h(a/)n_
-        [[dak1 haan4]],
+        [[dak1 haan4 得閒]],
         at leisure;
     - _(4)m(o\) (4)h(a/)n_
-        [[mou4 haan4]],
+        [[mou4 haan4 無閒]],
         busy;
     - _(4)h(a/)n (4)yau_
-        [[haan4 jau4]],
+        [[haan4 jau4 閒遊]],
         sauntering about;
     - _(4)h(a/)n (2)shau_
-        [[haan4 sau2]],
+        [[haan4 sau2 閒手]],
         an idler;
     - _(4)h(a/)n w(a/)(6)_
-        [[haan4 waa6-2]]
+        [[haan4 waa6-2 閒話]]
         small talk;
     - _(4)h(a/)n sz'(6)_
-        [[haan4 si6]]
+        [[haan4 si6 閒事]]
         private, trifling affairs;
     - _(4)yau (2)shau h(o\)(3) (4)h(a/)n_
-        [[jau4 sau2 hou3 haan4]],
+        [[jau4 sau2 hou3 haan4 遊手好閒]],
         a vagrant loves leisure;
     - _(4)h(a/)n uk(7)_
-        [[haan4 uk1]]
+        [[haan4 uk1 閒屋]]
         an untenanted house;
     - _(4)h(a/)n t(i/)(6)_
-        [[haan4 dei6]]
+        [[haan4 dei6 閒地)]]
         a void place, room;
     - _(1)ch(')au (4)h(a/)n_
-        [[cau1 haan4]],
+        [[cau1 haan4 抽閒]],
         to take time for;
     - _(4)fong (4)h(a/)n_
-        [[fong4 haan4]],
+        [[fong4 haan4 防閒]],
         to look out for idlers.
     ==
   ====
+P
+  ++
+  1. Irrelevant.
+      ==
+      - 閒人免進 (haan4 jan4 min5 zeon3): "Irrelevant persons [shall] avoid proceeding" (i.e. no unauthorised entry).
+      ==
+  1. Ordinary.
+      ==
+      - 閒日 (haan4 jat6-2): "Ordinary day" (i.e. weekday).
+      ==
+  ++
+L
+  ====
+  * 【閒-voiced】 (hean)
+    ==
+    - (_noun-like_) idle-time
+    - (_adjective-like_) idle, idling
+    - (_verb-like_) (_met._) [to] calm
+    ==
+  ====
+E
+  ====
+  - 【閒閒地】 (haan4 haan4-2 dei6-2)
+    ++
+    1. Used to indicate the lower end of expenditure, time required, etc. (Literally, "[even] ordinarily".)
+       ==
+       - 閒閒地都要廿蚊 (haan4 haan4-2 dei6-2 dou1 jiu3 jaa6 man1): "Even at [the] lower end, [you'd] need [to pay] twenty bucks."
+       ==
+    ++
+  ====
+S
+  ==
+  - ($閒gaan1) (TODO)
+  - ($閒gaan3) (TODO)
+  ==
 $$
-##>
 
 <##
 $$

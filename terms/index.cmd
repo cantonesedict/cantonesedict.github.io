@@ -772,6 +772,9 @@ window.onload = applyFilter;
     , haan1
     , [慳](/entries/haan#cantonese-慳)
   //
+    , haan4 haan4-2 dei6-2
+    , [閒閒地](/entries/haan#cantonese-閒閒地)
+  //
     , haap3 cou3
     , [呷醋](/entries/cou#cantonese-呷醋)
   //

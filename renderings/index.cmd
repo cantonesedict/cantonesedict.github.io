@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-21
+* %date-modified --> 2026-08-23
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3608,6 +3608,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) salty
+      ==
+  //
+    , `hean`
+    , [閒~(voiced)](/entries/haan#rendering-閒-voiced)
+    ,
+      ==
+      - (_noun-like_) idle-time
+      - (_adjective-like_) idle, idling
+      - (_verb-like_) (_met._) [to] calm
       ==
   //
     , `hej`
