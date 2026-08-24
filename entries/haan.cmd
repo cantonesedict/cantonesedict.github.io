@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haan
-* %date-modified --> 2026-08-23
+* %date-modified --> 2026-08-24
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -118,6 +118,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $閑4
 - $閒4
 ==
 </nav>
@@ -204,34 +205,65 @@ W
 $$
 ##>
 
-<##
+### 閑4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⾨ + 4
+U
+  U+9591
+A
+  ==
+  - 闲 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.68 閑) ::[闌]也止防也又散也[習]也::
+  ==
 W
   ====
   - [[Page~72 (4)閑]]
     ==
-    - A bar or barrier, a fence;
+    - A bar or barrier, a fence [[Kangxi: 闌也 etc., 閑與梐枑皆禁衞之物也]];
     - an inclosure;
-    - a fold or stable for horses;
-    - to close, to obstruct;
-    - to protect;
+    - a fold or stable for horses [[Kangxi: 馬闌也 etc.]];
+    - to close, to obstruct [[Kangxi: 閑閡也, 閑遮也]];
+    - to protect ``or to guard against`` [[Kangxi: 防也禦也法也]];
     - to regulate by law, to forbid;
-    - to move about;
-    - large;
-    - accustomed, practiced;
+    - to move about [[Kangxi: 閑閑動搖也]];
+    - large [[Kangxi: 大也]];
+    - accustomed, practiced [[Kangxi: 習也]]; <## TODO: move under $嫻haan4 ##>
     - _(4)h(a/)n (2)cho_
-        [[haan4 zo2]],
+        [[haan4 zo2 閑阻]],
         to embarrass;
     - _(4)h(a/)n ts(a/)p(9)_
-        [[haan4 zaap6]]
+        [[haan4 zaap6 閑習]]
         broken in, used to.
     ==
     --
-    Often used for the preceding [[閒]].
+    [[...]]
+    --
+    --
+    [[Otherwise, an alternative form of 閒. **See $閒haan4 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 闌 and 習.
+  - Williams' "embarrass": In the (now) archaic sense of "impede", "obstruct".
+  ==
+L
+  ====
+  * 【閑】 (hean)
+    ==
+    - (_noun-like_) guardrail
+    - (_noun-like_) enclosure
+    - (_verb-like_) [to] guard (against)
+    - (_adjective-like_) great
+    - (_adjective-like_) [well]-trained
+    ==
+  ====
 $$
-##>
 
 ### 閒4 | _(4)H(a/)n_ [[haan4]]
 
@@ -242,7 +274,7 @@ U
   U+9592
 A
   ==
-  - 閑
+  - $閑4
   - 間
   - 闲 (Mainland simplified)
   ==
@@ -295,6 +327,13 @@ W
         [[fong4 haan4 防閒]],
         to look out for idlers.
     ==
+  - [[Page~72 (4)閑]]
+    --
+    [[...]]
+    --
+    --
+    Often used for the preceding [[閒]].
+    --
   ====
 P
   ++

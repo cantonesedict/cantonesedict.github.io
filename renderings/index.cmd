@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-23
+* %date-modified --> 2026-08-24
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3608,6 +3608,17 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) salty
+      ==
+  //
+    , `hean`
+    , [閑](/entries/haan#rendering-閑)
+    ,
+      ==
+      - (_noun-like_) guardrail
+      - (_noun-like_) enclosure
+      - (_verb-like_) [to] guard (against)
+      - (_adjective-like_) great
+      - (_adjective-like_) [well]-trained
       ==
   //
     , `hean`
