@@ -118,6 +118,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $憪4
 - $閑4
 - $閒4
 ==
@@ -160,19 +161,31 @@ W
 $$
 ##>
 
-<##
+### 憪4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⼼ + 12
+U
+  U+61AA
+F
+  ==
+  - (F2.68 憪) 淨也
+  ==
 W
   ====
   - [[Page~72 (4)憪]]
     ==
-    - Liberal, pleased;
-    - composed, tranquil, contented;
+    - Liberal, pleased [[Kangxi ::[憪]::^: 愉也]];
+    - composed, tranquil, contented [[Kangxi ::[憪]::^: 心靜也]];
     - aroused, anxious for others.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: 淨 is likely a typo for 靜.
+  ==
 $$
-##>
 
 <##
 $$
