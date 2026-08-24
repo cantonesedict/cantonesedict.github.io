@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search character entries
-* %date-modified --> 2026-04-16
+* %date-modified --> 2026-08-24
 * %copyright-prior-years --> 2024--
 * %meta-description --> search character entries
 
@@ -201,10 +201,14 @@ async function performSearch()
 
   let searchElement = document.getElementById('search');
   let searchString = normaliseString(searchElement.value);
+
   let searchCharacter = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
   let searchJyutping = /^[a-z]+[1-6]$/.test(searchString) ? searchString : '';
-  let searchChineseRuns = [...new Set(searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu))];
-  let searchEnglishWords = [...new Set(searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').match(/\S+/g))];
+
+  let searchStringDequoted = searchString.replace(/".*?"/g, ' ').replace(/"/g, '');
+  let searchQuotedText = [...new Set(searchString.match(/".*?"/g))].map(string => string.replace(/"/g, ''));
+  let searchChineseRuns = [...new Set(searchStringDequoted.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu))];
+  let searchEnglishWords = [...new Set(searchStringDequoted.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').match(/\S+/g))];
 
   let results = [];
 
@@ -229,13 +233,22 @@ async function performSearch()
         let elementIsMatch = str => normalisedString.includes(str);
 
         if (
-          searchChineseRuns.every(elementIsMatch)
+          searchQuotedText.every(elementIsMatch)
+          && searchChineseRuns.every(elementIsMatch)
           && searchEnglishWords.every(elementIsMatch)
         )
         {
-          let matches = [...searchChineseRuns, ...searchEnglishWords];
+          let matches = [...searchQuotedText, ...searchChineseRuns, ...searchEnglishWords];
           if (matches.length)
           {
+            let quotedScores =
+                    searchQuotedText.map(
+                      text =>
+                        new RegExp(`(?<=\\b|\\s)${RegExp.escape(text)}(?=\\b|\\s)`).test(normalisedString)
+                          ? Math.tanh(text.length / 3) ** 3
+                          : Math.tanh(text.length / 5) ** 5
+                    );
+
             let chineseScores =
                     searchChineseRuns.map(
                       run =>
@@ -252,7 +265,7 @@ async function performSearch()
                           : Math.tanh(word.length / 7) ** 5
                     );
 
-            let scores = [...chineseScores, ...englishScores];
+            let scores = [...quotedScores, ...chineseScores, ...englishScores];
             let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
             results.push(new Result(character, jyutping, isCanonical, text, TYPE_TEXT_MATCH, matches, score));
           }
