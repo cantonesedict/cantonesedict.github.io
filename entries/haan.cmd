@@ -119,6 +119,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $嫺4
 - $憪4
 - $閑4
 - $閒4
@@ -142,25 +143,45 @@ W
 $$
 ##>
 
-<##
+### 嫺4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⼥ + 12
+U
+  U+5AFA
+A
+  ==
+  - 嫻
+  - {𡢃=⿰女間}
+  - $閑4 (for "adept" sense)
+  - $閒4 (for "adept" sense)
+  - 娴 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.68 嫺) ::[習]熟也[雅]也::
+  ==
 W
   ====
   - [[Page~72 (4)嫺]]
     ==
-    - Accustomed;
-    - loving leisure;
-    - elegant;
+    - Accustomed [[Kangxi: 習也, 通作閒]];
+    - ~~loving leisure;~~
+    - elegant [[Kangxi: 雅也]];
     - _(4)h(a/)n shuk(9)_
-        [[haan4 suk6]]
+        [[haan4 suk6 嫺熟]]
         accomplished, skilled~~,~~ in;
     - _(4)h(a/)n (5)ng(a/)_
-        [[haan4 ngaa5]],
+        [[haan4 ngaa5 嫺雅]],
         apt, polished.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Fixed missing and complete strokes in 習 and 雅.
+  ==
 $$
-##>
 
 ### 憪4 | _(4)H(a/)n_ [[haan4]]
 
@@ -250,7 +271,7 @@ W
     - to regulate by law, to forbid;
     - to move about [[Kangxi: 閑閑動搖也]];
     - large [[Kangxi: 大也]];
-    - accustomed, practiced [[Kangxi: 習也]]; <## TODO: move under $嫻haan4 ##>
+    - accustomed, practiced [[Kangxi: 習也]];
     - _(4)h(a/)n (2)cho_
         [[haan4 zo2 閑阻]],
         to embarrass;
@@ -260,6 +281,9 @@ W
     ==
     --
     [[...]]
+    --
+    --
+    [[Alternative form of 嫺 (for the "adept" sense). See $嫺haan4.]]
     --
     --
     [[Otherwise, an alternative form of 閒. **See $閒haan4 for the canonical entry.**]]
@@ -345,6 +369,9 @@ W
         [[fong4 haan4 防閒]],
         to look out for idlers.
     ==
+    --
+    [[Otherwise, an alternative form of 嫺 (for the "adept" sense). **See $嫺haan4 for the canonical entry.**]]
+    --
   - [[Page~72 (4)閑]]
     --
     [[...]]
