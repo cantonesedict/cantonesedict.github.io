@@ -120,6 +120,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $嫺4
+- ($嫻4)
 - $憪4
 - $閑4
 - $閒4
@@ -152,7 +153,7 @@ U
   U+5AFA
 A
   ==
-  - 嫻
+  - $嫻4
   - {𡢃=⿰女間}
   - $閑4 (for "adept" sense)
   - $閒4 (for "adept" sense)
@@ -181,6 +182,23 @@ C
   ==
   - Fan Wan entry: Fixed missing and complete strokes in 習 and 雅.
   ==
+$$
+
+###+ 嫻4 | _(4)H(a/)n_ [[haan4]]
+
+$$.
+R
+  ⼥ + 12
+U
+  U+5AFB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 嫺. **See $嫺haan4 for the canonical entry.**
+  ++
 $$
 
 ### 憪4 | _(4)H(a/)n_ [[haan4]]
