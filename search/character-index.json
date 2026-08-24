@@ -9230,7 +9230,11 @@
 "憪":{
 "haan4":{
 "isCanonical":true,
-"text":"U+61AA (F2.68 憪) 淨也 (Page 72 憪) Liberal, pleased (Kangxi 憪: 愉也); composed, tranquil, contented (Kangxi 憪: 心靜也); aroused, anxious for others. Fan Wan entry: 淨 is likely a typo for 靜."
+"text":"U+61AA (F2.68 憪) 淨也 (Page 72 憪) (...), pleased (Kangxi 憪: 愉也); composed, tranquil, contented (Kangxi 憪: 心靜也); Fan Wan entry: 淨 is likely a typo for 靜."
+},
+"haan5":{
+"isCanonical":true,
+"text":"U+61AA haan6 (recast to departing) (Page 72 憪 _Han_ (haan4); here corrected to _Han_ (haan5)) Liberal (Kangxi 憪: 寬大貌), (...); aroused, anxious (Kangxi 憪: 不安貌) ~~for others~~. Very angry (Kangxi 憪: 勁忿貌)."
 }
 },
 "閑":{

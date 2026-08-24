@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [haan1](#1)
 - [haan4](#4)
+- [haan5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -176,14 +177,18 @@ W
   ====
   - [[Page~72 (4)憪]]
     ==
-    - Liberal, pleased [[Kangxi ::[憪]::^: 愉也]];
+    - [[...]], pleased [[Kangxi ::[憪]::^: 愉也]];
     - composed, tranquil, contented [[Kangxi ::[憪]::^: 心靜也]];
-    - aroused, anxious for others.
+    - [[...]].
     ==
   ====
 C
   ==
   - Fan Wan entry: 淨 is likely a typo for 靜.
+  ==
+S
+  ==
+  - $憪haan5
   ==
 $$
 
@@ -399,6 +404,49 @@ W
   ====
 $$
 ##>
+
+
+##{#5 .williams} ``(5)H(a/)n`` [[haan5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $憪5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 憪5 | _(5)H(a/)n_ [[haan5]]
+
+$$
+R
+  ⼼ + 12
+U
+  U+61AA
+V
+  ==
+  - haan6 (recast to departing)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~72 (4)憪 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
+    ==
+    - Liberal [[Kangxi ::[憪]::^: 寬大貌]], [[...]];
+    - [[...]];
+    - aroused, anxious [[Kangxi ::[憪]::^: 不安貌]] ~~for others~~.
+    ==
+  ====
+P
+  ++
+  1. Very angry (Kangxi ::[憪]::^: 勁忿貌).
+  ++
+S
+  ==
+  - $憪haan4
+  ==
+$$
 
 <##
 $$

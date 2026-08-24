@@ -195,7 +195,7 @@ For all radicals, see [Index of characters by radical](./).
       - (${𢠵=⿰忄敞}cong2)
       - $憧cung1, $憧zong6
       - $憤fan5
-      - $憪haan4
+      - $憪haan4, $憪haan5
       - $憎zang1
       ==
       </nav>
