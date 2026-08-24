@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-08-24
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1076,7 +1076,7 @@ W
   ====
 C
   ==
-  - Fan Wan: Fixed missing strokes in 黼.
+  - Fan Wan entry: Fixed missing strokes in 黼.
   - The symbol (文, 彰) referred to by Kangxi is like two 弓 back-to-back,
     or 亞 with the horizontal strokes disconnected.
   ==
