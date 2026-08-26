@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [haan1](#1)
 - [haan4](#4)
 - [haan5](#5)
+- [haan6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -673,53 +674,70 @@ L
   ====
 $$
 
-<##
+
+##{#6 .williams} H(a/)n(6) [[haan6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $限6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 限6 | _H(a/)n(6)_ [[haan6]]
+
 $$
+R
+  ⾩ + 6
+U
+  U+9650
+A
+  ==
+  - 䦘 (for "doorsill" sense)
+  - {𨵬=⿵門限} (for "doorsill" sense)
+  ==
+F
+  ==
+  - (F2.71 限) 門限界限又度也阻也
+  ==
 W
   ====
   - [[Page~72 限(6)]]
     ==
     - To limit, to fix or set a time, to assign, to adjust;
     - to impede, to moderate;
-    - a limit, impediment, boundary, restriction;
+    - a limit [[Kangxi: 度也]], impediment [[Kangxi: 阻也]], boundary [[Kangxi: 界也]], restriction;
     - a few, a short time;
-    - a threshold;
+    - a threshold [[Kangxi: 一曰門榍也, 閾也, 與䦘通門閾也]];
     - _(4)m(o\) h(a/)n(6)_
-        [[mou4 haan6]]
+        [[mou4 haan6 無限]]
         illimitable;
     - _(4)ho h(a/)n(6)_
-        [[ho4 haan6]]
+        [[ho4 haan6 何限]]
         what limit, endless, numberless;
     - _(5)yau h(a/)n(6)_
-        [[jau5 haan6]]
+        [[jau5 haan6 有限]]
         a few, limited;
     - _h(a/)n(6) (2)k(i/) ~~yat(7)~~ ``yat(9)``_
-        [[haan6 gei2 jat6]]
+        [[haan6 gei2 jat6 限幾日]]
         how many days do you set?
     - _~~kwo(6)~~ ``kwo(3)`` h(a/)n(6)_
-        [[gwo3 haan6]]
+        [[gwo3 haan6 過限]]
         overpast the time;
     - _(1)f(u/)n h(a/)n(6)_
-        [[fun1 haan6]]
+        [[fun1 haan6 寬限]]
         to extend the time;
     - _h(a/)n(6) ~~teng(6)~~ ``ting(6)``_
-        [[haan6 ding6]]
+        [[haan6 ding6 限定]]
         exactly so many;
     - _h(a/)n(6) t(o\)(6)_
-        [[haan6 dou6]]
-        a fixed measure.
+        [[haan6 dou6 限度]]
+        a ~~fixed~~ ``limited`` measure.
     ==
-  ====
-$$
-##>
-
-<##
-$$
-W
-  ====
-  - [[Page~72 閬(6)]]
+  - [[Page~72 ::~~閬~~``{𨵬=⿵門限}``(6)::]]
     ==
-    - The threshold of a door.
+    - The threshold of a door [[Kangxi {𨵬=⿵門限}: 門{𨵬=⿵門限}也本作限俗加門作{𨵬=⿵門限}]].
     ==
   - [[Page~716 閬(6)]]
     ==
@@ -727,5 +745,11 @@ W
     - the first [[閬]] is read _(4)long_ [[long4]].
     ==
   ====
+L
+  ====
+  * 【限】 (heanX)
+    ==
+    - (_noun-like_) barrier, limit
+    ==
+  ====
 $$
-##>

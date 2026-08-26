@@ -3644,6 +3644,13 @@ window.onload = applyFilter;
       - (_verb-like_) (_met._) [to] calm
       ==
   //
+    , `heanX`
+    , [限](/entries/haan#rendering-限)
+    ,
+      ==
+      - (_noun-like_) barrier, limit
+      ==
+  //
     , `hej`
     , [兮](/entries/hai#rendering-兮)
     ,
