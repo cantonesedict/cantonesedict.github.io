@@ -123,6 +123,7 @@ $$
 - ($嫻4)
 - $憪4
 - $癇4
+- $瞯4
 - $閑4
 - $閒4
 - $鷳4
@@ -228,6 +229,7 @@ U
 A
   ==
   - 癎
+  - $瞯4
   - {𤺛=⿸疒閑}
   - 痫 (Mainland simplified)
   ==
@@ -254,19 +256,47 @@ W
   ====
 $$
 
-<##
+### 瞯4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⽬ + 12
+U
+  U+77AF
+A
+  ==
+  - 瞷
+  ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~72 (4)瞯]]
     ==
+    <## TODO: normalise to $瞯gaan3
     - To observe narrowly, to watch furtively;
-    - spots in the eyes;
-    - the whites of the eyes showing in convulsions.
+    ##>
+    - [[...]];
+    - ~~spots in the eyes;~~
+    - the whites of the eyes showing [[Kangxi: 人目多白也]] ~~in convulsions~~ ``from looking up`` [[Kangxi: 戴目也]] ``or askew`` [[Kangxi: 眄也]].
     ==
+    --
+    [[Otherwise, a reading variation. **See $瞯gaan3 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 癇. **See $癇haan4 for the canonical entry.**]]
+    --
   ====
+C
+  ==
+  - Williams' "in convulsions": This is a misreading of Kangxi 瞯小兒癇病也,
+    which is an implicit statement that 瞯 is an alternative form of $癇4.
+  ==
+S
+  ==
+  - $瞯gaan3 (TODO) <## also 瞷覵覸, also level per 正韻, "spy" 段注引伸爲闚伺之義 ##>
+  ==
 $$
-##>
 
 ### 閑4 | _(4)H(a/)n_ [[haan4]]
 
@@ -532,9 +562,6 @@ W
     ==
     --
     [[Otherwise, an alternative form of 撊. **See $撊haan5 for the canonical entry.**]]
-    --
-    --
-    [[Otherwise, an alternative form of 瞯. **See $瞯haan5 for the canonical entry.**]] [[TODO]]
     --
   ====
 L

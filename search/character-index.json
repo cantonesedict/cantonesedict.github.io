@@ -9252,7 +9252,13 @@
 "癇":{
 "haan4":{
 "isCanonical":true,
-"text":"U+7647 癎 𤺛 痫 (Mainland simplified) gaan2 (uncommon) (F2.68 癎) 顚病 (F2.68 𤺛) 同上 (Page 72 癇) Convulsions in children (Kangxi: 病也, 小兒瘨病 etc.); spasms from fright; epilepsy; vulgarly called _fat yeung tiu_ (faat3 joeng4 diu3 發羊吊)."
+"text":"U+7647 癎 瞯 𤺛 痫 (Mainland simplified) gaan2 (uncommon) (F2.68 癎) 顚病 (F2.68 𤺛) 同上 (Page 72 癇) Convulsions in children (Kangxi: 病也, 小兒瘨病 etc.); spasms from fright; epilepsy; vulgarly called _fat yeung tiu_ (faat3 joeng4 diu3 發羊吊)."
+}
+},
+"瞯":{
+"haan4":{
+"isCanonical":true,
+"text":"U+77AF 瞷 (Page 72 瞯) ~~spots in the eyes;~~ the whites of the eyes showing (Kangxi: 人目多白也) ~~in convulsions~~ from looking up (Kangxi: 戴目也) or askew (Kangxi: 眄也). Williams' \"in convulsions\": This is a misreading of Kangxi 瞯小兒癇病也, which is an implicit statement that 瞯 is an alternative form of 癇."
 }
 },
 "閑":{

@@ -766,6 +766,7 @@ For all radicals, see [Index of characters by radical](./).
       - ${𥋇=⿰目掌}caang4
       - $瞪cing4
       - $瞧ciu4
+      - $瞯haan4
       ==
       </nav>
   //
