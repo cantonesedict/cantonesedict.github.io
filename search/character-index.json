@@ -9246,7 +9246,7 @@
 },
 "haan5":{
 "isCanonical":true,
-"text":"U+61AA haan6 (recast to departing) (Page 72 憪 _Han_ (haan4); here corrected to _Han_ (haan5)) Liberal (Kangxi 憪: 寬大貌), (...); aroused, anxious (Kangxi 憪: 不安貌) ~~for others~~. Very angry (Kangxi 憪: 勁忿貌)."
+"text":"U+61AA haan6 (recast to departing) (Page 72 憪 _Han_ (haan4); here corrected to _Han_ (haan5)) Liberal (Kangxi 憪: 寬大貌), (...); aroused, anxious (Kangxi 憪: 不安貌) ~~for others~~. Furious (Kangxi 憪: 勁忿貌)."
 }
 },
 "癇":{
@@ -9282,7 +9282,13 @@
 "僩":{
 "haan5":{
 "isCanonical":true,
-"text":"U+50E9 (F2.69 僩 _Han_ (haan2)) 香板切武毅貌 (Page 72 僩 _Han_ (haan4); here corrected to _Han_ (haan5)) Courageous; ~~depending on one's-self;~~ martial; formidable, brave; liberal, magnanimous (Kangxi: 寬大也)."
+"text":"U+50E9 (F2.69 僩 _Han_ (haan2)) 香板切武毅貌 (Page 72 僩 _Han_ (haan4); here corrected to _Han_ (haan5)) ~~depending on one's-self;~~ liberal, magnanimous (Kangxi: 寬大也). 【僩】 (haenX) (_adjective-like_) magnanimous"
+}
+},
+"撊":{
+"haan5":{
+"isCanonical":true,
+"text":"U+648A 僩 憪 (for \"furious\" sense) 𢵧 gaan2 (per 《集韻》賈限切 for \"fierce\" and \"formidable\" senses) haan6 (recast to departing) (Page 72 僩 _Han_ (haan4); here corrected to _Han_ (haan5) and normalised to 撊) Courageous; martial (Kangxi 僩: 武貌); formidable, brave; Furious (Kangxi 撊: 勁忿貌). Fierce (Kangxi 僩: 晉魏閒謂猛爲僩). 【撊】 (haenX, keanX) (_adjective-like_) furious, fierce, (_met._) formidable"
 }
 },
 "閪":{

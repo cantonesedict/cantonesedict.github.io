@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-24
+* %date-modified --> 2026-08-26
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3498,6 +3498,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] carry in [the] mouth, [to] carry
       ==
   //
+    , `haenX`
+    , [僩](/entries/haan#rendering-僩)
+    ,
+      ==
+      - (_adjective-like_) magnanimous
+      ==
+  //
+    , `haenX`
+    , [撊](/entries/haan#rendering-撊)
+    ,
+      ==
+      - (_adjective-like_) furious, fierce, (_met._) formidable
+      ==
+  //
     , `hea`
     , [鞋](/entries/haai#rendering-鞋)
     ,
@@ -3750,6 +3764,13 @@ window.onload = applyFilter;
       - (_speech-assist_)
       - (_preposition-like_) in, upon, unto
       - (_preposition-like_) than
+      ==
+  //
+    , `keanX`
+    , [撊](/entries/haan#rendering-撊)
+    ,
+      ==
+      - (_adjective-like_) furious, fierce, (_met._) formidable
       ==
   //
     , `keat`

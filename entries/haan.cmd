@@ -505,6 +505,7 @@ $$
 =={.modern}
 - $僩5
 - $憪5
+- $撊5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -524,15 +525,24 @@ W
   ====
   - [[Page~72 (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
     ==
-    - Courageous;
+    - [[...]];
     - ~~depending on one's-self;~~
-    - martial;
-    - formidable, brave;
+    - [[...]];
     - liberal``, magnanimous`` [[Kangxi: 寬大也]].
     ==
     --
+    [[Otherwise, an alternative form of 撊. **See $撊haan5 for the canonical entry.**]]
+    --
+    --
     [[Otherwise, an alternative form of 瞯. **See $瞯haan5 for the canonical entry.**]] [[TODO]]
     --
+  ====
+L
+  ====
+  * 【僩】 (haenX)
+    ==
+    - (_adjective-like_) magnanimous
+    ==
   ====
 $$
 
@@ -560,12 +570,57 @@ W
   ====
 P
   ++
-  1. Very angry (Kangxi ::[憪]::^: 勁忿貌).
+  1. Furious (Kangxi ::[憪]::^: 勁忿貌). (Alternative form of 撊 (for the "furious" sense). See $撊haan5.)
   ++
 S
   ==
   - $憪haan4
   ==
+$$
+
+###+ 撊5 | _(5)H(a/)n_ [[haan5]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+648A
+A
+  ==
+  - $僩5
+  - $憪5 (for "furious" sense)
+  - {𢵧=⿰扌間}
+  ==
+V
+  ==
+  - gaan2 (per 《集韻》賈限切 for "fierce" and "formidable" senses)
+  - haan6 (recast to departing)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~72 (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5) and normalised to 撊]]
+    ==
+    - Courageous;
+    - [[...]];
+    - martial [[Kangxi 僩: 武貌]];
+    - formidable, brave;
+    - [[...]].
+    ==
+  ====
+P
+  ++
+  1. Furious (Kangxi 撊: 勁忿貌).
+  1. Fierce (Kangxi 僩: 晉魏閒謂猛爲僩).
+  ++
+L
+  ====
+  * 【撊】 (haenX, keanX)
+    ==
+    - (_adjective-like_) furious, fierce, (_met._) formidable
+    ==
+  ====
 $$
 
 <##
