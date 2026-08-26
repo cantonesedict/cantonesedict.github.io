@@ -126,6 +126,7 @@ $$
 - $閑4
 - $閒4
 - $鷳4
+- ($鷴4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -465,7 +466,7 @@ U
   U+9DF3
 A
   ==
-  - 鷴
+  - $鷴4
   - 鷼
   - 鹇 (Mainland simplified)
   ==
@@ -487,6 +488,29 @@ C
   ==
   - Fan Wan entry: Corrected two slashes to 灬 in the component 鳥 of the headword.
   ==
+$$
+
+###+ 鷴4 | _(4)H(a/)n_ [[haan4]]
+
+$$.
+R
+  ⿃ + 12
+U
+  U+9DF4
+F
+  ==
+  - (F2.68 ::[鷴]::) ::白[鷴]鳥名::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Corrected two slashes to 灬 in the component 鳥 of the headword.
+  ==
+P
+  ++
+  1. Alternative form of 鷳. **See $鷳haan4 for the canonical entry.**
+  ++
 $$
 
 

@@ -9273,6 +9273,12 @@
 "text":"U+9DF3 鷴 鷼 鹇 (Mainland simplified) (F2.68 鷴) 白鷴鳥名 (Page 72 鷳) A kind of pheasant; _pak han_ (baak6 haan4 白鷳), the silver pheasant (Kangxi: 白鷴鳥名). Fan Wan entry: Corrected two slashes to 灬 in the component 鳥 of the headword."
 }
 },
+"鷴":{
+"haan4":{
+"isCanonical":false,
+"text":"U+9DF4 (F2.68 鷴) 白鷴鳥名 Fan Wan entry: Corrected two slashes to 灬 in the component 鳥 of the headword."
+}
+},
 "閪":{
 "hai1":{
 "isCanonical":true,
