@@ -124,6 +124,7 @@ $$
 - $憪4
 - $癇4
 - $瞯4
+- ($瞷4)
 - $閑4
 - $閒4
 - $鷳4
@@ -265,7 +266,7 @@ U
   U+77AF
 A
   ==
-  - 瞷
+  - $瞷4
   ==
 F
   [[Not present]]
@@ -295,6 +296,28 @@ C
 S
   ==
   - $瞯gaan3 (TODO) <## also 瞷覵覸, also level per 正韻, "spy" 段注引伸爲闚伺之義 ##>
+  ==
+$$
+
+###+ 瞷4 | _(4)H(a/)n_ [[haan4]]
+
+$$.
+R
+  ⽬ + 12
+U
+  U+77B7
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 瞯. **See $瞯haan4 for the canonical entry.**
+  1. Alternative form of 瞯, and reading variation. **See $瞯gaan3 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - ($瞷gaan3) (TODO)
   ==
 $$
 
