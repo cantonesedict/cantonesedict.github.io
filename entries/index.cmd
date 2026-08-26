@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2026-08-21
+* %date-modified --> 2026-08-26
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -328,7 +328,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $haai
 - $haak
 - $haam
-- $haan (work in progress)
+- $haan
 - $haang (work in progress)
 - $haap (work in progress)
 - $haau (work in progress)
