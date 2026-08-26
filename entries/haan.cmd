@@ -125,6 +125,7 @@ $$
 - $癇4
 - $閑4
 - $閒4
+- $鷳4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -455,20 +456,38 @@ S
   ==
 $$
 
-<##
+### 鷳4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⿃ + 12
+U
+  U+9DF3
+A
+  ==
+  - 鷴
+  - 鷼
+  - 鹇 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.68 ::[鷴]::) ::白[鷴]鳥名::
+  ==
 W
   ====
   - [[Page~72 (4)鷳]]
     ==
     - A kind of pheasant;
     - _p(a/)k(9) (4)h(a/)n_
-        [[baak6 haan4]],
-        the silver pheasant.
+        [[baak6 haan4 白鷳]],
+        the silver pheasant [[Kangxi: 白鷴鳥名]].
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected two slashes to 灬 in the component 鳥 of the headword.
+  ==
 $$
-##>
 
 
 ##{#5 .williams} ``(5)H(a/)n`` [[haan5 陽上]]
