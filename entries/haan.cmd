@@ -295,7 +295,7 @@ A
   ==
 F
   ==
-  - (F2.68 閑) ::[闌]也止防也又散也[習]也::
+  - (F2.68 閑) ::[闌]也止防也又[散]也[習]也::
   ==
 W
   ====
@@ -329,7 +329,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Fixed missing strokes in 闌 and 習.
+  - Fan Wan entry: Fixed missing strokes in 闌 and 習, and normalised 㪚 to 散.
   - Williams' "embarrass": In the (now) archaic sense of "impede", "obstruct".
   ==
 L
