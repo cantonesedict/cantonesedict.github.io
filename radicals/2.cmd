@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 2-stroke radicals
-* %date-modified --> 2026-08-16
+* %date-modified --> 2026-08-26
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 2-stroke radicals
 
@@ -245,6 +245,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $僭cim3, $僭zam3
       - $僨fan5
+      - $僩haan5
       - $像zoeng6
       ==
       </nav>

@@ -131,22 +131,6 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-<##
-$$
-W
-  ====
-  - [[Page~72 (4)僩]]
-    ==
-    - Courageous;
-    - depending on one's-self;
-    - martial;
-    - formidable, brave;
-    - liberal.
-    ==
-  ====
-$$
-##>
-
 ### 嫺4 | _(4)H(a/)n_ [[haan4]]
 
 $$
@@ -519,10 +503,38 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $僩5
 - $憪5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+###+ 僩5 | _(5)H(a/)n_ [[haan5]]
+
+$$
+R
+  ⼈ + 12
+U
+  U+50E9
+F
+  ==
+  - (F2.69 僩 _(2)H(a/)n_ (haan2)) 香板切武毅貌
+  ==
+W
+  ====
+  - [[Page~72 (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
+    ==
+    - Courageous;
+    - ~~depending on one's-self;~~
+    - martial;
+    - formidable, brave;
+    - liberal``, magnanimous`` [[Kangxi: 寬大也]].
+    ==
+    --
+    [[Otherwise, an alternative form of 瞯. **See $瞯haan5 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+$$
 
 ###+ 憪5 | _(5)H(a/)n_ [[haan5]]
 
