@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haan
-* %date-modified --> 2026-08-24
+* %date-modified --> 2026-08-26
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -122,6 +122,7 @@ $$
 - $嫺4
 - ($嫻4)
 - $憪4
+- $癇4
 - $閑4
 - $閒4
 ==
@@ -231,22 +232,41 @@ S
   ==
 $$
 
-<##
+### 癇4 | _(4)H(a/)n_ [[haan4]]
+
 $$
+R
+  ⽧ + 12
+U
+  U+7647
+A
+  ==
+  - 癎
+  - {𤺛=⿸疒閑}
+  - 痫 (Mainland simplified)
+  ==
+V
+  ==
+  - gaan2 (uncommon)
+  ==
+F
+  ==
+  - (F2.68 癎) 顚病
+  - (F2.68 {𤺛=⿸疒閑}) 同上
+  ==
 W
   ====
   - [[Page~72 (4)癇]]
     ==
-    - Convulsions in children;
+    - Convulsions in children [[Kangxi: 病也, 小兒瘨病 etc.]];
     - spasms from fright;
     - epilepsy;
     - vulgarly called
         _f(a/)t(8) (4)y(e/)ung ti(u/)(3)_
-        [[faat3 joeng4 diu3]]``.``
+        [[faat3 joeng4 diu3 發羊吊]]``.``
     ==
   ====
 $$
-##>
 
 <##
 $$
