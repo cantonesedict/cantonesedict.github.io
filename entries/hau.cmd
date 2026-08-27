@@ -198,6 +198,36 @@ $$
 $$
 W
   ====
+  - [[Page~76 后(6)]]
+    ==
+    - A queen or empress;
+    - a prince or ruler, a tributary sovereign;
+    - behind;
+    - _(4)wong hau(6)_ [[wong4 hau6]]
+        or
+      _kwok(8) hau(6)_ [[gwok3 hau6]]
+        the empress;
+    - _t(')(a/)i(3) hau(6)_
+        [[taai3 hau6]]
+        empress dowager;
+    - _(5)m(o\) hau(6)_
+        [[mou5 hau6]]
+        our mother (the queen);
+    - _hau(6) (2)t(')(o\)_
+        [[hau6 tou2]],
+        god of the land,---it is worshiped behind graves;
+    - _(1)t(')(i/)n hau(6)_
+        [[tin1 hau6]]
+        the Chinese Amphitrite.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 後(6)]]
     ==
     - After in time, late;
