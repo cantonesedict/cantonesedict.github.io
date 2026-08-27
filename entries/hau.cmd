@@ -193,3 +193,42 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 後(6)]]
+    ==
+    - After in time, late;
+    - behind;
+    - then, next;
+    - posterity, descendants;
+    - _hau(6) (4)loi_
+        [[hau6 loi4]],
+        afterwards, then;
+    - _hau(6) (4)t(')au_
+        [[hau6 tau4]],
+        behind;
+    - _hau(6) ~~(1)shang~~ ``(1)sh(a/)ng``_
+        [[hau6 saang1]],
+        young man;
+    - _hau(6) shai(3)_
+        [[hau6 sai3]]
+        future existence;
+    - _hau(6) hok(9)_
+        [[hau6 hok6]]
+        your pupil (used when speaking of one's self);
+    - _hau(6) (u/)i(6)_
+        [[hau6 wui6]],
+        another time;
+    - _hau(6) tsun(3)_
+        [[hau6 zeon3]]
+        the next entrance in a hong;
+    - _p(u/)i(3) hau(6)_
+        [[bui3 hau6]]
+        behind one.
+    ==
+  ====
+$$
+##>
