@@ -43,3 +43,37 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 (4)喉]]
+    ==
+    - The throat;
+    - the trachea;
+    - _(4)hau (4)lung_
+        [[hau4 lung4]],
+        vulgarly means either the windpipe or gullet;
+    - _(5)(u:)n (4)hau_
+        [[jyun5 hau4]],
+        the œsophagus;
+    - _ng(a/)ng(6) (4)hau_
+        [[ngaang6 hau4]],
+        the windpipe;
+    - _(4)hau (2)l(a/)m_
+        [[hau4 laam5-2]],
+        Adam^'s apple;
+    - _(4)hau kap(7)_
+        [[hau4 gap1]]
+        hasty, in a hurry;
+    - _(1)fung (4)hau_
+        [[fung1 hau4]],
+        the throat stopped up;
+    - _(1)shang (4)ngo (4)hau_
+        [[sang1 ngo4 hau4]],
+        quinsey.
+    ==
+  ====
+$$
+##>
