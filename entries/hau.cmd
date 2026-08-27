@@ -77,3 +77,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 (4)猴]]
+    ==
+    - A monkey;
+    - vulgarly called _(5)m(a/) (4)lau_ [[maa5 lau4-1]];
+    - _(4)hau (2)tsz' h(i/)(3)_
+        [[hau4 zi2 hei3]]
+        sports with monkeys.
+    ==
+  ====
+$$
+##>
