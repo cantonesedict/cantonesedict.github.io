@@ -21,3 +21,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~75 (1)吼 _(1)Hau_ (hau1); here normalised to _(1)H(a/)u_ (haau1)]]
+    ==
+    - The cries of animals, especially of cattle and feline animals;
+    - _(4)ho (1)tung (1)sz' ~~(1)hau~~ ``(1)h(a/)u``_
+        [[ho4 dung1 si1 haau1]],
+        a scolding wife.
+    ==
+  ====
+$$
+##>
