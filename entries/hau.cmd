@@ -106,3 +106,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 (4)餱]]
+    ==
+    - Dry provisions, food dressed for a journey or an expedition;
+    - _(4)hau (4)l(e/)ung_
+        [[hau4 loeng4]],
+        dry provisions.
+    ==
+  ====
+$$
+##>
