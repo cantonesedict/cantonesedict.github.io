@@ -183,6 +183,19 @@ $$
 $$
 W
   ====
+  - [[Page~716 ::(4)~~{𬫺=⿰釒候}~~``鍭``::]]
+    ==
+    - An iron arrow, the barb of a dart,
+      which has feathers on the shaft.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 (4)餱]]
     ==
     - Dry provisions, food dressed for a journey or an expedition;
