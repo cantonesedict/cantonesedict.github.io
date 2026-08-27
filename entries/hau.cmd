@@ -93,3 +93,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 (4)篌]]
+    ==
+    - A musical instrument, called _(1)hong (4)hau_ [[hong1 hau4]];
+    - a flat lute, having 23~strings.
+    ==
+  ====
+$$
+##>
