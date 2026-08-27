@@ -21,3 +21,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 (4)侯]]
+    ==
+    - A prince, or feudal baron in ancient China;
+    - a marquis in modern days;
+    - pretty;
+    - but, unless;
+    - a surname;
+    - _(1)ch(u:) (4)hau_
+        [[zyu1 hau4]],
+        a petty prince;
+    - _(4)hau (4)y(e/)_
+        [[hau4 je4]],
+        my lord marquis.
+    ==
+  ====
+$$
+##>
