@@ -98,6 +98,21 @@ $$
 $$
 W
   ====
+  - [[Page~76 (4)瘊]]
+    ==
+    - Pimples, pustules, resulting from bad humors;
+    - _(4)hau (2)tsz'_
+        [[hau4 zi2]]
+        a pustule.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 (4)篌]]
     ==
     - A musical instrument, called _(1)hong (4)hau_ [[hong1 hau4]];
