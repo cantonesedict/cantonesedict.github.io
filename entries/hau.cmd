@@ -26,6 +26,63 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~76 (2)口]]
+    ==
+    - The mouth, 'that by which we eat;'
+    - an entrance, a door, a narrow passage, an opening;
+    - a pass or gate in the Great Wall;
+    - speech, utterance;
+    - a numeral of swords, men, hatches, fill of pipes, draught of drinks, boxes;
+    - to ~~month~~ ``mouth``, to reiterate;
+    - _(2)h(o\) (2)hau kok(8)_
+        [[hou2 hau2 gok3]]
+        good utterance, glib;
+    - _kok(8) (2)hau_
+        [[gok3 hau2]],
+        to wrangle;
+    - _(5)m(o\) (2)hau (2)ch(')(i/)_
+        [[mou5 hau2 ci2]]
+        untrustworthy;
+    - _(2)hau (4)k(')(i/)m_
+        [[hau2 kim4]],
+        good enunciation;
+    - _y(a/)k(8) (5)l(e/)ung (2)hau_
+        [[jaak3 loeng5 hau2]],
+        take two pipes;
+    - _(1)chong (2)hau_
+        [[zong1 hau2]],
+        a large establishment, applied to the Factories;
+    - _(5)m(o\) (2)hau w(a/)(6) (5)k(')(u:)_
+        [[mou5 hau2 waa6 keoi5]],
+        will not speak to him, intractable;
+    - _(2)hau ngoi(6)_
+        [[hau2 ngoi6]]
+        beyond the frontiers;
+    - _(1)f(a/) (2)hau_ [[faa1 hau2]],
+        or
+      _(2)hau (2)tsui_ [[hau2 zeoi2]],
+        loquacious;
+    - _(4)yan (2)hau_
+        [[jan4 hau2]],
+        persons, a family;
+    - _yat(7) (2)hau (4)ch(')(a/)_
+        [[jat1 hau2 caa4]],
+        a swallow of tea;
+    - _(2)hoi (2)hau_
+        [[hoi2 hau2]],
+        an estuary;
+    - _(1)ts(')ong (2)hau_
+        [[cong1 hau2]],
+        a hatchway.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 (4)侯]]
     ==
     - A prince, or feudal baron in ancient China;
