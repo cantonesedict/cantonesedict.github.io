@@ -198,6 +198,43 @@ $$
 $$
 W
   ====
+  - [[Page~76 {𫝗=⿸厂⿱白子}(6) _Hau(6)_ (hau6); here normalised to 厚 _(5)Hau_ (hau5)]]
+    ==
+    - Thick, large, substantial;
+    - liberal, generous, kind;
+    - well, very;
+    - faithful;
+    - intimate;
+    - well flavored;
+    - rich (loam);
+    - to esteem;
+    - _~~hau(6)~~ ``(5)hau`` pok(9)_
+        [[hau5 bok6]]
+        thick and thin, the suitable relations of things;
+    - _~~hau(6)~~ ``(5)hau`` toi(6)_
+        [[hau5 doi6]]
+        to treat well;
+    - _~~hau(6)~~ ``(5)hau`` luk(9)_
+        [[hau5 luk6]]
+        a fine salary;
+    - _~~hau(6)~~ ``(5)hau`` (4)ts(')ing_
+        [[hau5 cing4]],
+        kind feelings;
+    - _~~hau(6)~~ ``(5)hau`` chung(6)_
+        [[hau5 zung6]]
+        very generous;
+    - _m(i/)n(6) (4)p(')(i/) ~~hau(6)~~ ``(5)hau``_
+        [[min6 pei4 hau5]]
+        shameless, brazen-faced.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 后(6)]]
     ==
     - A queen or empress;
