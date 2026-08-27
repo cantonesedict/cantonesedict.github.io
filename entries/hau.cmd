@@ -277,3 +277,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 鱟(6)]]
+    ==
+    - The horse-hoof or king crab;
+    - the Xiphosuræ or Limulus longispina.
+    ==
+  ====
+$$
+##>
