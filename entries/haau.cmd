@@ -36,3 +36,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 (1)㖃 _(1)Hau_ (hau1); here normalised to _(1)H(a/)u_ (haau1)]]
+    ==
+    - Groaning, as when angry;
+    - a tone of displeasure.
+    ==
+  ====
+$$
+##>
