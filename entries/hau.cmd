@@ -322,6 +322,19 @@ $$
 $$
 W
   ====
+  - [[Page~716 堠(6)]]
+    ==
+    - A bank or tumulus, used to make fire signals on;
+    - mile stones, a half or a whole league apart.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 後(6)]]
     ==
     - After in time, late;
