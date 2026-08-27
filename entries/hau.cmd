@@ -235,6 +235,38 @@ $$
 $$
 W
   ====
+  - [[Page~77 候(6)]]
+    ==
+    - To wait;
+    - to inquire for, to wait on, to visit;
+    - to take care of;
+    - _man(6) hau(6)_
+        [[man6 hau6]]
+        to inquire after civilly, to send respects;
+    - _hau(6) k(a/)(3)_
+        [[hau6 gaa3]]
+        I wait for you;
+    - _hau(6) (2)p(o\)_
+        [[hau6 bou2]]
+        waiting for confirmation in office;
+    - _hau(6) s(u:)n(6)_
+        [[hau6 syun6]]
+        wait for appointment;
+    - _(2)tang hau(6)_
+        [[dang2 hau6]]
+        wait for;
+    - _ching(3) hau(6)_
+        [[zing3 hau6]]
+        a disease, a bad habit.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~76 后(6)]]
     ==
     - A queen or empress;
