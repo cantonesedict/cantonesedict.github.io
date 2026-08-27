@@ -262,3 +262,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~76 逅(6)]]
+    ==
+    - To meet unexpectedly;
+    - _(5)h(a/)i hau(6)_
+        [[haai5 hau6]]
+        to meet one by accident.
+    ==
+  ====
+$$
+##>
