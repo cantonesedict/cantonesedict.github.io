@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [hang1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,21 +41,57 @@ MP
   ==
 $$
 
-<##
+
+##{#1 .williams} (1)Hang [[hang1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $亨1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 亨1 | _(1)Hang_ [[hang1]]
+
 $$
+R
+  ⼇ + 5
+U
+  U+4EA8
+A
+  ==
+  - 享
+  - 亯
+  ==
+F
+  ==
+  - (F2.29 亨) 通也
+  ==
 W
   ====
   - [[Page~72 (1)亨]]
     ==
-    - To penetrate or pervade;
+    - To penetrate or pervade [[Kangxi: 通也]];
     - successful;
     - _(1)hang (1)k(')(u:)_
-        [[hang1 keoi1]],
+        [[hang1 keoi1 亨區]],
         a quiet street, an eligible street.
     ==
   ====
+L
+  ====
+  * 【亨】 (xaeng)
+    ==
+    - (_adjective-like_) penetrating
+    ==
+  ====
+S
+  ==
+  - ($亨hoeng2) (TODO)
+  - ($亨paang1) (TODO)
+  ==
 $$
-##>
 
 <##
 $$
