@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $亨1
+- $哼1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -93,18 +94,39 @@ S
   ==
 $$
 
-<##
+### 哼1 | _(1)Hang_ [[hang1]]
+
 $$
+R
+  ⼝ + 7
+U
+  U+54FC
+F
+  [[Not present]]
 W
   ====
   - [[Page~72 (1)哼]]
     ==
-    - Frightened, an antipathy to;
+    - Frightened, an antipathy to [[Kangxi: 嗆哼愚怯貌]];
     - a local word applied to smells, lothsome.
     ==
   ====
+C
+  ==
+  - Commonly used to spell the interjection hm1 or hng1
+    (equivalent to English hmph!).
+  - Williams' "a local word applied to smells":
+    [Eitel (1877)][eitel-dict-hang^1] gives the example
+    臭哼哼 _ch(')au(3) (1)hang (1)hang_ (cau3 hang1 hang1),
+    explained "a nasty smell".
+  ==
+P
+  ++
+  1. To hum.
+  ++
 $$
-##>
+
+[eitel-dict-hang^1]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=139
 
 <##
 $$
