@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-08-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -145,6 +145,14 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿰木足 to 捉, and corrected 榒 to 搦.
   ==
+P
+  ++
+  1. To make an attempt to capture.
+      ==
+      - 捉車 (zuk1 geoi1): "Attack [the] chariot" (in Chinese Chess).
+      - 捉兩隻 (zuk1 loeng5 zek3): "Attacking two [pieces]" (i.e. a fork).
+      ==
+  ++
 L
   ====
   * 【捉】 (tsraewk)
