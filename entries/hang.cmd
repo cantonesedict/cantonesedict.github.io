@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $亨1
 - $哼1
+- $硜1
 - $鏗1
 ==
 </nav>
@@ -144,17 +145,48 @@ W
 $$
 ##>
 
-<##
+### 硜1 | _(1)Hang_ [[hang1]]
+
 $$
+R
+  ⽯ + 7
+U
+  U+785C
+A
+  ==
+  - 硻
+  - 䃘
+  - 踁 (for "rockheaded" sense)
+  - 硁 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.29 硜) 石堅確聲
+  ==
 W
   ====
   - [[Page~72 (1)硜]]
     ==
-    - The jingling of stones, striking hard stones together.
+    - The jingling of stones, striking hard stones together [[Kangxi: 石聲]].
+    ==
+  ====
+C
+  ==
+  - Probably cognate with $鏗1.
+  ==
+P
+  ++
+  1. Rockheaded, hardheaded (Kangxi: 硜硜小人貌).
+  ++
+L
+  ====
+  * 【硜】 (kheang)
+    ==
+    - (_onomatopoeia_) clang, (_met._) clack
+    - (_adjective-like_) (_met._) rockheaded
     ==
   ====
 $$
-##>
 
 <##
 $$
@@ -180,6 +212,7 @@ U
   U+93D7
 A
   ==
+  - 硻
   - 銵
   - 鍞
   - 铿 (Mainland simplified)
@@ -199,6 +232,10 @@ W
           jingling of bangles or tamborines.
     ==
   ====
+C
+  ==
+  - Probably cognate with $硜1.
+  ==
 P
   ++
   1. (_onomatopoeia_) The sound of a zither being played (Kangxi: 琴聲).

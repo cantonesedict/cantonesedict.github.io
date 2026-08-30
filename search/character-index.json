@@ -9453,10 +9453,16 @@
 "text":"U+54FC (Page 72 哼) Frightened, an antipathy to (Kangxi: 嗆哼愚怯貌); a local word applied to smells, lothsome. Commonly used to spell the interjection hm1 or hng1 (equivalent to English hmph!). Williams' \"a local word applied to smells\": Eitel (1877) gives the example 臭哼哼 _ch'au hang hang_ (cau3 hang1 hang1), explained \"a nasty smell\". To hum."
 }
 },
+"硜":{
+"hang1":{
+"isCanonical":true,
+"text":"U+785C 硻 䃘 踁 (for \"rockheaded\" sense) 硁 (Mainland simplified) (F2.29 硜) 石堅確聲 (Page 72 硜) The jingling of stones, striking hard stones together (Kangxi: 石聲). Probably cognate with 鏗. Rockheaded, hardheaded (Kangxi: 硜硜小人貌). 【硜】 (kheang) (_onomatopoeia_) clang, (_met._) clack (_adjective-like_) (_met._) rockheaded"
+}
+},
 "鏗":{
 "hang1":{
 "isCanonical":true,
-"text":"U+93D7 銵 鍞 铿 (Mainland simplified) (F2.29 鏗) 鏗鏘玉聲又瑟聲 (Page 72 鏗) To strike against (Kangxi: 撞也) as sounding glasses or metals, a ringing or metallic sound (Kangxi: 鏗鏘金石聲, 或作鍞銵); _hang ts'eung_ (hang1 coeng1 鏗鏘), jingling of bangles or tamborines. (_onomatopoeia_) The sound of a zither being played (Kangxi: 琴聲). 【鏗】 (kheang) (_onomatopoeia_) clang"
+"text":"U+93D7 硻 銵 鍞 铿 (Mainland simplified) (F2.29 鏗) 鏗鏘玉聲又瑟聲 (Page 72 鏗) To strike against (Kangxi: 撞也) as sounding glasses or metals, a ringing or metallic sound (Kangxi: 鏗鏘金石聲, 或作鍞銵); _hang ts'eung_ (hang1 coeng1 鏗鏘), jingling of bangles or tamborines. Probably cognate with 硜. (_onomatopoeia_) The sound of a zither being played (Kangxi: 琴聲). 【鏗】 (kheang) (_onomatopoeia_) clang"
 }
 },
 "之":{

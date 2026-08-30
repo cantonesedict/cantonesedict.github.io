@@ -3810,6 +3810,14 @@ window.onload = applyFilter;
       ==
   //
     , `kheang`
+    , [硜](/entries/hang#rendering-硜)
+    ,
+      ==
+      - (_onomatopoeia_) clang, (_met._) clack
+      - (_adjective-like_) (_met._) rockheaded
+      ==
+  //
+    , `kheang`
     , [鏗](/entries/hang#rendering-鏗)
     ,
       ==
