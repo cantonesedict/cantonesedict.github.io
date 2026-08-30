@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-08-28
+* %date-modified --> 2026-08-30
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $亨1
 - $哼1
+- $鏗1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -170,21 +171,46 @@ W
 $$
 ##>
 
-<##
+### 鏗1 | _(1)Hang_ [[hang1]]
+
 $$
+R
+  ⾦ + 11
+U
+  U+93D7
+A
+  ==
+  - 銵
+  - 鍞
+  - 铿 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.29 鏗) 鏗鏘玉聲又瑟聲
+  ==
 W
   ====
   - [[Page~72 (1)鏗]]
     ==
-    - To strike against as sounding glasses or metals,
-      a ringing or metallic sound;
+    - To strike against [[Kangxi: 撞也]] as sounding glasses or metals,
+      a ringing or metallic sound [[Kangxi: 鏗鏘金石聲, 或作鍞銵]];
       - _(1)hang (1)ts(')(e/)ung_
-          [[hang1 coeng1]],
+          [[hang1 coeng1 鏗鏘]],
           jingling of bangles or tamborines.
     ==
   ====
+P
+  ++
+  1. (_onomatopoeia_) The sound of a zither being played (Kangxi: 琴聲).
+  ++
+L
+  ====
+  * 【鏗】 (kheang)
+    ==
+    - (_onomatopoeia_) clang
+    ==
+  ====
 $$
-##>
 
 <##
 $$
