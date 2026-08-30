@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $亨1
 - $哼1
+- $牼1
 - $硜1
 - $鏗1
 ==
@@ -130,20 +131,36 @@ $$
 
 [eitel-dict-hang^1]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=139
 
-<##
+### 牼1 | _(1)Hang_ [[hang1]]
+
 $$
+R
+  ⽜ + 7
+U
+  U+727C
+V
+  ==
+  - hang4 (alternative per 《廣韻》戸耕切 for "shinbone" sense)
+  ==
+F
+  ==
+  - (F2.29 牼) ::牛[膝]下骨又人名宋牼::
+  ==
 W
   ====
   - [[Page~72 (1)牼]]
     --
-    The shank bone of an ox.
+    The shank bone of an ox [[Kangxi: 牛膝下骨也]].
     --
     --
-    A man, Sung(3) (1)Hang [[sung3 hang1]], in the time of Mencius.
+    A man, Sung(3) (1)Hang [[sung3 hang1 宋牼]], in the time of Mencius [[Kangxi: 人名 etc.]].
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 膝.
+  ==
 $$
-##>
 
 ### 硜1 | _(1)Hang_ [[hang1]]
 
