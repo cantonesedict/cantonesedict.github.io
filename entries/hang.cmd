@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-08-30
+* %date-modified --> 2026-09-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [hang1](#1)
+- [hang4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -289,6 +290,17 @@ W
 $$
 ##>
 
+
+##{#4 .williams} (4)Hang [[hang4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $行4
+==
+</nav>
+<## /tone-4-characters ##>
+
 <##
 $$
 W
@@ -362,8 +374,21 @@ W
 $$
 ##>
 
-<##
+### 行4 | _(4)Hang_ [[hang4]]
+
 $$
+R
+  ⾏ + 0
+U
+  U+884C
+V
+  ==
+  - haang4 (vernacular for "walk" and "move" senses)
+  ==
+F
+  ==
+  - (F2.30 行) 行步踐也履也
+  ==
 W
   ====
   - [[Page~73 before (4)行]]
@@ -372,102 +397,175 @@ W
     --
   - [[Page~73 (4)行]]
     ==
-    - To go, to walk, to proceed;
+    - To go, to walk, to proceed [[Kangxi: 人之步趨也, 適也往也去也]];
     - to act, to do, to direct;
     - imports the action of the following verb;
     - to appeal, or transfer a case;
     - a step;
-    - a road, a way, a path;
-    - one of the elements;
+    - a road [[Kangxi: 路也]], a way [[Kangxi: 道也]], a path;
+    - one of the elements [[Kangxi: 五行 etc.]];
     - a manner;
     - motion;
     - _~~(4)hang~~ ``(4)h(a/)ng`` l(o\)(6)_
-        [[haang4 lou6]]
+        [[haang4 lou6 行路]]
         to walk in the way;
     - _p(o\)(6) (4)hang_
-        [[bou6 hang4]],
+        [[bou6 hang4 步行]],
         to travel afoot;
     - _(4)hang (4)yan_
-        [[hang4 jan4]],
+        [[hang4 jan4 行人]],
         a traveler;
     - _~~(4)hang~~ ``(4)h(a/)ng`` (5)lai_
-        [[haang4 lai5]],
+        [[haang4 lai5 行禮]],
         to visit, to attend to prescribed rites;
     - _(4)hang (5)(u:)_
-        [[hang4 jyu5]],
+        [[hang4 jyu5 行語]],
         to tell to;
     - _(4)hang (5)l(i/)_
-        [[hang4 lei5]],
+        [[hang4 lei5 行李]],
         baggage;
     - _(5)'ng (4)hang_
-        [[ng5 hang4]],
+        [[ng5 hang4 五行]],
         the 5~elements;
     - _(4)hang k(a/)u(3)_
-        [[hang4 gaau3]]
+        [[hang4 gaau3 行教]]
         to promulgate;
     - _t(a/)i(6) (4)hang_
-        [[daai6 hang4]],
+        [[daai6 hang4 大行]],
         the recently deceased emperor or empress;
     - _~~(4)hang~~ ``(4)h(a/)ng`` (4)t(')au_
-        [[haang4 tau4]],
+        [[haang4 tau4 行頭]],
         head-gear, masks, &c., used by actors;
     - _(4)hang (1)h(e/)ung_
-        [[hang4 hoeng1]],
+        [[hang4 hoeng1 行香]],
         to go in procession;
     - _(4)hang (1)ts(')ing_
-        [[hang4 cing1]],
+        [[hang4 cing1 行清]],
         to worship at the tombs in spring;
     - _(4)hang (4)ying_
-        [[hang4 jing4]],
+        [[hang4 jing4 行刑]],
         to punish;
     - _~~(4)hang~~ ``(4)h(a/)ng`` (1)ts(')(i/)n p(o\)(6)_
-        [[haang4 cin1 bou6]]
+        [[haang4 cin1 bou6 行千步]]
         to 'walk a mile;'
     - _~~(4)hang~~ ``(4)h(a/)ng`` (4)sh(u:)n_
-        [[haang4 syun4]],
+        [[haang4 syun4-2 行船]],
         to weigh anchor, to follow the sea, to act as a sailor;
     - _~~(1)hang~~ ``(4)h(a/)ng`` (4)m(a/)i tik(7)_
-        [[haang4 maai4 dik1]]
+        [[haang4 maai4 dik1 行埋滴]]
         step aside a little!
     - _(4)hang (2)h(i/)m_
-        [[hang4 him2]],
+        [[hang4 him2 行險]],
         to follow dangerous pursuits;
     - _(4)hang (1)ping_
-        [[hang4 bing1]],
+        [[hang4 bing1 行兵]],
         to direct troops;
     - _(4)hang (4)wai_
-        [[hang4 wai4]],
+        [[hang4 wai4 行為]],
         conduct, manner of acting;
     - _(4)hang ling(6)_
-        [[hang4 ling6]]
+        [[hang4 ling6 行令]]
         to send an order;
-    - _~~(4)hang~~ ``(4)h(a/)ng`` (5)h(a/) (2)ch(e/)_
-        [[haang4 haa5 ze2]],
+    - _~~(4)hang~~ ``(4)h(a/)ng`` (5)h(a/) ~~(2)ch(e/)~~ ``ch(e/)(3)``_
+        [[haang4 haa5 ze3 行吓嗻]],
         wait, or do;
         a little presently;
     - _(4)hang (1)sh(u:)_
-        [[hang4 syu1]],
+        [[hang4 syu1 行書]],
         to write a running hand~~,~~``;``
     - _~~(4)hang~~ ``(4)h(a/)ng`` (4)l(u/)i_
-        [[haang4 leoi4]],
+        [[haang4 leoi4 行雷]],
         to thunder.
+        <## TODO: 行雷 under $雷leoi4 with example 行雷閃電 ##>
     ==
   - [[Page~716 (4)行]]
     ==
     - Temporary, for the present;
     - _(4)hang (4)ying_
-        [[hang4 jing4]],
+        [[hang4 jing4 行營]],
         a movable or flying camp.
     ==
     --
-    Read _hang(6)_ [[hang6]] in colloquial.
+    [[Otherwise, an alternative form of 衡 (for the Cantonese "taut" sense). **See $衡hang4 for the canonical entry.**]] [[TODO]]
+    --
+    <## TODO: move under $衡hang4
+    --
+    ~~Read _hang(6)_ [[hang6]] in colloquial.~~
     --
     ==
     - Tense, taut, drawn tight, as a drum or umbrella.
     ==
+    ##>
   ====
+C
+  ==
+  - Williams' _(4)hang_ (hang4) has been normalised
+    to vernacular _(4)h(a/)ng_ (haang4) where appropriate.
+  - Williams' 行路: Or more generally, to walk.
+    To be distinguished run 走, to run.
+  - Williams' 行刑: Better rendered "to carry out punishment".
+  - Williams' 行兵: Also _(4)h(a/)ng (1)ping_ (haang4 bing1),
+    to move a pawn (in Chinese Chess).
+  - Williams' 行吓嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
+    In modern Cantonese the final particle would be $啫ze1 instead of the (now) dated $嗻ze3.
+  ==
+P
+  ++
+  1. The 144th~radical (U+2F8F ⾏ "walk-enclosure").
+  ++
+L
+  ====
+  * 【行-walk】 (haeng)
+    ==
+    - (_verb-like_) [to] walk, [to] move, (_met._) ^journey
+    - (_verb-like_) [to] perform, [to] enact
+    - (_noun-like_) walk-[way]
+    - (_noun-like_) (_met._) element
+    ==
+  ====
+E
+  --
+  Cantonese retains the classical distinction between 行 "walk" and 走 "run".
+  --
+  ====
+  - 【行】 (haang4)
+    ++
+    1. To walk.
+       ==
+       - 行得慢 (haang4 dak1 maan6): "[To] walk slowly."
+       - 行得正企得正 (haang4 dak1 zeng3 kei5 dak1 zeng3): "[He] walks properly [and] stands properly" (i.e. he is beyond reproach).
+       ==
+    1. To move, to go.
+       ==
+       - 行得慢 (haang4 dak1 maan6): "[To] move slowly" (of a vehicle).
+       - 好行喇 (hou2 haang4 laa3): "[We'd] better make [a] move".
+       ==
+    ++
+  - 【行街】 (haang4 gaai1)
+    ++
+    1. To walk around in the street (e.g. on a date).
+    1. (_adjective_) Takeaway.
+    ++
+  - 【行行企企】 (haang4 haang4 kei5 kei5)
+    ++
+    1. To stand around with little to do. (Literally, "walk walk stand stand".)
+    ++
+  - 【行路】 (haang4 lou6)
+    ++
+    1. To walk.
+       ==
+       - 行路去 (haang4 lou6 heoi3): "Go [by] walking" (as opposed to driving).
+       ==
+    ++
+  ====
+S
+  ==
+  - ($行haang4) (TODO)
+  - $行hang6 (TODO)
+  - $行hong4 (TODO)
+  - $行hong6 (TODO)
+  ==
 $$
-##>
 
 <##
 $$

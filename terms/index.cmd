@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-08-23
+* %date-modified --> 2026-09-01
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -774,6 +774,18 @@ window.onload = applyFilter;
   //
     , haan4 haan4-2 dei6-2
     , [閒閒地](/entries/haan#cantonese-閒閒地)
+  //
+    , haang4
+    , [行](/entries/hang#cantonese-行)
+  //
+    , haang4 gaai1
+    , [行街](/entries/hang#cantonese-行街)
+  //
+    , haang4 haang4 kei5 kei5
+    , [行行企企](/entries/hang#cantonese-行行企企)
+  //
+    , haang4 lou6
+    , [行路](/entries/hang#cantonese-行路)
   //
     , haap3 cou3
     , [呷醋](/entries/cou#cantonese-呷醋)

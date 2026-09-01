@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-09-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -735,6 +735,10 @@ W
         let me do that first.
     ==
   ====
+C
+  ==
+  - Now dated. Modern Cantonese instead uses $啫ze1.
+  ==
 $$
 
 ### 柘3 | _Ch(e/)(3)_ [[ze3]]

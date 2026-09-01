@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-08-30
+* %date-modified --> 2026-09-01
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3510,6 +3510,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) furious, fierce, (_met._) formidable
+      ==
+  //
+    , `haeng`
+    , [行~(walk)](/entries/hang#rendering-行-walk)
+    ,
+      ==
+      - (_verb-like_) [to] walk, [to] move, (_met._) ^journey
+      - (_verb-like_) [to] perform, [to] enact
+      - (_noun-like_) walk-[way]
+      - (_noun-like_) (_met._) element
       ==
   //
     , `hea`
