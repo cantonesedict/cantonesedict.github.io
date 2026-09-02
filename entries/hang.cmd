@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-09-01
+* %date-modified --> 2026-09-02
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -296,6 +296,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $珩4
 - $行4
 ==
 </nav>
@@ -332,18 +333,37 @@ W
 $$
 ##>
 
-<##
+### 珩4 | _(4)Hang_ [[hang4]]
+
 $$
+R
+  ⽟ + 6
+U
+  U+73E9
+A
+  ==
+  - 衡
+  ==
+F
+  ==
+  - (F2.30 珩) 白玉曰珩
+  ==
 W
   ====
   - [[Page~73 (4)珩]]
     ==
-    - An ornamented clasp, a gem which has a play of colors,
-      worn on the person.
+    - ~~An~~ ``The gem on an`` ornamented clasp~~, a gem which has a play of colors,
+      worn on the person~~ [[Kangxi: 佩上玉也 etc., 通作衡]].
+    ==
+  ====
+L
+  ====
+  * 【珩】 (haeng)
+    ==
+    - (_noun-like_) girdle-gem
     ==
   ====
 $$
-##>
 
 <##
 $$
