@@ -298,6 +298,7 @@ $$
 =={.modern}
 - $珩4
 - $行4
+- $衡4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -342,7 +343,7 @@ U
   U+73E9
 A
   ==
-  - 衡
+  - $衡4
   ==
 F
   ==
@@ -587,32 +588,73 @@ S
   ==
 $$
 
-<##
+###+ 衡4 | _(4)Hang_ [[hang4]]
+
 $$
+R
+  ⾏ + 10
+  ⾓ + 9
+U
+  U+8861
+A
+  ==
+  - {𢖍=⿲彳魚亍}
+  ==
+F
+  ==
+  - (F2.30 衡) ::平也論也車鈪也又音[橫]::
+  ==
 W
   ====
-  - [[Page~73 (4){𢖍=⿲彳魚亍}]]
+  - [[Page~73 (4){𢖍=⿲彳魚亍}; here normalised to 衡]]
     ==
-    - A yoke or strap on the head of cattle;
-    - the space under the eyebrows;
-    - a balance, or thing to weigh with;
-    - a balustrade;
+    - A yoke or strap on the head of cattle [[Kangxi 衡: 楅衡所以楅持牛使不得抵觸也]];
+    - the space under the eyebrows [[Kangxi 衡: 眉目之閒也]];
+    - a balance, or thing to weigh with [[Kangxi 衡: 衡平也所以任權而均物平輕重也]];
+    - a balustrade [[Kangxi 衡: 樓殿邊欄楯也]];
     - to weigh;
-    - transverse;
+    - transverse [[Kangxi 衡: 橫也]]; <## TODO: $橫waang4 ##>
     - adjusted, compared;
     - _(4)hang (4)l(e/)ung_
-        [[hang4 loeng4]],
+        [[hang4 loeng4 衡量]],
         to measure;
     - _(4)hang (4)p(')ing_
-        [[hang4 ping4]],
+        [[hang4 ping4 衡平]],
         a pair of scales;
     - _yuk(9) (4)hang_
-        [[juk6 hang4]],
-        an armillary sphere.
+        [[juk6 hang4 玉衡]],
+        an armillary sphere [[Kangxi 衡: 璣衡王者正天文之器可運轉者, 衡謂渾天儀也]].
+    ==
+    --
+    [[Otherwise, an alternative form of 珩. **See $珩hang4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 蘅. **See $蘅hang4 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 黃 to 橫.
+  - Williams' 衡量: Also read _(4)hang l(e/)ung(6)_ (hang4 loeng6).
+    Verb-like 量 can be departing (e.g. in 量入, 量力).
+  ==
+P
+  ++
+  1. A dragon-head ladle handle (Kangxi: 勺柄龍頭也).
+  ++
+L
+  ====
+  * 【衡】 (haeng)
+    ==
+    - (_noun-like_) yoke, crosspiece, crossbeam
+    - (_noun-like_) steelyard-beam, (_met._) balance
     ==
   ====
+S
+  ==
+  - ($衡waang4) (TODO)
+  ==
 $$
-##>
 
 <##
 $$

@@ -3529,6 +3529,14 @@ window.onload = applyFilter;
       - (_noun-like_) (_met._) element
       ==
   //
+    , `haeng`
+    , [衡](/entries/hang#rendering-衡)
+    ,
+      ==
+      - (_noun-like_) yoke, crosspiece, crossbeam
+      - (_noun-like_) steelyard-beam, (_met._) balance
+      ==
+  //
     , `hea`
     , [鞋](/entries/haai#rendering-鞋)
     ,
