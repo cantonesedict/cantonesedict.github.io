@@ -297,6 +297,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $珩4
+- $蘅4
 - $行4
 - $衡4
 ==
@@ -380,20 +381,37 @@ W
 $$
 ##>
 
-<##
+###+ 蘅4 | _(4)Hang_ [[hang4]]
+
 $$
+R
+  ⾋ + 16
+U
+  U+8605
+A
+  ==
+  - {𧄇=⿱艹⿲彳魚亍}
+  - $衡4
+  ==
+F
+  ==
+  - (F2.30 蘅) 香草
+  ==
 W
   ====
-  - [[Page~73 (4){𧄇=⿱艹⿲彳魚亍}]]
+  - [[Page~73 (4){𧄇=⿱艹⿲彳魚亍}; here normalised to 蘅]]
     ==
-    - A fragrant plant like mallows;
+    - A fragrant plant like mallows [[Kangxi 蘅: 香草也 etc.]];
     - _t(o\)(6) (4)hang_
-        [[dou6 hang4]],
-        sweet vernal-grass. (?)
+        [[dou6 hang4 杜蘅]],
+        sweet vernal-grass [[Kangxi 蘅: 杜衡葉似葵形如馬蹄故俗云馬蹄香]]. (?)
     ==
   ====
+C
+  ==
+  - Williams' 杜蘅: Strictly, _Asarum forbesii_.
+  ==
 $$
-##>
 
 ### 行4 | _(4)Hang_ [[hang4]]
 
@@ -648,7 +666,7 @@ W
     [[Otherwise, an alternative form of 珩. **See $珩hang4 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 蘅. **See $蘅hang4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 蘅. **See $蘅hang4 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 行 (for the Cantonese "taut/maximally" sense). **See $行hang4 for the canonical entry.**]]
