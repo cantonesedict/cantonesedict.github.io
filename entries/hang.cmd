@@ -402,6 +402,12 @@ R
   ⾏ + 0
 U
   U+884C
+A
+  ==
+  - 恆 (for Cantonese "taut/maximally" sense)
+  - 恒 (for Cantonese "taut/maximally" sense)
+  - $衡4 (for Cantonese "taut/maximally" sense)
+  ==
 V
   ==
   - haang4 (vernacular for "walk" and "move" senses)
@@ -507,16 +513,11 @@ W
         a movable or flying camp.
     ==
     --
-    [[Otherwise, an alternative form of 衡 (for the Cantonese "taut" sense). **See $衡hang4 for the canonical entry.**]] [[TODO]]
-    --
-    <## TODO: move under $衡hang4
-    --
-    ~~Read _hang(6)_ [[hang6]] in colloquial.~~
+    Read _hang(6)_ [[hang6]] in colloquial.
     --
     ==
     - Tense, taut, drawn tight, as a drum or umbrella.
     ==
-    ##>
   ====
 C
   ==
@@ -529,6 +530,8 @@ C
     to move a pawn (in Chinese Chess).
   - Williams' 行吓嗻: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
     In modern Cantonese the final particle would be $啫ze1 instead of the (now) dated $嗻ze3.
+  - Williams' "Read [...] in colloquial":
+    The reading _hang(6)_ (hang6) for Cantonese "taut" appears to be obsolete.
   ==
 P
   ++
@@ -549,7 +552,7 @@ E
   Cantonese retains the classical distinction between 行 "walk" and 走 "run".
   --
   ====
-  - 【行】 (haang4)
+  - 【行-walk】 (haang4)
     ++
     1. To walk.
        ==
@@ -578,7 +581,23 @@ E
        - 行路去 (haang4 lou6 heoi3): "Go [by] walking" (as opposed to driving).
        ==
     ++
+  - 【行-taut】 (hang4)
+    ++
+    1. Taut.
+       ==
+       - 唔夠行 (m4 gau3 hang4): "Not taut enough."
+       - 扯行啲 (ce2 hang4 di1): "Pull [it] tauter."
+       ==
+    1. Maximally.
+       ==
+       - 踹行油 (jaai2 hang4 jau4-2): "Stepping fully on [the] accelerator" (i.e. flooring it).
+       - 開行冷氣 (hoi1 hang4 laang5 hei3): "Running air-con at maximum."
+       ==
+    ++
   ====
+  --
+  The spelling 行 for hang4 meaning "taut" or "maximally" is arbitrary.
+  --
 S
   ==
   - ($行haang4) (TODO)
@@ -630,6 +649,9 @@ W
     --
     --
     [[Otherwise, an alternative form of 蘅. **See $蘅hang4 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 行 (for the Cantonese "taut/maximally" sense). **See $行hang4 for the canonical entry.**]]
     --
   ====
 C
