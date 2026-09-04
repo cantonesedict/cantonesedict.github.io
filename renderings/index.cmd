@@ -3736,6 +3736,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] suspend, [to] hang, (_met._) [to] attach
       ==
   //
+    , `hengX`
+    , [悻](/entries/hang#rendering-悻)
+    ,
+      ==
+      - (_adjective-like_) wrathful
+      ==
+  //
     , `hom`
     , [函](/entries/haam#rendering-函)
     ,

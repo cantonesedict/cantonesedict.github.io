@@ -147,6 +147,7 @@ For all radicals, see [Index of characters by radical](./).
       - $惛fan1
       - $惚fat1
       - $悱fei2
+      - $悻hang6
       ==
       </nav>
   //

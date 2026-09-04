@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [hang1](#1)
 - [hang2](#2)
 - [hang4](#4)
+- [hang6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -815,6 +816,17 @@ S
   ==
 $$
 
+
+##{#6 .williams} Hang(6) [[hang6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $悻6
+==
+</nav>
+<## /tone-6-characters ##>
+
 <##
 $$
 W
@@ -863,20 +875,44 @@ W
 $$
 ##>
 
-<##
+###+ 悻6 | _Hang(6)_ [[hang6]]
+
 $$
+R
+  ⼼ + 8
+U
+  U+60BB
+A
+  ==
+  - {𢙼=⿰忄巠}
+  ==
+V
+  ==
+  - hang2 (per Fan Wan)
+  - hang5 (not recast to departing)
+  ==
+F
+  ==
+  - (F2.31 悻 _(2)Hang_ (hang2)) 怨也怒也恨也
+  ==
 W
   ====
-  - [[Page~73 (2)悻]]
+  - [[Page~73 (2)悻 _(2)Hang_ (hang2); here normalised to _Hang(6)_ (hang6)]]
     ==
-    - _(2)Hang (2)hang_ [[hang2 hang2]],
-        anger, hatred;
+    - _~~(2)Hang (2)hang~~ ``Hang(6) hang(6)``_ [[hang6 hang6]],
+        anger, hatred [[Kangxi: 悻悻很怒也]];
     - great displeasure, vexed;
     - quarrelsome, pertinacious.
     ==
   ====
+L
+  ====
+  * 【悻】 (hengX)
+    ==
+    - (_adjective-like_) wrathful
+    ==
+  ====
 $$
-##>
 
 <##
 $$
