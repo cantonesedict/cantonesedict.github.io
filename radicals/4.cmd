@@ -119,6 +119,7 @@ For all radicals, see [Index of characters by radical](./).
       - $恢fui1
       - $恨han6
       - $恆hang4
+      - ($恒hang4)
       ==
       </nav>
   //

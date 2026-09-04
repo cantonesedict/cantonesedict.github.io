@@ -297,6 +297,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $恆4
+- ($恒4)
 - $珩4
 - ($莖4)
 - $蘅4
@@ -316,7 +317,7 @@ U
 A
   ==
   - 㔰
-  - 恒
+  - $恒4
   ==
 F
   ==
@@ -371,6 +372,31 @@ L
 S
   ==
   - $恆gang3 (TODO)
+  ==
+$$
+
+### 恒4 | _(4)Hang_ [[hang4]]
+
+$$.
+R
+  ⼼ + 6
+U
+  U+6052
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~73 (4)恒]]
+    --
+    [[Alternative form of 恆. **See $恆hang4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 行 (for the Cantonese "taut/maximally" sense). **See $行hang4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - ($恒gang3) (TODO)
   ==
 $$
 
@@ -479,7 +505,7 @@ U
 A
   ==
   - $恆4 (for Cantonese "taut/maximally" sense)
-  - 恒 (for Cantonese "taut/maximally" sense)
+  - $恒4 (for Cantonese "taut/maximally" sense)
   - $衡4 (for Cantonese "taut/maximally" sense)
   ==
 V
