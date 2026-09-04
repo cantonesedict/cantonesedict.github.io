@@ -296,6 +296,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $恆4
 - $珩4
 - ($莖4)
 - $蘅4
@@ -305,36 +306,73 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-<##
+###+ 恆4 | _(4)Hang_ [[hang4]]
+
 $$
+R
+  ⼼ + 6
+U
+  U+6046
+A
+  ==
+  - 㔰
+  - 恒
+  ==
+F
+  ==
+  - (F2.30 恆) 常也久也
+  - (F2.30 ？) 同上
+  ==
 W
   ====
-  - [[Page~73 (4)恒]]
+  - [[Page~73 (4)恒; here normalised to 恆]]
     ==
-    - Constant, regular, perpetual, according to rule;
+    - Constant, regular, perpetual [[Kangxi 恆: 常也, 恆久也]], according to rule [[Kangxi 恆: 恆故也必因循故法也]];
     - to continue of the same mind, persevering;
     - _(4)hang (4)sh(e/)ung_
-        [[hang4 soeng4]],
+        [[hang4 soeng4 恆常]],
         accustomed to;
     - _(4)hang (1)sam_
-        [[hang4 sam1]],
+        [[hang4 sam1 恆心]],
         constant;
     - _(4)hang (2)yan_
-        [[hang4 jan2]],
+        [[hang4 jan2 恆忍]],
         patient;
     - _(4)hang (2)ch(')(a/)n_
-        [[hang4 caan2]],
+        [[hang4 caan2 恆產]],
         enduring possessions;
     - _(4)Hang (4)ho (1)sh(a/) sh(o\)(3)_
-        [[hang4 ho4 saa1 sou3]]
+        [[hang4 ho4 saa1 sou3 恆河沙數]]
         like the sands of the Ganges;
     - _(4)Hang (1)sh(a/)n_
-        [[hang4 saan1]],
-        a mountain in the west of Chihl(i/) [[直隸]].
+        [[hang4 saan1 恆山]],
+        a mountain in the west of Chihl(i/) [[直隸]] [[Kangxi 恆: 山名]].
+    ==
+    --
+    [[Otherwise, an alternative form of 行 (for the Cantonese "taut/maximally" sense). **See $行hang4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The second form of the headword is
+    恆 but with one less dot in the component 亙.
+  ==
+P
+  ++
+  1. Ordinary.
+  ++
+L
+  ====
+  * 【恆-level】 (hong)
+    ==
+    - (_adjective-like_) persistent, (_met._) established
     ==
   ====
+S
+  ==
+  - $恆gang3 (TODO)
+  ==
 $$
-##>
 
 ### 珩4 | _(4)Hang_ [[hang4]]
 
@@ -440,7 +478,7 @@ U
   U+884C
 A
   ==
-  - 恆 (for Cantonese "taut/maximally" sense)
+  - $恆4 (for Cantonese "taut/maximally" sense)
   - 恒 (for Cantonese "taut/maximally" sense)
   - $衡4 (for Cantonese "taut/maximally" sense)
   ==
