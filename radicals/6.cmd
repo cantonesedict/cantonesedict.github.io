@@ -925,6 +925,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $肺fai3
       - $肥fei4
+      - $肯hang2
       - $肫zeon1
       - $肢zi1
       ==

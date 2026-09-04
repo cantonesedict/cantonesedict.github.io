@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [hang1](#1)
+- [hang2](#2)
 - [hang4](#4)
 ==
 </nav>
@@ -267,28 +268,64 @@ L
   ====
 $$
 
-<##
+
+##{#2 .williams} (2)Hang [[hang2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $肯2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 肯2 | _(2)Hang_ [[hang2]]
+
 $$
+R
+  ⾁ + 4
+U
+  U+80AF
+A
+  ==
+  - 肎
+  - 肻
+  ==
+V
+  ==
+  - hoi2 (alternative per 《集韻》許亥切 for "flesh attached to bone" sense)
+  ==
+F
+  ==
+  - (F2.31 肯) 允也許也
+  ==
 W
   ====
   - [[Page~73 (2)肯]]
     ==
-    - The attachment of the muscles;
-    - to assent, willing, acquiescing;
+    - ~~The attachment of the muscles~~ ``Flesh attached to bone`` [[Kangxi: 著骨肉也]];
+    - to assent, willing, acquiescing [[Kangxi: 肯可也]];
     - to permit;
     - _(2)hang (4)'m (2)hang_
-        [[hang2 m4 hang2]],
+        [[hang2 m4 hang2 肯唔肯]],
         will you or not?
     - _(4)'m (2)hang_
-        [[m4 hang2]],
+        [[m4 hang2 唔肯]],
         I will not!
     - _(5)wan (2)hang_
-        [[wan5 hang2]],
+        [[wan5 hang2 允肯]],
         to permit.
     ==
   ====
+L
+  ====
+  * 【肯】 (khongX)
+    ==
+    - (_noun-like_) flesh attached to bone
+    - (_verb-like_) [to] be willing
+    ==
+  ====
 $$
-##>
 
 
 ##{#4 .williams} (4)Hang [[hang4 陽平]]

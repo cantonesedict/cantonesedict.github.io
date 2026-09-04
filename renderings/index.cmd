@@ -3914,6 +3914,14 @@ window.onload = applyFilter;
       - (_adjective-like_) sincere
       ==
   //
+    , `khongX`
+    , [肯](/entries/hang#rendering-肯)
+    ,
+      ==
+      - (_noun-like_) flesh attached to bone
+      - (_verb-like_) [to] be willing
+      ==
+  //
     , `khu`
     , [刳](/entries/fu#rendering-刳)
     ,
