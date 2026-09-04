@@ -822,6 +822,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $婞6
 - $悻6
 ==
 </nav>
@@ -844,6 +845,36 @@ W
   ====
 $$
 ##>
+
+###+ 婞6 | _Hang(6)_ [[hang6]]
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A5E
+A
+  ==
+  - $悻6
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~73 (2)悻 _(2)Hang_ (hang2); here corrected to _Hang(6)_ (hang6) and normalised to 婞]]
+    ==
+    - [[...]];
+    - quarrelsome, pertinacious [[Kangxi 婞: 同悻, 很也]].
+    ==
+  ====
+L
+  ====
+  * 【婞】 (hengX)
+    ==
+    - (_adjective-like_) stubborn
+    ==
+  ====
+$$
 
 <##
 $$
@@ -902,8 +933,11 @@ W
     - _~~(2)Hang (2)hang~~ ``Hang(6) hang(6)``_ [[hang6 hang6]],
         anger, hatred [[Kangxi: 悻悻很怒也]];
     - great displeasure, vexed;
-    - quarrelsome, pertinacious.
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 婞. **See $婞hang6 for the canonical entry.**]]
+    --
   ====
 L
   ====

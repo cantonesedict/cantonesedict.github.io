@@ -3737,6 +3737,13 @@ window.onload = applyFilter;
       ==
   //
     , `hengX`
+    , [婞](/entries/hang#rendering-婞)
+    ,
+      ==
+      - (_adjective-like_) stubborn
+      ==
+  //
+    , `hengX`
     , [悻](/entries/hang#rendering-悻)
     ,
       ==
