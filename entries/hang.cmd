@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-09-02
+* %date-modified --> 2026-09-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -297,6 +297,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $珩4
+- ($莖4)
 - $蘅4
 - $行4
 - $衡4
@@ -367,19 +368,36 @@ L
   ====
 $$
 
-<##
-$$
+### 莖4 | _(4)Hang_ [[hang4]]
+
+$$.
+R
+  ⾋ + 7
+U
+  U+8396
+F
+  ==
+  - (F2.30 莖) 草木枝條也
+  ==
 W
   ====
   - [[Page~73 (4)莖]]
+    --
+    [[Reading variation. **See $莖ging3 for the canonical entry.**]] [[TODO]]
+    --
+    <## TODO: normalise to $莖ging3
     ==
     - The culm or stalk of herbs and shrubs;
     - a twig;
     - hilt of a sword.
     ==
+    ##>
   ====
+S
+  ==
+  - $莖ging3 (TODO)
+  ==
 $$
-##>
 
 ###+ 蘅4 | _(4)Hang_ [[hang4]]
 
