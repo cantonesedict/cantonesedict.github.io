@@ -141,6 +141,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($桁4)
+- ($行4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -168,5 +169,30 @@ S
   - $桁hang4 (TODO)
   - $桁hong4 (TODO)
   - $桁hong6 (TODO)
+  ==
+$$
+
+### 行4 | _(4)H(a/)ng_ [[haang4]]
+
+$$.
+R
+  ⾏ + 0
+U
+  U+884C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~73 (4)行 _(4)Hang_ (hang4); _(4)H(a/)ng_ (haang4) implied by variational note]]
+    --
+    [[Reading variation (vernacular for the "walk" and "move" senses). **See $行hang4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $行hang4
+  - $行hang6
+  - $行hong4 (TODO)
+  - $行hong6 (TODO)
   ==
 $$

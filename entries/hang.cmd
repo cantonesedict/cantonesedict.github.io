@@ -750,7 +750,7 @@ E
   --
 S
   ==
-  - ($行haang4) (TODO)
+  - ($行haang4)
   - $行hang6
   - $行hong4 (TODO)
   - $行hong6 (TODO)
@@ -1161,7 +1161,7 @@ L
   ====
 S
   ==
-  - ($行haang4) (TODO)
+  - ($行haang4)
   - $行hang4
   - $行hong4 (TODO)
   - $行hong6 (TODO)
