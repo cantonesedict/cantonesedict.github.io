@@ -827,6 +827,7 @@ $$
 - $幸6
 - $悻6
 - $杏6
+- $荇6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1050,18 +1051,42 @@ L
   ====
 $$
 
-<##
+### 荇6 | _Hang(6)_ [[hang6]]
+
 $$
+R
+  ⾋ + 6
+U
+  U+8347
+A
+  ==
+  - 莕
+  - 䓷
+  ==
+F
+  ==
+  - (F2.32 荇) 菜名
+  ==
 W
   ====
   - [[Page~74 荇(6)]]
     ==
-    - An aquatic vegetable with a reddish leaf;
+    - An aquatic vegetable with a reddish leaf [[Kangxi: 接余也 etc.]];
     - not found in Canton.
     ==
   ====
+C
+  ==
+  - Specifically, _Nymphoides peltata_, or the fringed water-lily.
+  ==
+L
+  ====
+  * 【荇】 (haengX)
+    ==
+    - (_noun-like_) water-fringe
+    ==
+  ====
 $$
-##>
 
 <##
 $$

@@ -3544,6 +3544,13 @@ window.onload = applyFilter;
       - (_noun-like_) apricot
       ==
   //
+    , `haengX`
+    , [荇](/entries/hang#rendering-荇)
+    ,
+      ==
+      - (_noun-like_) water-fringe
+      ==
+  //
     , `hea`
     , [鞋](/entries/haai#rendering-鞋)
     ,
