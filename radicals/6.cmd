@@ -1760,7 +1760,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $行hang4
+      - $行hang4, $行hang6
       ==
       </nav>
   //

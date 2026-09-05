@@ -739,7 +739,7 @@ E
 S
   ==
   - ($行haang4) (TODO)
-  - $行hang6 (TODO)
+  - $行hang6
   - $行hong4 (TODO)
   - $行hong6 (TODO)
   ==
@@ -829,6 +829,7 @@ $$
 - $杏6
 - $荇6
 - ($莕6)
+- $行6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1106,29 +1107,51 @@ P
   ++
 $$
 
-<##
+### 行6 | _Hang(6)_ [[hang6]]
+
 $$
+R
+  ⾏ + 0
+U
+  U+884C
+F
+  ==
+  - (F2.32 行) 德行又身之所行爲也
+  ==
 W
   ====
   - [[Page~74 行(6)]]
     ==
-    - Actions, conduct;
+    - Actions, conduct [[Kangxi: 行迹也, 德行內外在心爲德施之爲行]];
     - _(2)pan hang(6)_
-        [[ban2 hang6]]
+        [[ban2 hang6 品行]]
         disposition, character;
     - _tak(7) hang(6)_
-        [[dak1 hang6]]
+        [[dak1 hang6 德行]]
         virtue, good works;
     - _t(o\)(6) hang(6) (1)sham_
-        [[dou6 hang6 sam1]],
+        [[dou6 hang6 sam1 道行深]],
         able, experienced, learned;
     - _sun(3) hang(6)_
-        [[seon3 hang6]]
+        [[seon3 hang6 信行]]
         honest;
     - _(2)t(u:)n hang(6)_
-        [[dyun2 hang6]]
+        [[dyun2 hang6 短行]]
         curt, snappish.
     ==
   ====
+L
+  ====
+  * 【行-conduct】 (haengH)
+    ==
+    - (_noun-like_) conduct
+    ==
+  ====
+S
+  ==
+  - ($行haang4) (TODO)
+  - $行hang4
+  - $行hong4 (TODO)
+  - $行hong6 (TODO)
+  ==
 $$
-##>

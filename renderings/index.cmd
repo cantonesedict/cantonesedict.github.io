@@ -3551,6 +3551,13 @@ window.onload = applyFilter;
       - (_noun-like_) water-fringe
       ==
   //
+    , `haengH`
+    , [行~(conduct)](/entries/hang#rendering-行-conduct)
+    ,
+      ==
+      - (_noun-like_) conduct
+      ==
+  //
     , `hea`
     , [鞋](/entries/haai#rendering-鞋)
     ,
