@@ -3537,6 +3537,13 @@ window.onload = applyFilter;
       - (_noun-like_) steelyard-beam, (_met._) balance
       ==
   //
+    , `haengX`
+    , [杏](/entries/hang#rendering-杏)
+    ,
+      ==
+      - (_noun-like_) apricot
+      ==
+  //
     , `hea`
     , [鞋](/entries/haai#rendering-鞋)
     ,

@@ -826,6 +826,7 @@ $$
 - $婞6
 - $幸6
 - $悻6
+- $杏6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1008,26 +1009,46 @@ L
   ====
 $$
 
-<##
+### 杏6 | _Hang(6)_ [[hang6]]
+
 $$
+R
+  ⽊ + 3
+U
+  U+674F
+F
+  ==
+  - (F2.32 杏) 果名
+  ==
 W
   ====
   - [[Page~74 杏(6)]]
     ==
-    - A kind of plum;
+    - A kind of plum [[Kangxi: 果名 etc.]];
     - _hang(6) (4)yan_
-        [[hang6 jan4]],
+        [[hang6 jan4 杏仁]],
         almonds;
     - _(4)ngan hang(6)_
-        [[ngan4 hang6]]
+        [[ngan4 hang6 銀杏]]
         nuts of the Salisburia adiantifolia;
     - _hang(6) (4)m(u/)i_
-        [[hang6 mui4]],
+        [[hang6 mui4 杏梅]],
         a sort of apricot, ripe in June.
     ==
   ====
+C
+  ==
+  - Williams' "A kind of plum": Specifically, the apricot.
+  - Williams' 銀杏: Commonly called ginkgo (or gingko) via Japanese.
+  ==
+L
+  ====
+  * 【杏】 (haengX)
+    ==
+    - (_noun-like_) apricot
+    ==
+  ====
 $$
-##>
 
 <##
 $$
