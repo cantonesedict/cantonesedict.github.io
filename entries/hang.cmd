@@ -828,6 +828,7 @@ $$
 - $悻6
 - $杏6
 - $荇6
+- ($莕6)
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1060,7 +1061,7 @@ U
   U+8347
 A
   ==
-  - 莕
+  - $莕6
   - 䓷
   ==
 F
@@ -1086,6 +1087,23 @@ L
     - (_noun-like_) water-fringe
     ==
   ====
+$$
+
+###+ 莕6 | _Hang(6)_ [[hang6]]
+
+$$.
+R
+  ⾋ + 7
+U
+  U+8395
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 荇. **See $荇hang6 for the canonical entry.**
+  ++
 $$
 
 <##

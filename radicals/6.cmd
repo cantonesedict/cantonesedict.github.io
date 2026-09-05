@@ -1354,6 +1354,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $莩fu1
       - ($莖hang4)
+      - ($莕hang6)
       - $莊zong1
       ==
       </nav>
