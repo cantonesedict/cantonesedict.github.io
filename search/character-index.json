@@ -9525,6 +9525,12 @@
 "text":"U+5A5E 悻 (Page 73 悻 _Hang_ (hang2); here corrected to _Hang_ (hang6) and normalised to 婞) quarrelsome, pertinacious (Kangxi 婞: 同悻, 很也). 【婞】 (hengX) (_adjective-like_) stubborn"
 }
 },
+"幸":{
+"hang6":{
+"isCanonical":true,
+"text":"U+5E78 倖 (F2.32 幸) 慶幸不當得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸 (F2.32 倖) 徼倖 (Page 73 幸) Fortunate, lucky (Kangxi: 吉而免凶也 etc., 非分而得曰幸 etc.); blessed; happily; an emperor reaching or tarrying in a place (Kangxi: 幸天子所至也); to hope, to wait or long for (Kangxi: 冀也, 幸覬也); lucky in getting, to rejoice; to love (Kangxi: 幸御所親愛也), pleased; _hang tak_ (hang6 dak1 幸得) to succeed pleasantly; _shi hang_ (si6 hang6 是幸) is well, will be pleased---a phrase used in a bill; _ka mun pat hang_ (gaa1 mun4 bat1 hang6 家門不幸) domestic affliction, family trouble; _pat hang chung chi hang_ (bat1 hang6 zung1 zi1 hang6 不幸中之幸) fortunate in the midst of disaster. Fan Wan entry: Fixed missing stroke ㇖ in 慶, and fixed missing final stroke in 當. Williams' \"to love\": Better rendered \"to favour\". 【幸】 (heangX) (_noun-like_) luck, fortune (_verb-like_) to feel glad at"
+}
+},
 "悻":{
 "hang6":{
 "isCanonical":true,

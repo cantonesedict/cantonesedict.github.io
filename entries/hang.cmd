@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-09-04
+* %date-modified --> 2026-09-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -823,6 +823,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $婞6
+- $幸6
 - $悻6
 ==
 </nav>
@@ -876,35 +877,62 @@ L
   ====
 $$
 
-<##
+### 幸6 | _Hang(6)_ [[hang6]]
+
 $$
+R
+  ⼲ + 5
+U
+  U+5E78
+A
+  ==
+  - 倖
+  ==
+F
+  ==
+  - (F2.32 幸) ::[慶]幸不[當]得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸::
+  - (F2.32 倖) 徼倖
+  ==
 W
   ====
   - [[Page~73 幸(6)]]
     ==
-    - Fortunate, lucky;
+    - Fortunate, lucky [[Kangxi: 吉而免凶也 etc., 非分而得曰幸 etc.]];
     - blessed;
     - happily;
-    - an emperor reaching or tarrying in a place;
-    - to hope, to wait or long for;
+    - an emperor reaching or tarrying in a place [[Kangxi: 幸天子所至也]];
+    - to hope, to wait or long for [[Kangxi: 冀也, 幸覬也]];
     - lucky in getting, to rejoice;
-    - to love, pleased;
+    - to love [[Kangxi: 幸御所親愛也]], pleased;
     - _hang(6) tak(7)_
-        [[hang6 dak1]]
+        [[hang6 dak1 幸得]]
         to succeed pleasantly;
     - _sh(i/)(6) hang(6)_
-        [[si6 hang6]]
+        [[si6 hang6 是幸]]
         is well, will be pleased---a phrase used in a bill;
     - _(1)k(a/) (4)m(u/)n pat(7) hang(6)_
-        [[gaa1 mun4 bat1 hang6]]
+        [[gaa1 mun4 bat1 hang6 家門不幸]]
         domestic affliction, family trouble;
     - _pat(7) hang(6) (1)chung (1)ch(i/) hang(6)_
-        [[bat1 hang6 zung1 zi1 hang6]]
+        [[bat1 hang6 zung1 zi1 hang6 不幸中之幸]]
         fortunate in the midst of disaster.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke ㇖ in 慶,
+    and fixed missing final stroke in 當.
+  - Williams' "to love": Better rendered "to favour".
+  ==
+L
+  ====
+  * 【幸】 (heangX)
+    ==
+    - (_noun-like_) luck, fortune
+    - (_verb-like_) [to] feel glad at
+    ==
+  ====
 $$
-##>
 
 ###+ 悻6 | _Hang(6)_ [[hang6]]
 
