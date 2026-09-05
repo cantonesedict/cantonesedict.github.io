@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [haang1](#1)
+- [haang4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -133,23 +134,39 @@ P
   ++
 $$
 
-<##
-$$
+
+##{#4 .williams} (4)H(a/)ng [[haang4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($桁4)
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 桁4 | _(4)H(a/)ng_ [[haang4]]
+
+$$.
+R
+  ⽊ + 6
+U
+  U+6841
+F
+  ==
+  - (F2.88 桁) 屋上桁槁
+  ==
 W
   ====
   - [[Page~74 (4)桁]]
-    ==
-    - The purlines of a roof;
-    - a plank to cross a rivulet;
-    - stocks for feet;
-    - a clotheshorse;
-    - _(4)h(a/)ng kok(8)_
-        [[haang4 gok3]]
-        purlines and rafters;
-    - _uk(7) (4)h(a/)ng_
-        [[uk1 haang4]],
-        purlines.
-    ==
+    --
+    [[Reading variation. **See $桁hang4 for the canonical entry.**]] [[TODO]]
+    --
   ====
+S
+  ==
+  - $桁hang4 (TODO)
+  - $桁hong4 (TODO)
+  - $桁hong6 (TODO)
+  ==
 $$
-##>
