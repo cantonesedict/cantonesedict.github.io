@@ -329,7 +329,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $haak
 - $haam
 - $haan
-- $haang (work in progress)
+- $haang
 - $haap (work in progress)
 - $haau (work in progress)
 - $hai
