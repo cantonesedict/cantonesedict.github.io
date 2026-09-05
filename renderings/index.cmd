@@ -3513,6 +3513,13 @@ window.onload = applyFilter;
       ==
   //
     , `haeng`
+    , [桁](/entries/hang#rendering-桁)
+    ,
+      ==
+      - (_noun-like_) wooden-lid
+      ==
+  //
+    , `haeng`
     , [珩](/entries/hang#rendering-珩)
     ,
       ==

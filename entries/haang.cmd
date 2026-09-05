@@ -161,12 +161,15 @@ W
   ====
   - [[Page~74 (4)桁]]
     --
-    [[Reading variation. **See $桁hang4 for the canonical entry.**]] [[TODO]]
+    [[Reading variation. **See $桁hang4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, a reading variation. **See $桁hong4 for the canonical entry.**]] [[TODO]]
     --
   ====
 S
   ==
-  - $桁hang4 (TODO)
+  - $桁hang4
   - $桁hong4 (TODO)
   - $桁hong6 (TODO)
   ==
@@ -185,7 +188,7 @@ W
   ====
   - [[Page~73 (4)行 _(4)Hang_ (hang4); _(4)H(a/)ng_ (haang4) implied by variational note]]
     --
-    [[Reading variation (vernacular for the "walk" and "move" senses). **See $行hang4 for the canonical entry.**]]
+    [[Reading variation (vernacular longer syllable for the "walk" and "move" senses). **See $行hang4 for the canonical entry.**]]
     --
   ====
 S

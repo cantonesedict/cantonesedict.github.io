@@ -1225,7 +1225,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $桌coek3, ($桌zoek3)
-      - ($桁haang4)
+      - ($桁haang4), $桁hang4
       - $桎zat6
       - $栽zoi1, $栽zoi6
       - $株zyu1

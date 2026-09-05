@@ -348,6 +348,7 @@ $$
 =={.modern}
 - $恆4
 - ($恒4)
+- $桁4
 - $珩4
 - ($莖4)
 - $蘅4
@@ -447,6 +448,64 @@ W
 S
   ==
   - ($恒gang3) (TODO)
+  ==
+$$
+
+###+ 桁4 | _(4)Hang_ [[hang4]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+6841
+V
+  ==
+  - haang4 (longer syllable)
+  ==
+F
+  ==
+  - (F2.88 桁 _(4)H(a/)ng_ (haang4)) 屋上桁槁
+  ==
+W
+  ====
+  - [[Page~74 (4)桁 _(4)H(a/)ng_ (haang4); here normalised to _(4)Hang_ (hang4)]]
+    ==
+    - The purlines of a roof [[Kangxi: 屋桁屋橫木也]];
+    - [[...]];
+    <## TODO: normalise to $桁hong4
+    - a plank to cross a rivulet;
+    - stocks for feet;
+    ##>
+    <## TODO: correct to $桁hong6
+    - a clotheshorse;
+    ##>
+    - _~~(4)h(a/)ng~~ ``(4)hang`` kok(8)_
+        [[hang4 gok3 桁桷]]
+        purlines and rafters;
+    - _uk(7) ~~(4)h(a/)ng~~ ``(4)hang``_
+        [[uk1 hang4 屋桁]],
+        purlines.
+    ==
+    --
+    [[Otherwise, a reading variation. **See $桁hong4 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+P
+  ++
+  1. A wooden lid for sacrificial wine jars used in burial (Kangxi: 葬具, ::[...]所以蓋也苞筲甕甒之屬以木桁塞其口也::).
+  ++
+L
+  ====
+  * 【桁】 (haeng)
+    ==
+    - (_noun-like_) wooden-lid
+    ==
+  ====
+S
+  ==
+  - ($桁haang4)
+  - $桁hong4 (TODO)
+  - $桁hong6 (TODO)
   ==
 $$
 
@@ -560,7 +619,7 @@ A
   ==
 V
   ==
-  - haang4 (vernacular for "walk" and "move" senses)
+  - haang4 (vernacular longer syllable for "walk" and "move" senses)
   ==
 F
   ==
