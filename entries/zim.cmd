@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-09-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -871,7 +871,7 @@ W
         to assume precedence;
     - _ch(i/)m(3) (2)si(u/) sh(i/)n(6)_
         [[zim3 siu2 sin6 占小善]]
-        ~~to praise one's self;~~
+        ~~to praise one's self~~;
     - _ch(i/)m(3) (4)p(')(i/)n (4)(i/)_
         [[zim3 pin4 ji4-2 占便宜]],
         to take what one likes, to assume more for one's self;
