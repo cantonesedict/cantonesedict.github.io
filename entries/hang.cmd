@@ -822,6 +822,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $倖6
 - $婞6
 - $幸6
 - $悻6
@@ -829,23 +830,39 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-<##
+### 倖6 | _Hang(6)_ [[hang6]]
+
 $$
+R
+  ⼈ + 8
+U
+  U+5016
+A
+  ==
+  - 幸 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.32 幸) ::[慶]幸不[當]得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸::
+  - (F2.32 倖) 徼倖
+  ==
 W
   ====
   - [[Page~74 倖(6)]]
-    ==
-    - To obtain or avoid without merit or right;
-    - _hang(6) (5)m(i/)n_
-        [[hang6 min5]],
-        fortunately escaped;
-    - _(1)hi(u/) hang(6)_
-        [[hiu1 hang6]]
-        very fortunate.
-    ==
+    --
+    [[Alternative form of 幸 (for the "fortunate" and "favour" senses). See $幸hang6.]]
+    --
   ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke ㇖ in 慶,
+    and fixed missing final stroke in 當.
+  ==
+P
+  ++
+  1. Alternative form of 婞. **See $婞hang6 for the canonical entry.**
+  ++
 $$
-##>
 
 ###+ 婞6 | _Hang(6)_ [[hang6]]
 
@@ -856,6 +873,7 @@ U
   U+5A5E
 A
   ==
+  - $倖6
   - $悻6
   ==
 F
@@ -867,6 +885,9 @@ W
     - [[...]];
     - quarrelsome, pertinacious [[Kangxi 婞: 同悻, 很也]].
     ==
+    --
+    [[Otherwise, an alternative form of 幸 (for the "favour" sense). **See $幸hang6 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -886,7 +907,8 @@ U
   U+5E78
 A
   ==
-  - 倖
+  - $倖6 (for "fortunate" and "favour" senses)
+  - $婞6 (for "favour" sense)
   ==
 F
   ==
@@ -897,7 +919,7 @@ W
   ====
   - [[Page~73 幸(6)]]
     ==
-    - Fortunate, lucky [[Kangxi: 吉而免凶也 etc., 非分而得曰幸 etc.]];
+    - Fortunate, lucky [[Kangxi: 吉而免凶也 etc.]];
     - blessed;
     - happily;
     - an emperor reaching or tarrying in a place [[Kangxi: 幸天子所至也]];
@@ -916,6 +938,16 @@ W
     - _pat(7) hang(6) (1)chung (1)ch(i/) hang(6)_
         [[bat1 hang6 zung1 zi1 hang6 不幸中之幸]]
         fortunate in the midst of disaster.
+    ==
+  - [[Page~74 倖(6)]]
+    ==
+    - To obtain or avoid without merit or right [[Kangxi 幸: 非分而得曰幸, 非所當得而得與不可免而免曰幸]];
+    - _hang(6) (5)m(i/)n_
+        [[hang6 min5 倖免]],
+        fortunately escaped;
+    - _(1)hi(u/) hang(6)_
+        [[hiu1 hang6 僥倖]]
+        very fortunate.
     ==
   ====
 C
