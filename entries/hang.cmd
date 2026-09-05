@@ -54,6 +54,7 @@ $$
 - $哼1
 - $牼1
 - $硜1
+- $脝1
 - $鏗1
 ==
 </nav>
@@ -85,6 +86,9 @@ W
         [[hang1 keoi1 亨區]],
         a quiet street, an eligible street.
     ==
+    --
+    [[Otherwise, an alternative form of 脝. **See $脝hang1 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -208,20 +212,30 @@ L
   ====
 $$
 
-<##
+### 脝1 | _(1)Hang_ [[hang1]]
+
 $$
+R
+  ⾁ + 7
+U
+  U+811D
+A
+  ==
+  - $亨1
+  ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~716 (1)脝]]
     ==
-    - A puffed belly;
+    - A puffed belly [[Kangxi: 膨脝脹也, 膨脝腹滿貌]];
     - _(4)p(')(a/)ng (1)hang_
-        [[paang4 hang1]],
+        [[paang4 hang1 膨脝]],
         a swelled belly, one distended by wind.
     ==
   ====
 $$
-##>
 
 ### 鏗1 | _(1)Hang_ [[hang1]]
 
