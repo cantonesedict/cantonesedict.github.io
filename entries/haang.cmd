@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haang
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-09-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
-
---{.modern}
-(From Page~74 of the original onwards.)
---
 
 #{.williams} H(a/)ng. [[haang]]
 
@@ -21,6 +17,32 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - H(a/)ng. [[Page~74]]
+  ==
+WP
+  ==
+  - H(a/)ng <span class="modern">= *[haːŋ]</span>
+  ==
+MP
+  ==
+  - haang = [haːŋ]
+  ==
+S
+  ==
+  - $hang
+  ==
+$$
 
 <##
 $$
