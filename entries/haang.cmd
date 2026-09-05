@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [haang1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -44,37 +45,75 @@ S
   ==
 $$
 
-<##
+
+##{#1 .williams} (1)H(a/)ng [[haang1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $坑1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 坑1 | _(1)H(a/)ng_ [[haang1]]
+
 $$
+R
+  ⼟ + 4
+U
+  U+5751
+A
+  ==
+  - 坈
+  - 阬
+  ==
+F
+  ==
+  - (F2.88 坑) 坑坎阱也
+  ==
 W
   ====
   - [[Page~74 (1)坑]]
     ==
-    - A ditch, trench, hollow, hole, cave, or pit, natural or artificial;
+    - A ditch, trench, hollow, hole, cave, or pit, natural or artificial [[Kangxi: 同阬, 虛也, 陷也]];
     - the furrows in a roof;
     - a pit to entrap wild beasts;
     - to throw into a pit;
     - to excavate;
     - _(1)h(a/)ng (4)k(')(u:)_
-        [[haang1 keoi4]],
+        [[haang1 keoi4 坑渠]],
         a sewer or drain;
     - _(1)h(a/)ng (2)h(o\)m_
-        [[haang1 ham2]],
+        [[haang1 ham2 坑坎]],
         a natural gully, a ravine;
-    - _(2)L(o\) (1)h(a/)ng_
-        [[lou2 haang1]],
-        a quarry in Sh(a/)uking f(u/) [[]]
+    - _~~(2)L(o\)~~ ``(5)L(o\)`` (1)h(a/)ng_
+        [[lou5 haang1 老坑]],
+        a quarry in ~~Sh(a/)uking~~ ``Ch(a/)uking`` f(u/) [[肇慶府]]
         which furnishes good inkstones;
     - _(2)shui (1)h(a/)ng (4)m(u/)n_
-        [[seoi2 haang1 mun4]],
+        [[seoi2 haang1 mun4 水坑門]],
         a sluice;
     - _(4)m(u/)i (1)h(a/)ng_
-        [[mui4 haang1]],
+        [[mui4 haang1 煤坑]],
         a coal pit.
     ==
   ====
+C
+  ==
+  - Williams' 老坑: Corrected _(2)L(o\)_ (lou2) to _(5)L(o\)_ (lou5).
+  ==
+L
+  ====
+  * 【阬】 (khaeng)
+    ==
+    - (_noun-like_) pit
+    - (_verb-like_) (_met._) [to] bury
+    ==
+  ====
 $$
-##>
+
+<## TODO: 坑渠 under $渠keoi4 (with examples 通坑渠, 坑渠蓋) ##>
 
 <##
 $$

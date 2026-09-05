@@ -3884,6 +3884,14 @@ window.onload = applyFilter;
       - (_noun-like_) guest
       ==
   //
+    , `khaeng`
+    , [阬](/entries/haang#rendering-阬)
+    ,
+      ==
+      - (_noun-like_) pit
+      - (_verb-like_) (_met._) [to] bury
+      ==
+  //
     , `kheang`
     , [硜](/entries/hang#rendering-硜)
     ,

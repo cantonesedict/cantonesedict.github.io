@@ -358,6 +358,7 @@ For all radicals, see [Index of characters by radical](./).
       - ($坂faan2)
       - $坏fau1
       - $坊fong1, ($坊fong4)
+      - $坑haang1
       - $址zi2
       - $坁zi2
       ==
