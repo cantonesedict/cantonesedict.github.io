@@ -52,6 +52,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $坑1
+- ($阬1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -66,7 +67,7 @@ U
 A
   ==
   - 坈
-  - 阬
+  - $阬1
   ==
 F
   ==
@@ -114,6 +115,23 @@ L
 $$
 
 <## TODO: 坑渠 under $渠keoi4 (with examples 通坑渠, 坑渠蓋) ##>
+
+###+ 阬1 | _(1)H(a/)ng_ [[haang1]]
+
+$$.
+R
+  ⾩ + 4
+U
+  U+962C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 坑. **See $坑haang1 for the canonical entry.**
+  ++
+$$
 
 <##
 $$
