@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [he1](#1)
+- [he3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -74,4 +75,40 @@ S
   ==
 $$
 
-<## TODO: ${𠺪=⿰口氣}he3 ##>
+
+##{#3 .williams} ``H(e/)(3)`` [[he3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ${𠺪=⿰口氣}3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ {𠺪=⿰口氣}3 | _H(e/)(3)_ [[he3]]
+
+$$
+R
+  ⼝ + 10
+U
+  U+20EAA
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【{𠺪=⿰口氣}】 (he3)
+    ++
+    1. To stuff around, to waste time being unproductive.
+       ==
+       - {𠺪=⿰口氣}半個鐘 (he3 bun3 go3 zung1): "Stuff around [for] half [an] hour."
+       ==
+    1. To do without due care or effort, to treat casually.
+    ++
+  ====
+  --
+  Commonly spelt hea. The spelling {𠺪=⿰口氣} is arbitrary.
+  --
+$$

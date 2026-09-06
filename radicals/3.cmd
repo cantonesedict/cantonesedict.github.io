@@ -209,6 +209,7 @@ For all radicals, see [Index of characters by radical](./).
       - $嗔can1
       - $嗅cau3
       - $嗤ci1
+      - ${𠺪=⿰口氣}he3
       - ${𠹻=⿰口朕}zam6
       - $嗟ze1
       - $嗣zi6
