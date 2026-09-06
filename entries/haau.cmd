@@ -162,3 +162,37 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~77 (2)考]]
+    ==
+    - Aged;
+    - a deceased father;
+    - finished, complete;
+    - to examine, to question;
+    - to strike;
+    - _(2)h(a/)u (i/)m(6)_
+        [[haau2 jim6]]
+        a triennial examination of ~~ofcers~~ ``officers``;
+    - _(2)h(a/)u (2)si(u/) sh(i/)(3)_
+        [[haau2 siu2 si3]]
+        to examine for the lowest degree;
+    - _(1)s(i/)n (2)h(a/)u_
+        [[sin1 haau2]],
+        my departed father;
+    - _(u:)n(6) (2)h(a/)u_
+        [[jyun6 haau2]],
+        a district examination;
+    - _(2)h(a/)u on(3) (2)shau_
+        [[haau2 on3 sau2]],
+        the first of the _si(u/)ts(a/)i_ [[秀才]];
+    - _(2)h(a/)u k(a/)u(3)_
+        [[haau2 gaau3]]
+        to examine carefully.
+    ==
+  ====
+$$
+##>
