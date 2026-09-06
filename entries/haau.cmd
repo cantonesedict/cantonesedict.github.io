@@ -54,6 +54,30 @@ $$
 $$
 W
   ====
+  - [[Page~77 (1)哮]]
+    ==
+    - To howl, to bellow, to roar, as beasts when afraid or angry;
+    - to grunt (as swine);
+    - a loud call;
+    - to pant or gasp;
+    - _(1)h(a/)u (1)h(a/)_
+        [[haau1 haa1]],
+        shortness of breath;
+    - _(1)h(a/)u k(')at(7)_
+        [[haau1 kat1]]
+        a hacking cough;
+    - _(1)h(a/)u (2)ch(')(u:)n_
+        [[haau1 cyun2]],
+        the asthma.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 ::(1)~~{𫾣=⿰高支}~~``敲``::]]
     ==
     - A baton or club;
