@@ -86,6 +86,19 @@ $$
 $$
 W
   ====
+  - [[Page~77 (1)磽]]
+    ==
+    - Stony, arid land;
+    - poor soil.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 (1)拷 _(1)H(a/)u_ (haau1); here normalised to _(2)H(a/)u_ (haau2)]]
     ==
     - To beat or torture to extort a confession;
