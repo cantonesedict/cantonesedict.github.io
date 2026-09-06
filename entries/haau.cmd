@@ -167,6 +167,25 @@ $$
 $$
 W
   ====
+  - [[Page~77 (2)攷]]
+    ==
+    - To search into;
+    - used for the preceding [[考]];
+    - _(2)h(a/)u ch(')(a/)t(8)_
+        [[haau2 caat3]]
+        to examine;
+    - _(2)h(a/)u (4)shing_
+        [[haau2 sing4]],
+        decision of official merits.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 (2)考]]
     ==
     - Aged;
