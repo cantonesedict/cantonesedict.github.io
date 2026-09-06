@@ -340,6 +340,19 @@ $$
 $$
 W
   ====
+  - [[Page~78 恔(6)]]
+    ==
+    - Hilarity, joy;
+    - cheerful, pleased with the company of others.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~78 效(6)傚(6)]]
     ==
     - To imitate, to learn, to copy;
