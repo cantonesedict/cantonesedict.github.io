@@ -276,3 +276,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~77 孝(3)]]
+    ==
+    - Filial duty, obedience, respect to parents;
+    - mourning for parents;
+    - _h(a/)u(3) shun(6)_
+        [[haau3 seon6]]
+        dutiful and obedient;
+    - _(4)hang h(a/)u(3)_
+        [[hang4 haau3]]
+        to obey;
+    - _ch(e/)uk(8) h(a/)u(3)_
+        [[zoek3 haau3]]
+        to put on mourning for parents;
+    - _h(a/)u(3) (1)sam (4)yan_
+        [[haau3 sam1 jan4]],
+        a filial son;
+    - _h(a/)u(3) fuk(9)_
+        [[haau3 fuk6]]
+        white mourning;
+    - _h(a/)u(3) ~~ch(')(e/)ung(3)~~ ``ch(e/)ung(6)``_
+        [[haau3 zoeng6]]
+        the mourning staff (used by the chief mourner).
+    ==
+  ====
+$$
+##>
