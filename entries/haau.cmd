@@ -314,6 +314,32 @@ $$
 $$
 W
   ====
+  - [[Page~78 効(6)]]
+    ==
+    - To toil, to follow a rule;
+    - to imitate;
+    - exertion, effects;
+    - _h(a/)u(6) lik(9)_
+        [[haau6 lik6]]
+        to exert one's self;
+    - _h(a/)u(6) (4)l(o\)_
+        [[haau6 lou4]],
+        to moil for another;
+    - _(1)kung h(a/)u(6)_
+        [[gung1 haau6]]
+        meritorious exertion.
+    ==
+    --
+    Used for the preceding [[效, 傚]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~78 效(6)傚(6)]]
     ==
     - To imitate, to learn, to copy;
