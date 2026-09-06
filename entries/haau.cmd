@@ -379,3 +379,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~78 校(6)]]
+    ==
+    - A school, a college, anciently so called;
+    - an inclosure or horsepen.
+    ==
+  ====
+$$
+##>
