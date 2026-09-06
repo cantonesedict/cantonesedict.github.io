@@ -151,7 +151,7 @@ For all radicals, see [Index of characters by radical](./).
       - ($哽ang2)
       - $唓ce1
       - $哼hang1
-      - $唏he1
+      - ($唏he1), $唏hei1
       - $唧zek1, $唧zik1
       - $哲zit3
       ==

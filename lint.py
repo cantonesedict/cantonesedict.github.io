@@ -184,7 +184,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "h(a/)ng": ['haang'],
     "h(a/)p": ['haap'],
     "h(a/)u": ['haau'],
-    "h(e/)": ['he'],
+    "h(e/)": ['he', 'hei'],
     "h(e/)ung": ['hoeng'],
     "h(i/)": ['hei'],
     "h(i/)m": ['him'],

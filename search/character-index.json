@@ -9599,8 +9599,12 @@
 },
 "唏":{
 "he1":{
+"isCanonical":false,
+"text":"U+550F (Page 78 _He_ (he1) exemplified; here assigned to 唏)"
+},
+"hei1":{
 "isCanonical":true,
-"text":"U+550F (Page 78 _He_ (he1) exemplified; here assigned to 唏) A colloquial exclamation, expressing disapproval; _he 'm ho ~~t'au~~ tau_ (he1, m4 hou2 dau3 唏唔好鬥) ~~do n't~~ don't touch it!"
+"text":"U+550F he1 (by strict analogy with Williams) (Page 78 _He_ (he1) exemplified; here assigned to 唏 and hypothesised to be modern hei1) A colloquial exclamation, expressing disapproval; _he 'm ho ~~t'au~~ tau_ (hei1, m4 hou2 dau3 唏唔好鬥) ~~do n't~~ don't touch it! Strict analogy with Williams' _he_ results in the modern reading he1. However, because Williams' _he_ was likely sounded *heɪ (based on his description of the final _e_), I hypothesise here that _he_ actually corresponds to the modern interjection hei1, which is sounded hei. Williams' 唏唔好鬥: Corrected _t'au_ (tau3) to _tau_ (dau3)."
 }
 },
 "之":{

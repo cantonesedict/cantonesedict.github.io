@@ -47,14 +47,14 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
-- $唏1
+- ($唏1)
 ==
 </nav>
 <## /tone-1-characters ##>
 
 ### ``唏``1 | _(1)H(e/)_ [[he1]]
 
-$$
+$$.
 R
   ⼝ + 7
 U
@@ -64,13 +64,14 @@ F
 W
   ====
   - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏]]
-    ==
-    - A colloquial exclamation, expressing disapproval;
-    - _(1)h(e/) (4)'m (2)h(o\) ~~t(')au(3)~~ ``tau(3)``_
-        [[he1, m4 hou2 dau3 唏唔好鬥]]
-        ~~do n't~~ ``don't`` touch it!
-    ==
+    --
+    [[Reading variation (by strict analogy with Williams). **See $唏hei1 for the canonical entry.**]]
+    --
   ====
+S
+  ==
+  - $唏hei1
+  ==
 $$
 
 <## TODO: ${𠺪=⿰口氣}he3 ##>
