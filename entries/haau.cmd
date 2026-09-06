@@ -78,6 +78,19 @@ $$
 $$
 W
   ====
+  - [[Page~77 (1)尻]]
+    ==
+    - The end of the spine, the os coxendicis;
+    - the rump or seat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 ::(1)~~{𫾣=⿰高支}~~``敲``::]]
     ==
     - A baton or club;
