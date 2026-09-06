@@ -149,6 +149,51 @@ $$
 $$
 W
   ====
+  - [[Page~77 (2)巧]]
+    ==
+    - Skillful, ingenious, dexterous, handy;
+    - clever, as an artisan;
+    - talented, adroit;
+    - ingenuity;
+    - genius;
+    - wily, crafty, specious, deceitful;
+    - witty, subtle, shrewd, ready;
+    - pleasing;
+    - _(2)h(a/)u mi(u/)(6)_
+        [[haau2 miu6]]
+        well done, fine work;
+    - _(2)h(a/)u y(e/)ung(6)_
+        [[haau2 joeng6]]
+        a new or ingenious pattern;
+    - _~~ts'au(3)~~ ``ts(')au(3)`` (2)h(a/)u_
+        [[cau3 haau2 湊巧]]
+        unexpected and well-timed;
+    - _(2)h(a/)u (2)shau_
+        [[haau2 sau2]],
+        a skillful workman;
+    - _(2)h(a/)u si(u/)(3)_
+        [[haau2 siu3]]
+        pleasant, goodnatured;
+    - _(1)kw(a/)i (2)h(a/)u_
+        [[gwaai1 haau2]],
+        smart;
+    - _(2)h(a/)u p(i/)n(6)_
+        [[haau2 bin6]]
+        good at excuses.
+    ==
+  ====
+C
+  ==
+  - Williams' 湊巧: Corrected _ts'au(3)_ (^with an apostrophe)
+    to _ts(')au(3)_ (^with an aspirate).
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 (1)拷 _(1)H(a/)u_ (haau1); here normalised to _(2)H(a/)u_ (haau2)]]
     ==
     - To beat or torture to extort a confession;
