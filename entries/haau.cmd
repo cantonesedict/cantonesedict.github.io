@@ -81,3 +81,21 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~77 (1)拷 _(1)H(a/)u_ (haau1); here normalised to _(2)H(a/)u_ (haau2)]]
+    ==
+    - To beat or torture to extort a confession;
+    - _~~(1)h(a/)u~~ ``(2)h(a/)u`` k(e/)uk(8) (5)ng(a/)n_
+        [[haau2 goek3 ngaan5]],
+        to beat the ancles;
+    - _~~(1)h(a/)u~~ ``(2)h(a/)u`` (2)t(a/)_
+        [[haau2 daa2]],
+        to torture.
+    ==
+  ====
+$$
+##>
