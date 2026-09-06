@@ -186,6 +186,22 @@ $$
 $$
 W
   ====
+  - [[Page~77 (2)栲]]
+    ==
+    - A tree producing a kind of varnish;
+    - the wood is hard.
+    ==
+    --
+    _Qu._ a kind of Dryandra.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 (2)考]]
     ==
     - Aged;
