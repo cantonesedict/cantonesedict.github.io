@@ -123,6 +123,19 @@ $$
 $$
 W
   ====
+  - [[Page~77 (1)虓]]
+    ==
+    - The scream or roar of a tiger;
+    - beside one's self with anger.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 (1)拷 _(1)H(a/)u_ (haau1); here normalised to _(2)H(a/)u_ (haau2)]]
     ==
     - To beat or torture to extort a confession;
