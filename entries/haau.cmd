@@ -309,3 +309,34 @@ $$
 ##>
 
 <## TODO: $姣haau4 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~78 效(6)傚(6)]]
+    ==
+    - To imitate, to learn, to copy;
+    - to verify;
+    - like, similar to;
+    - effectual, efficacious;
+    - an example;
+    - exertion;
+    - effects, results;
+    - to offer;
+    - _hok(9) h(a/)u(6)_
+        [[hok6 haau6]]
+        to imitate;
+    - _h(a/)u(6) f(a/)t(8)_
+        [[haau6 faat3]]
+        to practice, to follow;
+    - _h(a/)u(6) (i/)m(6) (4)(u:)n_
+        [[haau6 jim6 jyun4-2]],
+        an efficacious pill;
+    - _h(a/)u(6) (4)yau_
+        [[haau6 jau4]],
+        to do like the pattern.
+    ==
+  ====
+$$
+##>
