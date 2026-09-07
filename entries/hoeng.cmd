@@ -148,3 +148,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~78 (2)饗]]
+    ==
+    - To offer in sacrifice;
+    - to feast a guest;
+    - to spread out a feast;
+    - a banquet or sacrifice;
+    - _(4)shan (2)h(e/)ung_
+        [[san4 hoeng2]],
+        offerings to the gods;
+    - _(2)h(e/)ung tsz'(6)_
+        [[hoeng2 zi6]]
+        offerings to ancestors.
+    ==
+  ====
+$$
+##>
