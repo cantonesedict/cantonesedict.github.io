@@ -126,6 +126,20 @@ $$
 $$
 W
   ====
+  - [[Page~79 (1)晞]]
+    ==
+    - To dry;
+    - dried;
+    - daybreak, bright.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)欺]]
     ==
     - To cheat, to impose upon, to deceive;
