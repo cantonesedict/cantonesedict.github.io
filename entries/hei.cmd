@@ -59,6 +59,23 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~79 (1)俙]]
+    ==
+    - Simulated, pretending, like to;
+    - obscure;
+    - to counterfeit;
+    - _(1)(i/) (1)h(i/)_
+        [[ji1 hei1]],
+        appearing as if.
+    ==
+  ====
+$$
+##>
+
 ### ``唏``1 | _(1)H(e/)_ [[hei1]]
 
 $$
