@@ -153,6 +153,27 @@ $$
 $$
 W
   ====
+  - [[Page~79 (2)晌]]
+    ==
+    - Noon, meridian;
+    - _(2)h(e/)ung (5)'ng_
+        [[hoeng2 ng5]],
+        noon, midday;
+    - _yat(7) (2)h(e/)ung_
+        [[jat1 hoeng2]],
+        half a day;
+    - _p(u/)n(3) (2)h(e/)ung_
+        [[bun3 hoeng2]],
+        three hours.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 ::(2)~~{？=⿱⿲乡良阝虫}~~``蠁``::]]
     ==
     - A worm which notices sounds, a silkworm?
