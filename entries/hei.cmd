@@ -299,6 +299,20 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (1)譆]]
+    ==
+    - The cry of one in pain or sorrow;
+    - grumbling;
+    - the reply of spirits.
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
