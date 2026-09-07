@@ -177,6 +177,27 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~79 (1)稀]]
+    ==
+    - Open, wide apart, not close, loose;
+    - thin;
+    - few;
+    - careless, remiss;
+    - _(1)h(i/) (1)sho_
+        [[hei1 so1]],
+        widely, open;
+    - _(1)h(i/) ~~(5)h(i/)~~ ``(1)h(i/)`` t(i/)(6)_
+        [[hei1 hei1 dei6-2]],
+        thin, watery (as glue, paste).
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
