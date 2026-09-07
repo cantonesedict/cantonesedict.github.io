@@ -413,6 +413,23 @@ W
   ====
 $$
 
+<##
+$$
+W
+  ====
+  - [[Page~79 (1)絺 _(1)H(i/)_ (hei1); here normalised to _(1)Ch(')(i/)_ (ci1)]]
+    ==
+    - The fibres of hemp, used in making linen;
+    - fine hempen cloth.
+    ==
+  ====
+S
+  ==
+  - ($絺hei) (TODO)
+  ==
+$$
+##>
+
 ### 胝1 | _(1)Ch(')(i/)_ [[ci1]]
 
 $$.
