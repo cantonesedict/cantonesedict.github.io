@@ -97,6 +97,46 @@ S
   ==
 $$
 
+<##
+$$
+W
+  ====
+  - [[Page~79 (1)欺]]
+    ==
+    - To cheat, to impose upon, to deceive;
+    - to fail in;
+    - to self-deceive;
+    - to insult, to abuse when in power;
+    - to ridicule;
+    - _(1)h(i/) p(')(i/)n(3)_
+        [[hei1 pin3]]
+        to cheat;
+    - _(1)h(i/) p(a/)(3) (5)ngo_
+        [[hei1 baa3 ngo5]],
+        to covet;
+    - _(1)h(i/) (4)yan_
+        [[hei1 jan4]],
+        a cheat, a rascal;
+    - _(1)h(i/) f(u/)(6)_
+        [[hei1 fu6]]
+        to reproach;
+    - _(1)h(i/) (1)sam_
+        [[hei1 sam1]],
+        to delude one's self;
+    - _(1)h(i/) (a/)t(8)_
+        [[hei1 aat3]]
+        to oppress wantonly;
+    - _(1)h(i/) lung(6)_
+        [[hei1 lung6]]
+        to make sport of;
+    - _(1)h(i/) (4)m(u/)n_
+        [[hei1 mun4]],
+        to lie to, to deceive.
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
