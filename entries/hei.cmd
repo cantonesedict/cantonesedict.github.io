@@ -330,6 +330,23 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (1)豨]]
+    ==
+    - A name for pigs in H(u/)n(a/)n [[湖南]];
+    - a call to hogs;
+    - the grunting of pigs;
+    - _(1)fung (1)h(i/)_
+        [[fung1 hei1]],
+        a divine animal which protects against snakes.
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
