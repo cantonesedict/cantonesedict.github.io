@@ -76,6 +76,21 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (1)僛]]
+    ==
+    - Tipsy, about to fall, to reel like a sot;
+    - _(1)h(i/) (1)h(i/)_
+        [[hei1 hei1]],
+        reeling, staggering.
+    ==
+  ====
+$$
+##>
+
 ### ``唏``1 | _(1)H(e/)_ [[hei1]]
 
 $$
