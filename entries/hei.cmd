@@ -347,6 +347,24 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (1)醯]]
+    ==
+    - Sour, acid taste, like vinegar;
+    - _(1)h(i/) (1)kai_
+        [[hei1 gai1]],
+        animalculæ in vinegar;
+    - _(1)h(i/) ts(e/)ung(3)_
+        [[hei1 zoeng3]]
+        pickled condiments.
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
