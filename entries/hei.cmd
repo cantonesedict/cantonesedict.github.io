@@ -359,6 +359,22 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)羲]]
+    ==
+    - A name;
+    - _Fuk(9) (1)h(i/)_
+        [[fuk6 hei1]],
+        the founder of the Chinese monarchy;
+        also called _(1)H(i/) (4)wong_ [[hei1 wong4]], the Emperor H(i/).
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~80 (1)譆]]
     ==
     - The cry of one in pain or sorrow;
