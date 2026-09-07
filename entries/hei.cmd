@@ -149,6 +149,19 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)嚱]]
+    ==
+    - The voice, sound of the breath emitted forcibly;
+    - a sigh.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~80 (1)嬉]]
     ==
     - Pretty, handsome;
