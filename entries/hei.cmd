@@ -162,6 +162,21 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~79 (1)睎]]
+    ==
+    - To look with longing, to hope earnestly, to remember kindly.
+    ==
+    --
+    Used for the preceding [[希]].
+    --
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
