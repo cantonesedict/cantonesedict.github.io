@@ -118,3 +118,33 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~78 (2)享]]
+    ==
+    - To offer up, to present or sacrifice to a god or superior;
+    - to enjoy;
+    - to receive an offering;
+    - a repast;
+    - _(2)h(e/)ung fuk(7)_
+        [[hoeng2 fuk1]]
+        to be happy;
+    - _(2)h(e/)ung yung(6)_
+        [[hoeng2 jung6]],
+        to enjoy the use of, a free use;
+    - _(4)ch(')(e/)ung (2)h(e/)ung_
+        [[coeng4 hoeng2]],
+        to enjoy long;
+    - _(2)h(e/)ung shau(6)_
+        [[hoeng2 sau6]]
+        happy in his age;
+    - _(2)h(e/)ung (5)wing (5)(u:)n (1)ch(i/) fuk(7)_
+        [[hoeng2 wing5 jyun5 zi1 fuk1]]
+        to enjoy eternal happiness.
+    ==
+  ====
+$$
+##>
