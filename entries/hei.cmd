@@ -226,6 +226,22 @@ $$
 $$
 W
   ====
+  - [[Page~79 (1)禧]]
+    ==
+    - Happy, lucky, blessed by the gods;
+    - to pray or implore the gods;
+    - _(1)kung ho(6) (1)san (1)h(i/)_
+        [[gung1 ho6 san1 hei1]],
+        respectfully to congratulate on the new [year's] happiness.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)稀]]
     ==
     - Open, wide apart, not close, loose;
