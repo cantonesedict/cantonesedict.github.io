@@ -275,3 +275,15 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~79 (2)珦 _(2)H(e/)ung_ (hoeng2); here corrected _H(e/)ung(3)_ (hoeng3)]]
+    ==
+    - An ornament worn on the girdle by women.
+    ==
+  ====
+$$
+##>
