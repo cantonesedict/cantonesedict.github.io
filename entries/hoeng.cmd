@@ -208,6 +208,36 @@ $$
 $$
 W
   ====
+  - [[Page~79 (2)餉]]
+    ==
+    - Provisions for workmen, and troops;
+    - taxes paid to government in kind;
+    - duties generally;
+    - to give or send food;
+    - _(1)ping ~~(2)h(e/)umg~~ ``(2)h(e/)ung``_
+        [[bing1 hoeng2]],
+        soldier's rations;
+    - _(2)h(e/)ung (4)ngan_
+        [[hoeng2 ngan4]],
+        duties;
+    - _(2)h(e/)ung (1)t(a/)n_
+        [[hoeng2 daan1]],
+        a duty "chop;"
+    - _(4)y(e/)ung (2)h(e/)ung_
+        [[joeng4 hoeng2]],
+        maritime custom-house duties;
+    - _(2)h(e/)ung shik(9)_
+        [[hoeng2 sik6]]
+        give him to eat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~78 (2)饗]]
     ==
     - To offer in sacrifice;
