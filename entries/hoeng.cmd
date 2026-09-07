@@ -280,6 +280,53 @@ $$
 $$
 W
   ====
+  - [[Page~79 向(3)]]
+    ==
+    - Towards, facing, opposite to;
+    - thinking upon;
+    - an intention, an object of study;
+    - time past, former, heretofore;
+    - a window or opening;
+    - points of compass;
+    - _h(e/)ung(3) yat(9)_
+        [[hoeng3 jat6]]
+        on a former day;
+    - _yat(7) h(e/)ung(3)_
+        [[jat1 hoeng3]]
+        formerly, for a time;
+    - _h(e/)ung(3) pak(7)_
+        [[hoeng3 bak1]],
+        northerly;
+    - _h(e/)ung(3) (4)loi_
+        [[hoeng3 loi4]],
+        heretofore;
+    - _(1)sam (4)'m h(e/)ung(3)_
+        [[sam1 m4 hoeng3]]
+        mind not on your work;
+    - _(5)n(i/) (1)sam (i/)(6)-shap(9)-sz'(3) h(e/)ung(3)_
+        [[nei5 sam1 ji6 sap6 sei3 hoeng3]]
+        your mind is quite unfixed;
+    - _(1)sam h(e/)ung(3) (4)m(o\) ting(6)_
+        [[sam1 hoeng3 mou4 ding6]]
+        discomposed, unsteady;
+    - _h(e/)ung(3) (5)n(i/) (2)kong_
+        [[hoeng3 nei5 gong2]],
+        to speak to you;
+    - _(i/)(3) h(e/)ung(3)_
+        [[ji3 hoeng3]]
+        intention;
+    - _h(e/)ung(3) (1)ts(')an_
+        [[hoeng3 can1]],
+        to come on one, to point towards.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (2)嚮 _(2)H(e/)ung_ (hoeng2); here corrected _H(e/)ung(3)_ (hoeng3)]]
     ==
     - Opposite;
