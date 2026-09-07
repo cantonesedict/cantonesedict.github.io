@@ -197,6 +197,20 @@ $$
 $$
 W
   ====
+  - [[Page~79 (1)熹]]
+    ==
+    - To heat, to roast or toast;
+    - hot, burning, light and heat together;
+    - abundant, pervading.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)睎]]
     ==
     - To look with longing, to hope earnestly, to remember kindly.
