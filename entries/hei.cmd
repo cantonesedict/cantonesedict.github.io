@@ -197,6 +197,23 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)欷]]
+    ==
+    - To sob, to catch the breath in weeping;
+    - to snore;
+    - timid;
+    - _(1)h(i/) (1)h(u:)_
+        [[hei1 heoi1]],
+        to sob and cry.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)欺]]
     ==
     - To cheat, to impose upon, to deceive;
