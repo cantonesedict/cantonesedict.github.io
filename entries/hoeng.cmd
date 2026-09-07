@@ -173,6 +173,17 @@ W
         [[hou2 hau2 hoeng2]],
         he can talk enough, wordy.
     ==
+  - [[Page~78 (2)响; here normalised to 響]]
+    ==
+    - Used for the preceding [[響]];
+    - also to be at, in, at a place;
+    - _(5)n(i/) (2)h(e/)ung (5)m(a/) (4)t(')au ~~ch(u:)(3)~~ ``ch(u:)(6)``_
+        [[nei5 hoeng2 maa5 tau4 zyu6]]
+        do you live at the landing?
+    - _(2)h(e/)ung ch(')(u:)(3)_
+        [[hoeng2 cyu3]]
+        it is there.
+    ==
   ====
 $$
 ##>
