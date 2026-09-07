@@ -269,6 +269,30 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)煕; here normalised to 熙]]
+    ==
+    - Light, splendor, brightness;
+    - flourishing, glorious, prospering, extending;
+    - lasting, ample;
+    - dry drying~~,~~``;``
+    - _(1)h(i/) (1)ch(')un (4)ch(')(a/)_
+        [[hei1 ceon1 caa4]],
+        Hyson tea;
+    - _(1)h(i/) (4)wo_
+        [[hei1 wo4]],
+        prosperous;
+    - _(1)h(i/) (4)ch(')i(u/)_
+        [[hei1 ciu4]],
+        a flourishing dynasty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)熹]]
     ==
     - To heat, to roast or toast;
