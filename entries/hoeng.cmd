@@ -153,6 +153,22 @@ $$
 $$
 W
   ====
+  - [[Page~79 ::(2)~~{？=⿱⿲乡良阝虫}~~``蠁``::]]
+    ==
+    - A worm which notices sounds, a silkworm?
+    - _yat(9) (2)h(e/)ung_
+        [[jat6 hoeng2]],
+        the buzz of flies in swarms;
+        sound of musketoes.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~78 (2)響]]
     ==
     - Noise, clamor, fracas;
