@@ -118,6 +118,30 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)嬉]]
+    ==
+    - Pretty, handsome;
+    - pleasant sports, rambles;
+    - an excursion;
+    - to ramble, to play, to enjoy one's self;
+    - _(1)h(i/) (2)sh(a/)_
+        [[hei1 saa2]],
+        sporting, plays;
+    - _(1)h(i/) h(i/)(3)_
+        [[hei1 hei3]],
+        games of children;
+    - _(4)yau (1)h(i/)_
+        [[jau4 hei1]],
+        a pleasure excursion.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)希]]
     ==
     - Few, rare, seldom, infrequent;
