@@ -101,6 +101,31 @@ $$
 $$
 W
   ====
+  - [[Page~79 (1)希]]
+    ==
+    - Few, rare, seldom, infrequent;
+    - loose, not close or near;
+    - to hope, to wish, desirous;
+    - to scatter, to stop;
+    - to moult (feathers) or shed (hair);
+    - _(1)h(i/) (2)shi(u/)_
+        [[hei1 siu2]],
+        few;
+    - _(1)h(i/) (2)hon_
+        [[hei1 hon2]],
+        strange, odd;
+    - _(1)h(i/) (4)k(')(i/)_
+        [[hei1 kei4]],
+        unusual.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)欺]]
     ==
     - To cheat, to impose upon, to deceive;
