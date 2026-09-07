@@ -280,6 +280,27 @@ $$
 $$
 W
   ====
+  - [[Page~79 (2)嚮 _(2)H(e/)ung_ (hoeng2); here corrected _H(e/)ung(3)_ (hoeng3)]]
+    ==
+    - Opposite;
+    - to incline to, pressing forward to;
+    - _~~(2)h(e/)ung~~ ``h(e/)ung(3)`` (4)t(')ong_
+        [[hoeng3 tong4]],
+        sugar figures carried at weddings;
+    - _(2)ying ~~(2)h(e/)ung~~ ``h(e/)ung(3)``_
+        [[jing2 hoeng3]], the circumstances of a thing.
+    ==
+    --
+    Used for the next [[向]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (2)珦 _(2)H(e/)ung_ (hoeng2); here corrected _H(e/)ung(3)_ (hoeng3)]]
     ==
     - An ornament worn on the girdle by women.
