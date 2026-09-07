@@ -307,6 +307,23 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)犧]]
+    ==
+    - A sacrificial animal of a uniform color;
+    - sheep, goats, or oxen were used;
+    - spotless, pure;
+    - _(1)h(i/) (1)shang_
+        [[hei1 sang1]],
+        sacrificial animals, victims generally.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~79 (1)睎]]
     ==
     - To look with longing, to hope earnestly, to remember kindly.
