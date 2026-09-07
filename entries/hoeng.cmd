@@ -166,6 +166,14 @@ W
         [[bun3 hoeng2]],
         three hours.
     ==
+  - [[Page~716 (2)晌]]
+    --
+    Perhaps this should be 餉.
+    --
+    ==
+    - Occurs used for a plat of laud of six _(5)mau_ [[mau5]] in size,
+      military lands given to soldiers.
+    ==
   ====
 $$
 ##>
