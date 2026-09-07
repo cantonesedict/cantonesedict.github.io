@@ -153,6 +153,34 @@ $$
 $$
 W
   ====
+  - [[Page~78 (2)響]]
+    ==
+    - Noise, clamor, fracas;
+    - a sound, echo, a ringing din;
+    - _(2)h(e/)ung l(e/)ung(6)_
+        [[hoeng2 loeng6]]
+        a din?
+    - _yat(7) (1)shing (2)h(e/)ung_
+        [[jat1 sing1 hoeng2]],
+        a single word, once speaking, a sudden sound;
+    - _k(o\)m(3) (2)h(e/)ung_
+        [[gam3 hoeng2]],
+        so loud!
+    - _mok(9) (2)h(e/)ung_
+        [[mok6 hoeng2]],
+        silence!
+    - _~~(2)lo~~ ``(2)h(o\)`` (2)hau (2)h(e/)ung_
+        [[hou2 hau2 hoeng2]],
+        he can talk enough, wordy.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~78 (2)饗]]
     ==
     - To offer in sacrifice;
