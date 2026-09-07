@@ -80,6 +80,22 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)僖]]
+    ==
+    - To feel joy, to delight in;
+    - fearful of, cautious.
+    ==
+    --
+    Same as the next [[喜]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~80 (1)僛]]
     ==
     - Tipsy, about to fall, to reel like a sot;
