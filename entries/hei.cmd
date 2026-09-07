@@ -118,6 +118,22 @@ $$
 $$
 W
   ====
+  - [[Page~80 (1)嘻]]
+    ==
+    - The sound of merriment, voices of people laughing;
+    - an interjection of grief or anger, Alas!
+    - _(1)h(i/) (1)h(a/)_
+        [[hi1 haa1]],
+        the noise of laughing``.``
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~80 (1)嬉]]
     ==
     - Pretty, handsome;
