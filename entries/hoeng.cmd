@@ -26,6 +26,54 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~78 (1)鄕; here normalised to 鄉]]
+    ==
+    - A village, a country;
+    - directed towards;
+    - five _(1)chau_ [[zau1]], or 12,500~houses, make a _(1)h(e/)ung_ [[hoeng1]];
+    - rude, country-like, rustic;
+    - _(1)h(e/)ung (2)tong_
+        [[hoeng1 dong2]],
+        an association or society;
+    - _(1)h(e/)ung ~~(5)h(a/)~~ h(a/)(6)_
+        [[hoeng1 haa6-2 鄉下]],
+        the country;
+    - _(1)h(e/)ung (5)l(o\)_
+        [[hoeng1 lou5]],
+        a village elder;
+    - _(1)h(e/)ung (1)shan_
+        [[hoeng1 san1]],
+        village gentry;
+    - _(4)t(')ung (1)h(e/)ung_
+        [[tung4 hoeng1]],
+        fellow villagers;
+    - _(1)h(e/)ung tsuk(9)_
+        [[hoeng1 zuk6]]
+        rustic, rude manners;
+    - _(1)h(e/)ung (5)l(i/)_
+        [[hoeng1 lei5]],
+        village neighbors;
+    - _(1)h(e/)ung (4)t(')(a/)m_
+        [[hoeng1 taam4]],
+        a local brogue;
+    - _(1)h(e/)ung (1)ts(')(u:)n_
+        [[hoeng1 cyun1]],
+        a village.
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword 鄕 incompletely; here corrected.
+    (The character 鄕 appears correctly on Page~815 in the character index.)
+  - Williams' 鄉下: Corrected _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6-2).
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~78 (1)香]]
     ==
     - Fragrant, odoriferous, aromatic, sweet;
