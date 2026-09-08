@@ -317,3 +317,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~83 獻(3)]]
+    ==
+    - To offer or present to a god or superior;
+    - to give or present to another (in polite language);
+    - to hand up to;
+    - an offering;
+    - intelligent;
+    - _h(i/)n(3) ~~sh(e/)ung(6)~~ ``(5)sh(e/)ung``_
+        [[hin3 soeng5]]
+        to offer up;
+    - _h(i/)n(3) tai(6)_
+        [[hin3 dai6]]
+        to send a present to;
+    - _h(i/)n(3) (4)p(')(u/)n_
+        [[hin3 pun4]],
+        red trays in which presents are sent to a bride's father-in-law.
+    ==
+  ====
+$$
+##>
