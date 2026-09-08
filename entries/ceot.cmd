@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-09-08
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -45,6 +45,7 @@ $$
 - ($怵1)
 - ($絀1)
 - ($黜1)
+- $齣1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -137,6 +138,9 @@ W
         [[bat1 ceot1 so2 liu6 不出所料]]
         to guess aright.
     ==
+    --
+    [[Otherwise, an alternative form of 齣. **See $齣ceot1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -254,4 +258,25 @@ S
   ==
   - $黜zeot1
   ==
+$$
+
+###+ 齣1 | _Ch(')ut(7)_ [[ceot1]]
+
+$$
+R
+  ⿒ + 5
+U
+  U+9F63
+A
+  ==
+  - $出1
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Classifier for theatrical acts etc.
+  ++
 $$
