@@ -284,3 +284,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~83 憲(3)]]
+    ==
+    - A rule, precept, regulation, example;
+    - governmental;
+    - a ruler, an officer above the 4th~rank;
+    - to impose or publish laws, to govern;
+    - to follow closely;
+    - abundant;
+    - well informed;
+    - _t(a/)i(6) h(i/)n(3)_
+        [[daai6 hin3]]
+        the high officers;
+    - _h(i/)n(3) (4)t(')oi_
+        [[hin3 toi4]],
+        an official bench, _i.~e._ Your Excellency (used in writing);
+    - _h(i/)n(3) kam(3)_
+        [[hin3 gam3]]
+        an official prohibition;
+    - _h(i/)n(3) (1)k(u/)n_
+        [[hin3 gun1]],
+        high officers;
+    - _(4)sh(i/) h(i/)n(3) ~~(4)sh(u:)~~ ``(1)sh(u:)``_
+        [[si4 hin3 syu1]],
+        an imperial calendar.
+    ==
+  ====
+$$
+##>
