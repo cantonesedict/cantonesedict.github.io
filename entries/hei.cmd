@@ -617,6 +617,21 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~82 咥(3)]]
+    ==
+    - A loud laugh;
+    - _h(i/)(3) h(i/)(3) (4)(i/)n_
+        [[hei3 hei3 jin4]],
+        laughing, the sound of hearty merriment.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear as either ⿳吅犬吅 (+13 assumed here) or ⿳吅大吅 (+12),
   depending on the font.
