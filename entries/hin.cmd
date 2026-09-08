@@ -173,6 +173,25 @@ $$
 $$
 W
   ====
+  - [[Page~83 (2)譴]]
+    ==
+    - To reprimand, to blame, to find fault with;
+    - to rail at, to speak angrily;
+    - _(2)h(i/)n ch(a/)k(8)_
+        [[hin2 zaak3]]
+        to scold, to criminate;
+    - _(2)h(i/)n n(o\)(6)_
+        [[hin2 nou6]]
+        to talk angrily to one.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 (2)遣]]
     ==
     - To commission, to depute, to send, to let go;
