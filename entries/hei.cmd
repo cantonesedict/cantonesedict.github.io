@@ -466,6 +466,40 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (2)喜]]
+    ==
+    - Pleased, joyful;
+    - that which gives joy;
+    - to feel glad, to give joy to, to rejoice;
+    - to like;
+    - _(2)h(i/) shik(7)_
+        [[hei2 sik1]]
+        a cheerful face;
+    - _(2)h(i/) (u:)t(9)_
+        [[hei2 jyut6]]
+        gratified;
+    - _(2)h(i/) lok(9)_
+        [[hei2 lok6]]
+        joy and delight;
+    - _(2)h(i/) (1)f(u/)n_
+        [[hei2 fun1]]
+        glad;
+    - _(2)h(i/) hing(3)_ [[hei2 hing3]]
+        or
+      _(2)h(i/) sz'(6)_ [[hei2 si6]]
+        a joyful event~~.~~``;``
+    - _(5)n(i/) (1)f(u/) (4)yan (5)yau (2)h(i/)_
+        [[nei5 fu1 jan4 jau5 hei2]],
+        your lady has joy (_i.~e._ is pregnant).
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
