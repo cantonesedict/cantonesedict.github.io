@@ -90,6 +90,19 @@ $$
 $$
 W
   ====
+  - [[Page~82 (1)褰]]
+    ==
+    - Trowsers;
+    - to hold up the skirts, when wading.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)騫]]
     ==
     - A horse which exceeds in racing;
