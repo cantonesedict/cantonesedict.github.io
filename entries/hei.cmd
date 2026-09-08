@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2026-09-06
+* %date-modified --> 2026-09-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -31,7 +31,7 @@ $$
 WH
   ==
   - H(e/). [[Page~78]]
-  - H(i/). [[Page~79]]
+  - H(i/). [[Page~79, Page~716]]
   ==
 WP
   ==
