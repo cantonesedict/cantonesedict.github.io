@@ -26,6 +26,30 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~82 (1)嗛]]
+    ==
+    - The crop of a bird, the first stomach of ruminantia;
+    - a pouch in the mouth of monkeys and other animals;
+    - to hold in the mouth.
+    ==
+    --
+    Used for the preceding [[謙]].
+    --
+    --
+    Also read _h(i/)p(8)_ [[hip3]]``;``
+    --
+    ==
+    - a deficiency, little;
+    - to dislike.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)謙]]
     ==
     - Respectful, yielding, retiring, lowly, humble, unassuming;
