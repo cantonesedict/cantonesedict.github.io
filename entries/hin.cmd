@@ -26,6 +26,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~82 (1)愆]]
+    ==
+    - Fault, error, mistake, crime, peccadillo;
+    - an excess;
+    - to exceed;
+    - a noxious disease;
+    - _ts(u/)i(6) (1)h(i/)n_
+        [[zeoi6 hin1]],
+        a transgression.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)牽]]
     ==
     - To drag, to pull, as an ox does;
