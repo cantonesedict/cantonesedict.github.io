@@ -21,3 +21,5 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## TODO: $嫌him4 (vernacular reading variation) ##>
