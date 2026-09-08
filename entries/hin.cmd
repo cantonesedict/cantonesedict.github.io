@@ -173,6 +173,30 @@ $$
 $$
 W
   ====
+  - [[Page~83 (2)遣]]
+    ==
+    - To commission, to depute, to send, to let go;
+    - to send away, to exile;
+    - to present;
+    - to reject, to expel, to chase;
+    - _(1)ch(')(a/)i (2)h(i/)n_
+        [[caai1 hin2]],
+        to send on a business;
+    - _(2)h(i/)n chuk(9)_
+        [[hin2 zuk6]]
+        to drive or send away;
+    - _(2)h(i/)n ts(u/)i(6)_
+        [[hin2 zeoi6]]
+        to exile for crime.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 (2)顯]]
     ==
     - Light, manifest, apparent;
