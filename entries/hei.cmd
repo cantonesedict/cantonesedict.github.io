@@ -664,6 +664,60 @@ $$
 $$
 W
   ====
+  - [[Page~81 戱(3); here normalised to 戲]]
+    ==
+    - To fence, to play with weapons;
+    - to divert one's self, to sport;
+    - a play, a theatrical exhibition, a comedy;
+    - _lung(6) h(i/)(3) f(a/)t(8)_
+        [[lung6 hei3 faat3]]
+        to play legerdemain tricks;
+    - _yat(7) ch(')ut(7) h(i/)(3)_
+        [[jat1 ceot1 hei3]]
+        one act of a play;
+    - _h(i/)(3) (4)p(')(a/)ng (2)tsai_
+        [[hei3 paang4 zai2]],
+        a quick growth, grown large soon
+        (like a child born and matured in a play);
+    - _h(u:)(3) (2)t(')ai h(i/)(3)_
+        [[heoi3 tai2 hei3]]
+        gone to the theatre;
+    - _yat(7) (1)p(a/)n h(i/)(3) (2)tsz'_
+        [[jat1 baan1 hei3 zi2]]
+        a company of actors;
+    - _(4)t(')i(u/) h(i/)(3)_
+        [[tiu4 hei3]]
+        to dally with or fondle;
+    - _ts(o\)(6) h(i/)(3)_
+        [[zou6 hei3]]
+        to play;
+    - _(2)t(a/) h(i/)(3)_
+        [[daa2 hei3]]
+        to instruct in acting;
+    - _h(i/)(3) (4)fong_
+        [[hei3 fong4]],
+        the green-room;
+    - _h(i/)(3) (4)p(')(a/)ng_
+        [[hei3 paang4]],
+        a shed for acting;
+    - _(2)ch(')(a/)i h(i/)(3)_
+        [[caai2 hei3]]
+        a rehearsal;
+    - _h(i/)(3) (4)t(')oi_
+        [[hei3 toi4]],
+        the stage;
+    - _h(i/)(3) (2)p(u/)n_
+        [[hei3 bun2]],
+        playbooks.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~81 氣(3)气(3)]]
     ==
     - Vapor, exhalation, fume, smell, steam;
