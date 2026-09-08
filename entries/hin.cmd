@@ -173,6 +173,21 @@ $$
 $$
 W
   ====
+  - [[Page~83 (2)繾]]
+    ==
+    - Attached;
+    - _(2)h(i/)n k(u:)n(3)_
+        [[hin2 gyun3]]
+        intimate, attached, as friends, or brothers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 (2)譴]]
     ==
     - To reprimand, to blame, to find fault with;
