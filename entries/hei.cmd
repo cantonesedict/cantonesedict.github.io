@@ -699,6 +699,20 @@ $$
 $$
 W
   ====
+  - [[Page~82 憩(3)]]
+    ==
+    - To rest, to repose;
+    - to take breath, to stop;
+    - to lay a thing down.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~81 戱(3); here normalised to 戲]]
     ==
     - To fence, to play with weapons;
