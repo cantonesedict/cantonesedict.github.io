@@ -649,6 +649,21 @@ $$
 $$
 W
   ====
+  - [[Page~81 愾(3)]]
+    ==
+    - To breathe strong, to sigh;
+    - _t(')(a/)n(3) h(i/)(3)_
+        [[taan3 hei3]]
+        a groan or sigh.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~81 氣(3)气(3)]]
     ==
     - Vapor, exhalation, fume, smell, steam;
