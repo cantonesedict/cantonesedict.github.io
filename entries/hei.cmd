@@ -615,6 +615,41 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
+<##
+$$
+H
+  May appear as either ⿳吅犬吅 (+13 assumed here) or ⿳吅大吅 (+12),
+  depending on the font.
+W
+  ====
+  - [[Page~81 器(3)噐(3)]]
+    ==
+    - A vessel, vase, or dish;
+    - an implement, utensil, instrument;
+    - ability;
+    - meritorious, useful;
+    - body or substance, as opposed to form or qualities;
+    - _h(i/)(3) (5)ming_
+        [[hei3 ming5]],
+        an utensil of any kind;
+    - _t(a/)i(6) h(i/)(3)_
+        [[daai6 hei3]]
+        a man of talent;
+    - _(2)si(u/) h(i/)(3)_
+        [[siu2 hei3]]
+        an impatient, little-minded man;
+    - _(4)'m (4)shing h(i/)(3) (1)tung (1)sai_
+        [[m4 sing4 hei3 dung1 sai1]],
+        a``n`` inefficient man.
+    ==
+  ====
+C
+  ==
+  - The dotless form ⿳吅大吅 is compatibility ideograph U+20F96.
+  ==
+$$
+##>
+
 ###+ 屭3 | _H(i/)(3)_ [[hei3]]
 
 $$
