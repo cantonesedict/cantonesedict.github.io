@@ -644,3 +644,82 @@ S
   - $屭ai3
   ==
 $$
+
+<##
+$$
+W
+  ====
+  - [[Page~81 氣(3)气(3)]]
+    ==
+    - Vapor, exhalation, fume, smell, steam;
+    - ether, matter;
+    - the original, primordial substance from which all things come;
+    - breath, air, halo;
+    - the vital fluid, life, nervous matter,
+      that which imparts substance;
+    - the spirit, temper, air, anima, feelings, of men and things;
+    - the animal spirits;
+    - influence, attraction;
+    - aspect;
+    - vehemence, courage;
+    - to irritate;
+    - an apparition;
+    - a semi-monthly term;
+    - _h(i/)(3) (1)ts(')an (5)k(')(u:)_
+        [[hei3 can1 keoi5]],
+        to irritate, to anger;
+    - _mok(9) (1)shang h(i/)(3)_
+        [[mok6 sang1 hei3]]
+        don't get angry;
+    - _(2)h(o\) h(i/)(3) shik(7)_
+        [[hou2 hei3 sik1]]
+        good looking, fair;
+    - _h(i/)(3) ts(e/)ung(6)_
+        [[hei3 zoeng6]]
+        form, carriage;
+    - _(2)h(o\) h(i/)(3) h(u:)t(8)_
+        [[hou2 hei3 hyut3]]
+        portly, robust;
+    - _(1)t(')(i/)n h(i/)(3)_
+        [[tin1 hei3]]
+        the weather;
+    - _ch(i/)(3) h(i/)(3)_
+        [[zi3 hei3]]
+        energy, nerve;
+    - _(1)ch(i/)m h(i/)(3) (2)ch(e/)_
+        [[zim1 hei3 ze2]],
+        a diviner;
+    - _mong(6) h(i/)(3) (2)ch(e/)_
+        [[mong6 hei3 ze2]],
+        a geomancer;
+    - _h(i/)(3) hau(6)_
+        [[hei3 hau6]]
+        times, weather;
+    - _shau(6) h(i/)(3)_
+        [[sau6 hei3]]
+        to be scolded;
+    - _(2)t(')(o\) h(i/)(3)_
+        [[tou2 hei3]]
+        climate, air;
+    - _h(i/)(3) (2)sz' (4)yan_
+        [[hei3 sei2 jan4]],
+        to vex greatly;
+    - _(5)n(i/) (2)h(o\) wan(6) h(i/)(3)_
+        [[nei5 hou2 wan6 hei3]]
+        you are in good luck;
+    - _shap(7) h(i/)(3)_
+        [[sap1 hei3]]
+        damp;
+    - _(5)yau h(i/)(3) t(o\)(6)_
+        [[jau5 hei3 dou6]]
+        veracious;
+    - _h(i/)(3) ~~ts(')(u:)t(9)~~ ``ts(u:)t(9)``_
+        [[hei3 zyut6]]
+        dead;
+    - _kwo(3) h(i/)(3)_
+        [[gwo3 hei3]]
+        his luck is gone.
+    ==
+  ====
+$$
+##>
