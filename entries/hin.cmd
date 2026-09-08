@@ -71,3 +71,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~82 (1)騫]]
+    ==
+    - A horse which exceeds in racing;
+    - a horse diseased in the belly;
+    - to suffer loss;
+    - a surname.
+    ==
+  ====
+$$
+##>
