@@ -76,6 +76,23 @@ $$
 $$
 W
   ====
+  - [[Page~82 (2)玁]]
+    --
+    A dog with a long snout, a pointer used in hunting.
+    --
+    --
+    _(2)H(i/)m (5)wan_ [[him2 wan5]],
+    name of a horde of Huns notorious in the days of Confucius,
+    so called from their savageness.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (2)險]]
     ==
     - A precipice, an abyss``;``
