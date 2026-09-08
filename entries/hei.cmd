@@ -753,6 +753,34 @@ $$
 $$
 W
   ====
+  - [[Page~81 {𣓪=⿱𠫓枼}(3); here normalised to 棄]]
+    ==
+    - To reject, to cast off, to relinquish;
+    - to throw off, to refuse, to abandon;
+    - _h(i/)(3) shai(3)_
+        [[hei3 sai3]]
+        dead;
+    - _(i/)m(3) h(i/)(3)_
+        [[jim3 hei3]]
+        to disdain;
+    - _h(i/)(3) ch(i/)(3)_
+        [[hei3 zi3]]
+        to cast aside;
+    - _h(i/)(3) (i/)p(9)_
+        [[hei3 jip6]]
+        to sell real estate;
+    - _p(u/)i(3) h(i/)(3)_
+        [[bui3 hei3]]
+        to discard, to refuse consort with.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~81 氣(3)气(3)]]
     ==
     - Vapor, exhalation, fume, smell, steam;
