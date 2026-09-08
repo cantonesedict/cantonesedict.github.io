@@ -44,6 +44,20 @@ $$
 $$
 W
   ====
+  - [[Page~82 (1)搴]]
+    ==
+    - To extirpate, to pluck out;
+    - to snatch;
+    - to capture a standard in fight.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)牽]]
     ==
     - To drag, to pull, as an ox does;
