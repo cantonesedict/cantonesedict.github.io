@@ -110,6 +110,20 @@ $$
 $$
 W
   ====
+  - [[Page~82 (1){𦜓=⿰⺼欣}]]
+    ==
+    - A kind of fox skin fur,
+      called _(1)kam (4)ngan (1)h(i/)n_ [[gam1 ngan4 hin1]],
+      used for throat collars, or jackets.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)褰]]
     ==
     - Trowsers;
