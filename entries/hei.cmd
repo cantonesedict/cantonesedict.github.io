@@ -500,6 +500,43 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (2)豈]]
+    ==
+    - How! what! _i.~e._ it is not, a particle intimating a strong negative;
+    - to return victorious;
+    - to desire, to advance;
+    - _(2)h(i/) (2)k(o\)m_
+        [[hei2 gam2]],
+        how dare I!
+    - _(2)h(i/) (1)f(i/)_
+        [[hei2 fei1]],
+        it is so;
+        it is not otherwise;
+    - _(2)h(i/) (1)f(i/) ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[hei2 fei1 fu4 豈非乎]],
+        were there not, is it not?
+    - _(2)h(i/) (5)yau (2)ts(')z' (5)l(i/)_
+        [[hei2 jau5 ci2 lei5]],
+        there is no such rule;
+    - _(2)h(i/) sh(i/)(6)_
+        [[hei2 si6]]
+        it can not be;
+    - _(2)h(i/) (5)yau (4)loi_
+        [[hei2 jau5 loi4]],
+        how can he come!
+    ==
+  ====
+C
+  ==
+  - Williams' 豈非乎: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
+  ==
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
