@@ -44,6 +44,26 @@ $$
 $$
 W
   ====
+  - [[Page~82 (1)掀]]
+    ==
+    - To lift up;
+    - to pull out;
+    - to lay hold of;
+    - _(1)h(i/)n m(o\)(6)_
+        [[hin1 mou6]]
+        to lift off the cap;
+    - _(1)h(i/)n (5)p(')(i/)_
+        [[hin1 pei5]],
+        to pull the quilt over one.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)搴]]
     ==
     - To extirpate, to pluck out;
