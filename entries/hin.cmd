@@ -103,6 +103,27 @@ $$
 $$
 W
   ====
+  - [[Page~82 (1)軒]]
+    ==
+    - The hood of a car;
+    - a high front chariot;
+    - a balcony or bow window;
+    - eaves;
+    - a study or library room;
+    - laughing, playing;
+    - satisfied;
+    - _(1)h(i/)n (4)ngong_
+        [[hin1 ngong4]],
+        a bold deportment, to carry the head high.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)騫]]
     ==
     - A horse which exceeds in racing;
