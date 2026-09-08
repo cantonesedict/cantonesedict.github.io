@@ -110,4 +110,38 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~82 欠(3)]]
+    ==
+    - To stretch and gape when weary;
+    - deficient in, insufficient;
+    - to owe;
+    - to be wanting in;
+    - _h(i/)m(3) ch(a/)i(3)_ [[him3 zaai3]]
+        or
+      _h(i/)m(3) f(u/)(6)_ [[him3 fu6]]
+        a debt;
+    - _h(i/)m(3) (2)k(i/)m (2)t(i/)m_
+        [[him3 gim2 dim2]],
+        immethodical;
+    - _h(i/)m(3) (5)l(o\) (4)shing_
+        [[him3 lou5 sing4]],
+        lacking in honesty, untrustworthy;
+    - _h(i/)m(3) (1)shan_
+        [[him3 san1]],
+        to stretch the limbs;
+    - _h(i/)m(3) (1)chong (2)ching_
+        [[him3 zong1 zing2]],
+        slovenly, untidy;
+    - _(5)n(i/) (5)yau tik(7) h(i/)m(3) (1)on_
+        [[nei5 jau5 dik1 him3 on1]],
+        you are rather indisposed.
+    ==
+  ====
+$$
+##>
+
 <## TODO: $嫌him4 (vernacular reading variation) ##>
