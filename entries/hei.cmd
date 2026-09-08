@@ -537,6 +537,73 @@ C
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~80 (2)起]]
+    ==
+    - To rise, to stand up;
+    - arising;
+    - before other verbs, it expresses the beginning of an action,
+      after them it denotes the completion;
+    - to begin, to originate;
+    - to build;
+    - the commencement;
+    - to take, to make;
+    - _(2)h(i/) (1)shan_
+        [[hei2 san1]],
+        to get up, to stand, to start on a journey;
+    - _(2)h(i/) (2)shau_
+        [[hei2 sau2]],
+        to commence a work, to put hands to;
+    - _(2)h(i/) (5)m(a/)_
+        [[hei2 maa5]],
+        to start, as a procession;
+    - _(2)k(i/) (4)sh(i/) (2)h(i/) ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[gei2 si4 hei2 giu6-2]],
+        when does the groom start?
+    - _(2)h(i/) (4)loi_
+        [[hei2 loi4]]
+        expresses an action going on,
+        as _(2)h(o\) (2)h(i/) (4)loi_ [[hou2 hei2 loi4]]
+        he is getting or doing better;
+    - _(2)h(i/) (4)t(')au_
+        [[hei2 tau4]],
+        the beginning, to commence, first;
+    - _(4)t(')ai (2)h(i/) (4)loi_
+        [[tai4 hei2 loi4]],
+        just remembered it;
+    - _(2)h(i/) (i/)(3)_
+        [[hei2 ji3]]
+        the idea of;
+    - _(2)h(i/) (5)m(i/) ch(u:)(3)_
+        [[hei2 mei5 zyu3]]
+        to swindle, to 'keep the dice,'
+        _sc._ to retain money advanced to one;
+    - _(2)h(i/) (2)fo_
+        [[hei2 fo2]],
+        to take fire;
+    - _(2)h(i/) (1)sh(a/)_
+        [[hei2 saa1]],
+        to 'raise dust,' to upbraid loudly, to scold;
+    - _(2)h(i/) (1)sam_
+        [[hei2 sam1]],
+        to long for, to covet;
+    - _(1)ch(')au (2)h(i/)_
+        [[cau1 hei2]],
+        to lift up, to take out (a volume to look at);
+    - _ts(o\)(6) (2)h(i/)_
+        [[zou6 hei2]],
+        finished, done;
+    - _chap(7) (2)h(i/) lok(8)_
+        [[zap1 hei2 lok3]]
+        picked up.
+    ==
+  ====
+$$
+##>
+
 
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
