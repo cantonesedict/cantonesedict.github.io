@@ -738,3 +738,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~81 餼(3)]]
+    ==
+    - A present of living cattle;
+    - provisions, fruits, meats offered in sacrifice;
+    - a formal feast;
+    - _shik(9) (5)lam h(i/)(3)_
+        [[sik6 lam5 hei3]]
+        a small allowance paid to si(u/)ts(a/)i [[秀才]];
+        to feed house animals;
+    - _h(i/)(3) (1)ch(u:)_
+        [[hei3 zyu1]],
+        feed the pigs;
+    - _h(i/)(3) ts(e/)uk(8) (4)'m ~~(1)tsang~~ ``(4)ts(')ang``_
+        [[hei3 zoek3-2 m4 cang4]]
+        have you fed the birds?
+    ==
+  ====
+$$
+##>
