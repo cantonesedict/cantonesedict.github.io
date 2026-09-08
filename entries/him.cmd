@@ -72,4 +72,25 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~82 (2)險]]
+    ==
+    - A precipice, an abyss``;``
+    - difficult, hazardous, dangerous;
+    - insecure;
+    - in danger;
+    - _(4)ngai (2)h(i/)m_
+        [[ngai4 him2]],
+        dangerous, prejudicial, both morally and physically;
+    - _(2)h(i/)m tak(7) tsai(6)_
+        [[him2 dak1 zai6]]
+        imminently dangerous.
+    ==
+  ====
+$$
+##>
+
 <## TODO: $嫌him4 (vernacular reading variation) ##>
