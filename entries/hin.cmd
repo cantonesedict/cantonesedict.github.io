@@ -188,6 +188,32 @@ $$
 $$
 W
   ====
+  - [[Page~83 (2)蜆]]
+    ==
+    - General name of bivalve shells,
+      but especially thin shelled and lacustrine ones;
+    - sometimes applied to some hanging chrysalides;
+    - _(4)wong (1)sh(a/) (2)h(i/)n_
+        [[wong4 saa1 hin2]],
+        a kind of Mytilus eaten at Canton;
+    - _(2)h(i/)n yuk(9)_
+        [[hin2 juk6]]
+        shelled clams;
+    - _(2)h(i/)n hok(8) tsz'(6)_
+        [[hin2 hok3 zi6]]
+        'clam-shell' words, dissyllables;
+    - _(2)h(i/)n k(a/)i(3)_
+        [[hin2 gaai3]]
+        raw clams seasoned.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 (2)譴]]
     ==
     - To reprimand, to blame, to find fault with;
