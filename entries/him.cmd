@@ -22,4 +22,30 @@ OrdinaryDictionaryReplacement: #.properties-override
 ==
 </nav>
 
+<##
+$$
+W
+  ====
+  - [[Page~82 (1)謙]]
+    ==
+    - Respectful, yielding, retiring, lowly, humble, unassuming;
+    - to think little of one's self;
+    - to revere, to manifest respect;
+    - _(1)h(i/)m y(e/)ung(6)_
+        [[him1 joeng6]]
+        to give way to;
+    - _(1)h(i/)m sun(3)_
+        [[him1 seon3]]
+        humble, yielding;
+    - _t(')(a/)i(3) (1)h(i/)m (5)li(u/)_
+        [[taai3 him1 liu5]],
+        you are too modest;
+    - _(1)h(i/)m (4)wo_
+        [[him1 wo4]],
+        placable, mild.
+    ==
+  ====
+$$
+##>
+
 <## TODO: $嫌him4 (vernacular reading variation) ##>
