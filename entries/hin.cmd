@@ -168,3 +168,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~83 (2)顯]]
+    ==
+    - Light, manifest, apparent;
+    - conspicuous, clear, illustrious, patent;
+    - glorious, effulgent;
+    - to make plain, to exhibit, to display;
+    - to render illustrious;
+    - _(2)h(i/)n (4)y(e/)ung_
+        [[hin2 joeng4]]
+        generally known, notorious;
+    - _(2)h(i/)n t(a/)t(9)_
+        [[hin2 daat6]]
+        distinguished, famous;
+    - _(2)h(i/)n (4)(i/)n_ [[hin2 jin4]],
+        or
+      _(2)h(i/)n hai(6) (2)k(o\)m_ [[hin2 hai6 gam2]],
+        it is even so, plain;
+    - _(2)h(i/)n (2)h(a/)u_
+        [[hin2 haau2]],
+        illustrious completer of probation, _i.~e._ a deceased father;
+    - _(4)ling (2)h(i/)n_
+        [[ling4 hin2]],
+        spiritual energy exerted.
+    ==
+  ====
+$$
+##>
