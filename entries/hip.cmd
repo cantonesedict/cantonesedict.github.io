@@ -72,6 +72,13 @@ W
         [[hip3 jam1]],
         melody.
     ==
+  - [[Page~716 拹(8)]]
+    --
+    should be 協 _h(i/)p(9)_ [[hip6]].
+    --
+    --
+    [[...]]
+    --
   ====
 $$
 ##>
@@ -126,6 +133,22 @@ W
     --
     Also read _(1)h(i/)m_ [[him1]], to hate, discontented, indignant.
     --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~716 拹(8)]]
+    --
+    [[...]]
+    --
+    ==
+    - The former [[拹]] means to fold;
+    - to pull, to draw, to drag.
+    ==
   ====
 $$
 ##>
