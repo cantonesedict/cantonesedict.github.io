@@ -62,3 +62,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~85 (1)鴞]]
+    ==
+    - A horned or barn owl, called _(1)ch(')(i/) (1)hi(u/)_ [[ci1 hiu1]];
+    - its voice is a bad omen;
+    - a fabulous animal.
+    ==
+  ====
+$$
+##>
