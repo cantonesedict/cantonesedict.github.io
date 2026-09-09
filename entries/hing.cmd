@@ -254,3 +254,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~84 before (1)輕]]
+    --
+    (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
+    --
+  - [[Page~84 謦(3)]]
+    ==
+    - To cough slightly, to hack;
+    - to speak smilingly;
+    - the sound of a swinging bell.
+    ==
+  ====
+$$
+##>
