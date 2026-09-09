@@ -47,6 +47,27 @@ $$
 $$
 W
   ====
+  - [[Page~85 (1)徼]]
+    ==
+    - To go round, to take a turn, to ward off;
+    - to seek;
+    - to assume;
+    - end, frontiers, limits;
+    - a palisade;
+    - a narrow road;
+    - _(1)hi(u/) hang(6)_
+        [[hiu1 hang6]]
+        a fortunate coincidence, a lucky hit;
+        to obtain.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 (1)枵]]
     ==
     - A hollow root;
