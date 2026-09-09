@@ -21,3 +21,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~85 蝎(8) _H(i/)t(8)_ (hit3); here normalised to 蠍 _K(')(i/)t(8)_ (kit3)]]
+    ==
+    - A scorpion;
+    - a grub found in rotten wood. <# TODO: correct to $蝎hot3 #>
+    ==
+  ====
+$$
+##>
