@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-08-10
+* %date-modified --> 2026-09-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -790,8 +790,8 @@ W
     - _chai(3) t(i/)n(6)_
         [[zai3 din6 掣電]]
         like lightning, as an electrical machine acts;
-    - _h(i/)p(9) chai(3)_
-        [[hip6 zai3 挾掣]]
+    - _~~h(i/)p(9)~~ ``h(i/)p(8)`` chai(3)_
+        [[hip3 zai3 挾掣]]
         to restrain;
     - _chai(3) ~~(2)chau~~ ``(2)ch(a/)u``_
         [[zai3 zaau2 掣肘]],
@@ -800,6 +800,7 @@ W
   ====
 C
   ==
+  - Williams' 挾掣: Changed _h(i/)p(9)_ (hip6) to common reading _h(i/)p(8)_ (hip3).
   - Williams' 掣肘: Changed _(2)chau_ (zau2) to common reading _(2)ch(a/)u_ (zaau2).
   - Williams' "to embarrass": In the (now) archaic sense of "impede", "obstruct".
   ==

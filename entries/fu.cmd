@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-09
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -3029,8 +3029,8 @@ W
     - _(4)f(u/) cho(6)_
         [[fu4 zo6 扶助]]
         to assist;
-    - _(4)f(u/) ~~ch(')(a/)p(9)~~ ``h(i/)p(9)``_
-        [[fu4 hip6 扶挾]]
+    - _(4)f(u/) ~~ch(')(a/)p(9)~~ ``h(i/)p(8)``_
+        [[fu4 hip3 扶挾]]
         to support one under his arms;
     - _(4)f(u/) ch(e/)ung(6)_
         [[fu4 zoeng6 扶杖]]
@@ -3048,7 +3048,7 @@ C
   - Williams' "To lead a hand": This should be
     either "to lend a hand" (i.e. the "help" sense)
     or "to lead by hand" (per Fan Wan's dubious 引也).
-  - Williams' 扶挾: Corrected _ch(')(a/)p(9)_ (caap6) to _h(i/)p(9)_ (hip6).
+  - Williams' 扶挾: Corrected _ch(')(a/)p(9)_ (caap6) to _h(i/)p(8)_ (hip3).
   ==
 P
   ++

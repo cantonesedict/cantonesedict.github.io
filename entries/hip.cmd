@@ -130,6 +130,36 @@ $$
 $$
 W
   ====
+  - [[Page~85 挾(8)]]
+    ==
+    - To carry under the arm, to hide in the bosom;
+    - to help, to support;
+    - to conceal;
+    - to cherish, to protect;
+    - to presume upon;
+    - to assume, to undertake;
+    - to 'squeeze,' to extort;
+    - _h(i/)p(8) tso(3)_
+        [[hip3 zo3]]
+        to assist, to depend on;
+    - _h(i/)p(8) chai(3)_
+        [[hip3 zai3]]
+        to prevent, to hinder;
+    - _h(i/)p(8) (4)ch(')(i/)_
+        [[hip3 ci4]],
+        to take under the arm, to manage;
+    - _h(i/)p(8) han(6)_
+        [[hip3 han6]]
+        to cherish revengeful feelings.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 歉(8)]]
     ==
     - Deficient, unfilled with food, scanty supplies;
