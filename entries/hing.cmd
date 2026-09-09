@@ -288,6 +288,32 @@ $$
 
 <##
 $$
+H
+  May appear with interior of the top-middle component as
+  ::⿱一コ :: (+8) or ⿱一口 (+9 assumed here),
+  depending on the font.
+W
+  ====
+  - [[Page~84 興(3)]]
+    ==
+    - Joyful, elated;
+    - pleased;
+    - _hing(3) (4)t(')au_
+        [[hing3 tau4]],
+        joyful bustle;
+    - _(1)k(o\) hing(3)_
+        [[gou1 hing3]]
+        good spirits;
+    - _kik(7) hing(3) (5)ngo_
+        [[gik1 hing3 ngo5]],
+        to provoke me. <# TODO: correct to $㷫hing3 #>
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~84 before (1)輕]]
