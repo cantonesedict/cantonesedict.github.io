@@ -205,3 +205,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~84 before (1)輕]]
+    --
+    (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
+    --
+  - [[Page~84 罄(3)]]
+    ==
+    - An empty jar;
+    - exhausted, empty;
+    - entirely, all;
+    - to exhaust;
+    - stable, strict;
+    - _~~heng(3)~~ ``hing(3)`` tsun(6)_
+        [[hing3 zeon6]]
+        entirely gone.
+    ==
+  ====
+$$
+##>
