@@ -138,6 +138,62 @@ $$
 $$
 W
   ====
+  - [[Page~84 before (1)輕]]
+    --
+    (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
+    --
+  - [[Page~84 (1)輕]]
+    ==
+    - A light car;
+    - light;
+    - to esteem lightly, to disregard, to think little of;
+    - to disesteem;
+    - levity, dissipated.
+    ==
+    ==
+    - Read _~~heng(3)~~ ``hing(3)``_ quick, fast;
+    - _(1)heng ~~chung(6)~~ ``(5)ch(')ung``_
+        [[heng1 cung5]]
+        light and heavy;
+    - _(4)m(o\) (2)sho ~~(1)heng~~ ``(1)hing`` ~~chung(6)~~ ``(5)ch(')ung``_
+        [[mou4 so2 hing1 cung5]]
+        mediocre, usual, common;
+    - _~~(1)heng~~ ``(1)hing`` (2)h(a/)u_
+        [[hing1 haau2]],
+        uncommon or fine work;
+    - _(1)heng (4)kw(')ong_
+        [[heng1 kwong4]]
+        harum-scarum, foolish;
+    - _~~(1)heng~~ ``(1)hing`` (2)ho_
+        [[hing1 ho2]],
+        light, portable;
+    - _(1)heng kwat(7) (4)t(')au_
+        [[heng1 gwat1 tau4]],
+        light-headed, weak-minded;
+    - _~~(1)heng~~ ``(1)hing`` (1)t(')i(u/) (4)fau ts(')(o\)(3)_
+        [[hing1 tiu1 fau4 cou3]]
+        volatile, untrustworthy, unstable;
+    - _(2)h(o\) ~~(1)heng~~ ``(1)hing`` (i/)(6) (1)m(e/)_
+        [[hou2 hing1 ji6 me1]],
+        do you think it's so easy!
+    - _~~(1)heng~~ ``(1)hing`` pok(9)_
+        [[hing1 bok6]]
+        disrespectful;
+    - _(2)shau (1)heng k(e/)uk(8) f(a/)i(3)_
+        [[sau2 heng1 goek3 faai3]]
+        nimble, diligent;
+    - _(2)hau (1)heng_
+        [[hau2 heng1]]
+        ready to promise, heedless.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 (1)馨]]
     ==
     - Odors perceived a long distance;
