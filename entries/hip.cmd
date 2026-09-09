@@ -63,6 +63,20 @@ $$
 $$
 W
   ====
+  - [[Page~85 愜(8)]]
+    ==
+    - The mind pleased;
+    - cheerful, gratified;
+    - prompt, ready.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 脅(8)]]
     ==
     - The sides of the body;
