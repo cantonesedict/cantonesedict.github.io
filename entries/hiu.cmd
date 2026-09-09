@@ -25,6 +25,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 <##
 $$
 W
+  ======
+  - [[Page~86 (1)嘵]]
+    ====
+    - To dread, to apprehend;
+    - a tone of complaint, querulous;
+    - a word denoting ~~past time~~ ``completion``, as
+      ==
+      - _(2)s(e/) (1)hi(u/)_ [[se2 hiu1]], written;
+      - _ts(o\)``(6)`` (1)hi(u/)_ [[zou6 hiu1 做嘵]], done.
+    ====
+  ======
+C
+  ==
+  - Williams' 做嘵: Corrected upside-down tone marker for 做.
+  ==
+$$
+##>
+
+<##
+$$
+W
   ====
   - [[Page~85 (1)囂]]
     ==
