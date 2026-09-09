@@ -214,6 +214,32 @@ W
     --
     (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
     --
+  - [[Page~84 磬(3)]]
+    ==
+    - Ringing stones of prehnite or glass hung on frames;
+    - a sort of dulcimer;
+    - to suspend, as these stones are;
+    - _kik(7) ~~heng(3)~~ ``hing(3)``_ [[gik1 hing3]]
+        to strike the _~~heng~~ ``hing``_ [[hing]].
+    ==
+    --
+    To relax the reins.
+    --
+    --
+    Used for the last [[罄]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~84 before (1)輕]]
+    --
+    (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
+    --
   - [[Page~84 罄(3)]]
     ==
     - An empty jar;
