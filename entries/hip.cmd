@@ -63,6 +63,27 @@ $$
 $$
 W
   ====
+  - [[Page~85 怯(8)]]
+    ==
+    - Cowardly, fearful, timid, weak-hearted;
+    - _h(i/)p(8) ch(i/)(3)_
+        [[hip3 zi3]]
+        bashful, to blush;
+    - _(1)sam h(i/)p(8)_
+        [[sam1 hip3]]
+        fluttering, timid;
+    - _h(i/)p(8) chan(6)_
+        [[hip3 zan6]]
+        afraid of entering into battle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 愜(8)]]
     ==
     - The mind pleased;
