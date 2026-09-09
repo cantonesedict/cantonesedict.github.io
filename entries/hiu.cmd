@@ -158,3 +158,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~86 (2)曉]]
+    ==
+    - Light, clear, in the morning;
+    - day-time;
+    - luminous, perspicuous, plainly stated;
+    - intelligent, apparent;
+    - to understand, to perceive, to comprehend;
+    - _(2)hi(u/) tak(7)_
+        [[hiu2 dak1]]
+        to see into, I perceive;
+    - _(1)t(')(i/)n (2)hi(u/)_
+        [[tin1 hiu2]],
+        early dawn;
+    - _(4)ming (2)hi(u/)_
+        [[ming4 hiu2]],
+        I clearly understand;
+    - _(2)hi(u/) (u:)(6)_
+        [[hiu2 jyu6]]
+        to notify plainly, a plain proclamation;
+    - _(1)t(')ung (2)hi(u/)_
+        [[tung1 hiu2]],
+        fully acquainted with.
+    ==
+  ====
+$$
+##>
