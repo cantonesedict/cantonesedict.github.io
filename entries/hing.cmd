@@ -241,6 +241,25 @@ $$
 $$
 W
   ====
+  - [[Page~84 㷫(3)]]
+    ==
+    - To toast or dry at the fire, to roast;
+    - hot, feverish;
+    - _(2)p(i/) (2)fo hing(3) ch(u:)(6) (5)k(')(u:)_
+        [[bei2 fo2 hing3 zyu6 keoi5]],
+        dry it at the fire;
+    - _(4)t(')au hok(8) hing(3)_
+        [[tau4 hok3 hing3]]
+        head burning hot.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 before (1)輕]]
     --
     (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
