@@ -194,6 +194,21 @@ $$
 $$
 W
   ====
+  - [[Page~86 ^_Hi(u/)(3)_ (hiu3); here assigned to 撬]]
+    ==
+    - A colloquial word,
+      to perk or cock up, as a dog's tail,
+      a bow lying on its back,
+      or the stern of a junk.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~86 竅(3)]]
     --
     This word is frequently pronounced _hi(u/)(3)_ [[hiu3]],
