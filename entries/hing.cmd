@@ -210,6 +210,37 @@ $$
 $$
 W
   ====
+  - [[Page~84 慶(3)]]
+    ==
+    - Good, excellent;
+    - to congratulate;
+    - to rejoice in;
+    - to console;
+    - to present to, to bless;
+    - happy;
+    - path of rectitude;
+    - an initial particle, happily;
+    - _hing(3) ho(6)_
+        [[hing3 ho6]]
+        to congratulate;
+    - _kat(7) hing(3)_
+        [[gat1 hing3]]
+        lucky and blessed;
+    - _(5)yau (2)h(i/) hing(3) sz'(6)_
+        [[jau5 hei2 hing3 si6]]
+        a happy event;
+    - _hing(3) ~~nau(6)~~ ``n(a/)u(6)``_
+        [[hing3 naau6]]
+        joyful, lively.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 before (1)輕]]
     --
     (The four next characters [[輕, 罄, 磬, 謦]] are usually pronounced _heng_ [[heng]].)
