@@ -189,3 +189,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~86 竅(3)]]
+    --
+    This word is frequently pronounced _hi(u/)(3)_ [[hiu3]],
+    but more correctly _k``(')``i(u/)(3)_ [[kiu3]].
+    --
+  ====
+$$
+##>
