@@ -132,6 +132,23 @@ $$
 $$
 W
   ====
+  - [[Page~86 (1)驍]]
+    ==
+    - A gentle horse;
+    - to be skillful at a game of throwing darts;
+    - strong, courageous, disinterested;
+    - _(1)hi(u/) ~~(4)^k(i/)~~ ``(4)k(')(i/)`` k(a/)u(3)_
+        [[hiu1 kei4 gaau3]]
+        a sort of aid-de-camp among the Bannermen.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 (1)鴞]]
     ==
     - A horned or barn owl, called _(1)ch(')(i/) (1)hi(u/)_ [[ci1 hiu1]];

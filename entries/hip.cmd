@@ -61,7 +61,7 @@ W
         colonel of a regiment;
     - _h(i/)p(8) (5)ling_
         [[hip3 ling5]],
-        a brigadier-general (of Banner-men);
+        a brigadier-general (of Bannermen);
     - _h(i/)p(8) (4)wo_
         [[hip3 wo4]],
         to unite harmoniously;
