@@ -133,3 +133,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~84 (1)馨]]
+    ==
+    - Odors perceived a long distance;
+    - _(1)hing (1)h(e/)ung_
+        [[hing1 hoeng1]],
+        fumes of incense, savory smells;
+        a wide reputation.
+    ==
+  ====
+$$
+##>
