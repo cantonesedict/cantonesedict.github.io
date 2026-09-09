@@ -24,6 +24,45 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+W
+  ====
+  - [[Page~84 (1)兄]]
+    ==
+    - An elder brother;
+    - a senior, a superior;
+    - a term of respect;
+    - _(5)l(o\) (1)hing_ [[lou5 hing1]],
+        or
+      _t(a/)i(6) (1)hing_ [[daai6 hing1]],
+        a term of address, sir;
+    - _(1)hing tai(6)_
+        [[hing1 dai6]]
+        brothers;
+    - _(1)hing (2)ch(e/)ung_
+        [[hing1 zoeng2]],
+        my elder brother;
+    - _ngoi(6) (1)hing_
+        [[ngoi6 hing1]],
+        a sister's husband;
+    - _(4)t(')ung (1)p(a/)u (1)hing tai(6)_
+        [[tung4 baau1 hing1 dai6]]
+        uterine brothers;
+    - _(1)ts(')an (1)hing_
+        [[can1 hing1]],
+        my full brother;
+    - _(1)sho (1)hing_
+        [[so1 hing1]],
+        second cousins;
+    - _(4)t(')ong (1)hing tai(6)_
+        [[tong4 hing1 dai6]]
+        cousins ~~german~~ ``through male lines of descent``.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with interior of the top-middle component as
   ::⿱一コ :: (+8) or ⿱一口 (+9 assumed here),
