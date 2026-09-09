@@ -42,3 +42,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~85 (1)枵]]
+    ==
+    - A hollow root;
+    - hollow, empty, unfilled;
+    - famished, hungry;
+    - _(1)hi(u/) ~~fuk(9)~~ ``fuk(7)``_
+        [[hiu1 fuk1]]
+        an empty stomach, ignorant;
+    - _(4)(u:)n (1)hi(u/)_
+        [[jyun4 hiu1]],
+        a star in Aquarius.
+    ==
+  ====
+$$
+##>
