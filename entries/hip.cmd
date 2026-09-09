@@ -31,6 +31,10 @@ W
     - Harmony of sentiment, union of thought;
     - a man's name.
     ==
+  - [[Page~716 勰(8)]]
+    --
+    is also read _(1)sz'_ [[si1]].
+    --
   ====
 $$
 ##>
