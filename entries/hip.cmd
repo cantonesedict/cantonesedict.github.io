@@ -26,6 +26,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~85 勰(8)]]
+    ==
+    - Harmony of sentiment, union of thought;
+    - a man's name.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 ::~~拹~~``協``(8)叶(8)::]]
     ==
     - Agreement, concord, union, harmony;
