@@ -63,6 +63,34 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~84 (1)卿]]
+    ==
+    - A noble, a lord, a high officer;
+    - a term of respect used towards grandees and others;
+    - intelligent;
+    - what men look towards;
+    - the presidents of the six Boards are called _luk(9) (1)hing_ [[luk6 hing1]];
+    - _(1)kung (1)hing_
+        [[gung1 hing1]],
+        a grandee above the 3d~rank;
+    - _(1)hing (1)k(a/)_
+        [[hing1 gaa1]],
+        our ministers;
+    - _oi(3) (1)hing_
+        [[oi3 hing1]],
+        my wife;
+    - _(1)s(i/)n (1)hing_
+        [[sin1 hing1]],
+        my deceased wife.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with interior of the top-middle component as
   ::⿱一コ :: (+8) or ⿱一口 (+9 assumed here),
