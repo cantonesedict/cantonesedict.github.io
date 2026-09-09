@@ -67,6 +67,29 @@ $$
 $$
 W
   ====
+  - [[Page~85 (1)梟]]
+    ==
+    - A kind of owl, which eats its mother;
+    - strong, wicked, brave;
+    - to hang up a criminal's head in terrorem;
+    - _(1)hi(u/) (5)yung_
+        [[hiu1 jung5]],
+        unscrupulous, strong;
+    - _(1)hi(u/) (2)shau_
+        [[hiu1 sau2]],
+        to expose a head;
+    - _(1)sz' (1)hi(u/)_
+        [[si1 hiu1]],
+        to smuggle salt.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 (1)鴞]]
     ==
     - A horned or barn owl, called _(1)ch(')(i/) (1)hi(u/)_ [[ci1 hiu1]];
