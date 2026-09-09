@@ -21,3 +21,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~84 脅(8)]]
+    ==
+    - The sides of the body;
+    - the ribs, place under the arm;
+    - to receive;
+    - to intimidate, to reprimand, to take advantage of;
+    - _h(i/)p(8) kwat(7)_
+        [[hip3 gwat1]]
+        the ribs;
+      vulgo, _~~lak(7)~~ ``lak(9)`` sh(a/)k(8) kwat(7)_
+        [[lak6 saak3 gwat1]]``;``
+    - _pik(7) h(i/)p(8)_
+        [[bik1 hip3]]
+        to intimidate, to overawe, to deter.
+    ==
+  ====
+$$
+##>
