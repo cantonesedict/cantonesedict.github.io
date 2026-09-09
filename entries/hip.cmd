@@ -26,6 +26,43 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~85 ::~~拹~~``協``(8)叶(8)::]]
+    ==
+    - Agreement, concord, union, harmony;
+    - mutual help;
+    - united, assistant, joint;
+    - to aid;
+    - submissive;
+    - _h(i/)p(8) lik(9)_
+        [[hip3 lik6]]
+        united strength;
+    - _h(i/)p(8) chan(3)_
+        [[hip3 zan3]]
+        staff officers;
+    - _h(i/)p(8) (4)t(')oi_
+        [[hip3 toi4]],
+        colonel of a regiment;
+    - _h(i/)p(8) (5)ling_
+        [[hip3 ling5]],
+        a brigadier-general (of Banner-men);
+    - _h(i/)p(8) (4)wo_
+        [[hip3 wo4]],
+        to unite harmoniously;
+    - _h(i/)p(8) ~~wan(6)~~ ``(5)wan``_
+        [[hip3 wan5]]
+        to rhyme, harmonious cadence or tone;
+    - _h(i/)p(8) (1)yam_
+        [[hip3 jam1]],
+        melody.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 脅(8)]]
     ==
     - The sides of the body;
