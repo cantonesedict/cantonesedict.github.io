@@ -117,6 +117,26 @@ $$
 $$
 W
   ====
+  - [[Page~85 歉(8)]]
+    ==
+    - Deficient, unfilled with food, scanty supplies;
+    - bashful;
+    - to covet;
+    - _h(i/)p(8) sui(3)_
+        [[hip3 seoi3]]
+        a year of dearth;
+    - _h(i/)p(8) (1)shau_
+        [[hip3 sau1]],
+        a bad harvest.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 脅(8)]]
     ==
     - The sides of the body;
