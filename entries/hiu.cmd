@@ -132,6 +132,23 @@ $$
 $$
 W
   ====
+  - [[Page~717 (1)蹺]]
+    ==
+    - To walk high, to lift up the foot;
+    - to prance;
+    - _sz'(6) (5)yau (1)hi(u/) (1)h(i/)_
+        [[si6 jau5 hiu1 hei1]],
+        extraordinary;
+        ominous, there's something strange in it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~86 (1)驍]]
     ==
     - A gentle horse;
