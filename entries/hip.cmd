@@ -77,6 +77,25 @@ $$
 $$
 W
   ====
+  - [[Page~85 慊(8)]]
+    ==
+    - Pleased, contented, cheerful;
+    - satisfied;
+    - _h(i/)p(8) f(a/)i(3)_
+        [[hip3 faai3]]
+        alacrity.
+    ==
+    --
+    Also read _(1)h(i/)m_ [[him1]], to hate, discontented, indignant.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~84 脅(8)]]
     ==
     - The sides of the body;
