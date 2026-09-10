@@ -137,6 +137,29 @@ $$
 $$
 W
   ====
+  - [[Page~88 (4)濠]]
+    ==
+    - Same as the preceding [[壕]];
+    - _sc._ the water in a fosse;
+    - _(4)h(o\) (1)tun_
+        [[hou4 deon1]],
+        Second Bar below Whampoa [[黃埔]];
+    - _(4)h(o\) (2)hau_
+        [[hou4 hau2]],
+        the passage under the walls of Canton,
+        where the ditch enters the Old city;
+    - _~~(1)tung~~ ``(1)t(')ung`` (4)h(o\)_
+        [[tung1 hou4]],
+        to clear out a moat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (4)豪]]
     ==
     - A porcupine, with quills pointed black;
