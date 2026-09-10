@@ -209,6 +209,26 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)鎧]]
+    ==
+    - A cuirass, or coat of mail;
+    - armor generally;
+    - a priest's robe, because it protects his order;
+    - _(2)hoi k(a/)p(8)_
+        [[hoi2 gaap3]]
+        armor;
+    - _(2)shau (2)hoi_
+        [[sau2 hoi2]],
+        a helmet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~89 (4)頦]]
     ==
     - The bones of the chin, the chin;
