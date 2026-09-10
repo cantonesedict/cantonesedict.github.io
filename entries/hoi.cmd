@@ -120,6 +120,21 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)塏]]
+    ==
+    - A clear and elevated eminence, fit for a residence;
+    - _(2)shong (2)hoi_
+        [[song2 hoi2]],
+        a cheerful location.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~90 (2)愷]]
     ==
     - Joyful, peaceful;
