@@ -184,6 +184,30 @@ E
   --
 $$
 
+<##
+$$
+W
+  ====
+  - [[Page~89 (4)孩 _(4)Hoi_ (hoi4); here normalised to _(4)H(a/)i_ (haai4)]]
+    ==
+    - An infant beginning to laugh;
+    - children, a child, a youth---but applied generally to boys;
+    - _(2)si(u/) ~~(4)hoi~~ ``(4)h(a/)i`` (2)tsz'_
+        [[siu2 haai4 zi2]],
+        a boy, a servant boy;
+        a child;
+    - _~~(4)hoi~~ ``(4)h(a/)i`` (4)t(')ung_
+        [[haai4 tung4]],
+        a boy.
+    ==
+  ====
+S
+  ==
+  - ($孩hoi4) (TODO)
+  ==
+$$
+##>
+
 ### 諧4 | _(4)H(a/)i_ [[haai4]]
 
 $$
