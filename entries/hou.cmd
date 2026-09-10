@@ -21,3 +21,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~87 (1)蒿]]
+    ==
+    - Herbs higher than others;
+    - steam from plants;
+    - forms part of the names of different plants;
+    - _(4)t(')ong (1)h(o\)_
+        [[tong4 hou1]],
+        celery;
+    - _(1)ts(')ing (1)h(o\)_
+        [[cing1 hou1]],
+        wormwood;
+    - _(1)h(o\) muk(9)_
+        [[hou1 muk6]]
+        dust in the eyes.
+    ==
+  ====
+$$
+##>
