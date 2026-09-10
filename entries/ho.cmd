@@ -161,6 +161,21 @@ $$
 $$
 W
   ====
+  - [[Page~87 (2)坷]]
+    ==
+    - Uneven, rough country;
+    - _(2)h(o\)m (2)ho_
+        [[ham2 ho2]]
+        rugged paths, unsuccessful, one who is unlucky.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~86 (4)何]]
     ==
     - Which, who, what;
