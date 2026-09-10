@@ -446,3 +446,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~88 灝(6)]]
+    ==
+    - Extensive, as waters reaching to a distance;
+    - vast, boundless.
+    ==
+  ====
+$$
+##>
