@@ -160,6 +160,26 @@ $$
 $$
 W
   ====
+  - [[Page~88 (4)號]]
+    ==
+    - To roar as a tiger;
+    - a cock's crow;
+    - to call aloud, to bawl, to cry;
+    - _(4)h(o\) huk(7)_
+        [[hou4 huk1]]
+        to cry and wail;
+    - _(4)h(o\) (1)f(u/)_
+        [[hou4 fu1]],
+        to call after.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~88 (4)蠔]]
     ==
     - An oyster;
