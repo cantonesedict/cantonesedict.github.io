@@ -142,6 +142,45 @@ $$
 $$
 W
   ====
+  - [[Page~88 好〬(3)]]
+    ==
+    - To love, to take pleasure in;
+    - fond of, to like;
+    - to desire;
+    - to wish for;
+    - _kok(8) (4)yan (2)sho h(o\)(3)_
+        [[gok3 jan4 so2 hou3]]
+        each one has his likes;
+    - _h(o\)(3) (2)kong si(u/)(3)_
+        [[hou3 gong2 siu3]]
+        fond of joking;
+    - _h(o\)(3) (2)tsau_
+        [[hou3 zau2]],
+        a wine-bibber;
+    - _p(a/)k(8) sing(3) (1)sam h(o\)(3) (i/)(6)_
+        [[baak3 sing3 sam1 hou3 ji6]]
+        the people at heart like justice;
+    - _(1)p(')(i/)n h(o\)(3)_
+        [[pin1 hou3]]
+        to love with partiality.
+    ==
+  ====
+C
+  ==
+  - In additional to the dark-departing tone marker _(3)_,
+    Williams prints the headword 好 with an explicit
+    classical departing-tone marker ◌〬 (U+302C).
+    Font support for classical departing-tone markers
+    is known to be poor on Windows and iOS/macOS;
+    check the [Font test page](/font-test/).
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (1)嘷 _(1)H(o\)_ (hou1); here normalised to 嗥 _(4)H(o\)_ (hou4)]]
     ==
     - To roar and howl like bears or tigers;
