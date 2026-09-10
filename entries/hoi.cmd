@@ -98,6 +98,28 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)凱]]
+    ==
+    - Victorious, triumphant;
+    - to celebrate a victory;
+    - _(2)hoi (1)ko_
+        [[hoi2 go1]],
+        pæans of victory;
+    - _tsau(3) (2)hoi_
+        [[zau3 hoi2]],
+        to celebrate a victory;
+    - _(2)hoi (4)s(u:)n_
+        [[hoi2 syun4]],
+        to return in triumph from battle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~90 (2)愷]]
     ==
     - Joyful, peaceful;
