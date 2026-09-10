@@ -94,3 +94,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~86 (4)河]]
+    ==
+    - The Yellow River by eminence;
+    - a river, usually applied to small streams;
+    - a wine-vessel;
+    - _(4)ngan (4)ho_ [[ngan4 ho4]],
+        or
+      _(1)t(')(i/)n (4)ho_ [[tin1 ho4]],
+        the Milky Way;
+    - _(4)ho pok(9) (2)sho_
+        [[ho4 bok6 so2]],
+        an officer who regulates the boats at Canton
+        (the word _hoppo_ is derived from this title);
+    - _(4)ho t(')(o\)(3)_
+        [[ho4 tou3]]
+        the Bend in the Yellow river;
+    - _(4)ho (1)kung (2)tsung tuk(7)_
+        [[ho4 gung1 zung2 duk1]]
+        the superintendent of the Yellow river;
+    - _(4)ho ~~(4)^p(i/)n~~ ``(1)p(i/)n``_
+        [[ho4 bin1]],
+        a river side.
+    ==
+  ====
+$$
+##>
