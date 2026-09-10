@@ -93,3 +93,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~89 (4)頦]]
+    ==
+    - The bones of the chin, the chin;
+    - _(4)hoi h(a/)(6) (5)yau (1)s(o\)_
+        [[hoi4 haa6 jau5 sou1]],
+        there is a beard under the chin.
+    ==
+  ====
+$$
+##>
