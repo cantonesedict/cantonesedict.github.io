@@ -426,3 +426,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~88 浩(6)]]
+    ==
+    - Great, swelling waters, a watery expanse, immense, vast;
+    - affluent, an overplus, superabundant;
+    - enlarged, noble;
+    - _h(o\)(6) h(o\)(6) ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[hou6 hou6 fu4]],
+        how grand!
+    - _h(o\)(6) h(i/)(3)_
+        [[hou6 hei3]]
+        magnanimous.
+    ==
+  ====
+$$
+##>
