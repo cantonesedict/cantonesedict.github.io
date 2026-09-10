@@ -227,6 +227,23 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)醢]]
+    ==
+    - Seasoned, minced meat pickled in brine;
+    - also the pickle itself;
+    - to simmer;
+    - _(5)t(')(a/)m (2)hoi (5)(i/) ts(i/)n(3)_
+        [[taam5 hoi2 ji5 zin3]]
+        to sacrifice with minced pickles.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~90 (2)鎧]]
     ==
     - A cuirass, or coat of mail;
