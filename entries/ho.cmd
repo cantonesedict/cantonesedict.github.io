@@ -172,3 +172,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~87 (4)荷]]
+    ==
+    - The lotus or Nelumbium;
+    - also applied to some Malvaceæ;
+    - _(4)ho (1)p(a/)u_
+        [[ho4 baau1]],
+        a purse;
+    - _(4)ho (1)fung_
+        [[ho4 fung1]],
+        a south wind.
+    ==
+  ====
+$$
+##>
