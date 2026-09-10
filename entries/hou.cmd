@@ -181,6 +181,30 @@ $$
 $$
 W
   ====
+  - [[Page~88 耗(3)]]
+    ==
+    - To diminish, consume, or destroy, through time or use;
+    - to spoil, to dissipate, to squander, to injure;
+    - to render void;
+    - vicious, bad;
+    - _h(o\)(3) (2)s(u:)n_
+        [[hou3 syun2]],
+        spoiled, destroyed;
+    - _h(o\)(3) fai(3)_
+        [[hou3 fai3]]
+        wasted, extravagant;
+    - _(1)k(a/) h(o\)(3)_
+        [[gaa1 hou3]]
+        to supply the deficiency or waste.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (1)嘷 _(1)H(o\)_ (hou1); here normalised to 嗥 _(4)H(o\)_ (hou4)]]
     ==
     - To roar and howl like bears or tigers;
