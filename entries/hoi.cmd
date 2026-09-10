@@ -296,6 +296,27 @@ $$
 $$
 W
   ====
+  - [[Page~90 亥(6)]]
+    ==
+    - The twelfth of the Branches, answering to boar;
+    - _hoi(6) (4)n(i/)n_
+        [[hoi6 nin4]],
+        years of the cycle containing this character;
+    - _hoi(6) (u:)t(9)_
+        [[hoi6 jyut6]]
+        the 10th~month;
+    - _hoi(6) (4)sh(i/)_
+        [[hoi6 si4]],
+        9--11 o'clock P.~M.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~90 害(6)]]
     ==
     - To injure, to hurt, to prejudice;
