@@ -459,3 +459,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~89 皓(6)顥(6)]]
+    ==
+    - The light of heaven, luminous, like the clear sky;
+    - resplendent, splendid, bright, glistering, white, lustrous;
+    - pure, clear;
+    - _h(o\)(6) (2)shau_
+        [[hou6 sau2]],
+        a hoary head;
+    - _sz'(3) h(o\)(6)_
+        [[si3 hou6]],
+        four graybeards in the H(a/)n [[漢]] dynasty;
+    - _h(o\)(6) h(o\)(6)_
+        [[hou6 hou6]]
+        bright, glistening, like the rising moon.
+    ==
+  ====
+$$
+##>
