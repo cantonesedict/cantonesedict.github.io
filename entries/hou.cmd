@@ -184,6 +184,22 @@ $$
 $$
 W
   ====
+  - [[Page~88 (4)譹]]
+    ==
+    - To cry out, to implore, to groan;
+    - to call.
+    ==
+    --
+    Used for the next [[號]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (4)豪]]
     ==
     - A porcupine, with quills pointed black;
