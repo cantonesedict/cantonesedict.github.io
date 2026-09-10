@@ -534,6 +534,14 @@ W
         [[bit6 hou6]]
         the virile style taken at marriage.
     ==
+  - [[Page~717 號(6)]]
+    ==
+    - A day, but applied only to the foreign month;
+    - to call;
+    - _h(o\)(6) (4)t(')ung_
+        [[hou6 tung4]],
+        a speaking trumpet.
+    ==
   ====
 $$
 ##>
