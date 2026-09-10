@@ -482,3 +482,58 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~89 號(6)号(6)]]
+    ==
+    - Mark, designation, denomination;
+    - a "chop," label, name;
+    - epithet or style;
+    - sign of a shop;
+    - an order, or verbal command, a summons;
+    - signal, countersign;
+    - to mark a box, to label, or direct it;
+    - _h(o\)(6) ling(6)_
+        [[hou6 ling6]]
+        a mandate, word of command;
+    - _(5)n(i/) ~~(2)p(o\)~~ ``(2)p(')(o\)`` h(o\)(6)_
+        [[nei5 pou3-2 hou6]]
+        what is your shop name?
+    - _tsz'(6) h(o\)(6)_
+        [[zi6 hou6]]
+        a mark;
+    - _h(o\)(6) (1)s(e/)ung_
+        [[hou6 soeng1]],
+        mark a box;
+    - _fong(3) h(o\)(6) p(')(a/)u(3)_
+        [[fong3 hou6 paau3]]
+        to fire a salute;
+    - _kwok(8) h(o\)(6)_
+        [[gwok3 hou6]]
+        name of the dynasty;
+    - _(4)n(i/)n h(o\)(6)_
+        [[nin4 hou6]]
+        name of the reign;
+    - _h(o\)(6) (4)fong_
+        [[hou6 fong4]],
+        a porter's lodge in a public office;
+    - _(2)h(i/) h(o\)(6)_
+        [[hei2 hou6]]
+        to blow the horn at examinations and parades;
+    - _h(o\)(6) sh(e/)(3)_
+        [[hou6 se3]]
+        cells in the examination halls,
+        labeled with the characters of the Millenary Classic;
+    - _(1)ts(u:)n h(o\)(6) (1)n(i/)_
+        [[zyun1 hou6 ni1]],
+        what is your name?
+    - _p(i/)t(9) h(o\)(6)_
+        [[bit6 hou6]]
+        the virile style taken at marriage.
+    ==
+  ====
+$$
+##>
