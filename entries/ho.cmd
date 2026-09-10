@@ -98,6 +98,68 @@ $$
 <##
 $$
 W
+  ======
+  - [[Page~87 (2)可]]
+    ====
+    - To be willing, to permit, free to do, able to do;
+    - proper, fit, convenient;
+    - can, may, could;
+    - worthy, competent;
+    - used as an interrogative, and by way of invitation,
+      or to soften an order;
+    - forms verbal adjectives, or gerunds ending in _able_, as
+      ==
+      - _(2)ho ~~(1)sh(u:)~~ ``sh(u:)(3)``_
+          [[ho2 syu3]],
+          forgivable;
+      - _(2)ho (5)(i/)_
+          [[ho2 ji5]],
+          possible, it can do;
+      - _(2)ho (u/)(3)_
+          [[ho2 wu3]]
+          impudent, disagreeable;
+      - _(2)ho (4)l(i/)n_
+          [[ho2 lin4]],
+          to compassionate;
+      - _(2)ho (2)shai_
+          [[ho2 sai2]],
+          serviceable;
+      - _(2)ho (5)(i/) ts(o\)(6) tak(7)_
+          [[ho2 ji5 zou6 dak1]]
+          it can be allowed, ~~permissable~~ ``permissible``;
+      ==
+    - _(5)n(i/) (2)ho (5)l(a/)ng_
+        [[nei5 ho2 laang5]],
+        are you cold?
+    - _(2)ho (2)hau_
+        [[ho2 hau2]],
+        delicate-tasted;
+    - _(2)ho (2)ho_
+        [[ho2 ho2]],
+        just as, exactly;
+    - _(2)ho, yau(6) (4)loi_
+        [[ho2, jau6 loi4]],
+        ah! you've come again!
+    - _(2)si(u/) (2)ho_
+        [[siu2 ho2]],
+        a little matter;
+    - _(1)f(i/) (4)t(')ung (2)si(u/) (2)ho_
+        [[fei1 tung4 siu2 ho2]],
+        of great importance, not a little thing;
+    - _(2)ho (4)hang_
+        [[ho2 hang4]],
+        should or can be done;
+    - _(5)yau (4)ho pat(7) (2)ho_
+        [[jau5 ho4 bat1 ho2]]
+        what forbids, why not?
+    ====
+  ======
+$$
+##>
+
+<##
+$$
+W
   ====
   - [[Page~86 (4)何]]
     ==
