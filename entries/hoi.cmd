@@ -291,3 +291,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~90 害(6)]]
+    ==
+    - To injure, to hurt, to prejudice;
+    - to offend, to damage;
+    - noxious, calamitous;
+    - fearful of;
+    - a sense or fear of, a feeling;
+    - _l(i/)(6) hoi(6)_
+        [[lei6 hoi6]]
+        severe, stingy, formidable;
+        also advantageous and hurtful;
+    - _(4)ts(')(a/)n hoi(6)_
+        [[caan4 hoi6]]
+        ruinous to the health;
+        also, to injure another;
+    - _hoi(6) mat(9)_
+        [[hoi6 mat6]]
+        to spoil things;
+    - _(4)m(o\) hoi(6)_
+        [[mou4 hoi6]]
+        of no consequence;
+    - _hoi(6) (1)sau_
+        [[hoi6 sau1]]
+        to blush.
+    ==
+  ====
+$$
+##>
