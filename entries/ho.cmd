@@ -99,6 +99,53 @@ $$
 $$
 W
   ====
+  - [[Page~86 (4)何]]
+    ==
+    - Which, who, what;
+    - how;
+    - wherefore;
+    - according to the sense of the context;
+    - to bear, to carry;
+    - _(4)ho sz'(6)_
+        [[ho4 si6]]
+        what business have you?
+    - _(4)ho (4)yan_
+        [[ho4 jan4]],
+        who?
+    - _(4)ho (2)k(a/)i_
+        [[ho4 gaai2]],
+        why is it so, what does it mean?
+    - _(5)m(o\) (2)k(i/) (4)ho_
+        [[mou5 gei2 ho4]],
+        suddenly, in a little time;
+    - _(4)ho k(u/)(3)_
+        [[ho4 gu3]]
+        why?
+        what's the reason!
+    - _(4)ho pat(7) (2)ts(o\) (4)loi_
+        [[ho4 bat1 zou2 loi4]],
+        why ~~did n't~~ ``didn't`` you come earlier?
+    - _(4)ho p(i/)t(7) (4)(u:) (2)ts(')z'_
+        [[ho4 bit1 jyu4 ci2]]
+        what need for this, why so?
+    - _(4)ho (2)f(u/) (2)k(o\)m ~~(5)y(e/)ung~~ ``y(e/)ung(6)``_
+        [[ho4 fu2 gam2 joeng6-2]],
+        why do you act so? (implying error);
+    - _(4)ho (4)(u:)_
+        [[ho4 jyu4]],
+        how?
+    - _(4)ho (1)tsoi_
+        [[ho4 zoi1]],
+        why, pray?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~86 (4)河]]
     ==
     - The Yellow River by eminence;
