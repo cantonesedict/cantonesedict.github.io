@@ -287,6 +287,24 @@ $$
 $$
 W
   ====
+  - [[Page~87 荷(6)]]
+    ==
+    - To bear, to sustain, to carry on the head or back;
+    - _ho(6) lap(7)_
+        [[ho6 lap1]]
+        to wear a rain-hat;
+    - _f(u/)(6) ho(6)_
+        [[fu6 ho6]]
+        to bear on the back.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 賀(6)]]
     ==
     - To congratulate, to felicitate, at festivals or on happy events;
