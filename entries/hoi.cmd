@@ -98,6 +98,57 @@ $$
 $$
 W
   ====
+  - [[Page~89 (2)海]]
+    ==
+    - The sea, the receptacle of rivers;
+    - a large river;
+    - marine;
+    - _sz'(3) (2)hoi_
+        [[si3 hoi2]],
+        within the four seas, everywhere, the world;
+    - _kwo(3) (2)hoi_
+        [[gwo3 hoi2]],
+        to cross the river (at Canton);
+    - _ch(')ut(7) (2)hoi_
+        [[ceot1 hoi2]],
+        to voyage;
+    - _(2)hoi (1)kw(a/)n_
+        [[hoi2 gwaan1]],
+        port of entrance;
+        also the collector of customs at a port;
+    - _(2)hoi (1)ch(u:) tsz'(6)_
+        [[hoi2 zyu1 zi6]]
+        Dutch Folly;
+    - _(2)hoi (1)p(i/)n_
+        [[hoi2 bin1]],
+        seaside;
+    - _(2)hoi m(i/)(6)_
+        [[hoi2 mei6-2]]
+        marine delicacies;
+    - _(2)hoi (1)sham_
+        [[hoi2 sam1]],
+        biche-de-mer;
+    - _(2)hoi (5)sh(i/)_
+        [[hoi2 si5]],
+        a sort of sea mirage;
+    - _fuk(7) (4)(u:) (1)Tung (2)hoi_
+        [[fuk1 jyu4 dung1 hoi2]],
+        happiness like the East sea;
+    - _(2)Hoi (4)t(')ong tsz'(6)_
+        [[hoi2 tong4 zi6-2]]
+        the Honam [[]] joss-house;
+    - _(2)hoi (4)lung (4)wong_
+        [[hoi2 lung4 wong4]],
+        Neptune, god of rain.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~89 (4)頦]]
     ==
     - The bones of the chin, the chin;
