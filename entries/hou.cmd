@@ -406,3 +406,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~88 昊(6)]]
+    ==
+    - A luminous sky;
+    - grand;
+    - heaven;
+    - _h(o\)(6) (1)t(')(i/)n_
+        [[hou6 tin1]],
+        summer heaven;
+    - _h(o\)(6) (1)t(')(i/)n (1)kam h(u:)t(8)_
+        [[hou6 tin1 gam1 hyut3]]
+        the glorious heavens and golden palace (of Sh(a/)ngt(i/) [[上帝]]).
+    ==
+  ====
+$$
+##>
