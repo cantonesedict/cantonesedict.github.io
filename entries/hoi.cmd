@@ -247,6 +247,23 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)闓]]
+    ==
+    - To open, to stretch out, to loosen;
+    - _(2)hoi ch(a/)k(9)_
+        [[hoi2 zaak6]]
+        to have a timely rain, great benefits;
+    - an archer's thumb-ring;
+    - to desire.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~89 (4)頦]]
     ==
     - The bones of the chin, the chin;
