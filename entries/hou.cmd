@@ -160,6 +160,30 @@ $$
 $$
 W
   ====
+  - [[Page~88 (4)蠔]]
+    ==
+    - An oyster;
+    - _(4)h(o\) hok(8)_
+        [[hou4 hok3]]
+        an oyster shell;
+    - _(4)h(o\) (4)t(')ong_
+        [[hou4 tong4]],
+        an oyster bed;
+    - _(4)h(o\) sh(i/)(6)_
+        [[hou4 si6-2]]
+        dried oysters;
+    - _(4)h(o\) (1)sh(a/)n_
+        [[hou4 saan1]],
+        a cluster of oysters.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (4)豪]]
     ==
     - A porcupine, with quills pointed black;
