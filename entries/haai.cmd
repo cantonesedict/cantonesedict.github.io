@@ -553,6 +553,33 @@ L
   ====
 $$
 
+<##
+$$
+W
+  ====
+  - [[Page~89 (4)駭 _(4)Hoi_ (hoi4); here normalised to _(5)H(a/)i_ (haai5)]]
+    ==
+    - Alarmed, startled, terrified;
+    - agitated, afraid of;
+    - to disperse;
+    - _~~(4)hoi~~ ``(5)h(a/)i`` p(')(a/)(3)_
+        [[haai5 paa3]]
+        to fear;
+    - _~~(4)hoi~~ ``(5)h(a/)i`` ngok(9)_
+        [[haai5 ngok6]]
+        amazed.
+    ==
+    --
+    Also, to beat drums to rouse the army.
+    --
+  ====
+S
+  ==
+  - ($駭hoi4) (TODO)
+  ==
+$$
+##>
+
 
 ##{#6 .williams} H(a/)i(6) [[haai6 陽去]]
 
