@@ -26,6 +26,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~86 (1)呵]]
+    ==
+    - To blame, to scold;
+    - to interrogate;
+    - sound of laughter;
+    - to yawn, or expel the breath;
+    - _(1)ho h(i/)m(3)_
+        [[ho1 him3]]
+        to yawn;
+    - _(1)ho (1)ho_
+        [[ho1 ho1]],
+        to laugh loud.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~86 (1)苛]]
     ==
     - Small plants;
