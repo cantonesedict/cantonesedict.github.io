@@ -335,6 +335,33 @@ L
   ====
 $$
 
+<##
+$$
+W
+  ====
+  - [[Page~89 (4)骸 _(4)Hoi_ (hoi4); here normalised to _(4)H(a/)i_ (haai4)]]
+    ==
+    - Shin of the leg (tibia);
+    - the hones of the body;
+    - members of the body;
+    - _p(a/)k(8) ~~(4)hoi~~ ``(4)h(a/)i``_
+        [[baak3 haai4]],
+        the skeleton;
+    - _luk(9) ~~(4)hoi~~ ``(4)h(a/)i``_
+        [[luk6 haai4]],
+        the trunk, head, and four limbs;
+    - _(1)sh(i/) ~~(4)hoi~~ ``(4)h(a/)i``_
+        [[si1 haai4]],
+        a corpse.
+    ==
+  ====
+S
+  ==
+  - ($骸hoi4) (TODO)
+  ==
+$$
+##>
+
 
 ##{#5 .williams} (5)H(a/)i [[haai5 陽上]]
 
