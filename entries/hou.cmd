@@ -181,6 +181,28 @@ $$
 $$
 W
   ====
+  - [[Page~88 犒(3)]]
+    ==
+    - To confer refreshments on troops;
+    - to reward workmen with their drink-money;
+    - _h(o\)(3) (2)sh(e/)ung_
+        [[hou3 soeng2]]
+        to confer bounties;
+    - _h(o\)(3) (1)kung_
+        [[hou3 gung1]],
+        entertain workmen at a house-building;
+    - _h(o\)(3) (4)nung_
+        [[hou3 nung4]],
+        official largesses to farmers in spring.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~88 耗(3)]]
     ==
     - To diminish, consume, or destroy, through time or use;
