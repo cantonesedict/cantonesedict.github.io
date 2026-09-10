@@ -84,6 +84,44 @@ $$
 $$
 W
   ====
+  - [[Page~87 (4)毫]]
+    ==
+    - Long-soft hair;
+    - down;
+    - atoms, motes;
+    - anything very minute, nothings;
+    - in decimals, a hundredth;
+    - in Canton, a dime, or tenth of a dollar;
+    - _(1)fai (4)h(o\)_
+        [[fai1 hou4]],
+        to write;
+    - _(4)h(o\) m(u/)t(9) sz'(6)_
+        [[hou4 mut6 si6]]
+        petty, trifling, affairs;
+    - _(4)h(o\) (4)m(o\) kwo(3) f(a/)n(6)_
+        [[hou4 mou4 gwo3 faan6]],
+        not overpassed my duties, not transgressed;
+    - _(4)h(o\) (4)l(i/)_
+        [[hou4 lei4]]
+        a very little;
+    - _(1)sz' (4)h(o\) pat(7) ~~tso(3)~~ ``ts(')o(3)``_
+        [[si1 hou4 bat1 co3]]
+        no error, immaculate;
+    - _(4)h(o\) (4)m(o\) (2)yan (4)m(u/)n_
+        [[hou4 mou4 jan2 mun4]],
+        concealed nothing;
+    - _(5)'ng (4)h(o\)_
+        [[ng5 hou4]],
+        half a dollar.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (4)豪]]
     ==
     - A porcupine, with quills pointed black;
