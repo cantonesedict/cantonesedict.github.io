@@ -21,3 +21,35 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~86 (1)苛]]
+    ==
+    - Small plants;
+    - petty, troublesome, vexatious;
+    - minute, small, trifling, little;
+    - unimportant, as an ailing;
+    - circumstantial, tedious;
+    - to vex, to annoy;
+    - to molest subjects by examining;
+    - to blame;
+    - _(1)ho (4)k(')au_
+        [[ho1 kau4]],
+        to importune;
+    - _(1)ho ~~h(a/)k(7)~~ ``hak(7)``_
+        [[ho1 hak1 苛刻]]
+        to be needlessly strict;
+    - _(1)ho tsat(9)_
+        [[ho1 zat6]]
+        a fatal disease.
+    ==
+  ====
+C
+  ==
+  - Williams' 苛刻: Normalised _h(a/)k(7)_ (haak1) to _hak(7)_ (hak1).
+  ==
+$$
+##>
