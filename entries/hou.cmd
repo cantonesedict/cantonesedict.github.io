@@ -63,3 +63,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~87 (1)嘷 _(1)H(o\)_ (hou1); here normalised to 嗥 _(4)H(o\)_ (hou4)]]
+    ==
+    - To roar and howl like bears or tigers;
+    - to cry loud, or long;
+    - _~~(1)h(o\)~~ ``(4)h(o\)`` ~~(1)h(o\)~~ ``(4)h(o\)`` (1)sheng_
+        [[hou4 hou4 seng1]],
+        a bawling.
+    ==
+  ====
+$$
+##>
