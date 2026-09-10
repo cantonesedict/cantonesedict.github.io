@@ -74,3 +74,23 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~86 (1)訶]]
+    ==
+    - Used for the preceding [[呵]];
+    - to speak loud or sharply to;
+    - to traduce, to revile, to rail at;
+    - _(1)ho ch(a/)k(9)_
+        [[ho1 zaak6]]
+        to reprimand angrily;
+    - _(1)ho (2)tsz'_
+        [[ho1 zi2]],
+        an astringent nut used for tooth-aches.
+    ==
+  ====
+$$
+##>
