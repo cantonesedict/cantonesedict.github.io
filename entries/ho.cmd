@@ -282,3 +282,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~87 賀(6)]]
+    ==
+    - To congratulate, to felicitate, at festivals or on happy events;
+    - to make presents, to reward;
+    - also, _met._ presents;
+    - to bear;
+    - _(1)kung ho(6)_
+        [[gung1 ho6]]
+        respectful congratul``a``tions;
+    - _ho(6) (2)h(i/)_
+        [[ho6 hei2]],
+        joy be with you;
+    - _ho(6) (5)lai_
+        [[ho6 lai5]],
+        congratulatory presents;
+    - _ho(6) (5)m(u/)n (u:)t(9)_
+        [[ho6 mun5 jyut6]]
+        presents sent when a child is a month old.
+    ==
+  ====
+$$
+##>
