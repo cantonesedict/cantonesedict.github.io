@@ -84,6 +84,21 @@ $$
 $$
 W
   ====
+  - [[Page~88 (4)壕]]
+    ==
+    - A city moat or ditch, a fosse;
+    - _~~(4)sheng~~ ``(4)shing`` (4)h(o\)_
+        [[sing4 hou4]],
+        the city ditch.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (4)毫]]
     ==
     - Long-soft hair;
