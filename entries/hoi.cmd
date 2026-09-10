@@ -120,6 +120,24 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)剴]]
+    ==
+    - A sickle or bill-hook;
+    - to cut;
+    - to move;
+    - diligently, carefully;
+    - _(2)hoi ts(')(i/)t(8) (2)hi(u/) (u:)(6)_
+        [[hoi2 cit3 hiu2 jyu6]]
+        fully make you know---a phrase common in edicts.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~90 (2)塏]]
     ==
     - A clear and elevated eminence, fit for a residence;
