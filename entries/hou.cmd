@@ -68,6 +68,80 @@ $$
 $$
 W
   ====
+  - [[Page~88 (2)好]]
+    ==
+    - Good, right, excellent;
+    - well, very;
+    - an intensitive adjective implying good or bad,
+      according to the thing or act;
+    - exceeding, superlatively;
+    - _(2)h(o\) (1)s(e/)ung (5)(u:)_
+        [[hou2 soeng1 jyu5]],
+        good disposition;
+    - _(2)h(o\) tak(7) tsai(6)_
+        [[hou2 dak1 zai6]]
+        exceedingly good;
+        also (ironically), well done!
+        lookout!
+    - _(2)h(o\) (1)on (4)p(')(a/)i_
+        [[hou2 on1 paai4]],
+        well arranged;
+    - _(2)h(o\) (2)ch(')^au~~(6)~~_
+        [[hou2 cau2]]
+        very ugly;
+    - _(2)h(o\), ~~(2)ta(')i~~ ``(2)t(')ai`` (5)n(i/) sh(i/)(6) p(i/)t(7) (4)loi_
+        [[hou2, tai2 nei5 si6 bat1 loi4]],
+        you must come at any rate;
+    - _(2)h(o\) tik(7)_
+        [[hou2 dik1]]
+        a little better;
+    - _(2)h(o\) kik(9)_
+        [[hou2 gik6]]
+        excel, lent;
+    - _(2)h(o\) (4)'m (2)h(o\)_
+        [[hou2 m4 hou2]],
+        is it good?
+    - _(2)h(o\) (1)sheng_
+        [[hou2 seng1]],
+        be careful, look-out;
+        good music;
+    - _(2)h(o\) tak(7) tik(7)_
+        [[hou2 dak1 dik1]]
+        a very little better;
+    - _(2)h(o\) (5)ts(')z' (5)n(i/)_
+        [[hou2 ci5 nei5]],
+        like you;
+    - _(2)h(o\) t(o\)(3) (4)m(o\) (2)p(i/)_
+        [[hou2 dou3 mou4 bei2]]
+        nothing so good as this;
+    - _(2)h(o\) pat(7) (2)f(u/)_
+        [[hou2 bat1 fu2]],
+        extremely distressed;
+    - _(2)h(o\) (2)ts(')oi sh(o\)(3)_
+        [[hou2 coi2 sou3]]
+        well, succeeded;
+    - _(2)h(o\) (2)k(a/)_
+        [[hou2 gaa2]],
+        deceptive, baseless;
+    - _(2)h(o\) w(a/)(6)_
+        [[hou2 waa6]]
+        well, thank you;
+        a reply intimating assent;
+    - _(2)h(o\) si(u/)(3)_
+        [[hou2 siu3]]
+        laughable;
+    - _(4)'m tak(7) (2)h(o\)_
+        [[m4 dak1 hou2]],
+        he can not recover.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~87 (1)嘷 _(1)H(o\)_ (hou1); here normalised to 嗥 _(4)H(o\)_ (hou4)]]
     ==
     - To roar and howl like bears or tigers;

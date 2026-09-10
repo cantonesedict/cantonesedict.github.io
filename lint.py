@@ -1430,7 +1430,11 @@ class RomanisationComparison:
             string=williams.lower(),
             flags=re.VERBOSE,
         )
-        williams_tone_number = re.sub(pattern='[^1-9]', repl='', string=williams)
+        williams_tone_number = re.sub(
+            pattern='[^1-9]',
+            repl='',
+            string=re.sub(pattern='~~.+?~~', repl='', string=williams),
+        )
 
         expected_jyutping_toneless_list = TONELESS_JYUTPING_LIST_FROM_WILLIAMS.get(williams_toneless, [])
         expected_jyutping_tone_number = williams_tone_number.translate(str.maketrans('789', '136'))
