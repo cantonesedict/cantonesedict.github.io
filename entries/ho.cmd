@@ -176,6 +176,20 @@ $$
 $$
 W
   ====
+  - [[Page~87 (2)舸]]
+    ==
+    - A large galley or transport used in battle,
+      called _(2)ho l(a/)m(6)_ [[ho2 laam6]]
+      in the S(a/)n Kwoh ~~Ch(')(i/)~~ ``Ch(i/)`` [[三國志]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~86 (4)何]]
     ==
     - Which, who, what;
