@@ -79,3 +79,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~87 (4)豪]]
+    ==
+    - A porcupine, with quills pointed black;
+    - imperial (applied to H.~M. herds and flocks);
+    - superior to others, eminent, excellent;
+    - martial, brave, high-spirited;
+    - a leader;
+    - excelling in mental qualities;
+    - _(4)h(o\) ~~h(a/)p(9)~~ ``hap(9)``_
+        [[hou4 hap6]]
+        a hero (in moral courage);
+    - _(2)t(')(o\) (4)h(o\)_
+        [[tou2 hou4]],
+        a village brave;
+    - _(4)h(o\) k(i/)t(9)_
+        [[hou4 git6]]
+        chieftain;
+    - _(4)h(o\) (4)k(')(e/)ung_
+        [[hou4 koeng4]]
+        a bandit.
+    ==
+    --
+    Used tor the next [[毫]].
+    --
+  ====
+$$
+##>
