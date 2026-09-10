@@ -44,3 +44,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~87 (1)薅]]
+    ==
+    - To weed;
+    - to pull out hair;
+    - _(1)h(o\) (4)t(')au (4)m(o\)_
+        [[hou1 tau4 mou4]],
+        to pull out the hair;
+    - _(1)h(o\) (2)ts(')(o\)_
+        [[hou1 cou2]]
+        to weed fields.
+    ==
+  ====
+$$
+##>
