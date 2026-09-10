@@ -98,6 +98,29 @@ $$
 $$
 W
   ====
+  - [[Page~90 (2)愷]]
+    ==
+    - Joyful, peaceful;
+    - contented, gentle, pleased;
+    - _(2)hoi tai(6) (1)kwan (2)tsz'_
+        [[hoi2 dai6 gwan1 zi2]]
+        liberal minded officer;
+    - _(2)hoi ch(a/)k(9)_
+        [[hoi2 zaak6]]
+        kind and benevolent;
+        delighted.
+    ==
+    --
+    Same as the next [[凱]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~89 (2)海]]
     ==
     - The sea, the receptacle of rivers;
