@@ -105,6 +105,11 @@ W
         [[siu3 min6 hok3]]
         a mask.
     ==
+  - [[Page~717 殼(8)]]
+    ==
+    - A skein or hank of raw silk,
+      generally only a skein or knot.
+    ==
   ====
 $$
 ##>
