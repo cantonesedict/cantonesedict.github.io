@@ -244,6 +244,20 @@ $$
 $$
 W
   ====
+  - [[Page~92 {𲝶=⿰山勘}(3)]]
+    ==
+    - A cliff projecting into the water,
+      forming a sort of breakwater,
+      is called _h(o\)m(3) (4)t(')au_ [[ham3 tau4]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (4)含(4)唅]]
     ==
     - To hold something in the mouth, the mouth full;
