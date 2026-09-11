@@ -108,3 +108,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~91 鶴(9)]]
+    ==
+    - A crane;
+    - an emblem of age;
+    - the name is applied to many of the waders;
+    - _m(o\)(6) (2)shui hok(9)_
+        [[mou6 seoi2 hok6-2]]
+        a gray stork, common at Canton;
+    - _~~p(a/)k(8)~~ ``p(a/)k(9)`` hok(9)_
+        [[baak6 hok6-2]]
+        a white egret, commonly eaten;
+    - _(1)ch(u:) (2)teng hok(9)_
+        [[zyu1 deng2 hok6-2]]
+        red crowned crane;
+    - _hok(9) s(u:)n(3)_
+        [[hok6-2 syun3]]
+        an aged man;
+    - _hok(9) f(a/)t(8)_
+        [[hok6-2 faat3]]
+        hoar-hairs;
+    - _(5)n(i/) chong(6) hok(9) (4)shan (1)m(e/)_
+        [[nei5 zong6 hok6-2 san4 me1]],
+        have you seen the god of Cranes, [that you are so unlucky]?
+    ==
+  ====
+$$
+##>
