@@ -26,6 +26,58 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~90 學(9){𡕕=⿱夂子}(9)]]
+    ==
+    - To learn, to receive instruction;
+    - to practice, to imitate;
+    - learning, science, study, instruction;
+    - doctrines, tenets, school of;
+    - a college;
+    - _hok(9) man(6)_
+        [[hok6 man6]]
+        to learn and inquire;
+    - _yap(9) hok(9)_
+        [[jap6 hok6]]
+        to become a si(u/)ts(a/)i [[秀才]];
+    - _hok(9) (4)t(')oi_
+        [[hok6 toi4]],
+        literary chancellor;
+    - _~~sh(e/)ung(3)~~ ``(5)sh(e/)ung`` hok(9)_
+        [[soeng5 hok6]]
+        to enter school;
+    - _hok(9) (5)m(o\)_
+        [[hok6 mou5]],
+        to learn tactics;
+    - _hok(9) ~~(1)shang~~ ``(1)sh(a/)ng``_
+        [[hok6 saang1]],
+        a pupil, a si(u/)ts(a/)i [[秀才]];
+    - _sh(o\)(3) hok(9)_
+        [[sou3 hok6]]
+        arithmetic;
+    - _hok(9) sz'(6)_
+        [[hok6 si6]]
+        doctors, statesmen, academicians;
+    - _(u:)n(6) hok(9) (1)kung_
+        [[jyun6 hok6 gung1]],
+        the district college;
+    - _hok(9) ~~tsap(9)~~ ``ts(a/)p(9)``_
+        [[hok6 zaap6]]
+        to learn and practice.
+    ==
+  ====
+C
+  ==
+  - Williams prints the abbreviated form as {𡕕=⿱夂子},
+    but places it under radical ⽁ on Page~767 of the character index,
+    which instead corresponds to the form {𢻯=⿱攵子}.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~90 殼(8)壳(8)]]
     ==
     - The skin, shells, or covering of fruits or eggs;
