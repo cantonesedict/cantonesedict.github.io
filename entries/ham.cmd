@@ -116,6 +116,40 @@ $$
 $$
 W
   ====
+  - [[Page~91 (2)坎]]
+    ==
+    - A pit, a hole;
+    - a dangerous place;
+    - to dig a pit;
+    - to cut up;
+    - to full into a snare or danger;
+    - hazardous;
+    - noise made in straining or striking, a smack, a rap;
+    - one of the diagrams (it belongs to water);
+    - _yat(7) (2)h(o\)m sh(u:)(6)_
+        [[jat1 ham2 syu6]]
+        a stunted tree;
+    - _yat(7) (2)h(o\)m (u/)(6) (4)t(')au_
+        [[jat1 ham2 wu6 tau4-2]],
+        a head of taro;
+    - _(2)h(o\)m (u:)t(9)_
+        [[ham2 jyut6]]
+        to dig a pit;
+    - _(2)h(o\)m ~~h(a/)m(6)~~ ``ham(6)``_
+        [[ham2 ham6]]
+        to set a pit, to collude;
+    - _~~kwat(7)~~ ``kwat(9)`` (2)h(o\)m_
+        [[gwat6 ham2]],
+        to dig a hole.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (4)含(4)唅]]
     ==
     - To hold something in the mouth, the mouth full;
