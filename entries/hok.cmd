@@ -113,6 +113,19 @@ $$
 $$
 W
   ====
+  - [[Page~91 翯(9)]]
+    ==
+    - White, glistening plumes of birds;
+    - pure and white.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 鶴(9)]]
     ==
     - A crane;
