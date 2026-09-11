@@ -111,3 +111,43 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~91 (4)含(4)唅]]
+    ==
+    - To hold something in the mouth, the mouth full;
+    - to contain;
+    - to cherish;
+    - to suffer, put up with, or tolerate;
+    - to restrain;
+    - thick utterance;
+    - a turgid, obscure style;
+    - to place gems in a corpse's mouth;
+    - _(4)h(o\)m (4)yung_
+        [[ham4 jung4]],
+        to bear with, to be patient towards;
+    - _(4)h(o\)m si(u/)(3)_
+        [[ham4 siu3]]
+        to smile;
+    - _(1)p(a/)u (4)h(o\)m_
+        [[baau1 ham4]]
+        to contain in;
+    - _(4)h(o\)m n(o\)(6)_
+        [[ham4 nou6]]
+        to restrain anger;
+    - _(4)h(o\)m (2)kau_
+        [[ham4 gau2]],
+        to stomach an insult;
+    - _(4)h(o\)m (1)sau_
+        [[ham4 sau1]],
+        to blush, be ashamed;
+    - _(4)h(o\)m k(i/)(3)_
+        [[ham4 gei3]]
+        to bear in mind.
+    ==
+  ====
+$$
+##>
