@@ -54,3 +54,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~91 (1)嵁]]
+    ==
+    - A rocky bankside;
+    - precipitous ledges;
+    - irregular;
+    - _(1)sh(a/)n (1)h(o\)m_
+        [[saan1 ham1]],
+        a ledge, a cliff.
+    ==
+  ====
+$$
+##>
