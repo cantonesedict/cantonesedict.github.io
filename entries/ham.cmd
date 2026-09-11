@@ -269,3 +269,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~92 (5)頷]]
+    ==
+    - To contain in the mouth;
+    - sallow;
+    - the jaws, the chops;
+    - to shake the head;
+    - _h(a/)(6) (5)h(o\)m_
+        [[haa6 ham5]],
+        the chin;
+    - _(5)h(o\)m h(a/)(6) (1)ch(u:)_
+        [[ham5 haa6 zyu1]],
+        the pearl under the dragon's chin.
+    ==
+  ====
+$$
+##>
