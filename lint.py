@@ -516,6 +516,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "p(u/)i": ['bui'],
     "p(u/)n": ['bun'],
     "p(u/)t": ['but'],
+    "pa": ['ba'],
     "pai": ['bai'],
     "pak": ['bak'],
     "pan": ['ban'],

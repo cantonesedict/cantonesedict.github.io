@@ -379,6 +379,21 @@ $$
 $$
 W
   ====
+  - [[Page~92 喊(6); here normalised to 冚]]
+    ==
+    - _H(o\)m(6)-p(a/)ng(6)-l(a/)ng(6)_ [[ham6 baang6 laang6]]
+      the report af a gun;
+    - (contracted to _h(o\)mpal(a/)ng_ [[ham ba laang^]])
+      all, entirely, the whole.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 撼(6)]]
     ==
     - To move, to shake.
