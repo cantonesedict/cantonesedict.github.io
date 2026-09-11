@@ -270,6 +270,21 @@ $$
 $$
 W
   ====
+  - [[Page~92 瞰(6)闞(6) _H(o\)m(6)_ (ham6); here normalised to _H(o\)m(3)_ (ham3)]]
+    ==
+    - To spy, to glance at;
+    - to view;
+    - to hope for, to expect;
+    - to come down to view.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 磡(3)]]
     ==
     - A crag, a cliff;
