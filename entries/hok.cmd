@@ -64,6 +64,16 @@ W
         [[hok6 zaap6]]
         to learn and practice.
     ==
+  - [[Page~717 學(9)]]
+    ==
+    - Often used as an adjective, like, similar;
+    - _hok(9) (5)n(i/) (2)k(o\)m ts(o\)(6)_
+        [[hok6 nei5 gam2 zou6]]
+        do it as you do;
+    - _hok(9) shik(7) (1)n(i/) ko(3)_
+        [[hok6 sik1 ni1 go3]]
+        learn it like this.
+    ==
   ====
 C
   ==
