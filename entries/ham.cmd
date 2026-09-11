@@ -91,6 +91,18 @@ $$
 $$
 W
   ====
+  - [[Page~92 戡(3) _H(o\)m(3)_ (ham3); here normalised to _(1)H(o\)m_ (ham1)]]
+    ==
+    - To pierce, to conquer, to kill, to subdue.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (1)龕]]
     ==
     - To receive, to contain;
