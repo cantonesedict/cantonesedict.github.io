@@ -151,3 +151,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~91 (4)酣]]
+    ==
+    - Exhilirated, cheerful;
+    - merry from wine, lively, half-drunk;
+    - jocund, riant, as nature;
+    - _(4)h(o\)m (1)ko_
+        [[ham4 go1]],
+        drinking and singing;
+    - _p(u/)n(3) (4)h(o\)m_
+        [[bun3 ham4]],
+        tipsy, half-drunk.
+    ==
+  ====
+$$
+##>
