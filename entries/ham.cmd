@@ -71,3 +71,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~91 (1)龕]]
+    ==
+    - To receive, to contain;
+    - to overcome;
+    - sound;
+    - a niche or shrine, for receiving tablets or images,
+      either in the wall or movable;
+    - _(4)shan (1)h(o\)m_
+        [[san4 ham1]],
+        a shrine;
+    - _(4)m(u/)n (1)k(u/)n (1)h(o\)m_
+        [[mun4 gun1 ham1]],
+        the niche in doorways;
+    - _(1)h(e/)ung (1)h(o\)m_
+        [[hoeng1 ham1]],
+        an incense box.
+    ==
+  ====
+$$
+##>
