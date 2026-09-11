@@ -76,6 +76,21 @@ $$
 $$
 W
   ====
+  - [[Page~91 (1)憨]]
+    ==
+    - Simple, silly, appearing as if idiotic;
+    - _(1)ch(')(i/) (1)h(o\)m_
+        [[ci1 ham1]],
+        stupid.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (1)龕]]
     ==
     - To receive, to contain;
