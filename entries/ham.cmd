@@ -150,6 +150,44 @@ $$
 $$
 W
   ====
+  - [[Page~91 ::(2)~~{？=⿰扌坎}~~``扻``::]]
+    ==
+    - To run against;
+    - to throw down;
+    - to strike, to knock;
+    - _(2)h(o\)m (1)ts(')an (5)k(')(u:)_
+        [[ham2 can1 keoi5]],
+        run against it;
+    - _(4)ts(')z' pat(7) (2)h(o\)m (5)ng(a/)_
+        [[ci4 bat1 ham2 ngaa5]],
+        porcelain does not batter earthenware---\
+        _i.~e._ I will not contend with him;
+    - _(2)h(o\)m (4)t(')au (4)m(a/)i (4)ts(')(e/)ung_
+        [[ham2 tau4-2 maai4 coeng4]],
+        I have run my head against the wall;
+        I made a blunder;
+    - _(2)h(o\)m l(a/)n(6)_
+        [[ham2 laan6]]
+        to smash;
+    - _(2)h(o\)m (2)s(u:)n_
+        [[ham2 syun2]],
+        to injure or wound by running against;
+    - _(2)h(o\)m (1)pang_
+        [[ham2 bang1]],
+        to make a notch in.
+    ==
+  ====
+C
+  ==
+  - Williams' headword ⿰扌坎 is not encoded in Unicode.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (4)含(4)唅]]
     ==
     - To hold something in the mouth, the mouth full;
