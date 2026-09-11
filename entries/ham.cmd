@@ -150,7 +150,7 @@ $$
 $$
 W
   ====
-  - [[Page~91 ::(2)~~{？=⿰扌坎}~~``扻``::]]
+  - [[Page~91 (2){？=⿰扌坎}; here normalised to 扻]]
     ==
     - To run against;
     - to throw down;
@@ -181,6 +181,32 @@ C
   ==
   - Williams' headword ⿰扌坎 is not encoded in Unicode.
   ==
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~92 (2)砍]]
+    ==
+    - Used for the preceding [[⿰扌坎]];
+    - to cut, to chop, to fell;
+    - a mortar;
+    - _(1)chung (2)h(o\)m_
+        [[zung1 ham2]],
+        pestle and mortar;
+    - _(2)h(o\)m ~~f(a/)t(9)~~ ``fat(9)``_
+        [[ham2 fat6]]
+        to fell a tree;
+    - _t(u/)i(3) (2)h(o\)m_
+        [[deoi3 ham2]],
+        a trip-hammer mortar for hulling rice;
+    - _(1)f(u/)i (2)h(o\)m_
+        [[fui1 ham2]],
+        a lime mortar.
+    ==
+  ====
 $$
 ##>
 
