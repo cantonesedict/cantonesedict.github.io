@@ -258,6 +258,19 @@ $$
 $$
 W
   ====
+  - [[Page~92 磡(3)]]
+    ==
+    - A crag, a cliff;
+    - the covert under a projecting cliff.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (4)含(4)唅]]
     ==
     - To hold something in the mouth, the mouth full;
