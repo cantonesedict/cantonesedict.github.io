@@ -214,6 +214,36 @@ $$
 $$
 W
   ====
+  - [[Page~92 勘(3)]]
+    ==
+    - To compare, to investigate;
+    - diligent;
+    - to judge or ascertain by going to the place;
+    - able;
+    - _h(o\)m(3) (i/)m(6)_
+        [[ham3 jim6]]
+        to go and investigate;
+    - _t(a/)p(9) h(o\)m(3)_
+        [[daap6 ham3]]
+        an officer going and examining;
+    - _h(o\)m(3) (2)h(o\)_
+        [[ham3 hou2]],
+        to replace a tenon;
+    - _h(o\)m(3) (4)ch(')ong_
+        [[ham3 cong4]],
+        to put up a bedstead;
+    - _h(o\)m(3) ching(3)_
+        [[ham3 zing3]]
+        to straighten, to sit up aright.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (4)含(4)唅]]
     ==
     - To hold something in the mouth, the mouth full;
