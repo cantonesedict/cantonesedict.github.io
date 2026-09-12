@@ -54,6 +54,18 @@ $$
 $$
 W
   ====
+  - [[Page~93 (2)侃]]
+    ==
+    - Plain, unceremonious, and grave, in conversation, as Confucius was.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 (2)罕]]
     ==
     - Rare, few, scarce;
