@@ -85,6 +85,21 @@ $$
 $$
 W
   ====
+  - [[Page~92 (4)邯]]
+    ==
+    - _(4)Hon (1)t(a/)n_
+        [[hon4 daan1]],
+        a district in Kw(a/)ngping f(u/) [[廣平府]] in Chihl(i/) [[直隸]];
+    - abundant.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 (4)韓]]
     ==
     - A curb or fence round a well;
