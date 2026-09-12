@@ -54,6 +54,30 @@ $$
 $$
 W
   ====
+  - [[Page~93 (2)罕]]
+    ==
+    - Rare, few, scarce;
+    - seldom;
+    - a kind of flag;
+    - a rabbit net;
+    - _(2)hon k(i/)n(3)_
+        [[hon2 gin3]],
+        rarely seen;
+    - _(2)hon (5)yau tik(7) (2)kwo (2)tsz'_
+        [[hon2 jau5 dik1 gwo2 zi2]]
+        few of that fruit;
+    - _(2)hon (4)man (2)k(o\)m k(e/)(3) sz'(6)_
+        [[hon2 man4 gam2 ge3 si6]]
+        I have rarely heard such a thing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 (4)寒]]
     ==
     - Cold, wintry;
