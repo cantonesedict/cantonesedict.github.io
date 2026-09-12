@@ -21,3 +21,32 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 (1)康]]
+    ==
+    - Repose, peace, concord;
+    - delightful, excellent;
+    - blessed;
+    - joy, felicity;
+    - to quiet;
+    - an avenue, a road;
+    - _(1)hong (1)chong_
+        [[hong1 zong1]],
+        level, fine road;
+    - _(1)hong (4)ning_
+        [[hong1 ning4]],
+        health and contentment;
+    - _(1)hong t(')(a/)i(3)_
+        [[hong1 taai3]]
+        general peace;
+    - _(1)hong (4)k(')(e/)ung_
+        [[hong1 koeng4]],
+        strong, robust.
+    ==
+  ====
+$$
+##>
