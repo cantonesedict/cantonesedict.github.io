@@ -66,6 +66,33 @@ $$
 $$
 W
   ====
+  - [[Page~93 (2)刋; here normalised to 刊]]
+    ==
+    - To cut, to carve, to pare;
+    - to engrave blocks for printing;
+    - to hew or fell;
+    - to crase or cut out from blocks;
+    - _(2)hon (2)p(a/)n_
+        [[hon2 baan2]]
+        to cut out blocks for books;
+    - _(2)hon ting(6) (2)p(a/)n hai(6) (2)k(o\)m_
+        [[hon2 ding6 baan2 hai6 gam2]],
+        is it certainly so? are you sure?
+    - _(2)hon ~~h(a/)k(7)~~ ``hak(7)``_
+        [[hon2 hak1]]
+        to prepare and carve blocks;
+    - _pat(7) (2)hon (1)ch(i/) (1)sh(u:)_
+        [[bat1 hon2 zi1 syu1]],
+        an unmutilated book.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 (2)罕]]
     ==
     - Rare, few, scarce;
