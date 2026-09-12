@@ -21,3 +21,31 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~92 (1)看(1)㸔]]
+    ==
+    - To watch, to look after, to see to;
+    - to examine, to view;
+    - _(1)s(e/)ung (1)hon_
+        [[soeng1 hon1]],
+        to look at each other;
+    - _(1)hon (4)ngau_
+        [[hon1 ngau4]],
+        to watch cattle;
+    - _(1)hon (4)m(u/)n (4)yan_
+        [[hon1 mun4 jan4]],
+        a doorkeeper;
+    - _(5)n(i/) (1)hon ch(u:)(6) (5)k(')(u:)_
+        [[nei5 hon1 zyu6 keoi5]],
+        do you watch it;
+    - _(1)hon (1)k(a/)ng ~~(5)l(o\)~~ ``(2)l(o\)``_
+        [[hon1 gaang1 lou2]],
+        a night watchman.
+    ==
+  ====
+$$
+##>
