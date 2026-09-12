@@ -386,6 +386,24 @@ W
     - (contracted to _h(o\)mpal(a/)ng_ [[ham ba laang^]])
       all, entirely, the whole.
     ==
+  - [[Page~92 冚(6)]]
+    ==
+    - A cover, a lid which fits on;
+    - to cover;
+    - exactly;
+    - _h(o\)m(6) (1)chung_
+        [[ham6 zung1]],
+        a gallipot, a jar;
+    - _h(o\)m(6) (4)t(')au_
+        [[ham6 tau4]],
+        a vegetable dish, a covered dish;
+    - _(2)ng(a/)u s(i/)n(3) h(o\)m(6)_
+        [[ngaau2 sin3 ham6]]
+        suits to a hair;
+    - _~~(2)kam~~ ``(2)k(')am`` h(o\)m(6) (5)k(')(u:)_
+        [[kam2 ham6 keoi5]],
+        cover it.
+    ==
   ====
 $$
 ##>
