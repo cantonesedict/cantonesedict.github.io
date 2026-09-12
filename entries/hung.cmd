@@ -21,3 +21,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 (1)箜 _(1)Hong_ (hong1); here normalised to _(1)Hung_ (hung1)]]
+    ==
+    - A flat lute with 25~strings,
+      called _~~(1)hong~~ ``(1)hung`` (4)hau_ [[hung1 hau4]].
+    ==
+  ====
+$$
+##>
