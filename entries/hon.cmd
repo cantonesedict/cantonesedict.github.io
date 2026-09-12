@@ -452,3 +452,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 釬(6)]]
+    ==
+    - Greaves on the arms;
+    - to solder up;
+    - hurry;
+    - _hon(6) y(e/)uk(9)_
+        [[hon6 joek6]]
+        soldering;
+    - _hon(6) (2)hau_
+        [[hon6 hau2]],
+        to solder.
+    ==
+  ====
+$$
+##>
