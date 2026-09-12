@@ -344,6 +344,32 @@ $$
 $$
 W
   ====
+  - [[Page~93 扞(6)]]
+    ==
+    - Often used for the last [[捍]];
+    - to fend off;
+    - an obstacle, hindrance;
+    - to guard or escort;
+    - to environ;
+    - _hon(6) k(a/)k(8)_
+        [[hon6 gaak3]]
+        to stop or defend;
+        an obstacle, impeded;
+    - _(2)shau hon(6)_
+        [[sau2 hon6]]
+        to defend with the hand;
+    - _hon(6) (1)kw(a/)n_
+        [[hon6 gwaan1]],
+        to keep a pass.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 捍(6)]]
     ==
     - To grasp, to lift up;
