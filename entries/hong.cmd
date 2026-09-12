@@ -114,6 +114,25 @@ $$
 $$
 W
   ====
+  - [[Page~94 (1)筐]]
+    ==
+    - A basket with square sides;
+    - a basket without a cover;
+    - _(1)hong (2)f(i/)_
+        [[hong1 fei2]],
+        baskets for sending presents in.
+    ==
+    --
+    Often pronounced _(1)kw(')(a/)ng_ [[kwaang1]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (1)糠]]
     ==
     - Chaff of grain, bran;
