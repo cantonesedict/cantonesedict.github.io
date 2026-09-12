@@ -117,6 +117,20 @@ $$
 $$
 W
   ====
+  - [[Page~93 (2)衎 _(2)Hon_ (hon2); here normalised to _Hon(3)_ (hon3)]]
+    ==
+    - Pleased, contented;
+    - to be happy, joyous;
+    - credible.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 (4)寒]]
     ==
     - Cold, wintry;
