@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-09-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -857,6 +857,13 @@ E
        - 做大佢 (zou6 daai6 keoi5): "Make it big" (i.e. don't settle for a mediocre hand).
        - 做索子 (zou6 sok3 zi2): "Going for rods."
        - 做十三幺 (zou6 sap6 saam1 jiu1): "Going for Thirteen Littles."
+       ==
+    1. Used to describe Chinese character compositions.
+       ==
+       - 口字做個人 (hau2 zi6 zou6 go3 jan4): "[The] character [for] mouth composed with [a] human" (i.e. ⿰口人 = 㕥).
+       - 三點水做個叉 (saam1 dim2 seoi2 zou6 go3 caa1): "Three-dotted water composed with [a] fork" (i.e. ⿰氵叉 = 汊).
+       - 撐艇仔做個回 (caang1 teng5 zai2 zou6 go3 wui4): "Poled boaty composed with [a] return" (i.e. ⿺辶回 = 迴).
+       - 下低做個心 (haa6 dai1 zou6 go3 sam1): "Beneath [it is] composed with [a] heart."
        ==
     ++
   - 【做低】 (zou6 dai1)
