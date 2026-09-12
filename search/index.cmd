@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search character entries
-* %date-modified --> 2026-08-24
+* %date-modified --> 2026-09-12
 * %copyright-prior-years --> 2024--
 * %meta-description --> search character entries
 
@@ -40,7 +40,8 @@ let compositionPromise = fetch('composition-index.json').then(response => respon
 
 let TYPE_CHARACTER_MATCH = 1;
 let TYPE_JYUTPING_MATCH = 2;
-let TYPE_TEXT_MATCH = 3;
+let TYPE_WILLIAMS_MATCH = 3;
+let TYPE_TEXT_MATCH = 4;
 
 let MAX_RESULT_COUNT = 50;
 
@@ -49,11 +50,12 @@ let ELLIPSIS_THRESHOLD_LENGTH = 16;
 
 class Result
 {
-  constructor(character, jyutping, isCanonical, text, type, matches, score)
+  constructor(character, jyutping, isCanonical, williams, text, type, matches, score)
   {
     this.character = character;
     this.jyutping = jyutping;
     this.isCanonical = isCanonical;
+    this.williams = williams;
     this.text = text;
     this.type = type;
     this.matches = matches;
@@ -133,9 +135,14 @@ function appendJyutping(targetElement, syllable, tone, isJyutpingMatch)
   jyutpingParentElement.appendChild(toneSuperscriptElement);
 }
 
-function appendText(targetElement, text, matches)
+function appendIndexedText(targetElement, text, matches, codeClass)
 {
   let codeElement = document.createElement('code');
+
+  if (codeClass)
+  {
+    codeElement.className = codeClass;
+  }
 
   let cursorIndex = 0;
   let matchResult;
@@ -217,15 +224,20 @@ async function performSearch()
     for (const [jyutping, details] of Object.entries(textFromJyutping))
     {
       let isCanonical = details.isCanonical;
+      let williams = details.williams;
       let text = details.text;
 
       if (searchCharacter === character)
       {
-        results.push(new Result(character, jyutping, isCanonical, text, TYPE_CHARACTER_MATCH, [], 1));
+        results.push(new Result(character, jyutping, isCanonical, williams, text, TYPE_CHARACTER_MATCH, [], 1));
       }
       else if (searchJyutping === jyutping)
       {
-        results.push(new Result(character, jyutping, isCanonical, text, TYPE_JYUTPING_MATCH, [], 1));
+        results.push(new Result(character, jyutping, isCanonical, williams, text, TYPE_JYUTPING_MATCH, [], 1));
+      }
+      else if (williams.split(' ').includes(searchString))
+      {
+        results.push(new Result(character, jyutping, isCanonical, williams, text, TYPE_WILLIAMS_MATCH, [searchString], 1));
       }
       else
       {
@@ -267,7 +279,7 @@ async function performSearch()
 
             let scores = [...quotedScores, ...chineseScores, ...englishScores];
             let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
-            results.push(new Result(character, jyutping, isCanonical, text, TYPE_TEXT_MATCH, matches, score));
+            results.push(new Result(character, jyutping, isCanonical, williams, text, TYPE_TEXT_MATCH, matches, score));
           }
         }
       }
@@ -284,6 +296,7 @@ async function performSearch()
     let character = result.character;
     let jyutping = result.jyutping;
     let isCanonical = result.isCanonical;
+    let williams = result.williams;
     let text = result.text;
     let isCharacterMatch = result.type === TYPE_CHARACTER_MATCH;
     let isJyutpingMatch = result.type === TYPE_JYUTPING_MATCH;
@@ -295,6 +308,7 @@ async function performSearch()
 
     let rowElement = tbodyElement.insertRow(-1);
     let linkCellElement = rowElement.insertCell(-1);
+    let williamsCellElement = rowElement.insertCell(-1);
     let textCellElement = rowElement.insertCell(-1);
 
     let linkElement = document.createElement('a');
@@ -314,7 +328,8 @@ async function performSearch()
       linkCellElement.appendChild(document.createTextNode(')'));
     }
 
-    appendText(textCellElement, text, matches);
+    appendIndexedText(williamsCellElement, williams, matches, 'indexed-williams');
+    appendIndexedText(textCellElement, text, matches);
   }
 }
 
@@ -326,6 +341,7 @@ window.onload = performSearch;
 |^
   //
     ; Character entry
+    ; Indexed Williams reading
     ; Indexed entry text
 |:
 ''

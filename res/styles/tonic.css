@@ -290,6 +290,10 @@ td ul {
   text-align: center;
 }
 
+.indexed-williams {
+  white-space: nowrap;
+}
+
 .input-container {
   border: 2px solid var(--modern-colour);
   margin: 1em 0;
