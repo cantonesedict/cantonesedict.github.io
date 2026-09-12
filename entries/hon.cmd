@@ -435,6 +435,34 @@ $$
 $$
 W
   ====
+  - [[Page~94 翰(6)]]
+    ==
+    - A fabulous pheasant;
+    - to fly high;
+    - white;
+    - protracted, well-sustained;
+    - a plume, or quill to write with;
+    - writings;
+    - a prop;
+    - the stump of a tree;
+    - _Hon(6) (4)lam (u:)n(6)_
+        [[hon6 lam4 jyun6-2]]
+        the Imperial Academy;
+    - _(1)sh(u:) hon(6)_
+        [[syu1 hon6]]
+        written with a pen;
+    - _hon(6) mak(9) (1)h(e/)ung_
+        [[hon6 mak6 hoeng1]],
+        a literary reputation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 豻(6)]]
     --
     A kind of jackal found in the Desert,
