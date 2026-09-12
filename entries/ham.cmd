@@ -394,6 +394,22 @@ $$
 $$
 W
   ====
+  - [[Page~92 憾(6)]]
+    ==
+    - To hate, to abhor;
+    - to murmur at;
+    - to feel indignant at;
+    - resentful, regretting;
+    - vexed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 撼(6)]]
     ==
     - To move, to shake.
