@@ -159,6 +159,47 @@ $$
 $$
 W
   ====
+  - [[Page~94 (1)腔]]
+    ==
+    - Hollow, vacant, puffed, empty;
+    - a hollow bone;
+    - a horse's flank;
+    - a tune, or style of singing;
+    - vain, pedantic;
+    - a classifier of sheep;
+    - _(1)chong (1)hong_
+        [[zong1 hong1]],
+        assuming, pedantic;
+    - _(1)hong ti(u/)(6)_
+        [[hong1 diu6]]
+        tone or tune in singing;
+    - _(1)pong (2)tsz' (1)hong_
+        [[bong1 zi2 hong1]],
+        a northerner's tunes;
+    - _(1)k(o\) (1)hong_
+        [[gou1 hong1]],
+        tunes sung by Ch(a/)uchau f(u/) [[]] men;
+    - _(1)hong (2)tsz' t(a/)i(6)_
+        [[hong1 zi2 daai6]]
+        pretending, ostentatious;
+    - _(i/)(6) (4)wong (1)hong_
+        [[ji6 wong4 hong1]],
+        tunes accompanied by the fiddle;
+    - _m(i/)n(6) (1)hong_
+        [[min6 hong1]],
+        specious;
+    - _(5)n(i/) (2)koi kwo(3) (1)hong (4)loi_
+        [[nei5 goi2 gwo3 hong1 loi4]],
+        you must alter your tune (or conduct).
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (1)誆]]
     ==
     - Lying talk;
