@@ -226,6 +226,22 @@ $$
 $$
 W
   ====
+  - [[Page~717 (2)轗]]
+    ==
+    - Impeded, hard to get on;
+    - _(2)h(o\)m (1)o_
+        [[ham2 o1]],
+        a bad fate, passing through troubles;
+        lost money.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 勘(3)]]
     ==
     - To compare, to investigate;
