@@ -131,6 +131,39 @@ $$
 $$
 W
   ====
+  - [[Page~93 漢(3)]]
+    ==
+    - A large branch of the Y(a/)ngtsz'~R. [[揚子江]] in H(u/)peh [[湖北]];
+    - a famous dynasty in China;
+    - Chinese;
+    - the Milky Way, called _(4)ho hon(3)_ [[ho4 hon3]];
+    - _hon(3) (2)tsz' (1)k(a/)_
+        [[hon3 zi2 gaa1]],
+        a gentleman, a personable man;
+    - _Hon(3) (4)yan_
+        [[hon3 jan4]],
+        the Chinese;
+    - _Hon(3) (1)kwan_
+        [[hon3 gwan1]],
+        the naturalized Bannermen;
+    - _(2)h(o\) hon(3)_
+        [[hou2 hon3]]
+        a brave man, a clever strategist;
+    - _(5)l(o\) hon(3)_
+        [[lou5 hon3]]
+        I, an old man;
+    - _hon(3) chong(3)_
+        [[hon3 zong3]]
+        robust, fat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 (2)衎 _(2)Hon_ (hon2); here normalised to _Hon(3)_ (hon3)]]
     ==
     - Pleased, contented;

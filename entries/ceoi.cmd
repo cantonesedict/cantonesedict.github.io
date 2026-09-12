@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-08-10
+* %date-modified --> 2026-09-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1693,7 +1693,7 @@ W
   ====
   - [[Page~32* (4)滁]]
     ==
-    - A branch of the R.~Y(a/)ngtsz' [[揚子]]
+    - A branch of the R.~Y(a/)ngtsz' [[揚子江]]
       flowing in between Nanking [[南京]] and (I/)ching [[？？]];
     - a city in the east of Ng(a/)nhwui [[安徽]].
     ==
