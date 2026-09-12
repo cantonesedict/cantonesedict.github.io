@@ -50,3 +50,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 (1)糠]]
+    ==
+    - Chaff of grain, bran;
+    - poor, despicable, chaffy;
+    - troublesome, remiss;
+    - _(4)p(')(i/) (1)hong_
+        [[pei4 hong1]],
+        troublesome;
+    - _(5)l(o\) (1)hong_
+        [[lou5 hong1]],
+        rice chaff;
+    - _mak(9) (1)hong_
+        [[mak6 hong1]],
+        wheat bran;
+    - _muk(9) (1)hong_
+        [[muk6 hong1]],
+        sawdust.
+    ==
+  ====
+$$
+##>
