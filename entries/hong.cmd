@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~94 (1)匡]]
+    ==
+    - A square box, correct;
+    - regular, square;
+    - to rectify, to direct;
+    - to right, to assist, to deliver;
+    - deflected;
+    - _(1)hong (4)f(u/)_
+        [[hong1 fu4]]
+        to sustain;
+    - _(1)hong ching(3)_
+        [[hong1 zing3]]
+        to straighten.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (1)康]]
     ==
     - Repose, peace, concord;
