@@ -384,3 +384,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~93 汗(6)]]
+    ==
+    - Sweat, perspiration;
+    - used for the word _khan_;
+    - _ch(')ut(7) hon(6)_
+        [[ceot1 hon6]]
+        to perspire;
+    - _f(a/)t(8) hon(6) y(e/)uk(9)_
+        [[faat3 hon6 joek6]]
+        a sudorific;
+    - _(5)m(o\) hon(6) k(e/)(3)_
+        [[mou5 hon6 ge3]]
+        obtained without cost or trouble;
+    - _hon(6) (1)p(a/)n_
+        [[hon6 baan1]],
+        the washerman's rash;
+    - _hon(6) (5)m(a/) (1)kung (4)l(o\)_
+        [[hon6 maa5 gung1 lou4]],
+        military toil, toilsome;
+    - _hon(6) (1)sh(a/)m_
+        [[hon6 saam1]],
+        an under-shirt, a shirt.
+    ==
+  ====
+$$
+##>
