@@ -197,6 +197,20 @@ W
         [[hon3 tau3 sai3 gaai3]]
         worldly-wise, knowledge of the world.
     ==
+  - [[Page~717 看(3)]]
+    --
+    Colloquially.
+    --
+    ==
+    - To look after, to see to;
+    - aspect, meaning, similarity;
+    - _hon(3) (4)ch(')(a/) (4)lai_
+        [[hon3 caa4 lai4]],
+        bring tea;
+    - _tsok(8) (4)yan tsz'(6) hon(3)_
+        [[zok3 jan4 zi6 hon3]]
+        it has the meaning of the character _(4)yan_ [[jan4]].
+    ==
   ====
 $$
 ##>
