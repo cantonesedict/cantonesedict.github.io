@@ -298,6 +298,19 @@ $$
 $$
 W
   ====
+  - [[Page~92 {𩞿=⿰飠感}(6) _H(o\)m(6)_ (ham6); here normalised to _H(o\)m(3)_ (ham3)]]
+    ==
+    - Not satisfied with eating;
+    - not eaten enough.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 (4)含(4)唅]]
     ==
     - To hold something in the mouth, the mouth full;
