@@ -49,3 +49,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~92 (4)韓]]
+    ==
+    - A curb or fence round a well;
+    - one of the feudal states of the Chau [[周]] dynasty.
+    ==
+  ====
+$$
+##>
