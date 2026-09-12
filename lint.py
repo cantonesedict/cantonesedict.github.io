@@ -2235,6 +2235,12 @@ class CharacterEntry:
 
         return '\n'.join([self.w_content, self.p_content])
 
+    def indexing_williams(self) -> str:
+        return ' '.join([
+            williams.lower().replace('``', '')
+            for williams in self.williams_list
+        ])
+
     def indexing_text(self) -> str:
         return ' '.join(
             text
@@ -3386,6 +3392,7 @@ class Linter:
             (
                 {
                     'isCanonical': character_entry.is_canonical,
+                    'williams': character_entry.indexing_williams(),
                     'text': character_entry.indexing_text(),
                 },
                 character_entry.jyutping,
