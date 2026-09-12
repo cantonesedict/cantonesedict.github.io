@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~94 (1)劻]]
+    ==
+    - Urgent, prompt, zealous;
+    - _(1)hong (4)y(e/)ung_
+        [[hong1 joeng4]],
+        in haste, an emergency.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (1)匡]]
     ==
     - A square box, correct;
