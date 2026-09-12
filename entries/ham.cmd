@@ -425,6 +425,26 @@ $$
 $$
 W
   ====
+  - [[Page~92 嵌(6)]]
+    ==
+    - A hollow or ravine, a cave among hills;
+    - to enchase, to infix;
+    - to inlay;
+    - _h(o\)m(6) (1)s(e/)ung_
+        [[ham6 soeng1]],
+        to inlay, to set (jewelry);
+    - _h(o\)m(6) (4)ngan ts(e/)ung(6)_
+        [[ham6 ngan4 zoeng6]]
+        a jeweler.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 憾(6)]]
     ==
     - To hate, to abhor;
