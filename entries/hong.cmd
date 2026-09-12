@@ -135,3 +135,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 (1)誆]]
+    ==
+    - Lying talk;
+    - to deceive, to cheat, to swindle;
+    - _(1)hong p(')(i/)n(3)_
+        [[hong1 pin3]]
+        to impose on, to defraud.
+    ==
+  ====
+$$
+##>
