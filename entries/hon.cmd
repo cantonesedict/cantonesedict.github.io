@@ -117,6 +117,20 @@ $$
 $$
 W
   ====
+  - [[Page~93 (5)暵 _(5)Hon_ (hon5); here normalised to _Hon(3)_ (hon3)]]
+    ==
+    - Dry, heated air;
+    - to dry;
+    - drying, parching.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 (2)衎 _(2)Hon_ (hon2); here normalised to _Hon(3)_ (hon3)]]
     ==
     - Pleased, contented;
