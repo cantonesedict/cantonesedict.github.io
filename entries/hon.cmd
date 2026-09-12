@@ -54,6 +54,37 @@ $$
 $$
 W
   ====
+  - [[Page~92 (4)寒]]
+    ==
+    - Cold, wintry;
+    - shivering;
+    - poor, unsupplied, necessitous;
+    - my, mine;
+    - plain, simple;
+    - _(4)hon ~~(1)l(a/)ng~~ ``(5)l(a/)ng``_
+        [[hon4 laang5]],
+        shivering cold;
+    - _(4)hon tsuk(9)_
+        [[hon4 zuk6]]
+        my clan;
+    - _(4)hon s(u/)(3)_
+        [[hon4 sou3]]
+        plain, unpretending, not showy;
+    - _(4)hon shik(9)_
+        [[hon4 sik6]]
+        a day in Tsing-ming [[清明]] term, when cold provisions are eaten;
+    - _(4)hon (1)s(u:)n_
+        [[hon4 syun1]]
+        a beggarly student.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~92 (4)韓]]
     ==
     - A curb or fence round a well;
