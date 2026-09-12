@@ -435,6 +435,24 @@ $$
 $$
 W
   ====
+  - [[Page~94 澣(6); here normalised to 瀚]]
+    ==
+    - A waste, expanse, spacious;
+    - _hon(6) (2)hoi_
+        [[hon6 hoi2]],
+        that part of Gobi N.~W. of K(a/)nsuh [[甘肅]];
+    - _h(o\)(6) hon(6)_
+        [[hou6 hon6]]
+        vast, spreading.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 翰(6)]]
     ==
     - A fabulous pheasant;
