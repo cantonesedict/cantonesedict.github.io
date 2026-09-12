@@ -389,6 +389,21 @@ $$
 $$
 W
   ====
+  - [[Page~93 旰(6)]]
+    ==
+    - Sunset, evening;
+    - _h(o\)(6) h(o\)(6) hon(6) hon(6)_
+        [[hou6 hou6 hon6 hon6]]
+        abundant, light.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 汗(6)]]
     ==
     - Sweat, perspiration;
