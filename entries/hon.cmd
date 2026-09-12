@@ -316,3 +316,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~93 悍(6)]]
+    ==
+    - Ardent, energetic disposition;
+    - fearless;
+    - violent, hasty, cruel;
+    - _(4)k(')(e/)ung hon(6)_
+        [[koeng4 hon6]]
+        overbearing;
+    - _hon(6) kap(7)_
+        [[hon6 gap1]]
+        fierce, rash;
+    - _(1)hung hon(6)_
+        [[hung1 hon6]]
+        irascible.
+    ==
+  ====
+$$
+##>
