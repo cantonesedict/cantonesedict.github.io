@@ -92,6 +92,28 @@ $$
 $$
 W
   ====
+  - [[Page~94 (1)眶]]
+    ==
+    - The eye-socket;
+    - the canthus;
+    - _(1)k(o\) (1)hong_
+        [[gou1 hong1]]
+        sunken eyes;
+    - _(5)ng(a/)n (1)hong t(a/)i(6)_
+        [[ngaan5 hong1 daai6]]
+        proud;
+    - _lui(6) (5)m(u/)n (1)hong_
+        [[leoi6 mun5 hong1]],
+        tears filled his eyes.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (1)糠]]
     ==
     - Chaff of grain, bran;
