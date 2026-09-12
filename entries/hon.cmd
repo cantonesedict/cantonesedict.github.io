@@ -430,3 +430,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 豻(6)]]
+    --
+    A kind of jackal found in the Desert,
+    but described rather as a fabulous beast.
+    --
+    ==
+    - Read _ngon(6)_ [[ngon6]], a village prison;
+    - _(4)p(')(i/) ngon(6)_
+        [[pei4 ngon6]]
+        a figure like a unicorn painted on prison doors;
+    - _ngon(6) yuk(9)_
+        [[ngon6 juk6]]
+        a jail.
+    ==
+  ====
+$$
+##>
