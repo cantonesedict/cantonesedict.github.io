@@ -339,3 +339,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~93 捍(6)]]
+    ==
+    - To grasp, to lift up;
+    - to ward off, to shield, to defend.
+    ==
+    ==
+    - To stop;
+    - _hon(6) (u:)(6)_
+        [[hon6 jyu6]]
+        to watch against.
+    ==
+  ====
+$$
+##>
