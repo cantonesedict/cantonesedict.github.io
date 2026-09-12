@@ -164,6 +164,47 @@ $$
 $$
 W
   ====
+  - [[Page~93 看(3)]]
+    ==
+    - To see, to look at;
+    - to regard, to examine;
+    - to practice;
+    - _hon(3) k(i/)n(3)_
+        [[hon3 gin3]]
+        look at, see;
+    - _hon(3) s(e/)ung(3)_
+        [[hon3 soeng3]]
+        to practice physiognomy;
+    - _hon(3) (1)k(i/) (u/)i(6)_
+        [[hon3 gei1 wui6]]
+        watch the chance, improve the opportunity;
+    - _hon(3) (1)sh(u:)_
+        [[hon3 syu1]],
+        to read silently, to peruse;
+    - _(2)h(o\) hon(3)_
+        [[hou2 hon3]]
+        good-looking;
+    - _hon(3) tak(7) ch(')ut(7)_
+        [[hon3 dak1 ceot1]]
+        look closely whether or no;
+    - _hon(3) (2)king (1)shang (4)ts(')ing_
+        [[hon3 ging2 sang1 cing4]],
+        incited to by viewing, to do or arrange properly or fairly;
+    - _hon(3) p(')o(3)_
+        [[hon3 po3]]
+        to see through a scheme;
+    - _hon(3) t(')au(3) shai(3) k(a/)i(3)_
+        [[hon3 tau3 sai3 gaai3]]
+        worldly-wise, knowledge of the world.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~93 (2)衎 _(2)Hon_ (hon2); here normalised to _Hon(3)_ (hon3)]]
     ==
     - Pleased, contented;
