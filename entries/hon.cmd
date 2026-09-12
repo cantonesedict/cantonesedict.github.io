@@ -472,3 +472,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 閈(6)]]
+    ==
+    - A gate;
+    - gate of a village, or a path;
+    - a small wall;
+    - to shut;
+    - _(4)t(')ung hon(6)_
+        [[tung4 hon6]]
+        of the same village.
+    ==
+  ====
+$$
+##>
