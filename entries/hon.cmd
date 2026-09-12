@@ -200,3 +200,31 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~93 (5)旱]]
+    ==
+    - Dry weather, drought, sunny sky;
+    - land traveling;
+    - _(1)t(')(i/)n (5)hon_
+        [[tin1 hon5]],
+        dry weather;
+    - _(5)n(i/) (5)hon l(o\)(6) (4)loi_
+        [[nei5 hon5 lou6 loi4]],
+        did you come by land?
+    - _(5)hon (4)l(u/)i_
+        [[hon5 leoi4]]
+        thunder without rain;
+    - _(5)n(i/) (2)t(')ai (5)hon (4)l(u/)i (2)t(a/)_
+        [[nei5 tai2 hon5 leoi4 daa2]],
+        you will see him killed by a thunderbolt in a clear sky;
+    - _(2)h(i/) (5)hon_
+        [[hei2 hon5]],
+        to take to the road.
+    ==
+  ====
+$$
+##>
