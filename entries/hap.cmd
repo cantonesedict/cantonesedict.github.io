@@ -189,6 +189,26 @@ $$
 $$
 W
   ====
+  - [[Page~96 盍(9)]]
+    ==
+    - To cover;
+    - to unite for one purpose;
+    - why not;
+    - _h(o\)p(9) (1)kwai ~~(4)(u/)~~ ``(4)f(u/)`` (4)loi_
+        [[hap6 gwai1 fu4 loi4]],
+        shall we go home?
+    - _h(o\)p(9) h(u:)(3)_
+        [[hap6 heoi3]]
+        let us go.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~95 闔(9)]]
     ==
     - A leaf of a door, a two leaved door;
