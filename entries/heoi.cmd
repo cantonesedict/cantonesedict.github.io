@@ -26,6 +26,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~97 (1)噓]]
+    ==
+    - To blow with the breath;
+    - a respiration;
+    - to praise, to recommend.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 (1)墟]]
     ==
     - A mount;
