@@ -21,3 +21,15 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~98 勗(7) _Huk(7)_ (huk1); here normalised to 勖 _Yuk(7)_ (juk1)]]
+    ==
+    - To stimulate, to excite to exertion, to encourage, to animate.
+    ==
+  ====
+$$
+##>
