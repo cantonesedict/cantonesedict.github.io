@@ -263,3 +263,93 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ======
+  - [[Page~97 (2)去〫 _(2)H(u:)_ (heoi2); here normalised to _H(u:)(3)_ (heoi3)]]
+    ====
+    - ~~To leave, to depart from, to quit~~ ``To rid``;
+    - ``to discard, to reject;``
+    - ``to repudiate;``
+    - to conceal, to hoard;
+    - to dismiss, to expel.
+    ====
+  - [[Page~97 去(3)]]
+    ====
+    - To depart, to separate, to part from, to become distinct;
+    - to go, either in, out, from, or through;
+    - to proceed, to pass on in a regular course;
+    - the third of the four tones;
+    - past, gone, former;
+    - ~~to discard, to reject;~~
+    - ~~to repudiate;~~
+    - implies an action, ability, or completion, in the preceding verb;
+    - as
+      ==
+      - _m(a/)i(6) pat(7) h(u:)(3)_
+        [[maai6 bat1 heoi3]]
+        I can not sell it;
+      - _yap(9) h(u:)(3)_
+          [[jap6 heoi3]]
+          go in;
+      - _h(u:)(3) (4)loi_
+          [[heoi3 loi4]]
+          (go-come),
+      ==
+      together express universally, revolving, past time, finished action;
+    - _(2)kong (4)loi (2)kong h(u:)(3)_
+        [[gong2 loi4 gong2 heoi3]]
+        tautology;
+    - _(5)n(i/) h(u:)(3) ~~(4)p(')(i/)n~~ ``(1)p(i/)n`` ch(')(u:)(3) (4)loi_
+        [[nei5 heoi3 bin1 cyu3 loi4]],
+        where have you been?
+    - _h(u:)(3) (2)yam (4)loi_
+        [[heoi3 jam2 loi4]],
+        I've been to drink;
+    - _h(u:)(3) (4)n(i/)n_
+        [[heoi3 nin4]],
+        last year;
+    - _h(u:)(3) (1)hi(u/)_
+        [[heoi3 hiu1]],
+        gone;
+    - _h(u:)(3) shai(3)_
+        [[heoi3 sai3]]
+        dead;
+    - _yap(9) (4)sheng h(u:)(3)_
+        [[jap6 seng4-2 heoi3]]
+        to go into the city;
+    - _h(u:)(3) (4)yau (4)ho_
+        [[heoi3 jau4 ho4]],
+        to take an airing on the river;
+    - _ch(')ut(7) h(u:)(3), ch(')ut(7) h(u:)(3), (4)'m (2)h(o\) ~~(2)ta(')i~~ ``(2)t(')ai``_
+        [[ceot1 heoi3 ceot1 heoi3 m4 hou2 tai2]],
+        go away, go, do n't be here gazing!
+    - _(5)yau mat(7) h(u:)(3) ch(')(u:)(3)_
+        [[jau5 mat1 heoi3 cyu3]]
+        what places are there to go to?
+    - _h(u:)(3) ch(')ut(7) (4)m(u/)n_
+        [[heoi3 ceot1 mun4]],
+        gone abroad to visit;
+    - _kwo(3) h(u:)(3) (1)ch(i/) sz'(6)_
+        [[gwo3 heoi3 zi1 si6]]
+        past things.
+    ====
+  ======
+C
+  ==
+  - In modern usage, the rising-tone reading _(2)h(u:)_ (heoi2) is obsolete.
+  - Williams has attempted to distinguish the two readings,
+    but has done so poorly.
+    I have applied corrective edits accordingly.
+  - For the rising-tone reading,
+    in additional to the dark-rising tone marker _(2)_,
+    Williams prints the headword 去 with an explicit
+    classical rising-tone marker ◌〫 (U+302B).
+    Font support for classical departing-tone markers
+    is known to be poor on Windows and iOS/macOS;
+    check the [Font test page](/font-test/).
+  ==
+$$
+##>
