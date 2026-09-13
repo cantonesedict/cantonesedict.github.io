@@ -75,6 +75,22 @@ $$
 $$
 W
   ====
+  - [[Page~98 (1)棬]]
+    ==
+    - A wooden bowl or cup;
+    - a shield made of reeds;
+    - _(1)p(u/)i (1)h(u:)n_
+        [[bui1 hyun1]],
+        cups and bowls.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)烜]]
     ==
     - To dry at a fire;
