@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2026-09-08
+* %date-modified --> 2026-09-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -127,7 +127,7 @@ W
     - A colloquial exclamation, expressing disapproval;
     - _(1)h(e/) (4)'m (2)h(o\) ~~t(')au(3)~~ ``tau(3)``_
         [[hei1, m4 hou2 dau3 唏唔好鬥]]
-        ~~do n't~~ ``don't`` touch it!
+        do n't touch it!
     ==
   ====
 C

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-09-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -484,7 +484,7 @@ W
         burned up;
     - _(5)mai ~~(5)shai~~ ``(2)shai`` (2)fo h(i/)(3)_
         [[mai5 sai2 fo2 hei3 咪使火氣]]
-        ~~do n't~~ ``don't`` be so hasty;
+        do n't be so hasty;
     - _(2)fo (1)k(u:) t(o\)(6) sz'(6)_
         [[fo2 geoi1 dou6 si6-2 火居道士]]
         a sect among the T(a/)uists.
