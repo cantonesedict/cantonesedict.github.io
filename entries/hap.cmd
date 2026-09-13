@@ -227,6 +227,31 @@ $$
 $$
 W
   ====
+  - [[Page~96 盒(9)]]
+    ==
+    - A box or vessel with a cover, as gallipots, caskets, pill-boxes;
+    - a covered platter;
+    - _yat(7) ko(3) h(o\)p(9)_
+        [[jat1 go3 hap6-2]]
+        a box;
+    - _p(a/)i(3) t(')(i/)p(8) h(o\)p(9)_
+        [[baai3 tip3-2 hap6-2]]
+        a card-case;
+    - _p(i/)(6) (1)(i/)n h(o\)p(9)_
+        [[bei6 jin1 hap6-2]]
+        snuff-box;
+    - _(4)ts(')(u:)n h(o\)p(9)_
+        [[cyun4 hap6-2]]
+        a partition box for sweetmeats.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~95 闔(9)]]
     ==
     - A leaf of a door, a two leaved door;
