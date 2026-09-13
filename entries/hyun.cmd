@@ -21,3 +21,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~98 (1)喧(1)諠]]
+    ==
+    - Clamor, hum, noise of people talking;
+    - _(1)h(u:)n (1)w(a/)_
+        [[hyun1 waa1]],
+        to clamor, to vociferate;
+    - _(1)h(u:)n n(a/)u(6)_
+        [[hyun1 naau6]]
+        boisterous merriment;
+        to deceive;---\
+        in which sense the second character [[諠]] is the same as the next [[諼]].
+    ==
+  ====
+$$
+##>
