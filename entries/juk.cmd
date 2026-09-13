@@ -51,3 +51,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~98 頊(7) _Huk(7)_ (huk1); here normalised to _Yuk(7)_ (juk1)]]
+    ==
+    - To carry one's-self carefully;
+    - attentive;
+    - _(1)Ch(u:)n-~~huk(7)~~ ``yuk(7)``_
+        [[zyun1 juk1]]
+        the emperor who succeeded Hw(a/)ngt(i/) [[]], B.C.~2513.
+    ==
+  ====
+C
+  ==
+  - Williams prints the first stroke as a slash; here corrected.
+  ==
+$$
+##>
