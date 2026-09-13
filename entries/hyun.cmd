@@ -85,6 +85,20 @@ $$
 $$
 W
   ====
+  - [[Page~99 (1){𡎖=⿰土貟}; here normalised to 塤]]
+    ==
+    - An ancient wind instrument of porcelain with six holes,
+      shaped like an egg;
+    - it was blown at the apex.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)晅]]
     ==
     - Bright, hot sun;
