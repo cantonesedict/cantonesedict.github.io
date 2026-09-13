@@ -102,6 +102,19 @@ $$
 $$
 W
   ====
+  - [[Page~97 (1)盱]]
+    ==
+    - To stare, to open one's eyes at;
+    - to gloat on.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 (1)虛]]
     ==
     - Empty, vacant;
