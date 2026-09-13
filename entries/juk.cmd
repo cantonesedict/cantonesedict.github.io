@@ -33,3 +33,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~98 旭(7) _Huk(7)_ (huk1); here normalised to _Yuk(7)_ (juk1)]]
+    ==
+    - The rising sun, the dawn;
+    - _~~huk(7)~~ ``yuk(7)`` yat(9)_
+        [[juk1 jat6]]
+        sunrising;
+    - _~~huk(7)~~ ``yuk(7)`` ~~huk(7)~~ ``yuk(7)``_
+        [[juk1 juk1]]
+        joy at having succeeded.
+    ==
+  ====
+$$
+##>
