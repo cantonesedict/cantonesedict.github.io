@@ -252,6 +252,31 @@ $$
 $$
 W
   ====
+  - [[Page~99 券(3)]]
+    ==
+    - A bond, deed, contract, or agreement;
+    - the parties each formerly retained one half;
+    - a section;
+    - proof, evidence of in such papers;
+    - a last; <# TODO: correct to $楦hyun3 #>
+    - _h(u:)n(3) ~~y(e/)uk(9)~~ ``y(e/)uk(8)``_
+        [[hyun3 joek3]]
+        a bond;
+    - _t(i/)(6) h(u:)n(3)_
+        [[dei6 hyun3]]
+        a written tile placed in graves as proof of possession;
+    - _(1)h(u\) h(u:)n(3)_
+        [[hoe1 hyun3]]
+        a boot-last.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 勸(3)劝(3)]]
     ==
     - To exhort, to advise, to admonish;
