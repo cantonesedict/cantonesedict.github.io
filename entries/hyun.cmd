@@ -211,3 +211,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~99 (2)犬]]
+    ==
+    - A dog;
+    - ``the 94th``~radical [[U+2F5D ⽝ "dog"]] of ferine animals;
+    - _(2)h(u:)n (2)tsz'_
+        [[hyun2 zi2]]
+        my son;
+    - _(2)h(u:)n (5)m(a/) (1)ch(i/) p(o\)(3)_
+        [[hyun2 maa5 zi1 bou3]]
+        humble service to requite favors.
+    ==
+  ====
+$$
+##>
