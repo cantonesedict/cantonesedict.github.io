@@ -216,6 +216,33 @@ $$
 $$
 W
   ====
+  - [[Page~95 炕(3)]]
+    ==
+    - To roast, or broil;
+    - to dry, to toast;
+    - dry, drought;
+    - _hong(3) (4)ch(')ong_
+        [[hong3 cong4]],
+        a bed built of brick so as to be heated underneath;
+    - _hong(3) (1)to ~~(4)sh(i/)~~ ``sz'(6)``_
+        [[hong3 do1 si6-2]],
+        to toast bread;
+    - _hong(3) (2)fo_
+        [[hong3 fo2]],
+        a fire of embers;
+        to dry before the fire;
+    - _hong(3) (4)ts(')(i/)n_
+        [[hong3 cin4]],
+        to ground on a bar or bank.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (4)杭]]
     ==
     - Hongchau f(u/) [[杭州府]], the capital of Chehki(a/)ng [[浙江]],
