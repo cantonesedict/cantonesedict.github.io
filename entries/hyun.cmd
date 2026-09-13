@@ -46,6 +46,23 @@ $$
 $$
 W
   ====
+  - [[Page~98 (1)晅]]
+    ==
+    - Bright, hot sun;
+    - the heat of the sun;
+    - to dry.
+    ==
+    --
+    Same as the next [[烜]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)暄]]
     ==
     - Genial warmth, heat of the sun in spring, a pleasant warmth.
