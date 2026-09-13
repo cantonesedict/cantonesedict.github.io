@@ -82,6 +82,41 @@ $$
 $$
 W
   ====
+  - [[Page~100 (1)匈(1)胸]] <# TODO: split off $胸hung1 #>
+    ==
+    - The first character [[匈]] represents the breast, inclosing the heart;
+    - the breast, the heart, the bosom;
+    - the mind, the feelings;
+    - _(2)tam (1)hung_
+        [[dam2 hung1]],
+        to pound the breast---a beggar's device;
+    - _(1)hung (1)k(')am f(u/)t(8)_
+        [[hung1 kam1 fut3]]
+        liberal, considerate;
+    - _(1)hung k(a/)k(8) ai(3) chai(6)_
+        [[hung1 gaak3 ai3 zai6]]
+        indigestible;
+    - _(1)hung (4)ts(')ong (2)kam sau(3)_
+        [[hung1 cong4 gam2 sau3]]
+        literary, accomplished;
+    - _(1)hung (4)t(')ong_
+        [[hung1 tong4]]
+        the breast;
+    - _(1)hung (4)w(a/)i_
+        [[hung1 waai4]]
+        the feelings;
+    - _(1)Hung (4)n(o\)_
+        [[hung1 nou4]],
+        the Huns.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 (1)悾]]
     ==
     - Ignorant, rustic;
