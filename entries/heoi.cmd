@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~97 (1)吁]]
+    ==
+    - An interjection, expressive of grief, distrust, or admiration;
+    - _(1)h(u:), (2)h(o\) ch(')ut(7) (4)k(')(i/)!_
+        [[heoi1, hou2 ceot1 kei4]]
+        Ah, very strange!
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~97 (1)噓]]
     ==
     - To blow with the breath;
