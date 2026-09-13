@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -134,7 +134,7 @@ W
     - to give a title of nobility;
     - to seal up, to close a letter [[Kangxi: 緘也]];
     - an envelop of a letter, classifier of letters;
-    - 20~taels;
+    - 20~taels [[両]];
     - _(1)fung k(o\)(3)_
         [[fung1 gou3 封誥]]
         to ennoble an officer's parents;
@@ -155,7 +155,7 @@ W
         a letter;
     - _yat(7) (1)fung (4)ngan_
         [[jat1 fung1 ngan4 一封銀]],
-        20~taels of silver;
+        20~taels [[両]] of silver;
     - _(1)fung (4)p(')(i/)_
         [[fung1 pei4 封皮]],
         an envelop for dispatches;

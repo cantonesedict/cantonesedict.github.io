@@ -57,6 +57,20 @@ $$
 $$
 W
   ====
+  - [[Page~98 斛(9)]]
+    ==
+    - An imaginary measure,
+      in Canton equal to ten _tau_ [[dau 斗]], or pecks,
+      or one _shek_ [[sek 石]], or a pecul [[擔]] of 100~catties [[斤]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 酷(9)]]
     ==
     - Superior wine;
