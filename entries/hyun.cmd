@@ -46,6 +46,45 @@ $$
 $$
 W
   ====
+  - [[Page~98 (1)圈]]
+    ==
+    - A coop or pen for animals;
+    - crooked wood for cups;
+    - a circle, a ring, an inclosure;
+    - a prison;
+    - a stop or period in grammar;
+    - to encircle, to surround;
+    - to mark or punctuate;
+    - _(2)t(a/) (1)h(u:)n_
+        [[daa2 hyun1]],
+        to draw a circle;
+    - _(1)h(u:)n (1)shing_
+        [[hyun1 sing1]],
+        to mark the tones of characters;
+    - _(2)ho (1)h(u:)n (2)ho (2)t(i/)m_
+        [[ho2 hyun1 ho2 dim2]],
+        should be italicized;
+    - _(4)ngan (1)h(u:)n_
+        [[ngan4 hyun1]],
+        a silver ring;
+    - _(1)h(u:)n t(')(o\)(3)_
+        [[hyun1 tou3]]
+        a snare, a fraud;
+    - _(1)h(u:)n ch(')ut(7) (4)lai_
+        [[hyun1 ceot1 lai4]],
+        to cut out rotten or bad parts, as from fruit, cloth;
+    - _ch(')ut(7) (1)h(u:)n_
+        [[ceot1 hyun1]],
+        to publish the cyphers of successful si(u/)ts(a/)i [[秀才]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)晅]]
     ==
     - Bright, hot sun;
