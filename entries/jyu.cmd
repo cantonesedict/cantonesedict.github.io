@@ -21,3 +21,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~97 (1)迂 _(1)H(u:)_ (heoi1); here normalised to _(1)(u:)_ (jyu1)]]
+    ==
+    - Remote;
+    - wide, spacious;
+    - vague， wide of the mark, enduring;
+    - distorted, loose;
+    - to deprave;
+    - _~~(1)h(u:)~~ ``(1)(u:)`` f(u/)t(8)_
+        [[jyu1 fut3]]
+        vague, baseless.
+    ==
+  ====
+$$
+##>
