@@ -189,6 +189,24 @@ $$
 $$
 W
   ====
+  - [[Page~96 嗑(9)]]
+    ==
+    - Loquacious;
+    - _~~shai(3)~~ ``shai(6)`` ~~hop(9)~~ ``h(o\)p(9)``_
+        [[sai6 hap6]]
+        one of the 64~diagrams.
+    ==
+    --
+    In the Court dialect, to sip, to drink.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 盍(9)]]
     ==
     - To cover;
