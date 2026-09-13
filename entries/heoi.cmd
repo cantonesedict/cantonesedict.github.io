@@ -73,6 +73,20 @@ $$
 $$
 W
   ====
+  - [[Page~97 (1)歔]]
+    ==
+    - To sob;
+    - timid, fearful;
+    - breathing or sobbing, making a noise through the nose.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 (1)虛]]
     ==
     - Empty, vacant;
