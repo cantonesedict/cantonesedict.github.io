@@ -41,3 +41,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~98 (1)諼]]
+    ==
+    - To impose on;
+    - fallacious, deceptive;
+    - to forget;
+    - _ch(a/)(3) (1)h(u:)n_
+        [[zaa3 hyun1]],
+        to deceive, to lie to.
+    ==
+  ====
+$$
+##>
