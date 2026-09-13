@@ -26,6 +26,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~97 (1)㗾]]
+    ==
+    - _(1)H(u\) (1)t(u\)_ [[hoe1 doe1]],
+      a small trumpet, a kind of bugle,
+      used at the literary examinations.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~97 (1)靴]]
     ==
     - Boots;
