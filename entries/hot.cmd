@@ -21,3 +21,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~96 曷(8)]]
+    ==
+    - Why, why not;
+    - how, wherefore?
+    - to stop by an order, to intimidate, to hoot at.
+    ==
+  ====
+$$
+##>
