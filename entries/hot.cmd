@@ -94,3 +94,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~96 褐(8)]]
+    ==
+    - Short garments, poor, hempen clothes;
+    - woolen stuffs;
+    - stockings;
+    - a beggarly fellow.
+    ==
+  ====
+$$
+##>
