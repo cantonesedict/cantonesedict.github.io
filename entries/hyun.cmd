@@ -75,6 +75,27 @@ $$
 $$
 W
   ====
+  - [[Page~98 (1)烜]]
+    ==
+    - To dry at a fire;
+    - clear, brilliant, splendid;
+    - hot;
+    - to burn;
+    - _(1)h(u:)n (4)(u:)_
+        [[hyun1 jyu4-2]],
+        to roast or smoke fish;
+    - _(1)h(u:)n yuk(9)_
+        [[hyun1 juk6]]
+        to smoke meat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)諼]]
     ==
     - To impose on;
