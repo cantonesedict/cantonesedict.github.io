@@ -285,6 +285,7 @@ W
     - past, gone, former;
     - ~~to discard, to reject;~~
     - ~~to repudiate;~~
+    - ``distant from, as one place from another;``
     - implies an action, ability, or completion, in the preceding verb;
     - as
       ==
@@ -336,6 +337,11 @@ W
         [[gwo3 heoi3 zi1 si6]]
         past things.
     ====
+  - [[Page~717 (2)去]]
+    ====
+    - To throw off, as clothes;
+    - ~~distant from, as one place from another.~~
+    ====
   ======
 C
   ==
@@ -343,7 +349,7 @@ C
   - Williams has attempted to distinguish the two readings,
     but has done so poorly.
     I have applied corrective edits accordingly.
-  - For the rising-tone reading,
+  - For the rising-tone reading on Page~97,
     in additional to the dark-rising tone marker _(2)_,
     Williams prints the headword 去 with an explicit
     classical rising-tone marker ◌〫 (U+302B).
