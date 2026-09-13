@@ -109,3 +109,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~96 鶡(8)]]
+    ==
+    - The Tartar pheasant;
+    - pugnacious and gregarious;
+    - a symbol of courage;
+    - _hot(8) (1)k(u/)n_
+        [[hot3 gun1]],
+        the plumes worn on helinets by lictors,
+        called _ch(i/)(6) (1)kai (5)m(i/)_ [[zi6 gai1 mei5]].
+    ==
+  ====
+$$
+##>
