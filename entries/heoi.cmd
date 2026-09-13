@@ -26,6 +26,39 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~96 (1)墟]]
+    ==
+    - A mount;
+    - old mausolea, or a burial waste;
+    - a deserted region, a wild;
+    - a place for fairs or markets;
+    - a fair;
+    - _(I/)n(6)-(4)t(')ong (1)h(u:)_
+        [[jin6 tong4 heoi1]],
+        a noted fair near Napier's Fort;
+    - _(1)h(u:) (4)ch(')(e/)ung_
+        [[heoi1 coeng4]],
+        the place where fairs are held;
+    - _(1)h(u:) k(o\)m(3) (4)ts(')(o\)_
+        [[heoi1 gam3 cou4]],
+        such a bustle;
+        a hubbub like a fair;
+    - _(1)h(u:) (1)h(u:) ch(')an(3)_
+        [[heoi1 heoi1 can3]]
+        always going to fairs,
+        _sc._ you are always welcome;
+    - _(2)k(i/) (4)sh(i/) (1)h(u:) (1)k(i/)_
+        [[gei2 si4 heoi1 gei1]],
+        when is the fair held?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 (1)虛]]
     ==
     - Empty, vacant;
