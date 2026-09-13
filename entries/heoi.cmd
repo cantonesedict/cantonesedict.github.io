@@ -174,6 +174,25 @@ $$
 $$
 W
   ====
+  - [[Page~97 ::(2)~~{？=⿱冃吋}~~``冔``::]]
+    ==
+    - The crown worn in the Sh(a/)ng [[商]] dynasty;
+    - it somewhat resembled a Cantab's cap in being flat on the top.
+    ==
+  ====
+C
+  ==
+  - Williams has ⿱冃吋 for the headword; here corrected to 冔.
+    (The character 冔 appears as an alternative form of ⿱冃吋
+    on Page~742 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~97 (2)栩]]
     ==
     - A tree bearing a black nut iike an acorn;
