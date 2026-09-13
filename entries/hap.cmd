@@ -129,3 +129,58 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~95 合(9)]]
+    ==
+    - To unite, to join;
+    - to shut, to close;
+    - to collect, to convene;
+    - accordant to, agreeable, harmonious, suitable;
+    - a pair;
+    - the whole, united;
+    - together, with;
+    - _h(o\)p(9) (4)m(o\)
+        [[hap6 mou4]],
+        is it best, ought I?
+    - _h(o\)p(9) p(')(u/)i(3)_
+        [[hap6 pui3]]
+        to pair, to betroth;
+    - _h(o\)p(9) (4)m(a/)i_
+        [[hap6 maai4]],
+        to close up;
+    - _h(o\)p(9) (5)ngo yung(6)_
+        [[hap6 ngo5 jung6]]
+        just what I wanted, I can use it;
+    - _(1)s(e/)ung h(o\)p(9)_
+        [[soeng1 hap6]]
+        accordant, to agree;
+    - _h(o\)p(9) shik(7)_
+        [[hap6 sik1]]
+        like the pattern, suitable;
+    - _(4)'m h(o\)p(9) t(o\)(6) (5)l(i/)_
+        [[m4 hap6 dou6 lei5]],
+        unreasonable, unjust;
+    - _(2)t(a/) h(o\)p(9) (4)t(')ung_
+        [[daa2 hap6 tung4]],
+        to make an agreement with;
+    - _h(o\)p(9) (4)n(i/)n (1)shang_
+        [[hap6 nin4 sang1]],
+        to compare the nativities of two children
+        prior to betrothing;
+    - _h(o\)p(9) (1)sam (2)shui_
+        [[hap6 sam1 seoi2]],
+        agreeable, what one likes;
+    - _h(o\)p(9) p(u/)n(6)_
+        [[hap6 bun6]]
+        partnership business;
+    - _h(o\)p(9) (5)ng(a/)n fan(3)_
+        [[hap6 ngaan5 fan3]]
+        asleep.
+    ==
+  ====
+$$
+##>
