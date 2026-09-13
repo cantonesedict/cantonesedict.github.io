@@ -96,6 +96,26 @@ $$
 $$
 W
   ====
+  - [[Page~98 (1)萱]]
+    ==
+    - The iris or fleur-de-lis,
+      called _(4)mong (1)yau (2)ts(')(o\)_ [[mong4 jau1 cou2]],
+      because it causes one to forget his sorrow;
+      and _luk(9) (1)ts(')ung (1)f(a/)_ [[luk6 cung1 faa1]],
+      'deer's onions;'
+    - a mother, because if a woman carries it she will bear a son;
+    - _(1)h(u:)n (4)t(')ong_
+        [[hyun1 tong4]],
+        your mother.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)諼]]
     ==
     - To impose on;
