@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~99 (1)悾]]
+    ==
+    - Ignorant, rustic;
+    - dissatisfied from inability or ill luck;
+    - sincere;
+    - simple.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 (1)空]]
     ==
     - Empty, vacant, void;
