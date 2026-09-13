@@ -71,6 +71,25 @@ $$
 $$
 W
   ====
+  - [[Page~98 觳(9)]]
+    ==
+    - A large goblet;
+    - a quiver;
+    - thin, poor;
+    - a hoof;
+    - the top of the foot;
+    - _huk(9) ts(')uk(7)_
+        [[huk6 cuk1]]
+        trembling from fear, deadly fear, as animals when pursued.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 酷(9)]]
     ==
     - Superior wine;
