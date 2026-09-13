@@ -209,3 +209,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~97 (2)詡]]
+    ==
+    - High flying, boasting talk;
+    - to display;
+    - to talk large;
+    - energetic, bold;
+    - moderate;
+    - _(1)p(')(i/)n (2)h(u:)_
+        [[pin1 heoi2]],
+        in every part.
+    ==
+  ====
+$$
+##>
