@@ -169,3 +169,43 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~97 (2)許]]
+    ==
+    - To grant, to allow, to let;
+    - to permit or acquiesce in, to accede to, to accord;
+    - to listen to and promise;
+    - to betroth or promise in marriage;
+    - to enter or advance;
+    - to flourish;
+    - an excess, more than;
+    - very;
+    - _(2)h(u:) (2)kau_
+        [[heoi2 gau2]],
+        a long time;
+    - _(2)h(u:) (1)to_
+        [[heoi2 do1]],
+        a great many;
+    - _(1)tsau (1)p(u/)i (2)h(u:) (2)hau_
+        [[zau1 bui1 heoi2 hau2]],
+        to arrange a marriage over one's cups;
+    - _(2)h(u:) (u:)n(6)_
+        [[heoi2 jyun6]]
+        to vow;
+    - _(2)shi(u/) (2)h(u:)_
+        [[siu2 heoi2]],
+        a very little;
+    - _pat(7) (2)h(u:) (5)k(')(u:) (4)lai_
+        [[bat1 heoi2 keoi5 lai4]],
+        don't let him come.
+    ==
+    --
+    A surname.
+    --
+  ====
+$$
+##>
