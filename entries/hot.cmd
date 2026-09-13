@@ -73,6 +73,20 @@ $$
 $$
 W
   ====
+  - [[Page~96 毼(8)]]
+    ==
+    - A twilled kind of felt or hair cloth brought from Sh(a/)ntung [[山東]]
+      called _hot(8) p(')(i/)n(3)_ [[hot3 pin3]],
+      and used for cushions.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 渴(8)]]
     ==
     - Dry, thirsty;
