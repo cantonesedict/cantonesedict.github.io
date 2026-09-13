@@ -374,3 +374,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~95 項(6)]]
+    ==
+    - The nape, that which rests on the pillow;
+    - great;
+    - a surname;
+    - a sort, item, class, thing, species, article;
+    - _(2)keng hong(6)_
+        [[geng2 hong6]]
+        the nape;
+    - _(1)kung hong(6)_
+        [[gung1 hong6]]
+        public purposes;
+    - _h(i/)m(3) hong(6)_
+        [[him3 hong6]]
+        debts, losses;
+    - _kok(8) hong(6)_
+        [[gok3 hong6]]
+        each parcel, sort, &c.
+    ==
+  ====
+$$
+##>
