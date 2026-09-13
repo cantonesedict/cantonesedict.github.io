@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2026-08-15
+* %date-modified --> 2026-09-13
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -320,7 +320,7 @@ Lastly, entirely new characters are made for some of them; as
 _lat_ [[lat]] 甪 to detach, _p(a/)ng_ [[baang]] 碰 a knock, which of course have no currency
 in other parts of China, as neither their sound or meaning
 will be known elsewhere. Besides these, there are a few colloquial
-words, as _fing_ [[fing]], _kw(i/)t_ [[gwit]], _fik_ [[fik]], ap [[ap]], &c., for which no characters can be
+words, as _fing_ [[fing]], _kw(i/)t_ [[gwit]], _fik_ [[fik]], _ap_ [[ap]], &c., for which no characters can be
 found, and which cannot therefore be written at all.
 --
 
