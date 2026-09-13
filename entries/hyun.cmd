@@ -273,3 +273,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~99 絢(3)]]
+    ==
+    - A tassel;
+    - an ornamented wrapper for gems or seals;
+    - adorned, variegated;
+    - quick.
+    ==
+  ====
+$$
+##>
