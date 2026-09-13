@@ -247,3 +247,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~99 勸(3)劝(3)]]
+    ==
+    - To exhort, to advise, to admonish;
+    - to stimulate, to encourage, to praise;
+    - to acquiesce;
+    - _h(u:)n(3) k(a/)n(3)_
+        [[hyun3 gaan3]]
+        to remonstrate with [a superior];
+    - _h(u:)n(3) (5)m(i/)n_
+        [[hyun3 min5]],
+        to incite, to urge to exertion;
+    - _(1)s(e/)ung h(u:)n(3)_
+        [[soeng1 hyun3]]
+        to advise eich other, to admonish;
+    - _h(u:)n(3) sik(7)_
+        [[hyun3 sik1]]
+        to urge to peace.
+    ==
+  ====
+$$
+##>
