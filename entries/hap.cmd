@@ -184,3 +184,31 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~95 闔(9)]]
+    ==
+    - A leaf of a door, a two leaved door;
+    - all within doors, a family;
+    - to shut, to close;
+    - the whole, altogether;
+    - why not?
+    - _h(o\)p(9) (1)k(a/)_
+        [[hap6 gaa1]],
+        the household;
+    - _h(o\)p(9) (1)h(e/)ung_
+        [[hap6 hoeng1]],
+        the whole village;
+    - _h(o\)p(9) (4)t(')(a/)m (1)kwan kat(7)_
+        [[hap6 taam4 gwan1 gat1]]
+        hope your excellent family is all well.
+    ==
+    --
+    The last [[合]] is often used for this character [[闔]].
+    --
+  ====
+$$
+##>
