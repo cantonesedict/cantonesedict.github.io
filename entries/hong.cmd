@@ -224,3 +224,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 (4)航]]
+    ==
+    - A scow or square boat for ferries;
+    - to sail, to navigate;
+    - _~~(4)t(')sz'~~ ``(4)ts(')z'`` (4)hong_
+        [[ci4 hong4 慈航]],
+        to compassionate sailors (as Kw(a/)nyin [[觀音]]).
+    ==
+  ====
+C
+  ==
+  - Williams' 慈航:
+    Corrected _(4)t(')sz'_ (aspirate in wrong position^) to _(4)ts(')z'_.
+  ==
+$$
+##>
