@@ -349,3 +349,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~95 ::~~{？=⿱共㔾}~~``巷``(6)::]]
+    ==
+    - A lane, a crooked alley;
+    - a street of dwellings;
+    - _(5)wing hong(6)_
+        [[wing5 hong6]]
+        a lockup for women of the palace;
+    - _lau(6) hong(6)_
+        [[lau6 hong6]]
+        a wretched neighborhood;
+    - _(5)lau hong(6)_
+        [[lau5 hong6]]
+        a 'willow street,' _i.~e._ a bordel;
+    - _(5)l(a/)ng hong(6)_
+        [[laang5 hong6-2]]
+        a thorough or passage way.
+    ==
+  ====
+$$
+##>
