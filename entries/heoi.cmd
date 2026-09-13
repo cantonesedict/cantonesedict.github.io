@@ -155,3 +155,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~97 (1)訏]]
+    ==
+    - To vaunt, to talk big;
+    - false, boasting;
+    - great, big.
+    ==
+  ====
+$$
+##>
