@@ -250,6 +250,64 @@ $$
 $$
 W
   ====
+  - [[Page~95 (4)行]]
+    ==
+    - A row, a line;
+    - a series or order;
+    - a class, a guild, a sort;
+    - a company of 25~men, and of 100~men;
+    - a house or warehouse of several _t(a/)p(9)_ [[daap6]]
+      or divisions, a factory;
+    - to support on, to rest on;
+    - _tsoi(6) (4)hong_
+        [[zoi6 hong4]],
+        skilled in a business, prudent;
+    - _(4)hong (4)ts(')ing (1)kwong_
+        [[hong4 cing4 gwong1]]
+        expert in;
+    - _(4)hong (1)k(o\) tik(7)_
+        [[hong4 gou1 dik1]]
+        raise it a little higher;
+    - _(4)hong (1)(i/) fuk(9)_
+        [[hong4 ji1 fuk6]]
+        to baste clothes;
+    - _yat(7) (1)k(a/)n (4)hong_
+        [[jat1 gaan1 hong4-2]],
+        a factory, a shop;
+    - _(4)hong (2)k(i/)_
+        [[hong4 gei2]],
+        which number of the brothers are you?
+    - _(4)hong (u/)(6)_
+        [[hong4 wu6]]
+        a guild;
+    - _(4)hong (2)ch(e/)ung_
+        [[hong4 zoeng2]],
+        head of the guild;
+    - _(4)t(')ung (4)hong_ [[tung4 hong4]],
+        or
+      _(4)hong (1)k(a/)_ [[hong4 gaa1]],
+        of the same craft;
+    - _(4)hong yung(6)_
+        [[hong4 jung6]]
+        the subscription to the guild;
+    - _Shap(9) (1)s(a/)m (4)hong_
+        [[sap6 saam1 hong4-2]],
+        the Foreign Factories;
+    - _yap(9) (4)hong (5)'ng_
+        [[jap6 hong4 ng5]],
+        to enlist as a soldier;
+    - _(4)hong fo(3)_
+        [[hong4 fo3]]
+        cargo goods, those of inferior quality.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~95 (4)降]]
     ==
     - To submit, to return to one's allegiance;
