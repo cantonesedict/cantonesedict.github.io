@@ -252,6 +252,21 @@ $$
 $$
 W
   ====
+  - [[Page~96 磕(9)]]
+    ==
+    - The clatter of stones;
+    - in the Court dialect,
+      _k(')oh(9) ~~(4)t(')(a/)u~~ ``(4)t(')au``_
+      is the kotau [[磕頭]] ceremony.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~95 闔(9)]]
     ==
     - A leaf of a door, a two leaved door;
