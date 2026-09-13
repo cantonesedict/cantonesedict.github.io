@@ -230,3 +230,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~99 (2)畎]]
+    ==
+    - A ditch or water-course between fields;
+    - a rill or runlet;
+    - to flow, as a water-course, diffused like good instruction;
+    - _(2)h(u:)n (5)mau_
+        [[hyun2 mau5]],
+        rills between plats of ground.
+    ==
+  ====
+$$
+##>
