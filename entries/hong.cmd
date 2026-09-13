@@ -245,3 +245,22 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~95 (4)降]]
+    ==
+    - To submit, to return to one's allegiance;
+    - to descend; <# TODO: correct to $降gong3(?) #>
+    - _(4)t(')au (4)hong_
+        [[tau4 hong4]],
+        to lay down rebellious arms;
+    - _(4)hong (1)ping_
+        [[hong4 bing1]],
+        troops surrendering.
+    ==
+  ====
+$$
+##>
