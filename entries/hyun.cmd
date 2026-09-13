@@ -26,6 +26,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~99 (1)儇]]
+    ==
+    - Ingenious, expert, cunning;
+    - nimble;
+    - name of a country or tribe in primitive times.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)喧(1)諠]]
     ==
     - Clamor, hum, noise of people talking;
