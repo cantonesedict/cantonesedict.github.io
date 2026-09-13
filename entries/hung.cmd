@@ -26,6 +26,30 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~99 (1)凶]]
+    ==
+    - Unfortunate, unlucky, unhappy, unpropitious, adverse;
+    - lugubrious, mournful;
+    - judgments of heaven, calamity;
+    - malignant, cruel, bad, in which sense it is used for the next [[兇]];
+    - _kat(7) (1)hung m(i/)(6) (1)ch(i/)_
+        [[gat1 hung1 mei6 zi1]],
+        I don't know whether it is lucky or not;
+    - _(1)hung sun(3)_
+        [[hung1 seon3]]
+        bad news;
+    - _(1)hung (4)n(i/)n_
+        [[hung1 nin4]],
+        a bad year.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 (1)悾]]
     ==
     - Ignorant, rustic;
