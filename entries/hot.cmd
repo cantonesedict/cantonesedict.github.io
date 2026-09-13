@@ -26,6 +26,39 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~96 喝(8)]]
+    ==
+    - To call out loud, to hoot, to shout at;
+    - to reprimand;
+    - a guttural, gurgling, choking, sound;
+    - an angry hoot;
+    - _hot(8) ch(u:)(6) (5)k(')(u:)_
+        [[hot3 zyu6 keoi5]]
+        order them to stop;
+    - _hot(8) t(o\)(6)_
+        [[hot3 dou6]]
+        to clear the road as lictors do;
+    - _hot(8) yat(7) (1)sheng_
+        [[hot3 jat1 seng1]],
+        to hoot;
+    - _hot(8) (1)hoi_
+        [[hot3 hoi1]],
+        to make people separate;
+    - _hot(8) ling(6)_
+        [[hot3 ling6]]
+        to egg on, to set on;
+    - _hot(8) (1)t(o\)_
+        [[hot3 dou1]]
+        to strop a razor.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~96 曷(8)]]
     ==
     - Why, why not;
