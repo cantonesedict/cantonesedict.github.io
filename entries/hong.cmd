@@ -354,6 +354,25 @@ $$
 $$
 W
   ====
+  - [[Page~717 (4)頏]]
+    ==
+    - To fly or dart down, as a bird;
+    - the neck, the throat.
+    ==
+    --
+    Read _hong(6)_ [[hong6]];
+    --
+    ==
+    - the neck of a bird.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~95 ::~~{？=⿱共㔾}~~``巷``(6)::]]
     ==
     - A lane, a crooked alley;
