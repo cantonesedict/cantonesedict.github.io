@@ -211,3 +211,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~94 (4)杭]]
+    ==
+    - Hongchau f(u/) [[杭州府]], the capital of Chehki(a/)ng [[浙江]],
+      famous for its silks.
+    ==
+  ====
+$$
+##>
