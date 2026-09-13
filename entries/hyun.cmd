@@ -46,6 +46,18 @@ $$
 $$
 W
   ====
+  - [[Page~98 (1)暄]]
+    ==
+    - Genial warmth, heat of the sun in spring, a pleasant warmth.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~98 (1)諼]]
     ==
     - To impose on;
