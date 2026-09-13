@@ -26,6 +26,38 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~100 (1)兇]]
+    ==
+    - Malevolent, cruel, inhuman;
+    - vicious, malignant;
+    - fearful, cry of fear;
+    - _(1)hung (2)shau_
+        [[hung1 sau2]],
+        a murderer;
+    - _(1)hung (4)w(a/)ng_
+        [[hung1 waang4]],
+        vicious, intractable;
+    - _(1)hung p(o\)(6)_
+        [[hung1 bou6]]
+        fierce;
+    - _(1)hung ~~ok(8)~~ ``ok(8)``_
+        [[hung1 ok3]]
+        wicked, truculent;
+    - _(4)hang (1)hung_
+        [[hang4 hung1]],
+        to plunder like a bandit;
+    - _(1)hung (4)t(')(o\) l(a/)n(6) (2)tsai_
+        [[hung1 tou4 laan6 zai2]],
+        a reprobate, a brigand.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 (1)凶]]
     ==
     - Unfortunate, unlucky, unhappy, unpropitious, adverse;
