@@ -181,6 +181,16 @@ W
         [[hap6 ngaan5 fan3]]
         asleep.
     ==
+  - [[Page~717 合(9)]]
+    ==
+    - Occurs as a classifier;
+    - a bout, as at boxing;
+    - a round, as in fighting;
+    - a turn, a time;
+    - _(4)(u/)i h(o\)p(9)_
+        [[wui4 hap6]]
+        a trial of strength.
+    ==
   ====
 $$
 ##>
