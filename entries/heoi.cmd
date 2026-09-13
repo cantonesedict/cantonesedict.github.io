@@ -174,6 +174,22 @@ $$
 $$
 W
   ====
+  - [[Page~97 (2)栩]]
+    ==
+    - A tree bearing a black nut iike an acorn;
+    - soft, flexible;
+    - _(2)h(u:) (2)h(u:)_
+        [[heoi2 heoi2]],
+        pleased.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~97 (2)許]]
     ==
     - To grant, to allow, to let;
