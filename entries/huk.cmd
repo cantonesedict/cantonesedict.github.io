@@ -52,3 +52,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~98 酷(9)]]
+    ==
+    - Superior wine;
+    - ripe (as grain);
+    - hard-hearted, severe;
+    - inhuman, tyrannical (applied to officers);
+    - extremely, in a high degree;
+    - _(1)t(')(a/)m huk(9)_
+        [[taam1 huk6]]
+        avaricious and cruel;
+    - _huk(9) (4)ying_
+        [[huk6 jing4]],
+        an illegal punishment;
+    - _huk(9) (i/)t(9)_
+        [[huk6 jit6]]
+        very warm.
+    ==
+  ====
+$$
+##>
