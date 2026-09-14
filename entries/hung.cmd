@@ -290,6 +290,22 @@ $$
 $$
 W
   ====
+  - [[Page~101 鬨(3)]]
+    ==
+    - The cry of persons fighting;
+    - to quarrel, to wrangle;
+    - _hung(3) tau(3)_
+        [[hung3 dau3]]
+        to fight, battling.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)洪]]
     ==
     - Water rising;
