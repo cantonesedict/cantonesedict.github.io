@@ -627,3 +627,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~101 ^_Hung(6)_ (hung6); here assigned to 哄]]
+    ==
+    - A halo;
+    - _(u:)t(9) (5)yau hung(6)_
+        [[jyut6 jau5 hung6]]
+        there is a halo round the moon.
+    ==
+  ====
+$$
+##>
