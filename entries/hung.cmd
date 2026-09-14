@@ -304,6 +304,30 @@ $$
 $$
 W
   ====
+  - [[Page~101 (4)熊]]
+    ==
+    - A bear, the 'hybernating animal;'
+    - _(4)hung (4)yan_
+        [[hung4 jan4-2]],
+        a bear;
+    - _(4)hung (2)ch(e/)ung_
+        [[hung4 zoeng2]]
+        a bear's palm---a delicacy;
+    - _(4)hung (2)t(a/)m_
+        [[hung4 daam2]],
+        gall of bears---a medicine;
+    - _(4)Hung (5)(i/) (1)sh(a/)n_
+        [[hung4 ji5 saan1]],
+        a range of mountains in Hon(a/)n [[河南]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)紅]]
     ==
     - Red color, reddish;
