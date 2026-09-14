@@ -290,6 +290,22 @@ $$
 $$
 W
   ====
+  - [[Page~101 倥(3)]]
+    ==
+    - Rude; <# TODO: correct this sense to $倥hung1 #>
+    - _~~hung(3)~~ ``(1)hung`` (4)t(')ung_
+        [[hung1 tung4]],
+        ignorant;
+    - weary, hurried by press of business.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~101 哄(3)]]
     ==
     - The hum of a crowd;
