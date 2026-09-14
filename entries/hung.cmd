@@ -117,6 +117,20 @@ $$
 $$
 W
   ====
+  - [[Page~100 (1)崆]]
+    ==
+    - A hill in Pingli(a/)ng f(u/) [[平涼府]], in K(a/)nsuh [[甘肅]],
+      called _(1)Hung ~~t(')^ung(6)~~ ``(4)t(')ung``_ [[hung1 tung4]]
+      the source of the River King [[涇]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 (1)悾]]
     ==
     - Ignorant, rustic;
