@@ -266,6 +266,30 @@ $$
 $$
 W
   ====
+  - [[Page~100 (4)鴻]]
+    ==
+    - A swan, or wild goose _(sc._ a _river_ or marsh _bird);_
+    - large, vast;
+    - profound, learned;
+    - a letter-carrier, a postman;
+    - _(4)hung ng(a/)n(6)_
+        [[hung4 ngaan6]]
+        wild geese;
+    - _(4)hung (1)h(i/)_
+        [[hung4 hei1]],
+        great felicity---a phrase placed opposite doors;
+    - _(4)hung p(i/)n(6)_
+        [[hung4 bin6]]
+        to send a letter by one.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)紅]]
     ==
     - Red color, reddish;
