@@ -290,6 +290,20 @@ $$
 $$
 W
   ====
+  - [[Page~100 (4)烘]]
+    ==
+    - A flash or flame of fire;
+    - to dry at the fire;
+    - dried.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)紅]]
     ==
     - Red color, reddish;
