@@ -361,3 +361,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~100 (4)訌]]
+    ==
+    - To quarrel, to litigate;
+    - to denounce to officers;
+    - to involve another by speaking;
+    - domestic discords.
+    ==
+  ====
+$$
+##>
