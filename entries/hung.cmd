@@ -233,3 +233,44 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~100 (4)紅]]
+    ==
+    - Red color, reddish;
+    - fiery;
+    - gentle, ladylike;
+    - _(4)hung shik(7)_
+        [[hung4 sik1]]
+        red;
+    - _(4)hung (1)f(u/)_
+        [[hung4 fu1]],
+        the _Hibiscus rosa-sinensis_, or shoe-flower;
+    - _(4)hung (4)ng(a/)n_
+        [[hung4 ngaan4]],
+        rosy, ruddy;
+    - _(1)tong (4)hung_
+        [[dong1 hung4]],
+        prosperous, rising;
+    - _(4)ch(')(e/)ung (4)hung_
+        [[coeng4 hung4]],
+        a general notice from the people;
+    - _(4)hung (4)p(')(a/)i_
+        [[hung4 paai4]],
+        a ship's clearance;
+    - _(4)hung (4)m(o\) (4)yan_
+        [[hung4 mou4 jan4]],
+        the English;
+    - _(1)shi(u/) (4)hung_
+        [[siu1 hung4]],
+        heated to redness;
+    - _(4)hung yat(9) (1)tong (1)t(')(i/)n_
+        [[hung4 jat6 dong1 tin1]],
+        the emperor's birthday, or that of others.
+    ==
+  ====
+$$
+##>
