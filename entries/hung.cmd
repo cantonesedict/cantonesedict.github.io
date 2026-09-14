@@ -238,6 +238,34 @@ $$
 $$
 W
   ====
+  - [[Page~100 (4)洪]]
+    ==
+    - Water rising;
+    - an inundation, a deluge;
+    - a torrent overflowing;
+    - great, vast, immense;
+    - _(4)hung (2)shui_
+        [[hung4 seoi2]],
+        the deluge of Y(u:) [[禹]];
+    - _(4)hung fuk(7)_
+        [[hung4 fuk1]]
+        great happiness;
+    - _(1)f(u/)n (4)hung t(a/)i(6) l(e/)ung(6)_
+        [[fun1 hung4 daai6 loeng6]]
+        liberal minded and kind;
+    - a surname.
+    ==
+    --
+    Interchanged with the next [[鴻]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)紅]]
     ==
     - Red color, reddish;
