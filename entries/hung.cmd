@@ -376,3 +376,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~100 (4)黌]]
+    ==
+    - A college or gymnasium, in A.D.~200,
+      capable of accommodating 30,000~students;
+    - _tsun(3) (4)hung (1)kung_
+        [[zeon3 hung4 gung1]],
+        to enter a candidate for degree of si(u/)ts(a/)i [[秀才]];
+    - the _(4)hung (1)kung_ [[hung4 gung1]] are rooms for study
+      adjoining the temple of Confucius;
+    - _(4)hung (4)m(u/)n sau(3) sz'(6)_
+        [[hung4 mun4 sau3 si6]]
+        a si(u/)ts(a/)i [[秀才]].
+    ==
+  ====
+$$
+##>
