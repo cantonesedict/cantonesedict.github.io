@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-(Not present in the original ''Tonic Dictionary''.)
+(Not present in the original ''Tonic Dictionary''.) <## TODO: change to implied ##>
 --
 
 #{.williams} ``K(')(u:)t.`` [[kyut]]
@@ -21,6 +21,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~102 缺(8)觖(8)]]
+    --
+    For these two characters, see _K(')(u:)t_ [[kyut]],
+    their usual pronunciation in Canton.
+    --
+  ====
+$$
+##>
 
 <##
 $$
