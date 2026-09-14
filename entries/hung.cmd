@@ -267,6 +267,29 @@ $$
 $$
 W
   ====
+  - [[Page~101 (2)恐]]
+    ==
+    - Apprehensive, anxious, agitated, alarmed, suspicious;
+    - to suppose, to doubt, to imagine, to reckon upon;
+    - perhaps, supposing, if it should be;
+    - _(2)hung p(')(a/)(3)_
+        [[hung2 paa3]]
+        fearful of, supposing, suspicious lest;
+    - _(2)hung k(u:)(6)_
+        [[hung2 geoi6]]
+        to dread, frightened;
+    - _(4)'m (2)hung_
+        [[m4 hung2]],
+        quiet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)洪]]
     ==
     - Water rising;
