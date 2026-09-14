@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -456,7 +456,7 @@ W
   - [[Page~37* (1)鱄]]
     ==
     - A large fish [[Kangxi: 魚之大者名爲鱄]], a pike?
-      found in the Lake Tungt``(')``ing [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
+      found in the Lake Tungting [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
     ==
     --
     [[...]]

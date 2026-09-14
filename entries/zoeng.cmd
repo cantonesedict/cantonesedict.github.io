@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-08-11
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -749,7 +749,7 @@ W
   ====
   - [[Page~34|n77 (1)鄣]]
     ==
-    - A feudal state, now part of T``(')``(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
+    - A feudal state, now part of T(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
   ====
