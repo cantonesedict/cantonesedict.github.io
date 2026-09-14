@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2026-09-13
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏 and hypothesised to be modern hei1]]
+  - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏 and hypothesised to correspond to modern hei1]]
     ==
     - A colloquial exclamation, expressing disapproval;
     - _(1)h(e/) (4)'m (2)h(o\) ~~t(')au(3)~~ ``tau(3)``_
@@ -132,7 +132,8 @@ W
   ====
 C
   ==
-  - Strict analogy with Williams' _(1)h(e/)_ results in the modern reading he1.
+  - Strict analogy with Williams' _(1)h(e/)_
+    results in the modern reading he1 [hɛː].
     However, because Williams' _(1)h(e/)_ was likely sounded *[heɪ]
     (based on [his description of the final _(e/)_](/intro/#final-order-29)),
     I hypothesise here that _(1)h(e/)_ actually corresponds to
