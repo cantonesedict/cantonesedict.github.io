@@ -340,3 +340,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~100 (4)虹]]
+    ==
+    - Colored vapor, the rainbow, halo---\
+      all thought to be an impure effluence of the sky;
+    - _(1)t(')(i/)n (4)hung_ [[tin1 hung4]],
+      _(4)hung (4)ngai_ [[hung4 ngai4]],
+        or
+      _(1)t(')(i/)n kong(3)_ [[tin1 gong3]]
+        the rainbow;
+    - called _p(')o(3) (4)p(')ung_ [[po3 pung4]] at Macao,
+      because it splits the sky;
+    - connected together.
+    ==
+  ====
+$$
+##>
