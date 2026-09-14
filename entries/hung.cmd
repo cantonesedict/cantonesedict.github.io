@@ -381,6 +381,26 @@ $$
 $$
 W
   ====
+  - [[Page~101 (4)雄]]
+    ==
+    - A cock bird;
+    - masculine, male of small animals and insects, as well as birds;
+    - courageous, martial, brave, heroic;
+    - _(4)hung chong(3)_
+        [[hung4 zong3]]
+        burly and strong;
+    - _(2)tau (2)h(i/) (4)hung (1)sam_
+        [[dau2 hei2 hung4 sam1]],
+        screw your courage up.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)黌]]
     ==
     - A college or gymnasium, in A.D.~200,
