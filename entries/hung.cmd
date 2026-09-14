@@ -312,6 +312,33 @@ $$
 $$
 W
   ====
+  - [[Page~101 控(3)]]
+    ==
+    - To pull (as a bow), to check or rein in;
+    - to impeach, to accuse;
+    - to inform rulers;
+    - to hold up, to maintain;
+    - _hung(3) k(o\)(3)_
+        [[hung3 gou3]]
+        to petition against;
+    - _n(i/)p(9) hung(3)_
+        [[nip6 hung3]]
+        to falsely accuse;
+    - _sh(e/)ung(6) hung(3)_
+        [[soeng6 hung3]]
+        to send in an accusation;
+    - _(u:)t(9) hung(3)_
+        [[jyut6 hung3]]
+        to petition the highest provincial officers directly.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~101 鬨(3)]]
     ==
     - The cry of persons fighting;
