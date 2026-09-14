@@ -290,6 +290,28 @@ $$
 $$
 W
   ====
+  - [[Page~101 哄(3)]]
+    ==
+    - The hum of a crowd;
+    - singing or voices mingling;
+    - to intimidate by a loud voice;
+    - to cozen, to cheat;
+    - to beguile, to tempt;
+    - _hung(3) p(')(i/)n(3)_
+        [[hung3 pin3]]
+        to deceive;
+    - _hung(3) hot(8)_
+        [[hung3 hot3]]
+        to browbeat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~101 鬨(3)]]
     ==
     - The cry of persons fighting;
