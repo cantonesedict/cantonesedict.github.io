@@ -339,6 +339,18 @@ $$
 $$
 W
   ====
+  - [[Page~101 鞚(3)]]
+    ==
+    - A bridle, or the reins by which a horse is reined in.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~101 鬨(3)]]
     ==
     - The cry of persons fighting;
