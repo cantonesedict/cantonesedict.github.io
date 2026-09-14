@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -811,7 +811,7 @@ W
         rice-birds, ortolans;
     - _(4)m(u/)i (1)f(a/) ts(e/)uk(8)_
         [[mui4 faa1 zoek3-2 梅花雀]]
-        the avedevat _(Fringilla amanduva)_;
+        the avedevat _(Fringilla amanduva);_
     - _(4)sh(i/) (4)shan ts(e/)uk(8)_
         [[si4 san4 zoek3-2 時辰雀]]
         a canary-bird;

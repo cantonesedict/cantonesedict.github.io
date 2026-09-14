@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2621,7 +2621,7 @@ W
         a finger nail;
     - _(2)ch(i/) k(a/)p(8) (1)f(a/)_
         [[zi2 gaap3 faa1 指甲花]],
-        the henna _(Lawsonia inermis)_;
+        the henna _(Lawsonia inermis);_
     - _(2)ch(i/) shat(9)_
         [[zi2 sat6 指實]]
         certain, sure.
@@ -2770,7 +2770,7 @@ W
         thorny;
     - _(2)ch(i/) ~~k(u:)(6)~~ ``(2)k(u:)``_^
         [[zi2 geoi2 枳椇]]
-        the _Hovenia dulcis_;
+        the _Hovenia dulcis;_
     - _(2)ch(i/) hok(8)_
         [[zi2 hok3 枳殼]]
         ~~its seeds~~ ``the skin of the Chinese bitter orange``, used for medicine.

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3525,7 +3525,7 @@ W
   ====
   - [[Page~616 (4)鷀; here normalised to 鶿]]
     ==
-    - The fishing cormorant [[Kangxi 鶿: 水鳥]], the _Phalacrocorax_;
+    - The fishing cormorant [[Kangxi 鶿: 水鳥]], the _Phalacrocorax;_
     - _(4)l(o\) (4)ts(')z'_
         [[lou4 ci4 鸕鶿]]
         the cormorant, poetically called

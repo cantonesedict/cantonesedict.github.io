@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -495,16 +495,16 @@ W
     - The pomfret;
     - _p(a/)k(9) (1)ts(')ong (4)(u:)_
         [[baak6 cong1 jyu4-2 白䱽魚]],
-        the silver pomfret _(Stromateus argenteus)_;
+        the silver pomfret _(Stromateus argenteus);_
     - _hak(7) (1)ts(')ong_
         [[hak1 cong1 黑䱽]],
-        the black pomfret _(Stromateus niger)_;
+        the black pomfret _(Stromateus niger);_
     - _(4)wong ~~lap(9)~~ ``l(a/)p(9)`` (1)ts(')ong_
         [[wong4 laap6 cong1 黃鱲䱽]],
-        the yellow pomfret _(Trachinotus auratus)_;
+        the yellow pomfret _(Trachinotus auratus);_
     - _(1)f(a/) (1)ts(')ong_
         [[faa1 cong1 花䱽]],
-        small pomfret _(Caranx malabaricus)_;
+        small pomfret _(Caranx malabaricus);_
     - _(1)kw(a/) (2)tsz' (1)ts(')ong_
         [[gwaa1 zi2 cong1 瓜子䱽]],
         long-finned pomfret _(Trachinotus asper)_.

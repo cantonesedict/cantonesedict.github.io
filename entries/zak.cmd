@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -398,7 +398,7 @@ W
       called _tsak(7) ~~(5)n(a/)~~ ``(2)n(a/)`` (4)(u:)_ [[zak1 naa2 jyu4-2 鰂乸魚]];
     - _shuk(7) kwat(7) tsak(7)_
         [[suk1 gwat1 zak1 縮骨鰂]]
-        the blunt headed bream _(Cyprinus abbreviatus)_;
+        the blunt headed bream _(Cyprinus abbreviatus);_
     - _(1)kam tsak(7)_
         [[gam1 zak1 金鰂]]
         the red tailed bream _(Cyprinus auratus)_.

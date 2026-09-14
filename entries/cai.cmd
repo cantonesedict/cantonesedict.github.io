@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -854,10 +854,10 @@ W
     - a mullet;
     - _(5)m(a/) (5)ts(')ai_
         [[maa5 cai5 馬鱭]],
-        a kind of anchovy _(Coilia playfairii)_;
+        a kind of anchovy _(Coilia playfairii);_
     - _(4)wong (5)m(i/) (5)ts(')ai_
         [[wong4 mei5 cai5 黃尾鱭]],
-        yellow tail mullet _(Mullus xanthurus)_;
+        yellow tail mullet _(Mullus xanthurus);_
     - _p(a/)k(9) (5)ts(')ai_
         [[baak6 cai5 白鱭]],
         green ish mullet _Mugil ventricosus_.

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haa
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -234,7 +234,7 @@ W
         a skinflint;
     - _(4)lung (1)h(a/)_
         [[lung4 haa1 龍蝦]],
-        the sea crawfish _(Palinurus)_;
+        the sea crawfish _(Palinurus);_
     - _(4)ngan (1)h(a/)_
         [[ngan4 haa1 銀蝦]],
         sea shrimps;

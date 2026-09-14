@@ -421,7 +421,7 @@ W
   - [[Page~93 汗(6)]]
     ==
     - Sweat, perspiration;
-    - used for the word _khan_;
+    - used for the word _khan;_
     - _ch(')ut(7) hon(6)_
         [[ceot1 hon6]]
         to perspire;

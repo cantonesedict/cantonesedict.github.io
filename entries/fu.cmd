@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-09-09
+* %date-modified --> 2026-09-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -3141,7 +3141,7 @@ W
     - A flower;
     - _(4)f(u/) (4)yung (1)f(a/)_
         [[fu4 jung4 faa1 芙蓉花]],
-        the _Hibiscus mutabilis_;
+        the _Hibiscus mutabilis;_
     - _(1)o (4)f(u/) (4)yung_
         [[o1 fu4 jung4 阿芙蓉]],
         the poppy.
