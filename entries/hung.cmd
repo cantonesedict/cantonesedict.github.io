@@ -355,6 +355,21 @@ $$
 $$
 W
   ====
+  - [[Page~101 汞(3)]]
+    ==
+    - Quicksilver;
+    - _(1)shi(u/) (1)t(a/)n l(i/)n(6) hung(3)_
+        [[siu1 daan1 lin6 hung3]]
+        to smelt quicksilver from cinnabar.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~101 空(3)]]
     ==
     - To empty or exhaust;
