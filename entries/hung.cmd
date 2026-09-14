@@ -132,6 +132,22 @@ $$
 $$
 W
   ====
+  - [[Page~100 (1)洶]]
+    ==
+    - The bubbling of a spring, the noise of rapid waters;
+    - the sound of tumult;
+    - _(1)hung (2)yung_
+        [[hung1 jung2]],
+        the gurgling of a spring.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~99 (1)空]]
     ==
     - Empty, vacant, void;
