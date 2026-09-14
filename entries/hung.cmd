@@ -355,6 +355,32 @@ $$
 $$
 W
   ====
+  - [[Page~101 空(3)]]
+    ==
+    - To empty or exhaust;
+    - a deficiency;
+    - to make room for;
+    - _~~(1)kwei~~ ``(1)kwai`` hung(3)_
+        [[gwai1 hung3]]
+        to return a deficiency;
+    - _hung(3) (1)hoi tik(7)_
+        [[hung3 hoi1 dik1]]
+        make a little room for me;
+    - _hung(3) (1)hoi (2)s(e/)_
+        [[hung3 hoi1 se2]],
+        leave a space in the writing;
+    - _hung(3) ~~f(a/)t(9)~~ ``fat(9)``_
+        [[hung3 fat6]]
+        a defalcation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~101 鞚(3)]]
     ==
     - A bridle, or the reins by which a horse is reined in.
