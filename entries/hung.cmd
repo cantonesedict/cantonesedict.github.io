@@ -238,6 +238,35 @@ $$
 $$
 W
   ====
+  - [[Page~101 (2)孔]]
+    ==
+    - A hole, an orifice, a cave, an opening;
+    - a pore;
+    - hollow;
+    - thorough;
+    - excellent, great, deep;
+    - a surname;
+    - _(2)hung ts(e/)uk(8)_
+        [[hung2 zoek3]]
+        the peacock;
+    - _(2)Hung (1)f(u/) (2)tsz'_
+        [[hung2 fu1 zi2]]
+        Confucius;
+    - _(1)t(')ung (1)shan (2)kau (2)hung_
+        [[tung1 san1 gau2 hung2]],
+        the nine passages of the body;
+    - _(2)hung ~~k(')i(u/)(3)~~ ``hi(u/)(3)``_
+        [[hung2 hiu3]]
+        a hole.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~100 (4)洪]]
     ==
     - Water rising;
