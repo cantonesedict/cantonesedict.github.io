@@ -26,6 +26,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~102 (1)伊]]
+    ==
+    - He, she, it;
+    - _(1)(i/) (2)tang_
+        [[ji1 dang2]],
+        they, them;
+    - _(1)(i/) (4)n(i/)n_
+        [[ji1 nin4]],
+        that year;
+    - an initial particle, meaning only, because that;
+    - a surname.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)依]]
     ==
     - To rely on, to trust to;
