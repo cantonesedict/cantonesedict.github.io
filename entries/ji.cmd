@@ -353,3 +353,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~103 (4)鮞]]
+    ==
+    - The spawn or young of fish;
+    - _(1)p(o\) (4)(i/)_
+        [[bou1 ji4]],
+        a delicious fish found in Tungting [[洞庭]] Lake.
+    ==
+  ====
+$$
+##>
