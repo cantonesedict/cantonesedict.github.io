@@ -26,6 +26,35 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~102 (1)依]]
+    ==
+    - To rely on, to trust to;
+    - to agree, to conform to;
+    - as, according to;
+    - _(1)(i/) (4)(i/)n_
+        [[ji1 jin4]],
+        as you say;
+    - _(1)(i/) (1)h(i/)_
+        [[ji1 hei1]],
+        like, similar;
+    - _(1)(i/) (5)n(i/)_
+        [[ji1 nei5]],
+        as you please;
+    - _(1)(i/) (4)(u:) sat(7) h(a/)(6)_
+        [[ji1 jyu4 sat1 haa6]]
+        dependant on parents, filial;
+    - _(1)(i/) shat(9) sh(u:)t(8)_
+        [[ji1 sat6 syut3]]
+        undoubted, can be believed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)衣]]
     ==
     - Clothes, specially those for the body;
