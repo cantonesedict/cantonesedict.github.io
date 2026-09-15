@@ -75,6 +75,21 @@ $$
 $$
 W
   ====
+  - [[Page~102 (1)咿]]
+    ==
+    - To smile in bitterness, to moan, a forced laugh;
+    - _(1)(i/) (4)'ng_
+        [[ji1 ng4]],
+        hum of boys reading.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)衣]]
     ==
     - Clothes, specially those for the body;
