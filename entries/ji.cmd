@@ -283,6 +283,22 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)洏]]
+    ==
+    - Warm or hot water;
+    - flowing tears;
+    - _(4)l(i/)n (4)(i/)_
+        [[lin4 ji4]],
+        incessant crying.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)而]]
     ==
     - The whiskers;
