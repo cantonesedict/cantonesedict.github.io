@@ -186,3 +186,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~102 (1)醫]]
+    ==
+    - To heal, to cure;
+    - medical, medicine;
+    - a physician;
+    - _(1)(i/) (1)sz'_ [[ji1 si1]]
+        or
+      _(1)(i/) (1)shang_ [[ji1 sang1]]
+        a doctor;
+    - _(4)hang (1)(i/)_
+        [[hang4 ji1]],
+        to practice medicine;
+    - _(4)sh(i/) (1)(i/)_
+        [[si4 ji1]],
+        a fashionable doctor;
+    - _(1)p(a/)u (1)(i/)_
+        [[baau1 ji1]],
+        to assure a cure;
+    - _(4)shan (1)(i/)_
+        [[san4 ji1]],
+        a skillful doctor;
+    - _(4)yung (1)(i/) ~~shat(7)~~ ``sh(a/)t(8)`` (4)yan_
+        [[jung4 ji1 saat3 jan4]],
+        charlatans kill people.
+    ==
+  ====
+$$
+##>
