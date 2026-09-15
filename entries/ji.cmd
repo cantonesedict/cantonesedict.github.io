@@ -105,6 +105,22 @@ $$
 $$
 W
   ====
+  - [[Page~102 (1)猗]]
+    ==
+    - A fierce dog;
+    - extended, continuous;
+    - flourishing;
+    - to exclaim in praise, good! fine! an interjection;
+    - to add to, depend on.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)衣]]
     ==
     - Clothes, specially those for the body;
