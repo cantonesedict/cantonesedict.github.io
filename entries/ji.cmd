@@ -90,6 +90,24 @@ $$
 $$
 W
   ====
+  - [[Page~102 (1)噫]]
+    ==
+    - The tone of indignation, surprise, dissatisfaction;
+    - for shame, alas!
+    - groans, dolor;
+    - to belck;
+    - _(1)(i/) (1)l(o\) (1)l(o\) (4)yan_
+        [[ji1 lou1 lou1 jan4]],
+        a low, idle fellow.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)洢]]
     ==
     - Name of a river in Hon(a/)n [[河南]] province,
