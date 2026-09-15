@@ -232,3 +232,33 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~102 (4)兒]]
+    ==
+    - A boy, a``n`` infant, a male child;
+    - infantile, feeble;
+    - a suffix to nouns much used in the court dialect,
+      and to denote that words are nouns;
+    - _(2)si(u/) (4)(i/)_ [[siu2 ji4]],
+      _(4)(i/)_ [[ji4]],
+        my son;
+    - _~~t(a/)i(3)~~ ``t(a/)i(6)`` (2)si(u/) (4)(i/)_
+        [[daai6 siu2 ji4]],
+        my oldest son;
+    - _(4)ho (4)(i/)_
+        [[ho4 ji4]],
+        a toy;
+    - _(4)(i/) (5)n(u:)_
+        [[ji4 neoi5]],
+        children;
+    - _(4)(i/) (4)ch(')(a/)_
+        [[ji4 caa4]],
+        cutch.
+    ==
+  ====
+$$
+##>
