@@ -90,6 +90,21 @@ $$
 $$
 W
   ====
+  - [[Page~102 (1)洢]]
+    ==
+    - Name of a river in Hon(a/)n [[河南]] province,
+      a branch of the River~Loh [[洛]];
+    - it runs through Sung hien [[嵩縣]]
+      in Hon(a/)n f(u/) [[河南府]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)衣]]
     ==
     - Clothes, specially those for the body;
