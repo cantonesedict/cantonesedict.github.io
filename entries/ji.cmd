@@ -283,6 +283,21 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)栭]]
+    ==
+    - A king-post or girder on the top of a pillar, to support the roof;
+    - a kind of chestnut;
+    - a fungus or Peziza, called _muk(9) ~~(4)(i/)~~ ``(5)(i/)``_ [[muk6 ji5]],
+      or 'ears of wood.'
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)洏]]
     ==
     - Warm or hot water;
