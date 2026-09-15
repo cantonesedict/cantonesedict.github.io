@@ -278,3 +278,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~103 (4)而]]
+    ==
+    - The whiskers;
+    - ~~one of the radicals~~ ``the 126th~radical`` [[U+2F7D ⽽ "and"]];
+    - as a copulative conjunction, means and, also, together;
+    - and yet, even;
+    - as a disjunctive conjunction, but;
+    - yet, contrariwise, still;
+    - as;
+    - used for the person spoken to, thou;
+    - an initial particle;
+    - _(4)(i/) (1)k(a/)_
+        [[ji4 gaa1]]
+        now;
+    - _(4)(i/) (2)ch(')(e/)_
+        [[ji4 ce2]],
+        moreover, furthermore;
+    - _(4)(i/) (1)kam (4)(i/) hau(6)_
+        [[ji4 gam1 ji4 hau6]]
+        now and henceforth;
+    - _(4)(i/) (5)(i/)_
+        [[ji4 ji5]]
+        a final phrase, denoting that is all, nothing more, no other~~.~~``,`` the utmost.
+    ==
+  ====
+$$
+##>
