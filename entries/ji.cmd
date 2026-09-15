@@ -219,3 +219,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~102 (1)鷖]]
+    ==
+    - A blue and white duck which frequents the seashore in flocks,
+      and foretokens storms by flying inland.
+    ==
+  ====
+$$
+##>
