@@ -105,6 +105,18 @@ $$
 $$
 W
   ====
+  - [[Page~102 (1)漪]]
+    ==
+    - Ripples on water, the curling lines made by water in gentle motion.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (1)猗]]
     ==
     - A fierce dog;
