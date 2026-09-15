@@ -262,3 +262,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~103 (4)唲]]
+    ==
+    - Forced laughter, unwilling compliance;
+    - loquacious.
+    ==
+    --
+    Read _(1)w(a/)_ [[waa1]], the prattle of children.
+    --
+  ====
+$$
+##>
