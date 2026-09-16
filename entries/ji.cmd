@@ -349,6 +349,36 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)疑]]
+    ==
+    - To doubt, to suspect;
+    - to guess, to fear;
+    - perverse;
+    - doubtful of, to dislike, unsettled;
+    - _(4)(u/) (4)(i/)_
+        [[wu4 ji4]],
+        a fox's ~~doublings~~ ``doubtings``, fearful;
+    - _(1)sz' (4)(i/)_
+        [[si1 ji4]],
+        suspicious, fearful;
+    - _p(i/)(6) ~~(i/)m(9)~~ ``(4)(i/)m`` (4)(i/)_
+        [[bei6 jim4 ji4]],
+        avoid suspicious acts;
+    - _(5)n(i/) k(o\)m(3) (1)to (4)(i/)_
+        [[nei5 gam3 do1 ji4]],
+        you are so very suspicious;
+    - _(4)m(o\) (4)(i/)_
+        [[mou4 ji4]],
+        plain, certain, undoubted.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)而]]
     ==
     - The whiskers;
