@@ -581,6 +581,23 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)頤]]
+    ==
+    - The chin, the sides of the mouth;
+    - one of the diagrams;
+    - to nourish, to feed;
+    - _~~(1)k(')(i/)~~ ``(4)k(')(i/)`` (4)(i/)_
+        [[kei4 ji4]],
+        an old man, who must be fed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)鮞]]
     ==
     - The spawn or young of fish;
