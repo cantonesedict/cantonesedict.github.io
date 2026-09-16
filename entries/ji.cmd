@@ -332,6 +332,29 @@ $$
 
 <##
 $$
+  ⼹ + 15
+  ⽷ + 12
+W
+  ====
+  - [[Page~103 (4)彝]]
+    ==
+    - A tripod or vase used in temples for libations;
+    - a constant rule or law which all men acknowledge,
+      an invariable principle;
+    - constant, common;
+    - _(4)(i/) (4)lun_
+        [[ji4 leon4]],
+        the five social relations;
+    - _(5)M(o\) (4)(i/) (1)sh(a/)n_
+        [[mou5 ji4 saan1]],
+        the Bohea hills.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~103 (4)扅]]
