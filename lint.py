@@ -2849,6 +2849,7 @@ class CharacterEntry:
         text = text.replace('  * ', '')
         text = re.sub(pattern=r'[0-9]+\. ', repl='', string=text)
         text = re.sub(pattern=r'[ ]* \\ [ ]* \n [ ]*', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
+        text = re.sub(pattern=r'\{lang=\S+\}', repl='', string=text)
         text = text.replace('^', '')
         text = text.replace('@', '')
         text = text.replace('::', '')
