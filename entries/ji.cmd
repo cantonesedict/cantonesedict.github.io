@@ -395,6 +395,39 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)移]]
+    ==
+    - To transplant rice;
+    - to move, to transpose;
+    - to shift;
+    - to remove, to change the place or the direction of;
+    - to transmit;
+    - to convey (an infection);
+    - to migrate;
+    - _(4)(i/) (1)hoi_
+        [[ji4 hoi1]],
+        to move away;
+    - _(4)(i/) (4)m(a/)i_
+        [[ji4 maai4]],
+        to move near;
+    - _(4)no (4)(i/)_
+        [[no4 ji4]],
+        to borrow;
+    - _(4)(i/) (1)f(u/)n tsau(6) (2)kan_
+        [[ji4 fun1 zau6 gan2]],
+        to accommodate one with a timely loan;
+    - _(4)(i/) (4)man_
+        [[ji4 man4]],
+        to forward a public dispatch.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)而]]
     ==
     - The whiskers;
