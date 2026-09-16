@@ -267,6 +267,23 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)匜]]
+    ==
+    - A pitcher or goblet, with a handle and spout;
+    - water-pot or wash-basin;
+    - shallow;
+    - _(1)ch(i/) (4)(i/)_
+        [[zi1 ji4]],
+        wine and water pitchers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)唲]]
     ==
     - Forced laughter, unwilling compliance;
