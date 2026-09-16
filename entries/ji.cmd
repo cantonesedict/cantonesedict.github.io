@@ -339,6 +339,38 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)夷]]
+    ==
+    - Even, arranged;
+    - to equalize, to level;
+    - to wound, to kill, to cut grass;
+    - great, ample;
+    - to class, to sort;
+    - contented, pleased;
+    - distant, remote, foreign;
+    - a tribe of people in the west,
+      now applied to all foreigners who do not speak Chinese;
+    - a barbarian, in the sense the Greeks used _{lang=grc}~~βαςβαςοι~~ ``βαρβαροι``_;
+    - _(4)(i/) (4)yan_
+        [[ji4 jan4]],
+        a foreigner;
+    - _(4)(i/) m(i/)t(9)_
+        [[ji4 mit6]]
+        to exterminate.
+    ==
+  ====
+C
+  ==
+  - Williams' Greek: The two rhos as misprinted as sigmas; here corrected.
+    The second beta is printed cursive.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)宜]]
     ==
     - That which is naturally reasonable, fit, right;
