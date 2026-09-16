@@ -283,6 +283,41 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)宜]]
+    ==
+    - That which is naturally reasonable, fit, right;
+    - proper, befitting, harmonizing, just;
+    - ought or should be;
+    - often is to be taken as a form of the imperative or future tenses;
+    - harmonious, accordant;
+    - title of 5th~rank ladies;
+    - _(4)(i/) tak(7)_
+        [[ji4 dak1]]
+        ought, it is proper;
+    - _pat(7) (1)s(e/)ung (4)(i/)_
+        [[bat1 soeng1 ji4]],
+        unsuitable, not his place;
+    - _h(o\)p(9) (4)(i/)_
+        [[hap6 ji4]]
+        done right, well done;
+    - _(1)t(')(a/)m (2)si(u/) (4)p(')(i/)n (4)(i/)_
+        [[taam1 siu2 pin4 ji4-2]],
+        to covet little douceurs;
+    - _p(i/)n(6) (4)(i/)_
+        [[bin6 ji4]],
+        convenient, serviceable;
+    - _(4)(i/) tak(7)_
+        [[ji4 dak1]]
+        to desire, to wish.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)栭]]
     ==
     - A king-post or girder on the top of a pillar, to support the roof;
