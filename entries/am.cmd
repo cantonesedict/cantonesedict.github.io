@@ -332,7 +332,7 @@ C
   - Corrected the Williams pronunciation from _(2)am_ to _(2)(o\)m_
     per 《廣韻》烏感切 (notwithstanding both map to am2 in modern Cantonese).
   - Williams' "a word used by Budhists":
-    A transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
+    A transliteration of the Sanskrit ::{lang=sa}ॐ:: (_Om_).
   ==
 $$
 
