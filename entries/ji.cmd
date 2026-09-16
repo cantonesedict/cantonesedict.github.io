@@ -334,6 +334,22 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)扅]]
+    ==
+    - The bar of a door, called _(5)(i/)m (4)(i/)_ [[jim5 ji4]];
+    - _(5)(i/)m (4)(i/) (4)wai (1)ch(')ui_
+        [[jim5 ji4 wai4 ceoi1]],
+        (Peh-l(i/)-~~p(i/)~~ ``h(i/)`` [[百里奚]])
+        burned the bar of his door, [from poverty].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)栭]]
     ==
     - A king-post or girder on the top of a pillar, to support the roof;
