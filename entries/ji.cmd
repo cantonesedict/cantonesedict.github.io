@@ -514,6 +514,22 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)訑]]
+    ==
+    - Self-sufficient, great assurance, arrogant;
+    - shallow-minded;
+    - to despise, to look down on;
+    - verbose;
+    - to insult, to brag.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)輀]]
     ==
     - A funeral car or hearse.
