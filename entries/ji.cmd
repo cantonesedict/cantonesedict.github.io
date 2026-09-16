@@ -420,6 +420,20 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)沂]]
+    ==
+    - Name of a river in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]],
+      flowing south into Lake Loh-m(a/) [[駱馬]] in K(i/)angs(u/) [[江蘇]],
+      and thence into the sea.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)洏]]
     ==
     - Warm or hot water;
