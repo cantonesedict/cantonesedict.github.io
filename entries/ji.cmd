@@ -521,6 +521,21 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)洟]]
+    ==
+    - Mucus or running from the nose;
+    - _(1)wan (4)(i/)_
+        [[wan1 ji4]],
+        name of a marsh in Sh(a/)ns(i/) [[山西]],
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)疑]]
     ==
     - To doubt, to suspect;
