@@ -237,6 +237,45 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)儀]]
+    ==
+    - Usages of mankind;
+    - a rule, rite, a ceremony;
+    - decorum, etiquette;
+    - the external appearance, or deportment;
+    - figure, form;
+    - regular, proper, correct, what ought to be, just;
+    - to imitate``,`` to study how to effect;
+    - the principles or powers of nature;
+    - _(5)l(e/)ung (4)(i/)_
+        [[loeng5 ji4]],
+        the dual principles;
+    - a present of money;
+    - _(4)(i/) ch(u:)(3)_
+        [[ji4 zyu3]]
+        rules of etiquette;
+    - _t(i/)n(6) (4)(i/)_ [[din6 ji4]]
+        or
+      _(1)h(e/)ung (4)(i/)_ [[hoeng1 ji4]],
+        money sent to mourners to assist in the rites;
+    - _(4)ch(')ing (4)(i/)_
+        [[cing4 ji4]],
+        a present to one traveling;
+    - _(4)yung (4)(i/)_
+        [[jung4 ji4]]
+        deportment;
+    - _(1)wai (4)(i/)_
+        [[wai1 ji4]],
+        a dignified carriage.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 (4)兒]]
     ==
     - A boy, a``n`` infant, a male child;
