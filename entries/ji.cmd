@@ -350,6 +350,21 @@ $$
 $$
 W
   ====
+  - [[Page~103 (4)栘]]
+    ==
+    - A kind of bullace;
+    - _(4)(i/) (4)y(e/)ung_
+        [[ji4 joeng4]],
+        a kind of white willow, found in Sh(a/)ntung [[山東]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)栭]]
     ==
     - A king-post or girder on the top of a pillar, to support the roof;
