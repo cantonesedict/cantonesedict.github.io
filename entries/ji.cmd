@@ -530,6 +530,28 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)貤]]
+    ==
+    - A gradation, rising one above another,
+      as a series of weights, stairs, stories, hills, &c.;
+    - to advance, to reward the worthy;
+    - to superimpose;
+    - advantage;
+    - _(1)fan (4)(i/) kok(8) mat(9)_
+        [[fan1 ji4 gok3 mat6]]
+        put each in its proper rank;
+    - _(4)(i/) tsang(6)_
+        [[ji4 zang6]]
+        to confer honors on one's parents and self.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)輀]]
     ==
     - A funeral car or hearse.
