@@ -603,6 +603,21 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)痍]]
+    ==
+    - A wound;
+    - an ulcer or sore;
+    - to hurt, to injure;
+    - distressing to the mind.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)移]]
     ==
     - To transplant rice;
