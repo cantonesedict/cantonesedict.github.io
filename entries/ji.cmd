@@ -339,6 +339,19 @@ $$
 $$
 W
   ====
+  - [[Page~105 (4)圯]]
+    ==
+    - A bridge;
+    - the bank near a bridge.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)夷]]
     ==
     - Even, arranged;
