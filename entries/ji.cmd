@@ -369,6 +369,43 @@ $$
 
 <##
 $$
+V
+  ==
+  - ji1 (vernacular for younger and generic aunt senses)
+  ==
+W
+  ======
+  - [[Page~104 (4)姨]]
+    ====
+    - A wife's sisters;
+      ==
+      - the older are called
+          _t(a/)i(6) (4)(i/)_
+          [[daai6 ji4]],
+      - the younger
+          _(2)si(u/) ~~(4)(i/)~~ ``(1)(i/)``_
+          [[siu2 ji1]];
+      ==
+    - maternal aunts;
+      ==
+      - the elder are called
+          _(4)(i/) (5)m(o\)_ [[ji4 mou5]],
+          _(4)(i/) (1)m(a/)_ [[ji4 maa1]],
+          and _(4)(i/) (4)n(e/)ung_ [[ji4 noeng4]];
+      - the younger,
+          _(a/)(3) ~~(4)(i/)~~ ``(1)(i/)``_
+          [[aa3 ji1]];
+      ==
+    - _(4)(i/) (1)t(e/)_
+        [[ji4 de1]],
+        my elder maternal aunt's husband.
+    ====
+  ======
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~103 (4)宜]]
