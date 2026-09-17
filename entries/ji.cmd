@@ -718,6 +718,33 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)詒]]
+    ==
+    - To hand down, to bequeath, to leave to, to communicate to posterity;
+    - to present to;
+    - mutual deception;
+    - to ridicule;
+    - to act so as to be despised.
+    ==
+    ==
+    - Read _~~(2)t(')oi~~ ``(5)t(')oi``_ [[toi5]],
+      to defraud, or insult;
+    - weary;
+    - _(4)(i/) (4)ch(')(u:)n_
+        [[ji4 cyun4]],
+        to hand down;
+    - _(1)ts(')(i/)n (5)l(i/) (4)(i/) (4)ts(')ing_
+        [[cin1 lei5 ji4 cing4]],
+        to send remembrances from afar (to friends).
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)貤]]
     ==
     - A gradation, rising one above another,
