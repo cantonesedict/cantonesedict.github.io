@@ -818,6 +818,26 @@ $$
 $$
 W
   ====
+  - [[Page~105 (4)飴]]
+    ==
+    - Sweet cakes;
+    - sugared, pleasant, sweet;
+    - to feed;
+    - _(1)k(o\)m (4)(i/)_
+        [[gam1 ji4]],
+        a tidbit, sugary;
+    - _(2)kan (4)t(')(o\) (4)(u:) (4)(i/)_
+        [[gan2 tou4 jyu4 ji4]],
+        to regard afflictions as sweet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)鮞]]
     ==
     - The spawn or young of fish;
