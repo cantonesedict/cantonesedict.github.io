@@ -767,6 +767,28 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)貽]]
+    ==
+    - Same as the preceding [[詒]];
+    - to induce, or bring on one's self, to cause;
+    - _(4)(i/) tsang(6)_
+        [[ji4 zang6]]
+        to leave a legacy, to make a parting present;
+    - _(4)(i/) 'ng(6) hau(6) (4)yan_
+        [[ji4 ng6 hau6 jan4]],
+        to mislead after ages, to propagate error;
+    - _(4)(i/) lui(6) (2)tsz' (1)s(u:)n_
+        [[ji4 leoi6 zi2 syun1]]
+        to involve one's posterity.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)輀]]
     ==
     - A funeral car or hearse.
