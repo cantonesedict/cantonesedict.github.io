@@ -482,6 +482,25 @@ $$
 $$
 W
   ====
+  - [[Page~104 (4)怡]]
+    ==
+    - Harmonious concord, pleased with each other, as brothers and friends;
+    - joyful, satisfied;
+    - _(1)hing tai(6) (4)(i/) (4)(i/)_
+        [[hing1 dai6 ji4 ji4]],
+        fraternal joy;
+    - _(4)(i/) (4)wo_
+        [[ji4 wo4]],
+        Delighted-harmony, the name of Howqua [[浩官]]'s hong [[行]] in Canton.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~103 (4)扅]]
     ==
     - The bar of a door, called _(5)(i/)m (4)(i/)_ [[jim5 ji4]];
