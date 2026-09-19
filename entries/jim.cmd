@@ -129,6 +129,43 @@ $$
 $$
 W
   ====
+  - [[Page~108 (2)掩]]
+    ==
+    - To screen or shade, to conceal from view;
+    - to shut, to close;
+    - to soothe, to stroke with the hand;
+    - to console;
+    - to surprise an enemy;
+    - _(2)(i/)m (4)m(u/)n_
+        [[jim2 mun4]],
+        to shut the door;
+    - _(2)(i/)m (1)hoi (4)m(u/)n_
+        [[jim2 hoi1 mun4]],
+        to open the door;
+    - _(2)(i/)m shik(7)_
+        [[jim2 sik1]]
+        to hide away quickly;
+    - _(2)(i/)m m(i/)n(6)_
+        [[jim2 min6]]
+        to cover the face;
+    - _(2)(i/)m (5)h(a/) ch(u:)t(8)_
+        [[jim2 haa5 zyut3]]
+        you must improve, don't be so stupid;
+    - _(2)(i/)m (2)(i/)m (2)y(e/)ung (2)y(e/)ung_
+        [[jim2 jim2 joeng2 joeng2]],
+        afraid to be seen, hiding away as a truant;
+    - _(2)(i/)m (5)h(a/) (2)ch(')au_
+        [[jim2 haa5 cau2]],
+        hide it for shame.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (1)渰 _(1)(I/)m_ (jim1); here normalised to _(2)(I/)m_ (jim2)]]
     ==
     - Clouds rising and spreading;
