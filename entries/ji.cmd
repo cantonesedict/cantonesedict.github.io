@@ -287,6 +287,20 @@ $$
 $$
 W
   ====
+  - [[Page~105 (2)錡]]
+    ==
+    - A three-legged iron frying-pan or griddle; <# TODO: $錡kei4 #>
+    - a stand for bows;
+    - a den or cave.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)儀]]
     ==
     - Usages of mankind;
