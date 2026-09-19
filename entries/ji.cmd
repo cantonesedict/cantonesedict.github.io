@@ -274,6 +274,19 @@ $$
 $$
 W
   ====
+  - [[Page~105 (2)綺]]
+    ==
+    - An open, variegated kind of silk, called _(2)(i/) (4)lo_ [[ji2 lo4]];
+    - it is a kind of law or open silk, used for summer dresses.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)儀]]
     ==
     - Usages of mankind;
