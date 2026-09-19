@@ -142,6 +142,29 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)嫌]]
+    ==
+    - To dislike, to hold in contempt, to think meanly of;
+    - to lothe, to despise;
+    - prejudiced, suspicious, fastidious, jealous of;
+    - _(4)(i/)m (2)shi(u/)_
+        [[jim4 siu2]],
+        to disdain as little;
+    - _(5)n(i/) (4)'m (4)(i/)m_
+        [[nei5 m4 jim4]],
+        don't weary of;
+    - _(2)si(u/) (4)(i/)m_
+        [[siu2 jim4]],
+        petty dislikes, querulous.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)鹽(4){𥂁=⿱⿰土⿱𠂉口皿}]]
     ==
     - Salt;
