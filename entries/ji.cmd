@@ -1043,6 +1043,25 @@ $$
 $$
 W
   ====
+  - [[Page~106 (5)矣]]
+    ==
+    - A final particle, denoting a plain statement,
+      that the sense is fully expressed;
+    - _(4)(i/) (5)(i/) (5)(i/)_
+        [[ji4 ji5 ji5]],
+        fully, enough;
+    - _(2)fau (5)(i/)_
+        [[fau2 ji5]],
+        certainly not.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (5)耳]]
     ==
     - An ear, the organ of hearing;
