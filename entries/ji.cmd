@@ -426,6 +426,20 @@ $$
 $$
 W
   ====
+  - [[Page~107 殪(3)]]
+    ==
+    - To kill, to put to death, to exterminate;
+    - to throw down, to prostrate;
+    - to overhang.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 瘞(3)]]
     ==
     - A retired, obscure place;
