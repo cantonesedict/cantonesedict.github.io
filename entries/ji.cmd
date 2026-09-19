@@ -237,6 +237,43 @@ $$
 $$
 W
   ====
+  - [[Page~105 (2)倚]]
+    ==
+    - To rely or lean on, to lean against, trusting in;
+    - to depend on, to engage one to do;
+    - inclined, leaning;
+    - a fulcrum, a support;
+    - _(2)(i/) l(a/)i(6)_ [[ji2 laai6]]
+        or
+      _(2)(i/) k(')(a/)u(3)_ [[ji2 kaau3]]
+        to depend on;
+    - _t(u:)n(6) (4)m(o\) (1)p(')(i/)n (2)(i/)_
+        [[dyun6 mou4 pin1 ji2]],
+        impartial, not the least unfairness;
+    - _(2)(i/) pang(6)_
+        [[ji2 bang6]]
+        a trust, a dependance;
+    - _(2)(i/) (5)m(a/) (2)ho toi(6)_
+        [[ji2 maa5 ho2 doi6]]
+        immediately (_lit._ waiting on horseback);
+    - _(2)(i/) t(')ok(8)_
+        [[ji2 tok3]]
+        to beg a favor of one, to engage one to do;
+    - _(2)(i/) (4)k(')am (4)(i/) (1)ko_
+        [[ji2 kam4 ji4 go1]],
+        to sing in unison with a lute;
+    - _(2)(i/) (4)ch(')(i/) mat(7) (5)y(e/)_
+        [[ji2 ci4 mat1 je5]],
+        what do you depend on for it?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)儀]]
     ==
     - Usages of mankind;
