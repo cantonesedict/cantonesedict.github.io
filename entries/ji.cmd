@@ -1104,6 +1104,31 @@ $$
 $$
 W
   ====
+  - [[Page~106 (5)譺]]
+    ==
+    - To deliberate, to consult, to discuss;
+    - doubt, hesitation;
+    - murmuring;
+    - used for the preceding [[擬]], to decide;
+    - _(5)(i/) sz'(6) (4)t(')ing_
+        [[ji5 si6 ting4]],
+        a senate-chamber, a council-hall;
+        the Senate-house at Macao is so called;
+    - _m(i/)n(6) (5)(i/)_
+        [[min6 ji5]]
+        to confer with one;
+    - _(1)kung (5)(i/)_
+        [[gung1 ji5]],
+        a public discussion.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (5)邇]]
     ==
     - Near, next to, at hand;
