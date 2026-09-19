@@ -267,6 +267,26 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)髯]]
+    ==
+    - The whiskers;
+    - the hair on the cheeks near the ears;
+    - _(5)m(i/) (4)(i/)m (1)kung_
+        [[mei5 jim4 gung1]],
+        the lord of the handsome whiskers,
+        _i.~e._ Kw(a/)nt(i/) [[關帝]];
+    - _(4)k(')au (4)(i/)m_
+        [[kau4 jim4]],
+        curly whiskers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)鹽(4){𥂁=⿱⿰土⿱𠂉口皿}]]
     ==
     - Salt;
