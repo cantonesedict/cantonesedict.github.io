@@ -1476,6 +1476,35 @@ $$
 $$
 W
   ====
+  - [[Page~107 易(6)]]
+    ==
+    - Easy, simple, plain, not hard to do;
+    - negligent, remiss, disrespectful;
+    - to extirpate weeds, to dress a field;
+    - _(4)yung (i/)(6)_
+        [[jung4 ji6]]
+        easy to do;
+    - _(i/)(6) t(')(u:)t(8) (2)shau_
+        [[ji6 tyut3 sau2]],
+        easy to rid out of hand (as goods);
+    - _(i/)(6) (4)m(a/)i (2)shau_
+        [[ji6 maai4 sau2]]
+        can be done quickly;
+    - _(i/)(6) (4)wai lik(9)_
+        [[ji6 wai4 lik6]]
+        not hard to do, he will do it with help;
+    - _(i/)(6) (1)(u:) p(i/)n(3)_
+        [[ji6 jyu1 bin3]]
+        changeable in sentiment.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~107 樲(6)]]
     ==
     - A species of wild jujube or date-plum;
