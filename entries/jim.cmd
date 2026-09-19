@@ -212,6 +212,29 @@ $$
 $$
 W
   ====
+  - [[Page~109 (2)靨]]
+    ==
+    - A scab, the sloughing of a wound;
+    - spots or pimples on the face;
+    - _tau(6) (2)(i/)m_
+        [[dau6 jim2]],
+        the vaccine scab.
+    ==
+    --
+    Read _(i/)p(8)_ [[jip3]]``;``
+    --
+    ==
+    - handsome;
+    - the cheeks.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (2)魘]]
     ==
     - Troubled in sleep, disturbed by dreams,
