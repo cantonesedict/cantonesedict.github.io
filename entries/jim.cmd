@@ -165,6 +165,30 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)簷(4)檐]]
+    ==
+    - The eaves, or projecting part of a roof,
+      vulgarly called _uk(7) (4)yam_ [[uk1 jam4]],
+      and _(4)yam (2)hau_ [[jam4 hau2]];
+    - the plate which supports the roof;
+    - _(1)f(i/) (4)(i/)m_
+        [[fei1 jim4]],
+        the turned-up cornices of a hipped roof;
+    - _(4)(i/)m h(a/)(6)_
+        [[jim4 haa6]]
+        under the eaves, in low life;
+    - _mok(9) (5)k(')(i/) (4)(i/)m (2)hau_
+        [[mok6 kei5 jim4 hau2]],
+        don't stand under the eaves.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)鹽(4){𥂁=⿱⿰土⿱𠂉口皿}]]
     ==
     - Salt;
