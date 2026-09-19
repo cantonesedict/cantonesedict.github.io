@@ -129,6 +129,21 @@ $$
 $$
 W
   ====
+  - [[Page~109 (2)埯]]
+    ==
+    - To cover anything with dirt;
+    - _(2)(i/)m (4)m(a/)i_
+        [[jim2 maai4]],
+        to bury in the ground.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (2)弇]]
     ==
     - To cover over, to shade, to hide (as an occultation does);
