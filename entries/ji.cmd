@@ -1007,6 +1007,29 @@ $$
 $$
 W
   ====
+  - [[Page~107 誼(6) _(I/)(6)_ (ji6); here normalised to _(4)(I/)_ (ji4)]]
+    ==
+    - Right, proper, used for the last [[義]]; <# TODO: ($誼ji6) #>
+    - friendly, acquainted;
+    - adopted;
+    - _(1)ch(i/) (4)l(a/)n (1)ch(i/) (i/)(6)_
+        [[zi1 laan4 zi1 ji6]]
+        friends adopted as brothers;
+    - _(4)n(i/)n ~~(i/)(6)~~ ``(4)(i/)``_
+        [[nin4 ji4]]
+        of the same age or graduation;
+    - _ts(')ik(7) ~~(i/)(6)~~ ``(4)(i/)``_
+        [[cik1 ji4]]
+        relatives of different surnames.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)貤]]
     ==
     - A gradation, rising one above another,
