@@ -227,6 +227,47 @@ $$
 
 <##
 $$
+W
+  ======
+  - [[Page~111 (4)然]]
+    ====
+    - To simmer, to burn;
+    - to assent, to reply to;
+    - a final particle, yes, certainly, so, truly;
+    - used as the sign of an adverb,
+      ==
+      - _~~tsut(7)~~ ``ts(')(u:)t(8)`` (4)(i/)n_
+        [[cyut3 jin4]],
+        suddenly;
+      ==
+    - also adds force to;
+      ==
+      - as _m(i/)(6) p(i/)t(7) (4)(i/)n_ [[mei6 bit1 jin4]],
+        uncertain, probably not;
+      ==
+    - a disjunctive particle, but, then, if so, not so;
+    - _tsz'(6) (4)(i/)n (4)(i/) (4)(i/)n_
+        [[zi6 jin4 ji4 jin4]],
+        spontaneously and yet truly;
+    - _(4)(i/)n hau(6)_
+        [[jin4 hau6]]
+        afterwards;
+    - _(2)kwo (4)(i/)n_
+        [[gwo2 jin4]],
+        truly, a kind of chimpanze;
+    - _yik(9) (4)(i/)n_
+        [[jik6 jin4]],
+        thus, in like manner;
+    - _(4)(i/)n (5)y(a/)_
+        [[jin4 jaa5]],
+        just so.
+    ====
+  ======
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)

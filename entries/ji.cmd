@@ -1305,7 +1305,7 @@ W
     - flourishing;
     - a final particle, interchangeable with the preceding [[耳]],
       denoting that the subject is not of much consequence;
-    - also forms adverbs, as _tsut(7) (5)(i/)_ [[zeot1 ji5]], suddenly;
+    - also forms adverbs, as _~~tsut(7)~~ ``ts(')(u:)t(8)`` (5)(i/)_ [[cyut3 ji5]], suddenly;
     - _(5)(i/) (5)ngo (4)t(')ung (1)sam_
         [[ji5 ngo5 tung4 sam1]],
         we are of the same mind;
