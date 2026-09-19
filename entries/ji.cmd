@@ -1403,3 +1403,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~107 二(6)弍(6)貳(6)]]
+    ==
+    - Two;
+    - to divide in twain, to bisect;
+    - to help, to second;
+    - to reiterate;
+    - to suspect;
+    - _tai(6) (i/)(6)_
+        [[dai6 ji6]]
+        the second;
+    - _(i/)(6) shap(9)_
+        [[ji6 sap6]]
+        twenty;
+    - (4)m(o\) (i/)(6) (1)sam_
+        [[mou4 ji6 sam1]],
+        not doubleminded, faithful, sincere;
+    - _(i/)(6) ts(')z'(3)_
+        [[ji6 ci3]]
+        twice.
+    ==
+    --
+    The two last forms [[弍, 貳]] are chiefly used in bills and accounts.
+    --
+  ====
+$$
+##>
