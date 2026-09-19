@@ -71,3 +71,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~108 (1)渰 _(1)(I/)m_ (jim1); here normalised to _(2)(I/)m_ (jim2)]]
+    ==
+    - Clouds rising and spreading;
+    - to soak, to make to vegetate, as the rain does.
+    ==
+  ====
+$$
+##>
