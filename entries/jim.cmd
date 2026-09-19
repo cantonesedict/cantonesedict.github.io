@@ -238,6 +238,21 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)釅]]
+    ==
+    - Sour, sharp, as vinegar or spirits highly rectified;
+    - _lok(9) (4)(i/)m ts(')(o\)(3)_
+        [[lok6 jim4 cou3]]
+        put in some sharp vinegar---be very strict with him.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)鹽(4){𥂁=⿱⿰土⿱𠂉口皿}]]
     ==
     - Salt;
