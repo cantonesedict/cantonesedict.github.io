@@ -47,6 +47,20 @@ $$
 $$
 W
   ====
+  - [[Page~108 (1)崦]]
+    ==
+    - The name of a mountain in the West,
+      called _(1)(i/)m (2)tsz'_ [[jim1 zi2]],
+      fabled to contain the cave where the sun went at night.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (1)淹]]
     ==
     - To soak, to saturate;
