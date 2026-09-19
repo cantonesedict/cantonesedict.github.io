@@ -24,6 +24,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+W
+  ====
+  - [[Page~110 (1)嫣]]
+    ==
+    - Handsome, beautiful;
+    - a gracious smile;
+    - the smile of beauty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear as either ⿰火⿱西土 (assumed here) or ⿰火⿱覀土,
   depending on the font.
