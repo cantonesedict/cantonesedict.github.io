@@ -358,6 +358,22 @@ $$
 $$
 W
   ====
+  - [[Page~106 薏(3)]]
+    ==
+    - The seeds of the nelumbium;
+    - _(5)(i/) (i/)(3) (4)yan_
+        [[ji5 ji3 jan4]],
+        pearl-barley;
+    - same as the last [[苡]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)儀]]
     ==
     - Usages of mankind;
