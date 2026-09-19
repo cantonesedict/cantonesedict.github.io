@@ -498,6 +498,23 @@ $$
 $$
 W
   ====
+  - [[Page~109 (5)冉]]
+    ==
+    - To advance;
+    - gradually;
+    - weak, feeble;
+    - _(5)(I/)m (5)Yau_
+        [[jim5 jau5]],
+        a disciple of Confucius.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (5)染]]
     ==
     - To dye, to tinge;
