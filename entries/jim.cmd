@@ -225,6 +225,18 @@ $$
 $$
 W
   ====
+  - [[Page~109 (2)黶]]
+    ==
+    - Black pimples in the face or on the body, hair moles.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 厭(3)]]
     ==
     - To dislike, to disapprove, to reject;
