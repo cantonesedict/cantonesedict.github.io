@@ -658,6 +658,25 @@ $$
 $$
 W
   ====
+  - [[Page~110 {𦦨=⿰舀炎}(6); here normalised to 焰]]
+    ==
+    - Flame, blaze;
+    - brilliant, drawing the eyes of men;
+    - _chuk(7) (2)t(')(o\) (i/)m(6)_
+        [[zuk1 tou2 jim6]]
+        the candle flames.
+    ==
+    --
+    Same as 炎 _(4)(i/)m_ [[jim4]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~110 艷(6); here normalised to 豔]]
     ==
     - Beautiful, tall, handsome, captivating;
