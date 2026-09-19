@@ -653,3 +653,42 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~110 驗(6)騐(6)]]
+    ==
+    - To verify, to examine officially for purposes of verification;
+    - to witness before officers, to testify;
+    - proven or tried by one's experience;
+    - proof, evidence, testimony;
+    - _(i/)m(6) (1)sh(i/)_
+        [[jim6 si1]],
+        a coroner's inquest;
+    - _(i/)m(6) fo(3)_
+        [[jim6 fo3]]
+        to examine goods [for the duty];
+    - _(i/)m(6) mung(6)_
+        [[jim6 mung6]],
+        to fulfill a dream;
+    - _(2)h(a/)u (i/)m(6) (4)ming p(a/)k(9)_
+        [[haau2 jim6 ming4 baak6]]
+        to examine into fully;
+    - _(1)ying (i/)m(6) (5)li(u/)_
+        [[jing1 jim6 liu5]],
+        the thing was true, the proofs are complete;
+    - _(i/)m(6) hon(3)_
+        [[jim6 hon3]]
+        to be examined at the f(u/)yuen [[府院]]'s office;
+    - _(i/)m(6) (4)ming (1)kan (2)l(e/)ung_
+        [[jim6 ming4 gan1 loeng2]],
+        'look sharp after the catties and taels'---a shop notice;
+    - _(i/)m(6) (1)tsong_
+        [[jim6 zong1]],
+        to identify stolen goods.
+    ==
+  ====
+$$
+##>
