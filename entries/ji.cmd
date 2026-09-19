@@ -987,6 +987,54 @@ $$
 $$
 W
   ====
+  - [[Page~106 (5)以]]
+    ==
+    - By, with;
+    - in order to, that which;
+    - for, that, to the end that;
+    - the cause by which, using, taking;
+    - and;
+    - next, at, according to;
+    - a reason or cause;
+    - preceded by _(2)sho_ [[so2]],
+      means therefore, wherein, that by which, thereby;
+    - succeeded by _(4)wai_ [[wai4]],
+      means deeming, to consider, by it make;
+    - preceded by _(4)ho_ [[ho4]],
+      means how could;
+    - _(5)(i/)_ [[ji5]] is often merely a sign of the accusative,
+      from, to, in, as
+        _(5)(i/) (4)yan (4)ts(')(u:)n (1)sam_
+        [[ji5 jan4 cyun4 sam1]],
+        he cherishes humanity in his heart;
+    - _(5)(i/) chik(9) (4)wai ~~huk(7)~~ ``k(')uk(7)``_
+        [[ji5 zik6 wai4 kuk1]]
+        to bend the straight;
+    - occasionally used like the last [[已]];
+    - _(4)m(o\) (5)(i/)_
+        [[mou4 ji5]],
+        not cease, no more, nothing;
+    - _(5)yau (2)ch(i/) (5)(i/)_
+        [[jau5 zi2 ji5]],
+        probable;
+    - _sh(i/)(6) (5)(i/)_
+        [[si6 ji5]],
+        hence;
+    - _(5)(i/) (2)k(u/)n (1)kw(')ai (1)t(')(i/)n_
+        [[ji5 gun2 kwai1 tin1]],
+        to look at the sky through a tube;
+    - _tsz'(6) (5)(i/) (4)wai sh(i/)(6)_
+        [[zi6 ji5 wai4 si6]]
+        I must have it so, I'll do it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 (5)已]]
     ==
     - At the beginning of a sentence,
