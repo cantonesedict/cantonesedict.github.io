@@ -67,6 +67,16 @@ W
         [[ji1 sat6 syut3]]
         undoubted, can be believed.
     ==
+  - [[Page~717 (1)依]]
+    --
+    A colloquial word.
+    --
+    ==
+    - Well, just;
+    - _(1)(i/) (1)l(a/)_
+        [[ji1 laa1]],
+        well then, supposing, if he likes.
+    ==
   ====
 $$
 ##>
