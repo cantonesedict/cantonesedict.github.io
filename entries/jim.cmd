@@ -137,3 +137,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~108 (4)鹽(4){𥂁=⿱⿰土⿱𠂉口皿}]]
+    ==
+    - Salt;
+    - to salt;
+    - _~~p(a/)k(8)~~ ``p(a/)k(9)`` (4)(i/)m_
+        [[baak6 jim4]],
+        white salt;
+    - _(4)(i/)m (4)t(')(i/)n_
+        [[jim4 tin4]],
+        salt-yards;
+    - _(4)(i/)m wan(6) (1)sz'_
+        [[jim4 wan6 si1]],
+        the salt commissioner;
+    - _sh(a/)i(3) (4)(i/)m_
+        [[saai3 jim4]],
+        to evaporate salt water``;``
+    - _(4)(i/)m (1)(a/)ng ch(')ut(7) (1)ts(')(u:)_
+        [[jim4 aang1 ceot1 ceoi1]],
+        the salt-jar has produced worms!
+        said of bad sons.
+    ==
+  ====
+$$
+##>
