@@ -318,6 +318,19 @@ $$
 $$
 W
   ====
+  - [[Page~105 (2)輢]]
+    ==
+    - Sides of a chariot;
+    - the place in a car where spears are placed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (2)錡]]
     ==
     - A three-legged iron frying-pan or griddle; <# TODO: $錡kei4 #>
