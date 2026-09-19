@@ -88,6 +88,28 @@ $$
 $$
 W
   ====
+  - [[Page~110 (1)胭]]
+    ==
+    - The throat;
+    - a cosmetic;
+    - _(1)(i/)n (4)hau_
+        [[jin1 hau4]],
+        the throat, a gorge, an important pass;
+    - _(1)(i/)n (1)ch(i/)_
+        [[jin1 zi1]],
+        rouge;
+    - _(1)(i/)n (1)ch(i/) (1)f(a/)_
+        [[jin1 zi1 faa1]],
+        the _Mirabilis jalapa_.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
