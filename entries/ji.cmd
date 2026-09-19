@@ -274,6 +274,19 @@ $$
 $$
 W
   ====
+  - [[Page~105 (2)扆]]
+    ==
+    - A silken screen used by the ancient emperors in the audience-chamber;
+    - it was ornamented with ax-heads.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (2)椅]]
     ==
     - A kind of hard wood, fit for cabinet work;
