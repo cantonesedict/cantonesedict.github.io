@@ -297,6 +297,26 @@ $$
 $$
 W
   ====
+  - [[Page~109 饜(3)]]
+    ==
+    - Eaten to repletion;
+    - satiated;
+    - lothing, distasteful;
+    - _(i/)m(3) (2)p(a/)u_
+        [[jim3 baau2]],
+        eaten to satiety;
+    - _(4)m(o\) (i/)m(3)_
+        [[mou4 jim3]]
+        unsatisfied, covetous.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)嚴]]
     ==
     - Severe, stern, strict, rigid;
