@@ -819,6 +819,21 @@ $$
 $$
 W
   ====
+  - [[Page~717 (4)椸]]
+    ==
+    - A clothes-horse;
+    - _(1)(i/) (4)(i/)_
+        [[ji1 ji4]],
+        a rack for clothes, which the sexes must not use together.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)沂]]
     ==
     - Name of a river in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]],
