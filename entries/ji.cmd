@@ -982,3 +982,64 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~105 (5)耳]]
+    ==
+    - An ear, the organ of hearing;
+    - ``the 128th``~radical [[U+2F7F ⽿ "ear"]]
+      of what relates to the ear and hearing;
+    - to perceive;
+    - a handle, an ear;
+    - a final particle, usually denoting merely the end of the sense,
+      but sometimes as an intensitive;
+    - _(5)(i/) (1)lung_ [[ji5 lung1]],
+        or
+      _(5)(i/) fat(7)_ [[ji5 fat1]]
+        the ear;
+    - _(5)(i/) (2)to kan(6)_
+        [[ji5 do2 gan6]]
+        others will soon hear it;
+    - _(5)(i/) (1)nung_
+        [[ji5 nung1]],
+        black ears, thought to come from bad luck;
+    - _(1)hong (5)(i/)_
+        [[hong1 ji5]],
+        dry ears;
+    - _(5)(i/) w(a/)t(8)_
+        [[ji5 waat3-2]]
+        an ear-pick;
+    - _(5)(i/) (4)w(a/)n_
+        [[ji5 waan4-2]],
+        ear-rings;
+    - _(5)(i/) (5)(i/)_
+        [[ji5 ji5]],
+        obsequious;
+    - _(5)(i/) (1)s(u:)n_
+        [[ji5 syun1]],
+        a gr.-grandson's grandson;
+    - _shun(6) (1)fung (5)(i/)_
+        [[seon6 fung1 ji5]],
+        quick of hearing;
+    - _(5)(i/) (5)p(')(u/)i_
+        [[ji5 pui5]],
+        hard of hearing;
+    - _(5)(i/) (4)lung_
+        [[ji5 lung4]],
+        deaf;
+    - _m(i/)t(7) (5)(i/) (2)tsai_
+        [[mit1 ji5 zai2]],
+        to pull off your ears;
+    - _(2)(i/)m (5)(i/) t(o\)(6) (4)ling_
+        [[jim2 ji5 dou6 ling4]],
+        to cover the ears and steal a bell, to delude;
+    - _(5)(i/) (2)to (5)(u:)n kwo(3) mat(7)_
+        [[ji5 do2 jyun5 gwo3 mat1]]
+        'very soft ears,' excessively credulous.
+    ==
+  ====
+$$
+##>
