@@ -212,6 +212,19 @@ $$
 $$
 W
   ====
+  - [[Page~109 (2)魘]]
+    ==
+    - Troubled in sleep, disturbed by dreams,
+      starting in sleep from the nightmare.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 厭(3)]]
     ==
     - To dislike, to disapprove, to reject;
