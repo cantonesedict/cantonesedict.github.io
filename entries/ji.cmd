@@ -1072,3 +1072,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~105 (5)邇]]
+    ==
+    - Near, next to, at hand;
+    - approaching, both in time and place;
+    - to reach, to come towards, to approach;
+    - _mat(9) (5)(i/)_
+        [[mat6 ji5]],
+        friendly, sociable;
+    - _(5)(i/) (4)loi_
+        [[ji5 loi4]],
+        [time] nearly completed.
+    ==
+  ====
+$$
+##>
