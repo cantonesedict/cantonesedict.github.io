@@ -548,3 +548,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~109 (5)苒]]
+    ==
+    - Luxuriant, tender herbage;
+    - by turns, gradually, alternately;
+    - _(5)yam (5)``(i/)``m_
+        [[jam5 jim5 荏苒]],
+        going and coming, like day and night.
+    ==
+  ====
+C
+  ==
+  - Williams' 荏苒: Inferred incompletely printed letter _(i/)_ in _(5)(i/)m_.
+  ==
+$$
+##>
