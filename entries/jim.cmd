@@ -658,6 +658,31 @@ $$
 $$
 W
   ====
+  - [[Page~110 艷(6); here normalised to 豔]]
+    ==
+    - Beautiful, tall, handsome, captivating;
+    - plump face;
+    - brilliant;
+    - bedizened;
+    - voluptuous, wanton, dissipated---_applied to women;_
+    - _(1)ki(u/) (i/)m(6)_
+        [[giu1 jim6]]
+        gay, beautiful, brilliant, as flowers, colors, a face;
+    - _(4)yung (i/)m(6)_
+        [[jung4 jim6]]
+        abundant and gay;
+    - _(i/)m(6) shik(7) tung(6) (4)yan_
+        [[jim6 sik1 dung6 jan4]],
+        beauty excites men.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~110 驗(6)騐(6)]]
     ==
     - To verify, to examine officially for purposes of verification;
