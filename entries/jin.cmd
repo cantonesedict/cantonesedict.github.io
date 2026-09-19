@@ -124,6 +124,24 @@ $$
 $$
 W
   ====
+  - [[Page~110 (1)蔫]]
+    ==
+    - Corrupt, putrid, rotten, as vegetables or food;
+    - _(1)(i/)n ch(')au(3)_
+        [[jin1 cau3]]
+        stench of decaying flesh;
+    - _(1)(i/)n (4)(u:)_
+        [[jin1 jyu4]],
+        rotten fish.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
