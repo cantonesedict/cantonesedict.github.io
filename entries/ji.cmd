@@ -358,6 +358,57 @@ $$
 $$
 W
   ====
+  - [[Page~106 意(3)]]
+    ==
+    - The intention, will, purpose;
+    - thoughts, ideas;
+    - motive;
+    - inclination, sentiment, opinion;
+    - meaning of a word;
+    - _(i/)(3) m(i/)(6) (4)ch(')(e/)ung_
+        [[ji3 mei6 coeng4]],
+        an agreeable taste, delighted with;
+    - _(i/)(3) sz'(3)_
+        [[ji3 si3]]
+        the feelings, the intention;
+    - _(4)m(o\) (2)ch(u:) (i/)(3)_
+        [[mou4 zyu2 ji3]]
+        undetermined;
+    - _(4)'m (2)h(o\) (i/)(3) sz'(3)_
+        [[m4 hou2 ji3 si3]]
+        indecent, disreputable;
+        unwilling to refuse;
+    - _(5)yau mat(7) (i/)(3) sz'(3)_
+        [[jau5 mat1 ji3 si3]]
+        what does he say about it?
+    - _(4)m(o\) (i/)(3) (1)chung_
+        [[mou4 ji3 zung1]],
+        unintentional;
+    - _(4)'m kwo(3) tak(7) (i/)(3)_
+        [[m4 gwo3 dak1 ji3]]
+        greatly obliged for it;
+    - _tak(7) (i/)(3)_
+        [[dak1 ji3]]
+        gratified, got his wish,
+        an exclamation of delight often used in sport;
+    - _shing(3) (i/)(3)_
+        [[sing3 ji3]]
+        exceeded your wishes;
+    - _(i/)(3) pat(7)_
+        [[ji3 bat1]]
+        a rough sketch or picture;
+    - _(i/)(3) (i/)(3) sz'(3) sz'(3)_
+        [[ji3 ji3 si3 si3]]
+        undesirable, I prefer not.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 薏(3)]]
     ==
     - The seeds of the nelumbium;
