@@ -987,6 +987,35 @@ $$
 $$
 W
   ====
+  - [[Page~105 (5)爾(5)尔]]
+    ==
+    - You, thou;
+    - your;
+    - flourishing;
+    - a final particle, interchangeable with the preceding [[耳]],
+      denoting that the subject is not of much consequence;
+    - also forms adverbs, as _tsut(7) (5)(i/)_ [[zeot1 ji5]], suddenly;
+    - _(5)(i/) (5)ngo (4)t(')ung (1)sam_
+        [[ji5 ngo5 tung4 sam1]],
+        we are of the same mind;
+    - _(5)(i/) (2)tang_
+        [[ji5 dang2]],
+        ye, you;
+    - _(5)(i/) (5)(i/) (5)ngo (5)ngo_
+        [[ji5 ji5 ngo5 ngo5]],
+        uncertain, confused talk;
+    - _(5)n(a/)i (5)(i/)_
+        [[naai5 ji5]],
+        it is thus, so.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (5)耳]]
     ==
     - An ear, the organ of hearing;
