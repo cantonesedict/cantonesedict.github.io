@@ -225,6 +225,19 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)䉷]]
+    ==
+    - A breastwork for archers or spearmen to protect themselves;
+    - to fend off.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)鹽(4){𥂁=⿱⿰土⿱𠂉口皿}]]
     ==
     - Salt;
