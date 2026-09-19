@@ -38,6 +38,33 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~110 (1)焉]]
+    ==
+    - A speckled bird;
+    - as an initial particle, an interrogative,
+      meaning how, who, is, why, according to the scope;
+    - _(1)(i/)n (1)ch(i/)_
+        [[jin1 zi1]],
+        how should I know?
+    - _(1)(i/)n yung(6) sh(a/)t(8)_
+        [[jin1 jung6 saat3]]
+        why kill him?
+    - _(1)(i/)n tak(7) f(u/)(3) kwai(3)_
+        [[jin1 dak1 fu3 gwai3]]
+        how can I get rich?
+    - also denotes the subjunctive,
+      as _(1)(i/)n (4)k(')(i/) (4)ts(')ung (1)ch(i/)_
+        [[jin1 kei4 cung4 zi1]],
+        should he follow him.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear as either ⿰火⿱西土 (assumed here) or ⿰火⿱覀土,
   depending on the font.
