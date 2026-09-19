@@ -458,6 +458,20 @@ $$
 $$
 W
   ====
+  - [[Page~106 饐(3)]]
+    ==
+    - Cooked rice spoiled by mold;
+    - a sour, harsh taste;
+    - used for _(i/)t(8)_ [[jit3]], to choke.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~104 (4)儀]]
     ==
     - Usages of mankind;
