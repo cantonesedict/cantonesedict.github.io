@@ -1203,6 +1203,22 @@ $$
 $$
 W
   ====
+  - [[Page~106 (5)薿]]
+    ==
+    - Luxuriant, growing rank, flourishing veg``e``tation.
+    ==
+  ====
+C
+  ==
+  - Williams' explanation: Inferred barely printed letter "e" in "vegetation".
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 (5)譺]]
     ==
     - To deliberate, to consult, to discuss;
