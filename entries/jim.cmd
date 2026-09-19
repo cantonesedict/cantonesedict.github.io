@@ -498,6 +498,26 @@ $$
 $$
 W
   ====
+  - [[Page~109 (5)儼]]
+    ==
+    - Carrying the head high, of commanding presence;
+    - vain-glorious;
+    - same, as formerly;
+    - _(4)(u/)i hon(3) (1)fung (1)kam (5)(i/)m (4)(i/)n_
+        [[wui4 hon3 fung1 gam1 jim5 jin4]],
+        he came back to see, and the package of money was untouched;
+    - _(5)(i/)m (4)(i/)n yat(7) shik(7)_
+        [[jim5 jin4 jat1 sik1]]
+        just the same color.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (5)冉]]
     ==
     - To advance;
