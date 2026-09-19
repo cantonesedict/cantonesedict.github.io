@@ -1211,6 +1211,34 @@ $$
 $$
 W
   ====
+  - [[Page~717 (5)儗]]
+    --
+    Interchanged with 擬 _(5)(i/)_ [[ji5]].
+    --
+    ==
+    - To compare, to assort;
+    - doubtful, suspicious of each other.
+    ==
+    --
+    Read _hoi(6)_ [[hoi6]];
+    --
+    ==
+    - stupid, foolish.
+    ==
+    --
+    Read _(5)(i/)_ [[ji5]];
+    --
+    ==
+    - to usurp, to incroach.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 (5)已]]
     ==
     - At the beginning of a sentence,
