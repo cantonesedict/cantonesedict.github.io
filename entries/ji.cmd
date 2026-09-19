@@ -1573,3 +1573,20 @@ W
   ======
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~107 肄(6)]]
+    ==
+    - To accustom one's self, to practice, to be skilled in;
+    - to serve assiduously;
+    - sprouts of a stump;
+    - _(i/)(6) (i/)p(9)_
+        [[ji6 jip6]]
+        a resident graduate, one who lives in the college.
+    ==
+  ====
+$$
+##>
