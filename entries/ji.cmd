@@ -1496,6 +1496,24 @@ $$
 $$
 W
   ====
+  - [[Page~717 (5)迤]]
+    ==
+    - To go by the side of the road;
+    - _(5)(i/) (5)l(i/)_
+        [[ji5 lei5]],
+        walking, going;
+    - _(5)(i/) (4)n(a/)m_
+        [[ji5 naam4]],
+        going south.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (5)邇]]
     ==
     - Near, next to, at hand;
