@@ -225,4 +225,47 @@ W
 $$
 ##>
 
-<## TODO: 言 jin4-2 (vernacular rising-tone noun in Cantonese opera senses) ##>
+<##
+$$
+V
+  ==
+  - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
+  ==
+W
+  ====
+  - [[Page~111 (4)言]]
+    ==
+    - Words, speech, talk;
+    - a sentence;
+    - an expression;
+    - the ``149th``~radical [[U+2F94 ⾔ "speech"]] of characters relating to speech;
+    - to discourse, to speak, to say, to address;
+    - to express an opinion;
+    - to speak with;
+    - a high appearance;
+    - a word or order;
+    - _(4)(i/)n (5)(u:)_
+        [[jin4 jyu5]],
+        conversation;
+    - _(1)f(a/) (4)(i/)n_
+        [[faa1 jin4]],
+        exaggeration;
+    - _(4)yan (4)(i/)n_
+        [[jan4 jin4]],
+        arsenic;
+    - _shat(7) (4)(i/)n_
+        [[sat1 jin4]],
+        an error in speaking, slip of the tongue;
+    - _y(e/)uk(9) shek(9) (4)(i/)n_
+        [[joek6 sek6 jin4]],
+        exhortation;
+    - _(4)(i/)n (1)k(u/)n_
+        [[jin4 gun1]],
+        censors;
+    - _shik(9) (4)(i/)n_
+        [[sik6 jin4]],
+        to retract, to break a promise.
+    ==
+  ====
+$$
+##>
