@@ -1565,6 +1565,19 @@ $$
 $$
 W
   ====
+  - [[Page~717 劓(3) _(I/)(3)_ (ji3); here corrected to _(I/)(6)_ (ji6)]]
+    ==
+    - To cut off the nose as a punishment,
+      now quite disused if not illegal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~107 勩(6)]]
     ==
     - Labor, distress, toil;
