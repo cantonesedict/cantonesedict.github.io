@@ -61,6 +61,24 @@ $$
 $$
 W
   ====
+  - [[Page~108 (1)㤿]]
+    ==
+    - A mind exercised upon;
+    - _(1)(i/)m (1)ts(')(i/)m_
+        [[jim1 cim1]],
+        unsteady, loquacious;
+    - _(1)(i/)m (1)(i/)m (1)ts(')(i/)m (1)ts(')(i/)m_
+        [[jim1 jim1 cim1 cim1]],
+        restless, nervous, anxious.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (1)淹]]
     ==
     - To soak, to saturate;
