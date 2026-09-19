@@ -493,3 +493,41 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~109 (5)染]]
+    ==
+    - To dye, to tinge;
+    - to steep in a dye;
+    - to taint, to catch, to be infected;
+    - to pollute, to vitiate, to copy the bad practices of others;
+    - soft, flexible;
+    - _(5)(i/)m shik(7)_
+        [[jim5 sik1]]
+        to dye;
+    - _(2)t(i/)m (5)(i/)m_
+        [[dim2 jim5]],
+        to revise, to add to and finish up
+        (as a picture or composition);
+    - _(1)f(a/)n (5)(i/)m_
+        [[faan1 jim5]],
+        to re-dye;
+    - _~~ts(a/)p(8)~~ ``ts(a/)p(9)`` (5)(i/)m_
+        [[zaap6 jim5]],
+        to learn vicious habits;
+    - _(4)t(')(a/)n (5)(i/)m_
+        [[taan4 jim5]],
+        to dye by brushing;
+    - _(5)(i/)m t(i/)n(6) p(')(o\)(3)_
+        [[jim5 din6 pou3]]
+        a dyer's shop;
+    - _(5)(i/)m (1)(u/) ~~(4)meng~~ ``(4)ming``_
+        [[jim5 wu1 ming4]],
+        to get a bad name.
+    ==
+  ====
+$$
+##>
