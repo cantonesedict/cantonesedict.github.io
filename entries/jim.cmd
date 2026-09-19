@@ -531,6 +531,20 @@ $$
 $$
 W
   ====
+  - [[Page~109 (5)扊]]
+    ==
+    - The crossbar which shuts a gate inside,
+      called _(5)(i/)m (4)(i/)_ [[jim5 ji4]],
+      and commonly _(4)m(u/)n (1)sh(a/)n_ [[mun4 saan1]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (5)染]]
     ==
     - To dye, to tinge;
