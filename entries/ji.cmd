@@ -1476,6 +1476,35 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~107 異(6)]]
+    ==
+    - Separated, foreign, of another country, different, diverse;
+    - admirable, unusual;
+    - strange, rare, extraordinary, bizarre;
+    - perverse, heterodox;
+    - to marvel at, to regard as different or foreign;
+    - to oppose;
+    - _(i/)(6) ~~man(6)~~ ``(4)man``_
+        [[ji6 man4]]
+        strange news;
+    - _(i/)(6) ~~yat(7)~~ ``yat(9)``_
+        [[ji6 jat6]]
+        another day;
+    - _shai(3) pat(7) (i/)(6)_
+        [[sai3 bat1 ji6]]
+        will not be forced to change;
+    - _~~t(a/)i(3)~~ ``t(a/)i(6)`` (4)t(')ung (2)si(u/) (i/)(6)_
+        [[daai6 tung4 siu2 ji6]]
+        very much alike.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~107 義(6)]]
     ====
