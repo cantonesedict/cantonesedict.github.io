@@ -42,3 +42,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~108 (1)淹]]
+    ==
+    - To soak, to saturate;
+    - to overflow;
+    - to detain, to stay away;
+    - _(1)(i/)m (4)lau_
+        [[jim1 lau4]],
+        to tarry long;
+    - _(1)(i/)m k(u/)n(3)_
+        [[jim1 gun3]]
+        to permeate;
+    - _(1)(i/)m chai(6)_
+        [[jim1 zai6]]
+        dilatory;
+    - _(1)(i/)m m(u/)t(9)_
+        [[jim1 mut6]]
+        to spoil or drown in water;
+    - _(1)(i/)m m(u/)n(6)_
+        [[jim1 mun6]]
+        asphyxiated, half crazy, worried.
+    ==
+  ====
+$$
+##>
