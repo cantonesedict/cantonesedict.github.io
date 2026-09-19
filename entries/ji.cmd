@@ -987,6 +987,33 @@ $$
 $$
 W
   ====
+  - [[Page~105 (5)擬]]
+    ==
+    - Figure, form;
+    - like;
+    - to compare;
+    - to consider, to guess or conjecture;
+    - to decide after deliberation;
+    - to estimate;
+    - to intend, to purpose;
+    - _(5)(i/) tok(9)_
+        [[ji5 dok6]]
+        to think upon, to calculate;
+    - _(5)(i/) (1)kwan_
+        [[ji5 gwan1]],
+        to transport to the army;
+    - _(5)(i/) ts(u/)i(6)_
+        [[ji5 zeoi6]]
+        to judge crimes.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (5)爾(5)尔]]
     ==
     - You, thou;
