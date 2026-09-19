@@ -274,6 +274,37 @@ $$
 $$
 W
   ====
+  - [[Page~105 (2)椅]]
+    ==
+    - A kind of hard wood, fit for cabinet work;
+    - a chair, a couch;
+    - _yat(7) (1)ch(e/)ung (2)(i/)_
+        [[jat1 zoeng1 ji2]],
+        a chair;
+    - _(4)t(')oi (2)(i/)_
+        [[toi4 ji2]],
+        tables and chairs;
+    - _t(')(a/)i(3) (1)sz' (2)(i/)_
+        [[taai3 si1 ji2]],
+        a large state chair;
+    - _(1)h(u:)n (2)shau (2)(i/)_
+        [[hyun1 sau2 ji2]],
+        an arm-chair;
+    - _shui(6) (2)(i/)_
+        [[seoi6 ji2]],
+        a couch;
+    - _kw(a/)(3) (1)tang (2)(i/)_
+        [[gwaa3 dang1 ji2]],
+        a chair without arms.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (2)綺]]
     ==
     - An open, variegated kind of silk, called _(2)(i/) (4)lo_ [[ji2 lo4]];
