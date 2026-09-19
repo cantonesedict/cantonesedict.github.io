@@ -191,4 +191,38 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ======
+  - [[Page~110 (4)焉]]
+    ====
+    - As a final particle, an adverb of affirmation,
+      denoting that the sense is complete;
+      ==
+      - as _t(o\)(6) pat(7) (4)ch(')(u:)n (4)(i/)n_
+        [[dou6 bat1 cyun4 jin4]],
+        the truth is not taught;
+      ==
+    - used in correspondence with _(1)(u:)_ [[jyu1]],
+      ==
+      - as _(1)(u:) (1)t(')(i/)n (4)(i/)n_
+        [[jyu1 tin1 jin4]],
+        as it is in heaven;
+      ==
+    - forms adverbs,
+      ==
+      - as _ching(3) (4)(i/)n_
+        [[zing3 jin4]],
+        truly;
+      - _(2)shi(u/) (4)(i/)n_
+          [[siu2 jin4]],
+          presently;
+      ==
+    - an euphonic particle, adding force and emphasis to the previous word.
+    ====
+  ======
+$$
+##>
+
 <## TODO: 言 jin4-2 (vernacular rising-tone noun in Cantonese opera senses) ##>
