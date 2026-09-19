@@ -238,6 +238,20 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)蚺]]
+    ==
+    - A large serpent in Yunn(a/)n [[雲南]],
+      described as edible and scaleless, and with large teeth;
+    - a tribe of southern savages.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)釅]]
     ==
     - Sour, sharp, as vinegar or spirits highly rectified;
