@@ -1461,6 +1461,21 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~107 樲(6)]]
+    ==
+    - A species of wild jujube or date-plum;
+    - the seeds used for an anodyne,
+      under the name of _(1)s(u:)n (2)ts(o\) (4)yan_ [[syun1 zou2 jan4]],
+      are not from a Zizyphus.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~107 義(6)]]
     ====
