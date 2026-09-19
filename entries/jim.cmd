@@ -142,6 +142,42 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)嚴]]
+    ==
+    - Severe, stern, strict, rigid;
+    - reserved, cold, austere;
+    - majestic, solemn, dignified, reverential;
+    - inducing respect or awe;
+    - a night-watch or guard;
+    - epithet of a father;
+    - _(4)(i/)m (4)n(a/)_
+        [[jim4 naa4]],
+        strictly to seize;
+    - _(4)(i/)m suk(7)_
+        [[jim4 suk1]]
+        sternly dignified;
+    - _(4)(i/)m f(u/)(6)_ [[jim4 fu6]]
+        or
+      _(1)k(a/) (4)(i/)m_ [[gaa1 jim4]],
+        my father;
+    - _(5)l(o\) (1)sz' (4)(i/)m_
+        [[lou5 si1 jim4]],
+        the teacher is strict;
+    - _(4)(i/)m mat(9)_
+        [[jim4 mat6]]
+        extremely close or secret;
+    - _(1)ts(u:)n (4)(i/)m_
+        [[zyun1 jim4]],
+        your respected father.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)嫌]]
     ==
     - To dislike, to hold in contempt, to think meanly of;
