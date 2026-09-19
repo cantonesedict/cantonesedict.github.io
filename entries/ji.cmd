@@ -1439,6 +1439,38 @@ $$
 $$
 W
   ====
+  - [[Page~717 (5)議]]
+    ==
+    - To consult, to talk about in council, to decide on the best course;
+    - to arrange;
+    - to blame;
+    - to select;
+    - rules, laws;
+    - deliberation, consultation;
+    - _(1)kung (5)(i/)_
+        [[gung1 ji5]],
+        a public conference;
+    - _sh(u:)(3) (4)man pat(7) (5)(i/)_
+        [[syu3 man4 bat1 ji5]],
+        the people must not discuss [politics];
+    - _(5)(i/) lun(6)_
+        [[ji5 leon6]]
+        to deliberate upon;
+    - _m(i/)n(6) (5)(i/)_
+        [[min6 ji5]],
+        a personal consultation;
+    - _pok(8) (5)(i/)_
+        [[bok3 ji5]],
+        to refute, to call in question.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 (5)譺]]
     ==
     - To deliberate, to consult, to discuss;
