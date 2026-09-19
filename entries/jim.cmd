@@ -21,3 +21,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~107 (1)奄]]
+    ==
+    - To detain awhile;
+    - to cover, to conceal;
+    - a surplus, an excess;
+    - to remain over;
+    - suddenly, hastily;
+    - to enter into possession;
+    - _(1)(i/)m (5)yau sz'(3) (1)fong_
+        [[jim1 jau5 si3 fong1]],
+        he suddenly obtained the region;
+    - a place in Sh(a/)ntung [[山東]].
+    ==
+  ====
+$$
+##>
