@@ -553,6 +553,21 @@ $$
 $$
 W
   ====
+  - [[Page~109 (5)琰]]
+    ==
+    - A gem of great lustre, frequently set on the apex
+      of the tablets held by ministers at audiences;
+    - splendent;
+    - part of the name of H.~M. Ki(a/)king [[嘉慶]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (5)苒]]
     ==
     - Luxuriant, tender herbage;
