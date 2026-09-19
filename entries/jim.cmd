@@ -129,6 +129,24 @@ $$
 $$
 W
   ====
+  - [[Page~109 (2)弇]]
+    ==
+    - To cover over, to shade, to hide (as an occultation does);
+    - _(4)wan (2)(i/)m yat(9)_
+        [[wan4 jim2 jat6]]
+        the clouds screen the sun;
+    - to castrate;
+    - vases with small mouths and large bellies;
+    - a pass in mountains.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (2)掩]]
     ==
     - To screen or shade, to conceal from view;
