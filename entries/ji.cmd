@@ -987,6 +987,38 @@ $$
 $$
 W
   ====
+  - [[Page~106 (5)已]]
+    ==
+    - At the beginning of a sentence,
+      stopped, finished, just done, already, past;
+    - sign of the perfect;
+    - to terminate;
+    - to decline, to put away, to reject;
+    - as a final, excessive, no more;
+    - _(5)(i/) (1)king (2)kong_
+        [[ji5 ging1 gong2]],
+        done speaking;
+    - _(5)(i/) h(u:)(3)_
+        [[ji5 heoi3]]
+        gone off;
+    - _pat(7) tak(7) (5)(i/)_
+        [[bat1 dak1 ji5]]
+        obliged to do, inevitable;
+    - _(5)(i/) (1)king (2)k(o\)m_
+        [[ji5 ging1 gam2]],
+        I have made it so;
+    - _(5)(i/) hau(6)_
+        [[ji5 hau6]]
+        from this, hereafter.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~105 (5)擬]]
     ==
     - Figure, form;
