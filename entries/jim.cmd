@@ -76,6 +76,27 @@ $$
 $$
 W
   ====
+  - [[Page~108 (1)閹(1)剦]]
+    ==
+    - To castrate, to geld;
+    - _(1)(i/)m w(a/)n(6)_
+        [[jim1 waan6]]
+        an eunuch of the palace;
+    - _(1)(i/)m (1)ch(u:)_
+        [[jim1 zyu1]]
+        to cut a boar.
+    ==
+    --
+    The second [[剦]] is a local character.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (1)渰 _(1)(I/)m_ (jim1); here normalised to _(2)(I/)m_ (jim2)]]
     ==
     - Clouds rising and spreading;
