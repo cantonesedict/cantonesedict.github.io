@@ -515,6 +515,22 @@ $$
 $$
 W
   ====
+  - [[Page~109 (5)剡]]
+    ==
+    - Sharp, pointed;
+    - to sharpen;
+    - to cut in two or off;
+    - to rise up;
+    - light, brilliant.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~109 (5)染]]
     ==
     - To dye, to tinge;
