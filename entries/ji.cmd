@@ -1203,6 +1203,22 @@ $$
 $$
 W
   ====
+  - [[Page~106 (5)苡]]
+    ==
+    - The purslane _(Plantago);_
+    - _(5)(i/) (5)mai_ [[ji5 mai5]],
+        or
+      _(5)(i/) (5)(i/) (4)yan_ [[ji5 ji5 jan4]],
+        pearl-barley.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 (5)薿]]
     ==
     - Luxuriant, growing rank, flourishing veg``e``tation.
