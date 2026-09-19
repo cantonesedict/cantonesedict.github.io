@@ -409,6 +409,22 @@ $$
 $$
 W
   ====
+  - [[Page~106 瘞(3)]]
+    ==
+    - A retired, obscure place;
+    - to bury, to inter;
+    - to sacrifice to those who have been buried,
+      to streams, or to the moon;
+    - to hide.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 薏(3)]]
     ==
     - The seeds of the nelumbium;
