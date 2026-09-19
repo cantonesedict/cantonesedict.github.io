@@ -21,3 +21,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~108 (1)醃 _(1)(I/)m_ (jim1); here normalised to _(I/)p(8)_ (jip3)]]
+    ==
+    - To lay in salt;
+    - _~~(1)(i/)m~~ ``(i/)p(8)`` p(a/)k(9) (2)l(a/)m_
+        [[jip3 baak6 laam5-2]],
+        salted olives;
+    - _~~(1)(i/)m~~ ``(i/)p(8)`` (4)ts(')ong_
+        [[jip3 cong4]],
+        to lay down [flesh] in salt;
+    - _~~(1)(i/)m~~ ``(i/)p(8)`` (2)t(')(u/)i_
+        [[jip3 teoi2]],
+        smoked hams.
+    ==
+  ====
+$$
+##>
