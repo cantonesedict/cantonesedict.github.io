@@ -212,6 +212,43 @@ $$
 $$
 W
   ====
+  - [[Page~109 厭(3)]]
+    ==
+    - To dislike, to disapprove, to reject;
+    - to lothe;
+    - to sicken at, distasteful;
+    - satiated, filled;
+    - _p(a/)k(8) (i/)m(3)_
+        [[baak3 jim3]]
+        to be hated or avoided by all;
+    - _(4)'m (i/)m(3)_
+        [[m4 jim3]]
+        not lothesome (as food);
+    - _tak(7) (4)yan (i/)m(3)_
+        [[dak1 jan4 jim3]]
+        to get people's hate;
+    - _(i/)m(3) tsuk(7)_
+        [[jim3 zuk1]]
+        had enough of, tired of;
+    - _(1)tsang (i/)m(3)_
+        [[zang1 jim3]]
+        to hate, to distaste;
+    - _(i/)m(3) (4)f(a/)n_
+        [[jim3 faan4]],
+        to dislike to be troubled.
+    ==
+    ==
+    - Read _(2)(i/)m_ [[jim2]], to conceal;
+    - to get away from bustle into quiet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)嚴]]
     ==
     - Severe, stern, strict, rigid;
