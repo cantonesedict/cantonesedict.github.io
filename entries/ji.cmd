@@ -409,6 +409,23 @@ $$
 $$
 W
   ====
+  - [[Page~106 㦤(3); here normalised to 懿]]
+    ==
+    - Mild, virtuous, excellent;
+    - admirable, admired---_applied to women;_
+    - the virtuous one, _sc._ the Empress;
+    - _(i/)(3) (2)ch(i/)_
+        [[ji3 zi2]],
+        her Majesty's orders.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~106 瘞(3)]]
     ==
     - A retired, obscure place;
