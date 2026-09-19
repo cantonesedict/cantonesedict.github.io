@@ -1462,6 +1462,20 @@ $$
 $$
 W
   ====
+  - [[Page~107 勩(6)]]
+    ==
+    - Labor, distress, toil;
+    - afflictions, sufferings;
+    - to be weary, to endure, to labor in.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~107 樲(6)]]
     ==
     - A species of wild jujube or date-plum;
