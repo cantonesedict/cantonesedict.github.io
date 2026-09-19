@@ -1434,3 +1434,61 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ======
+  - [[Page~107 義(6)]]
+    ====
+    - Right, proper, suitable;
+    - righteousness, equity, uprightness, high moral feeling,
+      conformable to what the heart feels to be proper;
+    - common, free, public, by contribution or government appropriation,
+      as
+      ==
+      - _(i/)(6) (2)tseng_
+          [[ji6 zeng2]],
+          a public well;
+      - _(i/)(6) hok(9)_
+          [[ji6 hok6]]
+          a free school;
+      ==
+    - patriotic, in defense of principle or rights, public spirited,
+      as _(i/)(6) (1)ping_ [[ji6 bing1]], patriot volunteers;
+    - superior, surpassing, excellent, virtuous,
+      as
+      ==
+      - _(i/)(6) sz'(6)_
+          [[ji6 si6]]
+          an eminent scholar;
+      - _(i/)(6) (2)h(u:)n_
+          [[ji6 hyun2]],
+          a faithful dog;
+      ==
+    - adopted, putative, supplied in place of,
+      as _(i/)(6) f(u/)(6)_ [[ji6 fu6]] an adopted father;
+    - _(i/)(6) (2)kai_
+        [[ji6 gai2]],
+        a false headdress;
+    - made up, compounded;
+      ==
+      - as _(i/)(6) mak(9)_ [[ji6 mak6]] a composition ink;
+      ==
+    - meaning, signification;
+    - _(i/)(6) puk(9)_
+        [[ji6 buk6]]
+        a faithful servant;
+    - _(i/)(6) h(i/)(3)_
+        [[ji6 hei3]]
+        right principled, honorable;
+    - _(i/)(6) (1)sh(a/)n_
+        [[ji6 saan1]],
+        a public burying-ground;
+    - _(i/)(6) (1)chong_
+        [[ji6 zong1]],
+        a public depository for coffins.
+    ====
+  ======
+$$
+##>
