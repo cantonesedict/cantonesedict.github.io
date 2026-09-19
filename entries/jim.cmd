@@ -201,6 +201,33 @@ $$
 $$
 W
   ====
+  - [[Page~108 (4)炎]]
+    ==
+    - Fire blazing, flame;
+    - burning, hot;
+    - glorious, luminous;
+    - to burn;
+    - _(4)(i/)m (4)l(e/)ung ~~shai(6)~~ ``shai(3)`` k(a/)i(3)_
+        [[jim4 loeng4 sai3 gaai3]]
+        the inconstant world, fickle friends;
+    - _(4)(i/)m (i/)t(9)_
+        [[jim4 jit6]]
+        very hot [sun];
+    - _(2)fo (4)(i/)m (5)sh(e/)ung_
+        [[fo2 jim4 soeng5]],
+        the fire blazes up;
+    - _(4)(i/)m tai(3)_
+        [[jim4 dai3]]
+        the emperor Shinnung [[神農]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~108 (4)簷(4)檐]]
     ==
     - The eaves, or projecting part of a roof,
