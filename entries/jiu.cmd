@@ -24,6 +24,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+A
+  ==
+  - {䶸=⿰口么}
+  ==
+W
+  ====
+  - [[Page~115 (1){䶸=⿰口么}; here normalised to 吆]]
+    ==
+    - A word used mostly by women to quiet one;
+    - _(1)i(u/)!_ [[jiu1]]
+      _(1)i(u/) lok(8)!_ [[jiu1 lok3]]
+        be still!
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~115 (1)喓]]
