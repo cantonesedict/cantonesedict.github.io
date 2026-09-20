@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-08-20
+* %date-modified --> 2026-09-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -689,7 +689,7 @@ W
   ====
 C
   ==
-  - Williams' prints the headword on Page~70 with the last stroke of 鹵 missing; here corrected.
+  - Williams prints the headword on Page~70 with the last stroke of 鹵 missing; here corrected.
     (The character 鹹 appears correctly on Page~716 in the additional entry,
     and on Page~828 in the character index.)
   - Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎,
