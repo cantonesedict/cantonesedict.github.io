@@ -44,3 +44,40 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~114 {𤍠=⿱執灬}(9); here normalised to 熱]]
+    ==
+    - Hot;
+    - feverish;
+    - ardent, warm-hearted;
+    - to heat, to warm;
+    - _(4)(i/)m (i/)t(9)_
+        [[jim4 jit6]]
+        hot;
+    - _f(a/)t(8) (i/)t(9)_
+        [[faat3 jit6]]
+        feverish;
+    - _ai(3) (i/)t(9)_
+        [[ai3 jit6]]
+        boiling with rage;
+        very hot (as weather), close;
+    - _(i/)t(9) n(a/)u(6)_
+        [[jit6 naau6]]
+        the bustle of a crowd;
+    - _(i/)t(9) (4)(u:) tso(6) tsang(3)_
+        [[jit6 jyu4 zo6 zang3]]
+        hot as sitting in a still;
+    - _(1)t(')(i/)n (i/)t(9)_
+        [[tin1 jit6]]
+        hot weather;
+    - _(4)'ng (1)sam (4)f(a/)n (i/)t(9)_
+        [[ng4 sam1 faan4 jit6]]
+        feverish, nervous.
+    ==
+  ====
+$$
+##>
