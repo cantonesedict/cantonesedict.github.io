@@ -913,6 +913,26 @@ $$
 $$
 W
   ====
+  - [[Page~113 莧(6)]]
+    ==
+    - Edible species of spinach, Artemisia, and Chenopodium,
+      are termed _(i/)n(6) ts(')oi(3)_ [[jin6 coi3]],
+      distinguished by various adjectives;
+    - _(i/)n(6) ts(')oi(3)_
+        [[jin6 coi3]]
+        usually denotes spinach;
+    - _(2)k(a/) (i/)n(6) ts(')oi(3)_
+        [[gaa2 jin6 coi3]]
+        pigweed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
