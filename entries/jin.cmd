@@ -286,6 +286,19 @@ $$
 $$
 W
   ====
+  - [[Page~112 (2)鰋]]
+    ==
+    - A kind of silure or mudfish, with a white head,
+      which lies near the bottom.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~111 (4)埏]]
     ==
     - Limit or border of a patch of land;
