@@ -168,6 +168,20 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~111 (4)妍]]
+    ==
+    - Beautiful, elegant, pretty;
+    - witty, accomplished, skilled;
+    - the opposite of _~~(1)ch(i/)~~ ``(1)ch(')(i/)``_ [[ci1]] ~~{？=⿱山虫}~~``蚩.``
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~110 (4)焉]]
     ====
