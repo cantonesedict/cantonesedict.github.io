@@ -954,3 +954,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~113 鋧(6)]]
+    ==
+    - A small chissel;
+    - a sort of javelin;
+    - a hand staff.
+    ==
+  ====
+$$
+##>
