@@ -245,3 +245,23 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+H
+  May appear with right component as the cargo of 遙 (assumed here) or 遥,
+  depending on the font.
+W
+  ====
+  - [[Page~115 (4)猺]]
+    ==
+    - A kind of wild beast;
+    - _(4)I(u/) (4)yan_
+        [[jiu4 jan4]],
+        at tribe of Mi(a/)utsz' [[苗子]] mountaineers
+        in Lien chau [[連州]] and its vicinity,
+        supposed by the Cantonese to have tails.
+    ==
+  ====
+$$
+##>
