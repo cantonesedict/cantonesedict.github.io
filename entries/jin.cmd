@@ -339,6 +339,30 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~112 宴(3)讌(3)]]
+    ==
+    - Rest;
+    - a feast;
+    - merriment;
+    - used for the preceding [[燕]];
+    - _(4)k(')ing (4)lam (i/)n(3)_
+        [[king4 lam4 jin3]]
+        a feast given by the emperor to the _tsinsz'_ [[進士]] graduates;
+    - _(1)ying (4)y(e/)ung (i/)n(3)_
+        [[jing1 joeng4 jin3]]
+        a feast given to military _k(u:)jin_ [[舉人]] graduates;
+    - _luk(9) (4)ming (i/)n(3)_
+        [[luk6 ming4 jin3]]
+        the one to literary _k(u:)jin_ [[舉人]] graduates.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 A
   ==
   - 毽 (Cantonese for "shuttlecock" sense)
