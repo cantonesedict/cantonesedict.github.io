@@ -81,3 +81,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+  ⾃ + 4
+  ⽊ + 6
+W
+  ====
+  - [[Page~114 臬(9)]]
+    ==
+    - A target;
+    - a law, rule;
+    - the judge or ruler of a city;
+    - _(i/)t(9) (1)sz'_
+        [[jit6 si1]]
+        the provincial judge;
+        he is addressed as _(i/)t(9) (4)t(')oi_ [[jit6 toi4]].
+    ==
+  ====
+$$
+##>
