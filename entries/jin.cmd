@@ -946,6 +946,22 @@ $$
 $$
 W
   ====
+  - [[Page~113 諺(6)]]
+    ==
+    - A proverb, a common saying, tradition;
+    - a blunt speech;
+    - _(i/)n(6) (5)(u:)_
+        [[jin6 jyu5]],
+        a vulgar saying.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
