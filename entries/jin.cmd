@@ -252,6 +252,31 @@ $$
 
 <##
 $$
+V
+  ==
+  - jyun4 (common)
+  ==
+W
+  ====
+  - [[Page~111 (4)弦]]
+    ==
+    - The string of a bow;
+    - chord of an arc;
+    - the moon when she quarters, on the 8th and 23d~days;
+    - _sh(e/)ung(6) (4)(i/)n_
+        [[soeng6 jin4]],
+        the 8th or 9th~day of the moon;
+    - _~~h(a/)(3)~~ ``h(a/)(6)`` (4)(i/)n_
+        [[haa6 jin4]],
+        the 23d of the month;
+    - a corded pulse.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ======
   - [[Page~110 (4)焉]]
