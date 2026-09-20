@@ -192,6 +192,30 @@ $$
 $$
 W
   ====
+  - [[Page~112 (2)偃]]
+    ==
+    - To cease, to desist;
+    - to sleep, to lie down, to recline;
+    - to throw prostrate;
+    - to fall along;
+    - _(2)(i/)n (2)h(i/) ko(3) (1)hung_
+        [[jin2 hei2 go3 hung1]],
+        throw forward your chest;
+    - _(2)(i/)n sik(7) (5)h(a/)_
+        [[jin2 sik1 haa5]],
+        to lie down, take a nap;
+    - _(2)(i/)n (2)k(i/)n_
+        [[jin2 gin2]],
+        undecided, lost his wits.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~112 (2)兗]]
     ==
     - The department of (I/)nchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]].
