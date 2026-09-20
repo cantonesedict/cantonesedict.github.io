@@ -59,6 +59,47 @@ $$
 $$
 W
   ====
+  - [[Page~114 (1)腰]]
+    ==
+    - The loins, the waist, the lumbar region,
+      the body between the ribs and pelvis;
+    - the middle of a thing or act;
+    - _(5)m(o\) (1)i(u/) kwat(7)_
+        [[mou5 jiu1 gwat1]]
+        a poor stick, a witless fellow;
+    - _(2)t(')ai (1)i(u/) kwat(7)_
+        [[tai2 jiu1 gwat1]]
+        lookout for your backs!---a porter's cry;
+    - _(1)i(u/) kwat(7) (4)t(')au (4)han_
+        [[jiu1 gwat1 tau4 han4]],
+        your back itches (for me to whip you);
+    - _(1)i(u/) (1)p(a/)u_
+        [[jiu1 baau1]],
+        a fob;
+    - _(1)i(u/) (5)l(a/)m_
+        [[jiu1 laam5]],
+        to nurse or bring up;
+    - _(1)i(u/) t(a/)i(3)_
+        [[jiu1 daai3]]
+        a girdle;
+    - _p(u/)n(3) (1)chung (1)i(u/)_
+        [[bun3 zung1 jiu1]],
+        in the middle, half done;
+    - _(1)i(u/) kwat(7)_
+        [[jiu1 gwat1]]
+        the haunch-bone~~,~~``;``
+    - _(1)sh(u:) (1)i(u/)_
+        [[syu1 jiu1]],
+        the back of a book.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 (1)要]]
     ==
     - To adjust, to agree to;
