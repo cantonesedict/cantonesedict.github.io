@@ -804,6 +804,19 @@ $$
 $$
 W
   ====
+  - [[Page~113 晛(6) _(I/)n(6)_ (jin6); here normalised to _(5)(I/)n_ (jin5)]]
+    ==
+    - Clear light, cloudless sunlight;
+    - the clear sun in winter melting the snow.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~112 (2)睍 _(2)(I/)n_ (jin2); here normalised to _(5)(I/)n_ (jin5)]]
     ==
     - To see, to regard;
