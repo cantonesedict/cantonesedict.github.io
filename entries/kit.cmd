@@ -34,3 +34,33 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~114 謁(8) _(I/)t(8)_ (jit3); here normalised to _K(')(i/)t(8)_ (kit3)]]
+    ==
+    - To visit a superior or a gentleman;
+    - admitted to an audience;
+    - to signify to, to intimate;
+    - to state or declare, to inform by petition;
+    - a card;
+    - _~~(i/)t(8)~~ ``k(')(i/)t(8)`` k(i/)n(3)_
+        [[kit3 gin3]]
+        to see a superior;
+    - _~~(i/)t(8)~~ ``k(')(i/)t(8)`` sh(e/)(3)_
+        [[kit3 se3]],
+        a guest-chamber;
+    - _p(o\)(3) ~~(i/)t(8)~~ ``k(')(i/)t(8)``_
+        [[bou3 kit3]]
+        to announce a visitor.
+    ==
+  ====
+C
+  ==
+  - The common reading kit3 is spoken by 靚次伯 in the Cantonese opera 《紫釵記》
+    (specifically in the line 凡天下中式之士、先要拜謁太尉府堂、方准註選).
+  ==
+$$
+##>
