@@ -39,6 +39,22 @@ W
         [[jip3 teoi2]],
         smoked hams.
     ==
+  - [[Page~113 腌(8)]]
+    ==
+    - To salt flesh;
+    - _(2)p(i/) (4)(i/)m (i/)p(8) kwo(3) (5)k(')(u:)_
+        [[bei2 jim4 jip3 gwo3 keoi5]],
+        lay it down in salt;
+    - _(i/)p(8) (1)s(u:)n_
+        [[jip3 syun1]],
+        pickled in brine.
+    ==
   ====
+C
+  ==
+  - Williams prints the headword 腌 on Page~113 with two extra strokes
+    such that the top-right is similar to the top-half of 昚; here corrected.
+    (The character 腌 appears correctly on Page~798 in the character index.)
+  ==
 $$
 ##>
