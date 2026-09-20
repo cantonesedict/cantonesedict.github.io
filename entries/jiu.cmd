@@ -59,6 +59,24 @@ $$
 $$
 W
   ====
+  - [[Page~114 (1)要]]
+    ==
+    - To adjust, to agree to;
+    - to seek, to importune;
+    - to assemble together, to call one;
+    - to scrutinize, to examine into;
+    - _(1)i(u/) (4)k(')au_
+        [[jiu1 kau4]],
+        to seek for carefully.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 (1)妖 _(1)I(u/)_ (jiu1); here normalised to _(2)I(u/)_ (jiu2)]]
     ==
     - Beautiful, strange, bewitching;
