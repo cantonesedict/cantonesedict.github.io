@@ -441,6 +441,18 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~112 (4)舷]]
+    ==
+    - The side of a ship or boat, the gangway or bulwarks of a vessel.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
