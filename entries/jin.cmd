@@ -182,6 +182,37 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~111 (4)延]]
+    ==
+    - To go far;
+    - to protract, to lengthen out, to prolong;
+    - to involve;
+    - to invite, to call together;
+    - to enter or advance;
+    - spread out, arranged;
+    - slow, dilatory, long;
+    - distant, to spread far, or from one to another;
+    - _(4)(i/)n (4)ch(')(i/)_
+        [[jin4 ci4]],
+        slow;
+    - _(4)(i/)n (u/)n(6)_
+        [[jin4 wun6]]
+        dilatory,
+    - _(4)(i/)n (1)pan_
+        [[jin4 ban1]],
+        to invite guests;
+    - _(4)(i/)n k(')ap(9) (1)t(')(a/) ``(4)``yan_
+        [[jin4 kap6 taa1 jan4]],
+        to compromise another. ~~_(4)_~~
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~110 (4)焉]]
     ====
