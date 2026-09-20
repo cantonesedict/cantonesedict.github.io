@@ -192,6 +192,23 @@ $$
 $$
 W
   ====
+  - [[Page~111 (4)埏]]
+    ==
+    - Limit or border of a patch of land;
+    - a path to a grave;
+    - to ascend;
+    - _p(a/)t(8) (4)(i/)n_
+        [[baat3 jin4]],
+        the eight points of compass, all around.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~111 (4)妍]]
     ==
     - Beautiful, elegant, pretty;
