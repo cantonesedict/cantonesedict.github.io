@@ -847,7 +847,7 @@ $$
 $$
 V
   ==
-  - jin6-2 (...?)
+  - jin6-2 (vernacular rising-tone noun in 套現)
   ==
 W
   ====
