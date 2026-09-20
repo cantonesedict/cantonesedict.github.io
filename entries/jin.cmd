@@ -694,6 +694,18 @@ $$
 $$
 W
   ====
+  - [[Page~112 (2)巘 _(2)(I/)n_ (jin2); here normalised to _(5)(I/)n_ (jin5)]]
+    ==
+    - The summit or peak of a mountain, likened to a boiler or jar.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~112 (2)睍 _(2)(I/)n_ (jin2); here normalised to _(5)(I/)n_ (jin5)]]
     ==
     - To see, to regard;
