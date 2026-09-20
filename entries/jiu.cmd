@@ -253,6 +253,23 @@ H
   depending on the font.
 W
   ====
+  - [[Page~115 (4)愮]]
+    ==
+    - Sad, troubled, and without any one to disburthen to;
+    - depraved;
+    - tempted.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+H
+  May appear with right component as 謠 (assumed here) or 謡,
+  depending on the font.
+W
+  ====
   - [[Page~115 (4)猺]]
     ==
     - A kind of wild beast;
