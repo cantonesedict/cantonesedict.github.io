@@ -35,3 +35,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~114 (1)妖 _(1)I(u/)_ (jiu1); here normalised to _(2)I(u/)_ (jiu2)]]
+    ==
+    - Beautiful, strange, bewitching;
+    - ominous, unaccountable, supernatural, monstrous, _lusus naturæ_;
+    - heretical, magical, silly,
+      not conformable to the classical usage or doctrine,
+      a word much used by officers to stigmatize things and people;
+    - a phantom, sprite or transformed being;
+    - to blandish, to flatter, to enchant;
+    - _~~(1)i(u/)~~ ``(2)i(u/)`` kw(a/)i(3)_
+        [[jiu2 gwaai3]]
+        unnatural, ominous;
+    - _~~(1)i(u/)~~ ``(2)i(u/)`` ~~(i/)t(9)~~ ``(i/)p(9)``_
+        [[jiu2 jip6]]
+        monsters, prodigy, ominous of wo;
+    - _~~(1)i(u/)~~ ``(2)i(u/)`` (1)tsing_
+        [[jiu2 zing1]],
+        a metamorphosis;
+    - _~~(1)i(u/)~~ ``(2)i(u/)`` (1)sh(u:)_
+        [[jiu2 syu1]],
+        heretical hooks;
+    - _~~(1)i(u/)~~ ``(2)i(u/)`` (4)(i/)n_
+        [[jiu2 jin4]],
+        seducing talk, cozening.
+    ==
+  ====
+$$
+##>
