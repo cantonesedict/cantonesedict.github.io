@@ -772,6 +772,26 @@ $$
 $$
 W
   ====
+  - [[Page~113 俔(3) _(I/)n(3)_ (jin3); here normalised to _(5)(I/)n_ (jin5)]]
+    ==
+    - Like, to compare;
+    - to explore, to spy out;
+    - a weathercock;
+    - _(4)h(a/)n ~~(i/)n(3)~~ ``(5)(i/)n``_
+        [[haan4 jin5]],
+        a spy;
+    - _~~(i/)n(3)~~ ``(5)(i/)n`` (4)(u:) (4)wan_
+        [[jin5 jyu4 wan4]],
+        like the clouds.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~112 (2)巘 _(2)(I/)n_ (jin2); here normalised to _(5)(I/)n_ (jin5)]]
     ==
     - The summit or peak of a mountain, likened to a boiler or jar.
