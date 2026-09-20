@@ -723,6 +723,19 @@ $$
 $$
 W
   ====
+  - [[Page~112 (5)唁 _(5)(I/)n_ (jin5); here corrected to _(I/)n(6)_ (jin6)]]
+    ==
+    - To visit or condole with the bereaved, or those disgraced from rank;
+    - to mourn with one over the loss of country.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
