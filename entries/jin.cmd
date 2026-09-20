@@ -228,6 +228,19 @@ $$
 $$
 W
   ====
+  - [[Page~112 (2)堰]]
+    ==
+    - A dike or dam, to dike off water;
+    - to arrest or stop.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~112 (2)演]]
     ==
     - A stream flowing far;
