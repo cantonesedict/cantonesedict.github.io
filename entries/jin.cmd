@@ -190,6 +190,37 @@ $$
 
 <##
 $$
+V
+  ==
+  - hin2 (common)
+  - jin5 (per ...)
+  ==
+W
+  ====
+  - [[Page~112 (2)衍]]
+    ==
+    - To inundate, to overflow;
+    - to spread out, to enlarge, to amplify;
+    - abundant, much, far;
+    - elegant, beautiful;
+    - prolix, diffuse, turgid;
+    - plains at the base of hills;
+    - _(4)yau (2)(i/)n_
+        [[jau4 jin2]],
+        to ramble;
+    - _(1)sh(a/) (2)(i/)n_
+        [[saa1 jin2]],
+        a sand-spit;
+    - _(2)(i/)n shing(3) (1)kung_
+        [[jin2 sing3 gung1]],
+        Confucius' sepulchre.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~111 (4)埏]]
