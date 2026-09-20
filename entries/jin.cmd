@@ -894,6 +894,25 @@ $$
 $$
 W
   ====
+  - [[Page~113 硯(6)]]
+    ==
+    - An ink-stone, used by the Chinese;
+    - _(5)L(o\) (1)h(a/)ng mak(9) (i/)n(6)_
+        [[lou5 haang1 mak6 jin6]]
+        the best kind of ink-stone;
+    - _(i/)n(6) ~~(1)kang~~ ``(1)k(a/)ng``_ [[jin6 gaang1]],
+        or
+      _(i/)n(6) (4)t(')(i/)n_ [[jin6 tin4]],
+        to get a living by the pencil.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
