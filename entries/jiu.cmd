@@ -221,6 +221,22 @@ $$
 
 <##
 $$
+  ⼟ + 9
+  ⼉ + 10
+W
+  ====
+  - [[Page~115 (4)堯]]
+    ==
+    - Earth heaped up;
+    - eminent in worth;
+    - a famous sovereign who reigned B.C.~2357.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with right component as 謠 (assumed here) or 謡,
   depending on the font.
