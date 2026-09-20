@@ -328,6 +328,26 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~111 (4)筵]]
+    ==
+    - A bamboo mat spread out, a table spread smooth or arranged;
+    - _met._ a feast, an entertainment;
+    - _(4)(i/)n tsik(9)_
+        [[jin4 zik6]]
+        a banquet, a meal;
+    - _(1)king (4)(i/)n_
+        [[ging1 jin4]],
+        the hall where the emperor meets academicians;
+        the shrined oratory where priests recite prayers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
