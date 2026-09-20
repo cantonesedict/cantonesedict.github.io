@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~111 (1)咽]]
+    ==
+    - The throat, the esophagus;
+    - a straight or narrow passage;
+    - _(1)(i/)n (4)hau t(i/)(6) (1)fong_
+        [[jin1 hau4 dei6 fong1]],
+        an entrance to a river.
+    ==
+    --
+    Read _(i/)n(3)_ [[jin3]],
+    --
+    ==
+    - to swallow;
+    - to tolerate, to suffer.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~110 (1)嫣]]
     ==
     - Handsome, beautiful;
