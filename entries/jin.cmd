@@ -268,6 +268,25 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~111 (4)燃]]
+    ==
+    - To burn, to fire, to light;
+    - to boil, to simmer;
+    - _(4)(i/)n (4)m(i/) (1)ch(i/) kap(7)_
+        [[jin4 mei4 zi1 gap1]]
+        imminent danger, at extremity;
+    - _(4)(i/)n (1)shi(u/)_
+        [[jin4 siu1]],
+        to catch fire.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
