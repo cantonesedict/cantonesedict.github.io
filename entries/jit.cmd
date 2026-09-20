@@ -106,6 +106,22 @@ $$
 $$
 W
   ====
+  - [[Page~114 臲(9)]]
+    ==
+    - Dangerous;
+    - unquiet;
+    - _(i/)t(9) ngat(9)_
+        [[jit6 ngat6]]
+        uneasy, disturbed, moving about.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 闑(9)]]
     ==
     - The little side door in an entrance;
