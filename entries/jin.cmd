@@ -344,6 +344,35 @@ $$
 $$
 W
   ====
+  - [[Page~111 (4)賢]]
+    ==
+    - Virtuous, wise, moral, worthy;
+    - excellent, superior, in morals or in intellect;
+    - a term of laudation, as _(4)(i/)n (1)ts(')ai_ [[jin4 cai1]],
+      my faithful wife;
+    - to surpass;
+    - to praise or call a worthy;
+    - _(4)(i/)n tai(6)_
+        [[jin4 dai6]]
+        my good brother;
+    - _(1)h(e/)ung (4)(i/)n_
+        [[hoeng1 jin4]],
+        village worthy;
+    - _(4)(i/)n (4)ts(')oi_
+        [[jin4 coi4]],
+        good and talented, superior abilities;
+    - _(4)(i/)n (4)yan_
+        [[jin4 jan4]],
+        a virtuous, highminded man, a philosopher, a class of men next to sages.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
