@@ -265,6 +265,51 @@ $$
 
 <##
 $$
+A
+  ==
+  - 摇
+  ==
+W
+  ====
+  - [[Page~115 (4)搖]]
+    ==
+    - Moved, agitated, disturbed;
+    - to shake, to wag;
+    - to make;
+    - _(4)i(u/) (5)l(o\)_
+        [[jiu4 lou5]],
+        to work a scull;
+    - _(4)i(u/) tung(6)_
+        [[jiu4 dung6]]
+        to move, to disturb, either mentally or physically;
+    - _(4)f(u/) (4)i(u/)_
+        [[fu4 jiu4]],
+        a violent wind, to rise rapidly in office or rank;
+    - _(4)i(u/) yuk(7)_
+        [[jiu4 juk1]]
+        unsteady, not firm on its base;
+    - _(4)i(u/) (1)chung_
+        [[jiu4 zung1]],
+        to ring a bell;
+    - _(4)i(u/) (4)t(')au_
+        [[jiu4 tau4]]
+        to shake the head, to refuse;
+    - _(4)i(u/) (4)i(u/)_
+        [[jiu4 jiu4]],
+        disturbed, troubled;
+    - _(4)i(u/) (4)i(u/) yuk(7)_
+        [[jiu4 jiu4 juk1]]
+        not firm, unstable;
+    - _(4)i(u/) (4)i(u/) (2)p(a/)i (2)p(a/)i_
+        [[jiu4 jiu4 baai2 baai2]],
+        swaggering, proud.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with right component as 謠 (assumed here) or 謡,
   depending on the font.
