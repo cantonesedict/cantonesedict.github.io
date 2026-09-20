@@ -365,3 +365,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+  May appear with left component as the right component of 謠 (assumed here) or 謡,
+  depending on the font.
+W
+  ====
+  - [[Page~115 (4)颻]]
+    ==
+    - The wind shaking things, as a flag;
+    - fluttering, waving from the breeze.
+    ==
+  ====
+$$
+##>
