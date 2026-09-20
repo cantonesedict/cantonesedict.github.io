@@ -77,6 +77,35 @@ $$
 $$
 W
   ====
+  - [[Page~114 孽(9) _(I/)t(9)_ (jit6); here normalised to _(I/)p(9)_ (jip6)]]
+    ==
+    - The son of a concubine;
+    - an illegitimate child, the '_son_ of _guilt_,'
+      as the composition of the character shows;
+    - _met._ the consequences or reward of crime;
+    - sorrow;
+    - clear;
+    - _ts(u/)i(6) ~~(i/)t(9)~~ ``(i/)p(9)``_
+        [[zeoi6 jip6]]
+        retribution of sin;
+    - _tsz'(6) tsok(8) ~~(i/)t(9)~~ ``(i/)p(9)``_
+        [[zi6 zok3 jip6]]
+        evil of one's sins;
+    - _~~(i/)t(9)~~ ``(i/)p(9)`` ch(e/)ung(3)_
+        [[jip6 zoeng3]]
+        a retribution for undutiful acts by having wicked sons one's self;
+    - _~~(i/)t(9)~~ ``(i/)p(9)`` ~~(i/)t(9)~~ ``(i/)p(9)``_
+        [[jip6 jip6]]
+        adorned, neat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~113 業(9)]]
     ==
     - A beam to support a bell;
