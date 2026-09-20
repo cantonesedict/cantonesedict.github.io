@@ -339,6 +339,60 @@ $$
 
 <##
 $$
+A
+  ==
+  - 毽 (Cantonese for "shuttlecock" sense)
+  ==
+V
+  ==
+  - jin2 (per Fan Wan for "swallow" sense)
+  - jin3-2 (vernacular rising-tone noun for "shuttlecock" sense)
+  ==
+W
+  ====
+  - [[Page~112 (2)燕 _(2)(I/)n_ (jin2); here normalised to _(I/)n(3)_ (jin3)]]
+    ==
+    - A swallow or martin;
+    - a shuttlecock;
+    - _~~(2)(i/)n~~ ``(i/)n(3)`` (2)tsz'_
+        [[jin3 zi2]]
+        a swallow;
+    - _~~(2)(i/)n~~ ``(i/)n(3)`` (5)m(i/) (4)p(')(a/)i_
+        [[jin3 mei5 paai4]],
+        swallow-tailed bucklers;
+    - _~~(2)(i/)n~~ ``(i/)n(3)`` (1)wo_
+        [[jin3 wo1]],
+        edible birdsnests;
+    - _t(')ek(8) (2)(i/)n_
+        [[tek3 jin3-2]],
+        to kick a shuttlecock.
+    ==
+  - [[Page~112 燕(3)]]
+    ==
+    - A feast;
+    - to repose, to rest;
+    - peaceful, still, leisurely;
+    - to disgrace;
+    - _(2)yam (i/)n(3)_
+        [[jam2 jin3]]
+        to feast (by officers);
+    - _(i/)n(3) (1)k(u:)_
+        [[jin3 geoi1]]
+        to live at ease.
+    ==
+    --
+    Read _(1)(i/)n_ [[jin1]],
+    --
+    ==
+    - ancient name of a state, now the province of Chihl(i/) [[直隸]],
+      and still often applied to it and the metropolis.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~111 (4)埏]]
