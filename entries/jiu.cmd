@@ -21,3 +21,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~114 (1)夭]]
+    ==
+    - Pleasing, winning;
+    - delicate, flourishing vegetation;
+    - docile, gentle.
+    ==
+  ====
+$$
+##>
