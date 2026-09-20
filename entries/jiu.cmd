@@ -26,6 +26,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~115 (1)喓]]
+    ==
+    - The murmur of insects, a chirping of grasshoppers, &c.,
+      in the grass.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 (1)夭]]
     ==
     - Pleasing, winning;
