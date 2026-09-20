@@ -295,6 +295,34 @@ $$
 $$
 A
   ==
+  - 窰
+  ==
+W
+  ====
+  - [[Page~115 (4)窰; here normalised to 窯]]
+    ==
+    - A furnace or kiln for bricks or pottery;
+    - _(5)ng(a/) (4)i(u/)_
+        [[ngaa5 jiu4]],
+        a pottery-kiln;
+    - _(4)i(u/) (2)hau_
+        [[jiu4 hau2]],
+        a shop where opium is sold;
+    - _(2)t(a/) (4)i(u/)_
+        [[daa2 jiu4]],
+        to frequent a brothel;
+    - _ch(u:)(6) p(')o(3) (4)i(u/)_
+        [[zyu6 po3 jiu4]]
+        to live in old kilns, vagrant, beggarly.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+A
+  ==
   - 謡
   ==
 W
