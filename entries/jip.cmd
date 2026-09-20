@@ -146,6 +146,22 @@ $$
 $$
 W
   ====
+  - [[Page~114 蘖(9) _(I/)t(9)_ (jit6); here normalised to 櫱 _(I/)p(9)_ (jip6)]]
+    ==
+    - The stock of a tree;
+    - shoots from a stump;
+    - _(4)mang ~~(i/)t(9)~~ ``(i/)p(9)``_
+        [[mang4 jip6]]
+        suckers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~113 葉(9)]]
     ==
     - Leaves of plants;
