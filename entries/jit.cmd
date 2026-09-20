@@ -101,3 +101,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~114 闑(9)]]
+    ==
+    - The little side door in an entrance;
+    - a post in a gateway;
+    - a threshold.
+    ==
+  ====
+$$
+##>
