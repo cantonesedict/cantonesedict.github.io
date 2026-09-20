@@ -190,6 +190,33 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~112 (2)演]]
+    ==
+    - A stream flowing far;
+    - long, extended, ample, widely;
+    - to moisten, to lead;
+    - to practice, to exercise, to perform, to drill;
+    - _(2)(i/)n h(i/)(3)_
+        [[jin2 hei3]]
+        to perform theatrical plays;
+    - _(2)(i/)n (5)m(o\)_
+        [[jin2 mou5]],
+        to train in military exercises;
+    - _(2)(i/)n ts(a/)p(9)_
+        [[jin2 zaap6]]
+        to practice;
+    - _(2)(i/)n (5)h(a/) (2)shau ~~shai(6)~~ ``shai(3)``_
+        [[jin2 haa5 sau2 sai3]]
+        try your hand at it for once.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - hin2 (common)
