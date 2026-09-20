@@ -222,7 +222,7 @@ $$
 <##
 $$
 H
-  May appear with right component as 瑤 (assumed here) or 瑶,
+  May appear with right component as 謠 (assumed here) or 謡,
   depending on the font.
 W
   ====
@@ -249,7 +249,7 @@ $$
 <##
 $$
 H
-  May appear with right component as 瑤 (assumed here) or 瑶,
+  May appear with right component as 謠 (assumed here) or 謡,
   depending on the font.
 W
   ====
@@ -286,6 +286,31 @@ W
     - _(4)i(u/) (4)ch(')(i/)_
         [[jiu4 ci4]],
         a lake in fairy land.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+A
+  ==
+  - 謡
+  ==
+W
+  ====
+  - [[Page~115 (4)謠]]
+    ==
+    - A rustic ditty or ballad;
+    - called _(4)i(u/) (1)ko_ [[jiu4 go1]];
+    - an impromptu song;
+    - to injure by rumors;
+    - _(4)t(')ung (4)i(u/)_
+        [[tung4 jiu4]],
+        childish ditties;
+    - _p(o\)(3) s(a/)n(3) (4)i(u/) (4)(i/)m_
+        [[bou3 saan3 jiu4 jim4]],
+        to spread idle tales, to defame.
     ==
   ====
 $$
