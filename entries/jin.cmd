@@ -415,6 +415,34 @@ $$
 $$
 V
   ==
+  - jyun4 (common)
+  ==
+W
+  ====
+  - [[Page~112 (4)絃]]
+    ==
+    - Silken strings of musical instruments;
+    - _(5)ng(a/)n (i/)(6) (4)(i/)n_
+        [[ngaan5 ji6 jin4]],
+        to play the rebeck or 2-stringed fiddle;
+    - _(1)s(a/)m (4)(i/)n_
+        [[saam1 jin4]],
+        a 3-stringed guitar;
+    - _t(u:)n(6) (4)(i/)n_
+        [[dyun6 jin4]],
+        'cord broken,' _i.~e._ decease of a wife;
+    - _tsuk(9) (4)(i/)n_
+        [[zuk6 jin4]],
+        a second marriage.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+V
+  ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
   ==
 W
