@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-09-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2624,8 +2624,11 @@ W
     --
     [[...]]
     --
+    --
+    Also read _(5)Fan_ [[fan5]],
+    --
     ==
-    - Also read _(5)Fan_ [[fan5]], to be filled with rage [[Kangxi: 與憤同, 賁讀爲憤憤怒氣充實也]];
+    - to be filled with rage [[Kangxi: 與憤同, 賁讀爲憤憤怒氣充實也]];
     - to bubble or effervesce as a spring [[Kangxi: 沸也]];
     - [[...]].
     <## TODO: correct to $賁ban1
@@ -2792,8 +2795,11 @@ W
     --
     [[...]]
     --
+    --
+    Read _~~fan(3)~~ ``fan(6)``_ [[fan6]]
+    --
     ==
-    - Read _~~fan(3)~~ ``fan(6)``_ [[fan6]] a portion [[Kangxi: 均也分劑也]], a duty, a part [[Kangxi: 分位也]];
+    - a portion [[Kangxi: 均也分劑也]], a duty, a part [[Kangxi: 分位也]];
     - _(1)s(a/)m ~~fan(3)~~ ``fan(6)`` (1)ch(i/) yat(7)_
         [[saam1 fan6 zi1 jat1 三分之一]]
         one third.

@@ -285,8 +285,11 @@ W
         [[jim3 faan4]],
         to dislike to be troubled.
     ==
+    --
+    Read _(2)(i/)m_ [[jim2]],
+    --
     ==
-    - Read _(2)(i/)m_ [[jim2]], to conceal;
+    - to conceal;
     - to get away from bustle into quiet.
     ==
   ====

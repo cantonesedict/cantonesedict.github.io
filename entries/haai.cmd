@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-09-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -776,8 +776,11 @@ W
     --
     [[...]]
     --
+    --
+    Read _h(a/)i(6)_ [[haai6]]^,
+    --
     ==
-    - Read _h(a/)i(6)_ [[haai6]]^, to mean, to intend;
+    - to mean, to intend;
     - _h(a/)i(6) (i/)(3)_
         [[haai6 ji3 解意]]
         to make motions, as to the dumb;
