@@ -21,3 +21,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~114 噎(8)咽(8)]]
+    ==
+    - A stoppage in the throat;
+    - to choke, unable to swallow;
+    - a hiccup or sobbing;
+    - _(i/)t(8) (4)hau_
+        [[jit3 hau4]],
+        throat stopped up;
+    - _(i/)t(8) sak(7)_
+        [[jit3 sak1]]
+        unable to swallow;
+    - _(1)p(i/) (4)ts(')ing ~~(2)(a/)ng~~ ``(2)ang`` (i/)t(8)_
+        [[bei1 cing4 ang2 jit3]]
+        choked from grief.
+    ==
+  ====
+$$
+##>
