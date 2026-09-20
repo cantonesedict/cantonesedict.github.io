@@ -681,6 +681,23 @@ $$
 $$
 W
   ====
+  - [[Page~112 (2)睍 _(2)(I/)n_ (jin2); here normalised to _(5)(I/)n_ (jin5)]]
+    ==
+    - To see, to regard;
+    - projecting eyes;
+    - _~~(2)(i/)n~~ ``(5)(i/)n`` (2)(u/)n_
+        [[jin5 wun2]],
+        pretty;
+    - the melody and beauty of birds singing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~83 讞(3) _H(i/)n(3)_ (hin3); here normalised to _(I/)n(6)_ (jin6)]]
     ==
     - To consult on criminal causes;
