@@ -40,6 +40,25 @@ $$
 $$
 W
   ====
+  - [[Page~114 (1)幺]]
+    ==
+    - Small, tender;
+    - the last pig in a litter;
+    - the ace face of a dice;
+    - name of a tune on the guitar;
+    - the ``52d``~radical [[U+2F33 ⼳ "short-thread"]] of little things;
+    - _(4)hau (1)i(u/)_
+        [[hau4 jiu1]]
+        to turn up a doublet and one ace with three dice.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 (1)妖 _(1)I(u/)_ (jiu1); here normalised to _(2)I(u/)_ (jiu2)]]
     ==
     - Beautiful, strange, bewitching;
