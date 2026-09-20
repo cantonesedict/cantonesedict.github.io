@@ -218,3 +218,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+  May appear with right component as the cargo of 遙 (assumed here) or 遥,
+  depending on the font.
+W
+  ====
+  - [[Page~115 (4)徭]]
+    ==
+    - Service of a villain, feudal vassalage or labor of a serf;
+    - _(4)i(u/) (4)l(e/)ung_
+        [[jiu4 loeng4]],
+        scutage money or escuage;
+    - _(4)i(u/) yik(9)_
+        [[jiu4 jik6]]
+        labor given by fiefs.
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword with the first stroke of 缶 missing;
+    here corrected.
+    (The character 徭 appears correctly on Page~761 in the character index.)
+  ==
+$$
+##>
