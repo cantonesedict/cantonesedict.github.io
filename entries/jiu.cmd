@@ -222,7 +222,7 @@ $$
 <##
 $$
 H
-  May appear with right component as the cargo of 遙 (assumed here) or 遥,
+  May appear with right component as 瑤 (assumed here) or 瑶,
   depending on the font.
 W
   ====
@@ -249,7 +249,7 @@ $$
 <##
 $$
 H
-  May appear with right component as the cargo of 遙 (assumed here) or 遥,
+  May appear with right component as 瑤 (assumed here) or 瑶,
   depending on the font.
 W
   ====
@@ -261,6 +261,31 @@ W
         at tribe of Mi(a/)utsz' [[苗子]] mountaineers
         in Lien chau [[連州]] and its vicinity,
         supposed by the Cantonese to have tails.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+A
+  ==
+  - 瑶
+  ==
+W
+  ====
+  - [[Page~115 (4)瑤]]
+    ==
+    - A precious gem;
+    - _(4)i(u/) (1)kwong_
+        [[jiu4 gwong1]],
+        the star Benetnasch in Ursa Major;
+    - _(4)i(u/) (1)ts(i/)n_
+        [[jiu4 zin1]],
+        your 'pearly epistle,' a complimentary term;
+    - _(4)i(u/) (4)ch(')(i/)_
+        [[jiu4 ci4]],
+        a lake in fairy land.
     ==
   ====
 $$
