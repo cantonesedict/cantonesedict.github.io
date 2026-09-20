@@ -77,6 +77,46 @@ $$
 $$
 W
   ====
+  - [[Page~113 業(9)]]
+    ==
+    - A beam to support a bell;
+    - that which one ought to do,
+      an office, an occupation,
+      pursuit, calling, profession, art, or trade;
+    - patrimony or estate;
+    - a claim for, or an amount of merit, from what one has done;
+    - meritorious, deserving;
+    - done, finished, a sign of past time;
+    - _(i/)p(9) ngai(6)_
+        [[jip6 ngai6]]
+        a craft, a business;
+    - _(1)k(a/) (i/)p(9)_
+        [[gaa1 jip6]]
+        family estate;
+    - _sz'(6) (i/)p(9)_
+        [[si6 jip6]]
+        occupation;
+    - _(1)kung (i/)p(9)_
+        [[gung1 jip6]]
+        eligible for reward;
+    - _(i/)p(9) (1)king h(u:)(3) (5)li(u/)_
+        [[jip6 ging1 heoi3 liu5]],
+        gone;
+    - _(1)king (1)king (i/)p(9) (i/)p(9)_
+        [[ging1 ging1 jip6 jip6]]
+        fearful, strong;
+    - _(i/)p(9) (5)(i/) (4)shing kuk(9)_
+        [[jip6 ji5 sing4 guk6]]
+        the matter is already settled.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~113 葉(9)]]
     ==
     - Leaves of plants;
