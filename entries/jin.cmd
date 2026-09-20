@@ -253,6 +253,22 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~112 (2)蝘]]
+    ==
+    - A species of cicada, called _(4)t(')ong (2)(i/)n_ [[tong4 jin2]],
+      and many other names;
+    - _(2)(i/)n (4)t(')ing_
+        [[jin2 ting4]],
+        a kind of house lizard, livid and harmless.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - hin2 (common)
