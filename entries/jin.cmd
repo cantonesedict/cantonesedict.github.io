@@ -453,6 +453,22 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~112 (4){？=⿰虫𤣥}; here normalised to 蚿]]
+    ==
+    - The Julus or gally-worm, a sort of millipede found in dry places.
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword with the last stroke of 玄 omitted (i.e. as ⿰虫𤣥).
+  ==
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
