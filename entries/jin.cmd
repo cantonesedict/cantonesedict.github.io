@@ -315,6 +315,19 @@ $$
 $$
 W
   ====
+  - [[Page~112 (2)鼴]]
+    ==
+    - A mole, called _(4)lai (2)sh(u:)_ [[lai4 syu2]], or 'plough rat;'
+    - also a fabulous, ox-like animal, said to lie in the water.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~111 (4)埏]]
     ==
     - Limit or border of a patch of land;
