@@ -100,6 +100,18 @@ $$
 $$
 W
   ====
+  - [[Page~115 (1)葽]]
+    ==
+    - Grass, herbage, vigorous growing vegetation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 (1)要]]
     ==
     - To adjust, to agree to;
