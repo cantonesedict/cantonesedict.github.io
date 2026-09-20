@@ -145,3 +145,21 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~113 鄴(9)]]
+    ==
+    - Name of a region in the state of Wei [[魏]],
+      now included in Linch(a/)ng hien [[臨漳縣]] in Ch(a/)ngteh f(u/) [[常德府]]
+      in the north of Hon(a/)n [[河南]] province;
+    - _(i/)p(9) k(a/)(3)_
+        [[jip6 gaa3 鄴架]]
+        a complimentary epithet, applied to a man's library,
+        referring to L(i/) P(i/) [[李泌]], the learned ~~prince~~ ``marquess`` of Nieh [[鄴]].
+    ==
+  ====
+$$
+##>
