@@ -72,3 +72,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~113 葉(9)]]
+    ==
+    - Leaves of plants;
+    - leaf of a book;
+    - a thin plate or leaf of gold or metal;
+    - posterity, ages;
+    - an age;
+    - to collect, to assemble;
+    - _yat(7) (i/)p(9) (1)p(')(i/)n (1)chau_
+        [[jat1 jip6 pin1 zau1]],
+        a flat punt;
+    - _(4)Ming (1)chung (i/)p(9)_
+        [[ming4 zung1 jip6]]
+        during the Ming dynasty;
+    - _(4)ngau p(a/)k(8) (i/)p(9)_
+        [[ngau4 baak3 jip6 牛百葉]]
+        tripe, the manyplus of oxen;
+    - _(1)hoi (1)ch(i/) s(a/)n(3) (i/)p(9)_
+        [[hoi1 zi1 saan3 jip6]]
+        to have posterity.
+    ==
+  ====
+C
+  ==
+  - Williams' 牛百葉: More commonly spelt 牛柏葉, with 柏 read _p(')(a/)k(8)_ (paak3).
+  ==
+$$
+##>
