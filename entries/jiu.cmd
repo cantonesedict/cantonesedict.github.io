@@ -162,6 +162,34 @@ $$
 $$
 W
   ====
+  - [[Page~115 (1)邀]]
+    ==
+    - To stop, to interrupt;
+    - to conceal;
+    - to invite, to send for;
+    - to look for, to seek, to salute;
+    - to want;
+    - _(1)s(e/)ung (1)i(u/)_
+        [[soeng1 jiu1]],
+        mutual invitation;
+    - _(1)i(u/) (2)ts(')eng_
+        [[jiu1 ceng2]],
+        to invite;
+    - _(1)i(u/) (4)yau_
+        [[jiu1 jau4]]
+        to invite to a ramble;
+    - _(1)h(u:) (1)i(u/)_
+        [[heoi1 jiu1]],
+        a polite phrase of a host, meaning my entertainment is a poor one.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 (1)妖 _(1)I(u/)_ (jiu1); here normalised to _(2)I(u/)_ (jiu2)]]
     ==
     - Beautiful, strange, bewitching;
