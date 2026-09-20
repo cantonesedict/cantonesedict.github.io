@@ -315,3 +315,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+A
+  ==
+  - 遥
+  ==
+W
+  ====
+  - [[Page~115 (4)遙]]
+    ==
+    - Remote in place, far off, distant;
+    - _(4)i(u/) (5)(u:)n_
+        [[jiu4 jyun5]],
+        a long way off;
+    - _(1)si(u/) (4)i(u/) tsz'(6) tak(7)_
+        [[siu1 jiu4 zi6 dak1]]
+        to take one's leisure, or ease without care.
+    ==
+  ====
+$$
+##>
