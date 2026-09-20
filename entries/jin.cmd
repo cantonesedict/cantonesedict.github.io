@@ -285,7 +285,7 @@ $$
 V
   ==
   - hin2 (common)
-  - jin5 (per ...)
+  - jin5 (per ...?)
   ==
 W
   ====
@@ -838,6 +838,53 @@ W
     ==
     - To visit or condole with the bereaved, or those disgraced from rank;
     - to mourn with one over the loss of country.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+V
+  ==
+  - jin6-2 (...?)
+  ==
+W
+  ====
+  - [[Page~113 現(6)]]
+    ==
+    - Lustre of gems;
+    - to manifest to appear, to display;
+    - to divulge, to show;
+    - apparent, to be seen now, conspicuous, _de facto_, present;
+    - _(i/)n(6) (4)ngan_
+        [[jin6 ngan4-2]],
+        ready money;
+    - _(i/)n(6) (1)kam_
+        [[jin6 gam1]],
+        now;
+    - _(i/)n(6) tsoi(6)_
+        [[jin6 zoi6]]
+        in a place, existing, now here;
+    - _(i/)n(6) (4)shing_
+        [[jin6 sing4-2]],
+        is already to be had, is on hand;
+    - _(i/)n(6) (4)hung_
+        [[jin6 hung4]],
+        to lay down security or stakes;
+    - _(4)ming (i/)n(6)_
+        [[ming4 jin6]]
+        bright, not dull, (as colors);
+        speedy reward or retribution;
+    - _i(u/)(3) (i/)n(6) (2)p(a/)_
+        [[jiu3 jin6 baa2]],
+        I must have the money in hand;
+    - _(i/)n(6) (1)shan sh(u:)t(8) f(a/)t(8)_
+        [[jin6 san1 syut3 faat3]]
+        influential, able to move others;
+    - _(i/)n(6) ch(')ut(7)_
+        [[jin6 ceot1]]
+        to appear, to come out.
     ==
   ====
 $$
