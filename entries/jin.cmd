@@ -287,6 +287,28 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~111 (4)研]]
+    ==
+    - To grind fine, to triturate, to dissolve, or rub or powder;
+    - _(4)(i/)n m(u/)t(9)_
+        [[jin4 mut6]]
+        ~~or~~ ``to`` rub to a powder;
+    - _(4)(i/)n (4)sh(u:)n_
+        [[jin4 syun4]],
+        a narrow iron mortar in which drugs are ground;
+    - _(4)(i/)n kau(3)_
+        [[jin4 gau3]]
+        to investigate, to search out thoroughly---\
+        usually implies by torturing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin4-2 (vernacular rising-tone noun in Cantonese opera senses)
