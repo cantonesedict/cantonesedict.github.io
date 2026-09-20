@@ -381,3 +381,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+  May appear with left component as the right component of 謠 (assumed here) or 謡,
+  depending on the font.
+W
+  ====
+  - [[Page~115 (4)鷂]]
+    ==
+    - A solitary hawk ~~with a variegated plumage~~ [[Kangxi: 鷙鳥也, ~~::靑質五采[...]::~~]]; <# TODO: correct to $鷂jiu6 (jiu6-2) #>
+    - also a variety of pheasant ``with a variegated plumage``,
+      akin to the medallion pheasant,
+      is called _(4)i(u/) ch(i/)(6)_ [[jiu4 zi6]].
+    ==
+  ====
+C
+  ==
+  - Williams' "with a variegated plumage":
+    Here, Williams has been misled by Kangxi's erroneous placement
+    of ::《爾雅釋鳥鷂雉註》靑質五采[...]:: under the departing-tone reading;
+    this explanation belongs under the level-tone reading _(4)i(u/)_ (jiu4).
+    <# TODO: move under $鷂jiu6 #>
+  ==
+$$
+##>
