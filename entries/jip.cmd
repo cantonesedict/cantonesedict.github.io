@@ -58,3 +58,17 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~113 饁(8)]]
+    ==
+    - Provision for journeys;
+    - to carry food to workmen in the fields;
+    - to offer animals in sacrifice.
+    ==
+  ====
+$$
+##>
