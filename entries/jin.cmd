@@ -845,6 +845,19 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~113 彥(6)]]
+    ==
+    - Virtuous and learned, as a magistrate or scholar;
+    - accomplished.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - jin6-2 (vernacular rising-tone noun in 套現)
