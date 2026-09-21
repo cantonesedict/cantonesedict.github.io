@@ -276,6 +276,24 @@ $$
 $$
 W
   ====
+  - [[Page~116 (5)舀 _(5)I(u/)_ (jiu5); here normalised to _(2)I(u/)_ (jiu2)]]
+    ==
+    - To bale or lade out water;
+    - _yat(7) hok(8) ~~(5)i(u/)~~ ``(2)i(u/)`` (2)h(i/) (5)k(')(u:)_
+        [[jat1 hok3 jiu2 hei2 keoi5]],
+        all lost at once, a clean sweep;
+    - _~~(5)i(u/)~~ ``(2)i(u/)`` (2)shui_
+        [[jiu2 seoi2]],
+        to dip out water.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 (2)鷕]]
     ==
     - The cackling of hen-pheasants, calling for their mates.
