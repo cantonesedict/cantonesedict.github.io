@@ -221,6 +221,27 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~116 (4)僥]]
+    ==
+    - A tribe of pygmies in the south of China, three cubits high.
+    ==
+    --
+    Read _(1)hi(u/)_ [[hiu1]],
+    --
+    ==
+    - false, hypocritical;
+    - _(1)hi(u/) hang(6)_
+        [[hiu1 hang6]]
+        lucky.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
   ⼟ + 9
   ⼉ + 10
 W
