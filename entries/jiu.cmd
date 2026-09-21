@@ -276,6 +276,30 @@ $$
 $$
 W
   ====
+  - [[Page~116 (5)繞(5)遶 _(5)I(u/)_ (jiu5); here normalised to _(2)I(u/)_ (jiu2)]]
+    ==
+    - To wind around, to twine around;
+    - to be entangled in;
+    - to environ, to go around, to make the tour of, to compass;
+    - _(4)ch(')(i/)n ~~(5)i(u/)~~ ``(2)i(u/)``_
+        [[cin4 jiu2]],
+        to cord about;
+    - _~~(5)i(u/)~~ ``(2)i(u/)`` t``(o\)``(6)_
+        [[jiu2 dou6 繞道]]
+        to make a circuit.
+    ==
+  ====
+C
+  ==
+  - Williams' 繞道: Inferred incompletely printed letter _(o\)_ in _t(o\)(6)_.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 (5)舀 _(5)I(u/)_ (jiu5); here normalised to _(2)I(u/)_ (jiu2)]]
     ==
     - To bale or lade out water;
