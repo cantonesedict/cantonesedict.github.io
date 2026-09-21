@@ -285,7 +285,7 @@ $$
 V
   ==
   - hin2 (common)
-  - jin5 (per ...?)
+  - jin5 (per 《廣韻》以淺切)
   ==
 W
   ====
