@@ -64,6 +64,19 @@ W
     - delicate, flourishing vegetation;
     - docile, gentle.
     ==
+  - [[Page~116 (2)夭(2)殀 _(2)I(u/)_ (jiu2); here normalised to _(1)I(u/)_ (jiu1)]]
+    ==
+    - To die before puberty;
+    - shortlived, an untimely death;
+    - to kill children;
+    - calamity;
+    - _meng(6) ~~(2)i(u/)~~ ``(1)i(u/)``_
+        [[meng6 jiu1]],
+        shortlived;
+    - _~~(2)i(u/)~~ ``(1)i(u/)`` ch(i/)t(8)_
+        [[jiu1 zit3]]
+        a premature death.
+    ==
   ====
 $$
 ##>
