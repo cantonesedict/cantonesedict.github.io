@@ -548,6 +548,36 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~116 (4)饒]]
+    ==
+    - Plenty to eat;
+    - abundant, satisfied, affluent;
+    - an overplus, the leavings;
+    - exceeding, a superfluity;
+    - liberal, indulgent;
+    - to acquit, to excuse, to forgive, to give in, to forbear;
+    - _(4)i(u/) ming(6)_
+        [[jiu4 ming6]]
+        to spare life;
+    - _(4)i(u/) ~~sh(i/)t(9)~~ ``sh(i/)t(8)``_
+        [[jiu4 sit3 饒舌]]
+        'liberal of tongue,' wrangling;
+    - _(1)fung (4)i(u/)_
+        [[fung1 jiu4]],
+        abounding in, ample.
+    ==
+  ====
+C
+  ==
+  - Williams' 饒舌: Changed _sh(i/)t(9)_ (sit6) to common reading _sh(i/)t(8)_ (sit3).
+  ==
+$$
+##>
+
+<##
+$$
 H
   May appear with left component as the right component of 謠 (assumed here) or 謡,
   depending on the font.
