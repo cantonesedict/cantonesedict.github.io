@@ -234,6 +234,24 @@ $$
 
 <##
 $$
+  ⽳ + 5
+  ⽬ + 5
+W
+  ====
+  - [[Page~116 (2)窅]]
+    ==
+    - Deep, sunken, cavernous~~,~~ eyes;
+    - deep, profound, extensive, remote;
+    - _(2)i(u/) (4)(i/)n_
+        [[jiu2 jin4]],
+        inconsolable.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~116 (2)鷕]]
