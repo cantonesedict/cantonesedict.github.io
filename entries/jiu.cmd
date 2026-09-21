@@ -258,6 +258,25 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~116 (4)嬈]]
+    ==
+    - Pleasant, winning, witty, fascinating, graceful---applied to females;
+    - to perturb;
+    - _(1)ki(u/) (4)i(u/)_
+        [[giu1 jiu4]],
+        agreeable;
+    - _(2)kwai (4)i(u/)_
+        [[gwai2 jiu4]],
+        ghost of a murdered man.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with right component as 謠 (assumed here) or 謡,
   depending on the font.
