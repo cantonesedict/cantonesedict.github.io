@@ -455,6 +455,24 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~116 (4)蕘]]
+    ==
+    - Thorns, rushes, stubble, or twigs, used for fuel;
+    - _(1)ch(')o (4)i(u/)_
+        [[co1 jiu4]],
+        light fuel for kindling;
+    - _(1)san (4)i(u/)_
+        [[san1 jiu4]],
+        faggots for fuel.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 A
   ==
   - 謡
