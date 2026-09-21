@@ -234,6 +234,28 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~116 (5)擾 _(5)I(u/)_ (jiu5); here normalised to _(2)I(u/)_ (jiu2)]]
+    ==
+    - To give or bring trouble to, to incommode, to embarrass;
+    - to chagrin, to confuse;
+    - to disorder, to infest, to stir up, as banditti do a region;
+    - to breed, to rear;
+    - to tranquillize;
+    - _luk(9) ~~(5)i(u/)~~ ``(2)i(u/)``_
+        [[luk6 jiu2]],
+        the six domestic animals;
+    - _~~(5)i(u/)~~ ``(2)i(u/)`` l(u:)n(6)_
+        [[jiu2 lyun6]]
+        to raise a broil, to unsettle people's minds.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
   ⽳ + 5
   ⽬ + 5
 W
