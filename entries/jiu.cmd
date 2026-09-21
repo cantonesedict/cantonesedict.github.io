@@ -330,6 +330,43 @@ $$
 $$
 W
   ====
+  - [[Page~116 要(3)]]
+    ==
+    - To want, to wish, to desire;
+    - requisite, important;
+    - urgent;
+    - the important or essential parts of;
+    - an abstract;
+    - _(5)n(i/) i(u/)(3) (4)'m i(u/)(3)_
+        [[nei5 jiu3 m4 jiu3]],
+        do you want it?
+    - _~~teng(6)~~ ``ting(6)`` i(u/)(3)_
+        [[ding6 jiu3]]
+        very necessary;
+    - _(1)p(')(i/)n i(u/)(3)_
+        [[pin1 jiu3]]
+        can't do without it, wont be refused;
+    - _ts(')(u:)t(8) i(u/)(3)_
+        [[cyut3 jiu3]]
+        an abridgement;
+    - _i(u/)(3) sun(3)_
+        [[jiu3 seon3]]
+        an important letter;
+    - _sh(e/)ung(6) (2)h(a/) i(u/)(3) (2)sz'_
+        [[soeng6 haa6-2 jiu3 sei2]]
+        near death, about to die;
+    - _i(u/)(3) (2)k(o\)m tsau(6) (2)k(o\)m_
+        [[jiu3 gam2 zau6 gam2]],
+        just as you like.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 (4)僥]]
     ==
     - A tribe of pygmies in the south of China, three cubits high.
