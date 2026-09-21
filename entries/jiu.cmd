@@ -750,6 +750,21 @@ $$
 $$
 W
   ====
+  - [[Page~116 曜(6)]]
+    ==
+    - The effulgence or light of the sun;
+    - _ts(')at(7) i(u/)(6)_
+        [[cat1 jiu6]]
+        the 'seven lights,' are the sun, moon``,`` and five planets.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 耀(6)]]
     ==
     - To illumine, to shine on;
