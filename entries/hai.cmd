@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-09-21
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -502,6 +502,15 @@ E
        - 係定啦 (hai6 ding6-2 laa1): "[It] certainly is!"
        - 又係佢 (jau6 hai6 keoi5): "[It] is him again."
        - 即係話 (zik1 hai6 waa6): "That is [to] say."
+       ==
+    ++
+  - 【係都】 (hai6 dou1)
+    ++
+    1. To emphatically insist upon (an unacceptable action).
+       (Literally, "even [whatever] be". Here, 係 is a subjunctive copula.)
+       ==
+       - 係都要去 (hai6 dou1 jiu3 heoi3): "*Have* to go [to it]."
+       - 係都唔聽 (hai6 dou1 m4 teng1): "[He just] *has* to not listen [to me]."
        ==
     ++
   - 【係咪】 (hai6 mai6)
