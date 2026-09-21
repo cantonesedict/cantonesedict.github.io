@@ -745,3 +745,23 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~116 耀(6)]]
+    ==
+    - To illumine, to shine on;
+    - lustrous, glorious, splendid;
+    - celebrated;
+    - _(1)kwong i(u/)(6)_
+        [[gwong1 jiu6]]
+        magnificent;
+    - _(4)wing i(u/)(6)_
+        [[wing4 jiu6]]
+        great distinction.
+    ==
+  ====
+$$
+##>
