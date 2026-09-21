@@ -366,6 +366,22 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~116 (4)橈]]
+    ==
+    - A short oar;
+    - to row;
+    - _(4)i(u/) (4)sh(u:)n_
+        [[jiu4 syun4]],
+        to row a boat.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with right component as 謠 (assumed here) or 謡,
   depending on the font.
