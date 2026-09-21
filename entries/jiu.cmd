@@ -236,6 +236,18 @@ $$
 $$
 W
   ====
+  - [[Page~116 (2)鷕]]
+    ==
+    - The cackling of hen-pheasants, calling for their mates.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 (4)僥]]
     ==
     - A tribe of pygmies in the south of China, three cubits high.
