@@ -60,6 +60,33 @@ $$
 $$
 W
   ====
+  - [[Page~117 (1)嘉]]
+    ==
+    - Good, excellent;
+    - to praise, to commend;
+    - to eulogize;
+    - to make happy, to rejoice in;
+    - _(2)ho (1)k(a/)_
+        [[ho2 gaa1]],
+        praiseworthy;
+    - _(1)k(a/) (4)(u:)_
+        [[gaa1 jyu4]],
+        a kind of barbel;
+    - _(1)k(a/) (5)lai_
+        [[gaa1 lai5]],
+        fine presents;
+    - _(1)K(a/) hing(3)_
+        [[gaa1 hing3]]
+        the reign Ki(a/)king, A.D.~1796--1821.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 (1)家]]
     ==
     - What is within doors;
