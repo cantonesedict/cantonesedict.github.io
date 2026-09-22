@@ -288,6 +288,18 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 (1)麚]]
+    ==
+    - A buck, the male of deers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
