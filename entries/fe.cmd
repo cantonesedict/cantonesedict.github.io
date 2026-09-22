@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fe
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-09-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -36,7 +36,7 @@ MP
   ==
 C
   ==
-  - I have reluctantly assigned a Williams pronunciation of _f(e/)_ for modern fe1,
+  - I have reluctantly assigned a Williams pronunciation of _f(e/)_ for modern fe,
     but this is an anachronism, and perhaps inappropriate.
     Indeed in the original Williams entry for 炒, coffee is referred to as
     _(1)k(a/) (1)f(i/)_ (gaa1 fei1), not _k(a/)(3) (1)f(e/)_ (gaa3 fe1);
