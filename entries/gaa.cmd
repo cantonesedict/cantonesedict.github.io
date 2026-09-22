@@ -146,6 +146,44 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 ::(1)~~架~~``枷``::]]
+    ==
+    - A flail;
+    - a cangue or wooden pillory in which criminals are exposed,
+      called in irony _muk(9) (1)fung (5)leng_ [[muk6 fung1 leng5]];
+    - a stand;
+    - _(1)t(a/)m (1)k(a/)_ [[daam1 gaa1]]
+        or
+      _(1)kong (1)k(a/)_ [[gong1 gaa1]],
+        to wear the cangue;
+    - _(1)k(a/) h(o\)(6)_
+        [[gaa1 hou6]]
+        the superscription on it;
+    - _(1)k(a/) (4)ch(')ong_
+        [[gaa1 cong4]],
+        a sort of chair hired of the turnkeys to ease up the cangue;
+    - _(1)k(a/) ch(u:)(6) (5)k(')(u:)_
+        [[gaa1 zyu6 keoi5]],
+        put him in the cangue;
+    - _muk(9) ts(e/)ung(6) (1)t(a/)m (1)k(a/)_
+        [[muk6 zoeng6 daam1 gaa1]],
+        a "carpenter wearing the cangue,"
+        a phrase like "Phalaris' bull."
+    ==
+  - [[Page~718 (1)架]]
+    --
+    Should be written 枷``,``
+    the former [[架]] being pronounced _k(a/)(3)_ [[gaa3]]
+    though the two are sometimes interchanged.
+    --
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
