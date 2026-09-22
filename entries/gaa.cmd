@@ -184,6 +184,19 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 (1)珈]]
+    ==
+    - Gems on the hairpin of a headdress;
+    - a sort of browband or fillet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
