@@ -26,6 +26,40 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~117 (1)加]]
+    ==
+    - To add to, to superadd or place upon;
+    - to confer on;
+    - advanced as officers are;
+    - to charge (as interest);
+    - _(1)k(a/) (1)tsang_
+        [[gaa1 zang1]],
+        to increase;
+    - _(1)k(a/) tik(7) (1)t(')(i/)m_
+        [[gaa1 dik1 tim1]],
+        put a little more in;
+    - _(1)k(a/) (1)k(u/)n_
+        [[gaa1 gun1]],
+        to 'put on a cup,' at marriage,
+        answers to putting on the _toga virilis;_
+    - _(1)k(a/) (1)fung_
+        [[gaa1 fung1]],
+        to double envelop a letter;
+    - _(1)k(a/) (1)k(u/)n_
+        [[gaa1 gun1]],
+        to rise in office;
+    - _(1)k(a/) (i/)(3)_
+        [[gaa1 ji3]]
+        beyond expectation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~116 (1)家]]
     ==
     - What is within doors;
