@@ -211,6 +211,24 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 (1)袈]]
+    ==
+    - A kind of sleazy camlet;
+    - _(1)k(a/) (1)sh(a/)_
+        [[gaa1 saa1]],
+        a sort of stole or surplice;
+    - _(1)k(a/) (1)sh(a/) p(o\)(3)_
+        [[gaa1 saa1 bou3]]
+        muslins.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
