@@ -240,6 +240,24 @@ $$
 $$
 W
   ====
+  - [[Page~117 (1)葭]]
+    ==
+    - A bulrush or reed, sedgy plants like Arundo,
+      of which a pipe can be made;
+    - _(1)k(a/) (1)f(u/)_
+        [[gaa1 fu1 葭莩]]
+        the white medullary lining of some sedges,
+        _met._ related~~,~~ ``but`` distant connexions;
+        lightly esteemed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~117 (1)袈]]
     ==
     - A kind of sleazy camlet;
