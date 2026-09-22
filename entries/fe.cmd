@@ -38,9 +38,9 @@ C
   ==
   - I have reluctantly assigned a Williams pronunciation of _f(e/)_ for modern fe,
     but this is an anachronism, and perhaps inappropriate.
-    Indeed in the original Williams entry for 炒, coffee is referred to as
+    Indeed in the original Williams entries for 炒 and 咖, coffee is referred to as
     _(1)k(a/) (1)f(i/)_ (gaa1 fei1), not _k(a/)(3) (1)f(e/)_ (gaa3 fe1);
-    see $炒caau2.
+    see $炒caau2 and $咖gaa3 (TODO).
   ==
 $$
 

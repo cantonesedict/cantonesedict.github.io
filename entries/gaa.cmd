@@ -143,3 +143,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - gaa1 (per Williams for "coffee" sense)
+  - kaa1 (possibly from Mandarin-matching for "coffee" sense)
+  ==
+W
+  ====
+  - [[Page~117 (1)咖 _(1)K(a/)_ (gaa1); here normalised to _K(a/)(3)_ (gaa3)]]
+    ==
+    - _~~(1)K(a/) (1)f(i/)~~ ``K(a/)(3) (1)f(e/)``_ [[gaa3 fe1 咖啡]],
+      the name given in Canton to coffee.
+    ==
+  ====
+C
+  ==
+  - Williams' 咖啡: Changed now dated _(1)k(a/) (1)f(i/)_ (gaa1 fei1) to modern _k(a/)(3) (1)f(e/)_ (gaa3 fe1).
+    This change is perhaps inappropriate as it is anachronistic for 1856;
+    see the page-level commentary at $fe.
+  - In modern Cantonese, 咖啡 "coffee" is often abbreviated to just $啡fe1.
+  ==
+P
+  ++
+  1. Used in 咖喱 (curry).
+  ++
+$$
+##>
