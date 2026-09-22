@@ -256,6 +256,20 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 (1)猳; here normalised to 豭]]
+    ==
+    - A boar;
+    - "hogs are called _(1)k(a/)_ [[gaa1]]
+      in Corea and Chihl(i/) [[直隸]]."
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
