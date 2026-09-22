@@ -197,6 +197,20 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 (1)笳]]
+    ==
+    - A kind of flageolet, made of a reed;
+    - also called _p(i/)t(7) ~~lut(7)~~ ``lut(9)``_ [[bit1 leot6 觱栗]]
+      or _pat(7) ~~lut(7)~~ ``lut(9)``_ [[bat1 leot6 觱栗]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
