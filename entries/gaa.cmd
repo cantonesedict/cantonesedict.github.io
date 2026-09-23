@@ -415,6 +415,27 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~118 假(3)]]
+    ==
+    - Leave of absence, a furlough;
+    - _k(o\)(3) k(a/)(3)_
+        [[gou3 gaa3]]
+        to apply for a furlough;
+    - _(1)f(u/)n k(a/)(3)_
+        [[fun1 gaa3]]
+        to extend a furlough;
+    - _fong(3) k(a/)(3)_
+        [[fong3 gaa3]]
+        to give a vacation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
