@@ -157,6 +157,21 @@ $$
 $$
 W
   ====
+  - [[Page~120 薊(3)]]
+    ==
+    - A thistle, species of Cnicus;
+    - _Kai(3) (1)chau_
+        [[gai3 zau1]],
+        a district of Shunt(')ien f(u/) [[順天府]] in Chihl(i/) [[直隸]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~119 計(3)]]
     ==
     - A complete number, a deliberation in full assembly;
