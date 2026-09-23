@@ -315,6 +315,25 @@ $$
 $$
 W
   ====
+  - [[Page~118 (2)嘏]]
+    ==
+    - Great felicity or prosperity;
+    - great;
+    - distant;
+    - firm, stable;
+    - blessed, propitious;
+    - _chuk(7) (2)k(a/)_
+        [[zuk1 gaa2]],
+        to bless, to implore blessings.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~118 (2)檟]]
     ==
     - A shrub, supposed to be the same as tea;
