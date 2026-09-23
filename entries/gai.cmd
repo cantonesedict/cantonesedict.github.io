@@ -24,6 +24,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+H
+W
+  ====
+  - [[Page~119 (1)枅]]
+    ==
+    - A tie-beam connecting two pillars, or supporting the roof;
+    - _kat(9) (1)kai_
+        [[gat6 gai1]],
+        the projecting end of a tie-beam holding up the plate.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~119 (1)筓; here normalised to 笄]]
