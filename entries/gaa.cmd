@@ -300,6 +300,19 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~117 (2)賈]]
+    ==
+    - Price of a thing; <# TODO: correct to departing (gaa3) #>
+    - a surname.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
