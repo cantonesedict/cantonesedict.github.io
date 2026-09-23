@@ -302,6 +302,19 @@ $$
 $$
 W
   ====
+  - [[Page~118 (2)斝]]
+    ==
+    - A three-legged goblet with an ear, made of stone, holding six pints;
+    - it was used in the Sh(a/)ng [[商]] dynasty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~118 (2)檟]]
     ==
     - A shrub, supposed to be the same as tea;
