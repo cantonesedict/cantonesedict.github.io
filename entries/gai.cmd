@@ -124,6 +124,60 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~119 計(3)]]
+    ==
+    - A complete number, a deliberation in full assembly;
+    - to plan, to consider, to devise;
+    - to calculate, to estimate, to reckon, to count, to compute;
+    - stratagem, scheme, plot;
+    - _kai(3) (4)'m (1)chan_
+        [[gai3 m4 zan1]],
+        reckoned or counted wrong, not guessed right;
+    - _(4)'m kai(3) k(a/)u(3)_
+        [[m4 gai3 gaau3]]
+        was not included in it, I said nothing about that;
+    - _(5)yau mat(7) kai(3) k(a/)u(3)_
+        [[jau5 mat1 gai3 gaau3]]
+        what plan or contrivance have you?
+    - _kai(3) (4)mau_
+        [[gai3 mau4]],
+        to plan or contrive;
+    - _s(u:)n(3) kai(3)_
+        [[syun3 gai3]]
+        an injurious plot;
+    - _kai(3) sh(o\)(3)_
+        [[gai3 sou3]]
+        to count;
+    - _(1)to kai(3)_
+        [[do1 gai3]]
+        fertile in expedients;
+    - _t(a/)i(6) kai(3)_
+        [[daai6 gai3]]
+        the triennial official examination;
+    - _(1)k(a/) kai(3)_
+        [[gaa1 gai3]]
+        means of livelihood;
+    - _(1)sam kai(3)_
+        [[sam1 gai3]]
+        to reckon mentally``;``
+    - _kai(3) t(o\)(3) (5)(u:)n_
+        [[gai3 dou3 jyun5]],
+        to forecast, to calculate ahead;
+    - _kai(3) p(a/)n(6) (4)'m ch(')ut(7)_
+        [[gai3 baan6 m4 ceot1]]
+        no chance to get a loan, you can't effect it;
+    - _kai(3) (4)'m t(i/)m(6)_
+        [[gai3 m4 dim6]]
+        can not reckon them all, a very miscellaneous lot of things.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 A
   ==
   - 䯻
