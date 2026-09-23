@@ -184,7 +184,6 @@ input {
 
 ins {
   color: var(--modern-colour);
-  text-decoration-thickness: 2px;
 }
 ins.modern {
   text-decoration: none;
