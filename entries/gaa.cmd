@@ -436,6 +436,41 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~119 價(3)]]
+    ==
+    - The price or value of a thing;
+    - _k(a/)(3) (4)ts(')(i/)n_
+        [[gaa3 cin4]],
+        the price;
+    - _(4)sh(i/) k(a/)(3)_
+        [[si4 gaa3]]
+        the current price;
+    - _(1)tam k(a/)(3)_ [[dam1 gaa3]]
+        or
+      _k(a/)(3) (4)ts(')(i/)n ~~(2)chung~~ ``(5)ch(')ung``_ [[gaa3 cin4 cung5]],
+        dear, high-priced;
+    - _(1)shing k(a/)(3)_
+        [[sing1 gaa3]]
+        fame, reputation;
+    - _~~(5)m(o\)~~ ``(4)m(o\)`` k(a/)(3)_
+        [[mou4 gaa3]]
+        priceless, inestimable;
+        no sale;
+    - _shat(9) k(a/)(3)_
+        [[sat6 gaa3]]
+        the lowest price;
+    - _toi(6) k(a/)(3)_
+        [[doi6 gaa3]]
+        price to be settled afterwards.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaa1 (per Williams for "coffee" sense)
