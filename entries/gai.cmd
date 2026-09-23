@@ -121,3 +121,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+A
+  ==
+  - 䯻
+  ==
+V
+  ==
+  - gai2 (alternative per Williams)
+  ==
+W
+  ====
+  - [[Page~119 (2)䯻 _(2)Kai_ (gai2); _Kai(3)_ (gai3) optional, here normalised to 髻]]
+    ==
+    - The coiffure of Chinese women;
+    - _(1)sho (2)kai_
+        [[so1 gai3-2]],
+        to arrange the hair;
+    - _(1)(a/) kok(8) (2)kai_
+        [[aa1 gok3 gai3-2]],
+        the hair dressed in two horns as children's is.
+    ==
+    --
+    Also read _kai(3)_ [[gai3]].
+    --
+  ====
+C
+  ==
+  - Williams' reading of _(2)kai_ (gai2)
+    appears to be a vernacular rising variation.
+    This reading is not heard in modern usage.
+  ==
+$$
+##>
