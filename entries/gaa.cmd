@@ -493,3 +493,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~118 稼(3)]]
+    ==
+    - To sow or plant grain;
+    - _met._ farming;
+    - the spike of grain;
+    - wild cerealia;
+    - _~~hok(8)~~ ``hok(9)`` k(a/)(3)_
+        [[hok6 gaa3]]
+        to learn husbandry.
+    ==
+  ====
+$$
+##>
