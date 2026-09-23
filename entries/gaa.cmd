@@ -511,3 +511,39 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~118 駕(3)]]
+    ==
+    - A horse in the harness, to harness a carriage;
+    - a chariot for the sovereign's use;
+    - to drive or manage a horse;
+    - to sit in a carriage;
+    - to mount, to ascend;
+    - to embark, to go aboard;
+    - to embrace or avail of;
+    - a title of respect (as if addressing one in a chariot), Sir, Your Honor;
+    - _k(a/)(3) sh(e/)ung(6)_ [[gaa3 soeng6]],
+      _(1)ts(u:)n k(a/)(3)_ [[zyun1 gaa3]],
+        or
+      _(4)t(')oi k(a/)(3)_ [[toi4 gaa3]]
+        are all terms of address;
+    - _p(i/)t(9) k(a/)(3)_
+        [[bit6 gaa3]]
+        title of an assistant prefect;
+    - _shing(3) k(a/)(3)_
+        [[sing3 gaa3]]
+        his godship, his Majesty;
+    - _(a/)n(3) k(a/)(3)_
+        [[aan3 gaa3]]
+        death of a sovereign;
+    - _k(a/)(3) (2)tsz' t(a/)i(6)_
+        [[gaa3 zi2 daai6]]
+        pompous.
+    ==
+  ====
+$$
+##>
