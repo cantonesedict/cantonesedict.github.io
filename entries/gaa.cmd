@@ -302,6 +302,63 @@ $$
 $$
 W
   ====
+  - [[Page~118 (2)假]]
+    ==
+    - False, fictitious, illusive, feigned, hypocritical, unreal, simulated;
+    - a pretext, to pretend;
+    - supposing, if, because;
+    - to borrow, to get an accommodation, to avail of;
+    - to suppose, to instance;
+    - great;
+    - _pat(7) (1)ch(i/) (1)chan (2)k(a/)_
+        [[bat1 zi1 zan1 gaa2]],
+        I don't know whether it is so or not;
+    - _(1)chong (2)k(a/) (2)kau_
+        [[zong1 gaa2 gau2]],
+        a skin dog, a man with great pretensions;
+    - _(2)k(a/) (2)shau (1)(u:) (4)yan_
+        [[gaa2 sau2 jyu1 jan4]],
+        to get the help of another;
+    - _(2)k(a/) (4)(u:)_
+        [[gaa2 jyu4]],
+        for instance, if;
+    - _(2)k(a/) ~~(2)shai~~ ``(2)sz'``_
+        [[gaa2 si2]],
+        supposing that, granting that;
+    - _(2)k(a/) p(a/)n(6)_
+        [[gaa2 baan6]]
+        disguised like another;
+    - _(1)f(a/) (2)k(a/)_
+        [[faa1 gaa2]],
+        unreal, lying, not genuine;
+    - _(2)k(a/) (4)meng_
+        [[gaa2 meng4-2]],
+        an alias;
+    - _(2)k(a/) ts(e/)(3)_
+        [[gaa2 ze3]]
+        to burrow, to ask of;
+        to use for, or as a substitute;
+    - _(2)k(a/) ngai(6)_
+        [[gaa2 ngai6]]
+        hypocritical, spurious;
+    - _(2)k(a/) ~~(2)ts(')z'~~ ``(2)sz'`` (1)k(a/)n_
+        [[gaa2 si2 gaan1]],
+        take an instance;
+    - _(2)k(a/) ~~kuk(7)~~ ``kuk(9)``_
+        [[gaa2 guk6]]
+        all humbug;
+    - _(2)k(a/) (1)(i/) (1)ch(i/)_
+        [[gaa2 ji3-1 zi1]],
+        blustering, threatening.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~118 (2)斝]]
     ==
     - A three-legged goblet with an ear, made of stone, holding six pints;
