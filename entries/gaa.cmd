@@ -498,6 +498,51 @@ $$
 $$
 W
   ====
+  - [[Page~118 架(3)]]
+    ==
+    - A stand, a press, a rack, a case, a dumb-waiter,
+      an open frame on which things are placed,
+      a scaffolding or framework;
+    - classifier of screens, pictures, pier-glasses, and whatever is framed;
+    - to lay on a frame;
+    - to lay up or heap;
+    - to uphold, to support;
+    - to fend off, to ward;
+    - _(2)t(a/) k(a/)(3)_
+        [[daa2 gaa3]]
+        to fight, to come to blows;
+    - _k(a/)(3) k(a/)k(8)_
+        [[gaa3 gaak3]]
+        to ward off with the arm;
+    - _(1)kam (1)chung k(a/)(3)_ [[gam1 zung1 gaa3-2]],
+        or
+      _uk(7) k(a/)(3)_ [[uk1 gaa3-2]]
+        a truss on four posts supporting a roof;
+    - _pat(7) k(a/)(3)_
+        [[bat1 gaa3-2]]
+        a pencil-stand;
+    - _(5)n(i/) ts(o\)(6) k(a/)(3) (4)l(e/)ung (1)m(e/)_
+        [[nei5 zou6 gaa3 loeng4-2 me1]],
+        are you going to be a ridge-pole?
+        said to one who interferes in or backs up a quarrel;
+    - _(2)shui k(a/)(3)_
+        [[seoi2 gaa3]]
+        a washstand;
+    - _shap(9) tsz'(6) k(a/)(3)_
+        [[sap6 zi6 gaa3-2]]
+        a cross;
+    - _k(a/)(3) ~~(1)k(')i(u/)~~ ``(4)k(')i(u/)`` ~~(1)k(')(u:)~~ ``(5)k(')(u:)`` kwo(3)_
+        [[gaa3 kiu4 keoi5 gwo3]]
+        to help one over, to assist one in a dilemma.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~118 稼(3)]]
     ==
     - To sow or plant grain;
