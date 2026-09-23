@@ -302,6 +302,19 @@ $$
 $$
 W
   ====
+  - [[Page~118 (2)檟]]
+    ==
+    - A shrub, supposed to be the same as tea;
+    - its infusion used to be drank.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~117 (2)賈]]
     ==
     - Price of a thing; <# TODO: correct to departing (gaa3) #>
