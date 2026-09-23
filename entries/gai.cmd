@@ -124,6 +124,37 @@ $$
 
 <##
 $$
+H
+  May appear with 㡭 having partitioning 一 (assumed here) or stacked 𠃊,
+  depending on the font.
+W
+  ====
+  - [[Page~119 繼(3)]]
+    ==
+    - Connected threads;
+    - a line of succession in kindred;
+    - to continue, to enter on the duties or pursuits of others;
+    - to adopt;
+    - succeeding to, successively, to follow after;
+    - _kai(3) (5)m(o\)_
+        [[gai3 mou5]],
+        a stepmother;
+    - _(4)shing kai(3) (2)tsai_
+        [[sing4 gai3 zai2]],
+        an adopted son;
+    - _kai(3) ~~ts(')(a/)p(9)~~ ``ts(a/)p(9)``_
+        [[gai3 zaap6]]
+        hereditary nobility;
+    - _kai(3) wai(6)_
+        [[gai3 wai6]]
+        lineal successor.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~119 計(3)]]
