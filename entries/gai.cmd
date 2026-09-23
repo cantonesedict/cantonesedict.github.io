@@ -26,6 +26,31 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~119 (1)筓; here normalised to 笄]]
+    ==
+    - A hair-pin, broad and bent,
+      laid on the back of the head,
+      put on when married;
+    - the coiffure;
+    - _met._ puberty;
+    - _(1)kai (a/)t(8)_
+        [[gai1 aat3]]
+        a hair-pin;
+    - _(1)kai (5)lai_
+        [[gai1 lai5]],
+        braiding up the hair when about to be married;
+    - _(4)n(i/)n k(')ap(9) (1)kai_
+        [[nin4 kap6 gai1]],
+        marriageable.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~119 (1)鷄(1)雞]]
     ==
     - The cock;
