@@ -462,3 +462,34 @@ P
   ++
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~118 嫁(3)]]
+    ==
+    - To marry a husband, to send a bride to her husband's house;
+    - to cast imputations on another, to implicate;
+    - _k(a/)(3) (1)f(u/)_
+        [[gaa3 fu1]],
+        to marry;
+    - _k(a/)(3) (5)n(u:)_
+        [[gaa3 neoi5-2]],
+        to give a daughter in marriage;
+    - _k(a/)(3) (4)l(i/)m_
+        [[gaa3 lim4]],
+        a dowry;
+    - _k(a/)(3) wo(6)_
+        [[gaa3 wo6]]
+        to bring evil on one;
+    - _(1)f(a/)n (4)t(')au k(a/)(3)_
+        [[faan1 tau4 gaa3]]
+        a second marriage;
+    - _sung(3) k(a/)(3)_
+        [[sung3 gaa3]]
+        last visit to a girl before her wedding.
+    ==
+  ====
+$$
+##>
