@@ -256,3 +256,39 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - gai6-2 (vernacular rising-tone noun)
+  ==
+W
+  ====
+  - [[Page~120 ::~~{？=⿰亻⿱曰匂}~~``偈``(6)::]]
+    ==
+    - An enigma or apothegm in Budhist books;
+    - to rest, to cease;
+    - _(2)kong ~~Fat(7)~~ ``Fat(9)`` kai(6)_
+        [[gong2 fat6 gai6-2]]
+        to explain the apothegms of Budhism;
+    - _(1)ch(i/) kai(6)_
+        [[zi1 gai6-2]]
+        to know these enigmas, to understand one's wishes, to take a cue;
+    - _(5)n(i/) (5)mai (2)kong kai(6)_
+        [[nei5 mai5 gong2 gai6-2]]
+        don't pull yourself.
+    ==
+  - [[Page~718 {？=⿰亻⿱曰匂}(6)]]
+    --
+    Should be written 偈.
+    --
+    ==
+    - It is also used colloquially for a hinge, a pivot, a joint of the body;
+    - _kwat(7) kai(6)_
+        [[gwat1 gai6-2]]
+        a joint.
+    ==
+  ====
+$$
+##>
