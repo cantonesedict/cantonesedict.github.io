@@ -10782,6 +10782,11 @@
 "isCanonical":true,
 "williams":"h(a/)k(9)",
 "text":"U+5580 嗄 (Cantonese) 【喀】 (haak6) An interjection of acknowledgement. The spelling 喀 is arbitrary."
+},
+"kak1":{
+"isCanonical":false,
+"williams":"k(')ak(7)",
+"text":"U+5580"
 }
 },
 "嚇":{
@@ -11357,7 +11362,7 @@
 "kak1":{
 "isCanonical":true,
 "williams":"k(')ak(7)",
-"text":"U+63E2 喀 (Page 718 _K'ak_ (kak1) exemplified; here assigned to 揢) A colloquial word. Uneven, interrupted; _lak k'ak_ (lak1 kak1 肋揢) difficult, not smooth; _lo ho lak k'ak_ (lou6 hou2 lak1 kak1 路好肋揢) the road is very rough; _kong tak lak lak k'ak k'ak_ (gong2 dak1 lak1 lak1 kak1 kak1 講得肋肋揢揢) to stammer, to hesitate. 【肋揢】 (lak1 kak1) Unsmooth, stuttering. The spelling 肋揢 is arbitrary. Wiktionary as of 2026-05-31 suggests 犖确 \"rocky/uneven\" (whose expected reading is lok6 hok6) as a possible etymology. On the other hand, I am more inclined to believe that 揢 kak1 is cognate with 撠 kik1 (TODO)."
+"text":"U+63E2 喀 (Cantonese) (Page 718 _K'ak_ (kak1) exemplified; here assigned to 揢) A colloquial word. Uneven, interrupted; _lak k'ak_ (lak1 kak1 肋揢) difficult, not smooth; _lo ho lak k'ak_ (lou6 hou2 lak1 kak1 路好肋揢) the road is very rough; _kong tak lak lak k'ak k'ak_ (gong2 dak1 lak1 lak1 kak1 kak1 講得肋肋揢揢) to stammer, to hesitate. 【肋揢】 (lak1 kak1) Unsmooth, stuttering. The spelling 肋揢 is arbitrary. Wiktionary as of 2026-05-31 suggests 犖确 \"rocky/uneven\" (whose expected reading is lok6 hok6) as a possible etymology. On the other hand, I am more inclined to believe that 揢 kak1 is cognate with 撠 kik1 (TODO)."
 }
 },
 "之":{

@@ -47,10 +47,33 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($喀1)
 - $揢1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 喀1 | _K(')ak(7)_ [[kak1]]
+
+$$.
+R
+  ⼝ + 9
+U
+  U+5580
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 揢 (Cantonese). **See $揢kak1 for the canonical entry.**
+  ++
+S
+  ==
+  - $喀haak3
+  - $喀haak6
+  ==
+$$
 
 ### ``揢``1 | _K(')ak(7)_ [[kak1]]
 
@@ -61,7 +84,7 @@ U
   U+63E2
 A
   ==
-  - 喀
+  - $喀1 (Cantonese)
   ==
 F
   [[Not present]]

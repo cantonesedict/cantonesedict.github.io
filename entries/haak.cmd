@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haak
-* %date-modified --> 2026-08-15
+* %date-modified --> 2026-09-24
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -175,6 +175,7 @@ P
 S
   ==
   - $喀haak6
+  - ($喀kak1)
   ==
 $$
 
@@ -398,5 +399,6 @@ E
 S
   ==
   - $喀haak3
+  - ($喀kak1)
   ==
 $$
