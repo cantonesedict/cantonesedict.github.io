@@ -209,3 +209,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~718 ::~~？~~``蟿``(3)::]]
+    ==
+    - A locust;
+    - _k(')ai(3) (1)chung_
+        [[kai3 zung1]],
+        a large grasshopper.
+    ==
+    --
+    Read _kai(3)_ [[gai3]] a sort of frog.
+    --
+  ====
+C
+  ==
+  - Williams misprints the headword with a malformed top-left component
+    (equivalent to 專 minus 寸); here corrected.
+  ==
+$$
+##>
