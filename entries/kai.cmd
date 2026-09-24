@@ -142,3 +142,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~120 (2)綮]]
+    ==
+    - A lasting kind of silk;
+    - cover of a lance-head;
+    - a scolloped bannerol borne by aides-de-camp or escort.
+    ==
+    --
+    Read _hing(3)_ [[hing3]], the sides or ribs.
+    --
+  ====
+$$
+##>
