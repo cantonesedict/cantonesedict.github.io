@@ -159,3 +159,53 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~120 契(3)]]
+    ==
+    - A covenant, bond, deed, lease, agreement,
+      whatever is drawn up between contracting parties;
+    - quipos were anciently used;
+    - to compare or produce the parts of a check, to join;
+    - mournful, distressed;
+    - adopted, devoted to a god or person;
+    - a spit used in scorching tortoise-shells for divination;
+    - frightened;
+    - _k(')ai(3) y(e/)uk(8)_
+        [[kai3 joek3]]
+        a written agreement;
+    - _(1)sh(u:) k(')ai(3)_
+        [[syu1 kai3]]
+        documents;
+    - _k(')ai(3) f(u/)(6)_
+        [[kai3 fu6]]
+        one honored or served somewhat as a godfather;
+    - _k(')ai(3) (2)tsai_
+        [[kai3 zai2]],
+        a child so adopted;
+    - _k(')ai(3) tai(6)_
+        [[kai3 dai6]]
+        a sodomite,---a term of abuse;
+    - _k(')ai(3) sh(u:)(6)_
+        [[kai3 syu6]]
+        to ask the protection of
+        [the _(4)yung sh(u:)(6)_ [[jung4 syu6]] or banian] tree;
+    - _k(')ai(3) (4)shan_
+        [[kai3 san4]],
+        to devote one's self to a god;
+    - _(5)l(o\) k(')ai(3)_
+        [[lou5 kai3]]
+        two persons whose children have interchanged homage to them;
+        old fellow!---a compellation used by near friends.
+    ==
+    --
+    _K(')ai(3) (1)t(a/)n_ [[kai3 daan1]],
+    the nation which ruled Northern China from A.D.~1118 to 1235,
+    under the name of the Golden dynasty [[金朝]].
+    --
+  ====
+$$
+##>
