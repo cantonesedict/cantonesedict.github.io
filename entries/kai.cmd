@@ -79,3 +79,51 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~120 (2)啓; here normalised to 啟]]
+    ==
+    - To open, to explain, to make clear;
+    - to signify to, to tell a superior;
+    - to reveal, to make known (by revelation);
+    - to inform, to state;
+    - to instruct;
+    - to kneel;
+    - to divide, to separate, to distinguish;
+    - to publish a book;
+    - the van or left wing of an army;
+    - clear sky after a rain;
+    - the morning star is called _(2)k(')ai (4)ming_ [[kai2 ming4]],
+      harbinger of brightness;
+    - _(2)k(')ai fuk(9)_
+        [[kai2 fuk6]]
+        a horse having a white right forefoot;
+    - to begin, as spring or summer;
+    - _king(3) (2)k(')ai (2)ch(e/)_
+        [[ging3 kai2 ze2]],
+        he who respectfully states---opening phrase in a letter;
+    - _(2)k(')ai (4)mung_
+        [[kai2 mung4]],
+        to teach the ignorant;
+    - _(2)k(')ai (2)hau_
+        [[kai2 hau2]],
+        to speak, to teach;
+    - _(2)k(')ai (1)chau_
+        [[kai2 zau1]],
+        to set sail;
+    - _(2)k(')ai tik(9)_
+        [[kai2 dik6]]
+        to undeceive, to propagate truth, to point out the right way;
+    - _f(u/)(3) (2)k(')ai_
+        [[fu3 kai2]],
+        a postscript or inclosure in a letter;
+    - _(1)on (2)k(')ai_
+        [[on1 kai2]],
+        open [the envelope] calmly---a superscription on letters.
+    ==
+  ====
+$$
+##>
