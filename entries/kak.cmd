@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> kak
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-09-24
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
-
---{.modern}
-(From Page~718 of the original onwards.)
---
 
 #{.williams} K(')ak. [[kak]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - K(')ak. [[Page~718]]
+  ==
+WP
+  ==
+  - K(')ak <span class="modern">= *[kʰɐk̚]</span>
+  ==
+MP
+  ==
+  - kak = [kʰɐk̚]
+  ==
+$$
