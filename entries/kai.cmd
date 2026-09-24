@@ -21,3 +21,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~120 (1)溪(1)谿]]
+    ==
+    - A clear mountain streamlet, a pellucid pool among the hills;
+    - a valley with a rivulet in it;
+    - the headwaters of a river;
+    - a creek, a ditch, or water-course;
+    - _met._ what is handed down, as doctrine;
+    - _ti(u/)(3) (1)k(')ai_
+        [[diu3 kai1]],
+        to fish in streams.
+    ==
+  ====
+$$
+##>
