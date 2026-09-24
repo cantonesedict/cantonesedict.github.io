@@ -127,3 +127,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~120 (2)棨]]
+    ==
+    - A passport or sign made of carved wood;
+    - an embroidered streamer on a lance
+      sent by way of credence with messengers,
+      or borne in state.
+    ==
+  ====
+$$
+##>
