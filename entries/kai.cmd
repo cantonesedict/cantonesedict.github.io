@@ -40,3 +40,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~120 (1)稽]]
+    ==
+    - To examine into, to deliberate, to compare;
+    - to inquire into;
+    - to detain, to stop, to embarrass;
+    - to reach to;
+    - to prostrate, to bow to the ground;
+    - _~~(1)k(')ai~~ ``(2)k(')ai`` ~~(1)shau~~ ``(2)shau``_
+        [[kai2 sau2]],
+        to knock head; <# TODO: normalise to $稽kai2 #>
+    - _(2)f(a/)n (4)shun (1)s(e/)ung (1)k(')ai_
+        [[faan2 seon4 soeng1 kai1]],
+        mutual bickerings;
+    - _(1)k(')ai (4)ch(')(a/)_
+        [[kai1 caa4]],
+        to examine into or search out.
+    ==
+  ====
+$$
+##>
