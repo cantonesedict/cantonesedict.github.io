@@ -26,6 +26,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~120 (1)嵇]]
+    ==
+    - Name of a mountain in Poh chau [[亳州]]
+      in the department of Yingchau [[潁州]] in Ng(a/)nhwui [[安徽]];
+    - a surname.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~120 (1)溪(1)谿]]
     ==
     - A clear mountain streamlet, a pellucid pool among the hills;
