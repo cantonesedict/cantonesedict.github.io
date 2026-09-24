@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-09-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -994,8 +994,8 @@ E
   The spelling 搽 is arbitrary (but attested in [Eitel (1877)][eitel-dict-搽]).
   --
   --
-  [Wiktionary as of 2026-01-01][wiktionary-䵦] suggests 䵦
-  as the original character, but I am not convinced of this.
+  [Wiktionary as of 2025-02-01][wiktionary-䵦] takes 䵦
+  to be the original character, but I am not convinced of this.
   While the classical meaning (to dirty) is reasonable,
   the reading per 《廣韻》徐野切 is _(5)ts(')(a/)_, not _(5)ch(')(a/)_.
   The second is required if it is cognate with level-tone $搽caa4,
@@ -1008,4 +1008,4 @@ S
 $$
 
 [eitel-dict-搽]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=10
-[wiktionary-䵦]: https://en.wiktionary.org/w/index.php?title=䵦&oldid=73583243
+[wiktionary-䵦]: https://en.wiktionary.org/w/index.php?title=䵦&oldid=83799917
