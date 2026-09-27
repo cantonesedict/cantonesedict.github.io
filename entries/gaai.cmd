@@ -143,6 +143,50 @@ $$
 $$
 W
   ====
+  - [[Page~121 (1)街]]
+    ==
+    - A street in a town, a thoroughfare;
+    - market where people pass;
+    - _(5)sh(e/)ung (1)k(a/)i_
+        [[soeng5 gaai1]],
+        to go ashore;
+    - _(1)f(a/) (1)k(a/)i (5)lau hong(6)_
+        [[faa1 gaai1 lau5 hong6]]
+        street of courtesans;
+    - _ch(')ut(7) (1)k(a/)i_
+        [[ceot1 gaai1]],
+        gone abroad, gone out;
+    - _yat(7) (4)t(')i(u/) (1)k(a/)i hong(6)_
+        [[jat1 tiu4 gaai1 hong6]]
+        a single street;
+    - _(1)k(a/)i (1)fong_
+        [[gaai1 fong1]]
+        a neighborhood, the householders of three or four streets, a ward;
+    - _(1)k(a/)i ch(a/)p(9)_
+        [[gaai1 zaap6]]
+        a street gate;
+    - _(1)k(a/)i sh(e/)ung(6)_
+        [[gaai1 soeng6]]
+        in the street or market;
+    - _(1)k(a/)i (4)lai (2)kong_
+        [[gaai1 lai4 gong2]],
+        street news;
+    - _(4)ch(')(a/) (1)k``(a/)``i_
+        [[caa4 gaai1 查街]],
+        to patrol the streets.
+    ==
+  ====
+C
+  ==
+  - Williams' 查街: Inferred incompletely printed letter _(a/)_ in _(1)k(a/)i_.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~121 (1)階]]
     ==
     - Steps, especially the stone ones at the door;
