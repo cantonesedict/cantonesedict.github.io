@@ -21,3 +21,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~122 (5){𢬿=⿰扌戒} _(5)^K(a/)i_ (gaai5); here corrected to _(5)K(')(a/)i_ (kaai5)]]
+    ==
+    - A colloquial word---\
+      to pass (at table), to take, to carry in the hand, to bring for use;
+    - _~~(5)^k(a/)i~~ ``(5)k(')(a/)i`` (2)p(a/) (1)t(o\) ~~(5)^tsai~~ ``(2)tsai`` (4)lai (5)ngo_
+        [[kaai5 baa2 dou1 zai2 lai4 ngo5]],
+        bring me a penknife;
+    - _(5)n(i/) (2)shau ~~(5)^k(a/)i~~ ``(5)k(')(a/)i`` mat(7) (5)y(e/)_
+        [[nei5 sau2 kaai5 mat1 je5]],
+        what are you carrying?
+    - _~~(5)^k(a/)i~~ ``(5)k(')(a/)i`` (4)ch(')(a/) (4)lai_
+        [[kaai5 caa4 lai4]],
+        bring tea.
+    ==
+  ====
+$$
+##>
