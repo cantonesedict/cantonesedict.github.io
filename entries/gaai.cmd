@@ -110,3 +110,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~121 (1)階]]
+    ==
+    - Steps, especially the stone ones at the door;
+    - the ascent to a hall, a flight of stairs;
+    - a grade, a degree, a rank;
+    - gradation;
+    - a source or cause of some evil;
+    - to rise, to emulate;
+    - _(1)k(a/)i k(')ap(7)_
+        [[gaai1 kap1]]
+        a step, a grade in office;
+    - _(1)t(')(i/)n (1)k(a/)i_
+        [[tin1 gaai1]],
+        the large stone steps at doorways;
+    - _(4)yau (1)kam (1)k(a/)i_
+        [[jau4 gam1 gaai1]],
+        to 'enter the golden steps' _i.e._ the palace,
+        is the privilege of the three highest H(a/)nlin [[翰林]] graduates;
+    - _(4)t(')oi (1)k(a/)i_
+        [[toi4 gaai1]],
+        your house;
+    - _(1)K(a/)i (1)chau_
+        [[gaai1 zau1]],
+        a prefecture in K(a/)nsuh [[甘肅]].
+    ==
+  ====
+$$
+##>
