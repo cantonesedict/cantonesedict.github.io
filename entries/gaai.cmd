@@ -373,6 +373,30 @@ $$
 $$
 W
   ====
+  - [[Page~123 届(3)屆(3)]]
+    ==
+    - To reach to, to arrive at or tend towards, in time or place;
+    - a limit, terminus, set time;
+    - the summit, the extreme point;
+    - unfortunately, unluckily;
+    - _k(a/)i(3) (4)k(')(i/)_
+        [[gaai3 kei4]],
+        come at the time, punctual;
+    - _ts(i/)t(8) k(a/)i(3) h(a/)(6) ch(i/)(3)_
+        [[zit3 gaai3 haa6 zi3]]
+        it is now the midsummer term;
+    - _(1)t(')(i/)n k(a/)i(3)_
+        [[tin1 gaai3]]
+        the horizon, limits of things.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 廨(3)]]
     ==
     - A hall or suite of rooms in a prefect's office,
