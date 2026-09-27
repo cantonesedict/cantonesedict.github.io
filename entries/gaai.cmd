@@ -388,6 +388,19 @@ $$
 $$
 W
   ====
+  - [[Page~123 悈(3)]]
+    ==
+    - To enjoin, to urge upon one's attention;
+    - fearful, chary of.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~123 戒(3)]]
     ==
     - A boundary or limit;
