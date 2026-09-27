@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~124 挌(8)]]
+    ==
+    - To strike, to attack, to box;
+    - to fight with beasts;
+    - to fend off or stop a thing;
+    - _(2)tong k(a/)k(8)_
+        [[dong2 gaak3]]
+        to break a blow;
+    - _k(a/)k(8) tau(3)_
+        [[gaak3 dau3]]
+        fighting;
+    - _k(a/)k(8) (4)k(')(u:)n (4)t(')au_
+        [[gaak3 kyun4 tau4]],
+        to fence, to box.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~124 ::~~{？=⿰糹⿱龷⿻中二}~~``緙``(8)::]]
     ==
     - To weave, or put the threads of the woof in;
