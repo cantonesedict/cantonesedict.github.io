@@ -139,3 +139,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~124 骼(8)]]
+    ==
+    - The skeleton of a man or beast;
+    - the bones sticking out, lean;
+    - _(2)t(')ai (5)k(')(u:) kwat(7) k(a/)k(8)_
+        [[tai2 keoi5 gwat1 gaak3]]
+        look even to his bones, narrowly examine his character.
+    ==
+  ====
+$$
+##>
