@@ -874,7 +874,7 @@ W
     ==
     - A kingfisher, with beautiful plumage [[Kangxi: 赤羽雀也出鬱林, 鳥似翠而赤]];
     - the cock is called _~~f(i/)(6)~~ ``(2)f(i/)``_ [[fei2 翡]]^,
-      the hen _ts(')ui(3)_ [[ceoi3 翠]] [[Kangxi: 翠鳥形如燕赤而雄曰翡靑而雌曰翠]];
+      the hen _ts(')ui(3)_ [[ceoi3 翠]] [[Kangxi: 翠鳥形如燕赤而雄曰翡靑而雌曰翠]]^;
     - _~~f(i/)(6)~~ ``(2)f(i/)`` ts(')ui(3) yuk(9)_
         [[fei2 ceoi3 juk6 翡翠玉]]
         ~~chrysoprase~~ ``jadeite``.

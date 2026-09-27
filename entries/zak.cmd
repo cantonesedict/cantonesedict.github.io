@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -395,7 +395,7 @@ W
   - [[Page~551 鯽(7); here normalised to 鰂]]
     ==
     - A species of bream _(Cyprinus gibelioides)_ with a long dorsal,
-      called _tsak(7) ~~(5)n(a/)~~ ``(2)n(a/)`` (4)(u:)_ [[zak1 naa2 jyu4-2 鰂乸魚]];
+      called _tsak(7) ~~(5)n(a/)~~ ``(2)n(a/)`` (4)(u:)_ [[zak1 naa2 jyu4-2 鰂乸魚]]_;_
     - _shuk(7) kwat(7) tsak(7)_
         [[suk1 gwat1 zak1 縮骨鰂]]
         the blunt headed bream _(Cyprinus abbreviatus);_

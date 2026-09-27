@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-08-16
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2291,7 +2291,7 @@ W
     ==
     - The framer of the seal character,
       _Chau(6) ~~t(')^(a/)i(6)~~ ``t(')(a/)i(3)`` (2)sz'_
-        [[zau6 taai3 si2 籀太史]] [[Kangxi 籒: 史籒周宣王太史名造大篆]];
+        [[zau6 taai3 si2 籀太史]] [[Kangxi 籒: 史籒周宣王太史名造大篆]]_;_
     - _chau(6) (4)man_
         [[zau6 man4 籀文]],
         the seal character [[Kangxi 籒: 籒文者史籒所作也 etc.]].

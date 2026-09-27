@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -78,7 +78,7 @@ W
     --
   - [[Page~15* 尺(9) _Ch(')ik(9)_ (cik6); _Ch(')ek(9)_ (cek6) implied by variational note; here corrected to _Ch(')ek(8)_ (cek3)]]
     ==
-    - A cubit, or 10~_ts(')(u:)n(3)_ [[Kangxi: 十寸也]];
+    - A cubit, or 10~_ts(')(u:)n(3)_ [[Kangxi: 十寸也]]_;_
     - the Chinese foot;
     - _~~ch(')ek(9)~~ ``ch(')ek(8)`` ts(')(u:)n(3)_
         [[cek3 cyun3 尺寸]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -237,7 +237,7 @@ W
         [[coek3 zi2 桌子]]
         a table;
     - _(2)(i/) ch(')(e/)uk(8)_
-        [[ji2 coek3 椅桌]];
+        [[ji2 coek3 椅桌]]
         tables and chairs.
     ==
     --
@@ -482,7 +482,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(e/)uk(8)_ [[coek3]];
+    Read _ch(')(e/)uk(8)_ [[coek3]]_;_
     --
     ==
     - to leap far and high [[Kangxi: 踔高遠也]];

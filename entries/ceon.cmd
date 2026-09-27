@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -603,7 +603,7 @@ W
     - A decade of years or days [[Kangxi: 徧也十日爲旬]];
     - a complete number finished, completed [[Kangxi: 徧也]];
     - the whole of [[Kangxi: 旬均也]];
-    - in mourning, seven days make a _(4)ts(')un_ [[旬]];
+    - in mourning, seven days make a _(4)ts(')un_ [[旬]]_;_
     - _(4)ts(')un sui(3)_
         [[ceon4 seoi3 旬歲]]
         a complete year [[Kangxi: 旬滿也旬歲猶言滿歲也]];

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1112,7 +1112,7 @@ W
   ====
   - [[Page~39* (1)鍾]]
     ==
-    - ~~A measure equal to 4~_tau_ [[dau 斗]];~~
+    - ~~A measure equal to 4~_tau_ [[dau 斗]]_;_~~
     - [[...]];
     - to collect``, to concentrate`` [[Kangxi: 聚也]];
     - ~~to bestow, to confer~~ ``that bestowed or conferred from Heaven`` [[Kangxi: 天所賦予亦曰鍾]];

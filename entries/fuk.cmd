@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-08-15
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1080,7 +1080,7 @@ W
   - [[Page~64 茯(9)]]
     ==
     - China-root _(Smilax ~~China~~ ``glabra``)_
-      called _fuk(9) (4)ling_ [[fuk6 ling4 茯苓]];
+      called _fuk(9) (4)ling_ [[fuk6 ling4 茯苓]]_;_
     - _(2)t(')(o\) fuk(9) (4)ling_
         [[tou2 fuk6 ling4 土茯苓]],
         Canton China-root;
@@ -1114,7 +1114,7 @@ W
   - [[Page~64 袱(9)]]
     ==
     - A square cloth wrapper,
-      called _(1)p(a/)u fuk(9)_ [[baau1 fuk6 包袱]];
+      called _(1)p(a/)u fuk(9)_ [[baau1 fuk6 包袱]]^;
     - _(2)shau fuk(9)_
         [[sau2 fuk6 手袱]]
         a handkerchief.

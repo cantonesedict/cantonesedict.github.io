@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -312,7 +312,7 @@ W
     [[...]]
     --
     --
-    Read _(2)ts(')am_ [[cam2]];
+    Read _(2)ts(')am_ [[cam2]]_;_
     --
     ==
     - diminutive, small [[Kangxi: 貌不揚也, 短小曰侵]].

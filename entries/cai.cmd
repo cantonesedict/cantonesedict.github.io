@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -454,7 +454,7 @@ W
     [[...]]
     --
     --
-    Also read _ts(')ai(3)_ [[cai3]];
+    Also read _ts(')ai(3)_ [[cai3]]_;_
     --
     ==
     - to give a daughter as wife to one [[Kangxi: 以女嫁人曰妻之]].

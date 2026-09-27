@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -146,7 +146,7 @@ W
     [[...]]
     --
     --
-    Also read _ak(7)_ [[ak1]];
+    Also read _ak(7)_ [[ak1]]_;_
     --
     ==
     - _ak(7) ak(7)_

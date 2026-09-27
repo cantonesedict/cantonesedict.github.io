@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1326,7 +1326,7 @@ W
   ====
   - [[Page~28|n71 (5){𧽒=⿺走臭}]]
     --
-    Read _ch(')au(3)_ [[cau3]];
+    Read _ch(')au(3)_ [[cau3]]_;_
     --
     ==
     - to walk, to go as if weary [[Kangxi: 行也, 䠢{𧽒=⿺走臭}疲行貌]].

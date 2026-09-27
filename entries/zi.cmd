@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4608,7 +4608,7 @@ W
   ====
   - [[Page~9* 觶(3)]]
     ==
-    - A goblet or cup [[Kangxi: 鄕飮酒角也, 酒觴也]] holding three _(1)shing_ [[sing1 升]] or gills [[Kangxi: 三升曰觶觶適也]];
+    - A goblet or cup [[Kangxi: 鄕飮酒角也, 酒觴也]] holding three _(1)shing_ [[sing1 升]] or gills [[Kangxi: 三升曰觶觶適也]]^;
     - a cup;
     - ~~to fine one so many cups.~~
     ==
@@ -6186,7 +6186,7 @@ W
     [[...]]
     --
     --
-    Read _~~(2)ch(i/)~~ ``ch(i/)(6)``_ [[zi6]];
+    Read _~~(2)ch(i/)~~ ``ch(i/)(6)``_ [[zi6]]_;_
     --
     ==
     - the 153d~radical [[U+2F98 ⾘ "badger"]] of characters of ~~feline~~ ``long-backed`` beasts ``ready to pounce`` [[Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::]];

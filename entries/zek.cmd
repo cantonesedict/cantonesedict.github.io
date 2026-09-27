@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -663,7 +663,7 @@ W
   ====
   - [[Page~569 鶺(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
-    - A wagtail, called _~~tsik(8)~~ ``tsek(8)`` (4)ling_ [[zek3 ling4 鶺鴒]] [[Kangxi: 鶺鴒]];
+    - A wagtail, called _~~tsik(8)~~ ``tsek(8)`` (4)ling_ [[zek3 ling4 鶺鴒]] [[Kangxi: 鶺鴒]]_;_
     - it has a mottled, black neck;
     - another name for it is _(4)ts(')(i/)n (5)m(o\)_ [[cin4 mou5 錢母]],
       or money mother.

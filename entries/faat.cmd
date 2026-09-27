@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -239,10 +239,10 @@ W
         angry;
     - _f(a/)t(8) (1)fo_
         [[faat3 fo1 發科]],
-        to become a _k(u:)yan_ [[舉人]];
+        to become a _k(u:)yan_ [[舉人]]_;_
     - _f(a/)t(8) k(a/)p(8)_
         [[faat3 gaap3 發甲]]
-        to become a _tsunsz'_ [[進士]];
+        to become a _tsunsz'_ [[進士]]^;
     - _f(a/)t(8) h(o\)(6)_
         [[faat3 hou6 發號]]
         to make a signal;

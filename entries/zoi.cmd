@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-09-13
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -247,7 +247,7 @@ W
     - _sung(3) (2)fo (1)tsoi_
         [[sung3 fo2 zoi1 送火災]],
         to dismiss all risk of fire,
-        as is done at a _~~(2)ta~~ ``(2)t(a/)`` tsi(u/)(3)_ [[daa2 ziu3 打醮]];
+        as is done at a _~~(2)ta~~ ``(2)t(a/)`` tsi(u/)(3)_ [[daa2 ziu3 打醮]]_;_
     - _(2)shui (1)tsoi_
         [[seoi2 zoi1 水災]],
         a flood;

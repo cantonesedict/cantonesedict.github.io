@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -419,7 +419,7 @@ W
         [[faan1 on3 翻案]]
         to rejudge a case;
     - _ti(u/)(6) (1)f(a/)n (2)sh(a/)ng_
-        [[diu6 faan1 saang2 調翻省]];
+        [[diu6 faan1 saang2 調翻省]],
         ~~to~~ to carry a case to the capital;
     - [[...]].
     ==
@@ -540,7 +540,7 @@ W
         resuscitated;
     - [[...]];
     - _(1)f(a/)n h(u:)(3) (1)kwai_
-        [[faan1 heoi3 gwai1 返去歸]];
+        [[faan1 heoi3 gwai1 返去歸]],
         to go home;
     - _f(a/)i(3) (1)f(a/)n (1)kwai_
         [[faai3 faan1 gwai1 快返歸]]^
@@ -1269,10 +1269,10 @@ W
         [[daai6 faan4 so2 jau5 大凡所有]],
         people generally have it;
     - _~~(5)h(a/)~~ ``h(a/)(6)`` (4)f(a/)n_
-        [[haa6 faan4 下凡]];
+        [[haa6 faan4 下凡]],
         to enter the world;
     - _(1)sz' (4)f(a/)n_
-        [[si1 faan4 思凡]];
+        [[si1 faan4 思凡]],
         to think of marrying (said of a bonze).
     ==
   ====

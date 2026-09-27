@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -1699,7 +1699,7 @@ W
     [[...]]
     --
     --
-    Read _ts(i/)n(3)_ [[zin3]];
+    Read _ts(i/)n(3)_ [[zin3]]_;_
     --
     ==
     - to decoct, to boil, to digest with heat;

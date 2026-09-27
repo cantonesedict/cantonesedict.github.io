@@ -786,7 +786,7 @@ W
     [[...]]
     --
     --
-    Read _chang(3)_ [[zang3]];
+    Read _chang(3)_ [[zang3]]^;
     --
     ==
     - ~~to file~~ ``to break, to snap`` [[Kangxi: 掙剉也]]~~;~~``.``

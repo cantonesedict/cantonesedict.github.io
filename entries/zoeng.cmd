@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -412,7 +412,7 @@ W
   ====
   - [[Page~33|n76 (1)樟]]
     ==
-    - The camphor _(Laurus camphora)_ [[Kangxi: 豫樟木也 etc.]];
+    - The camphor _(Laurus camphora)_ [[Kangxi: 豫樟木也 etc.]]_;_
     - _(1)ch(e/)ung muk(9)_
         [[zoeng1 muk6 樟⽊]]
         camphor wood;

@@ -808,7 +808,7 @@ W
     [[...]]
     --
     --
-    Also spoken _(a/)(6)_ [[aa6]];
+    Also spoken _(a/)(6)_ [[aa6]]^;
     --
     ==
     - ten, used ~~after a higher number~~ ``between syllables``;

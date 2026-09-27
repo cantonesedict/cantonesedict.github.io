@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -353,7 +353,7 @@ W
     [[...]]
     --
     --
-    Read _(2)chan_ [[zan2]];
+    Read _(2)chan_ [[zan2]]_;_
     --
     ==
     - rich, affluent, wealthy [[Kangxi: 富也]].

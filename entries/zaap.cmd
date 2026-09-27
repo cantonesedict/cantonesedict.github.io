@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ W
         ~~a remonstrance~~;
     - _k(a/)m(3) ch(a/)p(8)_
         [[gaam3 zaap3 監劄]]
-        a diploma bought by a _kiensang_ [[監生]];
+        a diploma bought by a _kiensang_ [[監生]]_;_
     - _ch(a/)p(8) k(a/)(3) (4)ts(')(i/)n_
         [[zaap3 gaa3 cin4 劄價錢]],
         write the prices;

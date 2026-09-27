@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -904,7 +904,7 @@ W
     - A large ~~locust~~ ``grasshopper``, called _(5)m(a/) ch(a/)(3)_
         [[maa5 zaa3 螞蚱]]
       or _ch(a/)(3) ~~(5)mang~~ ``(5)m(a/)ng``_
-        [[zaa3 maang5 蚱蜢]];
+        [[zaa3 maang5 蚱蜢]]_;_
     - _ch(a/)(3) ~~(4)sh(i/)n~~ ``(4)sh(i/)m``_
         [[zaa3 sim4 蚱蟬]],
         a small species of cicada.
@@ -959,7 +959,7 @@ W
     [[...]]
     --
     --
-    Read _ch(a/)(3)_ [[zaa3]];
+    Read _ch(a/)(3)_ [[zaa3]]_;_
     --
     ==
     - the sacrifice made at the winter solstice [[Kangxi: 年終祭名]],

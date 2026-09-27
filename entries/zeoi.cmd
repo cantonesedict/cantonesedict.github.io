@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -498,7 +498,7 @@ W
     [[...]]
     --
     --
-    Read _(1)tsui_ [[zeoi1]];
+    Read _(1)tsui_ [[zeoi1]]_;_
     --
     ==
     - the horns of an owl [[Kangxi: ::鴟[舊]頭上角觜也::]];
@@ -975,7 +975,7 @@ W
     [[...]]
     --
     --
-    ~~Read _(1)tsui_ [[zeoi1]];~~
+    ~~Read _(1)tsui_ [[zeoi1]]_;_~~
     --
     ==
     - [[...]];
@@ -1312,7 +1312,7 @@ W
     [[...]]
     --
     ==
-    - The second [[蕞]] is otherwise read _tsui(3)_ [[zeoi3]];
+    - The second [[蕞]] is otherwise read _tsui(3)_ [[zeoi3]]_;_
     - small, vile, base, insignificant [[Kangxi 蕞: 小貌]];
     - ~~_tsui(3) ts(u:)(6)_
         [[zeoi3 zeoi6 蕞聚]]
@@ -1344,7 +1344,7 @@ W
     [[...]]
     --
     --
-    Read _~~ts(u:)(6)~~ ``ts(u:)(3)``_ [[zeoi3]];
+    Read _~~ts(u:)(6)~~ ``ts(u:)(3)``_ [[zeoi3]]_;_
     --
     ==
     - ~~to act respectfully in order to flatter one~~ ``excessive`` [[Kangxi: 過也]];

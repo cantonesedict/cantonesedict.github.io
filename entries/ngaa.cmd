@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ W
     [[...]]
     --
     --
-    Read _(4)ng(a/)_ [[ngaa4]];
+    Read _(4)ng(a/)_ [[ngaa4]]_;_
     --
     ==
     - the wrangling of children;

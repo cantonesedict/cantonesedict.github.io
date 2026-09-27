@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,7 +77,7 @@ W
     [[...]]
     --
     --
-    Read _(1)ch(')(a/)ng_ [[caang1]];.
+    Read _(1)ch(')(a/)ng_ [[caang1]]^;
     --
     ==
     - to pierce, to stab [[Kangxi: 刺也]].
@@ -445,7 +445,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word``.``
+    Read _ch(')(a/)ng(3)_ [[caang3]]_;_ a colloquial word``.``
     --
     ==
     - To stretch out, to open;
@@ -545,7 +545,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word``.``
+    Read _ch(')(a/)ng(3)_ [[caang3]]_;_ a colloquial word``.``
     --
     ==
     - [[...]];

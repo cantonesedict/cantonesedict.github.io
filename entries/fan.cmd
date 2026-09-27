@@ -972,7 +972,7 @@ W
   ====
   - [[Page~45 (1)獯]]
     ==
-    - A tribe of aborigines, called _(1)fan yuk(9)_ [[fan1 juk6 獯鬻]] [[Kangxi: 獯鬻 etc.]];
+    - A tribe of aborigines, called _(1)fan yuk(9)_ [[fan1 juk6 獯鬻]] [[Kangxi: 獯鬻 etc.]]^;
     - they dwelt near Shens(i/) [[陝西]].
     ==
   ====

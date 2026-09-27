@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -981,7 +981,7 @@ W
     ==
   - [[Page~715 (1)玞]]
     ==
-    - Is the same as 砆 _(1)f(u/)_ [[fu1]];
+    - Is the same as 砆 _(1)f(u/)_ [[fu1]]_;_
     - it is probably a veined jasper.
     ==
   ====
@@ -1220,7 +1220,7 @@ W
   ====
   - [[Page~57 (1)趺]]
     ==
-    - To sit in audience or state, with the legs bent under one, _à la Turque_ [[Kangxi: 跏趺大坐也]];
+    - To sit in audience or state, with the legs bent under one, _à la Turque_ [[Kangxi: 跏趺大坐也]]^;
     - ~~_(1)f(u/) (1)f(u/) (4)(i/)n_
         [[fu1 fu1 jin4 趺趺然]],~~
         a woman bending to the ground in obeisance [[Kangxi: 拜于丈夫爲趺]].

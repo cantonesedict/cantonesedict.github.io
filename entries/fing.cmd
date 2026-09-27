@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fing
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -284,7 +284,7 @@ W
   - [[Page~714 after ^_Fing(6)_ (fing6)]]
     ==
     - The character 捹, has no authority;
-    - ~~it is read _pan(3)_ [[ban3]];~~
+    - ~~it is read _pan(3)_ [[ban3]]_;_~~
     - ~~the hands rapidly moving.~~
     ==
   ====

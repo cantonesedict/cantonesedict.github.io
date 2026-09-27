@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -372,7 +372,7 @@ W
         or
       _kw(a/)(3) (2)ts(')oi (4)ch(')au_ [[gwaa3 coi2 cau4 掛綵綢]],
         to hang festoons of silk,
-        as is done at the _(2)t(a/) tsi(u/)(3)_ [[daa2 ziu3 打醮]];
+        as is done at the _(2)t(a/) tsi(u/)(3)_ [[daa2 ziu3 打醮]]_;_
     - _(2)ts(')oi (4)k(')au_
         [[coi2 kau4 綵球]],
         a many colored ball;

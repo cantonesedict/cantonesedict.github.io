@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-08-17
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -318,7 +318,7 @@ W
         [[fau4 faan3 浮泛]]
         floating;
     - _vulg._ _~~(4)^p(o\) (4)^p(o\) p(a/)n(3)~~ ``(4)p(')(o\) (4)p(')(o\) p(')(a/)n(3)``_
-        [[pou4 pou4 paan3 浮浮泛]];
+        [[pou4 pou4 paan3 浮浮泛]]_;_
     - _(4)fau (4)(i/)n_
         [[fau4 jin4 浮言]],
         unmeaning words;
@@ -481,7 +481,7 @@ W
     ==
     - The plantago or plantain leaf,
       called _~~(2)fau~~ ``(4)fau`` (5)(i/)_
-        [[fau4 ji5 芣苡]] [[Kangxi: ::芣苢馬舄[馬舄車前]::]];
+        [[fau4 ji5 芣苡]] [[Kangxi: ::芣苢馬舄[馬舄車前]::]]_;_
     - _(1)ch(')(e/) (4)``t``s(')(i/)n (2)ts(')(o\)_
         [[ce1 cin4 cou2 車前草]]^
         is the common name;
@@ -520,7 +520,7 @@ W
   ====
   - [[Page~52 (4)蜉]]
     ==
-    - A large ant, called _(4)p(')(i/) (4)fau_ [[pei4 fau4 蚍蜉]] [[Kangxi: ::蚍蜉大[螘]::]];
+    - A large ant, called _(4)p(')(i/) (4)fau_ [[pei4 fau4 蚍蜉]] [[Kangxi: ::蚍蜉大[螘]::]]^;
     - _(4)fau (4)yau_
         [[fau4 jau4 蜉蝣]],
         an ephemera,

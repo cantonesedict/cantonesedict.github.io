@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -677,7 +677,7 @@ W
   ====
   - [[Page~36|n79 (1)菖]]
     ==
-    - The flag _(Acorus)_ [[Kangxi: 菖蒲蒲類之昌盛者]];
+    - The flag _(Acorus)_ [[Kangxi: 菖蒲蒲類之昌盛者]]_;_
     - _(1)ch(')(e/)ung (4)p(')(o\)_
         [[coeng1 pou4 菖蒲]],
         sweet flag, hung on door lintels to drive away maleficent influences.
@@ -1029,7 +1029,7 @@ W
         to grab at all.
     ==
     --
-    ~~Read _(1)ts(')ong_ [[cong1]]; to saw [[Kangxi: 搶搪鋸也]].~~
+    ~~Read _(1)ts(')ong_ [[cong1]]_;_ to saw [[Kangxi: 搶搪鋸也]].~~
     --
   ====
 C
@@ -1506,7 +1506,7 @@ W
         to open a gambling-house;
     - _yap(9) (1)fo (4)ch(')(e/)ung_
         [[jap6 fo1 coeng4 入科場]],
-        to enter the lists for a degree of _k(u:)jin_ [[舉人]];
+        to enter the lists for a degree of _k(u:)jin_ [[舉人]]_;_
     - _(1)k(u/)n (5)h(a/) (4)ch(')(e/)ung_
         [[gun1 haa5 coeng4 觀吓場]],
         made a trial;

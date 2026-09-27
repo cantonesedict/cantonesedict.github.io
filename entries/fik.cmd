@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fik
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -69,7 +69,7 @@ W
   - [[Page~714 {𠱥=⿰口卉}(7)]]
     <####
     --
-    Read _(i/)t(9)_ [[jit6]]; <## TODO: ngot6 per 《集韻》ngat ##>
+    Read _(i/)t(9)_ [[jit6]]_;_ <## TODO: ngot6 per 《集韻》ngat ##>
     --
     ==
     - wrangling, noisy [[Kangxi: 嘈嘈{𠱥=⿰口卉}{𠱥=⿰口卉}, 聲也]].
@@ -82,7 +82,7 @@ W
     A colloquial word.
     --
     ==
-    - Seems to be a mispronunciation of _fat(7)_ [[fat1]];
+    - Seems to be a mispronunciation of _fat(7)_ [[fat1]]_;_
     - _(1)f(a/) (1)f(a/) fik(7) fik(7)_
         [[faa1 faa1 fik1 fik1 花花{𠱥=⿰口卉}{𠱥=⿰口卉}]]
         fickle, inconstant, fitful, never finishing anything.

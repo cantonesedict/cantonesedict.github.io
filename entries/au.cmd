@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -221,7 +221,7 @@ W
     [[...]]
     --
     --
-    Read _(1)au_ [[au1]];
+    Read _(1)au_ [[au1]]_;_
     --
     ==
     - bubbles on the water [[Kangxi: 浮漚也]];

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-08-11
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -120,7 +120,7 @@ W
     --
     ==
     - A sign of ~~the past tense~~ ``completion``,
-      placed after verbs``,`` like _(1)hi(u/)_ [[hiu1 嘵]];
+      placed after verbs``,`` like _(1)hi(u/)_ [[hiu1 嘵]]_;_
     - _~~(1)ning~~ ``(1)ling`` (2)cho (4)lai_
         [[ling1 zo2 lai4 拎咗嚟]],
         brought it;

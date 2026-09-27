@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -742,7 +742,7 @@ W
   - [[Page~606 寸(3)]]
     ==
     - The Chinese inch [[Kangxi: 十分也]], regarded as long as the middle joint of the finger;
-    - the tenth of a foot, and varies according to the _ch(')ek(8)_ [[cek3 尺]] [[Kangxi: 十寸爲一尺]];
+    - the tenth of a foot, and varies according to the _ch(')ek(8)_ [[cek3 尺]] [[Kangxi: 十寸爲一尺]]_;_
     - a very little;
     - the 41st~radical [[U+2F28 ⼨ "inch"]];
     - _ts(')(u:)n(3) (1)sam_ [[cyun3 sam1 寸心]]^

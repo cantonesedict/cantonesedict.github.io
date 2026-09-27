@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-09-13
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1541,7 +1541,7 @@ W
     ==
     - A fabulous bird [[Kangxi: 神鳥也 etc.]],
       the male is called _fung(6)_ [[fung6 鳳]]^,
-      the female _(4)wong_ [[wong4 凰]];
+      the female _(4)wong_ [[wong4 凰]]_;_
     - the Chinese phœnix;
     - it seems to be derived from the argus pheasant;
     - the empress is poetically called _fung(6)_ [[fung6 鳳]].

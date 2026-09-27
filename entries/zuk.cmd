@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-08-30
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -889,7 +889,7 @@ W
   ====
   - [[Page~35* 妯(9)]]
     ==
-    - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]] [[Kangxi: 兄弟之妻相呼曰妯娌]];
+    - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]] [[Kangxi: 兄弟之妻相呼曰妯娌]]_;_
     - ~~also called _chau(3) (5)l(i/)_ [[zau3 lei5]]^ in Canton.~~
     ==
   ====

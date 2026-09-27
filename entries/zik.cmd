@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2134,7 +2134,7 @@ W
     - to use for a while;
     - to borrow from, to avail of, to make a means;
     - by;
-    - in all which senses it is often read _ts(e/)(3)_ [[ze3]];
+    - in all which senses it is often read _ts(e/)(3)_ [[ze3]]_;_
     - in confusion [[Kangxi: 狼藉離披雜亂貌]]~~, disturbed~~;
     - liberal, generous [[Kangxi: 寬博有餘也]];
     - to lead, as by a ~~string~~ ``rope`` [[Kangxi: 藉繩也]];

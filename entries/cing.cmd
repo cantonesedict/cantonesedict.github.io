@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-08-14
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -294,7 +294,7 @@ W
     - a designation, an appellation, a name;
     - _tsz'(6) (1)ch(')ing (4)k(')(i/) f(u/)(6) ~~(u:)t(8)~~ ``(u:)t(9)`` (1)k(a/) f(u/)(6)_
         [[zi6 cing1 kei4 fu6 jyut6 gaa1 fu6 自稱其父曰家父]]
-        one styles his own father _k(a/)-f(u/)_ [[gaa fu]];
+        one styles his own father _k(a/)-f(u/)_ [[gaa fu]]_;_
     - _(1)ch(')ing (1)f(u/)_
         [[cing1 fu1 稱呼]],
         termed;
@@ -1497,7 +1497,7 @@ W
   ====
   - [[Page~20* (4)程]]
     ==
-    - ~~The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]];~~
+    - ~~The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]_;_~~
     - a portion or percentage;
     - a rule, a pattern, a regulation [[Kangxi: 式也]], to rule;
     - a limit, a period [[Kangxi: 期也, 限也]];

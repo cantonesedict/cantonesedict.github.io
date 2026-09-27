@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -375,7 +375,7 @@ W
         sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]``.``
     ==
     --
-    Also read _(2)ch(')(e/)_ [[ce2]];
+    Also read _(2)ch(')(e/)_ [[ce2]]_;_
     --
     ==
     - the lower lip hanging down [[Kangxi: 脣下垂貌]].

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -368,7 +368,7 @@ W
     [[...]]
     --
     --
-    Read _ch(a/)i(3)_ [[zaai3]];
+    Read _ch(a/)i(3)_ [[zaai3]]_;_
     --
     ==
     - a strainer for spirits [[Kangxi: 壓酒具]].
