@@ -26,6 +26,34 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~121 (1)佳]]
+    ==
+    - Beautiful, fine, nice, good of its kind;
+    - excellence, goodness;
+    - _sham(6) (1)k(a/)i_
+        [[sam6 gaai1]],
+        exceeding good;
+    - _(1)k(a/)i (4)yan_
+        [[gaai1 jan4]],
+        a pretty woman;
+    - _(2)h(o\) (1)k(a/)i pat(7)_
+        [[hou2 gaai1 bat1]]
+        good penmanship;
+    - _(4)'m k(i/)n(3) (1)k(a/)i_
+        [[m4 gin3 gaai1]],
+        I see nothing remarkable in it, care nothing for it;
+    - _(1)k(a/)i (1)yam_
+        [[gaai1 jam1]],
+        good news, usually means by letter.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~121 (1)偕]]
     ==
     - Used for the preceding [[皆]];
