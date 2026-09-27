@@ -401,6 +401,48 @@ $$
 $$
 W
   ====
+  - [[Page~122 界(3)]]
+    ==
+    - A division between fields, to mark separate ownership;
+    - a limit, boundary, border, frontier, terminus;
+    - to draw a line of separation, to limit;
+    - to sunder friends;
+    - _shai(3) k(a/)i(3)_
+        [[sai3 gaai3]]
+        the world;
+    - _(4)'m (2)h(o\) shai(3) k(a/)i(3)_
+        [[m4 hou2 sai3 gaai3]]
+        a vicious age;
+    - _k(a/)i(3) shek(9)_
+        [[gaai3 sek6]]
+        a boundary-stone;
+    - _(1)k(a/)u k(a/)i(3)_
+        [[gaau1 gaai3]]
+        the border, a boundary;
+    - _k(a/)i(3) h(a/)n(6)_
+        [[gaai3 haan6]]
+        a limit, in time or place, to restrict;
+    - _k(a/)i(3) (1)fong_
+        [[gaai3 fong1]],
+        a paper weight;
+    - _k(a/)i(3) (4)t(')o_
+        [[gaai3 to4]],
+        an iron wheel used in lathes by glass-grinders;
+    - _(1)sh(a/)n k(a/)i(3)_
+        [[saan1 gaai3]]
+        the confines of a grave;
+    - _k(a/)i(3) ch(i/)(3)_
+        [[gaai3 zi3]]
+        limit, edge of a lot.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 解(3)]]
     ==
     - To transmit, to forward to, to hand over to;
