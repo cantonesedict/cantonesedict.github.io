@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-09-12
+* %date-modified --> 2026-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -850,6 +850,7 @@ E
        ==
        - 做緊新聞 (zou6 gan2 san1 man4-2): "[The] news [is] on."
        - 做完 (zou6 jyun4): "[The show has] finished airing."
+       - 翻做 (faan1 zou6): "Repeat airing."
        ==
     1. (_mahjong_) To try for a hand, especially a hand of a numbered suit.
        ==
