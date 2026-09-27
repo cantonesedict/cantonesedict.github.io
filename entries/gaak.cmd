@@ -138,6 +138,60 @@ $$
 $$
 W
   ====
+  - [[Page~124 隔(8)鬲(8)]]
+    ==
+    - A partition, a bulkhead, something which stops the passage;
+    - a shelf;
+    - to obstruct, to intercept, to separate off, to interpose, to hinder;
+    - to strain;
+    - separated, sundered;
+    - next to, neighboring;
+    - _k(a/)k(8) (4)l(i/) ch(u:)(6)_
+        [[gaak3 lei4 zyu6]]
+        he lives next door;
+    - _k(a/)k(8) (1)hoi_
+        [[gaak3 hoi1]],
+        to separate, to put apart;
+    - _k(a/)k(8) yat(7) (4)t(')i(u/) (2)shui_
+        [[gaak3 jat1 tiu4 seoi2]],
+        a stream intervenes;
+    - _k(a/)k(8) (1)ch(a/)_
+        [[gaak3 zaa1]],
+        strain off the grounds;
+    - _(1)s(a/)m k(a/)k(8) k(a/)(3)_
+        [[saam1 gaak3 gaa3-2]]
+        a stand with three shelves;
+    - _k(a/)k(8) y(e/)(6)_
+        [[gaak3 je6]]
+        (food) left over night;
+    - _k(a/)k(8) p(i/)t(9)_
+        [[gaak3 bit6]]
+        separated (as friends);
+    - _k(a/)k(8) (4)n(i/)n luk(7)_
+        [[gaak3 nin4 luk1]]
+        an old friend;
+    - _k(a/)k(8) yat(9) (4)loi_
+        [[gaak3 jat6 loi4]],
+        come every other day;
+    - _(4)'m (4)ts(')ang k(a/)k(8) tseng(6)_
+        [[m4 cang4 gaak3 zeng6]]
+        it is not strained clear;
+    - _k(a/)k(8) (1)ch(a/) (4)p(')(u/)n_
+        [[gaak3 zaa1 pun4]],
+        a filterer;
+    - _k(a/)k(8) (4)ts(')(e/)ung (1)ng(a/)u (5)y(e/)ung_
+        [[gaak3 coeng4 ngaau1 joeng5]],
+        to 'scratch [one's self] through a wall,'
+        ineffectual, useless indignation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~124 革(8)]]
     ==
     - The hides of animals, after the hair is taken off;
