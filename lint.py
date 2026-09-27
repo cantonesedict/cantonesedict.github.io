@@ -936,6 +936,7 @@ class CmdSource:
             CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
             CmdSource.lint_insertion_deletion_context(content)
+            CmdSource.lint_unicode_kangxi_radical(content)
             CmdSource.lint_williams_entering_tone(content)
             CmdSource.lint_williams_left_tone_position(content)
             CmdSource.lint_williams_right_tone_position(content)
@@ -1136,6 +1137,24 @@ class CmdSource:
         ):
             deletion_context = deletion_context_match.group()
             raise LintException(f'non-contextual deletion in `{deletion_context}`')
+
+    @staticmethod
+    def lint_unicode_kangxi_radical(content: str):
+        # Fast elimination of negative cases
+        if 'U+2F' not in content:
+            return
+
+        if radical_context_match := re.search(
+            pattern=r'\S* (?P<code_point> U[+] 2F[0-9A-F]{2} ) [ ]+ (?P<character> \S )',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            radical_context = radical_context_match.group()
+            code_point = radical_context_match.group('code_point')
+            character = radical_context_match.group('character')
+
+            if code_point != Utilities.unicode_code_point(character):
+                raise LintException(f'radical `{code_point}` is not `{character}` in `{radical_context}`')
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
