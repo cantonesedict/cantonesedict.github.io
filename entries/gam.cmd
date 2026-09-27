@@ -118,3 +118,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~125 (2)錦]]
+    ==
+    - A kind of variegated silk used in ornamental work;
+    - embroidered, worked, or knit in colors;
+    - elegant, figurative fine writing;
+    - flowery, pictured;
+    - _(1)(i/) (2)kam_
+        [[ji1 gam2]],
+        the gentry, official persons;
+    - _(2)kam (4)ch(')au_
+        [[gam2 cau4]],
+        figured pongee;
+    - _shap(9) (2)kam (2)(u/)n t(i/)p(9)_
+        [[sap6 gam2 wun2 dip6]]
+        colored chinaware;
+    - _(2)kam sau(3) (4)man_
+        [[gam2 sau3 man4]],
+        an elegant style.
+    ==
+  ====
+$$
+##>
