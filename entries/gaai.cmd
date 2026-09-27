@@ -443,6 +443,24 @@ $$
 $$
 W
   ====
+  - [[Page~123 疥(3)]]
+    ==
+    - A scratch, a little sore, a scabbiness;
+    - _k(a/)i(3) l(a/)i(3) (1)ch(i/) tsat(9)_
+        [[gaai3 laai3 zi1 zat6]]
+        a trifling sore, an unimportant matter;
+    - _k(a/)i(3) (1)ch(')ong_
+        [[gaai3 cong1]],
+        an itch pustule, a pimple.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 解(3)]]
     ==
     - To transmit, to forward to, to hand over to;
