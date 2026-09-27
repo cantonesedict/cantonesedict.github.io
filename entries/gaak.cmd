@@ -49,6 +49,58 @@ $$
 $$
 W
   ====
+  - [[Page~124 格(8)]]
+    ==
+    - The spreading of branches;
+    - to come to, to reach, arrive at the end;
+    - to examine to the bottom, to sift or understand thoroughly;
+    - excellent, extraordinary;
+    - to influence, to affect, to cause;
+    - to attack;
+    - to change, to correct;
+    - to grow old;
+    - a line, a rule;
+    - a mark by which one writes;
+    - obstinate;
+    - a limit, a pattern;
+    - a statute;
+    - a frame or stand;
+    - to raise up;
+    - all years which have the "branch" _(4)yan_ [[jan4]]
+      in their cyclic name;
+    - _k(a/)k(8) ngoi(6)_
+        [[gaak3 ngoi6]]
+        extraordinary, beyond the usage or stipulation;
+    - _k(a/)n(3) k(a/)k(8)_
+        [[gaan3 gaak3]]
+        to draw lines;
+    - _yan(3) tsz'(6) k(a/)k(8)_
+        [[jan3 zi6 gaak3]]
+        a copyslip;
+    - _k(a/)k(8) mat(9)_
+        [[gaak3 mat6]]
+        to inquire into the nature of things, to philosophize;
+    - _(2)pan k(a/)k(8)_
+        [[ban2 gaak3]]
+        temperament;
+    - _k(a/)k(8) kuk(9)_
+        [[gaak3 guk6]]
+        carriage, presence, bearing;
+    - _k(a/)k(8) shik(7)_
+        [[gaak3 sik1]]
+        a muster or copy;
+    - _(4)shan (1)ch(i/) k(a/)k(8) (1)sz'_
+        [[san4 zi1 gaak3 si1]]
+        divine influences or inspiration.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~124 ::~~{？=⿰糹⿱龷⿻中二}~~``緙``(8)::]]
     ==
     - To weave, or put the threads of the woof in;
