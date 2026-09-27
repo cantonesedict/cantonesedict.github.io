@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~123 (2)楷]]
+    ==
+    - A straight, durable, and graceful tree, which grows on Confucius' grave;
+    - a pattern, example, model, rule;
+    - a square form of characters,
+      called _(2)k(')(a/)i (1)sh(u:)_ [[kaai2 syu1]],
+      or pattern writing;
+    - _(1)t(u:)n (2)k(')(a/)i_
+        [[dyun1 kaai2]],
+        elegant writing;
+    - _(4)k(')(e/)ung (2)k(')(a/)i_
+        [[koeng4 kaai2]],
+        fixed in one's principles, straightforward.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 (5){𢬿=⿰扌戒} _(5)^K(a/)i_ (gaai5); here corrected to _(5)K(')(a/)i_ (kaai5)]]
     ==
     - A colloquial word---\
