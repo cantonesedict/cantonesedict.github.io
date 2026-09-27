@@ -299,6 +299,21 @@ $$
 $$
 W
   ====
+  - [[Page~122 廨(3)]]
+    ==
+    - A hall or suite of rooms in a prefect's office,
+      called _(1)kung k(a/)i(3)_ [[gung1 gaai3]],
+      where subordinate officers stay;
+    - a sort of hospice.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 解(3)]]
     ==
     - To transmit, to forward to, to hand over to;
