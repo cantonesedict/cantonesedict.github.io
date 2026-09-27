@@ -336,6 +336,28 @@ $$
 $$
 W
   ====
+  - [[Page~122 价(3)]]
+    ==
+    - One who serves, a waiting-boy;
+    - great, good;
+    - _kwai(3) k(a/)i(3)_
+        [[gwai3 gaai3]]
+        your servant-boy;
+    - _(2)si(u/) k(a/)i(3)_
+        [[siu2 gaai3]]
+        my valet.
+    ==
+    --
+    In these senses, used for the preceding [[介]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 廨(3)]]
     ==
     - A hall or suite of rooms in a prefect's office,
