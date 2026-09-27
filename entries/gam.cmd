@@ -145,3 +145,39 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~125 禁(3)]]
+    ==
+    - To prohibit, to guard against, to warn or forbid,
+      to hinder or stop the completion of;
+    - to regulate, to restrain;
+    - forbidden, imperial;
+    - to keep off;
+    - a kind of tray;
+    - _kam(3) (4)sheng_
+        [[gam3 seng4]],
+        his majesty's palace;
+    - _kam(3) k(a/)i(3)_
+        [[gam3 gaai3]]
+        prohibitory rules;
+    - _kam(3) fo(3)_
+        [[gam3 fo3]]
+        contraband goods;
+    - _kam(3) tsut(7)_
+        [[gam3 zeot1]]
+        a turnkey.
+    ==
+    --
+    Read _(1)k(')am_ [[kam1]]_;_
+    --
+    ==
+    - to endure, to bear;
+    - to take by force, to overcome.
+    ==
+  ====
+$$
+##>
