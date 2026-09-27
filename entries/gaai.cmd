@@ -461,6 +461,34 @@ $$
 $$
 W
   ====
+  - [[Page~123 芥(3)]]
+    ==
+    - The mustard plant;
+    - _k(a/)i(3) (4)l(a/)n ts(')oi(3)_
+        [[gaai3 laan4 coi3]]
+        coarse kind of mustard, cultivated for greens;
+    - _(1)ts(')(i/)m k(a/)i(3)_
+        [[cim1 gaai3]]
+        unimportant, small;
+    - _k(a/)i(3) m(u/)t(9)_
+        [[gaai3 mut6]]
+        ground mustard;
+    - _k(a/)i(3) t(a/)i(3)_
+        [[gaai3 daai3]]
+        trifling, not worth remembering,
+        'like fish-bones in one's throat;'
+    - _(2)ts(')(o\) k(a/)i(3)_
+        [[cou2 gaai3]]
+        a sliver or splinter, a piece of grass, a contemptible person.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 解(3)]]
     ==
     - To transmit, to forward to, to hand over to;
