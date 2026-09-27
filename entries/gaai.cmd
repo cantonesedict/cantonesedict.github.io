@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~121 (1)偕]]
+    ==
+    - Used for the preceding [[皆]];
+    - to accompany, to take along with one,
+      as a parent takes his child;
+    - all at once, together, coalescing;
+    - persons uniting in one effort;
+    - _(1)k(a/)i (1)k(a/)i_
+        [[gaai1 gaai1]],
+        vigorous;
+    - _(1)k(a/)i (4)n(a/)m_
+        [[gaai1 naam4]],
+        'with my son,'---a phrase used on cards and votive tablets.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~121 (1)皆]]
     ==
     - All alike, things of the same sort, uniformly;
