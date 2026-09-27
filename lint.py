@@ -2364,6 +2364,28 @@ class CharacterEntry:
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
 
+        if unitalicised_semicolon_match := re.search(
+            pattern=r'''
+                _ \S [^_\n]*? _  # Williams romanisation
+                \s+
+                \[\[ .+? \]\]  # supplied Jyutping
+                (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
+                ;  # unitalicised semicolon
+            ''',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            unitalicised_semicolon_context = unitalicised_semicolon_match.group()
+            unitalicised_semicolon_context_reduced = re.sub(
+                pattern=r'\s+',
+                repl=' ',
+                string=unitalicised_semicolon_context.strip(),
+            )
+            raise LintException(
+                f'unitalicised semicolon after supplied Jyutping in `{unitalicised_semicolon_context_reduced}` '
+                f'(suppress with caret before semicolon if legitimate)'
+            )
+
     @staticmethod
     def lint_annotation_headword(character: str, content: str):
         for match in re.finditer(
