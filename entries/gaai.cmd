@@ -489,6 +489,20 @@ $$
 $$
 W
   ====
+  - [[Page~123 蚧(3)]]
+    ==
+    - A red spotted, scaly lizard, found in damp places,
+      called _k(o\)p(8) k(a/)i(3)_ [[gap3 gaai3]];
+    - used as an aphrodisiac medicine.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 解(3)]]
     ==
     - To transmit, to forward to, to hand over to;
