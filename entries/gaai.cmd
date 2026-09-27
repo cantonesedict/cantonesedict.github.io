@@ -388,6 +388,19 @@ $$
 $$
 W
   ====
+  - [[Page~122 玠(3)]]
+    ==
+    - A kind of gem tablet, 12~_ts(')(u:)n(3)_ [[寸]] long,
+      held in both hands, when in the Presence.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 解(3)]]
     ==
     - To transmit, to forward to, to hand over to;
