@@ -388,6 +388,55 @@ $$
 $$
 W
   ====
+  - [[Page~123 戒(3)]]
+    ==
+    - A boundary or limit;
+    - a region;
+    - to warn, to caution;
+    - to guard against;
+    - to inform or announce to;
+    - to beware of, to refrain from, to observe a regimen;
+    - to cure of the use of;
+    - injunctions, precepts, inhibitions;
+    - _k(a/)i(3) (2)hau_
+        [[gaai3 hau2]],
+        to abstain from flesh, to be careful of one's diet;
+    - _ts(i/)t(8) k(a/)i(3)_
+        [[zit3 gaai3]]
+        most carefully guard against;
+    - _k(a/)i(3) (2)ch(i/)_
+        [[gaai3 zi2]],
+        a finger-ring;
+    - _k(a/)i(3) (1)(i/)n (1)fong_
+        [[gaai3 jin1 fong1]],
+        a prescription for curing opium-smokers;
+    - _k(a/)i(3) (5)t(')(u:)n (5)yan_
+        [[gaai3 tyun5 jan5]],
+        entirely cured of the habit;
+    - _f(a/)t(8) k(a/)i(3)_
+        [[faat3 gaai3]]
+        rules for a regimen, warnings, injunctions;
+    - _k(a/)i(3) (4)t(')i(u/)_
+        [[gaai3 tiu4]],
+        a rule;
+    - _h(u:)n(3) k(a/)i(3)_
+        [[hyun3 gaai3]]
+        a friendly admonition;
+    - _k(a/)i(3) (2)tsau_
+        [[gaai3 zau2]],
+        to abstain from wine;
+    - _shap(9) k(a/)i(3)_
+        [[sap6 gaai3]]
+        the Ten Commandments.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 玠(3)]]
     ==
     - A kind of gem tablet, 12~_ts(')(u:)n(3)_ [[寸]] long,
