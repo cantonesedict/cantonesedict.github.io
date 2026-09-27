@@ -26,6 +26,39 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~125 (1)今]]
+    ==
+    - Now, at this time, presently;
+    - _(4)(u:) (1)kam_
+        [[jyu4 gam1]],
+        now;
+    - _(1)kam yat(9)_
+        [[gam1 jat6]]
+        to-day;
+    - _ch(i/)(3) (1)kam_
+        [[zi3 gam1]],
+        till now;
+    - _(1)kam (5)m(a/)n_
+        [[gam1 maan5]],
+        this evening;
+    - _(1)kam (1)chi(u/)_
+        [[gam1 ziu1]],
+        this morning;
+    - _(1)kam shai(3)_
+        [[gam1 sai3]]
+        this age, this world or life``;``
+    - _(1)kam hau(6)_
+        [[gam1 hau6]]
+        henceforth.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 (1)金]]
     ==
     - Metal, one of the five elements;
