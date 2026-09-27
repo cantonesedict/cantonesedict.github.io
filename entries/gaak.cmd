@@ -21,3 +21,33 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~124 革(8)]]
+    ==
+    - The hides of animals, after the hair is taken off;
+    - ``the 177th``~radical [[U+2FB0 ⾰ "leather"]] of hides and things made of them;
+    - the human skin;
+    - to change, to put off, to renew, to molt;
+    - to degrade one from office;
+    - musical instruments of skin;
+    - defensive armor;
+    - leathern;
+    - a wing during molting;
+    - _k(a/)k(8) yik(9)_
+        [[gaak3 jik6]]
+        to dismiss a man from a y(a/)mun [[衙門]];
+    - _k(a/)k(8) chik(7)_ [[gaak3 zik1]]
+        or
+      _k(a/)k(8) (2)teng_ [[gaak3 deng2]],
+        to turn out of office;
+    - _k(a/)k(8) (2)fung_
+        [[gaak3 fung6-2]],
+        to mulct an officer of his salary.
+    ==
+  ====
+$$
+##>
