@@ -114,6 +114,30 @@ $$
 $$
 W
   ====
+  - [[Page~124 膈(8)]]
+    ==
+    - The diaphragm;
+    - any thin membrane in bodies;
+    - the breast, the mind;
+    - _k(a/)k(8) mok(9)_
+        [[gaak3 mok6-2]]
+        the midriff, separating the thorax and stomach;
+    - a bell frame;
+    - _k(a/)k(8) shik(9)_
+        [[gaak3 sik6]]
+        food disagreeing with one, and vomiting it;
+    - _k(a/)k(8) l(a/)k(7) (2)tai_
+        [[gaak3 laak6-1 dai2]],
+        the arm-pit.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~124 革(8)]]
     ==
     - The hides of animals, after the hair is taken off;
