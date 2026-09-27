@@ -299,6 +299,43 @@ $$
 $$
 W
   ====
+  - [[Page~122 介(3)]]
+    ==
+    - To assist, to attend upon;
+    - an attendant, a domestic, a valet, one who announces visitors;
+    - numeral of persons, as
+      _yat(7) k(a/)i(3) m(o\)(6) ~~(4)f(u/)~~ ``(1)f(u/)``_
+        [[jat1 gaai3 mou6 fu1]],
+        I, a poor soldier;
+    - because;
+    - great, good, upright;
+    - firm;
+    - a single animal, one alone;
+    - small, trifling;
+    - a border of a country, frontiers;
+    - conterminous, separated, to border on;
+    - armor for the body, mail, a cuirass;
+    - carapace of tortoises, crabs, &c.;
+    - icicles on trees;
+    - to act, or represent;
+    - _ts(i/)t(8) k(a/)i(3)_
+        [[zit3 gaai3]]
+        well principled;
+    - _(4)lun k(a/)i(3) lui(6)_
+        [[leon4 gaai3 leoi6]]
+        the scaly and shelly tribes;
+    - _yat(7) k(a/)i(3) (1)ch(i/) sz'(6)_
+        [[jat1 gaai3 zi1 si6]]
+        a small affair.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 廨(3)]]
     ==
     - A hall or suite of rooms in a prefect's office,
