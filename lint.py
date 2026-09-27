@@ -2350,7 +2350,7 @@ class CharacterEntry:
             pattern=r'''
                 _ \S[^_\n]*? \([1245]\) \S+ [^'`] (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
                 \s+
-                \[\[ [^,\n]+? \]\]  # supplied Jyutping
+                \[\[ .+? \]\]  # supplied Jyutping
                 (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
                 \s  # missing comma
             ''',
