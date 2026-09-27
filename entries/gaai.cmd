@@ -524,3 +524,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~123 魪(3)]]
+    ==
+    - The sole fish, plaice, or flounder, commonly called
+      _t(')(a/)t(8) (1)sh(a/) (4)(u:)_ [[taat3 saa1 jyu4]],
+      _(1)tsang (2)p(i/) (4)(u:)_ [[zang1 bei2 jyu4]],
+        and
+      _(2)p(i/) muk(9) (4)(u:)_ [[bei2 muk6 jyu4]].
+    ==
+  ====
+$$
+##>
