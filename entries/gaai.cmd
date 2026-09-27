@@ -474,6 +474,19 @@ $$
 $$
 W
   ====
+  - [[Page~123 犗(3)]]
+    ==
+    - A gelded ox;
+    - strong, vigorous animals, such as are castrated being so.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 玠(3)]]
     ==
     - A kind of gem tablet, 12~_ts(')(u:)n(3)_ [[寸]] long,
