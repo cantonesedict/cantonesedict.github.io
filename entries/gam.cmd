@@ -198,3 +198,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~125 搇(6); here normalised to 撳]]
+    ==
+    - To press down, to hold fast, to lay the hand on;
+    - _kam(6) (2)shui ~~(4)ch(')(e/)~~ ``(1)ch(')(e/)``_
+        [[gam6 seoi2 ce1]],
+        to work a fire-engine;
+    - _kam(6) t(i/)(6) (4)yau (2)shui_
+        [[gam6 dei6 jau4 seoi2]],
+        to swim and keep hold of the ground,
+        _i.~e._ having something to depend on;
+    - _(1)ts(')o (4)(u:)n kam(6) (2)p(i/)n_
+        [[co1 jyun4 gam6 bin2]],
+        roll it round or press it flat, _met._ an easy disposition.
+    ==
+  ====
+$$
+##>
