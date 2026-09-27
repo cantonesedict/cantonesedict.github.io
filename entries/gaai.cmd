@@ -294,3 +294,29 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~122 解(3)]]
+    ==
+    - To transmit, to forward to, to hand over to;
+    - to exclude;
+    - to transfer an officer to another post;
+    - _k(a/)i(3) (4)(u:)n_
+        [[gaai3 jyun4]],
+        first of the _k(u:)jin_ [[舉人]] graduates;
+    - _k(a/)i(3) f(a/)n(6)_
+        [[gaai3 faan6-2]]
+        to deliver up a criminal;
+    - _k(a/)i(3) (2)h(e/)ung ng(a/)k(9)_
+        [[gaai3 hoeng2 ngaak6-2]]
+        to pry in the fixed duty to the emperor.
+    ==
+    --
+    [[...]]
+    --
+  ====
+$$
+##>
