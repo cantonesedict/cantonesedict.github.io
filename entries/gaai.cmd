@@ -21,3 +21,33 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~121 (1)皆]]
+    ==
+    - All alike, things of the same sort, uniformly;
+    - all, altogether;
+    - used after a recital of items or nouns of multitude,
+      as the sign of the plural;
+    - _(1)k(a/)i (1)ch(i/)_
+        [[gaai1 zi1]],
+        everybody knows it;
+    - _(1)k(a/)i pat(7) k(')ap(9)_
+        [[gaai1 bat1 kap6]]
+        none equaled him, unequaled;
+    - _(5)l(o\) shi(u/)(3) (1)k(a/)i tsoi(6)_
+        [[lou5 siu3 gaai1 zoi6]]
+        old and young, all are here;
+    - _(2)sho tsok(8) (1)k(a/)i (4)(i/)n_
+        [[so2 zok3 gaai1 jin4]],
+        whatever he does is as it should be;
+    - _~~(1)k(u:)~~ ``(1)k(')(u:)`` (1)k(a/)i yat(7) y(e/)ung(6)_
+        [[keoi1 gaai1 jat1 joeng6]]
+        all are alike.
+    ==
+  ====
+$$
+##>
