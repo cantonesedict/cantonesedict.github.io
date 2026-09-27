@@ -591,6 +591,29 @@ $$
 $$
 W
   ====
+  - [[Page~123 誡(3)]]
+    ==
+    - Rule of conduct, precepts, warnings, orders, injunctions;
+    - to deter by citing the penalty, to exhort to desist, to prohibit;
+    - _(2)king k(a/)i(3)_
+        [[ging2 gaai3]]
+        to warn or persuade against;
+    - name of a sword;
+    - _k(o\)(3) k(a/)i(3)_
+        [[gou3 gaai3]]
+        to give good counsel;
+    - _kam(3) k(a/)i(3)_
+        [[gam3 gaai3]]
+        to forbid.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~123 魪(3)]]
     ==
     - The sole fish, plaice, or flounder, commonly called
