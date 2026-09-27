@@ -215,3 +215,82 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~122 (2)解]]
+    ==
+    - To split a horn in two;
+    - to open, to take off or apart;
+    - to cut up, to sever at the joints;
+    - to dissipate, to disperse, scattered;
+    - to explain, to narrate, to make clear, to understand;
+    - to comment;
+    - a commentary, a meaning, an explanation;
+    - to stop, to cease;
+    - to do away with the effects of;
+    - a trace, a footstep;
+    - _(2)k(a/)i (1)hoi_
+        [[gaai2 hoi1]],
+        to unloose (as a knot), to illustrate;
+    - _ch(u:)(3) (2)k(a/)i_
+        [[zyu3 gaai2]],
+        an explanation or commentary;
+    - _~~(5)n(i/)~~ ``(1)n(i/)`` ko(3) tsz'(6) (2)t(i/)m (2)k(a/)i_
+        [[ni1 go3 zi6 dim2 gaai2]],
+        what is the meaning of this character?
+    - _(4)'m (2)hi(u/) (2)k(a/)i_
+        [[m4 hiu2 gaai2]],
+        I don't understand it;
+    - _(2)k(a/)i ts(')o(3)_
+        [[gaai2 co3]]
+        the explanation is wrong;
+    - _(2)k(a/)i lat(7)_
+        [[gaai2 lat1]]
+        untie it;
+    - _(5)m(o\) (2)k(a/)i kau(3)_
+        [[mou5 gaai2 gau3]]
+        no way of rescue, no salvation;
+    - _(2)k(a/)i m(u/)n(6)_
+        [[gaai2 mun6]]
+        to dispel or alleviate sorrow;
+    - _(2)k(a/)i (2)shau_
+        [[gaai2 sau2]],
+        to urinate;
+    - _(2)k(a/)i (4)wai_
+        [[gaai2 wai4]],
+        to raise a seige, to extricate from difficulties;
+    - _(2)k(a/)i (4)ch(')(u:) (1)hung ~~shat(7)~~ ``sh(a/)t(8)``_
+        [[gaai2 ceoi4 hung1 saat3]]
+        to exorcise or expel evil spirits;
+    - _(2)k(a/)i ts(u/)i(6)_
+        [[gaai2 zeoi6]]
+        I beg pardon;
+    - _(2)k(a/)i (4)ts(')(i/)n_
+        [[gaai2 cin4]],
+        pay your fare!
+    - _(2)k(a/)i hot(8)_
+        [[gaai2 hot3]]
+        to quench thirst;
+    - _(2)k(a/)i t(')(u:)t(8)_
+        [[gaai2 tyut3]]
+        to let go, to free (as a grasp), to remove (as sin from the soul);
+    - _(2)k(a/)i yam(6)_
+        [[gaai2 jam6]]
+        to retire from office;
+    - _(2)k(a/)i han(6)_
+        [[gaai2 han6]]
+        to remove ill-will;
+    - _(2)k(a/)i (1)sam_
+        [[gaai2 sam1]],
+        a cheerful ballad.
+    ==
+  ====
+C
+  ==
+  - Williams prints the component 牛 as 㐄.
+  ==
+$$
+##>
