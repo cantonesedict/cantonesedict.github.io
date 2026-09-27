@@ -358,6 +358,21 @@ $$
 $$
 W
   ====
+  - [[Page~122 {𡯓=⿺兀介}(3); here normalised to 尬]]
+    ==
+    - Walking awry;
+    - _(1)k(a/)m k(a/)i(3)_
+        [[gaam1 gaai3]]
+        walking in an irregular manner, not progressing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~122 廨(3)]]
     ==
     - A hall or suite of rooms in a prefect's office,
