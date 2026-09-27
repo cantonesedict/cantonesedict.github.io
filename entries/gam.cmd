@@ -150,6 +150,23 @@ $$
 $$
 W
   ====
+  - [[Page~125 噤(3)]]
+    ==
+    - Unable to speak from lockjaw or other disease;
+    - to shut the mouth, silent;
+    - to refrain from speaking;
+    - _kam(3) (2)hau l(i/)(6)_
+        [[gam3 hau2 lei6]]
+        dysentery and loss of appetite.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 禁(3)]]
     ==
     - To prohibit, to guard against, to warn or forbid,
