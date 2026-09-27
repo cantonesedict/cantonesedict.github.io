@@ -48,6 +48,23 @@ $$
 $$
 W
   ====
+  - [[Page~121 (1)喈]]
+    ==
+    - The melody of birds;
+    - harmony heard at a distance;
+    - the soughing of the wind;
+    - _(1)k(a/)i (1)k(a/)i_
+        [[gaai1 gaai1]],
+        birds singing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~121 (1)皆]]
     ==
     - All alike, things of the same sort, uniformly;
