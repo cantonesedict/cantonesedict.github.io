@@ -65,6 +65,26 @@ $$
 $$
 W
   ====
+  - [[Page~121 (1)湝]]
+    ==
+    - _(1)K``(a/)``i (1)k(a/)i_
+        [[gaai1 gaai1 湝湝]],
+        murmuring of streams flowing together;
+        cold;
+        incessant rain.
+    ==
+  ====
+C
+  ==
+  - Williams' 湝湝: Inferred incompletely printed letter _(a/)_ in _(1)K(a/)i_.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~121 (1)皆]]
     ==
     - All alike, things of the same sort, uniformly;
