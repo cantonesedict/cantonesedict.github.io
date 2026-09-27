@@ -26,6 +26,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~124 ::~~{？=⿰糹⿱龷⿻中二}~~``緙``(8)::]]
+    ==
+    - To weave, or put the threads of the woof in;
+    - to seam.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~124 革(8)]]
     ==
     - The hides of animals, after the hair is taken off;
