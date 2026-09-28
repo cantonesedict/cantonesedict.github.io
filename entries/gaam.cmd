@@ -26,6 +26,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~127 (1)椷]]
+    ==
+    - A casket, box, or case, for holding things;
+    - _(1)k(a/)m (1)chong_
+        [[gaam1 zong1]],
+        a dressing-case;
+    - _kat(7) (1)k(a/)m_
+        [[gat1 gaam1]],
+        a letter with good news.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~126 (1)監]]
     ==
     - To look down upon or into, as a god or emperor does;
