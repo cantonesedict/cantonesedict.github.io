@@ -140,3 +140,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~126 (4)芩]]
+    ==
+    - A salt marsh plant, perhaps a kind of Salsola;
+    - cattle are fond of the seeds;
+    - _(4)wong (4)k(')am_
+        [[wong4 kam4]],
+        a yellow root akin to liquorice.
+    ==
+  ====
+$$
+##>
