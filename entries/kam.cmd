@@ -251,3 +251,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~126 (5)妗]]
+    ==
+    - Sister-in-law on a wife's side,
+      is called _(5)k(')am (4)n(e/)ung_ [[kam5 noeng4]];
+    - _(5)k(')am (5)m(o\)_
+        [[kam5 mou5]],
+        a maternal uncle's wife;
+    - _t(a/)i(6) (5)k(')am_
+        [[daai6 kam5]],
+        bride-women who wait on the bride for three days.
+    ==
+  ====
+$$
+##>
