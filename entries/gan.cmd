@@ -26,6 +26,47 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~128 (1)巾]]
+    ==
+    - A kerchief of cloth bonnet, anciently worn;
+    - a napkin, a neckcloth, a handkerchief;
+    - ``the 50th``~radical [[U+2F31 ⼱ "turban"]] of things made of cloth;
+    - _(2)shau (1)kan_
+        [[sau2 gan1]],
+        a towel or napkin;
+    - _ch(')an(3) (1)kan_
+        [[can3 gan1]]
+        a girdle-napkin;
+    - _hon(6) (1)kan_
+        [[hon6 gan1]],
+        a handkerchief;
+    - _(4)(u:) (1)kan_
+        [[jyu4 gan1]],
+        the literati;
+    - _(1)kung (2)tsz' (1)kan_
+        [[gung1 zi2 gan1]],
+        a cap worn by young noblemen;
+    - _(4)ch(')(e/)ung (1)kan_
+        [[coeng4 gan1]]
+        a scarf;
+    - _t(a/)p(9) pok(8) (1)kan_
+        [[daap6 bok3 gan1]],
+        a cloth to protect the shoulders;
+    - _pok(8) (1)k(i/)n (1)kan_
+        [[bok3 gin1 gan1]],
+        a shawl;
+    - _(4)t(')au (1)kan_
+        [[tau4 gan1]],
+        a turban, a kerchief.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~127 (1)根]]
     ==
     - Roots of plants;
