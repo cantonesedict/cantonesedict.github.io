@@ -58,3 +58,43 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~127 (1)跟]]
+    ==
+    - The heel;
+    - _k(e/)uk(8) (1)kan_
+        [[goek3 gan1]],
+        the heel;
+        more commonly called _k(e/)uk(8) (1)ch(a/)ng_ [[goek3 zaang1]];
+    - to follow at one's heels;
+    - to follow up, to pursue an inquiry;
+    - according to;
+    - _(1)kan (1)p(a/)n_
+        [[gan1 baan1]],
+        a lacquey, personal attendants;
+    - _(1)kan kau(3)_
+        [[gan1 gau3]]
+        to search into;
+    - _(1)kan (4)yan ts(o\)(6)_
+        [[gan1 jan4 zou6]]
+        do it as he does;
+    - _(1)kan w(a/)i(6) (2)pan_
+        [[gan1 waai6 ban2]],
+        to injure by bad examples;
+    - _(1)kan (4)ts(')am_
+        [[gan1 cam4]],
+        hunt it up, look for it;
+    - _(1)kan (4)ts(')ui (5)ngo_
+        [[gan1 ceoi4 ngo5]],
+        follow me;
+    - _(5)yau (4)yan (1)kan (5)m(i/) (4)loi_
+        [[jau5 jan4 gan1 mei5 loi4]],
+        there is somebody coming behind.
+    ==
+  ====
+$$
+##>
