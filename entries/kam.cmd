@@ -21,3 +21,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~125 (1)衾]]
+    ==
+    - A coverlet or large quilt;
+    - a shroud;
+    - _(1)(i/) (1)k(')am_
+        [[ji1 kam1]],
+        clothes and shroud for the dead.
+    ==
+  ====
+$$
+##>
