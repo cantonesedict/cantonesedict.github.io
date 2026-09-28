@@ -110,6 +110,28 @@ $$
 $$
 W
   ====
+  - [[Page~126 (4)擒]]
+    ==
+    - To seize as a hawk does, to grasp, to clutch for prey;
+    - to take alive, to capture (as a prisoner);
+    - _(4)k(')am chuk(7)_
+        [[kam4 zuk1]]
+        to seize;
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (4)k(')am_
+        [[saang1 kam4]],
+        to take alive;
+    - _(1)chong (4)k(')am (1)chong shuk(7)_
+        [[zong1 kam4 zong1 suk1]]
+        to play at boo-peep.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~126 (4)琴]]
     ==
     - A Chinese lute, having seven strings;
