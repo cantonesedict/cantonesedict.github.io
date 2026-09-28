@@ -145,6 +145,25 @@ $$
 $$
 W
   ====
+  - [[Page~126 (4)禽]]
+    ==
+    - Flying and feathered creatures, the class _Aves;_
+    - pregnant animals;
+    - _(4)k(')am shau(3)_
+        [[kam4 sau3]]
+        birds and beasts;
+    - _(1)k(a/) (4)k(')am_
+        [[gaa1 kam4]],
+        the cock.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~126 (4)芩]]
     ==
     - A salt marsh plant, perhaps a kind of Salsola;
