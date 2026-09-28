@@ -213,3 +213,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~126 (4)蠄]]
+    ==
+    - A kind of spider;
+    - _(4)k(')am (4)l(o\)_
+        [[kam4 lou4]],
+        the shepherd spider or father-longlegs;
+        a species of Phalangium.
+    ==
+  ====
+$$
+##>
