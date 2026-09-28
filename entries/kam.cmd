@@ -26,6 +26,38 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~126 (1){𠸐=⿰口衿}; here normalised to 禁]]
+    ==
+    - Firm, durable, lasting;
+    - able to endure;
+    - enduring, well placed or settled;
+    - _(2)pong ch(u:)(6) (1)k(')am tak(7) (2)t(a/)_
+        [[bong2 zyu6 kam1 dak1 daa2]],
+        tied up helpless, in a "fix," unable to resent a wrong;
+    - _(1)k(')am (2)shai_
+        [[kam1 sai2]],
+        lasting, very durable;
+    - _(1)k(')am tak(7) n(a/)u(6)_
+        [[kam1 dak1 naau6]]
+        patient, good-tempered;
+    - _(1)k(')am (4)'m ch(u:)(6)_
+        [[kam1 m4 zyu6]]
+        testy, irritable;
+    - _(1)k(')am (2)t(')ai_
+        [[kam1 tai2]],
+        in good taste;
+    - _(1)k(')am (1)king_
+        [[kam1 ging1]],
+        unalloyed, pure in heart.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 (1)衾]]
     ==
     - A coverlet or large quilt;
