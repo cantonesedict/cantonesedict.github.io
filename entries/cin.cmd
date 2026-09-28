@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-08-09
+* %date-modified --> 2026-09-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -874,7 +874,7 @@ W
         [[cin4 loeng4 錢糧]],
         taxes, revenue;
     - _(4)ts(')(i/)n (2)l(e/)ung (2)tsz'_
-        [[cin4 loeng2 zi2 錢両子]]
+        [[cin4 loeng5-2 zi2 錢両子]]
         shot, bullets;
     - _(1)ch(a/)ng (4)ts(')(i/)n_
         [[zaang1 cin4-2 爭錢]],

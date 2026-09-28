@@ -67,6 +67,36 @@ $$
 $$
 W
   ====
+  - [[Page~128 (1)斤(1)觔]]
+    ==
+    - To chop, cut down;
+    - an ax, a hatchet;
+    - a test or machine for weighing;
+    - a catty of 16~taels, or 1⅓lb.~av.;
+    - _(2)k(i/) (1)to (1)kan (5)l(e/)ung_
+        [[gei2 do1 gan1 loeng5-2]],
+        what is the weight?
+    - _(1)kan (1)kan_
+        [[gan1 gan1]],
+        to examine clearly;
+    - _(2)t(a/) (1)kan (2)tau_
+        [[daa2 gan1 dau2]],
+        to turn a somerset;
+    - _(4)l(e/)ung (1)kan (2)tau_
+        [[loeng4 gan1 dau2]],
+        to measure out by pecks.
+    ==
+    --
+    The second form [[觔]] is in common use, though unauthorized.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~127 (1)根]]
     ==
     - Roots of plants;
