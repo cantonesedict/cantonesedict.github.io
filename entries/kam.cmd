@@ -132,6 +132,22 @@ $$
 $$
 W
   ====
+  - [[Page~126 (4)檎]]
+    ==
+    - A kind of Prunus;
+    - _(4)lam (4)k(')am_
+        [[lam4 kam4]]
+        a large species of bullace;
+        the fruit is red and much eaten by birds.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~126 (4)琴]]
     ==
     - A Chinese lute, having seven strings;
