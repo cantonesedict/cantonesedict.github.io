@@ -135,6 +135,44 @@ $$
 $$
 W
   ====
+  - [[Page~127 (2)減(2)减]]
+    ==
+    - To diminish, to subtract, to take away part;
+    - to keep back, to contract, to abbreviate;
+    - to lighten, to retrench;
+    - _(2)k(a/)m k(a/)(3)_
+        [[gaam2 gaa3]]
+        to cheapen, to lower the price;
+    - _(5)yau tak(7) (2)k(a/)m_
+        [[jau5 dak1 gaam2]],
+        the price can be lessened;
+    - _(2)k(a/)m pat(7) (2)s(e/)_
+        [[gaam2 bat1 se2]],
+        to write an abbreviated form, to write short-hand;
+    - _(1)ts(')ing (2)k(a/)m_
+        [[cing1 gaam2]],
+        poorly, tired out, overworked;
+    - _(2)k(a/)m (2)sh(a/)ng_
+        [[gaam2 saang2]],
+        laconic, plain, divested of useless additions;
+    - _(4)mung (2)k(a/)m_
+        [[mung4 gaam2]],
+        thank you for the abatement [in price];
+    - _lok(9) lik(7) (2)k(a/)m_
+        [[lok6 lik1 gaam2]],
+        come down in your terms;
+    - _(2)k(a/)m (2)sh(a/)ng tak(7) kwo(3)_
+        [[gaam2 saang2 dak1 gwo3]]
+        less will do, there is no need of so much.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~127 (1)尷 _(1)K(a/)m_ (gaam1); here normalised to _K(a/)m(3)_ (gaam3)]]
     ==
     - Embarrassed;
