@@ -361,8 +361,8 @@ W
   - [[Page~122 {𡯓=⿺兀介}(3); here normalised to 尬]]
     ==
     - Walking awry;
-    - _(1)k(a/)m k(a/)i(3)_
-        [[gaam1 gaai3]]
+    - _~~(1)k(a/)m~~ ``k(a/)m(3)`` k(a/)i(3)_
+        [[gaam3 gaai3]]
         walking in an irregular manner, not progressing.
     ==
   ====

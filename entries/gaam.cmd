@@ -112,3 +112,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~127 (1)尷 _(1)K(a/)m_ (gaam1); here normalised to _K(a/)m(3)_ (gaam3)]]
+    ==
+    - Embarrassed;
+    - _~~(1)k(a/)m~~ ``k(a/)m(3)`` k(a/)i(3)_
+        [[gaam3 gaai3]]
+        at a loss what to do;
+        walking awry.
+    ==
+  ====
+$$
+##>
