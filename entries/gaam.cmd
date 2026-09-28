@@ -184,3 +184,37 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~127 鑒(3)鑑(3)]]
+    ==
+    - A tub in which the moon shines;
+    - a mirror, a speculum;
+    - an example, that by which one may take warning,
+      term given to historical works;
+    - a precept, or admonition;
+    - to examine for purposes of approval, to audit or revise;
+    - to survey;
+    - to reflect light;
+    - _shing(3) k(a/)m(3)_
+        [[sing3 gaam3]]
+        his Majesty's revision, the 'sacred glance;'
+    - _(4)ming k(a/)m(3)_
+        [[ming4 gaam3]]
+        perspicacious, to examine fully;
+    - _(4)t(')oi k(a/)m(3)_
+        [[toi4 gaam3]]
+        for you, Sir, to see---a phrase used in letters;
+    - _k(a/)m(3) ~~(1)shang~~ ``(1)sh(a/)ng`` tsong(3)_
+        [[gaam3 saang1 zong3]]
+        to implicate a man out of revenge;
+    - _k(a/)m(3) (4)ts(')(i/)n ~~(1)k(u:)~~ ``(1)k(')(u:)``_
+        [[gaam3 cin4 keoi1]],
+        to heed previous examples.
+    ==
+  ====
+$$
+##>
