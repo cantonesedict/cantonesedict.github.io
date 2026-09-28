@@ -134,6 +134,41 @@ $$
 $$
 W
   ====
+  - [[Page~128 (1)筋]]
+    ==
+    - A sinew, a tendon;
+    - also a nerve, for the Chinese do not distinguish;
+    - sinewy, muscular, strong;
+    - _(2)h(o\) (1)kan lik(9)_
+        [[hou2 gan1 lik6]]
+        vigorous, in full health;
+    - _~~luk(7)~~ ``luk(9)`` (1)kan_
+        [[luk6-2 gan1]],
+        stag's sinews;
+    - _(5)ng(a/)n (1)kan (4)ts(')(i/)n_
+        [[ngaan5 gan1 cin4]]
+        right before your eyes;
+    - _(4)p(')(i/) (4)h(a/)i (1)kan_
+        [[pei4 haai4 gan1]]
+        cobbler's ends;
+    - _m(i/)n(6) (1)kan_
+        [[min6 gan1]],
+        rolled dough;
+    - _(5)yau (1)kan kwat(7)_
+        [[jau5 gan1 gwat1]]
+        can be depended on, sagacious, prudent;
+    - _h(u:)t(8) (1)kan_
+        [[hyut3 gan1]],
+        veins.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~127 (1)跟]]
     ==
     - The heel;
