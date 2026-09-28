@@ -105,3 +105,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~126 (4)琴]]
+    ==
+    - A Chinese lute, having seven strings;
+    - to restrain one's self;
+    - foreign instruments are called _(4)k(')am_ [[kam4]],
+      as _(1)fung (4)k(')am_ [[fung1 kam4]],
+      an organ, seraphine, or a piano;
+    - _(2)si(u/) (4)y(e/)ung (4)k(')am_
+        [[siu2 joeng4 kam4]],
+        a music-box;
+    - _(4)t(')ai (4)k(')am_
+        [[tai4 kam4]],
+        a theorbo or round guitar;
+    - _(2)k(u/) (4)k(')am_ [[gu2 kam4]],
+        or
+      _(4)t(')(a/)n (4)k(')am_ [[taan4 kam4]],
+        to play the lute;
+    - _(4)k(')am (1)yam ~~l(u:)n(3)~~ ``l(u:)n(6)``_
+        [[kam4 jam1 lyun6]]
+        disconcerted, an unexpected obstacle;
+    - _(4)k(')am (4)t(')ong_
+        [[kam4 tong4]],
+        your excellency's hall,---a phrase applied to officers;
+    - _(2)(o\)m (1)fung (4)k(')am_
+        [[am2 fung1 kam4]],
+        to play an organ.
+    ==
+  ====
+$$
+##>
