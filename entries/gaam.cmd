@@ -26,6 +26,75 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~126 (1)監]]
+    ==
+    - To look down upon or into, as a god or emperor does;
+    - to visit subjects;
+    - to look at, to require, to control by inspecting,
+      to superintend, to take charge of;
+    - an inspector, overseer;
+    - a jail, a prison;
+    - to imprison;
+    - a halo;
+    - _(1)k(a/)m (4)l(o\)_
+        [[gaam1 lou4]],
+        a prison;
+    - _~~tso(6)~~ ``(5)ts(')o`` (1)k(a/)m_
+        [[co5 gaam1]],
+        in prison;
+    - _(1)k(a/)m kam(3)_ [[gaam1 gam3]]
+        or
+      _(1)shau (1)k(a/)m_ [[sau1 gaam1]],
+        to take to prison;
+    - _(1)k(a/)m (5)ngo t(a/)i(6) (4)n(a/)n_
+        [[gaam1 ngo5 daai6 naan4]],
+        forced to do, can't help it;
+    - _(1)k(a/)m (5)n(i/) ts(o\)(6)_
+        [[gaam1 nei5 zou6]]
+        to compel you to do it;
+    - _(1)k(a/)m (4)lam_
+        [[gaam1 lam4]],
+        to superintend an examination;
+    - _(1)k(a/)m ch(')(a/)t(8)_
+        [[gaam1 caat3]]
+        to behold, to survey, as gods do;
+    - _(1)k(a/)m ~~tuk(9)~~ ``tuk(7)``_
+        [[gaam1 duk1]]
+        an overseer---the hoppo is so called;
+    - _(1)k(a/)m (2)tan_
+        [[gaam1 dan2]],
+        an old prisoner, a gallows-bird---a term of abuse;
+    - _(2)tsau (1)k(a/)m f(a/)n(6)_
+        [[zau2 gaam1 faan6-2]]
+        an escaped prisoner;
+    - _(1)k(a/)m ch(u:)(6) i(u/)(3)_
+        [[gaam1 zyu6 jiu3]]
+        obliged to take it.
+    ==
+    --
+    Read _k(a/)m(3)_ [[gaam3]],
+    --
+    ==
+    - to examine into carefully, to revise another's proceedings;
+    - _k(a/)m(3) (1)shang_ [[gaam3 sang1]],
+        or
+      _tsoi(6) k(a/)m(3)_ [[zoi6 gaam3]]
+        a purchased degree between _si(u/)ts(')(a/)i_ [[秀才]] and _k(u:)jin_ [[舉人]];
+    - _t(')(a/)i(3) k(a/)m(3)_
+        [[taai3 gaam3]]
+        an eunuch;
+    - _(1)yam (1)t(')(i/)n k(a/)m(3)_
+        [[jam1 tin1 gaam3]]
+        an astronomer royal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~126 (1)緘]]
     ==
     - Cords for binding hampers;
