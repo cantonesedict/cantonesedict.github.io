@@ -110,6 +110,28 @@ $$
 $$
 W
   ====
+  - [[Page~126 (2){𠹸=⿰口衾}; here normalised to 搇]]
+    ==
+    - To cover over with anything;
+    - to pull over one;
+    - _(2)k(')am (5)p(')(i/)_
+        [[kam2 pei5]],
+        to draw the quilt over one;
+    - _(2)k(')am ch(u:)(6) (5)k(')(u:)_
+        [[kam2 zyu6 keoi5]],
+        cover it over (as a dish);
+    - _(2)k(')am (2)shau_
+        [[kam2 sau2]],
+        one who lives by his wife's prostitution.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~126 (4)擒]]
     ==
     - To seize as a hawk does, to grasp, to clutch for prey;
