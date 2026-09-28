@@ -21,3 +21,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~126 (1)緘]]
+    ==
+    - Cords for binding hampers;
+    - to close or bind up, to seal, to fill up crevices closely;
+    - _(1)k(a/)m (1)fung_
+        [[gaam1 fung1]],
+        to seal (a letter), to fasten up (a box);
+    - _(1)k(a/)m (2)hau_
+        [[gaam1 hau2]],
+        to be silent, to stop the mouth of or entrance.
+    ==
+    --
+    Read _k(a/)m(3)_ [[gaam3]], the bindings of a coffin.
+    --
+  ====
+$$
+##>
