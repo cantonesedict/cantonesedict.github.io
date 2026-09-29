@@ -119,6 +119,20 @@ $$
 $$
 W
   ====
+  - [[Page~130 (1)菅]]
+    ==
+    - A sort of rush, whose fibres, after retting,
+      are fit for making cords, thatch, or mats;
+    - perhaps a kind of Phragmites.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~129 (1)間]]
     ==
     - A crevice, an interval, a space between;
