@@ -329,6 +329,67 @@ $$
 
 <##
 $$
+A
+  ==
+  - {𦂳=⿱⿰臣⿱𠂉丶糸}
+  ==
+W
+  ====
+  - [[Page~129 (2){𦂳=⿱⿰臣⿱𠂉丶糸}; here normalised to 緊]]
+    ==
+    - To bind fast, to compress;
+    - a cord;
+    - urgent, strict;
+    - diligent, prompt, on the point of, in haste, pressing;
+    - strait, confined;
+    - rapid flow of water;
+    - _(2)shui (2)kan_
+        [[seoi2 gan2]],
+        rapid, swift water;
+        _met._ a careful guard of, very watchful;
+    - _(2)kan i(u/)(3)_
+        [[gan2 jiu3]]
+        indispensible, urgent;
+    - _(2)tang (2)kan_
+        [[dang2 gan2]],
+        waiting for, in instant need of;
+    - _(2)kan kap(7)_
+        [[gan2 gap1]]
+        be quick;
+    - _(2)kan (2)ch(i/) k(o\)m(3) (1)to_
+        [[gan2 zi2 gam3 do1]],
+        only want just so much;
+    - _sh(e/)ung(6) (2)kan ts(o\)(6)_
+        [[soeng6 gan2 zou6]]
+        do it immediately;
+    - _(2)kan (2)kan (2)ho_
+        [[gan2 gan2 ho2]],
+        will just do;
+    - _(2)shau (2)kan_
+        [[sau2 gan2]],
+        in need, hard up;
+    - _(1)sheng (2)kan_
+        [[seng1 gan2]],
+        a husky, hoarse, voice;
+    - _(4)lai (2)kan ch(')(u:)(3)_
+        [[lai4 gan2 cyu3]]
+        almost here;
+    - _y(a/)k(8) (2)kan ch(')(u:)(3)_
+        [[jaak3 gan2 cyu3]]
+        they are now eating;
+    - _(2)kon (2)kan y(a/)k(8)_
+        [[gon2 gan2 jaak3]]
+        eat as soon as you can;
+    - _(2)pong (2)kan_
+        [[bong2 gan2]],
+        tie it tight.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~128 (2)謹]]
