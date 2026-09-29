@@ -172,6 +172,31 @@ $$
 $$
 W
   ====
+  - [[Page~130 (2)繭]]
+    ==
+    - A coccoon;
+    - the silky pupæ of other moths;
+    - _(4)ts(')(a/)m (2)k(a/)n_
+        [[caam4 gaan2]],
+        the silkworm^'s coccoon;
+    - _(2)k(a/)n (4)ch(')au_
+        [[gaan2 cau4]],
+        a sort of crape pongee;
+    - _(4)ch(')ing (1)h(e/)ung (2)k(a/)n_
+        [[cing4 hoeng1 gaan2]],
+        a kind brought from Ki(a/)ying chau [[嘉應州]].
+    ==
+    --
+    Sometimes read _(2)k(i/)n_ [[gin2]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~130 (2)鹼(2){𬸳=⿰鹵見}]]
     ==
     - A kind of barilla obtained from marine plants in Sh(a/)ntung [[山東]];
