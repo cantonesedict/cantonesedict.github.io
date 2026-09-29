@@ -304,6 +304,25 @@ $$
 $$
 W
   ====
+  - [[Page~129 (2)廑]]
+    ==
+    - A small dwelling, a lodge, a hut, a cottage;
+    - few, in a slight degree;
+    - _(4)m(o\) (1)f(a/)n (2)kan n(i/)m(6)_
+        [[mou4 faan1 gan2 nim6]]
+        you need have no anxiety about me;
+    - _(2)kan ch(a/)k(8)_
+        [[gan2 zaak3]]
+        narrow, cabined.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 ::(2)~~{？=⿰木⿱龷⿻口土}~~``槿``::]]
     ==
     - A tree whose flowers blossom and decay in a day;
