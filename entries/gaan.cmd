@@ -21,3 +21,42 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~129 (1)間]]
+    ==
+    - A crevice, an interval, a space between;
+    - between, in the midst of, during, whilst;
+    - amongst, to allow, to make room for, to set apart; <# TODO: $間gaan3 (?) #>
+    - a classifier of buildings, gardens, rooms, &c.;
+    - _yat(7) (4)n(i/)n (1)k(a/)n_
+        [[jat1 nin4 gaan1]],
+        within a year;
+    - _(1)t(')(i/)n t(i/)(6) (1)ch(i/) (1)k(a/)n_
+        [[tin1 dei6 zi1 gaan1]],
+        in the world, on earth;
+    - _h(a/)(6) (1)k(a/)n_
+        [[haa6 gaan1]],
+        the kitchen;
+    - _(4)fong (1)k(a/)n_
+        [[fong4 gaan1]],
+        in the room;
+    - _s(a/)p(8) (4)sh(i/) (1)k(a/)n_
+        [[saap3 si4 gaan1]],
+        just now, only a moment;
+    - _tai(6) (2)k(i/) (1)k(a/)n_
+        [[dai6 gei2 gaan1]],
+        which house is it?
+    - _(4)k(')(i/) (1)k(a/)n (2)t(i/)m y(e/)ung(6)_
+        [[kei4 gaan1 dim2 joeng6-2]]
+        how does the affair get on?
+    - _(4)y(e/)ung (1)k(a/)n_
+        [[joeng4 gaan1]],
+        this life, in this world.
+    ==
+  ====
+$$
+##>
