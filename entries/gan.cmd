@@ -280,7 +280,7 @@ $$
 $$
 W
   ====
-  - [[Page~128 ::(2)~~{？=⿰木⿱龷⿻中二}~~``槿``::]]
+  - [[Page~128 ::(2)~~{？=⿰木⿱龷⿻口土}~~``槿``::]]
     ==
     - A tree whose flowers blossom and decay in a day;
     - perhaps a species of Malvaceæ;
@@ -324,6 +324,21 @@ W
     - _(2)kan (1)ts(e/)ung sz'(6) p(a/)n(6)_
         [[gan2 zoeng1 si6 baan6]]
         the business is nearly arranged.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~128 ::(2)~~{？=⿰飠⿱龷⿻口土}~~``饉``::]]
+    ==
+    - A dearth or blasting of vegetables;
+    - _(1)k(i/) (2)kan_
+        [[gei1 gan2]],
+        a want of grain and vegetables.
     ==
   ====
 $$
