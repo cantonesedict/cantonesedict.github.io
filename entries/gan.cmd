@@ -447,3 +447,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~129 ::~~{？=⿰⿱龷⿻口土見}~~``覲``(3)::]]
+    ==
+    - To see or have an audience with a superior or the emperor;
+    - to look to the north, _i.~e._ towards His Majesty;
+    - the autumnal audience;
+    - _(4)ch(')i(u/) kan(3)_
+        [[ciu4 gan3]]
+        to be introduced at Court.
+    ==
+  ====
+$$
+##>
