@@ -204,3 +204,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~128 (2)謹]]
+    ==
+    - Diligent, careful, vigilant;
+    - serious, attentive, solemn, respectful;
+    - to venerate, to sedulously watch against, or consider, to heed;
+    - _(2)kan shan(6)_
+        [[gan2 san6]]
+        heedful of, circumspect, watchful;
+    - _(2)kan k(u:)(6)_
+        [[gan2 geoi6]]
+        to send presents to one;
+    - _(2)kan k(i/)(3)_
+        [[gan2 gei3]]
+        carefully remember it;
+    - _(2)kan (1)ts(e/)ung sz'(6) p(a/)n(6)_
+        [[gan2 zoeng1 si6 baan6]]
+        the business is nearly arranged.
+    ==
+  ====
+$$
+##>
