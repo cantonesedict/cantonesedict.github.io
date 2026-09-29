@@ -280,6 +280,30 @@ $$
 $$
 W
   ====
+  - [[Page~128 ::(2)~~{？=⿱氶巴}~~``卺``::; here normalised to 巹]]
+    ==
+    - A nuptial vase;
+    - the bride and groom pledge each other, after exchanging them;
+    - they are often made of half of a cocoa-nut,
+      anciently were made of half a gourd, or of metal;
+    - Shan ki?' to sent presents to;
+    - _h(o\)p(9) (2)kan_
+        [[hap6 gan2]],
+        to exchange and pledge the nuptial cup.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 卺 as ⿱氶巴; here corrected.
+    (The character 卺 appears correctly on Page~746 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 ::(2)~~{？=⿰木⿱龷⿻口土}~~``槿``::]]
     ==
     - A tree whose flowers blossom and decay in a day;
