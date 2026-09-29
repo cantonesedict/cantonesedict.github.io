@@ -240,6 +240,30 @@ $$
 $$
 W
   ====
+  - [[Page~128 (2)堇]]
+    ==
+    - Tenacious clay, mud; <# TODO: correct noun to $堇kan4 (巨巾切) #>
+    - yellow loam;
+    - adhesive;
+    - to smear, to lute; <# TODO: normalise verb to $墐gan2 (gan6 per 渠遴切) #>
+    - time;
+    - in these senses, the next [[墐]] is generally employed.
+    ==
+    ==
+    - A plant, also called _(1)(u/) (4)t(')au_ [[wu1 tau4]], or crow's head;
+      <# TODO: normalise to $蓳gan2 #>
+    - _(2)kan ts(')oi(3)_
+        [[gan2 coi3]]
+        the violet, pansy.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 (2)謹]]
     ==
     - Diligent, careful, vigilant;
