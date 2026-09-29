@@ -70,6 +70,32 @@ $$
 $$
 W
   ====
+  - [[Page~130 (1)姦]]
+    ==
+    - Illicit intercourse, criminal connection;
+    - adultery, rape, incest (for the word itself does not distinguish);
+    - to deflower, to debauch;
+    - _(1)k(a/)n (4)yam_
+        [[gaan1 jam4]],
+        illicit connection of any kind;
+    - _(4)k(')(e/)ung (1)k(a/)n_
+        [[koeng4 gaan1]]
+        a rape, to force a woman;
+    - _(1)k(a/)n (5)f(u/)_
+        [[gaan1 fu5]],
+        an adulteress;
+    - _(1)k(a/)n (4)ts(')ing_
+        [[gaan1 cing4]],
+        adultery.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~130 (1)艱]]
     ==
     - Hard, intractable soil;
