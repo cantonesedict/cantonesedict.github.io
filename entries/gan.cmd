@@ -264,6 +264,22 @@ $$
 $$
 W
   ====
+  - [[Page~128 (2)墐]]
+    ==
+    - To plaster or stop up with clay, to lute;
+    - to cover a corpse with earth;
+    - to inter;
+    - clay, argillaceous earth, mud; <# TODO: correct noun to kan4 (巨巾切) #>
+    - a way over a drain.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 (2)謹]]
     ==
     - Diligent, careful, vigilant;
