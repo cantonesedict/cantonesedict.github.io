@@ -472,7 +472,7 @@ $$
 $$
 W
   ====
-  - [[Page~129 ::~~{？=⿰⿱龷⿻口土見}~~``覲``(3)::]]
+  - [[Page~129 ::~~{？=⿰⿱廿⿻口土見}~~``覲``(3)::]]
     ==
     - To see or have an audience with a superior or the emperor;
     - to look to the north, _i.~e._ towards His Majesty;

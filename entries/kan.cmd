@@ -55,6 +55,22 @@ $$
 $$
 W
   ====
+  - [[Page~129 ::(4)~~{？=⿱⿰⿱廿⿻口土力心}~~``懃``::]]
+    ==
+    - Diligent;
+    - _(1)yan (4)k(')an_
+        [[jan1 kan4]],
+        bowed down, anxious regarding one's work or duties;
+        overlabored, no rest.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~129 (4)芹]]
     ==
     - Celery or parsley;
