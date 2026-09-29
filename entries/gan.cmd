@@ -209,6 +209,37 @@ $$
 $$
 W
   ====
+  - [[Page~128 (2)僅]]
+    ==
+    - Exactly, nothing wanting, nothing over;
+    - hardly, just missed (an injury), scarcely, almost, a little short;
+    - _(2)kan kau(3) (2)shai_
+        [[gan2 gau3 sai2]],
+        just enough;
+    - _(2)kan (2)h(o\)_
+        [[gan2 hou2]],
+        it will do;
+    - _(2)kan (2)kan ts(o\)(6) tak(7)_
+        [[gan2 gan2 zou6 dak1]]
+        can make it do, a little scrimped;
+    - _(2)kan t(o\)(3)_
+        [[gan2 dou3]]
+        just arrived;
+    - _(2)kan tsuk(7) yat(9) k(')ap(7)_
+        [[gan2 zuk1 jat6 kap1]]
+        just able to meet expenses;
+    - _(2)kan (2)ho_
+        [[gan2 ho2]],
+        nothing to spare.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 (2)謹]]
     ==
     - Diligent, careful, vigilant;
