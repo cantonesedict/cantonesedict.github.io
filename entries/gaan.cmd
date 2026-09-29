@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~130 (1)艱]]
+    ==
+    - Hard, intractable soil;
+    - difficult, distressing;
+    - the origin of;
+    - _(1)k(a/)n (4)n(a/)n_
+        [[gaan1 naan4]],
+        troubled, in unhappy circumstances, hard to ~~to~~ do;
+    - _(1)k(u:) (1)k(a/)n_
+        [[geoi1 gaan1]],
+        an officer in mourning for a mother;
+    - _(1)k(a/)n (1)san_
+        [[gaan1 san1]],
+        miserable, bitter, wretched.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~129 (1)間]]
     ==
     - A crevice, an interval, a space between;
