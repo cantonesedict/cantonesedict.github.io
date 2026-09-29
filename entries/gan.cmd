@@ -280,6 +280,21 @@ $$
 $$
 W
   ====
+  - [[Page~128 ::(2)~~{？=⿰木⿱龷⿻中二}~~``槿``::]]
+    ==
+    - A tree whose flowers blossom and decay in a day;
+    - perhaps a species of Malvaceæ;
+    - used figuratively for human glory, transient happiness;
+    - a handle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 (2)謹]]
     ==
     - Diligent, careful, vigilant;
