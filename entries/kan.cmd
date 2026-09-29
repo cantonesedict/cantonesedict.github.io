@@ -26,6 +26,35 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~129 (4)勤]]
+    ==
+    - Diligent in one's post, laborious, industrious;
+    - sedulous, attentive to, kind;
+    - to stir up, to assist one in diligence;
+    - _(4)k(')an lik(9)_
+        [[kan4 lik6]]
+        diligent, be industrious;
+    - _(4)k(')an hok(9)_
+        [[kan4 hok6]]
+        to study hard;
+    - _(4)k(')an (4)wong_
+        [[kan4 wong4]],
+        loyal, diligent in one's office;
+    - _(4)k(')an (1)k(a/) lap(9) (i/)p(9)_
+        [[kan4 gaa1 lap6 jip6]]
+        to try to exalt one's family;
+    - _(4)k(')an k(i/)m(6)_
+        [[kan4 gim6]]
+        diligent and frugal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~129 (4)芹]]
     ==
     - Celery or parsley;
