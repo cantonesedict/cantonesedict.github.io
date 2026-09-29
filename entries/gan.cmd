@@ -452,6 +452,26 @@ $$
 $$
 W
   ====
+  - [[Page~129 艮(3)]]
+    ==
+    - Hard, firm;
+    - perverse, obstinate;
+    - a limit, to bound;
+    - the third of the eight _kw(a/)(3)_ [[gwaa3]];
+    - ``the 138th``~radical [[U+2F89 ⾉ "stopping"]] of characters denoting force.
+    ==
+    --
+    This character is much used
+    as a contraction for _(4)ngan_ [[ngan4]], silver.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~129 ::~~{？=⿰⿱龷⿻口土見}~~``覲``(3)::]]
     ==
     - To see or have an audience with a superior or the emperor;
