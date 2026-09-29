@@ -26,6 +26,50 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~130 (1)奸]]
+    ==
+    - Inordinate, unregulated desire;
+    - to violate decorum, to confuse propriety;
+    - to disobey;
+    - cunning cabals, plots;
+    - vicious``,`` corrupt, selfish, malicious;
+    - clandestine;
+    - villainous, unprincipled, intriguing, crafty, traitorous;
+    - adulterous;
+    - _(1)k(a/)n ch(a/)(3)_
+        [[gaan1 zaa3]]
+        false, fraudulent, swindling;
+    - _(1)k(a/)n (4)shan_
+        [[gaan1 san4]],
+        a traitorous officer;
+    - _hon(3) (1)k(a/)n_
+        [[hon3 gaan1]],
+        a traitor, a disaffected Chinese;
+    - _(1)k(a/)n ts(')(a/)k(9)_
+        [[gaan1 caak6]]
+        a villain;
+        you traitor!
+    - _(1)k(a/)n (2)k(a/)u_
+        [[gaan1 gaau2]],
+        subtle, wily, slippery;
+    - _(1)k(a/)n (2)tai (4)yan_
+        [[gaan1 dai2 jan4]],
+        a scamp, a rascal;
+    - _(1)k(a/)n ~~(5)^tsai~~ ``(2)tsai``_
+        [[gaan1 zai2]],
+        a slippery fellow.
+    ==
+    --
+    Used interchangeably with the next [[姦]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~130 (1)艱]]
     ==
     - Hard, intractable soil;
