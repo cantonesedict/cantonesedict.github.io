@@ -500,3 +500,52 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~129 近(6)]]
+    ==
+    - Near, proximate, both in place and time;
+    - to touch, to approach, to bring near, to close upon, to urge;
+    - according to, like;
+    - familiar;
+    - _(1)ts(')an kan(6)_
+        [[can1 gan6]]
+        intimate, near one;
+    - _kan(6) sh(i/)(6)_
+        [[gan6 si6]]
+        nearly so;
+    - _kan(6) sh(i/)(6) (5)ng(a/)n_
+        [[gan6 si6 ngaan5]],
+        near-sighted;
+    - _f(u/)(6) kan(6)_
+        [[fu6 gan6]]
+        not far off;
+    - _kan(6) yat(9)_ [[gan6 jat6]]
+        or
+      _kan(6) (4)sh(i/)_ [[gan6 si4]],
+        these few days;
+    - _(1)ts(e/)ung kan(6)_
+        [[zoeng1 gan6]]
+        about to be;
+    - _kan(6) (2)hoi_
+        [[gan6 hoi2]],
+        near the sea;
+    - _kan(6) (4)loi_
+        [[gan6 loi4]],
+        recently;
+    - _kan(6) (5)l(i/)_
+        [[gan6 lei5]],
+        consonant to reason;
+    - _l(o\)(6) ~~kan(6)~~ ``(5)k(')an``_
+        [[lou6 kan5]]
+        the way is short;
+    - _kan(6) ch(u:)(6) (5)k(')(u:)_
+        [[gan6 zyu6 keoi5]],
+        get near to him.
+    ==
+  ====
+$$
+##>
