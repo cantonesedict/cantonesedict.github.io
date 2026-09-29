@@ -464,3 +464,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~129 靳(3)]]
+    ==
+    - The collar-strap of a harness;
+    - firm, vigorous, strong;
+    - to hold back, to restrain;
+    - to ridicule, to make odious;
+    - avaricious, parsimonious, sparing of, to take.
+    ==
+  ====
+$$
+##>
