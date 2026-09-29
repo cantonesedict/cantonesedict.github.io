@@ -295,6 +295,18 @@ $$
 $$
 W
   ====
+  - [[Page~128 (2)殣]]
+    ==
+    - To die of starvation by the roadside, to cover a wayside corpse.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 (2)謹]]
     ==
     - Diligent, careful, vigilant;
