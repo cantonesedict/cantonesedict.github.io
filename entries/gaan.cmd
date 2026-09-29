@@ -167,3 +167,33 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~130 (2)鹼(2){𬸳=⿰鹵見}]]
+    ==
+    - A kind of barilla obtained from marine plants in Sh(a/)ntung [[山東]];
+    - _(2)k(a/)n (2)shui_
+        [[gaan2 seoi2]],
+        lye, lixivium;
+    - _(1)f(a/)n (2)k(a/)n_
+        [[faan1 gaan2]],
+        soap;
+    - _(1)h(e/)ung (2)k(a/)n_
+        [[hoeng1 gaan2]],
+        scented soap;
+    - _(2)(u/)n (2)k(a/)n_
+        [[wun2 gaan2]],
+        coarse barilla soap;
+    - _(2)k(a/)n (1)sh(a/)_
+        [[gaan2 saa1]],
+        a sediment of lye;
+    - _~~lap(7)~~ ``l(a/)p(9)`` (2)k(a/)n_
+        [[laap6 gaan2]],
+        Castile soap.
+    ==
+  ====
+$$
+##>
