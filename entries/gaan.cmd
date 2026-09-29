@@ -172,6 +172,47 @@ $$
 $$
 W
   ====
+  - [[Page~130 (2)簡]]
+    ==
+    - A slip of bamboo used formerly for making notes on;
+    - an official writing;
+    - documents;
+    - to abridge, to condense, to retrench;
+    - laconic, terse in style;
+    - to select, to distinguish, to choose from;
+    - to treat lightly, negligent or rude to;
+    - classifier of slips or sheets of paper,
+      as _(1)t(a/)n (2)k(a/)n_ [[daan1 gaan2]],
+      a single or unfolded slip of paper;
+    - also, a single-fold visiting-card;
+    - sincere;
+    - great, large;
+    - _(2)k(a/)n ~~ch(')(a/)k(9)~~ ``ch(')(a/)k(8)``_
+        [[gaan2 caak3]]
+        a letter, a dispatch;
+    - _(2)k(a/)n ~~l(e/)uk(8)~~ ``l(e/)uk(9)``_
+        [[gaan2 loek6]]
+        to abridge, to make a digest of;
+        a resumé, a synopsis;
+    - _(2)k(a/)n m(a/)n(6)_
+        [[gaan2 maan6]]
+        to treat disrespectfully;
+        also used as a polite phrase, "I think you will deem me rude;"
+    - _(4)ng(a/) (2)k(a/)n_
+        [[ngaa4 gaan2]],
+        an ivory tablet for writing;
+    - _(2)k(a/)n ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[gaan2 kyut3]]
+        a term applied to offices, to show that they are not very important.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~130 (2)繭]]
     ==
     - A coccoon;
