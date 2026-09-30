@@ -139,3 +139,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (1)鶊]]
+    ==
+    - A kind of pie, with yellow plumage and black tail,
+      called _(1)ts(')ong (1)kang_ [[cong1 gang1]]_;_
+    - perhaps a species of thrush.
+    ==
+  ====
+$$
+##>
