@@ -280,6 +280,35 @@ $$
 $$
 W
   ====
+  - [[Page~132 before (2)耿]]
+    --
+    (The two next characters [[耿, 熲]] are often pronounced _kwang_ [[gwang]].)
+    --
+  - [[Page~132 (2)耿]]
+    ==
+    - Large ears reaching to the jaw-joint,
+      thought to be indicative of nobility or long life;
+    - constant, firm, ingenuous, sincere;
+    - something sad imprinted on the mind;
+    - restless, unquiet, melancholy;
+    - _(1)yau (1)sam (2)kang (2)kang_
+        [[jau1 sam1 gang2 gang2]],
+        disquieted, full of regrets;
+    - _(2)kang k(a/)i(3)_
+        [[gang2 gaai3]]
+        noble-minded, sincere~~,~~``;``
+    - _(2)kang (1)kwong_
+        [[gang2 gwong1]],
+        bright, to illumine.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~132 (2)骾(2)鯁]]
     ==
     - Fish-bones;
