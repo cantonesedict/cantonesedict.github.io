@@ -352,3 +352,45 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~131 間(3)]]
+    ==
+    - To make a space between, to divide, to interrupt, to alternate;
+    - to sunder;
+    - to part friends, to interfere, to slander;
+    - a spy;
+    - far removed;
+    - vacant, unoccupied (as a road);
+    - to bear with;
+    - _k(a/)n(3) shik(7)_
+        [[gaan3 sik1]]
+        colors alternating;
+    - _k(a/)n(3) k(a/)k(8)_
+        [[gaan3 gaak3]]
+        to disjoin, to set apart;
+    - _k(a/)n(3) (4)fong_
+        [[gaan3 fong4-2]],
+        to divide off a room;
+    - _k(a/)n(3) p(i/)t(9) (2)h(o\) noi(6)_
+        [[gaan3 bit6 hou2 noi6]]
+        separated a long time;
+    - _(1)sho k(a/)n(3) (4)yan_
+        [[so1 gaan3 jan4]],
+        a tale-bearer;
+    - _k(a/)n(3) (1)sho tik(7)_
+        [[gaan3 so1 dik1]]
+        separate them a little more;
+    - _k(a/)n(3) w(a/)k(9) (4)'m (4)loi ~~(4)n(i/)~~ ``(1)n(e/)``_
+        [[gaan3 waak6 m4 loi4 ne1]],
+        what if I do not come?
+    - _(2)f(a/)n k(a/)n(3)_
+        [[faan2 gaan3]]
+        a spy.
+    ==
+  ====
+$$
+##>
