@@ -75,3 +75,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (1)粳]]
+    ==
+    - A kind of rice, a little fragrant when cooked,
+      called _(1)h(e/)ung (1)kang (5)mai_ [[hoeng1 gang1 mai5]]_;_
+    - it has very little viscidity.
+    ==
+  ====
+$$
+##>
