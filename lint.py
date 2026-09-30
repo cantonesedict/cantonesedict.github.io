@@ -2183,6 +2183,7 @@ class CharacterEntry:
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
+        CharacterEntry.lint_consecutive_lists(w_content, heading_content)
         CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
@@ -2300,6 +2301,18 @@ class CharacterEntry:
     def lint_character_against_unicode_code_point(character: str, unicode_code_point: str):
         if Utilities.unicode_code_point(character) != unicode_code_point:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
+
+    @staticmethod
+    def lint_consecutive_lists(content: str, heading_content: str):
+        if re.search(
+            pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
+            string=content,
+            flags=re.MULTILINE | re.VERBOSE,
+        ):
+            raise LintException(
+                f'consecutive lists in `{heading_content}` '
+                f'(suppress with intervening caret plus backslash if legitimate)'
+            )
 
     @staticmethod
     def lint_williams_locator_tone(content: str):

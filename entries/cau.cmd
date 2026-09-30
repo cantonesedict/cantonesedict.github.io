@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-09-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1902,8 +1902,6 @@ W
         [[cyun1 cau4 川綢]],
         Sz'chuen [[四川]] pongee.
     ==
-  ====
-  ====
   - [[Page~27|n70 (4)綢]]
     ==
     - Used for the last [[紬]], when denoting silk;
