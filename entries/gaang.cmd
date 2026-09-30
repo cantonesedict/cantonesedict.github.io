@@ -55,3 +55,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 逕(3)]]
+    ==
+    - A by-path;
+    - a shady path, leading across fields;
+    - _wan(6) k(a/)ng(3) ~~h(u:)(6)~~ ``h(u:)(3)``_
+        [[wan6 gaang3 heoi3]]
+        find a short cut to go;
+    - _ts(i/)t(9) k(a/)ng(3)_
+        [[zit6 gaang3]]
+        to rob in a retired path;
+    - _k(a/)ng(3) l(o\)(6)_
+        [[gaang3 lou6]]
+        a short path, a side road.
+    ==
+    <# this seems to be a Fan Wan word #>
+  ====
+$$
+##>
