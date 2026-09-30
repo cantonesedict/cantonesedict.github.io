@@ -282,7 +282,7 @@ W
   ====
   - [[Page~132 before (2)耿]]
     --
-    (The two next characters [[耿, 熲]] are often pronounced _kwang_ [[gwang]].)
+    ~~(The two next characters [[耿, 熲]] are often pronounced _kwang_ [[gwang]].)~~
     --
   - [[Page~132 (2)耿]]
     ==

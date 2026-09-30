@@ -21,3 +21,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (2)熲 _(2)Kang_ (gang2); here corrected to _(2)Kwing_ (gwing2)]]
+    ==
+    - ~~Used for the last [[耿]];~~
+    - brightness of fire;
+    - a little bright.
+    ==
+  ====
+$$
+##>
