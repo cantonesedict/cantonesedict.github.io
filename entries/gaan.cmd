@@ -332,6 +332,21 @@ $$
 $$
 W
   ====
+  - [[Page~131 澗(3)]]
+    ==
+    - A stream in a valley, a mountain torrent;
+    - _(1)sh(a/)n k(a/)n(3)_
+        [[saan1 gaan3]]
+        a streamlet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~131 諫(3)]]
     ==
     - To point out the right of a thing;
