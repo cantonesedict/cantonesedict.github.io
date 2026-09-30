@@ -172,6 +172,39 @@ $$
 $$
 W
   ====
+  - [[Page~131 (2)揀]]
+    ==
+    - To elect, to choose, to discriminate;
+    - _(2)k(a/)n ~~s(u:)n(6)~~ ``(2)s(u:)n``_
+        [[gaan2 syun2]]
+        to select (persons for a duty or office);
+    - _(2)k(a/)n ch(a/)k(9)_
+        [[gaan2 zaak6]]
+        to choose from, to specially select one of;
+    - _(2)k(a/)n (4)ch(')(a/)_
+        [[gaan2 caa4]],
+        to sort tea;
+    - _(2)k(a/)n fo(3)_
+        [[gaan2 fo3]]
+        to garble goods;
+    - _(2)k(a/)n shing(6)_
+        [[gaan2 sing6]]
+        that which is rejected;
+    - _(2)k(a/)n (4)(u:)n_
+        [[gaan2 jyun4]],
+        finished picking;
+    - _(2)k(a/)n tseng(6)_
+        [[gaan2 zeng6]]
+        picked clean.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~131 (2)柬]]
     ==
     - Often used for the preceding [[簡]];
