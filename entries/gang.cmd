@@ -126,6 +126,50 @@ $$
 
 <##
 $$
+A
+  ==
+  - 羮
+  ==
+W
+  ====
+  - [[Page~132 ::(1)~~{？=⿱羔㺯}~~``羹``::]]
+    ==
+    - A thick soup or broth, a savory porridge,
+      ~~make~~ ``made`` of flesh and meat;
+    - a spoon or small ladle;
+    - _(1)kang (1)t(')ong_
+        [[gang1 tong1]],
+        soups;
+    - _(4)ch(')(a/) (1)kang_
+        [[caa4 gang1]],
+        a tea-spoon;
+    - _~~(4)sh(i/)~~ ``(4)ch(')(i/)`` (1)kang_ [[ci4 gang1]],
+        or
+      _(4)t(')i(u/) (1)kang_ [[tiu4 gang1]],
+        a spoon;
+    - _t(a/)i(6) (1)kang_
+        [[daai6 gang1]],
+        a table-spoon;
+    - _(4)(u:) (1)kang_
+        [[jyu4 gang1]],
+        fish chowder;
+    - _(4)wo (1)kang_
+        [[wo4 gang1]],
+        a well seasoned soup;
+        _met._ harmony between states.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 羹 as ⿱羔㺯 (which is *not quite* 羮); here corrected.
+    (The character 羮 appears on Page~796 in the character index,
+    but with a radical stroke count of 13, which actually corresponds to 羹.)
+  ==
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~132 (1)賡]]
