@@ -123,3 +123,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (1)賡]]
+    ==
+    - To repeat a song, to encore a song or music;
+    - to join to, to continue;
+    - _(1)kang (1)ko_
+        [[gang1 go1]],
+        to repeat a song.
+    ==
+  ====
+$$
+##>
