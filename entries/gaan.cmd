@@ -327,3 +327,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~131 諫(3)]]
+    ==
+    - To point out the right of a thing;
+    - to reprove, to remonstrate with, to testify against,
+      to plead with a superior;
+    - to advise, to urge to reformation;
+    - remonstrance;
+    - _h(u:)n(3) k(a/)n(3)_
+        [[hyun3 gaan3]]
+        to urge one to reform;
+    - _k(a/)n(3) (1)k(u/)n_
+        [[gaan3 gun1]],
+        a censor to His Majesty, a historiographer;
+    - _(2)f(u/) k(a/)n(3)_
+        [[fu2 gaan3]]
+        unpalatable advice.
+    ==
+  ====
+$$
+##>
