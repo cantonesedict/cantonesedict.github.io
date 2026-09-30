@@ -260,3 +260,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (2)骾(2)鯁]]
+    ==
+    - Fish-bones;
+    - bones or anything sticking in the throat;
+    - stiff as a bone, decided, unyielding, blunt (applied to officers);
+    - _(2)kang (4)'m kwo(3) (2)keng_
+        [[gang2 m4 gwo3 geng2]],
+        the bone won't go down, you can't impose on me that way.
+    ==
+  ====
+  <# TODO: $哽kang2 (choke) #>
+$$
+##>
