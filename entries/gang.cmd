@@ -322,3 +322,25 @@ W
   <# TODO: $哽kang2 (choke) #>
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 更(3)]]
+    ==
+    - A word of comparison, more, better;
+    - again, further;
+    - _kang(3) (2)h(o\)_
+        [[gang3 hou2]],
+        better;
+    - _kang(3) sh(i/)(6)_
+        [[gang3 si6]]
+        still more proper;
+    - _kang(3) (1)nau_
+        [[gang3 nau1]],
+        more angry.
+    ==
+  ====
+$$
+##>
