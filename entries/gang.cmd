@@ -197,3 +197,51 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (2)梗]]
+    ==
+    - A spinous tree, like an elm, good only to burn;
+    - thorny, to prick, as a thorn;
+    - sickness;
+    - to ward off sickness;
+    - a resumé;
+    - to obstruct, to close;
+    - straight;
+    - strong;
+    - a stem or petiole;
+    - _(2)kang k(')oi(3)_
+        [[gang2 koi3]]
+        on the whole;
+    - _(2)kang chik(9)_
+        [[gang2 zik6]]
+        upright, highminded.
+    ==
+    --
+    A colloquial word, meaning
+    --
+    ==
+    - fixed, finished, unchangeable;
+    - the whole of anyth``i``ng;
+    - _(2)kang (2)p(a/)n_
+        [[gang2 baan2]],
+        it is already too late, it can not be changed;
+    - _(2)kang hai(6) (2)k(o\)m_
+        [[gang2 hai6 gam2]],
+        the thing must be so;
+    - _(4)t(')au (2)kang (2)kang_
+        [[tau4 gang2 gang2]],
+        a stiff neck;
+    - _(1)shang (4)shing (2)kang k(e/)(3)_
+        [[sang1 sing4 gang2 ge3]]
+        it was so born or made, unimproveable, irremediable;
+    - _(4)w(a/)n (2)kang_
+        [[waan4 gang2]],
+        selfwilled, obstinate.
+    ==
+  ====
+$$
+##>
