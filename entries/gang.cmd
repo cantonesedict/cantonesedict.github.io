@@ -245,3 +245,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~132 (2)綆]]
+    ==
+    - A well-rope;
+    - _(2)kang (2)t(u:)n pat(7) (2)ho ~~k(')ap(7)~~ ``k(')ap(9)`` (1)sham_
+        [[gang2 dyun2 bat1 ho2 kap6 sam1]],
+        deep water can not be drawn up with a short rope.
+    ==
+  ====
+$$
+##>
