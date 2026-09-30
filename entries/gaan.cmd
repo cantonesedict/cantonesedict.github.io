@@ -172,6 +172,37 @@ $$
 $$
 W
   ====
+  - [[Page~131 (2)柬]]
+    ==
+    - Often used for the preceding [[簡]];
+    - to select, to sort;
+    - to reduce or abridge;
+    - a visiting-card;
+    - a classifier of slips of paper;
+    - _(5)lai (2)k(a/)n_
+        [[lai5 gaan2]],
+        a marriage card;
+    - _(4)hung (2)k(a/)n_
+        [[hung4 gaan2]],
+        a common red visiting-card;
+    - _(4)ts(')(u:)n (2)k(a/)n_
+        [[cyun4 gaan2]],
+        a 5-fold visiting-card;
+    - _(2)k(a/)n (1)sh(u:)_
+        [[gaan2 syu1]],
+        a letter;
+    - _(2)k(a/)n t(')(i/)p(8)_
+        [[gaan2 tip3-2]]
+        a card.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~130 (2)簡]]
     ==
     - A slip of bamboo used formerly for making notes on;
