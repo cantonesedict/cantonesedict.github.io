@@ -60,6 +60,33 @@ $$
 $$
 W
   ====
+  - [[Page~133 挭(3)]]
+    --
+    A colloquial word;
+    --
+    ==
+    - to wind off thread, to reel;
+    - to stir about in water, and seek for;
+    - to stir up;
+    - to wade;
+    - _k(a/)ng(3) (2)k(a/)n_
+        [[gaang3 gaan2]],
+        to reel coccoons;
+    - _k(a/)ng(3) (2)shui kwo(3) (4)ho_
+        [[gaang3 seoi2 gwo3 ho4]],
+        wade across the stream;
+    - _(1)n(i/)m chuk(7) k(a/)ng(3) kwo(3)_
+        [[nim1 zuk1 gaang3 gwo3]]
+        bring a bamboo to feel for it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~133 逕(3)]]
     ==
     - A by-path;
