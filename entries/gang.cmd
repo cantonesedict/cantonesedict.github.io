@@ -202,6 +202,21 @@ $$
 $$
 W
   ====
+  - [[Page~132 (2)亙]]
+    ==
+    - A limit;
+    - the highest point;
+    - to fill everywhere;
+    - relics of antiquity.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~132 (2)梗]]
     ==
     - A spinous tree, like an elm, good only to burn;
