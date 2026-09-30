@@ -26,6 +26,40 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~132 (1)庚]]
+    ==
+    - The seventh of the 'ten stems;'
+    - to change, to alter;
+    - a way, a path;
+    - age, years;
+    - to restore;
+    - to bestow as a reward;
+    - _(4)t(')ung (1)kang_
+        [[tung4 gang1]],
+        of the same age;
+    - _(1)kang (2)k(a/)n_
+        [[gang1 gaan2]],
+        a card containing the record of the births
+        of two persons proposing to marry;
+    - _(5)n(i/) (1)kam (4)n(i/)n kwai(3) (1)kang_
+        [[nei5 gam1 nin4 gwai3 gang1]],
+        what is your age this year?
+    - _(4)ch(')(e/)ung (1)kang_
+        [[coeng4 gang1]],
+        the evening star;
+        also, old, aged;
+    - _(1)f(u/) (1)kang kwai(3)_
+        [[fu1 gang1 gwai3]]
+        to ask charity.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~131 (1)更]]
     ==
     - To change, to alter, to renew;
