@@ -213,3 +213,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~135 頰(8)]]
+    ==
+    - The jaws, the sides of the face;
+    - the cheeks;
+    - utterance, articulation;
+    - _(1)soi k(a/)p(8)_
+        [[soi1 gaap3]]
+        the cheeks;
+    - _k(a/)p(8) (1)ch(')(e/)_
+        [[gaap3 ce1]],
+        the jaw bone;
+    - _(u/)n(6) k(a/)p(8)_
+        [[wun6 gaap3]]
+        slow of speech;
+    - _(5)n(i/) (4)'m ngap(7) k(a/)p(8)_
+        [[nei5 m4 ngap1 gaap3]]
+        you never opened your mouth, you said nothing about it.
+    ==
+  ====
+$$
+##>
