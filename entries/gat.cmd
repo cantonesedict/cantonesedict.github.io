@@ -40,6 +40,31 @@ $$
 $$
 W
   ====
+  - [[Page~135 㓤(7)]]
+    ==
+    - To flay the face;
+    - to tattoo~~;~~``.`` <# TODO: correct to $㓤kit3 #>
+    ==
+    --
+    ~~a~~ ``A`` colloquial word:
+    --
+    ==
+    - to stick a knife or sharp instrument into one, to stab;
+    - _kat(7) tak(7) (4)yan t(')ung(3)_
+        [[gat1 dak1 jan4 tung3]]
+        to prick so that it pains;
+    - _kat(7) (2)sz'_
+        [[gat1 sei2]]
+        to stab to death.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~135 吉(7)]]
     ==
     - Felicitous, lucky, fortunate;
