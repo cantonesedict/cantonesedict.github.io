@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-10-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1120,8 +1120,11 @@ W
     [[...]]
     --
     --
-    Also ~~read _tsui(3)_ [[zeoi3]]~~ a hero [[Kangxi 雋: 與儁通]].
+    Also ~~read _tsui(3)_ [[zeoi3]]~~
     --
+    ==
+    - a hero [[Kangxi 雋: 與儁通]].
+    ==
   - [[Page~602 儁(3); here normalised to 俊]]
     ==
     - Valiant, brave;

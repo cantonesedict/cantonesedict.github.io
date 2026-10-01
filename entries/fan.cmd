@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-09-20
+* %date-modified --> 2026-10-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -279,8 +279,11 @@ W
     [[...]]
     --
     --
-    Read _(1)fan_ [[fan1]], to distribute [[Kangxi: 匪分也, 匪讀爲分]].
+    Read _(1)fan_ [[fan1]],
     --
+    ==
+    - to distribute [[Kangxi: 匪分也, 匪讀爲分]].
+    ==
     --
     [[Alternative form of 分. See $分fan1.]]
     --

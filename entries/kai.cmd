@@ -154,8 +154,11 @@ W
     - a scolloped bannerol borne by aides-de-camp or escort.
     ==
     --
-    Read _hing(3)_ [[hing3]], the sides or ribs.
+    Read _hing(3)_ [[hing3]],
     --
+    ==
+    - the sides or ribs.
+    ==
   ====
 $$
 ##>
@@ -222,8 +225,11 @@ W
         a large grasshopper.
     ==
     --
-    Read _kai(3)_ [[gai3]] a sort of frog.
+    Read _kai(3)_ [[gai3]]
     --
+    ==
+    - a sort of frog.
+    ==
   ====
 C
   ==

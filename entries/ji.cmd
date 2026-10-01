@@ -588,8 +588,11 @@ W
     - loquacious.
     ==
     --
-    Read _(1)w(a/)_ [[waa1]], the prattle of children.
+    Read _(1)w(a/)_ [[waa1]],
     --
+    ==
+    - the prattle of children.
+    ==
   ====
 $$
 ##>

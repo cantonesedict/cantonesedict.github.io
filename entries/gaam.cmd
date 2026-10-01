@@ -125,8 +125,11 @@ W
         to be silent, to stop the mouth of or entrance.
     ==
     --
-    Read _k(a/)m(3)_ [[gaam3]], the bindings of a coffin.
+    Read _k(a/)m(3)_ [[gaam3]],
     --
+    ==
+    - the bindings of a coffin.
+    ==
   ====
 $$
 ##>
