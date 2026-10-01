@@ -144,3 +144,33 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~134 給(7)]]
+    ==
+    - To give to, to supply with, to provide what is necessary;
+    - abounding, to suffice;
+    - to receive or suffer from one, to be the recipient of;
+    - a sign of the passive;
+    - _(1)kung k(')ap(7)_
+        [[gung1 kap1]]
+        to offer to, to supply;
+    - _(2)sh(e/)ung k(')ap(7)_
+        [[soeng2 kap1]]
+        to confer on;
+    - _(2)hau k(')ap(7)_
+        [[hau2 kap1]]
+        a ready wit, prompt, a retort;
+    - _yat(9) k(')ap(7)_
+        [[jat6 kap1]]
+        daily necessaries;
+    - _(5)ngo k(')ap(7) (1)t(')(a/) m(a/)(6)_
+        [[ngo5 kap1 taa1 maa6]]
+        I was scolded by him.
+    ==
+  ====
+$$
+##>
