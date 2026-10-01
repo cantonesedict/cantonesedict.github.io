@@ -104,3 +104,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~135 韐(8)]]
+    ==
+    - A knee-pad of leather;
+    - a sort of leathern sash or apron for soldiers.
+    ==
+  ====
+$$
+##>
