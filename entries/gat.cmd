@@ -26,6 +26,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~135 佶(7)]]
+    ==
+    - Strong, robust, firm;
+    - unwearied;
+    - exact, upright.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~135 吉(7)]]
     ==
     - Felicitous, lucky, fortunate;
