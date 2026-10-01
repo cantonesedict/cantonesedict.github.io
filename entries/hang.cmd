@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-09-05
+* %date-modified --> 2026-10-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -620,6 +620,7 @@ A
 V
   ==
   - haang4 (vernacular longer syllable for "walk" and "move" senses)
+  - hang4-2 (rising second in vernacular 行行地)
   ==
 F
   ==
