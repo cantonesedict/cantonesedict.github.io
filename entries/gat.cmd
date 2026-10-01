@@ -63,6 +63,28 @@ $$
 
 <##
 $$
+V
+  ==
+  - hek3 (common)
+  ==
+W
+  ====
+  - [[Page~136 吃(7)]]
+    ==
+    - To stutter, slow of speech;
+    - _kat(7) (2)hau_
+        [[gat1 hau2]],
+        to stammer;
+    - _kat(7) sh(i/)t(8)_
+        [[gat1 sit3]]
+        slow of speech.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~135 吉(7)]]
