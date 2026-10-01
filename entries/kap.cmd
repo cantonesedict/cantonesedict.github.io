@@ -108,3 +108,39 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 級(7)]]
+    ==
+    - Threads arranged in a regular manner;
+    - an order, a series, a gradation;
+    - a step in a stairway or ladder;
+    - a degree or grade of office, a grade of honorary merit;
+    - classed, sorted;
+    - classifier of decapitated heads;
+    - _(2)p(a/)n k(')ap(7)_
+        [[baan2 kap1]]
+        a step in ~~astairway~~ ``a stairway``;
+    - _(2)pan k(')ap(7)_
+        [[ban2 kap1]]
+        a grade or rank;
+    - _(2)tang k(')ap(7)_
+        [[dang2 kap1]]
+        a sort or class of persons;
+    - _(1)shing yat(7) k(')ap(7)_
+        [[sing1 jat1 kap1]]
+        to be advanced in rank;
+    - _yat(7) k(')ap(7) k(')ap(7) (5)sh(e/)ung_
+        [[jat1 kap1 kap1 soeng5]],
+        to gradually rise in office;
+    - _(1)k(a/) shap(9) k(')ap(7)_
+        [[gaa1 sap6 kap1]]
+        'promoted ten steps,' refers to honorary grades of merit
+        as recorded in the books of the Board of Rites.
+    ==
+  ====
+$$
+##>
