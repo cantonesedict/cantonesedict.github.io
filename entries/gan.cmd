@@ -209,6 +209,19 @@ $$
 $$
 W
   ====
+  - [[Page~718 (1)釿]]
+    ==
+    - Once used for 斤,
+      but now usually means an adz or ax to trim wood.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~128 (2)僅]]
     ==
     - Exactly, nothing wanting, nothing over;
