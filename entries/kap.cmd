@@ -58,3 +58,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 岌(7)]]
+    ==
+    - A lofty hill, a slender peak projecting out of the range of other hills;
+    - dangerous.
+    ==
+  ====
+  <# TODO: ($岌ngap6), $岋ngap6 (動貌) #>
+$$
+##>
