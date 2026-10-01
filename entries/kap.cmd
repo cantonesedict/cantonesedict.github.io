@@ -72,3 +72,24 @@ W
   <# TODO: ($岌ngap6), $岋ngap6 (動貌) #>
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 汲(7)]]
+    ==
+    - To draw water from a well;
+    - to lead, to draw out;
+    - to drag;
+    - _k(')ap(7) (2)shui_
+        [[kap1 seoi2]],
+        to draw up water;
+    - _k(')ap(7) k(')ap(7)_
+        [[kap1 kap1]]
+        unremitting, hand over hand;
+        unceasing effort.
+    ==
+  ====
+$$
+##>
