@@ -96,3 +96,42 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~135 桔(7)橘(7)]]
+    ==
+    - A well-sweep, called _kat(7) (1)k(o\)_ [[gat1 gou1]]_;_
+    - a kind of water-wheel or bucket, worked by a pulley;
+    - _kat(7) (2)kang_
+        [[gat1 gang2]],
+        a common medicine, used in coughs;
+    - _(1)ch(u:) (1)sh(a/) kat(7)_
+        [[zyu1 saa1 gat1]]
+        the mandarin orange _(Citrus nobilis);_
+    - the second character [[橘]] is the proper one,
+      but the first [[桔]] is mostly used to denote this fruit;
+    - _kat(7) (2)tsai_
+        [[gat1 zai2]],
+        a small loose skinned orange;
+    - _sz'(3) kwai(3) kat(7)_
+        [[sei3 gwai3 gat1]]
+        the nutmeg orange;
+    - _(1)kam (4)ts(')(i/)n kat(7)_
+        [[gam1 cin4 gat1]]
+        gold nutmeg orange;
+    - _kat(7) (2)peng_
+        [[gat1 beng2]],
+        a kind of comfit made of oranges ~~orlemons~~ ``or lemons``;
+    - _ti(u/)(3) (4)m(u/)n kat(7)_
+        [[diu3 mun4 gat1]]
+        an orange hung on the lintel for gook luck;
+    - _ti(u/)(3) (4)m(u/)n (1)kat (2)yam (1)kon_
+        [[diu3 mun4 gat1 jam2 gon1]],
+        a miserably inane, shriveled up fellow.
+    ==
+  ====
+$$
+##>
