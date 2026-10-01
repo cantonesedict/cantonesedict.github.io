@@ -21,3 +21,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~135 拮(7) _Kat(7)_ (gat1); here normalised to _K(i/)t(8)_ (git3)]]
+    ==
+    - Occupied, laboring with the hands and mouth;
+    - to grasp a plant with the hands and nails to pull it up;
+    - to perplex, to press upon;
+    - _~~kat(7)~~ ``k(i/)t(8)`` (1)k(u:)_
+        [[git3 geoi1]]
+        embarrassed in business for want of funds.
+    ==
+  ====
+$$
+##>
