@@ -157,3 +157,44 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - gat6-2 (rising second in vernacular 趷趷地)
+  ==
+W
+  ====
+  - [[Page~136 跀(9); here normalised to 趷]]
+    --
+    A colloquial word:
+    --
+    ==
+    - to turn up the end, to perk up;
+    - to make one end higher than the other;
+    - _kat(9) (1)k(o\)_
+        [[gat6 gou1]],
+        to curl up (as a dog's tail);
+    - _kat(9) (1)k(o\) (4)t(')au_
+        [[gat6 gou1 tau4]],
+        to look at on tiptoe;
+    - _kat(9) (2)h(i/) (4)t(')au_
+        [[gat6 hei2 tau4]],
+        to set up in bed;
+    - _kat(9) kat(9) t(i/)(6) k(e/)uk(8)_
+        [[gat6 gat6-2 dei6-2 goek3]]
+        to walk on one foot or irregularly, to limp;
+    - _kat(9) (1)l(a/)_
+        [[gat6 laa1]],
+        begone, avaunt!
+    - _kat(9) (1)kai_
+        [[gat6 gai1]],
+        the end of a tie-beam;
+    - _(1)kai kat(9) tok(9)_
+        [[gai1 gat6 dok6]]
+        the cackling of a hen.
+    ==
+  ====
+$$
+##>
