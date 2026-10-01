@@ -174,3 +174,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~134 闟(7)]]
+    ==
+    - Leaf of a door;
+    - a kind of lance with tassels placed in chariots;
+    - a chariot so guarded;
+    - standing erect;
+    - settled.
+    ==
+  ====
+$$
+##>
