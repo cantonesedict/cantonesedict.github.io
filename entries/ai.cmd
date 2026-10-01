@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-10-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -242,25 +242,9 @@ W
     [[...]]
     --
     --
-    A colloquial word;
+    [[Alternative form of 翳 (in Cantonese 閉翳 spelt 贔屭). See $翳ai3.]]
     --
-    ==
-    - grief, sorrow;
-    - _pai(3) ai(3)_
-        [[bai3 ai3 贔屭]]
-        trouble, resulting from affliction or poverty.
-    ==
   ====
-E
-  ====
-  - 【贔屭】 (bai3 ai3)
-    ++
-    1. To be exceedingly afflicted or troubled by something. Also spelt 閉翳.
-    ++
-  ====
-  --
-  The spelling 贔屭 is arbitrary (but well established).
-  --
 S
   ==
   - $屭hei3
@@ -357,6 +341,10 @@ R
   ⽻ + 11
 U
   U+7FF3
+A
+  ==
+  - $屭3 (in Cantonese 閉翳 spelt 贔屭)
+  ==
 V
   ==
   - ngai3 (hypercorrected initial)
@@ -402,6 +390,19 @@ W
         [[ai3 zai6 翳滯]]
         indigestible.
     ==
+  - [[Page~2 屭(3); here normalised to 翳]]
+    --
+    [[...]]
+    --
+    --
+    A colloquial word;
+    --
+    ==
+    - grief, sorrow;
+    - _pai(3) ai(3)_
+        [[bai3 ai3 閉翳]]
+        trouble, resulting from affliction or poverty.
+    ==
   ====
 L
   ====
@@ -411,6 +412,13 @@ L
     - (_verb-like_) [to] screen, [to] cover (up)
     - (_noun-like_) fallen-tree
     ==
+  ====
+E
+  ====
+  - 【閉翳】 (bai3 ai3)
+    ++
+    1. To be exceedingly afflicted or troubled by something. Commonly spelt 贔屭.
+    ++
   ====
 $$
 
