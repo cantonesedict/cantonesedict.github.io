@@ -21,3 +21,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 伋(7)]]
+    ==
+    - _(2)Hung K(')ap(7)_
+        [[hung2 kap1]]
+        the name of the grandson of Confucius, the author of the Chung Yung [[中庸]].
+    ==
+    --
+    False, empty. <# TODO: correct to $伋kap6 #>
+    --
+  ====
+$$
+##>
