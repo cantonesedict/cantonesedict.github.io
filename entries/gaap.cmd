@@ -84,3 +84,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~134 袷(8)]]
+    ==
+    - A garment lined, without wadding;
+    - doubled or lined;
+    - a neck-covering;
+    - _k(a/)p(8) (1)sh(a/)m_
+        [[gaap3 saam1]],
+        a lined dress;
+    - _k(a/)p(8) ~~n(a/)p(8)~~ ``n(a/)p(9)``_
+        [[gaap3 naap6]]
+        a skirt with a lining.
+    ==
+  ====
+$$
+##>
