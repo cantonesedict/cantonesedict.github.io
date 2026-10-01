@@ -149,6 +149,27 @@ $$
 $$
 W
   ====
+  - [[Page~135 莢(8)]]
+    ==
+    - Pods of leguminous plants;
+    - legumes, including the seeds;
+    - an Acacia;
+    - a petiole sheath in grasses;
+    - _k(a/)p(8) (4)ts(')(i/)n_
+        [[gaap3 cin4]],
+        a kind of coin in the H(a/)n [[漢]] dynasty,
+        resembling the seeds of the elm;
+    - name of a lucky plant which grew
+      in the emperor ~~Y(u/)~~ ``Y(a/)u`` [[堯]]'s courtyard.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~716 蛺(9) _H(a/)p(9)_ (haap6); here normalised to _K(a/)p(8)_ (gaap3)]]
     ==
     - A butterfly;
