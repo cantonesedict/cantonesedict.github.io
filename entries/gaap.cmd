@@ -205,6 +205,26 @@ $$
 $$
 W
   ====
+  - [[Page~718 跲(8)]]
+    ==
+    - To stumble;
+    - to hesitate in speaking;
+    - for, instead of;
+    - _k(a/)p(8) hau(6)_
+        [[gaap3 hau6]]
+        to fall backwards;
+    - _(4)(i/)n (4)ts(')(i/)n ting(6) tsak(7) pat(7) k(a/)p(8)_
+        [[jin4 cin4 ding6 zak1 bat1 gaap3]]
+        consider well your words, and you will not hesitate.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~135 韐(8)]]
     ==
     - A knee-pad of leather;
