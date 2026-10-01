@@ -115,7 +115,12 @@ W
         the gravid uterus;
     - _k(a/)p(8) (1)ping_
         [[gaap3 bing1]],
-        cavalry.
+        ~~cavalry~~ ``mail-clad bannermen``.
+    ==
+  - [[Page~718 甲(8)]]
+    ==
+    - The last word under this character [[甲]]
+      should read "mail-clad bannermen," instead of "cavalry."
     ==
   ====
 $$
