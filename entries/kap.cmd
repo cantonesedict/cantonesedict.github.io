@@ -93,3 +93,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 笈(7)]]
+    ==
+    - A box or satchel to contain one's books;
+    - _f(u/)(6) k(')ap(7) (4)ts(')ung (1)sz'_
+        [[fu6 kap1 cung4 si1]],
+        to take up one's books, and follow a teacher.
+    ==
+  ====
+$$
+##>
