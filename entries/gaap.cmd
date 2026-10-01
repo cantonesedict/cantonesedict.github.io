@@ -26,6 +26,57 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~135 夾(8)]]
+    ==
+    - To take or press under the arm;
+    - to carry secretly;
+    - to succor;
+    - assistants;
+    - to take up with pincers, to nip up;
+    - to squeeze;
+    - to press between two;
+    - doubled, lined;
+    - to take to one's bosom;
+    - _k(a/)p(8) kwan(3)_
+        [[gaap3 gwan3]]
+        an instrument to torture the ancles;
+    - _k(a/)p(8) (4)m(a/)i_ [[gaap3 maai4]],
+        or
+      _k(a/)p(8) ch(u:)(6)_ [[gaap3 zyu6]]
+        to press between;
+    - _k(a/)p(8) (2)p(a/)n_
+        [[gaap3 baan2]],
+        two boards for pressing or supporting the sides of things;
+    - _(1)sh(u:) k(a/)p(8)_
+        [[syu1 gaap3]]
+        boards used to press books;
+    - _k(a/)p(8) (2)ch(i/)_
+        [[gaap3 zi2]],
+        to press paper;
+    - _k(a/)p(8) (2)kan_
+        [[gaap3 gan2]],
+        press it tight;
+    - _k(a/)p(8) t(a/)i(3) (1)sz' fo(3)_
+        [[gaap3 daai3 si1 fo3]]
+        to smuggle with one's baggage, or with other goods;
+    - _k(a/)p(8) ch(')ut(7) (4)lai_
+        [[gaap3 ceot1 lai4]],
+        nip it up;
+    - _k(a/)p(8) ts(a/)p(9)_
+        [[gaap3 zaap6]]
+        mixed with, as poor fruit with better;
+    - _hai(6) (1)t(a/)n hai(6) k(a/)p(8) ~~(1)n(i/)~~ ``(1)n(e/)``_
+        [[hai6 daan1 hai6 gaap3 ne1]],
+        is it single or double?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~134 甲(8)]]
     ==
     - The plumula or scaly covering of a growing seed,
