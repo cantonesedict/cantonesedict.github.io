@@ -125,6 +125,30 @@ $$
 $$
 W
   ====
+  - [[Page~135 筴(8)]]
+    ==
+    - To take up~~,~~ with``,`` as chopsticks.
+    ==
+    --
+    ~~Read _h(i/)p(8)_ [[hip3]]~~
+    --
+    ==
+    - chopsticks.
+    ==
+    --
+    Read _ch(')(a/)k(8)_ [[caak3]]
+    --
+    ==
+    - divining sticks of bamboo.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~716 蛺(9) _H(a/)p(9)_ (haap6); here normalised to _K(a/)p(8)_ (gaap3)]]
     ==
     - A butterfly;
