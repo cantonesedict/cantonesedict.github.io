@@ -38,3 +38,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~133 吸(7)]]
+    ==
+    - To draw in the breath;
+    - to make an inspiration, to inhale;
+    - to imbibe, to suck in, to drink;
+    - _k(')ap(7) yat(7) (2)hau h(i/)(3)_
+        [[kap1 jat1 hau2 hei3]]
+        take a long breath;
+    - _(4)h(a/)i k(')ap(7) k(')ap(7)_
+        [[haai4 kap1 kap1]]
+        very rough.
+    ==
+  ====
+$$
+##>
