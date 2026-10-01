@@ -190,3 +190,57 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ======
+  - [[Page~134 及(9)]]
+    ====
+    - As a verb:
+      ==
+      - to effect, to reach to;
+      - to stretch or extend towards, to arrive at, to go to,
+        to influence at a distance;
+      - to ~~commmunicate~~ ``communicate``;
+      - to connect, to implicate;
+      - effected, completed---\
+        in which senses it is often a sign of the past tense.
+      ==
+    - As a conjunction:
+      ==
+      - and, with, also;
+      - at;
+      - to;
+      - about, concerning;
+      - much used with a negative,
+        to denote what is impracticable, or unavailing;
+      ==
+    - _ts(o\)(6) k(')ap(9)_
+        [[zou6 kap6]]
+        just done, effected;
+    - _(5)y(a/) (4)ts(')ang (2)kong k(')ap(9)_
+        [[jaa5 cang4 gong2 kap6]]
+        we have already spoken [of that];
+    - _k(')ap(9) (4)sh(i/)_
+        [[kap6 si4]],
+        seasonable, in good time;
+    - _(1)ts(e/)ung k(')ap(9) t(o\)(3)_
+        [[zoeng1 kap6 dou3]]
+        almost here;
+    - _k(')ap(9) (1)kam (4)(u:) (4)ho_
+        [[kap6 gam1 jyu4 ho4]],
+        how is it getting on now?
+    - _(5)m(o\) lap(9) k(')ap(9)_
+        [[mou5 lap6 kap6]]
+        inapt, no tact;
+    - _(5)m(a/) pat(7) k(')ap(9)_
+        [[maa5 bat1 kap6]]
+        exceedingly quick;
+    - _f(u/)i(3) pat(7) k(')ap(9)_
+        [[fui3 bat1 kap6]]
+        no place for repentance.
+    ====
+  ======
+$$
+##>
