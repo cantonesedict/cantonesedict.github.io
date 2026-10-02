@@ -249,6 +249,26 @@ $$
 $$
 W
   ====
+  - [[Page~138 (2)韮(2)韭]]
+    ==
+    - Scallions or chives, a salad onion;
+    - a plant which grows a long time from one root;
+    - _(2)kau ts(')oi(3)_
+        [[gau2 coi3]]
+        scallions;
+    - _(4)ch(')(e/)ung (4)ch(')(e/)ung (2)kau (2)kau_
+        [[coeng4 coeng4 gau2 gau2]],
+        entrails and scallions, sent to a mother by her parents
+        on the birth of a child, symbolic of their wish for its long life.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 (2)垢 _(2)Kau_ (gau2); here normalised to _Kau(3)_ (gau3)]]
     ==
     - Dust grimed in, dirt, filth, scurf;
