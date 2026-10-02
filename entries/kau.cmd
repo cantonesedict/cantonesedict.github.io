@@ -230,3 +230,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 遘(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
+    ==
+    - Used with the preceding [[覯]];
+    - to bolt upon, an unexpected meeting with;
+    - happened to;
+    - _~~kau(3)~~ ``k(')au(3)`` (u:)(6)_
+        [[kau3 jyu6]]
+        to happen, a chance affair.
+    ==
+  ====
+$$
+##>
