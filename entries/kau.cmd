@@ -61,6 +61,25 @@ $$
 $$
 W
   ====
+  - [[Page~137 (1)鬮(1)䰗 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
+    ==
+    - A lot, a ballot;
+    - to draw lots, to take out a ticket;
+    - _(1)n(i/)m ~~(1)kau~~ ``(1)k(')au``_
+        [[nim1 kau1]],
+        to draw a ticket in bidding for things.
+    ==
+    --
+    This character is often read _(1)kwai_ [[gwai1]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~137 (1)鳩 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
     ==
     - A pigeon, a turtle, the genus Columba;
