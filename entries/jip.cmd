@@ -94,7 +94,7 @@ W
     - _~~(i/)t(9)~~ ``(i/)p(9)`` ch(e/)ung(3)_
         [[jip6 zoeng3]]
         a retribution for undutiful acts by having wicked sons one's self;
-    - _~~(i/)t(9)~~ ``(i/)p(9)`` ~~(i/)t(9)~~ ``(i/)p(9)``_
+    - _~~(i/)t(9) (i/)t(9)~~ ``(i/)p(9) (i/)p(9)``_
         [[jip6 jip6]]
         adorned, neat.
     ==

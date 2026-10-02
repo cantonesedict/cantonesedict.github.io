@@ -44,7 +44,7 @@ W
     - _~~huk(7)~~ ``yuk(7)`` yat(9)_
         [[juk1 jat6]]
         sunrising;
-    - _~~huk(7)~~ ``yuk(7)`` ~~huk(7)~~ ``yuk(7)``_
+    - _~~huk(7) huk(7)~~ ``yuk(7) yuk(7)``_
         [[juk1 juk1]]
         joy at having succeeded.
     ==

@@ -936,6 +936,7 @@ class CmdSource:
             CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
             CmdSource.lint_insertion_deletion_context(content)
+            CmdSource.lint_reduplicated_edit(content)
             CmdSource.lint_unicode_kangxi_radical(content)
             CmdSource.lint_williams_entering_tone(content)
             CmdSource.lint_williams_left_tone_position(content)
@@ -1137,6 +1138,22 @@ class CmdSource:
         ):
             deletion_context = deletion_context_match.group()
             raise LintException(f'non-contextual deletion in `{deletion_context}`')
+
+    @staticmethod
+    def lint_reduplicated_edit(content: str):
+        if reduplicated_edit_match := re.search(
+            pattern=r'~~(?P<old_run>.*?)~~ [ ]+ ``(?P<new_run>.*?)`` [ ]+ ~~(?P=old_run)~~ [ ]+ ``(?P=new_run)``',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            reduplicated_edit = reduplicated_edit_match.group()
+            old_run = reduplicated_edit_match.group('old_run')
+            new_run = reduplicated_edit_match.group('new_run')
+            consolidated_edit = f'~~{old_run} {old_run}~~ ``{new_run} {new_run}``'
+            raise LintException(
+                f'reduplicated edit `{reduplicated_edit}` '
+                f'should be consolidated as `{consolidated_edit}`'
+            )
 
     @staticmethod
     def lint_unicode_kangxi_radical(content: str):

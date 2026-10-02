@@ -231,7 +231,7 @@ W
     ==
     - To roar and howl like bears or tigers;
     - to cry loud, or long;
-    - _~~(1)h(o\)~~ ``(4)h(o\)`` ~~(1)h(o\)~~ ``(4)h(o\)`` (1)sheng_
+    - _~~(1)h(o\) (1)h(o\)~~ ``(4)h(o\) (4)h(o\)`` (1)sheng_
         [[hou4 hou4 seng1]],
         a bawling.
     ==

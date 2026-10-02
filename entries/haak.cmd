@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haak
-* %date-modified --> 2026-09-24
+* %date-modified --> 2026-10-02
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -79,7 +79,7 @@ W
     - angry [[Kangxi: 赫怒意]];
     - to scorch [[Kangxi: 赫炙也]], to glisten;
     - clever, elegant;
-    - _~~hak(7)~~ ``h(a/)k(7)`` ~~hak(7)~~ ``h(a/)k(7)``_
+    - _~~hak(7) hak(7)~~ ``h(a/)k(7) h(a/)k(7)``_
         [[haak1 haak1 赫赫]]
         hot, glorious, effulgent;
     - _(2)h(i/)n ~~hak(7)~~ ``h(a/)k(7)``_
