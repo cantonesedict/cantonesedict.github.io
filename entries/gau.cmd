@@ -306,6 +306,30 @@ $$
 
 <##
 $$
+V
+  ==
+  - dau2 (common)
+  ==
+W
+  ====
+  - [[Page~138 (2)赳]]
+    ==
+    - To carry the head high;
+    - one who acts energetically and wisely;
+    - _(2)ki(u/) (2)kau_
+        [[giu2 gau2]],
+        martial, brave, gallant.
+    ==
+  ====
+S
+  ==
+  - ($赳dau2) (TODO)
+  ==
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~138 (2)垢 _(2)Kau_ (gau2); here normalised to _Kau(3)_ (gau3)]]
