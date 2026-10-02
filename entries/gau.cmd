@@ -193,6 +193,45 @@ $$
 
 <##
 $$
+V
+  ==
+  - dau2 (common)
+  ==
+W
+  ====
+  - [[Page~138 (2)糾]]
+    ==
+    - A threefold cord;
+    - to twist, to wind up;
+    - to collect, to bring together, to combine;
+    - to examine into, to bring to light;
+    - to inform;
+    - to head a sedition;
+    - perverse;
+    - to raise, to elevate;
+    - _(2)kau (2)kau_
+        [[gau2 gau2]],
+        loose, easy, cheerful;
+    - _(2)kau ch(')(a/)t(8)_
+        [[gau2 caat3]]
+        to examine;
+    - _(2)kau h(o\)p(9) (2)f(i/) (4)t(')(o\)_
+        [[gau2 hap6 fei2 tou4]],
+        to join hands with thieves;
+    - _(2)kau chung(3)_
+        [[gau2 zung3]]
+        to join the multitude.
+    ==
+  ====
+S
+  ==
+  - ($糾dau2) (TODO)
+  ==
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~137 (2)耇]]
