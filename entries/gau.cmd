@@ -209,3 +209,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 (2)苟]]
+    ==
+    - Grass, herbs;
+    - to the right or left, illicitly, devious;
+    - inconsiderate, irregular, heedless, in any manner;
+    - carelessly;
+    - if, nevertheless, only;
+    - but, if so;
+    - _(2)kau (2)ch(')(e/)_
+        [[gau2 ce2]],
+        improperly, rude, remiss, anyhow;
+    - _(2)kau (2)ch(')(e/) (5)li(u/) sz'(6)_
+        [[gau2 ce2 liu5 si6]]
+        to do a thing heedlessly;
+    - _(2)kau h(o\)p(9)_
+        [[gau2 hap6]]
+        illicitly united, fornication, lewdness;
+    - _(2)kau (1)f(i/) hai(6) (2)k(o\)m_
+        [[gau2 fei1 hai6 gam2]],
+        if it be not done so;
+    - _tsok(8) sz'(6) pat(7) (2)kau_
+        [[zok3 si6 bat1 gau2]],
+        to do business properly;
+    - _(2)kau (2)ch(')(e/) sz'(6)_
+        [[gau2 ce2 si6]]
+        a lewd act, vile.
+    ==
+  ====
+$$
+##>
