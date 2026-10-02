@@ -146,3 +146,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 搆(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
+    ==
+    - To drag, to pull;
+    - to scheme, to plot, to stir up, to implicate;
+    - _k(i/)t(8) ~~kau(3)~~ ``k(')au(3)`` pat(7) (2)k(a/)i_
+        [[git3 kau3 bat1 gaai2]],
+        to form an indissoluble connection with one;
+    - _~~kau(3)~~ ``k(')au(3)`` (u:)n(3)_
+        [[kau3 jyun3]]
+        to contract a dislike for one;
+    - _~~kau(3)~~ ``k(')au(3)`` wo(6)_
+        [[kau3 wo6]]
+        to bring misfortune on one.
+    ==
+  ====
+$$
+##>
