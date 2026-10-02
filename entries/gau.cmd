@@ -173,3 +173,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~137 (2)笱]]
+    ==
+    - A bamboo trap or weel for catching fish or shrimps;
+    - they are cylindrical and open at the end;
+    - _(1)h(a/) (2)kau (5)t(')eng_
+        [[haa1 gau2 teng5]],
+        a boat, smaller than a fast-boat,
+        used by fishers, and for passengers.
+    ==
+  ====
+$$
+##>
