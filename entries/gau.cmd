@@ -351,6 +351,35 @@ $$
 $$
 W
   ====
+  - [[Page~139 究(3)]]
+    ==
+    - To examine into, to inform one's self of,
+      to search out, to push to the utmost;
+    - to devise, to scheme;
+    - finally, at last;
+    - an examination;
+    - _(2)h(a/)u kau(3)_ [[haau2 gau3]]
+        or
+      _(1)sham kau(3)_ [[sam1 gau3]]
+        to investigate thoroughly;
+    - _kau(3) (2)king (2)t(i/)m y(e/)ung(6)_
+        [[gau6 ging2 dim2 joeng6-2]]
+        how was it finally?
+    - _kau(3) kau(3)_
+        [[gau3 gau3]]
+        to dislike, mutual ill-will;
+    - _(4)k(')ung hok(9) kau(3)_
+        [[kung4 hok6 gau3]]
+        a poor but unsuccessful scholar.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 (2)詬 _(2)Kau_ (gau2); here normalised to _Kau(3)_ (gau3)]]
     ==
     - To shame one, to rail at, to reproach, to taunt;
