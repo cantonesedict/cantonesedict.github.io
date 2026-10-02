@@ -59,6 +59,23 @@ $$
 
 <##
 $$
+A
+  ==
+  - 鞲
+  ==
+W
+  ====
+  - [[Page~138 韝(3) _Kau(3)_ (gau3); here normalised to _(1)K(')au_ (kau1)]]
+    ==
+    - A sort of vambrace or vantbrace made of leather, used by archers,
+      called _p(i/)(3) ~~kau(3)~~ ``(1)k(')au``_ [[bei3 kau1]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~137 (1)鬮(1)䰗 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
