@@ -63,3 +63,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~137 (2)玖]]
+    ==
+    - A black gem, not of much value, perhaps black jasper.
+    ==
+    --
+    Used as the complex form of the preceding [[九]].
+    --
+  ====
+$$
+##>
