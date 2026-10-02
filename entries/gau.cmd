@@ -263,3 +263,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 (2)詬 _(2)Kau_ (gau2); here normalised to _Kau(3)_ (gau3)]]
+    ==
+    - To shame one, to rail at, to reproach, to taunt;
+    - unprincipled;
+    - _~~(2)kau~~ ``kau(3)`` peng(6)_
+        [[gau3 beng6]]
+        ashamed, blushing;
+    - _~~(2)kau~~ ``kau(3)`` m(a/)(6)_
+        [[gau3 maa6]]
+        to abuse, to rail at.
+    ==
+    --
+    Also pronounced _(2)hau_ [[hau2]].
+    --
+  ====
+$$
+##>
