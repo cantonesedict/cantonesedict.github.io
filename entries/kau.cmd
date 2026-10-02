@@ -197,6 +197,24 @@ $$
 $$
 W
   ====
+  - [[Page~138 覯(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
+    ==
+    - To see one suddenly;
+    - to occur to happen;
+    - accidentally;
+    - to complete;
+    - _~~kau(3)~~ ``k(')au(3)`` k(i/)n(3)_
+        [[kau3 gin3]]
+        happened to see.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 購(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
     ==
     - To buy, to procure for sale;
