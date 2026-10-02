@@ -168,3 +168,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 構(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
+    ==
+    - The truss of a roof;
+    - to roof over with beams;
+    - to construct;
+    - to unite, to join together;
+    - to copulate;
+    - finished, completed;
+    - to burst forth or take (as fire);
+    - _(2)k(a/)i ~~kau(3)~~ ``k(')au(3)``_
+        [[gaai2 kau3]]
+        to sow enmity, to set at variance;
+    - _~~kau(3)~~ ``k(')au(3)`` (1)tsing_
+        [[kau3 zing1]],
+        procreative action or operation.
+    ==
+  ====
+$$
+##>
