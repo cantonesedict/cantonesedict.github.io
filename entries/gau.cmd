@@ -108,6 +108,23 @@ $$
 $$
 W
   ====
+  - [[Page~137 (2)枸]]
+    ==
+    - A high tree, shaped like a willow, with long sweetish seeds;
+    - probably a leguminosæ;
+    - curved branches;
+    - _(2)kau (2)k(i/) (2)tsz'_
+        [[gau2 gei2 zi2]]
+        a fruit, allied to the medlar, used in ophthalmia.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~137 (2)玖]]
     ==
     - A black gem, not of much value, perhaps black jasper.
