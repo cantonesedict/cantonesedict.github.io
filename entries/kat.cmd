@@ -52,3 +52,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~136 欬(7)]]
+    ==
+    - To cough, in which sense it is synonymous with the preceding [[咳]].
+    ==
+    --
+    Read _k(')oi(3)_ [[koi3]],
+    --
+    ==
+    - to hiccup;
+    - to belch, to call out in alarm, the voice of terror.
+    ==
+  ====
+$$
+##>
