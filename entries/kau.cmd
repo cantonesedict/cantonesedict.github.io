@@ -21,3 +21,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~136 (1)溝 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
+    ==
+    - A water-course in a field, a ditch, a canal;
+    - _~~(1)kau~~ ``(1)k(')au`` (4)k(')(u:)_
+        [[kau1 keoi4]],
+        a sewer, a gutter or drain;
+    - _(4)t(')(i/)n ~~(1)kau~~ ``(1)k(')au``_
+        [[tin4 kau1]],
+        a drain in fields.
+    ==
+  ====
+$$
+##>
