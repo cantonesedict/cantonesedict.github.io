@@ -351,6 +351,19 @@ $$
 $$
 W
   ====
+  - [[Page~139 㝌(3)]]
+    ==
+    - Poor and diseased and drawing to one's end;
+    - to dwell long in one place.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 究(3)]]
     ==
     - To examine into, to inform one's self of,
