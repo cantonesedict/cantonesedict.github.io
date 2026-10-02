@@ -112,3 +112,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 媾(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
+    ==
+    - To marry a kinswoman or a wife's sister;
+    - fondness, affection, love;
+    - to unite;
+    - sexual union;
+    - _(1)fan ~~kau(3)~~ ``k(')au(3)``_
+        [[fan1 kau3]]
+        a second marriage;
+    - _~~kau(3)~~ ``k(')au(3)`` h(o\)p(9)_
+        [[kau3 hap6]]
+        carnal union.
+    ==
+  ====
+$$
+##>
