@@ -133,3 +133,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 {𡻉=⿰山冓}(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
+    ==
+    - A winding path among hills;
+    - a defile between mountains.
+    ==
+  ====
+$$
+##>
