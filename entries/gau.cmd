@@ -190,3 +190,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~137 (2)耇]]
+    ==
+    - A face grimed with dirt and furrowed with age;
+    - very old, senile;
+    - _shau(6) (2)kau_
+        [[sau6 gau2]],
+        very aged;
+    - _(4)wong (2)kau_
+        [[wong4 gau2]],
+        extreme age.
+    ==
+  ====
+$$
+##>
