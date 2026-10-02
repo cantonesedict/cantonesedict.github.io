@@ -125,6 +125,44 @@ $$
 $$
 W
   ====
+  - [[Page~137 (2)狗]]
+    ==
+    - A dog;
+    - little, contemptible,
+      as _(2)kau (1)t(')au_ [[gau2 tau1]], a mean theft;
+    - _(2)kau (2)tsai_
+        [[gau2 zai2]],
+        a puppy, you puppy!
+    - _(2)kau (2)k(u/)_
+        [[gau2 gu2]],
+        a male dog;
+    - a name often given to babies,
+      as _(a/)(3) (2)kau_ [[aa3 gau2]];
+    - a second boy is called _(i/)(6) (2)kau_ [[ji6 gau2]], 'the second dog,'
+      and the former _t(a/)i(6) (2)kau_ [[daai6 gau2]]_;_
+    - _t(a/)i(6) (2)kau_ [[daai6 gau2]] is also applied to waiters,
+      like "John;"
+    - _(1)hon (4)m(u/)n (2)kau_
+        [[hon1 mun4 gau2]],
+        a nickname for porters;
+    - _(1)sh(a/)n (2)kau_
+        [[saan1 gau2]],
+        watchers of graves, rustic grass-cutters;
+    - _(1)t(i/)n (2)kau_
+        [[din1 gau2]],
+        a mad dog;
+    - _(2)kau (2)n(a/)_
+        [[gau2 naa2]],
+        an adulteress.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~137 (2)玖]]
     ==
     - A black gem, not of much value, perhaps black jasper.
