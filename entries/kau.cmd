@@ -26,6 +26,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~137 (1)樛 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
+    ==
+    - Pendulous branches;
+    - to twist, to twine;
+    - to lay across;
+    - _(1)k(')au (4)lau_
+        [[kau1 lau4]],
+        to go wandering about.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~136 (1)溝 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
     ==
     - A water-course in a field, a ditch, a canal;
