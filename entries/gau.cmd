@@ -244,3 +244,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~138 (2)垢 _(2)Kau_ (gau2); here normalised to _Kau(3)_ (gau3)]]
+    ==
+    - Dust grimed in, dirt, filth, scurf;
+    - impure, sordid, disgraceful;
+    - _(4)ch(')an ~~(2)kau~~ ``kau(3)``_
+        [[can4 gau3]],
+        dirty, sordid;
+    - _kw(a/)t(8) ~~(2)kau~~ ``kau(3)``_
+        [[gwaat3 gau3]],
+        to scrape off the dirt.
+    ==
+  ====
+$$
+##>
