@@ -26,6 +26,46 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~137 (2)久]]
+    ==
+    - A long time, enduring, lasting;
+    - to make or continue long;
+    - _(4)ch(')(e/)ung (2)kau (1)ch(i/) sz'(6)_
+        [[coeng4 gau2 zi1 si6]]
+        a long affair;
+    - _(2)kau (2)kau (1)f(a/)n (4)lai_
+        [[gau2 gau2 faan1 lai4]],
+        come back here often, don't stay away long;
+    - _(2)kau (5)(u:)n_
+        [[gau2 jyun5]],
+        antique, of old;
+    - _(5)(i/) (4)wai (2)kau (2)kau_
+        [[ji5 wai4 gau2 gau2]],
+        for a long use, intended to be permanent;
+    - _(2)h(o\) (2)kau_
+        [[hou2 gau2]],
+        a good while;
+    - _(4)n(i/)n (2)kau_
+        [[nin4 gau2]],
+        some years;
+    - _(5)m(o\) (2)k(i/) (2)kau_
+        [[mou5 gei2 gau2]],
+        not long since, not very long, erelong;
+    - _(4)ch(')(e/)ung (4)ch(')(e/)ung, (2)kau (2)kau_
+        [[coeng4 coeng4, gau2 gau2]],
+        for ever;
+    - _k(o\)m(3) (2)kau_
+        [[gam3 gau2]],
+        so long!
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~137 (2)九(2)玖(2)〩]]
     ==
     - Nine;
