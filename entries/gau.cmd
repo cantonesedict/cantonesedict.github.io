@@ -332,6 +332,33 @@ $$
 $$
 W
   ====
+  - [[Page~139 咎(3)]]
+    ==
+    - A fault, defect, error;
+    - crime, wickedness;
+    - judgments, providential calamities;
+    - to blame, to reprehend;
+    - _kau(3) (5)yau (4)yau (1)kwai_
+        [[gau3 jau5 jau4 gwai1]],
+        the blame charged to the proper one;
+    - _(2)koi kau(3)_
+        [[goi2 gau3]]
+        to reform;
+    - _man(6) (1)yau kau(3)_
+        [[man6 jau1 gau3]]
+        to ask about one's luck;
+    - _k(i/)(3) (5)wong pat(7) kau(3)_
+        [[gei3 wong5 bat1 gau3]]
+        not to criminate for what is past.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 (2)垢 _(2)Kau_ (gau2); here normalised to _Kau(3)_ (gau3)]]
     ==
     - Dust grimed in, dirt, filth, scurf;
