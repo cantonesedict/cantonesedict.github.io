@@ -695,3 +695,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~141 (5)舅]]
+    ==
+    - Maternal uncles,
+      called _(5)k(')au f(u/)(6)_ [[kau5 fu6-2]]
+      and _(5)m(o\) (5)k(')au_ [[mou5 kau5]]_;_
+    - a wife's brothers, called _(1)ts(')ai (5)k(')au_ [[cai1 kau5]]_;_
+    - _t(a/)i(6) (5)k(')au_
+        [[daai6 kau5]],
+        wife's elder brother;
+    - _sai(3) (5)k(')au_
+        [[sai3 kau5]],
+        wife's younger brother;
+    - a father-in law;
+    - _(a/)(3) (5)k(')au_
+        [[aa3 kau5]],
+        a brother-in-law.
+    ==
+  ====
+$$
+##>
