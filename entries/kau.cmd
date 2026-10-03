@@ -390,6 +390,22 @@ $$
 
 <##
 $$
+A
+  ==
+  - 筘
+  ==
+W
+  ====
+  - [[Page~142 {？=⿱𥫗宼}(3); here normalised to 簆]]
+    ==
+    - The reed or slaie of a loom, made of bamboo.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~138 覯(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
