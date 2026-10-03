@@ -364,6 +364,25 @@ $$
 $$
 W
   ====
+  - [[Page~139 疚(3)]]
+    ==
+    - A chronic disease, long ailing;
+    - dolorous, disheartened;
+    - _tsoi(6) kau(3)_
+        [[zoi6 gau3]]
+        still sick;
+    - _noi(6) (2)sing pat(7) kau(3)_
+        [[noi6 sing2 bat1 gau3]]
+        conscious of innocence.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 究(3)]]
     ==
     - To examine into, to inform one's self of,
