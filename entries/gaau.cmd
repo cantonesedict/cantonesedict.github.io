@@ -99,3 +99,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~142 (1)茭]]
+    ==
+    - Hay, fodder;
+    - pasturage;
+    - a kind of cress;
+    - _(1)k(a/)u (2)sun_
+        [[gaau1 seon2]],
+        an esculent water vegetable;
+    - _(1)K(a/)u-(4)t(')ong (1)sz'_
+        [[gaau1 tong4 si1]]
+        the township in Pw(a/)ny(u/) hien [[番禺縣]],
+        in which Whampoa [[黃埔]] is situated.
+    ==
+  ====
+$$
+##>
