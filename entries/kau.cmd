@@ -320,6 +320,19 @@ $$
 $$
 W
   ====
+  - [[Page~141 _K(')au(3)_ (kau3); here assigned to 詬]]
+    ==
+    - A colloquial word, heard in Macao;
+    - to cry, to wail or scream, as children do.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 購(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
     ==
     - To buy, to procure for sale;
