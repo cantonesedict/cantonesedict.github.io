@@ -327,6 +327,38 @@ $$
 $$
 W
   ====
+  - [[Page~141 (4)仇]]
+    ==
+    - Same as the preceding [[逑]],
+      in meaning to pair, to couple, to match, to unite in marriage;
+    - to join two together;
+    - a surname.
+    ==
+    ==
+    - Also, to hate;
+    - resentment, enmity;
+    - an enemy;
+    - proud;
+    ==
+    --
+    ^---in which senses it is ~~usually~~ pronounced _~~(4)ch(')au~~ ``(4)shau``_ [[sau4]].
+    --
+    ==
+    - _(4)K(')au (5)ngau_
+        [[kau4 ngau5]],
+        to pair;
+    - _s(u:)t(8) ~~(4)k(')au~~ ``(4)shau``_
+        [[syut3 sau4]],
+        revenged.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)俅]]
     ==
     - A cap, a fancy cap, an ornamented cap;
