@@ -441,6 +441,31 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~144 珓(3)]]
+    ==
+    - A pair of stones of a plano-convex shape,
+      called _k(a/)u(3) (1)p(u/)i_ [[gaau3 bui1]],
+      used in worship, to divine the answer;
+    - now made of bamboo roots split;
+    - Arca shells are also used;
+    - in throwing, if both plane surfaces come up, it is called
+        _(1)yam k(a/)u(3)_
+        [[jam1 gaau3]]_;_
+    - if both are convex,
+        _(4)y(e/)ung k(a/)u(3)_
+        [[joeng4 gaau3]]_;_
+    - if one of each (the most favorable),
+        _shing(3) k(a/)u(3)_
+        [[sing3 gaau3]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
