@@ -463,6 +463,25 @@ $$
 $$
 W
   ====
+  - [[Page~140 (4)絿]]
+    ==
+    - Urgent, pressing;
+    - testy;
+    - _pat(7) king(6) pat(7) (4)k(')au_
+        [[bat1 ging6 bat1 kau4]],
+        neither contentious nor hasty;
+        remiss, easy with, _festina lente_.
+    ==
+    --
+    Interchanged with the next [[逑]].
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)裘]]
     ==
     - Fur garments;
