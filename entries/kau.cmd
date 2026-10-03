@@ -700,6 +700,23 @@ $$
 $$
 W
   ====
+  - [[Page~141 (5)臼]]
+    ==
+    - A mortar, either a hole or made of stone;
+    - to pound in a mortar;
+    - ``the 134th``~radical [[U+2F85 ⾅ "mortar"]] of mortars;
+    - _shek(9) (5)k(')au_
+        [[sek6 kau5]],
+        a stone mortar.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~141 (5)舅]]
     ==
     - Maternal uncles,
