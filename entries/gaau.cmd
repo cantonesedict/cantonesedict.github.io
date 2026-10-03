@@ -542,3 +542,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+A
+  ==
+  - 骹 (Cantonese for anatomical "joint" senses)
+  ==
+W
+  ====
+  - [[Page~144 鉸(3)]]
+    ==
+    - Pivots on which a door turns;
+    - a hinge;
+    - a joint;
+    - a clamp, a hasp;
+    - to inlay metals;
+    - _yat(7) (2)p(a/) k(a/)u(3) (2)ts(i/)n_
+        [[jat1 baa2 gaau3 zin2]],
+        a pair of shears or scissors;
+    - _k(a/)u(3) (1)teng_
+        [[gaau3 deng1]],
+        the pin of a hinge;
+    - _ch(')(a/)ng(3) (4)ng(a/) k(a/)u(3)_
+        [[caang3 ngaa4 gaau3]]
+        to boast of one's ability;
+    - _(5)(u:)n k(a/)u(3)_
+        [[jyun5 gaau3]]
+        immaterial, either way is the same.
+    ==
+  ====
+$$
+##>
