@@ -443,6 +443,29 @@ $$
 $$
 W
   ====
+  - [[Page~144 滘(3)]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - A side passage, in which boats can enter at high water;
+    - the mouth of creeks;
+    - _(4)sh(u:)n kwo(3) k(a/)u(3)_
+        [[syun4 gwo3 gaau3]]
+        the boat has entered the creek;
+    - forms part of the name of many places in Shunteh hien [[順德縣]];
+    - _T(a/)i(6) (4)wong k(a/)u(3)_
+        [[daai6 wong4 gaau3]],
+        Macao Passage fort, near Canton.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~144 珓(3)]]
     ==
     - A pair of stones of a plano-convex shape,
