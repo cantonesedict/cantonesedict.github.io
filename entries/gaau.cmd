@@ -125,6 +125,43 @@ $$
 $$
 W
   ====
+  - [[Page~143 (1)膠]]
+    ==
+    - Glue, glutinous or adhesive jellies, viscid gums;
+    - to glue;
+    - glued, or sticking together;
+    - obstinate, stupid, pertinacious, bigoted;
+    - to deceive;
+    - adhesive;
+    - compacted, intimate, bound by friendship or pledge;
+    - sound of fishes;
+    - _(4)ngau (4)p(')(i/) (1)k(a/)u_
+        [[ngau4 pei4 gaau1]],
+        cow's glue;
+    - _(4)(u:) (1)k(a/)u_
+        [[jyu4 gaau1]],
+        isinglass;
+    - _m(i/)n(6) (1)k(a/)u_
+        [[min6 gaau1]],
+        wheaten glue mixed with lime for joinery;
+    - _(1)k(a/)u l(i/)n(6)_
+        [[gaau1 lin6]]
+        anything boiled till it is thick and viscid;
+    - _(1)tung (1)k(a/)u_
+        [[dung1 gaau1]],
+        an ancient college;
+    - _(1)k(a/)u yap(9) ts(')at(7)_
+        [[gaau1 jap6 cat1]]
+        very intimate.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~142 (1)茭]]
     ==
     - Hay, fodder;
