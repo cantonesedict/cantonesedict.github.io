@@ -256,6 +256,20 @@ $$
 $$
 W
   ====
+  - [[Page~142 彀(3)]]
+    ==
+    - To stretch a bow to the full;
+    - archers or bowmen;
+    - enough, full, in which senses 够 is now generally used. <# TODO: $彀gau3 #>
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~141 扣(3)]]
     ==
     - To strike, to knock upon, to rap;
