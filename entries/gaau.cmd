@@ -433,7 +433,7 @@ W
         to correct a book for publication;
     - _(2)p(i/) k(a/)u(3)_
         [[bei2 gaau3]]
-        to compare.
+        to compare. <# TODO: normalise to $較gaau3 #>
     ==
   ====
 $$
@@ -506,5 +506,39 @@ P
   ++
   1. A sleep.
   ++
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~144 較(3)]]
+    ==
+    - To compare;
+    - to measure strength;
+    - to try the accuracy of;
+    - generally speaking;
+    - _k(a/)u(3) l(e/)ung(6)_
+        [[gaau3 loeng6]]
+        to discuss, to argue upon;
+    - _k(a/)u(3) ~~chung(6)~~ ``(5)ch(')ung``_
+        [[gaau3 cung5]]
+        to compare weights;
+        the heavier;
+    - _k(a/)u(3) sh(e/)(6)_
+        [[gaau3 se6]]
+        a trial of archery;
+    - _k(a/)u(3) ch(')ing(3)_
+        [[gaau3 cing3]]
+        to test weights;
+    - _(4)'m (2)shai k(a/)u(3)_
+        [[m4 sai2 gaau3]]
+        no need to test, trustworthy;
+    - _k(a/)u(3) (2)chun_
+        [[gaau3 zeon2]],
+        like the measure or ~~guage~~ ``gauge``.
+    ==
+  ====
 $$
 ##>
