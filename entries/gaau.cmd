@@ -317,6 +317,24 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~143 (2)皎]]
+    ==
+    - The brightness of the moon;
+    - splendor of the sun;
+    - effulgent, bright;
+    - an immaculate, pure white;
+    - _(2)k(a/)u k(i/)t(8)_
+        [[gaau2 git3]]
+        white and spotless.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
