@@ -480,3 +480,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~140 (4)觩]]
+    ==
+    - Crooked, like a rhinoceros horn, a long horn;
+    - a bow made of horn, usually of the buffalo.
+    ==
+  ====
+$$
+##>
