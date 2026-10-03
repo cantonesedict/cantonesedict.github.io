@@ -391,6 +391,20 @@ $$
 $$
 W
   ====
+  - [[Page~139 厩(3); here normalised to 廄]]
+    ==
+    - A stable;
+    - a stall where horses are housed;
+    - usually called _(5)m(a/) k(u:)n(3)_ [[maa5 gyun3]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 灸(3)]]
     ==
     - To cauterize with moxa, or the dried powdered leaves of the Artemisia;
