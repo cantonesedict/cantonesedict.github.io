@@ -652,3 +652,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~141 (4)鼽]]
+    ==
+    - The nose stopped up and running from the effects of a cold;
+    - a cold in the head.
+    ==
+  ====
+$$
+##>
