@@ -418,6 +418,64 @@ $$
 $$
 W
   ====
+  - [[Page~144 教(3)]]
+    ==
+    - To instruct, to teach, to show how;
+    - to command, to order;
+    - precept, principle, rule;
+    - doctrines, tenets;
+    - a religious sect, a school, or those who hold to the same opinions;
+    - _(2)tang (5)ngo k(a/)u(3) (5)n(i/)_
+        [[dang2 ngo5 gaau3 nei5]],
+        let me show you;
+    - _(2)h(o\) k(a/)u(3) (4)m(u/)n_
+        [[hou2 gaau3 mun4]],
+        an able teacher;
+    - _(2)t(a/) k(a/)u(3)_
+        [[daa2 gaau3]]
+        to be severe in teaching;
+    - _m(i/)(6) (2)ts(')ing k(a/)u(3)_
+        [[mei6 cing2 gaau3]]
+        what is your surname?
+    - _k(a/)u(3) (2)k(u/)n_
+        [[gaau3 gun2]],
+        to teach school;
+    - _k(a/)u(3) (2)t(a/) (2)p(a/) shat(9)_
+        [[gaau3 daa2 baa2 sat6]]
+        to teach boxing;
+    - _k(a/)u(3) shau(6)_
+        [[gaau3 sau6]]
+        a superintendent of education in a _f(u/)_ [[府]]_;_
+    - _k(a/)u(3) (u:)(6)_
+        [[gaau3 jyu6]]
+        the same in a _hien_ [[縣]];
+    - _(5)'ng k(a/)u(3)_
+        [[ng5 gaau3]]
+        the ~~fivev irtues~~ ``five virtues``;
+    - _(1)s(a/)m k(a/)u(3)_
+        [[saam1 gaau3]]
+        Confucianists, Budhists, and T(a/)uists;
+    - _ts(')at(7) k(a/)u(3)_
+        [[cat1 gaau3]]
+        the seven social relations;
+    - _(1)T(')(i/)n (2)ch(u:) k(a/)u(3)_
+        [[tin1 zyu2 gaau3]]
+        Romanism;
+    - _k(a/)u(3) (4)m(u/)n_
+        [[gaau3 mun4]],
+        usually refers only to Mohammedanism;
+    - _(4)ch(')(u:)n k(a/)u(3)_
+        [[cyun4 gaau3]]
+        to propagate a creed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~144 校(3)]]
     ==
     - Stocks for the feet, in which prisoners are nightly secured;
