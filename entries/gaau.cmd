@@ -136,3 +136,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~142 (1)郊]]
+    ==
+    - Waste or forest land near or beyond the frontiers;
+    - waste common, fifty _l(i/)_ [[里]] beyond a city;
+    - the imperial worship of heaven and earth at the solstices;
+    - to worship heaven and earth;
+    - the place where this sacrifice was held;
+    - _(1)k(a/)u ngoi(6)_
+        [[gaau1 ngoi6]]
+        remote wilds, where civilization has not reached.
+    ==
+  ====
+$$
+##>
