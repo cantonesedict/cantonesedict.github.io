@@ -155,3 +155,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~143 (1)鮫]]
+    ==
+    - A sort of shark, whose skin furnishes shagreen;
+    - _(1)k(a/)u (4)yan_
+        [[gaau1 jan4]],
+        a mermaid, which weeps pearls;
+    - _(5)m(a/) (1)k(a/)u (4)long_
+        [[maa5 gaau1 long4]],
+        mango-fish _(Polynemus)_, common at Macao;
+    - _(1)k(a/)u k(a/)k(8)_
+        [[gaau1 gaak3]]
+        shagreen.
+    ==
+  ====
+$$
+##>
