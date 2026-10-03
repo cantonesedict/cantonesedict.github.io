@@ -436,3 +436,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~140 (4)球]]
+    ==
+    - A sonorous jade stone, a precious stone, usually made round;
+    - a sphere, a globe, a ball;
+    - _(1)t(')(i/)n (4)k(')au_
+        [[tin1 kau4]],
+        a celestial globe;
+    - _t(i/)(6) (4)k(')au_
+        [[dei6 kau4]],
+        a terrestrial globe.
+    ==
+    --
+    Interchanged with the last [[毬]].
+    --
+  ====
+$$
+##>
