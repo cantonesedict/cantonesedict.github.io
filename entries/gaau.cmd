@@ -286,6 +286,37 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~143 (2)狡]]
+    ==
+    - A little black poodle, found in the north;
+    - doublings (of a fox);
+    - artful, crafty, specious, mendacious, deceitful;
+    - maddened, wild;
+    - cruel;
+    - _(2)k(a/)u w(a/)t(9)_
+        [[gaau2 waat6]]
+        cunning, knavish;
+    - _(2)k(a/)u (4)t(')(o\)_
+        [[gaau2 tou4]]
+        a wily fellow;
+    - _(2)k(a/)u kwan(3)_
+        [[gaau2 gwan3]]
+        a fraudulent villain;
+    - _(2)k(a/)u (1)sing_
+        [[gaau2 sing1]],
+        one who leads others into wickedness, a blackleg;
+    - _(2)k(a/)u kai(3)_
+        [[gaau2 gai3]]
+        a tricky plan.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
