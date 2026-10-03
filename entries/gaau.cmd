@@ -271,6 +271,21 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~143 (2)姣]]
+    ==
+    - Beautiful, pretty, winsome, flattering.
+    ==
+    --
+    Sometimes interchanged with the next [[狡]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
