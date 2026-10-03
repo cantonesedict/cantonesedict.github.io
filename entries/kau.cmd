@@ -549,6 +549,27 @@ $$
 $$
 W
   ====
+  - [[Page~141 (4)賕]]
+    ==
+    - To corrupt, to suborn, to bribe;
+    - to seek in an underhand manner;
+    - to pervert or swerve from the right;
+    - a consideration, a request;
+    - _(4)k(')au ts(e/)(6)_
+        [[kau4 ze6]]
+        to seek for by means of bribes;
+    - _shau(6) (4)k(')au_
+        [[sau6 kau4]]
+        to receive bribes.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~141 (4)逑]]
     ==
     - To collect, to gather together;
