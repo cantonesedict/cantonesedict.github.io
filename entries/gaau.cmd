@@ -416,6 +416,31 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~144 校(3)]]
+    ==
+    - Stocks for the feet, in which prisoners are nightly secured;
+    - a lockup;
+    - a pen for wild beasts;
+    - to examine, to compare things;
+    - to collate or revise books;
+    - to judge criminals;
+    - to join battle, to fight;
+    - _k(a/)u(3) ching(3)_ [[gaau3 zing3]]
+        or
+      _k(a/)u(3) ting(3)_ [[gaau3 ding3]]
+        to correct a book for publication;
+    - _(2)p(i/) k(a/)u(3)_
+        [[bei2 gaau3]]
+        to compare.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
