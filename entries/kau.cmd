@@ -192,6 +192,36 @@ $$
 $$
 W
   ====
+  - [[Page~141 叩(3)]]
+    ==
+    - To ask;
+    - to prostrate, to knock head on the ground,
+      when saluting a superior or in worship;
+    - _met._ humbly, respectfully;
+    - to agitate or discuss a subject;
+    - to strike, to knock upon, to tap;
+    - to raise the hand to the head;
+    - _k(')au(3) (4)t(')au_
+        [[kau3 tau4]],
+        the kotow;
+    - _(1)s(a/)m kwai(6) (2)kau k(')au(3)_
+        [[saam1 gwai6 gau2 kau3]]
+        three kneelings and nine knockings---the highest act of worship;
+    - _k(')au(3) man(6)_
+        [[kau3 man6]]
+        to humbly inquire;
+    - _k(')au(3) (2)pan_
+        [[kau3 ban2]],
+        to humbly petition.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 媾(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
     ==
     - To marry a kinswoman or a wife's sister;
