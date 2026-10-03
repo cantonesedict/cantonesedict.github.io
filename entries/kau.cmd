@@ -553,6 +553,23 @@ $$
 $$
 W
   ====
+  - [[Page~141 (4)虬]]
+    ==
+    - A dragon with horns;
+    - to wriggle in going;
+    - an agitated, quick, movement;
+    - _(4)k(')au (4)(i/)m_
+        [[kau4 jim4]],
+        a long, curly beard.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)裘]]
     ==
     - Fur garments;
