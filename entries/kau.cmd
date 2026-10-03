@@ -322,3 +322,42 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~140 (4)求]]
+    ==
+    - To search for;
+    - to seek, to aim at;
+    - to beg, to ask, to supplicate, to wish for;
+    - ardently desirous of, to invite, to call out;
+    - to class with or make like;
+    - _(2)f(u/) (2)f(u/) (1)oi (4)k(')au_
+        [[fu2 fu2 oi1 kau4]],
+        to intreat urgently;
+        to implore with tears;
+    - _(1)ho (4)k(')au_
+        [[ho1 kau4]],
+        to demand, to force from, to importune;
+    - _(4)k(')au tsak(7) tak(7) (1)ch(i/)_
+        [[kau4 zak1 dak1 zi1]],
+        he asked and obtained;
+    - _(4)k(')(i/) (4)k(')au_
+        [[kei4 kau4]],
+        to pray for;
+    - _(4)k(')au (4)ts(')oi_
+        [[kau4 coi4]],
+        to seek gain;
+    - _(4)k(')au (4)mau_
+        [[kau4 mau4]],
+        to contrive for;
+        to suggest a plan;
+    - _(4)k(')au ts(e/)(3)_
+        [[kau4 ze3]]
+        to request the loan of.
+    ==
+  ====
+$$
+##>
