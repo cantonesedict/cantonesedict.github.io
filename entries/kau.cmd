@@ -243,6 +243,35 @@ $$
 $$
 W
   ====
+  - [[Page~142 宼(3); here normalised to 寇]]
+    ==
+    - To rob, to plunder and murder;
+    - to do mischief;
+    - banditti, thieves, robbers, highwaymen, ladrones;
+    - an enemy;
+    - an abundance, plenty;
+    - tyrannical, cruel;
+    - _k(')au(3) ts(')(a/)k(9)_
+        [[kau3 caak6]]
+        robbers, band of outlaws;
+    - _(1)sz' k(')au(3)_
+        [[si1 kau3]]
+        a criminal judge;
+    - _(2)hoi k(')au(3)_
+        [[hoi2 kau3]]
+        pirates, dacoits;
+    - _(2)ts(')(o\) k(')au(3)_
+        [[cou2 kau3]]
+        marauders, freebooters.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 {𡻉=⿰山冓}(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
     ==
     - A winding path among hills;
