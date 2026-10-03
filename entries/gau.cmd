@@ -579,3 +579,51 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~139 舊(6)旧(6)]]
+    ==
+    - Old, worn out, not new or recent;
+    - formerly, anciently, before;
+    - venerable, venerated;
+    - passed away, defunct;
+    - _kau(6) (4)sh(i/)_
+        [[gau6 si4-2]],
+        anciently, in olden time;
+    - _kau(6) (1)k(a/)u_
+        [[gau6 gaau1]],
+        an old customer;
+    - _kau(6) (5)yau_
+        [[gau6 jau5]],
+        an old friend;
+    - _k(u/)(3) kau(6)_
+        [[gu3 gau6]]
+        bygone, ancient;
+    - _n(i/)m(6) kau(6)_
+        [[nim6 gau6]]
+        to remember former things;
+    - _kau(6) (4)n(i/)n_
+        [[gau6 nin4-2]],
+        last year;
+    - _kau(6) (u:)t(9)_
+        [[gau6 jyut6]]
+        last month;
+    - _kau(6) (4)yan_
+        [[gau6 jan4]],
+        an old servant;
+    - _(4)ying kau(6) ts(o\)(6)_
+        [[jing4 gau6 zou6]]
+        do the same work as before;
+    - _kau(6) (1)k(a/) (1)fung_
+        [[gau6 gaa1 fung1]],
+        relics of former prosperity;
+    - _kau(6) k(u/)(3) (1)ch(i/)_
+        [[gau6 gu3 zi1]],
+        an old and dear friend.
+    ==
+  ====
+$$
+##>
