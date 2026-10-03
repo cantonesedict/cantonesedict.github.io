@@ -26,6 +26,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~140 (1)彄]]
+    ==
+    - A notch or catch at the-end of a bow, to fasten the bowstring to;
+    - a ring.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (1)摳]]
     ==
     - To lift up the dress, when going up stairs;
