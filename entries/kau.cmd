@@ -256,6 +256,53 @@ $$
 $$
 W
   ====
+  - [[Page~141 扣(3)]]
+    ==
+    - To strike, to knock upon, to rap;
+    - to lead a horse;
+    - to deduct, to discount, to cut off;
+    - to hook in, to link on;
+    - a clasp, a buckle;
+    - to buckle~~,~~``;``
+    - _k(')au(3) sh(o\)(3)_
+        [[kau3 sou3]]
+        to reduce an account;
+    - _k(')au(3) (4)(u/)i_
+        [[kau3 wui4]],
+        to deduct advance money or a loan;
+    - _k(')au(3) (4)t(')au_
+        [[kau3 tau4]]
+        discount;
+    - _pat(7) ch(i/)t(8) pat(7) k(')au(3)_
+        [[bat1 zit3 bat1 kau3]]
+        no deduction allowed, the fixed price;
+    - _k(')au(3) (1)kung (4)ngan_
+        [[kau3 gung1 ngan4]],
+        to cut wages;
+    - _(2)kau (5)'ng k(')au(3)_
+        [[gau2 ng5 kau3]]
+        5~per cent. discount, _i.~e._ the available sum is 95;
+    - _k(')au(3) (2)nau_
+        [[kau3 nau2]],
+        to button;
+    - _k(')au(3) (4)ch(')(u:)_
+        [[kau3 ceoi4]],
+        to deduct from;
+    - _k(')au(3) (4)m(u/)n_
+        [[kau3 mun4]],
+        to knock at a door;
+    - _k(')au(3) t(a/)i(3)_
+        [[kau3 daai3-2]]
+        a girdle and clasp, to buckle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 搆(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
     ==
     - To drag, to pull;
