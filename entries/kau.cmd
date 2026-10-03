@@ -895,6 +895,13 @@ W
         [[sek6 kau5]],
         a stone mortar.
     ==
+  - [[Page~718 (5)臼 _(5)^Kau_ (gau5); here corrected to _(5)K(')au_ (kau5)]]
+    ==
+    - This is also applied to bowls, to deep and broad dishes;
+    - _(5)ng(a/) ~~(5)^kau~~ ``(5)k(')au``_
+        [[ngaa5 kau5]]
+        is a name for selters' water bottles.
+    ==
   ====
 $$
 ##>
