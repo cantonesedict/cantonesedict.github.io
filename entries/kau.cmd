@@ -514,6 +514,19 @@ $$
 $$
 W
   ====
+  - [[Page~141 (4)璆]]
+    ==
+    - A sounding gem;
+    - a beautiful precious stone.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)絿]]
     ==
     - Urgent, pressing;
