@@ -587,3 +587,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~141 (4)銶]]
+    ==
+    - A single headed ax or pick;
+    - a sort of stone-chisel.
+    ==
+  ====
+$$
+##>
