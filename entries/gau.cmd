@@ -449,6 +449,53 @@ $$
 $$
 W
   ====
+  - [[Page~139 救(3)]]
+    ==
+    - To stop, to cause to cease;
+    - to assist, to rescue, to liberate, to succor, to save from evil;
+    - to protect, to defend;
+    - to prohibit, to prevent from going wrong;
+    - salvation, rescue;
+    - a tassel;
+    - _kau(3) sik(7) (2)fo_
+        [[gau3 sik1 fo2]],
+        to put out a fire;
+    - _kau(3) n(a/)n(6)_
+        [[gau3 naan6]]
+        to save from distress;
+    - _kau(3) k(a/)(3)_
+        [[gau3 gaa3]]
+        to save the emperor;
+    - _kau(3) meng(6)_
+        [[gau3 meng6]]
+        to save life;
+    - _kau(3) shai(3)_
+        [[gau3 sai3]]
+        to deliver the world (from misery);
+    - _kau(3) shai(3) (2)ch(u:)_
+        [[gau3 sai3 zyu2]],
+        the Savior;
+    - _kau(3) (u/)(6)_
+        [[gau3 wu6]]
+        to deliver and protect from impending evil;
+    - _(2)t(a/) kau(3)_
+        [[daa2 gau3]]
+        to run to the rescue;
+    - _kau(3) (4)p(')an_
+        [[gau3 pan4]],
+        to relieve the poor;
+    - _kau(3) tsai(3)_
+        [[gau3 zai3]]
+        to succor and assist.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 灸(3)]]
     ==
     - To cauterize with moxa, or the dried powdered leaves of the Artemisia;
