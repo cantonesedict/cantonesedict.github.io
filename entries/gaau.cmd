@@ -288,6 +288,42 @@ $$
 $$
 W
   ====
+  - [[Page~143 (2)攪]]
+    ==
+    - To stir up or about, to mix we up;
+    - to beguile to evil, to disorder, to confuse, to trouble;
+    - to annoy, to incommode;
+    - to excite commotion;
+    - _(2)k(a/)u l(u:)n(6)_
+        [[gaau2 lyun6]]
+        to make a disturbance;
+    - _(2)t(a/) (2)k(a/)u (5)n(i/)_
+        [[daa2 gaau2 nei5]],
+        I have incommoded you---said by a visitor;
+    - _(2)k(a/)u ~~(5)i(u/)~~ ``(2)i(u/)``_
+        [[gaau2 jiu2]],
+        to embroil a community, to stir up sedition;
+    - _(2)k(a/)u (4)wan_
+        [[gaau2 wan4]],
+        mix it well;
+    - _(2)k(a/)u sh(i/)(6) (2)k(a/)u (1)f(i/)_
+        [[gaau2 si6 gaau2 fei1]],
+        to dispute warmly;
+    - _yat(9) (2)k(a/)u y(e/)(6) (2)k(a/)u_
+        [[jat6 gaau2 je6 gaau2]],
+        constantly doing evil;
+    - _(2)k(a/)u ~~(2)ch(u:)n~~ ``ch(u:)n(3)`` ~~ch(')(u:)(3)~~ ``ch(u:)(6)``_
+        [[gaau2 zyun3 zyu6]]
+        to interrupt, to hinder.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~143 (2)狡]]
     ==
     - A little black poodle, found in the north;
