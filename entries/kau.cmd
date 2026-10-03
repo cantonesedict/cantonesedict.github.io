@@ -533,6 +533,26 @@ $$
 $$
 W
   ====
+  - [[Page~141 (4)艽]]
+    ==
+    - A remote and sterile wild, far from habitations;
+    - the lair or form of a wild beast;
+    - _(4)k(')au (5)y(e/)_
+        [[kau4 je5]],
+        a howling wilderness;
+    - _(4)k(')au (1)sh(a/)u_
+        [[kau4 saau1]]
+        burrows of a sort of hog _(_or _hyrax?)_
+        which are found arranged in a regular manner.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)裘]]
     ==
     - Fur garments;
