@@ -104,6 +104,27 @@ $$
 $$
 W
   ====
+  - [[Page~143 (1)嘐]]
+    ==
+    - A cock's crow.
+    ==
+    --
+    Read _~~(1)hi(u/)~~ ``(1)h(a/)u``_ [[haau1]],
+    --
+    ==
+    - ~~verbose,~~ to talk big, extravagant;
+    - _~~(1)k(a/)u (1)k(a/)u~~ ``(1)h(a/)u (1)h(a/)u`` (1)sheng_
+        [[haau1 haau1 seng1]],
+        bragging, boastful talk.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~142 (1)茭]]
     ==
     - Hay, fodder;
