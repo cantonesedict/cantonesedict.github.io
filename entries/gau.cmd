@@ -609,6 +609,37 @@ $$
 $$
 W
   ====
+  - [[Page~140 柩(6)]]
+    ==
+    - A corpse laid in a coffin;
+    - a coffin with the body in it;
+    - _ch(')ut(7) kau(6)_
+        [[ceot1 gau6]]
+        to carry out a corpse;
+    - _sung(3) kau(6)_
+        [[sung3 gau6]]
+        to accompany a funeral;
+    - _kau(6) (1)ch(')(e/)_
+        [[gau6 ce1]],
+        a hearse;
+    - _kau(6) k(a/)(3)_
+        [[gau6 gaa3]]
+        a bier;
+    - _(4)t(')ing kau(6)_
+        [[ting4 gau6]]
+        to keep a body unburied;
+    - _wan(6) kau(6)_
+        [[wan6 gau6]]
+        to remove a corpse home.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 舊(6)旧(6)]]
     ==
     - Old, worn out, not new or recent;
