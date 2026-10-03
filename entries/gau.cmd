@@ -364,6 +364,24 @@ $$
 $$
 W
   ====
+  - [[Page~139 灸(3)]]
+    ==
+    - To cauterize with moxa, or the dried powdered leaves of the Artemisia;
+    - _kau(3) (1)ch(')ong_
+        [[gau3 cong1]],
+        to cauterize a sore;
+    - _yung(6) (2)fo kau(3)_
+        [[jung6 fo2 gau3]]
+        the actual cautery.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 疚(3)]]
     ==
     - A chronic disease, long ailing;
