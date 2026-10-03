@@ -120,3 +120,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~142 (1)蛟]]
+    ==
+    - The dragon of thickets and morasses;
+    - the Chinese description corresponds nearly to the iguanadon;
+    - _(1)k(a/)u (4)lung_
+        [[gaau1 lung4]],
+        a dragon, like a boa.
+    ==
+  ====
+$$
+##>
