@@ -342,6 +342,26 @@ $$
 $$
 W
   ====
+  - [[Page~140 (4)捄]]
+    ==
+    - Long, curved like a horn;
+    - to free;
+    - to help, to defend.
+    ==
+    --
+    Read _(1)k(')(u:)_ [[keoi1]],
+    --
+    ==
+    - to fill a hamper or basket, to put earth into a basket.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)求]]
     ==
     - To search for;
