@@ -199,6 +199,22 @@ $$
 $$
 W
   ====
+  - [[Page~143 (1)轇]]
+    ==
+    - Something indistinct and distant;
+    - _(1)k(a/)u kot(8)_
+        [[gaau1 got3]]
+        a row of spears, the glancing of arms;
+        to transfer (as a debt), to hand over in charge to.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~142 (1)郊]]
     ==
     - Waste or forest land near or beyond the frontiers;
