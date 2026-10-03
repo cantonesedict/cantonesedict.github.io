@@ -512,3 +512,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~141 (4)逑]]
+    ==
+    - To collect, to gather together;
+    - to pair, to mate;
+    - to seek an alliance;
+    - a union, a marriage;
+    - pressing, urgent;
+    - _h(o\)(3) (4)k(')au_
+        [[hou3 kau4]],
+        to to seek an alliance;
+    - _~~H(o\)(3)~~ ``(2)H(o\)`` (4)K(')au ch(u:)n(6)_
+        [[hou2 kau4 zyun6-2]]
+        the Fortunate Union,---name of a popular story.
+    ==
+  ====
+$$
+##>
