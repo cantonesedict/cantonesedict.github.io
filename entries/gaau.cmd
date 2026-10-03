@@ -335,6 +335,49 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~143 (2)絞]]
+    ==
+    - To bind about, to wrap around;
+    - to twist;
+    - to strangle;
+    - unceremonious;
+    - a sash;
+    - _(2)k(a/)u l(a/)m(6)_
+        [[gaau2 laam6]]
+        to twist ropes;
+    - _man(6) (2)k(a/)u_
+        [[man6 gaau2]],
+        to execute by strangling;
+    - _(2)k(a/)u (4)m(a/)i_
+        [[gaau2 maai4]],
+        to twist together;
+    - _(2)k(a/)u (4)ch(')(e/)ung (1)sh(a/)_
+        [[gaau2 coeng4 saa1]],
+        cholera morbus;
+    - _(2)k(a/)u (2)kan tik(7)_
+        [[gaau2 gan2 dik1]]
+        bind it a little tighter;
+    - _(2)k(a/)u ai(3)_
+        [[gaau2 ai3]]
+        to hang one;
+    - _(2)k(a/)u (4)t(')au p(o\)(3)_
+        [[gaau2 tau4 bou3]]
+        turban, such as the Fuhkien [[福建]] men wear;
+    - _(2)k(a/)u (1)f(a/)_
+        [[gaau2 faa1]],
+        to spin cotton;
+    - _(1)s(a/)m (2)kau (4)shing_
+        [[saam1 gaau2 sing4-2]],
+        a three-stranded cord.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
