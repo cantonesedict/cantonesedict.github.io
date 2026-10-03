@@ -378,6 +378,50 @@ $$
 $$
 W
   ====
+  - [[Page~139 够(3); here normalised to 夠]]
+    ==
+    - Enough, sufficient for use;
+    - in excess, adequate, filled up;
+    - completely, thoroughly;
+    - _(4)'m kau(3) yung(6)_
+        [[m4 gau3 jung6]]
+        insufficient;
+    - _kau(3) (4)'m kau(3)_
+        [[gau3 m4 gau3]]
+        is there enough?
+    - _kau(3) kau(3)_
+        [[gau3 gau3]]
+        fully enough, an abundance;
+    - _kau(3) (2)p(u/)n_
+        [[gau3 bun2]],
+        got first outlay;
+    - _(4)'m kau(3) (2)p(u/)n_
+        [[m4 gau3 bun2]],
+        not prime cost;
+    - _kau(3) s(u:)n(3)_
+        [[gau3 syun3]]
+        enough, that will do, we'll stop now;
+    - _kau(3) ~~ok(9)~~ ``ok(8)``_
+        [[gau3 ok3]]
+        thoroughly bad;
+    - _kau(3) (4)k(')(i/)_
+        [[gau3 kei4]]
+        odd, unusual, singular;
+    - _(1)p(a/) pat(7) (4)nang kau(3)_
+        [[baa1 bat1 nang4 gau3]]
+        it is my sincere wish;
+    - _kau(3) (2)kong (2)h(o\)_
+        [[gau3 gong2 hou2]],
+        superlatively good.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 㝌(3)]]
     ==
     - Poor and diseased and drawing to one's end;
