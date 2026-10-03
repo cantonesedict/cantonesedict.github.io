@@ -268,3 +268,48 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - gaau3-2 (rising second in reduplication 覺覺)
+  - gaau3-4 (low first in reduplication 覺覺)
+  ==
+W
+  ====
+  - [[Page~143 (4)覺]]
+    ==
+    - _(4)^K(a/)u (2)k(a/)u_
+        [[gaau3-4 gaau3-2 覺覺]],
+        a lullaby, used by nurses when hushing a child to sleep.
+    ==
+    --
+    ~~This character [[覺]] is merely used for these sounds.~~
+    --
+  - [[Page~171 覺(8)]]
+    --
+    [[...]]
+    --
+    --
+    Read _k(a/)u(3)_ [[gaau3]]
+    --
+    ==
+    - to awake.
+    ==
+  ====
+C
+  ==
+  - Williams' "This character is merely used for these sounds":
+    The character 覺 is the correct one to use;
+    覺覺 gaau3-4 gaau3-2 is a reduplication of the modern sense
+    "sleep" (as a noun), supplemented below.
+    Williams' tone markings are an attestation of tone change
+    (low-first, rising-second) for a reduplication in Cantonese.
+  ==
+P
+  ++
+  1. A sleep.
+  ++
+$$
+##>
