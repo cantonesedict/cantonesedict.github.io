@@ -362,6 +362,20 @@ $$
 $$
 W
   ====
+  - [[Page~140 (4)梂]]
+    ==
+    - The cupule or cup of an acorn;
+    - a raft;
+    - the haft of a chisel.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)求]]
     ==
     - To search for;
