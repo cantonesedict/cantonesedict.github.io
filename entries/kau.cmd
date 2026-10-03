@@ -408,6 +408,25 @@ $$
 $$
 W
   ====
+  - [[Page~142 {𦸅=⿱艹宼}(3); here normalised to 蔻]]
+    ==
+    - The nutmeg, called _tau(6) k(')au(3)_ [[dau6 kau3]]_;_
+    - _tau(6) k(')au(3) (1)f(a/)_
+        [[dau6 kau3 faa1]],
+        mace;
+    - the _~~yuk(7)~~ ``yuk(9)`` k(')au(3)_ [[juk6 kau3]] is the best sort;
+    - _tau(6) k(')au(3) (4)h(o\)m (1)p(a/)_
+        [[dau6 kau3 ham4 baa1]],
+        'the nutmeg fills the mouth,' said of marriageable girls.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~138 覯(3) _Kau(3)_ (gau3); here normalised to _K(')au(3)_ (kau3)]]
     ==
     - To see one suddenly;
