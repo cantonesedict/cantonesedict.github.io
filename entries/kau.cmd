@@ -376,6 +376,32 @@ $$
 $$
 W
   ====
+  - [[Page~140 (4)毬]]
+    ==
+    - A ball, large enough to play with, made of wool or leather;
+    - a bladder-ball;
+    - a globe, a sphere;
+    - _(2)t(a/) (4)k(')au_
+        [[daa2 kau4]],
+        to play ball;
+    - _t(')ek(8) (4)k(')au_
+        [[tek3 kau4]],
+        to kick a ball;
+    - _(1)p(')(a/)u sau(3) (4)k(')au_
+        [[paau1 sau3 kau4]],
+        to throw the embroidered ball (and choose a husband);
+    - _s(i/)n(3) (4)k(')au_
+        [[sin3 kau4]],
+        a cap-knob made of cord.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)求]]
     ==
     - To search for;
