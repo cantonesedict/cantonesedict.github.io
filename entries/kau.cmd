@@ -374,6 +374,25 @@ $$
 $$
 W
   ====
+  - [[Page~141 ::(4)~~{？=⿻九厶}~~``厹``::]]
+    ==
+    - A spear with a three-sided head;
+    - vapor ascending high.
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword poorly; it appears similar to 禸,
+    though still with clearly recognisable components 九 and 厶.
+    (The character 厹 appears correctly on Page~746 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)捄]]
     ==
     - Long, curved like a horn;
