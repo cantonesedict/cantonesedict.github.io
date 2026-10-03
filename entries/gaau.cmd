@@ -466,6 +466,29 @@ $$
 
 <##
 $$
+H
+  May appear as either ⿱穴吿 or ⿱穴告 (assumed here),
+  depending on the font.
+W
+  ====
+  - [[Page~144 窖(3)]]
+    ==
+    - A receptacle or bin in the ground for storing grain;
+    - a cellar;
+    - a souterrain;
+    - _t(i/)(6) k(a/)u(3)_
+        [[dei6 gaau3]]
+        an underground store-room;
+    - _k(a/)u(3) (4)ts(')ong_
+        [[gaau3 cong4]],
+        stored up.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gaau3-2 (rising second in reduplication 覺覺)
