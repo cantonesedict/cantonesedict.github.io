@@ -584,6 +584,31 @@ $$
 $$
 W
   ====
+  - [[Page~140 倃(6); here normalised to 嚿]]
+    ==
+    - A colloquial word;
+    - a loaf, a lump, piece, clod;
+    - _yat(7) kau(6) shek(9)_
+        [[jat1 gau6 sek6]]
+        a stone;
+    - _yat(7) kau(6) muk(9) (4)t(')au_
+        [[jat1 gau6 muk6 tau4]],
+        a bit of wood, a dolt;
+    - _(1)l(u:)n (4)m(a/)i yat(7) kau(6)_
+        [[lyun1 maai4 jat1 gau6]]
+        all doubled or bent over, as from cold or pain;
+    - _(2)t(a/) (1)fung kau(6)_
+        [[daa2 fung1 gau6]]
+        a high gale.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~139 舊(6)旧(6)]]
     ==
     - Old, worn out, not new or recent;
