@@ -458,3 +458,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~140 (4)裘]]
+    ==
+    - Fur garments;
+    - furs after they are made up;
+    - _(1)hing (4)k(')au_
+        [[hing1 kau4]],
+        fine fur dresses;
+    - _(1)ching (4)k(')au_
+        [[zing1 kau4]],
+        taxes paid in peltry;
+    - _(4)(u/) (4)k(')au_
+        [[wu4 kau4]],
+        a fox-skin dress.
+    ==
+  ====
+$$
+##>
