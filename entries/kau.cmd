@@ -700,6 +700,24 @@ $$
 $$
 W
   ====
+  - [[Page~141 (5)桕]]
+    ==
+    - The tallow tree _(Stillingia sebifera)_,
+      called _(1)(u/) (5)k(')au muk(9)_ [[wu1 kau5 muk6]]_;_
+    - in Macao, this tree is known as
+      the _~~(4)^kung~~ ``(4)k(')ung`` sh(u:)(6)_ [[kung4 syu6]]_;_
+    - _(1)(u/) (5)k(')au (4)yau_
+        [[wu1 kau5 jau4]],
+        vegetable tallow.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~141 (5)臼]]
     ==
     - A mortar, either a hole or made of stone;
