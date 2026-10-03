@@ -125,6 +125,24 @@ $$
 $$
 W
   ====
+  - [[Page~143 (1)教]]
+    ==
+    - To cause, to induce, to make, to enable;
+    - _(1)k(a/)u (5)n(i/) (2)h(o\)_
+        [[gaau1 nei5 hou2]],
+        make you well;
+    - _(4)shui (1)k(a/)u (5)n(i/) (4)wai_
+        [[seoi4 gaau1 nei5 wai4]],
+        who enabled (or made) you to do it?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~143 (1)膠]]
     ==
     - Glue, glutinous or adhesive jellies, viscid gums;
