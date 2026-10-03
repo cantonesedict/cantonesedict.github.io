@@ -149,6 +149,31 @@ $$
 $$
 W
   ====
+  - [[Page~144 酵(3) _K(a/)u(3)_ (gaau3); here normalised to _(1)H(a/)u_ (haau1)]]
+    ==
+    - Leaven, yeast;
+    - it is the residuum left after distilling samshoo;
+    - _f(a/)t(8) ~~k(a/)u(3)~~ ``(1)h(a/)u``_
+        [[faat3 haau1]]
+        to raise dough;
+    - _(2)tsau ~~k(a/)u(3)~~ ``(1)h(a/)u``_
+        [[zau2 haau1]]
+        barm cakes;
+    - _(4)ch(')(u:) ~~k(a/)u(3)~~ ``(1)h(a/)u`` ts(i/)t(8)_
+        [[ceoi4 haau1 zit3]]
+        feast of unleavened bread.
+    ==
+    --
+    Read _(2)h(a/)u_ [[haau2]] in the Fan Wan.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~77 (2)巧]]
     ==
     - Skillful, ingenious, dexterous, handy;
