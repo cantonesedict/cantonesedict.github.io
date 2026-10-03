@@ -59,6 +59,22 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~139 篝(3) _Kau(3)_ (gau3); here normalised to _(1)K(')au_ (kau1)]]
+    ==
+    - A bamboo frame for drying clothes upon over a fire;
+    - a _chauffe-lit;_
+    - _~~kau(3)~~ ``(1)k(')au`` (4)lung_
+        [[kau1 lung4]],
+        a drying frame.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 A
   ==
   - 鞲
