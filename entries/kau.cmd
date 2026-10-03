@@ -327,6 +327,21 @@ $$
 $$
 W
   ====
+  - [[Page~140 (4)俅]]
+    ==
+    - A cap, a fancy cap, an ornamented cap;
+    - _(4)k(')au (4)k(')au_
+        [[kau4 kau4]],
+        a grave and complaisant man.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~140 (4)求]]
     ==
     - To search for;
