@@ -26,6 +26,35 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~140 (1)摳]]
+    ==
+    - To lift up the dress, when going up stairs;
+    - to feel for with the hand;
+    - to dilute, to mix with, to weaken or adulterate;
+    - _(1)k(')au (4)m(a/)i_
+        [[kau1 maai4]],
+        to mix with;
+    - _(1)k(')au (4)wan_
+        [[kau1 wan4]],
+        mix thoroughly;
+    - _t(u/)i(3) (1)k(')au_
+        [[deoi3 kau1]],
+        mixed equally;
+    - _(1)k(')au (1)sh(a/)_
+        [[kau1 saa1]],
+        mixed with sand;
+    - _(1)k(')au l(u:)n(6)_
+        [[kau1 lyun6]]
+        mingled confusedly.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~137 (1)樛 _(1)Kau_ (gau1); here normalised to _(1)K(')au_ (kau1)]]
     ==
     - Pendulous branches;
