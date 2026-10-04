@@ -230,6 +230,41 @@ $$
 $$
 W
   ====
+  - [[Page~148 (1)箕]]
+    ==
+    - A corn-fan;
+    - a winnowing-fan;
+    - a sieve;
+    - a refuse-basket;
+    - to spread out like a fan;
+    - the long striæ on the finger's ends;
+    - part of Sagittarius, the 7th of the 23~constellations;
+    - _met._ rain, because this star forebodes rain;
+    - a kind of wood, used for quivers;
+    - _p(')o(3) (1)k(i/)_ [[po3 gei1]]
+        or
+      _p(a/)i(3) (1)k(i/)_ [[baai3 gei1]],
+        a fine corn-fan;
+    - _(1)shai (1)k(i/)_
+        [[sai1 gei1]],
+        a coarse sieve;
+    - _(i/)m(6) (4)ming (1)k(i/) (2)tau_
+        [[jim6 ming4 gei1 dau2]],
+        look sharp at the rings and lines on his fingers
+        (to find his future luck);
+    - _shi(u/)(6) (1)k(i/) (4)k(')au_
+        [[siu6 gei1 kau4]]
+        'to connect sieves and furs,'
+        to carry on the profession of one's father.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1)肌]]
     ==
     - Flesh or firm muscle under the skin, and near the bones;
