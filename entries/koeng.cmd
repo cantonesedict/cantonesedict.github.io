@@ -98,3 +98,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+W
+  ====
+  - [[Page~147 (5)蔃]]
+    ==
+    - Small roots, the branches of roots;
+    - a lily;
+    - _chuk(7) (5)k(')(e/)ung_
+        [[zuk1 koeng5]],
+        whangees, bamboo canes;
+    - _sh(u:)(6) (5)k(')(e/)ung_
+        [[syu6 koeng5]],
+        roots of trees.
+    ==
+  ====
+$$
+##>
