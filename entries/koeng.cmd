@@ -118,3 +118,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+W
+  ====
+  - [[Page~147 (5)襁]]
+    ==
+    - A swathing-cloth to carry infants pickapack;
+    - to carry pickback;
+    - _(5)k(')(e/)ung (2)p(o\)_
+        [[koeng5 bou2]],
+        a cloth to strap infants in.
+    ==
+  ====
+$$
+##>
