@@ -90,6 +90,29 @@ $$
 $$
 W
   ====
+  - [[Page~149 (1)奇]]
+    ==
+    - Odd, a single one;
+    - odd numbers;
+    - a surplus;
+    - _(i/)(6) ~~shap(7)~~ ``shap(9)`` (5)yau (1)k(i/)_
+        [[ji6 sap6 jau5 gei1]],
+        twenty and odd;
+    - _(5)yau (1)k(i/)_
+        [[jau5 gei1]]
+        something over;
+    - _(4)ts(')(e/) (1)k(i/)_
+        [[ce4 gei1]],
+        not upright, deflected.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)姬]]
     ==
     - The surname of Hw(a/)ngt(i/) [[黃帝]];
