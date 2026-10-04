@@ -163,3 +163,15 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~148 (1){𦠄=⿰⺼幾}]]
+    ==
+    - The cheeks, the flesh which covers the jaws.
+    ==
+  ====
+$$
+##>
