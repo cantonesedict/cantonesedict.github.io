@@ -100,7 +100,7 @@ W
         a pass in a river;
     - _Shi(u/)(3)-hing(3) h(a/)p(9)_
         [[siu3 hing3 haap6]]
-        a gorge near Sh(a/)uking f(u/) [[]] in Kw(a/)ngtung [[廣東]].
+        a gorge near Sh(a/)uking f(u/) [[肇慶府]] in Kw(a/)ngtung [[廣東]].
     ==
   ====
 $$
