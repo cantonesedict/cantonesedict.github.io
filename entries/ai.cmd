@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2026-10-01
+* %date-modified --> 2026-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,10 +65,6 @@ A
   - ${𫫃=⿰口挨}1 (Cantonese)
   - 唉 (Cantonese)
   ==
-V
-  ==
-  - ngai1 (common for "beg" sense)
-  ==
 F
   [[Not present]]
 W
@@ -76,22 +72,30 @@ W
   - [[Page~2 (1){𫫃=⿰口挨}; here normalised to 哎]]
     ==
     - A particle of surprise or pain;
+    <## TODO: normalise to ${𠼮=⿰口偽}ngai1
     - to beg, to ask;
+    ##>
+    - [[...]];
     - _(1)ai (1)y(a/)_,
         [[ai1 jaa1 哎吔]]
         whew! halloo! oh, dear!
     - _(1)ai, mat(7) (5)n(i/) (2)k(o\)m ts(o\)(6)_
         [[ai1 mat1 nei5 gam2 zou6 哎乜你噉做]]
         oh! why did you do so?
+    <##
     - _(1)ai ~~(1)k(')au~~ ``(4)k(')au`` (5)n(i/)_
         [[ai1 kau4 nei5 哎求你]],
         I intreat you.
+    ##>
+    - [[...]].
     ==
   ====
+  <##
 C
   ==
   - Williams' 哎求你: Corrected _(1)k(')au_ (kau1) to _(4)k(')au_ (kau4).
   ==
+  ##>
 E
   ====
   - 【哎吔-pain】 (ai1 ja4)
