@@ -606,6 +606,19 @@ $$
 $$
 W
   ====
+  - [[Page~150 (2)掎]]
+    ==
+    - To drag one side, to pull out by one foot whatever has fallen in;
+    - pull out, to bring forth.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (2){𣏌=⿰木巳}; here normalised to 杞]]
     ==
     - A willow-shaped tree, called _(2)kau (2)k(i/)_ [[gau2 gei2]];
