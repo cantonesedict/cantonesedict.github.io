@@ -66,3 +66,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~147 (5)強]]
+    ==
+    - To compel, to force;
+    - to invigorate, to strengthen;
+    - to try, to attempt;
+    - _(5)k(')(e/)ung (4)k(')au pat(7) tak(7)_
+        [[koeng5 kau4 bat1 dak1]]
+        can not obtain with strong intreaties;
+    - _(5)k(')(e/)ung (4)hang_
+        [[koeng5 hang4]],
+        to ~~force to~~ do ``forcefully``.
+    ==
+    --
+    Read _~~k(')^(e/)ung(6)~~ ``k(e/)ung(6)``_ [[goeng6]]
+    --
+    ==
+    - reäction;
+    - _wat(7) ~~k(')^(e/)ung(6)~~ ``k(e/)ung(6)``_
+        [[wat1 goeng6]]
+        renitency, resilience, springing back;
+    - _(5)n(i/) k(o\)m(3) ~~k(')^(e/)ung(6)~~ ``k(e/)ung(6)`` sing(3)_
+        [[nei5 gam3 goeng6 sing3]]
+        why are you so set in your way?
+    ==
+  ====
+$$
+##>
