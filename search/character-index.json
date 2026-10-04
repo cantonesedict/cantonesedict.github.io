@@ -7626,14 +7626,14 @@
 },
 "梵":{
 "faan4":{
-"isCanonical":false,
+"isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+68B5"
+"text":"U+68B5 faan6 (per 《廣韻》扶泛切) (F2.71 梵 _Fan_ (faan6)) 羗戎吟聲也佛家經聲曰梵音 (Page 49 梵 _Fan_ (faan6); here normalised to _Fan_ (faan4)) Name of a bonze; the country of Magadha, whence Budha came; the language of the Budhists, Pali or Sanscrit; _fan yam_ (faan4 jam1 梵音), to chant prayers (Fan Wan: 佛家經聲曰梵音); _fan in_ (faan4 jin4 梵言), Pali; _fan ~~ch'at~~ shat_ (faan4 saat3 梵剎) a monastery. Williams' 梵剎: Normalised _ch'at_ (caat3) to _shat_ (saat3). Tranquil, quiet (Kangxi: 華言淸淨正言寂靜)."
 },
 "faan6":{
-"isCanonical":true,
+"isCanonical":false,
 "williams":"f(a/)n(6)",
-"text":"U+68B5 faan4 (common) (F2.71 梵) 羗戎吟聲也佛家經聲曰梵音 (Page 49 梵) Name of a bonze; the country of Magadha, whence Budha came; the language of the Budhists, Pali or Sanscrit; _fan yam_ (faan6 jam1 梵音), to chant prayers (Fan Wan: 佛家經聲曰梵音); _fan in_ (faan6 jin4 梵言), Pali; _fan ~~ch'at~~ shat_ (faan6 saat3 梵剎) a monastery. Williams' 梵剎: Normalised _ch'at_ (caat3) to _shat_ (saat3). Tranquil, quiet (Kangxi: 華言淸淨正言寂靜)."
+"text":"U+68B5 (F2.71 梵) 羗戎吟聲也佛家經聲曰梵音 (Page 49 梵)"
 }
 },
 "煩":{
