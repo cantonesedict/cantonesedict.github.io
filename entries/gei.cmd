@@ -148,3 +148,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~148 (1)磯]]
+    ==
+    - Stones or rocks in a stream, producing a ripple;
+    - eddies caused by stones, a stumblingblock;
+    - to impede;
+    - to rub.
+    ==
+  ====
+$$
+##>
