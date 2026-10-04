@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~149 (1)几]]
+    ==
+    - A bench or stool to lean on;
+    - a stand, a side table;
+    - the 16th~radical [[U+2F0F ⼏ "table"]];
+    - _(4)ch(')(a/) (1)k(i/)_
+        [[caa4 gei1]],
+        a teapoy, a light stand;
+    - _(4)man (1)k(i/)_
+        [[man4 gei1]],
+        a study-table;
+    - _(1)k(i/) (1)k(i/)_
+        [[gei1 gei1]],
+        tranquil, unaffected.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1)基]]
     ==
     - The foundation of a wall, a dike on the river banks, or between fields;
