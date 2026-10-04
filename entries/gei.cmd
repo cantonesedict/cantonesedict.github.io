@@ -269,3 +269,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~148 (1)魕]]
+    ==
+    - A sprite, a demon of the south, as Kw(a/)ngtung [[廣東]];
+    - _(a/)(3) (1)k(i/)_
+        [[aa3 gei1]],
+        an elf, which bewilders men;
+    - _chong(6) (a/)(3) (1)k(i/)_
+        [[zong6 aa3 gei1]],
+        to meet a devil, to see a foreigner;
+        the last are so called in Canton from their shrill voices.
+    ==
+  ====
+$$
+##>
