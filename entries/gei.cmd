@@ -282,6 +282,38 @@ $$
 $$
 W
   ====
+  - [[Page~149 (1)羈]]
+    ==
+    - A halter;
+    - a bridle;
+    - a girl's tuft of hair, a woman's coiffure;
+    - bridled;
+    - to bridle, to restrain, to hold in, to pull the bit on one;
+    - to economize;
+    - to detain in confinement, to arrest;
+    - to detain, to hinder;
+    - _(1)k(i/) (2)sho_ [[gei1 so2]],
+        or
+      _ngoi(6) (1)k(i/)_ [[ngoi6 gei1]],
+        a lockup, attached to a y(a/)mun [[衙門]];
+    - _(1)k(i/) (4)lau_
+        [[gei1 lau4]],
+        to stop, to seize;
+    - _ts(i/)n(6) m(o\)(6) (1)k(i/) (1)shan_
+        [[zin6 mou6 gei1 san1]],
+        I was detained by business;
+    - _(4)m(o\) (2)sho (1)k(i/)_
+        [[mou4 so2 gei1]],
+        unoccupied.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1)肌]]
     ==
     - Flesh or firm muscle under the skin, and near the bones;
