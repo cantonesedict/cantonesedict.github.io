@@ -282,6 +282,24 @@ $$
 $$
 W
   ====
+  - [[Page~149 (1)羇]]
+    ==
+    - An inn, a hospice;
+    - _(1)k(i/) (5)l(u:)_
+        [[gei1 leoi5]],
+        a wayfarer, a lodger;
+    - _(1)k(i/) h(a/)k(8)_
+        [[gei1 haak3]]
+        a visitor, a sojourner.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)羈]]
     ==
     - A halter;
