@@ -175,3 +175,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~148 (1)蟣]]
+    ==
+    - A louse;
+    - a nit;
+    - _(1)k(i/) shat(7)_
+        [[gei1 sat1]]
+        a louse.
+    ==
+    --
+    Read _(4)k(')(i/)_ [[kei4]],
+    --
+    ==
+    - same as 蜝 a bloodsucker.
+    ==
+  ====
+$$
+##>
