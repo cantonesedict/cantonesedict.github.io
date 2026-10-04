@@ -113,6 +113,21 @@ $$
 $$
 W
   ====
+  - [[Page~148 (1)璣]]
+    ==
+    - Pearls not perfectly round;
+    - a sort of armillary sphere, called _(4)s(u:)n (1)k(i/)_ [[syun4 gei1]],
+      provided with a tube, which is called _yuk(9) (4)hang_ [[juk6 hang4]],
+      by means of which observations on the stars were taken.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~147 (1)畿]]
     ==
     - The park belonging to H.~I.~M. in ancient times;
