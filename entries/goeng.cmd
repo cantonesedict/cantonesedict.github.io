@@ -48,6 +48,21 @@ $$
 $$
 W
   ====
+  - [[Page~146 (1)姜]]
+    ==
+    - The surname of the emperor Shinnung [[神農]];
+    - _(1)K(e/)ung t(')(a/)i(3) (1)kung_
+        [[goeng1 taai3 gung1]],
+        a famous general, B.C.~1122.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~146 (1)橿]]
     ==
     - The helve of a hoe, a hoe-handle;
