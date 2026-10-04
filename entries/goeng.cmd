@@ -139,3 +139,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~146 (1)韁]]
+    ==
+    - A bridle;
+    - the reins of the bridle;
+    - _fong(3) (1)k(e/)ung_
+        [[fong3 goeng1]],
+        to give loose rein;
+    - _(1)shau (1)k(e/)ung_
+        [[sau1 goeng1]],
+        pull in the reins;
+    - _(5)y(e/) (5)m(a/) (4)m(o\) (1)k(e/)ung_
+        [[je5 maa5 mou4 goeng1]],
+        an unbridled, wild horse, a runagate, a demirep.
+    ==
+  ====
+$$
+##>
