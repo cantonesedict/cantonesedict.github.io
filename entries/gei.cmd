@@ -622,3 +622,22 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~149 (2)芑]]
+    ==
+    - A kind of succory or sow thistle, often cooked and eaten,
+      called _(2)k(i/) ts(')oi(3)_ [[gei2 coi3]]_;_
+    - a sort of white millet.
+    ==
+  ====
+C
+  ==
+  - Williams actually prints the headword as ⿱艹已,
+    which is not ideal, but tolerable enough to count as 芑.
+  ==
+$$
+##>
