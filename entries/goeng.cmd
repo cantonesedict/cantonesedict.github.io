@@ -48,6 +48,24 @@ $$
 $$
 W
   ====
+  - [[Page~146 (1)橿]]
+    ==
+    - The helve of a hoe, a hoe-handle;
+    - a lasting kind of wood
+      called _m(a/)n(6) (4)n(i/)n muk(9)_ [[maan6 nin4 muk6]]
+      used for bars and parts of carriages;
+    - _(1)k(e/)ung (1)k(e/)ung_
+        [[goeng1 goeng1]],
+        vigorous, abundant.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~146 (1)疆]]
     ==
     - A boundary, limits, borders;
