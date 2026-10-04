@@ -98,6 +98,27 @@ $$
 $$
 W
   ====
+  - [[Page~148 (1)朞; here normalised to 期]]
+    ==
+    - An anniversary, the full revolution of a year, 354~days;
+    - _(1)k(i/) (1)ch(i/) (1)song_
+        [[gei1 zi1 song1]],
+        a year of mourning;
+    - _pat(7) ch(e/)ung(6) (1)k(i/)_
+        [[bat1 zoeng6 gei1]],
+        distant relatives who wear mourning a year;
+    - _(1)k(i/) (u:)t(9)_
+        [[gei1 jyut6]]
+        a return of the same month.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~147 (1)機]]
     ==
     - Used for the last [[幾]];
