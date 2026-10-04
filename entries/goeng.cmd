@@ -125,3 +125,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~146 (1)䗵]]
+    ==
+    - The white exuviæ of the larvæ of silkworms,
+      called _(1)k(e/)ung (4)ts(')(a/)m_ [[goeng1 caam4]]_;_
+    - it is used as a medicine.
+    ==
+  ====
+$$
+##>
