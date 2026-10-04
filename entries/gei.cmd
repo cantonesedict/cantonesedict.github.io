@@ -67,6 +67,23 @@ $$
 $$
 W
   ====
+  - [[Page~149 (1)姬]]
+    ==
+    - The surname of Hw(a/)ngt(i/) [[黃帝]];
+    - also of the emperors of the Chau [[周]] dynasty;
+    - a queen;
+    - term for the imperial concubines;
+    - beautiful, noble women (like Houri, Hebe),
+      because of the fame of the family of K(i/) [[姬]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~147 (1)幾]]
     ==
     - The springs of motion, subtle, hidden, mysterious;
