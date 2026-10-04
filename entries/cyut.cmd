@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-10-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -42,7 +42,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $卒3
-- ($捽3)
+- $捽3
 - $撮3
 - $猝3
 - ($蕝3)
@@ -108,19 +108,45 @@ $$
 
 ### 捽3 | _Ts(')(u:)t(8)_ [[cyut3]]
 
-$$.
+$$
 R
   ⼿ + 8
 U
   U+637D
+V
+  ==
+  - zeot1 (per 《正韻牋》卽律切 for "grasp" sense, common for all senses)
+  - zyut6 (per 《廣韻》昨没切)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~610 捽(8)]]
-    --
-    [[Reading variation (for the literary senses). **See $捽zeot1 for the canonical entry.**]]
-    --
+    ==
+    - To grasp, to clutch, to seize [[Kangxi: 手持也]], as by the nape;
+    - to butt, to push [[Kangxi: 觸也]];
+    - to pluck out [[Kangxi: 拔取也]];
+    - _ts(')(u:)t(8) (4)k(')(i/) f(a/)t(8)_
+        [[cyut3 kei4 faat3 捽其髮]]
+        to clench his hair;
+    - _ts(')(u:)t(8) (2)keng_
+        [[cyut3 geng2 捽頸]],
+        to take by the nape.
+    ==
+  ====
+P
+  ++
+  1. To conflict, to clash (Kangxi: 交對也).
+  ++
+L
+  ====
+  * 【捽】 (dzwot)
+    ==
+    - (_verb-like_) [to] grasp
+    - (_verb-like_) [to] pick
+    - (_verb-like_) [to] clash, [to] conflict
+    ==
   ====
 S
   ==

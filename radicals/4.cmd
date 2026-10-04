@@ -468,7 +468,7 @@ For all radicals, see [Index of characters by radical](./).
       - $掣cit3, $掣zai3
       - $採coi2
       - $措cou3, $措zaak3
-      - ($捽cyut3), $捽zeot1
+      - $捽cyut3, $捽zeot1
       - $㧾fat1
       - $掝fik6
       - ($捹fing1), ($捹fing3), ($捹fing6)
