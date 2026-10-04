@@ -26,6 +26,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~145 (4)伽]]
+    ==
+    - A Budhist word;
+    - _(4)k(')(e/) (4)l(a/)m_
+        [[ke4 laam4]],
+        name of a Budha;
+    - _Lok(9) (4)k(')(e/) (1)sh(a/)n_
+        [[lok6 ke4 saan1]],
+        a mountain where the goddess Kw(a/)nyin [[觀音]] dwells.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~145 (4)茄]]
     ==
     - The culm of the lotus; <# TODO: correct to $茄gaa1 #>
