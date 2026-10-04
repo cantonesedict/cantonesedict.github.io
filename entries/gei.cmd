@@ -583,3 +583,42 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~149 (2)紀]]
+    ==
+    - To sort silk threads;
+    - to arrange, to separate;
+    - to record, to narrate, to book, to ascertain and write;
+    - to rule, to govern;
+    - a history, annals, chronicles, narrative;
+    - a score of 12~years;
+    - a year;
+    - a decimal or the completion of numbers;
+    - a dike;
+    - a skein of 40~threads;
+    - _(2)k(i/) luk(9)_
+        [[gei2 luk6]]
+        to record [an officer's merit];
+    - _(4)n(i/)n (2)k(i/)_
+        [[nin4 gei2]],
+        a person's age;
+    - _(5)'ng (2)k(i/)_
+        [[ng5 gei2]],
+        the five divisions of time
+        (_i.e._ hours, days, months, years, ages);
+    - _(2)k(i/) (1)kong puk(9)_
+        [[gei2 gong1 buk6]]
+        a servant who manages.
+    ==
+  ====
+C
+  ==
+  - Williams actually prints the headword as ⿰糸@已,
+    which is not ideal, but tolerable enough to count as 紀.
+  ==
+$$
+##>
