@@ -515,3 +515,44 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - gei2-1 (vernacular in 自己)
+  ==
+W
+  ====
+  - [[Page~149 (2)己]]
+    ==
+    - One's self, I, myself;
+    - self, added to pronouns;
+    - selfish, private, special;
+    - the 49th~radical [[U+2F30 ⼰ "oneself"]];
+    - to record;
+    - the sixth of the 'stems,'
+      answering with _m(o\)(6)_ [[mou6]] to earth;
+    - _(5)ngo tsz'(6) (2)k(i/)_
+        [[ngo5 zi6 gei2]],
+        I myself;
+    - _(5)k(')(u:) tsz'(6) (2)k(i/)_
+        [[keoi5 zi6 gei2]],
+        he himself;
+    - _(5)n(i/) (5)ngo (1)ch(i/) (2)k(i/)_
+        [[nei5 ngo5 zi1 gei2]],
+        you and I know each other;
+    - _(4)f(i/) (2)k(i/)_
+        [[fei4 gei2]],
+        it benefited me, specially advantageous;
+    - _(2)shau (2)k(i/)_
+        [[sau2 gei2]],
+        self respect, to mind one's own affairs;
+    - _(1)sz' (2)k(i/)_
+        [[si1 gei2]],
+        selfish;
+        privily applying to one's own use.
+    ==
+  ====
+$$
+##>
