@@ -238,3 +238,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+W
+  ====
+  - [[Page~148 (1)饑(1)飢]]
+    ==
+    - Failure of the harvest;
+    - famine, death, scarcity;
+    - hunger;
+    - to be hungry, famished, necessitous;
+    - _(1)k(i/) ngo(6)_
+        [[gei1 ngo6]]
+        starving;
+    - _(2)t(a/) (1)k(i/) (1)fong_
+        [[daa2 gei1 fong1]],
+        to pretend hunger, to act the beggar;
+    - _(1)k(i/) shik(7)_
+        [[gei1 sik1]]
+        a cadaverous, starved look;
+    - _(1)k(i/) hot(8)_
+        [[gei1 hot3]]
+        hungry and thirsty;
+    - _(1)k(i/) (2)sz'_
+        [[gei1 si2]]
+        starved to death.
+    ==
+  ====
+$$
+##>
