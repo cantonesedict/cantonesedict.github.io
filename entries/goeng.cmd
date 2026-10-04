@@ -89,3 +89,39 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~146 (1)薑]]
+    ==
+    - Ginger;
+    - _(4)t(')ong (1)k(e/)ung_
+        [[tong4 goeng1]],
+        preserved ginger;
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)k(e/)ung_
+        [[saang1 goeng1]],
+        fresh ginger;
+    - _(2)ts(')eng (2)yam (1)k(e/)ung (2)tsau_
+        [[ceng2 jam2 goeng1 zau2]],
+        to invite to drink ginger wine, after a birth;
+    - _(1)hoi (1)k(e/)ung m(i/)(6) (4)ts(')ang_
+        [[hoi1 goeng1 mei6 cang4]],
+        have you any children?
+    - _(4)wong (1)k(e/)ung (2)fan_
+        [[wong4 goeng1 fan2]],
+        curry powder;
+    - _(2)tsz' (1)k(e/)ung_
+        [[zi2 goeng1]]
+        tender ginger;
+    - _(4)l(e/)ung (1)k(e/)ung_
+        [[loeng4 goeng1]],
+        galangal root;
+    - _(2)p(u/)n t(i/)(6) (1)k(e/)ung (4)'m l(a/)t(9)_
+        [[bun2 dei6 goeng1 m4 laat6]]
+        home ginger is insipid, _i.~e._ foreign things are best.
+    ==
+  ====
+$$
+##>
