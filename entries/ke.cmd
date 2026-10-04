@@ -21,3 +21,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~145 (4)茄]]
+    ==
+    - The culm of the lotus; <# TODO: correct to $茄gaa1 #>
+    - the lotus itself;
+    - brinjal or squash;
+    - _(1)f(a/)n (4)k(')(e/)_
+        [[faan1 ke4-2]],
+        tomatoes;
+    - _(1)t(i/)n (4)k(')(e/)_
+        [[din1 ke4-2]],
+        mad apple, dwale, or belladonna;
+    - _(4)ho (1)p(a/)u (4)k(')(e/)_
+        [[ho4 baau1 ke4-2]],
+        the bottle squash.
+    ==
+  ====
+$$
+##>
