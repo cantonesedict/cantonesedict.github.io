@@ -574,6 +574,38 @@ $$
 $$
 W
   ====
+  - [[Page~149 (2)幾]]
+    ==
+    - Much or many of, rather, part of;
+    - nearly, few;
+    - an interrogation of quantity, how, many, how much;
+    - _(2)k(i/) (1)to_
+        [[gei2 do1]],
+        how many?
+    - _tai(6) (2)k(i/)_
+        [[dai6 gei2]],
+        which of them?
+    - _(2)k(i/) (4)sh(i/)_
+        [[gei2 si4]],
+        when?
+    - _(4)m(o\) (2)k(i/)_
+        [[mou4 gei2]],
+        not much, either of time or things;
+    - _(2)k(i/) ko(3)_
+        [[gei2 go3]]
+        a few, several;
+    - _(2)sho (1)ch(a/)ng (4)m(o\) (2)k(i/)_
+        [[so2 zaang1 mou4 gei2]],
+        very little different, almost the same.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (2){𣏌=⿰木巳}; here normalised to 杞]]
     ==
     - A willow-shaped tree, called _(2)kau (2)k(i/)_ [[gau2 gei2]];
