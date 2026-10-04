@@ -135,3 +135,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+H
+W
+  ====
+  - [[Page~147 (5)鏹]]
+    ==
+    - The cord which runs through a string of cash;
+    - a string of a thousand cash;
+    - to string cash;
+    - money, coin, cash;
+    - _p(a/)k(9) (5)k(')(e/)ung_
+        [[baak6 koeng5]],
+        silver.
+    ==
+  ====
+$$
+##>
