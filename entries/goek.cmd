@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~145 屩(8)]]
+    ==
+    - Shoes or sandals made of twisted hempen cord.
+    ==
+    --
+    The next [[蹻]] is sometimes used for this.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~145 脚(8); here normalised to 腳]]
     ==
     - The foot;
