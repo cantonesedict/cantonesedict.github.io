@@ -518,6 +518,19 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~149 (2){𡵆=⿰山巳}; here normalised to 屺]]
+    ==
+    - A bleak bare mountain, such as a hermit chooses;
+    - a high hill.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - gei2-1 (vernacular in 自己)
