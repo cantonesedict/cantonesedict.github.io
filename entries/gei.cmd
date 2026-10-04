@@ -108,3 +108,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~147 (1)畿]]
+    ==
+    - The park belonging to H.~I.~M. in ancient times;
+    - it measured 1000~_l(i/)_ [[里]] on each side,
+      the court being in the centre;
+    - a border;
+    - inside of a door;
+    - a threshold;
+    - the Court;
+    - the lands of princes;
+    - _(4)wong (1)k(i/)_
+        [[wong4 gei1]],
+        the imperial demesnes;
+    - _(2)kau (1)k(i/)_
+        [[gau2 gei1]],
+        nine principalities under the court.
+    ==
+  ====
+$$
+##>
