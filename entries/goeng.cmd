@@ -109,6 +109,24 @@ $$
 $$
 W
   ====
+  - [[Page~146 (1)羗; here normalised to 羌]]
+    ==
+    - A tribe of aborigines in ancient Tangut, shepherd nomads,
+      belonging to the Scythian race;
+    - an initial particle, ah!
+    - strong, forcible;
+    - contrary, cross purposes;
+    - elegant;
+    - sometimes erroneously used for the last [[姜]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~146 (1)薑]]
     ==
     - Ginger;
