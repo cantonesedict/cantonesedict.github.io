@@ -26,6 +26,47 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~148 (1)基]]
+    ==
+    - The foundation of a wall, a dike on the river banks, or between fields;
+    - foundation, a rest, a basis;
+    - a beginning, a commencement, a starting-point,
+      that on which a family or nation depends;
+    - fundamental;
+    - a patrimony, possession;
+    - farming utensils;
+    - place inside of the second door of a house, where visitors wait;
+    - _(1)k(i/) t(i/)(6)_
+        [[gei1 dei6]]
+        basis, material, character, the quality of a thing,
+        that from which it is made;
+    - _(1)k(i/) (i/)p(9)_
+        [[gei1 jip6]]
+        honors or possessions inherited or transmitted;
+    - _(1)tang (1)k(i/)_
+        [[dang1 gei1]],
+        to mount the throne, to enter into possession;
+    - _(1)san (1)k(i/)_
+        [[san1 gei1]],
+        land gained from the river;
+    - _(1)ch(')ung (1)pang (1)k(i/)_
+        [[cung1 bang1 gei1]],
+        the dike is broken in;
+    - _(1)pang (1)k(i/) (4)wai_
+        [[bang1 gei1 wai4]],
+        to burst in the dike;
+    - _(1)hoi (1)k(i/)_
+        [[hoi1 gei1]],
+        to begin, to lay the foundation of [a state].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~147 (1)幾]]
     ==
     - The springs of motion, subtle, hidden, mysterious;
