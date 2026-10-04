@@ -43,3 +43,31 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~146 (1)疆]]
+    ==
+    - A boundary, limits, borders;
+    - to draw a limit, to bound;
+    - _(1)k(e/)ung k(a/)i(3)_
+        [[goeng1 gaai3]]
+        a limit;
+    - _(1)k(e/)ung wik(9)_
+        [[goeng1 wik6]]
+        the frontiers;
+    - _(4)m(o\) (1)k(e/)ung_
+        [[mou4 goeng1]],
+        boundless, illimitable;
+    - _(1)k(e/)ung (4)ts(')(a/)m_
+        [[goeng1 caam4]],
+        exuviæ of silkworms;
+    - _ch(')ut(7) (1)k(e/)ung_
+        [[ceot1 goeng1]],
+        to emigrate.
+    ==
+  ====
+$$
+##>
