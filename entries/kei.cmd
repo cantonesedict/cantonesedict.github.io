@@ -21,3 +21,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
+    ==
+    - Blue and gray color, variegated;
+    - shoe-strings;
+    - the highest degree, very, the utmost;
+    - _~~(1)k(i/)~~ ``(4)k(')(i/)`` (1)kan_
+        [[kei4 gan1]],
+        a grayish coiffure used by girls.
+    ==
+  ====
+$$
+##>
