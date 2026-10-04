@@ -163,6 +163,22 @@ $$
 $$
 W
   ====
+  - [[Page~146 (1)蜣]]
+    ==
+    - Coleopterous bugs found in ordure;
+    - _k(')(i/)t(8) (1)k(e/)ung_ [[kit3 goeng1]],
+        or
+      _(1)k(e/)ung (4)long_ [[goeng1 long4]],
+        the tumble-dung or Ateuchus.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~146 (1)䗵]]
     ==
     - The white exuviæ of the larvæ of silkworms,
