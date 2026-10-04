@@ -292,6 +292,23 @@ $$
 $$
 W
   ====
+  - [[Page~149 (1)萁]]
+    ==
+    - The stalks of pulse;
+    - tendrils of vines, pulse, &c.; <# TODO: correct to $萁kei4 #>
+    - _(1)k(i/) (2)ts(')(o\)_
+        [[gei1 cou2]],
+        a sort of aquatic grass woven into garments;
+    - an edible plant resembling fern.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1)蟣]]
     ==
     - A louse;
