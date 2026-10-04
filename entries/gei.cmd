@@ -212,3 +212,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~148 (1)譏]]
+    ==
+    - To slander, to speak against;
+    - to ridicule, to mock, to satirize,
+      to blame, to reprove, to remonstrate with;
+    - officious and contumelious speeches;
+    - to examine into, to test;
+    - machinations;
+    - _(1)k(i/) si(u/)(3)_
+        [[gei1 siu3]]
+        to laugh at;
+    - _(1)k(i/) ts(')i(u/)(3)_
+        [[gei1 ciu3]]
+        to reprehend;
+    - _(1)ch(a/)u (1)k(i/)_
+        [[zaau1 gei1]],
+        to scold over another's shoulders.
+    ==
+  ====
+$$
+##>
