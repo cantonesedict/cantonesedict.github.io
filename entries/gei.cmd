@@ -168,6 +168,21 @@ $$
 $$
 W
   ====
+  - [[Page~148 (1)肌]]
+    ==
+    - Flesh or firm muscle under the skin, and near the bones;
+    - _(1)k(i/) (1)f(u/) chong(3)_
+        [[gei1 fu1 zong3]]
+        solid flesh, robust.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1){𦠄=⿰⺼幾}]]
     ==
     - The cheeks, the flesh which covers the jaws.
