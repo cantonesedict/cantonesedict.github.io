@@ -107,3 +107,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~145 蹻(8)]]
+    ==
+    - Proud, valorous;
+    - _k(e/)uk(8) k(e/)uk(8)_
+        [[goek3 goek3]]
+        caperings of a child;
+        the immoderate antics of a successful fool;
+    - hempen sandals or shoes.
+    ==
+  ====
+$$
+##>
