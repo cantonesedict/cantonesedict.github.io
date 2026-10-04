@@ -46,6 +46,10 @@ $$
 
 <##
 $$
+V
+  ==
+  - kaai3 (alternative in {𢬿=⿰扌戒}嚟)
+  ==
 W
   ====
   - [[Page~122 (5){𢬿=⿰扌戒} _(5)^K(a/)i_ (gaai5); here corrected to _(5)K(')(a/)i_ (kaai5)]]
