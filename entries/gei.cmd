@@ -52,3 +52,59 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~147 (1)機]]
+    ==
+    - Used for the last [[幾]];
+    - changes, permutations;
+    - the origin, or spring of;
+    - subtle or moving influences in nature;
+    - the motive power in an operation or a machine;
+    - machinery, a trap, a catch, hidden contrivance;
+    - stratagems, secrets, schemes;
+    - a loom;
+    - _(1)t(')(i/)n (1)k(i/)_
+        [[tin1 gei1]],
+        the natural and fixed bent of a mind, fate, destiny;
+    - _(1)k(i/) (u/)i(6)_
+        [[gei1 wui6]]
+        opportunity, occasion;
+    - _(1)k(i/) (1)kw(a/)n_
+        [[gei1 gwaan1]],
+        intentions, designs;
+        the springs in machinery;
+    - _(1)k(i/) (4)fong_
+        [[gei1 fong4]],
+        a weaver's shop;
+    - _yat(7) k(a/)(3) (1)k(i/)_
+        [[jat1 gaa3 gei1]],
+        a loom;
+    - _shat(7) (1)k(i/)_
+        [[sat1 gei1]],
+        lost a battle;
+    - _(1)k(i/) mat(9)_
+        [[gei1 mat6]]
+        secret, undivulged, not frank;
+    - _k(i/)n(3) (1)k(i/) (4)(i/) tsok(8)_
+        [[gin3 gei1 ji4 zok3]]
+        do it at the right moment, mind your chance;
+    - _(1)k(i/) l(a/)m(6)_
+        [[gei1 laam6]]
+        a trap, a pitfall;
+    - _(4)shan (1)k(i/)_
+        [[san4 gei1]],
+        skilled in the fates;
+    - _(1)k(i/) (4)mau_
+        [[gei1 mau4]],
+        an artifice, a dodge;
+    - _(1)Kwan (1)k(i/) ch(')(u:)(3)_
+        [[gwan1 gei1 cyu3]]
+        the Imperial council chamber.
+    ==
+  ====
+$$
+##>
