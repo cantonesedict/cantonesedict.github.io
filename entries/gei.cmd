@@ -569,3 +569,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~149 (2){𣏌=⿰木巳}; here normalised to 杞]]
+    ==
+    - A willow-shaped tree, called _(2)kau (2)k(i/)_ [[gau2 gei2]];
+    - the fruit is used in medicine;
+    - name of a state.
+    ==
+  ====
+$$
+##>
