@@ -501,6 +501,22 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~718 (1)鐖]]
+    ==
+    - A barb on a hook, or an arrow;
+    - a fluke;
+    - _(4)l(i/)n (1)k(i/)_
+        [[lin4 gei1]],
+        a catch, a spring, as in machinery.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
 W
   ====
