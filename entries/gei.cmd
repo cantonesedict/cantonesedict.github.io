@@ -487,6 +487,20 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~718 (1)錤]]
+    ==
+    - An implement of husbandry like a hoe,
+      called _(1)tsz' (1)k(i/)_ [[zi1 gei1]],
+      and made of iron.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
 W
   ====
