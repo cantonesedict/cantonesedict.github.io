@@ -869,3 +869,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~150 技(6)]]
+    ==
+    - Skillful, ingenious at making or contriving;
+    - _k(i/)(6) ngai(6)_
+        [[gei6 ngai6]]
+        handy at making, the mechanic arts;
+    - _k(i/)(6) (5)yung_
+        [[gei6 jung5]],
+        practiced in military drill;
+    - _(2)hau k(i/)(6)_
+        [[hau2 gei6]]
+        to imitate sounds.
+    ==
+  ====
+$$
+##>
