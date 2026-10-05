@@ -1001,6 +1001,21 @@ $$
 $$
 W
   ====
+  - [[Page~718 芰(6)]]
+    ==
+    - A variety of the Trapa or water caltrops, with three or four points;
+    - _k(i/)(6) (4)ho_
+        [[gei6 ho4]],
+        caltrops and nelumbiums.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~718 {？=⿰𧾷⿱巳心}(6); here normalised to 跽]]
     ==
     - To kneel on all fours;
