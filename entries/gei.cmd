@@ -691,6 +691,51 @@ $$
 $$
 W
   ====
+  - [[Page~150 寄(3)]]
+    ==
+    - To lodge, to remain a while in a house;
+    - to confide in, to commit to, to hand over, to deliver in charge;
+    - to send by, to transmit;
+    - to interpret;
+    - the east;
+    - _k(i/)(3) (1)k(u:)_
+        [[gei3 geoi1]],
+        to visit;
+        a hanger on;
+        the hermit crab;
+    - _k(i/)(3) ~~(1)sun~~ ``sun(3)``_
+        [[gei3 seon3]],
+        to send a letter;
+    - _k(i/)(3) (4)loi_
+        [[gei3 loi4]],
+        to receive from;
+    - _k(i/)(3) (1)ch(')ong_
+        [[gei3 cong1]]
+        to give away an ulcer [to a tree---a branch of it dies];
+    - _k(i/)(3) (1)shang_
+        [[gei3 sang1]],
+        an epiphyte, a parasite;
+    - _k(i/)(3) m(a/)i(6)_
+        [[gei3 maai6]]
+        to send for sale;
+    - _k(i/)(3) (1)sheng_
+        [[gei3 seng1]],
+        to send a message;
+    - _k(i/)(3) lok(9) (O\)(3)_
+        [[gei3 lok6 ou3]]
+        send it down to Macao;
+    - _(2)ts(')eng k(i/)(3)_
+        [[ceng2 gei3]]
+        to give a thing in charge to forward.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 旣(3); here normalised to 既]]
     ==
     - A slight repast;
