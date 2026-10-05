@@ -42,6 +42,22 @@ $$
 $$
 W
   ====
+  - [[Page~151 (1)攲]]
+    ==
+    - Inclined, not straight or upright;
+    - to take up with nippers;
+    - _(1)k(')(i/) h(i/)(3)_
+        [[kei1 hei3]]
+        vessels easily upset, owing to their shape.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (1)碕]]
     ==
     - A stone bridge;
