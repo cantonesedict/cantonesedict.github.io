@@ -923,6 +923,23 @@ $$
 $$
 W
   ====
+  - [[Page~718 {？=⿰女⿱巳心}(6); here normalised to {𡜱=⿰女忌}]]
+    ==
+    - Angry with, enraged against;
+    - jealousy of a woman;
+    - jealous;
+    - _t(o\)(3) k(i/)(6)_
+        [[dou3 gei6]]
+        jealous of.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 {？=⿱巳心}(6); here normalised to 忌]]
     ==
     - To fear, to shun, to avoid;
