@@ -3999,16 +3999,17 @@ class Linter:
         )
 
         for term, collated_literary_renderings in collated_literary_renderings_from_term.items():
-            if len(collated_literary_renderings) < 2:
-                continue
-
             disambiguation_suffixes = set(
                 literary_rendering.disambiguation_suffix
                 for literary_rendering in collated_literary_renderings
             )
 
-            if len(disambiguation_suffixes) > 1 and '' in disambiguation_suffixes:
-                raise LintException(f'missing disambiguation suffix for some literary renderings for `{term}`')
+            if len(collated_literary_renderings) == 1:
+                if {''} != disambiguation_suffixes:
+                    print(f'Warning: redundant disambiguation suffix for literary rendering for `{term}`')
+            else:
+                if len(disambiguation_suffixes) > 1 and '' in disambiguation_suffixes:
+                    raise LintException(f'missing disambiguation suffix for some literary renderings for `{term}`')
 
     @staticmethod
     def lint_cantonese_entry_url_duplication(cantonese_entries: list['CantoneseEntry']):
