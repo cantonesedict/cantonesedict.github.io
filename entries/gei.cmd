@@ -996,3 +996,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~718 {？=⿰𧾷⿱巳心}(6); here normalised to 跽]]
+    ==
+    - To kneel on all fours;
+    - to feel dread;
+    - awe struck, discomposed;
+    - _(4)k(')ing k(i/)(6)_
+        [[king4 gei6]]
+        to kneel with folded hands, as before the emperor.
+    ==
+  ====
+$$
+##>
