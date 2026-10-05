@@ -777,6 +777,22 @@ $$
 $$
 W
   ====
+  - [[Page~150 覬(3)]]
+    ==
+    - To hope for, to desire good;
+    - fortunate;
+    - _k(i/)(3) (u:)(6)_
+        [[gei3 jyu6]]
+        ambitious, desirous, coveting, longing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 {？=⿰訁巳}(3); here normalised to 記]]
     ==
     - To remember, to recollect;
