@@ -58,6 +58,24 @@ $$
 $$
 W
   ====
+  - [[Page~151 (1)畸]]
+    ==
+    - Land left after marking out a square, odd parcels of land;
+    - _(1)k(')(i/) (4)ling_
+        [[kei1 ling4]],
+        odds and ends, overplus, surplus;
+    - _(1)K(')(i/) (4)ling (4)k(')i(u/)_
+        [[kei1 ling4 kiu4 畸零橋]],
+        a bridge in the New City at Canton.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (1)碕]]
     ==
     - A stone bridge;
