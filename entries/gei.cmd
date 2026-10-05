@@ -724,6 +724,11 @@ W
         [[gei3 nim6]]
         to call to mind.
     ==
+  - [[Page~150 計(3); here normalised to 記]]
+    ==
+    - A colloquial sound,
+      used in the phrase _(2)fo k(i/)(3)_ [[fo2 gei3]] a comrade.
+    ==
   ====
 $$
 ##>
