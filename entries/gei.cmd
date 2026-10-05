@@ -257,6 +257,24 @@ $$
 $$
 W
   ====
+  - [[Page~718 (1)犄 _(1)K(')(i/)_ (kei1); here normalised to _(1)K(i/)_ (gei1)]]
+    --
+    Interchanged with 猗 _(1)(i/)_ [[ji1]], fierce.
+    --
+    ==
+    - A kind of ox with diverging horns;
+    - _~~(1)k(')(i/)~~ ``(1)k(i/)`` kok(8)_
+        [[gei1 gok3]]
+        to help each other, as in a battle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1)璣]]
     ==
     - Pearls not perfectly round;
