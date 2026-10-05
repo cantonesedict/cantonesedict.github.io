@@ -78,6 +78,23 @@ $$
 $$
 W
   ====
+  - [[Page~151 (1)觭]]
+    ==
+    - One horn elevated, and the other turned down;
+    - single;
+    - to obtain;
+    - _(1)k(')(i/) (5)ngau_
+        [[kei1 ngau5]],
+        single and double, unequal and equal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
