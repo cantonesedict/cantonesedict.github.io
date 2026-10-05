@@ -26,6 +26,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~718 (1)乩]]
+    ==
+    - To divine, to seek counsel of genii;
+    - the willow twig a child uses to write charms;
+    - _(2)ts(')ing (1)k(i/)_
+        [[cing2 gei1]],
+        to ask of the gods;
+    - _(4)f(u/) (1)k(i/)_
+        [[fu4 gei1]],
+        to prepare a charm.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)几]]
     ==
     - A bench or stool to lean on;
