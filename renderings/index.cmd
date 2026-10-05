@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-10-04
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -498,7 +498,7 @@ window.onload = applyFilter;
       ==
   //
     , `bjom`
-    , [帆~(noun)](/entries/faan#rendering-帆-noun)
+    , [帆~(level)](/entries/faan#rendering-帆-level)
     ,
       ==
       - (_noun-like_) sail
@@ -528,7 +528,7 @@ window.onload = applyFilter;
       ==
   //
     , `bjomH`
-    , [帆~(verb)](/entries/faan#rendering-帆-verb)
+    , [帆~(departing)](/entries/faan#rendering-帆-departing)
     ,
       ==
       - (_verb-like_) [to] sail
@@ -600,14 +600,14 @@ window.onload = applyFilter;
       ==
   //
     , `bjonX`
-    , [飯~(verb)](/entries/faan#rendering-飯-verb)
+    , [飯~(rising)](/entries/faan#rendering-飯-rising)
     ,
       ==
       - (_verb-like_) [to] eat, [to] feed
       ==
   //
     , `bjonH`
-    , [飯~(noun)](/entries/faan#rendering-飯-noun)
+    , [飯~(departing)](/entries/faan#rendering-飯-departing)
     ,
       ==
       - (_noun-like_) cooked-rice, rice, meal
@@ -647,7 +647,7 @@ window.onload = applyFilter;
       ==
   //
     , `bjowng`
-    , [縫~(verb)](/entries/fung#rendering-縫-verb)
+    , [縫~(level)](/entries/fung#rendering-縫-level)
     ,
       ==
       - (_verb-like_) [to] sew, (_met._) [to] mend
@@ -682,7 +682,7 @@ window.onload = applyFilter;
       ==
   //
     , `bjowngH`
-    , [縫~(noun)](/entries/fung#rendering-縫-noun)
+    , [縫~(departing)](/entries/fung#rendering-縫-departing)
     ,
       ==
       - (_noun-like_) seam
@@ -1189,11 +1189,10 @@ window.onload = applyFilter;
       ==
   //
     , `draewH`
-    , [濯~(departing)](/entries/zok#rendering-濯-departing)
+    , [濯~(wash)](/entries/zok#rendering-濯-wash)
     ,
       ==
       - (_verb-like_) [to] wash
-      - (_adjective-like_) sheeny
       ==
   //
     , `draewk`
@@ -1212,10 +1211,17 @@ window.onload = applyFilter;
       ==
   //
     , `draewk`
-    , [濯~(entering)](/entries/zok#rendering-濯-entering)
+    , [濯~(wash)](/entries/zok#rendering-濯-wash)
     ,
       ==
       - (_verb-like_) [to] wash
+      ==
+  //
+    , `draewk`
+    , [濯~(sheeny)](/entries/zok#rendering-濯-sheeny)
+    ,
+      ==
+      - (_adjective-like_) sheeny
       ==
   //
     , `draewng`
@@ -1272,7 +1278,7 @@ window.onload = applyFilter;
       ==
   //
     , `dri`
-    , [治~(verb)](/entries/zi#rendering-治-verb)
+    , [治~(level)](/entries/zi#rendering-治-level)
     ,
       ==
       - (_verb-like_) [to] govern, [to] administer, [to] regulate
@@ -1310,7 +1316,7 @@ window.onload = applyFilter;
       ==
   //
     , `driH`
-    , [治~(adjective)](/entries/zi#rendering-治-adjective)
+    , [治~(departing)](/entries/zi#rendering-治-departing)
     ,
       ==
       - (_adjective-like_) governed, administered, regulated
@@ -1505,14 +1511,14 @@ window.onload = applyFilter;
       ==
   //
     , `drjangX`
-    , [杖~(noun)](/entries/zoeng#rendering-杖-noun)
+    , [杖~(rising)](/entries/zoeng#rendering-杖-rising)
     ,
       ==
       - (_noun-like_) staff, rod
       ==
   //
     , `drjangH`
-    , [杖~(verb)](/entries/zoeng#rendering-杖-verb)
+    , [杖~(departing)](/entries/zoeng#rendering-杖-departing)
     ,
       ==
       - (_verb-like_) [to] lean (upon)
@@ -2109,7 +2115,7 @@ window.onload = applyFilter;
       ==
   //
     , `dzang`
-    , [藏~(verb)](/entries/cong#rendering-藏-verb)
+    , [藏~(noun)](/entries/cong#rendering-藏-noun)
     ,
       ==
       - (_verb-like_) [to] store (away)
@@ -2123,7 +2129,7 @@ window.onload = applyFilter;
       ==
   //
     , `dzangH`
-    , [藏~(noun)](/entries/zong#rendering-藏-noun)
+    , [藏~(departing)](/entries/zong#rendering-藏-departing)
     ,
       ==
       - (_noun-like_) store
@@ -3527,7 +3533,7 @@ window.onload = applyFilter;
       ==
   //
     , `haeng`
-    , [行~(walk)](/entries/hang#rendering-行-walk)
+    , [行~(level)](/entries/hang#rendering-行-level)
     ,
       ==
       - (_verb-like_) [to] walk, [to] move, (_met._) ^journey
@@ -3559,7 +3565,7 @@ window.onload = applyFilter;
       ==
   //
     , `haengH`
-    , [行~(conduct)](/entries/hang#rendering-行-conduct)
+    , [行~(departing)](/entries/hang#rendering-行-departing)
     ,
       ==
       - (_noun-like_) conduct
@@ -5218,7 +5224,7 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwng`
-    , [風~(noun)](/entries/fung#rendering-風-noun)
+    , [風~(level)](/entries/fung#rendering-風-level)
     ,
       ==
       - (_noun-like_) wind
@@ -5236,7 +5242,7 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwngH`
-    , [風~(verb)](/entries/fung#rendering-風-verb)
+    , [風~(departing)](/entries/fung#rendering-風-departing)
     ,
       ==
       - (_verb-like_) [to] blow
@@ -6294,7 +6300,7 @@ window.onload = applyFilter;
       ==
   //
     , `trjuwH`
-    , [咮~(departing)](/entries/zau#rendering-咮-departing)
+    , [咮](/entries/zau#rendering-咮)
     ,
       ==
       - (_noun-like_) beak
@@ -6811,7 +6817,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshaw`
-    , [操~(verb)](/entries/cou#rendering-操-verb)
+    , [操~(level)](/entries/cou#rendering-操-level)
     ,
       ==
       - (_verb-like_) [to] hold, [to] handle
@@ -6834,7 +6840,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshawH`
-    , [操~(noun)](/entries/cou#rendering-操-noun)
+    , [操~(departing)](/entries/cou#rendering-操-departing)
     ,
       ==
       - (_noun-like_) integrity, moral-character
@@ -6857,7 +6863,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshej`
-    , [妻~(noun)](/entries/cai#rendering-妻-noun)
+    , [妻~(level)](/entries/cai#rendering-妻-level)
     ,
       ==
       - (_noun-like_) wife
@@ -6894,7 +6900,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshejH`
-    , [妻~(verb)](/entries/cai#rendering-妻-verb)
+    , [妻~(departing)](/entries/cai#rendering-妻-departing)
     ,
       ==
       - (_verb-like_) [to] wive
@@ -6982,7 +6988,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshin`
-    , [親~(close)](/entries/can#rendering-親-close)
+    , [親~(level)](/entries/can#rendering-親-level)
     ,
       ==
       - (_noun-like_) close [one], parent
@@ -6991,7 +6997,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshinH`
-    , [親~(in-law)](/entries/can#rendering-親-in-law)
+    , [親~(departing)](/entries/can#rendering-親-departing)
     ,
       ==
       - (_adjective-like_) in-law
@@ -7870,7 +7876,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsjang`
-    , [將~(unaspirated)](/entries/zoeng#rendering-將-unaspirated)
+    , [將~(level)](/entries/zoeng#rendering-將-level)
     ,
       ==
       - (_verb-like_) [to] bring (forth), [to] take
@@ -8420,7 +8426,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsojH`
-    , [載~(unvoiced)](/entries/zoi#rendering-載-unvoiced)
+    , [載~(departing)](/entries/zoi#rendering-載-departing)
     ,
       ==
       - (_verb-like_) [to] carry, [to] load, (_met._) [to] fill, [to] fulfil
@@ -10061,7 +10067,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsyhwijH`
-    , [出~(transitive)](/entries/ceot#rendering-出-transitive)
+    , [出~(departing)](/entries/ceot#rendering-出-departing)
     ,
       ==
       - (_verb-like_) [to] bring out, [to] send forth
@@ -10084,7 +10090,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsyhwit`
-    , [出~(intransitive)](/entries/ceot#rendering-出-intransitive)
+    , [出~(entering)](/entries/ceot#rendering-出-entering)
     ,
       ==
       - (_verb-like_) [to] go out
@@ -10501,7 +10507,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsyowngX`
-    , [種~(noun)](/entries/zung#rendering-種-noun)
+    , [種~(rising)](/entries/zung#rendering-種-rising)
     ,
       ==
       - (_noun-like_) seed
@@ -10525,7 +10531,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsyowngH`
-    , [種~(verb)](/entries/zung#rendering-種-verb)
+    , [種~(departing)](/entries/zung#rendering-種-departing)
     ,
       ==
       - (_verb-like_) [to] seed
@@ -10813,7 +10819,7 @@ window.onload = applyFilter;
       ==
   //
     , `tuwH`
-    , [咮~(departing)](/entries/zau#rendering-咮-departing)
+    , [咮](/entries/zau#rendering-咮)
     ,
       ==
       - (_noun-like_) beak

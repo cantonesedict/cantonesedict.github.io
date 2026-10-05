@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -678,7 +678,7 @@ L
     ==
     - (_verb-like_) [to] load
     ==
-  * 【載-unvoiced】 (tsojH)
+  * 【載-departing】 (tsojH)
     ==
     - (_verb-like_) [to] carry, [to] load, (_met._) [to] fill, [to] fulfil
     - (_verb-like_) [to] record

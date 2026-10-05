@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-10-01
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -749,7 +749,7 @@ P
   ++
 L
   ====
-  * 【行-walk】 (haeng)
+  * 【行-level】 (haeng)
     ==
     - (_verb-like_) [to] walk, [to] move, (_met._) ^journey
     - (_verb-like_) [to] perform, [to] enact
@@ -1214,7 +1214,7 @@ W
   ====
 L
   ====
-  * 【行-conduct】 (haengH)
+  * 【行-departing】 (haengH)
     ==
     - (_noun-like_) conduct
     ==

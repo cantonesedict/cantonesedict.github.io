@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2026-09-08
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -167,12 +167,12 @@ P
   ++
 L
   ====
-  * 【出-transitive】 (tsyhwijH)
+  * 【出-departing】 (tsyhwijH)
     ==
     - (_verb-like_) [to] bring out, [to] send forth
     - (_verb-like_) [to] supply
     ==
-  * 【出-intransitive】 (tsyhwit)
+  * 【出-entering】 (tsyhwit)
     ==
     - (_verb-like_) [to] go out
     ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1463,7 +1463,7 @@ P
   ++
 L
   ====
-  * 【種-noun】 (tsyowngX)
+  * 【種-rising】 (tsyowngX)
     ==
     - (_noun-like_) seed
     - (_noun-like_) kind
@@ -2053,7 +2053,7 @@ W
   ====
 L
   ====
-  * 【種-verb】 (tsyowngH)
+  * 【種-departing】 (tsyowngH)
     ==
     - (_verb-like_) [to] seed
     ==

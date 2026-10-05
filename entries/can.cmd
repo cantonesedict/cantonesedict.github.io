@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -294,7 +294,7 @@ C
   ==
 L
   ====
-  * 【親-close】 (tshin)
+  * 【親-level】 (tshin)
     ==
     - (_noun-like_) close [one], parent
     - (_verb-like_) [to] be close, [to] touch, (_met._) [to] love
@@ -939,7 +939,7 @@ P
   """"
 L
   ====
-  * 【親-in-law】 (tshinH)
+  * 【親-departing】 (tshinH)
     ==
     - (_adjective-like_) in-law
     ==

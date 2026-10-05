@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -856,7 +856,7 @@ P
   ++
 L
   ====
-  * 【風-noun】 (pjuwng)
+  * 【風-level】 (pjuwng)
     ==
     - (_noun-like_) wind
     - (_noun-like_) style, manner
@@ -1117,7 +1117,7 @@ P
   ++
 L
   ====
-  * 【風-verb】 (pjuwngH)
+  * 【風-departing】 (pjuwngH)
     ==
     - (_verb-like_) [to] blow
     - (_verb-like_) [to] criticise tactfully
@@ -1241,11 +1241,11 @@ P
   ++
 L
   ====
-  * 【縫-verb】 (bjowng)
+  * 【縫-level】 (bjowng)
     ==
     - (_verb-like_) [to] sew, (_met._) [to] mend
     ==
-  * 【縫-noun】 (bjowngH)
+  * 【縫-departing】 (bjowngH)
     ==
     - (_noun-like_) seam
     ==

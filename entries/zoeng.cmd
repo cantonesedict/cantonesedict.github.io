@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -190,7 +190,7 @@ P
   ++
 L
   ====
-  * 【將-unaspirated】 (tsjang)
+  * 【將-level】 (tsjang)
     ==
     - (_verb-like_) [to] bring (forth), [to] take
     - (_verb-like_) [to] escort
@@ -1997,11 +1997,11 @@ C
   ==
 L
   ====
-  * 【杖-noun】 (drjangX)
+  * 【杖-rising】 (drjangX)
     ==
     - (_noun-like_) staff, rod
     ==
-  * 【杖-verb】 (drjangH)
+  * 【杖-departing】 (drjangH)
     ==
     - (_verb-like_) [to] lean (upon)
     - (_verb-like_) [to] hold

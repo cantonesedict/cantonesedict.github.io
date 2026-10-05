@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-08-16
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -439,14 +439,13 @@ P
   ++
 L
   ====
-  * 【濯-departing】 (draewH)
+  * 【濯-wash】 (draewk, draewH)
     ==
     - (_verb-like_) [to] wash
+    ==
+  * 【濯-sheeny】 (draewk)
+    ==
     - (_adjective-like_) sheeny
-    ==
-  * 【濯-entering】 (draewk)
-    ==
-    - (_verb-like_) [to] wash
     ==
   ====
 $$

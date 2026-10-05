@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1222,7 +1222,7 @@ P
   ++
 L
   ====
-  * 【藏-noun】 (dzangH)
+  * 【藏-departing】 (dzangH)
     ==
     - (_noun-like_) store
     - (_noun-like_) (_met._) viscera

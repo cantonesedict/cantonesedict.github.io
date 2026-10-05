@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1207,7 +1207,7 @@ C
   ==
 L
   ====
-  * 【藏-verb】 (dzang)
+  * 【藏-noun】 (dzang)
     ==
     - (_verb-like_) [to] store (away)
     ==

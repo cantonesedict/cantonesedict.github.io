@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-10-04
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1394,11 +1394,11 @@ W
   ====
 L
   ====
-  * 【帆-noun】 (bjom)
+  * 【帆-level】 (bjom)
     ==
     - (_noun-like_) sail
     ==
-  * 【帆-verb】 (bjomH)
+  * 【帆-departing】 (bjomH)
     ==
     - (_verb-like_) [to] sail
     ==
@@ -2361,11 +2361,11 @@ P
   ++
 L
   ====
-  * 【飯-verb】 (bjonX)
+  * 【飯-rising】 (bjonX)
     ==
     - (_verb-like_) [to] eat, [to] feed
     ==
-  * 【飯-noun】 (bjonH)
+  * 【飯-departing】 (bjonH)
     ==
     - (_noun-like_) cooked-rice, rice, meal
     ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -5666,11 +5666,11 @@ C
   ====
 L
   ====
-  * 【治-verb】 (dri)
+  * 【治-level】 (dri)
     ==
     - (_verb-like_) [to] govern, [to] administer, [to] regulate
     ==
-  * 【治-adjective】 (driH)
+  * 【治-departing】 (driH)
     ==
     - (_adjective-like_) governed, administered, regulated
     ==

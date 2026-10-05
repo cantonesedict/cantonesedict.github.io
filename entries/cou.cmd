@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -105,7 +105,7 @@ C
   ==
 L
   ====
-  * 【操-verb】 (tshaw)
+  * 【操-level】 (tshaw)
     ==
     - (_verb-like_) [to] hold, [to] handle
     ==
@@ -624,7 +624,7 @@ P
   ++
 L
   ====
-  * 【操-noun】 (tshawH)
+  * 【操-departing】 (tshawH)
     ==
     - (_noun-like_) integrity, moral-character
     ==
