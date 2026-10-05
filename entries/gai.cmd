@@ -157,6 +157,19 @@ $$
 $$
 W
   ====
+  - [[Page~150 罽(3) _K(i/)(3)_ (gei3); here normalised to _Kai(3)_ (gai3)]]
+    ==
+    - A seine for taking fish;
+    - a kind of rug or carpet made of dog's or horse-hair.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~120 薊(3)]]
     ==
     - A thistle, species of Cnicus;
