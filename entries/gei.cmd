@@ -901,6 +901,19 @@ $$
 $$
 W
   ====
+  - [[Page~150 惎(6)]]
+    ==
+    - Poisonous, injurious, venemous;
+    - to instruct, to institute or establish.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 技(6)]]
     ==
     - Skillful, ingenious at making or contriving;
