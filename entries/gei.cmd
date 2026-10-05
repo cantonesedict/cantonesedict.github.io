@@ -686,3 +686,44 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~150 {？=⿰訁巳}(3); here normalised to 記]]
+    ==
+    - To remember, to recollect;
+    - to record, to register, to make a note of;
+    - a written record, a history, memorial, account of;
+    - a style or name;
+    - a mark, a sign, a signal, something to be remembered;
+    - used after the abbreviated names of hongs [[行]] or shops;
+    - _~~(2)n(i/)~~ ``(5)n(i/)`` k(i/)(3) tak(7) (1)mo?_
+        [[nei5 gei3 dak1 mo1]]
+        don't you remember?
+    - _(4)'m ~~(5)ho~~ ``(2)h(o\)`` k(i/)(3) sing(3)_
+        [[m4 hou2 gei3 sing3]]
+        a bad memory;
+    - _(5)n(i/) k(i/)(3) ts(')o(3)_
+        [[nei5 gei3 co3]]
+        you remember wrongly;
+    - _k(i/)(3) h(o\)(6)_
+        [[gei3 hou6]]
+        mark;
+    - _(1)tang k(i/)(3) p(o\)(6)_
+        [[dang1 gei3 bou6-2]]
+        a memorandum book;
+    - _(2)t(a/) yan(3) k(i/)(3)_
+        [[daa2 jan3 gei3]]
+        to stamp;
+    - _(5)n(i/) k(i/)(3) ch(u:)(6)_
+        [[nei5 gei3 zyu6]]
+        you must remember it;
+    - _k(i/)(3) n(i/)m(6)_
+        [[gei3 nim6]]
+        to call to mind.
+    ==
+  ====
+$$
+##>
