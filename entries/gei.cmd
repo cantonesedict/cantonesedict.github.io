@@ -834,3 +834,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~150 妓(6)]]
+    ==
+    - A courtesan, a singing girl;
+    - one who is sent out to earn a living by singing and vice.
+    ==
+  ====
+$$
+##>
