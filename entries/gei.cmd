@@ -874,6 +874,33 @@ $$
 $$
 W
   ====
+  - [[Page~150 {？=⿱巳心}(6); here normalised to 忌]]
+    ==
+    - To fear, to shun, to avoid;
+    - to hold in awe or be cautious of;
+    - distasteful, to dislike trouble;
+    - to suspect, to hate what is bad,
+      to have a superstitious dread or horror of;
+    - _(1)ch(i/) p(i/)(6) k(i/)(6)_
+        [[zi1 bei6 gei6]]
+        to know and avoid the dislikes of others;
+    - _k(i/)(6) yat(9)_ [[gei6 jat6]]
+        or
+      _k(i/)(6) (4)shan_ [[gei6 san4]],
+        the dreaded day or hour of the death of a friend,
+        in which one feels sad;
+    - _p(a/)i(3) k(i/)(6)_
+        [[baai3 gei6]]
+        to keep the anniversary of a death.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 技(6)]]
     ==
     - Skillful, ingenious at making or contriving;
