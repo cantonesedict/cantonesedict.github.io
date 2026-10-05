@@ -763,6 +763,20 @@ $$
 $$
 W
   ====
+  - [[Page~150 洎(3)]]
+    ==
+    - The broth or soup of boiled meats or sacrifices;
+    - fertile, rich;
+    - to reach to.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 {？=⿰訁巳}(3); here normalised to 記]]
     ==
     - To remember, to recollect;
