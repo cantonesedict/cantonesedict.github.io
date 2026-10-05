@@ -26,6 +26,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~151 (1)崎]]
+    ==
+    - A steep rough path among the mountains;
+    - dangerous defiles and precipices;
+    - _(1)k(')(i/) (1)k(')(u:)_
+        [[kei1 keoi1]],
+        a hazardous road across mountains.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
