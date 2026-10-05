@@ -839,6 +839,28 @@ $$
 $$
 W
   ====
+  - [[Page~150 伎(6)]]
+    ==
+    - Ability, cleverness, talent;
+    - _k(i/)(6) (5)l(e/)ung_
+        [[gei6 loeng5]],
+        artful, capable of devising;
+    - _k(i/)(6) (2)k(a/)u_
+        [[gei6 gaau2]],
+        ingenious at contriving, inventive, fraudful;
+    - read _(4)k(')(i/)_ [[kei4]], six toed.
+    ==
+    --
+    Interchanged with the next [[技]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 妓(6)]]
     ==
     - A courtesan, a singing girl;
