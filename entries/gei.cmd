@@ -691,6 +691,33 @@ $$
 $$
 W
   ====
+  - [[Page~150 旣(3); here normalised to 既]]
+    ==
+    - A slight repast;
+    - to exhaust;
+    - to lose;
+    - ended, finished;
+    - already, when;
+    - since;
+    - a sign of past time, and is placed before the verb;
+    - _k(i/)(3) k(i/)n(3)_
+        [[gei3 gin3]]
+        seen it;
+    - _k(i/)(3) (4)(i/)n_
+        [[gei3 jin4]],
+        since;
+    - _k(i/)(3) hai(6) (2)k(o\)m_
+        [[gei3 hai6 gam2]],
+        it being so.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~150 {？=⿰訁巳}(3); here normalised to 記]]
     ==
     - To remember, to recollect;
