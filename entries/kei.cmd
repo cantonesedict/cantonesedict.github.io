@@ -144,6 +144,35 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)奇]]
+    ==
+    - Extraordinary, rare, surprising, out of the common way;
+    - monstrous, miraculous, unnatural;
+    - unexpected, strange, new, wonderful;
+    - _(4)k(')(i/) kw(a/)i(3)_
+        [[kei4 gwaai3]]
+        strange;
+    - _ch(')ut(7) (4)k(')(i/)_
+        [[ceot1 kei4]],
+        surprising;
+    - _(4)k(')(i/) (4)ts(')oi_
+        [[kei4 coi4]],
+        remarkably clever;
+    - _(4)k(')(i/) tak(9)_
+        [[kei4 dak6]]
+        unique, best of a sort;
+    - _(4)k(')(i/) (4)w(a/)ng_
+        [[kei4 waang4]],
+        perverse, stupid.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)期]]
     ==
     - A set time, a fixed period, a day agreed on;
