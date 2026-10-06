@@ -178,6 +178,43 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)碁(4)棋]]
+    ==
+    - Chess of 32~men,
+      called _ts(e/)ung(6) (4)k(')(i/)_ [[zoeng6 kei4-2]]~~,
+      invented by W(u/) w(a/)ng [[武王]], B.~C.~1120~~;
+    - _(4)wai (4)k(')(i/)_
+        [[wai4 kei4-2]],
+        a game of 360~men, half black and half white,
+        invented by Y(a/)u [[堯]], B.C.~2300;
+    - a foundation;
+    - _(4)k(')(i/) (4)p(')(u/)n_
+        [[kei4 pun4-2]],
+        a chess-board;
+    - _(4)k(')(i/) (2)tsz'_
+        [[kei4 zi2]],
+        chessmen;
+    - _chuk(7) (4)k(')(i/)_
+        [[zuk1 kei4-2]],
+        to play chess;
+    - _(1)h(a/)u (4)k(')(i/)_
+        [[haau1 kei4-2]]
+        to take a man;
+    - _yat(7) kuk(9) (4)k(')(i/)_
+        [[jat1 guk6 kei4-2]]
+        a game of chess;
+    - _(4)k(')(i/) kuk(9)_
+        [[kei4 guk6]]
+        a board set out with a game for gambling.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
