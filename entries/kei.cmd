@@ -291,6 +291,18 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)䳢]]
+    ==
+    - A kind of small goose, perhaps a sheldrake.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)麒]]
     ==
     - A fabulous animal, the Chinese unicorn;
