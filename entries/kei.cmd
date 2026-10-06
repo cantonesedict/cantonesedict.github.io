@@ -173,6 +173,19 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)旂]]
+    ==
+    - A kind of pennon or marking flag, with bells or jingles attached to it;
+    - interchanged with the preceding [[旗]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~152 (4)旗]]
     ==
     - A flag, a standard, a banner;
