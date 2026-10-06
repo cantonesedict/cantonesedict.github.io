@@ -144,6 +144,40 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)期]]
+    ==
+    - A set time, a fixed period, a day agreed on;
+    - times, ~~seasous~~ ``seasons``;
+    - to meet;
+    - to expect, to wait for, to aim at;
+    - to engage to do;
+    - _(5)m(u/)n (4)k(')(i/)_
+        [[mun5 kei4]],
+        the time is up;
+    - _yat(9) (4)k(')(i/)_
+        [[jat6 kei4]],
+        the set day;
+    - _sh(e/)ung(6) (4)k(')(i/)_
+        [[soeng6 kei4]],
+        in advance of the date;
+    - _(u:)t(9) (4)k(')(i/) mong(6)_
+        [[jyut6 kei4 mong6]]
+        full moon;
+    - _(4)m(o\) ~~tang(6)~~ ``ting(6)`` (4)k(')(i/)_
+        [[mou4 ding6 kei4]],
+        uncertain, no fixed time;
+    - _(4)(u:) (4)k(')(i/)_
+        [[jyu4 kei4]],
+        at the time.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
