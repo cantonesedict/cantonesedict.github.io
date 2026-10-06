@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -450,6 +450,9 @@ R
   ⽰ + 5
 U
   U+7956
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   ==
   - (F2.13 祖 _(2)Ts(u/)_) 祖宗
@@ -996,6 +999,9 @@ R
   ⽰ + 5
 U
   U+795A
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 A
   ==
   - $胙6

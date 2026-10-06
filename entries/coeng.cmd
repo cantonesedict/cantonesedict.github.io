@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-10-04
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1791,6 +1791,9 @@ R
   ⽰ + 6
 U
   U+7965
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 A
   ==
   - $羊4

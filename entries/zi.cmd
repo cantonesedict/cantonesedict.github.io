@@ -903,6 +903,9 @@ R
   ⽰ + 5
 U
   U+7957
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 V
   ==
   - zi2 (per Fan Wan)
@@ -3057,6 +3060,9 @@ R
   ⽰ + 4
 U
   U+7947
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -3083,6 +3089,9 @@ R
   ⽰ + 4
 U
   U+7949
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 V
   ==
   - ci2 (per 《廣韻》敕里切)
@@ -3120,6 +3129,9 @@ R
   ⽰ + 5
 U
   U+7957
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.39 祗) 敬也但也又音其
@@ -5853,6 +5865,9 @@ R
   ⽰ + 3
 U
   U+7940
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 A
   ==
   - 禩

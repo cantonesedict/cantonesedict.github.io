@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -360,6 +360,9 @@ R
   ⽰ + 4
 U
   U+794A
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.96 祊) 廟門内也

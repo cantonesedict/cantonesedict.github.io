@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -175,6 +175,9 @@ R
   ⽰ + 7
 U
   U+7972
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   ==
   - (F2.36 ::[祲]::) 精氣感祥也

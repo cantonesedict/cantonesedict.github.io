@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1947,6 +1947,9 @@ R
   ⽰ + 5
 U
   U+795D
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   [[Not present]]
 W

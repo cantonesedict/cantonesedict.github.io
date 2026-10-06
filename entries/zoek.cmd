@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -622,6 +622,9 @@ R
   ⽰ + 10
 U
   U+799A
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.94 禚) 齊地
