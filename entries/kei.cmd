@@ -173,6 +173,38 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)旗]]
+    ==
+    - A flag, a standard, a banner;
+    - with devices or markings on it;
+    - _(4)k(')(i/) h(a/)(6)_
+        [[kei4 haa6]]
+        Bannermen;
+        either Manchus or naturalized Chinese;
+    - _(4)k(')(i/) (4)man_
+        [[kei4 man4]],
+        persons connected with the Bannermen, not getting pay;
+    - _p(a/)t(8) (4)k(')(i/)_
+        [[baat3 kei4]],
+        the eight Banners, under which they are marshaled;
+    - _(4)wong (4)k(')(i/)_
+        [[wong4 kei4]],
+        Danish flag;
+    - _(4)k(')(i/) (1)kon_
+        [[kei4 gon1]],
+        a flag staff;
+    - _(4)k(')(i/) h(o\)(6)_
+        [[kei4 hou6]]
+        a signal flag.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)期]]
     ==
     - A set time, a fixed period, a day agreed on;
