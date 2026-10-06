@@ -258,3 +258,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~151 (4)蜞]]
+    ==
+    - A leach, called _(4)ngau (4)k(')(i/)_ [[ngau4 kei4]]
+      or _(4)k(')(i/) ~~(5)n(a/)~~ ``(2)n(a/)``_ [[kei4 naa2]];
+    - a species of small land crab,
+      called _(4)p(')(a/)ng (4)k(')(i/)_ [[paang4 kei4]].
+    ==
+  ====
+$$
+##>
