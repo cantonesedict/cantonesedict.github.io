@@ -144,6 +144,28 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)圻]]
+    ==
+    - A border, limit, confines;
+    - imperial domains;
+    - _(4)m(o\) (4)k(')(i/)_
+        [[mou4 kei4]],
+        boundless;
+    - _(4)k(')(i/) (2)f(u/)_
+        [[kei4 fu2]],
+        a colonel of the household troops.
+    ==
+    --
+    Interchanged with _(1)k(i/)_ [[gei1]] 畿.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)奇]]
     ==
     - Extraordinary, rare, surprising, out of the common way;
