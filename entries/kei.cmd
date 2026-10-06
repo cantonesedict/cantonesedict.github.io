@@ -215,6 +215,21 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)淇]]
+    ==
+    - A tributary of the Yellow river in Hon(a/)n [[河南]];
+    - _(4)K(')(i/) (o\)(3)_
+        [[kei4 ou3]],
+        an island near Kumsing moon [[金星門]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
