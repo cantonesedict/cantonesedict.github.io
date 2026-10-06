@@ -286,3 +286,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~151 (4)麒]]
+    ==
+    - A fabulous animal, the Chinese unicorn;
+    - the male is called _(4)k(')(i/)_ [[kei4]],
+      the female _(4)lun_ [[leon4]].
+    ==
+  ====
+$$
+##>
