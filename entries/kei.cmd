@@ -340,6 +340,32 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)祇]]
+    ==
+    - Repose;
+    - to console, to quiet;
+    - to reverence, to venerate, to hold in respect;
+    - to invoke;
+    - much;
+    - the god who animates the earth;
+    - _t(i/)(6) (4)k(')(i/)_
+        [[dei6 kei4]],
+        the divinity of the earth, he who produces things on it,
+        like Hecate or Cybele;
+        _met._ Earth or Terra;
+    - interchanged with the last [[圻]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~152 (4)祈]]
     ==
     - To pray, to invoke, to supplicate the gods for happiness;
