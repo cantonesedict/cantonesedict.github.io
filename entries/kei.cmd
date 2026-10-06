@@ -318,6 +318,28 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)祈]]
+    ==
+    - To pray, to invoke, to supplicate the gods for happiness;
+    - to beg, to intreat, to request, in the language of courtesy;
+    - _(4)k(')(i/) ~~(2)t(o\)~~ ``(2)t(')(o\)``_
+        [[kei4 tou2]],
+        to pray, to beseech the gods;
+    - _(4)k(')(i/) (5)(u:)_
+        [[kei4 jyu5]],
+        to pray for rain;
+    - _(1)ts(')(i/)n (4)k(')(i/)_
+        [[cin1 kei4]],
+        earnestly request.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)祺]]
     ==
     - Fortunate, lucky, felicitous;
