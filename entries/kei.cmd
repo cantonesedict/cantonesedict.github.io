@@ -364,6 +364,29 @@ $$
 
 <##
 $$
+  ⽰ + 3
+  ⾢ + 4
+H
+  May appear with phonetic component as 示 (+5) or 礻 (+4 assumed here),
+  depending on the font.
+W
+  ====
+  - [[Page~152 (4)祁]]
+    ==
+    - Full, abundant, much;
+    - exceeding, very;
+    - large, great;
+    - _(4)k(')(i/) (4)k(')(i/)_
+        [[kei4 kei4]],
+        numerous;
+    - gently, remiss.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~152 (4)祈]]
