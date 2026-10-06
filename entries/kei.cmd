@@ -230,6 +230,22 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)祺]]
+    ==
+    - Fortunate, lucky, felicitous;
+    - composed, tranquil;
+    - _(1)shing (4)k(')(i/)_
+        [[sing1 kei4]]
+        may you be promoted to a higher post.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
