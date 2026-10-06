@@ -334,6 +334,28 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)騎]]
+    ==
+    - To ride horseback;
+    - to sit crosswise or astride;
+    - to mount a horse;
+    - cavalry, horse;
+    - _(4)k(')(i/) (5)m(a/)_
+        [[kei4 maa5]],
+        (usually pronounced _(4)k(')(e/) (5)m(a/)_ [[ke4 maa5]])
+        to ride horseback;
+    - _(1)f(i/) (4)k(')(i/)_
+        [[fei1 kei4]],
+        light horse, used in the T(')(a/)ng [[唐]] dynasty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)䳢]]
     ==
     - A kind of small goose, perhaps a sheldrake.
