@@ -259,6 +259,20 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)琦]]
+    ==
+    - A valuable stone;
+    - precious;
+    - a curiosity, a plaything, such as are got for presents or rarities.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)祺]]
     ==
     - Fortunate, lucky, felicitous;
