@@ -421,6 +421,22 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)蘄]]
+    ==
+    - To ask for, to seek;
+    - bit of a bridle;
+    - a labiate plant, used in ulcers, &c.,
+      called _(4)k(')(i/) ng(a/)i(6)_ [[kei4 ngaai6]]_;_
+    - a district in H(u/)peh [[湖北]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)蜞]]
     ==
     - A leach, called _(4)ngau (4)k(')(i/)_ [[ngau4 kei4]]
