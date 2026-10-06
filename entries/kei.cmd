@@ -273,3 +273,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~151 (4)騏]]
+    ==
+    - A dappled horse, marked like a chessboard;
+    - a fine looking horse.
+    ==
+  ====
+$$
+##>
