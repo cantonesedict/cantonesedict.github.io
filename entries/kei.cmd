@@ -113,6 +113,37 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)其]]
+    ==
+    - A relative or personal pronoun,
+      referring to the person, place, or thing spoken of;
+    - he, his, she, it, its, they;
+    - there;
+    - an indefinite pronoun,
+      wherever, whoever, the, that, the subject spoken of;
+    - _(4)k(')(i/) (4)(u:)_
+        [[kei4 jyu4]],
+        the rest;
+    - _(4)k(')(i/)_ [[kei4]]
+      follows a noun before a verb, to draw attention,
+      as _(1)t(')(i/)n (4)k(')(i/) wan(6) ~~(4)(u/)~~ ``(4)f(u/)``_
+          [[tin1 kei4 wan6 fu4]],
+          the heavens, do they revolve?
+    - _(4)k(')(i/) (4)(u:)_
+        [[kei4 jyu4]],
+        as if, supposing;
+    - _(4)k(')(i/) sz'(6)_
+        [[kei4 si6]]
+        that affair.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~149 (1)綦 _(1)K(i/)_ (gei1); here normalised to _(4)K(')(i/)_ (kei4)]]
     ==
     - Blue and gray color, variegated;
