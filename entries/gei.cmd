@@ -68,6 +68,21 @@ $$
 $$
 W
   ====
+  - [[Page~151 (4)剞 _(4)K(')(i/)_ (kei4); here normalised to _(1)K(i/)_ (gei1)]]
+    ==
+    - A crooked graver or burin;
+    - _~~(4)k(')(i/)~~ ``(1)k(i/)`` ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[gei1 kyut3]]
+        a gouge used in carving.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~148 (1)基]]
     ==
     - The foundation of a wall, a dike on the river banks, or between fields;
