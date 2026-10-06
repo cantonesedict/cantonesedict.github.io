@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2126,7 +2126,7 @@ W
     [[...]]
     --
     --
-    Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗.
+    Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗``.``
     --
   ====
 C
