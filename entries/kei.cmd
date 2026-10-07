@@ -365,6 +365,19 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)疧]]
+    ==
+    - Constipation, disease made by sluggishness of bowels;
+    - also read _~~(2)t(i/)~~ ``(2)tai``_ [[dai2]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~152 (4)祇]]
     ==
     - Repose;
