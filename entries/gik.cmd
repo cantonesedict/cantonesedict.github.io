@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+H
+  May appear with central component as 丂 (assumed here) or 了,
+  depending on the font.
+  This extends to all characters containing 亟 as a component.
+W
+  ====
+  - [[Page~154 亟(7)]]
+    ==
+    - Haste, speed, in a hurry;
+    - prompt, ready;
+    - irascible, hasty;
+    - to hasten;
+    - _kik(7) ts(')uk(7)_
+        [[gik1 cuk1]]
+        urgently.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~154 㦸(7); here normalised to 戟]]

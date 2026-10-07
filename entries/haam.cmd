@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-09-20
+* %date-modified --> 2026-10-08
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -192,8 +192,9 @@ R
 U
   U+51FD
 H
-  May appear with central component as 了 (assumed here) or 丂,
+  May appear with central component as 丂 or 了 (assumed here),
   depending on the font.
+  This extends to all characters containing 函 as a component.
 A
   ==
   - 凾
