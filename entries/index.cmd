@@ -274,7 +274,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $gau (work in progress)
 - $ge (work in progress)
 - $gei (work in progress)
-- $gek (work in progress)
+- $gek
 - $geng (work in progress)
 - $geoi (work in progress)
 - $gik (work in progress)
