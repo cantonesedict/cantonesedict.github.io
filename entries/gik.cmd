@@ -74,6 +74,24 @@ $$
 $$
 W
   ====
+  - [[Page~154 棘(7)]]
+    ==
+    - Species of Rhamnus or Zizyphus, used for hedges;
+    - thorny bushes generally, thickets, thorns, brambles;
+    - _met._ troublesome affairs;
+    - _(4)ts(')ung kik(7)_
+        [[cung4 gik1]]
+        a lockup;
+        also, thorny.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~154 殛(7)]]
     ==
     - To put to death, to punish capitally, to leave to perish.
