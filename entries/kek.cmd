@@ -44,3 +44,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~154 屐(9) _K(')ik(9)_ (kik6); _K(')ek(9)_ (kek6) implied by variational note]]
+    ==
+    - Wooden-soled clogs or pattens;
+    - _(4)hung (4)p(')(i/) k(')ek(9)_
+        [[hung4 pei4 kek6]]
+        red-top clogs;
+    - _muk(9) k(')ek(9)_
+        [[muk6 kek6]]
+        wooden overshoes;
+    - _t(')(o\)(3) k(')ek(9)_
+        [[tou3 kek6]]
+        an open heeled galoche.
+    ==
+  ====
+$$
+##>
