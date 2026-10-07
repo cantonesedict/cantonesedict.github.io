@@ -21,3 +21,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~154 劇(9) _K(')ik(9)_ (kik6); _K(')ek(9)_ (kek6) implied by variational note]]
+    ==
+    - Unhappy, sad, miserable;
+    - troublesome;
+    - to increase, to add to;
+    - very;
+    - a comedy or farce;
+    - to trifle, to play, to gambol, or sport in any way;
+    - _tsak(7) k(')ek(9)_
+        [[zak1 kek6]]
+        to skip and play, to enjoy or divert one's self;
+    - _h(i/)(3) k(')ek(9)_
+        [[hei3 kek6]]
+        plays on the stage.
+    ==
+  ====
+$$
+##>
