@@ -442,6 +442,30 @@ $$
 
 <##
 $$
+  ⽼ + 4
+  ⽼ + 6
+W
+  ====
+  - [[Page~152 (4)耆]]
+    ==
+    - A sexagenarian, an old man who should advise others;
+    - old, aged, a superior or elder;
+    - strong, violent;
+    - to adjust;
+    - a scar on a horse's back;
+    - _(1)k(')am (4)k(')(i/)_
+        [[kam1 kei4]],
+        the gentry and elders;
+    - _(4)k(')(i/) (5)l(o\)_
+        [[kei4 lou5]],
+        old people.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~152 (4)蘄]]
