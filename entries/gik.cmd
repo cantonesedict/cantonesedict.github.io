@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~154 㦸(7); here normalised to 戟]]
+    ==
+    - A lance with three points,
+      a kind of halberd with a crescent knife on the side;
+    - it is carried in processions for good luck;
+    - _k(i/)m(3) kik(7)_
+        [[gim3 gik1]]
+        swords and spears;
+    - _(4)ch(')(i/) kik(7)_
+        [[ci4 gik1]]
+        to grasp the spear, to take arms;
+    - _chap(7) kik(7) (4)long_
+        [[zap1 gik1 long4]],
+        imperial halberdiers in former days.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~154 擊(7)]]
     ==
     - To strike, to beat, to lap or knock on;
