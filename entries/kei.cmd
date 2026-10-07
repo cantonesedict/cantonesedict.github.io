@@ -157,6 +157,21 @@ $$
 $$
 W
   ====
+  - [[Page~153 墍(3); here normalised to 塈]]
+    ==
+    - To plaster and color a wall, to stop up holes or cracks in a wall;
+    - to take, to collect;
+    - to be quiet, to rest;
+    - a breathing-spell, a little.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~153 懻(3)]]
     ==
     - Violent, crafty, overbearing.
