@@ -113,6 +113,27 @@ $$
 $$
 W
   ====
+  - [[Page~153 (2){𨀣=⿰𧾷企}; here normalised to 企]]
+    --
+    A colloquial word; the character is doubtful.
+    --
+    ==
+    - In the house, at home, within doors;
+    - _uk(7) (2)k(')(i/)_
+        [[uk1 kei2]],
+        home, in the house;
+    - _(4)'m ~~hai(6)~~ ``(2)hai`` (2)k(')(i/)_
+        [[m4 hai2 kei2]],
+        he is not in.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)其]]
     ==
     - A relative or personal pronoun,
