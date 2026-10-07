@@ -475,6 +475,18 @@ $$
 $$
 W
   ====
+  - [[Page~152 ::(4)~~軧~~``軝``::]]
+    ==
+    - A nave or hub of an axle, which projects beyond the wheel.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)騏]]
     ==
     - A dappled horse, marked like a chessboard;
