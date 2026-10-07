@@ -169,6 +169,25 @@ $$
 $$
 W
   ====
+  - [[Page~153 驥(3)]]
+    ==
+    - A horse of noble breed, great speed, and good points;
+    - a perfect horse;
+    - a white carp is called _p(a/)k(9) k(')(i/)(3)_ [[baak6 kei3]]
+      in Sh(a/)ntung [[山東]];
+    - _f(u/)(6) k(')(i/)(3) (5)m(i/)_
+        [[fu6 kei3 mei5]],
+        to tag on a steed's tail,
+        _i.~e._ to look to one for promotion, to follow a man of power.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)其]]
     ==
     - A relative or personal pronoun,
