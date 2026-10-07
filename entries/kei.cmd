@@ -506,6 +506,20 @@ $$
 $$
 W
   ====
+  - [[Page~153 (4)芪]]
+    ==
+    - A medicinal plant, called _(4)wong (4)k(')(i/)_ [[wong4 kei4]],
+      used in asthma;
+    - a kind of lungwort.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~152 (4)蘄]]
     ==
     - To ask for, to seek;
