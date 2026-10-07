@@ -169,3 +169,67 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~154 極(9)]]
+    ==
+    - The ridge-pole of a roof;
+    - hence the utmost point, apex, place, verge, degree;
+    - very, exceedingly;
+    - sign of the superlative;
+    - the end, limit;
+    - to exhaust, to carry to the utmost,
+    - to reach to the end;
+    - to take;
+    - to let go a full drawn bow;
+    - weary, exhausted;
+    - _kik(9) (2)h(o\)_
+        [[gik6 hou2]],
+        the best;
+    - _kik(9) (5)(u:)n_
+        [[gik6 jyun5]],
+        the furthest;
+    - _kik(9) t(i/)(6)_
+        [[gik6 dei6-2]]
+        the verge;
+        _met._ done his best, can do no more, the last resort;
+    - _kik(9) mi(u/)(6)_
+        [[gik6 miu6]]
+        admirable, excellent, first-rate;
+    - _sz'(3) kik(9)_
+        [[si3 gik6]]
+        the four quarters;
+    - _luk(9) kik(9)_
+        [[luk6 gik6]]
+        zenith, nadir, and the four quarters;
+        also, six calamities which happen to man;
+    - _~~p(a/)t(9)~~ ``p(a/)t(8)`` kik(9)_
+        [[baat3 gik6]]
+        the four cardinal points and their halves;
+    - _pak(7) kik(9)_
+        [[bak1 gik6]]
+        the north pole, north star;
+    - _t(')(a/)i(3) kik(9)_
+        [[taai3 gik6]]
+        the primum mobile, or cause of things,
+        the ultimate immaterial principle of Chinese philosophers;
+    - _(4)wong kik(9)_
+        [[wong4 gik6]]
+        indisputably correct, a fixed principle,
+        such as are laid down by sages;
+    - _kik(9) (1)to_
+        [[gik6 do1]],
+        very plenty, in abundance;
+    - _kik(9) pat(7) tsok(8)_
+        [[gik6 bat1 zok3]]
+        unserviceable;
+    - _(5)n(i/) (2)cho (5)ngo (1)ch(i/) kik(9)_
+        [[nei5 zo2 ngo5 zi1 gik6]]
+        you hinder me very much.
+    ==
+  ====
+$$
+##>
