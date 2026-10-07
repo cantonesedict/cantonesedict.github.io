@@ -133,3 +133,15 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~154 襋(7)]]
+    ==
+    - A collar of a coat, the part which envelops the neck.
+    ==
+  ====
+$$
+##>
