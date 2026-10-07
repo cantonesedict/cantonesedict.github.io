@@ -487,6 +487,28 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)頎]]
+    ==
+    - Long, tall;
+    - an erect head;
+    - _(4)k(')(i/) (4)k(')(i/)_
+        [[kei4 kei4]],
+        elegant, graceful in stature.
+    ==
+    --
+    Read _(2)han_ [[han2]],
+    --
+    ==
+    - to beg.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)騏]]
     ==
     - A dappled horse, marked like a chessboard;
