@@ -51,6 +51,18 @@ $$
 $$
 W
   ====
+  - [[Page~154 殛(7)]]
+    ==
+    - To put to death, to punish capitally, to leave to perish.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~153 激(7)]]
     ==
     - To impede and set back water, as rocks or a dike do in a current;
