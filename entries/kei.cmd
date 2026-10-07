@@ -195,6 +195,31 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)岐]]
+    ==
+    - A hill with two peaks;
+    - a fork in a road;
+    - bicuspidate;
+    - a headland or cape;
+    - to branch off or diverge;
+    - _(5)l(e/)ung (4)k(')(i/) w(a/)(6)_
+        [[loeng5 kei4 waa6-2]]
+        double entendre;
+    - _(5)l(e/)ung (4)k(')(i/)_
+        [[loeng5 kei4]],
+        two courses of conduct;
+    - _(4)k(')(i/) l(o\)(6)_
+        [[kei4 lou6]]
+        two ways, two roads, devious, right and wrong.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~152 (4)旂]]
     ==
     - A kind of pennon or marking flag, with bells or jingles attached to it;
