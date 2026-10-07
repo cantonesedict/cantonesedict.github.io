@@ -698,3 +698,48 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~153 (5)企]]
+    ==
+    - To stand, to stand erect;
+    - _(5)k(')(i/) mong(6)_
+        [[kei5 mong6]]
+        to look at eagerly, to expect;
+    - _(5)k(')(i/) (1)k(o\)_
+        [[kei5 gou1]],
+        stand up higher;
+    - _(5)k(')(i/) nap``(7)`` t(i/)(6)_
+        [[kei5 nap1 dei6-2]]
+        to refuse to stir;
+    - _(5)k(')(i/) ~~(1)shang~~ ``(1)sh(a/)ng`` (5)t(')am_
+        [[kei5 saang1 tam5]],
+        to be very slow, _lit._ to make a hole under the feet;
+    - _(5)k(')(i/) lap(9)_
+        [[kei5 lap6]]
+        to stand still;
+    - _(5)k(')(i/) (4)'m (2)wan_
+        [[kei5 m4 wan2]],
+        not stable, joggling;
+    - _(4)hang (5)k(')(i/) pat(7) (1)t(u:)n_
+        [[hang4 kei5 bat1 dyun1]],
+        uncertain in his actions;
+    - _(5)k(')(i/) (2)h(i/) (1)shan_
+        [[kei5 hei2 san1]],
+        get up;
+    - _(5)k(')(i/) (4)ch(')(e/)ung shau(6) (1)(o\)m_
+        [[kei5 coeng4 sau6 am1]],
+        to seek employment, or service;
+    - _(5)k(')(i/) k(u/)i(6)_
+        [[kei5 gui6]]
+        tired from standing;
+    - _(5)k(')(i/) ~~(5)^t(o\)~~ ``(2)t(o\)`` k(e/)(3) (4)wong tai(3)_
+        [[kei5 dou2 ge3 wong4 dai3]]
+        a _de facto_ emperor, one who rules really.
+    ==
+  ====
+$$
+##>
