@@ -214,6 +214,21 @@ $$
 
 <##
 $$
+H
+W
+  ====
+  - [[Page~153 穊(3)]]
+    ==
+    - To plough deep for sowing;
+    - plants set out close, thick-set;
+    - rice growing close.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~153 驥(3)]]
