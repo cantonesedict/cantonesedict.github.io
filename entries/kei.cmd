@@ -134,6 +134,29 @@ $$
 $$
 W
   ====
+  - [[Page~153 冀(3)]]
+    ==
+    - To desire, to expect, to hope for, desirous, eager;
+    - _K(')(i/)(3) (1)chau_ [[kei3 zau1]],
+      one of the divisions of China in Y(u:) [[禹]]'s time,
+      now corresponding to Sh(a/)ns(i/) [[山西]]
+      and part of Chihl(i/) [[直隸]];
+      also a department in Chihl(i/) [[直隸]];
+    - _k(')(i/)(3) mong(6)_
+        [[kei3 mong6]]
+        to hope for;
+    - _k(')(i/)(3) hang(6)_
+        [[kei3 hang6]]
+        to wish one good luck.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)其]]
     ==
     - A relative or personal pronoun,
