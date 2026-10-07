@@ -568,6 +568,19 @@ $$
 $$
 W
   ====
+  - [[Page~152 (4)鬐]]
+    ==
+    - A horse's foretop and mane;
+    - the dorsal spines on a fish.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)䳢]]
     ==
     - A kind of small goose, perhaps a sheldrake.
