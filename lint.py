@@ -289,6 +289,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "kap": ['gap'],
     "kat": ['gat'],
     "kau": ['gau'],
+    "kek": ['gek'],
     "keng": ['geng'],
     "ki(u/)": ['giu'],
     "kik": ['gik'],
