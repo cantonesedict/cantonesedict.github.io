@@ -572,6 +572,29 @@ $$
 $$
 W
   ====
+  - [[Page~153 (4)跂]]
+    ==
+    - A foot with six toes;
+    - the crawling of insects, or progress of animals;
+    - _(4)k(')(i/) (4)hang_
+        [[kei4 hang4]],
+        to crawl.
+    ==
+    --
+    Read _(5)k(')(i/)_ [[kei5]], and used for the next [[企]];
+    --
+    ==
+    - to sit with the legs hanging down;
+    - to stand on tiptoe and look at.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~152 ::(4)~~軧~~``軝``::]]
     ==
     - A nave or hub of an axle, which projects beyond the wheel.
