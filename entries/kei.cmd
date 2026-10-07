@@ -169,6 +169,38 @@ $$
 $$
 W
   ====
+  - [[Page~153 曁(3); here normalised to 暨]]
+    ==
+    - The sun peeping out;
+    - and, also, further, moreover;
+    - together with;
+    - to give;
+    - the end, the extremity;
+    - exactly, just;
+    - _k(')(i/)(3) (1)kam_
+        [[kei3 gam1]],
+        just now;
+    - _(5)(i/) (1)king k(')(i/)(3) k(')ap(9)_
+        [[ji5 ging1 kei3 kap6]]
+        have just got to it, or seen it;
+    - _k(')(i/)(3) k(')(i/)(3)_
+        [[kei3 kei3]]
+        strenuously, daring;
+    - _k(')(i/)(3) hau(6)_
+        [[kei3 hau6]]
+        to send respects;
+    - _(4)(u:) pat(7) tsun(6) k(')(i/)(3)_
+        [[jyu4 bat1 zeon6 kei3]]
+        the rest need not be detailed;---phrases used at the end of letters.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~153 驥(3)]]
     ==
     - A horse of noble breed, great speed, and good points;
