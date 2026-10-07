@@ -157,6 +157,18 @@ $$
 $$
 W
   ====
+  - [[Page~153 懻(3)]]
+    ==
+    - Violent, crafty, overbearing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~151 (4)其]]
     ==
     - A relative or personal pronoun,
