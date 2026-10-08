@@ -890,6 +890,22 @@ INDEXING_LANG_ATTRIBUTE_PATTERN = re.compile(
     pattern=r'\{lang=\S+\}',
 )
 
+INDEXING_INS_OPENING_PATTERN = re.compile(
+    pattern=r'<ins>\s+',
+)
+INDEXING_INS_CLOSING_PATTERN = re.compile(
+    pattern=r'\s+</ins>',
+)
+INDEXING_INS_REPL = '``'
+
+INDEXING_DEL_OPENING_PATTERN = re.compile(
+    pattern=r'<del>\s+',
+)
+INDEXING_DEL_CLOSING_PATTERN = re.compile(
+    pattern=r'\s+</del>',
+)
+INDEXING_DEL_REPL = '~~'
+
 
 class Utilities:
     @staticmethod
@@ -3002,10 +3018,10 @@ class CharacterEntry:
         text = re.sub(pattern=WHITESPACE_RUN_PATTERN, repl=' ', string=text)
 
         # Convert explicit edits
-        text = re.sub(pattern=r'<ins>\s+', repl='``', string=text)
-        text = re.sub(pattern=r'\s+</ins>', repl='``', string=text)
-        text = re.sub(pattern=r'<del>\s+', repl='~~', string=text)
-        text = re.sub(pattern=r'\s+</del>', repl='~~', string=text)
+        text = re.sub(pattern=INDEXING_INS_OPENING_PATTERN, repl=INDEXING_INS_REPL, string=text)
+        text = re.sub(pattern=INDEXING_INS_CLOSING_PATTERN, repl=INDEXING_INS_REPL, string=text)
+        text = re.sub(pattern=INDEXING_DEL_OPENING_PATTERN, repl=INDEXING_DEL_REPL, string=text)
+        text = re.sub(pattern=INDEXING_DEL_CLOSING_PATTERN, repl=INDEXING_DEL_REPL, string=text)
 
         # Simplify edits that have become redundant
         text = re.sub(
