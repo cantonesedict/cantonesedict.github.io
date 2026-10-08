@@ -876,6 +876,21 @@ INDEXING_COLLECTED_RIMES_PATTERN = re.compile(
 )
 INDEXING_COLLECTED_RIMES_REPL = '《集韻》'
 
+INDEXING_BLOCK_FENCE_PATTERN = re.compile(
+    pattern='["=+-]{2,}$',
+    flags=re.MULTILINE,
+)
+INDEXING_NUMBERED_ITEM_PATTERN = re.compile(
+    pattern=r'[0-9]+\. ',
+)
+INDEXING_BACKSLASH_CONTINUATION_PATTERN = re.compile(
+    pattern=r'[ ]* \\ [ ]* \n [ ]*',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+INDEXING_LANG_ATTRIBUTE_PATTERN = re.compile(
+    pattern=r'\{lang=\S+\}',
+)
+
 
 class Utilities:
     @staticmethod
@@ -2959,12 +2974,12 @@ class CharacterEntry:
         # Remove non-textual CMD syntax
         text = text.replace('<`', '')
         text = text.replace('`>', '')
-        text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
+        text = re.sub(pattern=INDEXING_BLOCK_FENCE_PATTERN, repl='', string=text)
         text = text.replace('  - ', '')
         text = text.replace('  * ', '')
-        text = re.sub(pattern=r'[0-9]+\. ', repl='', string=text)
-        text = re.sub(pattern=r'[ ]* \\ [ ]* \n [ ]*', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
-        text = re.sub(pattern=r'\{lang=\S+\}', repl='', string=text)
+        text = re.sub(pattern=INDEXING_NUMBERED_ITEM_PATTERN, repl='', string=text)
+        text = re.sub(pattern=INDEXING_BACKSLASH_CONTINUATION_PATTERN, repl='', string=text)
+        text = re.sub(pattern=INDEXING_LANG_ATTRIBUTE_PATTERN, repl='', string=text)
         text = text.replace('^', '')
         text = text.replace('@', '')
         text = text.replace('::', '')
