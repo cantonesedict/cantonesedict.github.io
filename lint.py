@@ -890,6 +890,113 @@ LINTING_CJK_VARIANT_SELECTOR_CONTEXT_PATTERN = re.compile(
 )
 LINTING_CJK_VARIANT_SELECTOR_CONTEXT_CHARACTER_GROUP = 'character'
 
+LINTING_INSERTION_DELETION_MARKERS = ['[[', '``', '<ins', '~~', '<del']
+LINTING_INSERTION_DELETION_EXEMPT_PATTERN = re.compile(
+    pattern='|'.join([
+        r'< (?P<backticks> `+ ) (?s: .+? ) (?P=backticks) > ',  # literals
+        r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
+        r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
+        r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
+        r'^ [#]{3} [+]? [ ] \S+ [1-6] [ ][|][ ] .*? [ ] \[\[ [a-z]+[1-6] \]\] $',  # character entry headings
+        r'^ (?: WH | WV | WP | W ) \n (?: [ ].*\n )*',  # Williams entry items
+        r'''
+            ^ (?P<block_delimiter> [-+='"|]{2,} ) \{ \.williams (?: \s .*? )? \} \n
+            (?s: .*? ) \n
+            (?P=block_delimiter) $
+        ''',
+        r'<span [ ] class="williams"> .*? </span>',
+        re.escape('[[Not present]]'),  # contextual non-insertions
+    ]),
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_INSERTION_CONTEXT_PATTERN = re.compile(
+    pattern=r'.* (?: \[\[ | `` | <ins ) .*',
+    flags=re.VERBOSE,
+)
+LINTING_DELETION_CONTEXT_PATTERN = re.compile(
+    pattern=r'.* (?: ~~ | <del ) .*',
+    flags=re.VERBOSE,
+)
+
+LINTING_REDUPLICATED_EDIT_PATTERN = re.compile(
+    pattern=r'~~(?P<old_run>.*?)~~ [ ]+ ``(?P<new_run>.*?)`` [ ]+ ~~(?P=old_run)~~ [ ]+ ``(?P=new_run)``',
+    flags=re.VERBOSE,
+)
+LINTING_REDUPLICATED_EDIT_OLD_RUN_GROUP = 'old_run'
+LINTING_REDUPLICATED_EDIT_NEW_RUN_GROUP = 'new_run'
+
+LINTING_RADICAL_CONTEXT_PATTERN = re.compile(
+    pattern=r'\S* (?P<code_point> U[+] 2F[0-9A-F]{2} ) [ ]+ (?P<character> \S )',
+    flags=re.VERBOSE,
+)
+LINTING_RADICAL_CONTEXT_CODE_POINT_GROUP = 'code_point'
+LINTING_RADICAL_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_BAD_ENTERING_TONE_REGEX = r'[ptk] \([1-6]\)'
+LINTING_BAD_ENTERING_TONE_PATTERN = re.compile(
+    pattern=LINTING_BAD_ENTERING_TONE_REGEX,
+    flags=re.VERBOSE,
+)
+LINTING_BAD_ENTERING_TONE_RUN_PATTERN = re.compile(
+    pattern=fr'\S+ {LINTING_BAD_ENTERING_TONE_REGEX}',
+    flags=re.VERBOSE,
+)
+
+LINTING_BAD_WILLIAMS_LEFT_TONE_PATTERN = re.compile(
+    pattern=r'[^_] \([1245]\) [_ ]',
+    flags=re.VERBOSE,
+)
+LINTING_BAD_WILLIAMS_LEFT_TONE_RUN_PATTERN = re.compile(
+    pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
+    flags=re.VERBOSE,
+)
+LINTING_BAD_WILLIAMS_RIGHT_TONE_RUN_PATTERN = re.compile(
+    pattern=r'[_ ] \([36789]\) (?! _ ) \S*',
+    flags=re.VERBOSE,
+)
+
+# Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
+LINTING_WILLIAMS_INITIAL_ASPIRATE_PATTERN = re.compile(
+    pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_INITIAL_ASPIRATE_TWO_CHARACTERS_BEFORE_GROUP = 'two_characters_before'
+LINTING_WILLIAMS_INITIAL_ASPIRATE_FALSE_POSITIVE_PATTERN = re.compile(
+    pattern=r'.p | .t | .k | kw | ts | ch | `` | .\^',
+    flags=re.DOTALL | re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_TONE_45_ASPIRATE_RUN_PATTERN = re.compile(
+    pattern=r"\([45]\) (?: p | t(?!s) | k(?!w) | kw | ts | ch) (?! \('\) ) \S+",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_TONE_6_ASPIRATE_RUN_PATTERN = re.compile(
+    pattern=r"(?: p | t | k | kw | ts | ch) \('\) (?! \^ ) \S+ \(6\)",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_BAD_DIPHTHONGS = ['(i/)u', 'u(i/)']
+LINTING_WILLIAMS_BAD_DIPHTHONG_CONTEXT_PATTERN = re.compile(
+    pattern=r"\S* (?P<diphthong> \(i/\)u | u\(i/\) ) \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_BAD_DIPHTHONG_GROUP = 'diphthong'
+
+LINTING_WILLIAMS_BAD_NASAL_SYLLABLES = ["m'", "ng'"]
+LINTING_WILLIAMS_BAD_NASAL_APOSTROPHE_CONTEXT_PATTERN = re.compile(
+    pattern=r"\S* (?: m | ng ) ' \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_PATTERN = re.compile(
+    pattern=r"sz [^'`^]",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_RUN_PATTERN = re.compile(
+    pattern=r"\S* sz [^'`^] \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -1226,64 +1333,30 @@ class CmdSource:
 
     @staticmethod
     def lint_insertion_deletion_context(content: str):
-        insertion_deletion_markers = ['[[', '``', '<ins', '~~', '<del']
-
         # Fast elimination of negative cases (in `content`)
-        if not any(marker in content for marker in insertion_deletion_markers):
+        if not any(marker in content for marker in LINTING_INSERTION_DELETION_MARKERS):
             return
 
-        exempt_pattern = '|'.join([
-            r'< (?P<backticks> `+ ) (?s: .+? ) (?P=backticks) > ',  # literals
-            r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
-            r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
-            r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
-            r'^ [#]{3} [+]? [ ] \S+ [1-6] [ ][|][ ] .*? [ ] \[\[ [a-z]+[1-6] \]\] $',  # character entry headings
-            r'^ (?: WH | WV | WP | W ) \n (?: [ ].*\n )*',  # Williams entry items
-            r'''
-                ^ (?P<block_delimiter> [-+='"|]{2,} ) \{ \.williams (?: \s .*? )? \} \n
-                (?s: .*? ) \n
-                (?P=block_delimiter) $
-            ''',
-            r'<span [ ] class="williams"> .*? </span>',
-            re.escape('[[Not present]]'),  # contextual non-insertions
-        ])
-        non_exempt_content = re.sub(
-            pattern=exempt_pattern,
-            repl='',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )
+        non_exempt_content = LINTING_INSERTION_DELETION_EXEMPT_PATTERN.sub(repl='', string=content)
 
         # Fast elimination of negative cases (in `non_exempt_content`)
-        if not any(marker in non_exempt_content for marker in insertion_deletion_markers):
+        if not any(marker in non_exempt_content for marker in LINTING_INSERTION_DELETION_MARKERS):
             return
 
-        if insertion_context_match := re.search(
-            pattern=r'.* (?: \[\[ | `` | <ins ) .*',
-            string=non_exempt_content,
-            flags=re.VERBOSE,
-        ):
+        if insertion_context_match := LINTING_INSERTION_CONTEXT_PATTERN.search(string=non_exempt_content):
             insertion_context = insertion_context_match.group()
             raise LintException(f'non-contextual insertion in `{insertion_context}`')
 
-        if deletion_context_match := re.search(
-            pattern=r'.* (?: ~~ | <del ) .*',
-            string=non_exempt_content,
-            flags=re.VERBOSE,
-        ):
+        if deletion_context_match := LINTING_DELETION_CONTEXT_PATTERN.search(string=non_exempt_content):
             deletion_context = deletion_context_match.group()
             raise LintException(f'non-contextual deletion in `{deletion_context}`')
 
     @staticmethod
     def lint_reduplicated_edit(content: str):
-        if reduplicated_edit_match := re.search(
-            pattern=r'~~(?P<old_run>.*?)~~ [ ]+ ``(?P<new_run>.*?)`` [ ]+ ~~(?P=old_run)~~ [ ]+ ``(?P=new_run)``',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if reduplicated_edit_match := LINTING_REDUPLICATED_EDIT_PATTERN.search(string=content):
             reduplicated_edit = reduplicated_edit_match.group()
-            old_run = reduplicated_edit_match.group('old_run')
-            new_run = reduplicated_edit_match.group('new_run')
+            old_run = reduplicated_edit_match.group(LINTING_REDUPLICATED_EDIT_OLD_RUN_GROUP)
+            new_run = reduplicated_edit_match.group(LINTING_REDUPLICATED_EDIT_NEW_RUN_GROUP)
             consolidated_edit = f'~~{old_run} {old_run}~~ ``{new_run} {new_run}``'
             raise LintException(
                 f'reduplicated edit `{reduplicated_edit}` '
@@ -1296,86 +1369,55 @@ class CmdSource:
         if 'U+2F' not in content:
             return
 
-        if radical_context_match := re.search(
-            pattern=r'\S* (?P<code_point> U[+] 2F[0-9A-F]{2} ) [ ]+ (?P<character> \S )',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if radical_context_match := LINTING_RADICAL_CONTEXT_PATTERN.search(string=content):
             radical_context = radical_context_match.group()
-            code_point = radical_context_match.group('code_point')
-            character = radical_context_match.group('character')
+            code_point = radical_context_match.group(LINTING_RADICAL_CONTEXT_CODE_POINT_GROUP)
+            character = radical_context_match.group(LINTING_RADICAL_CONTEXT_CHARACTER_GROUP)
 
             if code_point != Utilities.unicode_code_point(character):
                 raise LintException(f'radical `{code_point}` is not `{character}` in `{radical_context}`')
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
-        bad_entering_tone_pattern = r'[ptk] \([1-6]\)'
-
         # Fast elimination of negative cases
-        if not re.search(pattern=bad_entering_tone_pattern, string=content, flags=re.VERBOSE):
+        if not LINTING_BAD_ENTERING_TONE_PATTERN.search(string=content):
             return
 
-        if run_match := re.search(
-            pattern=fr'\S+ {bad_entering_tone_pattern}',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if run_match := LINTING_BAD_ENTERING_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'bad Williams entering tone in `{run}`')
 
     @staticmethod
     def lint_williams_left_tone_position(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern=r'[^_] \([1245]\) [_ ]', string=content, flags=re.VERBOSE):
+        if not LINTING_BAD_WILLIAMS_LEFT_TONE_PATTERN.search(string=content):
             return
 
-        if run_match := re.search(
-            pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if run_match := LINTING_BAD_WILLIAMS_LEFT_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'bad Williams left-tone position in `{run}`')
 
     @staticmethod
     def lint_williams_right_tone_position(content: str):
-        if run_match := re.search(
-            pattern=r'[_ ] \([36789]\) (?! _ ) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if run_match := LINTING_BAD_WILLIAMS_RIGHT_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'bad Williams right-tone position in `{run}`')
 
     @staticmethod
     def lint_williams_initial_aspirate(content: str):
-        # Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
-        if run_match := re.search(
-            pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
-            string=CmdIdioms.strip_scripts(content),
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_INITIAL_ASPIRATE_PATTERN.search(string=CmdIdioms.strip_scripts(content)):
             run = run_match.group()
-            two_characters_before = run_match.group('two_characters_before')
+            two_characters_before = run_match.group(LINTING_WILLIAMS_INITIAL_ASPIRATE_TWO_CHARACTERS_BEFORE_GROUP)
 
             # Elimination of false positive cases
-            if re.fullmatch(
-                pattern=r'.p | .t | .k | kw | ts | ch | `` | .\^',
-                string=two_characters_before,
-                flags=re.DOTALL | re.IGNORECASE | re.VERBOSE,
-            ):
+            if LINTING_WILLIAMS_INITIAL_ASPIRATE_FALSE_POSITIVE_PATTERN.fullmatch(string=two_characters_before):
                 return
 
             raise LintException(f'bad Williams aspirate in `{run}` (suppress with caret before aspirate if legitimate)')
 
     @staticmethod
     def lint_williams_tone_45_aspirate(content: str):
-        if run_match := re.search(
-            pattern=r"\([45]\) (?: p | t(?!s) | k(?!w) | kw | ts | ch) (?! \('\) ) \S+",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_TONE_45_ASPIRATE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(
                 f'unaspirated Williams tone 4 or 5 in `{run}` (suppress with caret before initial if legitimate)'
@@ -1383,11 +1425,7 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_tone_6_aspirate(content: str):
-        if run_match := re.search(
-            pattern=r"(?: p | t | k | kw | ts | ch) \('\) (?! \^ ) \S+ \(6\)",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_TONE_6_ASPIRATE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(
                 f'aspirated Williams tone 6 in `{run}` (suppress with caret after aspirate if legitimate)'
@@ -1396,29 +1434,21 @@ class CmdSource:
     @staticmethod
     def lint_williams_diphthong(content: str):
         # Fast elimination of negative cases
-        if not any(diphthong in content.lower() for diphthong in ['(i/)u', 'u(i/)']):
+        if not any(diphthong in content.lower() for diphthong in LINTING_WILLIAMS_BAD_DIPHTHONGS):
             return
 
-        if context_match := re.search(
-            pattern=r"\S* (?P<diphthong> \(i/\)u | u\(i/\) ) \S*",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if context_match := LINTING_WILLIAMS_BAD_DIPHTHONG_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
-            diphthong = context_match.group('diphthong')
+            diphthong = context_match.group(LINTING_WILLIAMS_BAD_DIPHTHONG_GROUP)
             raise LintException(f'bad Williams diphthong `{diphthong}` present in `{context}`')
 
     @staticmethod
     def lint_williams_nasal_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not any(bad_syllable in content.lower() for bad_syllable in ["m'", "ng'"]):
+        if not any(bad_syllable in content.lower() for bad_syllable in LINTING_WILLIAMS_BAD_NASAL_SYLLABLES):
             return
 
-        if context_match := re.search(
-            pattern=r"\S* (?: m | ng ) ' \S*",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if context_match := LINTING_WILLIAMS_BAD_NASAL_APOSTROPHE_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
             raise LintException(
                 f'wrong-side Williams nasal apostrophe in `{context}` '
@@ -1428,14 +1458,10 @@ class CmdSource:
     @staticmethod
     def lint_williams_apical_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern=r"sz [^'`^]", string=content.lower(), flags=re.IGNORECASE | re.VERBOSE):
+        if not LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_PATTERN.search(string=content.lower()):
             return
 
-        if run_match := re.search(
-            pattern=r"\S* sz [^'`^] \S*",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(
                 f'missing Williams apical apostrophe in `{run}` (suppress with caret after `sz` if legitimate)'
