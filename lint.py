@@ -809,8 +809,10 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
 }
 
 WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+ROUND_BRACKETS_PATTERN = re.compile(pattern='[()]')
 COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
 SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
+FULL_STOP_OR_CARET_PATTERN = re.compile(pattern='[.^]')
 
 INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
@@ -885,6 +887,11 @@ PAGE_ENTRY_SEE_ALSO_ITEM_PATTERN = re.compile(
 )
 PAGE_ENTRY_SEE_ALSO_CONTENT_GROUP = 'content'
 PAGE_ENTRY_SEE_ALSO_JYUTPING_GROUP = 'jyutping'
+
+TONE_NAVIGATOR_PATTERN = re.compile(
+    pattern='<## tones ##>.*?<## /tones ##>',
+    flags=re.DOTALL,
+)
 
 TONE_HEADING_PATTERN = re.compile(
     pattern=r'''
@@ -2236,11 +2243,7 @@ class ToneNavigator:
     content: Optional[str]
 
     def __init__(self, page_content: str):
-        if match := re.search(
-            pattern='<## tones ##>.*?<## /tones ##>',
-            string=page_content,
-            flags=re.DOTALL,
-        ):
+        if match := TONE_NAVIGATOR_PATTERN.search(string=page_content):
             content = match.group()
         else:
             content = None
@@ -2269,7 +2272,7 @@ class ToneHeading:
             raise LintException(f'non-sole Williams tones `{williams_tones}` found in tone heading `{content}`')
 
         williams_tone = williams_tones.pop()
-        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
+        williams_tone_number = ROUND_BRACKETS_PATTERN.sub(repl='', string=williams_tone)
         williams_tone_index = int(williams_tone_number) - 1
 
         if CANTONESE_TONES_CHINESE[williams_tone_index] != chinese:
@@ -2287,7 +2290,7 @@ class ToneHeading:
             raise LintException(f'Jyutping `{jyutping}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
-            re.sub(pattern='[.^]', repl='', string=williams)
+            FULL_STOP_OR_CARET_PATTERN.sub(repl='', string=williams)
             for williams in williams_run.split()
         ]
 
@@ -2372,7 +2375,7 @@ class CharacterEntry:
             )
 
         williams_tone = williams_tones.pop()
-        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
+        williams_tone_number = ROUND_BRACKETS_PATTERN.sub(repl='', string=williams_tone)
 
         jyutping_is_entering = jyutping[-2] in 'ptk'
         jyutping_proper_tone_number = (
