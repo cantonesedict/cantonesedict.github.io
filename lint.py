@@ -836,6 +836,60 @@ UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN = re.compile(
     pattern='[^1-9]',
 )
 
+LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
+
+LINTING_NON_STRAIGHT_QUOTES = '‘’“”'
+LINTING_NON_STRAIGHT_QUOTE_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S* (?P<quote>[{LINTING_NON_STRAIGHT_QUOTES}]) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_NON_STRAIGHT_QUOTE_GROUP = 'quote'
+
+LINTING_UNDOTTED_ABBREVIATIONS = ['lit', 'met']
+LINTING_UNDOTTED_ABBREVIATIONS_ALTERNATIVES = '|'.join(
+    re.escape(abbreviation)
+    for abbreviation in LINTING_UNDOTTED_ABBREVIATIONS
+)
+LINTING_UNDOTTED_ABBREVIATIONS_PATTERN = re.compile(
+    pattern=fr'\S* _ (?P<undotted_abbreviation> {LINTING_UNDOTTED_ABBREVIATIONS_ALTERNATIVES} ) _ \S*',
+    flags=re.VERBOSE,
+)
+LINTING_UNDOTTED_ABBREVIATION_GROUP = 'undotted_abbreviation'
+
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CLASS = r'[\uF900-\uFAFF\U0002F800-\U0002FA1F]'
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_PATTERN = re.compile(
+    pattern=LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CLASS,
+)
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S*? (?P<character> {LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CLASS} ) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_COMPOSITION_WHITELISTED_PRIMITIVES = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
+LINTING_COMPOSITION_EXEMPT_PATTERN = re.compile(
+    pattern='|'.join([
+        r'\{ \S = \S+? \}',
+        r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
+    ]),
+    flags=re.VERBOSE,
+)
+LINTING_COMPOSITION_CONTEXT_PATTERN = re.compile(
+    pattern=r'\S* (?P<character> [𠀀-𳑿] ) (?! [@^] ) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_COMPOSITION_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_CJK_VARIANT_SELECTOR_CLASS = r'[\uFE00-\uFE0F]'
+LINTING_CJK_VARIANT_SELECTOR_PATTERN = re.compile(
+    pattern=LINTING_CJK_VARIANT_SELECTOR_CLASS,
+)
+LINTING_CJK_VARIANT_SELECTOR_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S* (?P<character>.) {LINTING_CJK_VARIANT_SELECTOR_CLASS} \S*',
+    flags=re.VERBOSE,
+)
+LINTING_CJK_VARIANT_SELECTOR_CONTEXT_CHARACTER_GROUP = 'character'
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -1101,86 +1155,57 @@ class CmdSource:
         if '\t' not in content:
             return
 
-        if context_match := re.search(pattern=r'.*\t.*', string=content):
+        if context_match := LINTING_TAB_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
             raise LintException(f'tab character present in `{context}`')
 
     @staticmethod
     def lint_typography_quote(content: str):
-        quotes = '‘’“”'
-
         # Fast elimination of negative cases
-        if not any(quote in content for quote in quotes):
+        if not any(quote in content for quote in LINTING_NON_STRAIGHT_QUOTES):
             return
 
-        if context_match := re.search(
-            pattern=fr'\S* (?P<quote>[{quotes}]) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if context_match := LINTING_NON_STRAIGHT_QUOTE_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
-            quote = context_match.group('quote')
+            quote = context_match.group(LINTING_NON_STRAIGHT_QUOTE_GROUP)
             raise LintException(f'non-straight quote `{quote}` present in `{context}`')
 
     @staticmethod
     def lint_italicised_abbreviation_dot(content: str):
-        abbreviations = ['lit', 'met']
-
         # Fast elimination of negative cases
-        if not any(f'_{abbreviation}_' in content for abbreviation in abbreviations):
+        if not any(f'_{abbreviation}_' in content for abbreviation in LINTING_UNDOTTED_ABBREVIATIONS):
             return
 
-        abbreviations_pattern = '|'.join(re.escape(abbreviation) for abbreviation in abbreviations)
-
-        if context_match := re.search(
-            pattern=fr'\S* _ (?P<undotted_abbreviation> {abbreviations_pattern} ) _ \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if context_match := LINTING_UNDOTTED_ABBREVIATIONS_PATTERN.search(string=content):
             context = context_match.group()
-            undotted_abbreviation = context_match.group('undotted_abbreviation')
+            undotted_abbreviation = context_match.group(LINTING_UNDOTTED_ABBREVIATION_GROUP)
             raise LintException(f'italicised abbreviation `{undotted_abbreviation}` undotted in `{context}`')
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):
-        cjk_compatibility_ideograph_pattern = r'[\uF900-\uFAFF\U0002F800-\U0002FA1F]'
-
         # Fast elimination of negative cases
-        if not re.search(pattern=cjk_compatibility_ideograph_pattern, string=content):
+        if not LINTING_CJK_COMPATIBILITY_IDEOGRAPH_PATTERN.search(string=content):
             return
 
-        if context_match := re.search(
-            pattern=fr'\S*? (?P<character> {cjk_compatibility_ideograph_pattern} ) \S*',
+        if context_match := LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_PATTERN.search(
             string=CmdIdioms.strip_scripts(content),
-            flags=re.VERBOSE,
         ):
             context = context_match.group()
-            character = context_match.group('character')
+            character = context_match.group(LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_CHARACTER_GROUP)
             raise LintException(f'compatibility ideograph `{character}` present in `{context}`')
 
     @staticmethod
     def lint_cjk_non_bmp_composition(content: str):
-        whitelisted_primitives = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
-        exempt_pattern = '|'.join([
-            r'\{ \S = \S+? \}',
-            r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
-        ])
-        non_exempt_content = re.sub(
-            pattern=exempt_pattern,
+        non_exempt_content = LINTING_COMPOSITION_EXEMPT_PATTERN.sub(
             repl='',
             string=CmdIdioms.strip_scripts(content),
-            flags=re.VERBOSE,
         )
 
-        for context_match in re.finditer(
-            pattern=r'\S* (?P<character> [𠀀-𳑿] ) (?! [@^] ) \S*',
-            string=non_exempt_content,
-            flags=re.VERBOSE,
-        ):
+        for context_match in LINTING_COMPOSITION_CONTEXT_PATTERN.finditer(string=non_exempt_content):
             context = context_match.group()
-            character = context_match.group('character')
+            character = context_match.group(LINTING_COMPOSITION_CONTEXT_CHARACTER_GROUP)
 
-            if character in whitelisted_primitives:
+            if character in LINTING_COMPOSITION_WHITELISTED_PRIMITIVES:
                 continue
 
             raise LintException(
@@ -1190,19 +1215,13 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_variation_selector(content: str):
-        cjk_variation_selector_pattern = r'[\uFE00-\uFE0F]'
-
         # Fast elimination of negative cases
-        if not re.search(pattern=cjk_variation_selector_pattern, string=content):
+        if not LINTING_CJK_VARIANT_SELECTOR_PATTERN.search(string=content):
             return
 
-        if context_match := re.search(
-            pattern=fr'\S* (?P<character>.) {cjk_variation_selector_pattern} \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if context_match := LINTING_CJK_VARIANT_SELECTOR_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
-            character = context_match.group('character')
+            character = context_match.group(LINTING_CJK_VARIANT_SELECTOR_CONTEXT_CHARACTER_GROUP)
             raise LintException(f'variation selector present on `{character}` in `{context}`')
 
     @staticmethod
