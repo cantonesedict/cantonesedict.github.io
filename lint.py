@@ -1462,7 +1462,7 @@ class CmdSource:
             jyutping_count = len(jyutping_list)
             character_count = len(characters)
 
-            dual_romanisation_reduced = re.sub(pattern=WHITESPACE_RUN_PATTERN, repl=' ', string=dual_romanisation)
+            dual_romanisation_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=dual_romanisation)
 
             if character_count and jyutping_count != character_count and not character_caret:
                 raise LintException(
@@ -2163,7 +2163,7 @@ class ToneHeading:
                 f'vs Jyutping `{jyutping}` in tone heading `{content}`'
             )
 
-        williams_tones = set(re.findall(pattern=WILLIAMS_TONE_PATTERN, string=williams_run))
+        williams_tones = set(WILLIAMS_TONE_PATTERN.findall(string=williams_run))
 
         if len(williams_tones) != 1:
             raise LintException(f'non-sole Williams tones `{williams_tones}` found in tone heading `{content}`')
@@ -2264,7 +2264,7 @@ class CharacterEntry:
             )
 
         reduced_williams_run = re.sub(pattern='~~.+?~~', repl='', string=williams_run)
-        williams_tones = set(re.findall(pattern=WILLIAMS_TONE_PATTERN, string=reduced_williams_run))
+        williams_tones = set(WILLIAMS_TONE_PATTERN.findall(string=reduced_williams_run))
 
         if len(williams_tones) != 1:
             raise LintException(
@@ -2446,7 +2446,7 @@ class CharacterEntry:
             locator_run = match.group().strip()
             headword_run = match.group('headword_run')
 
-            if not re.search(pattern=WILLIAMS_TONE_PATTERN, string=headword_run):
+            if not WILLIAMS_TONE_PATTERN.search(string=headword_run):
                 raise LintException(f'missing Williams tone in locator `{locator_run}`')
 
     @staticmethod
@@ -2474,11 +2474,7 @@ class CharacterEntry:
             flags=re.VERBOSE,
         ):
             unwanted_comma_context = unwanted_comma_match.group()
-            unwanted_comma_context_reduced = re.sub(
-                pattern=WHITESPACE_RUN_PATTERN,
-                repl=' ',
-                string=unwanted_comma_context,
-            )
+            unwanted_comma_context_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=unwanted_comma_context)
             raise LintException(
                 f'comma after supplied Jyutping for Williams right-tone or nasal apostrophe '
                 f'in `{unwanted_comma_context_reduced}` '
@@ -2497,11 +2493,7 @@ class CharacterEntry:
             flags=re.VERBOSE,
         ):
             missing_comma_context = missing_comma_match.group()
-            missing_comma_context_reduced = re.sub(
-                pattern=WHITESPACE_RUN_PATTERN,
-                repl=' ',
-                string=missing_comma_context.strip(),
-            )
+            missing_comma_context_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=missing_comma_context.strip())
             raise LintException(
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
@@ -2519,8 +2511,7 @@ class CharacterEntry:
             flags=re.VERBOSE,
         ):
             unitalicised_semicolon_context = unitalicised_semicolon_match.group()
-            unitalicised_semicolon_context_reduced = re.sub(
-                pattern=WHITESPACE_RUN_PATTERN,
+            unitalicised_semicolon_context_reduced = WHITESPACE_RUN_PATTERN.sub(
                 repl=' ',
                 string=unitalicised_semicolon_context.strip(),
             )
@@ -2976,39 +2967,39 @@ class CharacterEntry:
 
         # Remove Williams typography
         text = text.replace("(')", "'")
-        text = re.sub(pattern=WILLIAMS_TONE_PATTERN, repl='', string=text)
-        text = re.sub(pattern=INDEXING_WILLIAMS_VOWEL_PATTERN, repl=INDEXING_WILLIAMS_VOWEL_REPL, string=text)
+        text = WILLIAMS_TONE_PATTERN.sub(repl='', string=text)
+        text = INDEXING_WILLIAMS_VOWEL_PATTERN.sub(repl=INDEXING_WILLIAMS_VOWEL_REPL, string=text)
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
-        text = re.sub(pattern=INDEXING_ELLIPSIS_ITEM_PATTERN, repl='', string=text)
-        text = re.sub(pattern=INDEXING_REDIRECTION_PATTERN, repl='', string=text)
+        text = INDEXING_ELLIPSIS_ITEM_PATTERN.sub(repl='', string=text)
+        text = INDEXING_REDIRECTION_PATTERN.sub(repl='', string=text)
 
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
-        text = re.sub(pattern=INDEXING_PAGE_LINK_PATTERN, repl=INDEXING_PAGE_LINK_REPL, string=text)
-        text = re.sub(pattern=INDEXING_ENTRY_LINK_PATTERN, repl=INDEXING_ENTRY_LINK_REPL, string=text)
-        text = re.sub(pattern=INDEXING_LOCAL_ENTRY_LINK_PATTERN, repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
-        text = re.sub(pattern=INDEXING_SPECIFIED_LINK_PATTERN, repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
-        text = re.sub(pattern=INDEXING_REFERENCED_LINK_PATTERN, repl=INDEXING_REFERENCED_LINK_REPL, string=text)
-        text = re.sub(pattern=INDEXING_BAXTER_NOTATION_PATTERN, repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
+        text = INDEXING_PAGE_LINK_PATTERN.sub(repl=INDEXING_PAGE_LINK_REPL, string=text)
+        text = INDEXING_ENTRY_LINK_PATTERN.sub(repl=INDEXING_ENTRY_LINK_REPL, string=text)
+        text = INDEXING_LOCAL_ENTRY_LINK_PATTERN.sub(repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
+        text = INDEXING_SPECIFIED_LINK_PATTERN.sub(repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
+        text = INDEXING_REFERENCED_LINK_PATTERN.sub(repl=INDEXING_REFERENCED_LINK_REPL, string=text)
+        text = INDEXING_BAXTER_NOTATION_PATTERN.sub(repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
-        text = re.sub(pattern=INDEXING_NON_BREAKING_SPACE_PATTERN, repl=' ', string=text)
-        text = re.sub(pattern=INDEXING_BROAD_RIMES_PATTERN, repl=INDEXING_BROAD_RIMES_REPL, string=text)
-        text = re.sub(pattern=INDEXING_COLLECTED_RIMES_PATTERN, repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
+        text = INDEXING_NON_BREAKING_SPACE_PATTERN.sub(repl=' ', string=text)
+        text = INDEXING_BROAD_RIMES_PATTERN.sub(repl=INDEXING_BROAD_RIMES_REPL, string=text)
+        text = INDEXING_COLLECTED_RIMES_PATTERN.sub(repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
         text = text.replace('K. ', '《康熙字典》')
 
         # Remove non-textual CMD syntax
         text = text.replace('<`', '')
         text = text.replace('`>', '')
-        text = re.sub(pattern=INDEXING_BLOCK_FENCE_PATTERN, repl='', string=text)
+        text = INDEXING_BLOCK_FENCE_PATTERN.sub(repl='', string=text)
         text = text.replace('  - ', '')
         text = text.replace('  * ', '')
-        text = re.sub(pattern=INDEXING_NUMBERED_ITEM_PATTERN, repl='', string=text)
-        text = re.sub(pattern=INDEXING_BACKSLASH_CONTINUATION_PATTERN, repl='', string=text)
-        text = re.sub(pattern=INDEXING_LANG_ATTRIBUTE_PATTERN, repl='', string=text)
+        text = INDEXING_NUMBERED_ITEM_PATTERN.sub(repl='', string=text)
+        text = INDEXING_BACKSLASH_CONTINUATION_PATTERN.sub(repl='', string=text)
+        text = INDEXING_LANG_ATTRIBUTE_PATTERN.sub(repl='', string=text)
         text = text.replace('^', '')
         text = text.replace('@', '')
         text = text.replace('::', '')
@@ -3021,16 +3012,16 @@ class CharacterEntry:
 
         # Normalise whitespace
         text = text.strip()
-        text = re.sub(pattern=WHITESPACE_RUN_PATTERN, repl=' ', string=text)
+        text = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=text)
 
         # Convert explicit edits
-        text = re.sub(pattern=INDEXING_INS_OPENING_PATTERN, repl=INDEXING_INS_REPL, string=text)
-        text = re.sub(pattern=INDEXING_INS_CLOSING_PATTERN, repl=INDEXING_INS_REPL, string=text)
-        text = re.sub(pattern=INDEXING_DEL_OPENING_PATTERN, repl=INDEXING_DEL_REPL, string=text)
-        text = re.sub(pattern=INDEXING_DEL_CLOSING_PATTERN, repl=INDEXING_DEL_REPL, string=text)
+        text = INDEXING_INS_OPENING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
+        text = INDEXING_INS_CLOSING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
+        text = INDEXING_DEL_OPENING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
+        text = INDEXING_DEL_CLOSING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
 
         # Simplify edits that have become redundant
-        text = re.sub(pattern=INDEXING_REDUNDANT_EDIT_PATTERN, repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
+        text = INDEXING_REDUNDANT_EDIT_PATTERN.sub(repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
 
         # Remove insertion markers
         text = text.replace('``', '')
