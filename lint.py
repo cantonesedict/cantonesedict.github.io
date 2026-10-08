@@ -809,8 +809,24 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
 }
 
 WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
+SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
+
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+
+ENTRY_ITEM_PATTERN = re.compile(
+    pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+ENTRY_ITEM_KEY_GROUP = 'key'
+ENTRY_ITEM_CONTENT_GROUP = 'content'
+
+COMPOSITIONS_PATTERN = re.compile(
+    pattern=r'\{ (?P<character> \S ) = \S+? \}',
+    flags=re.VERBOSE,
+)
+COMPOSITIONS_REPL = r'\g<character>'
 
 UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN = re.compile(
     pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
@@ -972,40 +988,26 @@ class Utilities:
 class CmdIdioms:
     @staticmethod
     def strip_comments(content: str) -> str:
-        return re.sub(
-            pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >',
-            repl='',
-            string=content,
-            flags=re.DOTALL | re.VERBOSE,
-        )
+        return COMMENTS_PATTERN.sub(repl='', string=content)
 
     @staticmethod
     def strip_scripts(content: str) -> str:
-        return re.sub(pattern='<script>.*?</script>', repl='', string=content, flags=re.DOTALL)
+        return SCRIPTS_PATTERN.sub(repl='', string=content)
 
     @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
             key: content
-            for match in re.finditer(
-                pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
-                string=content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+            for match in ENTRY_ITEM_PATTERN.finditer(string=content)
             if (
-                key := match.group('key'),
-                content := match.group('content'),
+                key := match.group(ENTRY_ITEM_KEY_GROUP),
+                content := match.group(ENTRY_ITEM_CONTENT_GROUP),
             )
         }
 
     @staticmethod
     def strip_compositions(content: str) -> str:
-        return re.sub(
-            pattern=r'\{ (?P<character> \S ) = \S+? \}',
-            repl=r'\g<character>',
-            string=content,
-            flags=re.VERBOSE
-        )
+        return COMPOSITIONS_PATTERN.sub(repl=COMPOSITIONS_REPL, string=content)
 
     @staticmethod
     def lint_see_also_link_order(see_also_links: Optional[list['SeeAlsoLink']]):
