@@ -809,7 +809,16 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
 }
 
 WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+DELETION_PATTERN = re.compile(pattern='~~.+?~~')
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+
+UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN = re.compile(
+    pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
+    flags=re.VERBOSE,
+)
+UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN = re.compile(
+    pattern='[^1-9]',
+)
 
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
@@ -1485,7 +1494,7 @@ class CmdSource:
 
                 continue
 
-            edited_williams_list = re.sub(pattern='~~.+?~~', repl='', string=williams).split()
+            edited_williams_list = DELETION_PATTERN.sub(repl='', string=williams).split()
             edited_williams_count = len(edited_williams_list)
 
             if edited_williams_count == jyutping_count:
@@ -1566,16 +1575,10 @@ class RomanisationComparison:
 
     @staticmethod
     def compute_expected_jyutping_list(williams: str) -> list[str]:
-        williams_toneless = re.sub(
-            pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
+        williams_toneless = UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN.sub(repl='', string=williams.lower())
+        williams_tone_number = UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN.sub(
             repl='',
-            string=williams.lower(),
-            flags=re.VERBOSE,
-        )
-        williams_tone_number = re.sub(
-            pattern='[^1-9]',
-            repl='',
-            string=re.sub(pattern='~~.+?~~', repl='', string=williams),
+            string=DELETION_PATTERN.sub(repl='', string=williams),
         )
 
         expected_jyutping_toneless_list = TONELESS_JYUTPING_LIST_FROM_WILLIAMS.get(williams_toneless, [])
@@ -2263,7 +2266,7 @@ class CharacterEntry:
                 f'vs Jyutping `{jyutping}` in heading `{heading_content}`'
             )
 
-        reduced_williams_run = re.sub(pattern='~~.+?~~', repl='', string=williams_run)
+        reduced_williams_run = DELETION_PATTERN.sub(repl='', string=williams_run)
         williams_tones = set(WILLIAMS_TONE_PATTERN.findall(string=reduced_williams_run))
 
         if len(williams_tones) != 1:
