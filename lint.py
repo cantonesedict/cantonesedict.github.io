@@ -816,6 +816,11 @@ INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
 )
 INDEXING_WILLIAMS_VOWEL_REPL = r'\g<vowel>'
 
+INDEXING_ELLIPSIS_ITEM_PATTERN = re.compile(pattern=r'[- ] \[\[\.\.\.\]\][;.\n]')
+INDEXING_REDIRECTION_PATTERN = re.compile(
+    pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
+    flags=re.VERBOSE,
+)
 
 class Utilities:
     @staticmethod
@@ -2877,13 +2882,8 @@ class CharacterEntry:
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
-        text = re.sub(pattern=r'[- ] \[\[\.\.\.\]\][;.\n]', repl='', string=text)
-        text = re.sub(
-            pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
-            repl='',
-            string=text,
-            flags=re.VERBOSE,
-        )
+        text = re.sub(pattern=INDEXING_ELLIPSIS_ITEM_PATTERN, repl='', string=text)
+        text = re.sub(pattern=INDEXING_REDIRECTION_PATTERN, repl='', string=text)
 
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
