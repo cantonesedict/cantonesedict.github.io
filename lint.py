@@ -997,6 +997,45 @@ LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_RUN_PATTERN = re.compile(
     flags=re.IGNORECASE | re.VERBOSE,
 )
 
+LINTING_UNALIASED_JYUTPING_ENTERING_TONE_RUN_PATTERN = re.compile(
+    pattern=r'(?<! [</] ) \b [a-z]+ [789] \b',
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_MISSPELT_JYUTPING_YOD_RUN_PATTERN = re.compile(
+    pattern=r'\b y [a-z]* [1-6] \b',
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_DUAL_ROMANISATION_PATTERN = re.compile(
+    pattern=r'''
+        _ (?P<williams> \S [^_\n]*? \S ) _
+        \s+
+        (?: \[\[ | \( )
+            (?P<jyutping_caret> \^? )
+            (?P<jyutping> [a-z1-6 ]+ )
+            (?P<character_content> [^a-z1-6 \]\)]*? )
+            (?P<character_caret> \^? )
+        (?: \]\] | \) )
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_DUAL_ROMANISATION_JYUTPING_CARET_GROUP = 'jyutping_caret'
+LINTING_DUAL_ROMANISATION_WILLIAMS_GROUP = 'williams'
+LINTING_DUAL_ROMANISATION_JYUTPING_GROUP = 'jyutping'
+LINTING_DUAL_ROMANISATION_CHARACTER_CONTENT_GROUP = 'character_content'
+LINTING_DUAL_ROMANISATION_CHARACTER_CARET_GROUP = 'character_caret'
+
+LINTING_COMPONENT_BESIDE_CLASS = '[⿰⿲]'
+LINTING_COMPONENT_BESIDE_PATTERN = re.compile(
+    pattern=LINTING_COMPONENT_BESIDE_CLASS,
+)
+LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S* (?P<operator> {LINTING_COMPONENT_BESIDE_CLASS} ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_COMPONENT_BESIDE_OPERATOR_GROUP = 'operator'
+LINTING_COMPONENT_BESIDE_COMPONENT_GROUP = 'component'
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -1469,46 +1508,25 @@ class CmdSource:
 
     @staticmethod
     def lint_jyutping_entering_tone(content: str):
-        if run_match := re.search(
-            pattern=r'(?<! [</] ) \b [a-z]+ [789] \b',
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_UNALIASED_JYUTPING_ENTERING_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'unaliased entering tone number in Jyutping `{run}`')
 
     @staticmethod
     def lint_jyutping_yod(content: str):
-        if run_match := re.search(
-            pattern=r'\b y [a-z]* [1-6] \b',
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_MISSPELT_JYUTPING_YOD_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'misspelt yod in Jyutping `{run}`')
 
     @staticmethod
     def lint_romanisation_character_consistency(content: str):
-        for dual_romanisation_match in re.finditer(
-            pattern=r'''
-                _ (?P<williams> \S [^_\n]*? \S ) _
-                \s+
-                (?: \[\[ | \( )
-                    (?P<jyutping_caret> \^? )
-                    (?P<jyutping> [a-z1-6 ]+ )
-                    (?P<character_content> [^a-z1-6 \]\)]*? )
-                    (?P<character_caret> \^? )
-                (?: \]\] | \) )
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        for dual_romanisation_match in LINTING_DUAL_ROMANISATION_PATTERN.finditer(string=content):
             dual_romanisation = dual_romanisation_match.group()
-            jyutping_caret = dual_romanisation_match.group('jyutping_caret')
-            williams = dual_romanisation_match.group('williams').replace('-', ' ')
-            jyutping = dual_romanisation_match.group('jyutping').strip()
-            character_content = dual_romanisation_match.group('character_content')
-            character_caret = dual_romanisation_match.group('character_caret')
+            jyutping_caret = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_JYUTPING_CARET_GROUP)
+            williams = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_WILLIAMS_GROUP).replace('-', ' ')
+            jyutping = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_JYUTPING_GROUP).strip()
+            character_content = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_CHARACTER_CONTENT_GROUP)
+            character_caret = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_CHARACTER_CARET_GROUP)
 
             williams_list = williams.split()
             jyutping_list = jyutping.split()
@@ -1571,17 +1589,13 @@ class CmdSource:
     @staticmethod
     def lint_composition_component_beside(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern='[⿰⿲]', string=content):
+        if not LINTING_COMPONENT_BESIDE_PATTERN.search(string=content):
             return
 
-        for context_match in re.finditer(
-            pattern=r'\S* (?P<operator> [⿰⿲] ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        for context_match in LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN.finditer(string=content):
             context = context_match.group()
-            operator = context_match.group('operator')
-            component = context_match.group('component')
+            operator = context_match.group(LINTING_COMPONENT_BESIDE_OPERATOR_GROUP)
+            component = context_match.group(LINTING_COMPONENT_BESIDE_COMPONENT_GROUP)
             component_beside = component.translate(str.maketrans('牛王糸言金', '牜𤣩糹訁釒'))
 
             if component == '糸':
