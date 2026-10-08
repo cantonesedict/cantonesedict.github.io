@@ -810,6 +810,12 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
 
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
 
+INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
+    pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+INDEXING_WILLIAMS_VOWEL_REPL = r'\g<vowel>'
+
 
 class Utilities:
     @staticmethod
@@ -2867,12 +2873,7 @@ class CharacterEntry:
         # Remove Williams typography
         text = text.replace("(')", "'")
         text = re.sub(pattern=WILLIAMS_TONE_PATTERN, repl='', string=text)
-        text = re.sub(
-            pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
-            repl=r'\g<vowel>',
-            string=text,
-            flags=re.IGNORECASE | re.VERBOSE,
-        )
+        text = re.sub(pattern=INDEXING_WILLIAMS_VOWEL_PATTERN, repl=INDEXING_WILLIAMS_VOWEL_REPL, string=text)
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
