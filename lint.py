@@ -808,9 +808,8 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yung": ['jung'],
 }
 
-WILLIAMS_TONE_PATTERN = re.compile(
-    pattern=r'\([1-9]\)',
-)
+WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
 
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
@@ -1441,7 +1440,7 @@ class CmdSource:
             jyutping_count = len(jyutping_list)
             character_count = len(characters)
 
-            dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
+            dual_romanisation_reduced = re.sub(pattern=WHITESPACE_RUN_PATTERN, repl=' ', string=dual_romanisation)
 
             if character_count and jyutping_count != character_count and not character_caret:
                 raise LintException(
@@ -2453,7 +2452,11 @@ class CharacterEntry:
             flags=re.VERBOSE,
         ):
             unwanted_comma_context = unwanted_comma_match.group()
-            unwanted_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=unwanted_comma_context)
+            unwanted_comma_context_reduced = re.sub(
+                pattern=WHITESPACE_RUN_PATTERN,
+                repl=' ',
+                string=unwanted_comma_context,
+            )
             raise LintException(
                 f'comma after supplied Jyutping for Williams right-tone or nasal apostrophe '
                 f'in `{unwanted_comma_context_reduced}` '
@@ -2472,7 +2475,11 @@ class CharacterEntry:
             flags=re.VERBOSE,
         ):
             missing_comma_context = missing_comma_match.group()
-            missing_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=missing_comma_context.strip())
+            missing_comma_context_reduced = re.sub(
+                pattern=WHITESPACE_RUN_PATTERN,
+                repl=' ',
+                string=missing_comma_context.strip(),
+            )
             raise LintException(
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
@@ -2491,7 +2498,7 @@ class CharacterEntry:
         ):
             unitalicised_semicolon_context = unitalicised_semicolon_match.group()
             unitalicised_semicolon_context_reduced = re.sub(
-                pattern=r'\s+',
+                pattern=WHITESPACE_RUN_PATTERN,
                 repl=' ',
                 string=unitalicised_semicolon_context.strip(),
             )
@@ -2992,7 +2999,7 @@ class CharacterEntry:
 
         # Normalise whitespace
         text = text.strip()
-        text = re.sub(pattern=r'\s+', repl=' ', string=text)
+        text = re.sub(pattern=WHITESPACE_RUN_PATTERN, repl=' ', string=text)
 
         # Convert explicit edits
         text = re.sub(pattern=r'<ins>\s+', repl='``', string=text)
