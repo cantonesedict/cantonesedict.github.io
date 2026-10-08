@@ -808,6 +808,8 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yung": ['jung'],
 }
 
+WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+
 
 class Utilities:
     @staticmethod
@@ -2059,7 +2061,7 @@ class ToneHeading:
                 f'vs Jyutping `{jyutping}` in tone heading `{content}`'
             )
 
-        williams_tones = set(re.findall(pattern=r'\([1-9]\)', string=williams_run))
+        williams_tones = set(re.findall(pattern=WILLIAMS_TONE_PATTERN, string=williams_run))
 
         if len(williams_tones) != 1:
             raise LintException(f'non-sole Williams tones `{williams_tones}` found in tone heading `{content}`')
@@ -2160,7 +2162,7 @@ class CharacterEntry:
             )
 
         reduced_williams_run = re.sub(pattern='~~.+?~~', repl='', string=williams_run)
-        williams_tones = set(re.findall(pattern=r'\([1-9]\)', string=reduced_williams_run))
+        williams_tones = set(re.findall(pattern=WILLIAMS_TONE_PATTERN, string=reduced_williams_run))
 
         if len(williams_tones) != 1:
             raise LintException(
@@ -2342,7 +2344,7 @@ class CharacterEntry:
             locator_run = match.group().strip()
             headword_run = match.group('headword_run')
 
-            if not re.search(pattern=r'\([1-9]\)', string=headword_run):
+            if not re.search(pattern=WILLIAMS_TONE_PATTERN, string=headword_run):
                 raise LintException(f'missing Williams tone in locator `{locator_run}`')
 
     @staticmethod
@@ -2864,7 +2866,7 @@ class CharacterEntry:
 
         # Remove Williams typography
         text = text.replace("(')", "'")
-        text = re.sub(pattern=r'\([1-9]\)', repl='', string=text)
+        text = re.sub(pattern=WILLIAMS_TONE_PATTERN, repl='', string=text)
         text = re.sub(
             pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
             repl=r'\g<vowel>',
