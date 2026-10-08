@@ -808,7 +808,9 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yung": ['jung'],
 }
 
-WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+WILLIAMS_TONE_PATTERN = re.compile(
+    pattern=r'\([1-9]\)',
+)
 
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
@@ -816,11 +818,64 @@ INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
 )
 INDEXING_WILLIAMS_VOWEL_REPL = r'\g<vowel>'
 
-INDEXING_ELLIPSIS_ITEM_PATTERN = re.compile(pattern=r'[- ] \[\[\.\.\.\]\][;.\n]')
+INDEXING_ELLIPSIS_ITEM_PATTERN = re.compile(
+    pattern=r'[- ] \[\[\.\.\.\]\][;.\n]'
+)
 INDEXING_REDIRECTION_PATTERN = re.compile(
     pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
     flags=re.VERBOSE,
 )
+
+INDEXING_PAGE_LINK_PATTERN = re.compile(
+    pattern='[$] (?P<jyutping> [a-z]+ )',
+    flags=re.VERBOSE,
+)
+INDEXING_PAGE_LINK_REPL = r'\g<jyutping>'
+
+INDEXING_ENTRY_LINK_PATTERN = re.compile(
+    pattern=r'[$] (?P<headword> \S ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )',
+    flags=re.VERBOSE,
+)
+INDEXING_ENTRY_LINK_REPL = r'\g<headword> \g<jyutping>\g<tone_number>'
+
+INDEXING_LOCAL_ENTRY_LINK_PATTERN = re.compile(
+    pattern=r'[$] (?P<headword> \S ) (?P<tone_number> [1-6] )',
+    flags=re.VERBOSE,
+)
+INDEXING_LOCAL_ENTRY_LINK_REPL = r'\g<headword>'
+
+INDEXING_SPECIFIED_LINK_PATTERN = re.compile(
+    pattern=r'\[ (?P<text> [^\[\]]+? ) \] \( .+? \)',
+    flags=re.VERBOSE,
+)
+INDEXING_SPECIFIED_LINK_REPL = r'\g<text>'
+
+INDEXING_REFERENCED_LINK_PATTERN = re.compile(
+    pattern=r'\[ (?P<text> [^\[\]]+? ) \] \[ .+? \]',
+    flags=re.VERBOSE,
+)
+INDEXING_REFERENCED_LINK_REPL = r'\g<text>'
+
+INDEXING_BAXTER_NOTATION_PATTERN = re.compile(
+    pattern=r"\(` (?P<baxter> [ 'a-z+XH]+ ) `\)",
+    flags=re.VERBOSE,
+)
+INDEXING_BAXTER_NOTATION_REPL = r'(\g<baxter>)'
+
+INDEXING_NON_BREAKING_SPACE_PATTERN = re.compile(
+    pattern='(?<!~)~(?!~)',
+)
+
+INDEXING_BROAD_RIMES_PATTERN = re.compile(
+    pattern='B[1-5][.][a-z0-9]+ ',
+)
+INDEXING_BROAD_RIMES_REPL = '《廣韻》'
+
+INDEXING_COLLECTED_RIMES_PATTERN = re.compile(
+    pattern='C[.][0-9]+[.]cn/n?[0-9]+',
+)
+INDEXING_COLLECTED_RIMES_REPL = '《集韻》'
+
 
 class Utilities:
     @staticmethod
@@ -2888,32 +2943,17 @@ class CharacterEntry:
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
-        text = re.sub(
-            pattern='[$] (?P<jyutping> [a-z]+ )',
-            repl=r'\g<jyutping>',
-            string=text,
-            flags=re.VERBOSE,
-        )
-        text = re.sub(
-            pattern=r'[$] (?P<headword> \S ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )',
-            repl=r'\g<headword> \g<jyutping>\g<tone_number>',
-            string=text,
-            flags=re.VERBOSE,
-        )
-        text = re.sub(
-            pattern=r'[$] (?P<headword> \S ) (?P<tone_number> [1-6] )',
-            repl=r'\g<headword>',
-            string=text,
-            flags=re.VERBOSE,
-        )
-        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+? ) \] \( .+? \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
-        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+? ) \] \[ .+? \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
-        text = re.sub(pattern=r"\(` (?P<baxter> [ 'a-z+XH]+ ) `\)", repl=r'(\g<baxter>)', string=text, flags=re.VERBOSE)
+        text = re.sub(pattern=INDEXING_PAGE_LINK_PATTERN, repl=INDEXING_PAGE_LINK_REPL, string=text)
+        text = re.sub(pattern=INDEXING_ENTRY_LINK_PATTERN, repl=INDEXING_ENTRY_LINK_REPL, string=text)
+        text = re.sub(pattern=INDEXING_LOCAL_ENTRY_LINK_PATTERN, repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
+        text = re.sub(pattern=INDEXING_SPECIFIED_LINK_PATTERN, repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
+        text = re.sub(pattern=INDEXING_REFERENCED_LINK_PATTERN, repl=INDEXING_REFERENCED_LINK_REPL, string=text)
+        text = re.sub(pattern=INDEXING_BAXTER_NOTATION_PATTERN, repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
-        text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
-        text = re.sub(pattern='B[1-5][.][a-z0-9]+ ', repl='《廣韻》', string=text)
-        text = re.sub(pattern='C[.][0-9]+[.]cn/n?[0-9]+', repl='《集韻》', string=text)
+        text = re.sub(pattern=INDEXING_NON_BREAKING_SPACE_PATTERN, repl=' ', string=text)
+        text = re.sub(pattern=INDEXING_BROAD_RIMES_PATTERN, repl=INDEXING_BROAD_RIMES_REPL, string=text)
+        text = re.sub(pattern=INDEXING_COLLECTED_RIMES_PATTERN, repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
         text = text.replace('K. ', '《康熙字典》')
 
         # Remove non-textual CMD syntax
