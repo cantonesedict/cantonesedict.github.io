@@ -906,6 +906,12 @@ INDEXING_DEL_CLOSING_PATTERN = re.compile(
 )
 INDEXING_DEL_REPL = '~~'
 
+INDEXING_REDUNDANT_EDIT_PATTERN = re.compile(
+    pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
+    flags=re.VERBOSE,
+)
+INDEXING_REDUNDANT_EDIT_REPL = r'\g<run>'
+
 
 class Utilities:
     @staticmethod
@@ -3024,12 +3030,7 @@ class CharacterEntry:
         text = re.sub(pattern=INDEXING_DEL_CLOSING_PATTERN, repl=INDEXING_DEL_REPL, string=text)
 
         # Simplify edits that have become redundant
-        text = re.sub(
-            pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
-            repl=r'\g<run>',
-            string=text,
-            flags=re.VERBOSE,
-        )
+        text = re.sub(pattern=INDEXING_REDUNDANT_EDIT_PATTERN, repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
 
         # Remove insertion markers
         text = text.replace('``', '')
