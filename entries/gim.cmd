@@ -76,3 +76,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 (1)縑]]
+    ==
+    - A thick kind of lustring, woven close so as to shed rain;
+    - it is now called _k(u:)n(3)_ [[gyun3]].
+    ==
+  ====
+$$
+##>
