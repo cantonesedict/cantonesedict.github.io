@@ -812,6 +812,7 @@ WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
 COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
 SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
 
+INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
 
@@ -835,6 +836,97 @@ UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN = re.compile(
 UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN = re.compile(
     pattern='[^1-9]',
 )
+
+ENTRY_PAGE_TITLE_PATTERN = re.compile(
+    pattern=r'^\* %title --> (?P<title>[a-z]+)$',
+    flags=re.MULTILINE,
+)
+ENTRY_PAGE_TITLE_GROUP = 'title'
+
+PAGE_HEADING_PATTERN = re.compile(
+    pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_HEADING_WILLIAMS_RUN_GROUP = 'williams_run'
+PAGE_HEADING_JYUTPING_GROUP = 'jyutping'
+
+PAGE_ENTRY_PATTERN = re.compile(
+    pattern=r'<## /tones ##>\s+^\$\$\n(?P<content>.+?)^\$\$\n',
+    flags=re.DOTALL | re.MULTILINE,
+)
+PAGE_ENTRY_CONTENT_GROUP = 'content'
+
+PAGE_ENTRY_KEYS_PATTERN_READABLE = 'WH [WV] WP MP [C] [S] '
+PAGE_ENTRY_KEYS_PATTERN_REGEX = re.sub(
+    pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
+    repl=r'(?:\g<optional_key> )?',
+    string=PAGE_ENTRY_KEYS_PATTERN_READABLE,
+    flags=re.VERBOSE,
+)
+PAGE_ENTRY_KEYS_PATTERN = re.compile(
+    pattern=PAGE_ENTRY_KEYS_PATTERN_REGEX,
+)
+
+PAGE_ENTRY_WILLIAMS_HEADING_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<williams_run> \S+ )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_ENTRY_WILLIAMS_HEADING_RUN_GROUP = 'williams_run'
+
+PAGE_ENTRY_JYUTPING_HEADING_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_ENTRY_JYUTPING_HEADING_JYUTPING_GROUP = 'jyutping'
+
+PAGE_ENTRY_SEE_ALSO_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_ENTRY_SEE_ALSO_CONTENT_GROUP = 'content'
+PAGE_ENTRY_SEE_ALSO_JYUTPING_GROUP = 'jyutping'
+
+TONE_HEADING_PATTERN = re.compile(
+    pattern=r'''
+        ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
+        \s+ (?P<williams_run> .*? )
+        \s* \[\[ (?P<jyutping> [a-z]+ [1-6] ) \s+ (?P<chinese> \S+ ) \]\] $
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+TONE_HEADING_TONE_NUMBER_GROUP = 'tone_number'
+TONE_HEADING_WILLIAMS_RUN_GROUP = 'williams_run'
+TONE_HEADING_JYUTPING_GROUP = 'jyutping'
+TONE_HEADING_CHINESE_GROUP = 'chinese'
+
+CHARACTER_NAVIGATOR_PATTERN = re.compile(
+    pattern='<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
+    flags=re.DOTALL | re.MULTILINE,
+)
+CHARACTER_NAVIGATOR_TONE_NUMBER_GROUP = 'tone_number'
+
+CHARACTER_ENTRY_PATTERN = re.compile(
+    pattern=r'''
+        ^ (?P<heading_content>
+            [#]{3} (?P<addition> [+]? ) [ ]
+            (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
+            (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
+        )
+        \n\n
+        ^ [$]{2} (?P<non_canonical> [.]? ) \n
+        (?P<entry_content> (?s: .+? ) )
+        ^ [$]{2} \n
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_HEADING_CONTENT_GROUP = 'heading_content'
+CHARACTER_ENTRY_ADDITION_GROUP = 'addition'
+CHARACTER_ENTRY_CHARACTER_RUN_GROUP = 'character_run'
+CHARACTER_ENTRY_TONE_NUMBER_GROUP = 'tone_number'
+CHARACTER_ENTRY_WILLIAMS_RUN_GROUP = 'williams_run'
+CHARACTER_ENTRY_JYUTPING_GROUP = 'jyutping'
+CHARACTER_ENTRY_NON_CANONICAL_GROUP = 'non_canonical'
+CHARACTER_ENTRY_CONTENT_GROUP = 'entry_content'
 
 LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
 
@@ -1036,6 +1128,11 @@ LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN = re.compile(
 LINTING_COMPONENT_BESIDE_OPERATOR_GROUP = 'operator'
 LINTING_COMPONENT_BESIDE_COMPONENT_GROUP = 'component'
 
+LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN = re.compile(
+    pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
+    flags=re.VERBOSE,
+)
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -1136,6 +1233,12 @@ INDEXING_REDUNDANT_EDIT_PATTERN = re.compile(
     flags=re.VERBOSE,
 )
 INDEXING_REDUNDANT_EDIT_REPL = r'\g<run>'
+
+RADICAL_TABLE_PATTERN = re.compile(
+    pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
+    flags=re.DOTALL,
+)
+RADICAL_TABLE_RADICAL_GROUP = 'radical'
 
 
 class Utilities:
@@ -1761,34 +1864,22 @@ class EntryPage:
 
     @staticmethod
     def extract_page_title(page_content: str) -> str:
-        if not (match := re.search(
-            pattern=r'^\* %title --> (?P<title>[a-z]+)$',
-            string=page_content,
-            flags=re.MULTILINE,
-        )):
+        if not (match := ENTRY_PAGE_TITLE_PATTERN.search(string=page_content)):
             raise LintException('page title not found')
 
-        return match.group('title')
+        return match.group(ENTRY_PAGE_TITLE_GROUP)
 
     @staticmethod
     def extract_tone_headings(page_content: str, page_heading_jyutping: str) -> list['ToneHeading']:
         return [
             ToneHeading(content, tone_number, williams_run, jyutping, chinese, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
-                    \s+ (?P<williams_run> .*? )
-                    \s* \[\[ (?P<jyutping> [a-z]+ [1-6] ) \s+ (?P<chinese> \S+ ) \]\] $
-                ''',
-                string=page_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+            for match in TONE_HEADING_PATTERN.finditer(string=page_content)
             if (
                 content := match.group(),
-                tone_number := match.group('tone_number'),
-                williams_run := match.group('williams_run'),
-                jyutping := match.group('jyutping'),
-                chinese := match.group('chinese'),
+                tone_number := match.group(TONE_HEADING_TONE_NUMBER_GROUP),
+                williams_run := match.group(TONE_HEADING_WILLIAMS_RUN_GROUP),
+                jyutping := match.group(TONE_HEADING_JYUTPING_GROUP),
+                chinese := match.group(TONE_HEADING_CHINESE_GROUP),
             )
         ]
 
@@ -1796,14 +1887,10 @@ class EntryPage:
     def extract_character_navigators(page_content: str) -> list['CharacterNavigator']:
         return [
             CharacterNavigator(content, tone_number)
-            for match in re.finditer(
-                pattern='<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
-                string=page_content,
-                flags=re.DOTALL | re.MULTILINE,
-            )
+            for match in CHARACTER_NAVIGATOR_PATTERN.finditer(string=page_content)
             if (
                 content := match.group(),
-                tone_number := match.group('tone_number'),
+                tone_number := match.group(CHARACTER_NAVIGATOR_TONE_NUMBER_GROUP),
             )
         ]
 
@@ -1812,30 +1899,16 @@ class EntryPage:
         return [
             CharacterEntry(heading_content, addition, character_run, tone_number, williams_run, jyutping, non_canonical,
                            entry_content, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ (?P<heading_content>
-                        [#]{3} (?P<addition> [+]? ) [ ]
-                        (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
-                        (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
-                    )
-                    \n\n
-                    ^ [$]{2} (?P<non_canonical> [.]? ) \n
-                    (?P<entry_content> (?s: .+? ) )
-                    ^ [$]{2} \n
-                ''',
-                string=page_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+            for match in CHARACTER_ENTRY_PATTERN.finditer(string=page_content)
             if (
-                heading_content := match.group('heading_content'),
-                addition := match.group('addition'),
-                character_run := match.group('character_run'),
-                tone_number := match.group('tone_number'),
-                williams_run := match.group('williams_run'),
-                jyutping := match.group('jyutping'),
-                non_canonical := match.group('non_canonical'),
-                entry_content := match.group('entry_content'),
+                heading_content := match.group(CHARACTER_ENTRY_HEADING_CONTENT_GROUP),
+                addition := match.group(CHARACTER_ENTRY_ADDITION_GROUP),
+                character_run := match.group(CHARACTER_ENTRY_CHARACTER_RUN_GROUP),
+                tone_number := match.group(CHARACTER_ENTRY_TONE_NUMBER_GROUP),
+                williams_run := match.group(CHARACTER_ENTRY_WILLIAMS_RUN_GROUP),
+                jyutping := match.group(CHARACTER_ENTRY_JYUTPING_GROUP),
+                non_canonical := match.group(CHARACTER_ENTRY_NON_CANONICAL_GROUP),
+                entry_content := match.group(CHARACTER_ENTRY_CONTENT_GROUP),
             )
         ]
 
@@ -1870,12 +1943,7 @@ class EntryPage:
 
         page_heading_williams_set = set(page_heading.williams_list)
         tone_heading_williams_set = set(
-            re.sub(
-                pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
-                repl='',
-                string=williams,
-                flags=re.VERBOSE,
-            )
+            LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN.sub(repl='', string=williams)
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
@@ -1883,7 +1951,7 @@ class EntryPage:
         tone_heading_williams_set_redundant = set(
             f'``{williams}``'  # insertion is redundant if non-insertion is also present
             for williams in tone_heading_williams_set_supplemented
-            if not re.fullmatch(pattern='``.+``', string=williams)
+            if not INSERTION_PATTERN.fullmatch(string=williams)
         )
         page_heading_williams_set_expected = (
             tone_heading_williams_set_supplemented  # need supplemented for WH implied headings
@@ -1932,7 +2000,7 @@ class EntryPage:
             character_entry_williams_set_redundant = set(
                 f'``{williams}``'  # insertion is redundant if non-insertion is also present
                 for williams in character_entry_williams_set
-                if not re.fullmatch(pattern='``.+``', string=williams)
+                if not INSERTION_PATTERN.fullmatch(string=williams)
             )
             tone_heading_williams_set_expected = (
                 character_entry_williams_set
@@ -1974,7 +2042,7 @@ class RadicalPage:
         )
 
         def replacement_function(match: re.Match[str]) -> str:
-            radical = match.group('radical')
+            radical = match.group(RADICAL_TABLE_RADICAL_GROUP)
             radical_strokes_list = radical_strokes_list_from_radical.get(radical, [])
             character_entries_from_stroke_count = {
                 radical_strokes.stroke_count: character_entries_from_radical_strokes[radical_strokes]
@@ -2026,12 +2094,7 @@ class RadicalPage:
                 f"<## /radical-{radical}-characters ##>",
             ])
 
-        return re.sub(
-            pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
-            repl=replacement_function,
-            string=content,
-            flags=re.DOTALL,
-        )
+        return RADICAL_TABLE_PATTERN.sub(repl=replacement_function, string=content)
 
 
 class PageHeading:
@@ -2040,16 +2103,12 @@ class PageHeading:
     jyutping: str
 
     def __init__(self, page_content: str, file_name: str, page_title: str):
-        if not (match := re.search(
-            pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
-            string=page_content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )):
+        if not (match := PAGE_HEADING_PATTERN.search(string=page_content)):
             raise LintException('page heading `#{.williams} ...` not found')
 
         content = match.group()
-        williams_run = match.group('williams_run')
-        jyutping = match.group('jyutping')
+        williams_run = match.group(PAGE_HEADING_WILLIAMS_RUN_GROUP)
+        jyutping = match.group(PAGE_HEADING_JYUTPING_GROUP)
 
         if file_name != f'entries/{jyutping}.cmd':
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs file name `{file_name}`')
@@ -2058,7 +2117,7 @@ class PageHeading:
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs page title `{page_title}`')
 
         williams_list = [
-            re.sub(pattern='[.]', repl='', string=williams)
+            williams.replace('.', '')
             for williams in williams_run.split()
         ]
 
@@ -2075,12 +2134,8 @@ class PageEntry:
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
-        if match := re.search(
-            pattern=r'<## /tones ##>\s+^\$\$\n(?P<content>.+?)^\$\$\n',
-            string=page_content,
-            flags=re.DOTALL | re.MULTILINE,
-        ):
-            content = match.group('content')
+        if match := PAGE_ENTRY_PATTERN.search(string=page_content):
+            content = match.group(PAGE_ENTRY_CONTENT_GROUP)
             content_from_key = CmdIdioms.parse_entry_items(content)
 
             PageEntry.lint_keys(content_from_key)
@@ -2110,16 +2165,9 @@ class PageEntry:
     @staticmethod
     def lint_keys(content_from_key: dict[str, str]):
         keys = ''.join(f'{key} ' for key in content_from_key)
-        pattern_readable = 'WH [WV] WP MP [C] [S] '
-        pattern = re.sub(
-            pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
-            repl=r'(?:\g<optional_key> )?',
-            string=pattern_readable,
-            flags=re.VERBOSE,
-        )
 
-        if not re.fullmatch(pattern=pattern, string=keys):
-            raise LintException(f'page entry keys `{keys}` do not match pattern `{pattern_readable}`')
+        if not PAGE_ENTRY_KEYS_PATTERN.fullmatch(string=keys):
+            raise LintException(f'page entry keys `{keys}` do not match pattern `{PAGE_ENTRY_KEYS_PATTERN_READABLE}`')
 
     @staticmethod
     def lint_wh_contextual_non_insertion(content: str):
@@ -2153,13 +2201,9 @@ class PageEntry:
     def extract_williams_heading_list(content: str) -> list[str]:
         return [
             williams_run.replace('.', '')
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<williams_run> \S+ )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in PAGE_ENTRY_WILLIAMS_HEADING_ITEM_PATTERN.finditer(string=content)
             if (
-                williams_run := match.group('williams_run'),
+                williams_run := match.group(PAGE_ENTRY_WILLIAMS_HEADING_RUN_GROUP),
             )
         ]
 
@@ -2167,13 +2211,9 @@ class PageEntry:
     def extract_jyutping_heading_list(content: str) -> list[str]:
         return [
             jyutping
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in PAGE_ENTRY_JYUTPING_HEADING_ITEM_PATTERN.finditer(string=content)
             if (
-                jyutping := match.group('jyutping'),
+                jyutping := match.group(PAGE_ENTRY_JYUTPING_HEADING_JYUTPING_GROUP),
             )
         ]
 
@@ -2184,14 +2224,10 @@ class PageEntry:
 
         return [
             SeeAlsoLink(content, jyutping, character_content='', is_canonical=True)
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in PAGE_ENTRY_SEE_ALSO_ITEM_PATTERN.finditer(string=content)
             if (
-                content := match.group('content'),
-                jyutping := match.group('jyutping'),
+                content := match.group(PAGE_ENTRY_SEE_ALSO_CONTENT_GROUP),
+                jyutping := match.group(PAGE_ENTRY_SEE_ALSO_JYUTPING_GROUP),
             )
         ]
 
