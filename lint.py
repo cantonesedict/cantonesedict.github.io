@@ -852,6 +852,9 @@ REDUCED_CHARACTER_RUN_PATTERN = re.compile(
 )
 REDUCED_CHARACTER_RUN_REPL = r'\g<reduced_character_run>'
 
+PARENTHETICAL_SUFFIX_PATTERN = re.compile(pattern='-(?P<sense>.*)')
+PARENTHETICAL_SUFFIX_REPL = r'~(\g<sense>)'
+
 ENTRY_PAGE_TITLE_PATTERN = re.compile(
     pattern=r'^\* %title --> (?P<title>[a-z]+)$',
     flags=re.MULTILINE,
@@ -919,6 +922,15 @@ RADICAL_TABLE_PATTERN = re.compile(
     flags=re.DOTALL,
 )
 RADICAL_TABLE_RADICAL_GROUP = 'radical'
+
+RENDERINGS_TABLE_PATTERN = re.compile(
+    pattern='<## renderings-table ##>.*?<## /renderings-table ##>',
+    flags=re.DOTALL,
+)
+TERMS_TABLE_PATTERN = re.compile(
+    pattern='<## terms-table ##>.*?<## /terms-table ##>',
+    flags=re.DOTALL,
+)
 
 TONE_HEADING_PATTERN = re.compile(
     pattern=r'''
@@ -4391,9 +4403,8 @@ class Linter:
                 if (
                     baxter := split_literary_rendering.baxter_list[0],
                     link_text := split_literary_rendering.term,
-                    parenthetical_suffix := re.sub(
-                        pattern='-(?P<sense>.*)',
-                        repl=r'~(\g<sense>)',
+                    parenthetical_suffix := PARENTHETICAL_SUFFIX_PATTERN.sub(
+                        repl=PARENTHETICAL_SUFFIX_REPL,
                         string=split_literary_rendering.disambiguation_suffix,
                     ),
                     url := split_literary_rendering.url(),
@@ -4408,11 +4419,9 @@ class Linter:
             "<## /renderings-table ##>",
         ])
 
-        return re.sub(
-            pattern='<## renderings-table ##>.*?<## /renderings-table ##>',
+        return RENDERINGS_TABLE_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(renderings_table_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
     @staticmethod
@@ -4436,9 +4445,8 @@ class Linter:
                 if (
                     jyutping := split_cantonese_entry.jyutping_list[0],
                     link_text := split_cantonese_entry.term,
-                    parenthetical_suffix := re.sub(
-                        pattern='-(?P<sense>.*)',
-                        repl=r'~(\g<sense>)',
+                    parenthetical_suffix := PARENTHETICAL_SUFFIX_PATTERN.sub(
+                        repl=PARENTHETICAL_SUFFIX_REPL,
                         string=split_cantonese_entry.disambiguation_suffix,
                     ),
                     url := split_cantonese_entry.url(),
@@ -4449,11 +4457,9 @@ class Linter:
             "<## /terms-table ##>",
         ])
 
-        return re.sub(
-            pattern='<## terms-table ##>.*?<## /terms-table ##>',
+        return TERMS_TABLE_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(terms_table_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
 
