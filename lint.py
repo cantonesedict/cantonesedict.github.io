@@ -1271,12 +1271,19 @@ LINTING_DUAL_ROMANISATION_JYUTPING_GROUP = 'jyutping'
 LINTING_DUAL_ROMANISATION_CHARACTER_CONTENT_GROUP = 'character_content'
 LINTING_DUAL_ROMANISATION_CHARACTER_CARET_GROUP = 'character_caret'
 
-LINTING_COMPONENT_BESIDE_OPERATOR_CLASS = '[⿰⿲]'
+LINTING_COMPONENT_BESIDE_OPERATORS = '⿰⿲'
+LINTING_COMPONENTS_NON_BESIDE = '牛王糸言金'
+LINTING_COMPONENTS_BESIDE = '牜𤣩糹訁釒'
+
 LINTING_COMPONENT_BESIDE_OPERATOR_PATTERN = re.compile(
-    pattern=LINTING_COMPONENT_BESIDE_OPERATOR_CLASS,
+    pattern=f'[{LINTING_COMPONENT_BESIDE_OPERATORS}]',
 )
 LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN = re.compile(
-    pattern=fr'\S* (?P<operator> {LINTING_COMPONENT_BESIDE_OPERATOR_CLASS} ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
+    pattern=fr'''
+        \S*
+        (?P<operator> [{LINTING_COMPONENT_BESIDE_OPERATORS}] )
+        (?P<component> [{LINTING_COMPONENTS_NON_BESIDE}] ) (?! @ ) \S*
+    ''',
     flags=re.VERBOSE,
 )
 LINTING_COMPONENT_BESIDE_OPERATOR_GROUP = 'operator'
@@ -1972,7 +1979,8 @@ class CmdSource:
             context = context_match.group()
             operator = context_match.group(LINTING_COMPONENT_BESIDE_OPERATOR_GROUP)
             component = context_match.group(LINTING_COMPONENT_BESIDE_COMPONENT_GROUP)
-            component_beside = component.translate(str.maketrans('牛王糸言金', '牜𤣩糹訁釒'))
+            component_beside = component.translate(str.maketrans(LINTING_COMPONENTS_NON_BESIDE,
+                                                                 LINTING_COMPONENTS_BESIDE))
 
             if component == '糸':
                 suppression_parenthetical = f' (suppress with at after `{operator}{component}` if legitimate)'
