@@ -6,6 +6,7 @@
 Lint all Conway-Markdown (CMD) source files, with automatic indexing.
 """
 
+import functools
 import json
 import os
 import re
@@ -808,6 +809,727 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yung": ['jung'],
 }
 
+WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+ROUND_BRACKETS_PATTERN = re.compile(pattern='[()]')
+COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
+SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
+FULL_STOP_OR_CARET_PATTERN = re.compile(pattern='[.^]')
+COMMA_THEN_SPACES_PATTERN = re.compile(pattern=',[ ]+')
+UNICODE_CODE_POINT_PATTERN = re.compile(pattern='U[+][0-9A-F]{4,5}')
+
+CHINESE_RUN_REGEX = '[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+'
+CHINESE_RUN_PATTERN = re.compile(CHINESE_RUN_REGEX)
+
+INSERTION_PATTERN = re.compile(pattern='``.+``')
+DELETION_PATTERN = re.compile(pattern='~~.+?~~')
+WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+
+ENTRY_ITEM_PATTERN = re.compile(
+    pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+ENTRY_ITEM_KEY_GROUP = 'key'
+ENTRY_ITEM_CONTENT_GROUP = 'content'
+
+COMPOSITION_PATTERN = re.compile(
+    pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+? ) \}',
+    flags=re.VERBOSE,
+)
+COMPOSITION_CHARACTER_GROUP = 'character'
+COMPOSITION_GROUP = 'composition'
+COMPOSITION_REPL = r'\g<character>'
+
+UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN = re.compile(
+    pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
+    flags=re.VERBOSE,
+)
+UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN = re.compile(
+    pattern='[^1-9]',
+)
+
+REDUCED_CHARACTER_RUN_PATTERN = re.compile(
+    pattern=r'^ (?: ~~ .+? ~~ )? `` (?P<reduced_character_run> \S+ ) `` $',
+    flags=re.VERBOSE,
+)
+REDUCED_CHARACTER_RUN_REPL = r'\g<reduced_character_run>'
+
+PARENTHETICAL_SUFFIX_PATTERN = re.compile(pattern='-(?P<sense>.*)')
+PARENTHETICAL_SUFFIX_REPL = r'~(\g<sense>)'
+
+ENTRY_PAGE_TITLE_PATTERN = re.compile(
+    pattern=r'^\* %title --> (?P<title>[a-z]+)$',
+    flags=re.MULTILINE,
+)
+ENTRY_PAGE_TITLE_GROUP = 'title'
+
+PAGE_HEADING_PATTERN = re.compile(
+    pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_HEADING_WILLIAMS_RUN_GROUP = 'williams_run'
+PAGE_HEADING_JYUTPING_GROUP = 'jyutping'
+
+PAGE_ENTRY_PATTERN = re.compile(
+    pattern=r'<## /tones ##>\s+^\$\$\n(?P<content>.+?)^\$\$\n',
+    flags=re.DOTALL | re.MULTILINE,
+)
+PAGE_ENTRY_CONTENT_GROUP = 'content'
+
+PAGE_ENTRY_KEYS_PATTERN_READABLE = 'WH [WV] WP MP [C] [S] '
+PAGE_ENTRY_KEYS_PATTERN_REGEX = re.sub(
+    pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
+    repl=r'(?:\g<optional_key> )?',
+    string=PAGE_ENTRY_KEYS_PATTERN_READABLE,
+    flags=re.VERBOSE,
+)
+PAGE_ENTRY_KEYS_PATTERN = re.compile(
+    pattern=PAGE_ENTRY_KEYS_PATTERN_REGEX,
+)
+
+PAGE_ENTRY_WILLIAMS_HEADING_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<williams_run> \S+ )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_ENTRY_WILLIAMS_HEADING_RUN_GROUP = 'williams_run'
+
+PAGE_ENTRY_JYUTPING_HEADING_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_ENTRY_JYUTPING_HEADING_JYUTPING_GROUP = 'jyutping'
+
+PAGE_ENTRY_SEE_ALSO_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+PAGE_ENTRY_SEE_ALSO_CONTENT_GROUP = 'content'
+PAGE_ENTRY_SEE_ALSO_JYUTPING_GROUP = 'jyutping'
+
+TONE_NAVIGATOR_PATTERN = re.compile(
+    pattern='<## tones ##>.*?<## /tones ##>',
+    flags=re.DOTALL,
+)
+INCIPIT_NAVIGATOR_PATTERN = re.compile(
+    pattern='<## incipits ##>.*?<## /incipits ##>',
+    flags=re.DOTALL,
+)
+ENTRY_INDEX_PATTERN = re.compile(
+    pattern='<## entries ##>.*?<## /entries ##>',
+    flags=re.DOTALL,
+)
+
+RADICAL_TABLE_PATTERN = re.compile(
+    pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
+    flags=re.DOTALL,
+)
+RADICAL_TABLE_RADICAL_GROUP = 'radical'
+
+RENDERINGS_TABLE_PATTERN = re.compile(
+    pattern='<## renderings-table ##>.*?<## /renderings-table ##>',
+    flags=re.DOTALL,
+)
+TERMS_TABLE_PATTERN = re.compile(
+    pattern='<## terms-table ##>.*?<## /terms-table ##>',
+    flags=re.DOTALL,
+)
+
+TONE_HEADING_PATTERN = re.compile(
+    pattern=r'''
+        ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
+        \s+ (?P<williams_run> .*? )
+        \s* \[\[ (?P<jyutping> [a-z]+ [1-6] ) \s+ (?P<chinese> \S+ ) \]\] $
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+TONE_HEADING_TONE_NUMBER_GROUP = 'tone_number'
+TONE_HEADING_WILLIAMS_RUN_GROUP = 'williams_run'
+TONE_HEADING_JYUTPING_GROUP = 'jyutping'
+TONE_HEADING_CHINESE_GROUP = 'chinese'
+
+CHARACTER_NAVIGATOR_PATTERN = re.compile(
+    pattern='<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
+    flags=re.DOTALL | re.MULTILINE,
+)
+CHARACTER_NAVIGATOR_TONE_NUMBER_GROUP = 'tone_number'
+
+CHARACTER_ENTRY_PATTERN = re.compile(
+    pattern=r'''
+        ^ (?P<heading_content>
+            [#]{3} (?P<addition> [+]? ) [ ]
+            (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
+            (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
+        )
+        \n\n
+        ^ [$]{2} (?P<non_canonical> [.]? ) \n
+        (?P<entry_content> (?s: .+? ) )
+        ^ [$]{2} \n
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_HEADING_CONTENT_GROUP = 'heading_content'
+CHARACTER_ENTRY_ADDITION_GROUP = 'addition'
+CHARACTER_ENTRY_CHARACTER_RUN_GROUP = 'character_run'
+CHARACTER_ENTRY_TONE_NUMBER_GROUP = 'tone_number'
+CHARACTER_ENTRY_WILLIAMS_RUN_GROUP = 'williams_run'
+CHARACTER_ENTRY_JYUTPING_GROUP = 'jyutping'
+CHARACTER_ENTRY_NON_CANONICAL_GROUP = 'non_canonical'
+CHARACTER_ENTRY_CONTENT_GROUP = 'entry_content'
+
+CHARACTER_ENTRY_KEYS_PATTERN_READABLE = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
+CHARACTER_ENTRY_KEYS_PATTERN_REGEX = re.sub(
+    pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
+    repl=r'(?:\g<optional_key> )?',
+    string=CHARACTER_ENTRY_KEYS_PATTERN_READABLE,
+    flags=re.VERBOSE,
+)
+CHARACTER_ENTRY_KEYS_PATTERN = re.compile(
+    pattern=CHARACTER_ENTRY_KEYS_PATTERN_REGEX,
+)
+
+CHARACTER_ENTRY_RADICAL_STROKES_PATTERN = re.compile(
+    pattern='^ [ ]+ (?P<radical_strokes_run> .*? ) $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_RADICAL_STROKES_RUN_GROUP = 'radical_strokes_run'
+
+CHARACTER_ENTRY_ALTERNATIVE_FORM_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ ) [ ]* (?P<qualifier> .*)',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_ALTERNATIVE_FORM_CHARACTER_OR_LINK_GROUP = 'character_or_link'
+CHARACTER_ENTRY_ALTERNATIVE_FORM_QUALIFIER_GROUP = 'qualifier'
+
+CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<raw_jyutping> \S+ )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP = 'raw_jyutping'
+
+CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ (?P<indentation> [ ]+ ) [*][ ]
+        【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+        [ ] \( (?P<baxter_content> .* ) \) \n
+        (?P<sense_content> (?: (?P=indentation) [ ]+ .* \n)* )
+    ''',
+    flags = re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_LITERARY_RENDERING_TERM_GROUP = 'term'
+CHARACTER_ENTRY_LITERARY_RENDERING_DISAMBIGUATION_SUFFIX_GROUP = 'disambiguation_suffix'
+CHARACTER_ENTRY_LITERARY_RENDERING_BAXTER_CONTENT_GROUP = 'baxter_content'
+CHARACTER_ENTRY_LITERARY_RENDERING_SENSE_CONTENT_GROUP = 'sense_content'
+
+CHARACTER_ENTRY_CANTONESE_ENTRY_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ [-][ ]
+        【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+        [ ] \( (?P<jyutping_content> .* ) \)
+    ''',
+    flags = re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_CANTONESE_ENTRY_TERM_GROUP = 'term'
+CHARACTER_ENTRY_CANTONESE_ENTRY_DISAMBIGUATION_SUFFIX_GROUP = 'disambiguation_suffix'
+CHARACTER_ENTRY_CANTONESE_ENTRY_JYUTPING_CONTENT_GROUP = 'jyutping_content'
+
+CHARACTER_ENTRY_SEE_ALSO_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ - [ ]
+        (?P<content>
+            (?P<opening_bracket> \( )?
+            \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
+            (?(opening_bracket) \) )
+            .*
+        )
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_SEE_ALSO_CONTENT_GROUP = 'content'
+CHARACTER_ENTRY_SEE_ALSO_OPENING_BRACKET_GROUP = 'opening_bracket'
+CHARACTER_ENTRY_SEE_ALSO_CHARACTER_CONTENT_GROUP = 'character_content'
+CHARACTER_ENTRY_SEE_ALSO_JYUTPING_GROUP = 'jyutping'
+
+RADICAL_STROKES_PATTERN = re.compile(
+    pattern=r'(?P<radical> \S ) [ ][+][ ] (?P<stroke_count> [0-9]+ )',
+    flags=re.VERBOSE,
+)
+RADICAL_STROKES_RADICAL_GROUP = 'radical'
+RADICAL_STROKES_STROKE_COUNT_GROUP = 'stroke_count'
+
+ALTERNATIVE_FORM_LINK_PATTERN = re.compile(
+    pattern=r'(?P<dollar> \$? ) (?P<character> \S ) (?P<tone> [1-6]? ) (?P<caret> \^? )',
+    flags=re.VERBOSE,
+)
+ALTERNATIVE_FORM_LINK_DOLLAR_GROUP = 'dollar'
+ALTERNATIVE_FORM_LINK_CHARACTER_GROUP = 'character'
+ALTERNATIVE_FORM_LINK_TONE_GROUP = 'tone'
+ALTERNATIVE_FORM_LINK_CARET_GROUP = 'caret'
+
+READING_VARIATION_UNCHANGED_PATTERN = re.compile(
+    pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
+    flags=re.VERBOSE,
+)
+READING_VARIATION_UNCHANGED_JYUTPING_GROUP = 'jyutping'
+READING_VARIATION_UNCHANGED_CARET_GROUP = 'caret'
+
+READING_VARIATION_CHANGED_PATTERN = re.compile(
+    pattern=r'''
+        (?P<jyutping> (?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) )
+        (?P<caret> \^? )
+    ''',
+    flags=re.VERBOSE,
+)
+READING_VARIATION_CHANGED_JYUTPING_GROUP = 'jyutping'
+READING_VARIATION_CHANGED_UNCHANGED_JYUTPING_GROUP = 'unchanged_jyutping'
+READING_VARIATION_CHANGED_TONE_GROUP = 'changed_tone'
+READING_VARIATION_CHANGED_CARET_GROUP = 'caret'
+
+LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
+
+LINTING_NON_STRAIGHT_QUOTES = '‘’“”'
+LINTING_NON_STRAIGHT_QUOTE_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S* (?P<quote>[{LINTING_NON_STRAIGHT_QUOTES}]) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_NON_STRAIGHT_QUOTE_GROUP = 'quote'
+
+LINTING_UNDOTTED_ABBREVIATIONS = ['lit', 'met']
+LINTING_UNDOTTED_ABBREVIATIONS_ALTERNATIVES = '|'.join(
+    re.escape(abbreviation)
+    for abbreviation in LINTING_UNDOTTED_ABBREVIATIONS
+)
+LINTING_UNDOTTED_ABBREVIATIONS_PATTERN = re.compile(
+    pattern=fr'\S* _ (?P<undotted_abbreviation> {LINTING_UNDOTTED_ABBREVIATIONS_ALTERNATIVES} ) _ \S*',
+    flags=re.VERBOSE,
+)
+LINTING_UNDOTTED_ABBREVIATION_GROUP = 'undotted_abbreviation'
+
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CLASS = r'[\uF900-\uFAFF\U0002F800-\U0002FA1F]'
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_PATTERN = re.compile(
+    pattern=LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CLASS,
+)
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S*? (?P<character> {LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CLASS} ) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_NON_BMP_CHARACTER_CLASS = '[𠀀-𳑿]'
+LINTING_COMPOSITION_WHITELISTED_PRIMITIVES = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
+LINTING_COMPOSITION_EXEMPT_PATTERN = re.compile(
+    pattern='|'.join([
+        r'\{ \S = \S+? \}',
+        fr'\# cantonese - {CHINESE_RUN_REGEX}',
+    ]),
+    flags=re.VERBOSE,
+)
+LINTING_COMPOSITION_PATTERN = re.compile(
+    pattern=fr'(?P<character> {LINTING_NON_BMP_CHARACTER_CLASS} ) (?! [@^] )',
+    flags=re.VERBOSE,
+)
+LINTING_COMPOSITION_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S* (?P<character> {LINTING_NON_BMP_CHARACTER_CLASS} ) (?! [@^] ) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_COMPOSITION_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_CJK_VARIANT_SELECTOR_CLASS = r'[\uFE00-\uFE0F]'
+LINTING_CJK_VARIANT_SELECTOR_PATTERN = re.compile(
+    pattern=LINTING_CJK_VARIANT_SELECTOR_CLASS,
+)
+LINTING_CJK_VARIANT_SELECTOR_CONTEXT_PATTERN = re.compile(
+    pattern=fr'\S* (?P<character>.) {LINTING_CJK_VARIANT_SELECTOR_CLASS} \S*',
+    flags=re.VERBOSE,
+)
+LINTING_CJK_VARIANT_SELECTOR_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_INSERTION_DELETION_MARKERS = ['[[', '``', '<ins', '~~', '<del']
+LINTING_INSERTION_DELETION_EXEMPT_PATTERN = re.compile(
+    pattern='|'.join([
+        r'< (?P<backticks> `+ ) (?s: .+? ) (?P=backticks) > ',  # literals
+        r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
+        r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
+        r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
+        r'^ [#]{3} [+]? [ ] \S+ [1-6] [ ][|][ ] .*? [ ] \[\[ [a-z]+[1-6] \]\] $',  # character entry headings
+        r'^ (?: WH | WV | WP | W ) \n (?: [ ].*\n )*',  # Williams entry items
+        r'''
+            ^ (?P<block_delimiter> [-+='"|]{2,} ) \{ \.williams (?: \s .*? )? \} \n
+            (?s: .*? ) \n
+            (?P=block_delimiter) $
+        ''',
+        r'<span [ ] class="williams"> .*? </span>',
+        re.escape('[[Not present]]'),  # contextual non-insertions
+    ]),
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_INSERTION_CONTEXT_PATTERN = re.compile(
+    pattern=r'.* (?: \[\[ | `` | <ins ) .*',
+    flags=re.VERBOSE,
+)
+LINTING_DELETION_CONTEXT_PATTERN = re.compile(
+    pattern=r'.* (?: ~~ | <del ) .*',
+    flags=re.VERBOSE,
+)
+
+LINTING_REDUPLICATED_EDIT_PATTERN = re.compile(
+    pattern=r'~~(?P<old_run>.*?)~~ [ ]+ ``(?P<new_run>.*?)`` [ ]+ ~~(?P=old_run)~~ [ ]+ ``(?P=new_run)``',
+    flags=re.VERBOSE,
+)
+LINTING_REDUPLICATED_EDIT_OLD_RUN_GROUP = 'old_run'
+LINTING_REDUPLICATED_EDIT_NEW_RUN_GROUP = 'new_run'
+
+LINTING_RADICAL_CONTEXT_PATTERN = re.compile(
+    pattern=r'\S* (?P<code_point> U[+] 2F[0-9A-F]{2} ) [ ]+ (?P<character> \S )',
+    flags=re.VERBOSE,
+)
+LINTING_RADICAL_CONTEXT_CODE_POINT_GROUP = 'code_point'
+LINTING_RADICAL_CONTEXT_CHARACTER_GROUP = 'character'
+
+LINTING_BAD_ENTERING_TONE_REGEX = r'[ptk] \([1-6]\)'
+LINTING_BAD_ENTERING_TONE_PATTERN = re.compile(
+    pattern=LINTING_BAD_ENTERING_TONE_REGEX,
+    flags=re.VERBOSE,
+)
+LINTING_BAD_ENTERING_TONE_RUN_PATTERN = re.compile(
+    pattern=fr'\S+ {LINTING_BAD_ENTERING_TONE_REGEX}',
+    flags=re.VERBOSE,
+)
+
+LINTING_BAD_WILLIAMS_LEFT_TONE_PATTERN = re.compile(
+    pattern=r'[^_] \([1245]\) [_ ]',
+    flags=re.VERBOSE,
+)
+LINTING_BAD_WILLIAMS_LEFT_TONE_RUN_PATTERN = re.compile(
+    pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
+    flags=re.VERBOSE,
+)
+LINTING_BAD_WILLIAMS_RIGHT_TONE_RUN_PATTERN = re.compile(
+    pattern=r'[_ ] \([36789]\) (?! _ ) \S*',
+    flags=re.VERBOSE,
+)
+
+# Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
+LINTING_WILLIAMS_INITIAL_ASPIRATE_PATTERN = re.compile(
+    pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_INITIAL_ASPIRATE_TWO_CHARACTERS_BEFORE_GROUP = 'two_characters_before'
+LINTING_WILLIAMS_INITIAL_ASPIRATE_FALSE_POSITIVE_PATTERN = re.compile(
+    pattern=r'.p | .t | .k | kw | ts | ch | `` | .\^',
+    flags=re.DOTALL | re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_TONE_45_ASPIRATE_RUN_PATTERN = re.compile(
+    pattern=r"\([45]\) (?: p | t(?!s) | k(?!w) | kw | ts | ch) (?! \('\) ) \S+",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_TONE_6_ASPIRATE_RUN_PATTERN = re.compile(
+    pattern=r"(?: p | t | k | kw | ts | ch) \('\) (?! \^ ) \S+ \(6\)",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_BAD_DIPHTHONGS = ['(i/)u', 'u(i/)']
+LINTING_WILLIAMS_BAD_DIPHTHONG_CONTEXT_PATTERN = re.compile(
+    pattern=r"\S* (?P<diphthong> \(i/\)u | u\(i/\) ) \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_BAD_DIPHTHONG_GROUP = 'diphthong'
+
+LINTING_WILLIAMS_BAD_NASAL_SYLLABLES = ["m'", "ng'"]
+LINTING_WILLIAMS_BAD_NASAL_APOSTROPHE_CONTEXT_PATTERN = re.compile(
+    pattern=r"\S* (?: m | ng ) ' \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_PATTERN = re.compile(
+    pattern=r"sz [^'`^]",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_RUN_PATTERN = re.compile(
+    pattern=r"\S* sz [^'`^] \S*",
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_UNALIASED_JYUTPING_ENTERING_TONE_RUN_PATTERN = re.compile(
+    pattern=r'(?<! [</] ) \b [a-z]+ [789] \b',
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+LINTING_MISSPELT_JYUTPING_YOD_RUN_PATTERN = re.compile(
+    pattern=r'\b y [a-z]* [1-6] \b',
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+
+LINTING_DUAL_ROMANISATION_PATTERN = re.compile(
+    pattern=r'''
+        _ (?P<williams> \S [^_\n]*? \S ) _
+        \s+
+        (?: \[\[ | \( )
+            (?P<jyutping_caret> \^? )
+            (?P<jyutping> [a-z1-6 ]+ )
+            (?P<character_content> [^a-z1-6 \]\)]*? )
+            (?P<character_caret> \^? )
+        (?: \]\] | \) )
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_DUAL_ROMANISATION_JYUTPING_CARET_GROUP = 'jyutping_caret'
+LINTING_DUAL_ROMANISATION_WILLIAMS_GROUP = 'williams'
+LINTING_DUAL_ROMANISATION_JYUTPING_GROUP = 'jyutping'
+LINTING_DUAL_ROMANISATION_CHARACTER_CONTENT_GROUP = 'character_content'
+LINTING_DUAL_ROMANISATION_CHARACTER_CARET_GROUP = 'character_caret'
+
+LINTING_COMPONENT_BESIDE_OPERATORS = '⿰⿲'
+LINTING_COMPONENTS_NON_BESIDE = '牛王糸言金'
+LINTING_COMPONENTS_BESIDE = '牜𤣩糹訁釒'
+
+LINTING_COMPONENT_BESIDE_PATTERN = re.compile(
+    pattern=f'''
+        [{LINTING_COMPONENT_BESIDE_OPERATORS}]
+        [{LINTING_COMPONENTS_NON_BESIDE}] (?! @ )
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN = re.compile(
+    pattern=fr'''
+        \S*
+        (?P<operator> [{LINTING_COMPONENT_BESIDE_OPERATORS}] )
+        (?P<component> [{LINTING_COMPONENTS_NON_BESIDE}] ) (?! @ ) \S*
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_COMPONENT_BESIDE_OPERATOR_GROUP = 'operator'
+LINTING_COMPONENT_BESIDE_COMPONENT_GROUP = 'component'
+
+LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN = re.compile(
+    pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
+    flags=re.VERBOSE,
+)
+
+LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
+    pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_LOCATOR_PATTERN = re.compile(
+    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
+
+LINTING_ELLIPSIS_ITEM = "- [[...]]"
+LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN = re.compile(
+    pattern=f'^[ ]+{re.escape(LINTING_ELLIPSIS_ITEM)}$',
+    flags=re.MULTILINE,
+)
+
+LINTING_WILLIAMS_UNWANTED_COMMA_PATTERN = re.compile(
+    pattern=r'''
+        _ \S[^_\n]*? (?: \([36789]\) | ' ) (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
+        \s+
+        \[\[ [^\[\n]+? \]\]  # supplied Jyutping
+        (?: \s+ \[\[ .*? \]\] )?  # supplied Kangxi with punctuation
+        ,  # unwanted comma
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_WILLIAMS_MISSING_COMMA_PATTERN = re.compile(
+    pattern=r'''
+        _ \S[^_\n]*? \([1245]\) \S+ [^'`] (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
+        \s+
+        \[\[ .+? \]\]  # supplied Jyutping
+        (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
+        \s  # missing comma
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_WILLIAMS_UNITALICISED_SEMICOLON_PATTERN = re.compile(
+    pattern=r'''
+        _ \S [^_\n]*? _  # Williams romanisation
+        \s+
+        \[\[ .+? \]\]  # supplied Jyutping
+        (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
+        ;  # unitalicised semicolon
+    ''',
+    flags=re.VERBOSE,
+)
+
+LINTING_WILLIAMS_LOCATED_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] \n
+        (?P<item_content> (?s: .*? ) )
+        (?= ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] \n | \Z )
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP = 'headword_run'
+LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP = 'item_content'
+
+LINTING_ANNOTATION_WITH_HEADWORD_PATTERN = re.compile(
+    pattern=r'\[\[(?P<source>Kangxi|Fan Wan) \{?(?P<annotation_character>\S)\S*?(?<!\^): .*?\]\]'
+)
+LINTING_ANNOTATION_WITH_HEADWORD_SOURCE_GROUP = 'source'
+LINTING_ANNOTATION_WITH_HEADWORD_CHARACTER_GROUP = 'annotation_character'
+
+LINTING_ANNOTATION_WITHOUT_HEADWORD_PATTERN = re.compile(
+    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): .*?\]\]',
+)
+LINTING_ANNOTATION_WITHOUT_HEADWORD_SOURCE_GROUP = 'source'
+
+LINTING_RENDERING_SENSE_PATTERN = re.compile(
+    pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]* (?P<sense_renderings> .* )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_RENDERING_SENSE_TYPE_GROUP = 'sense_type'
+LINTING_RENDERING_SENSE_RENDERINGS_GROUP = 'sense_renderings'
+
+LINTING_JYUTPING_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        - [ ]+
+        (?P<character_content> \S+ )
+        \s+
+        \( (?P<jyutping> .*? ) \)
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_JYUTPING_ITEM_CHARACTER_CONTENT_GROUP = 'character_content'
+LINTING_JYUTPING_ITEM_JYUTPING_GROUP = 'jyutping'
+
+LINTING_LENTICULAR_BRACKETED_TERM_PATTERN = re.compile(
+    pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
+    flags=re.VERBOSE,
+)
+LINTING_LENTICULAR_BRACKETED_TERM_REPL = r'\g<term>'
+
+LINTING_W_CONTENT_CANONICAL_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ (?: [-][ ] (?! \[\[Page | ~~ .*? ~~$ ) | [A-Z_] )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_P_CONTENT_ITEM_PATTERN = re.compile(
+    pattern='^[ ]+1[.].*',
+    flags=re.MULTILINE,
+)
+LINTING_LOCATOR_LINE_PATTERN = re.compile(
+    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+
+LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN = re.compile(
+    pattern=r'(?i:Alternative form).*See (?P<potential_target>.*)',
+)
+LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP = 'potential_target'
+
+LINTING_READING_VARIATION_REDIRECT_PATTERN = re.compile(
+    pattern=r'(?i:Reading variation).*See (?P<potential_target>.*)',
+)
+LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP = 'potential_target'
+
+LINTING_LINK_PATTERN = re.compile(
+    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
+    flags=re.VERBOSE,
+)
+LINTING_LINK_CHARACTER_CONTENT_GROUP = 'link_character_content'
+LINTING_LINK_JYUTPING_GROUP = 'link_jyutping'
+
+INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
+    pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
+    flags=re.IGNORECASE | re.VERBOSE,
+)
+INDEXING_WILLIAMS_VOWEL_REPL = r'\g<vowel>'
+
+INDEXING_ELLIPSIS_ITEM_PATTERN = re.compile(
+    pattern=r'[- ] \[\[\.\.\.\]\][;.\n]'
+)
+INDEXING_REDIRECTION_PATTERN = re.compile(
+    pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
+    flags=re.VERBOSE,
+)
+
+INDEXING_PAGE_LINK_PATTERN = re.compile(
+    pattern='[$] (?P<jyutping> [a-z]+ )',
+    flags=re.VERBOSE,
+)
+INDEXING_PAGE_LINK_REPL = r'\g<jyutping>'
+
+INDEXING_ENTRY_LINK_PATTERN = re.compile(
+    pattern=r'[$] (?P<headword> \S ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )',
+    flags=re.VERBOSE,
+)
+INDEXING_ENTRY_LINK_REPL = r'\g<headword> \g<jyutping>\g<tone_number>'
+
+INDEXING_LOCAL_ENTRY_LINK_PATTERN = re.compile(
+    pattern=r'[$] (?P<headword> \S ) (?P<tone_number> [1-6] )',
+    flags=re.VERBOSE,
+)
+INDEXING_LOCAL_ENTRY_LINK_REPL = r'\g<headword>'
+
+INDEXING_SPECIFIED_LINK_PATTERN = re.compile(
+    pattern=r'\[ (?P<text> [^\[\]]+? ) \] \( .+? \)',
+    flags=re.VERBOSE,
+)
+INDEXING_SPECIFIED_LINK_REPL = r'\g<text>'
+
+INDEXING_REFERENCED_LINK_PATTERN = re.compile(
+    pattern=r'\[ (?P<text> [^\[\]]+? ) \] \[ .+? \]',
+    flags=re.VERBOSE,
+)
+INDEXING_REFERENCED_LINK_REPL = r'\g<text>'
+
+INDEXING_BAXTER_NOTATION_PATTERN = re.compile(
+    pattern=r"\(` (?P<baxter> [ 'a-z+XH]+ ) `\)",
+    flags=re.VERBOSE,
+)
+INDEXING_BAXTER_NOTATION_REPL = r'(\g<baxter>)'
+
+INDEXING_NON_BREAKING_SPACE_PATTERN = re.compile(
+    pattern='(?<!~)~(?!~)',
+)
+
+INDEXING_BROAD_RIMES_PATTERN = re.compile(
+    pattern='B[1-5][.][a-z0-9]+ ',
+)
+INDEXING_BROAD_RIMES_REPL = '《廣韻》'
+
+INDEXING_COLLECTED_RIMES_PATTERN = re.compile(
+    pattern='C[.][0-9]+[.]cn/n?[0-9]+',
+)
+INDEXING_COLLECTED_RIMES_REPL = '《集韻》'
+
+INDEXING_BLOCK_FENCE_PATTERN = re.compile(
+    pattern='["=+-]{2,}$',
+    flags=re.MULTILINE,
+)
+INDEXING_NUMBERED_ITEM_PATTERN = re.compile(
+    pattern=r'[0-9]+\. ',
+)
+INDEXING_BACKSLASH_CONTINUATION_PATTERN = re.compile(
+    pattern=r'[ ]* \\ [ ]* \n [ ]*',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+INDEXING_LANG_ATTRIBUTE_PATTERN = re.compile(
+    pattern=r'\{lang=\S+\}',
+)
+
+INDEXING_INS_OPENING_PATTERN = re.compile(
+    pattern=r'<ins>\s+',
+)
+INDEXING_INS_CLOSING_PATTERN = re.compile(
+    pattern=r'\s+</ins>',
+)
+INDEXING_INS_REPL = '``'
+
+INDEXING_DEL_OPENING_PATTERN = re.compile(
+    pattern=r'<del>\s+',
+)
+INDEXING_DEL_CLOSING_PATTERN = re.compile(
+    pattern=r'\s+</del>',
+)
+INDEXING_DEL_REPL = '~~'
+
+INDEXING_REDUNDANT_EDIT_PATTERN = re.compile(
+    pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
+    flags=re.VERBOSE,
+)
+INDEXING_REDUNDANT_EDIT_REPL = r'\g<run>'
+
 
 class Utilities:
     @staticmethod
@@ -859,40 +1581,26 @@ class Utilities:
 class CmdIdioms:
     @staticmethod
     def strip_comments(content: str) -> str:
-        return re.sub(
-            pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >',
-            repl='',
-            string=content,
-            flags=re.DOTALL | re.VERBOSE,
-        )
+        return COMMENTS_PATTERN.sub(repl='', string=content)
 
     @staticmethod
     def strip_scripts(content: str) -> str:
-        return re.sub(pattern='<script>.*?</script>', repl='', string=content, flags=re.DOTALL)
+        return SCRIPTS_PATTERN.sub(repl='', string=content)
 
     @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
             key: content
-            for match in re.finditer(
-                pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
-                string=content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+            for match in ENTRY_ITEM_PATTERN.finditer(string=content)
             if (
-                key := match.group('key'),
-                content := match.group('content'),
+                key := match.group(ENTRY_ITEM_KEY_GROUP),
+                content := match.group(ENTRY_ITEM_CONTENT_GROUP),
             )
         }
 
     @staticmethod
     def strip_compositions(content: str) -> str:
-        return re.sub(
-            pattern=r'\{ (?P<character> \S ) = \S+? \}',
-            repl=r'\g<character>',
-            string=content,
-            flags=re.VERBOSE
-        )
+        return COMPOSITION_PATTERN.sub(repl=COMPOSITION_REPL, string=content)
 
     @staticmethod
     def lint_see_also_link_order(see_also_links: Optional[list['SeeAlsoLink']]):
@@ -986,86 +1694,61 @@ class CmdSource:
         if '\t' not in content:
             return
 
-        if context_match := re.search(pattern=r'.*\t.*', string=content):
+        if context_match := LINTING_TAB_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
             raise LintException(f'tab character present in `{context}`')
 
     @staticmethod
     def lint_typography_quote(content: str):
-        quotes = '‘’“”'
-
         # Fast elimination of negative cases
-        if not any(quote in content for quote in quotes):
+        if not any(quote in content for quote in LINTING_NON_STRAIGHT_QUOTES):
             return
 
-        if context_match := re.search(
-            pattern=fr'\S* (?P<quote>[{quotes}]) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if context_match := LINTING_NON_STRAIGHT_QUOTE_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
-            quote = context_match.group('quote')
+            quote = context_match.group(LINTING_NON_STRAIGHT_QUOTE_GROUP)
             raise LintException(f'non-straight quote `{quote}` present in `{context}`')
 
     @staticmethod
     def lint_italicised_abbreviation_dot(content: str):
-        abbreviations = ['lit', 'met']
-
         # Fast elimination of negative cases
-        if not any(f'_{abbreviation}_' in content for abbreviation in abbreviations):
+        if not any(f'_{abbreviation}_' in content for abbreviation in LINTING_UNDOTTED_ABBREVIATIONS):
             return
 
-        abbreviations_pattern = '|'.join(re.escape(abbreviation) for abbreviation in abbreviations)
-
-        if context_match := re.search(
-            pattern=fr'\S* _ (?P<undotted_abbreviation> {abbreviations_pattern} ) _ \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if context_match := LINTING_UNDOTTED_ABBREVIATIONS_PATTERN.search(string=content):
             context = context_match.group()
-            undotted_abbreviation = context_match.group('undotted_abbreviation')
+            undotted_abbreviation = context_match.group(LINTING_UNDOTTED_ABBREVIATION_GROUP)
             raise LintException(f'italicised abbreviation `{undotted_abbreviation}` undotted in `{context}`')
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):
-        cjk_compatibility_ideograph_pattern = r'[\uF900-\uFAFF\U0002F800-\U0002FA1F]'
-
         # Fast elimination of negative cases
-        if not re.search(pattern=cjk_compatibility_ideograph_pattern, string=content):
+        if not LINTING_CJK_COMPATIBILITY_IDEOGRAPH_PATTERN.search(string=content):
             return
 
-        if context_match := re.search(
-            pattern=fr'\S*? (?P<character> {cjk_compatibility_ideograph_pattern} ) \S*',
+        if context_match := LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_PATTERN.search(
             string=CmdIdioms.strip_scripts(content),
-            flags=re.VERBOSE,
         ):
             context = context_match.group()
-            character = context_match.group('character')
+            character = context_match.group(LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_CHARACTER_GROUP)
             raise LintException(f'compatibility ideograph `{character}` present in `{context}`')
 
     @staticmethod
     def lint_cjk_non_bmp_composition(content: str):
-        whitelisted_primitives = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
-        exempt_pattern = '|'.join([
-            r'\{ \S = \S+? \}',
-            r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
-        ])
-        non_exempt_content = re.sub(
-            pattern=exempt_pattern,
+        non_exempt_content = LINTING_COMPOSITION_EXEMPT_PATTERN.sub(
             repl='',
             string=CmdIdioms.strip_scripts(content),
-            flags=re.VERBOSE,
         )
 
-        for context_match in re.finditer(
-            pattern=r'\S* (?P<character> [𠀀-𳑿] ) (?! [@^] ) \S*',
-            string=non_exempt_content,
-            flags=re.VERBOSE,
-        ):
-            context = context_match.group()
-            character = context_match.group('character')
+        # Fast elimination of negative cases
+        if not LINTING_COMPOSITION_PATTERN.search(string=non_exempt_content):
+            return
 
-            if character in whitelisted_primitives:
+        for context_match in LINTING_COMPOSITION_CONTEXT_PATTERN.finditer(string=non_exempt_content):
+            context = context_match.group()
+            character = context_match.group(LINTING_COMPOSITION_CONTEXT_CHARACTER_GROUP)
+
+            if character in LINTING_COMPOSITION_WHITELISTED_PRIMITIVES:
                 continue
 
             raise LintException(
@@ -1075,81 +1758,41 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_variation_selector(content: str):
-        cjk_variation_selector_pattern = r'[\uFE00-\uFE0F]'
-
         # Fast elimination of negative cases
-        if not re.search(pattern=cjk_variation_selector_pattern, string=content):
+        if not LINTING_CJK_VARIANT_SELECTOR_PATTERN.search(string=content):
             return
 
-        if context_match := re.search(
-            pattern=fr'\S* (?P<character>.) {cjk_variation_selector_pattern} \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if context_match := LINTING_CJK_VARIANT_SELECTOR_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
-            character = context_match.group('character')
+            character = context_match.group(LINTING_CJK_VARIANT_SELECTOR_CONTEXT_CHARACTER_GROUP)
             raise LintException(f'variation selector present on `{character}` in `{context}`')
 
     @staticmethod
     def lint_insertion_deletion_context(content: str):
-        insertion_deletion_markers = ['[[', '``', '<ins', '~~', '<del']
-
         # Fast elimination of negative cases (in `content`)
-        if not any(marker in content for marker in insertion_deletion_markers):
+        if not any(marker in content for marker in LINTING_INSERTION_DELETION_MARKERS):
             return
 
-        exempt_pattern = '|'.join([
-            r'< (?P<backticks> `+ ) (?s: .+? ) (?P=backticks) > ',  # literals
-            r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
-            r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
-            r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
-            r'^ [#]{3} [+]? [ ] \S+ [1-6] [ ][|][ ] .*? [ ] \[\[ [a-z]+[1-6] \]\] $',  # character entry headings
-            r'^ (?: WH | WV | WP | W ) \n (?: [ ].*\n )*',  # Williams entry items
-            r'''
-                ^ (?P<block_delimiter> [-+='"|]{2,} ) \{ \.williams (?: \s .*? )? \} \n
-                (?s: .*? ) \n
-                (?P=block_delimiter) $
-            ''',
-            r'<span [ ] class="williams"> .*? </span>',
-            re.escape('[[Not present]]'),  # contextual non-insertions
-        ])
-        non_exempt_content = re.sub(
-            pattern=exempt_pattern,
-            repl='',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )
+        non_exempt_content = LINTING_INSERTION_DELETION_EXEMPT_PATTERN.sub(repl='', string=content)
 
         # Fast elimination of negative cases (in `non_exempt_content`)
-        if not any(marker in non_exempt_content for marker in insertion_deletion_markers):
+        if not any(marker in non_exempt_content for marker in LINTING_INSERTION_DELETION_MARKERS):
             return
 
-        if insertion_context_match := re.search(
-            pattern=r'.* (?: \[\[ | `` | <ins ) .*',
-            string=non_exempt_content,
-            flags=re.VERBOSE,
-        ):
+        if insertion_context_match := LINTING_INSERTION_CONTEXT_PATTERN.search(string=non_exempt_content):
             insertion_context = insertion_context_match.group()
             raise LintException(f'non-contextual insertion in `{insertion_context}`')
 
-        if deletion_context_match := re.search(
-            pattern=r'.* (?: ~~ | <del ) .*',
-            string=non_exempt_content,
-            flags=re.VERBOSE,
-        ):
+        if deletion_context_match := LINTING_DELETION_CONTEXT_PATTERN.search(string=non_exempt_content):
             deletion_context = deletion_context_match.group()
             raise LintException(f'non-contextual deletion in `{deletion_context}`')
 
     @staticmethod
     def lint_reduplicated_edit(content: str):
-        if reduplicated_edit_match := re.search(
-            pattern=r'~~(?P<old_run>.*?)~~ [ ]+ ``(?P<new_run>.*?)`` [ ]+ ~~(?P=old_run)~~ [ ]+ ``(?P=new_run)``',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if reduplicated_edit_match := LINTING_REDUPLICATED_EDIT_PATTERN.search(string=content):
             reduplicated_edit = reduplicated_edit_match.group()
-            old_run = reduplicated_edit_match.group('old_run')
-            new_run = reduplicated_edit_match.group('new_run')
+            old_run = reduplicated_edit_match.group(LINTING_REDUPLICATED_EDIT_OLD_RUN_GROUP)
+            new_run = reduplicated_edit_match.group(LINTING_REDUPLICATED_EDIT_NEW_RUN_GROUP)
             consolidated_edit = f'~~{old_run} {old_run}~~ ``{new_run} {new_run}``'
             raise LintException(
                 f'reduplicated edit `{reduplicated_edit}` '
@@ -1162,86 +1805,55 @@ class CmdSource:
         if 'U+2F' not in content:
             return
 
-        if radical_context_match := re.search(
-            pattern=r'\S* (?P<code_point> U[+] 2F[0-9A-F]{2} ) [ ]+ (?P<character> \S )',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if radical_context_match := LINTING_RADICAL_CONTEXT_PATTERN.search(string=content):
             radical_context = radical_context_match.group()
-            code_point = radical_context_match.group('code_point')
-            character = radical_context_match.group('character')
+            code_point = radical_context_match.group(LINTING_RADICAL_CONTEXT_CODE_POINT_GROUP)
+            character = radical_context_match.group(LINTING_RADICAL_CONTEXT_CHARACTER_GROUP)
 
             if code_point != Utilities.unicode_code_point(character):
                 raise LintException(f'radical `{code_point}` is not `{character}` in `{radical_context}`')
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
-        bad_entering_tone_pattern = r'[ptk] \([1-6]\)'
-
         # Fast elimination of negative cases
-        if not re.search(pattern=bad_entering_tone_pattern, string=content, flags=re.VERBOSE):
+        if not LINTING_BAD_ENTERING_TONE_PATTERN.search(string=content):
             return
 
-        if run_match := re.search(
-            pattern=fr'\S+ {bad_entering_tone_pattern}',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if run_match := LINTING_BAD_ENTERING_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'bad Williams entering tone in `{run}`')
 
     @staticmethod
     def lint_williams_left_tone_position(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern=r'[^_] \([1245]\) [_ ]', string=content, flags=re.VERBOSE):
+        if not LINTING_BAD_WILLIAMS_LEFT_TONE_PATTERN.search(string=content):
             return
 
-        if run_match := re.search(
-            pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if run_match := LINTING_BAD_WILLIAMS_LEFT_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'bad Williams left-tone position in `{run}`')
 
     @staticmethod
     def lint_williams_right_tone_position(content: str):
-        if run_match := re.search(
-            pattern=r'[_ ] \([36789]\) (?! _ ) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if run_match := LINTING_BAD_WILLIAMS_RIGHT_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'bad Williams right-tone position in `{run}`')
 
     @staticmethod
     def lint_williams_initial_aspirate(content: str):
-        # Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
-        if run_match := re.search(
-            pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
-            string=CmdIdioms.strip_scripts(content),
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_INITIAL_ASPIRATE_PATTERN.search(string=CmdIdioms.strip_scripts(content)):
             run = run_match.group()
-            two_characters_before = run_match.group('two_characters_before')
+            two_characters_before = run_match.group(LINTING_WILLIAMS_INITIAL_ASPIRATE_TWO_CHARACTERS_BEFORE_GROUP)
 
             # Elimination of false positive cases
-            if re.fullmatch(
-                pattern=r'.p | .t | .k | kw | ts | ch | `` | .\^',
-                string=two_characters_before,
-                flags=re.DOTALL | re.IGNORECASE | re.VERBOSE,
-            ):
+            if LINTING_WILLIAMS_INITIAL_ASPIRATE_FALSE_POSITIVE_PATTERN.fullmatch(string=two_characters_before):
                 return
 
             raise LintException(f'bad Williams aspirate in `{run}` (suppress with caret before aspirate if legitimate)')
 
     @staticmethod
     def lint_williams_tone_45_aspirate(content: str):
-        if run_match := re.search(
-            pattern=r"\([45]\) (?: p | t(?!s) | k(?!w) | kw | ts | ch) (?! \('\) ) \S+",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_TONE_45_ASPIRATE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(
                 f'unaspirated Williams tone 4 or 5 in `{run}` (suppress with caret before initial if legitimate)'
@@ -1249,11 +1861,7 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_tone_6_aspirate(content: str):
-        if run_match := re.search(
-            pattern=r"(?: p | t | k | kw | ts | ch) \('\) (?! \^ ) \S+ \(6\)",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_TONE_6_ASPIRATE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(
                 f'aspirated Williams tone 6 in `{run}` (suppress with caret after aspirate if legitimate)'
@@ -1262,29 +1870,21 @@ class CmdSource:
     @staticmethod
     def lint_williams_diphthong(content: str):
         # Fast elimination of negative cases
-        if not any(diphthong in content.lower() for diphthong in ['(i/)u', 'u(i/)']):
+        if not any(diphthong in content.lower() for diphthong in LINTING_WILLIAMS_BAD_DIPHTHONGS):
             return
 
-        if context_match := re.search(
-            pattern=r"\S* (?P<diphthong> \(i/\)u | u\(i/\) ) \S*",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if context_match := LINTING_WILLIAMS_BAD_DIPHTHONG_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
-            diphthong = context_match.group('diphthong')
+            diphthong = context_match.group(LINTING_WILLIAMS_BAD_DIPHTHONG_GROUP)
             raise LintException(f'bad Williams diphthong `{diphthong}` present in `{context}`')
 
     @staticmethod
     def lint_williams_nasal_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not any(bad_syllable in content.lower() for bad_syllable in ["m'", "ng'"]):
+        if not any(bad_syllable in content.lower() for bad_syllable in LINTING_WILLIAMS_BAD_NASAL_SYLLABLES):
             return
 
-        if context_match := re.search(
-            pattern=r"\S* (?: m | ng ) ' \S*",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if context_match := LINTING_WILLIAMS_BAD_NASAL_APOSTROPHE_CONTEXT_PATTERN.search(string=content):
             context = context_match.group()
             raise LintException(
                 f'wrong-side Williams nasal apostrophe in `{context}` '
@@ -1294,14 +1894,10 @@ class CmdSource:
     @staticmethod
     def lint_williams_apical_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern=r"sz [^'`^]", string=content.lower(), flags=re.IGNORECASE | re.VERBOSE):
+        if not LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_PATTERN.search(string=content.lower()):
             return
 
-        if run_match := re.search(
-            pattern=r"\S* sz [^'`^] \S*",
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_WILLIAMS_BAD_APICAL_APOSTROPHE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(
                 f'missing Williams apical apostrophe in `{run}` (suppress with caret after `sz` if legitimate)'
@@ -1309,46 +1905,25 @@ class CmdSource:
 
     @staticmethod
     def lint_jyutping_entering_tone(content: str):
-        if run_match := re.search(
-            pattern=r'(?<! [</] ) \b [a-z]+ [789] \b',
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_UNALIASED_JYUTPING_ENTERING_TONE_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'unaliased entering tone number in Jyutping `{run}`')
 
     @staticmethod
     def lint_jyutping_yod(content: str):
-        if run_match := re.search(
-            pattern=r'\b y [a-z]* [1-6] \b',
-            string=content,
-            flags=re.IGNORECASE | re.VERBOSE,
-        ):
+        if run_match := LINTING_MISSPELT_JYUTPING_YOD_RUN_PATTERN.search(string=content):
             run = run_match.group()
             raise LintException(f'misspelt yod in Jyutping `{run}`')
 
     @staticmethod
     def lint_romanisation_character_consistency(content: str):
-        for dual_romanisation_match in re.finditer(
-            pattern=r'''
-                _ (?P<williams> \S [^_\n]*? \S ) _
-                \s+
-                (?: \[\[ | \( )
-                    (?P<jyutping_caret> \^? )
-                    (?P<jyutping> [a-z1-6 ]+ )
-                    (?P<character_content> [^a-z1-6 \]\)]*? )
-                    (?P<character_caret> \^? )
-                (?: \]\] | \) )
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        for dual_romanisation_match in LINTING_DUAL_ROMANISATION_PATTERN.finditer(string=content):
             dual_romanisation = dual_romanisation_match.group()
-            jyutping_caret = dual_romanisation_match.group('jyutping_caret')
-            williams = dual_romanisation_match.group('williams').replace('-', ' ')
-            jyutping = dual_romanisation_match.group('jyutping').strip()
-            character_content = dual_romanisation_match.group('character_content')
-            character_caret = dual_romanisation_match.group('character_caret')
+            jyutping_caret = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_JYUTPING_CARET_GROUP)
+            williams = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_WILLIAMS_GROUP).replace('-', ' ')
+            jyutping = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_JYUTPING_GROUP).strip()
+            character_content = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_CHARACTER_CONTENT_GROUP)
+            character_caret = dual_romanisation_match.group(LINTING_DUAL_ROMANISATION_CHARACTER_CARET_GROUP)
 
             williams_list = williams.split()
             jyutping_list = jyutping.split()
@@ -1358,7 +1933,7 @@ class CmdSource:
             jyutping_count = len(jyutping_list)
             character_count = len(characters)
 
-            dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
+            dual_romanisation_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=dual_romanisation)
 
             if character_count and jyutping_count != character_count and not character_caret:
                 raise LintException(
@@ -1381,7 +1956,7 @@ class CmdSource:
 
                 continue
 
-            edited_williams_list = re.sub(pattern='~~.+?~~', repl='', string=williams).split()
+            edited_williams_list = DELETION_PATTERN.sub(repl='', string=williams).split()
             edited_williams_count = len(edited_williams_list)
 
             if edited_williams_count == jyutping_count:
@@ -1411,18 +1986,15 @@ class CmdSource:
     @staticmethod
     def lint_composition_component_beside(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern='[⿰⿲]', string=content):
+        if not LINTING_COMPONENT_BESIDE_PATTERN.search(string=content):
             return
 
-        for context_match in re.finditer(
-            pattern=r'\S* (?P<operator> [⿰⿲] ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        for context_match in LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN.finditer(string=content):
             context = context_match.group()
-            operator = context_match.group('operator')
-            component = context_match.group('component')
-            component_beside = component.translate(str.maketrans('牛王糸言金', '牜𤣩糹訁釒'))
+            operator = context_match.group(LINTING_COMPONENT_BESIDE_OPERATOR_GROUP)
+            component = context_match.group(LINTING_COMPONENT_BESIDE_COMPONENT_GROUP)
+            component_beside = component.translate(str.maketrans(LINTING_COMPONENTS_NON_BESIDE,
+                                                                 LINTING_COMPONENTS_BESIDE))
 
             if component == '糸':
                 suppression_parenthetical = f' (suppress with at after `{operator}{component}` if legitimate)'
@@ -1461,17 +2033,12 @@ class RomanisationComparison:
         self.is_consistent = is_consistent
 
     @staticmethod
+    @functools.lru_cache(maxsize=None)
     def compute_expected_jyutping_list(williams: str) -> list[str]:
-        williams_toneless = re.sub(
-            pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
+        williams_toneless = UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN.sub(repl='', string=williams.lower())
+        williams_tone_number = UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN.sub(
             repl='',
-            string=williams.lower(),
-            flags=re.VERBOSE,
-        )
-        williams_tone_number = re.sub(
-            pattern='[^1-9]',
-            repl='',
-            string=re.sub(pattern='~~.+?~~', repl='', string=williams),
+            string=DELETION_PATTERN.sub(repl='', string=williams),
         )
 
         expected_jyutping_toneless_list = TONELESS_JYUTPING_LIST_FROM_WILLIAMS.get(williams_toneless, [])
@@ -1593,34 +2160,22 @@ class EntryPage:
 
     @staticmethod
     def extract_page_title(page_content: str) -> str:
-        if not (match := re.search(
-            pattern=r'^\* %title --> (?P<title>[a-z]+)$',
-            string=page_content,
-            flags=re.MULTILINE,
-        )):
+        if not (match := ENTRY_PAGE_TITLE_PATTERN.search(string=page_content)):
             raise LintException('page title not found')
 
-        return match.group('title')
+        return match.group(ENTRY_PAGE_TITLE_GROUP)
 
     @staticmethod
     def extract_tone_headings(page_content: str, page_heading_jyutping: str) -> list['ToneHeading']:
         return [
             ToneHeading(content, tone_number, williams_run, jyutping, chinese, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
-                    \s+ (?P<williams_run> .*? )
-                    \s* \[\[ (?P<jyutping> [a-z]+ [1-6] ) \s+ (?P<chinese> \S+ ) \]\] $
-                ''',
-                string=page_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+            for match in TONE_HEADING_PATTERN.finditer(string=page_content)
             if (
                 content := match.group(),
-                tone_number := match.group('tone_number'),
-                williams_run := match.group('williams_run'),
-                jyutping := match.group('jyutping'),
-                chinese := match.group('chinese'),
+                tone_number := match.group(TONE_HEADING_TONE_NUMBER_GROUP),
+                williams_run := match.group(TONE_HEADING_WILLIAMS_RUN_GROUP),
+                jyutping := match.group(TONE_HEADING_JYUTPING_GROUP),
+                chinese := match.group(TONE_HEADING_CHINESE_GROUP),
             )
         ]
 
@@ -1628,14 +2183,10 @@ class EntryPage:
     def extract_character_navigators(page_content: str) -> list['CharacterNavigator']:
         return [
             CharacterNavigator(content, tone_number)
-            for match in re.finditer(
-                pattern='<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
-                string=page_content,
-                flags=re.DOTALL | re.MULTILINE,
-            )
+            for match in CHARACTER_NAVIGATOR_PATTERN.finditer(string=page_content)
             if (
                 content := match.group(),
-                tone_number := match.group('tone_number'),
+                tone_number := match.group(CHARACTER_NAVIGATOR_TONE_NUMBER_GROUP),
             )
         ]
 
@@ -1644,30 +2195,16 @@ class EntryPage:
         return [
             CharacterEntry(heading_content, addition, character_run, tone_number, williams_run, jyutping, non_canonical,
                            entry_content, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ (?P<heading_content>
-                        [#]{3} (?P<addition> [+]? ) [ ]
-                        (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
-                        (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
-                    )
-                    \n\n
-                    ^ [$]{2} (?P<non_canonical> [.]? ) \n
-                    (?P<entry_content> (?s: .+? ) )
-                    ^ [$]{2} \n
-                ''',
-                string=page_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+            for match in CHARACTER_ENTRY_PATTERN.finditer(string=page_content)
             if (
-                heading_content := match.group('heading_content'),
-                addition := match.group('addition'),
-                character_run := match.group('character_run'),
-                tone_number := match.group('tone_number'),
-                williams_run := match.group('williams_run'),
-                jyutping := match.group('jyutping'),
-                non_canonical := match.group('non_canonical'),
-                entry_content := match.group('entry_content'),
+                heading_content := match.group(CHARACTER_ENTRY_HEADING_CONTENT_GROUP),
+                addition := match.group(CHARACTER_ENTRY_ADDITION_GROUP),
+                character_run := match.group(CHARACTER_ENTRY_CHARACTER_RUN_GROUP),
+                tone_number := match.group(CHARACTER_ENTRY_TONE_NUMBER_GROUP),
+                williams_run := match.group(CHARACTER_ENTRY_WILLIAMS_RUN_GROUP),
+                jyutping := match.group(CHARACTER_ENTRY_JYUTPING_GROUP),
+                non_canonical := match.group(CHARACTER_ENTRY_NON_CANONICAL_GROUP),
+                entry_content := match.group(CHARACTER_ENTRY_CONTENT_GROUP),
             )
         ]
 
@@ -1702,12 +2239,7 @@ class EntryPage:
 
         page_heading_williams_set = set(page_heading.williams_list)
         tone_heading_williams_set = set(
-            re.sub(
-                pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
-                repl='',
-                string=williams,
-                flags=re.VERBOSE,
-            )
+            LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN.sub(repl='', string=williams)
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
@@ -1715,7 +2247,7 @@ class EntryPage:
         tone_heading_williams_set_redundant = set(
             f'``{williams}``'  # insertion is redundant if non-insertion is also present
             for williams in tone_heading_williams_set_supplemented
-            if not re.fullmatch(pattern='``.+``', string=williams)
+            if not INSERTION_PATTERN.fullmatch(string=williams)
         )
         page_heading_williams_set_expected = (
             tone_heading_williams_set_supplemented  # need supplemented for WH implied headings
@@ -1764,7 +2296,7 @@ class EntryPage:
             character_entry_williams_set_redundant = set(
                 f'``{williams}``'  # insertion is redundant if non-insertion is also present
                 for williams in character_entry_williams_set
-                if not re.fullmatch(pattern='``.+``', string=williams)
+                if not INSERTION_PATTERN.fullmatch(string=williams)
             )
             tone_heading_williams_set_expected = (
                 character_entry_williams_set
@@ -1806,7 +2338,7 @@ class RadicalPage:
         )
 
         def replacement_function(match: re.Match[str]) -> str:
-            radical = match.group('radical')
+            radical = match.group(RADICAL_TABLE_RADICAL_GROUP)
             radical_strokes_list = radical_strokes_list_from_radical.get(radical, [])
             character_entries_from_stroke_count = {
                 radical_strokes.stroke_count: character_entries_from_radical_strokes[radical_strokes]
@@ -1858,12 +2390,7 @@ class RadicalPage:
                 f"<## /radical-{radical}-characters ##>",
             ])
 
-        return re.sub(
-            pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
-            repl=replacement_function,
-            string=content,
-            flags=re.DOTALL,
-        )
+        return RADICAL_TABLE_PATTERN.sub(repl=replacement_function, string=content)
 
 
 class PageHeading:
@@ -1872,16 +2399,12 @@ class PageHeading:
     jyutping: str
 
     def __init__(self, page_content: str, file_name: str, page_title: str):
-        if not (match := re.search(
-            pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
-            string=page_content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )):
+        if not (match := PAGE_HEADING_PATTERN.search(string=page_content)):
             raise LintException('page heading `#{.williams} ...` not found')
 
         content = match.group()
-        williams_run = match.group('williams_run')
-        jyutping = match.group('jyutping')
+        williams_run = match.group(PAGE_HEADING_WILLIAMS_RUN_GROUP)
+        jyutping = match.group(PAGE_HEADING_JYUTPING_GROUP)
 
         if file_name != f'entries/{jyutping}.cmd':
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs file name `{file_name}`')
@@ -1890,7 +2413,7 @@ class PageHeading:
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs page title `{page_title}`')
 
         williams_list = [
-            re.sub(pattern='[.]', repl='', string=williams)
+            williams.replace('.', '')
             for williams in williams_run.split()
         ]
 
@@ -1907,12 +2430,8 @@ class PageEntry:
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
-        if match := re.search(
-            pattern=r'<## /tones ##>\s+^\$\$\n(?P<content>.+?)^\$\$\n',
-            string=page_content,
-            flags=re.DOTALL | re.MULTILINE,
-        ):
-            content = match.group('content')
+        if match := PAGE_ENTRY_PATTERN.search(string=page_content):
+            content = match.group(PAGE_ENTRY_CONTENT_GROUP)
             content_from_key = CmdIdioms.parse_entry_items(content)
 
             PageEntry.lint_keys(content_from_key)
@@ -1942,16 +2461,9 @@ class PageEntry:
     @staticmethod
     def lint_keys(content_from_key: dict[str, str]):
         keys = ''.join(f'{key} ' for key in content_from_key)
-        pattern_readable = 'WH [WV] WP MP [C] [S] '
-        pattern = re.sub(
-            pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
-            repl=r'(?:\g<optional_key> )?',
-            string=pattern_readable,
-            flags=re.VERBOSE,
-        )
 
-        if not re.fullmatch(pattern=pattern, string=keys):
-            raise LintException(f'page entry keys `{keys}` do not match pattern `{pattern_readable}`')
+        if not PAGE_ENTRY_KEYS_PATTERN.fullmatch(string=keys):
+            raise LintException(f'page entry keys `{keys}` do not match pattern `{PAGE_ENTRY_KEYS_PATTERN_READABLE}`')
 
     @staticmethod
     def lint_wh_contextual_non_insertion(content: str):
@@ -1985,13 +2497,9 @@ class PageEntry:
     def extract_williams_heading_list(content: str) -> list[str]:
         return [
             williams_run.replace('.', '')
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<williams_run> \S+ )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in PAGE_ENTRY_WILLIAMS_HEADING_ITEM_PATTERN.finditer(string=content)
             if (
-                williams_run := match.group('williams_run'),
+                williams_run := match.group(PAGE_ENTRY_WILLIAMS_HEADING_RUN_GROUP),
             )
         ]
 
@@ -1999,13 +2507,9 @@ class PageEntry:
     def extract_jyutping_heading_list(content: str) -> list[str]:
         return [
             jyutping
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in PAGE_ENTRY_JYUTPING_HEADING_ITEM_PATTERN.finditer(string=content)
             if (
-                jyutping := match.group('jyutping'),
+                jyutping := match.group(PAGE_ENTRY_JYUTPING_HEADING_JYUTPING_GROUP),
             )
         ]
 
@@ -2016,14 +2520,10 @@ class PageEntry:
 
         return [
             SeeAlsoLink(content, jyutping, character_content='', is_canonical=True)
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in PAGE_ENTRY_SEE_ALSO_ITEM_PATTERN.finditer(string=content)
             if (
-                content := match.group('content'),
-                jyutping := match.group('jyutping'),
+                content := match.group(PAGE_ENTRY_SEE_ALSO_CONTENT_GROUP),
+                jyutping := match.group(PAGE_ENTRY_SEE_ALSO_JYUTPING_GROUP),
             )
         ]
 
@@ -2032,11 +2532,7 @@ class ToneNavigator:
     content: Optional[str]
 
     def __init__(self, page_content: str):
-        if match := re.search(
-            pattern='<## tones ##>.*?<## /tones ##>',
-            string=page_content,
-            flags=re.DOTALL,
-        ):
+        if match := TONE_NAVIGATOR_PATTERN.search(string=page_content):
             content = match.group()
         else:
             content = None
@@ -2059,13 +2555,13 @@ class ToneHeading:
                 f'vs Jyutping `{jyutping}` in tone heading `{content}`'
             )
 
-        williams_tones = set(re.findall(pattern=r'\([1-9]\)', string=williams_run))
+        williams_tones = set(WILLIAMS_TONE_PATTERN.findall(string=williams_run))
 
         if len(williams_tones) != 1:
             raise LintException(f'non-sole Williams tones `{williams_tones}` found in tone heading `{content}`')
 
         williams_tone = williams_tones.pop()
-        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
+        williams_tone_number = ROUND_BRACKETS_PATTERN.sub(repl='', string=williams_tone)
         williams_tone_index = int(williams_tone_number) - 1
 
         if CANTONESE_TONES_CHINESE[williams_tone_index] != chinese:
@@ -2083,7 +2579,7 @@ class ToneHeading:
             raise LintException(f'Jyutping `{jyutping}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
-            re.sub(pattern='[.^]', repl='', string=williams)
+            FULL_STOP_OR_CARET_PATTERN.sub(repl='', string=williams)
             for williams in williams_run.split()
         ]
 
@@ -2131,20 +2627,14 @@ class CharacterEntry:
         is_canonical = not non_canonical
         is_added = bool(addition)
 
-        reduced_character_run = re.sub(
-            pattern=r'^ (?: ~~ .+? ~~ )? `` (?P<reduced_character_run> \S+ ) `` $',
-            repl=r'\g<reduced_character_run>',
+        reduced_character_run = REDUCED_CHARACTER_RUN_PATTERN.sub(
+            repl=REDUCED_CHARACTER_RUN_REPL,
             string=character_run,
-            flags=re.VERBOSE,
         )
 
-        if composition_match := re.fullmatch(
-            pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+ ) \}',
-            string=reduced_character_run,
-            flags=re.VERBOSE,
-        ):
-            character = composition_match.group('character')
-            composition = composition_match.group('composition')
+        if composition_match := COMPOSITION_PATTERN.fullmatch(string=reduced_character_run):
+            character = composition_match.group(COMPOSITION_CHARACTER_GROUP)
+            composition = composition_match.group(COMPOSITION_GROUP)
         elif len(reduced_character_run) == 1:
             character = reduced_character_run
             composition = None
@@ -2159,8 +2649,8 @@ class CharacterEntry:
                 f'vs Jyutping `{jyutping}` in heading `{heading_content}`'
             )
 
-        reduced_williams_run = re.sub(pattern='~~.+?~~', repl='', string=williams_run)
-        williams_tones = set(re.findall(pattern=r'\([1-9]\)', string=reduced_williams_run))
+        reduced_williams_run = DELETION_PATTERN.sub(repl='', string=williams_run)
+        williams_tones = set(WILLIAMS_TONE_PATTERN.findall(string=reduced_williams_run))
 
         if len(williams_tones) != 1:
             raise LintException(
@@ -2168,7 +2658,7 @@ class CharacterEntry:
             )
 
         williams_tone = williams_tones.pop()
-        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
+        williams_tone_number = ROUND_BRACKETS_PATTERN.sub(repl='', string=williams_tone)
 
         jyutping_is_entering = jyutping[-2] in 'ptk'
         jyutping_proper_tone_number = (
@@ -2302,17 +2792,11 @@ class CharacterEntry:
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
-        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
-        pattern = re.sub(
-            pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
-            repl=r'(?:\g<optional_key> )?',
-            string=pattern_readable,
-            flags=re.VERBOSE,
-        )
 
-        if not re.fullmatch(pattern=pattern, string=keys):
+        if not CHARACTER_ENTRY_KEYS_PATTERN.fullmatch(string=keys):
             raise LintException(
-                f'character entry keys `{keys}` do not match pattern `{pattern_readable}` under `{heading_content}`'
+                f'character entry keys `{keys}` do not match pattern `{CHARACTER_ENTRY_KEYS_PATTERN_READABLE}` '
+                f'under `{heading_content}`'
             )
 
     @staticmethod
@@ -2322,11 +2806,7 @@ class CharacterEntry:
 
     @staticmethod
     def lint_consecutive_lists(content: str, heading_content: str):
-        if re.search(
-            pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
+        if LINTING_CONSECUTIVE_LISTS_PATTERN.search(string=content):
             raise LintException(
                 f'consecutive lists in `{heading_content}` '
                 f'(suppress with intervening caret plus backslash if legitimate)'
@@ -2334,81 +2814,43 @@ class CharacterEntry:
 
     @staticmethod
     def lint_williams_locator_tone(content: str):
-        for match in re.finditer(
-            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
+        for match in LINTING_WILLIAMS_LOCATOR_PATTERN.finditer(string=content):
             locator_run = match.group().strip()
-            headword_run = match.group('headword_run')
+            headword_run = match.group(LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP)
 
-            if not re.search(pattern=r'\([1-9]\)', string=headword_run):
+            if not WILLIAMS_TONE_PATTERN.search(string=headword_run):
                 raise LintException(f'missing Williams tone in locator `{locator_run}`')
 
     @staticmethod
     def lint_williams_ellipsis_item_punctuation(content: str):
-        ellipsis_item = '- [[...]]'
-        ellipsis_item_pattern = re.escape(ellipsis_item)
-        unpunctuated_ellipsis_item_pattern = f'^[ ]+{ellipsis_item_pattern}$'
-        if re.search(pattern=unpunctuated_ellipsis_item_pattern, string=content, flags=re.MULTILINE):
+        if LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN.search(string=content):
             raise LintException(
-                f'unpunctuated ellipsis item `{ellipsis_item}` '
+                f'unpunctuated ellipsis item `{LINTING_ELLIPSIS_ITEM}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
 
     @staticmethod
     def lint_williams_romanisation_punctuation(content: str):
-        if unwanted_comma_match := re.search(
-            pattern=r'''
-                _ \S[^_\n]*? (?: \([36789]\) | ' ) (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
-                \s+
-                \[\[ [^\[\n]+? \]\]  # supplied Jyutping
-                (?: \s+ \[\[ .*? \]\] )?  # supplied Kangxi with punctuation
-                ,  # unwanted comma
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if unwanted_comma_match := LINTING_WILLIAMS_UNWANTED_COMMA_PATTERN.search(string=content):
             unwanted_comma_context = unwanted_comma_match.group()
-            unwanted_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=unwanted_comma_context)
+            unwanted_comma_context_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=unwanted_comma_context)
             raise LintException(
                 f'comma after supplied Jyutping for Williams right-tone or nasal apostrophe '
                 f'in `{unwanted_comma_context_reduced}` '
                 f'(suppress with caret before comma if legitimate)'
             )
 
-        if missing_comma_match := re.search(
-            pattern=r'''
-                _ \S[^_\n]*? \([1245]\) \S+ [^'`] (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
-                \s+
-                \[\[ .+? \]\]  # supplied Jyutping
-                (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
-                \s  # missing comma
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if missing_comma_match := LINTING_WILLIAMS_MISSING_COMMA_PATTERN.search(string=content):
             missing_comma_context = missing_comma_match.group()
-            missing_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=missing_comma_context.strip())
+            missing_comma_context_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=missing_comma_context.strip())
             raise LintException(
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
 
-        if unitalicised_semicolon_match := re.search(
-            pattern=r'''
-                _ \S [^_\n]*? _  # Williams romanisation
-                \s+
-                \[\[ .+? \]\]  # supplied Jyutping
-                (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
-                ;  # unitalicised semicolon
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if unitalicised_semicolon_match := LINTING_WILLIAMS_UNITALICISED_SEMICOLON_PATTERN.search(string=content):
             unitalicised_semicolon_context = unitalicised_semicolon_match.group()
-            unitalicised_semicolon_context_reduced = re.sub(
-                pattern=r'\s+',
+            unitalicised_semicolon_context_reduced = WHITESPACE_RUN_PATTERN.sub(
                 repl=' ',
                 string=unitalicised_semicolon_context.strip(),
             )
@@ -2419,42 +2861,26 @@ class CharacterEntry:
 
     @staticmethod
     def lint_annotation_headword(character: str, content: str):
-        for match in re.finditer(
-            pattern=r'''
-                ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] \n
-                (?P<item_content> (?s: .*? ) )
-                (?= ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] \n | \Z )
-            ''',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
-            headword_run = match.group('headword_run')
-            item_content = match.group('item_content')
+        for match in LINTING_WILLIAMS_LOCATED_ITEM_PATTERN.finditer(string=content):
+            headword_run = match.group(LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP)
+            item_content = match.group(LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP)
 
-            headword_characters = re.findall(
-                pattern='[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
-                string=CmdIdioms.strip_compositions(headword_run),
-            )
+            headword_characters = CHINESE_RUN_PATTERN.findall(string=CmdIdioms.strip_compositions(headword_run))
             potential_characters = ''.join(sorted({character, *headword_characters}))
 
             if len(potential_characters) == 1:
-                if redundant_match := re.search(
-                    pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: .*?\]\]',
-                    string=item_content,
-                ):
-                    annotation = redundant_match.group()
-                    source = redundant_match.group('source')
-                    raise LintException(
-                        f'redundant disambiguator {character} in {source} annotation `{annotation}` '
-                        f'(suppress with caret before colon if legitimate)'
-                    )
+                if explicit_match := LINTING_ANNOTATION_WITH_HEADWORD_PATTERN.search(string=item_content):
+                    if character == explicit_match.group(LINTING_ANNOTATION_WITH_HEADWORD_CHARACTER_GROUP):
+                        annotation = explicit_match.group()
+                        source = explicit_match.group(LINTING_ANNOTATION_WITH_HEADWORD_SOURCE_GROUP)
+                        raise LintException(
+                            f'redundant disambiguator {character} in {source} annotation `{annotation}` '
+                            f'(suppress with caret before colon if legitimate)'
+                        )
             else:
-                if ambiguous_match := re.search(
-                    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): .*?\]\]',
-                    string=item_content,
-                ):
+                if ambiguous_match := LINTING_ANNOTATION_WITHOUT_HEADWORD_PATTERN.search(string=item_content):
                     annotation = ambiguous_match.group()
-                    source = ambiguous_match.group('source')
+                    source = ambiguous_match.group(LINTING_ANNOTATION_WITHOUT_HEADWORD_SOURCE_GROUP)
                     raise LintException(
                         f'ambiguous headword ({potential_characters}) in {source} annotation `{annotation}`'
                     )
@@ -2464,21 +2890,20 @@ class CharacterEntry:
         if content is None:
             return
 
-        for sense_match in re.finditer(
-            pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]* (?P<sense_renderings> .* )',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
+        for sense_match in LINTING_RENDERING_SENSE_PATTERN.finditer(string=content):
             sense_line = sense_match.group().strip()
-            sense_type = sense_match.group('sense_type')
+            sense_type = sense_match.group(LINTING_RENDERING_SENSE_TYPE_GROUP)
 
             if sense_line.count(met_marker := '(_met._)') > 1:
                 raise LintException(f'multiple occurrences of `{met_marker}` in `{sense_line}`')
 
-            sense_renderings_unsplit = sense_match.group('sense_renderings').replace(met_marker, '')
+            sense_renderings_unsplit = (
+                sense_match.group(LINTING_RENDERING_SENSE_RENDERINGS_GROUP)
+                .replace(met_marker, '')
+            )
             sense_renderings = [
                 rendering.strip()
-                for rendering in re.split(pattern=',[ ]+', string=sense_renderings_unsplit)
+                for rendering in COMMA_THEN_SPACES_PATTERN.split(string=sense_renderings_unsplit)
                 if rendering
             ]
 
@@ -2528,25 +2953,14 @@ class CharacterEntry:
         if content is None:
             return
 
-        for item_match in re.finditer(
-            pattern=r'''
-                - [ ]+
-                (?P<character_content> \S+ )
-                \s+
-                \( (?P<jyutping> .*? ) \)
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        for item_match in LINTING_JYUTPING_ITEM_PATTERN.finditer(string=content):
             item_content = item_match.group()
-            character_content = item_match.group('character_content')
-            jyutping = item_match.group('jyutping')
+            character_content = item_match.group(LINTING_JYUTPING_ITEM_CHARACTER_CONTENT_GROUP)
+            jyutping = item_match.group(LINTING_JYUTPING_ITEM_JYUTPING_GROUP)
 
-            characters, is_term = re.subn(
-                pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
-                repl=r'\g<term>',
+            characters, is_term = LINTING_LENTICULAR_BRACKETED_TERM_PATTERN.subn(
+                repl=LINTING_LENTICULAR_BRACKETED_TERM_REPL,
                 string=CmdIdioms.strip_compositions(character_content).replace('、', ''),
-                flags=re.VERBOSE,
             )
             if is_term:
                 jyutping_lists = [
@@ -2573,16 +2987,12 @@ class CharacterEntry:
         redirect_phrase = 'for the canonical'
 
         is_w_canonical = (
-            stripped_w_content != '[[Not present]]' and redirect_phrase not in stripped_w_content
-            or re.search(
-                pattern=r'^ [ ]+ (?: [-][ ] (?! \[\[Page | ~~ .*? ~~$ ) | [A-Z_] )',
-                string=stripped_w_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+                stripped_w_content != '[[Not present]]' and redirect_phrase not in stripped_w_content
+                or LINTING_W_CONTENT_CANONICAL_ITEM_PATTERN.search(string=stripped_w_content)
         )
         is_p_canonical = (
             p_content is not None
-            and (definition_first_lines := re.findall(pattern='^[ ]+1[.].*', string=p_content, flags=re.MULTILINE))
+            and (definition_first_lines := LINTING_P_CONTENT_ITEM_PATTERN.findall(string=p_content))
             and any(redirect_phrase not in line for line in definition_first_lines)
         )
         is_e_canonical = e_content is not None
@@ -2599,11 +3009,7 @@ class CharacterEntry:
                            w_content: str, heading_content: str):
         is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
-        locator_lines = re.findall(
-            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
-            string=w_content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )
+        locator_lines = LINTING_LOCATOR_LINE_PATTERN.findall(string=w_content)
 
         if is_williams_present and character not in '\n'.join(locator_lines):
             raise LintException(
@@ -2711,13 +3117,9 @@ class CharacterEntry:
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
         return [
             RadicalStrokes(radical_strokes_run)
-            for match in re.finditer(
-                pattern='^ [ ]+ (?P<radical_strokes_run> .*? ) $',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_RADICAL_STROKES_PATTERN.finditer(string=content)
             if (
-                radical_strokes_run := match.group('radical_strokes_run'),
+                radical_strokes_run := match.group(CHARACTER_ENTRY_RADICAL_STROKES_RUN_GROUP),
             )
         ]
 
@@ -2725,10 +3127,7 @@ class CharacterEntry:
     def extract_unicode_code_point(content: str) -> str:
         stripped_content = content.strip()
 
-        if not (match := re.fullmatch(
-            pattern='U[+][0-9A-F]{4,5}',
-            string=stripped_content,
-        )):
+        if not (match := UNICODE_CODE_POINT_PATTERN.fullmatch(string=stripped_content)):
             raise LintException(f'invalid Unicode code point `{stripped_content}`')
 
         return match.group()
@@ -2740,14 +3139,10 @@ class CharacterEntry:
 
         return [
             AlternativeForm(character_or_link, jyutping, qualifier)
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ ) [ ]* (?P<qualifier> .*)',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_ALTERNATIVE_FORM_ITEM_PATTERN.finditer(string=content)
             if (
-                character_or_link := match.group('character_or_link'),
-                qualifier := match.group('qualifier'),
+                character_or_link := match.group(CHARACTER_ENTRY_ALTERNATIVE_FORM_CHARACTER_OR_LINK_GROUP),
+                qualifier := match.group(CHARACTER_ENTRY_ALTERNATIVE_FORM_QUALIFIER_GROUP),
             )
         ]
 
@@ -2758,13 +3153,9 @@ class CharacterEntry:
 
         return [
             ReadingVariation(raw_jyutping)
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<raw_jyutping> \S+ )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN.finditer(string=content)
             if (
-                raw_jyutping := match.group('raw_jyutping'),
+                raw_jyutping := match.group(CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP),
             )
         ]
 
@@ -2777,21 +3168,12 @@ class CharacterEntry:
         return [
             LiteraryRendering(term, disambiguation_suffix, baxter_content, sense_content,
                               character, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ (?P<indentation> [ ]+ ) [*][ ]
-                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<baxter_content> .* ) \) \n
-                    (?P<sense_content> (?: (?P=indentation) [ ]+ .* \n)* )
-                ''',
-                string=content,
-                flags = re.MULTILINE | re.VERBOSE,
-            )
+            for match in CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN.finditer(string=content)
             if (
-                term := match.group('term'),
-                disambiguation_suffix := match.group('disambiguation_suffix'),
-                baxter_content := match.group('baxter_content'),
-                sense_content := match.group('sense_content'),
+                term := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_TERM_GROUP),
+                disambiguation_suffix := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_DISAMBIGUATION_SUFFIX_GROUP),
+                baxter_content := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_BAXTER_CONTENT_GROUP),
+                sense_content := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_SENSE_CONTENT_GROUP),
             )
         ]
 
@@ -2803,19 +3185,11 @@ class CharacterEntry:
 
         return [
             CantoneseEntry(term, disambiguation_suffix, jyutping_content, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ [ ]+ [-][ ]
-                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<jyutping_content> .* ) \)
-                ''',
-                string=content,
-                flags = re.MULTILINE | re.VERBOSE,
-            )
+            for match in CHARACTER_ENTRY_CANTONESE_ENTRY_ITEM_PATTERN.finditer(string=content)
             if (
-                term := match.group('term'),
-                disambiguation_suffix := match.group('disambiguation_suffix'),
-                jyutping_content := match.group('jyutping_content'),
+                term := match.group(CHARACTER_ENTRY_CANTONESE_ENTRY_TERM_GROUP),
+                disambiguation_suffix := match.group(CHARACTER_ENTRY_CANTONESE_ENTRY_DISAMBIGUATION_SUFFIX_GROUP),
+                jyutping_content := match.group(CHARACTER_ENTRY_CANTONESE_ENTRY_JYUTPING_CONTENT_GROUP),
             )
         ]
 
@@ -2826,24 +3200,12 @@ class CharacterEntry:
 
         return [
             SeeAlsoLink(content, jyutping, character_content, is_canonical)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ [ ]+ - [ ]
-                    (?P<content>
-                        (?P<opening_bracket> \( )?
-                        \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
-                        (?(opening_bracket) \) )
-                        .*
-                    )
-                ''',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_SEE_ALSO_ITEM_PATTERN.finditer(string=content)
             if (
-                content := match.group('content'),
-                is_canonical := match.group('opening_bracket') is None,
-                character_content := match.group('character_content'),
-                jyutping := match.group('jyutping'),
+                content := match.group(CHARACTER_ENTRY_SEE_ALSO_CONTENT_GROUP),
+                is_canonical := match.group(CHARACTER_ENTRY_SEE_ALSO_OPENING_BRACKET_GROUP) is None,
+                character_content := match.group(CHARACTER_ENTRY_SEE_ALSO_CHARACTER_CONTENT_GROUP),
+                jyutping := match.group(CHARACTER_ENTRY_SEE_ALSO_JYUTPING_GROUP),
             )
         ]
 
@@ -2853,8 +3215,8 @@ class CharacterEntry:
 
         # Normalise and remove diacritics
         text = unicodedata.normalize('NFD', text)
-        if non_spacing_marks := ''.join(c for c in set(text) if unicodedata.category(c) == 'Mn'):
-            text = re.sub(pattern=f'[{non_spacing_marks}]', repl='', string=text)
+        if non_spacing_marks := {c for c in set(text) if unicodedata.category(c) == 'Mn'}:
+            text = ''.join(c for c in text if c not in non_spacing_marks)
 
         # Normalise common ligatures without Unicode decomposition
         text = text.replace('Æ', 'Ae')
@@ -2864,64 +3226,39 @@ class CharacterEntry:
 
         # Remove Williams typography
         text = text.replace("(')", "'")
-        text = re.sub(pattern=r'\([1-9]\)', repl='', string=text)
-        text = re.sub(
-            pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
-            repl=r'\g<vowel>',
-            string=text,
-            flags=re.IGNORECASE | re.VERBOSE,
-        )
+        text = WILLIAMS_TONE_PATTERN.sub(repl='', string=text)
+        text = INDEXING_WILLIAMS_VOWEL_PATTERN.sub(repl=INDEXING_WILLIAMS_VOWEL_REPL, string=text)
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
-        text = re.sub(pattern=r'[- ] \[\[\.\.\.\]\][;.\n]', repl='', string=text)
-        text = re.sub(
-            pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
-            repl='',
-            string=text,
-            flags=re.VERBOSE,
-        )
+        text = INDEXING_ELLIPSIS_ITEM_PATTERN.sub(repl='', string=text)
+        text = INDEXING_REDIRECTION_PATTERN.sub(repl='', string=text)
 
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
-        text = re.sub(
-            pattern='[$] (?P<jyutping> [a-z]+ )',
-            repl=r'\g<jyutping>',
-            string=text,
-            flags=re.VERBOSE,
-        )
-        text = re.sub(
-            pattern=r'[$] (?P<headword> \S ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )',
-            repl=r'\g<headword> \g<jyutping>\g<tone_number>',
-            string=text,
-            flags=re.VERBOSE,
-        )
-        text = re.sub(
-            pattern=r'[$] (?P<headword> \S ) (?P<tone_number> [1-6] )',
-            repl=r'\g<headword>',
-            string=text,
-            flags=re.VERBOSE,
-        )
-        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+? ) \] \( .+? \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
-        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+? ) \] \[ .+? \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
-        text = re.sub(pattern=r"\(` (?P<baxter> [ 'a-z+XH]+ ) `\)", repl=r'(\g<baxter>)', string=text, flags=re.VERBOSE)
+        text = INDEXING_PAGE_LINK_PATTERN.sub(repl=INDEXING_PAGE_LINK_REPL, string=text)
+        text = INDEXING_ENTRY_LINK_PATTERN.sub(repl=INDEXING_ENTRY_LINK_REPL, string=text)
+        text = INDEXING_LOCAL_ENTRY_LINK_PATTERN.sub(repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
+        text = INDEXING_SPECIFIED_LINK_PATTERN.sub(repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
+        text = INDEXING_REFERENCED_LINK_PATTERN.sub(repl=INDEXING_REFERENCED_LINK_REPL, string=text)
+        text = INDEXING_BAXTER_NOTATION_PATTERN.sub(repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
-        text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
-        text = re.sub(pattern='B[1-5][.][a-z0-9]+ ', repl='《廣韻》', string=text)
-        text = re.sub(pattern='C[.][0-9]+[.]cn/n?[0-9]+', repl='《集韻》', string=text)
+        text = INDEXING_NON_BREAKING_SPACE_PATTERN.sub(repl=' ', string=text)
+        text = INDEXING_BROAD_RIMES_PATTERN.sub(repl=INDEXING_BROAD_RIMES_REPL, string=text)
+        text = INDEXING_COLLECTED_RIMES_PATTERN.sub(repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
         text = text.replace('K. ', '《康熙字典》')
 
         # Remove non-textual CMD syntax
         text = text.replace('<`', '')
         text = text.replace('`>', '')
-        text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
+        text = INDEXING_BLOCK_FENCE_PATTERN.sub(repl='', string=text)
         text = text.replace('  - ', '')
         text = text.replace('  * ', '')
-        text = re.sub(pattern=r'[0-9]+\. ', repl='', string=text)
-        text = re.sub(pattern=r'[ ]* \\ [ ]* \n [ ]*', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
-        text = re.sub(pattern=r'\{lang=\S+\}', repl='', string=text)
+        text = INDEXING_NUMBERED_ITEM_PATTERN.sub(repl='', string=text)
+        text = INDEXING_BACKSLASH_CONTINUATION_PATTERN.sub(repl='', string=text)
+        text = INDEXING_LANG_ATTRIBUTE_PATTERN.sub(repl='', string=text)
         text = text.replace('^', '')
         text = text.replace('@', '')
         text = text.replace('::', '')
@@ -2934,21 +3271,16 @@ class CharacterEntry:
 
         # Normalise whitespace
         text = text.strip()
-        text = re.sub(pattern=r'\s+', repl=' ', string=text)
+        text = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=text)
 
         # Convert explicit edits
-        text = re.sub(pattern=r'<ins>\s+', repl='``', string=text)
-        text = re.sub(pattern=r'\s+</ins>', repl='``', string=text)
-        text = re.sub(pattern=r'<del>\s+', repl='~~', string=text)
-        text = re.sub(pattern=r'\s+</del>', repl='~~', string=text)
+        text = INDEXING_INS_OPENING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
+        text = INDEXING_INS_CLOSING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
+        text = INDEXING_DEL_OPENING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
+        text = INDEXING_DEL_CLOSING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
 
         # Simplify edits that have become redundant
-        text = re.sub(
-            pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
-            repl=r'\g<run>',
-            string=text,
-            flags=re.VERBOSE,
-        )
+        text = INDEXING_REDUNDANT_EDIT_PATTERN.sub(repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
 
         # Remove insertion markers
         text = text.replace('``', '')
@@ -2960,15 +3292,11 @@ class RadicalStrokes:
     stroke_count: int
 
     def __init__(self, radical_strokes_run: str):
-        if not (match := re.fullmatch(
-            pattern=r'(?P<radical> \S ) [ ][+][ ] (?P<stroke_count> [0-9]+ )',
-            string=radical_strokes_run,
-            flags=re.VERBOSE,
-        )):
+        if not (match := RADICAL_STROKES_PATTERN.fullmatch(string=radical_strokes_run)):
             raise LintException(f'invalid radical strokes run `{radical_strokes_run}`')
 
-        radical = match.group('radical')
-        stroke_count = int(match.group('stroke_count'))
+        radical = match.group(RADICAL_STROKES_RADICAL_GROUP)
+        stroke_count = int(match.group(RADICAL_STROKES_STROKE_COUNT_GROUP))
 
         if radical not in KANGXI_RADICALS:
             if radical in CJK_UNIFIED_IDEOGRAPH_RADICALS:
@@ -3007,17 +3335,15 @@ class AlternativeForm:
     linked_tone: Optional[str]
 
     def __init__(self, character_or_link: str, jyutping: str, qualifier: str):
-        if not (match := re.fullmatch(
-            pattern=r'(?P<dollar> \$? ) (?P<character> \S ) (?P<tone> [1-6]? ) (?P<caret> \^? )',
+        if not (match := ALTERNATIVE_FORM_LINK_PATTERN.fullmatch(
             string=CmdIdioms.strip_compositions(character_or_link),
-            flags=re.VERBOSE,
         )):
             raise LintException(f'invalid alternative form link `{character_or_link}`')
 
-        dollar = match.group('dollar')
-        character = match.group('character')
-        tone = match.group('tone')
-        caret = match.group('caret')
+        dollar = match.group(ALTERNATIVE_FORM_LINK_DOLLAR_GROUP)
+        character = match.group(ALTERNATIVE_FORM_LINK_CHARACTER_GROUP)
+        tone = match.group(ALTERNATIVE_FORM_LINK_TONE_GROUP)
+        caret = match.group(ALTERNATIVE_FORM_LINK_CARET_GROUP)
 
         if dollar and not tone:
             raise LintException(f'missing tone number in alternative form link `{character_or_link}`')
@@ -3046,30 +3372,19 @@ class ReadingVariation:
     is_redirect_necessary: bool
 
     def __init__(self, raw_jyutping: str):
-        if unchanged_match := re.fullmatch(
-            pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
-            string=raw_jyutping,
-            flags=re.VERBOSE,
-        ):
+        if unchanged_match := READING_VARIATION_UNCHANGED_PATTERN.fullmatch(string=raw_jyutping):
             is_changed = False
-            jyutping = unchanged_match.group('jyutping')
+            jyutping = unchanged_match.group(READING_VARIATION_UNCHANGED_JYUTPING_GROUP)
             unchanged_jyutping = None
             effective_jyutping = jyutping
-            caret = unchanged_match.group('caret')
+            caret = unchanged_match.group(READING_VARIATION_UNCHANGED_CARET_GROUP)
 
-        elif changed_match := re.fullmatch(
-            pattern=r'''
-                (?P<jyutping> (?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) )
-                (?P<caret> \^? )
-            ''',
-            string=raw_jyutping,
-            flags=re.VERBOSE,
-        ):
+        elif changed_match := READING_VARIATION_CHANGED_PATTERN.fullmatch(string=raw_jyutping):
             is_changed = True
-            jyutping = changed_match.group('jyutping')
-            unchanged_jyutping = changed_match.group('unchanged_jyutping')
-            changed_tone = changed_match.group('changed_tone')
-            caret = changed_match.group('caret')
+            jyutping = changed_match.group(READING_VARIATION_CHANGED_JYUTPING_GROUP)
+            unchanged_jyutping = changed_match.group(READING_VARIATION_CHANGED_UNCHANGED_JYUTPING_GROUP)
+            changed_tone = changed_match.group(READING_VARIATION_CHANGED_TONE_GROUP)
+            caret = changed_match.group(READING_VARIATION_CHANGED_CARET_GROUP)
 
             if unchanged_jyutping[-1] == changed_tone:
                 raise LintException(f'changed-tone reading variation `{jyutping}` does not change tone')
@@ -3520,11 +3835,9 @@ class Linter:
             '<## /incipits ##>',
         ])
 
-        return re.sub(
-            pattern='<## incipits ##>.*?<## /incipits ##>',
+        return INCIPIT_NAVIGATOR_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(incipit_navigator_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
     @staticmethod
@@ -3662,9 +3975,14 @@ class Linter:
                             f'under `{character_entry}`'
                         )
 
-                    if not re.search(
-                        pattern=fr'(?i:Alternative form).*See .*{re.escape(universal_link)}',
-                        string=other_character_entry.entry_content(),
+                    if not any(
+                        universal_link in potential_target
+                        for redirect_match in LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN.finditer(
+                            string=other_character_entry.entry_content(),
+                        )
+                        if (
+                            potential_target := redirect_match.group(LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP),
+                        )
                     ):
                         raise LintException(
                             f'missing alternative form redirect to `{universal_link}` under `{other_character_entry}`'
@@ -3731,9 +4049,14 @@ class Linter:
                 except KeyError:
                     continue
 
-                if reading_variation.is_redirect_necessary and not re.search(
-                    pattern=fr'(?i:Reading variation).*See .*{re.escape(universal_link)}',
-                    string=other_character_entry.entry_content(),
+                if reading_variation.is_redirect_necessary and not any(
+                    universal_link in potential_target
+                    for redirect_match in LINTING_READING_VARIATION_REDIRECT_PATTERN.finditer(
+                        string=other_character_entry.entry_content(),
+                    )
+                    if (
+                        potential_target := redirect_match.group(LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP),
+                    )
                 ):
                     raise LintException(
                         f'missing reading variation redirect to `{universal_link}` under `{other_character_entry}` '
@@ -3751,23 +4074,18 @@ class Linter:
         for character_entry in character_entries:
             character = character_entry.character
 
-            for redirect_match in re.finditer(
-                pattern=r'(?i:Alternative form).*See .*(?P<potential_link_content>\$.*)',
+            for redirect_match in LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN.finditer(
                 string=character_entry.entry_content()
             ):
-                potential_link_content = redirect_match.group('potential_link_content')
+                potential_target = redirect_match.group(LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP)
 
-                if 'TODO' in potential_link_content:
+                if 'TODO' in potential_target:
                     continue
 
-                for link_match in re.finditer(
-                    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
-                    string=potential_link_content,
-                    flags=re.VERBOSE,
-                ):
+                for link_match in LINTING_LINK_PATTERN.finditer(string=potential_target):
                     link = link_match.group()
-                    link_character_content = link_match.group('link_character_content')
-                    link_jyutping = link_match.group('link_jyutping')
+                    link_character_content = link_match.group(LINTING_LINK_CHARACTER_CONTENT_GROUP)
+                    link_jyutping = link_match.group(LINTING_LINK_JYUTPING_GROUP)
 
                     link_character = CmdIdioms.strip_compositions(link_character_content)
 
@@ -3797,23 +4115,18 @@ class Linter:
         for character_entry in character_entries:
             jyutping = character_entry.jyutping
 
-            for redirect_match in re.finditer(
-                pattern=r'(?i:Reading variation).*See .*(?P<potential_link_content>\$.*)',
+            for redirect_match in LINTING_READING_VARIATION_REDIRECT_PATTERN.finditer(
                 string=character_entry.entry_content()
             ):
-                potential_link_content = redirect_match.group('potential_link_content')
+                potential_target = redirect_match.group(LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP)
 
-                if 'TODO' in potential_link_content:
+                if 'TODO' in potential_target:
                     continue
 
-                for link_match in re.finditer(
-                    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
-                    string=potential_link_content,
-                    flags=re.VERBOSE,
-                ):
+                for link_match in LINTING_LINK_PATTERN.finditer(string=potential_target):
                     link = link_match.group()
-                    link_character_content = link_match.group('link_character_content')
-                    link_jyutping = link_match.group('link_jyutping')
+                    link_character_content = link_match.group(LINTING_LINK_CHARACTER_CONTENT_GROUP)
+                    link_jyutping = link_match.group(LINTING_LINK_JYUTPING_GROUP)
 
                     link_character = CmdIdioms.strip_compositions(link_character_content)
 
@@ -3891,7 +4204,7 @@ class Linter:
                         line
                         for other_lr in other_literary_renderings
                         for line in other_lr.sense_content.splitlines()
-                        if re.match(pattern='[ ]+[-] Used in', string=line)
+                        if '- Used in' in line
                         if link_content in line
                     ]
 
@@ -4085,11 +4398,9 @@ class Linter:
             '<## /entries ##>',
         ])
 
-        return re.sub(
-            pattern='<## entries ##>.*?<## /entries ##>',
+        return ENTRY_INDEX_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
     @staticmethod
@@ -4115,9 +4426,8 @@ class Linter:
                 if (
                     baxter := split_literary_rendering.baxter_list[0],
                     link_text := split_literary_rendering.term,
-                    parenthetical_suffix := re.sub(
-                        pattern='-(?P<sense>.*)',
-                        repl=r'~(\g<sense>)',
+                    parenthetical_suffix := PARENTHETICAL_SUFFIX_PATTERN.sub(
+                        repl=PARENTHETICAL_SUFFIX_REPL,
                         string=split_literary_rendering.disambiguation_suffix,
                     ),
                     url := split_literary_rendering.url(),
@@ -4132,11 +4442,9 @@ class Linter:
             "<## /renderings-table ##>",
         ])
 
-        return re.sub(
-            pattern='<## renderings-table ##>.*?<## /renderings-table ##>',
+        return RENDERINGS_TABLE_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(renderings_table_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
     @staticmethod
@@ -4160,9 +4468,8 @@ class Linter:
                 if (
                     jyutping := split_cantonese_entry.jyutping_list[0],
                     link_text := split_cantonese_entry.term,
-                    parenthetical_suffix := re.sub(
-                        pattern='-(?P<sense>.*)',
-                        repl=r'~(\g<sense>)',
+                    parenthetical_suffix := PARENTHETICAL_SUFFIX_PATTERN.sub(
+                        repl=PARENTHETICAL_SUFFIX_REPL,
                         string=split_cantonese_entry.disambiguation_suffix,
                     ),
                     url := split_cantonese_entry.url(),
@@ -4173,11 +4480,9 @@ class Linter:
             "<## /terms-table ##>",
         ])
 
-        return re.sub(
-            pattern='<## terms-table ##>.*?<## /terms-table ##>',
+        return TERMS_TABLE_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(terms_table_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
 
