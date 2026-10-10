@@ -1112,6 +1112,7 @@ LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_PATTERN = re.compile(
 )
 LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_CHARACTER_GROUP = 'character'
 
+LINTING_NON_BMP_CHARACTER_CLASS = '[𠀀-𳑿]'
 LINTING_COMPOSITION_WHITELISTED_PRIMITIVES = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
 LINTING_COMPOSITION_EXEMPT_PATTERN = re.compile(
     pattern='|'.join([
@@ -1120,8 +1121,12 @@ LINTING_COMPOSITION_EXEMPT_PATTERN = re.compile(
     ]),
     flags=re.VERBOSE,
 )
+LINTING_COMPOSITION_PATTERN = re.compile(
+    pattern=fr'(?P<character> {LINTING_NON_BMP_CHARACTER_CLASS} ) (?! [@^] )',
+    flags=re.VERBOSE,
+)
 LINTING_COMPOSITION_CONTEXT_PATTERN = re.compile(
-    pattern=r'\S* (?P<character> [𠀀-𳑿] ) (?! [@^] ) \S*',
+    pattern=fr'\S* (?P<character> {LINTING_NON_BMP_CHARACTER_CLASS} ) (?! [@^] ) \S*',
     flags=re.VERBOSE,
 )
 LINTING_COMPOSITION_CONTEXT_CHARACTER_GROUP = 'character'
@@ -1733,6 +1738,10 @@ class CmdSource:
             repl='',
             string=CmdIdioms.strip_scripts(content),
         )
+
+        # Fast elimination of negative cases
+        if not LINTING_COMPOSITION_PATTERN.search(string=non_exempt_content):
+            return
 
         for context_match in LINTING_COMPOSITION_CONTEXT_PATTERN.finditer(string=non_exempt_content):
             context = context_match.group()
