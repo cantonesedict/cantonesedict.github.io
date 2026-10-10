@@ -825,13 +825,13 @@ ENTRY_ITEM_PATTERN = re.compile(
 ENTRY_ITEM_KEY_GROUP = 'key'
 ENTRY_ITEM_CONTENT_GROUP = 'content'
 
-COMPOSITIONS_PATTERN = re.compile(
+COMPOSITION_PATTERN = re.compile(
     pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+? ) \}',
     flags=re.VERBOSE,
 )
 COMPOSITION_CHARACTER_GROUP = 'character'
 COMPOSITION_GROUP = 'composition'
-COMPOSITIONS_REPL = r'\g<character>'
+COMPOSITION_REPL = r'\g<character>'
 
 UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN = re.compile(
     pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
@@ -1319,7 +1319,7 @@ class CmdIdioms:
 
     @staticmethod
     def strip_compositions(content: str) -> str:
-        return COMPOSITIONS_PATTERN.sub(repl=COMPOSITIONS_REPL, string=content)
+        return COMPOSITION_PATTERN.sub(repl=COMPOSITION_REPL, string=content)
 
     @staticmethod
     def lint_see_also_link_order(see_also_links: Optional[list['SeeAlsoLink']]):
@@ -2347,7 +2347,7 @@ class CharacterEntry:
             flags=re.VERBOSE,
         )
 
-        if composition_match := COMPOSITIONS_PATTERN.fullmatch(string=reduced_character_run):
+        if composition_match := COMPOSITION_PATTERN.fullmatch(string=reduced_character_run):
             character = composition_match.group(COMPOSITION_CHARACTER_GROUP)
             composition = composition_match.group(COMPOSITION_GROUP)
         elif len(reduced_character_run) == 1:
