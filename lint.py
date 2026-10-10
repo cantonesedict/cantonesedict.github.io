@@ -1325,7 +1325,7 @@ LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP = 'headword_run'
 LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP = 'item_content'
 
 LINTING_ANNOTATION_WITH_HEADWORD_PATTERN = re.compile(
-    pattern=r'\[\[(?P<source>Kangxi|Fan Wan) (?P<annotation_character>\S): .*?\]\]'
+    pattern=r'\[\[(?P<source>Kangxi|Fan Wan) \{?(?P<annotation_character>\S)\S*?(?<!\^): .*?\]\]'
 )
 LINTING_ANNOTATION_WITH_HEADWORD_SOURCE_GROUP = 'source'
 LINTING_ANNOTATION_WITH_HEADWORD_CHARACTER_GROUP = 'annotation_character'
