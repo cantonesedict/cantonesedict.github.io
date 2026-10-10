@@ -1028,6 +1028,34 @@ RADICAL_STROKES_PATTERN = re.compile(
 RADICAL_STROKES_RADICAL_GROUP = 'radical'
 RADICAL_STROKES_STROKE_COUNT_GROUP = 'stroke_count'
 
+ALTERNATIVE_FORM_LINK_PATTERN = re.compile(
+    pattern=r'(?P<dollar> \$? ) (?P<character> \S ) (?P<tone> [1-6]? ) (?P<caret> \^? )',
+    flags=re.VERBOSE,
+)
+ALTERNATIVE_FORM_LINK_DOLLAR_GROUP = 'dollar'
+ALTERNATIVE_FORM_LINK_CHARACTER_GROUP = 'character'
+ALTERNATIVE_FORM_LINK_TONE_GROUP = 'tone'
+ALTERNATIVE_FORM_LINK_CARET_GROUP = 'caret'
+
+READING_VARIATION_UNCHANGED_PATTERN = re.compile(
+    pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
+    flags=re.VERBOSE,
+)
+READING_VARIATION_UNCHANGED_JYUTPING_GROUP = 'jyutping'
+READING_VARIATION_UNCHANGED_CARET_GROUP = 'caret'
+
+READING_VARIATION_CHANGED_PATTERN = re.compile(
+    pattern=r'''
+        (?P<jyutping> (?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) )
+        (?P<caret> \^? )
+    ''',
+    flags=re.VERBOSE,
+)
+READING_VARIATION_CHANGED_JYUTPING_GROUP = 'jyutping'
+READING_VARIATION_CHANGED_UNCHANGED_JYUTPING_GROUP = 'unchanged_jyutping'
+READING_VARIATION_CHANGED_TONE_GROUP = 'changed_tone'
+READING_VARIATION_CHANGED_CARET_GROUP = 'caret'
+
 LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
 
 LINTING_NON_STRAIGHT_QUOTES = '‘’“”'
@@ -3247,17 +3275,15 @@ class AlternativeForm:
     linked_tone: Optional[str]
 
     def __init__(self, character_or_link: str, jyutping: str, qualifier: str):
-        if not (match := re.fullmatch(
-            pattern=r'(?P<dollar> \$? ) (?P<character> \S ) (?P<tone> [1-6]? ) (?P<caret> \^? )',
+        if not (match := ALTERNATIVE_FORM_LINK_PATTERN.fullmatch(
             string=CmdIdioms.strip_compositions(character_or_link),
-            flags=re.VERBOSE,
         )):
             raise LintException(f'invalid alternative form link `{character_or_link}`')
 
-        dollar = match.group('dollar')
-        character = match.group('character')
-        tone = match.group('tone')
-        caret = match.group('caret')
+        dollar = match.group(ALTERNATIVE_FORM_LINK_DOLLAR_GROUP)
+        character = match.group(ALTERNATIVE_FORM_LINK_CHARACTER_GROUP)
+        tone = match.group(ALTERNATIVE_FORM_LINK_TONE_GROUP)
+        caret = match.group(ALTERNATIVE_FORM_LINK_CARET_GROUP)
 
         if dollar and not tone:
             raise LintException(f'missing tone number in alternative form link `{character_or_link}`')
@@ -3286,30 +3312,19 @@ class ReadingVariation:
     is_redirect_necessary: bool
 
     def __init__(self, raw_jyutping: str):
-        if unchanged_match := re.fullmatch(
-            pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
-            string=raw_jyutping,
-            flags=re.VERBOSE,
-        ):
+        if unchanged_match := READING_VARIATION_UNCHANGED_PATTERN.fullmatch(string=raw_jyutping):
             is_changed = False
-            jyutping = unchanged_match.group('jyutping')
+            jyutping = unchanged_match.group(READING_VARIATION_UNCHANGED_JYUTPING_GROUP)
             unchanged_jyutping = None
             effective_jyutping = jyutping
-            caret = unchanged_match.group('caret')
+            caret = unchanged_match.group(READING_VARIATION_UNCHANGED_CARET_GROUP)
 
-        elif changed_match := re.fullmatch(
-            pattern=r'''
-                (?P<jyutping> (?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) )
-                (?P<caret> \^? )
-            ''',
-            string=raw_jyutping,
-            flags=re.VERBOSE,
-        ):
+        elif changed_match := READING_VARIATION_CHANGED_PATTERN.fullmatch(string=raw_jyutping):
             is_changed = True
-            jyutping = changed_match.group('jyutping')
-            unchanged_jyutping = changed_match.group('unchanged_jyutping')
-            changed_tone = changed_match.group('changed_tone')
-            caret = changed_match.group('caret')
+            jyutping = changed_match.group(READING_VARIATION_CHANGED_JYUTPING_GROUP)
+            unchanged_jyutping = changed_match.group(READING_VARIATION_CHANGED_UNCHANGED_JYUTPING_GROUP)
+            changed_tone = changed_match.group(READING_VARIATION_CHANGED_TONE_GROUP)
+            caret = changed_match.group(READING_VARIATION_CHANGED_CARET_GROUP)
 
             if unchanged_jyutping[-1] == changed_tone:
                 raise LintException(f'changed-tone reading variation `{jyutping}` does not change tone')
