@@ -826,9 +826,11 @@ ENTRY_ITEM_KEY_GROUP = 'key'
 ENTRY_ITEM_CONTENT_GROUP = 'content'
 
 COMPOSITIONS_PATTERN = re.compile(
-    pattern=r'\{ (?P<character> \S ) = \S+? \}',
+    pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+? ) \}',
     flags=re.VERBOSE,
 )
+COMPOSITION_CHARACTER_GROUP = 'character'
+COMPOSITION_GROUP = 'composition'
 COMPOSITIONS_REPL = r'\g<character>'
 
 UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN = re.compile(
@@ -2345,13 +2347,9 @@ class CharacterEntry:
             flags=re.VERBOSE,
         )
 
-        if composition_match := re.fullmatch(
-            pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+ ) \}',
-            string=reduced_character_run,
-            flags=re.VERBOSE,
-        ):
-            character = composition_match.group('character')
-            composition = composition_match.group('composition')
+        if composition_match := COMPOSITIONS_PATTERN.fullmatch(string=reduced_character_run):
+            character = composition_match.group(COMPOSITION_CHARACTER_GROUP)
+            composition = composition_match.group(COMPOSITION_GROUP)
         elif len(reduced_character_run) == 1:
             character = reduced_character_run
             composition = None
