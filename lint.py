@@ -6,6 +6,7 @@
 Lint all Conway-Markdown (CMD) source files, with automatic indexing.
 """
 
+import functools
 import json
 import os
 import re
@@ -2032,6 +2033,7 @@ class RomanisationComparison:
         self.is_consistent = is_consistent
 
     @staticmethod
+    @functools.lru_cache(maxsize=None)
     def compute_expected_jyutping_list(williams: str) -> list[str]:
         williams_toneless = UNWANTED_FOR_WILLIAMS_TONELESS_PATTERN.sub(repl='', string=williams.lower())
         williams_tone_number = UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN.sub(
