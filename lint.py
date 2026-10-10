@@ -1373,6 +1373,11 @@ LINTING_LOCATOR_LINE_PATTERN = re.compile(
     flags=re.MULTILINE | re.VERBOSE,
 )
 
+LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN = re.compile(
+    pattern=r'(?i:Alternative form).*See (?P<potential_target>.*)',
+)
+LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP = 'potential_target'
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -3919,9 +3924,14 @@ class Linter:
                             f'under `{character_entry}`'
                         )
 
-                    if not re.search(
-                        pattern=fr'(?i:Alternative form).*See .*{re.escape(universal_link)}',
-                        string=other_character_entry.entry_content(),
+                    if not any(
+                        universal_link in potential_target
+                        for match in LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN.finditer(
+                            string=other_character_entry.entry_content(),
+                        )
+                        if (
+                            potential_target := match.group(LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP),
+                        )
                     ):
                         raise LintException(
                             f'missing alternative form redirect to `{universal_link}` under `{other_character_entry}`'
