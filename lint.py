@@ -1383,6 +1383,13 @@ LINTING_READING_VARIATION_REDIRECT_PATTERN = re.compile(
 )
 LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP = 'potential_target'
 
+LINTING_LINK_PATTERN = re.compile(
+    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
+    flags=re.VERBOSE,
+)
+LINTING_LINK_CHARACTER_CONTENT_GROUP = 'link_character_content'
+LINTING_LINK_JYUTPING_GROUP = 'link_jyutping'
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -3931,11 +3938,11 @@ class Linter:
 
                     if not any(
                         universal_link in potential_target
-                        for match in LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN.finditer(
+                        for redirect_match in LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN.finditer(
                             string=other_character_entry.entry_content(),
                         )
                         if (
-                            potential_target := match.group(LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP),
+                            potential_target := redirect_match.group(LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP),
                         )
                     ):
                         raise LintException(
@@ -4005,11 +4012,11 @@ class Linter:
 
                 if reading_variation.is_redirect_necessary and not any(
                     universal_link in potential_target
-                    for match in LINTING_READING_VARIATION_REDIRECT_PATTERN.finditer(
+                    for redirect_match in LINTING_READING_VARIATION_REDIRECT_PATTERN.finditer(
                         string=other_character_entry.entry_content(),
                     )
                     if (
-                        potential_target := match.group(LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP),
+                        potential_target := redirect_match.group(LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP),
                     )
                 ):
                     raise LintException(
@@ -4028,23 +4035,18 @@ class Linter:
         for character_entry in character_entries:
             character = character_entry.character
 
-            for redirect_match in re.finditer(
-                pattern=r'(?i:Alternative form).*See .*(?P<potential_link_content>\$.*)',
+            for redirect_match in LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN.finditer(
                 string=character_entry.entry_content()
             ):
-                potential_link_content = redirect_match.group('potential_link_content')
+                potential_target = redirect_match.group(LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP)
 
-                if 'TODO' in potential_link_content:
+                if 'TODO' in potential_target:
                     continue
 
-                for link_match in re.finditer(
-                    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
-                    string=potential_link_content,
-                    flags=re.VERBOSE,
-                ):
+                for link_match in LINTING_LINK_PATTERN.finditer(string=potential_target):
                     link = link_match.group()
-                    link_character_content = link_match.group('link_character_content')
-                    link_jyutping = link_match.group('link_jyutping')
+                    link_character_content = link_match.group(LINTING_LINK_CHARACTER_CONTENT_GROUP)
+                    link_jyutping = link_match.group(LINTING_LINK_JYUTPING_GROUP)
 
                     link_character = CmdIdioms.strip_compositions(link_character_content)
 
