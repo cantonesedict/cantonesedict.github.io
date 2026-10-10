@@ -1240,6 +1240,24 @@ LINTING_RENDERING_SENSE_PATTERN = re.compile(
 LINTING_RENDERING_SENSE_TYPE_GROUP = 'sense_type'
 LINTING_RENDERING_SENSE_RENDERINGS_GROUP = 'sense_renderings'
 
+LINTING_JYUTPING_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        - [ ]+
+        (?P<character_content> \S+ )
+        \s+
+        \( (?P<jyutping> .*? ) \)
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_JYUTPING_ITEM_CHARACTER_CONTENT_GROUP = 'character_content'
+LINTING_JYUTPING_ITEM_JYUTPING_GROUP = 'jyutping'
+
+LINTING_LENTICULAR_BRACKETED_TERM_PATTERN = re.compile(
+    pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
+    flags=re.VERBOSE,
+)
+LINTING_LENTICULAR_BRACKETED_TERM_REPL = r'\g<term>'
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -2764,25 +2782,14 @@ class CharacterEntry:
         if content is None:
             return
 
-        for item_match in re.finditer(
-            pattern=r'''
-                - [ ]+
-                (?P<character_content> \S+ )
-                \s+
-                \( (?P<jyutping> .*? ) \)
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        for item_match in LINTING_JYUTPING_ITEM_PATTERN.finditer(string=content):
             item_content = item_match.group()
-            character_content = item_match.group('character_content')
-            jyutping = item_match.group('jyutping')
+            character_content = item_match.group(LINTING_JYUTPING_ITEM_CHARACTER_CONTENT_GROUP)
+            jyutping = item_match.group(LINTING_JYUTPING_ITEM_JYUTPING_GROUP)
 
-            characters, is_term = re.subn(
-                pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
-                repl=r'\g<term>',
+            characters, is_term = LINTING_LENTICULAR_BRACKETED_TERM_PATTERN.subn(
+                repl=LINTING_LENTICULAR_BRACKETED_TERM_REPL,
                 string=CmdIdioms.strip_compositions(character_content).replace('、', ''),
-                flags=re.VERBOSE,
             )
             if is_term:
                 jyutping_lists = [
