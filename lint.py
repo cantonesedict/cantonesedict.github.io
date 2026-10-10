@@ -1275,8 +1275,12 @@ LINTING_COMPONENT_BESIDE_OPERATORS = '⿰⿲'
 LINTING_COMPONENTS_NON_BESIDE = '牛王糸言金'
 LINTING_COMPONENTS_BESIDE = '牜𤣩糹訁釒'
 
-LINTING_COMPONENT_BESIDE_OPERATOR_PATTERN = re.compile(
-    pattern=f'[{LINTING_COMPONENT_BESIDE_OPERATORS}]',
+LINTING_COMPONENT_BESIDE_PATTERN = re.compile(
+    pattern=f'''
+        [{LINTING_COMPONENT_BESIDE_OPERATORS}]
+        [{LINTING_COMPONENTS_NON_BESIDE}] (?! @ )
+    ''',
+    flags=re.VERBOSE,
 )
 LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN = re.compile(
     pattern=fr'''
@@ -1972,7 +1976,7 @@ class CmdSource:
     @staticmethod
     def lint_composition_component_beside(content: str):
         # Fast elimination of negative cases
-        if not LINTING_COMPONENT_BESIDE_OPERATOR_PATTERN.search(string=content):
+        if not LINTING_COMPONENT_BESIDE_PATTERN.search(string=content):
             return
 
         for context_match in LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN.finditer(string=content):
