@@ -4076,23 +4076,18 @@ class Linter:
         for character_entry in character_entries:
             jyutping = character_entry.jyutping
 
-            for redirect_match in re.finditer(
-                pattern=r'(?i:Reading variation).*See .*(?P<potential_link_content>\$.*)',
+            for redirect_match in LINTING_READING_VARIATION_REDIRECT_PATTERN.finditer(
                 string=character_entry.entry_content()
             ):
-                potential_link_content = redirect_match.group('potential_link_content')
+                potential_target = redirect_match.group(LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP)
 
-                if 'TODO' in potential_link_content:
+                if 'TODO' in potential_target:
                     continue
 
-                for link_match in re.finditer(
-                    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
-                    string=potential_link_content,
-                    flags=re.VERBOSE,
-                ):
+                for link_match in LINTING_LINK_PATTERN.finditer(string=potential_target):
                     link = link_match.group()
-                    link_character_content = link_match.group('link_character_content')
-                    link_jyutping = link_match.group('link_jyutping')
+                    link_character_content = link_match.group(LINTING_LINK_CHARACTER_CONTENT_GROUP)
+                    link_jyutping = link_match.group(LINTING_LINK_JYUTPING_GROUP)
 
                     link_character = CmdIdioms.strip_compositions(link_character_content)
 
