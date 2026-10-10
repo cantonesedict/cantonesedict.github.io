@@ -1021,6 +1021,13 @@ CHARACTER_ENTRY_SEE_ALSO_OPENING_BRACKET_GROUP = 'opening_bracket'
 CHARACTER_ENTRY_SEE_ALSO_CHARACTER_CONTENT_GROUP = 'character_content'
 CHARACTER_ENTRY_SEE_ALSO_JYUTPING_GROUP = 'jyutping'
 
+RADICAL_STROKES_PATTERN = re.compile(
+    pattern=r'(?P<radical> \S ) [ ][+][ ] (?P<stroke_count> [0-9]+ )',
+    flags=re.VERBOSE,
+)
+RADICAL_STROKES_RADICAL_GROUP = 'radical'
+RADICAL_STROKES_STROKE_COUNT_GROUP = 'stroke_count'
+
 LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
 
 LINTING_NON_STRAIGHT_QUOTES = '‘’“”'
@@ -3197,15 +3204,11 @@ class RadicalStrokes:
     stroke_count: int
 
     def __init__(self, radical_strokes_run: str):
-        if not (match := re.fullmatch(
-            pattern=r'(?P<radical> \S ) [ ][+][ ] (?P<stroke_count> [0-9]+ )',
-            string=radical_strokes_run,
-            flags=re.VERBOSE,
-        )):
+        if not (match := RADICAL_STROKES_PATTERN.fullmatch(string=radical_strokes_run)):
             raise LintException(f'invalid radical strokes run `{radical_strokes_run}`')
 
-        radical = match.group('radical')
-        stroke_count = int(match.group('stroke_count'))
+        radical = match.group(RADICAL_STROKES_RADICAL_GROUP)
+        stroke_count = int(match.group(RADICAL_STROKES_STROKE_COUNT_GROUP))
 
         if radical not in KANGXI_RADICALS:
             if radical in CJK_UNIFIED_IDEOGRAPH_RADICALS:
