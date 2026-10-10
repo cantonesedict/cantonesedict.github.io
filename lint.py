@@ -841,6 +841,12 @@ UNWANTED_FOR_WILLIAMS_TONE_NUMBER_PATTERN = re.compile(
     pattern='[^1-9]',
 )
 
+REDUCED_CHARACTER_RUN_PATTERN = re.compile(
+    pattern=r'^ (?: ~~ .+? ~~ )? `` (?P<reduced_character_run> \S+ ) `` $',
+    flags=re.VERBOSE,
+)
+REDUCED_CHARACTER_RUN_REPL = r'\g<reduced_character_run>'
+
 ENTRY_PAGE_TITLE_PATTERN = re.compile(
     pattern=r'^\* %title --> (?P<title>[a-z]+)$',
     flags=re.MULTILINE,
@@ -2340,11 +2346,9 @@ class CharacterEntry:
         is_canonical = not non_canonical
         is_added = bool(addition)
 
-        reduced_character_run = re.sub(
-            pattern=r'^ (?: ~~ .+? ~~ )? `` (?P<reduced_character_run> \S+ ) `` $',
-            repl=r'\g<reduced_character_run>',
+        reduced_character_run = REDUCED_CHARACTER_RUN_PATTERN.sub(
+            repl=REDUCED_CHARACTER_RUN_REPL,
             string=character_run,
-            flags=re.VERBOSE,
         )
 
         if composition_match := COMPOSITION_PATTERN.fullmatch(string=reduced_character_run):
