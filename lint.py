@@ -813,6 +813,10 @@ ROUND_BRACKETS_PATTERN = re.compile(pattern='[()]')
 COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
 SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
 FULL_STOP_OR_CARET_PATTERN = re.compile(pattern='[.^]')
+COMMA_THEN_SPACES_PATTERN = re.compile(pattern=',[ ]+')
+
+CHINESE_RUN_REGEX = '[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+'
+CHINESE_RUN_PATTERN = re.compile(CHINESE_RUN_REGEX)
 
 INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
@@ -988,7 +992,7 @@ LINTING_COMPOSITION_WHITELISTED_PRIMITIVES = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄�
 LINTING_COMPOSITION_EXEMPT_PATTERN = re.compile(
     pattern='|'.join([
         r'\{ \S = \S+? \}',
-        r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
+        fr'\# cantonese - {CHINESE_RUN_REGEX}',
     ]),
     flags=re.VERBOSE,
 )
@@ -1206,6 +1210,35 @@ LINTING_WILLIAMS_UNITALICISED_SEMICOLON_PATTERN = re.compile(
     ''',
     flags=re.VERBOSE,
 )
+
+LINTING_WILLIAMS_LOCATED_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] \n
+        (?P<item_content> (?s: .*? ) )
+        (?= ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] \n | \Z )
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP = 'headword_run'
+LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP = 'item_content'
+
+LINTING_ANNOTATION_WITH_HEADWORD_PATTERN = re.compile(
+    pattern=r'\[\[(?P<source>Kangxi|Fan Wan) (?P<annotation_character>\S): .*?\]\]'
+)
+LINTING_ANNOTATION_WITH_HEADWORD_SOURCE_GROUP = 'source'
+LINTING_ANNOTATION_WITH_HEADWORD_CHARACTER_GROUP = 'annotation_character'
+
+LINTING_ANNOTATION_WITHOUT_HEADWORD_PATTERN = re.compile(
+    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): .*?\]\]',
+)
+LINTING_ANNOTATION_WITHOUT_HEADWORD_SOURCE_GROUP = 'source'
+
+LINTING_RENDERING_SENSE_PATTERN = re.compile(
+    pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]* (?P<sense_renderings> .* )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_RENDERING_SENSE_TYPE_GROUP = 'sense_type'
+LINTING_RENDERING_SENSE_RENDERINGS_GROUP = 'sense_renderings'
 
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
@@ -2639,42 +2672,26 @@ class CharacterEntry:
 
     @staticmethod
     def lint_annotation_headword(character: str, content: str):
-        for match in re.finditer(
-            pattern=r'''
-                ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] \n
-                (?P<item_content> (?s: .*? ) )
-                (?= ^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] \n | \Z )
-            ''',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
-            headword_run = match.group('headword_run')
-            item_content = match.group('item_content')
+        for match in LINTING_WILLIAMS_LOCATED_ITEM_PATTERN.finditer(string=content):
+            headword_run = match.group(LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP)
+            item_content = match.group(LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP)
 
-            headword_characters = re.findall(
-                pattern='[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
-                string=CmdIdioms.strip_compositions(headword_run),
-            )
+            headword_characters = CHINESE_RUN_PATTERN.findall(string=CmdIdioms.strip_compositions(headword_run))
             potential_characters = ''.join(sorted({character, *headword_characters}))
 
             if len(potential_characters) == 1:
-                if redundant_match := re.search(
-                    pattern=fr'\[\[(?P<source>Kangxi|Fan Wan) {character}: .*?\]\]',
-                    string=item_content,
-                ):
-                    annotation = redundant_match.group()
-                    source = redundant_match.group('source')
-                    raise LintException(
-                        f'redundant disambiguator {character} in {source} annotation `{annotation}` '
-                        f'(suppress with caret before colon if legitimate)'
-                    )
+                if explicit_match := LINTING_ANNOTATION_WITH_HEADWORD_PATTERN.search(string=item_content):
+                    if character == explicit_match.group(LINTING_ANNOTATION_WITH_HEADWORD_CHARACTER_GROUP):
+                        annotation = explicit_match.group()
+                        source = explicit_match.group(LINTING_ANNOTATION_WITH_HEADWORD_SOURCE_GROUP)
+                        raise LintException(
+                            f'redundant disambiguator {character} in {source} annotation `{annotation}` '
+                            f'(suppress with caret before colon if legitimate)'
+                        )
             else:
-                if ambiguous_match := re.search(
-                    pattern=r'\[\[(?P<source>Kangxi|Fan Wan): .*?\]\]',
-                    string=item_content,
-                ):
+                if ambiguous_match := LINTING_ANNOTATION_WITHOUT_HEADWORD_PATTERN.search(string=item_content):
                     annotation = ambiguous_match.group()
-                    source = ambiguous_match.group('source')
+                    source = ambiguous_match.group(LINTING_ANNOTATION_WITHOUT_HEADWORD_SOURCE_GROUP)
                     raise LintException(
                         f'ambiguous headword ({potential_characters}) in {source} annotation `{annotation}`'
                     )
@@ -2684,21 +2701,20 @@ class CharacterEntry:
         if content is None:
             return
 
-        for sense_match in re.finditer(
-            pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]* (?P<sense_renderings> .* )',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
+        for sense_match in LINTING_RENDERING_SENSE_PATTERN.finditer(string=content):
             sense_line = sense_match.group().strip()
-            sense_type = sense_match.group('sense_type')
+            sense_type = sense_match.group(LINTING_RENDERING_SENSE_TYPE_GROUP)
 
             if sense_line.count(met_marker := '(_met._)') > 1:
                 raise LintException(f'multiple occurrences of `{met_marker}` in `{sense_line}`')
 
-            sense_renderings_unsplit = sense_match.group('sense_renderings').replace(met_marker, '')
+            sense_renderings_unsplit = (
+                sense_match.group(LINTING_RENDERING_SENSE_RENDERINGS_GROUP)
+                .replace(met_marker, '')
+            )
             sense_renderings = [
                 rendering.strip()
-                for rendering in re.split(pattern=',[ ]+', string=sense_renderings_unsplit)
+                for rendering in COMMA_THEN_SPACES_PATTERN.split(string=sense_renderings_unsplit)
                 if rendering
             ]
 
