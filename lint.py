@@ -943,6 +943,17 @@ CHARACTER_ENTRY_JYUTPING_GROUP = 'jyutping'
 CHARACTER_ENTRY_NON_CANONICAL_GROUP = 'non_canonical'
 CHARACTER_ENTRY_CONTENT_GROUP = 'entry_content'
 
+CHARACTER_ENTRY_KEYS_PATTERN_READABLE = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
+CHARACTER_ENTRY_KEYS_PATTERN_REGEX = re.sub(
+    pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
+    repl=r'(?:\g<optional_key> )?',
+    string=CHARACTER_ENTRY_KEYS_PATTERN_READABLE,
+    flags=re.VERBOSE,
+)
+CHARACTER_ENTRY_KEYS_PATTERN = re.compile(
+    pattern=CHARACTER_ENTRY_KEYS_PATTERN_REGEX,
+)
+
 LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
 
 LINTING_NON_STRAIGHT_QUOTES = '‘’“”'
@@ -1145,6 +1156,54 @@ LINTING_COMPONENT_BESIDE_COMPONENT_GROUP = 'component'
 
 LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN = re.compile(
     pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
+    flags=re.VERBOSE,
+)
+
+LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
+    pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+
+LINTING_WILLIAMS_LOCATOR_PATTERN = re.compile(
+    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
+
+LINTING_ELLIPSIS_ITEM = "- [[...]]"
+LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN = re.compile(
+    pattern=f'^[ ]+{re.escape(LINTING_ELLIPSIS_ITEM)}$',
+    flags=re.MULTILINE,
+)
+
+LINTING_WILLIAMS_UNWANTED_COMMA_PATTERN = re.compile(
+    pattern=r'''
+        _ \S[^_\n]*? (?: \([36789]\) | ' ) (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
+        \s+
+        \[\[ [^\[\n]+? \]\]  # supplied Jyutping
+        (?: \s+ \[\[ .*? \]\] )?  # supplied Kangxi with punctuation
+        ,  # unwanted comma
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_WILLIAMS_MISSING_COMMA_PATTERN = re.compile(
+    pattern=r'''
+        _ \S[^_\n]*? \([1245]\) \S+ [^'`] (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
+        \s+
+        \[\[ .+? \]\]  # supplied Jyutping
+        (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
+        \s  # missing comma
+    ''',
+    flags=re.VERBOSE,
+)
+LINTING_WILLIAMS_UNITALICISED_SEMICOLON_PATTERN = re.compile(
+    pattern=r'''
+        _ \S [^_\n]*? _  # Williams romanisation
+        \s+
+        \[\[ .+? \]\]  # supplied Jyutping
+        (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
+        ;  # unitalicised semicolon
+    ''',
     flags=re.VERBOSE,
 )
 
@@ -2511,17 +2570,11 @@ class CharacterEntry:
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
-        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
-        pattern = re.sub(
-            pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
-            repl=r'(?:\g<optional_key> )?',
-            string=pattern_readable,
-            flags=re.VERBOSE,
-        )
 
-        if not re.fullmatch(pattern=pattern, string=keys):
+        if not CHARACTER_ENTRY_KEYS_PATTERN.fullmatch(string=keys):
             raise LintException(
-                f'character entry keys `{keys}` do not match pattern `{pattern_readable}` under `{heading_content}`'
+                f'character entry keys `{keys}` do not match pattern `{CHARACTER_ENTRY_KEYS_PATTERN_READABLE}` '
+                f'under `{heading_content}`'
             )
 
     @staticmethod
@@ -2531,11 +2584,7 @@ class CharacterEntry:
 
     @staticmethod
     def lint_consecutive_lists(content: str, heading_content: str):
-        if re.search(
-            pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
+        if LINTING_CONSECUTIVE_LISTS_PATTERN.search(string=content):
             raise LintException(
                 f'consecutive lists in `{heading_content}` '
                 f'(suppress with intervening caret plus backslash if legitimate)'
@@ -2543,41 +2592,24 @@ class CharacterEntry:
 
     @staticmethod
     def lint_williams_locator_tone(content: str):
-        for match in re.finditer(
-            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
-            string=content,
-            flags=re.MULTILINE | re.VERBOSE,
-        ):
+        for match in LINTING_WILLIAMS_LOCATOR_PATTERN.finditer(string=content):
             locator_run = match.group().strip()
-            headword_run = match.group('headword_run')
+            headword_run = match.group(LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP)
 
             if not WILLIAMS_TONE_PATTERN.search(string=headword_run):
                 raise LintException(f'missing Williams tone in locator `{locator_run}`')
 
     @staticmethod
     def lint_williams_ellipsis_item_punctuation(content: str):
-        ellipsis_item = '- [[...]]'
-        ellipsis_item_pattern = re.escape(ellipsis_item)
-        unpunctuated_ellipsis_item_pattern = f'^[ ]+{ellipsis_item_pattern}$'
-        if re.search(pattern=unpunctuated_ellipsis_item_pattern, string=content, flags=re.MULTILINE):
+        if LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN.search(string=content):
             raise LintException(
-                f'unpunctuated ellipsis item `{ellipsis_item}` '
+                f'unpunctuated ellipsis item `{LINTING_ELLIPSIS_ITEM}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
 
     @staticmethod
     def lint_williams_romanisation_punctuation(content: str):
-        if unwanted_comma_match := re.search(
-            pattern=r'''
-                _ \S[^_\n]*? (?: \([36789]\) | ' ) (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
-                \s+
-                \[\[ [^\[\n]+? \]\]  # supplied Jyutping
-                (?: \s+ \[\[ .*? \]\] )?  # supplied Kangxi with punctuation
-                ,  # unwanted comma
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if unwanted_comma_match := LINTING_WILLIAMS_UNWANTED_COMMA_PATTERN.search(string=content):
             unwanted_comma_context = unwanted_comma_match.group()
             unwanted_comma_context_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=unwanted_comma_context)
             raise LintException(
@@ -2586,17 +2618,7 @@ class CharacterEntry:
                 f'(suppress with caret before comma if legitimate)'
             )
 
-        if missing_comma_match := re.search(
-            pattern=r'''
-                _ \S[^_\n]*? \([1245]\) \S+ [^'`] (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
-                \s+
-                \[\[ .+? \]\]  # supplied Jyutping
-                (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
-                \s  # missing comma
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if missing_comma_match := LINTING_WILLIAMS_MISSING_COMMA_PATTERN.search(string=content):
             missing_comma_context = missing_comma_match.group()
             missing_comma_context_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=missing_comma_context.strip())
             raise LintException(
@@ -2604,17 +2626,7 @@ class CharacterEntry:
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
 
-        if unitalicised_semicolon_match := re.search(
-            pattern=r'''
-                _ \S [^_\n]*? _  # Williams romanisation
-                \s+
-                \[\[ .+? \]\]  # supplied Jyutping
-                (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
-                ;  # unitalicised semicolon
-            ''',
-            string=content,
-            flags=re.VERBOSE,
-        ):
+        if unitalicised_semicolon_match := LINTING_WILLIAMS_UNITALICISED_SEMICOLON_PATTERN.search(string=content):
             unitalicised_semicolon_context = unitalicised_semicolon_match.group()
             unitalicised_semicolon_context_reduced = WHITESPACE_RUN_PATTERN.sub(
                 repl=' ',
