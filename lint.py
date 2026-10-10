@@ -905,6 +905,10 @@ TONE_NAVIGATOR_PATTERN = re.compile(
     pattern='<## tones ##>.*?<## /tones ##>',
     flags=re.DOTALL,
 )
+INCIPIT_NAVIGATOR_PATTERN = re.compile(
+    pattern='<## incipits ##>.*?<## /incipits ##>',
+    flags=re.DOTALL,
+)
 
 TONE_HEADING_PATTERN = re.compile(
     pattern=r'''
@@ -3775,11 +3779,9 @@ class Linter:
             '<## /incipits ##>',
         ])
 
-        return re.sub(
-            pattern='<## incipits ##>.*?<## /incipits ##>',
+        return INCIPIT_NAVIGATOR_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(incipit_navigator_content_expected),
             string=content,
-            flags=re.DOTALL,
         )
 
     @staticmethod
