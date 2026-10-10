@@ -814,6 +814,7 @@ COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', 
 SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
 FULL_STOP_OR_CARET_PATTERN = re.compile(pattern='[.^]')
 COMMA_THEN_SPACES_PATTERN = re.compile(pattern=',[ ]+')
+UNICODE_CODE_POINT_PATTERN = re.compile(pattern='U[+][0-9A-F]{4,5}')
 
 CHINESE_RUN_REGEX = '[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+'
 CHINESE_RUN_PATTERN = re.compile(CHINESE_RUN_REGEX)
@@ -957,6 +958,68 @@ CHARACTER_ENTRY_KEYS_PATTERN_REGEX = re.sub(
 CHARACTER_ENTRY_KEYS_PATTERN = re.compile(
     pattern=CHARACTER_ENTRY_KEYS_PATTERN_REGEX,
 )
+
+CHARACTER_ENTRY_RADICAL_STROKES_PATTERN = re.compile(
+    pattern='^ [ ]+ (?P<radical_strokes_run> .*? ) $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_RADICAL_STROKES_RUN_GROUP = 'radical_strokes_run'
+
+CHARACTER_ENTRY_ALTERNATIVE_FORM_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ ) [ ]* (?P<qualifier> .*)',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_ALTERNATIVE_FORM_CHARACTER_OR_LINK_GROUP = 'character_or_link'
+CHARACTER_ENTRY_ALTERNATIVE_FORM_QUALIFIER_GROUP = 'qualifier'
+
+CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ - [ ] (?P<raw_jyutping> \S+ )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP = 'raw_jyutping'
+
+CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ (?P<indentation> [ ]+ ) [*][ ]
+        【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+        [ ] \( (?P<baxter_content> .* ) \) \n
+        (?P<sense_content> (?: (?P=indentation) [ ]+ .* \n)* )
+    ''',
+    flags = re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_LITERARY_RENDERING_TERM_GROUP = 'term'
+CHARACTER_ENTRY_LITERARY_RENDERING_DISAMBIGUATION_SUFFIX_GROUP = 'disambiguation_suffix'
+CHARACTER_ENTRY_LITERARY_RENDERING_BAXTER_CONTENT_GROUP = 'baxter_content'
+CHARACTER_ENTRY_LITERARY_RENDERING_SENSE_CONTENT_GROUP = 'sense_content'
+
+CHARACTER_ENTRY_CANTONESE_ENTRY_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ [-][ ]
+        【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+        [ ] \( (?P<jyutping_content> .* ) \)
+    ''',
+    flags = re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_CANTONESE_ENTRY_TERM_GROUP = 'term'
+CHARACTER_ENTRY_CANTONESE_ENTRY_DISAMBIGUATION_SUFFIX_GROUP = 'disambiguation_suffix'
+CHARACTER_ENTRY_CANTONESE_ENTRY_JYUTPING_CONTENT_GROUP = 'jyutping_content'
+
+CHARACTER_ENTRY_SEE_ALSO_ITEM_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ - [ ]
+        (?P<content>
+            (?P<opening_bracket> \( )?
+            \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
+            (?(opening_bracket) \) )
+            .*
+        )
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_SEE_ALSO_CONTENT_GROUP = 'content'
+CHARACTER_ENTRY_SEE_ALSO_OPENING_BRACKET_GROUP = 'opening_bracket'
+CHARACTER_ENTRY_SEE_ALSO_CHARACTER_CONTENT_GROUP = 'character_content'
+CHARACTER_ENTRY_SEE_ALSO_JYUTPING_GROUP = 'jyutping'
 
 LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
 
@@ -2959,13 +3022,9 @@ class CharacterEntry:
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
         return [
             RadicalStrokes(radical_strokes_run)
-            for match in re.finditer(
-                pattern='^ [ ]+ (?P<radical_strokes_run> .*? ) $',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_RADICAL_STROKES_PATTERN.finditer(string=content)
             if (
-                radical_strokes_run := match.group('radical_strokes_run'),
+                radical_strokes_run := match.group(CHARACTER_ENTRY_RADICAL_STROKES_RUN_GROUP),
             )
         ]
 
@@ -2973,10 +3032,7 @@ class CharacterEntry:
     def extract_unicode_code_point(content: str) -> str:
         stripped_content = content.strip()
 
-        if not (match := re.fullmatch(
-            pattern='U[+][0-9A-F]{4,5}',
-            string=stripped_content,
-        )):
+        if not (match := UNICODE_CODE_POINT_PATTERN.fullmatch(string=stripped_content)):
             raise LintException(f'invalid Unicode code point `{stripped_content}`')
 
         return match.group()
@@ -2988,14 +3044,10 @@ class CharacterEntry:
 
         return [
             AlternativeForm(character_or_link, jyutping, qualifier)
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ ) [ ]* (?P<qualifier> .*)',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_ALTERNATIVE_FORM_ITEM_PATTERN.finditer(string=content)
             if (
-                character_or_link := match.group('character_or_link'),
-                qualifier := match.group('qualifier'),
+                character_or_link := match.group(CHARACTER_ENTRY_ALTERNATIVE_FORM_CHARACTER_OR_LINK_GROUP),
+                qualifier := match.group(CHARACTER_ENTRY_ALTERNATIVE_FORM_QUALIFIER_GROUP),
             )
         ]
 
@@ -3006,13 +3058,9 @@ class CharacterEntry:
 
         return [
             ReadingVariation(raw_jyutping)
-            for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<raw_jyutping> \S+ )',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN.finditer(string=content)
             if (
-                raw_jyutping := match.group('raw_jyutping'),
+                raw_jyutping := match.group(CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP),
             )
         ]
 
@@ -3025,21 +3073,12 @@ class CharacterEntry:
         return [
             LiteraryRendering(term, disambiguation_suffix, baxter_content, sense_content,
                               character, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ (?P<indentation> [ ]+ ) [*][ ]
-                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<baxter_content> .* ) \) \n
-                    (?P<sense_content> (?: (?P=indentation) [ ]+ .* \n)* )
-                ''',
-                string=content,
-                flags = re.MULTILINE | re.VERBOSE,
-            )
+            for match in CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN.finditer(string=content)
             if (
-                term := match.group('term'),
-                disambiguation_suffix := match.group('disambiguation_suffix'),
-                baxter_content := match.group('baxter_content'),
-                sense_content := match.group('sense_content'),
+                term := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_TERM_GROUP),
+                disambiguation_suffix := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_DISAMBIGUATION_SUFFIX_GROUP),
+                baxter_content := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_BAXTER_CONTENT_GROUP),
+                sense_content := match.group(CHARACTER_ENTRY_LITERARY_RENDERING_SENSE_CONTENT_GROUP),
             )
         ]
 
@@ -3051,19 +3090,11 @@ class CharacterEntry:
 
         return [
             CantoneseEntry(term, disambiguation_suffix, jyutping_content, page_heading_jyutping)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ [ ]+ [-][ ]
-                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<jyutping_content> .* ) \)
-                ''',
-                string=content,
-                flags = re.MULTILINE | re.VERBOSE,
-            )
+            for match in CHARACTER_ENTRY_CANTONESE_ENTRY_ITEM_PATTERN.finditer(string=content)
             if (
-                term := match.group('term'),
-                disambiguation_suffix := match.group('disambiguation_suffix'),
-                jyutping_content := match.group('jyutping_content'),
+                term := match.group(CHARACTER_ENTRY_CANTONESE_ENTRY_TERM_GROUP),
+                disambiguation_suffix := match.group(CHARACTER_ENTRY_CANTONESE_ENTRY_DISAMBIGUATION_SUFFIX_GROUP),
+                jyutping_content := match.group(CHARACTER_ENTRY_CANTONESE_ENTRY_JYUTPING_CONTENT_GROUP),
             )
         ]
 
@@ -3074,24 +3105,12 @@ class CharacterEntry:
 
         return [
             SeeAlsoLink(content, jyutping, character_content, is_canonical)
-            for match in re.finditer(
-                pattern=r'''
-                    ^ [ ]+ - [ ]
-                    (?P<content>
-                        (?P<opening_bracket> \( )?
-                        \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
-                        (?(opening_bracket) \) )
-                        .*
-                    )
-                ''',
-                flags=re.MULTILINE | re.VERBOSE,
-                string=content,
-            )
+            for match in CHARACTER_ENTRY_SEE_ALSO_ITEM_PATTERN.finditer(string=content)
             if (
-                content := match.group('content'),
-                is_canonical := match.group('opening_bracket') is None,
-                character_content := match.group('character_content'),
-                jyutping := match.group('jyutping'),
+                content := match.group(CHARACTER_ENTRY_SEE_ALSO_CONTENT_GROUP),
+                is_canonical := match.group(CHARACTER_ENTRY_SEE_ALSO_OPENING_BRACKET_GROUP) is None,
+                character_content := match.group(CHARACTER_ENTRY_SEE_ALSO_CHARACTER_CONTENT_GROUP),
+                jyutping := match.group(CHARACTER_ENTRY_SEE_ALSO_JYUTPING_GROUP),
             )
         ]
 
