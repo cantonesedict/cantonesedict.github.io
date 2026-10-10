@@ -4165,7 +4165,7 @@ class Linter:
                         line
                         for other_lr in other_literary_renderings
                         for line in other_lr.sense_content.splitlines()
-                        if re.match(pattern='[ ]+[-] Used in', string=line)
+                        if '- Used in' in line
                         if link_content in line
                     ]
 
