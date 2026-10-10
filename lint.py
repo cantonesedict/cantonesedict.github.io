@@ -1378,6 +1378,11 @@ LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN = re.compile(
 )
 LINTING_ALTERNATIVE_FORM_POTENTIAL_TARGET_GROUP = 'potential_target'
 
+LINTING_READING_VARIATION_REDIRECT_PATTERN = re.compile(
+    pattern=r'(?i:Reading variation).*See (?P<potential_target>.*)',
+)
+LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP = 'potential_target'
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -3998,9 +4003,14 @@ class Linter:
                 except KeyError:
                     continue
 
-                if reading_variation.is_redirect_necessary and not re.search(
-                    pattern=fr'(?i:Reading variation).*See .*{re.escape(universal_link)}',
-                    string=other_character_entry.entry_content(),
+                if reading_variation.is_redirect_necessary and not any(
+                    universal_link in potential_target
+                    for match in LINTING_READING_VARIATION_REDIRECT_PATTERN.finditer(
+                        string=other_character_entry.entry_content(),
+                    )
+                    if (
+                        potential_target := match.group(LINTING_READING_VARIATION_POTENTIAL_TARGET_GROUP),
+                    )
                 ):
                     raise LintException(
                         f'missing reading variation redirect to `{universal_link}` under `{other_character_entry}` '
