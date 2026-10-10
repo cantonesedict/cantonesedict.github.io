@@ -1258,6 +1258,19 @@ LINTING_LENTICULAR_BRACKETED_TERM_PATTERN = re.compile(
 )
 LINTING_LENTICULAR_BRACKETED_TERM_REPL = r'\g<term>'
 
+LINTING_W_CONTENT_CANONICAL_ITEM_PATTERN = re.compile(
+    pattern=r'^ [ ]+ (?: [-][ ] (?! \[\[Page | ~~ .*? ~~$ ) | [A-Z_] )',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+LINTING_P_CONTENT_ITEM_PATTERN = re.compile(
+    pattern='^[ ]+1[.].*',
+    flags=re.MULTILINE,
+)
+LINTING_LOCATOR_LINE_PATTERN = re.compile(
+    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+
 INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
     pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
     flags=re.IGNORECASE | re.VERBOSE,
@@ -2816,16 +2829,12 @@ class CharacterEntry:
         redirect_phrase = 'for the canonical'
 
         is_w_canonical = (
-            stripped_w_content != '[[Not present]]' and redirect_phrase not in stripped_w_content
-            or re.search(
-                pattern=r'^ [ ]+ (?: [-][ ] (?! \[\[Page | ~~ .*? ~~$ ) | [A-Z_] )',
-                string=stripped_w_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            )
+                stripped_w_content != '[[Not present]]' and redirect_phrase not in stripped_w_content
+                or LINTING_W_CONTENT_CANONICAL_ITEM_PATTERN.search(string=stripped_w_content)
         )
         is_p_canonical = (
             p_content is not None
-            and (definition_first_lines := re.findall(pattern='^[ ]+1[.].*', string=p_content, flags=re.MULTILINE))
+            and (definition_first_lines := LINTING_P_CONTENT_ITEM_PATTERN.findall(string=p_content))
             and any(redirect_phrase not in line for line in definition_first_lines)
         )
         is_e_canonical = e_content is not None
@@ -2842,11 +2851,7 @@ class CharacterEntry:
                            w_content: str, heading_content: str):
         is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
-        locator_lines = re.findall(
-            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
-            string=w_content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )
+        locator_lines = LINTING_LOCATOR_LINE_PATTERN.findall(string=w_content)
 
         if is_williams_present and character not in '\n'.join(locator_lines):
             raise LintException(
