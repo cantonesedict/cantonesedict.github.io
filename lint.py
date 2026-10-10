@@ -1271,12 +1271,12 @@ LINTING_DUAL_ROMANISATION_JYUTPING_GROUP = 'jyutping'
 LINTING_DUAL_ROMANISATION_CHARACTER_CONTENT_GROUP = 'character_content'
 LINTING_DUAL_ROMANISATION_CHARACTER_CARET_GROUP = 'character_caret'
 
-LINTING_COMPONENT_BESIDE_CLASS = '[⿰⿲]'
-LINTING_COMPONENT_BESIDE_PATTERN = re.compile(
-    pattern=LINTING_COMPONENT_BESIDE_CLASS,
+LINTING_COMPONENT_BESIDE_OPERATOR_CLASS = '[⿰⿲]'
+LINTING_COMPONENT_BESIDE_OPERATOR_PATTERN = re.compile(
+    pattern=LINTING_COMPONENT_BESIDE_OPERATOR_CLASS,
 )
 LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN = re.compile(
-    pattern=fr'\S* (?P<operator> {LINTING_COMPONENT_BESIDE_CLASS} ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
+    pattern=fr'\S* (?P<operator> {LINTING_COMPONENT_BESIDE_OPERATOR_CLASS} ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
     flags=re.VERBOSE,
 )
 LINTING_COMPONENT_BESIDE_OPERATOR_GROUP = 'operator'
@@ -1965,7 +1965,7 @@ class CmdSource:
     @staticmethod
     def lint_composition_component_beside(content: str):
         # Fast elimination of negative cases
-        if not LINTING_COMPONENT_BESIDE_PATTERN.search(string=content):
+        if not LINTING_COMPONENT_BESIDE_OPERATOR_PATTERN.search(string=content):
             return
 
         for context_match in LINTING_COMPONENT_BESIDE_CONTEXT_PATTERN.finditer(string=content):
