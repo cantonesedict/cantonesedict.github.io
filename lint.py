@@ -914,6 +914,12 @@ ENTRY_INDEX_PATTERN = re.compile(
     flags=re.DOTALL,
 )
 
+RADICAL_TABLE_PATTERN = re.compile(
+    pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
+    flags=re.DOTALL,
+)
+RADICAL_TABLE_RADICAL_GROUP = 'radical'
+
 TONE_HEADING_PATTERN = re.compile(
     pattern=r'''
         ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
@@ -1494,12 +1500,6 @@ INDEXING_REDUNDANT_EDIT_PATTERN = re.compile(
     flags=re.VERBOSE,
 )
 INDEXING_REDUNDANT_EDIT_REPL = r'\g<run>'
-
-RADICAL_TABLE_PATTERN = re.compile(
-    pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
-    flags=re.DOTALL,
-)
-RADICAL_TABLE_RADICAL_GROUP = 'radical'
 
 
 class Utilities:
