@@ -3120,8 +3120,8 @@ class CharacterEntry:
 
         # Normalise and remove diacritics
         text = unicodedata.normalize('NFD', text)
-        if non_spacing_marks := ''.join(c for c in set(text) if unicodedata.category(c) == 'Mn'):
-            text = re.sub(pattern=f'[{non_spacing_marks}]', repl='', string=text)
+        if non_spacing_marks := {c for c in set(text) if unicodedata.category(c) == 'Mn'}:
+            text = ''.join(c for c in text if c not in non_spacing_marks)
 
         # Normalise common ligatures without Unicode decomposition
         text = text.replace('Æ', 'Ae')
