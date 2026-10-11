@@ -3231,23 +3231,31 @@ class CharacterEntry:
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
-        text = INDEXING_ELLIPSIS_ITEM_PATTERN.sub(repl='', string=text)
+        if '[[...]]' in text:
+            text = INDEXING_ELLIPSIS_ITEM_PATTERN.sub(repl='', string=text)
         text = INDEXING_REDIRECTION_PATTERN.sub(repl='', string=text)
 
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
-        text = INDEXING_PAGE_LINK_PATTERN.sub(repl=INDEXING_PAGE_LINK_REPL, string=text)
-        text = INDEXING_ENTRY_LINK_PATTERN.sub(repl=INDEXING_ENTRY_LINK_REPL, string=text)
-        text = INDEXING_LOCAL_ENTRY_LINK_PATTERN.sub(repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
-        text = INDEXING_SPECIFIED_LINK_PATTERN.sub(repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
-        text = INDEXING_REFERENCED_LINK_PATTERN.sub(repl=INDEXING_REFERENCED_LINK_REPL, string=text)
-        text = INDEXING_BAXTER_NOTATION_PATTERN.sub(repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
+        if '$' in text:
+            text = INDEXING_PAGE_LINK_PATTERN.sub(repl=INDEXING_PAGE_LINK_REPL, string=text)
+            text = INDEXING_ENTRY_LINK_PATTERN.sub(repl=INDEXING_ENTRY_LINK_REPL, string=text)
+            text = INDEXING_LOCAL_ENTRY_LINK_PATTERN.sub(repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
+        if '](' in text:
+            text = INDEXING_SPECIFIED_LINK_PATTERN.sub(repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
+        if '][' in text:
+            text = INDEXING_REFERENCED_LINK_PATTERN.sub(repl=INDEXING_REFERENCED_LINK_REPL, string=text)
+        if '(`' in text:
+            text = INDEXING_BAXTER_NOTATION_PATTERN.sub(repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
-        text = INDEXING_NON_BREAKING_SPACE_PATTERN.sub(repl=' ', string=text)
-        text = INDEXING_BROAD_RIMES_PATTERN.sub(repl=INDEXING_BROAD_RIMES_REPL, string=text)
-        text = INDEXING_COLLECTED_RIMES_PATTERN.sub(repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
+        if '~' in text:
+            text = INDEXING_NON_BREAKING_SPACE_PATTERN.sub(repl=' ', string=text)
+        if 'B' in text:
+            text = INDEXING_BROAD_RIMES_PATTERN.sub(repl=INDEXING_BROAD_RIMES_REPL, string=text)
+        if 'C.' in text:
+            text = INDEXING_COLLECTED_RIMES_PATTERN.sub(repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
         text = text.replace('K. ', '《康熙字典》')
 
         # Remove non-textual CMD syntax
@@ -3258,7 +3266,8 @@ class CharacterEntry:
         text = text.replace('  * ', '')
         text = INDEXING_NUMBERED_ITEM_PATTERN.sub(repl='', string=text)
         text = INDEXING_BACKSLASH_CONTINUATION_PATTERN.sub(repl='', string=text)
-        text = INDEXING_LANG_ATTRIBUTE_PATTERN.sub(repl='', string=text)
+        if '{lang=' in text:
+            text = INDEXING_LANG_ATTRIBUTE_PATTERN.sub(repl='', string=text)
         text = text.replace('^', '')
         text = text.replace('@', '')
         text = text.replace('::', '')
@@ -3274,13 +3283,16 @@ class CharacterEntry:
         text = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=text)
 
         # Convert explicit edits
-        text = INDEXING_INS_OPENING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
-        text = INDEXING_INS_CLOSING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
-        text = INDEXING_DEL_OPENING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
-        text = INDEXING_DEL_CLOSING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
+        if 'ins>' in text:
+            text = INDEXING_INS_OPENING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
+            text = INDEXING_INS_CLOSING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
+        if 'del>' in text:
+            text = INDEXING_DEL_OPENING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
+            text = INDEXING_DEL_CLOSING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
 
         # Simplify edits that have become redundant
-        text = INDEXING_REDUNDANT_EDIT_PATTERN.sub(repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
+        if '~~' in text and '``' in text:
+            text = INDEXING_REDUNDANT_EDIT_PATTERN.sub(repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
 
         # Remove insertion markers
         text = text.replace('``', '')
