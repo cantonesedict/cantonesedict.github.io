@@ -1901,7 +1901,8 @@ class CmdSource:
     @staticmethod
     def lint_williams_diphthong(content: str):
         # Fast elimination of negative cases
-        if not any(diphthong in content.lower() for diphthong in LINTING_WILLIAMS_BAD_DIPHTHONGS):
+        lowercase_content = content.lower()
+        if not any(diphthong in lowercase_content for diphthong in LINTING_WILLIAMS_BAD_DIPHTHONGS):
             return
 
         if context_match := LINTING_WILLIAMS_BAD_DIPHTHONG_CONTEXT_PATTERN.search(string=content):
@@ -1912,7 +1913,8 @@ class CmdSource:
     @staticmethod
     def lint_williams_nasal_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not any(bad_syllable in content.lower() for bad_syllable in LINTING_WILLIAMS_BAD_NASAL_SYLLABLES):
+        lowercase_content = content.lower()
+        if not any(bad_syllable in lowercase_content for bad_syllable in LINTING_WILLIAMS_BAD_NASAL_SYLLABLES):
             return
 
         if context_match := LINTING_WILLIAMS_BAD_NASAL_APOSTROPHE_CONTEXT_PATTERN.search(string=content):
