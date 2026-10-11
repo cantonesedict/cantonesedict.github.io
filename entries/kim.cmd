@@ -21,3 +21,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 (2)魽 _(2)K(i/)m_ (gim2); here corrected to _(5)K(')(i/)m_ (kim5)]]
+    --
+    Read _(1)h(o\)m_ [[ham1]],
+    --
+    ==
+    - same as 蚶, a species of Arca, or bivalves with furrowed shells.
+    ==
+    --
+    Read _~~(2)k(i/)m~~ ``(5)k(')(i/)m``_ [[kim5]],
+    --
+    ==
+    - the name of a kind of silure _(Silurus sinensis?)_
+      common in the markets and tanks of Canton.
+    ==
+  ====
+$$
+##>
