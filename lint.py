@@ -3664,14 +3664,15 @@ class Linter:
                 cached_cmd_source = None
                 cached_digest = None
 
-            with open(file_name, 'r', encoding='utf-8') as cmd_file:
-                content = cmd_file.read()
+            with open(file_name, 'rb') as cmd_file:
+                content_binary = cmd_file.read()
 
-            digest = hashlib.sha256(content.encode('utf-8')).hexdigest()
+            digest = hashlib.sha256(content_binary).hexdigest()
 
             if cached_digest == digest:
                 cmd_sources.append(cached_cmd_source)
             else:
+                content = content_binary.decode('utf-8')
                 cmd_sources.append(CmdSource(file_name, content, digest))
 
         entry_pages = [
