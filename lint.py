@@ -3498,8 +3498,8 @@ class LiteraryRendering:
 
     def sorting_rank(self) -> tuple[list[str], list[str], str]:
         return (
-            self.sortable_baxter_list(),
-            self.sortable_baxter_list()[0].split(),
+            sortable_baxter_list := self.sortable_baxter_list(),
+            sortable_baxter_list[0].split(),
             CmdIdioms.strip_compositions(self.term),
         )
 
