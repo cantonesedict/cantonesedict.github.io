@@ -1083,6 +1083,7 @@ READING_VARIATION_CHANGED_UNCHANGED_JYUTPING_GROUP = 'unchanged_jyutping'
 READING_VARIATION_CHANGED_TONE_GROUP = 'changed_tone'
 READING_VARIATION_CHANGED_CARET_GROUP = 'caret'
 
+LINTING_TAB_NECESSITY = '\t'
 LINTING_TAB_CONTEXT_PATTERN = re.compile(pattern=r'.*\t.*')
 
 LINTING_NON_STRAIGHT_QUOTES = '‘’“”'
@@ -1435,6 +1436,7 @@ INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
 )
 INDEXING_WILLIAMS_VOWEL_REPL = r'\g<vowel>'
 
+INDEXING_ELLIPSIS_ITEM_NECESSITY = '[[...]]'
 INDEXING_ELLIPSIS_ITEM_PATTERN = re.compile(
     pattern=r'[- ] \[\[\.\.\.\]\][;.\n]'
 )
@@ -1443,6 +1445,7 @@ INDEXING_REDIRECTION_PATTERN = re.compile(
     flags=re.VERBOSE,
 )
 
+INDEXING_LINK_NECESSITY = '$'
 INDEXING_PAGE_LINK_PATTERN = re.compile(
     pattern='[$] (?P<jyutping> [a-z]+ )',
     flags=re.VERBOSE,
@@ -1461,33 +1464,39 @@ INDEXING_LOCAL_ENTRY_LINK_PATTERN = re.compile(
 )
 INDEXING_LOCAL_ENTRY_LINK_REPL = r'\g<headword>'
 
+INDEXING_SPECIFIED_LINK_NECESSITY = ']('
 INDEXING_SPECIFIED_LINK_PATTERN = re.compile(
     pattern=r'\[ (?P<text> [^\[\]]+? ) \] \( .+? \)',
     flags=re.VERBOSE,
 )
 INDEXING_SPECIFIED_LINK_REPL = r'\g<text>'
 
+INDEXING_REFERENCED_LINK_NECESSITY = ']['
 INDEXING_REFERENCED_LINK_PATTERN = re.compile(
     pattern=r'\[ (?P<text> [^\[\]]+? ) \] \[ .+? \]',
     flags=re.VERBOSE,
 )
 INDEXING_REFERENCED_LINK_REPL = r'\g<text>'
 
+INDEXING_BAXTER_NOTATION_NECESSITY = '(`'
 INDEXING_BAXTER_NOTATION_PATTERN = re.compile(
     pattern=r"\(` (?P<baxter> [ 'a-z+XH]+ ) `\)",
     flags=re.VERBOSE,
 )
 INDEXING_BAXTER_NOTATION_REPL = r'(\g<baxter>)'
 
+INDEXING_NON_BREAKING_SPACE_NECESSITY = '~'
 INDEXING_NON_BREAKING_SPACE_PATTERN = re.compile(
     pattern='(?<!~)~(?!~)',
 )
 
+INDEXING_BROAD_RIMES_NECESSITY = 'B'
 INDEXING_BROAD_RIMES_PATTERN = re.compile(
     pattern='B[1-5][.][a-z0-9]+ ',
 )
 INDEXING_BROAD_RIMES_REPL = '《廣韻》'
 
+INDEXING_COLLECTED_RIMES_NECESSITY = 'C.'
 INDEXING_COLLECTED_RIMES_PATTERN = re.compile(
     pattern='C[.][0-9]+[.]cn/n?[0-9]+',
 )
@@ -1504,10 +1513,13 @@ INDEXING_BACKSLASH_CONTINUATION_PATTERN = re.compile(
     pattern=r'[ ]* \\ [ ]* \n [ ]*',
     flags=re.MULTILINE | re.VERBOSE,
 )
+
+INDEXING_LANG_ATTRIBUTE_NECESSITY = '{lang='
 INDEXING_LANG_ATTRIBUTE_PATTERN = re.compile(
     pattern=r'\{lang=\S+\}',
 )
 
+INDEXING_INS_NECESSITY = 'ins>'
 INDEXING_INS_OPENING_PATTERN = re.compile(
     pattern=r'<ins>\s+',
 )
@@ -1516,6 +1528,7 @@ INDEXING_INS_CLOSING_PATTERN = re.compile(
 )
 INDEXING_INS_REPL = '``'
 
+INDEXING_DEL_NECESSITY = 'del>'
 INDEXING_DEL_OPENING_PATTERN = re.compile(
     pattern=r'<del>\s+',
 )
@@ -1524,6 +1537,8 @@ INDEXING_DEL_CLOSING_PATTERN = re.compile(
 )
 INDEXING_DEL_REPL = '~~'
 
+INDEXING_DELETION_EDIT_NECESSITY = '~~'
+INDEXING_INSERTION_EDIT_NECESSITY = '``'
 INDEXING_REDUNDANT_EDIT_PATTERN = re.compile(
     pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
     flags=re.VERBOSE,
@@ -1691,7 +1706,7 @@ class CmdSource:
     @staticmethod
     def lint_whitespace(content: str):
         # Fast elimination of negative cases
-        if '\t' not in content:
+        if LINTING_TAB_NECESSITY not in content:
             return
 
         if context_match := LINTING_TAB_CONTEXT_PATTERN.search(string=content):
@@ -3231,30 +3246,30 @@ class CharacterEntry:
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
-        if '[[...]]' in text:
+        if INDEXING_ELLIPSIS_ITEM_NECESSITY in text:
             text = INDEXING_ELLIPSIS_ITEM_PATTERN.sub(repl='', string=text)
         text = INDEXING_REDIRECTION_PATTERN.sub(repl='', string=text)
 
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
-        if '$' in text:
+        if INDEXING_LINK_NECESSITY in text:
             text = INDEXING_PAGE_LINK_PATTERN.sub(repl=INDEXING_PAGE_LINK_REPL, string=text)
             text = INDEXING_ENTRY_LINK_PATTERN.sub(repl=INDEXING_ENTRY_LINK_REPL, string=text)
             text = INDEXING_LOCAL_ENTRY_LINK_PATTERN.sub(repl=INDEXING_LOCAL_ENTRY_LINK_REPL, string=text)
-        if '](' in text:
+        if INDEXING_SPECIFIED_LINK_NECESSITY in text:
             text = INDEXING_SPECIFIED_LINK_PATTERN.sub(repl=INDEXING_SPECIFIED_LINK_REPL, string=text)
-        if '][' in text:
+        if INDEXING_REFERENCED_LINK_NECESSITY in text:
             text = INDEXING_REFERENCED_LINK_PATTERN.sub(repl=INDEXING_REFERENCED_LINK_REPL, string=text)
-        if '(`' in text:
+        if INDEXING_BAXTER_NOTATION_NECESSITY in text:
             text = INDEXING_BAXTER_NOTATION_PATTERN.sub(repl=INDEXING_BAXTER_NOTATION_REPL, string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
-        if '~' in text:
+        if INDEXING_NON_BREAKING_SPACE_NECESSITY in text:
             text = INDEXING_NON_BREAKING_SPACE_PATTERN.sub(repl=' ', string=text)
-        if 'B' in text:
+        if INDEXING_BROAD_RIMES_NECESSITY in text:
             text = INDEXING_BROAD_RIMES_PATTERN.sub(repl=INDEXING_BROAD_RIMES_REPL, string=text)
-        if 'C.' in text:
+        if INDEXING_COLLECTED_RIMES_NECESSITY in text:
             text = INDEXING_COLLECTED_RIMES_PATTERN.sub(repl=INDEXING_COLLECTED_RIMES_REPL, string=text)
         text = text.replace('K. ', '《康熙字典》')
 
@@ -3266,7 +3281,7 @@ class CharacterEntry:
         text = text.replace('  * ', '')
         text = INDEXING_NUMBERED_ITEM_PATTERN.sub(repl='', string=text)
         text = INDEXING_BACKSLASH_CONTINUATION_PATTERN.sub(repl='', string=text)
-        if '{lang=' in text:
+        if INDEXING_LANG_ATTRIBUTE_NECESSITY in text:
             text = INDEXING_LANG_ATTRIBUTE_PATTERN.sub(repl='', string=text)
         text = text.replace('^', '')
         text = text.replace('@', '')
@@ -3283,15 +3298,15 @@ class CharacterEntry:
         text = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=text)
 
         # Convert explicit edits
-        if 'ins>' in text:
+        if INDEXING_INS_NECESSITY in text:
             text = INDEXING_INS_OPENING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
             text = INDEXING_INS_CLOSING_PATTERN.sub(repl=INDEXING_INS_REPL, string=text)
-        if 'del>' in text:
+        if INDEXING_DEL_NECESSITY in text:
             text = INDEXING_DEL_OPENING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
             text = INDEXING_DEL_CLOSING_PATTERN.sub(repl=INDEXING_DEL_REPL, string=text)
 
         # Simplify edits that have become redundant
-        if '~~' in text and '``' in text:
+        if INDEXING_DELETION_EDIT_NECESSITY in text and INDEXING_INSERTION_EDIT_NECESSITY in text:
             text = INDEXING_REDUNDANT_EDIT_PATTERN.sub(repl=INDEXING_REDUNDANT_EDIT_REPL, string=text)
 
         # Remove insertion markers
