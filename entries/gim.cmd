@@ -103,3 +103,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 (1)鶼]]
+    ==
+    - A fabulous bird, with one wing and eye,
+      which needs the help of another like it, to be able to fly;
+    - birds flying in pairs.
+    ==
+  ====
+$$
+##>
