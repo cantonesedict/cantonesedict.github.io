@@ -3669,7 +3669,7 @@ class Linter:
 
             digest = hashlib.sha256(content_binary).hexdigest()
 
-            if cached_digest == digest:
+            if digest == cached_digest:
                 cmd_sources.append(cached_cmd_source)
             else:
                 content = content_binary.decode('utf-8')
