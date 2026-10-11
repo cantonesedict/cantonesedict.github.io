@@ -1665,11 +1665,7 @@ class CmdSource:
     entry_page: Optional['EntryPage']
     radical_page: Optional['RadicalPage']
 
-    def __init__(self, file_name: str):
-        with open(file_name, 'r', encoding='utf-8') as cmd_file:
-            content = cmd_file.read()
-
-        digest = hashlib.sha256(content.encode('utf-8')).hexdigest()
+    def __init__(self, file_name: str, content: str, digest: str):
         todo_count = content.count('TODO')
 
         try:
@@ -3656,7 +3652,28 @@ class Linter:
             if file_name.endswith('.cmd')
         ]
 
-        cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
+        cached_cmd_source_from_file_name = Linter.load_cache()
+
+        cmd_sources = []
+
+        for file_name in sorted(cmd_file_names):
+            try:
+                cached_cmd_source = cached_cmd_source_from_file_name[file_name]
+                cached_digest = cached_cmd_source.digest
+            except KeyError:
+                cached_cmd_source = None
+                cached_digest = None
+
+            with open(file_name, 'r', encoding='utf-8') as cmd_file:
+                content = cmd_file.read()
+
+            digest = hashlib.sha256(content.encode('utf-8')).hexdigest()
+
+            if cached_digest == digest:
+                cmd_sources.append(cached_cmd_source)
+            else:
+                cmd_sources.append(CmdSource(file_name, content, digest))
+
         entry_pages = [
             entry_page
             for cmd_source in cmd_sources
