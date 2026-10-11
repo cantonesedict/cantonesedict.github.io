@@ -108,6 +108,19 @@ $$
 $$
 W
   ====
+  - [[Page~155 (1)鰜]]
+    ==
+    - The sole fish,
+      (called _(2)p(i/) muk(9) (4)(u:)_ [[bei2 muk6 jyu4]], or paired-eye's fish,) supposed to have one eye, and swim in pairs, clasped to each other.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~155 (1)鶼]]
     ==
     - A fabulous bird, with one wing and eye,
