@@ -26,6 +26,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~156 (4)拑]]
+    ==
+    - Used for the next [[鉗]], as a verb,
+      to pinch, to nip, to grasp;
+    - _(4)k(')(i/)m (2)hau_
+        [[kim4 hau2]],
+        silent, afraid to speak, gagged;
+    - to carry under the arm;
+    - _(4)k(')(i/)m ch(u:)(6)_
+        [[kim4 zyu6]]
+        to seize firmly.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~155 (2)魽 _(2)K(i/)m_ (gim2); here corrected to _(5)K(')(i/)m_ (kim5)]]
     --
     Read _(1)h(o\)m_ [[ham1]],
