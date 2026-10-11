@@ -184,3 +184,36 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 劍(3)]]
+    ==
+    - A two-edged sword, a rapier;
+    - _yat(7) (2)p(a/) k(i/)m(3)_
+        [[jat1 baa2 gim3]]
+        a sword;
+    - _(1)sh(u:) k(i/)m(3)_
+        [[syu1 gim3]]
+        a student's sword;
+    - _(1)f(i/) (4)m(o\) k(i/)m(3)_
+        [[fei1 mou4 gim3]]
+        a sharp sword;
+    - _(5)m(o\) k(i/)m(3)_
+        [[mou5 gim3]]
+        to fence;
+    - _k(i/)m(3) hok(8)_
+        [[gim3 hok3]]
+        a scabbard;
+    - _k(i/)m(3) ~~shut(7)~~ ``shut(9)``_
+        [[gim3 seot6]]
+        art of fencing;
+    - _~~sh(i/)t(9)~~ ``sh(i/)t(8)`` k(i/)m(3) (4)shun (1)ts(')(e/)ung_
+        [[sit3 gim3 seon4 coeng1]],
+        tongue and lips like swords, sarcastic.
+    ==
+  ====
+$$
+##>
