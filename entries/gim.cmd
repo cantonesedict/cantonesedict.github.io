@@ -130,3 +130,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 (2)檢]]
+    ==
+    - An envelope;
+    - a label or title put on a book;
+    - a model, a pattern, a rule;
+    - to sort, to arrange, to collate;
+    - to compose a book;
+    - to examine;
+    - _(4)ts(')un (2)k(i/)m_
+        [[ceon4 gim2]],
+        the magistrate of a _(1)sz'_ [[si1]] or township;
+    - _(2)sau (2)k(i/)m (1)k(u/)n_
+        [[sau2 gim2 gun1]],
+        an officer who searches literary candidates
+        on entering the examination-hall.
+    ==
+  ====
+$$
+##>
