@@ -135,6 +135,36 @@ $$
 $$
 W
   ====
+  - [[Page~155 (2)撿]]
+    ==
+    - To coerce, to repress;
+    - to gather and bind together;
+    - to collect, to collate;
+    - to choose;
+    - _(2)k(i/)m (2)t(i/)m_
+        [[gim2 dim2]],
+        to arrange in order;
+    - _(2)k(i/)m ch(')uk(7)_
+        [[gim2 cuk1]]
+        to keep in order, to restrain;
+    - _(2)k(i/)m (1)p(')(i/)n_
+        [[gim2 pin1]],
+        to collate a book for binding.
+    ==
+    --
+    Used interchangeably with the last [[檢]].
+    --
+    --
+    Also read _(2)l(i/)m_ [[lim2]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~155 (2)檢]]
     ==
     - An envelope;
