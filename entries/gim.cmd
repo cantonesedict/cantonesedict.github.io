@@ -89,3 +89,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 (1)蒹]]
+    ==
+    - A marshy plant, a kind of sedge,
+      called _(1)k(i/)m (1)k(a/)_ [[gim1 gaa1]],
+      which cattle fatten on.
+    ==
+  ====
+$$
+##>
