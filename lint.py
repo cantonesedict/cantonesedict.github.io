@@ -2051,7 +2051,7 @@ class CmdSource:
 class RomanisationComparison:
     williams: str
     jyutping: str
-    expected_jyutping_list = list[str]
+    expected_jyutping_list: list[str]
     is_consistent: bool
 
     def __init__(self, williams: str, jyutping: str):
