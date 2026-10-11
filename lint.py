@@ -7,6 +7,7 @@ Lint all Conway-Markdown (CMD) source files, with automatic indexing.
 """
 
 import functools
+import hashlib
 import json
 import os
 import re
@@ -1658,6 +1659,7 @@ class LintException(Exception):
 class CmdSource:
     file_name: str
     content: str
+    digest: str
     todo_count: int
     entry_page: Optional['EntryPage']
     radical_page: Optional['RadicalPage']
@@ -1666,6 +1668,7 @@ class CmdSource:
         with open(file_name, 'r', encoding='utf-8') as cmd_file:
             content = cmd_file.read()
 
+        digest = hashlib.sha256(content.encode('utf-8')).hexdigest()
         todo_count = content.count('TODO')
 
         try:
@@ -1707,6 +1710,7 @@ class CmdSource:
 
         self.file_name = file_name
         self.content = content
+        self.digest = digest
         self.todo_count = todo_count
         self.entry_page = entry_page
         self.radical_page = radical_page
