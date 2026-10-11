@@ -4567,6 +4567,7 @@ def main():
     linter.index_intrapage()
     linter.index_interpage()
     linter.print_statistics()
+    linter.save_cache()
 
 
 if __name__ == '__main__':
