@@ -217,3 +217,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~155 儉(6)]]
+    ==
+    - Moderate, temperate, frugal, economical, sparing;
+    - close fisted, stingy;
+    - _t(')(a/)i(3) k(i/)m(6)_
+        [[taai3 gim6]]
+        over-frugal, mean;
+    - _k(i/)m(6) yung(6)_
+        [[gim6 jung6]]
+        economical;
+    - _k(i/)m(6) lun(6)_
+        [[gim6 leon6]]
+        niggardly, miserly;
+    - _k(i/)m(6) pok(9)_
+        [[gim6 bok6]]
+        to act meanly to one;
+        parsimonious;
+    - _k(i/)m(6) i(u/)(3) tak(7) (4)k(')(i/) (2)sho_
+        [[gim6 jiu3 dak1 kei4 so2]],
+        we want just enough for his needs.
+    ==
+  ====
+$$
+##>
