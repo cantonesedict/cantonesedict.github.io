@@ -7,8 +7,10 @@ Lint all Conway-Markdown (CMD) source files, with automatic indexing.
 """
 
 import functools
+import hashlib
 import json
 import os
+import pickle
 import re
 import sys
 import unicodedata
@@ -1658,14 +1660,12 @@ class LintException(Exception):
 class CmdSource:
     file_name: str
     content: str
+    digest: str
     todo_count: int
     entry_page: Optional['EntryPage']
     radical_page: Optional['RadicalPage']
 
-    def __init__(self, file_name: str):
-        with open(file_name, 'r', encoding='utf-8') as cmd_file:
-            content = cmd_file.read()
-
+    def __init__(self, file_name: str, content: str, digest: str):
         todo_count = content.count('TODO')
 
         try:
@@ -1707,6 +1707,7 @@ class CmdSource:
 
         self.file_name = file_name
         self.content = content
+        self.digest = digest
         self.todo_count = todo_count
         self.entry_page = entry_page
         self.radical_page = radical_page
@@ -3651,7 +3652,29 @@ class Linter:
             if file_name.endswith('.cmd')
         ]
 
-        cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
+        cached_cmd_source_from_file_name = Linter.load_cache()
+
+        cmd_sources = []
+
+        for file_name in sorted(cmd_file_names):
+            try:
+                cached_cmd_source = cached_cmd_source_from_file_name[file_name]
+                cached_digest = cached_cmd_source.digest
+            except KeyError:
+                cached_cmd_source = None
+                cached_digest = None
+
+            with open(file_name, 'rb') as cmd_file:
+                content_binary = cmd_file.read()
+
+            digest = hashlib.sha256(content_binary).hexdigest()
+
+            if cached_digest == digest:
+                cmd_sources.append(cached_cmd_source)
+            else:
+                content = content_binary.decode('utf-8')
+                cmd_sources.append(CmdSource(file_name, content, digest))
+
         entry_pages = [
             entry_page
             for cmd_source in cmd_sources
@@ -3861,6 +3884,32 @@ class Linter:
 
         for cmd_source in self.cmd_sources:
             cmd_source.index_radicals(character_entries_from_radical_strokes)
+
+    def save_cache(self):
+        cached_cmd_source_from_file_name = {
+            cmd_source.file_name: cmd_source
+            for cmd_source in self.cmd_sources
+        }
+
+        with open('lint-cache.pickle', 'wb') as cache_file:
+            pickle.dump(cached_cmd_source_from_file_name, cache_file)
+
+    @staticmethod
+    def load_cache() -> dict[str, 'CmdSource']:
+        try:
+            with open('lint-cache.pickle', 'rb') as cache_file:
+                cached_cmd_source_from_file_name = pickle.load(cache_file)
+        except (OSError, EOFError, pickle.UnpicklingError):
+            return {}
+
+        if not isinstance(cached_cmd_source_from_file_name, dict):
+            return {}
+
+        for file_name, cmd_source in cached_cmd_source_from_file_name.items():
+            if not isinstance(file_name, str) or not isinstance(cmd_source, CmdSource):
+                return {}
+
+        return cached_cmd_source_from_file_name
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
@@ -4536,6 +4585,7 @@ def main():
     linter.index_intrapage()
     linter.index_interpage()
     linter.print_statistics()
+    linter.save_cache()
 
 
 if __name__ == '__main__':
