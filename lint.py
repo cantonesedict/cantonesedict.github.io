@@ -809,6 +809,9 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yung": ['jung'],
 }
 
+COMMENTS_NECESSITY = '<#'
+SCRIPTS_NECESSITY = '<script>'
+
 WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
 ROUND_BRACKETS_PATTERN = re.compile(pattern='[()]')
 COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
@@ -831,6 +834,7 @@ ENTRY_ITEM_PATTERN = re.compile(
 ENTRY_ITEM_KEY_GROUP = 'key'
 ENTRY_ITEM_CONTENT_GROUP = 'content'
 
+COMPOSITION_NECESSITY = '{'
 COMPOSITION_PATTERN = re.compile(
     pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+? ) \}',
     flags=re.VERBOSE,
@@ -1596,10 +1600,18 @@ class Utilities:
 class CmdIdioms:
     @staticmethod
     def strip_comments(content: str) -> str:
+        # Fast elimination of negative cases
+        if COMMENTS_NECESSITY not in content:
+            return content
+
         return COMMENTS_PATTERN.sub(repl='', string=content)
 
     @staticmethod
     def strip_scripts(content: str) -> str:
+        # Fast elimination of negative cases
+        if SCRIPTS_NECESSITY not in content:
+            return content
+
         return SCRIPTS_PATTERN.sub(repl='', string=content)
 
     @staticmethod
@@ -1615,6 +1627,10 @@ class CmdIdioms:
 
     @staticmethod
     def strip_compositions(content: str) -> str:
+        # Fast elimination of negative cases
+        if COMPOSITION_NECESSITY not in content:
+            return content
+
         return COMPOSITION_PATTERN.sub(repl=COMPOSITION_REPL, string=content)
 
     @staticmethod
