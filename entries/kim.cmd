@@ -46,6 +46,43 @@ $$
 $$
 W
   ====
+  - [[Page~156 (4)鉗]]
+    ==
+    - Pincers, nippers, tweezers, forceps, tongs;
+    - a ring on children's necks;
+    - a kind of collar put on prisoners;
+    - to pinch or grasp with pincers, to gripe;
+    - in H(u/)n(a/)n [[湖南]], used to mean to rail at or upbraid;
+    - _t(')(i/)t(8) (4)k(')(i/)m_
+        [[tit3 kim4-2]],
+        iron forceps;
+    - _(2)fo (4)k(')(i/)m_
+        [[fo2 kim4]],
+        fire tongs;
+    - _(4)k(')(i/)m (2)hau_
+        [[kim4 hau2]],
+        to gag one;
+    - _(4)k(')(i/)m k(a/)p(8)_
+        [[kim4 gaap3]]
+        to take up with pincers or chopsticks;
+    - _(2)shau (4)k(')(i/)m_
+        [[sau2 kim4]]
+        manacles;
+    - _(2)keng (4)k(')(i/)m_
+        [[geng2 kim4]],
+        a torque for the neck, worn by children;
+    - _(2)h(o\) (2)hau (4)k(')(i/)m_
+        [[hou2 hau2 kim4]],
+        a good enunciation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~155 (2)魽 _(2)K(i/)m_ (gim2); here corrected to _(5)K(')(i/)m_ (kim5)]]
     --
     Read _(1)h(o\)m_ [[ham1]],
