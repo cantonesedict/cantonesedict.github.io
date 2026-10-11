@@ -3868,30 +3868,30 @@ class Linter:
             cmd_source.index_radicals(character_entries_from_radical_strokes)
 
     def save_cache(self):
-        cache_object = {
+        cached_cmd_source_from_file_name = {
             cmd_source.file_name: cmd_source
             for cmd_source in self.cmd_sources
         }
 
         with open('lint-cache.pickle', 'wb') as cache_file:
-            pickle.dump(cache_object, cache_file)
+            pickle.dump(cached_cmd_source_from_file_name, cache_file)
 
     @staticmethod
     def load_cache() -> dict[str, 'CmdSource']:
         try:
             with open('lint-cache.pickle', 'rb') as cache_file:
-                cache_object = pickle.load(cache_file)
+                cached_cmd_source_from_file_name = pickle.load(cache_file)
         except (OSError, EOFError, pickle.UnpicklingError):
             return {}
 
-        if not isinstance(cache_object, dict):
+        if not isinstance(cached_cmd_source_from_file_name, dict):
             return {}
 
-        for file_name, cmd_source in cache_object.items():
+        for file_name, cmd_source in cached_cmd_source_from_file_name.items():
             if not isinstance(file_name, str) or not isinstance(cmd_source, CmdSource):
                 return {}
 
-        return cache_object
+        return cached_cmd_source_from_file_name
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
