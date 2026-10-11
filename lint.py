@@ -10,6 +10,7 @@ import functools
 import hashlib
 import json
 import os
+import pickle
 import re
 import sys
 import unicodedata
@@ -3865,6 +3866,32 @@ class Linter:
 
         for cmd_source in self.cmd_sources:
             cmd_source.index_radicals(character_entries_from_radical_strokes)
+
+    def save_cache(self):
+        cache_object = {
+            cmd_source.file_name: cmd_source
+            for cmd_source in self.cmd_sources
+        }
+
+        with open('lint-cache.pickle', 'wb') as cache_file:
+            pickle.dump(cache_object, cache_file)
+
+    @staticmethod
+    def load_cache() -> dict[str, 'CmdSource']:
+        try:
+            with open('lint-cache.pickle', 'rb') as cache_file:
+                cache_object = pickle.load(cache_file)
+        except (OSError, EOFError, pickle.UnpicklingError):
+            return {}
+
+        if not isinstance(cache_object, dict):
+            return {}
+
+        for file_name, cmd_source in cache_object.items():
+            if not isinstance(file_name, str) or not isinstance(cmd_source, CmdSource):
+                return {}
+
+        return cache_object
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
