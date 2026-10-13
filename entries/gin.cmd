@@ -283,6 +283,37 @@ $$
 $$
 W
   ====
+  - [[Page~157 件(6)]]
+    ==
+    - To divide, to partake, to separate;
+    - a classifier used to denote a particular article, subject, or affair,
+      and therefore applied very widely to
+      dress, food, incidents, goods, things, &c.;
+    - often means merely a or an, one;
+    - _k(i/)n(6) k(i/)n(6) (1)t(o\) (5)yau_
+        [[gin6 gin6 dou1 jau5]],
+        we have everything [we need];
+    - _yat(7) k(i/)n(6) mat(9) k(i/)n(6)_
+        [[jat1 gin6 mat6 gin6-2]]
+        a single thing;
+    - _yat(7) k(i/)n(6) sz'(6)_
+        [[jat1 gin6 si6]]
+        an affair;
+    - _(1)i(u/) t(a/)i(3) sz'(6) k(i/)n(6)_
+        [[jiu1 daai3-2 si6 gin6-2]]
+        things hanging from the girdle;
+    - _(1)fan (1)hoi yat(7) k(i/)n(6) k(i/)n(6)_
+        [[fan1 hoi1 jat1 gin6 gin6]]
+        arrange each by itself.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~157 徤(6)健(6)]]
     ==
     - Strong, enduring, vigorous, hale, healthy, robust;
