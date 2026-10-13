@@ -275,6 +275,16 @@ W
     --
     Read _(i/)n(6)_ [[jin6]] in the same sense as 現 _(i/)n(6)_ [[jin6]].
     --
+  - [[Page~719 見(3)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To temper;
+    - _k(i/)n(3) (2)shui_
+        [[gin3 seoi2]],
+        to harden iron, to temper tools.
+    ==
   ====
 $$
 ##>
