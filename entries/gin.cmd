@@ -283,6 +283,37 @@ $$
 $$
 W
   ====
+  - [[Page~157 徤(6)健(6)]]
+    ==
+    - Strong, enduring, vigorous, hale, healthy, robust;
+    - indefatigable, unwearied;
+    - _(4)k(')(e/)ung k(i/)n(6)_
+        [[koeng4 gin6]]
+        able-bodied, in the prime of life;
+    - _(2)h(o\) k(i/)n(6)_
+        [[hou2 gin6]]
+        healthy;
+    - _(1)tsing k(i/)n(6)_
+        [[zing1 gin6]]
+        feeling well;
+    - _k(i/)n(6) tsung(6)_
+        [[gin6 zung6]]
+        a legal process, to go to law;
+    - _pat(7) lik(9) k(i/)n(6)_
+        [[bat1 lik6 gin6]]
+        a rapid penman.
+    ==
+    --
+    The second and common form [[健]] is unauthorized.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~157 鍵(6)]]
     ==
     - The bolt, or key of a lock,
