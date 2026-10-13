@@ -45,6 +45,20 @@ $$
 $$
 W
   ====
+  - [[Page~158 (4)揵]]
+    ==
+    - To raise up or carry on the shoulder, to lift;
+    - to fix a frontier, to establish;
+    - to stop up, to close.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~158 (4)虔]]
     ==
     - The firm step of a tiger;
