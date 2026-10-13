@@ -122,6 +122,24 @@ $$
 $$
 W
   ====
+  - [[Page~156 (4)黔]]
+    ==
+    - Black hair;
+    - _(4)k(')(i/)m (2)shau_
+        [[kim4 sau2]],
+        "black heads,"
+        a name given to the Chinese by Ch(i/) Hw(a/)ng-t(i/) [[始皇帝]]
+        from their black kerchiefs;
+    - a name applied to Kweichau [[貴州]] province.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~155 (2)魽 _(2)K(i/)m_ (gim2); here corrected to _(5)K(')(i/)m_ (kim5)]]
     --
     Read _(1)h(o\)m_ [[ham1]],
