@@ -278,3 +278,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~157 鍵(6)]]
+    ==
+    - The bolt, or key of a lock,
+      commonly called _(2)so (2)s(o\)_ [[so2 sou2]];
+    - a nave or hub;
+    - _k(i/)n(6) pai(3)_
+        [[gin6 bai3]]
+        the two parts of a Chinese lock.
+    ==
+  ====
+$$
+##>
