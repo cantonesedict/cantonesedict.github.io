@@ -46,6 +46,25 @@ $$
 $$
 W
   ====
+  - [[Page~156 (4)鈐]]
+    ==
+    - Often interchanged with the last [[鉗]] in its meaning of pincers;
+    - a kind of door-lock;
+    - _~~(1)kau~~ ``(1)ngau`` (4)k(')(i/)m_
+        [[ngau1 kim4]]
+        two stars in Scorpio, used in astrology;
+    - _(4)k(')(i/)m k(i/)(3)_
+        [[kim4 gei3]]
+        a wooden seal, used by officers below a district magistrate.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~156 (4)鉗]]
     ==
     - Pincers, nippers, tweezers, forceps, tongs;
