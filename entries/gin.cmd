@@ -68,6 +68,19 @@ $$
 $$
 W
   ====
+  - [[Page~157 (1)犍]]
+    ==
+    - A castrated ox, a strong ox;
+    - a fabulous monster, half leopard half man.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~156 (1)肩]]
     ==
     - The shoulder;
