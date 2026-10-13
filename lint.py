@@ -3891,13 +3891,13 @@ class Linter:
             for cmd_source in self.cmd_sources
         }
 
-        with open('lint-cache.pickle', 'wb') as cache_file:
+        with open('.lintcache', 'wb') as cache_file:
             pickle.dump(cached_cmd_source_from_file_name, cache_file)
 
     @staticmethod
     def load_cache() -> dict[str, 'CmdSource']:
         try:
-            with open('lint-cache.pickle', 'rb') as cache_file:
+            with open('.lintcache', 'rb') as cache_file:
                 cached_cmd_source_from_file_name = pickle.load(cache_file)
         except (OSError, EOFError, pickle.UnpicklingError):
             return {}
