@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~158 (2)㨴]]
+    --
+    A colloquial word;
+    --
+    ==
+    - to lift off a cover, to take off;
+    - to turn over a leaf;
+    - _(2)k(')(i/)n (4)'m (2)h(i/)_
+        [[kin2 m4 hei2]]
+        I can not take off the cover;
+    - _(2)k(')(i/)n (5)p(')(i/) (2)k(')am_
+        [[kin2 pei5 kam2]],
+        to pull the coverlet over one.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~158 (4)乾]]
     ==
     - Heaven, the power or agency of heaven;
