@@ -21,3 +21,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~158 (4)乾]]
+    ==
+    - Heaven, the power or agency of heaven;
+    - a sovereign, a father;
+    - the first diagram;
+    - enduring, stable, superior, strong;
+    - diligent;
+    - _(4)k(')(i/)n (1)kw(')an_
+        [[kin4 kwan1]],
+        heaven and earth, father and mother, prince and minister.
+    ==
+  ====
+$$
+##>
