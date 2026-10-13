@@ -104,3 +104,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~156 (1)豣; here normalised to 豜]]
+    ==
+    - A pig three years old, a full grown hog;
+    - a hornless animal like a deer.
+    ==
+  ====
+$$
+##>
