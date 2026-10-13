@@ -91,6 +91,21 @@ $$
 
 <##
 $$
+H
+W
+  ====
+  - [[Page~156 (1)汧 _(1)K(i/)n_ (gin1); here normalised to _(1)H(i/)n_ (hin1)]]
+    ==
+    - A tributary of the river Wai [[渭]] in Shens(i/) [[陝西]],
+      and a district in that province is called Kieny(a/)ng hien [[汧陽縣]];
+    - water forming in pools, stagnant water
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~82 (1)牽]]
