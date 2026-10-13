@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~156 (1)幵 _(1)K(i/)n_ (gin1); here normalised to _(1)H(i/)n_ (hin1)]]
+    ==
+    - Equal, level;
+    - hands lifted up even;
+    - a surname;
+    - name of a district.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~82 (1)愆]]
     ==
     - Fault, error, mistake, crime, peccadillo;
