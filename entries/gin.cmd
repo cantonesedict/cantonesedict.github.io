@@ -63,3 +63,44 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~156 (1)肩]]
+    ==
+    - The shoulder;
+    - the scapula;
+    - to take upon, to bear, to sustain, competent to;
+    - firm;
+    - an animal three years old;
+    - _(1)k(i/)n (4)t(')au_ [[gin1 tau4]]
+        or
+      _(1)k(i/)n pok(8)_ [[gin1 bok3]]
+        the shoulder;
+    - _(1)k(i/)n (2)pong_
+        [[gin1 bong2]],
+        the fleshy part of an arm;
+    - _(4)p(')ing (1)k(i/)n_
+        [[ping4 gin1]],
+        equals, of the same grade, co-equals;
+    - _(2)hau (2)shui (1)k(i/)n_
+        [[hau2 seoi2 gin1]],
+        a bib;
+    - _(1)k(i/)n (1)t(')i(u/) p(u/)i(3) f(u/)(6)_
+        [[gin1 tiu1 bui3 fu6]]
+        hard labor, moiling and toiling for support;
+    - _sik(7) (1)k(i/)n_
+        [[sik1 gin1]],
+        to withdraw the shoulder, to desist;
+    - _(4)wan (1)k(i/)n_
+        [[wan4 gin1]],
+        a kind of mantilla worn by ladies;
+    - _yat(7) (1)k(i/)n (1)t(a/)m ~~t(a/)i'~~ ``t(a/)i(6)``_
+        [[jat1 gin1 daam1 daai6]]
+        to engage to do a thing, to carry it through.
+    ==
+  ====
+$$
+##>
