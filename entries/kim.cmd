@@ -46,6 +46,26 @@ $$
 $$
 W
   ====
+  - [[Page~156 (4)箝]]
+    ==
+    - Tweezers;
+    - to lock;
+    - used with the last two [[鉗, 鈐]];
+    - _(4)k(')(i/)m (5)(u:)_
+        [[kim4 jyu5]],
+        to interdict free speech, to forbid or gag public opinion;
+    - _(5)m(a/) (4)k(')(i/)m_
+        [[maa5 kim4]],
+        the bit of a bridle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~156 (4)鈐]]
     ==
     - Often interchanged with the last [[鉗]] in its meaning of pincers;
