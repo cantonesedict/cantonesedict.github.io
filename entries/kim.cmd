@@ -122,6 +122,19 @@ $$
 $$
 W
   ====
+  - [[Page~156 (4){𩬚=⿱髟甘}]]
+    ==
+    - To remove a criminal's hair, as a punishment;
+    - a purplish color.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~156 (4)黔]]
     ==
     - Black hair;
