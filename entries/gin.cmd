@@ -130,3 +130,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~157 (2)蹇]]
+    ==
+    - Lame, halt, weak in the legs;
+    - feeble, unable to work;
+    - difficult;
+    - disastrous, unhappy, unfortunate, afflicted;
+    - the 61st~diagram, which denotes ill-luck;
+    - to pull up;
+    - crooked;
+    - lofty, proud;
+    - _ming(6) (2)k(i/)n (4)sh(i/) (1)kw(a/)i_
+        [[ming6 gin2 si4 gwaai1]],
+        fates against one, unlucky;
+    - _(2)k(i/)n (4)n(a/)n_
+        [[gin2 naan4]],
+        difficult;
+    - _(1)chun (2)k(i/)n_
+        [[zeon1 gin2]],
+        infelicitous;
+    - _(1)pai (2)k(i/)n_
+        [[bai1 gin2]],
+        unfitted for work.
+    ==
+  ====
+$$
+##>
