@@ -161,3 +161,91 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~157 見(3)]]
+    ==
+    - To see, to look at, to notice;
+    - to perceive by the senses;
+    - to visit;
+    - the 147th~radical [[U+2F92 ⾒ "see"]];
+    - an opinion, a mental view;
+    - seeing, observing, feeling, impressed by;
+    - forms reflective verbs;
+    - and denotes the passive voice and past times;
+    - _(1)t(')eng k(i/)n(3)_
+        [[teng1 gin3]]
+        to hear;
+    - _k(i/)n(3) kwo(3)_
+        [[gin3 gwo3]]
+        seen;
+    - _k(i/)n(3) (1)sau (2)ch(')(i/)_
+        [[gin3 sau1 ci2]],
+        to feel ashamed, to be mortified;
+    - _(1)k(o\) k(i/)n(3)_
+        [[gou1 gin3]]
+        your opinion;
+    - _(2)ts(')ing k(i/)n(3) k(a/)u(3)_
+        [[cing2 gin3 gaau3]]
+        please tell me, or let me know;
+    - _mok(9) k(i/)n(3) si(u/)(3)_
+        [[mok6 gin3 siu3]]
+        don't smile, don't laugh at it;
+    - _k(i/)n(3) h(i/)(3)_
+        [[gin3 hei3]]
+        rejected;
+    - _(4)ho (5)(i/) k(i/)n(3) tak(7)_
+        [[ho4 ji5 gin3 dak1]]
+        by what will it be seen?
+    - _(5)y(a/) pat(7) k(i/)n(3) tak(7)_
+        [[jaa5 bat1 gin3 dak1]]
+        perhaps it will be, it is uncertain;
+    - _k(i/)n(3) (5)k(')(u:) (5)yau peng(6)_
+        [[gin3 keoi5 jau5 beng6]]
+        seeing that he was ill;
+    - _k(i/)n(3) l(i/)(6)_
+        [[gin3 lei6]]
+        profitable, advantageous;
+    - _(2)ho k(i/)n(3) (2)h(o\) (2)ch(')au_
+        [[ho2 gin3 hou2 cau2]],
+        can thus know its quality;
+    - _k(i/)n(3) (1)ts(')an (4)'m (4)ts(')ang_
+        [[gin3 can1 m4 cang4]],
+        have you seen it yourself?
+    - _k(i/)n(3) (5)t(')(o\) (2)p(a/)u_
+        [[gin3 tou5 baau2]],
+        eaten enough;
+    - _(5)m(o\) mat(7) (2)ch(u:) k(i/)n(3)_
+        [[mou5 mat1 zyu2 gin3]]
+        I do not know what to do, I have no plan;
+    - _k(i/)n(3) shik(7) (1)k(o\)_
+        [[gin3 sik1 gou1]],
+        extensive knowledge;
+    - _k(i/)n(3) (5)lai_
+        [[gin3 lai5]],
+        to be polite;
+    - _(1)s(e/)ung k(i/)n(3)_
+        [[soeng1 gin3]]
+        an interview, to see one;
+    - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` k(i/)n(3)_
+        [[coek3 gin3]]
+        see it clearly;
+    - _k(i/)n(3) (4)(i/)_
+        [[gin3 ji4]],
+        suspicious;
+    - _(5)yan k(i/)n(3)_
+        [[jan5 gin3]]
+        to introduce to;
+    - _k(i/)n(3) ~~(4)^k(i/)~~ ``(1)k(i/)`` ~~(1)(i/)~~ ``(4)(i/)`` ~~(2)ts(o\)~~ ``ts(o\)(6)``_
+        [[gin3 gei1 ji4 zou6]],
+        sagacious, to see a chance.
+    ==
+    --
+    Read _(i/)n(6)_ [[jin6]] in the same sense as 現 _(i/)n(6)_ [[jin6]].
+    --
+  ====
+$$
+##>
