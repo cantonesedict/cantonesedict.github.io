@@ -166,6 +166,35 @@ $$
 $$
 W
   ====
+  - [[Page~157 建(3)]]
+    ==
+    - To establish, to confirm as laws or institutions;
+    - to erect, to place, to set up, to constitute;
+    - to build;
+    - _k(i/)n(3) lap(9)_
+        [[gin3 lap6]]
+        to establish;
+    - _k(i/)n(3) ts(o\)(6)_
+        [[gin3 zou6]]
+        to build, to erect;
+    - _k(i/)n(3) (1)kung_
+        [[gin3 gung1]],
+        to act meritoriously;
+    - _k(i/)n(3) (1)t(o\)_
+        [[gin3 dou1]],
+        to build or found a capital;
+    - _k(i/)n(3) (1)sing_
+        [[gin3 sing1]],
+        _π_ in Sagittarius.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~157 見(3)]]
     ==
     - To see, to look at, to notice;
