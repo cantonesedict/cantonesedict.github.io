@@ -242,3 +242,44 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~159 before (1)驚]]
+    --
+    (This [[驚]] and the next character [[頸]]
+    are usually pronounced _keng_ [[geng]].)
+    --
+  - [[Page~159 (1)驚]]
+    ==
+    - A shy horse;
+    - to terrify, to affright, to scare, to alarm;
+    - perturbed, alarmed, scared;
+    - astonished;
+    - _(1)keng tung(6)_
+        [[geng1 dung6]]
+        much excited;
+    - _(1)keng ~~(4)hoi~~ ``hoi(6)``_
+        [[geng1 hoi6]],
+        afraid;
+    - _(1)po long(6) (1)keng_
+        [[bo1 long6 geng1]],
+        fear of drowning;
+    - _mok(9) (1)keng (5)k(')(u:)_
+        [[mok6 geng1 keoi5]],
+        don't alarm her;
+    - _ch(')ut(7) (1)keng_
+        [[ceot1 geng1]],
+        to remove timidity in children by some incantations;
+    - _(1)keng p(')(a/)(3)_
+        [[geng1 paa3]]
+        to fear;
+    - _(1)keng p(')o(3) (2)t(a/)m_
+        [[geng1 po3 daam2]],
+        dead from fright.
+    ==
+  ====
+$$
+##>
