@@ -288,6 +288,35 @@ $$
 $$
 W
   ====
+  - [[Page~160 (2)境]]
+    ==
+    - A limit, boundary, frontier, border;
+    - marches, confines;
+    - abode, place where one lives;
+    - a neighborhood;
+    - a district;
+    - state, condition of life, status;
+    - _kwai(3) (2)king_
+        [[gwai3 ging2]],
+        your residence or street;
+    - _(2)king k(a/)i(3)_
+        [[ging2 gaai3]]
+        a boundary;
+    - _shun(6) (2)king_
+        [[seon6 ging2]],
+        good circumstances, pleasantly situated;
+    - _(4)p(')ung (4)loi (1)s(i/)n (2)king_
+        [[pung4 loi4 sin1 ging2]],
+        fairy land, supposed to be in the west.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~159 (2)景]]
     ==
     - Bright clear, sunlight;
