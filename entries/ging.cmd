@@ -96,6 +96,45 @@ $$
 $$
 W
   ====
+  - [[Page~159 (1)矜]]
+    ==
+    - To pity, to compassionate, to feel for;
+    - concerned for, regretting;
+    - sparing, careful of, regardful;
+    - conceited, boastful, bragging;
+    - to control one's self, self-respect;
+    - dangerous, hazardous;
+    - to esteem, to value;
+    - _(1)king (4)l(i/)n_
+        [[ging1 lin4]],
+        to commiserate;
+    - _(2)ho (1)king_
+        [[ho2 ging1]],
+        pitiable;
+    - _(1)king (1)kw(')(a/)_
+        [[ging1 kwaa1]],
+        bragging;
+    - _(4)(u:) (1)king (4)lun_
+        [[jyu4 ging1 leon4]],
+        fish scales growing apart or large;
+    - _pat(7) (1)king sai(3) (4)hang_
+        [[bat1 ging1 sai3 hang4]],
+        to disregard small affairs.
+    ==
+    --
+    Read _(1)kan_ [[gan1]],
+    --
+    ==
+    - the haft of a pike, a staff or club.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~158 (1)經]]
     ==
     - The threads of a web, the warp;
