@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Chinese Title Page: 《英華分韻撮要》
-* %date-modified --> 2026-08-16
+* %date-modified --> 2026-10-14
 * %copyright-prior-years --> "2023, 2025--"
 * %meta-description --> Chinese title page
 
@@ -22,7 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 {+++
 --
-(_lit._ "Anglo--Chinese Rime-Divided Handpicked Essentials")
+(Literally, "Anglo--Chinese Rime-Divided Handpicked Essentials".)
 --
 +++}
 
@@ -32,7 +32,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 {+++
 --
-(_lit._ Engraved Ping-shan Year of H(a/)m-fung = 1856)
+(Literally, "Engraved Ping-shan Year of H(a/)m-fung", i.e. 1856.)
 --
 --
 (Remarks:
@@ -56,7 +56,7 @@ End of remarks.)
 
 {+++
 --
-(_lit._ Compiled [by] Mr Samuel Wells Williams)
+(Literally, "Compiled [by] Mr Samuel Wells Williams")
 --
 +++}
 
@@ -66,7 +66,7 @@ End of remarks.)
 
 {+++
 --
-(_lit._ Printed Chung-wo Hong of [the] City of Rams = Canton)
+(Literally, "Printed Chung-wo Hong of [the] City of Rams", i.e. in Canton.)
 --
 +++}
 
