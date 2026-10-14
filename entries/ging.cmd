@@ -494,3 +494,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~161 逕(3)]]
+    ==
+    - Interchanged with the preceding [[俓, 徑]];
+    - to approach, to near, to pass by, to go up to;
+    - _king(3) ~~(1)t(')ing~~ ``(4)t(')ing``_
+        [[ging3 ting4]],
+        widely unlike, far apart.
+    ==
+  ====
+$$
+##>
