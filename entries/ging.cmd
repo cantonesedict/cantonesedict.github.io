@@ -529,3 +529,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  <# ging3 per rimes (retained for noun senses) #>
+  ==
+W
+  ====
+  - [[Page~161 勁(6)]]
+    ==
+    - Hard, firm, stiff;
+    - strong, robust, vigorous;
+    - unyielding, overbearing, indefatigable;
+    - _(1)fung king(6)_
+        [[fung1 ging6]]
+        a stiff breeze;
+    - _king(6) tik(9)_
+        [[ging6 dik6]]
+        well-matched enemies.
+    ==
+  ====
+$$
+##>
