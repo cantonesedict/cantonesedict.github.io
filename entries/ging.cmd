@@ -553,3 +553,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - ging3 (common)
+  ==
+W
+  ====
+  - [[Page~161 競(6)]]
+    ==
+    - Violent, strong;
+    - great, abundant;
+    - emulous, pragmatic, bickering, testy, boisterous;
+    - to contend, to force, to struggle for, to drive off;
+    - _(1)hoi king(6)_
+        [[hoi1 ging6]]
+        to begin a fray;
+    - _(1)ch(a/)ng king(6)_
+        [[zaang1 ging6]]
+        wrangling;
+    - _ch(')ut(7) (4)yan (4)t(')au king(6)_
+        [[ceot1 jan4 tau4 ging6]]
+        excelling others, distinguished;
+    - _(4)m(o\) king(6)_
+        [[mou4 ging6]]
+        unambitious.
+    ==
+  ====
+$$
+##>
