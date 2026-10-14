@@ -288,6 +288,66 @@ $$
 $$
 W
   ====
+  - [[Page~159 (2)景]]
+    ==
+    - Bright clear, sunlight;
+    - brilliant, illumined by the sun;
+    - a good site, a fine view, a prospect;
+    - the appearance, figure, aspect, or circumstances of a place or thing;
+    - a lion, a rarity, a curiosity;
+    - great, extensive;
+    - a resemblance, form, imagining, fancy;
+    - to look up to or regard with affection, longing for;
+    - the style or make of dress;
+    - _(2)king hang(6) (4)hang (2)ch(i/)_
+        [[ging2 hang6 hang4 zi2]],
+        striving to adhere to high principles, to act up to principle;
+    - _(2)king ch(i/)(3)_
+        [[ging2 zi3]]
+        a prospect, a vista;
+    - _(1)kwong (2)king_
+        [[gwong1 ging2]],
+        circumstances, situation, prospects;
+        a landscape, appearance of nature or of a country;
+    - _(2)p(a/)i (2)king_
+        [[baai2 ging2]],
+        to display rare things;
+    - _(4)y(e/)ung (4)sheng p(a/)t(8) (2)king_
+        [[joeng4 seng4 baat3 ging2]],
+        the eight lions of Canton;
+    - _(5)m(o\) (2)king_
+        [[mou5 ging2]],
+        has a bad face, disreputable;
+    - _(5)n(i/) mok(9) tong(3) (2)king_
+        [[nei5 mok6 dong3 ging2]],
+        don't think too much of it;
+    - _(1)ts(')ing (2)king_
+        [[cing1 ging2]],
+        neat and tasteful;
+    - _(1)k(a/)i (2)king_
+        [[gaai1 ging2]],
+        fine scenery, easy, pleasant circumstances;
+    - _(1)ts(')ai (4)l(e/)ung (2)king_
+        [[cai1 loeng4 ging2]],
+        looking sad, got the blues;
+    - _(2)h(o\) (5)m(a/)n (2)king_
+        [[hou2 maan5 ging2]],
+        a good sky at evening, fair prospects, promising circumstances;
+    - _k(i/)n(3) (2)king (1)shang (4)ts(')ing_
+        [[gin3 ging2 sang1 cing4]],
+        suspicious, to act according to circumstances;
+    - _(4)sh(i/) (2)king_
+        [[si4 ging2]],
+        signs of the times.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~159 (2)儆(2)警]]
     ==
     - To warn, to caution, to enjoin, to threaten with a penalty;
