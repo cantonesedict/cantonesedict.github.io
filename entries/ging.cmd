@@ -81,6 +81,21 @@ $$
 $$
 W
   ====
+  - [[Page~159 (1)涇]]
+    ==
+    - A large tributary of the Yellow River in Shens(i/) [[陝西]],
+      whose waters are muddy;
+    - to flow through or straight across, to join by water;
+    - a fountain.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~158 (1)經]]
     ==
     - The threads of a web, the warp;
