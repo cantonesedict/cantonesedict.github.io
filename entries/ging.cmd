@@ -56,3 +56,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~158 (1)兢]]
+    ==
+    - To fear;
+    - to forbear from;
+    - _(1)king (1)king_
+        [[ging1 ging1]],
+        wary, cautious, respectful, guarded, uneasy, watchful, anxious, &c.,
+        according to the context;
+    - _ch(i/)n(3) (1)king_
+        [[zin3 ging1]],
+        trembling.
+    ==
+  ====
+$$
+##>
