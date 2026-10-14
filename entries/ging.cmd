@@ -429,3 +429,40 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~160 敬(3)]]
+    ==
+    - Attentive, sedate, cautious, serious;
+    - respectfully;
+    - to show respect to, to esteem, to honor;
+    - to venerate, to worship, to adore;
+    - to watch one's self, to apply the mind to;
+    - _king(3) (4)shan_
+        [[ging3 san4]],
+        reverence the gods;
+    - _(2)h(o\) ~~fung(3)~~ ``fung(6)`` king(3)_
+        [[hou2 fung6 ging3]]
+        a present to a parent or friend;
+    - _king(3) (1)shan_
+        [[ging3 san1]],
+        self training;
+    - _king(3) sik(7) tsz'(6) (2)ch(i/)_
+        [[ging3 sik1 zi6 zi2]],
+        have respect to written paper;
+    - _king(3) (2)tsau_
+        [[ging3 zau2]],
+        to present one a glass of wine;
+    - _king(3) ~~chung(3)~~ ``chung(6)``_
+        [[ging3 zung6]]
+        to hold in high esteem;
+    - _king(3) t(a/)t(9) (2)ch(e/)_
+        [[ging3 daat6 ze2]],
+        I respectfully inform you.
+    ==
+  ====
+$$
+##>
