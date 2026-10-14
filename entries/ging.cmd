@@ -283,3 +283,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~159 (2)儆(2)警]]
+    ==
+    - To warn, to caution, to enjoin, to threaten with a penalty;
+    - to forbid, to arouse, to urge to reform;
+    - to disturb, to alarm the secure;
+    - _(2)king shai(3)_
+        [[ging2 sai3]]
+        to arouse the age;
+    - _(2)king k(a/)i(3) h(a/)(6) ts(')z'(3)_
+        [[ging2 gaai3 haa6 ci3]]
+        to strictly forbid a repetition of;
+    - _(1)cham (2)king_
+        [[zam1 ging2]],
+        rules for guidance.
+    ==
+  ====
+$$
+##>
