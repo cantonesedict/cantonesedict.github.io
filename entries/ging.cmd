@@ -348,6 +348,40 @@ $$
 $$
 W
   ====
+  - [[Page~160 (2)竟]]
+    ==
+    - To exhaust, to finish;
+    - to examine fully;
+    - the end, the close, a confine, termination, the utmost;
+    - then, at last, finally;
+    - _(2)king (5)m(o\) yat(7) (4)(i/)n_
+        [[ging2 mou5 jat1 jin4]],
+        never said a word;
+    - _(5)m(o\) (2)king_
+        [[mou5 ging2]],
+        unlimited;
+    - _pat(7) (2)king_
+        [[bat1 ging2]],
+        to the last, after all;
+        doubtless;
+    - _(2)king (4)(i/)n (4)'m (4)lai (1)m(e/)_
+        [[ging2 jin4 m4 lai4 me1]],
+        won``'``t he come at all?
+    - _(2)king (4)'m (2)hi(u/)_
+        [[ging2 m4 hiu2]],
+        did not at all understand;
+    - _(2)king tsz'(6) h(u:)(3) (5)li(u/)_
+        [[ging2 zi6 heoi3 liu5]],
+        still you went.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~159 (2)儆(2)警]]
     ==
     - To warn, to caution, to enjoin, to threaten with a penalty;
