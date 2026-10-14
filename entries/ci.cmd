@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-10-07
+* %date-modified --> 2026-10-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2310,7 +2310,7 @@ $$
 - $祠4
 - $篪4
 - ($粢4)
-- ($糍4)
+- $糍4
 - $臍4
 - $茨4
 - $茲4
@@ -2924,7 +2924,7 @@ $$
 
 ###+ 糍4 | _(4)Ts(')z'_ [[ci4]]
 
-$$.
+$$
 R
   ⽶ + 9
 U
@@ -2936,9 +2936,13 @@ F
   [[Not present]]
 W
   [[Not present]]
+C
+  ==
+  - Commonly used in the term [糯米糍](#cantonese-糯米糍).
+  ==
 P
   ++
-  1. Alternative form of 餈. **See $餈ci4 for the canonical entry.**
+  1. Alternative form of 餈. See $餈ci4.
   ++
 $$
 

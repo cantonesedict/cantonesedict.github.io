@@ -4125,9 +4125,9 @@
 },
 "糍":{
 "ci4":{
-"isCanonical":false,
+"isCanonical":true,
 "williams":"(4)ts(')z'",
-"text":"U+7CCD May appear as either ⿰米兹 (+9 assumed here) or ⿰米茲 (+10), depending on the font."
+"text":"U+7CCD May appear as either ⿰米兹 (+9 assumed here) or ⿰米茲 (+10), depending on the font. Commonly used in the term 糯米糍."
 }
 },
 "臍":{
