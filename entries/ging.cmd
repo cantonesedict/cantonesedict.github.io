@@ -434,6 +434,34 @@ $$
 $$
 W
   ====
+  - [[Page~160 俓(3)徑(3)]]
+    ==
+    - A sideway, a path, a byeway, a short cut, a bridle-path,
+      a goat-path among hills;
+    - straight through, direct;
+    - the diameter;
+    - quick, prompt;
+    - to go, to pass by;
+    - _ts(i/)t(9) king(3)_
+        [[zit6 ging3]]
+        an easy way, a short mode;
+    - _king(3) l(o\)(6)_
+        [[ging3 lou6]]
+        a near path;
+    - _(4)ts(')(e/) king(3)_
+        [[ce4 ging3]]
+        smart, underhand, tricky conduct;---\
+        the opposite of _king(3) (4)ts(')ing_ [[ging3 cing4]],
+        straightforward.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~160 敬(3)]]
     ==
     - Attentive, sedate, cautious, serious;
