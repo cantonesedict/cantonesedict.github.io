@@ -208,3 +208,37 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~159 (1)荆; here normalised to 荊]]
+    ==
+    - A bush found in H(u/)n(a/)n [[湖南]], slender and lithe,
+      formerly used for punishing criminals;
+    - there are several species;
+    - spinous, prickly;
+    - furze, brambles;
+    - _(1)king kik(7)_
+        [[ging1 gik1]]
+        thorny, difficult of accomplishment;
+    - _(1)king (1)ts(')ai_
+        [[ging1 cai1]],
+        my wife;
+    - _s(u/)(3) m(i/)(6) shik(7) (1)king_
+        [[sou3 mei6 sik1 ging1]],
+        I have not before seen your face;
+    - _(1)King (1)chau (2)f(u/)_
+        [[ging1 zau1 fu2]],
+        a department in H(u/)peh [[湖北]];
+    - _(1)king (1)sh(a/)n_
+        [[ging1 saan1]],
+        a hill where gems are found;
+    - _(1)king (4)t(')i(u/)_
+        [[ging1 tiu4]],
+        a rod.
+    ==
+  ====
+$$
+##>
