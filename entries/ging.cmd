@@ -499,6 +499,25 @@ $$
 $$
 W
   ====
+  - [[Page~161 脛(3)]]
+    ==
+    - The leg-bone;
+    - the legs of birds and animals;
+    - _k(')au(3) king(3)_
+        [[kau3 ging3]]
+        hit his shins---to teach him;
+    - _king(3) kwat(7)_
+        [[ging3 gwat1]]
+        the shank.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~161 逕(3)]]
     ==
     - Interchanged with the preceding [[俓, 徑]];
