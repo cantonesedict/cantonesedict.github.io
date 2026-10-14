@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-09-01
+* %date-modified --> 2026-10-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -237,7 +237,7 @@ W
         an umbrella;
     - _(4)'m (1)ch(e/) tak(7) ch(u:)(6)_
         [[m4 ze1 dak1 zyu6 唔遮得住]]
-        it ~~wont~~ ``won't`` cover us, it can not be concealed;
+        it won``'``t cover us, it can not be concealed;
     - _(1)ch(e/) shik(7)_
         [[ze1 sik1 遮飾]]
         to disguise, to dupe, throw dust in his eyes;

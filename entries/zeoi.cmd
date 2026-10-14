@@ -875,7 +875,7 @@ W
         it's all very easy to talk;
     - _(2)tsui (2)h(o\) ng(a/)ng(6)_
         [[zeoi2 hou2 ngaang6 嘴好硬]]
-        he ~~wont~~ ``won't`` confess at all.
+        he won``'``t confess at all.
     ==
   ====
 C

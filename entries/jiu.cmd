@@ -345,7 +345,7 @@ W
         very necessary;
     - _(1)p(')(i/)n i(u/)(3)_
         [[pin1 jiu3]]
-        can't do without it, wont be refused;
+        can't do without it, won``'``t be refused;
     - _ts(')(u:)t(8) i(u/)(3)_
         [[cyut3 jiu3]]
         an abridgement;
