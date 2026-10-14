@@ -76,3 +76,52 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~160 before 鏡(3)]]
+    --
+    (As a noun, usually pronounced _keng_ [[geng]].)
+    --
+  - [[Page~160 鏡(3) _King(3)_ (ging3); _Keng(3)_ (geng3) implied by variational note]]
+    ==
+    - A mirror, a glass, a looking-glass;
+    - to reflect, to illustrate;
+    - clear, bright;
+    - _(2)ng(a/)n keng(3)_
+        [[ngaan5 geng3-2]]
+        spectacles;
+    - _(1)ts(')(i/)n (5)l(i/) keng(3)_
+        [[cin1 lei5 geng3]]
+        a spy-glass;
+    - _p(a/)k(8) (1)f(a/) keng(3)_
+        [[baak3 faa1 geng3]]
+        a glass cut into segments;
+    - _m(i/)n(6) keng(3)_
+        [[min6 geng3]]
+        a looking-glass;
+    - _chi(u/)(3) ~~h(a/)(6)~~ ``(5)h(a/)`` keng(3) o(3)_
+        [[ziu3 haa5 geng3 o3]],
+        look in the glass!
+    - _keng(3) (1)chong_
+        [[geng3 zong1]],
+        a dressing-case;
+    - _keng(3) k(o\)m(3) (4)ming_
+        [[geng3 gam3 ming4]],
+        clear as a mirror, perspicacious;
+    - _(4)ming keng(3) (1)k(o\) (4)(u:)n_
+        [[ming4 geng3 gou1 jyun4]],
+        it is clearly reflected in your mind---\
+        said in praise of astute officers~~.~~``,``
+    - _(2)h(i/)n (4)m(i/) keng(3)_
+        [[hin2 mei4 geng3]]
+        a microscope;
+    - _chi(u/)(3) (1)shan keng(3)_
+        [[ziu3 san1 geng3]]
+        a pier-glass.
+    ==
+  ====
+$$
+##>
