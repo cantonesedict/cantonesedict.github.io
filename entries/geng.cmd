@@ -21,3 +21,58 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~159 before (1)驚]]
+    --
+    (This [[驚]] and the next character [[頸]]
+    are usually pronounced _keng_ [[geng]].)
+    --
+  - [[Page~159 (2)頸 _(2)King_ (ging2); _(2)Keng_ (geng2) implied by variational note]]
+    ==
+    - The neck, specially the front of the neck, the throat;
+    - also applied to the narrow part of things;
+    - the temper, the disposition;
+    - _(2)ting (2)keng_
+        [[ding2 geng2]],
+        ill matched, disliking each other;
+    - _(2)h(o\) (2)keng_
+        [[hou2 geng2]],
+        patient, mild;
+    - _(2)keng kap(7)_
+        [[geng2 gap1]]
+        quick, not tardy;
+    - _mok(9) (2)shai (2)keng_
+        [[mok6 sai2 geng2]],
+        don't he obstinate;
+    - _(2)fo (2)keng_
+        [[fo2 geng2]],
+        irascible, restive;
+    - _(2)keng t(a/)i(3)_
+        [[geng2 daai3-2]]
+        a neck-ribbon or cloth;
+    - _(1)ch(a/) (2)keng_
+        [[zaa1 geng2]],
+        to hold one's peace;
+    - _no(6) (5)mai (2)keng_
+        [[no6 mai5 geng2]],
+        weak, mild;
+    - _(4)'m (2)h(o\) (2)keng kwat(7)_
+        [[m4 hou2 geng2 gwat1]]
+        a bad disposition;
+    - _(5)man (2)keng (1)k(a/)u_
+        [[man5 geng2 gaau1]],
+        intimate friends;
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (2)keng lik(9)_
+        [[saang1 geng2 lik6]]
+        lumps growing on the neck;
+    - _(2)p(a/)n (2)keng_
+        [[baan2 geng2]],
+        intractable.
+    ==
+  ====
+$$
+##>
