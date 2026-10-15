@@ -90,3 +90,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~161 (4)瓊]]
+    ==
+    - A carnation or red gem;
+    - precious coral;
+    - small, pretty gems;
+    - _(4)K(')ing (1)chau (2)f(u/)_
+        [[king4 zau1 fu2]],
+        the island of H(a/)in(a/)n [[海南]];
+    - _(4)k(')ing (4)i(u/)_
+        [[king4 jiu4]],
+        fairy land.
+    ==
+  ====
+$$
+##>
