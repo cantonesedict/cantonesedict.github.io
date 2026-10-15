@@ -139,6 +139,22 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~162 (4)檠]]
+    ==
+    - A stand for a lamp, or a wall-light;
+    - a frame to set a bow in when stringing it;
+    - _(1)tang (4)k(')ing_
+        [[dang1 king4]],
+        a lamp-stand, a wall-shade.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
   ⽕ + 9
 W
   ====
