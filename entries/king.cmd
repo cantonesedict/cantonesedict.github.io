@@ -93,6 +93,21 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~161 (4)勍]]
+    ==
+    - Strong, violent;
+    - _(4)k(')ing ~~tik(7)~~ ``tik(9)``_
+        [[king4 dik6]]
+        a powerful enemy.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
   ⽕ + 9
 W
   ====
