@@ -93,6 +93,30 @@ $$
 
 <##
 $$
+  ⽕ + 9
+W
+  ====
+  - [[Page~161 (4)睘(4)煢(4)嬛]]
+    ==
+    - Alone, desolate, no relative or protector;
+    - downcast, sorrowing;
+    - _(4)k(')ing (5)ng(a/)n mong(6)_
+        [[king4 ngaan5 mong6]]
+        to stare at fixedly;
+    - _(4)k(')ing (4)k(')ing (4)m(o\) k(o\)(3)_
+        [[king4 king4 mou4 gou3]]
+        without any one to open the heart to;
+        no resource.
+    ==
+    --
+    The third character [[嬛]] also means childless.
+    --
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~161 (4)瓊]]
