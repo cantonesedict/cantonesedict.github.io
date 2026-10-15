@@ -95,6 +95,39 @@ $$
 $$
 W
   ====
+  - [[Page~161 (2)頃]]
+    ==
+    - A hundred _(5)mau_ [[mau5]],
+      equivalent to 15~<sup>13</sup>⁄<sub>100</sub>~sq.~acres,
+      the largest of land measures;
+    - an instant, a moment, a glance;
+    - a basket;
+    - in epitaphs, has the meaning of trembling, respectful;
+    - the head inclined;
+    - _(2)k(')ing ~~h(a/)k(7)~~ ``hak(7)``_
+        [[king2 hak1]]
+        a very short time;
+    - _(2)k(')ing (u:)t(9)_
+        [[king2 jyut6]]
+        a brief glance at, a cursory reading;
+    - _m(a/)n(6) (2)k(')ing_
+        [[maan6 king2]],
+        a wide range, a vast expanse;
+    - _(2)k(')ing (4)man_
+        [[king2 man4]],
+        I've just heard;
+    - _(2)k(i/) (1)to (2)k(')ing (5)mau_
+        [[gei2 do1 king2 mau5]],
+        how many acres are there?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~161 (4)勍]]
     ==
     - Strong, violent;
