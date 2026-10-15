@@ -149,3 +149,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~161 (4)鯨]]
+    ==
+    - A whale, the largest of sea monsters,
+      fabled to be a thousand _l(i/)_ [[里]] long;
+    - _(4)k(')ing (1)t(')an_
+        [[king4 tan1]],
+        to swindle, to take or swallow all;
+    - _(4)k(')(e/) (4)k(')ing (5)sh(e/)ung (1)t(')(i/)n_
+        [[ke4 king4 soeng5 tin1]],
+        to ride a whale to heaven---as L(i/) T(a/)ipeh [[李太白]] did.
+    ==
+  ====
+$$
+##>
