@@ -108,6 +108,37 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~162 (4)擎]]
+    ==
+    - To elevate, to raise up high with the hands;
+    - _(4)k(')ing (4)k(')(u:)n_
+        [[king4 kyun4]],
+        to bow with the hands above the head;
+    - _(4)k(')ing (1)t(')(i/)n (5)ch(')(u:)_
+        [[king4 tin1 cyu5]],
+        a pillar of state, an officer who can raise the state to heaven.
+    ==
+    --
+    A colloquial word,
+    --
+    ==
+    - to settle, as turbid fluids;
+    - to freeze, to coagulate, to curdle;
+    - _(2)tang (4)k(')ing (1)ts(')ing_
+        [[dang2 king4 cing1]],
+        let it settle clear;
+    - _(4)k(')ing (1)kon_
+        [[king4 gon1]],
+        to stand till dry.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
   ⽕ + 9
 W
   ====
