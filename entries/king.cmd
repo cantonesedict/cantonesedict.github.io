@@ -168,3 +168,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~162 (4)黥]]
+    ==
+    - To mark the face with black spots;
+    - _(4)k(')ing m(i/)n(6)_
+        [[king4 min6]]
+        to brand the faces of criminals;
+        called also _ts(')ik(7) tsz'(6)_ [[cik1 zi6]]_;_
+    - _mak(9) (4)k(')ing_
+        [[mak6 king4]],
+        to ink the face, to tattoo.
+    ==
+  ====
+$$
+##>
