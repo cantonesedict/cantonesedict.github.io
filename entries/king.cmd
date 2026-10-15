@@ -98,7 +98,7 @@ W
   - [[Page~161 (2)頃]]
     ==
     - A hundred _(5)mau_ [[mau5]],
-      equivalent to 15~<sup>13</sup>⁄<sub>100</sub>~sq.~acres,
+      equivalent to 15{13/100}~sq.~acres,
       the largest of land measures;
     - an instant, a moment, a glance;
     - a basket;

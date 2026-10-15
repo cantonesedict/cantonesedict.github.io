@@ -590,6 +590,14 @@ RegexDictionaryReplacement: #.syntax.mainland-simplifications
   - ::{l=zh-Hans}\g<simplified_run>::
 
 
+RegexDictionaryReplacement: #.syntax.fraction
+- queue_position: BEFORE #escape-idle-html
+# U+2044 FRACTION SLASH
+* \{ (?P<numerator> [0-9]+ ) / (?P<denominator> [0-9]+ ) \}
+    -->
+  <sup>\g<numerator></sup>⁄<sub>\g<denominator></sub>
+
+
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
 # U+A700 through U+A707 <https://en.wikipedia.org/wiki/Modifier_Tone_Letters>

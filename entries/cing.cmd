@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1497,7 +1497,7 @@ W
   ====
   - [[Page~20* (4)程]]
     ==
-    - ~~The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]_;_~~
+    - ~~The {1/100}th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]_;_~~
     - a portion or percentage;
     - a rule, a pattern, a regulation [[Kangxi: 式也]], to rule;
     - a limit, a period [[Kangxi: 期也, 限也]];
@@ -1549,7 +1549,7 @@ W
   ====
 C
   ==
-  - Williams' "1⁄100th part [...]": According to 段玉裁's annotations of 《說文》,
+  - Williams' "{1/100}th part [...]": According to 段玉裁's annotations of 《說文》,
     十程爲分 should be 一程爲分. This makes 程 a tenth of a 寸.
   - Williams' 得返九程半: Corrected _tak(9)_ (dak6) to _tak(7)_ (dak1).
   ==
