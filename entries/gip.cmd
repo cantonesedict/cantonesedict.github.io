@@ -67,3 +67,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~162 挾(9)]]
+    ==
+    - To pinch;
+    - to clasp under the arm;
+    - a clasp;
+    - a wrapper, a portfolio;
+    - _(4)h(a/)i k(i/)p(9) k(e/)uk(8)_
+        [[haai4 gip6 goek3]]
+        the shoe pinches the foot;
+    - _k(i/)p(9) (1)sh(u:) k(i/)p(9)_
+        [[gip6 syu1 gip6-2]]
+        take the portfolio under your arm;
+    - _k(i/)p(9) (1)ts(')an (2)shau (2)ch(i/)_
+        [[gip6 can1 sau2 zi2]],
+        to pinch the finger.
+    ==
+  ====
+$$
+##>
