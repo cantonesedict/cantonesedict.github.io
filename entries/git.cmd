@@ -171,3 +171,16 @@ S
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~163 袺(8)]]
+    ==
+    - To carry off something in the skirt of a dress,
+      to lift up an apron or skirt.
+    ==
+  ====
+$$
+##>
