@@ -158,6 +158,19 @@ $$
 $$
 W
   ====
+  - [[Page~164 襭(8)]]
+    ==
+    - To lift up and put the skirt in the girdle to hold something in it;
+    - to carry something in the dress.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~164 訐(8)]]
     ==
     - To discover secrets, to publish, to reveal, to bring to light;
