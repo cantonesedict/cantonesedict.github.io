@@ -158,6 +158,25 @@ $$
 $$
 W
   ====
+  - [[Page~164 訐(8)]]
+    ==
+    - To discover secrets, to publish, to reveal, to bring to light;
+    - to charge with a fault, to question in regard to an accusation, to reprove;
+    - _k(')(i/)t(8) (4)yan (2)t(u:)n ch(')(u:)(3)_
+        [[kit3 jan4 dyun2 cyu3]]
+        to remark on people's faults;
+    - _m(i/)n(6) k(')(i/)t(8)_
+        [[min6 kit3]]
+        to personally reprove.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~164 詰(8)]]
     ==
     - To judge, to demand of, to interrogate with authority,
