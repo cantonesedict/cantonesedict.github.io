@@ -189,6 +189,25 @@ $$
 $$
 W
   ====
+  - [[Page~164 ::~~{？=⿰亻⿱曰匂}~~``偈``(8):: _K(')(i/)t(8)_ (kit3); here normalised to _K(i/)t(9)_ (git6)]]
+    ==
+    - Martial, urgent;
+    - exerting one's strength;
+    - _~~k(')(i/)t(8) k(')(i/)t(8)~~ ``k(i/)t(9) k(i/)t(9)`` (4)wai (i/)(6)_
+        [[git6 git6 wai4 ji6]]
+        sedulous or diligent in observing or doing right.
+    ==
+    --
+    Interchanged with the last [[竭]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~163 傑(9)]]
     ==
     - Eminent in talents and virtue, a hero;
