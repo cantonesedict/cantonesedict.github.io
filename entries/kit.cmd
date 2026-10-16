@@ -45,6 +45,47 @@ $$
 $$
 W
   ====
+  - [[Page~163 揭(8)]]
+    ==
+    - To lift up, to lift or take off, as a hat or cover;
+    - to raise the dress;
+    - to borrow;
+    - to take upon, to bear, to undertake;
+    - responsible for;
+    - to publish or make known;
+    - _k(')(i/)t(8) hong(6)_
+        [[kit3 hong6]]
+        borrowed capital;
+    - _k(')(i/)t(8) (1)t(a/)n_
+        [[kit3 daan1]],
+        a note of hand;
+    - _k(')(i/)t(8) t(')(i/)p(8)_
+        [[kit3 tip3-2]]
+        a placard, a pasquinade, an anonymous statement;
+    - _k(')(i/)t(8) ts(e/)(3)_
+        [[kit3 ze3]]
+        to borrow;
+    - _k(')(i/)t(8) (2)hi(u/)_
+        [[kit3 hiu2]],
+        to issue a list of graduates;
+    - _k(')(i/)t(8) (1)fung (4)p(')(i/)_
+        [[kit3 fung1 pei4-2]],
+        to take off the seals from a door, remove the fastenings;
+    - _k(')(i/)t(8) sh(o\)(3)_
+        [[kit3 sou3]]
+        an account due;
+    - _k(')(i/)t(8) (2)t(u:)n_
+        [[kit3 dyun2]],
+        to post one, to censure.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 蝎(8) _H(i/)t(8)_ (hit3); here normalised to 蠍 _K(')(i/)t(8)_ (kit3)]]
     ==
     - A scorpion;
