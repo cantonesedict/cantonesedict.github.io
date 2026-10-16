@@ -86,6 +86,32 @@ $$
 $$
 W
   ====
+  - [[Page~163 竭(8)]]
+    ==
+    - To exhaust, to carry to the utmost;
+    - to sink away, wanting;
+    - to carry on the shoulder;
+    - exhausted power, like that of the five elements,
+      which are then succeeded by others;
+    - defeated;
+    - _k(')(i/)t(8) lik(9)_
+        [[kit3 lik6]]
+        weakened, to exhaust one's strength;
+    - _(4)ts(')oi k(')(i/)t(8)_
+        [[coi4 kit3]]
+        impoverished;
+    - _k(')(i/)t(8) ~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (5)(i/) f(u/)(6)_
+        [[kit3 kyut3 ji5 fu6]]
+        to exert one's utmost strength to reach.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 蝎(8) _H(i/)t(8)_ (hit3); here normalised to 蠍 _K(')(i/)t(8)_ (kit3)]]
     ==
     - A scorpion;
