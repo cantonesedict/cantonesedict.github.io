@@ -66,3 +66,31 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~162 絜(8)]]
+    ==
+    - The end of a thread;
+    - a marking-line;
+    - a rule of action;
+    - to measure, to reduce to order, to bring within bounds, as a river;
+    - _~~k(i/)t(8)~~ ``k(')(i/)t(8)`` ~~tok(8)~~ ``tok(9)``_
+        [[kit3 dok6]]
+        to adjust;
+    - _k(i/)t(8) tsing(6)_
+        [[git3 zing6]]
+        pure.
+    ==
+    --
+    Used for the preceding [[潔]].
+    --
+  ====
+S
+  ==
+  - $絜kit3 (TODO)
+  ==
+$$
+##>
