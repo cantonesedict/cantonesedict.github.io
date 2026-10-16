@@ -86,6 +86,26 @@ $$
 $$
 W
   ====
+  - [[Page~164 ::~~碣(9)~~``碣(8)``::]]
+    ==
+    - A round stone pillar with an inscription;
+    - an iguille or sharp projecting rock like the Skillig rock near Ireland;
+    - there is one on the coast of Chihl(i/) [[直隸]], near the Great Wall;
+    - the fluttering of birds.
+    ==
+  ====
+C
+  ==
+  - Williams misprints the headword tone marker ^(8) as ^(9); here corrected.
+    (The correct tone marker ^(8) appears against 碣 on Page~789 of the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~163 竭(8)]]
     ==
     - To exhaust, to carry to the utmost;
