@@ -101,3 +101,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~165 (1)鷮]]
+    ==
+    - A small species of pheasant, with a long tail,
+      and perhaps akin to the barred-tailed
+      or Reeves' pheasant _(Syrmaticus)_;
+    - it constantly clucks _(1)ki(u/) (1)ki(u/)_ [[giu1 giu1]],
+      whence its name.
+    ==
+  ====
+$$
+##>
