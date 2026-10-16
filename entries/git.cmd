@@ -189,6 +189,23 @@ $$
 $$
 W
   ====
+  - [[Page~163 傑(9)]]
+    ==
+    - Eminent in talents and virtue, a hero;
+    - proud, self-willed, opinionated;
+    - shoots of grain;
+    - _(1)ying k(i/)t(9)_
+        [[jing1 git6]]
+        a heroine, a person of great parts.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~163 桀(9)]]
     ==
     - A hen-roost;
