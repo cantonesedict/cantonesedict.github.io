@@ -146,3 +146,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~165 (2)嶠 _(2)Ki(u/)_ (giu2); here normalised to _Ki(u/)(6)_ (giu6)]]
+    ==
+    - A high peak, where no water remains;
+    - _(4)(u:)n ~~(2)ki(u/)~~ ``ki(u/)(6)``_
+        [[jyun4 giu6]],
+        one of five lofty hills in Sh(a/)ntung [[山東]], where genii dwell.
+    ==
+  ====
+$$
+##>
