@@ -198,6 +198,17 @@ W
         [[jing1 git6]]
         a heroine, a person of great parts.
     ==
+  - [[Page~719 傑(9)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - Excellent, well done;
+    - to raise higher;
+    - _k(i/)t(9) tsok(8)_
+        [[git6 zok3]]
+        finely written.
+    ==
   ====
 $$
 ##>
