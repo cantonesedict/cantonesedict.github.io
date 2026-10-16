@@ -26,6 +26,35 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~164 孑(8)]]
+    ==
+    - A man without his right arm;
+    - alone, solitary, abandoned, orphan-like;
+    - a remnant, short, left, or behind;
+    - a kind of halberd;
+    - strong, hale;
+    - _k(')(i/)t(8) k(')(i/)t(8)_
+        [[kit3 kit3]]
+        the larvae of musketoes;
+        preëminent, alone;
+    - _k(')(i/)t(8) (2)ying (1)k(u/) (1)tang_
+        [[kit3 jing2 gu1 dang1]],
+        solitary before a lonely lamp;
+    - _k(')(i/)t(8) ~~sh(i/)t(9)~~ ``sh(i/)t(8)``_
+        [[kit3 sit3]]
+        tongue-tied;
+    - _k(')(i/)t(8) (4)(i/)n yat(7) (1)shan_
+        [[kit3 jin4 jat1 san1]],
+        quite alone.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~163 契(8) _K(i/)t(8)_ (git3); here corrected to _K(')(i/)t(8)_ (kit3)]]
     ==
     - Suffering, laborious;
