@@ -210,3 +210,21 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~164 頡(8)]]
+    ==
+    - A stiff or straight neck;
+    - to fly upwards;
+    - _k(')(i/)t(8) w(a/)t(8)_
+        [[kit3 waat3]]
+        difficult to do;
+    - artful speech to deceive; <# TODO: $頡gaat3 #>
+    - to rob, to plunder.
+    ==
+  ====
+$$
+##>
