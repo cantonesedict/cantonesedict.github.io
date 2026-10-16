@@ -26,6 +26,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~163 契(8) _K(i/)t(8)_ (git3); here corrected to _K(')(i/)t(8)_ (kit3)]]
+    ==
+    - Suffering, laborious;
+    - separated from friends;
+    - wide, parted;
+    - to carve, to cut off;
+    - _~~k(i/)t(8)~~ ``k(')(i/)t(8)`` f(u/)t(8)_
+        [[kit3 fut3]]
+        open, as a place;
+        disparted, as friends.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~85 蝎(8) _H(i/)t(8)_ (hit3); here normalised to 蠍 _K(')(i/)t(8)_ (kit3)]]
     ==
     - A scorpion;
