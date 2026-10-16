@@ -158,6 +158,33 @@ $$
 $$
 W
   ====
+  - [[Page~164 詰(8)]]
+    ==
+    - To judge, to demand of, to interrogate with authority,
+      to inform one's self;
+    - to prohibit, to correct and lay restrictions;
+    - to reduce the rebellious to order;
+    - _k(')(i/)t(8) wat(7)_
+        [[kit3 wat1]]
+        intractable, cacophonous, as sounds;
+    - _k(')(i/)t(8) (2)hau (1)kung_
+        [[kit3 hau2 gung1]],
+        to take evidence of prisoners;
+    - _(4)p(')(u/)n k(')(i/)t(8)_
+        [[pun4 kit3]]
+        to examine;
+    - _k(')(i/)t(8) (1)chi(u/)_
+        [[kit3 ziu1]],
+        to-morrow morning.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~114 謁(8) _(I/)t(8)_ (jit3); here normalised to _K(')(i/)t(8)_ (kit3)]]
     ==
     - To visit a superior or a gentleman;
