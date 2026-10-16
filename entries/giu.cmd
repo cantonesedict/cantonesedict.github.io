@@ -75,3 +75,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~165 (1)驕]]
+    ==
+    - A stately horse, a wild, restive horse;
+    - proud, haughty, ungovernable, self-confident, conceited;
+    - to glory in, to disdain;
+    - _(1)ki(u/) ng(o\)(6)_
+        [[giu1 ngou6]]
+        proud, overbearing;
+    - _(1)ki(u/) (1)kw(')(a/)_
+        [[giu1 kwaa1]],
+        presumptuous;
+    - _(1)ki(u/) (1)ch(')(e/) (1)wan_
+        [[giu1 ce1 wan1]],
+        pride and waste, showy;
+    - _(1)ki(u/) tsung(3) kw(a/)n(3)_
+        [[giu1 zung3 gwaan3]]
+        indulged till he is conceited.
+    ==
+  ====
+$$
+##>
