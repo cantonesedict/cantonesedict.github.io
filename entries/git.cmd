@@ -184,3 +184,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~163 桀(9)]]
+    ==
+    - A hen-roost;
+    - courageous, excelling, gifted with great qualities, magnanimous;
+    - one of a thousand, a hero---for this the next [[傑]] is used;
+    - harsh, cruel, villainous, murderous, truculent;
+    - to lift a stone;
+    - _K(i/)t(9) Kwai(3)_ [[git6 gwai3]]
+      the last monarch of the Hi(a/) [[夏]] dynasty, B.C.~1818.
+    ==
+  ====
+$$
+##>
