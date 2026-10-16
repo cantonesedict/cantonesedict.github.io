@@ -71,6 +71,83 @@ $$
 $$
 W
   ====
+  - [[Page~163 結(8)]]
+    ==
+    - A knot, a knob made of cord;
+    - a skein, a hank;
+    - to work or weave in knots, to knit;
+    - to tie, to fasten, to bind;
+    - to contract, to bind parties;
+    - stiff, as dry paste or dough;
+    - to set, as fruit;
+    - to induce, as ill-will;
+    - an agreement, bond, compact, engagement;
+    - united, banded together, engaged, tied, fixed;
+    - _k(i/)t(8) h(o\)p(9)_
+        [[git3 hap6]]
+        contracted, completed, as a bargain;
+    - _k(i/)t(8) ch(e/)ung(3)_ [[git3 zoeng3]]
+        or
+      _k(i/)t(8) (4)ngan_ [[git3 ngan4]],
+        to pay money on account;
+    - _k(i/)t(8) (1)ts(')an_
+        [[git3 can1]],
+        to contract a marriage;
+    - _yat(7) k(i/)t(8) (1)sz' s(i/)n(3)_
+        [[jat1 git3 si1 sin3]]
+        a skein of silk;
+    - _k(i/)t(8) (u:)t(9)_
+        [[git3 jyut6]]
+        the 12th~month;
+    - _k(i/)t(8) p(a/)i(3)_
+        [[git3 baai3]]
+        to pledge friendship;
+    - _k(i/)t(8) on(3)_
+        [[git3 on3]]
+        to decide a case;
+    - _k(i/)t(8) tsung(6)_
+        [[git3 zung6]]
+        to open a case in court;
+    - _(2)kwo k(i/)t(8) (5)li(u/)_
+        [[gwo2 git3 liu5]],
+        the fruit has set;
+    - _k(i/)t(8) (5)mong_
+        [[git3 mong5]],
+        to knit nets;
+    - _k(i/)t(8) (2)nau_
+        [[git3 nau2]],
+        to braid a button;
+    - _k(i/)t(8) (2)ts(')oi_
+        [[git3 coi2]],
+        to hang festoons;
+    - _wat(7) k(i/)t(8)_
+        [[wat1 git3]]
+        sullen;
+    - _k(i/)t(8) (4)(i/)n_
+        [[git3 jin4]],
+        the last words;
+    - _yat(9) hau(6) (1)kwai k(i/)t(8)_
+        [[jat6 hau6 gwai1 git3]]
+        to settle it up afterwards,
+        to see how an affair turns out finally;
+    - _k(i/)t(8) (2)kwo sing(3) ming(6)_
+        [[git3 gwo2 sing3 ming6]]
+        to take one's life;
+    - _(2)shui (2)shi(u/) hai(6) k(i/)t(8)_
+        [[seoi2 siu2 hai6 git3]]
+        it will be stiff if there is too little water;
+    - _k(i/)t(8) (4)m(a/)i tik(7) h(u:)t(8)_
+        [[git3 maai4 dik1 hyut3]]
+        coagulated blood.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~162 絜(8)]]
     ==
     - The end of a thread;
