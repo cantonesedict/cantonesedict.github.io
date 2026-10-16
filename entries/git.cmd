@@ -206,6 +206,20 @@ $$
 $$
 W
   ====
+  - [[Page~163 杰(9)]]
+    ==
+    - Name of a famous statesman
+      called _(Ngai(6) K(i/)t(9))_ [[^ngai6 git6]] Wei Kieh, A.D.~956,
+      in the days of the After Chau [[周]] dynasty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~163 桀(9)]]
     ==
     - A hen-roost;
