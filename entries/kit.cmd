@@ -74,6 +74,29 @@ $$
 $$
 W
   ====
+  - [[Page~164 挈(8)]]
+    ==
+    - To raise from the earth, to hold up, to dangle or suspend;
+    - to protect;
+    - to put in order, to adjust;
+    - _~~(4)^t(a/)i~~ ``(4)t(')ai`` k(')(i/)t(8)_
+        [[tai4 kit3]]
+        to lift and carry;
+    - _k(')(i/)t(8) ch(')ut(7) (4)f(a/)n (4)ch(')an_
+        [[kit3 ceot1 faan4 can4]],
+        raised him above (or beyond) the world.
+    ==
+    --
+    Read _k(')ai(3)_ [[kai3]], and used for 契.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~163 揭(8)]]
     ==
     - To lift up, to lift or take off, as a hat or cover;
