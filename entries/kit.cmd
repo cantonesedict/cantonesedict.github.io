@@ -86,6 +86,19 @@ $$
 $$
 W
   ====
+  - [[Page~164 朅(8)]]
+    ==
+    - To go and come, to depart;
+    - a brave, valiant look.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~164 ::~~碣(9)~~``碣(8)``::]]
     ==
     - A round stone pillar with an inscription;
