@@ -151,6 +151,39 @@ $$
 $$
 W
   ====
+  - [[Page~165 (2)矯]]
+    ==
+    - Straight;
+    - to straighten;
+    - to bend to;
+    - to rectify, to correct what is wrong;
+    - martial, strong, to simulate, to deceive;
+    - fraudulent;
+    - to usurp, to exercise undue authority;
+    - _(2)ki(u/) (5)k(')(e/)ung_
+        [[giu2 koeng5]],
+        to force the unwilling;
+    - _(2)ki(u/) ming(6)_
+        [[giu2 ming6]]
+        to feign orders;
+    - _(2)ki(u/) ~~(4)^k(i/)n~~ ``(4)k(')(i/)n``_
+        [[giu2 kin4]],
+        oppressive, seizing by force;
+    - _(2)ki(u/) (2)yau ts(o\)(6) tsok(8)_
+        [[giu2 jau2 zou6 zok3]]
+        to act for one's interest, time serving.
+    ==
+    --
+    Often interchanged with the next [[撟]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)蟜]]
     ==
     - The writhings and squirmings of a snake;
