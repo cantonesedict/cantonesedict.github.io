@@ -80,6 +80,35 @@ $$
 $$
 W
   ====
+  - [[Page~165 (1)澆]]
+    ==
+    - To sprinkle, to irrigate, to water;
+    - to dip;
+    - false, perfidious, ungrateful;
+    - _(1)ki(u/) l(a/)p(9) chuk(7)_
+        [[giu1 laap6 zuk1]]
+        to dip candles;
+    - _(1)ki(u/) (1)f(a/)_
+        [[giu1 faa1]],
+        to water flowers;
+    - _(1)ki(u/) pok(9)_
+        [[giu1 bok6]]
+        false, hardhearted.
+    ==
+    --
+    Read _(4)li(u/)_ [[liu4]],
+    --
+    ==
+    - an eddy.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (1)驕]]
     ==
     - A stately horse, a wild, restive horse;
