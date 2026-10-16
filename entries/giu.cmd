@@ -151,6 +151,20 @@ $$
 $$
 W
   ====
+  - [[Page~165 (2)蟜]]
+    ==
+    - The writhings and squirmings of a snake;
+    - to stretch or wriggle one's self;
+    - a kind of ant.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)嶠 _(2)Ki(u/)_ (giu2); here normalised to _Ki(u/)(6)_ (giu6)]]
     ==
     - A high peak, where no water remains;
