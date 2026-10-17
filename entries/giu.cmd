@@ -151,6 +151,52 @@ $$
 $$
 W
   ====
+  - [[Page~165 (2)撟]]
+    ==
+    - To lift up the hand, to grasp;
+    - firm, unyielding;
+    - to straighten;
+    - false, feigning;
+    - used colloquially to wipe, to rub;
+    - _(2)ki(u/) (5)ng(a/)n lui(6)_
+        [[giu2 ngaan5 leoi6]]
+        to wipe away tears;
+    - _(2)ki(u/) (2)tsui_
+        [[giu2 zeoi2]],
+        to wipe the mouth;
+    - _(2)ki(u/) (1)kon tseng(6)_
+        [[giu2 gon1 zeng6]]
+        wipe it clean.
+    ==
+    --
+    Read _~~ki(u/)(3)~~ ``ki(u/)(6)``_ [[giu6]]
+    --
+    ==
+    - to take a little;
+    - to pry open, to pry up with a lever;
+    - to stick in, to obstruct;
+    - _~~ki(u/)(3)~~ ``ki(u/)(6)`` ~~(1)cham(3)~~ ``(1)cham``_
+        [[giu6 zam1]]
+        to pin;
+    - _~~ki(u/)(3)~~ ``ki(u/)(6)`` (4)t(')(i/)n kong(3)_
+        [[giu6 tin4 gong3]]
+        a spendthrift, _lit._ one who carries off land;
+    - _~~ki(u/)(3)~~ ``ki(u/)(6)`` ch(u:)(6) (5)m(a/) k(e/)uk(8)_
+        [[giu6 zyu6 maa5 goek3]]
+        to "prevent the horse's legs,"
+        to argue with one against a plan, to hinder a thing, to interfere with;
+    - _~~ki(u/)(3)~~ ``ki(u/)(6)`` ch(u:)(6) (5)ng(a/)n (4)yan_
+        [[giu6 zyu6 ngaan5 jan4]],
+        he is an eyesore to me.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)矯]]
     ==
     - Straight;
