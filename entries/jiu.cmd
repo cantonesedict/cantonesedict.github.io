@@ -394,7 +394,7 @@ W
     ==
     - Earth heaped up;
     - eminent in worth;
-    - a famous sovereign who reigned B.C.~2357.
+    - a famous sovereign who reigned B.^C.~2357.
     ==
   ====
 $$

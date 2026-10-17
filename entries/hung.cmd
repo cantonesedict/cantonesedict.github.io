@@ -613,7 +613,7 @@ W
   ====
   - [[Page~100 (4)黌]]
     ==
-    - A college or gymnasium, in A.D.~200,
+    - A college or gymnasium, in A.^D.~200,
       capable of accommodating 30,000~students;
     - _tsun(3) (4)hung (1)kung_
         [[zeon3 hung4 gung1]],

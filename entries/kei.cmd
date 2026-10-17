@@ -444,7 +444,7 @@ W
     - _(4)wai (4)k(')(i/)_
         [[wai4 kei4-2]],
         a game of 360~men, half black and half white,
-        invented by Y(a/)u [[堯]], B.C.~2300;
+        invented by Y(a/)u [[堯]], B.^C.~2300;
     - a foundation;
     - _(4)k(')(i/) (4)p(')(u/)n_
         [[kei4 pun4-2]],

@@ -206,7 +206,7 @@ W
     ==
     --
     _K(')ai(3) (1)t(a/)n_ [[kai3 daan1]],
-    the nation which ruled Northern China from A.D.~1118 to 1235,
+    the nation which ruled Northern China from A.^D.~1118 to 1235,
     under the name of the Golden dynasty [[金朝]].
     --
   ====

@@ -77,7 +77,7 @@ W
         fine presents;
     - _(1)K(a/) hing(3)_
         [[gaa1 hing3]]
-        the reign Ki(a/)king, A.D.~1796--1821.
+        the reign Ki(a/)king, A.^D.~1796--1821.
     ==
   ====
 $$

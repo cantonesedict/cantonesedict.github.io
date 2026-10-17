@@ -1099,6 +1099,17 @@ LINTING_NON_STRAIGHT_QUOTE_CONTEXT_PATTERN = re.compile(
 )
 LINTING_NON_STRAIGHT_QUOTE_GROUP = 'quote'
 
+LINTING_UNSPACED_CALENDAR_INITIALISMS = ['A.D.', 'B.C.']
+LINTING_UNSPACED_CALENDAR_INITIALISMS_ALTERNATIVES = '|'.join(
+    re.escape(initial)
+    for initial in LINTING_UNSPACED_CALENDAR_INITIALISMS
+)
+LINTING_UNSPACED_CALENDAR_INITIALISMS_PATTERN = re.compile(
+    pattern=fr'\S* (?P<unspaced_initialism> {LINTING_UNSPACED_CALENDAR_INITIALISMS_ALTERNATIVES}) \S*',
+    flags=re.VERBOSE,
+)
+LINTING_UNSPACED_CALENDAR_INITIALISM_GROUP = 'unspaced_initialism'
+
 LINTING_UNDOTTED_ABBREVIATIONS = ['lit', 'met']
 LINTING_UNDOTTED_ABBREVIATIONS_ALTERNATIVES = '|'.join(
     re.escape(abbreviation)
@@ -1671,6 +1682,7 @@ class CmdSource:
         try:
             CmdSource.lint_whitespace(content)
             CmdSource.lint_typography_quote(content)
+            CmdSource.lint_unspaced_calendar_initialism(content)
             CmdSource.lint_italicised_abbreviation_dot(content)
             CmdSource.lint_cjk_compatibility_ideograph(content)
             CmdSource.lint_cjk_non_bmp_composition(content)
@@ -1740,6 +1752,20 @@ class CmdSource:
             context = context_match.group()
             quote = context_match.group(LINTING_NON_STRAIGHT_QUOTE_GROUP)
             raise LintException(f'non-straight quote `{quote}` present in `{context}`')
+
+    @staticmethod
+    def lint_unspaced_calendar_initialism(content: str):
+        # Fast elimination of negative cases
+        if not any(initialism in content for initialism in LINTING_UNSPACED_CALENDAR_INITIALISMS):
+            return
+
+        if context_match := LINTING_UNSPACED_CALENDAR_INITIALISMS_PATTERN.search(string=content):
+            context = context_match.group()
+            unspaced_initialism = context_match.group(LINTING_UNSPACED_CALENDAR_INITIALISM_GROUP)
+            raise LintException(
+                f'calendar initialism `{unspaced_initialism}` unspaced in `{context}` '
+                f'(suppress with caret between initials if legitimate)'
+            )
 
     @staticmethod
     def lint_italicised_abbreviation_dot(content: str):

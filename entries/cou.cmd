@@ -1186,7 +1186,7 @@ W
         officers;
     - _(4)Ts(')(o\) (1)Ts(')(o\)_
         [[cou4 cou1 曹操]],
-        a famous general``, who died`` A.D.~^~~250~~~``220``.
+        a famous general``, who died`` A.^D.~^~~250~~~``220``.
     ==
   ====
 C

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-10-01
+* %date-modified --> 2026-10-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1353,7 +1353,7 @@ W
     - To increase, to flourish, to grow, as the sun makes all things [[Kangxi 晉: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義]];
     - [[...]];
     - to curb in a horse [[Kangxi 晉: 晉猶抑也]];
-    - name of a dynasty, divided into the Western and Eastern Tsin, A.D.~265--419;
+    - name of a dynasty, divided into the Western and Eastern Tsin, A.~D.~265--419;
     - a feudal state [[Kangxi 晉: 國名]], now the southern part of Sh(a/)ns(i/) [[山西]].
     ==
     --

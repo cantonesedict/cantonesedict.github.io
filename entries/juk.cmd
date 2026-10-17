@@ -62,7 +62,7 @@ W
     - attentive;
     - _(1)Ch(u:)n-~~huk(7)~~ ``yuk(7)``_
         [[zyun1 juk1]]
-        the emperor who succeeded Hw(a/)ngt(i/) [[]], B.C.~2513.
+        the emperor who succeeded Hw(a/)ngt(i/) [[黃帝]], B.^C.~2513.
     ==
   ====
 C

@@ -54,7 +54,7 @@ W
         a kind, winning voice;
         a querulous, high keyed tone;
     - ~~(A/)(3)~~ _``(A/)(3)`` (1)Ki(u/)_ [[aa3 giu1]],
-      a beautiful woman in the days of W(u/)t(i/) [[武帝]], B.C.~100;
+      a beautiful woman in the days of W(u/)t(i/) [[武帝]], B.~C.~100;
     - applied as an endearing name;
     - _(1)to (1)ki(u/)_
         [[do1 giu1]],

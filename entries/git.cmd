@@ -239,7 +239,7 @@ W
   - [[Page~163 杰(9)]]
     ==
     - Name of a famous statesman
-      called _(Ngai(6) K(i/)t(9))_ [[^ngai6 git6]] Wei Kieh, A.D.~956,
+      called _(Ngai(6) K(i/)t(9))_ [[^ngai6 git6]] Wei Kieh, A.~D.~956,
       in the days of the After Chau [[周]] dynasty.
     ==
   ====
@@ -258,7 +258,7 @@ W
     - harsh, cruel, villainous, murderous, truculent;
     - to lift a stone;
     - _K(i/)t(9) Kwai(3)_ [[git6 gwai3]]
-      the last monarch of the Hi(a/) [[夏]] dynasty, B.C.~1818.
+      the last monarch of the Hi(a/) [[夏]] dynasty, B.~C.~1818.
     ==
   ====
 $$

@@ -1029,7 +1029,7 @@ W
     - a mansion [[Kangxi: 大屋曰夏]];
     - ~~clear;~~
     - variegated [[Kangxi: 五色曰夏]];
-    - name of a dynasty from B.C.~2205 to 1766 [[Kangxi: 國號禹受舜禪易虞爲夏]];
+    - name of a dynasty from B.^C.~2205 to 1766 [[Kangxi: 國號禹受舜禪易虞爲夏]];
     - _h(a/)(6) (1)t(')(i/)n_
         [[haa6 tin1 夏天]],
         summer weather;
@@ -1050,7 +1050,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 夭 to 大.
-  - Williams' "B.C.~2205 to 1766": Per the traditional chronology.
+  - Williams' "B.^C.~2205 to 1766": Per the traditional chronology.
   ==
 P
   ++
