@@ -44,6 +44,28 @@ $$
 $$
 W
   ====
+  - [[Page~168 (1)羔]]
+    ==
+    - A lamb;
+    - a kid;
+    - _(1)t(')oi (1)k(o\) (4)p(')(i/)_
+        [[toi1 gou1 pei4]],
+        unyeaned lambskin;
+    - _~~h(a/)k(7)~~ ``hak(7)`` (1)k(o\) (4)p(')(i/)_
+        [[hak1 gou1 pei4]]
+        black lambskin;
+    - _(1)chan (1)ch(u:) (1)k(o\)_
+        [[zan1 zyu1 gou1]],
+        curly-haired lambskin.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)膏]]
     ==
     - Fat, grease, ointment;
