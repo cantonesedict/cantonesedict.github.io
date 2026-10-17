@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~168 (1)臯(1){？=⿱自夲}; here normalised to 皋]]
+    ==
+    - To inform, to call to or announce;
+    - to harangue;
+    - to drawl out, to whine;
+    - high, eminent;
+    - a bank;
+    - a marsh;
+    - _(1)k(o\) (4)m(u/)n_
+        [[gou1 mun4]],
+        a palace-gate;
+    - _(2)kau (1)k(o\)_
+        [[gau2 gou1]],
+        a marshy bank.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)篙]]
     ==
     - A pole used to push boats;
