@@ -26,6 +26,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~168 (1)橰; here normalised to 槔]]
+    ==
+    - A kind of tree;
+    - a well-sweep is called _kat(7) (1)k(o\)_ [[gat1 gou1]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)臯(1){？=⿱自夲}; here normalised to 皋]]
     ==
     - To inform, to call to or announce;
