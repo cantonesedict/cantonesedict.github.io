@@ -26,6 +26,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~168 (1)篙]]
+    ==
+    - A pole used to push boats;
+    - _(1)ch(')(a/)ng (1)k(o\)_
+        [[caang1 gou1]],
+        to pole;
+    - _yat(7) chuk(7) (1)k(o\) (1)ch(')(a/)ng (1)hoi_
+        [[jat1 zuk1 gou1 caang1 hoi1]],
+        push it off with a pole.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)高]]
     ==
     - High, lofty, elevated;
