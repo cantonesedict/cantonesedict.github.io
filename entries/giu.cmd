@@ -326,3 +326,43 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~165 (5)轎 _(5)^Ki(u/)_ (giu5); here corrected to _Ki(u/)(6)_ (giu6)]]
+    ==
+    - A sedan;
+    - formerly denoted a covered chaise;
+    - _yat(7) (2)ting ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[jat1 ding2 giu6-2]],
+        a sedan;
+    - _chuk(7) ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[zuk1 giu6-2]],
+        bamboo sedan;
+    - _(1)chong ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[zong1 giu6-2]],
+        tilt the sedan;
+    - _~~(5)^ki(u/)~~ ``(2)ki(u/)`` kong(3)_
+        [[giu6-2 gong3]]
+        sedan thills;
+    - _(1)f(a/) ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[faa1 giu6-2]],
+        a bride's chair;
+    - _(4)ming ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[ming4 giu6-2]],
+        an open chair, used by officers;
+    - _(4)t(')oi ~~(5)^ki(u/)~~ ``(2)ki(u/)`` (2)l(o\)_
+        [[tiu4 giu6-2 lou2]],
+        sedan-bearers;
+    - _~~tso(6)~~ ``(5)ts(')o`` ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[co5 giu6-2]],
+        to ride in a sedan;
+    - _p(a/)t(8) ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[baat3 giu6-2]],
+        a sedan for eight bearers.
+    ==
+  ====
+$$
+##>
