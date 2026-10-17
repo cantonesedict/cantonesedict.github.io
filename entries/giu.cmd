@@ -369,6 +369,23 @@ $$
 $$
 W
   ====
+  - [[Page~719 噭(3)]]
+    ==
+    - To call, to cry after;
+    - to roar;
+    - a classifier of horses, from their neighing;
+    - _ki(u/)(3) ki(u/)(3)_
+        [[giu3 giu3]]
+        a deep tone.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~719 (2)撬 _(2)Ki(u/)_ (giu2); here corrected to _Ki(u/)(6)_ (giu6)]]
     ==
     - To pry up, to raise with a lever.
