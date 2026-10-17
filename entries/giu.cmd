@@ -316,6 +316,59 @@ $$
 $$
 W
   ====
+  - [[Page~166 (2)呌(2)叫]]
+    ==
+    - To call, to send for, to call upon;
+    - to cry out;
+    - to name;
+    - to cause;
+    - to command, to tell to do, to persuade;
+    - named, called, termed;
+    - _(1)f(a/) (2)tsz' ki(u/)(3) (1)k(a/)i_
+        [[faa1 zi2 giu3 gaai1]],
+        the beggars cry in the street;
+    - _(4)'m (1)s(e/)ung ki(u/)(3)_
+        [[m4 soeng1 giu3]]
+        not on speaking terms;
+    - _ki(u/)(3) (1)hoi ki(u/)(3) (4)m(a/)i_
+        [[giu3 hoi1 giu3 maai4]],
+        one who can run errands;
+    - _ki(u/)(3) p(')o(3) ~~(1)hau~~ ``(4)hau`` (4)lung_
+        [[giu3 po3 hau4 lung4]],
+        to call till one is hoarse;
+    - _ki(u/)(3) mat(7) (4)meng_
+        [[giu3 mat1 meng4-2]],
+        what is your (or its) name?
+    - _yat(7) ki(u/)(3) tsau(6) t(o\)(3)_
+        [[jat1 giu3 zau6 dou3]]
+        came as soon as called;
+    - _mat(7) (4)shui ki(u/)(3) (5)n(i/) ts(o\)(6)_
+        [[mat1 seoi4-2 geoi3 nei5 zou6]]
+        who told you to do that?
+    - _(5)n(i/) mat(7) (5)y(e/) ki(u/)(3) tak(7) (5)ngo k(o\)m(3) (4)'m (1)on_
+        [[nei5 mat1 je5 giu3 dak1 ngo5 gam3 m4 on1]],
+        why do you thus disturb me?
+    - _ki(u/)(3) ts(')(a/)k(9)_
+        [[giu3 caak6]]
+        to cry thieves!
+    - _ki(u/)(3) kau(3) meng(6)_
+        [[giu3 gau3 meng6]]
+        to cry out for help;
+    - _ki(u/)(3) (2)seng_
+        [[giu3 seng2]],
+        wake him up;
+    - _ki(u/)(3) (a/)(3)_
+        [[giu3 aa3]]
+        you are called.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)嶠 _(2)Ki(u/)_ (giu2); here normalised to _Ki(u/)(6)_ (giu6)]]
     ==
     - A high peak, where no water remains;
