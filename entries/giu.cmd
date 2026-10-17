@@ -169,7 +169,7 @@ W
         wipe it clean.
     ==
     --
-    Read _~~ki(u/)(3)~~ ``ki(u/)(6)``_ [[giu6]]
+    Read _~~ki(u/)(3)~~ ``ki(u/)(6)``_ [[giu6]] <# TODO: normalise to $撬giu6 #>
     --
     ==
     - to take a little;
@@ -360,6 +360,30 @@ W
     - _ki(u/)(3) (a/)(3)_
         [[giu3 aa3]]
         you are called.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~719 (2)撬 _(2)Ki(u/)_ (giu2); here corrected to _Ki(u/)(6)_ (giu6)]]
+    ==
+    - To pry up, to raise with a lever.
+    ==
+    --
+    A colloquial word, and often pronounced _(5)k(')i(u/)_ [[kiu5]]. <# TODO: normalise to $繑kiu5 #>
+    --
+    ==
+    - To wind around;
+    - _~~(2)ki(u/)~~ ``(5)k(')i(u/)`` (1)p(i/)n_
+        [[kiu5 bin1]],
+        to coil the cue around the head;
+    - _~~(2)ki(u/)~~ ``(5)k(')i(u/)`` (2)s(i/)n_
+        [[kiu5 sin3-2]],
+        to wind thread.
     ==
   ====
 $$
