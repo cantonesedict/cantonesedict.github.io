@@ -26,6 +26,32 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~166 (4)僑]]
+    ==
+    - An inn, a lodging-place;
+    - a temporary lodgment;
+    - high;
+    - _(4)k(')i(u/) (1)k(u:)_
+        [[kiu4 geoi1]],
+        to visit, to sojourn.
+    ==
+    --
+    A colloquial word,
+    --
+    ==
+    - avaricious;
+    - _(4)k(')i(u/) (2)nau t(')(a/)i(3) t(a/)i(6)_
+        [[kiu4 nau2 taai3 daai6]]
+        very greedy, hard to suit.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~166 (4)喬]]
     ==
     - High, stately, lofty;
