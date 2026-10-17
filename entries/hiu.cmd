@@ -231,6 +231,29 @@ W
     This word is frequently pronounced _hi(u/)(3)_ [[hiu3]],
     but more correctly _~~ki(u/)(3)~~ ``k(')i(u/)(3)``_ [[kiu3]].
     --
+  - [[Page~167 竅(3) _K(')i(u/)(3)_ (kiu3); here normalised to _Hi(u/)(3)_ (hiu3)]]
+    ==
+    - A hole, pore, orifice, aperture;
+    - a cavity, a hollow, an interstice;
+    - _(2)kau ~~k(')i(u/)(3)~~ ``hi(u/)(3)``_
+        [[gau2 hiu3]]
+        the nine passages of the body;
+    - _k(o\)m(3) (1)t(')ung ~~k(')i(u/)(3)~~ ``hi(u/)(3)``_
+        [[gam3 tung1 hiu3]]
+        'such open passages!' _i.~e._ clever, astute;
+    - _(1)t(')ung ~~k(')i(u/)(3)~~ ``hi(u/)(3)`` y(e/)uk(9)_
+        [[tung1 hiu3 joek6]]
+        sudorifics and sternutatory remedies;
+    - _(4)sh(u:) m(i/)(6) chung(3) ~~k(')i(u/)(3)~~ ``hi(u/)(3)``_
+        [[syu4 mei6 zung3 hiu3]]
+        you are wide of the mark;
+    - _h(o\)p(9) ~~k(')i(u/)(3)~~ ``hi(u/)(3)``_
+        [[hap6 hiu3]]
+        in good time;
+    - _yat(7) ~~k(')i(u/)(3)~~ ``hi(u/)(3)`` pat(7) (1)t(')ung_
+        [[jat1 hiu3 bat1 tung1]],
+        he understands nothing, thoroughly stupid.
+    ==
   ====
 $$
 ##>
