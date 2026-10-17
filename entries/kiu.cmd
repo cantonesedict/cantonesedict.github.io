@@ -26,6 +26,30 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~166 (4)喬]]
+    ==
+    - High, stately, lofty;
+    - looking upward, aspiring, like the branches of a tree;
+    - curved, crooked;
+    - proud, discontented;
+    - _(4)k(')i(u/) (2)tsz'_
+        [[kiu4 zi2]]
+        two trees growing different ways, _met._ father and son;
+    - _(4)k(')i(u/) (4)n(i/)n_
+        [[kiu4 nin4]],
+        aged;
+    - _(4)k(')i(u/) muk(9) lui(6)_
+        [[kiu4 muk6 leoi6]]
+        stately forest trees, an order of plants in Chinese botany.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~166 (4)橋]]
     ==
     - A bridge;
