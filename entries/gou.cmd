@@ -44,6 +44,37 @@ $$
 $$
 W
   ====
+  - [[Page~168 (1)膏]]
+    ==
+    - Fat, grease, ointment;
+    - suet;
+    - rich food;
+    - glossy, greasy, unctuous;
+    - genial, fattening, rich, fertilizing;
+    - _(1)ch(u:) (1)k(o\)_
+        [[zyu1 gou1]],
+        lard;
+    - _(1)k(o\) y(e/)uk(9)_
+        [[gou1 joek6]]
+        a plaster;
+    - _(1)k(o\) (4)yau_
+        [[gou1 jau4]],
+        clarified fat;
+    - _(1)k(o\) (4)l(e/)ung_
+        [[gou1 loeng4]],
+        sumptuous fare, rich food;
+    - _(1)k(o\) (1)fong_
+        [[gou1 fong1]],
+        the vitals, the part beyond the reach of medicine.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)高]]
     ==
     - High, lofty, elevated;
