@@ -44,6 +44,32 @@ $$
 $$
 W
   ====
+  - [[Page~168 (1)糕]]
+    ==
+    - Cakes, pasty, or dumplings of flour or arrowroot,
+      steamed, with or without leaven,
+      and usually with fruit mixed in;
+    - _p(a/)k(8) (2)kwo (1)k(o\)_
+        [[baak3 gwo2 gou1]],
+        fruit cakes;
+    - _(1)sung (1)k(o\)_
+        [[sung1 gou1]],
+        leavened dumplings;
+    - _(4)n(i/)n (1)k(o\)_
+        [[nin4 gou1]],
+        dumplings of oldman's rice;
+    - _t(a/)n(6) (1)k(o\)_
+        [[daan6 gou1]],
+        sponge cake.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)羔]]
     ==
     - A lamb;
