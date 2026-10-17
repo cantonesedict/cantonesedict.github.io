@@ -230,6 +230,46 @@ $$
 $$
 W
   ====
+  - [[Page~165 (2)繳]]
+    ==
+    - To bind, to wind around;
+    - to reel;
+    - to pay to;
+    - to deliver up, to hand to an officer;
+    - leg wrappers;
+    - _(2)ki(u/) s(i/)n(3)_
+        [[giu2 sin3]]
+        to wind thread;
+    - _(2)ki(u/) (4)w(a/)n_
+        [[giu2 waan4]],
+        to pay back;
+    - _(4)(u:)n (2)ki(u/)_
+        [[jyun4 giu2]],
+        paid up, settled;
+    - _(2)ki(u/) (2)k(u:)n_
+        [[giu2 gyun2]],
+        to hand in an essay;
+    - _(2)ki(u/) (1)k(u/)n_
+        [[giu2 gun1]],
+        to surrender up;
+    - _(2)ki(u/) (1)chong_
+        [[giu2 zong1]],
+        to deliver up stolen goods.
+    ==
+    --
+    Read _ch(e/)uk(8)_ [[zoek3]]
+    --
+    ==
+    - to tie a string to an arrow when it is shot.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)蟜]]
     ==
     - The writhings and squirmings of a snake;
