@@ -154,3 +154,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~166 (4)荍(4)蕎]]
+    ==
+    - A kind of grain, called _(4)k(')i(u/) mak(9)_ [[kiu4 mak6]]
+      perhaps a sort of buckwheat;
+    - the culm is reddish, 2 or 3~feet high,
+      flowers white, and leaves hastate;
+    - it is reaped in October.
+    ==
+  ====
+$$
+##>
