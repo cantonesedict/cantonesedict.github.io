@@ -299,6 +299,23 @@ $$
 $$
 W
   ====
+  - [[Page~165 (2)蹻]]
+    ==
+    - To raise the feet;
+    - caracoling of horses;
+    - to march;
+    - _(2)ki(u/) k(e/)uk(8)_
+        [[giu2 goek3]]
+        to cross the legs.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)嶠 _(2)Ki(u/)_ (giu2); here normalised to _Ki(u/)(6)_ (giu6)]]
     ==
     - A high peak, where no water remains;
