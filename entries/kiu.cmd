@@ -124,3 +124,33 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~166 (4)翹]]
+    ==
+    - Long tail feathers;
+    - a kind of alarm flag;
+    - high, elevated;
+    - to raise the head, to look;
+    - to elevate, to excite;
+    - to lift up the tail;
+    - dangerous, imminent;
+    - suspended;
+    - distant;
+    - _(4)k(')i(u/) (2)shau_
+        [[kiu4 sau2]],
+        to raise the head;
+    - _(4)k(')i(u/) (4)k(')i(u/)_
+        [[kiu4 kiu4]],
+        high, as trees;
+        in danger, as a house of falling;
+    - _ts(')ui(3) (4)k(')i(u/)_
+        [[ceoi3 kiu4]],
+        a kind of feather coiffure.
+    ==
+  ====
+$$
+##>
