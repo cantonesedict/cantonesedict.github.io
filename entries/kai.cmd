@@ -82,6 +82,9 @@ $$
 
 <##
 $$
+H
+  May appear with top-left component as 戶 (assumed here), 户, or 戸,
+  depending on the font.
 W
   ====
   - [[Page~120 (2)啓; here normalised to 啟]]
@@ -130,6 +133,9 @@ $$
 
 <##
 $$
+H
+  May appear with top-left component as 戶 (assumed here), 户, or 戸,
+  depending on the font.
 W
   ====
   - [[Page~120 (2)棨]]
@@ -145,6 +151,9 @@ $$
 
 <##
 $$
+H
+  May appear with top-left component as 戶 (assumed here), 户, or 戸,
+  depending on the font.
 W
   ====
   - [[Page~120 (2)綮]]

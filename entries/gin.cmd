@@ -79,6 +79,9 @@ $$
 
 <##
 $$
+H
+  May appear with upper component as 戶 (assumed here), 户, or 戸,
+  depending on the font.
 W
   ====
   - [[Page~156 (1)肩]]
