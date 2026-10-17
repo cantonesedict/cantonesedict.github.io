@@ -440,6 +440,16 @@ W
         [[baat3 giu6-2]],
         a sedan for eight bearers.
     ==
+  - [[Page~719 (5)轎]]
+    ==
+    - This character [[轎]] is properly read _ki(u/)(6)_ [[giu6]]
+      though also pronounced _(2)ki(u/)_ [[giu6-2]].
+    ==
   ====
+S
+  ==
+  - ($轎giu2) (TODO)
+  - ($轎kiu2) (TODO)
+  ==
 $$
 ##>
