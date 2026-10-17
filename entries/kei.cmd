@@ -513,6 +513,9 @@ $$
 
 <##
 $$
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 W
   ====
   - [[Page~152 (4)祇]]
@@ -562,6 +565,9 @@ $$
 
 <##
 $$
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 W
   ====
   - [[Page~152 (4)祈]]
@@ -584,6 +590,9 @@ $$
 
 <##
 $$
+H
+  May appear with radical component 示 or 礻 (assumed here),
+  depending on the font.
 W
   ====
   - [[Page~151 (4)祺]]
