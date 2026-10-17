@@ -123,6 +123,24 @@ $$
 $$
 W
   ====
+  - [[Page~168 (1)餻]]
+    ==
+    - Interchanged with the last [[糕]];
+    - pastry;
+    - steamed cakes;
+    - a bit, a tidbit;
+    - _(1)k(o\) (2)fan_
+        [[gou1 fan2]],
+        rice flour.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)高]]
     ==
     - High, lofty, elevated;
