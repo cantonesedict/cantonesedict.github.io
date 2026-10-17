@@ -39,6 +39,21 @@ $$
 $$
 W
   ====
+  - [[Page~168 (1)櫜]]
+    ==
+    - A case or sack for a bow, or armor, attached to a car;
+    - _(1)k(o\) k(i/)n(6)_
+        [[gou1 gin6]]
+        a quiver for bow and arrows.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (1)臯(1){？=⿱自夲}; here normalised to 皋]]
     ==
     - To inform, to call to or announce;
