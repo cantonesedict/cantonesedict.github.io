@@ -197,6 +197,21 @@ $$
 $$
 W
   ====
+  - [[Page~165 (2)皦]]
+    ==
+    - White, lustrous, refulgent, like a bright gem, such as an opal;
+    - _(5)yau (4)(u:) (2)ki(u/) yat(9)_
+        [[jau5 jyu4 giu2 jat6]]
+        bright as the sun.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~165 (2)矯]]
     ==
     - Straight;
