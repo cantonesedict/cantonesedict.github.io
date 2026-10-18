@@ -487,6 +487,25 @@ $$
 $$
 W
   ====
+  - [[Page~168 (2)皜 _(2)K(o\)_ (gou2); here normalised to _H(o\)(6)_ (hou6)]]
+    ==
+    - White;
+    - gray and lustrous;
+    - _~~(2)k(o\) (2)k(o\)~~ ``h(o\)(6) h(o\)(6)``_
+        [[hou6 hou6]],
+        very white.
+    ==
+    --
+    ~~Also read _k(o\)(6)_ [[gou6]].~~
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~89 號(6)号(6)]]
     ==
     - Mark, designation, denomination;
