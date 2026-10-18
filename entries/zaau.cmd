@@ -822,7 +822,7 @@ R
 U
   U+9A5F
 H
-  May appear with 聚 as ⿱取乑 or ⿱取⿸⿹亻人人 (assumed here),
+  May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here),
   depending on the font.
 A
   ==

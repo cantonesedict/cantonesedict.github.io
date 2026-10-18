@@ -88,9 +88,6 @@ $$
 
 <##
 $$
-H
-  May appear as either ⿰火⿱西土 (assumed here) or ⿰火⿱覀土,
-  depending on the font.
 W
   ====
   - [[Page~110 (1)煙(1)烟]]
