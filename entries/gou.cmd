@@ -319,6 +319,25 @@ $$
 $$
 W
   ====
+  - [[Page~169 (2)縞]]
+    ==
+    - Plain, white and fine silk;
+    - unornamented, simple, plain;
+    - _(2)k(o\) (1)(i/)_
+        [[gou2 ji1]],
+        plain garments;
+    - _(2)k(o\) s(u/)(3)_
+        [[gou2 sou3]]
+        unadorned, of one color.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~169 (2)藁]]
     ==
     - Interchanged with 槁 & 稿;
