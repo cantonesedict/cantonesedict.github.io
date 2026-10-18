@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-10-07
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -589,6 +589,7 @@ $$
 ### 睛1 | _(1)Tsing_ [[zing1]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⽬ + 8
 U
@@ -631,6 +632,7 @@ $$
 ### 禎1 | _(1)Ching_ [[zing1]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 9
 U
@@ -669,6 +671,7 @@ $$
 ### 精1 | _(1)Tsing_ [[zing1]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⽶ + 8
 U
@@ -779,6 +782,7 @@ $$
 ### 菁1 | _(1)Tsing_ [[zing1]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾋ + 8
 U
@@ -912,6 +916,7 @@ $$
 ### 蜻1 | _(1)Tsing_ [[zing1]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾍ + 8
 U
@@ -1267,10 +1272,14 @@ $$
 ### 政3 | _Ching(3)_ [[zing3]]
 
 $$
+  <# vigilance: [正] #>
 R
   ⽁ + 5
 U
   U+653F
+H
+  May appear with 正 having 4~strokes (+4) or 5~strokes (+5 assumed here),
+  depending on the font.
 A
   ==
   - $正3
@@ -1882,6 +1891,7 @@ $$
 ### 靖6 | _Tsing(6)_ [[zing6]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾭ + 5
   ⽴ + 8
@@ -1933,6 +1943,7 @@ $$
 ### 靚6 | _Tsing(6)_ [[zing6]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾭ + 7
   ⾒ + 8
@@ -1977,6 +1988,7 @@ $$
 ### 靜6 | _Tsing(6)_ [[zing6]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾭ + 8
 U

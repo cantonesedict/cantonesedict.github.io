@@ -146,6 +146,7 @@ $$
 ###+ 嚼3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⼝ + 17
 U
@@ -341,6 +342,7 @@ $$
 ###+ 櫡3 | _Ch(e/)uk(8)_ [[zoek3]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⽊ + 14
 U
@@ -393,6 +395,7 @@ $$
 ###+ 爝3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⽕ + 17
 U
@@ -447,6 +450,7 @@ $$
 ### 爵3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⽖ + 13
 U
@@ -502,6 +506,7 @@ $$
 ###+ 皭3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⽩ + 17
 U
@@ -618,12 +623,13 @@ $$
 ### 禚3 | _Ch(e/)uk(8)_ [[zoek3]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 10
 U
   U+799A
 H
-  May appear with radical component 示 or 礻 (assumed here),
+  May appear with left component 示 or 礻 (assumed here),
   depending on the font.
 F
   ==
@@ -666,6 +672,7 @@ $$
 ### 著3 | _Ch(e/)uk(8)_ [[zoek3]]
 
 $$.
+  <# vigilance: [者] #>
 R
   ⾋ + 8
 U
@@ -936,6 +943,7 @@ $$
 ### 嚼6 | _Ts(e/)uk(9)_ [[zoek6]]
 
 $$.
+  <# vigilance: [𩙿飠] #>
 R
   ⼝ + 17
 U
@@ -964,6 +972,7 @@ $$
 ### 爝6 | _Ts(e/)uk(9)_ [[zoek6]]
 
 $$.
+  <# vigilance: [𩙿飠] #>
 R
   ⽕ + 17
 U
@@ -991,6 +1000,7 @@ $$
 ### 皭6 | _Ts(e/)uk(9)_ [[zoek6]]
 
 $$.
+  <# vigilance: [𩙿飠] #>
 R
   ⽩ + 17
 U
@@ -1156,6 +1166,7 @@ $$
 ### 著6 | _Ch(e/)uk(9)_ [[zoek6]]
 
 $$.
+  <# vigilance: [者] #>
 R
   ⾋ + 8
 U
