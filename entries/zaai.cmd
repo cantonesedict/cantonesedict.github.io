@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -489,10 +489,14 @@ $$
 ###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽬ + 6
 U
   U+7725
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - 眦
@@ -518,10 +522,14 @@ $$
 ### 砦6 | _Ch(a/)i(6)_ [[zaai6]]
 
 $$.
+  <# vigilance: [止] #>
 R
-  ⽯ + 5
+  ⽯ + 6
 U
   U+7826
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.29 寨) 木檽爲之蜜口營壘也
