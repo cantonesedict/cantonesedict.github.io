@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -711,6 +711,7 @@ $$
 ### 滋1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⽔ + 9
 U
@@ -899,6 +900,7 @@ $$
 ###+ 祗1 | _(1)Ch(i/)_ [[zi1]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -1391,6 +1393,7 @@ $$
 ### 螆1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⾍ + 9
 U
@@ -1466,10 +1469,14 @@ $$
 ### 觜1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾓ + 6
 U
   U+89DC
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.34 觜) 宿名
@@ -1495,10 +1502,14 @@ $$
 ###+ 訾1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3E
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -1559,10 +1570,14 @@ $$
 ### 貲1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾙ + 6
 U
   U+8CB2
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - $訾1
@@ -1822,6 +1837,7 @@ $$
 ### 鎡1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⾦ + 9
 U
@@ -1864,10 +1880,14 @@ $$
 ### 髭1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾽ + 6
 U
   U+9AED
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - 頾
@@ -2157,10 +2177,14 @@ $$
 ### 呰2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⼝ + 6
 U
   U+5470
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.35 呰) ::呰短窳[弱]言短力弱才不能動作也::
@@ -2988,10 +3012,14 @@ $$
 ###+ 泚2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽔ + 6
 U
   U+6CDA
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -3056,6 +3084,7 @@ $$
 ### 祇2 | _(2)Ch(i/)_ [[zi2]]
 
 $$.
+  <# vigilance: [示礻] #>
 R
   ⽰ + 4
 U
@@ -3085,6 +3114,7 @@ $$
 ### 祉2 | _(2)Ch(i/)_ [[zi2]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 4
 U
@@ -3125,6 +3155,7 @@ $$
 ### 祗2 | _(2)Ch(i/)_ [[zi2]]
 
 $$.
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -3326,10 +3357,14 @@ $$
 ### 紫2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽷ + 6
 U
   U+7D2B
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.35 紫) 黑赤間色也
@@ -3479,10 +3514,14 @@ $$
 ###+ 訾2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3E
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - $呰2 (for "slander" sense)
@@ -3537,10 +3576,14 @@ $$
 ###+ 訿2 | _(2)Tsz'_ [[zi2]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3F
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.35 訿 _(2)Ts(')z'_ (ci2)) 相詆也詩翕翕訿訿
@@ -3556,6 +3599,7 @@ $$
 ### 趾2 | _(2)Ch(i/)_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 4
 U
@@ -3767,6 +3811,7 @@ $$
 ### 寘3 | _Ch(i/)(3)_ [[zi3]]
 
 $$.
+  <# vigilance: [眞真] #>
 R
   ⼧ + 10
 U
@@ -4038,6 +4083,7 @@ $$
 ###+ 植3 | _Ch(i/)(3)_ [[zi3]]
 
 $$.
+  <# vigilance: [直(値值)] #>
 R
   ⽊ + 8
 U
@@ -4200,10 +4246,14 @@ $$
 ### 緻3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
+  <# vigilance: [致] #>
 R
   ⽷ + 9
 U
   U+7DFB
+H
+  May appear with right component ⿰至夊 (+9 assumed here) or ⿰至攵 (+10),
+  depending on the font.
 A
   ==
   - $致3 (for "fine/delicate" senses)
@@ -4245,6 +4295,7 @@ $$
 ### 置3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
+  <# vigilance: [直(値值)] #>
 R
   ⽹ + 8
 U
@@ -4467,6 +4518,7 @@ $$
 ### 致3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
+  <# vigilance: [致] #>
 R
   ⾄ + 3
   ⼢ + 6
@@ -4825,6 +4877,7 @@ $$
 ### 躓3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 15
 U
@@ -5580,6 +5633,7 @@ $$
 ###+ 植6 | _Ch(i/)(6)_ [[zi6]]
 
 $$.
+  <# vigilance: [直(値值)] #>
 R
   ⽊ + 8
 U
@@ -5818,10 +5872,14 @@ $$
 ###+ 眥6 | _Tsz'(6)_ [[zi6]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽬ + 6
 U
   U+7725
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - 眦
@@ -5861,6 +5919,7 @@ $$
 ### 祀6 | _Tsz'(6)_ [[zi6]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 3
 U
@@ -6389,12 +6448,13 @@ $$
 ### 飤6 | _Tsz'(6)_ [[zi6]]
 
 $$.
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 2
 U
   U+98E4
 H
-  May appear with radical component 𩙿 or 飠 (assumed here),
+  May appear with left component 𩙿 or 飠 (assumed here),
   depending on the font.
 F
   [[Not present]]
@@ -6410,6 +6470,7 @@ $$
 ### 飼6 | _Tsz'(6)_ [[zi6]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 5
 U

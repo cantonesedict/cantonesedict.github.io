@@ -282,9 +282,6 @@ $$
 
 <##
 $$
-H
-  May appear with radical component 戶 (assumed here), 户, or 戸,
-  depending on the font.
 W
   ====
   - [[Page~105 (2)扆]]
@@ -777,9 +774,6 @@ $$
 
 <##
 $$
-H
-  May appear with radical component 戶 (assumed here), 户, or 戸,
-  depending on the font.
 W
   ====
   - [[Page~103 (4)扅]]

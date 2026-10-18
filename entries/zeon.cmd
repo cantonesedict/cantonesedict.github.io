@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,6 +134,7 @@ U
 H
   May appear with first stroke ㇐ (assumed here) or ㇒,
   depending on the font.
+  This extends to all characters containing 屯 as a component.
 A
   ==
   - $迍1 (for "difficult" sense)
@@ -1260,6 +1261,7 @@ $$
 ### 搢3 | _Tsun(3)_ [[zeon3]]
 
 $$
+  <# vigilance: [晉晋] #>
 R
   ⼿ + 10
 U
@@ -1472,6 +1474,7 @@ $$
 ### 瑨3 | _Tsun(3)_ [[zeon3]]
 
 $$
+  <# vigilance: [晉晋] #>
 R
   ⽟ + 10
 U
@@ -1612,6 +1615,7 @@ $$
 ### 縉3 | _Tsun(3)_ [[zeon3]]
 
 $$
+  <# vigilance: [晉晋] #>
 R
   ⽷ + 10
 U
@@ -1802,6 +1806,7 @@ $$
 ### 餕3 | _Tsun(3)_ [[zeon3]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 7
 U

@@ -92,7 +92,7 @@ $$
 <##
 $$
 H
-  May appear with interior of the top-middle component as
+  May appear with interior of top-middle component as
   ::⿱一コ :: (+8) or ⿱一口 (+9 assumed here),
   depending on the font.
 W
@@ -308,7 +308,7 @@ $$
 <##
 $$
 H
-  May appear with interior of the top-middle component as
+  May appear with interior of top-middle component as
   ::⿱一コ :: (+8) or ⿱一口 (+9 assumed here),
   depending on the font.
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-10-07
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -316,6 +316,7 @@ $$
 ### 祝1 | _Chuk(7)_ [[zuk1]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -1089,12 +1090,13 @@ $$
 ### 續6 | _Tsuk(9)_ [[zuk6]]
 
 $$
+  <# vigilance: [賣𧶠] #>
 R
   ⽷ + 15
 U
   U+7E8C
 H
-  May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠,
+  May appear as either ⿰糹賣 or ⿰糹𧶠 (assumed here),
   depending on the font.
 A
   ==
@@ -1213,12 +1215,13 @@ $$
 ### 藚6 | _Tsuk(9)_ [[zuk6]]
 
 $$
+  <# vigilance: [賣𧶠] #>
 R
   ⾋ + 15
 U
   U+85DA
 H
-  May appear as either ⿱艹賣 (assumed here) or ⿱艹𧶠,
+  May appear as either ⿱艹賣 or ⿱艹𧶠 (assumed here),
   depending on the font.
 F
   ==
@@ -1248,6 +1251,7 @@ $$
 ### 躅6 | _Chuk(9)_ [[zuk6]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 13
 U

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2026-08-01
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,10 +136,14 @@ $$
 ###+ 剎3 | _Ch(')(a/)t(8)_ [[caat3]]
 
 $$.
+  <# vigilance: [朮术] #>
 R
   ⼑ + 7
 U
   U+524E
+H
+  May appear with bottom-left component 朮 (assumed here) or 术,
+  depending on the font.
 F
   [[Not present]]
 W

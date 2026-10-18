@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -53,6 +53,7 @@ $$
 ###+ 餡2 | _(2)H(a/)m_ [[haam2]]
 
 $$.
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 8
 U
@@ -192,7 +193,7 @@ R
 U
   U+51FD
 H
-  May appear with central component as 丂 or 了 (assumed here),
+  May appear with central component 丂 or 了 (assumed here),
   depending on the font.
   This extends to all characters containing 函 as a component.
 A
@@ -338,6 +339,7 @@ $$
 ###+ 啣4 | _(4)H(a/)m_ [[haam4]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⼝ + 9
 U
@@ -825,6 +827,7 @@ $$
 ### 餡6 | _H(a/)m(6)_ [[haam6]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 8
 U

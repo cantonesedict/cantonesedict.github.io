@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -485,10 +485,14 @@ $$
 ### 觜1 | _(1)Tsui_ [[zeoi1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾓ + 6
 U
   U+89DC
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -811,10 +815,14 @@ $$
 ### 嘴2 | _(2)Tsui_ [[zeoi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⼝ + 13
 U
   U+5634
+H
+  May appear with 止 having 3~strokes (+12) or 4~strokes (+13 assumed here),
+  depending on the font.
 A
   ==
   - $咀2 (Cantonese)
@@ -962,10 +970,14 @@ $$
 ###+ 觜2 | _(2)Tsui_ [[zeoi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾓ + 6
 U
   U+89DC
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -1833,6 +1845,7 @@ $$
 ### 聚6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$
+  <# vigilance: [聚] #>
 R
   ⽿ + 8
 U

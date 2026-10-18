@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1389,6 +1389,7 @@ $$
 ### 餴1 | _(1)Fan_ [[fan1]]
 
 $$.
+  <# vigilance: [卉𠦄][𩙿飠] #>
 R
   ⾷ + 8
 U
@@ -1413,13 +1414,14 @@ $$
 ###+ 饙1 | _(1)Fan_ [[fan1]]
 
 $$
+  <# vigilance: [賁][𩙿飠] #>
 R
   ⾷ + 12
 U
   U+9959
 H
   May appear with radical component 𩙿 or 飠 (assumed here),
-  and with 艹 having 3~strokes (+12 assumed here) or 4~strokes (+13),
+  and with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
 A
   ==
@@ -1826,6 +1828,7 @@ $$
 ### 墳4 | _(4)Fan_ [[fan4]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⼟ + 12
 U
@@ -1893,6 +1896,7 @@ $$
 ### 幩4 | _(4)Fan_ [[fan4]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⼱ + 12
 U
@@ -2054,6 +2058,7 @@ $$
 ### 濆4 | _(4)Fan_ [[fan4]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⽔ + 12
 U
@@ -2157,6 +2162,7 @@ $$
 ### 蕡4 | _(4)Fan_ [[fan4]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⾋ + 12
 U
@@ -2215,6 +2221,7 @@ $$
 ###+ 賁4 | _(4)Fan_ [[fan4]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⾙ + 5
 U
@@ -2294,6 +2301,7 @@ $$
 ### 僨5 | _(5)Fan_ [[fan5]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⼈ + 12
 U
@@ -2350,6 +2358,7 @@ $$
 ###+ 墳5 | _(5)Fan_ [[fan5]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⼟ + 12
 U
@@ -2513,10 +2522,14 @@ $$
 ### 憤5 | _(5)Fan_ [[fan5]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⼼ + 12
 U
   U+61A4
+H
+  May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
+  depending on the font.
 A
   ==
   - $忿5 (for "anger" sense)
@@ -2609,6 +2622,7 @@ $$
 ### 賁5 | _(5)Fan_ [[fan5]]
 
 $$
+  <# vigilance: [賁] #>
 R
   ⾙ + 5
 U

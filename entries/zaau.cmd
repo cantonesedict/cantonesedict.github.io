@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2026-08-12
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -459,10 +459,14 @@ $$
 ###+ 蚤2 | _(2)Ch(a/)u_ [[zaau2]]
 
 $$
+  <# vigilance: [叉㕚] #>
 R
   ⾍ + 4
 U
   U+86A4
+H
+  May appear as either ⿱叉虫 (+3) or ⿱㕚虫 (+4 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -666,6 +670,7 @@ $$
 ### 踔3 | _Ch(a/)u(3)_ [[zaau3]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 8
 U
@@ -811,10 +816,14 @@ $$
 ###+ 驟6 | _Ch(a/)u(6)_ [[zaau6]]
 
 $$
+  <# vigilance: [聚] #>
 R
   ⾺ + 14
 U
   U+9A5F
+H
+  May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here),
+  depending on the font.
 A
   ==
   - 騶

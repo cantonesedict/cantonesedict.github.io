@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1208,6 +1208,7 @@ $$
 ### 趺1 | _(1)F(u/)_ [[fu1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 4
 U
@@ -1241,6 +1242,7 @@ $$
 ###+ 跗1 | _(1)F(u/)_ [[fu1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 5
 U
@@ -2637,9 +2639,6 @@ R
   ⽃ + 4
 U
   U+623D
-H
-  May appear with phonetic component as 戶 (assumed here), 户, or 戸,
-  depending on the font.
 V
   ==
   - fu2 (alternative per 《廣韻》呼古切 for noun sense)
@@ -2764,10 +2763,14 @@ $$
 ### 賦3 | _F(u/)(3)_ [[fu3]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾙ + 8
 U
   U+8CE6
+H
+  May appear with 止 having 3~strokes (+7) or 4~strokes (+8 assumed here),
+  depending on the font.
 A
   ==
   - 䝾
@@ -3792,6 +3795,7 @@ $$
 ### 祔6 | _F(u/)(6)_ [[fu6]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -3937,6 +3941,7 @@ U
 H
   May appear as either ⿱⺈貝 (assumed here) or ⿱刀貝,
   depending on the font.
+  This extends to all characters containing 負 as a component.
 A
   ==
   - 负 (Mainland simplified)
@@ -4096,6 +4101,7 @@ $$
 ### 跗6 | _F(u/)(6)_ [[fu6]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾜ + 5
 U

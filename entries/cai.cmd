@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -758,10 +758,14 @@ $$
 ### 泚5 | _(5)Ts(')ai_ [[cai5]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⽔ + 6
 U
   U+6CDA
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F1.31 泚) 汗出貌
@@ -816,10 +820,14 @@ $$
 ### 鮆5 | _(5)Ts(')ai_ [[cai5]]
 
 $$.
+  <# vigilance: [止] #>
 R
-  ⿂ + 5
+  ⿂ + 6
 U
   U+9B86
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W

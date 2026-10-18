@@ -572,9 +572,6 @@ $$
 
 <##
 $$
-H
-  May appear with radical component 戶 (assumed here), 户, or 戸,
-  depending on the font.
 W
   ====
   - [[Page~109 (5)扊]]

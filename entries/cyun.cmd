@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -565,6 +565,7 @@ $$
 ###+ 踳2 | _(2)Ch(')(u:)n_ [[cyun2]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾜ + 9
 U
@@ -587,6 +588,7 @@ $$
 ###+ 踹2 | _(2)Ch(')(u:)n_ [[cyun2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 9
 U
@@ -841,12 +843,13 @@ $$
 ###+ 爨3 | _Ts(')(u:)n(3)_ [[cyun3]]
 
 $$
+  <# vigilance: [釁] #>
 R
   ⽕ + 25
 U
   U+7228
 H
-  May appear with interior of the top-middle component as
+  May appear with interior of top-middle component as
   ⿱一丅 (+25 assumed here), ::⿱一コ:: (+25), or ⿱一口 (+26),
   depending on the font.
 A
@@ -1524,6 +1527,7 @@ $$
 ### 跧4 | _(4)Ts(')(u:)n_ [[cyun4]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 6
 U
@@ -1558,6 +1562,7 @@ $$
 ### 蹲4 | _(4)Ts(')(u:)n_ [[cyun4]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 12
 U

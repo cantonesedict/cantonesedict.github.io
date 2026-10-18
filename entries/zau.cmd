@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,8 +122,9 @@ R
 U
   U+5468
 H
-  May appear with the central vertical stroke not poking through (assumed here)
+  May appear with central vertical stroke not poking through (assumed here)
   or poking through and touching the component 口.
+  This extends to all characters containing 周 as a component.
 A
   ==
   - $週1
@@ -1007,10 +1008,14 @@ $$
 ### 鄹1 | _(1)Tsau_ [[zau1]]
 
 $$.
+  <# vigilance: [聚] #>
 R
   ⾢ + 14
 U
   U+9139
+H
+  May appear as either ⿰⿱取乑阝 or ⿰⿱取⿸⿹亻人人阝 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.50 鄹) 孔子故鄕
@@ -1943,6 +1948,7 @@ $$
 ###+ 祝3 | _Chau(3)_ [[zau3]]
 
 $$.
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -2530,10 +2536,14 @@ $$
 ### 驟6 | _Tsau(6)_ [[zau6]]
 
 $$.
+  <# vigilance: [聚] #>
 R
   ⾺ + 14
 U
   U+9A5F
+H
+  May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.55 驟 _Chau(6)_ (zau6)) 馳驟又疾速也

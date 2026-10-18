@@ -331,9 +331,8 @@ $$
 <##
 $$
 H
-  May appear as either ⿱⿺夂人口 (assumed here) or ⿱处口,
+  May appear as either ⿱⿺夂人口 (assumed here) or ⿱⿺夂卜口,
   depending on the font.
-  This extends to all characters containing 咎 as a component.
 W
   ====
   - [[Page~139 咎(3)]]

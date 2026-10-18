@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-10-15
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -365,6 +365,7 @@ $$
 ###+ 菁1 | _(1)Ts(')ing_ [[cing1]]
 
 $$.
+  <# vigilance: [靑青] #>
 R
   ⾋ + 8
 U
@@ -389,6 +390,7 @@ $$
 ###+ 蜻1 | _(1)Ts(')ing_ [[cing1]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾍ + 8
 U
@@ -760,6 +762,7 @@ $$
 ### 請2 | _(2)Ts(')ing_ [[cing2]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⾔ + 8
 U
@@ -1129,8 +1132,9 @@ R
 U
   U+5448
 H
-  May appear as ⿱口𡈼 (assumed here) or ⿱口王,
+  May appear as either ⿱口𡈼 (assumed here) or ⿱口王,
   depending on the font.
+  This extends to all characters containing 呈 as a component.
   The two forms are actually separate characters in Kangxi
   (p.179#2 and p.181#17 respectively).
   The definitions here pertain to the first (⿱口𡈼).
@@ -1241,6 +1245,7 @@ $$
 ### 情4 | _(4)Ts(')ing_ [[cing4]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⼼ + 8
 U
@@ -1377,6 +1382,7 @@ $$
 ### 晴4 | _(4)Ts(')ing_ [[cing4]]
 
 $$
+  <# vigilance: [靑青] #>
 R
   ⽇ + 8
 U

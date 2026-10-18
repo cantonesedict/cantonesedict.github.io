@@ -810,6 +810,81 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yun": ['jeon'],
     "yung": ['jung'],
 }
+CHARACTERS_FROM_VIGILANCE = {
+    '[㔾巳]': '僊凞櫏熈褼蹮躚遷韆㟟䉦䙴',
+    '[㡭]': '斷檵籪繼㡭䜝䠪',
+    '[㬰臾]': '㳛',
+    '[䍃(謠謡)]': '傜嗂媱徭愮暚榣櫾熎猺磘窰繇蘨鎐颻鰩鷂㒡㘥䁘䌊䍃䔄䠛䬙',
+    '[丟丢]': '銩𠲍',
+    '[义叉]': '紁芆㳗',
+    '[争爭]': '埩婙棦瀞琤碀竫諍踭錚鬇鿇㬹䋫䍵䦛䱢𠲜𢛵𧶄',
+    '[俞兪]': '匬堬崳愈愉揄歈毹毺渝瀭牏瑜瘉癒睮窬緰羭腧萮蕍蝓褕覦諭貐踰輸逾鄃鍮隃騟㓱㡏㢏㺄㼶䃋䄖䕆䜽䠼䤅䩱䬔䵉',
+    '[兌兑]': '侻哾娧帨痥祱綐莌裞駾鮵㙂㟋䂱䓲䫄䬇䬈䬽',
+    '[兖兗]': '萒',
+    '[兹茲]': '嗞嬨嵫慈滋濨甆礠禌稵糍螆鎡鰦鶿鷀㘂㽧䈘䗹',
+    '[冊册]': '珊笧粣跚銏䈀',
+    '[別别]': '哵捌莂㭭䇷',
+    '[勻匀]': '伨呁均憌抣昀枃汮畇盷笉筠荺蚐袀赹鈞鋆韵㚬䏛䝧𧥺',
+    '[卉𠦄]': '倴喯奔捹枿泋渀莾蠎逩錛餴䯵𠱥',
+    '[卧臥]': '䖙䭆',
+    '[即卽]': '卿堲幯揤擳楖櫛瀄癤節莭蝍蠞鯽㑡㘉㦢㸅䐚䗻䲙䳭',
+    '[叉㕚]': '慅搔溞瑵瘙糔蚤颾騷鰠鼜㮻㲧䁊',
+    '[吿告]': '俈勂哠喾嚳峼悎慥捁晧梏浩澔焅牿皓硞祰窖筶簉糙聕艁誥诰造郜酷鋯锆靠頶鯌鵠鹄㬶㵆㸆䎋䎭䒃䔏䗢䚛䧊䧼䯻䶜',
+    '[咎]': '倃偺厬咎喒揝昝晷櫜糌綹鯦麔鼛㰶㹾䓘䛮',
+    '[囪囱]': '傯幒悤憁摠樬漗熜牕璁窗窻總聰蔥蟌謥鏓驄䉥䡯',
+    '[夐敻]': '瓊矎藑觼讂',
+    '[奥奧]': '噢墺嶴懊擙澳燠礇薁襖鐭隩鿫㜩㠗䉛䐿䜒䴈',
+    '[尓尔]': '寳弥珎称覙迩靌鿟㟜㳽䟢',
+    '[屏屛]': '偋塀幈摒竮𣖕',
+    '[并幷]': '偋剏剙垪塀姘幈庰恲拼摒栟洴渆皏硑竮絣缾聠艵荓蓱蛢誁賆跰郱鉼頩骿鮩鵧㔙㤣㻂䈂䑫䔊䦕䴵𣖕',
+    '[开幵]': '侀咞型岍形揅枅汧硎茾荆荊蚈趼鉶鐦開雃鳽㕃㣜㭢㰢㼛䀘䄯䊙䍾䓑䗗䙹䢎䤯䵤',
+    '[強强]': '勥嵹摾漒犟糨膙蔃襁謽鏹䃨䥒',
+    '[彔录]': '娽椂氯琭盝睩碌箓簶籙粶菉觮趢逯邍醁騄鵦龣㖨㟤㪖㫽㯟㰘䃗䎑䎼䐂䘵䚄䟿䩮䰁䱚䴪',
+    '[彥彦]': '偐喭嵃楌諺遃齴㘖',
+    '[戯戱]': '㩬',
+    '[敎教]': '嘋漖䃝',
+    '[既旣]': '厩嘅廐慨摡槩櫭穊蔇鱀䀈䇒䊠䐴',
+    '[昷𥁕]': '嗢塭殟瑥瘟蝹褞豱鎾鞰韞饂馧㬈㼔䯠',
+    '[晉晋]': '搢榗溍瑨縉鄑㬐',
+    '[朮术]': '剎弒怵樧沭炢秫絉蒁術訹述鉥鶐㺷㾁䘤䟣䢤',
+    '[朵朶]': '刴垜媣尮挅朶杂染桗蒅趓跥躱雑㛆䑮䒳',
+    '[林𣏟]': '劘嘛嚒嚤嚰塺嫲嬤嬷孊懡戂摩擵攠檾潸灖爢犘磨礳穈糜縻耱菻蔴藦蘑蘼醾醿釄靡饝髍魔麻麼麽麾麿黀黁黂㠧㦄㪔㸏䃺䊳䌕䕷䗫䜆䩋䭧䭩䯢䲈䳸䵇䵈䵉',
+    '[止]': '些佌倵偨卸呰呲唌啙啣喍嘴埏夒夔姕娫娬巋巎巙庛延御挻斌柴梴橴欫此武歧歫歱歵歶歸泚涎潞烻犪狿獿玼珷璐疎疏疵皉眥眦砦硟碔祡禦筵篽簬籞紪紫綖胔脠茈莚蓹蔬蕗蘌蘬蘷虁虂虣蜑蜒蟕衘觜訾訿誕诞貲賦贇赀赋赟趴趵趶趷趹趺趻趼趽趾趿跀跁跂跃跄跅跆跇跈跉跊跋跌跍跎跏跐跑跒跓跔跕跖跗跘跙跚跛跜距跞跟跠跡跢跣跤跥跦跧跨跩跪跬跭跮路跰跱跲跳跴践跶跷跸跹跺跻跼跽跿踀踁踂踃踄踆踇踈踉踊踋踌踍踎踏踐踑踒踓踔踕踖踗踘踙踚踛踜踝踞踟踠踡踢踣踤踥踦踧踨踩踪踫踬踭踮踯踰踱踲踳踴踵踶踷踸踹踺踻踼踽踾踿蹀蹁蹂蹃蹄蹅蹆蹈蹉蹊蹋蹌蹍蹎蹏蹐蹑蹒蹓蹕蹖蹗蹘蹚蹛蹜蹝蹞蹟蹠蹡蹢蹣蹤蹥蹦蹧蹨蹪蹫蹬蹭蹮蹯蹰蹱蹲蹳蹴蹶蹸蹹蹺蹻蹼蹽蹾蹿躀躁躂躃躅躆躇躈躊躋躌躍躎躏躐躑躒躓躔躕躖躘躙躚躜躝躞躟躡躢躣躤躥躦躧躨躩躪郔鈭鋋錻鏴陚雌露頉頙頾頿飺駳骴髭鮆鯅鴜鵡鷺鹉鹭齜龇㒪㖢㗪㘹㝚㠿㡪㢟㧗㧘㫮㭰㯝㰣㱐㱓㱔㱕㱖㱗㹛㾚㾹䀽䂑䂣䓱䔝䔫䕫䕽䖪䗺䘣䘰䝾䟓䟔䟕䟖䟗䟘䟙䟚䟛䟜䟝䟞䟠䟡䟢䟣䟤䟥䟦䟧䟨䟩䟪䟬䟭䟮䟯䟰䟱䟲䟴䟵䟶䟷䟸䟹䟺䟻䟼䟽䟾䟿䠀䠁䠃䠄䠅䠆䠇䠈䠉䠊䠋䠌䠍䠎䠏䠐䠑䠒䠓䠔䠕䠖䠗䠘䠙䠚䠛䠜䠝䠞䠡䠣䠤䠥䠦䠧䠨䠩䠪䠫䠬䠭䠮䠯䠰䠱䣃䥏䧳䩥䳄𡀔𡖂𤴔𦈢𧾷𧿹𨀣𨀤𨁈𨂐𨂽𨂾𨃩𨅏𨅝𨆯𨈇𨭉𫄧𫚖',
+    '[正]': '堽政晸竀鎠靕鴊㓻䈣䌉',
+    '[毀毁]': '檓毀毁燬譭㩓䥣',
+    '[毋母]': '毒瑇碡纛蝳䓯',
+    '[沒没]': '沒沟没湚莈㻳',
+    '[為爲]': '儰噅噕寪撝爳蘤蟡譌鄬㬙㺔䃣䈧䞈䦱䧦𠼮',
+    '[產産]': '剷嵼摌滻簅薩虄鏟隡㦃㯆㹌䊲䐮',
+    '[甾𱰭(菑葘)]': '㿳',
+    '[直(値值)]': '嗭埴徝憄植殖淔犆直禃稙置㥀㨁㯰䐈',
+    '[眞真]': '傎厧嗔嫃寘嵮搷攧滇瑱瘨癲瞋磌禛稹窴縝蒖衠謓蹎闐鬒黰齻㐤㣀㥲㰜䈯䐜䡩',
+    '[示礻]': '榊礼礽社礿祀祁祂祄祅祆祇祈祉祊祋祌祍祏祐祑祒祓祔祕祖祗祘祙祚祛祜祝神祠祢祣祤祥祦祧祩祪祫祬祮祰祱祲祳祴祵祶祹祺祻祼祽祾祿禂禃禆禇禈禉禊禋禌禍禎福禐禑禒禓禔禕禖禗禘禙禚禛禝禞禟禠禡禢禣禤禥禧禨禩禪禫禬禭禮禯禰禱禲禳禴禵禶禷簶視鎺鰰鿅鿆㬕䀅䃼䃽䃾䃿䄀䄁䄂䄃䄄䄆䄇䄈䄉䄊䄋䄌䄍䄎䄏䄑䄒䄓䄔䄕䄖䄗䄘䄙䄚䄛䄜䄝䄞䄠䄡䄢䄣䄤䄥䔃䔗䕐䗝䨩䴪𡁜𡅏',
+    '[禿秃]': '瀩痜穨蘈鋵鵚㿗䛢',  # not 亃僯剓噒嚟嫾嶙憐撛斴暽棃橉毇潾瀔熪燐犂獜璘瓈甐疄睝瞵磷禿秃秖秪移稠稳穀穐穞穭簃籶粅粦粷粼糌糓繗翷膦菞蔾藜蘒蘓褎謻蹸轔辚遴邌鄰錅鏻鑗隣頹頽颓驎鯬鱗鳞鵹麟黎黧鿚㔂㠟㥎㰀䄪䄴䅂䅓䅳䆇䉫䉻䊃䊅䊍䔟䖿䗲䚏䚬䫰䴻𬭸𬴊
+    '[羡羨]': '檨㵪䢭',
+    '[者]': '乽偖儲啫嘟堵墸奢奲媎屠帾廜撦擆斱暏暑曙楮橥櫡櫧櫫殾渚潳潴濐濖瀦煑煮猪琽瘏睹禇箸糬署翥者著蕏薯藷藸蝫蠩蠴褚覩觰諸譇豬賭赭踷躇都醏鍺鐯闍陼鯺鱪鱰鷵龧㒂㗯㥩㦋㨋㵔㵭㶆㸙䃴䊰䎞䐗䘄䠧䡤䣝䬡䰇䰞䰩䵭',
+    '[聚]': '聚藂鄹驟㔌㵵䝒䠫',
+    '[致]': '緻致㨖㮹㴛䞃䦯',
+    '[臼𦥑]': '傁叟嗖嫂庾廋惥搜斔斞楰溲獀瘐瘦瞍腴膄臾艘萸蓃螋裒諛謏遚鄋醙鎪閰颼餿騪㔱㟬㥚㥰㪢㮴㲣㳫㵻䏂䕅䝿䢅䱸䳔䶾',
+    '[舃舄]': '獡磶',
+    '[興]': '嬹臖興䕟',
+    '[良(郎郞)]': '剆勆啷塱嫏廊朗榔樃欴瑯蓈蓢螂郒鎯鿥鿾㓪㙟㮾㾿䱶𢲲',
+    '[色(絶絕)]': '撧栬濪灔灧脃色艴艵艶艷蕝赩銫靘㔃㔢䒊䒋䒌䒍䒎䒏䒐䵥𠾼',
+    '[衛衞]': '㦣',
+    '[衮袞]': '磙㙥㨰䙛䜇',
+    '[象𧰼]': '像勨嶑橡櫲潒蟓襐豫鐌鱌䂊䴂',
+    '[賁]': '僨噴墳幩憤橨歕濆燌獖羵翸膹蕡蟦豶賁轒鐼隫饙馩鱝黂㱵㿎䒈䩿䴅',
+    '[賣𧶠]': '儥凟匵嬻櫝殰瀆牘犢瓄皾竇續藚襩覿讀讟豄贕贖鑟韇韥黷䄣䢱𡂝',
+    '[郷鄉鄕]': '嚮曏膷薌蠁響饗鱜㗽䦳',
+    '[隙𨻶]': '隙𡁸',
+    '[釁]': '亹斖爂爨璺舋虋釁㸑',
+    '[靑青]': '倩儬凊啨圊埥婧寈崝情掅晴棈氰濪瀞猜皘睛碃箐篟精綪聙腈菁蒨蔳蜻請輤郬錆靔靕靖靗靘靚靛靜靝鯖鶄鼱㵾䑶䝼䨝䨼𡃁',
+    '[麼麽]': '嚒懡',
+    '[黃黄]': '僙儣兤嚝墴壙嫹廣彉彍懬懭撗擴斢曂曠櫎潢瀇熿爌獚獷璜癀矌磺礦穔穬簧纊蘣蘳蟥觵趪鄺鐄鑛鱑鷬黅黆黇黈黊黋黌㣴㶂㶇㼅䊣䊯䌙䐵䤑䪄䬝䮲䵃䵊䵋䵌䵍䵎䵏䵐',
+    '[𠫓]': '俼充勶唷堉巰弃徹撤旈旒梳棄棛橀毓流淯澈焴珫琉瑬疏瞮硫統育艈茺蓅蔬蘛蜟裗轍逳酼醯銃鋶錥鎏鯍麍㐬㓍㛩㣃㤝㥔㧤㧧㬚㯙㲙㳘㳰㳿㵁㻙䋭䒆䖻䘪䘻䟲䟽𠫓𠾍',
+    '[𦣝𦣞(煕熙)]': '姬媐宧巸弬洍茝賾頤㺇㺿㼢䇫䱌',
+    '[𩙿飠]': '嚼欎欝灂爝爵皭穱籂蝕釂飢飣飤飥飦飩飪飫飭飯飰飳飴飵飶飷飹飻飼飽飾飿餀餁餂餃餄餅餆餇餉餌餎餏餑餒餓餔餕餖餗餘餙餚餛餜餝餞餟餠餡餢餣餤餦餧館餩餪餫餬餭餯餰餱餲餳餴餵餶餷餸餹餺餻餼餽餾餿饀饁饂饃饄饅饆饇饈饉饊饋饌饍饎饐饑饒饓饖饘饙饚饛饝饞饟饠饡饢㔲㔳㠨㩱㬭䂃䬢䬣䬦䬧䬨䬪䬫䬬䬮䬯䬰䬱䬲䬳䬴䬵䬶䬷䬹䬺䬻䬼䬽䬾䬿䭀䭂䭃䭄䭅䭇䭈䭉䭊䭋䭍䭎䭏䭐䭑䭒䭓䭔䭖䭗䭘䭙䭚䭛䭜䭝䭞䭟䭠䭡䭢䭣䭤䭥䭦䭧䭨䭩䶿𩜠𩟔',
+}
 
 COMMENTS_NECESSITY = '<#'
 SCRIPTS_NECESSITY = '<script>'
@@ -967,6 +1042,7 @@ CHARACTER_ENTRY_PATTERN = re.compile(
         )
         \n\n
         ^ [$]{2} (?P<non_canonical> [.]? ) \n
+        (?P<hint> (?: [ ][ ] <[#] .*? [#]> \n )? )
         (?P<entry_content> (?s: .+? ) )
         ^ [$]{2} \n
     ''',
@@ -979,6 +1055,7 @@ CHARACTER_ENTRY_TONE_NUMBER_GROUP = 'tone_number'
 CHARACTER_ENTRY_WILLIAMS_RUN_GROUP = 'williams_run'
 CHARACTER_ENTRY_JYUTPING_GROUP = 'jyutping'
 CHARACTER_ENTRY_NON_CANONICAL_GROUP = 'non_canonical'
+CHARACTER_ENTRY_HINT_GROUP = 'hint'
 CHARACTER_ENTRY_CONTENT_GROUP = 'entry_content'
 
 CHARACTER_ENTRY_KEYS_PATTERN_READABLE = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
@@ -1132,7 +1209,7 @@ LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_PATTERN = re.compile(
 LINTING_CJK_COMPATIBILITY_IDEOGRAPH_CONTEXT_CHARACTER_GROUP = 'character'
 
 LINTING_NON_BMP_CHARACTER_CLASS = '[𠀀-𳑿]'
-LINTING_COMPOSITION_WHITELISTED_PRIMITIVES = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
+LINTING_COMPOSITION_WHITELISTED_PRIMITIVES = '𠂇𠂉𠂢𠃊𠆢𠔿𠘨𠦄𠫓𠬝𡈼𢦏𣏟𤣥𤣩𤴔𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
 LINTING_COMPOSITION_EXEMPT_PATTERN = re.compile(
     pattern='|'.join([
         r'\{ \S = \S+? \}',
@@ -1321,6 +1398,12 @@ LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN = re.compile(
     pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
     flags=re.VERBOSE,
 )
+
+LINTING_RESIDUAL_STROKES_ASSUMED_PATTERN = re.compile(
+    pattern=r'[+] (?P<assumed_count> [0-9]+ ) [ ] assumed (?: [ ] here )?',
+    flags=re.VERBOSE,
+)
+LINTING_RESIDUAL_STROKES_ASSUMED_COUNT_GROUP = 'assumed_count'
 
 LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
     pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
@@ -2254,7 +2337,7 @@ class EntryPage:
     def extract_character_entries(page_content: str, page_heading_jyutping: str) -> list['CharacterEntry']:
         return [
             CharacterEntry(heading_content, addition, character_run, tone_number, williams_run, jyutping, non_canonical,
-                           entry_content, page_heading_jyutping)
+                           hint, entry_content, page_heading_jyutping)
             for match in CHARACTER_ENTRY_PATTERN.finditer(string=page_content)
             if (
                 heading_content := match.group(CHARACTER_ENTRY_HEADING_CONTENT_GROUP),
@@ -2264,6 +2347,7 @@ class EntryPage:
                 williams_run := match.group(CHARACTER_ENTRY_WILLIAMS_RUN_GROUP),
                 jyutping := match.group(CHARACTER_ENTRY_JYUTPING_GROUP),
                 non_canonical := match.group(CHARACTER_ENTRY_NON_CANONICAL_GROUP),
+                hint := match.group(CHARACTER_ENTRY_HINT_GROUP),
                 entry_content := match.group(CHARACTER_ENTRY_CONTENT_GROUP),
             )
         ]
@@ -2683,7 +2767,7 @@ class CharacterEntry:
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
-                 jyutping: str, non_canonical: str, entry_content: str, page_heading_jyutping: str):
+                 jyutping: str, non_canonical: str, hint: str, entry_content: str, page_heading_jyutping: str):
         is_canonical = not non_canonical
         is_added = bool(addition)
 
@@ -2734,6 +2818,7 @@ class CharacterEntry:
         content_from_key = CmdIdioms.parse_entry_items(entry_content)
 
         CharacterEntry.lint_romanisation_consistency(williams_list, jyutping, heading_content)
+        CharacterEntry.lint_vigilance_hint(character, hint, heading_content)
         CharacterEntry.lint_keys(content_from_key, heading_content)
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
@@ -2751,6 +2836,7 @@ class CharacterEntry:
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
+        CharacterEntry.lint_residual_stroke_count_consistency(radical_strokes_list, h_content, heading_content)
         CharacterEntry.lint_consecutive_lists(w_content, heading_content)
         CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
@@ -2850,6 +2936,24 @@ class CharacterEntry:
             )
 
     @staticmethod
+    def lint_vigilance_hint(character: str, hint: str, heading_content: str):
+        expected_run = ''.join(
+            vigilance
+            for vigilance, characters in CHARACTERS_FROM_VIGILANCE.items()
+            if character in characters
+        )
+        if expected_run:
+            if hint.rstrip() != (expected_hint := f'  <# vigilance: {expected_run} #>'):
+                raise LintException(
+                    f'missing hint line `{expected_hint}` after opening delimiter under `{heading_content}`'
+                )
+        else:
+            if hint != '':
+                raise LintException(
+                    f'unexpected hint line `{hint}` after opening delimiter under `{heading_content}`'
+                )
+
+    @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
 
@@ -2865,10 +2969,27 @@ class CharacterEntry:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
 
     @staticmethod
+    def lint_residual_stroke_count_consistency(radical_strokes_list: list['RadicalStrokes'], h_content: Optional[str],
+                                               heading_content: str):
+        if h_content is None:
+            return
+
+        counts = set(radical_strokes.stroke_count for radical_strokes in radical_strokes_list)
+
+        for match in LINTING_RESIDUAL_STROKES_ASSUMED_PATTERN.finditer(string=h_content):
+            assumed_context = match.group()
+            assumed_count = int(match.group(LINTING_RESIDUAL_STROKES_ASSUMED_COUNT_GROUP))
+            if assumed_count not in counts:
+                raise LintException(
+                    f'`{assumed_context}` inconsistent with residual stroke count of {counts} '
+                    f'under `{heading_content}`'
+                )
+
+    @staticmethod
     def lint_consecutive_lists(content: str, heading_content: str):
         if LINTING_CONSECUTIVE_LISTS_PATTERN.search(string=content):
             raise LintException(
-                f'consecutive lists in `{heading_content}` '
+                f'consecutive lists under `{heading_content}` '
                 f'(suppress with intervening caret plus backslash if legitimate)'
             )
 
