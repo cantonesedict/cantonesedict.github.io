@@ -29,7 +29,6 @@ $$
 H
   May appear with central component as 丂 (assumed here) or 了,
   depending on the font.
-  This extends to all characters containing 亟 as a component.
 W
   ====
   - [[Page~154 亟(7)]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,6 +134,7 @@ U
 H
   May appear with first stroke ㇐ (assumed here) or ㇒,
   depending on the font.
+  This extends to all characters containing 屯 as a component.
 A
   ==
   - $迍1 (for "difficult" sense)

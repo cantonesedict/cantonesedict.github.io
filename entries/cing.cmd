@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-10-15
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1131,6 +1131,7 @@ U
 H
   May appear as ⿱口𡈼 (assumed here) or ⿱口王,
   depending on the font.
+  This extends to all characters containing 呈 as a component.
   The two forms are actually separate characters in Kangxi
   (p.179#2 and p.181#17 respectively).
   The definitions here pertain to the first (⿱口𡈼).

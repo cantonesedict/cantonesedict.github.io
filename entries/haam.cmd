@@ -194,7 +194,6 @@ U
 H
   May appear with central component as 丂 or 了 (assumed here),
   depending on the font.
-  This extends to all characters containing 函 as a component.
 A
   ==
   - 凾
