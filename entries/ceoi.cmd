@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-09-12
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1032,12 +1032,13 @@ $$
 ### 脃3 | _Ts(')ui(3)_ [[ceoi3]]
 
 $$.
+  <# vigilance: [色(絶絕)] #>
 R
   ⾁ + 6
 U
   U+8103
 H
-  May appear as either ⿰⺼色 (assumed here) or ⿰⺼⿱刀巴,
+  May appear with right component as 絶 (assumed here) or 絕,
   depending on the font.
 F
   [[Not present]]
@@ -1804,6 +1805,7 @@ $$
 ###+ 躕4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 15
 U
