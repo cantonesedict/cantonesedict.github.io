@@ -47,6 +47,24 @@ $$
 $$
 W
   ====
+  - [[Page~169 (1)荄]]
+    ==
+    - Roots;
+    - _(2)ts(')(o\) (1)koi_
+        [[cou2 goi1]],
+        the roots of plants;
+    - _~~(1)ts(')(e/)~~ ``(4)ts(')(e/)`` (1)koi_
+        [[ce4 goi1]],
+        bad roots, _met._ evil principles.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~169 (1)該]]
     ==
     - An agreement, an enlisting contract;
