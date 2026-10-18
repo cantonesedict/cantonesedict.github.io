@@ -991,11 +991,9 @@ R
   ⽷ + 8
 U
   U+7DC7
-H
-  May appear as either ⿰糹甾 (+8 assumed here) or ⿰糹⿱⿻巛一田 (+9),
-  depending on the font.
 A
   ==
+  - {𱹼=⿰糹⿱⿻巛一田}
   - 缁 (Mainland simplified)
   ==
 F
