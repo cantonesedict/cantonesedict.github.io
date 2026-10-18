@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -276,6 +276,7 @@ $$
 ### 瀦1 | _(1)Ch(u:)_ [[zyu1]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⽔ + 15
 U
@@ -323,6 +324,7 @@ $$
 ### 猪1 | _(1)Ch(u:)_ [[zyu1]]
 
 $$.
+  <# vigilance: [者] #>
 R
   ⽝ + 8
 U
@@ -479,6 +481,7 @@ $$
 ### 祩1 | _(1)Ch(u:)_ [[zyu1]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 6
 U
@@ -659,6 +662,7 @@ $$
 ### 諸1 | _(1)Ch(u:)_ [[zyu1]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⾔ + 8
 U
@@ -757,6 +761,7 @@ $$
 ###+ 豬1 | _(1)Ch(u:)_ [[zyu1]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⾗ + 8
 U
@@ -1143,6 +1148,7 @@ $$
 ### 渚2 | _(2)Ch(u:)_ [[zyu2]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⽔ + 8
 U
@@ -1180,6 +1186,7 @@ $$
 ### 煮2 | _(2)Ch(u:)_ [[zyu2]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⽕ + 8
 U
@@ -1230,6 +1237,7 @@ $$
 ### 翥2 | _(2)Ch(u:)_ [[zyu2]]
 
 $$.
+  <# vigilance: [者] #>
 R
   ⽻ + 8
 U
@@ -1454,6 +1462,7 @@ $$
 ###+ 祝3 | _Ch(u:)(3)_ [[zyu3]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -1479,10 +1488,14 @@ $$
 ###+ 箸3 | _Ch(u:)(3)_ [[zyu3]]
 
 $$.
+  <# vigilance: [者] #>
 R
   ⽵ + 8
 U
   U+7BB8
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -1500,6 +1513,7 @@ $$
 ###+ 翥3 | _Ch(u:)(3)_ [[zyu3]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⽻ + 8
 U
@@ -1537,6 +1551,7 @@ $$
 ### 著3 | _Ch(u:)(3)_ [[zyu3]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⾋ + 8
 U
@@ -1885,6 +1900,7 @@ $$
 ###+ 櫡6 | _Ch(u:)(6)_ [[zyu6]]
 
 $$.
+  <# vigilance: [者] #>
 R
   ⽊ + 14
 U
@@ -1930,10 +1946,14 @@ $$
 ### 箸6 | _Ch(u:)(6)_ [[zyu6]]
 
 $$
+  <# vigilance: [者] #>
 R
   ⽵ + 8
 U
   U+7BB8
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
 A
   ==
   - $櫡6
