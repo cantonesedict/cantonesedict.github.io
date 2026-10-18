@@ -409,3 +409,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~169 誥(3)]]
+    ==
+    - To enjoin upon, to order, to direct, to give commands to,
+      to signify one's wishes;
+    - a patent;
+    - a decoration;
+    - _k(o\)(3) (1)shan_
+        [[gou3 san1]],
+        letters-patent, credentials;
+    - _k(o\)(3) (1)fung_
+        [[gou3 fung1]],
+        to confer a title or rank on;
+    - _k(o\)(3) (1)sh(u:)_
+        [[gou3 syu1]],
+        a scroll from the emperor, honors.
+    ==
+  ====
+$$
+##>
