@@ -1399,6 +1399,12 @@ LINTING_BACKTICKED_WILLIAMS_TONE_PATTERN = re.compile(
     flags=re.VERBOSE,
 )
 
+LINTING_RESIDUAL_STROKES_ASSUMED_PATTERN = re.compile(
+    pattern=r'[+] (?P<assumed_count> [0-9]+ ) [ ] assumed (?: [ ] here )?',
+    flags=re.VERBOSE,
+)
+LINTING_RESIDUAL_STROKES_ASSUMED_COUNT_GROUP = 'assumed_count'
+
 LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
     pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
     flags=re.MULTILINE | re.VERBOSE,
@@ -2830,6 +2836,7 @@ class CharacterEntry:
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
+        CharacterEntry.lint_residual_stroke_count_consistency(radical_strokes_list, h_content, heading_content)
         CharacterEntry.lint_consecutive_lists(w_content, heading_content)
         CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
@@ -2962,10 +2969,27 @@ class CharacterEntry:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
 
     @staticmethod
+    def lint_residual_stroke_count_consistency(radical_strokes_list: list['RadicalStrokes'], h_content: Optional[str],
+                                               heading_content: str):
+        if h_content is None:
+            return
+
+        counts = set(radical_strokes.stroke_count for radical_strokes in radical_strokes_list)
+
+        for match in LINTING_RESIDUAL_STROKES_ASSUMED_PATTERN.finditer(string=h_content):
+            assumed_context = match.group()
+            assumed_count = int(match.group(LINTING_RESIDUAL_STROKES_ASSUMED_COUNT_GROUP))
+            if assumed_count not in counts:
+                raise LintException(
+                    f'`{assumed_context}` inconsistent with residual stroke count of {counts} '
+                    f'under `{heading_content}`'
+                )
+
+    @staticmethod
     def lint_consecutive_lists(content: str, heading_content: str):
         if LINTING_CONSECUTIVE_LISTS_PATTERN.search(string=content):
             raise LintException(
-                f'consecutive lists in `{heading_content}` '
+                f'consecutive lists under `{heading_content}` '
                 f'(suppress with intervening caret plus backslash if legitimate)'
             )
 
