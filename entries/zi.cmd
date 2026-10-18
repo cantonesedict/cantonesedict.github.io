@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1391,6 +1391,7 @@ $$
 ### 螆1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⾍ + 9
 U
@@ -1495,10 +1496,14 @@ $$
 ###+ 訾1 | _(1)Tsz'_ [[zi1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3E
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -2157,10 +2162,14 @@ $$
 ### 呰2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⼝ + 6
 U
   U+5470
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.35 呰) ::呰短窳[弱]言短力弱才不能動作也::
@@ -2988,10 +2997,14 @@ $$
 ###+ 泚2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽔ + 6
 U
   U+6CDA
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -3479,10 +3492,14 @@ $$
 ###+ 訾2 | _(2)Tsz'_ [[zi2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3E
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - $呰2 (for "slander" sense)

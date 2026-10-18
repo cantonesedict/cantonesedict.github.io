@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,10 +94,14 @@ $$
 ###+ 呰1 | _(1)Ts(')z'_ [[ci1]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⼝ + 6
 U
   U+5470
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -221,10 +225,14 @@ $$
 ###+ 疵1 | _(1)Ts(')z'_ [[ci1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽧ + 6
 U
   U+75B5
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - $呰1
@@ -515,10 +523,14 @@ $$
 ###+ 訾1 | _(1)Ts(')z'_ [[ci1]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3E
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -538,10 +550,14 @@ $$
 ### 雌1 | _(1)Ts(')z'_ [[ci1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾫ + 6
 U
   U+96CC
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - 䳄
@@ -578,10 +594,14 @@ $$
 ###+ 骴1 | _(1)Ts(')z'_ [[ci1]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾻ + 6
 U
   U+9AB4
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -824,10 +844,14 @@ $$
 ### 佌2 | _(2)Ts(')z'_ [[ci2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⼈ + 6
 U
   U+4F4C
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.35 佌) ::小也詩[佌佌彼]有屋::
@@ -1167,10 +1191,14 @@ $$
 ### 此2 | _(2)Ts(')z'_ [[ci2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽌ + 2
 U
   U+6B64
+H
+  May appear with 止 having 3~strokes or 4~strokes (assumed here),
+  depending on the font.
 F
   ==
   - (F2.35 此) 彼此斯也
@@ -1218,10 +1246,14 @@ $$
 ###+ 泚2 | _(2)Ts(')z'_ [[ci2]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⽔ + 6
 U
   U+6CDA
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 V
   ==
   - cai2 (alternative per 《廣韻》千禮切)
@@ -2126,6 +2158,7 @@ $$
 ###+ 螆3 | _Ts(')z'(3)_ [[ci3]]
 
 $$.
+  <# vigilance: [兹茲] #>
 R
   ⾍ + 9
 U
@@ -2213,6 +2246,7 @@ $$
 ### 饎3 | _Ch(')(i/)(3)_ [[ci3]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 12
 U
@@ -2256,10 +2290,14 @@ $$
 ### 骴3 | _Ts(')z'(3)_ [[ci3]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾻ + 6
 U
   U+9AB4
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 A
   ==
   - 胔
@@ -2354,10 +2392,14 @@ $$
 ###+ 呰4 | _(4)Ts(')z'_ [[ci4]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⼝ + 6
 U
   U+5470
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -2487,6 +2529,7 @@ $$
 ### 慈4 | _(4)Ts(')z'_ [[ci4]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⼼ + 9
 U
@@ -2753,10 +2796,14 @@ $$
 ### 疵4 | _(4)Ts(')z'_ [[ci4]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⽧ + 6
 U
   U+75B5
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.34 疵) 症也吹毛求疵
@@ -2819,6 +2866,7 @@ $$
 ### 祠4 | _(4)Ts(')z'_ [[ci4]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -2925,6 +2973,7 @@ $$
 ###+ 糍4 | _(4)Ts(')z'_ [[ci4]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⽶ + 9
 U
@@ -3142,10 +3191,14 @@ $$
 ###+ 訾4 | _(4)Ts(')z'_ [[ci4]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾔ + 6
 U
   U+8A3E
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -3193,6 +3246,7 @@ $$
 ### 踟4 | _(4)Ch(')(i/)_ [[ci4]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 8
 U
@@ -3512,6 +3566,7 @@ $$
 ###+ 鶿4 | _(4)Ts(')z'_ [[ci4]]
 
 $$
+  <# vigilance: [兹茲] #>
 R
   ⿃ + 9
 U
@@ -3545,6 +3600,7 @@ $$
 ### 鷀4 | _(4)Ts(')z'_ [[ci4]]
 
 $$.
+  <# vigilance: [兹茲] #>
 R
   ⿃ + 9
 U
