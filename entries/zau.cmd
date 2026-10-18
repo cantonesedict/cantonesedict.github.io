@@ -1008,10 +1008,14 @@ $$
 ### 鄹1 | _(1)Tsau_ [[zau1]]
 
 $$.
+  <# vigilance: [聚] #>
 R
   ⾢ + 14
 U
   U+9139
+H
+  May appear as either ⿰⿱取乑阝 or ⿰⿱取⿸⿹亻人人阝 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.50 鄹) 孔子故鄕
@@ -1944,6 +1948,7 @@ $$
 ###+ 祝3 | _Chau(3)_ [[zau3]]
 
 $$.
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -2531,10 +2536,14 @@ $$
 ### 驟6 | _Tsau(6)_ [[zau6]]
 
 $$.
+  <# vigilance: [聚] #>
 R
   ⾺ + 14
 U
   U+9A5F
+H
+  May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here),
+  depending on the font.
 F
   ==
   - (F1.55 驟 _Chau(6)_ (zau6)) 馳驟又疾速也
