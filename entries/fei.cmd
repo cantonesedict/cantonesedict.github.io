@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -140,9 +140,6 @@ R
   ⼾ + 8
 U
   U+6249
-H
-  May appear with radical component 戶 (assumed here), 户, or 戸,
-  depending on the font.
 F
   ==
   - (F1.35 扉) 戸也

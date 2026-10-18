@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2637,9 +2637,6 @@ R
   ⽃ + 4
 U
   U+623D
-H
-  May appear with phonetic component as 戶 (assumed here), 户, or 戸,
-  depending on the font.
 V
   ==
   - fu2 (alternative per 《廣韻》呼古切 for noun sense)

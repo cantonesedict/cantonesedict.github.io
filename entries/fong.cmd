@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1716,9 +1716,6 @@ R
   ⼾ + 4
 U
   U+623F
-H
-  May appear with radical component 戶 (assumed here), 户, or 戸,
-  depending on the font.
 V
   ==
   - fong4-2 (vernacular rising-tone noun for "room" sense)
