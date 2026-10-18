@@ -283,3 +283,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~168 (2)稿]]
+    ==
+    - The culm of grain;
+    - straw;
+    - an original, the first draft of a paper;
+    - a sketch, a proof;
+    - _(4)wo (2)k(o\)_
+        [[wo4 gou2]],
+        paddy straw;
+    - _(2)ts(')(o\) ~~(5)^k(o\)~~ ``(2)k(o\)``_
+        [[cou2 gou2]],
+        a first copy;
+    - _(2)t(a/) (2)k(o\)_
+        [[daa2 gou2]],
+        to make a copy;
+        to take a proof of (a printer's term);
+    - _(2)k(o\) (1)kung_
+        [[gou2 gung1]],
+        a head clerk, who revises papers;
+    - _(1)ch(')(e/)ung (2)k(o\)_
+        [[coeng1 gou2]],
+        a theme.
+    ==
+  ====
+$$
+##>
