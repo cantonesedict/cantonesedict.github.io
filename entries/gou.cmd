@@ -314,3 +314,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~169 (2)藁]]
+    ==
+    - Interchanged with 槁 & 稿;
+    - rotten wood;
+    - straw or thatch for huts;
+    - a draft or copy;
+    - _(2)k(o\) k(u:)n(3)_
+        [[gou2 gyun3]]
+        the rough draft, the originals of papers.
+    ==
+  ====
+$$
+##>
