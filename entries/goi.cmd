@@ -26,6 +26,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~719 (1)侅(1)賅]]
+    ==
+    - Unusual, strange;
+    - to present;
+    - _(1)koi mat(9)_
+        [[goi1 mat6]]
+        rare, uncommon articles.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~169 (1)垓]]
     ==
     - A bank;
