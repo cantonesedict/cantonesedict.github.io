@@ -49,6 +49,15 @@ W
     - the laugh or smile of an infant;
     - to belch.
     ==
+  - [[Page~719 (2)欬 _(2)Koi_ (goi2); here corrected to _K(')oi(3)_ (koi3) and normalised to 咳]]
+    ==
+    - To cough, to hack;
+    - to belch;
+    - to call aloud;
+    - _~~(2)k(')oi~~ ``k(')oi(3)`` ~~(2)king~~ ``(1)k(')ing``_
+        [[koi3 king1]],
+        a little while.
+    ==
   ====
 $$
 ##>
