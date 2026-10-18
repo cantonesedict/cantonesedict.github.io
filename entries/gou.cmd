@@ -260,3 +260,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~168 (2)槁]]
+    ==
+    - Dry, rotten, as wood;
+    - a kind of tree, its wood is like chestnut;
+    - others describe it as like the tallow-tree;
+    - _(2)k(o\) muk(9) (2)sz' fai(3)_
+        [[gou2 muk6 si2 fai3]]
+        all desire gone, wearied out;
+    - _(4)ying (4)yung (1)f(u/) (2)k(o\)_
+        [[jing4 jung4 fu1 gou2]],
+        attenuated, cadaverous;
+    - _(1)kon (2)k(o\)_
+        [[gon1 gou2]],
+        dried fish.
+    ==
+  ====
+$$
+##>
