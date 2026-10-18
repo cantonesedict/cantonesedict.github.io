@@ -246,3 +246,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+A
+W
+  ====
+  - [[Page~168 (1)鼛]]
+    ==
+    - A drum, said to be 12~_ch(')ek(8)_ [[cek3]] long,
+      anciently used to incite workmen in their work.
+    ==
+  ====
+$$
+##>
