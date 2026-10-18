@@ -431,6 +431,22 @@ $$
 $$
 W
   ====
+  - [[Page~169 (2)暠 _(2)K(o\)_ (gou2); here normalised to _H(o\)(6)_ (hou6)]]
+    ==
+    - Clear, pure, distinct;
+    - white, applied to hair;
+    - _~~(2)k(o\)~~ ``h(o\)(6)`` (1)shan ch(')ik(8) tsuk(7)_
+        [[hou6 san1 cik3 zuk1]]
+        bright apparel and barefeet.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~88 浩(6)]]
     ==
     - Great, swelling waters, a watery expanse, immense, vast;
