@@ -26,6 +26,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~169 (1)垓]]
+    ==
+    - A bank;
+    - a boundary, circuit, limit;
+    - to guard or reinforce a frontier;
+    - a hundred millions;
+    - _(1)k(i/)m (1)koi_
+        [[gim1 goi1]],
+        everywhere, the wide world.
+    ==
+    --
+    Interchanged with the next [[陔]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~169 (1)該]]
     ==
     - An agreement, an enlisting contract;
