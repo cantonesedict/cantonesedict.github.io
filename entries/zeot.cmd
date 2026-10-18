@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2026-10-04
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -120,10 +120,14 @@ $$
 ### 怵1 | _Chut(7)_ [[zeot1]]
 
 $$
+  <# vigilance: [朮术] #>
 R
   ⼼ + 5
 U
   U+6035
+H
+  May appear as either ⿰忄朮 (assumed here) or ⿰忄术,
+  depending on the font.
 V
   ==
   - ceot1 (per 《廣韻》丑律切)
