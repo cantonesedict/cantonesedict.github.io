@@ -1042,7 +1042,8 @@ CHARACTER_ENTRY_PATTERN = re.compile(
             (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
         )
         \n\n
-        ^ [$]{2} (?P<non_canonical> [.]? ) (?P<hint> (?: [ ]+ <[#] .*? [#]> )? ) \n
+        ^ [$]{2} (?P<non_canonical> [.]? ) \n
+        (?P<hint> (?: [ ][ ] <[#] .*? [#]> \n )? )
         (?P<entry_content> (?s: .+? ) )
         ^ [$]{2} \n
     ''',
@@ -2935,9 +2936,9 @@ class CharacterEntry:
             for vigilance, characters in CHARACTERS_FROM_VIGILANCE.items()
             if character in characters
         )
-        if expected_run and hint != (expected_hint := f' <# {expected_run} #>'):
+        if expected_run and hint.rstrip() != (expected_hint := f'  <# vigilance: {expected_run} #>'):
             raise LintException(
-                f'missing vigilance hint `{expected_hint}` after opening delimiter under `{heading_content}`'
+                f'missing hint line `{expected_hint}` after opening delimiter under `{heading_content}`'
             )
 
     @staticmethod
