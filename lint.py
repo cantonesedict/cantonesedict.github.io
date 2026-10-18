@@ -1046,7 +1046,7 @@ CHARACTER_ENTRY_PATTERN = re.compile(
             (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
         )
         \n\n
-        ^ [$]{2} (?P<non_canonical> [.]? ) \n
+        ^ [$]{2} (?P<non_canonical> [.]? ) (?P<hint> (?: [ ]+ <[#] .*? [#]> )? ) \n
         (?P<entry_content> (?s: .+? ) )
         ^ [$]{2} \n
     ''',
@@ -1059,6 +1059,7 @@ CHARACTER_ENTRY_TONE_NUMBER_GROUP = 'tone_number'
 CHARACTER_ENTRY_WILLIAMS_RUN_GROUP = 'williams_run'
 CHARACTER_ENTRY_JYUTPING_GROUP = 'jyutping'
 CHARACTER_ENTRY_NON_CANONICAL_GROUP = 'non_canonical'
+CHARACTER_ENTRY_HINT_GROUP = 'hint'
 CHARACTER_ENTRY_CONTENT_GROUP = 'entry_content'
 
 CHARACTER_ENTRY_KEYS_PATTERN_READABLE = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
@@ -2334,7 +2335,7 @@ class EntryPage:
     def extract_character_entries(page_content: str, page_heading_jyutping: str) -> list['CharacterEntry']:
         return [
             CharacterEntry(heading_content, addition, character_run, tone_number, williams_run, jyutping, non_canonical,
-                           entry_content, page_heading_jyutping)
+                           hint, entry_content, page_heading_jyutping)
             for match in CHARACTER_ENTRY_PATTERN.finditer(string=page_content)
             if (
                 heading_content := match.group(CHARACTER_ENTRY_HEADING_CONTENT_GROUP),
@@ -2344,6 +2345,7 @@ class EntryPage:
                 williams_run := match.group(CHARACTER_ENTRY_WILLIAMS_RUN_GROUP),
                 jyutping := match.group(CHARACTER_ENTRY_JYUTPING_GROUP),
                 non_canonical := match.group(CHARACTER_ENTRY_NON_CANONICAL_GROUP),
+                hint := match.group(CHARACTER_ENTRY_HINT_GROUP),
                 entry_content := match.group(CHARACTER_ENTRY_CONTENT_GROUP),
             )
         ]
@@ -2763,7 +2765,7 @@ class CharacterEntry:
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
-                 jyutping: str, non_canonical: str, entry_content: str, page_heading_jyutping: str):
+                 jyutping: str, non_canonical: str, hint: str, entry_content: str, page_heading_jyutping: str):
         is_canonical = not non_canonical
         is_added = bool(addition)
 
