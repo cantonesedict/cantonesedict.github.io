@@ -93,3 +93,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~169 (1)陔]]
+    ==
+    - Step, bank, terrace;
+    - a gradation, a succession, an order;
+    - certain music;
+    - _(2)kau (1)koi_
+        [[gau2 goi1]],
+        the "nine ascents," heaven, the empyrean.
+    ==
+  ====
+$$
+##>
