@@ -1208,6 +1208,7 @@ $$
 ### 趺1 | _(1)F(u/)_ [[fu1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 4
 U
@@ -1241,6 +1242,7 @@ $$
 ###+ 跗1 | _(1)F(u/)_ [[fu1]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾜ + 5
 U
@@ -2761,10 +2763,14 @@ $$
 ### 賦3 | _F(u/)(3)_ [[fu3]]
 
 $$
+  <# vigilance: [止] #>
 R
   ⾙ + 8
 U
   U+8CE6
+H
+  May appear with 止 having 3~strokes (+7) or 4~strokes (+8 assumed here),
+  depending on the font.
 A
   ==
   - 䝾
@@ -3789,6 +3795,7 @@ $$
 ### 祔6 | _F(u/)(6)_ [[fu6]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -4094,6 +4101,7 @@ $$
 ### 跗6 | _F(u/)(6)_ [[fu6]]
 
 $$.
+  <# vigilance: [止] #>
 R
   ⾜ + 5
 U
