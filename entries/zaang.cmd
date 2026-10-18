@@ -84,6 +84,7 @@ $$
 ###+ 棦1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
+  <# vigilance: [争爭] #>
 R
   ⽊ + 8
 U
@@ -132,6 +133,7 @@ $$
 ###+ 琤1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
+  <# vigilance: [争爭] #>
 R
   ⽟ + 8
 U
@@ -177,12 +179,13 @@ $$
 ### 㬹1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$
+  <# vigilance: [争爭] #>
 R
   ⾁ + 8
 U
   U+3B39
 H
-  May appear as either ⿰月争 (+6) or ⿰⺼爭 (+8 assumed here),
+  May appear with right component 争 (+6) or 爭 (+8 assumed here),
   depending on the font.
 A
   ==
@@ -240,6 +243,7 @@ $$
 ###+ 踭1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
+  <# vigilance: [争爭][止] #>
 R
   ⾜ + 8
 U
@@ -262,6 +266,7 @@ $$
 ###+ 錚1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
+  <# vigilance: [争爭] #>
 R
   ⾦ + 8
 U
@@ -321,6 +326,7 @@ $$
 ###+ 諍3 | _Ch(a/)ng(3)_ [[zaang3]]
 
 $$.
+  <# vigilance: [争爭] #>
 R
   ⾔ + 8
 U

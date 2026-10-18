@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-08-18
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -168,10 +168,14 @@ $$
 ### 昝2 | _(2)Ts(a/)n_ [[zaan2]]
 
 $$
+  <# vigilance: [咎] #>
 R
   ⽇ + 5
 U
   U+661D
+H
+  May appear as either ⿱⿺夂人日 (assumed here) or ⿱⿺夂卜日,
+  depending on the font.
 V
   ==
   - zaam2 (per 《廣韻》子感切)
@@ -1114,6 +1118,7 @@ $$
 ### 饌6 | _Ch(a/)n(6)_ [[zaan6]]
 
 $$
+  <# vigilance: [𩙿飠] #>
 R
   ⾷ + 12
 U
