@@ -1919,6 +1919,10 @@ R
   ⽋ + 2
 U
   U+6B21
+H
+  May appear as either ⿰二欠 (assumed here) or ⿰冫欠,
+  depending on the font.
+  This extends to all characters containing 次 as a component.
 F
   ==
   - (F2.35 次) 次第
@@ -1970,6 +1974,10 @@ W
         a stranger's lodging, travelers' houses.
     ==
   ====
+C
+  ==
+  - The form ⿰冫欠 is compatibility ideograph U+2F8EF.
+  ==
 L
   ====
   * 【次】 (tshijH)
