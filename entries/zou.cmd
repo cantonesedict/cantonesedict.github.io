@@ -446,6 +446,7 @@ $$
 ### 祖2 | _(2)Ts(o\)_ [[zou2]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
@@ -624,10 +625,14 @@ $$
 ### 蚤2 | _(2)Ts(o\)_ [[zou2]]
 
 $$
+  <# vigilance: [叉㕚] #>
 R
   ⾍ + 4
 U
   U+86A4
+H
+  May appear as either ⿱叉虫 (+3) or ⿱㕚虫 (+4 assumed here),
+  depending on the font.
 A
   ==
   - 䖣
@@ -995,6 +1000,7 @@ $$
 ### 祚6 | _Ts(o\)(6)_ [[zou6]]
 
 $$
+  <# vigilance: [示礻] #>
 R
   ⽰ + 5
 U
