@@ -368,3 +368,44 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~169 告(3)]]
+    ==
+    - To gore;
+    - to accuse, to inform against, to impeach, to tell of;
+    - to announce to a superior, to inform any one, as in courteous language;
+    - to ask, to request;
+    - to order;
+    - _k(o\)(3) sh(i/)(6)_
+        [[gou3 si6]]
+        a proclamation, an edict;
+    - _(4)(u:)n k(o\)(3)_ [[jyun4 gou3]],
+      _p(i/)(6) k(o\)(3)_ [[bei6 gou3]]
+        the plaintiff and defendant;
+    - _k(o\)(3) s(u/)(3)_
+        [[gou3 sou3]]
+        the accusation and reply;
+        to inform of;
+    - _k(o\)(3) (4)ts(')z'_
+        [[gou3 ci4]]
+        to intimate one's departure, to take leave---said by a visitor;
+    - _k(o\)(3) ch(e/)ung(3)_
+        [[gou3 zoeng3]]
+        to sue for a debt;
+    - _k(o\)(3) (4)shing_
+        [[gou3 sing4]],
+        to finish [a work];
+    - _sh(e/)ung(6) k(o\)(3)_
+        [[soeng6 gou3]]
+        to appeal;
+    - _k(o\)(3) k(a/)(3)_
+        [[gou3 gaa3]]
+        to ask leave of absence.
+    ==
+  ====
+$$
+##>
