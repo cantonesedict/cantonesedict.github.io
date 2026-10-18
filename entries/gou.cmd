@@ -265,6 +265,23 @@ $$
 $$
 W
   ====
+  - [[Page~169 (2)杲]]
+    ==
+    - The sun shining over trees;
+    - clear, bright;
+    - high, lofty;
+    - _(2)k(o\) (2)k(o\) ch(')ut(7) yat(9)_
+        [[gou2 gou2 ceot1 jat6]]
+        glorious as the sun breaking from the clouds.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~168 (2)槁]]
     ==
     - Dry, rotten, as wood;
