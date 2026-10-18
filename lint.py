@@ -2816,6 +2816,7 @@ class CharacterEntry:
         content_from_key = CmdIdioms.parse_entry_items(entry_content)
 
         CharacterEntry.lint_romanisation_consistency(williams_list, jyutping, heading_content)
+        CharacterEntry.lint_vigilance_hint(character, hint, heading_content)
         CharacterEntry.lint_keys(content_from_key, heading_content)
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
@@ -2929,6 +2930,18 @@ class CharacterEntry:
                 f'inconsistent Williams `{inconsistency.williams}` '
                 f'vs Jyutping `{inconsistency.jyutping}` (expected {inconsistency.expected_jyutping_list}) '
                 f'under `{heading_content}`'
+            )
+
+    @staticmethod
+    def lint_vigilance_hint(character: str, hint: str, heading_content: str):
+        expected_run = ''.join(
+            vigilance
+            for vigilance, characters in CHARACTERS_FROM_VIGILANCE.items()
+            if character in characters
+        )
+        if expected_run and hint != (expected_hint := f' <# {expected_run} #>'):
+            raise LintException(
+                f'missing vigilance hint `{expected_hint}` after opening delimiter under `{heading_content}`'
             )
 
     @staticmethod
