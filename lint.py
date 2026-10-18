@@ -2935,10 +2935,16 @@ class CharacterEntry:
             for vigilance, characters in CHARACTERS_FROM_VIGILANCE.items()
             if character in characters
         )
-        if expected_run and hint.rstrip() != (expected_hint := f'  <# vigilance: {expected_run} #>'):
-            raise LintException(
-                f'missing hint line `{expected_hint}` after opening delimiter under `{heading_content}`'
-            )
+        if expected_run:
+            if hint.rstrip() != (expected_hint := f'  <# vigilance: {expected_run} #>'):
+                raise LintException(
+                    f'missing hint line `{expected_hint}` after opening delimiter under `{heading_content}`'
+                )
+        else:
+            if hint != '':
+                raise LintException(
+                    f'unexpected hint line `{hint}` after opening delimiter under `{heading_content}`'
+                )
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
