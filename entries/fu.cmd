@@ -3934,6 +3934,7 @@ U
 H
   May appear as either ⿱⺈貝 (assumed here) or ⿱刀貝,
   depending on the font.
+  This extends to all characters containing 負 as a component.
 A
   ==
   - 负 (Mainland simplified)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> gik
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -27,8 +27,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 <##
 $$
 H
-  May appear with central component as 丂 (assumed here) or 了,
+  May appear with central component 丂 (assumed here) or 了,
   depending on the font.
+  This extends to all characters containing 亟 as a component.
 W
   ====
   - [[Page~154 亟(7)]]

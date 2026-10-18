@@ -122,7 +122,7 @@ R
 U
   U+5468
 H
-  May appear with the central vertical stroke not poking through (assumed here)
+  May appear with central vertical stroke not poking through (assumed here)
   or poking through and touching the component 口.
   This extends to all characters containing 周 as a component.
 A

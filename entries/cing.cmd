@@ -1129,7 +1129,7 @@ R
 U
   U+5448
 H
-  May appear as ⿱口𡈼 (assumed here) or ⿱口王,
+  May appear as either ⿱口𡈼 (assumed here) or ⿱口王,
   depending on the font.
   This extends to all characters containing 呈 as a component.
   The two forms are actually separate characters in Kangxi
