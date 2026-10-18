@@ -128,3 +128,50 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~170 (2)攺; here normalised to 改]]
+    ==
+    - To change, to alter;
+    - to exchange;
+    - to reform, to do better;
+    - to correct, to amend, as a composition;
+    - _(2)koi yat(9) (5)ling k(a/)u(3)_
+        [[goi2 jat6 ling5 gaau3]]
+        another day I will call;
+    - _(2)koi kwo(3)_
+        [[goi2 gwo3]]
+        exchanged;
+        to reform;
+    - _(2)koi (4)ng(a/) (4)m(u/)n_
+        [[goi2 ngaa4 mun4-2]],
+        to carry a case to another court;
+    - _(2)koi k(a/)(3)_
+        [[goi2 gaa3]]
+        to leave a husband or betrothed, and marry another;
+    - _(2)koi (u/)n(6)_
+        [[goi2 wun6]]
+        to exchange, to put another in place of;
+    - _(2)koi (4)sh(e/)ung_
+        [[goi2 soeng4]],
+        unusual;
+        to grow worse;
+    - _(5)m(o\) (2)koi_
+        [[mou5 goi2]],
+        flagitious, irreclaimable;
+    - _t(')ung(3) (2)koi (4)ts(')(i/)n (1)f(i/)_
+        [[tung3 goi2 cin4 fei1]],
+        you must reform your misdeeds;
+    - _(2)koi p(i/)n(3)_
+        [[goi2 bin3]]
+        to alter, to do better;
+    - _(2)koi (1)fung (2)shui_
+        [[goi2 fung1 seoi2]],
+        to improve one's luck by incantations.
+    ==
+  ====
+$$
+##>
