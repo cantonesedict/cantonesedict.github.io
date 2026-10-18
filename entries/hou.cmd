@@ -195,6 +195,20 @@ W
         [[hou3 nung4]],
         official largesses to farmers in spring.
     ==
+  - [[Page~719 (2)犒 _(2)K(o\)_ (gou2); here corrected to _H(o\)(3)_ (hou3)]]
+    ==
+    - To reward;
+    - to give extra pay;
+    - _~~(2)k(o\)~~ ``h(o\)(3)`` (1)sz'_
+        [[hou3 si1]]
+        to reward victorious troops;
+    - _~~(2)k(o\)~~ ``h(o\)(3)`` (4)ngau_
+        [[hou3 ngau4]],
+        cattle given as rewards;
+    - _~~(2)k(o\)~~ ``h(o\)(3)`` (1)kung_
+        [[hou3 gung1]],
+        extra pay to workmen.
+    ==
   ====
 $$
 ##>
