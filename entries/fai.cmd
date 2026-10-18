@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -239,6 +239,7 @@ $$
 ### 撝1 | _(1)Fai_ [[fai1]]
 
 $$
+  <# vigilance: [為爲] #>
 R
   ⼿ + 9
 U
@@ -551,10 +552,14 @@ $$
 ### 麾1 | _(1)Fai_ [[fai1]]
 
 $$
+  <# vigilance: [林𣏟] #>
 R
   ⿇ + 4
 U
   U+9EBE
+H
+  May appear as either ⿸⿸广林毛 or ⿸⿸广𣏟毛 (assumed here),
+  depending on the font.
 A
   ==
   - 戲
