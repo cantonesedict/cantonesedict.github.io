@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -180,7 +180,7 @@ $$
 
 ### 猜1 | _(1)Ch(')(a/)i_ [[caai1]]
 
-$$
+$$ <# [靑青] #>
 R
   ⽝ + 8
 U
@@ -290,7 +290,7 @@ $$
 
 ### 踹2 | _(2)Ch(')(a/)i_ [[caai2]]
 
-$$
+$$ <# [止] #>
 R
   ⾜ + 9
 U
@@ -557,11 +557,14 @@ $$
 
 ### 柴4 | _(4)Ch(')(a/)i_ [[caai4]]
 
-$$
+$$ <# [止] #>
 R
-  ⽊ + 5
+  ⽊ + 6
 U
   U+67F4
+H
+  May appear with 止 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
 F
   ==
   - (F2.26 柴) 薪也
