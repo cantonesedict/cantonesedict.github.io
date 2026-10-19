@@ -78,6 +78,22 @@ $$
 $$
 W
   ====
+  - [[Page~170 愾(3)]]
+    ==
+    - Anger;
+    - gasping from rage;
+    - _han(6) k(')oi(3)_
+        [[han6 koi3]]
+        furiously angry.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~170 槪(3); here normalised to 概]]
     ==
     - A striker to level grain;
