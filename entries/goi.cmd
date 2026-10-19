@@ -191,3 +191,95 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - koi3 (common for non-noun senses)
+  ==
+W
+  ====
+  - [[Page~170 蓋(3)盖(3) _K(')oi(3)_ (koi3); here corrected to _Koi(3)_ (goi3) for the noun senses]]
+    ==
+    - A kind of coarse grass used for thatch;
+    - a cover, a covering, a roof;
+    - a canopy, a vault;
+    - to cover, to hide, to roof;
+    - to screen, to conceal, literally and figuratively;
+    - to overshadow, to overtop;
+    - is;
+    - a conjunction, since, for, for that, now then;
+    - _sh(e/)ung(6) ~~k(')oi(3)~~ ``koi(3)``_
+        [[soeng6 goi3]]
+        the roof;
+        also, heaven;
+    - _(2)(i/)m k(')oi(3)_
+        [[jim2 koi3]]
+        to shut up or close;
+    - _(2)p(i/) (2)p(a/)n k(')oi(3) ch(u:)(6)_
+        [[bei2 baan2 koi3 zyu6]]
+        cover it with a board;
+    - _~~k(')oi(3)~~ ``koi(3)`` (1)chung_
+        [[goi3 zung1]],
+        a covered tea-cup;
+    - _k(')oi(3) (u:)t(9)_
+        [[koi3 jyut6]]
+        now it is said;
+    - _(1)ch(e/) k(')oi(3) m(i/)n(6)_
+        [[ze1 koi3 min6]]
+        shade the face;
+    - _k(')oi(3) tak(7) kwo(3)_
+        [[koi3 dak1 gwo3]]
+        to hide out of sight;
+    - _k(')oi(3) (5)h(a/) m(i/)n(6)_
+        [[koi3 haa5 min6]]
+        to veil the face;
+        to hide one's real feelings;
+    - _k(')oi(3) kwo(3) (4)t(')au_
+        [[koi3 gwo3 tau4]],
+        pull it over the head;
+    - _k(')oi(3) kwo(3) ko(3) (4)t(')au h(u:)(3)_
+        [[koi3 gwo3 go3 tau4 heoi3]]
+        cover or shade it more that way;
+    - _k(')oi(3) (4)loi_
+        [[koi3 loi4]],
+        having come, since you are here;
+    - _k(')oi(3) (1)yan_
+        [[koi3 jan1]],
+        because that;
+    - _k(')oi(3) (2)hi(u/)_
+        [[koi3 hiu2]],
+        seeing that he understands;
+    - _sek(8) ~~k(')oi(3)~~ ``koi(3)`` yat(7) f(u/)(3)_
+        [[sek3 goi3 jat1 fu3]]
+        a set of tin dish-covers;
+    - _f(a/)n(6) ~~k(')oi(3)~~ ``koi(3)``_
+        [[faan6 goi3]]
+        a wooden cover used in cooking rice;
+    - _k(')oi(3) (4)sh(i/)_
+        [[koi3 si4]],
+        now at that time, then it was;
+    - _k(')oi(3) (5)ng(a/)_
+        [[koi3 ngaa5]],
+        to lay tiles.
+    ==
+    --
+    Often ~~confounded with and~~ used ~~wrongly~~ for _h(o\)p(9)_ [[hap6]] 盍.
+    --
+  ====
+C
+  ==
+  - In modern Cantonese, all non-noun senses
+    are commonly read _k(')oi(3)_ (koi3), i.e. with the initial aspirated.
+    Only the noun senses (particularly "lid") are read _koi(3)_ (goi3).
+  - Williams reads aspirated _k(')oi(3)_ (koi3) for *all* senses
+    (including the noun senses). I think this likely to be a mistake,
+    rather than a genuine feature of 19th century Cantonese.
+  - Indeed we may be certain that Fan Wan reads unaspirated _koi(3)_ (goi3)
+    even for the *non*-noun senses (its explanation is 覆也揜也又起語詞),
+    because it gives separate homophonous series for 蓋盖葢 and 槩槪漑嘅丏.
+  ==
+L
+$$
+##>
