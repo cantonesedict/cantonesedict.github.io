@@ -34,6 +34,19 @@ W
         to regret with unavailing sighs and laments,
         to sorrow that one's desires are disappointed.
     ==
+  - [[Page~170 慨(3)]]
+    ==
+    - Generous, nobleminded, loving integrity;
+    - _~~(2)k(')ong~~ ``(2)hong`` k(')oi(3)_
+        [[hong2 koi3]]
+        disinterested, above meanness;
+    - _(2)k(o\)m k(')oi(3)_
+        [[gam2 koi3]]
+        moved by, commiserating.
+    ==
+    --
+    Interchanged with the last [[槪]].
+    --
   ====
 $$
 ##>
