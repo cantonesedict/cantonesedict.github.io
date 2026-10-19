@@ -79,3 +79,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~170 漑(3); here normalised to 溉]]
+    ==
+    - To wash or scour cooking utensils;
+    - to wet, to moisten;
+    - to roll on like a torrent;
+    - inundating, swashing;
+    - name of a river in Li(a/)utung [[遼東]].
+    ==
+  ====
+$$
+##>
