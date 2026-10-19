@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~170 丐(3)]]
+    ==
+    - To ask alms;
+    - to demand, to beg;
+    - to give;
+    - _hat(7) k(')oi(3)_
+        [[hat1 koi3]]
+        to beg;
+    - _k(')oi(3) (4)ts(')(i/)n_
+        [[koi3 cin4-2]]
+        to ask for money;
+    - _k(')oi(3) shik(9)_
+        [[koi3 sik6]]
+        to beg for food.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~170 嘅(3); here normalised to 慨]]
     ==
     - To sigh, to lament for;
