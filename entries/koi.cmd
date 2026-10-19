@@ -37,3 +37,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~170 槪(3); here normalised to 概]]
+    ==
+    - A striker to level grain;
+    - to even, to adjust;
+    - a summing, a resumé;
+    - _yat(7) k(')oi(3)_
+        [[jat1 koi3]]
+        altogether, without exception;
+    - _yat(7) k(')oi(3) (1)t(o\) h(u:)(3)_
+        [[jat1 koi3 dou1 heoi3]]
+        all gone off;
+    - _t(a/)i(6) k(')oi(3)_
+        [[daai6 koi3]]
+        generally speaking, on the whole, the most of;
+    - _h(i/)(3) k(')oi(3)_
+        [[hei3 koi3]]
+        resolute, magnanimous, generous-hearted;
+    - _k(')oi(3) hai(6) (2)k(o\)m_
+        [[koi3 hai6 gam2]],
+        they are all about the same.
+    ==
+  ====
+$$
+##>
