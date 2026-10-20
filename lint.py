@@ -3243,7 +3243,7 @@ class CharacterEntry:
     def lint_fan_wan_same_romanisation(williams_run: str, f_content: str, heading_content: str):
         if williams_run in f_content.replace(f'^{williams_run}', ''):
             raise LintException(
-                f'same-romanisation Fan Wan xxx under `{heading_content}` '
+                f'same-romanisation Fan Wan locator under `{heading_content}` '
                 f'(suppress with caret before opening underscore if legitimate (e.g. for uncertainty))'
             )
 
