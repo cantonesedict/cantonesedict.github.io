@@ -122,7 +122,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (2)拗]]
+  - [[Page~7 (2)拗]] <# entry #1 #>
     ==
     - To snap a thing in two [[Kangxi: 手拉也, 折也]];
     - to twist, to break;
@@ -218,7 +218,7 @@ F
   ==
 W
   ====
-  - [[Page~7 凹(3)]]
+  - [[Page~7 凹(3)]] <# entry #4 #>
     ==
     - Indented [[Kangxi: 窊也]];
     - meandering;
@@ -270,7 +270,7 @@ W
     --
     [[...]]
     --
-  - [[Page~7 坳(3)]]
+  - [[Page~7 坳(3)]] <# entry #3 #>
     --
     A colloquial word;
     --
@@ -321,7 +321,7 @@ F
   ==
 W
   ====
-  - [[Page~7 拗(3)]]
+  - [[Page~7 拗(3)]] <# entry #2 #>
     ==
     - Obstinate, self-willed, perverse [[Kangxi: 拗戾]];
     - to rush against madly [[Kangxi: 固相違也]];

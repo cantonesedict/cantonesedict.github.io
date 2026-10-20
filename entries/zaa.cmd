@@ -183,7 +183,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1){𠾵=⿰口揸}]]
+  - [[Page~7 (1){𠾵=⿰口揸}]] <# entry #11 #>
     --
     A colloquial particle implying a short time;
     --
@@ -209,14 +209,14 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)㪥; here corrected to 揸]]
+  - [[Page~7 (1)㪥; here corrected to 揸]] <# entry #9 #>
     ==
     - [[...]];
     - _(1)ch(a/) (5)y(e/)_
         [[zaa1 je5 揸嘢]],
         to handle.
     ==
-  - [[Page~7 (1)揸]]
+  - [[Page~7 (1)揸]] <# entry #10 #>
     --
     A unauthorized character.
     --
@@ -304,7 +304,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)撾]]
+  - [[Page~7 (1)撾]] <# entry #12 #>
     ==
     - To beat a drum or a bell with a stick [[Kangxi: 擊也, 擊鼓也]].
     ==
@@ -324,7 +324,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)㪥]]
+  - [[Page~7 (1)㪥]] <# entry #9 #>
     ==
     - To put the hand upon, to feel, to press down [[Kangxi: 以指按也]], to take [[Kangxi: 取也]];
     - [[...]].
@@ -364,7 +364,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)樝]]
+  - [[Page~7 (1)樝]] <# entry #6 #>
     ==
     - A sour red berry as large as a cherry [[Kangxi: 似棃而酢]],
       called _(1)sh(a/)n (1)ch(a/)_ [[saan1 zaa1 山樝]],
@@ -386,7 +386,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)渣]]
+  - [[Page~7 (1)渣]] <# entry #5 #>
     ==
     - Name of a river [[Kangxi: 水名]];
     - dregs, grounds, residuum [[Kangxi: 俗以此爲渣滓字]];
@@ -427,7 +427,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)皻]]
+  - [[Page~7 (1)皻]] <# entry #7 #>
     ==
     - Pimples on the nose [[Kangxi: 鼻上皰]], wine blotches [[Kangxi: 紅暈似瘡浮起著面鼻者曰酒皻]];
     - pimples on the skin;
@@ -452,7 +452,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)蹅]]
+  - [[Page~7 (1)蹅]] <# entry #8 #>
     ==
     - To tread upon;
     -  to put the foot on;
@@ -521,7 +521,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (2)鮓]]
+  - [[Page~7 (2)鮓]] <# entry #13 #>
     ==
     - A rank condiment of fish or flesh and salted hashed fine,
       with red rice and oil [[Kangxi: 藏魚也 etc.]];
