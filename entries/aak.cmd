@@ -100,7 +100,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7); here normalised to 呃]]
+  - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1); here normalised to 呃]] <# entry #11 #>
     --
     A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
     --
@@ -176,7 +176,7 @@ F
   ==
 W
   ====
-  - [[Page~3 軛(7)]]
+  - [[Page~3 軛(7)]] <# entry #10 #>
     ==
     - A yoke [[Kangxi: 轅端橫木駕馬領者]];
     - the yoke of a carriage;
@@ -207,7 +207,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1)]]
+  - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1)]] <# entry #11 #>
     --
     [[Alternative form of 呃 (Cantonese). **See $呃aak1 for the canonical entry.**]]
     --
@@ -251,7 +251,7 @@ F
   ==
 W
   ====
-  - [[Page~3 鈪(8)]]
+  - [[Page~3 鈪(8)]] <# entry #9 #>
     --
     An unauthorized character.
     --

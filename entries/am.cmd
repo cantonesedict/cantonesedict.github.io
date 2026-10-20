@@ -320,7 +320,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 (2)唵 _(2)Am_; here corrected to _(2)(O\)m_]]
+  - [[Page~3 (2)唵 _(2)Am_; here corrected to _(2)(O\)m_]] <# entry #12 #>
     ==
     - To feed with the hands [[Kangxi: 手進食也]];
     - to hold in the mouth [[Kangxi: 含也]];
@@ -347,7 +347,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 (2)掩]]
+  - [[Page~3 (2)掩]] <# entry #13 #>
     --
     [[Alternative form of 揞 (Cantonese). **See $揞am2 for the canonical entry.**]]
     --
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~3 (2)掩 _(2)Am_ (am2); here normalised to 揞 _(2)(O\)m_ (am2)]]
+  - [[Page~3 (2)掩 _(2)Am_ (am2); here normalised to 揞 _(2)(O\)m_ (am2)]] <# entry #13 #>
     --
     A colloquial word.
     --

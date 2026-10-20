@@ -41,6 +41,8 @@ S
   ==
 $$
 
+<## TODO: Page~3 扼(7) <# entry #8 #> ##>
+
 
 ##{#1 .williams} Ak(7) [[ak1 高陰入]]
 
@@ -82,7 +84,7 @@ F
   ==
 W
   ====
-  - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
+  - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]] <# entry #6 #>
     ==
     - [[...]];
     - small door in a house [[Kangxi 厄: 同戹]];
@@ -179,7 +181,7 @@ F
   ==
 W
   ====
-  - [[Page~3 幄(7)]]
+  - [[Page~3 幄(7)]] <# entry #5 #>
     ==
     - A curtain, a screen [[Kangxi: 帳也, 幬也]];
     - a large tent, a markee [[Kangxi: 大帷]];
@@ -213,7 +215,7 @@ F
   ==
 W
   ====
-  - [[Page~3 握(7)]]
+  - [[Page~3 握(7)]] <# entry #3 #>
     ==
     - To grasp, to hold within the hand [[Kangxi: 搤持也 etc.]];
     - a little, as much as the palm can hold;
@@ -266,7 +268,7 @@ F
   ==
 W
   ====
-  - [[Page~3 渥(7)]]
+  - [[Page~3 渥(7)]] <# entry #4 #>
     ==
     - To moisten, to soak [[Kangxi: 霑也]];
     - to enrich with favors;
@@ -325,7 +327,7 @@ W
     - impeded, stopped up;
     - [[...]].
     ==
-  - [[Page~3 阨(7) ^_Ak(7)_ (ak1)]]
+  - [[Page~3 阨(7) ^_Ak(7)_ (ak1)]] <# entry #7 #>
     ==
     - An obstruction [[Kangxi: 限也]], a stop [[Kangxi: 塞也]];
     - [[...]];
