@@ -67,7 +67,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~6 (1)坳]]
+  - [[Page~6 (1)坳]] <# entry #12 #>
     --
     [[...]]
     --
@@ -260,13 +260,16 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)坳 _(1)(A/)u_ (aau1); here normalised to _(A/)u(3)_ (aau3)]]
+  - [[Page~6 (1)坳 _(1)(A/)u_ (aau1); here normalised to _(A/)u(3)_ (aau3)]] <# entry #12 #>
     ==
     - A furrow, a hollow [[Kangxi: 窊下也]];
     - an unevenness in the ground;
     - undulations;
     - rolling, as land.
     ==
+    --
+    [[...]]
+    --
   - [[Page~7 坳(3)]]
     --
     A colloquial word;

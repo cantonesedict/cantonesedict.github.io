@@ -79,7 +79,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)區]]
+  - [[Page~6 (1)區]] <# entry #4 #>
     ==
     - A surname [[Kangxi: 姓]];
     - a measure of four pecks [[Kangxi: 四豆爲區]];
@@ -127,7 +127,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
+  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]] <# entry #9 #>
     --
     [[...]]
     --
@@ -171,7 +171,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)歐]]
+  - [[Page~6 (1)歐]] <# entry #8 #>
     --
     [[...]]
     --
@@ -216,7 +216,7 @@ F
   ==
 W
   ====
-  - [[Page~6 漚(3)]]
+  - [[Page~6 漚(3)]] <# entry #11 #>
     --
     [[...]]
     --
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)甌]]
+  - [[Page~6 (1)甌]] <# entry #5 #>
     ==
     - A bowl [[Kangxi: 小盆也, 瓦器]], a deep cup [[Kangxi: 今俗謂盌深者爲甌]];
     - _(5)ng(a/) (1)au_
@@ -303,7 +303,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)謳]]
+  - [[Page~6 (1)謳]] <# entry #7 #>
     ==
     - To sing songs in recitative [[Kangxi: 歌也]];
     - a chant [[Kangxi: 吟也]];
@@ -315,7 +315,7 @@ W
         [[au1 jam4 謳吟]],
         to sing songs.
     ==
-  - [[Page~6 (1)歐]]
+  - [[Page~6 (1)歐]] <# entry #8 #>
     ==
     - To sing;
     - to crow merrily;
@@ -324,7 +324,7 @@ W
     --
     [[...]]
     --
-  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
+  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]] <# entry #9 #>
     --
     [[...]]
     --
@@ -366,7 +366,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)鷗]]
+  - [[Page~6 (1)鷗]] <# entry #6 #>
     ==
     - A gull [[Kangxi: 鷗水鴞也]];
     - _p(a/)k(9) (1)au_^
@@ -426,7 +426,7 @@ W
     --
     [[...]]
     --
-  - [[Page~6 (2)嘔]]
+  - [[Page~6 (2)嘔]] <# entry #9 #>
     --
     Interchanged with the last [[歐]] [[Kangxi: 與歐同吐也]].
     --
@@ -517,7 +517,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (2)毆]]
+  - [[Page~6 (2)毆]] <# entry #10 #>
     ==
     - To fight, to hit with a stick [[Kangxi: 捶毄物也, 以杖擊也]];
     - to strike, to knock;
@@ -573,7 +573,7 @@ F
   ==
 W
   ====
-  - [[Page~6 漚(3)]]
+  - [[Page~6 漚(3)]] <# entry #11 #>
     ==
     - To soak, to macerate, to steep [[Kangxi: 久漬也]];
     - to soften by soaking [[Kangxi: 漚柔也]];

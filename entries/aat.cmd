@@ -81,7 +81,7 @@ F
   ==
 W
   ====
-  - [[Page~6 壓(8)]]
+  - [[Page~6 壓(8)]] <# entry #1 #>
     ==
     - To overthrow, as a wall [[Kangxi: 壞也]];
     - to supply a want [[Kangxi: 塞補也]];
@@ -448,7 +448,7 @@ F
   ==
 W
   ====
-  - [[Page~6 閼(8)]]
+  - [[Page~6 閼(8)]] <# entry #2 #>
     ==
     - To shut, to stop up [[Kangxi: 遮壅也]];
     - to obstruct [[Kangxi: 止也塞也]];
@@ -489,7 +489,7 @@ F
   ==
 W
   ====
-  - [[Page~6 頞(8)]]
+  - [[Page~6 頞(8)]] <# entry #3 #>
     ==
     - The root of the nose [[Kangxi: 鼻莖也]];
     - the frontal sinus;
