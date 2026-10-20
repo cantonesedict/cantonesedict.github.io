@@ -1518,10 +1518,6 @@ LINTING_P_CONTENT_ITEM_PATTERN = re.compile(
     pattern='^[ ]+1[.].*',
     flags=re.MULTILINE,
 )
-LINTING_XXX_LINE_PATTERN = re.compile(
-    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
-    flags=re.MULTILINE | re.VERBOSE,
-)
 
 LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN = re.compile(
     pattern=r'(?i:Alternative form).*See (?P<potential_target>.*)',
@@ -2858,7 +2854,7 @@ class CharacterEntry:
 
         CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
         CharacterEntry.lint_additionality(is_canonical, is_added, character_run, williams_run, character,
-                                          w_content, heading_content)
+                                          williams_locators, w_content, heading_content)
         CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_reading_variation_order(reading_variations)
@@ -3190,37 +3186,37 @@ class CharacterEntry:
 
     @staticmethod
     def lint_additionality(is_canonical: bool, is_added: bool, character_run: str, williams_run: str, character: str,
-                           w_content: str, heading_content: str):
+                           williams_locators: list['WilliamsLocator'], w_content: str, heading_content: str):
         is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
-        xxx_lines = LINTING_XXX_LINE_PATTERN.findall(string=w_content)
+        locator_lines = [williams_locator.content() for williams_locator in williams_locators]
 
-        if is_williams_present and character not in '\n'.join(xxx_lines):
+        if is_williams_present and character not in '\n'.join(locator_lines):
             raise LintException(
-                f'character `{character}` not present in at least one xxx under `{heading_content}`'
+                f'character `{character}` not present in at least one Williams locator under `{heading_content}`'
             )
 
         if any(
-            same_romanisation_xxx_line := line
-            for line in xxx_lines
+            same_romanisation_locator_line := line
+            for line in locator_lines
             if (
                 line.count('_') == 2
                 and williams_run in line.replace(f'^{williams_run}', '')
             )
         ):
             raise LintException(
-                f'same-romanisation xxx `{same_romanisation_xxx_line.strip()}` under `{heading_content}` '
+                f'same-romanisation Williams locator `{same_romanisation_locator_line}` under `{heading_content}` '
                 f'(suppress with caret before opening underscore if legitimate (e.g. for disambiguation))'
             )
 
-        are_xxx_all_redirected = all(
+        are_locators_all_redirected = all(
             character not in line
             or any(v in line for v in redirect_verbs)
             or (
                 line.count('_') == 2
                 and all(w not in line for w in williams_run.split())
             )
-            for line in xxx_lines
+            for line in locator_lines
         )
         is_heading_edited = any(
             '``' in run
@@ -3231,7 +3227,7 @@ class CharacterEntry:
             for williams in williams_run.lower().split()
         )
 
-        if are_xxx_all_redirected and not is_heading_edited:
+        if are_locators_all_redirected and not is_heading_edited:
             if not is_canonical and is_williams_present:
                 raise LintException(f'expected `{heading_content}` to be `[[Not present]]` in Williams')
             if not (is_added or is_alternative_given):
@@ -3640,10 +3636,12 @@ class WilliamsLocator:
         locator_readable = f'- [[Page~{page_number}{whitespace}{headword_run}{redirection_run}]]'
 
         if whitespace != ' ':
-            raise LintException(f'whitespace `{whitespace}` is not a single space in locator `{locator_readable}`')
+            raise LintException(
+                f'whitespace `{whitespace}` is not a single space in Williams locator `{locator_readable}`'
+            )
 
         if not WILLIAMS_TONE_PATTERN.search(string=locator_readable):
-            raise LintException(f'missing Williams tone in locator `{locator_readable}`')
+            raise LintException(f'missing Williams tone in Williams locator `{locator_readable}`')
 
         try:
             page_integer = int(page_number)
@@ -3661,7 +3659,7 @@ class WilliamsLocator:
         self.redirection_run = redirection_run
         self.entry_number = entry_number
 
-    def __str__(self):
+    def content(self):
         return f'- [[Page~{self.page_number} {self.headword_run}{self.redirection_run}]]'
 
 
