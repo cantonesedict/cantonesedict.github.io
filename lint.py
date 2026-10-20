@@ -3626,11 +3626,11 @@ class SeeAlsoLink:
 
 
 class WilliamsLocator:
-    page_number: str
     page_grouping: int
+    page_number: str
+    entry_number: int
     headword_run: str
     redirection_run: str
-    entry_number: int
 
     def __init__(self, page_number: str, whitespace: str, headword_run: str, redirection_run: str, entry_number: int):
         locator_readable = f'- [[Page~{page_number}{whitespace}{headword_run}{redirection_run}]]'
@@ -3653,11 +3653,11 @@ class WilliamsLocator:
             else:
                 page_grouping = 3
 
-        self.page_number = page_number
         self.page_grouping = page_grouping
+        self.page_number = page_number
+        self.entry_number = entry_number
         self.headword_run = headword_run
         self.redirection_run = redirection_run
-        self.entry_number = entry_number
 
     def __lt__(self, other):
         return self.identity() < other.identity()
