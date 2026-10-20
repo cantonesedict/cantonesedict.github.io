@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~5 押(8)]]
+  - [[Page~5 押(8)]] <# entry #2 #>
     --
     [[Reading variation. **See $押aat3 for the canonical entry.**]]
     --
@@ -97,7 +97,7 @@ F
   ==
 W
   ====
-  - [[Page~5 鴨(8)]]
+  - [[Page~5 鴨(8)]] <# entry #1 #>
     ==
     - A duck, a mallard;
     - _(2)h(i/)n (a/)p(8)_

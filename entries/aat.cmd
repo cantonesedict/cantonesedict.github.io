@@ -141,7 +141,7 @@ F
   ==
 W
   ====
-  - [[Page~5 恝(8)]]
+  - [[Page~5 恝(8)]] <# entry #9 #>
     ==
     - To dismiss care;
     - contented, lighthearted;
@@ -198,7 +198,7 @@ F
   ==
 W
   ====
-  - [[Page~5 戞(8)]]
+  - [[Page~5 戞(8)]] <# entry #6 #>
     --
     [[Alternative form of 戛, and reading variation. **See $戛gaat3 for the canonical entry.**]] [[TODO]]
     --
@@ -227,7 +227,7 @@ F
   ==
 W
   ====
-  - [[Page~5 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]]
+  - [[Page~5 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]] <# entry #2 #>
     ==
     - To sign, to affix a seal, to stamp [[Kangxi: 署也 etc.]];
     - to control, to guard [[Kangxi: 按也一曰管拘也]];
@@ -274,7 +274,7 @@ W
         [[aat3 dung1 押冬]],
         kept over winter; left over the season, as teas.
     ==
-  - [[Page~5 押(8) ^_(A/)t(8)_ (aat3)]]
+  - [[Page~5 押(8) ^_(A/)t(8)_ (aat3)]] <# entry #5 #>
     ==
     - To pawn for a time;
     - to reserve, to keep back;
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~5 揠(8)]]
+  - [[Page~5 揠(8)]] <# entry #7 #>
     ==
     - To pull up [[Kangxi: 拔也]];
     - to eradicate;
@@ -373,7 +373,7 @@ F
   ==
 W
   ====
-  - [[Page~5 秸(8)]]
+  - [[Page~5 秸(8)]] <# entry #8 #>
     --
     [[Reading variation. **See $秸gaai1 for the canonical entry.**]] [[TODO]]
     --
@@ -401,7 +401,7 @@ F
   ==
 W
   ====
-  - [[Page~5 遏(8)]]
+  - [[Page~5 遏(8)]] <# entry #4 #>
     ==
     - To stop, to bring to a standstill [[Kangxi: 遏止也]];
     - unforeseen obstacle;
