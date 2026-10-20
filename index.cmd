@@ -64,11 +64,11 @@ by [Samuel Wells Williams].
 - Main matter
   ==
   - [__Index of entry pages by Jyutping__](/entries/)
-  - [__Index of Cantonese terms by Jyutping__](/terms/)
   ==
 
 - Back matter
   ==
+  - [Index of Cantonese terms by Jyutping](/terms/)
   - [Search character entries](/search/)
   - [Index of characters by radical](/radicals/)
   - [Index of literary renderings by Baxter notation](/renderings/)
