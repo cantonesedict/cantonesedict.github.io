@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~4 晏(3)]]
+  - [[Page~4 晏(3)]] <# entry #2 #>
     ==
     - Evening, sunset;
     - a serene, clear, sky [[Kangxi: 天淸也]];
@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~4 鷃(3)]]
+  - [[Page~4 鷃(3)]] <# entry #3 #>
     ==
     - A kind of small [[Kangxi: 小雀也]] partridge,
       which breeds on the ground [[Kangxi: 鷃不木處]],
