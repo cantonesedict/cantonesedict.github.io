@@ -1093,13 +1093,14 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
         ^ [ ]+ [-][ ]
         \[\[
             Page~(?P<page_number> \S+ )
-            [ ]+
+            (?P<spaces> [ ]+ )
             (?P<headword_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
         \]\]
     ''',
     flags=re.MULTILINE | re.VERBOSE,
 )
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_NUMBER_GROUP = 'page_number'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP = 'spaces'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP = 'redirection_run'
 
@@ -3345,10 +3346,11 @@ class CharacterEntry:
     @staticmethod
     def extract_williams_locators(content: str) -> list['WilliamsLocator']:
         return [
-            WilliamsLocator(page_number, headword_run, redirection_run, entry_number)
+            WilliamsLocator(page_number, whitespace, headword_run, redirection_run, entry_number)
             for match in CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN.finditer(string=content)
             if (
                 page_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_NUMBER_GROUP),
+                whitespace := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP),
                 headword_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP),
                 redirection_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP),
                 entry_number := -1,  # TODO
@@ -3633,8 +3635,12 @@ class WilliamsLocator:
     headword_run: str
     entry_number: int
 
-    def __init__(self, page_number: str, headword_run: str, redirection_run: str, entry_number: int):
-        locator_readable = f'- [[Page~{page_number} {headword_run}{redirection_run}]]'
+    def __init__(self, page_number: str, whitespace: str, headword_run: str, redirection_run: str, entry_number: int):
+        locator_readable = f'- [[Page~{page_number}{whitespace}{headword_run}{redirection_run}]]'
+
+        if whitespace != ' ':
+            raise LintException(f'whitespace `{whitespace}` is not a single space in locator `{locator_readable}`')
+
         if not WILLIAMS_TONE_PATTERN.search(string=locator_readable):
             raise LintException(f'missing Williams tone in locator `{locator_readable}`')
 
