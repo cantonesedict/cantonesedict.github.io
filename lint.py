@@ -1088,6 +1088,21 @@ CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN = re.compile(
 )
 CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP = 'raw_jyutping'
 
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ [-][ ]
+        \[\[
+            Page~(?P<page_number> \S+ )
+            [ ]+
+            (?P<headword_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
+        \]\]
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_NUMBER_GROUP = 'page_number'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP = 'redirection_run'
+
 CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN = re.compile(
     pattern=r'''
         ^ (?P<indentation> [ ]+ ) [*][ ]
@@ -1409,12 +1424,6 @@ LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
     pattern=r'^ [ ]+ (?P<equals_fence> [=]{2,} ) [=]* \n [ ]+ (?P=equals_fence) $',
     flags=re.MULTILINE | re.VERBOSE,
 )
-
-LINTING_WILLIAMS_XXX_PATTERN = re.compile(
-    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
-    flags=re.MULTILINE | re.VERBOSE,
-)
-LINTING_WILLIAMS_XXX_HEADWORD_RUN_GROUP = 'headword_run'
 
 LINTING_ELLIPSIS_ITEM = "- [[...]]"
 LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN = re.compile(
@@ -2831,6 +2840,7 @@ class CharacterEntry:
         e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
+        williams_locators = CharacterEntry.extract_williams_locators(w_content)
         literary_renderings = CharacterEntry.extract_literary_renderings(l_content, character, page_heading_jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
@@ -2838,7 +2848,6 @@ class CharacterEntry:
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
         CharacterEntry.lint_residual_stroke_count_consistency(radical_strokes_list, h_content, heading_content)
         CharacterEntry.lint_consecutive_lists(w_content, heading_content)
-        CharacterEntry.lint_williams_xxx_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
         CharacterEntry.lint_annotation_headword(character, w_content)
@@ -2992,15 +3001,6 @@ class CharacterEntry:
                 f'consecutive lists under `{heading_content}` '
                 f'(suppress with intervening caret plus backslash if legitimate)'
             )
-
-    @staticmethod
-    def lint_williams_xxx_tone(content: str):
-        for match in LINTING_WILLIAMS_XXX_PATTERN.finditer(string=content):
-            xxx_run = match.group().strip()
-            headword_run = match.group(LINTING_WILLIAMS_XXX_HEADWORD_RUN_GROUP)
-
-            if not WILLIAMS_TONE_PATTERN.search(string=headword_run):
-                raise LintException(f'missing Williams tone in xxx `{xxx_run}`')
 
     @staticmethod
     def lint_williams_ellipsis_item_punctuation(content: str):
@@ -3341,6 +3341,19 @@ class CharacterEntry:
         ]
 
     @staticmethod
+    def extract_williams_locators(content: str) -> list['WilliamsLocator']:
+        return [
+            WilliamsLocator(page_number, headword_run, redirection_run, entry_number)
+            for match in CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN.finditer(string=content)
+            if (
+                page_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_NUMBER_GROUP),
+                headword_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP),
+                redirection_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP),
+                entry_number := -1,  # TODO
+            )
+        ]
+
+    @staticmethod
     def extract_literary_renderings(content: Optional[str], character: str, page_heading_jyutping: str
                                     ) -> Optional[list['LiteraryRendering']]:
         if content is None:
@@ -3610,6 +3623,33 @@ class SeeAlsoLink:
 
     def link_content(self) -> str:
         return f'${self.character_content}{self.jyutping}'
+
+
+class WilliamsLocator:
+    page_number: str
+    page_grouping: int
+    headword_run: str
+    entry_number: int
+
+    def __init__(self, page_number: str, headword_run: str, redirection_run: str, entry_number: int):
+        locator_readable = f'- [[Page~{page_number} {headword_run}{redirection_run}]]'
+        if not WILLIAMS_TONE_PATTERN.search(string=locator_readable):
+            raise LintException(f'missing Williams tone in locator `{locator_readable}`')
+
+        try:
+            page_integer = int(page_number)
+        except ValueError:  # starred page numbers
+            page_grouping = 2
+        else:
+            if page_integer < 41:
+                page_grouping = 1
+            else:
+                page_grouping = 3
+
+        self.page_number = page_number
+        self.page_grouping = page_grouping
+        self.headword_run = headword_run
+        self.entry_number = entry_number
 
 
 class LiteraryRendering:
