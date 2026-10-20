@@ -2772,8 +2772,8 @@ class CharacterEntry:
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
     williams_locators: list['WilliamsLocator']
-    cantonese_entries: Optional[list['CantoneseEntry']]
     literary_renderings: Optional[list['LiteraryRendering']]
+    cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
