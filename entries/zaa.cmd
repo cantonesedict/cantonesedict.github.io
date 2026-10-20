@@ -490,7 +490,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (2)痄]]
+  - [[Page~8 (2)痄]] <# entry #1 #>
     --
     [[Reading variation. **See $痄zaa3 for the canonical entry.**]]
     --
@@ -606,7 +606,7 @@ F
   ==
 W
   ====
-  - [[Page~8 乍(3)]]
+  - [[Page~8 乍(3)]] <# entry #6 #>
     ==
     - At first [[Kangxi: 初也]], suddenly, hastily [[Kangxi: 猝也]];
     - for a moment [[Kangxi: 暫也]];
@@ -695,7 +695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 咋(3)]]
+  - [[Page~8 咋(3)]] <# entry #8 #>
     --
     [[...]]
     --
@@ -794,12 +794,12 @@ F
   ==
 W
   ====
-  - [[Page~8 醡(3)]]
+  - [[Page~8 醡(3)]] <# entry #4 #>
     ==
     - [[...]];
     - used for the next [[榨]] [[Kangxi 醡: 打油具]].
     ==
-  - [[Page~8 榨(3)]]
+  - [[Page~8 榨(3)]] <# entry #5 #>
     ==
     - An oil-press [[Kangxi: 打油具也]];
     - a sugar press;
@@ -814,7 +814,7 @@ W
         [[zaa3 liu4 榨寮]],
         a sugar-press shed.
     ==
-  - [[Page~8 搾(3)]]
+  - [[Page~8 搾(3)]] <# entry #7 #>
     --
     An unauthorized character.
     --
@@ -864,7 +864,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]]
+  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]] <# entry #1 #>
     ==
     - A running ulcer [[Kangxi: 瘡不合也]];
     - [[...]];
@@ -900,7 +900,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 蚱(3)]]
+  - [[Page~8 蚱(3)]] <# entry #3 #>
     ==
     - A large ~~locust~~ ``grasshopper``, called _(5)m(a/) ch(a/)(3)_
         [[maa5 zaa3 螞蚱]]
@@ -1004,7 +1004,7 @@ F
   ==
 W
   ====
-  - [[Page~8 詐(3)]]
+  - [[Page~8 詐(3)]] <# entry #2 #>
     ==
     - To deceive, to cheat, to impose upon [[Kangxi: 欺也]];
     - erroneous, false [[Kangxi: 僞也]];
@@ -1066,7 +1066,7 @@ F
   ==
 W
   ====
-  - [[Page~8 醡(3)]]
+  - [[Page~8 醡(3)]] <# entry #4 #>
     ==
     - A wine press [[Kangxi: 壓酒具也]];
     - to press or separate spirits;

@@ -97,7 +97,7 @@ W
         to roast a potato or taro in ashes;
         _met._ to enjoy one's self secretly.
     ==
-  - [[Page~716 洽(9)]]
+  - [[Page~716 洽(9)]] <# entry #8 #>
     --
     See _ap(7)_ [[ap1]].
     --

@@ -416,7 +416,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
+  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]] <# entry #8 #>
     --
     [[...]]
     --
@@ -481,7 +481,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
+  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]] <# entry #8 #>
     --
     [[Alternative form of 嘔. **See $嘔au2 for the canonical entry.**]]
     --

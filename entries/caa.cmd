@@ -68,7 +68,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)义]]
+  - [[Page~8 (1)义]] <# entry #11 #>
     --
     [[Alternative form of 叉. **See $叉caa1 for the canonical entry.**]]
     --
@@ -94,7 +94,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)义; here normalised to 叉]]
+  - [[Page~8 (1)义; here normalised to 叉]] <# entry #11 #>
     ==
     - A fork in a road;
     - a prong, a crotch;
@@ -155,7 +155,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 ::~~(1)汊~~(1)岔::]]
+  - [[Page~8 ::~~(1)汊~~(1)岔::]] <# entry #10 #>
     ==
     - [[...]] roads diverging [[Kangxi 岔: 三分路也]];
     - _(1)s(a/)m (1)ch(')(a/) l(o\)(6) (2)hau_
@@ -192,7 +192,7 @@ F
   ==
 W
   ====
-  - [[Page~8 (1)差]]
+  - [[Page~8 (1)差]] <# entry #9 #>
     ==
     - Mistaken [[Kangxi: 舛也]];
     - to err, to differ [[Kangxi: 貳也不相値也]];
@@ -264,7 +264,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)扠]]
+  - [[Page~8 (1)扠]] <# entry #12 #>
     ==
     - To fork out, to nip [[Kangxi: 挾取也]];
     - to drive out, to pitch out, to strike;
@@ -297,7 +297,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 ::(1)汊~~(1)岔~~::]]
+  - [[Page~8 ::(1)汊~~(1)岔~~::]] <# entry #10 #>
     ==
     - Streams [[...]] diverging [[Kangxi 汊: 水岐流也]];
     - [[...]];
@@ -786,7 +786,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here corrected to _(4)Ch(')(a/)_ (caa4)]]
+  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here corrected to _(4)Ch(')(a/)_ (caa4)]] <# entry #1 #>
     ==
     - [[...]];
     - a severe disease [[Kangxi: 痄疨病甚]];
@@ -845,7 +845,7 @@ F
   ==
 W
   ====
-  - [[Page~8 (4)茶]]
+  - [[Page~8 (4)茶]] <# entry #13 #>
     ==
     - Tea [[Kangxi: 春藏葉可以爲飮, 茗也]];
     - the infusion of tea, tea;
