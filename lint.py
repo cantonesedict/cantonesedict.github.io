@@ -2771,6 +2771,7 @@ class CharacterEntry:
     e_content: Optional[str]
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
+    williams_locators: list['WilliamsLocator']
     cantonese_entries: Optional[list['CantoneseEntry']]
     literary_renderings: Optional[list['LiteraryRendering']]
     see_also_links: Optional[list['SeeAlsoLink']]
@@ -2881,6 +2882,7 @@ class CharacterEntry:
         self.p_content = p_content
         self.alternative_forms = alternative_forms
         self.reading_variations = reading_variations
+        self.williams_locators = williams_locators
         self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
