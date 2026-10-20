@@ -3920,6 +3920,7 @@ class Linter:
             Linter.lint_character_entry_literary_rendering_linkage(character_entries)
             Linter.lint_character_entry_see_also_presence(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
+            Linter.lint_williams_locator_consistency(williams_locators)
             Linter.lint_literary_rendering_fragment_duplication(literary_renderings)
             Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
@@ -4597,6 +4598,28 @@ class Linter:
                     or universal_link not in [other_link.link_content() for other_link in other_see_also_links]
                 ):
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
+
+    @staticmethod
+    def lint_williams_locator_consistency(williams_locators: list['WilliamsLocator']):
+        collated_williams_locators_from_identity = Utilities.collate_firsts_by_second(
+            (williams_locator, williams_locator.identity())
+            for williams_locator in williams_locators
+        )
+
+        for identity, collated_williams_locators in collated_williams_locators_from_identity.items():
+            collated_headword_runs = set(
+                williams_locator.headword_run
+                for williams_locator in collated_williams_locators
+            )
+            if len(collated_headword_runs) > 1:
+                williams_locator_lines = [
+                    williams_locator.content()
+                    for williams_locator in collated_williams_locators
+                ]
+                raise LintException(
+                    f'inconsistent headword runs {collated_headword_runs} '
+                    f'in Williams locators {williams_locator_lines}'
+                )
 
     @staticmethod
     def lint_literary_rendering_fragment_duplication(literary_renderings: list['LiteraryRendering']):
