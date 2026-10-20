@@ -3659,6 +3659,12 @@ class WilliamsLocator:
         self.redirection_run = redirection_run
         self.entry_number = entry_number
 
+    def __lt__(self, other):
+        return self.identity() < other.identity()
+
+    def identity(self):
+        return self.page_grouping, self.page_number, self.entry_number
+
     def content(self):
         return f'- [[Page~{self.page_number} {self.headword_run}{self.redirection_run}]]'
 
