@@ -3883,6 +3883,11 @@ class Linter:
             for entry_page in entry_pages
             for character_entry in entry_page.character_entries
         ]
+        williams_locators = [
+            williams_locator
+            for character_entry in character_entries
+            for williams_locator in character_entry.williams_locators
+        ]
         literary_renderings = [
             literary_rendering
             for entry_page in entry_pages
@@ -3921,6 +3926,7 @@ class Linter:
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
         self.character_entries = character_entries
+        self.williams_locators = williams_locators
         self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
 
