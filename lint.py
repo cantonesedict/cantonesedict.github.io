@@ -3633,6 +3633,7 @@ class WilliamsLocator:
     page_number: str
     page_grouping: int
     headword_run: str
+    redirection_run: str
     entry_number: int
 
     def __init__(self, page_number: str, whitespace: str, headword_run: str, redirection_run: str, entry_number: int):
@@ -3657,7 +3658,11 @@ class WilliamsLocator:
         self.page_number = page_number
         self.page_grouping = page_grouping
         self.headword_run = headword_run
+        self.redirection_run = redirection_run
         self.entry_number = entry_number
+
+    def __str__(self):
+        return f'- [[Page~{self.page_number} {self.headword_run}{self.redirection_run}]]'
 
 
 class LiteraryRendering:
