@@ -1410,11 +1410,11 @@ LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
     flags=re.MULTILINE | re.VERBOSE,
 )
 
-LINTING_WILLIAMS_LOCATOR_PATTERN = re.compile(
+LINTING_WILLIAMS_XXX_PATTERN = re.compile(
     pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
     flags=re.MULTILINE | re.VERBOSE,
 )
-LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
+LINTING_WILLIAMS_XXX_HEADWORD_RUN_GROUP = 'headword_run'
 
 LINTING_ELLIPSIS_ITEM = "- [[...]]"
 LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN = re.compile(
@@ -1508,7 +1508,7 @@ LINTING_P_CONTENT_ITEM_PATTERN = re.compile(
     pattern='^[ ]+1[.].*',
     flags=re.MULTILINE,
 )
-LINTING_LOCATOR_LINE_PATTERN = re.compile(
+LINTING_XXX_LINE_PATTERN = re.compile(
     pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
     flags=re.MULTILINE | re.VERBOSE,
 )
@@ -2838,7 +2838,7 @@ class CharacterEntry:
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
         CharacterEntry.lint_residual_stroke_count_consistency(radical_strokes_list, h_content, heading_content)
         CharacterEntry.lint_consecutive_lists(w_content, heading_content)
-        CharacterEntry.lint_williams_locator_tone(w_content)
+        CharacterEntry.lint_williams_xxx_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
         CharacterEntry.lint_annotation_headword(character, w_content)
@@ -2994,13 +2994,13 @@ class CharacterEntry:
             )
 
     @staticmethod
-    def lint_williams_locator_tone(content: str):
-        for match in LINTING_WILLIAMS_LOCATOR_PATTERN.finditer(string=content):
-            locator_run = match.group().strip()
-            headword_run = match.group(LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP)
+    def lint_williams_xxx_tone(content: str):
+        for match in LINTING_WILLIAMS_XXX_PATTERN.finditer(string=content):
+            xxx_run = match.group().strip()
+            headword_run = match.group(LINTING_WILLIAMS_XXX_HEADWORD_RUN_GROUP)
 
             if not WILLIAMS_TONE_PATTERN.search(string=headword_run):
-                raise LintException(f'missing Williams tone in locator `{locator_run}`')
+                raise LintException(f'missing Williams tone in xxx `{xxx_run}`')
 
     @staticmethod
     def lint_williams_ellipsis_item_punctuation(content: str):
@@ -3190,34 +3190,34 @@ class CharacterEntry:
                            w_content: str, heading_content: str):
         is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
-        locator_lines = LINTING_LOCATOR_LINE_PATTERN.findall(string=w_content)
+        xxx_lines = LINTING_XXX_LINE_PATTERN.findall(string=w_content)
 
-        if is_williams_present and character not in '\n'.join(locator_lines):
+        if is_williams_present and character not in '\n'.join(xxx_lines):
             raise LintException(
-                f'character `{character}` not present in at least one locator under `{heading_content}`'
+                f'character `{character}` not present in at least one xxx under `{heading_content}`'
             )
 
         if any(
-            same_romanisation_locator_line := line
-            for line in locator_lines
+            same_romanisation_xxx_line := line
+            for line in xxx_lines
             if (
                 line.count('_') == 2
                 and williams_run in line.replace(f'^{williams_run}', '')
             )
         ):
             raise LintException(
-                f'same-romanisation locator `{same_romanisation_locator_line.strip()}` under `{heading_content}` '
+                f'same-romanisation xxx `{same_romanisation_xxx_line.strip()}` under `{heading_content}` '
                 f'(suppress with caret before opening underscore if legitimate (e.g. for disambiguation))'
             )
 
-        are_locators_all_redirected = all(
+        are_xxx_all_redirected = all(
             character not in line
             or any(v in line for v in redirect_verbs)
             or (
                 line.count('_') == 2
                 and all(w not in line for w in williams_run.split())
             )
-            for line in locator_lines
+            for line in xxx_lines
         )
         is_heading_edited = any(
             '``' in run
@@ -3228,7 +3228,7 @@ class CharacterEntry:
             for williams in williams_run.lower().split()
         )
 
-        if are_locators_all_redirected and not is_heading_edited:
+        if are_xxx_all_redirected and not is_heading_edited:
             if not is_canonical and is_williams_present:
                 raise LintException(f'expected `{heading_content}` to be `[[Not present]]` in Williams')
             if not (is_added or is_alternative_given):
@@ -3241,7 +3241,7 @@ class CharacterEntry:
     def lint_fan_wan_same_romanisation(williams_run: str, f_content: str, heading_content: str):
         if williams_run in f_content.replace(f'^{williams_run}', ''):
             raise LintException(
-                f'same-romanisation Fan Wan locator under `{heading_content}` '
+                f'same-romanisation Fan Wan xxx under `{heading_content}` '
                 f'(suppress with caret before opening underscore if legitimate (e.g. for uncertainty))'
             )
 
