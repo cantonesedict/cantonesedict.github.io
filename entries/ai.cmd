@@ -69,7 +69,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 (1){𫫃=⿰口挨}; here normalised to 哎]]
+  - [[Page~2 (1){𫫃=⿰口挨}; here normalised to 哎]] <# entry #3 #>
     ==
     - A particle of surprise or pain;
     <## TODO: normalise to ${𠼮=⿰口偽}ngai1
@@ -133,7 +133,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 (1){𫫃=⿰口挨}]]
+  - [[Page~2 (1){𫫃=⿰口挨}]] <# entry #3 #>
     --
     [[Alternative form of 哎 (Cantonese). **See $哎ai1 for the canonical entry.**]]
     --
@@ -177,7 +177,7 @@ F
   ==
 W
   ====
-  - [[Page~2 (2)矮]]
+  - [[Page~2 (2)矮]] <# entry #4 #>
     ==
     - Low;
     - diminutive, short [[Kangxi: 短人也, 矬也]];
@@ -313,7 +313,7 @@ F
   ==
 W
   ====
-  - [[Page~2 縊(3)]]
+  - [[Page~2 縊(3)]] <# entry #5 #>
     ==
     - To hang, to strangle one's self [[Kangxi: 經也, 懸繩曰縊]];
     - ~~the warp of cloth;~~
@@ -359,7 +359,7 @@ F
   ==
 W
   ====
-  - [[Page~2 翳(3)]]
+  - [[Page~2 翳(3)]] <# entry #6 #>
     ==
     - A feather fan or screen, a flabellum [[Kangxi: 華蓋也]];
     - to screen, to intercept [[Kangxi: 翳猶屛也]];
@@ -394,7 +394,7 @@ W
         [[ai3 zai6 翳滯]]
         indigestible.
     ==
-  - [[Page~2 屭(3); here normalised to 翳]]
+  - [[Page~2 屭(3); here normalised to 翳]] <# entry #8 #>
     --
     [[...]]
     --
@@ -441,7 +441,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 {𦠉=⿰⺼壹}(3)]]
+  - [[Page~2 {𦠉=⿰⺼壹}(3)]] <# entry #7 #>
     ==
     - Lean, cadaverous, meager, poor [[Kangxi: ::[瘦]也::]].
     ==

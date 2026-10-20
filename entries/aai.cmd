@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~2 (1)挨]]
+  - [[Page~2 (1)挨]] <# entry #9 #>
     ==
     - To lean upon, to trust to;
     - to push away [[Kangxi: 推也]], to carry on the back;

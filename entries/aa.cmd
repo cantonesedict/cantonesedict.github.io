@@ -508,7 +508,7 @@ F
   ==
 W
   ====
-  - [[Page~2 ::亞(3)~~阿(3)~~::]]
+  - [[Page~2 ::亞(3)~~阿(3)~~::]] <# entry #1 #>
     ==
     - Hunchbacked [[Kangxi 亞: 象人局背之形]];
     - to esteem lightly, to regard as inferior;
@@ -654,7 +654,7 @@ F
   ==
 W
   ====
-  - [[Page~2 婭(3)]]
+  - [[Page~2 婭(3)]] <# entry #2 #>
     ==
     - Brothers-in-law [[Kangxi: 兩壻相謂曰婭 etc.]];
     - _(1)yan (a/)(3)_
@@ -682,7 +682,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 亞(3)阿(3)]]
+  - [[Page~2 亞(3)阿(3)]] <# entry #1 #>
     ==
     - [[...]];
     - a syllable prefixed to proper names,
