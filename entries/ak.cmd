@@ -321,7 +321,7 @@ F
   ==
 W
   ====
-  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]]
+  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]] <# entry #1 #>
     ==
     - [[...]];
     - impeded, stopped up;

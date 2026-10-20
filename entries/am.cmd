@@ -75,7 +75,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~724 (1)啽]]
+  - [[Page~724 (1)啽]] <# entry #12 #>
     ==
     - [[...]];
     - _(1)(o\)m mak(9)_
@@ -117,7 +117,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)庵(1)菴]]
+  - [[Page~341 (1)庵(1)菴]] <# entry #3 #>
     ==
     - A round hut [[Kangxi 庵: 圜屋爲庵]], a thatched cottage, a straw hovel [[Kangxi 庵: 小草舍也]] for soldiers or guard;
     - [[...]];
@@ -153,7 +153,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)庵(1)菴]]
+  - [[Page~341 (1)庵(1)菴]] <# entry #3 #>
     --
     [[Alternative form of 庵. **See $庵am1 for the canonical entry.**]]
     --
@@ -251,7 +251,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)䳺; here normalised to 鵪]]
+  - [[Page~341 (1)䳺; here normalised to 鵪]] <# entry #4 #>
     ==
     - A quail [[Kangxi 䳺: 䳺鶉]];
     - _(1)(o\)m ~~(4)shun~~ ``(1)ch(')un``_
@@ -281,7 +281,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)䳺]]
+  - [[Page~341 (1)䳺]] <# entry #4 #>
     --
     [[Alternative form of 鵪. **See $鵪am1 for the canonical entry.**]]
     --
@@ -402,7 +402,7 @@ W
         [[am2 dik1 bui6 sau2 揞滴背手]]
         give him a little sop, cover his palm.
     ==
-  - [[Page~341 (1)掩(2)揞]]
+  - [[Page~341 (1)掩(2)揞]] <# entry #5 #>
     ==
     - To cover, to hide, to screen, by putting something on [[Kangxi 揞: 掩也]];
     - ~~to extinguish, to suppress;~~

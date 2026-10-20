@@ -241,7 +241,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 屭(3)]]
+  - [[Page~2 屭(3)]] <# entry #8 #>
     --
     [[...]]
     --
@@ -272,7 +272,7 @@ F
   ==
 W
   ====
-  - [[Page~2 曀(3)]]
+  - [[Page~2 曀(3)]] <# entry #9 #>
     ==
     - Cloudy and windy [[Kangxi: 隂而風也]];
     - the sun obscured and nearly hid by the clouds [[Kangxi: 雲風曀日光 etc.]].
