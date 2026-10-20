@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)諳 _(2)(O\)m_ (am2); here normalised to _(1)(O\)m_ (am1)]]
+  - [[Page~342 (2)諳 _(2)(O\)m_ (am2); here normalised to _(1)(O\)m_ (am1)]] <# entry #1 #>
     ==
     - Accustomed, skilled in, versed [[Kangxi: 練也歷也, 熟聞也]];
     - to know, fully acquainted with [[Kangxi: 悉也, 知也, 曉也]];
@@ -492,7 +492,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)欿]]
+  - [[Page~342 (2)欿]] <# entry #4 #>
     --
     [[Reading variation. **See $欿ham2 for the canonical entry.**]] [[TODO]]
     --
@@ -516,7 +516,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)諳]]
+  - [[Page~342 (2)諳]] <# entry #1 #>
     --
     [[Reading variation. **See $諳am1 for the canonical entry.**]]
     --
@@ -540,7 +540,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)闇]]
+  - [[Page~342 (2)闇]] <# entry #2 #>
     --
     [[Reading variation. **See $闇am3 for the canonical entry.**]]
     --
@@ -569,7 +569,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)黯]]
+  - [[Page~342 (2)黯]] <# entry #3 #>
     ==
     - Dark, pitch dark [[Kangxi: 深黑也]], dark as a midnight;
     - astonied and silent, as if lost in amazement;
@@ -626,7 +626,7 @@ F
   ==
 W
   ====
-  - [[Page~342 暗(3)]]
+  - [[Page~342 暗(3)]] <# entry #5 #>
     ==
     - Sun obscured by clouds or otherwise [[Kangxi: 日無光也]];
     - dark, dimly lighted [[Kangxi: 不明也]], sombre;
@@ -704,7 +704,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)闇 _(2)(O\)m_ (am2); here normalised to _(O\)m(3)_ (am3)]]
+  - [[Page~342 (2)闇 _(2)(O\)m_ (am2); here normalised to _(O\)m(3)_ (am3)]] <# entry #2 #>
     ==
     - To shut the door [[Kangxi: 閉門也]], to withdraw from society, to retire from;
     - retired, dark, an obscure recess [[Kangxi: 冥也, 幽也]];

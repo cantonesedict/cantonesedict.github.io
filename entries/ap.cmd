@@ -135,7 +135,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 庵3 | _(O\)p(8)_ [[ap3]] <# entry #3 #>
+###+ 庵3 | _(O\)p(8)_ [[ap3]]
 
 $$
 R
@@ -150,7 +150,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~341 ::(1)庵~~(1)菴~~:: _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]]
+  - [[Page~341 ::(1)庵~~(1)菴~~:: _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]] <# entry #3 #>
     ==
     - [[...]];
     - a pig-sty [[Kangxi 庵: 豕屋]];
