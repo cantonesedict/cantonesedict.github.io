@@ -63,7 +63,7 @@ by [Samuel Wells Williams].
 
 - Main matter
   ==
-  - [__Index of entry pages by Jyutping__](/entries/)
+  - [__Entry pages by Jyutping__](/entries/)
   ==
 
 - Back matter

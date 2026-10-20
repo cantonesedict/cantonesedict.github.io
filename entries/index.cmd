@@ -4,8 +4,8 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> Index of entry pages by Jyutping
-* %date-modified --> 2026-10-08
+* %title --> Entry pages by Jyutping
+* %date-modified --> 2026-10-20
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
