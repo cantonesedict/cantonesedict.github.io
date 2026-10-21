@@ -28,7 +28,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
     ; Modern entry links
 |:
   //
-    ,{r=7} Page~1|n44
+    ,{r=7} Page~1
     , #1
     ,{.williams} (1)吖
     ,

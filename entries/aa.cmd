@@ -27,7 +27,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - (A/). [[Page~1|n44]]
+  - (A/). [[Page~1]]
   ==
 WV
   ==
@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~1|n44 (1)丫]] <# entry #4 #>
+  - [[Page~1 (1)丫]] <# entry #4 #>
     ==
     - A fork, a crotch [[Kangxi: 物之岐頭]];
     - the parting of two branches, fingers, or tines;
@@ -147,7 +147,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 (1)吖]] <# entry #1 #>
+  - [[Page~1 (1)吖]] <# entry #1 #>
     --
     A colloquial word.
     --
@@ -171,7 +171,7 @@ W
         [[gam2 zou6 aa1 噉做吖]],
         no, this is the way to do it.
     ==
-  - [[Page~1|n44 (1)呀; here normalised to 吖]] <# entry #3 #>
+  - [[Page~1 (1)呀; here normalised to 吖]] <# entry #3 #>
     --
     A colloquial word.
     --
@@ -230,7 +230,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 (1)呀]] <# entry #3 #>
+  - [[Page~1 (1)呀]] <# entry #3 #>
     --
     [[Alternative form of 吖 (Cantonese). **See $吖aa1 for the canonical entry.**]]
     --
@@ -285,7 +285,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 (2)啞 _(2)(A/)_ (aa2); here corrected to _(1)(A/)_ (aa1)]] <# entry #5 #>
+  - [[Page~1 (2)啞 _(2)(A/)_ (aa2); here corrected to _(1)(A/)_ (aa1)]] <# entry #5 #>
     ==
     - The confused noise of children ~~studying~~ ``learning to speak`` [[Kangxi: 啞嘔小兒學言]];
     - [[...]].
@@ -322,7 +322,7 @@ F
   ==
 W
   ====
-  - [[Page~1|n44 (1)鴉]] <# entry #2 #>
+  - [[Page~1 (1)鴉]] <# entry #2 #>
     ==
     - A raven with a white streak on its breast [[Kangxi: 小而腹下白 etc.]];
     - _(5)l(o\) (1)(a/)_
@@ -386,7 +386,7 @@ F
   ==
 W
   ====
-  - [[Page~1|n44 (2)啞]] <# entry #5 #>
+  - [[Page~1 (2)啞]] <# entry #5 #>
     ==
     - [[...]];
     - dumb [[Kangxi: 瘖也]];
@@ -401,7 +401,7 @@ W
     --
     [[...]]
     --
-  - [[Page~1|n44 (2)瘂; here normalised to 啞]] <# entry #6 #>
+  - [[Page~1 (2)瘂; here normalised to 啞]] <# entry #6 #>
     ==
     - Dumb, unable to speak [[Kangxi 瘂: 瘖瘂也, 同啞, 瘖也]];
     - dull, faded;
@@ -459,7 +459,7 @@ F
   ==
 W
   ====
-  - [[Page~1|n44 (2)瘂]] <# entry #6 #>
+  - [[Page~1 (2)瘂]] <# entry #6 #>
     ==
     - [[...]];
     - nape of the neck [[Kangxi: 人身項後入髮際五分爲瘂門]];
@@ -551,7 +551,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 呀(3)]] <# entry #7 #>
+  - [[Page~1 呀(3)]] <# entry #7 #>
     --
     [[Alternative form of 啊 (Cantonese). **See $啊aa3 for the canonical entry.**]]
     --
@@ -584,7 +584,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 呀(3); here normalised to 啊]] <# entry #7 #>
+  - [[Page~1 呀(3); here normalised to 啊]] <# entry #7 #>
     --
     A colloquial word.
     --
@@ -800,7 +800,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 呀(3)]] <# entry #7 #>
+  - [[Page~1 呀(3)]] <# entry #7 #>
     --
     A colloquial word.
     --
