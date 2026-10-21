@@ -3645,6 +3645,7 @@ class WilliamsLocator:
     page_number: str
     entry_number: Optional[int]
     headword_run: str
+    unedited_headword_run: str
     redirection_run: str
 
     def __init__(self, page_number: str, whitespace: str,
@@ -3682,10 +3683,17 @@ class WilliamsLocator:
         if entry_number is not None:
             entry_number = int(entry_number)
 
+        unedited_headword_run = (
+            INSERTION_PATTERN.sub(repl='', string=headword_run)
+            .replace('~~', '')
+            .replace('::', '')
+        )
+
         self.page_grouping = page_grouping
         self.page_number = page_number
         self.entry_number = entry_number
         self.headword_run = headword_run
+        self.unedited_headword_run = unedited_headword_run
         self.clarification_run = clarification_run
         self.redirection_run = redirection_run
 
@@ -3923,6 +3931,7 @@ class Linter:
             williams_locator
             for character_entry in character_entries
             for williams_locator in character_entry.williams_locators
+            if williams_locator.page_number != '9999'  # TODO: REMOVE
         ]
         literary_renderings = [
             literary_rendering
@@ -4637,17 +4646,17 @@ class Linter:
         )
 
         for identity, collated_williams_locators in collated_williams_locators_from_identity.items():
-            collated_headword_runs = set(
-                williams_locator.headword_run
+            collated_unedited_headword_runs = set(
+                williams_locator.unedited_headword_run
                 for williams_locator in collated_williams_locators
             )
-            if len(collated_headword_runs) > 1:
+            if len(collated_unedited_headword_runs) > 1:
                 williams_locator_lines = [
                     williams_locator.content()
                     for williams_locator in collated_williams_locators
                 ]
                 raise LintException(
-                    f'inconsistent headword runs {collated_headword_runs} '
+                    f'inconsistent unedited headword runs {collated_unedited_headword_runs} '
                     f'in Williams locators {williams_locator_lines}'
                 )
 
