@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (1)嚶]] <# entry #6 #>
+  - [[Page~4 #6: (1)嚶]]
     --
     [[Reading variation. **See $嚶jing1 for the canonical entry.**]] [[TODO]]
     --
@@ -101,7 +101,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (1)鶯]] <# entry #4 #>
+  - [[Page~4 #4: (1)鶯]]
     ==
     - The nightingale or a gay species of thrush [[Kangxi: 鶯鳥也卽黃鸝]],
       that nestles on the willow and sings well;
@@ -161,7 +161,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (2)哽]] <# entry #7 #>
+  - [[Page~4 #7: (2)哽]]
     --
     [[Reading variation. **See $哽gang2 for the canonical entry.**]] [[TODO]]
     --
@@ -219,7 +219,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~4 (2)㾘]] <# entry #8 #>
+  - [[Page~4 #8: (2)㾘]]
     --
     [[...]]
     --
@@ -291,7 +291,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~4 更(3)]] <# entry #9 #>
+  - [[Page~4 #9: 更(3)]]
     --
     A colloquial word, a corruption of _kang(3)_ [[gang3]].
     --

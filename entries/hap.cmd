@@ -58,7 +58,7 @@ $$
 $$
 W
   ====
-  - [[Page~4 洽(7) read _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]] <# entry #11 #>
+  - [[Page~4 #11: 洽(7) read _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
     --
     Read _~~h(a/)p(9)~~ ``hap(7)``_ [[hap1]].
     --

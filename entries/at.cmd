@@ -61,7 +61,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~5 ^_At(7)_ (at1); here assigned to 扤]] <# entry #3 #>
+  - [[Page~5 #3: ^_At(7)_ (at1); here assigned to 扤]]
     --
     [[Reading variation. **See $扤ngat1 for the canonical entry.**]] [[TODO]]
     --

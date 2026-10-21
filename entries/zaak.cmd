@@ -75,7 +75,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 咋(3) _Ch(a/)(3)_ (zaa3); here corrected to _Ch(a/)k(8)_ (zaak3)]] <# entry #8 #>
+  - [[Page~8 #8: 咋(3) _Ch(a/)(3)_ (zaa3); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     --
     A loud sound, a rude noise [[Kangxi: 大聲]].
     --

@@ -68,7 +68,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)义]] <# entry #11 #>
+  - [[Page~8 #11: (1)义]]
     --
     [[Alternative form of 叉. **See $叉caa1 for the canonical entry.**]]
     --
@@ -94,7 +94,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)义; here normalised to 叉]] <# entry #11 #>
+  - [[Page~8 #11: (1)义; here normalised to 叉]]
     ==
     - A fork in a road;
     - a prong, a crotch;
@@ -155,7 +155,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 ::~~(1)汊~~(1)岔::]] <# entry #10 #>
+  - [[Page~8 #10: ::~~(1)汊~~(1)岔::]]
     ==
     - [[...]] roads diverging [[Kangxi 岔: 三分路也]];
     - _(1)s(a/)m (1)ch(')(a/) l(o\)(6) (2)hau_
@@ -192,7 +192,7 @@ F
   ==
 W
   ====
-  - [[Page~8 (1)差]] <# entry #9 #>
+  - [[Page~8 #9: (1)差]]
     ==
     - Mistaken [[Kangxi: 舛也]];
     - to err, to differ [[Kangxi: 貳也不相値也]];
@@ -264,7 +264,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)扠]] <# entry #12 #>
+  - [[Page~8 #12: (1)扠]]
     ==
     - To fork out, to nip [[Kangxi: 挾取也]];
     - to drive out, to pitch out, to strike;
@@ -297,7 +297,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 ::(1)汊~~(1)岔~~::]] <# entry #10 #>
+  - [[Page~8 #10: ::(1)汊~~(1)岔~~::]]
     ==
     - Streams [[...]] diverging [[Kangxi 汊: 水岐流也]];
     - [[...]];
@@ -481,7 +481,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 奼(3)]] <# entry #7 #>
+  - [[Page~9|n52 #7: 奼(3)]]
     ==
     - A handsome girl [[Kangxi: 美女也]], a beautiful unmarried young lady [[Kangxi: 少女也]].
     ==
@@ -544,7 +544,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 蜡(3)]] <# entry #8 #>
+  - [[Page~9|n52 #8: 蜡(3)]]
     --
     [[Reading variation. **See $蜡zaa3 for the canonical entry.**]]
     --
@@ -581,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 詫(3)]] <# entry #5 #>
+  - [[Page~9|n52 #5: 詫(3)]]
     ==
     - To talk extravagantly, to vaunt [[Kangxi: 誇也]];
     - to deceive [[Kangxi: 誑也]];
@@ -589,7 +589,7 @@ W
         [[caa3 ji6 詫異]]
         ~~strange, foolish~~ ``wonder, astonishment``.
     ==
-  - [[Page~9|n52 吒(3)咤(3)]] <# entry #6 #>
+  - [[Page~9|n52 #6: 吒(3)咤(3)]]
     --
     Used for the last [[詫]].
     --
@@ -637,7 +637,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 (4)嗏]] <# entry #1 #>
+  - [[Page~9|n52 #1: (4)嗏]]
     ==
     - A euphonic final sound used in chanting, to prolong the line [[Fan Wan: 唱曲長聲也]].
     ==
@@ -659,7 +659,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~9|n52 (4)搽]] <# entry #2 #>
+  - [[Page~9|n52 #2: (4)搽]]
     --
     An unauthorized character.
     --
@@ -719,7 +719,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~9|n52 (4)查]] <# entry #4 #>
+  - [[Page~9|n52 #4: (4)查]]
     ==
     - A raft, a float [[Kangxi: 水中浮木]];
     - to examine, to inquire into [[Kangxi: 考察也]];
@@ -763,7 +763,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 (4)槎]] <# entry #3 #>
+  - [[Page~9|n52 #3: (4)槎]]
     ==
     - Drift-wood [[Kangxi: 同查]];
     - a small raft [[Kangxi: 桴也]];
@@ -786,7 +786,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here corrected to _(4)Ch(')(a/)_ (caa4)]] <# entry #1 #>
+  - [[Page~8 #1: (2)痄 _(2)Ch(a/)_ (zaa2); here corrected to _(4)Ch(')(a/)_ (caa4)]]
     ==
     - [[...]];
     - a severe disease [[Kangxi: 痄疨病甚]];
@@ -845,7 +845,7 @@ F
   ==
 W
   ====
-  - [[Page~8 (4)茶]] <# entry #13 #>
+  - [[Page~8 #13: (4)茶]]
     ==
     - Tea [[Kangxi: 春藏葉可以爲飮, 茗也]];
     - the infusion of tea, tea;

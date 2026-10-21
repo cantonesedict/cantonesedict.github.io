@@ -81,7 +81,7 @@ F
   ==
 W
   ====
-  - [[Page~6 壓(8)]] <# entry #1 #>
+  - [[Page~6 #1: 壓(8)]]
     ==
     - To overthrow, as a wall [[Kangxi: 壞也]];
     - to supply a want [[Kangxi: 塞補也]];
@@ -141,7 +141,7 @@ F
   ==
 W
   ====
-  - [[Page~5 恝(8)]] <# entry #9 #>
+  - [[Page~5 #9: 恝(8)]]
     ==
     - To dismiss care;
     - contented, lighthearted;
@@ -198,7 +198,7 @@ F
   ==
 W
   ====
-  - [[Page~5 戞(8)]] <# entry #6 #>
+  - [[Page~5 #6: 戞(8)]]
     --
     [[Alternative form of 戛, and reading variation. **See $戛gaat3 for the canonical entry.**]] [[TODO]]
     --
@@ -227,7 +227,7 @@ F
   ==
 W
   ====
-  - [[Page~5 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]] <# entry #2 #>
+  - [[Page~5 #2: 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]]
     ==
     - To sign, to affix a seal, to stamp [[Kangxi: 署也 etc.]];
     - to control, to guard [[Kangxi: 按也一曰管拘也]];
@@ -274,7 +274,7 @@ W
         [[aat3 dung1 押冬]],
         kept over winter; left over the season, as teas.
     ==
-  - [[Page~5 押(8) ^_(A/)t(8)_ (aat3)]] <# entry #5 #>
+  - [[Page~5 #5: 押(8) ^_(A/)t(8)_ (aat3)]]
     ==
     - To pawn for a time;
     - to reserve, to keep back;
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~5 揠(8)]] <# entry #7 #>
+  - [[Page~5 #7: 揠(8)]]
     ==
     - To pull up [[Kangxi: 拔也]];
     - to eradicate;
@@ -373,7 +373,7 @@ F
   ==
 W
   ====
-  - [[Page~5 秸(8)]] <# entry #8 #>
+  - [[Page~5 #8: 秸(8)]]
     --
     [[Reading variation. **See $秸gaai1 for the canonical entry.**]] [[TODO]]
     --
@@ -401,7 +401,7 @@ F
   ==
 W
   ====
-  - [[Page~5 遏(8)]] <# entry #4 #>
+  - [[Page~5 #4: 遏(8)]]
     ==
     - To stop, to bring to a standstill [[Kangxi: 遏止也]];
     - unforeseen obstacle;
@@ -448,7 +448,7 @@ F
   ==
 W
   ====
-  - [[Page~6 閼(8)]] <# entry #2 #>
+  - [[Page~6 #2: 閼(8)]]
     ==
     - To shut, to stop up [[Kangxi: 遮壅也]];
     - to obstruct [[Kangxi: 止也塞也]];
@@ -489,7 +489,7 @@ F
   ==
 W
   ====
-  - [[Page~6 頞(8)]] <# entry #3 #>
+  - [[Page~6 #3: 頞(8)]]
     ==
     - The root of the nose [[Kangxi: 鼻莖也]];
     - the frontal sinus;

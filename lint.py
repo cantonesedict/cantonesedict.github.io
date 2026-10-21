@@ -1098,18 +1098,13 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
         ^ [ ]+ [-][ ]
         \[\[
             Page~(?P<page> \S+ )
+            (?P<hint>
+                [:]
+                | [ ][#] (?P<entry_number> [0-9]+ ) [:]
+            )?
             (?P<spaces> [ ]+ )
             (?P<headword_run> [^\s;]+ ) (?P<clarification_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
         \]\]
-            (?P<hint>
-                [ ]
-                <[#][ ]
-                    (?:
-                        context
-                        | entry [ ][#] (?P<entry_number> [0-9]+ )
-                    )
-                [ ][#]>
-            )?
     ''',
     flags=re.MULTILINE | re.VERBOSE,
 )
@@ -3672,8 +3667,8 @@ class WilliamsLocator:
             entry_number = '9999'
             # TODO:
             # raise LintException(
-            #     f'missing entry number hint ` <# context | entry #{{digits}} #>` '
-            #     f'after `{locator_readable}`'
+            #     f'missing entry hint `:` or ` #{{number}}:` after `Page~{page}`'
+            #     f'in `{locator_readable}`'
             # )
 
         page_number = int(DIGITS_PATTERN.search(string=page).group())

@@ -65,7 +65,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~4 (1)甖(1)罌]] <# entry #10 #>
+  - [[Page~4 #10: (1)甖(1)罌]]
     --
     [[Alternative form of 罌. **See $罌aang1 for the canonical entry.**]]
     --
@@ -117,14 +117,14 @@ F
   ==
 W
   ====
-  - [[Page~4 (1)罃 _(1)Ang_ (ang1); here normalised to 罌]] <# entry #5 #>
+  - [[Page~4 #5: (1)罃 _(1)Ang_ (ang1); here normalised to 罌]]
     ==
     - An earthen jar, with a narrow neck, to hold oil, &c. [[Kangxi 罃: 備火長頸甁也]];
     - _(1)ang ong(3) (2)tsai_
         [[ang1 ong3 zai2 罌盎仔]],
         a tadpole.
     ==
-  - [[Page~4 (1)甖(1)罌]] <# entry #10 #>
+  - [[Page~4 #10: (1)甖(1)罌]]
     --
     Used with the last but four [[罃 _(1)Ang_ (ang1)]].
     --

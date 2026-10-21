@@ -75,7 +75,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~724 (1)啽]] <# entry #12 #>
+  - [[Page~724 #12: (1)啽]]
     ==
     - [[...]];
     - _(1)(o\)m mak(9)_
@@ -117,7 +117,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)庵(1)菴]] <# entry #3 #>
+  - [[Page~341 #3: (1)庵(1)菴]]
     ==
     - A round hut [[Kangxi 庵: 圜屋爲庵]], a thatched cottage, a straw hovel [[Kangxi 庵: 小草舍也]] for soldiers or guard;
     - [[...]];
@@ -153,7 +153,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)庵(1)菴]] <# entry #3 #>
+  - [[Page~341 #3: (1)庵(1)菴]]
     --
     [[Alternative form of 庵. **See $庵am1 for the canonical entry.**]]
     --
@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)諳 _(2)(O\)m_ (am2); here normalised to _(1)(O\)m_ (am1)]] <# entry #1 #>
+  - [[Page~342 #1: (2)諳 _(2)(O\)m_ (am2); here normalised to _(1)(O\)m_ (am1)]]
     ==
     - Accustomed, skilled in, versed [[Kangxi: 練也歷也, 熟聞也]];
     - to know, fully acquainted with [[Kangxi: 悉也, 知也, 曉也]];
@@ -251,7 +251,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)䳺; here normalised to 鵪]] <# entry #4 #>
+  - [[Page~341 #4: (1)䳺; here normalised to 鵪]]
     ==
     - A quail [[Kangxi 䳺: 䳺鶉]];
     - _(1)(o\)m ~~(4)shun~~ ``(1)ch(')un``_
@@ -281,7 +281,7 @@ F
   ==
 W
   ====
-  - [[Page~341 (1)䳺]] <# entry #4 #>
+  - [[Page~341 #4: (1)䳺]]
     --
     [[Alternative form of 鵪. **See $鵪am1 for the canonical entry.**]]
     --
@@ -320,7 +320,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 (2)唵 _(2)Am_; here corrected to _(2)(O\)m_]] <# entry #12 #>
+  - [[Page~3 #12: (2)唵 _(2)Am_; here corrected to _(2)(O\)m_]]
     ==
     - To feed with the hands [[Kangxi: 手進食也]];
     - to hold in the mouth [[Kangxi: 含也]];
@@ -347,7 +347,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 (2)掩]] <# entry #13 #>
+  - [[Page~3 #13: (2)掩]]
     --
     [[Alternative form of 揞 (Cantonese). **See $揞am2 for the canonical entry.**]]
     --
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~3 (2)掩 _(2)Am_ (am2); here normalised to 揞 _(2)(O\)m_ (am2)]] <# entry #13 #>
+  - [[Page~3 #13: (2)掩 _(2)Am_ (am2); here normalised to 揞 _(2)(O\)m_ (am2)]]
     --
     A colloquial word.
     --
@@ -402,7 +402,7 @@ W
         [[am2 dik1 bui6 sau2 揞滴背手]]
         give him a little sop, cover his palm.
     ==
-  - [[Page~341 (1)掩(2)揞]] <# entry #5 #>
+  - [[Page~341 #5: (1)掩(2)揞]]
     ==
     - To cover, to hide, to screen, by putting something on [[Kangxi 揞: 掩也]];
     - ~~to extinguish, to suppress;~~
@@ -492,7 +492,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)欿]] <# entry #4 #>
+  - [[Page~342 #4: (2)欿]]
     --
     [[Reading variation. **See $欿ham2 for the canonical entry.**]] [[TODO]]
     --
@@ -516,7 +516,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)諳]] <# entry #1 #>
+  - [[Page~342 #1: (2)諳]]
     --
     [[Reading variation. **See $諳am1 for the canonical entry.**]]
     --
@@ -540,7 +540,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)闇]] <# entry #2 #>
+  - [[Page~342 #2: (2)闇]]
     --
     [[Reading variation. **See $闇am3 for the canonical entry.**]]
     --
@@ -569,7 +569,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)黯]] <# entry #3 #>
+  - [[Page~342 #3: (2)黯]]
     ==
     - Dark, pitch dark [[Kangxi: 深黑也]], dark as a midnight;
     - astonied and silent, as if lost in amazement;
@@ -626,7 +626,7 @@ F
   ==
 W
   ====
-  - [[Page~342 暗(3)]] <# entry #5 #>
+  - [[Page~342 #5: 暗(3)]]
     ==
     - Sun obscured by clouds or otherwise [[Kangxi: 日無光也]];
     - dark, dimly lighted [[Kangxi: 不明也]], sombre;
@@ -704,7 +704,7 @@ F
   ==
 W
   ====
-  - [[Page~342 (2)闇 _(2)(O\)m_ (am2); here normalised to _(O\)m(3)_ (am3)]] <# entry #2 #>
+  - [[Page~342 #2: (2)闇 _(2)(O\)m_ (am2); here normalised to _(O\)m(3)_ (am3)]]
     ==
     - To shut the door [[Kangxi: 閉門也]], to withdraw from society, to retire from;
     - retired, dark, an obscure recess [[Kangxi: 冥也, 幽也]];

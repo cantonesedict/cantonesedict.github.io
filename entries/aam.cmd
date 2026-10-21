@@ -63,7 +63,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (2)菡]] <# entry #1 #>
+  - [[Page~4 #1: (2)菡]]
     --
     [[Reading variation. **See $菡haam5 for the canonical entry.**]]
     --

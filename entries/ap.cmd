@@ -68,7 +68,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~4 洽(7)]] <# entry #11 #>
+  - [[Page~4 #11: 洽(7)]]
     --
     [[...]]
     --
@@ -97,7 +97,7 @@ W
         to roast a potato or taro in ashes;
         _met._ to enjoy one's self secretly.
     ==
-  - [[Page~716 洽(9)]] <# entry #8 #>
+  - [[Page~716 #8: 洽(9)]]
     --
     See _ap(7)_ [[ap1]].
     --
@@ -150,7 +150,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~341 ::(1)庵~~(1)菴~~:: _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]] <# entry #3 #>
+  - [[Page~341 #3: ::(1)庵~~(1)菴~~:: _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]]
     ==
     - [[...]];
     - a pig-sty [[Kangxi 庵: 豕屋]];

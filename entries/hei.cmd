@@ -682,7 +682,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 屭(3) _Ai(3)_ (ai3); here corrected to _H(i/)(3)_ (hei3)]] <# entry #8 #>
+  - [[Page~2 #8: 屭(3) _Ai(3)_ (ai3); here corrected to _H(i/)(3)_ (hei3)]]
     ==
     - Strong, herculean, athletic [[Kangxi: 壯大貌]].
     ==

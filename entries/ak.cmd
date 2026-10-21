@@ -41,7 +41,7 @@ S
   ==
 $$
 
-<## TODO: Page~3 扼(7) <# entry #8 #> ##>
+<## TODO: Page~3 #8: 扼(7) MISSED ##>
 
 
 ##{#1 .williams} Ak(7) [[ak1 高陰入]]
@@ -84,7 +84,7 @@ F
   ==
 W
   ====
-  - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]] <# entry #6 #>
+  - [[Page~3 #6: ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
     ==
     - [[...]];
     - small door in a house [[Kangxi 厄: 同戹]];
@@ -143,7 +143,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1 (2)啞]] <# entry #5 #>
+  - [[Page~1 #5: (2)啞]]
     --
     [[...]]
     --
@@ -181,7 +181,7 @@ F
   ==
 W
   ====
-  - [[Page~3 幄(7)]] <# entry #5 #>
+  - [[Page~3 #5: 幄(7)]]
     ==
     - A curtain, a screen [[Kangxi: 帳也, 幬也]];
     - a large tent, a markee [[Kangxi: 大帷]];
@@ -215,7 +215,7 @@ F
   ==
 W
   ====
-  - [[Page~3 握(7)]] <# entry #3 #>
+  - [[Page~3 #3: 握(7)]]
     ==
     - To grasp, to hold within the hand [[Kangxi: 搤持也 etc.]];
     - a little, as much as the palm can hold;
@@ -268,7 +268,7 @@ F
   ==
 W
   ====
-  - [[Page~3 渥(7)]] <# entry #4 #>
+  - [[Page~3 #4: 渥(7)]]
     ==
     - To moisten, to soak [[Kangxi: 霑也]];
     - to enrich with favors;
@@ -321,13 +321,13 @@ F
   ==
 W
   ====
-  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]] <# entry #1 #>
+  - [[Page~3 #1: 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]]
     ==
     - [[...]];
     - impeded, stopped up;
     - [[...]].
     ==
-  - [[Page~3 阨(7) ^_Ak(7)_ (ak1)]] <# entry #7 #>
+  - [[Page~3 #7: 阨(7) ^_Ak(7)_ (ak1)]]
     ==
     - An obstruction [[Kangxi: 限也]], a stop [[Kangxi: 塞也]];
     - [[...]];

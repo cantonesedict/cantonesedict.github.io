@@ -183,7 +183,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1){𠾵=⿰口揸}]] <# entry #11 #>
+  - [[Page~7 #11: (1){𠾵=⿰口揸}]]
     --
     A colloquial particle implying a short time;
     --
@@ -209,14 +209,14 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)㪥; here corrected to 揸]] <# entry #9 #>
+  - [[Page~7 #9: (1)㪥; here corrected to 揸]]
     ==
     - [[...]];
     - _(1)ch(a/) (5)y(e/)_
         [[zaa1 je5 揸嘢]],
         to handle.
     ==
-  - [[Page~7 (1)揸]] <# entry #10 #>
+  - [[Page~7 #10: (1)揸]]
     --
     A unauthorized character.
     --
@@ -304,7 +304,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)撾]] <# entry #12 #>
+  - [[Page~7 #12: (1)撾]]
     ==
     - To beat a drum or a bell with a stick [[Kangxi: 擊也, 擊鼓也]].
     ==
@@ -324,7 +324,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)㪥]] <# entry #9 #>
+  - [[Page~7 #9: (1)㪥]]
     ==
     - To put the hand upon, to feel, to press down [[Kangxi: 以指按也]], to take [[Kangxi: 取也]];
     - [[...]].
@@ -364,7 +364,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)樝]] <# entry #6 #>
+  - [[Page~7 #6: (1)樝]]
     ==
     - A sour red berry as large as a cherry [[Kangxi: 似棃而酢]],
       called _(1)sh(a/)n (1)ch(a/)_ [[saan1 zaa1 山樝]],
@@ -386,7 +386,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)渣]] <# entry #5 #>
+  - [[Page~7 #5: (1)渣]]
     ==
     - Name of a river [[Kangxi: 水名]];
     - dregs, grounds, residuum [[Kangxi: 俗以此爲渣滓字]];
@@ -427,7 +427,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)皻]] <# entry #7 #>
+  - [[Page~7 #7: (1)皻]]
     ==
     - Pimples on the nose [[Kangxi: 鼻上皰]], wine blotches [[Kangxi: 紅暈似瘡浮起著面鼻者曰酒皻]];
     - pimples on the skin;
@@ -452,7 +452,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (1)蹅]] <# entry #8 #>
+  - [[Page~7 #8: (1)蹅]]
     ==
     - To tread upon;
     -  to put the foot on;
@@ -490,7 +490,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (2)痄]] <# entry #1 #>
+  - [[Page~8 #1: (2)痄]]
     --
     [[Reading variation. **See $痄zaa3 for the canonical entry.**]]
     --
@@ -521,7 +521,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (2)鮓]] <# entry #13 #>
+  - [[Page~7 #13: (2)鮓]]
     ==
     - A rank condiment of fish or flesh and salted hashed fine,
       with red rice and oil [[Kangxi: 藏魚也 etc.]];
@@ -606,7 +606,7 @@ F
   ==
 W
   ====
-  - [[Page~8 乍(3)]] <# entry #6 #>
+  - [[Page~8 #6: 乍(3)]]
     ==
     - At first [[Kangxi: 初也]], suddenly, hastily [[Kangxi: 猝也]];
     - for a moment [[Kangxi: 暫也]];
@@ -656,7 +656,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]] <# entry #6 #>
+  - [[Page~9|n52 #6: 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]]
     ==
     - To foam and sputter in anger [[Kangxi 吒: 噴也叱怒也]];
     - to talk angrily;
@@ -695,7 +695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 咋(3)]] <# entry #8 #>
+  - [[Page~8 #8: 咋(3)]]
     --
     [[...]]
     --
@@ -794,12 +794,12 @@ F
   ==
 W
   ====
-  - [[Page~8 醡(3)]] <# entry #4 #>
+  - [[Page~8 #4: 醡(3)]]
     ==
     - [[...]];
     - used for the next [[榨]] [[Kangxi 醡: 打油具]].
     ==
-  - [[Page~8 榨(3)]] <# entry #5 #>
+  - [[Page~8 #5: 榨(3)]]
     ==
     - An oil-press [[Kangxi: 打油具也]];
     - a sugar press;
@@ -814,7 +814,7 @@ W
         [[zaa3 liu4 榨寮]],
         a sugar-press shed.
     ==
-  - [[Page~8 搾(3)]] <# entry #7 #>
+  - [[Page~8 #7: 搾(3)]]
     --
     An unauthorized character.
     --
@@ -864,7 +864,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]] <# entry #1 #>
+  - [[Page~8 #1: (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]]
     ==
     - A running ulcer [[Kangxi: 瘡不合也]];
     - [[...]];
@@ -900,7 +900,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 蚱(3)]] <# entry #3 #>
+  - [[Page~8 #3: 蚱(3)]]
     ==
     - A large ~~locust~~ ``grasshopper``, called _(5)m(a/) ch(a/)(3)_
         [[maa5 zaa3 螞蚱]]
@@ -948,7 +948,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]] <# entry #8 #>
+  - [[Page~9|n52 #8: 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
     ==
     - To bind up, sealed up, as in winter [[Kangxi: 蜡也者索也 etc.]];
     - _p(a/)t(8) ~~ch(')(a/)(3)~~ ``ch(a/)(3)``_
@@ -1004,7 +1004,7 @@ F
   ==
 W
   ====
-  - [[Page~8 詐(3)]] <# entry #2 #>
+  - [[Page~8 #2: 詐(3)]]
     ==
     - To deceive, to cheat, to impose upon [[Kangxi: 欺也]];
     - erroneous, false [[Kangxi: 僞也]];
@@ -1066,7 +1066,7 @@ F
   ==
 W
   ====
-  - [[Page~8 醡(3)]] <# entry #4 #>
+  - [[Page~8 #4: 醡(3)]]
     ==
     - A wine press [[Kangxi: 壓酒具也]];
     - to press or separate spirits;

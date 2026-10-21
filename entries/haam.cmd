@@ -753,7 +753,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (2)菡 _(2)(A/)m_ (aam2); here normalised to _(5)H(a/)m_ (haam5)]] <# entry #1 #>
+  - [[Page~4 #1: (2)菡 _(2)(A/)m_ (aam2); here normalised to _(5)H(a/)m_ (haam5)]]
     ==
     -  An unopened flower [[Kangxi: 菡猶含也未吐之意]];
     - _~~(2)(a/)m~~ ``(5)h(a/)m`` t(a/)m(6)_

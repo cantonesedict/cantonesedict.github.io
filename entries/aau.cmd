@@ -67,7 +67,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~6 (1)坳]] <# entry #12 #>
+  - [[Page~6 #12: (1)坳]]
     --
     [[...]]
     --
@@ -122,7 +122,7 @@ F
   ==
 W
   ====
-  - [[Page~7 (2)拗]] <# entry #1 #>
+  - [[Page~7 #1: (2)拗]]
     ==
     - To snap a thing in two [[Kangxi: 手拉也, 折也]];
     - to twist, to break;
@@ -218,7 +218,7 @@ F
   ==
 W
   ====
-  - [[Page~7 凹(3)]] <# entry #4 #>
+  - [[Page~7 #4: 凹(3)]]
     ==
     - Indented [[Kangxi: 窊也]];
     - meandering;
@@ -260,7 +260,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)坳 _(1)(A/)u_ (aau1); here normalised to _(A/)u(3)_ (aau3)]] <# entry #12 #>
+  - [[Page~6 #12: (1)坳 _(1)(A/)u_ (aau1); here normalised to _(A/)u(3)_ (aau3)]]
     ==
     - A furrow, a hollow [[Kangxi: 窊下也]];
     - an unevenness in the ground;
@@ -270,7 +270,7 @@ W
     --
     [[...]]
     --
-  - [[Page~7 坳(3)]] <# entry #3 #>
+  - [[Page~7 #3: 坳(3)]]
     --
     A colloquial word;
     --
@@ -321,7 +321,7 @@ F
   ==
 W
   ====
-  - [[Page~7 拗(3)]] <# entry #2 #>
+  - [[Page~7 #2: 拗(3)]]
     ==
     - Obstinate, self-willed, perverse [[Kangxi: 拗戾]];
     - to rush against madly [[Kangxi: 固相違也]];
