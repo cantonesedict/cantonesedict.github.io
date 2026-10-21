@@ -3648,7 +3648,7 @@ class SeeAlsoLink:
 class WilliamsLocator:
     page_grouping: int
     page: str
-    page_integer: int
+    page_number: int
     entry_number: Optional[int]
     headword_run: str
     unedited_headword_run: str
@@ -3676,9 +3676,9 @@ class WilliamsLocator:
             #     f'after `{locator_readable}`'
             # )
 
-        page_integer = int(DIGITS_PATTERN.search(string=page).group())
+        page_number = int(DIGITS_PATTERN.search(string=page).group())
 
-        if page_integer >= 41:
+        if page_number >= 41:
             page_grouping = 3
         elif '*' in page:
             page_grouping = 2
@@ -3696,7 +3696,7 @@ class WilliamsLocator:
 
         self.page_grouping = page_grouping
         self.page = page
-        self.page_integer = page_integer
+        self.page_number = page_number
         self.entry_number = entry_number
         self.headword_run = headword_run
         self.unedited_headword_run = unedited_headword_run
@@ -3713,7 +3713,7 @@ class WilliamsLocator:
         return self.identity() < other.identity()
 
     def identity(self):
-        return self.page_grouping, self.page_integer, self.entry_number
+        return self.page_grouping, self.page_number, self.entry_number
 
     def content(self):
         return f'- [[Page~{self.page} {self.headword_run}{self.clarification_run}{self.redirection_run}]]'
