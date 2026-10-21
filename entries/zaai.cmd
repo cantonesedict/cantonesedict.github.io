@@ -323,7 +323,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
+  - [[Page~11|n54 #9: 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
     ==
     - Weary, sick [[Kangxi: 勞病也, 病也]];
     - _(4)l(o\) ~~ch(')(a/)i(3)~~ ``ch(a/)i(3)``_

@@ -602,7 +602,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~11|n54 (2)踹 _(2)Ch(')(a/)i_ (caai2); here corrected to _(2)Ch(')(u:)n_ (cyun2)]]
+  - [[Page~11|n54 #7: (2)踹 _(2)Ch(')(a/)i_ (caai2); here corrected to _(2)Ch(')(u:)n_ (cyun2)]]
     --
     Also read _~~(2)t(u:)n~~ ``t(u:)n(3)``_ [[dyun3]].
     --
