@@ -3998,7 +3998,7 @@ class Linter:
         self.index_terms()  # Cantonese terms by Jyutping
         self.index_search()  # characters and compositions
         self.index_radicals()  # characters by radical
-        self.index_williams()  # trace of Williams entries
+        self.index_trace()  # trace of Williams entries
 
     def print_statistics(self):
         page_count = len(self.entry_pages)
@@ -4148,7 +4148,7 @@ class Linter:
         for cmd_source in self.cmd_sources:
             cmd_source.index_radicals(character_entries_from_radical_strokes)
 
-    def index_williams(self):
+    def index_trace(self):
         character_entries_from_williams_locator = Utilities.collate_firsts_by_second(
             (character_entry, williams_locator)
             for character_entry in self.character_entries
@@ -4156,7 +4156,7 @@ class Linter:
             if williams_locator.page != '9999'  # TODO: REMOVE
         )
 
-        with open('williams/index.cmd', 'r', encoding='utf-8') as read_file:
+        with open('trace/index.cmd', 'r', encoding='utf-8') as read_file:
             new_content = content = read_file.read()
 
         new_content = Linter._replace_williams_table(new_content, character_entries_from_williams_locator)
@@ -4164,7 +4164,7 @@ class Linter:
         if new_content == content:
             return
 
-        with open('williams/index.cmd', 'w', encoding='utf-8') as write_file:
+        with open('trace/index.cmd', 'w', encoding='utf-8') as write_file:
             write_file.write(new_content)
 
     def save_cache(self):
