@@ -890,6 +890,7 @@ COMMENTS_NECESSITY = '<#'
 SCRIPTS_NECESSITY = '<script>'
 
 WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+DIGITS_PATTERN = re.compile(pattern='[0-9]+')
 ROUND_BRACKETS_PATTERN = re.compile(pattern='[()]')
 COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
 SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
@@ -3647,6 +3648,7 @@ class SeeAlsoLink:
 class WilliamsLocator:
     page_grouping: int
     page_number: str
+    page_integer: int
     entry_number: Optional[int]
     headword_run: str
     unedited_headword_run: str
@@ -3674,15 +3676,14 @@ class WilliamsLocator:
             #     f'after `{locator_readable}`'
             # )
 
-        try:
-            page_integer = int(page_number)
-        except ValueError:  # starred page numbers
+        page_integer = int(DIGITS_PATTERN.search(string=page_number).group())
+
+        if page_integer >= 41:
+            page_grouping = 3
+        elif '*' in page_number:
             page_grouping = 2
         else:
-            if page_integer < 41:
-                page_grouping = 1
-            else:
-                page_grouping = 3
+            page_grouping = 1
 
         if entry_number is not None:
             entry_number = int(entry_number)
@@ -3695,6 +3696,7 @@ class WilliamsLocator:
 
         self.page_grouping = page_grouping
         self.page_number = page_number
+        self.page_integer = page_integer
         self.entry_number = entry_number
         self.headword_run = headword_run
         self.unedited_headword_run = unedited_headword_run
@@ -3711,7 +3713,7 @@ class WilliamsLocator:
         return self.identity() < other.identity()
 
     def identity(self):
-        return self.page_grouping, self.page_number, self.entry_number
+        return self.page_grouping, self.page_integer, self.entry_number
 
     def content(self):
         return f'- [[Page~{self.page_number} {self.headword_run}{self.clarification_run}{self.redirection_run}]]'

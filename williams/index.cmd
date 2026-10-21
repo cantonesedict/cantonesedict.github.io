@@ -28,6 +28,34 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
     ; Modern entries
 |:
   //
+    , Page~1|n44
+    , #1
+    ,{.williams} (1)吖
+  //
+    , Page~1|n44
+    , #2
+    ,{.williams} (1)鴉
+  //
+    , Page~1|n44
+    , #3
+    ,{.williams} (1)呀
+  //
+    , Page~1|n44
+    , #4
+    ,{.williams} (1)丫
+  //
+    , Page~1|n44
+    , #5
+    ,{.williams} (2)啞
+  //
+    , Page~1|n44
+    , #6
+    ,{.williams} (2)瘂
+  //
+    , Page~1|n44
+    , #7
+    ,{.williams} 呀(3)
+  //
     , Page~2
     , #1
     ,{.williams} 亞(3)阿(3)
@@ -347,34 +375,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
     , Page~8
     , #13
     ,{.williams} (4)茶
-  //
-    , Page~1|n44
-    , #1
-    ,{.williams} (1)吖
-  //
-    , Page~1|n44
-    , #2
-    ,{.williams} (1)鴉
-  //
-    , Page~1|n44
-    , #3
-    ,{.williams} (1)呀
-  //
-    , Page~1|n44
-    , #4
-    ,{.williams} (1)丫
-  //
-    , Page~1|n44
-    , #5
-    ,{.williams} (2)啞
-  //
-    , Page~1|n44
-    , #6
-    ,{.williams} (2)瘂
-  //
-    , Page~1|n44
-    , #7
-    ,{.williams} 呀(3)
   //
     , Page~341
     , #3
