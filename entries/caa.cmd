@@ -481,7 +481,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 奼(3)]]
+  - [[Page~9|n52 奼(3)]] <# entry #7 #>
     ==
     - A handsome girl [[Kangxi: 美女也]], a beautiful unmarried young lady [[Kangxi: 少女也]].
     ==
@@ -544,7 +544,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 蜡(3)]]
+  - [[Page~9|n52 蜡(3)]] <# entry #8 #>
     --
     [[Reading variation. **See $蜡zaa3 for the canonical entry.**]]
     --
@@ -581,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 詫(3)]]
+  - [[Page~9|n52 詫(3)]] <# entry #5 #>
     ==
     - To talk extravagantly, to vaunt [[Kangxi: 誇也]];
     - to deceive [[Kangxi: 誑也]];
@@ -589,7 +589,7 @@ W
         [[caa3 ji6 詫異]]
         ~~strange, foolish~~ ``wonder, astonishment``.
     ==
-  - [[Page~9|n52 吒(3)咤(3)]]
+  - [[Page~9|n52 吒(3)咤(3)]] <# entry #6 #>
     --
     Used for the last [[詫]].
     --
@@ -637,7 +637,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 (4)嗏]]
+  - [[Page~9|n52 (4)嗏]] <# entry #1 #>
     ==
     - A euphonic final sound used in chanting, to prolong the line [[Fan Wan: 唱曲長聲也]].
     ==
@@ -659,7 +659,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~9|n52 (4)搽]]
+  - [[Page~9|n52 (4)搽]] <# entry #2 #>
     --
     An unauthorized character.
     --
@@ -719,7 +719,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~9|n52 (4)查]]
+  - [[Page~9|n52 (4)查]] <# entry #4 #>
     ==
     - A raft, a float [[Kangxi: 水中浮木]];
     - to examine, to inquire into [[Kangxi: 考察也]];
@@ -763,7 +763,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 (4)槎]]
+  - [[Page~9|n52 (4)槎]] <# entry #3 #>
     ==
     - Drift-wood [[Kangxi: 同查]];
     - a small raft [[Kangxi: 桴也]];

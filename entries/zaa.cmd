@@ -656,7 +656,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]]
+  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]] <# entry #6 #>
     ==
     - To foam and sputter in anger [[Kangxi 吒: 噴也叱怒也]];
     - to talk angrily;
@@ -948,7 +948,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
+  - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]] <# entry #8 #>
     ==
     - To bind up, sealed up, as in winter [[Kangxi: 蜡也者索也 etc.]];
     - _p(a/)t(8) ~~ch(')(a/)(3)~~ ``ch(a/)(3)``_

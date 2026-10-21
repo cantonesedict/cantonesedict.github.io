@@ -167,7 +167,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 (1)擠 _(1)Chai_ (zai1)]]
+  - [[Page~9|n52 (1)擠 _(1)Chai_ (zai1)]] <# entry #9 #>
     --
     A colloquial word.
     --
@@ -685,7 +685,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 制(3)]]
+  - [[Page~9|n52 制(3)]] <# entry #11 #>
     ==
     - To adjust, to cut, to form [[Kangxi: 裁也]];
     - to govern, to regulate, to rule [[Kangxi: 正也御也檢也]];
@@ -857,7 +857,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 晣(3); here normalised to 晢]]
+  - [[Page~9|n52 晣(3); here normalised to 晢]] <# entry #10 #>
     ==
     - Brightness of stars [[Kangxi 晢: 星光也]];
     - _(4)ming (1)sing chai(3) chai(3)_
@@ -1078,13 +1078,13 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 制(3); here normalised to 製]]
+  - [[Page~9|n52 制(3); here normalised to 製]] <# entry #11 #>
     ==
     - [[...]];
     - to invent, to make;
     - [[...]].
     ==
-  - [[Page~9|n52 製(3)]]
+  - [[Page~9|n52 製(3)]] <# entry #12 #>
     --
     Interchanged with the last [[制]].
     --

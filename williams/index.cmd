@@ -837,6 +837,117 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
       ==
       </nav>
   //
+    ,{r=12} Page~9|n52
+    , #1
+    ,{.williams} (4)嗏
+    ,
+      <nav class="sideways">
+      ==
+      - $嗏caa4
+      ==
+      </nav>
+  //
+    , #2
+    ,{.williams} (4)搽
+    ,
+      <nav class="sideways">
+      ==
+      - $搽caa4
+      ==
+      </nav>
+  //
+    , #3
+    ,{.williams} (4)槎
+    ,
+      <nav class="sideways">
+      ==
+      - $槎caa4
+      ==
+      </nav>
+  //
+    , #4
+    ,{.williams} (4)查
+    ,
+      <nav class="sideways">
+      ==
+      - $查caa4
+      ==
+      </nav>
+  //
+    , #5
+    ,{.williams} 詫(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $詫caa3
+      ==
+      </nav>
+  //
+    , #6
+    ,{.williams} 吒(3)咤(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $詫caa3
+      - $吒zaa3
+      ==
+      </nav>
+  //
+    , #7
+    ,{.williams} 奼(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $奼caa3
+      ==
+      </nav>
+  //
+    , #8
+    ,{.williams} 蜡(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($蜡caa3), $蜡zaa3
+      ==
+      </nav>
+  //
+    , #9
+    ,{.williams} (1)擠
+    ,
+      <nav class="sideways">
+      ==
+      - $擠zai1
+      ==
+      </nav>
+  //
+    , #10
+    ,{.williams} 晣(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $晢zai3
+      ==
+      </nav>
+  //
+    , #11
+    ,{.williams} 制(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $制zai3
+      - $製zai3
+      ==
+      </nav>
+  //
+    , #12
+    ,{.williams} 製(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $製zai3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     , #3
     ,{.williams} (1)庵(1)菴
