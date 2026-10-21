@@ -1013,6 +1013,10 @@ TERMS_TABLE_PATTERN = re.compile(
     pattern='<## terms-table ##>.*?<## /terms-table ##>',
     flags=re.DOTALL,
 )
+WILLIAMS_TABLE_PATTERN = re.compile(
+    pattern='<## williams-table ##>.*?<## /williams-table ##>',
+    flags=re.DOTALL,
+)
 
 TONE_HEADING_PATTERN = re.compile(
     pattern=r'''
@@ -4150,8 +4154,16 @@ class Linter:
             if williams_locator.page_number != '9999'  # TODO: REMOVE
         )
 
-        for wl, ces in sorted(character_entries_from_williams_locator.items()):
-            print(wl.content(), [ce.universal_link() for ce in ces])
+        with open('williams/index.cmd', 'r', encoding='utf-8') as read_file:
+            new_content = content = read_file.read()
+
+        new_content = Linter._replace_williams_table(new_content, character_entries_from_williams_locator)
+
+        if new_content == content:
+            return
+
+        with open('williams/index.cmd', 'w', encoding='utf-8') as write_file:
+            write_file.write(new_content)
 
     def save_cache(self):
         cached_cmd_source_from_file_name = {
@@ -4866,6 +4878,40 @@ class Linter:
 
         return TERMS_TABLE_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(terms_table_content_expected),
+            string=content,
+        )
+
+    @staticmethod
+    def _replace_williams_table(content: str,
+                                character_entries_from_williams_locator: dict['WilliamsLocator',
+                                                                              list['CharacterEntry']]) -> str:
+        williams_table_content_expected = Utilities.nested_newline_join([
+            "<## williams-table ##>",
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Page",
+            "    ; Entry",
+            "    ; Headword run",
+            "    ; Modern entries",
+            "|:",
+            [
+                [
+                    f'  //',
+                    f'    , Page~{williams_locator.page_number}',
+                    f'    , #{williams_locator.entry_number}',
+                    f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
+                ]
+                for williams_locator, character_entries in sorted(character_entries_from_williams_locator.items())
+            ],
+            "''",
+            "||||",
+            "<## /williams-table ##>",
+        ])
+
+        return WILLIAMS_TABLE_PATTERN.sub(
+            repl=Utilities.literal_replacement_pattern(williams_table_content_expected),
             string=content,
         )
 
