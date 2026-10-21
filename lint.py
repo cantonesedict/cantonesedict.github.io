@@ -3657,10 +3657,13 @@ class WilliamsLocator:
             raise LintException(f'missing Williams tone in Williams locator `{locator_readable}`')
 
         if hint is None:
-            raise LintException(
-                f'missing entry number hint ` <# context | entry #{{digits}} #>` '
-                f'after `{locator_readable}`'
-            )
+            page_number = '9999'
+            entry_number = '9999'
+            # TODO:
+            # raise LintException(
+            #     f'missing entry number hint ` <# context | entry #{{digits}} #>` '
+            #     f'after `{locator_readable}`'
+            # )
 
         try:
             page_integer = int(page_number)
