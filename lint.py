@@ -904,6 +904,7 @@ CHINESE_RUN_PATTERN = re.compile(CHINESE_RUN_REGEX)
 INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN = re.compile(pattern=r'[|].*')
 
 ENTRY_ITEM_PATTERN = re.compile(
     pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
@@ -3671,6 +3672,7 @@ class WilliamsLocator:
             #     f'in `{locator_readable}`'
             # )
 
+        page_clean = WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN.sub(repl='', string=page)
         page_number = int(DIGITS_PATTERN.search(string=page).group())
 
         if page_number >= 41:
@@ -3691,6 +3693,7 @@ class WilliamsLocator:
 
         self.page_grouping = page_grouping
         self.page = page
+        self.page_clean = page_clean
         self.page_number = page_number
         self.entry_number = entry_number
         self.headword_run = headword_run
@@ -4906,7 +4909,7 @@ class Linter:
                             [f'    ,{{r={entry_count}}} Page~{page}'] if index == 0
                             else []
                         ),
-                        f'    , #{number}',
+                        f'    ,{{#page-{williams_locator.page_clean}-entry-{number}}} #{number}',
                         f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
                         f'    ,',
                         f'      <nav class="sideways">',

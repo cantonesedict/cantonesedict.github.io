@@ -25,7 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 |:
   //
     ,{r=7} Page~1
-    , #1
+    ,{#page-1-entry-1} #1
     ,{.williams} (1)吖
     ,
       <nav class="sideways">
@@ -34,7 +34,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-1-entry-2} #2
     ,{.williams} (1)鴉
     ,
       <nav class="sideways">
@@ -43,7 +43,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-1-entry-3} #3
     ,{.williams} (1)呀
     ,
       <nav class="sideways">
@@ -53,7 +53,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-1-entry-4} #4
     ,{.williams} (1)丫
     ,
       <nav class="sideways">
@@ -62,7 +62,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-1-entry-5} #5
     ,{.williams} (2)啞
     ,
       <nav class="sideways">
@@ -71,7 +71,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-1-entry-6} #6
     ,{.williams} (2)瘂
     ,
       <nav class="sideways">
@@ -81,7 +81,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-1-entry-7} #7
     ,{.williams} 呀(3)
     ,
       <nav class="sideways">
@@ -92,7 +92,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=10} Page~2
-    , #1
+    ,{#page-2-entry-1} #1
     ,{.williams} 亞(3)阿(3)
     ,
       <nav class="sideways">
@@ -102,7 +102,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-2-entry-2} #2
     ,{.williams} 婭(3)
     ,
       <nav class="sideways">
@@ -111,7 +111,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-2-entry-3} #3
     ,{.williams} (1){𫫃=⿰口挨}
     ,
       <nav class="sideways">
@@ -121,7 +121,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-2-entry-4} #4
     ,{.williams} (2)矮
     ,
       <nav class="sideways">
@@ -130,7 +130,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-2-entry-5} #5
     ,{.williams} 縊(3)
     ,
       <nav class="sideways">
@@ -139,7 +139,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-2-entry-6} #6
     ,{.williams} 翳(3)
     ,
       <nav class="sideways">
@@ -148,7 +148,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-2-entry-7} #7
     ,{.williams} {𦠉=⿰⺼壹}(3)
     ,
       <nav class="sideways">
@@ -157,7 +157,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-2-entry-8} #8
     ,{.williams} 屭(3)
     ,
       <nav class="sideways">
@@ -167,7 +167,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-2-entry-9} #9
     ,{.williams} 曀(3)
     ,
       <nav class="sideways">
@@ -176,7 +176,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-2-entry-10} #10
     ,{.williams} (1)挨
     ,
       <nav class="sideways">
@@ -186,7 +186,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=12} Page~3
-    , #1
+    ,{#page-3-entry-1} #1
     ,{.williams} 隘(3)
     ,
       <nav class="sideways">
@@ -196,7 +196,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-3-entry-2} #2
     ,{.williams} 嗌(3)
     ,
       <nav class="sideways">
@@ -205,7 +205,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-3-entry-3} #3
     ,{.williams} 握(7)
     ,
       <nav class="sideways">
@@ -214,7 +214,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-3-entry-4} #4
     ,{.williams} 渥(7)
     ,
       <nav class="sideways">
@@ -223,7 +223,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-3-entry-5} #5
     ,{.williams} 幄(7)
     ,
       <nav class="sideways">
@@ -232,7 +232,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-3-entry-6} #6
     ,{.williams} 厄(7){𢨪=⿸戶巳}(7)
     ,
       <nav class="sideways">
@@ -241,7 +241,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-3-entry-7} #7
     ,{.williams} 阨(7)
     ,
       <nav class="sideways">
@@ -251,7 +251,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-3-entry-9} #9
     ,{.williams} 鈪(8)
     ,
       <nav class="sideways">
@@ -260,7 +260,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-3-entry-10} #10
     ,{.williams} 軛(7)
     ,
       <nav class="sideways">
@@ -269,7 +269,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #11
+    ,{#page-3-entry-11} #11
     ,{.williams} 阨(7)
     ,
       <nav class="sideways">
@@ -279,7 +279,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #12
+    ,{#page-3-entry-12} #12
     ,{.williams} (2)唵
     ,
       <nav class="sideways">
@@ -288,7 +288,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #13
+    ,{#page-3-entry-13} #13
     ,{.williams} (2)掩
     ,
       <nav class="sideways">
@@ -299,7 +299,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=11} Page~4
-    , #1
+    ,{#page-4-entry-1} #1
     ,{.williams} (2)菡
     ,
       <nav class="sideways">
@@ -308,7 +308,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-4-entry-2} #2
     ,{.williams} 晏(3)
     ,
       <nav class="sideways">
@@ -317,7 +317,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-4-entry-3} #3
     ,{.williams} 鷃(3)
     ,
       <nav class="sideways">
@@ -326,7 +326,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-4-entry-4} #4
     ,{.williams} (1)鶯
     ,
       <nav class="sideways">
@@ -335,7 +335,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-4-entry-5} #5
     ,{.williams} (1)罃
     ,
       <nav class="sideways">
@@ -344,7 +344,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-4-entry-6} #6
     ,{.williams} (1)嚶
     ,
       <nav class="sideways">
@@ -353,7 +353,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-4-entry-7} #7
     ,{.williams} (2)哽
     ,
       <nav class="sideways">
@@ -362,7 +362,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-4-entry-8} #8
     ,{.williams} (2)㾘
     ,
       <nav class="sideways">
@@ -371,7 +371,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-4-entry-9} #9
     ,{.williams} 更(3)
     ,
       <nav class="sideways">
@@ -380,7 +380,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-4-entry-10} #10
     ,{.williams} (1)甖(1)罌
     ,
       <nav class="sideways">
@@ -390,7 +390,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #11
+    ,{#page-4-entry-11} #11
     ,{.williams} 洽(7)
     ,
       <nav class="sideways">
@@ -400,7 +400,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=9} Page~5
-    , #1
+    ,{#page-5-entry-1} #1
     ,{.williams} 鴨(8)
     ,
       <nav class="sideways">
@@ -409,7 +409,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-5-entry-2} #2
     ,{.williams} 押(8)
     ,
       <nav class="sideways">
@@ -418,7 +418,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-5-entry-3} #3
     ,{.williams} ^_At(7)_
     ,
       <nav class="sideways">
@@ -427,7 +427,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-5-entry-4} #4
     ,{.williams} 遏(8)
     ,
       <nav class="sideways">
@@ -436,7 +436,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-5-entry-5} #5
     ,{.williams} 押(8)
     ,
       <nav class="sideways">
@@ -445,7 +445,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-5-entry-6} #6
     ,{.williams} 戞(8)
     ,
       <nav class="sideways">
@@ -454,7 +454,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-5-entry-7} #7
     ,{.williams} 揠(8)
     ,
       <nav class="sideways">
@@ -463,7 +463,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-5-entry-8} #8
     ,{.williams} 秸(8)
     ,
       <nav class="sideways">
@@ -472,7 +472,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-5-entry-9} #9
     ,{.williams} 恝(8)
     ,
       <nav class="sideways">
@@ -482,7 +482,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=12} Page~6
-    , #1
+    ,{#page-6-entry-1} #1
     ,{.williams} 壓(8)
     ,
       <nav class="sideways">
@@ -491,7 +491,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-6-entry-2} #2
     ,{.williams} 閼(8)
     ,
       <nav class="sideways">
@@ -500,7 +500,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-6-entry-3} #3
     ,{.williams} 頞(8)
     ,
       <nav class="sideways">
@@ -509,7 +509,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-6-entry-4} #4
     ,{.williams} (1)區
     ,
       <nav class="sideways">
@@ -518,7 +518,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-6-entry-5} #5
     ,{.williams} (1)甌
     ,
       <nav class="sideways">
@@ -527,7 +527,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-6-entry-6} #6
     ,{.williams} (1)鷗
     ,
       <nav class="sideways">
@@ -536,7 +536,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-6-entry-7} #7
     ,{.williams} (1)謳
     ,
       <nav class="sideways">
@@ -545,7 +545,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-6-entry-8} #8
     ,{.williams} (1)歐
     ,
       <nav class="sideways">
@@ -556,7 +556,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-6-entry-9} #9
     ,{.williams} (2)嘔
     ,
       <nav class="sideways">
@@ -566,7 +566,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-6-entry-10} #10
     ,{.williams} (2)毆
     ,
       <nav class="sideways">
@@ -575,7 +575,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #11
+    ,{#page-6-entry-11} #11
     ,{.williams} 漚(3)
     ,
       <nav class="sideways">
@@ -584,7 +584,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #12
+    ,{#page-6-entry-12} #12
     ,{.williams} (1)坳
     ,
       <nav class="sideways">
@@ -594,7 +594,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=13} Page~7
-    , #1
+    ,{#page-7-entry-1} #1
     ,{.williams} (2)拗
     ,
       <nav class="sideways">
@@ -603,7 +603,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-7-entry-2} #2
     ,{.williams} 拗(3)
     ,
       <nav class="sideways">
@@ -612,7 +612,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-7-entry-3} #3
     ,{.williams} 坳(3)
     ,
       <nav class="sideways">
@@ -621,7 +621,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-7-entry-4} #4
     ,{.williams} 凹(3)
     ,
       <nav class="sideways">
@@ -630,7 +630,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-7-entry-5} #5
     ,{.williams} (1)渣
     ,
       <nav class="sideways">
@@ -639,7 +639,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-7-entry-6} #6
     ,{.williams} (1)樝
     ,
       <nav class="sideways">
@@ -648,7 +648,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-7-entry-7} #7
     ,{.williams} (1)皻
     ,
       <nav class="sideways">
@@ -657,7 +657,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-7-entry-8} #8
     ,{.williams} (1)蹅
     ,
       <nav class="sideways">
@@ -666,7 +666,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-7-entry-9} #9
     ,{.williams} (1)㪥
     ,
       <nav class="sideways">
@@ -676,7 +676,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-7-entry-10} #10
     ,{.williams} (1)揸
     ,
       <nav class="sideways">
@@ -685,7 +685,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #11
+    ,{#page-7-entry-11} #11
     ,{.williams} (1){𠾵=⿰口揸}
     ,
       <nav class="sideways">
@@ -694,7 +694,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #12
+    ,{#page-7-entry-12} #12
     ,{.williams} (1)撾
     ,
       <nav class="sideways">
@@ -703,7 +703,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #13
+    ,{#page-7-entry-13} #13
     ,{.williams} (2)鮓
     ,
       <nav class="sideways">
@@ -713,7 +713,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=13} Page~8
-    , #1
+    ,{#page-8-entry-1} #1
     ,{.williams} (2)痄
     ,
       <nav class="sideways">
@@ -722,7 +722,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-8-entry-2} #2
     ,{.williams} 詐(3)
     ,
       <nav class="sideways">
@@ -731,7 +731,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-8-entry-3} #3
     ,{.williams} 蚱(3)
     ,
       <nav class="sideways">
@@ -740,7 +740,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-8-entry-4} #4
     ,{.williams} 醡(3)
     ,
       <nav class="sideways">
@@ -750,7 +750,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-8-entry-5} #5
     ,{.williams} 榨(3)
     ,
       <nav class="sideways">
@@ -759,7 +759,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-8-entry-6} #6
     ,{.williams} 乍(3)
     ,
       <nav class="sideways">
@@ -768,7 +768,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-8-entry-7} #7
     ,{.williams} 搾(3)
     ,
       <nav class="sideways">
@@ -777,7 +777,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-8-entry-8} #8
     ,{.williams} 咋(3)
     ,
       <nav class="sideways">
@@ -786,7 +786,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-8-entry-9} #9
     ,{.williams} (1)差
     ,
       <nav class="sideways">
@@ -795,7 +795,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-8-entry-10} #10
     ,{.williams} (1)汊(1)岔
     ,
       <nav class="sideways">
@@ -805,7 +805,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #11
+    ,{#page-8-entry-11} #11
     ,{.williams} (1)义
     ,
       <nav class="sideways">
@@ -815,7 +815,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #12
+    ,{#page-8-entry-12} #12
     ,{.williams} (1)扠
     ,
       <nav class="sideways">
@@ -824,7 +824,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #13
+    ,{#page-8-entry-13} #13
     ,{.williams} (4)茶
     ,
       <nav class="sideways">
@@ -834,7 +834,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=12} Page~9|n52
-    , #1
+    ,{#page-9-entry-1} #1
     ,{.williams} (4)嗏
     ,
       <nav class="sideways">
@@ -843,7 +843,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-9-entry-2} #2
     ,{.williams} (4)搽
     ,
       <nav class="sideways">
@@ -852,7 +852,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-9-entry-3} #3
     ,{.williams} (4)槎
     ,
       <nav class="sideways">
@@ -861,7 +861,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-9-entry-4} #4
     ,{.williams} (4)查
     ,
       <nav class="sideways">
@@ -870,7 +870,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-9-entry-5} #5
     ,{.williams} 詫(3)
     ,
       <nav class="sideways">
@@ -879,7 +879,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #6
+    ,{#page-9-entry-6} #6
     ,{.williams} 吒(3)咤(3)
     ,
       <nav class="sideways">
@@ -889,7 +889,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #7
+    ,{#page-9-entry-7} #7
     ,{.williams} 奼(3)
     ,
       <nav class="sideways">
@@ -898,7 +898,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #8
+    ,{#page-9-entry-8} #8
     ,{.williams} 蜡(3)
     ,
       <nav class="sideways">
@@ -907,7 +907,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #9
+    ,{#page-9-entry-9} #9
     ,{.williams} (1)擠
     ,
       <nav class="sideways">
@@ -916,7 +916,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #10
+    ,{#page-9-entry-10} #10
     ,{.williams} 晣(3)
     ,
       <nav class="sideways">
@@ -925,7 +925,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #11
+    ,{#page-9-entry-11} #11
     ,{.williams} 制(3)
     ,
       <nav class="sideways">
@@ -935,7 +935,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #12
+    ,{#page-9-entry-12} #12
     ,{.williams} 製(3)
     ,
       <nav class="sideways">
@@ -945,7 +945,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=3} Page~341
-    , #3
+    ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
     ,
       <nav class="sideways">
@@ -955,7 +955,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-341-entry-4} #4
     ,{.williams} (1)䳺
     ,
       <nav class="sideways">
@@ -965,7 +965,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-341-entry-5} #5
     ,{.williams} (1)掩(2)揞
     ,
       <nav class="sideways">
@@ -975,7 +975,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=5} Page~342
-    , #1
+    ,{#page-342-entry-1} #1
     ,{.williams} (2)諳
     ,
       <nav class="sideways">
@@ -984,7 +984,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #2
+    ,{#page-342-entry-2} #2
     ,{.williams} (2)闇
     ,
       <nav class="sideways">
@@ -993,7 +993,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #3
+    ,{#page-342-entry-3} #3
     ,{.williams} (2)黯
     ,
       <nav class="sideways">
@@ -1002,7 +1002,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #4
+    ,{#page-342-entry-4} #4
     ,{.williams} (2)欿
     ,
       <nav class="sideways">
@@ -1011,7 +1011,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    , #5
+    ,{#page-342-entry-5} #5
     ,{.williams} 暗(3)
     ,
       <nav class="sideways">
@@ -1021,7 +1021,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=1} Page~716
-    , #8
+    ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
     ,
       <nav class="sideways">
@@ -1031,7 +1031,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{r=1} Page~724
-    , #12
+    ,{#page-724-entry-12} #12
     ,{.williams} (1)啽
     ,
       <nav class="sideways">
