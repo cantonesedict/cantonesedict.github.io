@@ -3697,6 +3697,12 @@ class WilliamsLocator:
         self.clarification_run = clarification_run
         self.redirection_run = redirection_run
 
+    def __eq__(self, other):
+        return self.identity() == other.identity()
+
+    def __hash__(self):
+        return hash(self.identity())
+
     def __lt__(self, other):
         return self.identity() < other.identity()
 
@@ -3986,6 +3992,7 @@ class Linter:
         self.index_terms()  # Cantonese terms by Jyutping
         self.index_search()  # characters and compositions
         self.index_radicals()  # characters by radical
+        self.index_williams()  # trace of Williams entries
 
     def print_statistics(self):
         page_count = len(self.entry_pages)
@@ -4134,6 +4141,17 @@ class Linter:
 
         for cmd_source in self.cmd_sources:
             cmd_source.index_radicals(character_entries_from_radical_strokes)
+
+    def index_williams(self):
+        character_entries_from_williams_locator = Utilities.collate_firsts_by_second(
+            (character_entry, williams_locator)
+            for character_entry in self.character_entries
+            for williams_locator in character_entry.williams_locators
+            if williams_locator.page_number != '9999'  # TODO: REMOVE
+        )
+
+        for wl, ces in sorted(character_entries_from_williams_locator.items()):
+            print(wl.content(), [ce.universal_link() for ce in ces])
 
     def save_cache(self):
         cached_cmd_source_from_file_name = {
