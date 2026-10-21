@@ -9,10 +9,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %copyright-prior-years -->
 * %meta-description --> trace of Williams (1856) entries
 
-OrdinaryDictionaryReplacement: #.no-black-serif-note
-- queue_position: AFTER #.boilerplate.footer
-* %black-serif-note -->
-
 %%%
 
 #{.modern} %title
