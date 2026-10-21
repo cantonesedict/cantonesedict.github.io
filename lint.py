@@ -4901,7 +4901,7 @@ class Linter:
             "    ; Page",
             "    ; Entry",
             "    ; Headword run",
-            "    ; Modern entries",
+            "    ; Modern entry links",
             "|:",
             [
                 [
@@ -4910,8 +4910,32 @@ class Linter:
                         f'    , Page~{page}',
                         f'    , #{entry_number}',
                         f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
+                        f'    ,',
+                        f'      <nav class="sideways">',
+                        f'      ==',
+                        [
+                            f'      - {link_sequence_content}'
+                            for character_entries in character_entries_from_character.values()
+                            if (
+                                link_sequence_content := ', '.join(
+                                    (
+                                        character_entry.universal_link() if character_entry.is_canonical
+                                        else f'({character_entry.universal_link()})'
+                                    )
+                                    for character_entry in character_entries
+                                ),
+                            )
+                        ],
+                        f'      ==',
+                        f'      </nav>',
                     ]
                     for entry_number, williams_locator in sorted(williams_locator_from_entry_number.items())
+                    if (
+                        character_entries_from_character := Utilities.collate_firsts_by_second(
+                            (character_entry, character_entry.character)
+                            for character_entry in character_entries_from_williams_locator[williams_locator]
+                        ),
+                    )
                 ]
                 for page, williams_locator_from_entry_number in williams_locator_from_entry_number_from_page.items()
             ],
