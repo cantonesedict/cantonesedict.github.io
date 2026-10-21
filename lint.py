@@ -4887,7 +4887,7 @@ class Linter:
     def _replace_williams_table(content: str,
                                 character_entries_from_williams_locator: dict['WilliamsLocator',
                                                                               list['CharacterEntry']]) -> str:
-        williams_locator_from_entry_number_from_page = Utilities.collate_first_by_second_by_third(
+        williams_locator_from_number_from_page = Utilities.collate_first_by_second_by_third(
             (williams_locator, williams_locator.entry_number, williams_locator.page)
             for williams_locator in sorted(character_entries_from_williams_locator)
         )
@@ -4908,7 +4908,7 @@ class Linter:
                     [
                         f'  //',
                         f'    , Page~{page}',
-                        f'    , #{entry_number}',
+                        f'    , #{number}',
                         f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
                         f'    ,',
                         f'      <nav class="sideways">',
@@ -4929,7 +4929,7 @@ class Linter:
                         f'      ==',
                         f'      </nav>',
                     ]
-                    for entry_number, williams_locator in sorted(williams_locator_from_entry_number.items())
+                    for number, williams_locator in sorted(williams_locator_from_number.items())
                     if (
                         character_entries_from_character := Utilities.collate_firsts_by_second(
                             (character_entry, character_entry.character)
@@ -4937,7 +4937,7 @@ class Linter:
                         ),
                     )
                 ]
-                for page, williams_locator_from_entry_number in williams_locator_from_entry_number_from_page.items()
+                for page, williams_locator_from_number in williams_locator_from_number_from_page.items()
             ],
             "''",
             "||||",
