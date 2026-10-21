@@ -944,6 +944,71 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~10|n53
+    ,{#page-10-entry-1} #1
+    ,{.williams} 掣(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $掣zai3
+      ==
+      </nav>
+  //
+    ,{#page-10-entry-2} #2
+    ,{.williams} 滯(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $滯zai6
+      ==
+      </nav>
+  //
+    ,{#page-10-entry-3} #3
+    ,{.williams} (1)齋(1){？=⿱攵而}
+    ,
+      <nav class="sideways">
+      ==
+      - $齋zaai1
+      ==
+      </nav>
+  //
+    ,{#page-10-entry-4} #4
+    ,{.williams} (1)齊
+    ,
+      <nav class="sideways">
+      ==
+      - $齋zaai1
+      ==
+      </nav>
+  //
+    ,{#page-10-entry-5} #5
+    ,{.williams} 債(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $債zaai3
+      ==
+      </nav>
+  //
+    ,{#page-10-entry-6} #6
+    ,{.williams} 寨(6)砦(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $寨zaai6
+      - ($砦zaai6)
+      ==
+      </nav>
+  //
+    ,{#page-10-entry-7} #7
+    ,{.williams} 豸(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $豸zaai6, $豸zi6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

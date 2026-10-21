@@ -122,7 +122,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
+  - [[Page~10|n53 #3: ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
     ==
     - To respect, to reverence [[Kangxi 齋: 恭也, 齋敬也]];
     - to abstain from [[Kangxi 齋: 潔也, 洗心曰齋]];
@@ -181,7 +181,7 @@ W
         [[hou2 ci5 keoi5 waa6 zaai1 好似佢話齋]],
         just as he said.
     ==
-  - [[Page~10|n53 (1)齊]]
+  - [[Page~10|n53 #4: (1)齊]]
     --
     Interchanged with the last [[齋]] [[Kangxi 齊: 與齋同]].
     --
@@ -265,7 +265,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 債(3)]]
+  - [[Page~10|n53 #5: 債(3)]]
     ==
     - To bear a burden [[Kangxi: 負也]];
     - to owe;
@@ -435,7 +435,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 寨(6)砦(6)]]
+  - [[Page~10|n53 #6: 寨(6)砦(6)]]
     ==
     - A stockade, a palisade [[Kangxi 寨: 山居以木柵, 籬落也]];
     - an encampment;
@@ -537,7 +537,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 寨(6)砦(6)]]
+  - [[Page~10|n53 #6: 寨(6)砦(6)]]
     --
     [[Alternative form of 寨. **See $寨zaai6 for the canonical entry.**]]
     --
@@ -569,7 +569,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 豸(6)]]
+  - [[Page~10|n53 #7: 豸(6)]]
     ==
     - A fabulous ~~feline~~ beast, called _(5)h(a/)i ch(a/)i(6)_ [[haai5 zaai6 獬豸]]
       embroidered on censor's robes, indicative of discrimination [[Kangxi: 法冠或謂之獬豸冠獬豸神羊能別曲直故以爲冠]].

@@ -778,7 +778,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 掣(3)]]
+  - [[Page~10|n53 #1: 掣(3)]]
     ==
     - To obstruct, to hinder from ~~entering~~ ``advancing`` [[Kangxi: 滯隔不進也]];
     - [[...]];
@@ -1389,7 +1389,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 滯(6)]]
+  - [[Page~10|n53 #2: 滯(6)]]
     ==
     - Water impeded;
     - condensed, congealed [[Kangxi: 凝也]];
