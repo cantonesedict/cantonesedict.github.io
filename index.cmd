@@ -72,6 +72,7 @@ by [Samuel Wells Williams].
   - [Search character entries](/search/)
   - [Index of characters by radical](/radicals/)
   - [Index of literary renderings by Baxter notation](/renderings/)
+  - [Trace of Williams entries](/trace/)
   ==
 ====
 </nav>
