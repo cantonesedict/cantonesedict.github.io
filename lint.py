@@ -1097,7 +1097,7 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
     pattern=r'''
         ^ [ ]+ [-][ ]
         \[\[
-            Page~(?P<page_number> \S+ )
+            Page~(?P<page> \S+ )
             (?P<spaces> [ ]+ )
             (?P<headword_run> [^\s;]+ ) (?P<clarification_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
         \]\]
@@ -1113,7 +1113,7 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
     ''',
     flags=re.MULTILINE | re.VERBOSE,
 )
-CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_NUMBER_GROUP = 'page_number'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP = 'page'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP = 'spaces'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_CLARIFICATION_RUN_GROUP = 'clarification_run'
@@ -3359,11 +3359,11 @@ class CharacterEntry:
     @staticmethod
     def extract_williams_locators(content: str) -> list['WilliamsLocator']:
         return [
-            WilliamsLocator(page_number, whitespace, headword_run, clarification_run, redirection_run,
+            WilliamsLocator(page, whitespace, headword_run, clarification_run, redirection_run,
                             hint, entry_number)
             for match in CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN.finditer(string=content)
             if (
-                page_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_NUMBER_GROUP),
+                page := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP),
                 whitespace := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP),
                 headword_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP),
                 clarification_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_CLARIFICATION_RUN_GROUP),
@@ -3647,17 +3647,17 @@ class SeeAlsoLink:
 
 class WilliamsLocator:
     page_grouping: int
-    page_number: str
+    page: str
     page_integer: int
     entry_number: Optional[int]
     headword_run: str
     unedited_headword_run: str
     redirection_run: str
 
-    def __init__(self, page_number: str, whitespace: str,
+    def __init__(self, page: str, whitespace: str,
                  headword_run: str, clarification_run: str, redirection_run: str,
                  hint: Optional[str], entry_number: Optional[str]):
-        locator_readable = f'- [[Page~{page_number}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
+        locator_readable = f'- [[Page~{page}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
 
         if whitespace != ' ':
             raise LintException(
@@ -3668,7 +3668,7 @@ class WilliamsLocator:
             raise LintException(f'missing Williams tone in Williams locator `{locator_readable}`')
 
         if hint is None:
-            page_number = '9999'
+            page = '9999'
             entry_number = '9999'
             # TODO:
             # raise LintException(
@@ -3676,11 +3676,11 @@ class WilliamsLocator:
             #     f'after `{locator_readable}`'
             # )
 
-        page_integer = int(DIGITS_PATTERN.search(string=page_number).group())
+        page_integer = int(DIGITS_PATTERN.search(string=page).group())
 
         if page_integer >= 41:
             page_grouping = 3
-        elif '*' in page_number:
+        elif '*' in page:
             page_grouping = 2
         else:
             page_grouping = 1
@@ -3695,7 +3695,7 @@ class WilliamsLocator:
         )
 
         self.page_grouping = page_grouping
-        self.page_number = page_number
+        self.page = page
         self.page_integer = page_integer
         self.entry_number = entry_number
         self.headword_run = headword_run
@@ -3716,7 +3716,7 @@ class WilliamsLocator:
         return self.page_grouping, self.page_integer, self.entry_number
 
     def content(self):
-        return f'- [[Page~{self.page_number} {self.headword_run}{self.clarification_run}{self.redirection_run}]]'
+        return f'- [[Page~{self.page} {self.headword_run}{self.clarification_run}{self.redirection_run}]]'
 
 
 class LiteraryRendering:
@@ -3943,7 +3943,7 @@ class Linter:
             williams_locator
             for character_entry in character_entries
             for williams_locator in character_entry.williams_locators
-            if williams_locator.page_number != '9999'  # TODO: REMOVE
+            if williams_locator.page != '9999'  # TODO: REMOVE
         ]
         literary_renderings = [
             literary_rendering
@@ -4153,7 +4153,7 @@ class Linter:
             (character_entry, williams_locator)
             for character_entry in self.character_entries
             for williams_locator in character_entry.williams_locators
-            if williams_locator.page_number != '9999'  # TODO: REMOVE
+            if williams_locator.page != '9999'  # TODO: REMOVE
         )
 
         with open('williams/index.cmd', 'r', encoding='utf-8') as read_file:
@@ -4901,7 +4901,7 @@ class Linter:
             [
                 [
                     f'  //',
-                    f'    , Page~{williams_locator.page_number}',
+                    f'    , Page~{williams_locator.page}',
                     f'    , #{williams_locator.entry_number}',
                     f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
                 ]
