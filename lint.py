@@ -4907,7 +4907,10 @@ class Linter:
                 [
                     [
                         f'  //',
-                        f'    , Page~{page}',
+                        *(
+                            [f'    ,{{r={entry_count}}} Page~{page}'] if index == 0
+                            else []
+                        ),
                         f'    , #{number}',
                         f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
                         f'    ,',
@@ -4929,7 +4932,7 @@ class Linter:
                         f'      ==',
                         f'      </nav>',
                     ]
-                    for number, williams_locator in sorted(williams_locator_from_number.items())
+                    for index, (number, williams_locator) in enumerate(sorted(williams_locator_from_number.items()))
                     if (
                         character_entries_from_character := Utilities.collate_firsts_by_second(
                             (character_entry, character_entry.character)
@@ -4938,6 +4941,9 @@ class Linter:
                     )
                 ]
                 for page, williams_locator_from_number in williams_locator_from_number_from_page.items()
+                if (
+                    entry_count := len(williams_locator_from_number),
+                )
             ],
             "''",
             "||||",
