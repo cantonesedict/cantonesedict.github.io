@@ -63,7 +63,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (1)啁]]
+  - [[Page~28|n71 #10: (1)啁]]
     --
     [[...]]
     --
@@ -109,7 +109,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (1)嘲]]
+  - [[Page~28|n71 #9: (1)嘲]]
     ==
     - To deride, to jeer at [[Kangxi: 謔也]];
     - to ridicule;
@@ -124,7 +124,7 @@ W
         [[zaau1 maa6 嘲罵]]
         to jeer and rail at.
     ==
-  - [[Page~28|n71 (1)啁]]
+  - [[Page~28|n71 #10: (1)啁]]
     --
     Interchanged with the last [[嘲]] [[Kangxi 啁: 與嘲謿通]].
     --

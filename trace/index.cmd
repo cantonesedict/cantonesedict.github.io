@@ -2740,6 +2740,98 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~28|n71
+    ,{#page-28-entry-1} #1
+    ,{.williams} (4)犨
+    ,
+      <nav class="sideways">
+      ==
+      - $犨cau4
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-2} #2
+    ,{.williams} (4)籌
+    ,
+      <nav class="sideways">
+      ==
+      - $籌cau4
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-3} #3
+    ,{.williams} (2)丑
+    ,
+      <nav class="sideways">
+      ==
+      - $丑cau2
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-4} #4
+    ,{.williams} (2)醜
+    ,
+      <nav class="sideways">
+      ==
+      - $醜cau2
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-5} #5
+    ,{.williams} (5){𧽒=⿺走臭}
+    ,
+      <nav class="sideways">
+      ==
+      - ${𧽒=⿺走臭}cau3, ${𧽒=⿺走臭}cau5
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-6} #6
+    ,{.williams} 臭(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $臭cau3
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-7} #7
+    ,{.williams} 嗅(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $嗅cau3
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-8} #8
+    ,{.williams} 糗(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $糗cau3
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-9} #9
+    ,{.williams} (1)嘲
+    ,
+      <nav class="sideways">
+      ==
+      - $嘲zaau1
+      ==
+      </nav>
+  //
+    ,{#page-28-entry-10} #10
+    ,{.williams} (1)啁
+    ,
+      <nav class="sideways">
+      ==
+      - $啁zaau1
+      - $嘲zaau1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

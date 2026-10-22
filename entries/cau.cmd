@@ -822,7 +822,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (2)丑]]
+  - [[Page~28|n71 #3: (2)丑]]
     ==
     - The second of the 12~horary signs;
     - the 4th~watch, from 1 to 3~A.~M.;
@@ -893,7 +893,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (2)醜]]
+  - [[Page~28|n71 #4: (2)醜]]
     ==
     - Ugly, deformed, vile, ill looking [[Kangxi: 貌惡也]];
     - disagreeable;
@@ -1031,7 +1031,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 嗅(3)]]
+  - [[Page~28|n71 #7: 嗅(3)]]
     ==
     - To smell [[Kangxi: 以鼻就臭, 以鼻取氣]], to perceive odors as a dog does;
     - the plaintive cry of birds [[Fan Wan: 鳥哀鳴聲]].
@@ -1171,7 +1171,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 糗(3)]]
+  - [[Page~28|n71 #8: 糗(3)]]
     ==
     - Roasted or parched wheat or rice [[Kangxi: 熬米麥也又乾飯屑也]];
     - coarsely pounded rice like grits;
@@ -1206,7 +1206,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 臭(3)]]
+  - [[Page~28|n71 #6: 臭(3)]]
     ==
     - To track by the scent [[Kangxi: 禽走臭而知其迹者犬也]];
     - effluvia, savor, smell, putridity, odor, stench [[Kangxi: 凡氣之總名]];
@@ -1324,7 +1324,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
+  - [[Page~28|n71 #5: (5){𧽒=⿺走臭}]]
     --
     Read _ch(')au(3)_ [[cau3]]_;_
     --
@@ -1630,7 +1630,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (4)犨]]
+  - [[Page~28|n71 #1: (4)犨]]
     ==
     - A white ox [[Fan Wan: 白色牛]];
     - the lowing or snorting of a cow [[Kangxi: 牛息聲]];
@@ -1766,7 +1766,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (4)籌]]
+  - [[Page~28|n71 #2: (4)籌]]
     ==
     - To compute, to calculate [[Kangxi: 籌算也]];
     - to devise, to plan, to arrange [[Kangxi: 籌策]];
@@ -2287,7 +2287,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
+  - [[Page~28|n71 #5: (5){𧽒=⿺走臭}]]
     --
     [[...]]
     --
