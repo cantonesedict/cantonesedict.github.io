@@ -1110,12 +1110,12 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
     flags=re.MULTILINE | re.VERBOSE,
 )
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP = 'page'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP = 'entry_marker'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP = 'entry_number'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP = 'spaces'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_CLARIFICATION_RUN_GROUP = 'clarification_run'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP = 'redirection_run'
-CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP = 'entry_marker'
-CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP = 'entry_number'
 
 CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN = re.compile(
     pattern=r'''
@@ -3355,17 +3355,17 @@ class CharacterEntry:
     @staticmethod
     def extract_williams_locators(content: str) -> list['WilliamsLocator']:
         return [
-            WilliamsLocator(page, whitespace, headword_run, clarification_run, redirection_run,
-                            entry_marker, entry_number)
+            WilliamsLocator(page, entry_marker, entry_number, whitespace,
+                            headword_run, clarification_run, redirection_run)
             for match in CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN.finditer(string=content)
             if (
                 page := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP),
+                entry_marker := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP),
+                entry_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP),
                 whitespace := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP),
                 headword_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP),
                 clarification_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_CLARIFICATION_RUN_GROUP),
                 redirection_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP),
-                entry_marker := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP),
-                entry_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP),
             )
         ]
 
@@ -3650,10 +3650,11 @@ class WilliamsLocator:
     unedited_headword_run: str
     redirection_run: str
 
-    def __init__(self, page: str, whitespace: str,
-                 headword_run: str, clarification_run: str, redirection_run: str,
-                 entry_marker: Optional[str], entry_number: Optional[str]):
-        locator_readable = f'- [[Page~{page}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
+    def __init__(self, page: str, entry_marker: Optional[str], entry_number: Optional[str], whitespace: str,
+                 headword_run: str, clarification_run: str, redirection_run: str):
+        locator_readable = (
+            f'- [[Page~{page}{entry_marker}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
+        )
 
         if whitespace != ' ':
             raise LintException(
@@ -3695,6 +3696,7 @@ class WilliamsLocator:
         self.page = page
         self.page_clean = page_clean
         self.page_number = page_number
+        self.entry_marker = entry_marker
         self.entry_number = entry_number
         self.headword_run = headword_run
         self.unedited_headword_run = unedited_headword_run
@@ -3714,7 +3716,13 @@ class WilliamsLocator:
         return self.page_grouping, self.page_number, self.entry_number
 
     def content(self):
-        return f'- [[Page~{self.page} {self.headword_run}{self.clarification_run}{self.redirection_run}]]'
+        page = self.page
+        entry_marker = self.entry_marker
+        headword_run = self.headword_run
+        clarification_run = self.clarification_run
+        redirection_run = self.redirection_run
+
+        return f'- [[Page~{page}{entry_marker} {headword_run}{clarification_run}{redirection_run}]]'
 
 
 class LiteraryRendering:
