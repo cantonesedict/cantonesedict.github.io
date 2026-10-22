@@ -1109,6 +1109,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~12|n55
+    ,{#page-12-entry-1} #1
+    ,{.williams} 仄(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $仄zak1
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-2} #2
+    ,{.williams} 昃(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $昃zak1
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-3} #3
+    ,{.williams} 簀(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $簀zaai3, $簀zaak3
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-4} #4
+    ,{.williams} 賾(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $賾zaak3
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-5} #5
+    ,{.williams} 側(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $側zak1
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-6} #6
+    ,{.williams} 測(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $測cak1
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-7} #7
+    ,{.williams} 惻(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $惻cak1
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-8} #8
+    ,{.williams} 責(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $矺zaak3
+      - $責zaak3
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-9} #9
+    ,{.williams} 窄(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $窄zaak3
+      ==
+      </nav>
+  //
+    ,{#page-12-entry-10} #10
+    ,{.williams} 笮(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $窄zaak3
+      - $笮zaak3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

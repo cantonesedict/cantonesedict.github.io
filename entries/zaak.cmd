@@ -236,7 +236,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12|n55 責(8); here normalised to 矺]]
+  - [[Page~12|n55 #8: 責(8); here normalised to 矺]]
     ==
     - [[...]];
     - to lay a weight on;
@@ -379,7 +379,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 窄(8)]]
+  - [[Page~12|n55 #9: 窄(8)]]
     ==
     - Narrow, strait [[Kangxi: 狹也迫也隘也]];
     - compressed;
@@ -403,7 +403,7 @@ W
         [[zaak3 lou6 窄路]]
         a lane.
     ==
-  - [[Page~12|n55 笮(8)]]
+  - [[Page~12|n55 #10: 笮(8)]]
     ==
     - Like the last [[窄]] [[Kangxi 笮: 狹也廹也]];
     - [[...]].
@@ -443,7 +443,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12|n55 笮(8)]]
+  - [[Page~12|n55 #10: 笮(8)]]
     ==
     - [[...]];
     - a quiver [[Kangxi: 矢箙]];
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~12|n55 #3: 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - Boards of a bed [[Kangxi: 牀棧也]];
     - a bed mat [[Kangxi: 簀謂之笫]];
@@ -584,7 +584,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 責(8)]]
+  - [[Page~12|n55 #8: 責(8)]]
     ==
     - To reprove, to reprimand, to blame [[Kangxi: 責讓也]];
     - to punish [[Kangxi: 誅責也]], to fine;
@@ -664,7 +664,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~12|n55 #4: 賾(7) _Chak(7)_ (zak1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - Obscure, hard of understanding [[Kangxi: 謂幽深難見]];
     - the secret springs, the hidden cause;

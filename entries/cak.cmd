@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 惻(7)]]
+  - [[Page~12|n55 #7: 惻(7)]]
     ==
     - Secret grief, distress [[Kangxi: 痛也]];
     - to pity, to commisserate, to sympathize;
@@ -120,7 +120,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 測(7)]]
+  - [[Page~12|n55 #6: 測(7)]]
     ==
     - To sound, to fathom [[Kangxi: 度深曰測]];
     - to estimate, to measure [[Kangxi: 凡測度之稱]];

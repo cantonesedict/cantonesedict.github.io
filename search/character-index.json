@@ -1042,7 +1042,7 @@
 "cak1":{
 "isCanonical":true,
 "williams":"ch(')ak(7)",
-"text":"U+60FB 恻 (Mainland simplified) caak1 (longer syllable) (F2.32 惻) 隱傷也痛也 (Page 12|n55 惻) Secret grief, distress (Kangxi: 痛也); to pity, to commisserate, to sympathize; _ch'ak yan chi sam_ (cak1 jan2 zi1 sam1 惻隱之心), kind-hearted, humane. Fan Wan entry: Corrected 𭙡 to 痛. Williams' 惻隱之心: Corrected _yan_ (jan4) to _yan_ (jan2). 【惻】 (tsrhik) (_verb-like_) to compassion"
+"text":"U+60FB 恻 (Mainland simplified) caak1 (longer syllable) (F2.32 惻) 隱傷也痛也 (Page 12|n55 #7: 惻) Secret grief, distress (Kangxi: 痛也); to pity, to commisserate, to sympathize; _ch'ak yan chi sam_ (cak1 jan2 zi1 sam1 惻隱之心), kind-hearted, humane. Fan Wan entry: Corrected 𭙡 to 痛. Williams' 惻隱之心: Corrected _yan_ (jan4) to _yan_ (jan2). 【惻】 (tsrhik) (_verb-like_) to compassion"
 }
 },
 "測":{
@@ -1054,7 +1054,7 @@
 "cak1":{
 "isCanonical":true,
 "williams":"ch(')ak(7)",
-"text":"U+6E2C 测 (Mainland simplified) caak1 (longer syllable) (F2.32 測) 度也 (Page 12|n55 測) To sound, to fathom (Kangxi: 度深曰測); to estimate, to measure (Kangxi: 凡測度之稱); clear, as varnish (Kangxi: 淸也 etc.); _ch'ak tok_ (cak1 dok6 測度) to comprehend, to conjecture; _ch'ak tsz'_ (cak1 zi6 測字) to dissect characters, as when divining; _pat ch'ak_ (bat1 cak1 不測) unexpected; _t'ui ch'ak_ (teoi1 cak1 推測) to explain, to reason; _pat ho ch'ak_ (bat1 ho2 cak1 不可測) incomprehensible. Williams' 推測: Corrected _t'ui_ to _t'ui_. Extreme depth (Kangxi: 深所至也). Deep. 【測】 (tsrhik) (_verb-like_) to fathom"
+"text":"U+6E2C 测 (Mainland simplified) caak1 (longer syllable) (F2.32 測) 度也 (Page 12|n55 #6: 測) To sound, to fathom (Kangxi: 度深曰測); to estimate, to measure (Kangxi: 凡測度之稱); clear, as varnish (Kangxi: 淸也 etc.); _ch'ak tok_ (cak1 dok6 測度) to comprehend, to conjecture; _ch'ak tsz'_ (cak1 zi6 測字) to dissect characters, as when divining; _pat ch'ak_ (bat1 cak1 不測) unexpected; _t'ui ch'ak_ (teoi1 cak1 推測) to explain, to reason; _pat ho ch'ak_ (bat1 ho2 cak1 不可測) incomprehensible. Williams' 推測: Corrected _t'ui_ to _t'ui_. Extreme depth (Kangxi: 深所至也). Deep. 【測】 (tsrhik) (_verb-like_) to fathom"
 }
 },
 "冊":{
@@ -11581,12 +11581,12 @@
 "zaai3":{
 "isCanonical":true,
 "williams":"ch(a/)i(3)",
-"text":"U+7C00 箦 (Mainland simplified) (Page 12|n55 簀) Read _chai_ (zaai3)_;_ a strainer for spirits (Kangxi: 壓酒具)."
+"text":"U+7C00 箦 (Mainland simplified) (Page 12|n55 #3: 簀) Read _chai_ (zaai3)_;_ a strainer for spirits (Kangxi: 壓酒具)."
 },
 "zaak3":{
 "isCanonical":true,
 "williams":"ch(a/)k(8)",
-"text":"U+7C00 箦 (Mainland simplified) zak1 (per Fan Wan) (F2.32 簀 _Chak_ (zak1)) ？？也 (Page 12|n55 簀 _Chak_ (zak1); here normalised to _Chak_ (zaak3)) Boards of a bed (Kangxi: 牀棧也); a bed mat (Kangxi: 簀謂之笫); to collect (Kangxi: 積聚也); luxuriant (Kangxi: 簀積也言茂盛似如積聚). Fan Wan entry: The first two characters of the explanation are incomprehensible. The first, ⿱𥫗章, does not exist. The second is illegible, but appears like a deformed version of 䓂. 【簀】 (tsreak) (_noun-like_) bed-mat, (_met._) dense-padding"
+"text":"U+7C00 箦 (Mainland simplified) zak1 (per Fan Wan) (F2.32 簀 _Chak_ (zak1)) ？？也 (Page 12|n55 #3: 簀 _Chak_ (zak1); here normalised to _Chak_ (zaak3)) Boards of a bed (Kangxi: 牀棧也); a bed mat (Kangxi: 簀謂之笫); to collect (Kangxi: 積聚也); luxuriant (Kangxi: 簀積也言茂盛似如積聚). Fan Wan entry: The first two characters of the explanation are incomprehensible. The first, ⿱𥫗章, does not exist. The second is illegible, but appears like a deformed version of 䓂. 【簀】 (tsreak) (_noun-like_) bed-mat, (_met._) dense-padding"
 },
 "zak1":{
 "isCanonical":false,
@@ -11603,7 +11603,7 @@
 "zaak3":{
 "isCanonical":true,
 "williams":"ch(a/)k(8)",
-"text":"U+8CAC 责 (Mainland simplified) (F2.32 責 _Chak_ (zak1)) 責罰責成 (Page 12|n55 責) To reprove, to reprimand, to blame (Kangxi: 責讓也); to punish (Kangxi: 誅責也), to fine; to sustain, to be responsible for, to have charge of (Kangxi: 任也); to ask (Kangxi: 問也), to demand (Kangxi: 求也); _chak fat_ (zaak3 fat6 責罰) to fine; _chak ~~ch'eung~~ sheung_ (zaak3 soeng4 責償), to compel repayment; _chak fat_ (zaak3 fat6 責罰) to punish; _chak man_ (zaak3 man6 責問) to subject to the question; _chak shing_ (zaak3 sing4 責成), to charge with; _chak yam sham chung_ (zaak3 jam6 sam6 zung6 責任甚重) onerous duties devolve on him; Williams' 責償: Changed improper reading _ch'eung_ (coeng4) to _sheung_ (soeng4). Williams' 責罰 (second occurrence): Changed _fat_ (faat6) to modern _fat_ (fat6). 【責】 (tsreak) (_verb-like_) to demand (_verb-like_) to blame, to rebuke (_noun-like_) responsibility"
+"text":"U+8CAC 责 (Mainland simplified) (F2.32 責 _Chak_ (zak1)) 責罰責成 (Page 12|n55 #8: 責) To reprove, to reprimand, to blame (Kangxi: 責讓也); to punish (Kangxi: 誅責也), to fine; to sustain, to be responsible for, to have charge of (Kangxi: 任也); to ask (Kangxi: 問也), to demand (Kangxi: 求也); _chak fat_ (zaak3 fat6 責罰) to fine; _chak ~~ch'eung~~ sheung_ (zaak3 soeng4 責償), to compel repayment; _chak fat_ (zaak3 fat6 責罰) to punish; _chak man_ (zaak3 man6 責問) to subject to the question; _chak shing_ (zaak3 sing4 責成), to charge with; _chak yam sham chung_ (zaak3 jam6 sam6 zung6 責任甚重) onerous duties devolve on him; Williams' 責償: Changed improper reading _ch'eung_ (coeng4) to _sheung_ (soeng4). Williams' 責罰 (second occurrence): Changed _fat_ (faat6) to modern _fat_ (fat6). 【責】 (tsreak) (_verb-like_) to demand (_verb-like_) to blame, to rebuke (_noun-like_) responsibility"
 }
 },
 "寨":{
@@ -11684,7 +11684,7 @@
 "zaak3":{
 "isCanonical":true,
 "williams":"ch(a/)k(8)",
-"text":"U+77FA 砸 (Cantonese) 磧 (Cantonese) 責 (Cantonese) zaak6 (alternative) (Page 12|n55 責; here normalised to 矺) to lay a weight on; to squeeze smooth, to press; _chak chu k'u_ (zaak3 zyu6 keoi5 矺住佢), keep it down; _chak sz'_ (zaak3 sei2 矺死) crushed to death; _chak tsoi_ (zaak3 zoi6 矺儎) to ballast a ship; _chak lan_ (zaak3 laan6 矺爛) crushed in pieces. This character (in the vernacular \"weight/crush\" senses) is commonly written 砸 (from appropriation of formal 砸 zaap3). In my opinion, 矺 is a better character to use than 砸 because: 矺 is attested in Middle Chinese with both reasonable sound and reasonable meaning (zaak3 per 《廣韻》陟革切, explained 磓也, to stone downward); and 砸 is otherwise read zaap3. This character (in the vernacular \"weight/crush\" senses) is sometimes written 笮. In my opinion, 笮 is a poor character to use because it is *not* specific to pressure being applied *vertically*. Indeed for 笮, Kangxi has 又《增韻》壓也通作措《史記梁世家》李太后與爭門措指《註》晉灼曰措字借以爲笮師古曰爲門扇所笮, and in this example I think it more likely for the dowager's finger to have been crushed *horizontally* by the door, rather than vertically. 【矺】 (zaak3, zaak6) To weigh down with a heavy object. 矺住張紙 (zaak6 zyu6 zoeng1 zi2): \"Weigh down the piece of paper.\" To crush (vertically) with a heavy object. 矺扁咗 (zaak3 bin2 zo2): \"Squashed flat.\" Olden attestation for 矺 _chak_ (zaak3) meaning \"weight/crush\": 《廣韻》陟革切 矺 磓也 《康熙字典》矺 《廣韻》《集韻》𠀤陟格切音舴同磔省詳磔字註 又《廣韻》磓也... Here, 磓 is either to stone downwards or to gather stones (in a heap): 《廣韻》都回切 磓 落也亦作塠 《康熙字典》磓 《廣韻》《集韻》《韻會》《正韻》𠀤都回切音堆聚石也又以石投下也亦作塠..."
+"text":"U+77FA 砸 (Cantonese) 磧 (Cantonese) 責 (Cantonese) zaak6 (alternative) (Page 12|n55 #8: 責; here normalised to 矺) to lay a weight on; to squeeze smooth, to press; _chak chu k'u_ (zaak3 zyu6 keoi5 矺住佢), keep it down; _chak sz'_ (zaak3 sei2 矺死) crushed to death; _chak tsoi_ (zaak3 zoi6 矺儎) to ballast a ship; _chak lan_ (zaak3 laan6 矺爛) crushed in pieces. This character (in the vernacular \"weight/crush\" senses) is commonly written 砸 (from appropriation of formal 砸 zaap3). In my opinion, 矺 is a better character to use than 砸 because: 矺 is attested in Middle Chinese with both reasonable sound and reasonable meaning (zaak3 per 《廣韻》陟革切, explained 磓也, to stone downward); and 砸 is otherwise read zaap3. This character (in the vernacular \"weight/crush\" senses) is sometimes written 笮. In my opinion, 笮 is a poor character to use because it is *not* specific to pressure being applied *vertically*. Indeed for 笮, Kangxi has 又《增韻》壓也通作措《史記梁世家》李太后與爭門措指《註》晉灼曰措字借以爲笮師古曰爲門扇所笮, and in this example I think it more likely for the dowager's finger to have been crushed *horizontally* by the door, rather than vertically. 【矺】 (zaak3, zaak6) To weigh down with a heavy object. 矺住張紙 (zaak6 zyu6 zoeng1 zi2): \"Weigh down the piece of paper.\" To crush (vertically) with a heavy object. 矺扁咗 (zaak3 bin2 zo2): \"Squashed flat.\" Olden attestation for 矺 _chak_ (zaak3) meaning \"weight/crush\": 《廣韻》陟革切 矺 磓也 《康熙字典》矺 《廣韻》《集韻》𠀤陟格切音舴同磔省詳磔字註 又《廣韻》磓也... Here, 磓 is either to stone downwards or to gather stones (in a heap): 《廣韻》都回切 磓 落也亦作塠 《康熙字典》磓 《廣韻》《集韻》《韻會》《正韻》𠀤都回切音堆聚石也又以石投下也亦作塠..."
 },
 "zaak6":{
 "isCanonical":false,
@@ -11720,14 +11720,14 @@
 "zaak3":{
 "isCanonical":true,
 "williams":"ch(a/)k(8)",
-"text":"U+7A84 柞 笮 zaak3-2 (rising second in vernacular 窄窄地) (F2.90 窄) 直百切狹也迫也 (Page 12|n55 窄) Narrow, strait (Kangxi: 狹也迫也隘也); compressed; groveling, mean, narrow-minded; _pik chak_ (bik1 zaak3 迫窄) contracted, illiberal; _ts'in chak_ (cin2 zaak3 淺窄) confined, cramped; _sam ch'eung chak_ (sam1 coeng4 zaak3 心腸窄) little-minded; _chak kwo t'au_ (zaak3 gwo3 tau4 窄過頭), too narrow; _ko tsz' chak_ (go3 zi6 zaak3 個字窄) its meanings are few; _chak lo_ (zaak3 lou6 窄路) a lane. (Page 12|n55 笮) Like the last (窄) (Kangxi 笮: 狹也廹也); (Page 592 柞; here normalised to 窄) Read _chak_ (zaak3) narrow, confined (Kangxi 柞: 窄陿也). Fan Wan entry: The supplied dissection 直百切 is incorrect, as it results in the 陽入 reading _chak_ (zaak6), rather than the intended 陰入 reading _chak_ (zaak3)."
+"text":"U+7A84 柞 笮 zaak3-2 (rising second in vernacular 窄窄地) (F2.90 窄) 直百切狹也迫也 (Page 12|n55 #9: 窄) Narrow, strait (Kangxi: 狹也迫也隘也); compressed; groveling, mean, narrow-minded; _pik chak_ (bik1 zaak3 迫窄) contracted, illiberal; _ts'in chak_ (cin2 zaak3 淺窄) confined, cramped; _sam ch'eung chak_ (sam1 coeng4 zaak3 心腸窄) little-minded; _chak kwo t'au_ (zaak3 gwo3 tau4 窄過頭), too narrow; _ko tsz' chak_ (go3 zi6 zaak3 個字窄) its meanings are few; _chak lo_ (zaak3 lou6 窄路) a lane. (Page 12|n55 #10: 笮) Like the last (窄) (Kangxi 笮: 狹也廹也); (Page 592 柞; here normalised to 窄) Read _chak_ (zaak3) narrow, confined (Kangxi 柞: 窄陿也). Fan Wan entry: The supplied dissection 直百切 is incorrect, as it results in the 陽入 reading _chak_ (zaak6), rather than the intended 陰入 reading _chak_ (zaak3)."
 }
 },
 "笮":{
 "zaak3":{
 "isCanonical":true,
 "williams":"ch(a/)k(8)",
-"text":"U+7B2E 措 (for \"crush\" sense) (Page 12|n55 笮) a quiver (Kangxi: 矢箙); a bamboo ceiling of a roof (Kangxi: 屋上板, 在瓦之下棼之上); to hasten out (Kangxi: 出去疾也); to press, to crush (Kangxi: 壓也); For Cantonese \"weight/crush\", see 矺 zaak3."
+"text":"U+7B2E 措 (for \"crush\" sense) (Page 12|n55 #10: 笮) a quiver (Kangxi: 矢箙); a bamboo ceiling of a roof (Kangxi: 屋上板, 在瓦之下棼之上); to hasten out (Kangxi: 出去疾也); to press, to crush (Kangxi: 壓也); For Cantonese \"weight/crush\", see 矺 zaak3."
 },
 "zok6":{
 "isCanonical":true,
@@ -11746,7 +11746,7 @@
 "zaak3":{
 "isCanonical":true,
 "williams":"ch(a/)k(8)",
-"text":"U+8CFE May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here), depending on the font. 嘖 赜 (Mainland simplified) zaak6 (per 《廣韻》士革切) (F2.32 賾 _Chak_ (zak1)) 深也雜也 (Page 12|n55 賾 _Chak_ (zak1); here corrected to _Chak_ (zaak3)) Obscure, hard of understanding (Kangxi: 謂幽深難見); the secret springs, the hidden cause; occult, profound. (Page 569 嘖賾 _Tsik_ (zik1); here corrected to _Chak_ (zaak3)) distant, retired, hidden (Kangxi 嘖: 與賾通); Fan Wan entry: Normalised headword 𧷤 to 賾. 【賾】 (dzreak) (_adjective-like_) abstruse"
+"text":"U+8CFE May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here), depending on the font. 嘖 赜 (Mainland simplified) zaak6 (per 《廣韻》士革切) (F2.32 賾 _Chak_ (zak1)) 深也雜也 (Page 12|n55 #4: 賾 _Chak_ (zak1); here corrected to _Chak_ (zaak3)) Obscure, hard of understanding (Kangxi: 謂幽深難見); the secret springs, the hidden cause; occult, profound. (Page 569 嘖賾 _Tsik_ (zik1); here corrected to _Chak_ (zaak3)) distant, retired, hidden (Kangxi 嘖: 與賾通); Fan Wan entry: Normalised headword 𧷤 to 賾. 【賾】 (dzreak) (_adjective-like_) abstruse"
 }
 },
 "宅":{
@@ -12693,14 +12693,14 @@
 "zak1":{
 "isCanonical":true,
 "williams":"chak(7)",
-"text":"U+4EC4 (F2.32 仄) 平仄傾仄 (Page 12|n55 仄) Inclined, slanting, leaning, oblique (Kangxi: 人處厂下有慮傾側之象); the name of the three deflected tones (上聲, 去聲, 入聲) (Kangxi: 平仄字聲也); _k'ing chak_ (king1 zak1 傾仄) tipped over, upset; _chak ~~sheng~~ shing_ (zak1 sing1 仄聲) the oblique tones; _chak lau_ (zak1 lau6 仄陋) vile, erring. Williams' 仄聲: Corrected _sheng_ (seng1) to _shing_ (sing1). 【仄】 (tsrik) (_adjective-like_) oblique, slanting"
+"text":"U+4EC4 (F2.32 仄) 平仄傾仄 (Page 12|n55 #1: 仄) Inclined, slanting, leaning, oblique (Kangxi: 人處厂下有慮傾側之象); the name of the three deflected tones (上聲, 去聲, 入聲) (Kangxi: 平仄字聲也); _k'ing chak_ (king1 zak1 傾仄) tipped over, upset; _chak ~~sheng~~ shing_ (zak1 sing1 仄聲) the oblique tones; _chak lau_ (zak1 lau6 仄陋) vile, erring. Williams' 仄聲: Corrected _sheng_ (seng1) to _shing_ (sing1). 【仄】 (tsrik) (_adjective-like_) oblique, slanting"
 }
 },
 "側":{
 "zak1":{
 "isCanonical":true,
 "williams":"chak(7)",
-"text":"U+5074 仄 侧 (Mainland simplified) (F2.32 側 _Ch'ak_ (cak1)) 傍邊曰側 (Page 12|n55 側) Side, the side (Kangxi: 旁也); on the side; to incline (Kangxi: 傾也), to bow down, to bend; lateral; perverted; mean, low (Kangxi: 卑隘也); rebellious, seditious (Kangxi: 叛黨曰反側); _chak shat_ (zak1 sat1 側室) a coucubine; _mo chap chak_ (mou4 zaap6 zak1 毋极側) don't turn it over; _chak pin_ (zak1 bin1 側邊), the side; _chak chak ti_ (zak1 zak1 dei6-2 側側地) a little one sided; _fan chak_ (faan2 zak1 反側) the rear, the back side; a rebellious cabal; _chak i_ (zak1 ji5 側耳), apply the ear; _yat chak_ (jat6 zak1 日側) afternoon; _shi ngo chak_ (si6 ngo5 zak1 侍我側) stand at my side. 【側】 (tsrik) (_noun-like_) side (_adjective-like_) oblique, slanting, (_met._) one-sided (_adjective-like_) lowly"
+"text":"U+5074 仄 侧 (Mainland simplified) (F2.32 側 _Ch'ak_ (cak1)) 傍邊曰側 (Page 12|n55 #5: 側) Side, the side (Kangxi: 旁也); on the side; to incline (Kangxi: 傾也), to bow down, to bend; lateral; perverted; mean, low (Kangxi: 卑隘也); rebellious, seditious (Kangxi: 叛黨曰反側); _chak shat_ (zak1 sat1 側室) a coucubine; _mo chap chak_ (mou4 zaap6 zak1 毋极側) don't turn it over; _chak pin_ (zak1 bin1 側邊), the side; _chak chak ti_ (zak1 zak1 dei6-2 側側地) a little one sided; _fan chak_ (faan2 zak1 反側) the rear, the back side; a rebellious cabal; _chak i_ (zak1 ji5 側耳), apply the ear; _yat chak_ (jat6 zak1 日側) afternoon; _shi ngo chak_ (si6 ngo5 zak1 侍我側) stand at my side. 【側】 (tsrik) (_noun-like_) side (_adjective-like_) oblique, slanting, (_met._) one-sided (_adjective-like_) lowly"
 }
 },
 "則":{
@@ -12719,7 +12719,7 @@
 "zak1":{
 "isCanonical":true,
 "williams":"chak(7)",
-"text":"U+6603 稷 (F2.32 昃) 日斜也 (Page 12|n55 昃) The sun declining to the west (Kangxi: 日昃昳中也); the afternoon (Kangxi: 日中則昃); ~~to wane, as the moon;~~ _yat chak_ (jat6 zak1 日昃) day is declining. (Page 569 稷 _Tsik_ (zik1); here corrected to _Chak_ (zak1)) _ha ~~tsik~~ chak_ (haa6 zak1 下稷) afternoon (Kangxi 稷: 與昃通, 稷昃也下稷謂晡時). 【昃】 (tsrik) (_adjective-like_) slanting west"
+"text":"U+6603 稷 (F2.32 昃) 日斜也 (Page 12|n55 #2: 昃) The sun declining to the west (Kangxi: 日昃昳中也); the afternoon (Kangxi: 日中則昃); ~~to wane, as the moon;~~ _yat chak_ (jat6 zak1 日昃) day is declining. (Page 569 稷 _Tsik_ (zik1); here corrected to _Chak_ (zak1)) _ha ~~tsik~~ chak_ (haa6 zak1 下稷) afternoon (Kangxi 稷: 與昃通, 稷昃也下稷謂晡時). 【昃】 (tsrik) (_adjective-like_) slanting west"
 }
 },
 "稷":{

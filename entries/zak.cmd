@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 仄(7)]]
+  - [[Page~12|n55 #1: 仄(7)]]
     ==
     - Inclined, slanting, leaning, oblique [[Kangxi: 人處厂下有慮傾側之象]];
     - the name of the three deflected tones [[上聲, 去聲, 入聲]] [[Kangxi: 平仄字聲也]];
@@ -117,7 +117,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 側(7)]]
+  - [[Page~12|n55 #5: 側(7)]]
     ==
     - Side, the side [[Kangxi: 旁也]];
     - on the side;
@@ -270,7 +270,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 昃(7)]]
+  - [[Page~12|n55 #2: 昃(7)]]
     ==
     - The sun declining to the west [[Kangxi: 日昃昳中也]];
     - the afternoon [[Kangxi: 日中則昃]];
