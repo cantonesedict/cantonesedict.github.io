@@ -162,6 +162,7 @@ U
 A
   ==
   - $厄1
+  - 軶
   - 轭 (Mainland simplified)
   ==
 V
