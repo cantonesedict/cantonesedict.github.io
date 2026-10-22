@@ -918,7 +918,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 (2)祗 _(2)Ch(i/)_ (zi2); here normalised to _(1)Ch(i/)_ (zi1)]]
+  - [[Page~40|n83 #1: (2)祗 _(2)Ch(i/)_ (zi2); here normalised to _(1)Ch(i/)_ (zi1)]]
     ==
     - To respect, to invocate;
     - [[...]];
@@ -2129,7 +2129,7 @@ W
         only so many;
     - [[...]].
     ==
-  - [[Page~40|n83 (2)祗; here normalised to 只]]
+  - [[Page~40|n83 #1: (2)祗; here normalised to 只]]
     ==
     - [[...]];
     - only, but merely, however, yet;
@@ -2227,7 +2227,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 (2)咫]]
+  - [[Page~40|n83 #2: (2)咫]]
     ==
     - An ancient short cubit of 8~_ts(')(u:)n_ [[寸]] [[Kangxi: 中婦人手長八寸謂之咫周尺也]],
       ~~same as~~ ``similar to`` an English foot;
@@ -2784,7 +2784,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 (2)枳]]
+  - [[Page~40|n83 #3: (2)枳]]
     ==
     - A hedge thorn, a spinous tree [[Kangxi: 木高多刺]];
     - a fruit like a pumelo, with a thick skin [[Kangxi: 木似橘]];
@@ -3167,7 +3167,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 (2)祗]]
+  - [[Page~40|n83 #1: (2)祗]]
     --
     [[Reading variation. **See $祗zi1 for the canonical entry.**]]
     --
@@ -3664,7 +3664,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40|n83 (2)軹]]
+  - [[Page~40|n83 #4: (2)軹]]
     ==
     - The hole in the hub of a wheel [[Kangxi: 車輪小穿]], w``h``ere the ~~nave~~ ``axle`` projects;
     - the end of the ~~nave~~ ``axle`` projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
@@ -3796,7 +3796,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40|n83 {𫪦=⿰口知}(3)]]
+  - [[Page~40|n83 #5: {𫪦=⿰口知}(3)]]
     ==
     - A colloquial particle, implying doubt;
     - _(4)loi m(i/)(6) ch(i/)(3)_
@@ -3844,7 +3844,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 志(3)]]
+  - [[Page~40|n83 #6: 志(3)]]
     ==
     - The will, the inclination [[Kangxi: 志者心之所之也]];
     - a good resolution, a resolve;
@@ -4209,7 +4209,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 痣(3)]]
+  - [[Page~40|n83 #8: 痣(3)]]
     ==
     - A mole, a hair-mole [[Kangxi: 黑子也]];
     - black or red spots on the body;
@@ -4421,7 +4421,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 至(3)]]
+  - [[Page~40|n83 #9: 至(3)]]
     ==
     - To come [[Kangxi: 來也]], to go to, to reach [[Kangxi: 達也由此達彼也]];
     - to arrive, the summit or end;
@@ -4531,7 +4531,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 致(3)]]
+  - [[Page~40|n83 #10: 致(3)]]
     --
     ~~Interchanged with the last [[至]].~~
     --
@@ -4707,7 +4707,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 志(3)]]
+  - [[Page~40|n83 #6: 志(3)]]
     ==
     - [[...]];
     - to record [[Kangxi 志: 又記也與誌同或作識]];
@@ -4715,7 +4715,7 @@ W
     - statistical or topographical works;
     - [[...]].
     ==
-  - [[Page~40|n83 誌(3)識(3)]]
+  - [[Page~40|n83 #7: 誌(3)識(3)]]
     ==
     - To remember [[Kangxi 識: 與誌同記也]];
     - to record [[Kangxi 誌: 記誌也]];
@@ -4761,7 +4761,7 @@ F
   ==
 W
   ====
-  - [[Page~40|n83 誌(3)識(3)]]
+  - [[Page~40|n83 #7: 誌(3)識(3)]]
     --
     [[Alternative form of 誌 (for the "remember" and "record" senses). **See $誌zi3 for the canonical entry.**]]
     --
