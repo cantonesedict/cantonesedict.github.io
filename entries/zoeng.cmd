@@ -446,7 +446,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)漳]]
+  - [[Page~34|n77 #1: (1)漳]]
     ==
     - Name of a river [[Kangxi: 水名]];
     - the prefecture of Ch(a/)ngchau [[漳州]] [[Kangxi: 州名]] in Fuhkien [[福建]] near Amoy [[廈門]].
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)麞; here normalised to 獐]]
+  - [[Page~34|n77 #4: (1)麞; here normalised to 獐]]
     ==
     - A kind of chevrotain or gazelle, hornless, and of elegant shape [[Kangxi 麞: 與獐同, 麋屬, 麞如小鹿而美]];
     - _(4)ngan (1)ch(e/)ung_
@@ -557,7 +557,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)璋]]
+  - [[Page~34|n77 #2: (1)璋]]
     ==
     - A kind of plaything made of jade [[Kangxi: 剡上爲圭半圭爲璋]];
     - _lung(6) (1)ch(e/)ung_
@@ -747,7 +747,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)鄣]]
+  - [[Page~34|n77 #3: (1)鄣]]
     ==
     - A feudal state, now part of T(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
@@ -778,7 +778,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)麞]]
+  - [[Page~34|n77 #4: (1)麞]]
     --
     [[Alternative form of 獐. **See $獐zoeng1 for the canonical entry.**]]
     --
@@ -834,7 +834,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (2)掌]]
+  - [[Page~34|n77 #5: (2)掌]]
     ==
     - The palm of the hand [[Kangxi: 手中也, 手心也謂指本也]];
     - the paw or sole of animals;
@@ -1035,7 +1035,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (2)長]]
+  - [[Page~34|n77 #6: (2)長]]
     ==
     - Old, senior, superior, greater [[Kangxi: 長雄長之長]];
     - to excel, to increase [[Kangxi: 進也]];
@@ -1206,7 +1206,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 帳(3)]]
+  - [[Page~34|n77 #8: 帳(3)]]
     ==
     - A curtain, a screen [[Kangxi: 帳張也張施於牀上也, 帷也張也幬也]];
     - a tent;
@@ -1297,7 +1297,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 悵(3)]]
+  - [[Page~34|n77 #7: 悵(3)]]
     ==
     - Disappointment [[Kangxi: 望恨也]];
     - vexed;
@@ -1454,13 +1454,13 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 帳(3)]]
+  - [[Page~34|n77 #8: 帳(3)]]
     ==
     - [[...]];
     - an account, for which the next [[賬]] is used [[Kangxi 帳: 計簿也]];
     - [[...]].
     ==
-  - [[Page~34|n77 賬(3)]]
+  - [[Page~34|n77 #9: 賬(3)]]
     --
     An unauthorized character.
     --
