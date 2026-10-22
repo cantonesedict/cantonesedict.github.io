@@ -113,7 +113,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (1)奢]]
+  - [[Page~31|n74 #7: (1)奢]]
     ==
     - Wasteful, extravagant [[Kangxi: 侈也]];
     - to spread out [[Kangxi: 張也]];
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (1)車]]
+  - [[Page~31|n74 #8: (1)車]]
     --
     [[...]]
     --
@@ -282,7 +282,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (2)且]]
+  - [[Page~31|n74 #9: (2)且]]
     ==
     - A conjunctive particle;
     - and, further, moreover, still;
@@ -410,7 +410,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 ::(2)撦~~(2)抯~~(2)扯::]]
+  - [[Page~31|n74 #10: ::(2)撦~~(2)抯~~(2)扯::]]
     ==
     - To tear open, to pull apart [[Kangxi 撦: 裂開也]];
     - to tear away;
@@ -494,7 +494,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~31|n74 ::(2)撦~~(2)抯~~(2)扯::]]
+  - [[Page~31|n74 #10: ::(2)撦~~(2)抯~~(2)扯::]]
     --
     [[Alternative form of 扯. **See $扯ce2 for the canonical entry.**]]
     --

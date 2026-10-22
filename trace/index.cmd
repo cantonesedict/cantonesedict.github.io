@@ -3000,6 +3000,101 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~31|n74
+    ,{#page-31-entry-1} #1
+    ,{.williams} (2)赭
+    ,
+      <nav class="sideways">
+      ==
+      - $赭ze2
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-2} #2
+    ,{.williams} 啫(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($啫ze3)
+      - $嗻ze3
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-3} #3
+    ,{.williams} 蔗(3)樜(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($樜ze3)
+      - $蔗ze3
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-4} #4
+    ,{.williams} 柘(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $柘ze3
+      - $蔗ze3
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-5} #5
+    ,{.williams} 鷓(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $鷓ze3
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-6} #6
+    ,{.williams} 這(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $這ze2, ($這ze3)
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-7} #7
+    ,{.williams} (1)奢
+    ,
+      <nav class="sideways">
+      ==
+      - $奢ce1
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-8} #8
+    ,{.williams} (1)車
+    ,
+      <nav class="sideways">
+      ==
+      - $車ce1
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-9} #9
+    ,{.williams} (2)且
+    ,
+      <nav class="sideways">
+      ==
+      - $且ce2
+      ==
+      </nav>
+  //
+    ,{#page-31-entry-10} #10
+    ,{.williams} (2)撦(2)抯(2)扯
+    ,
+      <nav class="sideways">
+      ==
+      - $扯ce2
+      - ($撦ce2)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
