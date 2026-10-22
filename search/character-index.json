@@ -5291,7 +5291,7 @@
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+52FA 杓 (for noun sense) coek3 (common) soek3 (common) soek6 (per 《廣韻》市若切 for noun sense) (F1.94 勺) 挹取也 (Page 32|n75 勺) A ladle or spoon (Kangxi: 勺所以𣂏酒也); a spoonful; _~~tau~~ lau cheuk_ (lau6 zoek3 漏勺) a cullender; _yat cheuk shui chi to_ (jat1 zoek3 seoi2 zi1 do1 一勺水之多), much as a spoonful of water (Kangxi: 一勺水之多言少也). (Page 32|n75 杓; here normalised to 勺) A ladle (Kangxi 杓: 以爲桮杓之杓所以抒挹也); Williams' 漏勺: Corrected _tau_ (dau6) to _lau_ (lau6). To ladle (Kangxi: 挹取也). 【勺-noun】 (dzyak) (_noun-like_) ladle 【勺-verb】 (tsyak) (_verb-like_) to ladle"
+"text":"U+52FA 杓 (for noun sense) coek3 (common) soek3 (common) soek6 (per 《廣韻》市若切 for noun sense) (F1.94 勺) 挹取也 (Page 32|n75 #3: 勺) A ladle or spoon (Kangxi: 勺所以𣂏酒也); a spoonful; _~~tau~~ lau cheuk_ (lau6 zoek3 漏勺) a cullender; _yat cheuk shui chi to_ (jat1 zoek3 seoi2 zi1 do1 一勺水之多), much as a spoonful of water (Kangxi: 一勺水之多言少也). (Page 32|n75 #6: 杓; here normalised to 勺) A ladle (Kangxi 杓: 以爲桮杓之杓所以抒挹也); Williams' 漏勺: Corrected _tau_ (dau6) to _lau_ (lau6). To ladle (Kangxi: 挹取也). 【勺-noun】 (dzyak) (_noun-like_) ladle 【勺-verb】 (tsyak) (_verb-like_) to ladle"
 }
 },
 "卓":{
@@ -5341,12 +5341,12 @@
 "coek3":{
 "isCanonical":true,
 "williams":"ch(')(e/)uk(8)",
-"text":"U+707C 焯 (for \"manifest/clear\" sense and Cantonese \"blanch\" sense) zoek3 (per 《廣韻》之若切) (F1.94 灼 _Cheuk_ (zoek3)) 燒也炙也昭也又灼灼華盛貌 (Page 32|n75 灼 _Cheuk_ (zoek3); here normalised to _Ch'euk_ (coek3)) To burn (Kangxi: 炙也, 熱也); to singe, to cauterize ~~with moxa~~ (Kangxi: 熱也); alarmed (Kangxi: 灼驚也); clear, distinct (Kangxi: 明也); luxuriant, as flowers (Kangxi: 灼灼花盛貌); _~~cheuk~~ ch'euk kwai_ (coek3 gwai1 灼龜), to singe a terrapin's shell; _~~cheuk~~ ch'euk lan_ (coek3 laan6 灼爛) to raise a blister; _~~cheuk~~ ch'euk ngai_ (coek3 ngaai6 灼艾) to burn the moxa; _~~cheuk cheuk~~ ch'euk ch'euk_ (coek3 coek3 灼灼) splendid, as flowers. 【灼】 (tsyak) (_verb-like_) to burn, to scorch (_adjective-like_) manifest, (_met._) bright 【灼】 (coek3) To cook (briefly) in boiling water, to blanch. 白灼蝦 (baak6 coek3 haa1): \"Plain boiled prawns.\" 灼一灼 (coek3 jat1 coek3): \"Give it a blanch.\""
+"text":"U+707C 焯 (for \"manifest/clear\" sense and Cantonese \"blanch\" sense) zoek3 (per 《廣韻》之若切) (F1.94 灼 _Cheuk_ (zoek3)) 燒也炙也昭也又灼灼華盛貌 (Page 32|n75 #4: 灼 _Cheuk_ (zoek3); here normalised to _Ch'euk_ (coek3)) To burn (Kangxi: 炙也, 熱也); to singe, to cauterize ~~with moxa~~ (Kangxi: 熱也); alarmed (Kangxi: 灼驚也); clear, distinct (Kangxi: 明也); luxuriant, as flowers (Kangxi: 灼灼花盛貌); _~~cheuk~~ ch'euk kwai_ (coek3 gwai1 灼龜), to singe a terrapin's shell; _~~cheuk~~ ch'euk lan_ (coek3 laan6 灼爛) to raise a blister; _~~cheuk~~ ch'euk ngai_ (coek3 ngaai6 灼艾) to burn the moxa; _~~cheuk cheuk~~ ch'euk ch'euk_ (coek3 coek3 灼灼) splendid, as flowers. 【灼】 (tsyak) (_verb-like_) to burn, to scorch (_adjective-like_) manifest, (_met._) bright 【灼】 (coek3) To cook (briefly) in boiling water, to blanch. 白灼蝦 (baak6 coek3 haa1): \"Plain boiled prawns.\" 灼一灼 (coek3 jat1 coek3): \"Give it a blanch.\""
 },
 "zoek3":{
 "isCanonical":false,
 "williams":"ch(e/)uk(8)",
-"text":"U+707C (F1.94 灼) 燒也炙也昭也又灼灼華盛貌 (Page 32|n75 灼)"
+"text":"U+707C (F1.94 灼) 燒也炙也昭也又灼灼華盛貌 (Page 32|n75 #4: 灼)"
 }
 },
 "焯":{
@@ -5367,12 +5367,12 @@
 "coek3":{
 "isCanonical":true,
 "williams":"ch(')(e/)uk(8)",
-"text":"U+828D 勺 soek6 (per 《廣韻》市若切) zoek3 (per 《廣韻》張略切) (F1.94 芍 _Cheuk_ (zoek3)) 芍藥花名 (Page 32|n75 芍 _Cheuk_ (zoek3); here normalised to _Ch'euk_ (coek3)) The peony (Kangxi: 芍藥猶綽約也); also the dahlia; _~~cheuk~~ ch'euk yeuk_ (coek3 joek6 芍藥) peony roots, a medicine. 【芍】 (dzyak, trjak) Used in 芍藥. 【芍藥】 (dzyak yak, trjak yak) (_noun-like_) peony"
+"text":"U+828D 勺 soek6 (per 《廣韻》市若切) zoek3 (per 《廣韻》張略切) (F1.94 芍 _Cheuk_ (zoek3)) 芍藥花名 (Page 32|n75 #7: 芍 _Cheuk_ (zoek3); here normalised to _Ch'euk_ (coek3)) The peony (Kangxi: 芍藥猶綽約也); also the dahlia; _~~cheuk~~ ch'euk yeuk_ (coek3 joek6 芍藥) peony roots, a medicine. 【芍】 (dzyak, trjak) Used in 芍藥. 【芍藥】 (dzyak yak, trjak yak) (_noun-like_) peony"
 },
 "zoek3":{
 "isCanonical":false,
 "williams":"ch(e/)uk(8)",
-"text":"U+828D (F1.94 芍) 芍藥花名 (Page 32|n75 芍)"
+"text":"U+828D (F1.94 芍) 芍藥花名 (Page 32|n75 #7: 芍)"
 }
 },
 "踔":{
@@ -6992,12 +6992,12 @@
 "zoek3":{
 "isCanonical":false,
 "williams":"ch(e/)uk(8)",
-"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 着著)"
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 #1: 着著)"
 },
 "zoek6":{
 "isCanonical":false,
 "williams":"ch(e/)uk(9)",
-"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 着著 _Cheuk_ (zoek3); _Cheuk_ (zoek6) optional, here enforced)"
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 #1: 着著 _Cheuk_ (zoek3); _Cheuk_ (zoek6) optional, here enforced)"
 },
 "zyu3":{
 "isCanonical":true,
@@ -16435,21 +16435,21 @@
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+5981 soek6 (alternative per 《廣韻》市若切) (F1.94 妁) 媒妁 (Page 32|n75 妁) A go-between (Kangxi: 媒也); to consult about a marriage; _mui cheuk_ (mui4 zoek3 媒妁) a match-maker. 【妁】 (tsyak, dzyak) (_noun-like_) go-between"
+"text":"U+5981 soek6 (alternative per 《廣韻》市若切) (F1.94 妁) 媒妁 (Page 32|n75 #2: 妁) A go-between (Kangxi: 媒也); to consult about a marriage; _mui cheuk_ (mui4 zoek3 媒妁) a match-maker. 【妁】 (tsyak, dzyak) (_noun-like_) go-between"
 }
 },
 "斫":{
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+65AB (F1.94 斫) 斬截也 (Page 32|n75 斫) To cut with a sword or knife (Kangxi: 刀斫); to amputate; to chop, to hew (Kangxi: 擊也); _cheuk hoi_ (zoek3 hoi1 斫開), to cut open. 【斫】 (tsyak) (_verb-like_) to hack (off), (_met._) to hew"
+"text":"U+65AB (F1.94 斫) 斬截也 (Page 32|n75 #9: 斫) To cut with a sword or knife (Kangxi: 刀斫); to amputate; to chop, to hew (Kangxi: 擊也); _cheuk hoi_ (zoek3 hoi1 斫開), to cut open. 【斫】 (tsyak) (_verb-like_) to hack (off), (_met._) to hew"
 }
 },
 "杓":{
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+6753 (F1.94 杓) 杯杓 (Page 32|n75 杓) a beam ~~for a~~ bridge (Kangxi: 橫木橋)."
+"text":"U+6753 (F1.94 杓) 杯杓 (Page 32|n75 #6: 杓) a beam ~~for a~~ bridge (Kangxi: 橫木橋)."
 }
 },
 "櫡":{
@@ -16499,26 +16499,26 @@
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+7740 著 (F1.94 着) 被服也又置也 (Page 32|n75 着著) to cover over, to put on, as clothes (Kangxi 著: 被服也); _ho cheuk_ (hou2 zoek3 好着) sets well, as a garment; _cheuk i fuk_ (zoek3 ji1 fuk6 着衣服) to dress; This character is ~~often~~ to be distinguished into _cheuk_ (zoek3) & _cheuk_ (zoek6). Williams (following Fan Wan) does not provide separate entries for 陰入 _cheuk_ (zoek3) (\"wear\" sense) and 陽入 _cheuk_ (zoek6) (other senses). I have split things up accordingly. 【著-unvoiced】 (trjak) (_verb-like_) to wear 【着-wear】 (zoek3) To wear, to put on. 着褲 (zoek3 fu3): \"Wearing pants.\" 唔着衫 (m4 zoek3 saam1): \"Not wearing clothes.\" Olden attestation for 著 (alternative form 着) _cheuk_ (zoek3) meaning \"wear\": 《廣韻》張略切 著 服衣於身又直略張豫二切 《康熙字典》著 ...又《類篇》陟略切音芍被服也..."
+"text":"U+7740 著 (F1.94 着) 被服也又置也 (Page 32|n75 #1: 着著) to cover over, to put on, as clothes (Kangxi 著: 被服也); _ho cheuk_ (hou2 zoek3 好着) sets well, as a garment; _cheuk i fuk_ (zoek3 ji1 fuk6 着衣服) to dress; This character is ~~often~~ to be distinguished into _cheuk_ (zoek3) & _cheuk_ (zoek6). Williams (following Fan Wan) does not provide separate entries for 陰入 _cheuk_ (zoek3) (\"wear\" sense) and 陽入 _cheuk_ (zoek6) (other senses). I have split things up accordingly. 【著-unvoiced】 (trjak) (_verb-like_) to wear 【着-wear】 (zoek3) To wear, to put on. 着褲 (zoek3 fu3): \"Wearing pants.\" 唔着衫 (m4 zoek3 saam1): \"Not wearing clothes.\" Olden attestation for 著 (alternative form 着) _cheuk_ (zoek3) meaning \"wear\": 《廣韻》張略切 著 服衣於身又直略張豫二切 《康熙字典》著 ...又《類篇》陟略切音芍被服也..."
 },
 "zoek6":{
 "isCanonical":true,
 "williams":"ch(e/)uk(9)",
-"text":"U+7740 著 (F1.94 着 _Cheuk_ (zoek3)) 被服也又置也 (Page 32|n75 着著 _Cheuk_ (zoek3); _Cheuk_ (zoek6) optional, here enforced) Right, correct; according to; to cause, to order, to send; a particle placed after verbs, showing a transitive and present action, and is like _chu_ (zyu6 住) in colloquial; before verbs, let, make, permit; _'m cheuk_ (m4 zoek6 唔着) unsuitable; _cheuk kwo t'au_ (zoek6 gwo3 tau4 着過頭), just right; _sheung cheuk_ (soeng6 zoek6 上着) best for use; _fan 'm cheuk_ (fan3 m4 zoek6 瞓唔着) I cannot sleep; _cheuk shat ta_ (zoek6 sat6 daa2 着實打), gave him a flogging; _u ka cheuk mong_ (jyu6 gaa1 zoek6 mong4 愈加着忙), he was still more vexed; _cheuk sho_ (zoek6 sou3 着數) cheap, good for the price; _cheuk yung_ (zoek6 jung6 着用) useful; _cheuk shing 'm cheuk tau_ (zoek6 sing1 m4 zoek6 dau2 着升唔着斗), it will do for a gill if not for a peck, serve for this if not for that; _cheuk i_ (zoek6 ji3 着意) to suit one; _cheuk lik_ (zoek6 lik6 着力) to exert one's self; _yau cheuk lok_ (jau5 zoek6 lok6 有着落) all right, settled satisfactorily; _shiu cheuk_ (siu1 zoek6 燒着) it is on fire; _cheuk shat_ (zoek6 sat6 着實) entirely right; _ts'am cheuk_ (cam4 zoek6 尋着) or _wan cheuk_ (wan2 zoek6 搵着) found it; _cheuk 'm cheuk_ (zoek6 m4 zoek6 着唔着) is it right or not? _tim u tak cheuk_ (dim2 jyu6 dak1 zoek6 點遇得着) how shall I get to him? _mo cheuk lok_ (mou4 zoek6 lok6 無着落) I ~~dont~~ don't know what to do; _pui cheuk yan tso_ (bui3 zoek6 jan4 zou6 背着人做) hidden, sub rosa, underhand. This character is ~~often~~ to be distinguished into _cheuk_ (zoek3) & _cheuk_ (zoek6). Williams (following Fan Wan) does not provide separate entries for 陰入 _cheuk_ (zoek3) (\"wear\" sense) and 陽入 _cheuk_ (zoek6) (other senses). I have split things up accordingly. To put (Kangxi 著: 著置也). To attach (Kangxi 著: 附也). To contact, to touch (Kangxi 著: 著地無足). A plan, a stratagem. To catch fire, to ignite. 【著-voiced】 (drjak) (_verb-like_) to put (_verb-like_) to attach, to apply 【着-on】 (zoek6) To turn on. 着燈 (zoek6 dang1): \"Turn on the light.\" 部機開着咗 (bou6 gei1 hoi1 zoek6 zo2): \"The machine is turned on.\""
+"text":"U+7740 著 (F1.94 着 _Cheuk_ (zoek3)) 被服也又置也 (Page 32|n75 #1: 着著 _Cheuk_ (zoek3); _Cheuk_ (zoek6) optional, here enforced) Right, correct; according to; to cause, to order, to send; a particle placed after verbs, showing a transitive and present action, and is like _chu_ (zyu6 住) in colloquial; before verbs, let, make, permit; _'m cheuk_ (m4 zoek6 唔着) unsuitable; _cheuk kwo t'au_ (zoek6 gwo3 tau4 着過頭), just right; _sheung cheuk_ (soeng6 zoek6 上着) best for use; _fan 'm cheuk_ (fan3 m4 zoek6 瞓唔着) I cannot sleep; _cheuk shat ta_ (zoek6 sat6 daa2 着實打), gave him a flogging; _u ka cheuk mong_ (jyu6 gaa1 zoek6 mong4 愈加着忙), he was still more vexed; _cheuk sho_ (zoek6 sou3 着數) cheap, good for the price; _cheuk yung_ (zoek6 jung6 着用) useful; _cheuk shing 'm cheuk tau_ (zoek6 sing1 m4 zoek6 dau2 着升唔着斗), it will do for a gill if not for a peck, serve for this if not for that; _cheuk i_ (zoek6 ji3 着意) to suit one; _cheuk lik_ (zoek6 lik6 着力) to exert one's self; _yau cheuk lok_ (jau5 zoek6 lok6 有着落) all right, settled satisfactorily; _shiu cheuk_ (siu1 zoek6 燒着) it is on fire; _cheuk shat_ (zoek6 sat6 着實) entirely right; _ts'am cheuk_ (cam4 zoek6 尋着) or _wan cheuk_ (wan2 zoek6 搵着) found it; _cheuk 'm cheuk_ (zoek6 m4 zoek6 着唔着) is it right or not? _tim u tak cheuk_ (dim2 jyu6 dak1 zoek6 點遇得着) how shall I get to him? _mo cheuk lok_ (mou4 zoek6 lok6 無着落) I ~~dont~~ don't know what to do; _pui cheuk yan tso_ (bui3 zoek6 jan4 zou6 背着人做) hidden, sub rosa, underhand. This character is ~~often~~ to be distinguished into _cheuk_ (zoek3) & _cheuk_ (zoek6). Williams (following Fan Wan) does not provide separate entries for 陰入 _cheuk_ (zoek3) (\"wear\" sense) and 陽入 _cheuk_ (zoek6) (other senses). I have split things up accordingly. To put (Kangxi 著: 著置也). To attach (Kangxi 著: 附也). To contact, to touch (Kangxi 著: 著地無足). A plan, a stratagem. To catch fire, to ignite. 【著-voiced】 (drjak) (_verb-like_) to put (_verb-like_) to attach, to apply 【着-on】 (zoek6) To turn on. 着燈 (zoek6 dang1): \"Turn on the light.\" 部機開着咗 (bou6 gei1 hoi1 zoek6 zo2): \"The machine is turned on.\""
 }
 },
 "禚":{
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+799A May appear with left component 示 or 礻 (assumed here), depending on the font. (F1.94 禚) 齊地 (Page 32|n75 禚) A city in the feudal state of ~~Tsi~~ Ts'i (齊) (Kangxi: 齊地名), now a place in Shantung (山東) province."
+"text":"U+799A May appear with left component 示 or 礻 (assumed here), depending on the font. (F1.94 禚) 齊地 (Page 32|n75 #8: 禚) A city in the feudal state of ~~Tsi~~ Ts'i (齊) (Kangxi: 齊地名), now a place in Shantung (山東) province."
 }
 },
 "酌":{
 "zoek3":{
 "isCanonical":true,
 "williams":"ch(e/)uk(8)",
-"text":"U+914C 勺 (F1.94 酌) 注也斟也益也挹取也沽也又叅酌審擇量度也 (Page 32|n75 勺; here normalised to 酌) to bale or pour out; to adopt, to follow; (Page 32|n75 酌) To pour out liquor, to fill a cup (Kangxi: 盛酒行觴也, 酌猶斟也); a cup, a glass; _met._ wine, liquor (Kangxi: 淸酌酒也); a dinner, a feast; to avail of, to choose the good and act upon it (Kangxi: 取善而行曰酌, 酌猶取也); to deliberate (Kangxi: 參酌); to imitate or adopt; _~~sham~~ ts'am cheuk_ (caam1 zoek3 參酌) or _cheuk i_ (zoek3 ji5 酌議), to deliberate; _pok cheuk_ (bok6 zoek3 薄酌) a slight repast; _cheuk leung t'o tong_ (zoek3 loeng4 to5 dong3 酌量妥當) it is all settled right; _keung cheuk_ (goeng1 zoek3 薑酌) a feast on a birth; _sheung cheuk_ (soeng6 zoek3 上酌) a sumptuous feast; _chung cheuk_ (zung1 zoek3 中酌) the servants' course; _~~tsui~~ tsiu cheuk_ (ziu3 zoek3 醮酌) a wedding entertainment to a son; _~~miu~~ mui cheuk_ (mui4 zoek3 梅酌) a return feast given by a bridegroom. Williams' 參酌: Corrected _sham_ (sam1) to _ts'am_ (caam1). Williams' 醮酌: Corrected _tsui_ (zeoi3) to _tsiu_ (ziu3). Williams' 梅酌: Corrected _miu_ (miu4) to _mui_ (mui4). 【酌】 (tsyak) (_verb-like_) to fill cup, to pour (cup) (_verb-like_) to deliberate, to consider"
+"text":"U+914C 勺 (F1.94 酌) 注也斟也益也挹取也沽也又叅酌審擇量度也 (Page 32|n75 #3: 勺; here normalised to 酌) to bale or pour out; to adopt, to follow; (Page 32|n75 #5: 酌) To pour out liquor, to fill a cup (Kangxi: 盛酒行觴也, 酌猶斟也); a cup, a glass; _met._ wine, liquor (Kangxi: 淸酌酒也); a dinner, a feast; to avail of, to choose the good and act upon it (Kangxi: 取善而行曰酌, 酌猶取也); to deliberate (Kangxi: 參酌); to imitate or adopt; _~~sham~~ ts'am cheuk_ (caam1 zoek3 參酌) or _cheuk i_ (zoek3 ji5 酌議), to deliberate; _pok cheuk_ (bok6 zoek3 薄酌) a slight repast; _cheuk leung t'o tong_ (zoek3 loeng4 to5 dong3 酌量妥當) it is all settled right; _keung cheuk_ (goeng1 zoek3 薑酌) a feast on a birth; _sheung cheuk_ (soeng6 zoek3 上酌) a sumptuous feast; _chung cheuk_ (zung1 zoek3 中酌) the servants' course; _~~tsui~~ tsiu cheuk_ (ziu3 zoek3 醮酌) a wedding entertainment to a son; _~~miu~~ mui cheuk_ (mui4 zoek3 梅酌) a return feast given by a bridegroom. Williams' 參酌: Corrected _sham_ (sam1) to _ts'am_ (caam1). Williams' 醮酌: Corrected _tsui_ (zeoi3) to _tsiu_ (ziu3). Williams' 梅酌: Corrected _miu_ (miu4) to _mui_ (mui4). 【酌】 (tsyak) (_verb-like_) to fill cup, to pour (cup) (_verb-like_) to deliberate, to consider"
 }
 },
 "雀":{

@@ -303,7 +303,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 灼(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
+  - [[Page~32|n75 #4: 灼(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
     ==
     - To burn [[Kangxi: 炙也, 熱也]];
     - to singe, to cauterize ~~with moxa~~ [[Kangxi: 熱也]];
@@ -440,7 +440,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 芍(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
+  - [[Page~32|n75 #7: 芍(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
     ==
     - The peony [[Kangxi: 芍藥猶綽約也]];
     - also the dahlia;

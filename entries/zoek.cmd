@@ -90,7 +90,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 勺(8)]]
+  - [[Page~32|n75 #3: 勺(8)]]
     ==
     - A ladle or spoon [[Kangxi: 勺所以{𣂏=⿰奭斗}酒也]];
     - a spoonful;
@@ -108,7 +108,7 @@ W
     --
     [[Otherwise, an alternative form of 芍, and reading variation. **See $芍coek3 for the canonical entry.**]]
     --
-  - [[Page~32|n75 杓(8); here normalised to 勺]]
+  - [[Page~32|n75 #6: 杓(8); here normalised to 勺]]
     ==
     - A ladle [[Kangxi 杓: 以爲桮杓之杓所以抒挹也]];
     - [[...]].
@@ -206,7 +206,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 妁(8)]]
+  - [[Page~32|n75 #2: 妁(8)]]
     ==
     - A go-between [[Kangxi: 媒也]];
     - to consult about a marriage;
@@ -237,7 +237,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 斫(8)]]
+  - [[Page~32|n75 #9: 斫(8)]]
     ==
     - To cut with a sword or knife [[Kangxi: 刀斫]];
     - to amputate;
@@ -276,7 +276,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 杓(8)]]
+  - [[Page~32|n75 #6: 杓(8)]]
     ==
     - [[...]];
     - a beam ~~for a~~ bridge [[Kangxi: 橫木橋]].
@@ -381,7 +381,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 灼(8)]]
+  - [[Page~32|n75 #4: 灼(8)]]
     --
     [[Reading variation. **See $灼coek3 for the canonical entry.**]]
     --
@@ -561,7 +561,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 着(8)著(8)]]
+  - [[Page~32|n75 #1: 着(8)著(8)]]
     ==
     - [[...]];
     - to cover over, to put on, as clothes [[Kangxi 著: 被服也]];
@@ -637,7 +637,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 禚(8)]]
+  - [[Page~32|n75 #8: 禚(8)]]
     ==
     - A city in the feudal state of ~~Ts(i/)~~ ``Ts(')(i/)`` [[齊]] [[Kangxi: 齊地名]],
       now a place in Sh(a/)ntung [[山東]] province.
@@ -658,7 +658,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 芍(8)]]
+  - [[Page~32|n75 #7: 芍(8)]]
     --
     [[Reading variation. **See $芍coek3 for the canonical entry.**]]
     --
@@ -684,7 +684,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32|n75 着(8)著(8)]]
+  - [[Page~32|n75 #1: 着(8)著(8)]]
     --
     [[Alternative form of 着. **See $着zoek3 for the canonical entry.**]]
     --
@@ -714,14 +714,14 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 勺(8); here normalised to 酌]]
+  - [[Page~32|n75 #3: 勺(8); here normalised to 酌]]
     ==
     - [[...]];
     - to bale or pour out;
     - to adopt, to follow;
     - [[...]].
     ==
-  - [[Page~32|n75 酌(8)]]
+  - [[Page~32|n75 #5: 酌(8)]]
     ==
     - To pour out liquor, to fill a cup [[Kangxi: 盛酒行觴也, 酌猶斟也]];
     - a cup, a glass;
@@ -1047,7 +1047,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
+  - [[Page~32|n75 #1: 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
     ==
     - Right, correct;
     - according to;
@@ -1178,7 +1178,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
+  - [[Page~32|n75 #1: 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
     --
     [[Alternative form of 着. **See $着zoek6 for the canonical entry.**]]
     --

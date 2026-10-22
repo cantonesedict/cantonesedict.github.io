@@ -3095,6 +3095,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~32|n75
+    ,{#page-32-entry-1} #1
+    ,{.williams} 着(8)著(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $着zoek3, $着zoek6
+      - ($著zoek3), ($著zoek6)
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-2} #2
+    ,{.williams} 妁(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $妁zoek3
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-3} #3
+    ,{.williams} 勺(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $勺zoek3
+      - $酌zoek3
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-4} #4
+    ,{.williams} 灼(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $灼coek3, ($灼zoek3)
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-5} #5
+    ,{.williams} 酌(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $酌zoek3
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-6} #6
+    ,{.williams} 杓(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $勺zoek3
+      - $杓zoek3
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-7} #7
+    ,{.williams} 芍(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $芍coek3, ($芍zoek3)
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-8} #8
+    ,{.williams} 禚(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $禚zoek3
+      ==
+      </nav>
+  //
+    ,{#page-32-entry-9} #9
+    ,{.williams} 斫(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $斫zoek3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
