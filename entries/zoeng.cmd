@@ -1340,7 +1340,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 漲(3)]]
+  - [[Page~35|n78 #1: 漲(3)]]
     ==
     - An inundation [[Kangxi: 水大貌]];
     - to overflow [[Kangxi: 溢也]];
@@ -1369,7 +1369,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 瘴(3)]]
+  - [[Page~35|n78 #3: 瘴(3)]]
     ==
     - Malaria [[Kangxi: 瘴癘也, 熱病]];
     - pestilential vapors;
@@ -1415,7 +1415,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 脹(3)]]
+  - [[Page~35|n78 #2: 脹(3)]]
     ==
     - A swelled belly [[Kangxi: 腹滿也]];
     - a swelling;
@@ -1632,7 +1632,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 障(3)]]
+  - [[Page~35|n78 #4: 障(3)]]
     ==
     - To separate [[Kangxi: 隔也]];
     - to divide [[Kangxi: 界也]];
@@ -1708,7 +1708,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 丈(6)]]
+  - [[Page~35|n78 #5: 丈(6)]]
     ==
     - Ten _ch(')ek_ [[尺]] [[Kangxi: 十尺曰丈]] or 141~English inches;
     - to measure;
@@ -1775,7 +1775,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 仗(6)]]
+  - [[Page~35|n78 #7: 仗(6)]]
     ==
     - ~~A sharp weapon~~ ``Weaponry`` [[Kangxi: 劒戟總名]];
     - to fight;
@@ -1954,7 +1954,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 杖(6)]]
+  - [[Page~35|n78 #6: 杖(6)]]
     ==
     - A cane, a staff [[Kangxi: 所以扶行也]];
     - a cudgel, a club [[Kangxi: 木梃也]];

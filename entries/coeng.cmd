@@ -356,7 +356,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 (1)昌]]
+  - [[Page~35|n78 #8: (1)昌]]
     ==
     - Light of the sun [[Kangxi: 一曰日光也]];
     - fine words [[Kangxi: 美言也]];

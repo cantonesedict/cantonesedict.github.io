@@ -3365,6 +3365,79 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~35|n78
+    ,{#page-35-entry-1} #1
+    ,{.williams} 漲(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $漲zoeng3
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-2} #2
+    ,{.williams} 脹(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $脹zoeng3
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-3} #3
+    ,{.williams} 瘴(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $瘴zoeng3
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-4} #4
+    ,{.williams} 障(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $障zoeng3
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-5} #5
+    ,{.williams} 丈(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $丈zoeng6
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-6} #6
+    ,{.williams} 杖(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $杖zoeng6
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-7} #7
+    ,{.williams} 仗(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $仗zoeng6
+      ==
+      </nav>
+  //
+    ,{#page-35-entry-8} #8
+    ,{.williams} (1)昌
+    ,
+      <nav class="sideways">
+      ==
+      - $昌coeng1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
