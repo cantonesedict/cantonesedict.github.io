@@ -528,7 +528,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-6-entry-5} #5
-    ,{.williams} (1)甌
+    ,{.williams} ^(7)甌
     ,
       <nav class="sideways">
       ==

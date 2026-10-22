@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~6 #5: (1)甌]]
+  - [[Page~6 #5: ::^~~(7)甌~~``(1)甌``::]]
     ==
     - A bowl [[Kangxi: 小盆也, 瓦器]], a deep cup [[Kangxi: 今俗謂盌深者爲甌]];
     - _(5)ng(a/) (1)au_
@@ -278,6 +278,10 @@ W
         a wooden bowl.
     ==
   ====
+C
+  ==
+  - Williams misprints the headword tone marker (1)^ as ^(7); here corrected.
+  ==
 $$
 
 ### 謳1 | _(1)Au_ [[au1]]
