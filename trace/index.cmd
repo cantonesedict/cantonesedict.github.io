@@ -2636,6 +2636,110 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~27|n70
+    ,{#page-27-entry-1} #1
+    ,{.williams} (4)酬(4)酧
+    ,
+      <nav class="sideways">
+      ==
+      - ($酧cau4)
+      - $酬cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-2} #2
+    ,{.williams} (4)幬
+    ,
+      <nav class="sideways">
+      ==
+      - $幬cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-3} #3
+    ,{.williams} (4)椆
+    ,
+      <nav class="sideways">
+      ==
+      - $椆cau4, $椆zau3
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-4} #4
+    ,{.williams} (4)裯
+    ,
+      <nav class="sideways">
+      ==
+      - $裯cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-5} #5
+    ,{.williams} (4)疇
+    ,
+      <nav class="sideways">
+      ==
+      - $疇cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-6} #6
+    ,{.williams} (4)儔
+    ,
+      <nav class="sideways">
+      ==
+      - $儔cau4
+      - $疇cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-7} #7
+    ,{.williams} (4)紬
+    ,
+      <nav class="sideways">
+      ==
+      - $紬cau1, ($紬cau4)
+      - $綢cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-8} #8
+    ,{.williams} (4)綢
+    ,
+      <nav class="sideways">
+      ==
+      - $稠cau4
+      - $綢cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-9} #9
+    ,{.williams} (4)惆
+    ,
+      <nav class="sideways">
+      ==
+      - $惆cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-10} #10
+    ,{.williams} (4)稠
+    ,
+      <nav class="sideways">
+      ==
+      - $稠cau4
+      ==
+      </nav>
+  //
+    ,{#page-27-entry-11} #11
+    ,{.williams} (4)躊
+    ,
+      <nav class="sideways">
+      ==
+      - $躊cau4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

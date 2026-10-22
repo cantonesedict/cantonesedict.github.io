@@ -652,7 +652,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)紬 _(4)Ch(')au_ (cau4); here corrected to _(1)Ch(')au_ (cau1)]]
+  - [[Page~27|n70 #7: (4)紬 _(4)Ch(')au_ (cau4); here corrected to _(1)Ch(')au_ (cau1)]]
     ==
     - [[...]];
     - to draw out threads for weaving [[Kangxi: 紬抽也]];
@@ -1456,7 +1456,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)儔]]
+  - [[Page~27|n70 #6: (4)儔]]
     --
     [[...]]
     --
@@ -1548,7 +1548,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)幬]]
+  - [[Page~27|n70 #2: (4)幬]]
     ==
     - ~~A single~~ ``An unlined`` curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
     - a leather screen or partition [[Kangxi: 幔轂之革也]];
@@ -1582,7 +1582,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)惆]]
+  - [[Page~27|n70 #9: (4)惆]]
     ==
     - Disappointed [[Kangxi: 失意也]];
     - ~~deceived;~~
@@ -1605,7 +1605,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)椆]]
+  - [[Page~27|n70 #3: (4)椆]]
     ==
     - A hard kind of wood resembling rose wood [[Kangxi: 木也]];
     - [[...]].
@@ -1657,7 +1657,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)疇]]
+  - [[Page~27|n70 #5: (4)疇]]
     ==
     - A cultivated field;
     - to till, to cultivate [[Kangxi: 耕治之也]];
@@ -1670,7 +1670,7 @@ W
         [[cau4 sik1 疇昔]]
         formerly, in time past.
     ==
-  - [[Page~27|n70 (4)儔]]
+  - [[Page~27|n70 #6: (4)儔]]
     --
     Used for the preceding [[疇]] [[for the "who" sense]] [[Kangxi 儔: ::誰也[...]與疇同::]].
     --
@@ -1711,7 +1711,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)綢]]
+  - [[Page~27|n70 #8: (4)綢]]
     ==
     - [[...]];
     - close, thick, crowded [[Kangxi 綢: 綢者綢緻之言故爲密也]];
@@ -1720,7 +1720,7 @@ W
     --
     [[...]]
     --
-  - [[Page~27|n70 (4)稠]]
+  - [[Page~27|n70 #10: (4)稠]]
     ==
     - Grain growing close [[Kangxi: 穊也]];
     - thick set, close together;
@@ -1839,7 +1839,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)紬]]
+  - [[Page~27|n70 #7: (4)紬]]
     --
     [[Alternative form of 綢 (for the "silk" sense). **See $綢cau4 for the canonical entry.**]]
     --
@@ -1869,7 +1869,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)紬; here normalised to 綢]]
+  - [[Page~27|n70 #7: (4)紬; here normalised to 綢]]
     ==
     - Silk [[Kangxi 紬: 大絲繒也]];
     - pongee, senshaw, levantine, lustring;
@@ -1902,7 +1902,7 @@ W
         [[cyun1 cau4 川綢]],
         Sz'chuen [[四川]] pongee.
     ==
-  - [[Page~27|n70 (4)綢]]
+  - [[Page~27|n70 #8: (4)綢]]
     ==
     - Used for the last [[紬]], when denoting silk;
     - to bind, to wrap around, to twine about [[Kangxi 綢^: 繆也, 綢縛束也]];
@@ -1955,7 +1955,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)裯]]
+  - [[Page~27|n70 #4: (4)裯]]
     ==
     - ~~A single~~ ``An unlined`` coverlet [[Kangxi: 被也, 襌被也]];
     - a bed curtain [[Kangxi: 牀帳也]];
@@ -2094,7 +2094,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)躊]]
+  - [[Page~27|n70 #11: (4)躊]]
     ==
     - Embarrassed [[Kangxi: 躊躇也]];
     - _(4)ch(')au (4)ch(')(u:)_
@@ -2188,7 +2188,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)酬(4)酧]]
+  - [[Page~27|n70 #1: (4)酬(4)酧]]
     --
     [[Alternative form of 酬. **See $酬cau4 for the canonical entry.**]]
     --
@@ -2223,7 +2223,7 @@ W
     - used for the next [[酬]] [[Kangxi 讎: 通作酬]];
     - [[...]].
     ==
-  - [[Page~27|n70 (4)酬(4)酧]]
+  - [[Page~27|n70 #1: (4)酬(4)酧]]
     ==
     - To pledge a guest [[Kangxi 酬: 主人實觶酬賔]];
     - to recompense;

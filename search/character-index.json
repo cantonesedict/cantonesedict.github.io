@@ -2580,12 +2580,12 @@
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ch(')au",
-"text":"U+7D2C 䌷 (Mainland simplified) (Page 27|n70 紬 _Ch'au_ (cau4); here corrected to _Ch'au_ (cau1)) to draw out threads for weaving (Kangxi: 紬抽也); to arrange the details of a subject, to search for first causes (Kangxi: 紬繹者引其端緒也);"
+"text":"U+7D2C 䌷 (Mainland simplified) (Page 27|n70 #7: 紬 _Ch'au_ (cau4); here corrected to _Ch'au_ (cau1)) to draw out threads for weaving (Kangxi: 紬抽也); to arrange the details of a subject, to search for first causes (Kangxi: 紬繹者引其端緒也);"
 },
 "cau4":{
 "isCanonical":false,
 "williams":"(4)ch(')au",
-"text":"U+7D2C (F1.52 綢) 綢緞又密也纏也 (F1.52 紬) 同上 (Page 27|n70 紬)"
+"text":"U+7D2C (F1.52 綢) 綢緞又密也纏也 (F1.52 紬) 同上 (Page 27|n70 #7: 紬)"
 }
 },
 "鞦":{
@@ -2751,7 +2751,7 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+5114 俦 (F1.52 儔) 侣也衆也等類也 (Page 27|n70 儔) A company of four (Kangxi: 四人爲儔); a party (Kangxi: 衆也); a comrade; a mate, fellows, friends; a class (Kangxi: 等類也); _ch'au lui_ (cau4 leoi6 儔類) a concourse; to assist, to sympathize; _ch'au tong_ (cau4 dong2 儔黨), to join one's clique or party."
+"text":"U+5114 俦 (F1.52 儔) 侣也衆也等類也 (Page 27|n70 #6: 儔) A company of four (Kangxi: 四人爲儔); a party (Kangxi: 衆也); a comrade; a mate, fellows, friends; a class (Kangxi: 等類也); _ch'au lui_ (cau4 leoi6 儔類) a concourse; to assist, to sympathize; _ch'au tong_ (cau4 dong2 儔黨), to join one's clique or party."
 }
 },
 "囚":{
@@ -2765,26 +2765,26 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+5E6C 帱 (Page 27|n70 幬) ~~A single~~ An unlined curtain (Kangxi: 襌帳也) on a carriage (Kangxi: 車帷也); a leather screen or partition (Kangxi: 幔轂之革也); 【幬】 (drjuw) (_noun-like_) drape"
+"text":"U+5E6C 帱 (Page 27|n70 #2: 幬) ~~A single~~ An unlined curtain (Kangxi: 襌帳也) on a carriage (Kangxi: 車帷也); a leather screen or partition (Kangxi: 幔轂之革也); 【幬】 (drjuw) (_noun-like_) drape"
 }
 },
 "惆":{
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+60C6 (F1.52 惆) 惆悵 (Page 27|n70 惆) Disappointed (Kangxi: 失意也); ~~deceived;~~ frustrated; _ch'au cheung_ (cau4 zoeng3 惆悵) sad, sick at heart."
+"text":"U+60C6 (F1.52 惆) 惆悵 (Page 27|n70 #9: 惆) Disappointed (Kangxi: 失意也); ~~deceived;~~ frustrated; _ch'au cheung_ (cau4 zoeng3 惆悵) sad, sick at heart."
 }
 },
 "椆":{
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+6906 (Page 27|n70 椆) A hard kind of wood resembling rose wood (Kangxi: 木也);"
+"text":"U+6906 (Page 27|n70 #3: 椆) A hard kind of wood resembling rose wood (Kangxi: 木也);"
 },
 "zau3":{
 "isCanonical":true,
 "williams":"chau(3)",
-"text":"U+6906 (Page 27|n70 椆 _Ch'au_ (cau4); here corrected to _Chau_ (zau3)) a pole for poling boats (Kangxi: 木椆船篙木)."
+"text":"U+6906 (Page 27|n70 #3: 椆 _Ch'au_ (cau4); here corrected to _Chau_ (zau3)) a pole for poling boats (Kangxi: 木椆船篙木)."
 }
 },
 "犨":{
@@ -2798,14 +2798,14 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+7587 儔 (for \"who\" sense) 畴 (F1.52 疇) 耕治之田也又衆也類也 (Page 27|n70 疇) A cultivated field; to till, to cultivate (Kangxi: 耕治之也); a field of hemp (Kangxi: 麻田曰疇); formerly, time past (Kangxi: 曩也); to class; a class, sort (Kangxi: 類也); who? (Kangxi: 疇誰也) _ch'au sik_ (cau4 sik1 疇昔) formerly, in time past. (Page 27|n70 儔) Used for the preceding (疇) (for the \"who\" sense) (Kangxi 儔: 誰也...與疇同). 【疇】 (drjuw) (_noun-like_) farming-field, hemp-field (_pronoun-like_) who (_noun-like_) category Used in 疇昔. 【疇昔】 (drjuw sjek) (_noun-like_) former day"
+"text":"U+7587 儔 (for \"who\" sense) 畴 (F1.52 疇) 耕治之田也又衆也類也 (Page 27|n70 #5: 疇) A cultivated field; to till, to cultivate (Kangxi: 耕治之也); a field of hemp (Kangxi: 麻田曰疇); formerly, time past (Kangxi: 曩也); to class; a class, sort (Kangxi: 類也); who? (Kangxi: 疇誰也) _ch'au sik_ (cau4 sik1 疇昔) formerly, in time past. (Page 27|n70 #6: 儔) Used for the preceding (疇) (for the \"who\" sense) (Kangxi 儔: 誰也...與疇同). 【疇】 (drjuw) (_noun-like_) farming-field, hemp-field (_pronoun-like_) who (_noun-like_) category Used in 疇昔. 【疇昔】 (drjuw sjek) (_noun-like_) former day"
 }
 },
 "稠":{
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+7A20 綢 (F1.52 稠) 密也 (Page 27|n70 綢) close, thick, crowded (Kangxi 綢: 綢者綢緻之言故爲密也); (Page 27|n70 稠) Grain growing close (Kangxi: 穊也); thick set, close together; crowded, dense (Kangxi: 密也); _yan in ch'au mat_ (jan4 jin1 cau4 mat6 人煙稠密) people closely crowded; _hung ch'au yan chung mai shat_ (hung2 cau4 jan4 zung1 mai4 sat1 恐稠人中迷失) lest they should lose each other in the crowd; _ch'au mat_ (cau4 mat6 稠密) close, crowded, intimate. 【稠】 (drjuw) (_adjective-like_) dense"
+"text":"U+7A20 綢 (F1.52 稠) 密也 (Page 27|n70 #8: 綢) close, thick, crowded (Kangxi 綢: 綢者綢緻之言故爲密也); (Page 27|n70 #10: 稠) Grain growing close (Kangxi: 穊也); thick set, close together; crowded, dense (Kangxi: 密也); _yan in ch'au mat_ (jan4 jin1 cau4 mat6 人煙稠密) people closely crowded; _hung ch'au yan chung mai shat_ (hung2 cau4 jan4 zung1 mai4 sat1 恐稠人中迷失) lest they should lose each other in the crowd; _ch'au mat_ (cau4 mat6 稠密) close, crowded, intimate. 【稠】 (drjuw) (_adjective-like_) dense"
 }
 },
 "籌":{
@@ -2819,14 +2819,14 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+7DA2 紬 (for \"silk\" sense) 绸 (Mainland simplified) (F1.52 綢) 綢緞又密也纏也 (F1.52 紬) 同上 (Page 27|n70 紬; here normalised to 綢) Silk (Kangxi 紬: 大絲繒也); pongee, senshaw, levantine, lustring; _shang ch'au_ (saang1 cau4 生綢), stiff pongee; _shuk ch'au_ (suk6 cau4 熟綢), soft silk; _ning ch'au_ (ning4 cau4 寧綢), finest pongee; _shu leung ch'au_ (syu4 loeng4 cau4 薯莨綢), rust colored senshaw; _ch'au tun_ (cau4 dyun6 綢緞) silks and satins; _fong ch'au_ (fong2 cau4 紡綢), reeled pongee; _min ch'au_ (min4 cau4 綿綢), fabric of silk and cotton; _kan ch'au_ (gaan2 cau4 繭綢), coarse rough serge; _ch'un ch'au_ (cyun1 cau4 川綢), Sz'chuen (四川) pongee. (Page 27|n70 綢) Used for the last (紬), when denoting silk; to bind, to wrap around, to twine about (Kangxi 綢: 繆也, 綢縛束也); _ch'au mau_ (cau4 mau4 綢繆), to tie up; to be intimate with, to consult upon. Williams' 生綢: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【綢】 (drjuw) (_verb-like_) to wind Used in 綢繆. 【綢繆】 (drjuw mjuw) (_verb-like_) to wind and bind"
+"text":"U+7DA2 紬 (for \"silk\" sense) 绸 (Mainland simplified) (F1.52 綢) 綢緞又密也纏也 (F1.52 紬) 同上 (Page 27|n70 #7: 紬; here normalised to 綢) Silk (Kangxi 紬: 大絲繒也); pongee, senshaw, levantine, lustring; _shang ch'au_ (saang1 cau4 生綢), stiff pongee; _shuk ch'au_ (suk6 cau4 熟綢), soft silk; _ning ch'au_ (ning4 cau4 寧綢), finest pongee; _shu leung ch'au_ (syu4 loeng4 cau4 薯莨綢), rust colored senshaw; _ch'au tun_ (cau4 dyun6 綢緞) silks and satins; _fong ch'au_ (fong2 cau4 紡綢), reeled pongee; _min ch'au_ (min4 cau4 綿綢), fabric of silk and cotton; _kan ch'au_ (gaan2 cau4 繭綢), coarse rough serge; _ch'un ch'au_ (cyun1 cau4 川綢), Sz'chuen (四川) pongee. (Page 27|n70 #8: 綢) Used for the last (紬), when denoting silk; to bind, to wrap around, to twine about (Kangxi 綢: 繆也, 綢縛束也); _ch'au mau_ (cau4 mau4 綢繆), to tie up; to be intimate with, to consult upon. Williams' 生綢: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【綢】 (drjuw) (_verb-like_) to wind Used in 綢繆. 【綢繆】 (drjuw mjuw) (_verb-like_) to wind and bind"
 }
 },
 "裯":{
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+88EF (F1.52 裯) 單被也 (Page 27|n70 裯) ~~A single~~ An unlined coverlet (Kangxi: 被也, 襌被也); a bed curtain (Kangxi: 牀帳也); an under-shirt; to cover, as with bed clothes. 【裯】 (drjuw) (_noun-like_) bedsheet"
+"text":"U+88EF (F1.52 裯) 單被也 (Page 27|n70 #4: 裯) ~~A single~~ An unlined coverlet (Kangxi: 被也, 襌被也); a bed curtain (Kangxi: 牀帳也); an under-shirt; to cover, as with bed clothes. 【裯】 (drjuw) (_noun-like_) bedsheet"
 }
 },
 "讎":{
@@ -2847,7 +2847,7 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+8E8A 踌 (Page 27|n70 躊) Embarrassed (Kangxi: 躊躇也); _ch'au ch'u_ (cau4 cyu4 躊躇), undecided, undetermined, unable to progress. Williams' \"Embarrassed\": In the (now) archaic sense of \"impeded\", \"obstructed\"."
+"text":"U+8E8A 踌 (Page 27|n70 #11: 躊) Embarrassed (Kangxi: 躊躇也); _ch'au ch'u_ (cau4 cyu4 躊躇), undecided, undetermined, unable to progress. Williams' \"Embarrassed\": In the (now) archaic sense of \"impeded\", \"obstructed\"."
 }
 },
 "遒":{
@@ -2868,14 +2868,14 @@
 "cau4":{
 "isCanonical":false,
 "williams":"(4)ch(')au",
-"text":"U+9167 (F1.52 酬) 答也報也 (F1.52 酧) 同酬 (Page 27|n70 酬酧)"
+"text":"U+9167 (F1.52 酬) 答也報也 (F1.52 酧) 同酬 (Page 27|n70 #1: 酬酧)"
 }
 },
 "酬":{
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ch(')au",
-"text":"U+916C 詶 讎 讐 酧 醻 (F1.52 酬) 答也報也 (F1.52 酧) 同酬 (Page 26|n69 #13: 讐~~仇~~) used for the next (酬) (Kangxi 讎: 通作酬); (Page 27|n70 酬酧) To pledge a guest (Kangxi 酬: 主人實觶酬賔); to recompense; to make a return; to invite a guest to drink; _ch'au tsok_ (cau4 zok6 酬酢) pledging as host and guest; _ch'au tse_ (cau4 ze6 酬謝) to return thanks, to present in return; _ch'au tap_ (cau4 daap3 酬答) to recompense, to respond; _ch'au shan_ (cau4 san4 酬神) to thank the gods; _ch'au un_ (cau4 jyun6 酬願) to make a thank offering; _ch'au lo_ (cau4 lou4 酬勞), present for carefulness, as to workmen; _ch'au wan_ (cau4 waan4 酬還), to pay, as a vow; _ch'au tap t'in yan_ (cau4 daap3 tin1 jan1 酬答天恩), to requite heaven's favor---in being saved from fire. 【酬】 (dzyuw) (_verb-like_) to toast (in return) (_verb-like_) to repay"
+"text":"U+916C 詶 讎 讐 酧 醻 (F1.52 酬) 答也報也 (F1.52 酧) 同酬 (Page 26|n69 #13: 讐~~仇~~) used for the next (酬) (Kangxi 讎: 通作酬); (Page 27|n70 #1: 酬酧) To pledge a guest (Kangxi 酬: 主人實觶酬賔); to recompense; to make a return; to invite a guest to drink; _ch'au tsok_ (cau4 zok6 酬酢) pledging as host and guest; _ch'au tse_ (cau4 ze6 酬謝) to return thanks, to present in return; _ch'au tap_ (cau4 daap3 酬答) to recompense, to respond; _ch'au shan_ (cau4 san4 酬神) to thank the gods; _ch'au un_ (cau4 jyun6 酬願) to make a thank offering; _ch'au lo_ (cau4 lou4 酬勞), present for carefulness, as to workmen; _ch'au wan_ (cau4 waan4 酬還), to pay, as a vow; _ch'au tap t'in yan_ (cau4 daap3 tin1 jan1 酬答天恩), to requite heaven's favor---in being saved from fire. 【酬】 (dzyuw) (_verb-like_) to toast (in return) (_verb-like_) to repay"
 }
 },
 "唓":{

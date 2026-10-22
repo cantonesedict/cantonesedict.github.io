@@ -1846,7 +1846,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)椆 _(4)Ch(')au_ (cau4); here corrected to _Chau(3)_ (zau3)]]
+  - [[Page~27|n70 #3: (4)椆 _(4)Ch(')au_ (cau4); here corrected to _Chau(3)_ (zau3)]]
     ==
     - [[...]];
     - a pole for poling boats [[Kangxi: 木椆船篙木]].
