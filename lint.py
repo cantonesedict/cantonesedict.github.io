@@ -3202,7 +3202,7 @@ class CharacterEntry:
                            williams_locators: list['WilliamsLocator'], w_content: str, heading_content: str):
         is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
-        locator_lines = [williams_locator.content() for williams_locator in williams_locators]
+        locator_lines = [williams_locator.content for williams_locator in williams_locators]
 
         if is_williams_present and character not in '\n'.join(locator_lines):
             raise LintException(
@@ -3652,17 +3652,17 @@ class WilliamsLocator:
 
     def __init__(self, page: str, entry_marker: Optional[str], entry_number: Optional[str], whitespace: str,
                  headword_run: str, clarification_run: str, redirection_run: str):
-        locator_readable = (
+        content = (
             f'- [[Page~{page}{entry_marker}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
         )
 
         if whitespace != ' ':
             raise LintException(
-                f'whitespace `{whitespace}` is not a single space in Williams locator `{locator_readable}`'
+                f'whitespace `{whitespace}` is not a single space in Williams locator `{content}`'
             )
 
-        if not WILLIAMS_TONE_PATTERN.search(string=locator_readable):
-            raise LintException(f'missing Williams tone in Williams locator `{locator_readable}`')
+        if not WILLIAMS_TONE_PATTERN.search(string=content):
+            raise LintException(f'missing Williams tone in Williams locator `{content}`')
 
         if entry_marker is None:
             page = '9999'
@@ -3670,7 +3670,7 @@ class WilliamsLocator:
             # TODO:
             # raise LintException(
             #     f'missing entry marker `:` or ` #{{number}}:` after `Page~{page}`'
-            #     f'in `{locator_readable}`'
+            #     f'in `{content}`'
             # )
 
         page_clean = WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN.sub(repl='', string=page)
@@ -3702,6 +3702,7 @@ class WilliamsLocator:
         self.unedited_headword_run = unedited_headword_run
         self.clarification_run = clarification_run
         self.redirection_run = redirection_run
+        self.content = content
 
     def __eq__(self, other):
         return self.identity() == other.identity()
@@ -3714,15 +3715,6 @@ class WilliamsLocator:
 
     def identity(self):
         return self.page_grouping, self.page_number, self.entry_number
-
-    def content(self):
-        page = self.page
-        entry_marker = self.entry_marker
-        headword_run = self.headword_run
-        clarification_run = self.clarification_run
-        redirection_run = self.redirection_run
-
-        return f'- [[Page~{page}{entry_marker} {headword_run}{clarification_run}{redirection_run}]]'
 
 
 class LiteraryRendering:
@@ -4690,7 +4682,7 @@ class Linter:
             )
             if len(collated_unedited_headword_runs) > 1:
                 williams_locator_lines = [
-                    williams_locator.content()
+                    williams_locator.content
                     for williams_locator in collated_williams_locators
                 ]
                 raise LintException(
