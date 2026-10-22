@@ -1202,6 +1202,116 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~13|n56
+    ,{#page-13-entry-1} #1
+    ,{.williams} 舴(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $舴zaak3
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-2} #2
+    ,{.williams} 澤(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $澤zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-3} #3
+    ,{.williams} 擇(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $擇zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-4} #4
+    ,{.williams} 擲(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $擲zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-5} #5
+    ,{.williams} 摘(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $摘zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-6} #6
+    ,{.williams} 翟(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $翟zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-7} #7
+    ,{.williams} 擢(9)
+    ,
+      <nav class="sideways">
+      ==
+      - ($擢zaak6), $擢zok6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-8} #8
+    ,{.williams} 宅(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $宅zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-9} #9
+    ,{.williams} {𧓸=⿰虫鄭}(9)
+    ,
+      <nav class="sideways">
+      ==
+      - ${𧓸=⿰虫鄭}zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-10} #10
+    ,{.williams} 躑(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $躑zaak6
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-11} #11
+    ,{.williams} 謫(9)讁(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $謫zaak6
+      - ($讁zaak6)
+      ==
+      </nav>
+  //
+    ,{#page-13-entry-12} #12
+    ,{.williams} 策(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $策caak3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

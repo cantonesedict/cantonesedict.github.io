@@ -376,7 +376,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 策(8)]]
+  - [[Page~13|n56 #12: 策(8)]]
     ==
     - A bamboo slip [[Kangxi: ::策[簡]也::]], such as books were once engraved on;
     - a book, writings;

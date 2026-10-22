@@ -291,7 +291,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擢(9) _Ch(a/)k(9)_ (zaak6); here normalised to _Chok(9)_ (zok6)]]
+  - [[Page~13|n56 #7: 擢(9) _Ch(a/)k(9)_ (zaak6); here normalised to _Chok(9)_ (zok6)]]
     ==
     - To pull up [[Kangxi: 引也]];
     - to take out, to select, to raise, to promote [[Kangxi: 拔也, 抽也出也]];

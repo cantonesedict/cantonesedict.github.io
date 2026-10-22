@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 舴(8)]]
+  - [[Page~13|n56 #1: 舴(8)]]
     ==
     - A boat;
     - _ch(a/)k(8) ~~mang(6)~~ ``(5)m(a/)ng``_
@@ -734,7 +734,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 宅(9)]]
+  - [[Page~13|n56 #8: 宅(9)]]
     ==
     - A dwelling, a mansion, a residence [[Kangxi: 居也, 謂居處也]];
     - a grave;
@@ -788,7 +788,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 摘(9)]]
+  - [[Page~13|n56 #5: 摘(9)]]
     ==
     - To pluck, to cull;
     - to pull, to pick [[Kangxi: 拓果樹實也]];
@@ -852,7 +852,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擇(9)]]
+  - [[Page~13|n56 #3: 擇(9)]]
     ==
     - To select, to pick out, to choose, to prefer [[Kangxi: 揀選也]];
     - _ch(a/)k(9) yat(9)_
@@ -891,7 +891,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擢(9)]]
+  - [[Page~13|n56 #7: 擢(9)]]
     --
     [[Reading variation. **See $擢zok6 for the canonical entry.**]]
     --
@@ -920,7 +920,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擲(9)]]
+  - [[Page~13|n56 #4: 擲(9)]]
     ==
     - To throw down, to throw at [[Kangxi: 投也]];
     - to throw away, to reject [[Kangxi: 拋也掉也與擿同]];
@@ -963,7 +963,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 澤(9)]]
+  - [[Page~13|n56 #2: 澤(9)]]
     ==
     - A marsh, a fen, a pool [[Kangxi: 澤水之鐘也, 水草交厝名之爲澤]];
     - to fertilize, to soften, to enrich [[Kangxi: 澤者言其潤澤萬物以阜民用也]];
@@ -1053,7 +1053,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 翟(9)]]
+  - [[Page~13|n56 #6: 翟(9)]]
     ==
     - A surname [[Kangxi: 亦姓]].
     ==
@@ -1083,7 +1083,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~13|n56 {𧓸=⿰虫鄭}(9)]]
+  - [[Page~13|n56 #9: {𧓸=⿰虫鄭}(9)]]
     ==
     - A large green caterpillar,
       called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 {𧓸=⿰虫鄭}蠋]]
@@ -1116,7 +1116,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 謫(9)讁(9)]]
+  - [[Page~13|n56 #11: 謫(9)讁(9)]]
     ==
     - To blame, to reprehend [[Kangxi 謫: 責也, 咎也]];
     - to ~~disgracc~~ ``disgrace`` officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
@@ -1159,7 +1159,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 謫(9)讁(9)]]
+  - [[Page~13|n56 #11: 謫(9)讁(9)]]
     --
     [[Alternative form of 謫. **See $謫zaak6 for the canonical entry.**]]
     --
@@ -1215,7 +1215,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 躑(9)]]
+  - [[Page~13|n56 #10: 躑(9)]]
     ==
     - Going back and forth [[Kangxi: 躑躅猶踟躕也]];
     - embarrassed, undecided [[Kangxi: 躑躅行不進也]];
