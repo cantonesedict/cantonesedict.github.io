@@ -3438,6 +3438,102 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~36|n79
+    ,{#page-36-entry-1} #1
+    ,{.williams} (1)猖
+    ,
+      <nav class="sideways">
+      ==
+      - $猖coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-2} #2
+    ,{.williams} (1)倡
+    ,
+      <nav class="sideways">
+      ==
+      - ($倡coeng1), $倡coeng3
+      - $娼coeng1
+      - $猖coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-3} #3
+    ,{.williams} (1)娼
+    ,
+      <nav class="sideways">
+      ==
+      - $娼coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-4} #4
+    ,{.williams} (1)菖
+    ,
+      <nav class="sideways">
+      ==
+      - $菖coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-5} #5
+    ,{.williams} (1)閶
+    ,
+      <nav class="sideways">
+      ==
+      - $閶coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-6} #6
+    ,{.williams} (1)窓(1)窗(1)牕
+    ,
+      <nav class="sideways">
+      ==
+      - ($牕coeng1)
+      - ($窓coeng1)
+      - $窗coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-7} #7
+    ,{.williams} (1)帽
+    ,
+      <nav class="sideways">
+      ==
+      - (${𢃑=⿰巾昌}coeng1)
+      - $裮coeng1
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-8} #8
+    ,{.williams} (4)長
+    ,
+      <nav class="sideways">
+      ==
+      - $長coeng4
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-9} #9
+    ,{.williams} (4)萇
+    ,
+      <nav class="sideways">
+      ==
+      - $萇coeng4
+      ==
+      </nav>
+  //
+    ,{#page-36-entry-10} #10
+    ,{.williams} (4)腸
+    ,
+      <nav class="sideways">
+      ==
+      - $腸coeng4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

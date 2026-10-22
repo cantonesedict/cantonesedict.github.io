@@ -125,7 +125,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡]]
+  - [[Page~36|n79 #2: (1)倡]]
     --
     [[Reading variation. **See $倡coeng3 for the canonical entry.**]]
     --
@@ -159,13 +159,13 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡]]
+  - [[Page~36|n79 #2: (1)倡]]
     ==
     - [[...]];
     - used for the [[...]] next [[娼]] [[Kangxi 倡: 別作娼]];
     - [[...]].
     ==
-  - [[Page~36|n79 (1)娼]]
+  - [[Page~36|n79 #3: (1)娼]]
     ==
     - A singing woman [[Kangxi 倡: ::倡優女樂[...]別作娼::]];
     - a courtesan;
@@ -246,7 +246,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::]]
+  - [[Page~36|n79 #7: ::(1)~~帽~~``{𢃑=⿰巾昌}``::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
@@ -462,7 +462,7 @@ F
   ====
 W
   ====
-  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+  - [[Page~36|n79 #6: (1)窓(1)窗(1)牕]]
     --
     [[Alternative form of 窗. **See $窗coeng1 for the canonical entry.**]]
     --
@@ -486,14 +486,14 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)猖]]
+  - [[Page~36|n79 #1: (1)猖]]
     ==
     -  ~~A herd of animals fleeing;~~
     -  _(1)ch(')(e/)ung (4)kw(')ong_
         [[coeng1 kwong4 猖狂]],
         ungovernable, unrestrained [[Kangxi: 猖狂]].
     ==
-  - [[Page~36|n79 (1)倡]]
+  - [[Page~36|n79 #2: (1)倡]]
     ==
     - [[...]];
     - used for the last [[猖]] [[Kangxi 倡: 亦作猖]] [[...]];
@@ -557,7 +557,7 @@ F
   ====
 W
   ====
-  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+  - [[Page~36|n79 #6: (1)窓(1)窗(1)牕]]
     --
     [[Alternative form of 窗. **See $窗coeng1 for the canonical entry.**]]
     --
@@ -592,7 +592,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+  - [[Page~36|n79 #6: (1)窓(1)窗(1)牕]]
     ==
     - A window, an aperture to admit light [[Kangxi 窗: 助戸爲明]];
     - a sash;
@@ -678,7 +678,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)菖]]
+  - [[Page~36|n79 #4: (1)菖]]
     ==
     - The flag _(Acorus)_ [[Kangxi: 菖蒲蒲類之昌盛者]]_;_
     - _(1)ch(')(e/)ung (4)p(')(o\)_
@@ -705,7 +705,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::; here normalised to 裮]]
+  - [[Page~36|n79 #7: ::(1)~~帽~~``{𢃑=⿰巾昌}``::; here normalised to 裮]]
     ==
     - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
@@ -898,7 +898,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)閶]]
+  - [[Page~36|n79 #5: (1)閶]]
     ==
     - The door of heaven [[Kangxi: 天門也]];
     - a gate of S(u/)chau [[蘇州]];
@@ -1087,7 +1087,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
+  - [[Page~36|n79 #2: (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
     ==
     - To lead, to go before [[Kangxi: 倡發歌句也]], to seduce or induce;
     - a leader;
@@ -1927,7 +1927,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (4)腸]]
+  - [[Page~36|n79 #10: (4)腸]]
     ==
     - The bowels [[Kangxi: 大小腸藏府之二名也]];
     - the intestines;
@@ -2015,7 +2015,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (4)萇]]
+  - [[Page~36|n79 #9: (4)萇]]
     ==
     - A sort of fruit, the carambola _(Averrhoa)_ [[Kangxi: 萇楚, 今羊桃也]],
       also called the _(4)y(e/)ung (4)t(')(o\)_ [[joeng4 tou4 羊桃]],
@@ -2154,7 +2154,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (4)長]]
+  - [[Page~36|n79 #8: (4)長]]
     ==
     - Long in time [[Kangxi: 久也]] or distance [[Kangxi: 短之對也]], far off [[Kangxi: 遠也]];
     - constantly, regularly [[Kangxi: 常也]];

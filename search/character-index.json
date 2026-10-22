@@ -5403,19 +5403,19 @@
 "coeng1":{
 "isCanonical":false,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+5021 (F1.90 倡) 倡導倡率先之也 (Page 36|n79 倡)"
+"text":"U+5021 (F1.90 倡) 倡導倡率先之也 (Page 36|n79 #2: 倡)"
 },
 "coeng3":{
 "isCanonical":true,
 "williams":"ch(')(e/)ung(3)",
-"text":"U+5021 coeng1 (per Fan Wan, common) (F1.90 倡 _Ch'eung_ (coeng1)) 倡導倡率先之也 (Page 36|n79 倡 _Ch'eung_ (coeng1); here normalised to _Ch'eung_ (coeng3)) To lead, to go before (Kangxi: 倡發歌句也), to seduce or induce; a leader; an example, a guide; _ch'eung to_ (coeng3 dou6 倡導) to show the way; _ch'eung in_ (coeng3 jin4 倡言), to speak first; _ch'eung sut_ (coeng3 seot1 倡率) to lead on; _ch'eung t'au_ (coeng3 tau4 倡頭), a leader; _ch'eung lun_ (coeng3 lyun6 倡亂) to head a riot. 【倡】 (tsyhangH) (_verb-like_) to lead song"
+"text":"U+5021 coeng1 (per Fan Wan, common) (F1.90 倡 _Ch'eung_ (coeng1)) 倡導倡率先之也 (Page 36|n79 #2: 倡 _Ch'eung_ (coeng1); here normalised to _Ch'eung_ (coeng3)) To lead, to go before (Kangxi: 倡發歌句也), to seduce or induce; a leader; an example, a guide; _ch'eung to_ (coeng3 dou6 倡導) to show the way; _ch'eung in_ (coeng3 jin4 倡言), to speak first; _ch'eung sut_ (coeng3 seot1 倡率) to lead on; _ch'eung t'au_ (coeng3 tau4 倡頭), a leader; _ch'eung lun_ (coeng3 lyun6 倡亂) to head a riot. 【倡】 (tsyhangH) (_verb-like_) to lead song"
 }
 },
 "娼":{
 "coeng1":{
 "isCanonical":true,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+5A3C 倡 (F1.90 娼) 娼妓又娼優女樂 (Page 36|n79 倡) used for the (...) next (娼) (Kangxi 倡: 別作娼); (Page 36|n79 娼) A singing woman (Kangxi 倡: 倡優女樂...別作娼); a courtesan; _ch'eung mun_ (coeng1 mun4 娼門), public women; _wo ch'eung_ (wo1 coeng1 窩娼), house of assignation; _ch'eung fu_ (coeng1 fu5 娼婦), a strumpet; _ch'eung ki_ (coeng1 gei6 娼妓) a whore; _ch'eung liu_ (coeng1 liu4 娼寮), a brothel; _ch'eung ka_ (coeng1 gaa1 娼家), a bagnio; _yau ch'eung_ (jau1 coeng1 優娼), public singers; _tong ch'eung_ (dong1 coeng1 當娼), to be a whore."
+"text":"U+5A3C 倡 (F1.90 娼) 娼妓又娼優女樂 (Page 36|n79 #2: 倡) used for the (...) next (娼) (Kangxi 倡: 別作娼); (Page 36|n79 #3: 娼) A singing woman (Kangxi 倡: 倡優女樂...別作娼); a courtesan; _ch'eung mun_ (coeng1 mun4 娼門), public women; _wo ch'eung_ (wo1 coeng1 窩娼), house of assignation; _ch'eung fu_ (coeng1 fu5 娼婦), a strumpet; _ch'eung ki_ (coeng1 gei6 娼妓) a whore; _ch'eung liu_ (coeng1 liu4 娼寮), a brothel; _ch'eung ka_ (coeng1 gaa1 娼家), a bagnio; _yau ch'eung_ (jau1 coeng1 優娼), public singers; _tong ch'eung_ (dong1 coeng1 當娼), to be a whore."
 }
 },
 "將":{
@@ -5439,7 +5439,7 @@
 "coeng1":{
 "isCanonical":false,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+220D1 (F1.90 ⿰巾昌) 披衣不帶曰𢃑 (Page 36|n79 ~~帽~~𢃑) Williams misprints 𢃑 as 帽; here corrected. (The character 𢃑 appears correctly on Page 758 in the character index.)"
+"text":"U+220D1 (F1.90 ⿰巾昌) 披衣不帶曰𢃑 (Page 36|n79 #7: ~~帽~~𢃑) Williams misprints 𢃑 as 帽; here corrected. (The character 𢃑 appears correctly on Page 758 in the character index.)"
 }
 },
 "斨":{
@@ -5460,14 +5460,14 @@
 "coeng1":{
 "isCanonical":false,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+7255 May appear as either ⿰片⿱囪心 or ⿰片⿱囱心 (assumed here), depending on the font. (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 窓窗牕)"
+"text":"U+7255 May appear as either ⿰片⿱囪心 or ⿰片⿱囱心 (assumed here), depending on the font. (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 #6: 窓窗牕)"
 }
 },
 "猖":{
 "coeng1":{
 "isCanonical":true,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+7316 倡 (F1.90 猖) 猖狂縱橫也 (Page 36|n79 猖) ~~A herd of animals fleeing;~~ _ch'eung kw'ong_ (coeng1 kwong4 猖狂), ungovernable, unrestrained (Kangxi: 猖狂). (Page 36|n79 倡) used for the last (猖) (Kangxi 倡: 亦作猖) (...); Williams' \"A herd of animals fleeing\": This is a misreading of Kangxi 狂駭也."
+"text":"U+7316 倡 (F1.90 猖) 猖狂縱橫也 (Page 36|n79 #1: 猖) ~~A herd of animals fleeing;~~ _ch'eung kw'ong_ (coeng1 kwong4 猖狂), ungovernable, unrestrained (Kangxi: 猖狂). (Page 36|n79 #2: 倡) used for the last (猖) (Kangxi 倡: 亦作猖) (...); Williams' \"A herd of animals fleeing\": This is a misreading of Kangxi 狂駭也."
 }
 },
 "瑲":{
@@ -5486,14 +5486,14 @@
 "coeng1":{
 "isCanonical":false,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+7A93 (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 窓窗牕)"
+"text":"U+7A93 (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 #6: 窓窗牕)"
 }
 },
 "窗":{
 "coeng1":{
 "isCanonical":true,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+7A97 May appear as either ⿱穴囪 (assumed here) or ⿱穴囱, depending on the font. 囪 囱 牎 牕 窓 䆫 窻 (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 窓窗牕) A window, an aperture to admit light (Kangxi 窗: 助戸爲明); a sash; a venetian blind, a shutter; a school; a student; _ch'eung mun_ (coeng1 mun4-2 窗門), a window; _t'in ch'eung_ (tin1 coeng1 天窗), a sky-light; _ch'eung mun ~~ch'an~~ ch'am_ (coeng1 mun4-2 caam5 窗門棖), a window-sill; _shu ch'eung_ (syu1 coeng1 書窗), or _kai ch'eung_ (gai1 coeng1 雞窗), a schoolroom; _t'ong ch'eung_ (tong3 coeng1 摥窗), to pull the sash to; _hon ch'eung_ (hon4 coeng1 寒窗), a poor student; _ch'eung at_ (coeng1 aat3 窗壓) a window-bar; _t'ung ch'eung_ (tung4 coeng1 同窗), or _ch'eung yau_ (coeng1 jau5 窗友), chums, fellow-students; _ch'eung ha_ (coeng1 haa6 窗下) at school, while at his studies. Williams' \"sash\": In the sense of the sliding panel in a sash window. Williams' 窗門棖: Changed uncommon reading _ch'an_ (caan5) to _ch'am_ (caam5). 【窗】 (tsrhaewng) (_noun-like_) window"
+"text":"U+7A97 May appear as either ⿱穴囪 (assumed here) or ⿱穴囱, depending on the font. 囪 囱 牎 牕 窓 䆫 窻 (F1.90 窓) 高曰窓低曰牗 (F1.90 牕) 同上 (Page 36|n79 #6: 窓窗牕) A window, an aperture to admit light (Kangxi 窗: 助戸爲明); a sash; a venetian blind, a shutter; a school; a student; _ch'eung mun_ (coeng1 mun4-2 窗門), a window; _t'in ch'eung_ (tin1 coeng1 天窗), a sky-light; _ch'eung mun ~~ch'an~~ ch'am_ (coeng1 mun4-2 caam5 窗門棖), a window-sill; _shu ch'eung_ (syu1 coeng1 書窗), or _kai ch'eung_ (gai1 coeng1 雞窗), a schoolroom; _t'ong ch'eung_ (tong3 coeng1 摥窗), to pull the sash to; _hon ch'eung_ (hon4 coeng1 寒窗), a poor student; _ch'eung at_ (coeng1 aat3 窗壓) a window-bar; _t'ung ch'eung_ (tung4 coeng1 同窗), or _ch'eung yau_ (coeng1 jau5 窗友), chums, fellow-students; _ch'eung ha_ (coeng1 haa6 窗下) at school, while at his studies. Williams' \"sash\": In the sense of the sliding panel in a sash window. Williams' 窗門棖: Changed uncommon reading _ch'an_ (caan5) to _ch'am_ (caam5). 【窗】 (tsrhaewng) (_noun-like_) window"
 }
 },
 "窻":{
@@ -5507,14 +5507,14 @@
 "coeng1":{
 "isCanonical":true,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+83D6 (F1.90 菖) 菖蒲草名 (Page 36|n79 菖) The flag _(Acorus)_ (Kangxi: 菖蒲蒲類之昌盛者)_;_ _ch'eung p'o_ (coeng1 pou4 菖蒲), sweet flag, hung on door lintels to drive away maleficent influences."
+"text":"U+83D6 (F1.90 菖) 菖蒲草名 (Page 36|n79 #4: 菖) The flag _(Acorus)_ (Kangxi: 菖蒲蒲類之昌盛者)_;_ _ch'eung p'o_ (coeng1 pou4 菖蒲), sweet flag, hung on door lintels to drive away maleficent influences."
 }
 },
 "裮":{
 "coeng1":{
 "isCanonical":true,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+88EE 𢃑 (F1.90 𢃑) 披衣不帶曰𢃑 (Page 36|n79 ~~帽~~𢃑; here normalised to 裮) Loose flowing garments thrown on one without a cincture (Kangxi 裮: 披裮, 披衣不帶也). Williams misprints 𢃑 as 帽; here corrected. (The character 𢃑 appears correctly on Page 758 in the character index.)"
+"text":"U+88EE 𢃑 (F1.90 𢃑) 披衣不帶曰𢃑 (Page 36|n79 #7: ~~帽~~𢃑; here normalised to 裮) Loose flowing garments thrown on one without a cincture (Kangxi 裮: 披裮, 披衣不帶也). Williams misprints 𢃑 as 帽; here corrected. (The character 𢃑 appears correctly on Page 758 in the character index.)"
 }
 },
 "蹌":{
@@ -5552,7 +5552,7 @@
 "coeng1":{
 "isCanonical":true,
 "williams":"(1)ch(')(e/)ung",
-"text":"U+95B6 阊 (Mainland simplified) (F1.90 閶) 閶闔天門也 (Page 36|n79 閶) The door of heaven (Kangxi: 天門也); a gate of Suchau (蘇州); _ch'eung hop_ (coeng1 hap6 閶闔) door of paradise, kept by Kwanti (關帝) or Mars."
+"text":"U+95B6 阊 (Mainland simplified) (F1.90 閶) 閶闔天門也 (Page 36|n79 #5: 閶) The door of heaven (Kangxi: 天門也); a gate of Suchau (蘇州); _ch'eung hop_ (coeng1 hap6 閶闔) door of paradise, kept by Kwanti (關帝) or Mars."
 }
 },
 "鯧":{
@@ -5712,14 +5712,14 @@
 "coeng4":{
 "isCanonical":true,
 "williams":"(4)ch(')(e/)ung",
-"text":"U+8178 膓 肠 (Mainland simplified) coeng4-2 (vernacular rising-tone noun) (F1.91 腸) 腸臟 (Page 36|n79 腸) The bowels (Kangxi: 大小腸藏府之二名也); the intestines; tripe; _met._ the feelings, the affections; _wang a ch'eung_ (waang4 aa1 coeng4-2 橫丫腸), cunning; _ho ch'eung t'o_ (hou2 coeng4 tou5 好腸肚), clever, learned; _siu lun ch'eung_ (siu3 lyun1 coeng4-2 笑攣腸), laughed till his side ached; _chik ch'eung_ (zik6 coeng4 直腸), honest, trustworthy; _ngau ch'eung_ (ngau4 coeng4-2 牛腸), tripe; _tai ch'eung_ (daai6 coeng4-2 大腸), the colon; _siu ch'eung_ (siu2 coeng4-2 小腸), lesser intestines; _ch'eung tsong_ (coeng4 zong6 腸臟) the intestines, the inwards; _sam ch'eung_ (sam1 coeng4 心腸), the disposition, feelings; _mo ch'eung kung tsz'_ (mou4 coeng4 gung1 zi2 無腸公子) a crab. Williams' \"tripe\", 牛腸: Only tripe in the sense of entrails (specifically the intestines). 【腸】 (drjang) (_noun-like_) bowel 【腸】 (coeng4-2) Short for 腸粉 (cheung fan). 蝦腸 (haa1 coeng4-2): \"Prawn rice-noodle rolls.\" 齋腸 (zaai1 coeng4-2): \"Plain rice-noodle rolls.\" 【腸粉】 (coeng4-2 fan2) Rice-noodle rolls. 【豬腸粉】 (zyu1 coeng4 fan2) Rice-noodle rolls, especially the tighter-rolled street food variant (smaller radius with no filling)."
+"text":"U+8178 膓 肠 (Mainland simplified) coeng4-2 (vernacular rising-tone noun) (F1.91 腸) 腸臟 (Page 36|n79 #10: 腸) The bowels (Kangxi: 大小腸藏府之二名也); the intestines; tripe; _met._ the feelings, the affections; _wang a ch'eung_ (waang4 aa1 coeng4-2 橫丫腸), cunning; _ho ch'eung t'o_ (hou2 coeng4 tou5 好腸肚), clever, learned; _siu lun ch'eung_ (siu3 lyun1 coeng4-2 笑攣腸), laughed till his side ached; _chik ch'eung_ (zik6 coeng4 直腸), honest, trustworthy; _ngau ch'eung_ (ngau4 coeng4-2 牛腸), tripe; _tai ch'eung_ (daai6 coeng4-2 大腸), the colon; _siu ch'eung_ (siu2 coeng4-2 小腸), lesser intestines; _ch'eung tsong_ (coeng4 zong6 腸臟) the intestines, the inwards; _sam ch'eung_ (sam1 coeng4 心腸), the disposition, feelings; _mo ch'eung kung tsz'_ (mou4 coeng4 gung1 zi2 無腸公子) a crab. Williams' \"tripe\", 牛腸: Only tripe in the sense of entrails (specifically the intestines). 【腸】 (drjang) (_noun-like_) bowel 【腸】 (coeng4-2) Short for 腸粉 (cheung fan). 蝦腸 (haa1 coeng4-2): \"Prawn rice-noodle rolls.\" 齋腸 (zaai1 coeng4-2): \"Plain rice-noodle rolls.\" 【腸粉】 (coeng4-2 fan2) Rice-noodle rolls. 【豬腸粉】 (zyu1 coeng4 fan2) Rice-noodle rolls, especially the tighter-rolled street food variant (smaller radius with no filling)."
 }
 },
 "萇":{
 "coeng4":{
 "isCanonical":true,
 "williams":"(4)ch(')(e/)ung",
-"text":"U+8407 苌 (Mainland simplified) (F1.91 萇) 萇楚今羊桃也 (Page 36|n79 萇) A sort of fruit, the carambola _(Averrhoa)_ (Kangxi: 萇楚, 今羊桃也), also called the _yeung t'o_ (joeng4 tou4 羊桃), or sheep's peach. 【萇】 (drjang) Used in 萇楚. 【萇楚】 (drjang tsrhjoX) (_noun-like_) carambola"
+"text":"U+8407 苌 (Mainland simplified) (F1.91 萇) 萇楚今羊桃也 (Page 36|n79 #9: 萇) A sort of fruit, the carambola _(Averrhoa)_ (Kangxi: 萇楚, 今羊桃也), also called the _yeung t'o_ (joeng4 tou4 羊桃), or sheep's peach. 【萇】 (drjang) Used in 萇楚. 【萇楚】 (drjang tsrhjoX) (_noun-like_) carambola"
 }
 },
 "薔":{
@@ -5740,7 +5740,7 @@
 "coeng4":{
 "isCanonical":true,
 "williams":"(4)ch(')(e/)ung",
-"text":"U+9577 仧 兏 镸 长 (Mainland simplified) coeng4-2 (rising second in vernacular 長長地) (F1.91 長) 長久永遠也 (Page 36|n79 長) Long in time (Kangxi: 久也) or distance (Kangxi: 短之對也), far off (Kangxi: 遠也); constantly, regularly (Kangxi: 常也); always, continual; superiors (Kangxi: 長弟猶云先後也); skilled, used to, practiced; direct, straight; the 168th radical (U+2FA7 ⾧ \"long\"); _ch'eung un_ (coeng4 jyun5 長遠), durable; _kok yau sho ch'eung_ (gok3 jau5 so2 coeng4 各有所長), in what each excels; _ch'eung kwo t'au_ (coeng4 gwo3 tau4 長過頭), too long; _ch'eung shang_ (coeng4 sang1 長生) long life; a coffin; _ch'eung shi yung_ (coeng4 si4 jung6 長時用) in constant use; _ch'eung kau_ (coeng4 gau2 長久), old, a long time; _ch'eung hi_ (coeng4 hei3 長氣) longwinded, as a talker; _ch'eung hung_ (coeng4 hung4 長紅), a hand-bill; _yat mo sho ch'eung_ (jat1 mou4 so2 coeng4 一無所長), changeful, not persevering; _ch'eung kau fo ki_ (coeng4 gau2 fo2 gei3 長久伙記) an old comrade; _ch'eung shang pat lo_ (coeng4 sang1 bat1 lou5 長生不老), ~~a green old age~~ immortal; _ch'eung un shai kai_ (coeng4 jyun5 sai3 gaai3 長遠世界) long continued, as a family; _ch'eung tun_ (coeng4 dyun2 長短), the length of, the traits of character; _ch'eung k'u_ (coeng4 keoi1 長驅), go directly there. 【長-level】 (drjang) (_adjective-like_) long, (_met._) everlasting 【長氣】 (coeng4 hei3) Long-winded. 咪咁長氣啦 (mai5 gam3 coeng4 hei3 la1): \"Don't be so long-winded!\""
+"text":"U+9577 仧 兏 镸 长 (Mainland simplified) coeng4-2 (rising second in vernacular 長長地) (F1.91 長) 長久永遠也 (Page 36|n79 #8: 長) Long in time (Kangxi: 久也) or distance (Kangxi: 短之對也), far off (Kangxi: 遠也); constantly, regularly (Kangxi: 常也); always, continual; superiors (Kangxi: 長弟猶云先後也); skilled, used to, practiced; direct, straight; the 168th radical (U+2FA7 ⾧ \"long\"); _ch'eung un_ (coeng4 jyun5 長遠), durable; _kok yau sho ch'eung_ (gok3 jau5 so2 coeng4 各有所長), in what each excels; _ch'eung kwo t'au_ (coeng4 gwo3 tau4 長過頭), too long; _ch'eung shang_ (coeng4 sang1 長生) long life; a coffin; _ch'eung shi yung_ (coeng4 si4 jung6 長時用) in constant use; _ch'eung kau_ (coeng4 gau2 長久), old, a long time; _ch'eung hi_ (coeng4 hei3 長氣) longwinded, as a talker; _ch'eung hung_ (coeng4 hung4 長紅), a hand-bill; _yat mo sho ch'eung_ (jat1 mou4 so2 coeng4 一無所長), changeful, not persevering; _ch'eung kau fo ki_ (coeng4 gau2 fo2 gei3 長久伙記) an old comrade; _ch'eung shang pat lo_ (coeng4 sang1 bat1 lou5 長生不老), ~~a green old age~~ immortal; _ch'eung un shai kai_ (coeng4 jyun5 sai3 gaai3 長遠世界) long continued, as a family; _ch'eung tun_ (coeng4 dyun2 長短), the length of, the traits of character; _ch'eung k'u_ (coeng4 keoi1 長驅), go directly there. 【長-level】 (drjang) (_adjective-like_) long, (_met._) everlasting 【長氣】 (coeng4 hei3) Long-winded. 咪咁長氣啦 (mai5 gam3 coeng4 hei3 la1): \"Don't be so long-winded!\""
 },
 "zoeng2":{
 "isCanonical":true,
