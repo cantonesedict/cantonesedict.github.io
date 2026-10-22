@@ -2513,6 +2513,129 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~26|n69
+    ,{#page-26-entry-1} #1
+    ,{.williams} 晝(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $晝zau3
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-2} #2
+    ,{.williams} 咒(3)呪(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($呪zau3)
+      - $咒zau3
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-3} #3
+    ,{.williams} 咮(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $咮zau3, $咮zyu1
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-4} #4
+    ,{.williams} 宙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $宙zau6
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-5} #5
+    ,{.williams} 胄(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $胄zau6
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-6} #6
+    ,{.williams} 冑(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $冑zau6
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-7} #7
+    ,{.williams} 紂(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $紂zau6
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-8} #8
+    ,{.williams} 籒(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $籀zau6
+      - ($籒zau6)
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-9} #9
+    ,{.williams} 酎(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $酎zau6
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-10} #10
+    ,{.williams} (1)抽
+    ,
+      <nav class="sideways">
+      ==
+      - $抽cau1
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-11} #11
+    ,{.williams} (1)篘
+    ,
+      <nav class="sideways">
+      ==
+      - $篘cau1
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-12} #12
+    ,{.williams} (1)瘳
+    ,
+      <nav class="sideways">
+      ==
+      - $瘳cau1
+      ==
+      </nav>
+  //
+    ,{#page-26-entry-13} #13
+    ,{.williams} (4)讐(4)仇
+    ,
+      <nav class="sideways">
+      ==
+      - ($仇cau4)
+      - $讎cau4
+      - ($讐cau4)
+      - $酬cau4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

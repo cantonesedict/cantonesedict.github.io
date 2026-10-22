@@ -1590,7 +1590,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咒(3)呪(3)]]
+  - [[Page~26|n69 #2: 咒(3)呪(3)]]
     --
     [[Alternative form of 咒. **See $咒zau3 for the canonical entry.**]]
     --
@@ -1621,7 +1621,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咒(3)呪(3)]]
+  - [[Page~26|n69 #2: 咒(3)呪(3)]]
     ==
     - To imprecate, to rail at, to curse [[Kangxi 呪: 呪詛也]];
     - to pray or recite spells;
@@ -1678,7 +1678,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咮(3)]]
+  - [[Page~26|n69 #3: 咮(3)]]
     ==
     - The bill of birds [[Kangxi: 鳥口也, 與噣同, 咮喙也, 通作注]];
     - to peck with the bill~~, the twittering of birds~~.
@@ -1809,7 +1809,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 晝(3)]]
+  - [[Page~26|n69 #1: 晝(3)]]
     ==
     - A day, daytime, daylight [[Kangxi: 日之出入與夜爲界]];
     - _chau(3) y(e/)(6) pat(7) h(i/)t(8)_
@@ -2074,7 +2074,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 冑(6)]]
+  - [[Page~26|n69 #6: 冑(6)]]
     --
     Often confounded with the last [[胄]].
     --
@@ -2113,7 +2113,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 宙(6)]]
+  - [[Page~26|n69 #4: 宙(6)]]
     ==
     - ~~To contain, as the earth does;~~
     - including all ages, from ancient times till now [[Kangxi: 往古來今謂之宙]].
@@ -2296,7 +2296,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26|n69 籒(6); here normalised to 籀]]
+  - [[Page~26|n69 #8: 籒(6); here normalised to 籀]]
     ==
     - The framer of the seal character,
       _Chau(6) ~~t(')^(a/)i(6)~~ ``t(')(a/)i(3)`` (2)sz'_
@@ -2327,7 +2327,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26|n69 籒(6)]]
+  - [[Page~26|n69 #8: 籒(6)]]
     --
     [[Alternative form of 籀. **See $籀zau6 for the canonical entry.**]]
     --
@@ -2351,7 +2351,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 紂(6)]]
+  - [[Page~26|n69 #7: 紂(6)]]
     ==
     - A crupper [[Kangxi: 馬緧也]];
     - a silk trace;
@@ -2389,7 +2389,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 胄(6)]]
+  - [[Page~26|n69 #5: 胄(6)]]
     ==
     - Descendants, posterity [[Kangxi: 後也]];
     - _chau(6) (2)tsz'_
@@ -2484,7 +2484,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 酎(6)]]
+  - [[Page~26|n69 #9: 酎(6)]]
     ==
     - ~~New, ripe spirits;~~
     - pure strong spirits, thrice distilled [[Kangxi: 三重醇酒也]];

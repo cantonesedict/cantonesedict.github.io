@@ -171,7 +171,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (1)抽]]
+  - [[Page~26|n69 #10: (1)抽]]
     ==
     - To take from, to take out [[Kangxi: 拔也除也]];
     - to take a dividend;
@@ -462,7 +462,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (1)瘳]]
+  - [[Page~26|n69 #12: (1)瘳]]
     ==
     - Convalescent [[Kangxi: 疾病瘉也]];
     - curable;
@@ -630,7 +630,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (1)篘]]
+  - [[Page~26|n69 #11: (1)篘]]
     ==
     - A strainer made of wicker or bamboo for straining spirits [[Kangxi: 酒籠漉取酒也]].
     ==
@@ -1415,7 +1415,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (4)讐(4)仇]]
+  - [[Page~26|n69 #13: (4)讐(4)仇]]
     --
     [[Reading variation. **See $仇sau4 for the canonical entry.**]] [[TODO]]
     --
@@ -2002,7 +2002,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 ::(4)讐~~(4)仇~~::; here normalised to 讎]]
+  - [[Page~26|n69 #13: ::(4)讐~~(4)仇~~::; here normalised to 讎]]
     ==
     - [[...]]; <## TODO: 仇 sau4 "enmity" ##>
     - to verify, to collate with [[Kangxi 讎: 應驗也]];
@@ -2049,7 +2049,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (4)讐(4)仇]]
+  - [[Page~26|n69 #13: (4)讐(4)仇]]
     --
     [[Alternative form of 仇 "enmity", and reading variation. **See $仇sau4 for the canonical entry.**]] [[TODO]]
     --
@@ -2217,7 +2217,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 ::(4)讐~~(4)仇~~::]]
+  - [[Page~26|n69 #13: ::(4)讐~~(4)仇~~::]]
     ==
     - [[...]];
     - used for the next [[酬]] [[Kangxi 讎: 通作酬]];
