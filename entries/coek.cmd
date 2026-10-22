@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 倬(8)]]
+  - [[Page~33|n76 #2: 倬(8)]]
     ==
     - Extensive~~, distant~~;
     - large [[Kangxi: 大也]];
@@ -140,7 +140,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 卓(8)]]
+  - [[Page~33|n76 #1: 卓(8)]]
     ==
     - Firm, stable;
     - lofty [[Kangxi: 高也]] and profound;
@@ -196,7 +196,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33|n76 戳(8)]]
+  - [[Page~33|n76 #5: 戳(8)]]
     ==
     - To stab or spear [[Kangxi: 槍戳也]];
     - a seal used by constables;
@@ -228,7 +228,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33|n76 棹(8); here normalised to 桌]]
+  - [[Page~33|n76 #3: 棹(8); here normalised to 桌]]
     ==
     - A table [[Kangxi 桌: 俗呼几案曰桌]];
     - a stand;
@@ -265,7 +265,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33|n76 棹(8)]]
+  - [[Page~33|n76 #3: 棹(8)]]
     ==
     - [[...]];
     - a kind of tree [[Kangxi: 木名]];
@@ -389,7 +389,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 綽(8)]]
+  - [[Page~33|n76 #4: 綽(8)]]
     ==
     - Large, ample [[Kangxi: 緩也, 綽綽寬也, 綽猶多也]];
     - ~~slow, leisurely;~~

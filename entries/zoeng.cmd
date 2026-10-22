@@ -83,7 +83,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)嫜]]
+  - [[Page~33|n76 #8: (1)嫜]]
     ==
     - A husband's father [[Kangxi: 夫之父母也]];
     - _(1)k(u/) (1)ch(e/)ung_
@@ -238,7 +238,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)張]]
+  - [[Page~33|n76 #6: (1)張]]
     ==
     - To draw a bow [[Kangxi: ::施弓[弦]也::]];
     - to extend, to stretch, to open [[Kangxi: 開也]];
@@ -339,7 +339,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)彰]]
+  - [[Page~33|n76 #9: (1)彰]]
     ==
     - Luminous [[Kangxi: 明也, 著也]];
     - beautiful;
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)慞]]
+  - [[Page~33|n76 #10: (1)慞]]
     ==
     - Alarm;
     - apprehensive;
@@ -410,7 +410,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)樟]]
+  - [[Page~33|n76 #11: (1)樟]]
     ==
     - The camphor _(Laurus camphora)_ [[Kangxi: 豫樟木也 etc.]]_;_
     - _(1)ch(e/)ung muk(9)_
@@ -592,7 +592,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)章]]
+  - [[Page~33|n76 #7: (1)章]]
     ==
     - A piece of music [[Kangxi: 樂竟爲一章]];
     - a chapter, a section [[Kangxi: 篇章]];

@@ -3180,6 +3180,107 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~33|n76
+    ,{#page-33-entry-1} #1
+    ,{.williams} 卓(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $卓coek3
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-2} #2
+    ,{.williams} 倬(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $倬coek3
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-3} #3
+    ,{.williams} 棹(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $桌coek3
+      - $棹coek3
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-4} #4
+    ,{.williams} 綽(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $綽coek3
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-5} #5
+    ,{.williams} 戳(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $戳coek3
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-6} #6
+    ,{.williams} (1)張
+    ,
+      <nav class="sideways">
+      ==
+      - $張zoeng1
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-7} #7
+    ,{.williams} (1)章
+    ,
+      <nav class="sideways">
+      ==
+      - $章zoeng1
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-8} #8
+    ,{.williams} (1)嫜
+    ,
+      <nav class="sideways">
+      ==
+      - $嫜zoeng1
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-9} #9
+    ,{.williams} (1)彰
+    ,
+      <nav class="sideways">
+      ==
+      - $彰zoeng1
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-10} #10
+    ,{.williams} (1)慞
+    ,
+      <nav class="sideways">
+      ==
+      - $慞zoeng1
+      ==
+      </nav>
+  //
+    ,{#page-33-entry-11} #11
+    ,{.williams} (1)樟
+    ,
+      <nav class="sideways">
+      ==
+      - $樟zoeng1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
