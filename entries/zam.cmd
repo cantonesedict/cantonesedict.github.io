@@ -71,7 +71,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)斟]]
+  - [[Page~14|n57 #9: (1)斟]]
     ==
     - To pour from or into [[Kangxi: 斟益也, 言斟酌而益之]];
     - to lade out, to lighten;
@@ -127,7 +127,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 (1)椹]]
+  - [[Page~14|n57 #10: (1)椹]]
     <##
     --
     TODO: Used for _sham``(6)``_ [[sam6]] 葚, the mulberry seed.
@@ -176,7 +176,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)砧(1)碪]]
+  - [[Page~14|n57 #8: (1)砧(1)碪]]
     ==
     - A stone to beat clothes on [[Kangxi 砧: 擣衣石也]];
     - an anvil [[Kangxi 椹: 鐵椹斫木櫍也]];
@@ -220,7 +220,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)砧(1)碪]]
+  - [[Page~14|n57 #8: (1)砧(1)碪]]
     --
     [[Alternative form of 砧. **See $砧zam1 for the canonical entry.**]]
     --
@@ -285,7 +285,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)箴]]
+  - [[Page~14|n57 #7: (1)箴]]
     --
     [[...]]
     --
@@ -338,7 +338,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)針(1)鍼]]
+  - [[Page~14|n57 #6: (1)針(1)鍼]]
     ==
     - A needle [[Kangxi 鍼: 所以縫布帛之錐也, 或作箴亦作針]];
     - a cauterizing probe;
@@ -367,7 +367,7 @@ W
         [[man1 zam1 蚊針]],
         a musquito's sting.
     ==
-  - [[Page~14|n57 (1)箴]]
+  - [[Page~14|n57 #7: (1)箴]]
     --
     Used for the last [[針]].
     --
@@ -399,7 +399,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)針(1)鍼]]
+  - [[Page~14|n57 #6: (1)針(1)鍼]]
     --
     [[Alternative form of 針. **See $針zam1 for the canonical entry.**]]
     --
@@ -478,7 +478,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (2)枕]]
+  - [[Page~14|n57 #11: (2)枕]]
     ==
     - A pillow [[Kangxi: 臥薦首者]];
     - ~~a stake;~~

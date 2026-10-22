@@ -1312,6 +1312,111 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~14|n57
+    ,{#page-14-entry-1} #1
+    ,{.williams} 茦(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $茦caak3
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-2} #2
+    ,{.williams} 册(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $冊caak3
+      - ($册caak3)
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-3} #3
+    ,{.williams} 栅(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $柵caak3
+      - ($栅caak3)
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-4} #4
+    ,{.williams} 拆(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $拆caak3
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-5} #5
+    ,{.williams} 坼(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $坼caak3
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-6} #6
+    ,{.williams} (1)針(1)鍼
+    ,
+      <nav class="sideways">
+      ==
+      - $針zam1
+      - ($鍼zam1)
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-7} #7
+    ,{.williams} (1)箴
+    ,
+      <nav class="sideways">
+      ==
+      - $箴zam1
+      - $針zam1
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-8} #8
+    ,{.williams} (1)砧(1)碪
+    ,
+      <nav class="sideways">
+      ==
+      - $砧zam1
+      - ($碪zam1)
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-9} #9
+    ,{.williams} (1)斟
+    ,
+      <nav class="sideways">
+      ==
+      - $斟zam1
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-10} #10
+    ,{.williams} (1)椹
+    ,
+      <nav class="sideways">
+      ==
+      - ($椹zam1)
+      ==
+      </nav>
+  //
+    ,{#page-14-entry-11} #11
+    ,{.williams} (2)枕
+    ,
+      <nav class="sideways">
+      ==
+      - $枕zam2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

@@ -133,7 +133,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 册(8); here normalised to 冊]]
+  - [[Page~14|n57 #2: 册(8); here normalised to 冊]]
     ==
     - A slip;
     - an inventory, a register, a list;
@@ -175,7 +175,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 册(8)]]
+  - [[Page~14|n57 #2: 册(8)]]
     --
     [[Alternative form of 冊. **See $冊caak3 for the canonical entry.**]]
     --
@@ -197,7 +197,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 坼(8)]]
+  - [[Page~14|n57 #5: 坼(8)]]
     ==
     - To rive, to crack [[Kangxi: 裂也]];
     - to open, to burst open, as buds [[Kangxi: 植物房初開也]];
@@ -264,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``::]]
+  - [[Page~14|n57 #4: ::~~拆(9)~~``拆(8)``::]]
     ==
     - To break up or open [[Kangxi: 裂也開也]];
     - to split, to unrip;
@@ -327,7 +327,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 栅(8); here normalised to 柵]]
+  - [[Page~14|n57 #3: 栅(8); here normalised to 柵]]
     ==
     - Posts of a stockade [[Kangxi 柵: 編樹木也, 豎木以立柵也]];
     - a railing;
@@ -356,7 +356,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 栅(8)]]
+  - [[Page~14|n57 #3: 栅(8)]]
     --
     [[Alternative form of 柵. **See $柵caak3 for the canonical entry.**]]
     --
@@ -431,7 +431,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 茦(8)]]
+  - [[Page~14|n57 #1: 茦(8)]]
     ==
     - A thorn, a spike, a prickle [[Kangxi: 莿也, 茦刺]];
     - to prick, to pierce with a thorn.
