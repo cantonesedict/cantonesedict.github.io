@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (1)瞋]]
+  - [[Page~18|n61 #1: (1)瞋]]
     ==
     - To stare at angrily, to glare at [[Kangxi: 張目也, 怒也]];
     - _(1)ch(')an n(o\)(6) (4)m(o\) t(o\)(6)_
@@ -343,7 +343,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)哂]]
+  - [[Page~18|n61 #7: (2)哂]]
     ==
     - To smile, with slight contempt [[Kangxi: 笑也, 微笑]];
     - to look pleased;
@@ -382,7 +382,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)畛]]
+  - [[Page~18|n61 #8: (2)畛]]
     ==
     - ~~To~~ ``Roads that`` divide fields [[Kangxi: 井田閒陌也]];
     - to come before the gods ``and pray unto them`` [[Kangxi: 致也]];
@@ -425,7 +425,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)疹(2)疢]]
+  - [[Page~18|n61 #6: (2)疹(2)疢]]
     --
     [[...]]
     --
@@ -472,7 +472,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 ::(2)疹~~(2)疢~~::]]
+  - [[Page~18|n61 #6: ::(2)疹~~(2)疢~~::]]
     ==
     - Pustules of any kind [[Kangxi 疹: 疹診也有結氣可得診見也]];
     - eruptions, pimples [[Kangxi 疹: 癮疹皮外小起也]];
@@ -509,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)矧]]
+  - [[Page~18|n61 #5: (2)矧]]
     ==
     - To stretch;
     - still more, how much more [[Kangxi: 况也]];
@@ -557,7 +557,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)紾]]
+  - [[Page~18|n61 #9: (2)紾]]
     ==
     - To bind with cords;
     - to turn``,`` to twist [[Kangxi: 轉也]];
@@ -600,7 +600,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)縝]]
+  - [[Page~18|n61 #13: (2)縝]]
     ==
     - Filaments from a coccoon [[Kangxi: 縝緻也]];
     - a thread [[Kangxi: 縝纑縷也]];
@@ -635,7 +635,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)袗]]
+  - [[Page~18|n61 #10: (2)袗]]
     ==
     - Single thin garments [[Kangxi: 單也]], black silk worn in summer [[Kangxi: ::[玄]服::]];
     - embroidered garments [[Kangxi: 畫衣]];
@@ -679,7 +679,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)診]]
+  - [[Page~18|n61 #11: (2)診]]
     ==
     - To examine, to look at [[Kangxi: 視也]];
     - to try, to verify [[Kangxi: 驗也]];
@@ -721,7 +721,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)軫]]
+  - [[Page~18|n61 #12: (2)軫]]
     ==
     - The boards of a carriage [[Kangxi: 車後橫木也]];
     - the cross board;
@@ -770,7 +770,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)鬒]]
+  - [[Page~18|n61 #14: (2)鬒]]
     ==
     - Bushy, black hair [[Kangxi: 稠髮也, 黑髮也]];
     - a fine head of black hair.
@@ -858,7 +858,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 襯(3)]]
+  - [[Page~18|n61 #15: 襯(3)]]
     ==
     - Inner garments [[Kangxi: 近身衣也]];
     - to help, to assist;
@@ -1077,7 +1077,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (4)塵]]
+  - [[Page~18|n61 #4: (4)塵]]
     ==
     - Dust, small particles [[Kangxi: 埃也]];
     - effluvia, atoms, molecules;
@@ -1155,7 +1155,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~18|n61 (4)蔯]]
+  - [[Page~18|n61 #3: (4)蔯]]
     ==
     - A medicinal herb [[Kangxi: 茵蔯也]], good for rheumatism;
     - _(1)yan (4)ch(')an_
@@ -1187,7 +1187,7 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (4)陳]]
+  - [[Page~18|n61 #2: (4)陳]]
     ==
     - To arrange, to set in order, to spread out [[Kangxi: 列也布也]];
     - to say, to reply;

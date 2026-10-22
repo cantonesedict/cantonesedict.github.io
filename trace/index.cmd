@@ -1678,6 +1678,143 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=15} Page~18|n61
+    ,{#page-18-entry-1} #1
+    ,{.williams} (1)瞋
+    ,
+      <nav class="sideways">
+      ==
+      - $瞋can1
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-2} #2
+    ,{.williams} (4)陳
+    ,
+      <nav class="sideways">
+      ==
+      - $陳can4
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-3} #3
+    ,{.williams} (4)蔯
+    ,
+      <nav class="sideways">
+      ==
+      - $蔯can4
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-4} #4
+    ,{.williams} (4)塵
+    ,
+      <nav class="sideways">
+      ==
+      - $塵can4
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-5} #5
+    ,{.williams} (2)矧
+    ,
+      <nav class="sideways">
+      ==
+      - $矧can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-6} #6
+    ,{.williams} (2)疹(2)疢
+    ,
+      <nav class="sideways">
+      ==
+      - $疢can2
+      - $疹can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-7} #7
+    ,{.williams} (2)哂
+    ,
+      <nav class="sideways">
+      ==
+      - $哂can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-8} #8
+    ,{.williams} (2)畛
+    ,
+      <nav class="sideways">
+      ==
+      - $畛can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-9} #9
+    ,{.williams} (2)紾
+    ,
+      <nav class="sideways">
+      ==
+      - $紾can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-10} #10
+    ,{.williams} (2)袗
+    ,
+      <nav class="sideways">
+      ==
+      - $袗can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-11} #11
+    ,{.williams} (2)診
+    ,
+      <nav class="sideways">
+      ==
+      - $診can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-12} #12
+    ,{.williams} (2)軫
+    ,
+      <nav class="sideways">
+      ==
+      - $軫can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-13} #13
+    ,{.williams} (2)縝
+    ,
+      <nav class="sideways">
+      ==
+      - $縝can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-14} #14
+    ,{.williams} (2)鬒
+    ,
+      <nav class="sideways">
+      ==
+      - $鬒can2
+      ==
+      </nav>
+  //
+    ,{#page-18-entry-15} #15
+    ,{.williams} 襯(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $襯can3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
