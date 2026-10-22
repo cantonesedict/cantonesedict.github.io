@@ -185,7 +185,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    ,{r=12} Page~3
+    ,{r=13} Page~3
     ,{#page-3-entry-1} #1
     ,{.williams} 隘(3)
     ,
@@ -248,6 +248,15 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       - $隘aai3
       - $阨ak1
+      ==
+      </nav>
+  //
+    ,{#page-3-entry-8} #8
+    ,{.williams} 扼(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $扼ak1
       ==
       </nav>
   //

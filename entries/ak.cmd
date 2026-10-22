@@ -41,8 +41,6 @@ S
   ==
 $$
 
-<## TODO: Page~3 #8: 扼(7) MISSED ##>
-
 
 ##{#1 .williams} Ak(7) [[ak1 高陰入]]
 
@@ -52,6 +50,7 @@ $$
 - $厄1
 - $啞1
 - $幄1
+- $扼1
 - $握1
 - $渥1
 - $阨1
@@ -195,6 +194,52 @@ L
     - (_noun-like_) tent, canopy
     ==
   ====
+$$
+
+### 扼1 | _Ak(7)_ [[ak1]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+627C
+A
+  ==
+  - 㧖
+  - 搤
+  - 搹
+  ==
+V
+  ==
+  - aak1 (longer syllable)
+  - ngak1 (hypercorrected initial)
+  ==
+F
+  ==
+  - (F2.33 扼) 持也抑也
+  ==
+W
+  ====
+  - [[Page~3 #8: 扼(7)]]
+    ==
+    - To seize or hold with the hand [[Kangxi 㧖: 把也]];
+    - to gripe, to clutch;
+    - the grasp;
+    - to pull;
+    - _ak(7) (2)(u/)n ~~(2)k(a/)u~~ ``(2)kau`` (1)ch(i/)_
+        [[ak1 wun2 gau2 zi1 扼腕久之]],
+        held him by the wrist a long time.
+    ==
+  ====
+C
+  ==
+  - Williams' 扼腕久之: Corrected _(2)k(a/)u_ (gaau2) to _(2)kau_ (gau2).
+  ==
+P
+  ++
+  1. To control.
+  1. To suppress (Kangxi 㧖: 抑也), to block.
+  ++
 $$
 
 ### 握1 | _Ak(7)_ [[ak1]]
