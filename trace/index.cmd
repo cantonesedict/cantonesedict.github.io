@@ -3870,6 +3870,117 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~9*
+    ,{#page-9*-entry-1} #1
+    ,{.williams} 緻(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $緻zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-2} #2
+    ,{.williams} 輊(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $輊zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-3} #3
+    ,{.williams} 觶(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $觶zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-4} #4
+    ,{.williams} 摯(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $摯zi3
+      - $贄zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-5} #5
+    ,{.williams} 贄(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $贄zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-6} #6
+    ,{.williams} {？=⿱⿰辛丸鳥}(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $鷙zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-7} #7
+    ,{.williams} 質(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $質zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-8} #8
+    ,{.williams} 躓(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $躓zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-9} #9
+    ,{.williams} 智(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $智zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-10} #10
+    ,{.williams} 置(3)寘(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($寘zi3)
+      - $置zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-11} #11
+    ,{.williams} 疐(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $疐zi3
+      ==
+      </nav>
+  //
+    ,{#page-9*-entry-12} #12
+    ,{.williams} 治(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $治ci4, $治zi6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

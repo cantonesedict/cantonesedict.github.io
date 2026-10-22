@@ -3824,7 +3824,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 置(3)寘(3)]]
+  - [[Page~9* #10: 置(3)寘(3)]]
     --
     [[Alternative form of 置. **See $置zi3 for the canonical entry.**]]
     --
@@ -3986,7 +3986,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 摯(3)]]
+  - [[Page~9* #4: 摯(3)]]
     ==
     - To seize with the hand, to grasp [[Kangxi: 握持也]];
     - to arrive at, to reach to [[Kangxi: 一曰至也, 臻也]];
@@ -4050,7 +4050,7 @@ W
     - [[...]], wisdom;
     - [[...]].
     ==
-  - [[Page~9* 智(3)]]
+  - [[Page~9* #9: 智(3)]]
     ==
     - Wisdom, understanding [[Kangxi: 智知也無所不知也]]~~, talent~~;
     - knowledge;
@@ -4163,7 +4163,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 疐(3)]]
+  - [[Page~9* #11: 疐(3)]]
     ==
     - Hindered, embarrassed, prevented from acting or advancing [[Kangxi: 頓也, 礙不行也]];
     - ~~to slink away, as a dog does.~~
@@ -4266,7 +4266,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 緻(3)]]
+  - [[Page~9* #1: 緻(3)]]
     ==
     - To mend clothes [[Kangxi: 補也, 縫補敝衣也]];
     - close, fine, as cloth [[Kangxi: 密也]];
@@ -4313,7 +4313,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 置(3)寘(3)]]
+  - [[Page~9* #10: 置(3)寘(3)]]
     ==
     - To make firm, to establish [[Kangxi 置: 立也, 設也]], to place;
     - to appoint;
@@ -4668,7 +4668,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 觶(3)]]
+  - [[Page~9* #3: 觶(3)]]
     ==
     - A goblet or cup [[Kangxi: 鄕飮酒角也, 酒觴也]] holding three _(1)shing_ [[sing1 升]] or gills [[Kangxi: 三升曰觶觶適也]]^;
     - a cup;
@@ -4790,7 +4790,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 質(3)]]
+  - [[Page~9* #7: 質(3)]]
     ==
     - A pledge, a hostage;
     - to pledge, to guaranty [[Kangxi: 以物相贅]];
@@ -4842,7 +4842,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 摯(3)]]
+  - [[Page~9* #4: 摯(3)]]
     ==
     - [[...]];
     - to present to;
@@ -4850,7 +4850,7 @@ W
     - used for the next [[贄]] [[Kangxi 摯: 執物以爲相見之禮也與贄質通]];
     - [[...]].
     ==
-  - [[Page~9* 贄(3)]]
+  - [[Page~9* #5: 贄(3)]]
     ==
     - A present to make way for one, given at an audience or first interview,
       or when entering school;
@@ -4891,7 +4891,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 躓(3)]]
+  - [[Page~9* #8: 躓(3)]]
     ==
     - To stumble [[Kangxi: 跲也]];
     - to trip and fall down;
@@ -4926,7 +4926,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 輊(3)]]
+  - [[Page~9* #2: 輊(3)]]
     ==
     - A carriage with a front lower than the back,
       or turning down, from the lading [[Kangxi: 低也, 車前重也]].
@@ -4996,7 +4996,7 @@ F
   ==
 W
   ====
-  - [[Page~9* ::~~{？=⿱⿰辛丸鳥}~~``鷙``(3)::]]
+  - [[Page~9* #6: ::~~{？=⿱⿰辛丸鳥}~~``鷙``(3)::]]
     ==
     - Birds of prey, accipitrine birds [[Kangxi 鷙: 擊殺鳥也, 猛鳥也]];
     - violent, ruthless, hawklike [[Kangxi 鷙: 又凡鳥之勇獸之猛者皆曰鷙]];
@@ -5671,7 +5671,7 @@ F
   ==
 W
   ====
-  - [[Page~9* 治(6)]]
+  - [[Page~9* #12: 治(6)]]
     ==
     - [[...]];
     - to govern, to rule well, to manage [[Kangxi: 亦理也]];

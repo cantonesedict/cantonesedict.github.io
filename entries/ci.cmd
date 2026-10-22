@@ -2741,7 +2741,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~9* 治(6) _Ch(i/)(6)_ (zi6); here corrected to _(4)Ch(')(i/)_ (ci4)]]
+  - [[Page~9* #12: 治(6) _Ch(i/)(6)_ (zi6); here corrected to _(4)Ch(')(i/)_ (ci4)]]
     ==
     - Name of a stream [[Kangxi: 水名]] in the east of Sh(a/)ntung [[山東]];
     - [[...]].
