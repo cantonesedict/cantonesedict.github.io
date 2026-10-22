@@ -2832,6 +2832,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~29|n72
+    ,{#page-29-entry-1} #1
+    ,{.williams} (2)爪
+    ,
+      <nav class="sideways">
+      ==
+      - $抓zaau2
+      - $爪zaau2
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-2} #2
+    ,{.williams} (2)抓
+    ,
+      <nav class="sideways">
+      ==
+      - $抓zaau2
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-3} #3
+    ,{.williams} (2)找
+    ,
+      <nav class="sideways">
+      ==
+      - $找zaau2
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-4} #4
+    ,{.williams} {𦋇=⿱罓卓}(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $罩zaau3
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-5} #5
+    ,{.williams} 笊(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $笊zaau3
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-6} #6
+    ,{.williams} {𦻐=⿱艹焯}(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $㷹zaau3
+      - (${𦻐=⿱艹焯}zaau3)
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-7} #7
+    ,{.williams} 踔(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $踔coek3, $踔zaau3
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-8} #8
+    ,{.williams} 櫂(3)棹(3)掉(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $棹zaau6
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-9} #9
+    ,{.williams} (1)抄
+    ,
+      <nav class="sideways">
+      ==
+      - $抄caau1
+      ==
+      </nav>
+  //
+    ,{#page-29-entry-10} #10
+    ,{.williams} (4)巢
+    ,
+      <nav class="sideways">
+      ==
+      - $巢caau4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

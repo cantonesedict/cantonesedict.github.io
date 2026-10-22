@@ -121,7 +121,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 (1)抄]]
+  - [[Page~29|n72 #9: (1)抄]]
     ==
     - To take, to seize [[Kangxi: 略取也]];
     - to search;
@@ -472,7 +472,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 (4)巢]]
+  - [[Page~29|n72 #10: (4)巢]]
     ==
     - A nest on a tree [[Kangxi: 鳥在木上曰巢 etc.]];
     - a den, a retreat;

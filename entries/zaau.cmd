@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 (2)找]]
+  - [[Page~29|n72 #3: (2)找]]
     ==
     - To seek;
     - to make up the deficiency, to supply what is wanted [[Kangxi: 俗音爪補不足曰找]];
@@ -287,7 +287,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 (2)爪; here normalised to 抓]]
+  - [[Page~29|n72 #1: (2)爪; here normalised to 抓]]
     ==
     - [[...]];
     - to scratch, to claw;
@@ -304,7 +304,7 @@ W
         to scratch;
     - [[...]].
     ==
-  - [[Page~29|n72 (2)抓]]
+  - [[Page~29|n72 #2: (2)抓]]
     --
     Interchanged with the last [[爪]].
     --
@@ -343,7 +343,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 (2)爪]]
+  - [[Page~29|n72 #1: (2)爪]]
     ==
     - Claws, talons, nails [[Kangxi: 覆手曰爪, 手足甲也]];
     - [[...]];
@@ -545,7 +545,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 {𦻐=⿱艹焯}(3); here normalised to 㷹]]
+  - [[Page~29|n72 #6: {𦻐=⿱艹焯}(3); here normalised to 㷹]]
     ==
     - Blazing fire [[Kangxi 㷹: 火急煎貌]];
     - to fry;
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 笊(3)]]
+  - [[Page~29|n72 #5: 笊(3)]]
     ==
     - A skimmer made of bamboo or iron wire [[Kangxi: 笊篱竹器]];
     - nests in caves [[Kangxi: 鳥居穴曰笊居樹曰巢]];
@@ -612,7 +612,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
+  - [[Page~29|n72 #4: ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
     ==
     - A net, or basket to catch mud fish by covering them [[Kangxi 罩: 捕魚器也]];
     - to catch or cover over;
@@ -660,7 +660,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 {𦻐=⿱艹焯}(3)]]
+  - [[Page~29|n72 #6: {𦻐=⿱艹焯}(3)]]
     --
     [[Alternative form of 㷹. **See $㷹zaau3 for the canonical entry.**]]
     --
@@ -683,7 +683,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 踔(3)]]
+  - [[Page~29|n72 #7: 踔(3)]]
     ==
     - To tread on [[Kangxi: 踶也]];
     - to stretch ahead in running [[Kangxi: 踔走也, 踔踰也, 踔猶越也]];
@@ -755,7 +755,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
+  - [[Page~29|n72 #8: 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
     ==
     - To row [[Kangxi 櫂: 言使舟櫂進也]];
     - to shoot an arrow;
