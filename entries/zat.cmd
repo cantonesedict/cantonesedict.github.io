@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 只(7)]]
+  - [[Page~23|n66 #7: 只(7)]]
     --
     [[Reading variation. **See $只zi2 for the canonical entry.**]]
     --
@@ -94,7 +94,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 枳(7)]]
+  - [[Page~23|n66 #8: 枳(7)]]
     --
     A colloquial word.
     --
@@ -145,7 +145,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 質(7)]]
+  - [[Page~23|n66 #4: 質(7)]]
     ==
     - Substance, essence, nature, the material of [[Kangxi: 質猶性也]];
     - plain, unadorned [[Kangxi: 樸也, 質猶本也]];
@@ -222,7 +222,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 郅(7)]]
+  - [[Page~23|n66 #3: 郅(7)]]
     --
     [[Reading variation. **See $郅zat6 for the canonical entry.**]]
     --
@@ -248,7 +248,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 鑕(7)]]
+  - [[Page~23|n66 #5: 鑕(7)]]
     ==
     - An ax, a hatchet [[Kangxi: 斧也]];
     - an anvil or iron block [[Kangxi: 鐵鑕砧, 斧鑕椹也]], used by smiths and others.
@@ -269,7 +269,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 ::~~{？=⿰阝⿱步馬}~~``騭``(7)隲(7)::]]
+  - [[Page~23|n66 #6: {𨽥=⿰阝⿱步馬}(7)隲(7)]]
     --
     [[Alternative form of 騭. **See $騭zat1 for the canonical entry.**]]
     --
@@ -295,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 {𨽥=⿰阝⿱步馬}(7)隲(7); here normalised to 騭]]
+  - [[Page~23|n66 #6: {𨽥=⿰阝⿱步馬}(7)隲(7); here normalised to 騭]]
     ==
     - A stallion [[Kangxi 騭: 牡馬也, 牡曰騭]];
     - to mount;
@@ -668,7 +668,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 窒(9)]]
+  - [[Page~23|n66 #9: 窒(9)]]
     ==
     - To close [[Kangxi: 塞也]], to stop up the mouth of;
     - to hamper~~,~~``;``
@@ -847,7 +847,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 郅(7) _Chat(7)_ (zat1); here normalised to _Chat(9)_ (zat6)]]
+  - [[Page~23|n66 #3: 郅(7) _Chat(7)_ (zat1); here normalised to _Chat(9)_ (zat6)]]
     ==
     - To ascend, to go up [[Kangxi: 登也]], as a hill;
     - flourishing, as an age;

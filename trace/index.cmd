@@ -2197,6 +2197,90 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~23|n66
+    ,{#page-23-entry-1} #1
+    ,{.williams} 揷(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $插caap3
+      - ($揷caap3)
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-2} #2
+    ,{.williams} 扱(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $扱caap3
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-3} #3
+    ,{.williams} 郅(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($郅zat1), $郅zat6
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-4} #4
+    ,{.williams} 質(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $質zat1
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-5} #5
+    ,{.williams} 鑕(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $鑕zat1
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-6} #6
+    ,{.williams} {𨽥=⿰阝⿱步馬}(7)隲(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($隲zat1)
+      - $騭zat1
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-7} #7
+    ,{.williams} 只(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($只zat1), $只zi2
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-8} #8
+    ,{.williams} 枳(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $枳zat1
+      ==
+      </nav>
+  //
+    ,{#page-23-entry-9} #9
+    ,{.williams} 窒(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $窒zat6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

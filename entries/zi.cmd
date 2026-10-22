@@ -2097,7 +2097,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 只(7) _Chat(7)_ (zat1)]]
+  - [[Page~23|n66 #7: 只(7) _Chat(7)_ (zat1)]]
     ==
     - Only, merely;
     - but, however, yet;

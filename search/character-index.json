@@ -1640,7 +1640,7 @@
 "caap3":{
 "isCanonical":true,
 "williams":"ch(')(a/)p(8)",
-"text":"U+6271 (F2.66 挿) 以手刺人 (F2.66 扱) 同上 (Page 23|n66 扱) Wrongly used for the last (揷). To take, to receive (Kangxi: 收也, 取也獲也); to raise (Kangxi: 引也舉也); to curtsey with the hands bowed to the ground (Kangxi: 拜手至地也); to tuck up the skirts (Kangxi: 扱衽曰襭 etc.). Fan Wan entry: Corrected 剌 to 刺. 【扱】 (tsrheap) (_verb-like_) to collect (_verb-like_) to tuck"
+"text":"U+6271 (F2.66 挿) 以手刺人 (F2.66 扱) 同上 (Page 23|n66 #2: 扱) Wrongly used for the last (揷). To take, to receive (Kangxi: 收也, 取也獲也); to raise (Kangxi: 引也舉也); to curtsey with the hands bowed to the ground (Kangxi: 拜手至地也); to tuck up the skirts (Kangxi: 扱衽曰襭 etc.). Fan Wan entry: Corrected 剌 to 刺. 【扱】 (tsrheap) (_verb-like_) to collect (_verb-like_) to tuck"
 }
 },
 "挿":{
@@ -1654,14 +1654,14 @@
 "caap3":{
 "isCanonical":true,
 "williams":"ch(')(a/)p(8)",
-"text":"U+63D2 挿 揷 (F2.66 挿) 以手刺人 (F2.66 扱) 同上 (Page 23|n66 揷; here normalised to 插) To insert, to pierce, to set in, to stick into (Kangxi 插: 刺肉也, 刺入也); to tuck in, to thrust into or through; to transplant; to set in a socket; to meddle, to interfere in; an iron pointed pole used to carry sheaves (Kangxi 插: 插者擔也 etc.), or pry up clods, for which 鍤 is also used (Kangxi 插: 與鍤同刺土器也); _ch'ap yeung_ (caap3 joeng1 插秧), to set out rice shoots; _ch'ap tsui_ (caap3 zeoi2 插嘴), to interrupt (in talking); _ch'ap yik nan fi_ (caap3 jik6 naan4 fei1 插翼難飛) he can not fly away; _ch'ap tsong_ (caap3 zong1 插贓), to implicate one by leaving something in his house; _ch'ap piu_ (caap3 biu1 插標), to stick on labels; _ch'ap shiu_ (caap3 siu1 插燒), a stuffing put into roast pigs; a concubine's child; _shi ch'ap_ (si4 caap3 匙插) a narrow purse; _ch'ap shau lok hu_ (caap3 sau2 lok6 heoi3 插手落去) to meddle in officiously; _pat t'oi pat ch'ap_ (baat3 toi4 baat3 caap3 八擡八插) eight bearers and eight outriders; _ch'ap i yau ying_ (caap3 ji5 jau4 jing4 插耳遊營), to stick flags in the ears when whipping a thief. Fan Wan entry: Corrected 剌 to 刺. 【插】 (tsrheap) (_verb-like_) to insert 【插】 (caap3) To criticise. 【插贓嫁禍】 (caap3 zong1 gaa3 wo6) To plant evidence and shift blame (onto another). (Literally, \"insert loot and transfer disaster\".)"
+"text":"U+63D2 挿 揷 (F2.66 挿) 以手刺人 (F2.66 扱) 同上 (Page 23|n66 #1: 揷; here normalised to 插) To insert, to pierce, to set in, to stick into (Kangxi 插: 刺肉也, 刺入也); to tuck in, to thrust into or through; to transplant; to set in a socket; to meddle, to interfere in; an iron pointed pole used to carry sheaves (Kangxi 插: 插者擔也 etc.), or pry up clods, for which 鍤 is also used (Kangxi 插: 與鍤同刺土器也); _ch'ap yeung_ (caap3 joeng1 插秧), to set out rice shoots; _ch'ap tsui_ (caap3 zeoi2 插嘴), to interrupt (in talking); _ch'ap yik nan fi_ (caap3 jik6 naan4 fei1 插翼難飛) he can not fly away; _ch'ap tsong_ (caap3 zong1 插贓), to implicate one by leaving something in his house; _ch'ap piu_ (caap3 biu1 插標), to stick on labels; _ch'ap shiu_ (caap3 siu1 插燒), a stuffing put into roast pigs; a concubine's child; _shi ch'ap_ (si4 caap3 匙插) a narrow purse; _ch'ap shau lok hu_ (caap3 sau2 lok6 heoi3 插手落去) to meddle in officiously; _pat t'oi pat ch'ap_ (baat3 toi4 baat3 caap3 八擡八插) eight bearers and eight outriders; _ch'ap i yau ying_ (caap3 ji5 jau4 jing4 插耳遊營), to stick flags in the ears when whipping a thief. Fan Wan entry: Corrected 剌 to 刺. 【插】 (tsrheap) (_verb-like_) to insert 【插】 (caap3) To criticise. 【插贓嫁禍】 (caap3 zong1 gaa3 wo6) To plant evidence and shift blame (onto another). (Literally, \"insert loot and transfer disaster\".)"
 }
 },
 "揷":{
 "caap3":{
 "isCanonical":false,
 "williams":"ch(')(a/)p(8)",
-"text":"U+63F7 (Page 23|n66 揷)"
+"text":"U+63F7 (Page 23|n66 #1: 揷)"
 }
 },
 "刷":{
@@ -13041,19 +13041,19 @@
 "zat1":{
 "isCanonical":false,
 "williams":"chat(7)",
-"text":"U+53EA (F1.86 只) 專也又語詞 (Page 23|n66 只)"
+"text":"U+53EA (F1.86 只) 專也又語詞 (Page 23|n66 #7: 只)"
 },
 "zi2":{
 "isCanonical":true,
 "williams":"(2)ch(i/)",
-"text":"U+53EA 止 (for \"only\" senses) 祇 (for \"only\" senses) 祗 (for \"only\" senses) 衹 (for \"only\" senses) 軹 (for particle sense) zat1 (per 《五音集韻》之日切) (F1.39 止) 息也定也但也 (F1.39 祗) 敬也但也又音其 (F1.39 只) 樂只君子 (F1.86 只 _Chat_ (zat1)) 專也又語詞 (Page 23|n66 只 _Chat_ (zat1)) Only, merely; but, however, yet; _chat ho kom che_ (zat1 hou2 gam2 ze3 只好噉嗻), this way alone; _chat tak_ (zat1 dak1 只得) no otherwise, only could. Also read _chi_ (zi2), in the same senses; and only _chi_ (zi2), when it is used as a final particle (Kangxi: 語已詞也). (Page 39|n82 止; here normalised to 只) only, but, however; _chi shi_ (zi2 si6 只是) only is; _'m chi kom to_ (m4 zi2 gam3 do1 唔只咁多), not so few; _chi tak kom to_ (zi2 dak1 gam3 do1 只得咁多), only so many; (Page 40|n83 祗; here normalised to 只) only, but merely, however, yet; _chi ts'z'_ (zi2 ci2 只此) only this; _chi yau yat yeung_ (zi2 jau5 jat1 joeng6 只有一樣) only one sort; (Page 152 祇; here normalised to 只 via 祗) Often confounded with and used for _chi_ (zi2) 祗. The sense in the example 樂只君子 given by Fan Wan for 只 is classical speech-assist. Williams' 只好噉啫: Corrected _che_ (ze2) to _che_ (ze3). In classical terms, the reading _chat_ (zat1) for 只 is vulgar. 《五音集韻》 has the reading 之日切, with the note 本之爾切本無質音今讀若質俗所音増. In modern terms, the reading _chat_ (zat1) is obsolete. 【只】 (tsyeX) (_speech-assist_)"
+"text":"U+53EA 止 (for \"only\" senses) 祇 (for \"only\" senses) 祗 (for \"only\" senses) 衹 (for \"only\" senses) 軹 (for particle sense) zat1 (per 《五音集韻》之日切) (F1.39 止) 息也定也但也 (F1.39 祗) 敬也但也又音其 (F1.39 只) 樂只君子 (F1.86 只 _Chat_ (zat1)) 專也又語詞 (Page 23|n66 #7: 只 _Chat_ (zat1)) Only, merely; but, however, yet; _chat ho kom che_ (zat1 hou2 gam2 ze3 只好噉嗻), this way alone; _chat tak_ (zat1 dak1 只得) no otherwise, only could. Also read _chi_ (zi2), in the same senses; and only _chi_ (zi2), when it is used as a final particle (Kangxi: 語已詞也). (Page 39|n82 止; here normalised to 只) only, but, however; _chi shi_ (zi2 si6 只是) only is; _'m chi kom to_ (m4 zi2 gam3 do1 唔只咁多), not so few; _chi tak kom to_ (zi2 dak1 gam3 do1 只得咁多), only so many; (Page 40|n83 祗; here normalised to 只) only, but merely, however, yet; _chi ts'z'_ (zi2 ci2 只此) only this; _chi yau yat yeung_ (zi2 jau5 jat1 joeng6 只有一樣) only one sort; (Page 152 祇; here normalised to 只 via 祗) Often confounded with and used for _chi_ (zi2) 祗. The sense in the example 樂只君子 given by Fan Wan for 只 is classical speech-assist. Williams' 只好噉啫: Corrected _che_ (ze2) to _che_ (ze3). In classical terms, the reading _chat_ (zat1) for 只 is vulgar. 《五音集韻》 has the reading 之日切, with the note 本之爾切本無質音今讀若質俗所音増. In modern terms, the reading _chat_ (zat1) is obsolete. 【只】 (tsyeX) (_speech-assist_)"
 }
 },
 "枳":{
 "zat1":{
 "isCanonical":true,
 "williams":"chat(7)",
-"text":"U+67B3 zeot1 (alternative for noun sense) (Page 23|n66 枳) A colloquial word. A cork, a plug, a stopple; to cork, to fasten a stopper; _tsau chat_ (zau2 zat1 酒枳) a bottle cork; _chat shat k'u_ (zat1 sat6 keoi5 枳實佢), cork it tightly. 【枳】 (zat1) A cork or plug. To block or stop using a cork or plug. The spelling 枳 is arbitrary (but well established)."
+"text":"U+67B3 zeot1 (alternative for noun sense) (Page 23|n66 #8: 枳) A colloquial word. A cork, a plug, a stopple; to cork, to fasten a stopper; _tsau chat_ (zau2 zat1 酒枳) a bottle cork; _chat shat k'u_ (zat1 sat6 keoi5 枳實佢), cork it tightly. 【枳】 (zat1) A cork or plug. To block or stop using a cork or plug. The spelling 枳 is arbitrary (but well established)."
 },
 "zi2":{
 "isCanonical":true,
@@ -13065,7 +13065,7 @@
 "zat1":{
 "isCanonical":true,
 "williams":"chat(7)",
-"text":"U+8CEA 貭 质 (Mainland simplified) (F1.86 質) 樸也又文質 (F1.86 貭) 同質 (Page 23|n66 質) Substance, essence, nature, the material of (Kangxi: 質猶性也); plain, unadorned (Kangxi: 樸也, 質猶本也); sincere, honest (Kangxi: 實也, 質誠也); to cross-examine, to confront (Kangxi: 問也定也); to establish, to substantiate (Kangxi: 質體也); opposite to, to appear in presence of (Kangxi: 質猶對也); firm, as a texture; a disposition, a habit; a target (Kangxi: 的質也); _hi chat_ (hei3 zat1 氣質) the complexion; the elements of; _chat sun_ (zat1 seon3 質訊) to confront the accused and witnesses; _chat p'ok_ (zat1 pok3 質樸) plain; _chat ti_ (zat1 dei6-2 質地) temperament, constitution, talents; _pan chat_ (ban2 zat1 品質) the disposition. 【質-entering】 (tsyit) (_noun-like_) substance (_adjective-like_) simple (_verb-like_) to complete (_verb-like_) to affirm, to verify (_verb-like_) to front (_verb-like_) to interrogate (_noun-like_) target (_adverb-like_) directly 【質】 (zat1) To stuff or pack tightly. 質飽佢 (zat1 baau2 keoi5): \"Stuff him full with food.\" 質到爆 (zat1 dou3 baau3): \"Packed till bursting.\" To query or interrogate in an adversarial manner. 畀律師質 (bei2 leot6 si1 zat1): \"Interrogated by a lawyer.\""
+"text":"U+8CEA 貭 质 (Mainland simplified) (F1.86 質) 樸也又文質 (F1.86 貭) 同質 (Page 23|n66 #4: 質) Substance, essence, nature, the material of (Kangxi: 質猶性也); plain, unadorned (Kangxi: 樸也, 質猶本也); sincere, honest (Kangxi: 實也, 質誠也); to cross-examine, to confront (Kangxi: 問也定也); to establish, to substantiate (Kangxi: 質體也); opposite to, to appear in presence of (Kangxi: 質猶對也); firm, as a texture; a disposition, a habit; a target (Kangxi: 的質也); _hi chat_ (hei3 zat1 氣質) the complexion; the elements of; _chat sun_ (zat1 seon3 質訊) to confront the accused and witnesses; _chat p'ok_ (zat1 pok3 質樸) plain; _chat ti_ (zat1 dei6-2 質地) temperament, constitution, talents; _pan chat_ (ban2 zat1 品質) the disposition. 【質-entering】 (tsyit) (_noun-like_) substance (_adjective-like_) simple (_verb-like_) to complete (_verb-like_) to affirm, to verify (_verb-like_) to front (_verb-like_) to interrogate (_noun-like_) target (_adverb-like_) directly 【質】 (zat1) To stuff or pack tightly. 質飽佢 (zat1 baau2 keoi5): \"Stuff him full with food.\" 質到爆 (zat1 dou3 baau3): \"Packed till bursting.\" To query or interrogate in an adversarial manner. 畀律師質 (bei2 leot6 si1 zat1): \"Interrogated by a lawyer.\""
 },
 "zi3":{
 "isCanonical":true,
@@ -13077,33 +13077,33 @@
 "zat1":{
 "isCanonical":false,
 "williams":"chat(7)",
-"text":"U+90C5 (Page 23|n66 郅)"
+"text":"U+90C5 (Page 23|n66 #3: 郅)"
 },
 "zat6":{
 "isCanonical":true,
 "williams":"chat(9)",
-"text":"U+90C5 zat1 (per 《廣韻》之日切) (F1.41 郅 _Chi_ (zi3)) 世之隆也又極也 (Page 23|n66 郅 _Chat_ (zat1); here normalised to _Chat_ (zat6)) To ascend, to go up (Kangxi: 登也), as a hill; flourishing, as an age; very, exceedingly (Kangxi: 至也); name of a city (Kangxi: 郁郅古縣名); _chat lung_ (zat6 lung4 郅隆), very grand; _yuk chat_ (juk1 zat6 郁郅) an ancient name of Nganhwa hien (安化縣) in Kansuh (甘肅)."
+"text":"U+90C5 zat1 (per 《廣韻》之日切) (F1.41 郅 _Chi_ (zi3)) 世之隆也又極也 (Page 23|n66 #3: 郅 _Chat_ (zat1); here normalised to _Chat_ (zat6)) To ascend, to go up (Kangxi: 登也), as a hill; flourishing, as an age; very, exceedingly (Kangxi: 至也); name of a city (Kangxi: 郁郅古縣名); _chat lung_ (zat6 lung4 郅隆), very grand; _yuk chat_ (juk1 zat6 郁郅) an ancient name of Nganhwa hien (安化縣) in Kansuh (甘肅)."
 }
 },
 "鑕":{
 "zat1":{
 "isCanonical":true,
 "williams":"chat(7)",
-"text":"U+9455 锧 (Mainland simplified) (Page 23|n66 鑕) An ax, a hatchet (Kangxi: 斧也); an anvil or iron block (Kangxi: 鐵鑕砧, 斧鑕椹也), used by smiths and others."
+"text":"U+9455 锧 (Mainland simplified) (Page 23|n66 #5: 鑕) An ax, a hatchet (Kangxi: 斧也); an anvil or iron block (Kangxi: 鐵鑕砧, 斧鑕椹也), used by smiths and others."
 }
 },
 "隲":{
 "zat1":{
 "isCanonical":false,
 "williams":"chat(7)",
-"text":"U+96B2 (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 ~~？~~騭隲)"
+"text":"U+96B2 (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 #6: 𨽥隲)"
 }
 },
 "騭":{
 "zat1":{
 "isCanonical":true,
 "williams":"chat(7)",
-"text":"U+9A2D 隲 𨽥 骘 (Mainland simplified) (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 𨽥隲; here normalised to 騭) A stallion (Kangxi 騭: 牡馬也, 牡曰騭); to mount; to ascend (Kangxi 騭: 乗馬登山也); to raise, to promote (Kangxi 騭: 騭陞也); to fix, to determine (Kangxi 騭: 定也); _yam chat_ (jam1 zat1 陰騭) to think upon kindly, a secret benevolence; _tsik yam chat_ (zik1 jam1 zat1 積陰騭) to perform many good deeds. Fan Wan entry: Corrected 降 to 陞. 【騭】 (tsyit) (_verb-like_) to secure (_verb-like_) to raise"
+"text":"U+9A2D 隲 𨽥 骘 (Mainland simplified) (F1.86 隲) 陰隲品隲又定也成也陞也生也 (Page 23|n66 #6: 𨽥隲; here normalised to 騭) A stallion (Kangxi 騭: 牡馬也, 牡曰騭); to mount; to ascend (Kangxi 騭: 乗馬登山也); to raise, to promote (Kangxi 騭: 騭陞也); to fix, to determine (Kangxi 騭: 定也); _yam chat_ (jam1 zat1 陰騭) to think upon kindly, a secret benevolence; _tsik yam chat_ (zik1 jam1 zat1 積陰騭) to perform many good deeds. Fan Wan entry: Corrected 降 to 陞. 【騭】 (tsyit) (_verb-like_) to secure (_verb-like_) to raise"
 }
 },
 "侄":{
@@ -13159,7 +13159,7 @@
 "zat6":{
 "isCanonical":true,
 "williams":"chat(9)",
-"text":"U+7A92 zat1 (per 《廣韻》陟栗切) zat6-2 (rising second in vernacular 窒窒地) (F1.87 窒) 窒塞不通也 (Page 23|n66 窒) To close (Kangxi: 塞也), to stop up the mouth of; to hamper~~,~~; the moon in opposition (Kangxi: 月在庚曰窒); _chat shau chat keuk_ (zat6 sau2 zat6 goek3 窒手窒腳) impeded, things not to one's liking; _chat chu k'u_ (zat6 zyu6 keoi5 窒住佢), stop it up tight; _chat ngoi_ (zat6 ngoi6 窒礙) difficulties. 【窒】 (trit, tet) (_verb-like_) to stop up 【窒】 (zat6) To interrupt, especially by making an adversarial counterpoint or challenge. 咪窒住嗮啦 (mai5 zat6 zyu6 saai3 laa1): \"Stop interrupting!\" 窒到口啞啞 (zat6 dou3 hau2 aa2 aa2): \"Challenged till speechless.\" To chide, especially as an interruption. 窒我錯咗 (zat6 ngo5 co3 zo2): \"Chided me for getting it wrong.\" To be intermittent and non-smooth in action or motion (stuttered speech, audio/video buffering, etc.). 口窒窒 (hau2 zat6 zat6): \"Stammering.\" 影片窒吓窒吓 (jing2 pin3-2 zat6 haa5 zat6 haa5): \"The video playback is stop-start.\""
+"text":"U+7A92 zat1 (per 《廣韻》陟栗切) zat6-2 (rising second in vernacular 窒窒地) (F1.87 窒) 窒塞不通也 (Page 23|n66 #9: 窒) To close (Kangxi: 塞也), to stop up the mouth of; to hamper~~,~~; the moon in opposition (Kangxi: 月在庚曰窒); _chat shau chat keuk_ (zat6 sau2 zat6 goek3 窒手窒腳) impeded, things not to one's liking; _chat chu k'u_ (zat6 zyu6 keoi5 窒住佢), stop it up tight; _chat ngoi_ (zat6 ngoi6 窒礙) difficulties. 【窒】 (trit, tet) (_verb-like_) to stop up 【窒】 (zat6) To interrupt, especially by making an adversarial counterpoint or challenge. 咪窒住嗮啦 (mai5 zat6 zyu6 saai3 laa1): \"Stop interrupting!\" 窒到口啞啞 (zat6 dou3 hau2 aa2 aa2): \"Challenged till speechless.\" To chide, especially as an interruption. 窒我錯咗 (zat6 ngo5 co3 zo2): \"Chided me for getting it wrong.\" To be intermittent and non-smooth in action or motion (stuttered speech, audio/video buffering, etc.). 口窒窒 (hau2 zat6 zat6): \"Stammering.\" 影片窒吓窒吓 (jing2 pin3-2 zat6 haa5 zat6 haa5): \"The video playback is stop-start.\""
 }
 },
 "蒺":{

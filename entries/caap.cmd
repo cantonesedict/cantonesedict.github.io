@@ -63,7 +63,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 扱(8)]]
+  - [[Page~23|n66 #2: 扱(8)]]
     --
     Wrongly used for the last [[揷]].
     --
@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 揷(8); here normalised to 插]]
+  - [[Page~23|n66 #1: 揷(8); here normalised to 插]]
     ==
     - To insert, to pierce, to set in, to stick into [[Kangxi 插: 刺肉也, 刺入也]];
     - to tuck in, to thrust into or through;
@@ -213,7 +213,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 揷(8)]]
+  - [[Page~23|n66 #1: 揷(8)]]
     --
     [[Alternative form of 插. **See $插caap3 for the canonical entry.**]]
     --
