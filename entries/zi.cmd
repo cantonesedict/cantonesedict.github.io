@@ -821,7 +821,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 (1)知]]
+  - [[Page~37|n80 #7: (1)知]]
     ==
     - To know, to perceive, to apprehend [[Kangxi: 識也覺也, 喩也]];
     - to be acquainted with [[Kangxi: 相交曰知]];
@@ -4044,7 +4044,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 (1)知 _(1)Ch(i/)_ (zi1); here corrected to _Ch(i/)(3)_ (zi3) and normalised to 智]]
+  - [[Page~37|n80 #7: (1)知 _(1)Ch(i/)_ (zi1); here corrected to _Ch(i/)(3)_ (zi3) and normalised to 智]]
     ==
     - [[...]];
     - [[...]], wisdom;

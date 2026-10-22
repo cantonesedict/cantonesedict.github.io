@@ -3534,6 +3534,63 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=6} Page~37|n80
+    ,{#page-37-entry-1} #1
+    ,{.williams} (4)塲
+    ,
+      <nav class="sideways">
+      ==
+      - $場coeng4
+      - ($塲coeng4)
+      ==
+      </nav>
+  //
+    ,{#page-37-entry-3} #3
+    ,{.williams} 韔(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $韔coeng3
+      ==
+      </nav>
+  //
+    ,{#page-37-entry-4} #4
+    ,{.williams} 唱(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $唱coeng3
+      ==
+      </nav>
+  //
+    ,{#page-37-entry-5} #5
+    ,{.williams} 暢(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $暢coeng3
+      ==
+      </nav>
+  //
+    ,{#page-37-entry-6} #6
+    ,{.williams} 鬯(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $鬯coeng3
+      ==
+      </nav>
+  //
+    ,{#page-37-entry-7} #7
+    ,{.williams} (1)知
+    ,
+      <nav class="sideways">
+      ==
+      - $知zi1
+      - $智zi3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

@@ -1136,7 +1136,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 唱(3)]]
+  - [[Page~37|n80 #4: 唱(3)]]
     ==
     - To sing in recitative [[Kangxi: 發歌也]];
     - to cry out, to give the word;
@@ -1243,7 +1243,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 暢(3)]]
+  - [[Page~37|n80 #5: 暢(3)]]
     ==
     - ~~The inner qualities developing;~~
     - penetrating, thorough, spreading [[Kangxi: 通暢又達也]];
@@ -1371,7 +1371,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 韔(3)]]
+  - [[Page~37|n80 #3: 韔(3)]]
     ==
     - A bow case [[Kangxi: 弓衣也]];
     - to put a bow into its case [[Kangxi: 韔韜也]].
@@ -1399,7 +1399,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 鬯(3)]]
+  - [[Page~37|n80 #6: 鬯(3)]]
     ==
     - Sacrificial spirits, made by infusing millet and fragrant herbs [[Kangxi: ::以秬釀{𩰪=⿳⿴𦥑缶冖⿰鬯彡}艸芬芳[條暢]以降神也::, 鬯香酒奉宗廟之盛也]];
     - mixed wine;
@@ -1476,7 +1476,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 (4)塲; here normalised to 場]]
+  - [[Page~37|n80 #1: (4)塲; here normalised to 場]]
     ==
     - An arena [[Kangxi 場: 戰爭之地曰戰場]], an area, a lot, a field [[Kangxi 場: 收禾圃曰場]];
     - an altar, a sacrificial ground [[Kangxi 場: 祭神道也]];
@@ -1564,7 +1564,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 (4)塲]]
+  - [[Page~37|n80 #1: (4)塲]]
     --
     [[Alternative form of 場. **See $場coeng4 for the canonical entry.**]]
     --
