@@ -424,7 +424,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 譖(3)]]
+  - [[Page~15|n58 #7: 譖(3)]]
     --
     [[Reading variation. **See $譖zam3 for the canonical entry.**]]
     --
@@ -465,7 +465,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 讖(3)]]
+  - [[Page~15|n58 #8: 讖(3)]]
     ==
     - To verify, to prove [[Kangxi: 驗也]];
     - a prognostic [[Kangxi: 凡讖緯皆言將來之驗也]];
@@ -636,7 +636,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~15|n58 (4)沉(4)沈]]
+  - [[Page~15|n58 #4: (4)沉(4)沈]]
     --
     [[Alternative form of 沉. **See $沉cam4 for the canonical entry.**]]
     --
@@ -670,7 +670,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (4)沉(4)沈]]
+  - [[Page~15|n58 #4: (4)沉(4)沈]]
     ==
     - To sink [[Kangxi 沈: 沒也]];
     - to immerse;
@@ -945,7 +945,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (4)霃]]
+  - [[Page~15|n58 #5: (4)霃]]
     ==
     - Dark, cloudy for a long time [[Kangxi: 久隂也]];
     - _(1)yam (1)yam (4)ch(')am (4)ch(')am_
@@ -1009,7 +1009,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2){𩵫=⿰冘魚} _(2)Ch(')am_ (cam2); here corrected to 魫 _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 #6: (2){𩵫=⿰冘魚} _(2)Ch(')am_ (cam2); here corrected to 魫 _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi 魫: 魚子]];
     - the name of a fish [[Fan Wan 魫: 魚名]].

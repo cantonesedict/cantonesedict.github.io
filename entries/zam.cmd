@@ -431,7 +431,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2)怎 _(2)Cham_]]
+  - [[Page~15|n58 #1: (2)怎 _(2)Cham_]]
     ==
     - An interrogative word;
     - what, how?
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 浸(3) _Cham(3)_]]
+  - [[Page~15|n58 #2: 浸(3) _Cham(3)_]]
     --
     A colloquial word.
     --
@@ -839,7 +839,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
+  - [[Page~15|n58 #7: 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
     ==
     - To slander, to vilify [[Kangxi: 愬也, 䛼也, 讒也]];
     - to discredit;
@@ -896,7 +896,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~15|n58 朕(6); here normalised to {𠹻=⿰口朕}]]
+  - [[Page~15|n58 #3: 朕(6); here normalised to {𠹻=⿰口朕}]]
     --
     A colloquial word.
     --
@@ -938,7 +938,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 朕(6)]]
+  - [[Page~15|n58 #3: 朕(6)]]
     ==
     - Anciently used for I [[Kangxi: 我也, 古者貴賤皆自稱朕]];
     - now the royal We, Ourself [[Kangxi: ::秦始皇[...]定爲至尊之稱:: etc.]];

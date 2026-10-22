@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2)斬]]
+  - [[Page~15|n58 #9: (2)斬]]
     ==
     - To sunder, to cut in two [[Kangxi: 截也, 裁也]];
     - to cut off [[Kangxi: ::斬[...]卽斷也::]];
