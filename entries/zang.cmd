@@ -173,7 +173,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1)]]
+  - [[Page~21|n64 #2: (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1)]]
     ==
     - To rise above;
     - conspicuous, eminent, like a lofty mountain [[Kangxi: 崝嶸也]];
@@ -785,7 +785,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 掙(6)]]
+  - [[Page~21|n64 #3: 掙(6)]]
     --
     [[...]]
     --

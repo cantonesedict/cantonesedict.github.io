@@ -89,7 +89,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (4)倀 _(4)Ch(')(a/)ng_ (caang4); here corrected to _(1)Ch(')(e/)ung_ (coeng1)]]
+  - [[Page~21|n64 #7: (4)倀 _(4)Ch(')(a/)ng_ (caang4); here corrected to _(1)Ch(')(e/)ung_ (coeng1)]]
     ==
     - Groping, going blindly [[Kangxi: 狂行不知所如也 etc.]];
     - madly [[Kangxi: 狂也]], carelessly;

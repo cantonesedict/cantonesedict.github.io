@@ -72,7 +72,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 掙(6)]]
+  - [[Page~21|n64 #3: 掙(6)]]
     --
     [[...]]
     --
@@ -136,7 +136,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)撐(1)撑]]
+  - [[Page~21|n64 #4: (1)撐(1)撑]]
     ==
     - To prop, to shore up;
     - to fasten open, as with a stretcher;
@@ -188,7 +188,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)撐(1)撑]]
+  - [[Page~21|n64 #4: (1)撐(1)撑]]
     --
     [[Alternative form of 撐. **See $撐caang1 for the canonical entry.**]]
     --
@@ -245,7 +245,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕]]
+  - [[Page~21|n64 #5: (1)橕]]
     ==
     - A branch stretching out;
     - a fulcrum;
@@ -440,7 +440,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕; here normalised to 撐]]
+  - [[Page~21|n64 #5: (1)橕; here normalised to 撐]]
     --
     [[...]]
     --
@@ -509,7 +509,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕 read ^_Ch(')(a/)ng(3)_ (caang3)]]
+  - [[Page~21|n64 #5: (1)橕 read ^_Ch(')(a/)ng(3)_ (caang3)]]
     --
     [[Alternative form of 撐 (Cantonese) and {𨅝=⿰𧾷牚} (Cantonese). **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
     --
@@ -541,7 +541,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕; here normalised to {𨅝=⿰𧾷牚}]]
+  - [[Page~21|n64 #5: (1)橕; here normalised to {𨅝=⿰𧾷牚}]]
     --
     [[...]]
     --
@@ -615,7 +615,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (4)倀]]
+  - [[Page~21|n64 #7: (4)倀]]
     --
     [[...]]
     --
@@ -692,7 +692,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (4)橙]]
+  - [[Page~21|n64 #6: (4)橙]]
     ==
     - The coolie orange [[Kangxi: 橘屬 etc.]];
     - _(4)ch(')(a/)ng (2)tsau_

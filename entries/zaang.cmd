@@ -70,7 +70,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)崢]]
+  - [[Page~21|n64 #2: (1)崢]]
     --
     [[Reading variation. **See $崢zang1 for the canonical entry.**]]
     --
@@ -201,7 +201,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)㬹]]
+  - [[Page~21|n64 #1: (1)㬹]]
     ==
     - The tendon Achilles [[Kangxi: 足跟筋也]];
     - the heel;
@@ -375,7 +375,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 掙(6)]]
+  - [[Page~21|n64 #3: 掙(6)]]
     --
     A colloquial word.
     --

@@ -2066,6 +2066,73 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~21|n64
+    ,{#page-21-entry-1} #1
+    ,{.williams} (1)㬹
+    ,
+      <nav class="sideways">
+      ==
+      - $㬹zaang1
+      ==
+      </nav>
+  //
+    ,{#page-21-entry-2} #2
+    ,{.williams} (1)崢
+    ,
+      <nav class="sideways">
+      ==
+      - ($崢zaang1), $崢zang1
+      ==
+      </nav>
+  //
+    ,{#page-21-entry-3} #3
+    ,{.williams} 掙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $掙caang1, $掙zaang6, $掙zang3
+      ==
+      </nav>
+  //
+    ,{#page-21-entry-4} #4
+    ,{.williams} (1)撐(1)撑
+    ,
+      <nav class="sideways">
+      ==
+      - $撐caang1
+      - ($撑caang1)
+      ==
+      </nav>
+  //
+    ,{#page-21-entry-5} #5
+    ,{.williams} (1)橕
+    ,
+      <nav class="sideways">
+      ==
+      - $橕caang1, ($橕caang3)
+      - $撐caang3
+      - ${𨅝=⿰𧾷牚}caang3
+      ==
+      </nav>
+  //
+    ,{#page-21-entry-6} #6
+    ,{.williams} (4)橙
+    ,
+      <nav class="sideways">
+      ==
+      - $橙caang4
+      ==
+      </nav>
+  //
+    ,{#page-21-entry-7} #7
+    ,{.williams} (4)倀
+    ,
+      <nav class="sideways">
+      ==
+      - $倀caang4, $倀coeng1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
