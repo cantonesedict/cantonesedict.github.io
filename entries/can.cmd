@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 (1)嗔]]
+  - [[Page~17|n60 #8: (1)嗔]]
     ==
     - To get angry [[Kangxi: 怒也]];
     - passionate, angry;

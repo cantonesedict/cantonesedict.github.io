@@ -1603,6 +1603,81 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~17|n60
+    ,{#page-17-entry-1} #1
+    ,{.williams} 振(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $振zan3
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-2} #2
+    ,{.williams} 震(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $震zan3
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-3} #3
+    ,{.williams} 賑(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $賑zan2, $賑zan3
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-4} #4
+    ,{.williams} 鎭(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($鎭zan3)
+      - $鎮zan3
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-5} #5
+    ,{.williams} 侲(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $侲zan3
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-6} #6
+    ,{.williams} 帪(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $帪zan3
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-7} #7
+    ,{.williams} 陣(6)陳(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $陣zan6
+      - ($陳zan6)
+      ==
+      </nav>
+  //
+    ,{#page-17-entry-8} #8
+    ,{.williams} (1)嗔
+    ,
+      <nav class="sideways">
+      ==
+      - $嗔can1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
