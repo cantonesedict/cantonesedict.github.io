@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 劄(8)]]
+  - [[Page~22|n65 #4: 劄(8)]]
     ==
     - To prick, to puncture [[Kangxi 箚: 以鍼刺也]];
     - to embroider;
@@ -372,7 +372,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22|n65 极(9)]]
+  - [[Page~22|n65 #7: 极(9)]]
     --
     [[...]]
     --
@@ -646,7 +646,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22|n65 鈒(9)]]
+  - [[Page~22|n65 #6: 鈒(9)]]
     --
     [[...]]
     --
@@ -713,7 +713,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 閘(9)]]
+  - [[Page~22|n65 #5: 閘(9)]]
     ==
     - A guarded gate, a barrier, a barricade [[Kangxi: 開閉門也]];
     - dam;

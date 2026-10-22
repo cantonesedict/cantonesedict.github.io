@@ -2133,6 +2133,70 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~22|n65
+    ,{#page-22-entry-1} #1
+    ,{.williams} 執(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $執zap1
+      ==
+      </nav>
+  //
+    ,{#page-22-entry-2} #2
+    ,{.williams} 縶(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $縶zap1
+      ==
+      </nav>
+  //
+    ,{#page-22-entry-3} #3
+    ,{.williams} 汁(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $汁zap1
+      ==
+      </nav>
+  //
+    ,{#page-22-entry-4} #4
+    ,{.williams} 劄(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $劄zaap3
+      ==
+      </nav>
+  //
+    ,{#page-22-entry-5} #5
+    ,{.williams} 閘(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $閘zaap6
+      ==
+      </nav>
+  //
+    ,{#page-22-entry-6} #6
+    ,{.williams} 鈒(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $鈒zaap6
+      ==
+      </nav>
+  //
+    ,{#page-22-entry-7} #7
+    ,{.williams} 极(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $极zaap6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

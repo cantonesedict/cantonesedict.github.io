@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 執(7)]]
+  - [[Page~22|n65 #1: 執(7)]]
     ==
     - To take in the hand, to pick up, to lay hold of, to grasp;
     - to apprehend, to catch [[Kangxi: 捕也]];
@@ -229,7 +229,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 汁(7)]]
+  - [[Page~22|n65 #3: 汁(7)]]
     ==
     - Gravy, juice [[Kangxi: 液也]];
     - thickened liquor;
@@ -287,7 +287,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 縶(7)]]
+  - [[Page~22|n65 #2: 縶(7)]]
     ==
     - To fetter a horse [[Kangxi: 縶絆也]] or cow ``with rope``;
     - ~~fetters, shackles;~~
