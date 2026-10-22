@@ -240,6 +240,10 @@ P
   1. To control.
   1. To suppress (Kangxi 㧖: 抑也), to block.
   ++
+S
+  ==
+  - ($扼aak1)
+  ==
 $$
 
 ### 握1 | _Ak(7)_ [[ak1]]

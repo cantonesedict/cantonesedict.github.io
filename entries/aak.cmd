@@ -50,6 +50,7 @@ $$
 =={.modern}
 - ($厄1)
 - $呃1
+- ($扼1)
 - ($握1)
 - $軛1
 - ($阨1)
@@ -131,6 +132,28 @@ S
   ==
 $$
 
+###+ 扼1 | _(A/)k(7)_ [[aak1]]
+
+$$.
+R
+  ⼿ + 4
+U
+  U+627C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 軛. **See $軛aak1 for the canonical entry.**
+  1. Reading variation. **See $扼ak1 for the canonical entry.**
+  ++
+S
+  ==
+  - $扼ak1
+  ==
+$$
+
 ###+ 握1 | _(A/)k(7)_ [[aak1]]
 
 $$.
@@ -162,6 +185,7 @@ U
 A
   ==
   - $厄1
+  - $扼1
   - 軶
   - 轭 (Mainland simplified)
   ==

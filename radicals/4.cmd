@@ -400,7 +400,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $扼ak1
+      - ($扼aak1), $扼ak1
       - $扱caap3
       - $抄caau1
       - $扯ce2
