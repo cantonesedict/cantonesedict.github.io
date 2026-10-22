@@ -661,7 +661,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (1)梔]]
+  - [[Page~39|n82 #1: (1)梔]]
     ==
     - A tree used to dye yellow, a species of Gardenia [[Kangxi: ::[黃木]可染::]];
     - _(4)wong (1)ch(i/)_
@@ -2112,7 +2112,7 @@ W
     Also read _(2)ch(i/)_ [[zi2]], in the same senses;
     and only _(2)ch(i/)_ [[zi2]], when it is used as a final particle [[Kangxi: 語已詞也]].
     --
-  - [[Page~39|n82 (2)止; here normalised to 只]]
+  - [[Page~39|n82 #2: (2)止; here normalised to 只]]
     ==
     - [[...]];
     - only, but, however;
@@ -2273,7 +2273,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)址]]
+  - [[Page~39|n82 #3: (2)址]]
     ==
     - A foundation [[Kangxi: 基也]], fundamental;
     - one's own country or origin;
@@ -2537,7 +2537,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)帋(2)紙]]
+  - [[Page~39|n82 #11: (2)帋(2)紙]]
     --
     [[Alternative form of 紙. **See $紙zi2 for the canonical entry.**]]
     --
@@ -2597,7 +2597,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)指]]
+  - [[Page~39|n82 #9: (2)指]]
     ==
     - A finger [[Kangxi: 手指也 etc.]], a toe [[Kangxi: ::將指[...]足大指也::]];
     - to point, to refer to;
@@ -2725,7 +2725,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)旨]]
+  - [[Page~39|n82 #8: (2)旨]]
     ==
     - Meaning, intention [[Kangxi: 意也志也]];
     - excellent [[Kangxi: 美也]];
@@ -2750,7 +2750,7 @@ W
         [[jat1 zoeng1 zi1 daai6 zi2 一章之大旨]],
         an important remark, a synopsis.
     ==
-  - [[Page~39|n82 (2)指]]
+  - [[Page~39|n82 #9: (2)指]]
     ==
     - [[...]];
     - used for the last [[旨]] [[Kangxi 指: 與旨恉通意向也, 歸趣也, 美也]];
@@ -2881,7 +2881,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)止]]
+  - [[Page~39|n82 #2: (2)止]]
     ==
     - To stop [[Kangxi: 停也足也]];
     - to lodge, to dwell [[Kangxi: 居也]], to rest [[Kangxi: 息也]];
@@ -2955,7 +2955,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)沚]]
+  - [[Page~39|n82 #4: (2)沚]]
     ==
     - An islet [[Kangxi: 小渚曰沚]];
     - to take up one's lodging on an island [[Kangxi: 止息也可以止息其上]];
@@ -3130,7 +3130,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)祉]]
+  - [[Page~39|n82 #5: (2)祉]]
     ==
     - Happiness [[Kangxi: 福也]];
     - _fuk(7) (2)ch(i/)_
@@ -3258,7 +3258,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)帋(2)紙]]
+  - [[Page~39|n82 #11: (2)帋(2)紙]]
     ==
     - Paper [[Kangxi 紙: 絮一苫也 etc.]];
     - a document;
@@ -3613,7 +3613,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)趾]]
+  - [[Page~39|n82 #6: (2)趾]]
     ==
     - The toes;
     - a foundation of a wall [[Kangxi: 趾城足也]];
@@ -3693,7 +3693,7 @@ F
   ==
 W
   ====
-  - [[Page~39|n82 (2)阯]]
+  - [[Page~39|n82 #7: (2)阯]]
     ==
     - Used for the last [[趾]];
     - _(1)K(a/)u (2)ch(i/)_
@@ -3724,7 +3724,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~39|n82 (2)黹]]
+  - [[Page~39|n82 #10: (2)黹]]
     ==
     - To embroider [[Kangxi: ::[...]黹謂刺繡也::]];
     - embroidered, braided;

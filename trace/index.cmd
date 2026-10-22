@@ -3673,6 +3673,109 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~39|n82
+    ,{#page-39-entry-1} #1
+    ,{.williams} (1)梔
+    ,
+      <nav class="sideways">
+      ==
+      - $梔zi1
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-2} #2
+    ,{.williams} (2)止
+    ,
+      <nav class="sideways">
+      ==
+      - $只zi2
+      - $止zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-3} #3
+    ,{.williams} (2)址
+    ,
+      <nav class="sideways">
+      ==
+      - $址zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-4} #4
+    ,{.williams} (2)沚
+    ,
+      <nav class="sideways">
+      ==
+      - $沚zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-5} #5
+    ,{.williams} (2)祉
+    ,
+      <nav class="sideways">
+      ==
+      - $祉zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-6} #6
+    ,{.williams} (2)趾
+    ,
+      <nav class="sideways">
+      ==
+      - $趾zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-7} #7
+    ,{.williams} (2)阯
+    ,
+      <nav class="sideways">
+      ==
+      - $阯zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-8} #8
+    ,{.williams} (2)旨
+    ,
+      <nav class="sideways">
+      ==
+      - $旨zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-9} #9
+    ,{.williams} (2)指
+    ,
+      <nav class="sideways">
+      ==
+      - $指zi2
+      - $旨zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-10} #10
+    ,{.williams} (2)黹
+    ,
+      <nav class="sideways">
+      ==
+      - $黹zi2
+      ==
+      </nav>
+  //
+    ,{#page-39-entry-11} #11
+    ,{.williams} (2)帋(2)紙
+    ,
+      <nav class="sideways">
+      ==
+      - ($帋zi2)
+      - $紙zi2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
