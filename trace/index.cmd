@@ -1501,6 +1501,108 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~16|n59
+    ,{#page-16-entry-1} #1
+    ,{.williams} 湛(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $湛zaam3
+      - $浸zam3
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-2} #2
+    ,{.williams} 蘸(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $蘸zaam3
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-3} #3
+    ,{.williams} 賺(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $賺zaam6
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-4} #4
+    ,{.williams} 站(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $站zaam6
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-5} #5
+    ,{.williams} (4)攙
+    ,
+      <nav class="sideways">
+      ==
+      - $攙caam1, ($攙caam4)
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-6} #6
+    ,{.williams} 杉(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $杉caam3
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-7} #7
+    ,{.williams} 懺(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $懺caam3
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-8} #8
+    ,{.williams} 儳(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $儳caam3
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-9} #9
+    ,{.williams} (1)眞(1)真
+    ,
+      <nav class="sideways">
+      ==
+      - ($眞zan1)
+      - $真zan1
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-10} #10
+    ,{.williams} (1)珍
+    ,
+      <nav class="sideways">
+      ==
+      - $珍zan1
+      ==
+      </nav>
+  //
+    ,{#page-16-entry-11} #11
+    ,{.williams} (1)甄
+    ,
+      <nav class="sideways">
+      ==
+      - ($甄zan1)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

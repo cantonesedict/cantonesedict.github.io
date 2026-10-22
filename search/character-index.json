@@ -1191,12 +1191,12 @@
 "caam1":{
 "isCanonical":true,
 "williams":"(1)ch(')(a/)m",
-"text":"U+6519 摻 (for \"support\" and \"mix\" senses) 搀 (Mainland simplified) caam4 (per 《廣韻》士咸切 for \"stab\" sense) (Page 16|n59 攙 _Ch'am_ (caam4); here normalised to _Ch'am_ (caam1)) To stab (Kangxi: 刺也); to sustain, to support (Kangxi: 一曰扶也), to lead; to divide with another; _ch'am fan lai t'im_ (caam1 fan6 lai4 tim1 攙分嚟添), make another share for him; _ch'am fu_ (caam1 fu4 攙扶), to uphold. Whilst _ch'am_ (caam4) is attested in Middle Chinese, it is only explained \"stab\" (刺也). Kangxi records the canonical reading 楚銜切 _ch'am_ (caam1), explained both \"stab\" (刺也) and \"arm-support\" (一曰扶也). It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平. To mix, to blend."
+"text":"U+6519 摻 (for \"support\" and \"mix\" senses) 搀 (Mainland simplified) caam4 (per 《廣韻》士咸切 for \"stab\" sense) (Page 16|n59 #5: 攙 _Ch'am_ (caam4); here normalised to _Ch'am_ (caam1)) To stab (Kangxi: 刺也); to sustain, to support (Kangxi: 一曰扶也), to lead; to divide with another; _ch'am fan lai t'im_ (caam1 fan6 lai4 tim1 攙分嚟添), make another share for him; _ch'am fu_ (caam1 fu4 攙扶), to uphold. Whilst _ch'am_ (caam4) is attested in Middle Chinese, it is only explained \"stab\" (刺也). Kangxi records the canonical reading 楚銜切 _ch'am_ (caam1), explained both \"stab\" (刺也) and \"arm-support\" (一曰扶也). It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平. To mix, to blend."
 },
 "caam4":{
 "isCanonical":false,
 "williams":"(4)ch(')(a/)m",
-"text":"U+6519 (Page 16|n59 攙)"
+"text":"U+6519 (Page 16|n59 #5: 攙)"
 },
 "zaam6":{
 "isCanonical":true,
@@ -1253,21 +1253,21 @@
 "caam3":{
 "isCanonical":true,
 "williams":"ch(')(a/)m(3)",
-"text":"U+5133 caam4 (per 《廣韻》士咸切 for \"ugly\" sense and Kangxi 士咸切 for \"quick\" sense) zaam6 (per 《廣韻》仕陷切 for \"imprudent-speech\" sense and 《集韻》仕懺切 for \"flippant\" sense) (F2.64 儳) 儳越叅雜也 (Page 16|n59 儳) Irregular, disorderly (Kangxi: 儳互不齊也), as undrilled troops (Kangxi: 師次不整); ~~unequal,~~ uneven (Kangxi: 亦不齊也); _lam ch'am_ (laam4 caam3 儖儳) ugly (Kangxi: 惡貌); confused, disorderly~~, sulky~~. Fan Wan entry: Fixed missing strokes in 叅 and 雜. Williams' \"Irregular, disorderly, as undrilled troops\": Kangxi has this sense under 士咸切 _ch'am_ (caam4). Still, the reading _ch'am_ (caam3) for \"disorderly\" is not unattested; 《集韻》 has the reading 叉鑑切, explained 儳仾不齊也. Kangxi paraphrases this as 又《集韻》初鑒切音懺亦不齊也又雜言也. Quick (Kangxi: 疾也). Imprudent speech, words spoken without due consideration (Kangxi: 輕言也). Flippant, unserious (Kangxi: 謂苟且不整肅也, 可輕賤之貌). Confused speech (Kangxi: 雜言也). 【儳-flippant】 (dzreamH) (_adjective-like_) flippant 【儳-jumbled】 (tsrhaemH) (_adjective-like_) jumbled"
+"text":"U+5133 caam4 (per 《廣韻》士咸切 for \"ugly\" sense and Kangxi 士咸切 for \"quick\" sense) zaam6 (per 《廣韻》仕陷切 for \"imprudent-speech\" sense and 《集韻》仕懺切 for \"flippant\" sense) (F2.64 儳) 儳越叅雜也 (Page 16|n59 #8: 儳) Irregular, disorderly (Kangxi: 儳互不齊也), as undrilled troops (Kangxi: 師次不整); ~~unequal,~~ uneven (Kangxi: 亦不齊也); _lam ch'am_ (laam4 caam3 儖儳) ugly (Kangxi: 惡貌); confused, disorderly~~, sulky~~. Fan Wan entry: Fixed missing strokes in 叅 and 雜. Williams' \"Irregular, disorderly, as undrilled troops\": Kangxi has this sense under 士咸切 _ch'am_ (caam4). Still, the reading _ch'am_ (caam3) for \"disorderly\" is not unattested; 《集韻》 has the reading 叉鑑切, explained 儳仾不齊也. Kangxi paraphrases this as 又《集韻》初鑒切音懺亦不齊也又雜言也. Quick (Kangxi: 疾也). Imprudent speech, words spoken without due consideration (Kangxi: 輕言也). Flippant, unserious (Kangxi: 謂苟且不整肅也, 可輕賤之貌). Confused speech (Kangxi: 雜言也). 【儳-flippant】 (dzreamH) (_adjective-like_) flippant 【儳-jumbled】 (tsrhaemH) (_adjective-like_) jumbled"
 }
 },
 "懺":{
 "caam3":{
 "isCanonical":true,
 "williams":"ch(')(a/)m(3)",
-"text":"U+61FA 忏 (Mainland simplified) (F2.64 杉) 懺悔自陳其悔也 (Page 16|n59 懺) To repent (Kangxi: 悔也); to confess one's errors; _ch'am fui_ (caam3 fui3 懺悔) to repent."
+"text":"U+61FA 忏 (Mainland simplified) (F2.64 杉) 懺悔自陳其悔也 (Page 16|n59 #7: 懺) To repent (Kangxi: 悔也); to confess one's errors; _ch'am fui_ (caam3 fui3 懺悔) to repent."
 }
 },
 "杉":{
 "caam3":{
 "isCanonical":true,
 "williams":"ch(')(a/)m(3)",
-"text":"U+6749 檆 saam1 (per 《廣韻》所咸切) (F2.64 杉) 木名 (Page 16|n59 杉) Fir, pine (Kangxi: 煔似松); _ch'am muk_ (caam3 muk6 杉木) deal; _yat luk ch'am_ (jat1 luk1 caam3 一碌杉) a block of pine, a blockhead; _ch'am muk ling p'ai_ (caam3 muk6 ling4 paai4 杉木靈牌), a pine tablet---is worthless. Williams 一碌杉: Corrected _luk_ (luk6) to _luk_ (luk1)."
+"text":"U+6749 檆 saam1 (per 《廣韻》所咸切) (F2.64 杉) 木名 (Page 16|n59 #6: 杉) Fir, pine (Kangxi: 煔似松); _ch'am muk_ (caam3 muk6 杉木) deal; _yat luk ch'am_ (jat1 luk1 caam3 一碌杉) a block of pine, a blockhead; _ch'am muk ling p'ai_ (caam3 muk6 ling4 paai4 杉木靈牌), a pine tablet---is worthless. Williams 一碌杉: Corrected _luk_ (luk6) to _luk_ (luk1)."
 }
 },
 "劖":{
@@ -1978,7 +1978,7 @@
 "zam3":{
 "isCanonical":true,
 "williams":"cham(3) tsam(3)",
-"text":"U+6D78 寖 㴆 湛 濅 zam6 (for Cantonese \"drown\" sense) (F2.38 浸) 漬也潤也 (Page 15|n58 #2: 浸 _Cham_) A colloquial word. A coat, as of paint; a thickness, an envelop, a skin; _ts'at sam cham_ (cat1 saam1 zam3 漆三浸) varnished it three times; _mok yat cham p'i_ (mok1 jat1 zam3 pei4 剝一浸皮), pull off one covering. (Page 16|n59 湛 _Cham_ (zaam3); here corrected to _Tsam_ (zam3) and normalised to 浸) to soak, to immerse, to imbibe, as a sponge (Kangxi 湛: 與浸同漬也); to plunge in (Kangxi 湛: 投物水中也); (Page 551 浸 _Tsam_) To soak through, to penetrate (Kangxi: 漬也); to saturate, to steep in, to macerate, to wet (Kangxi: 潤也); to submerge, to immerse (Kangxi: 沒也); to flood, to lay under water, as fields (Kangxi: 涵也沈也澤之總名也); drenched, wet, imbued with, watered; gradually, gently (Kangxi: 漸也); _tsam sz'_ (zam3 sei2 浸死) drowned; _tsam t'ong_ (zam3 tong4 浸糖) soaked in syrup; _tsam yun_ (zam3 jeon6 浸潤) to imbue with, to prejudice against, to bias; _tsam cha_ (zam3 zaa6 浸？) niggardly, closefisted; _shui tsam_ (seoi2 zam3 水浸) overflowed, flooded; _hon tsam hung ngan_ (hon6 zam3 hung4 ngaan4 汗浸紅顏), the perspiration rolled down his face; _tsam shap_ (zam3 sap1 浸濕) wet it, soak it; _pi shui tsam chu_ (bei2 seoi2 zam3 zyu6 畀水浸住) cover it with water; _tsam tsau_ (zam3 zau2 浸酒), spirits in which fruits have been soaked; _tsam yap sam_ (zam3 jap6 sam1 浸入心), it is wet through. Some hold that the reading variation zam6 for the Cantonese \"drown\" sense is from Middle Chinese 直禁切 _cham_ (zam6) for 沈 (now spelt 沉). For this departing-tone reading of 沈, note that: 《廣韻》 provides no explanation (it simply cross-references the level-tone reading _ch'am_ (cam4) as 又直壬切). 《集韻》 has the explanation 沒也. Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也. Williams' 汗浸紅顏: Although 紅顏 does not preclude men, it is generally used to describe a lady's face. 【浸】 (tsimH) (_verb-like_) to soak, to immerse, (_met._) lake (_adverb-like_) gradually 【浸】 (zam3) Classifier for layers. 剷甩浸油 (caan2 lat1 zam3 jau4-2): \"Strip away the layer of paint.\" 有浸肥膏 (jau5 zam3 fei4 gou1): \"There's a layer of fat.\" The spelling 浸 is arbitrary."
+"text":"U+6D78 寖 㴆 湛 濅 zam6 (for Cantonese \"drown\" sense) (F2.38 浸) 漬也潤也 (Page 15|n58 #2: 浸 _Cham_) A colloquial word. A coat, as of paint; a thickness, an envelop, a skin; _ts'at sam cham_ (cat1 saam1 zam3 漆三浸) varnished it three times; _mok yat cham p'i_ (mok1 jat1 zam3 pei4 剝一浸皮), pull off one covering. (Page 16|n59 #1: 湛 _Cham_ (zaam3); here corrected to _Tsam_ (zam3) and normalised to 浸) to soak, to immerse, to imbibe, as a sponge (Kangxi 湛: 與浸同漬也); to plunge in (Kangxi 湛: 投物水中也); (Page 551 浸 _Tsam_) To soak through, to penetrate (Kangxi: 漬也); to saturate, to steep in, to macerate, to wet (Kangxi: 潤也); to submerge, to immerse (Kangxi: 沒也); to flood, to lay under water, as fields (Kangxi: 涵也沈也澤之總名也); drenched, wet, imbued with, watered; gradually, gently (Kangxi: 漸也); _tsam sz'_ (zam3 sei2 浸死) drowned; _tsam t'ong_ (zam3 tong4 浸糖) soaked in syrup; _tsam yun_ (zam3 jeon6 浸潤) to imbue with, to prejudice against, to bias; _tsam cha_ (zam3 zaa6 浸？) niggardly, closefisted; _shui tsam_ (seoi2 zam3 水浸) overflowed, flooded; _hon tsam hung ngan_ (hon6 zam3 hung4 ngaan4 汗浸紅顏), the perspiration rolled down his face; _tsam shap_ (zam3 sap1 浸濕) wet it, soak it; _pi shui tsam chu_ (bei2 seoi2 zam3 zyu6 畀水浸住) cover it with water; _tsam tsau_ (zam3 zau2 浸酒), spirits in which fruits have been soaked; _tsam yap sam_ (zam3 jap6 sam1 浸入心), it is wet through. Some hold that the reading variation zam6 for the Cantonese \"drown\" sense is from Middle Chinese 直禁切 _cham_ (zam6) for 沈 (now spelt 沉). For this departing-tone reading of 沈, note that: 《廣韻》 provides no explanation (it simply cross-references the level-tone reading _ch'am_ (cam4) as 又直壬切). 《集韻》 has the explanation 沒也. Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也. Williams' 汗浸紅顏: Although 紅顏 does not preclude men, it is generally used to describe a lady's face. 【浸】 (tsimH) (_verb-like_) to soak, to immerse, (_met._) lake (_adverb-like_) gradually 【浸】 (zam3) Classifier for layers. 剷甩浸油 (caan2 lat1 zam3 jau4-2): \"Strip away the layer of paint.\" 有浸肥膏 (jau5 zam3 fei4 gou1): \"There's a layer of fat.\" The spelling 浸 is arbitrary."
 },
 "zam6":{
 "isCanonical":false,
@@ -2073,7 +2073,7 @@
 "zaam3":{
 "isCanonical":true,
 "williams":"ch(a/)m(3)",
-"text":"U+6E5B 㴴 zaam6 (per Kangxi 宅減切 for non-surname senses and 丈陷切 for surname sense) (F2.65 湛) 澄湛清也淡也又姓 (Page 16|n59 湛) A northern affluent of the Yellow R. near Shansi (山西) (Kangxi: 一曰湛水豫章浸 etc.); deep (Kangxi: 深貌), limpid, still (Kangxi: 澄也澹也), as water; clear, calm (Kangxi: 湛安也), as a quiet moonlight. Heavy, thick (Kangxi: 重厚貌), abundantly dewy (Kangxi: 露盛貌). A surname (Kangxi: 姓也). 【湛】 (dreamX) (_adjective-like_) heavy, thick (_adjective-like_) deep"
+"text":"U+6E5B 㴴 zaam6 (per Kangxi 宅減切 for non-surname senses and 丈陷切 for surname sense) (F2.65 湛) 澄湛清也淡也又姓 (Page 16|n59 #1: 湛) A northern affluent of the Yellow R. near Shansi (山西) (Kangxi: 一曰湛水豫章浸 etc.); deep (Kangxi: 深貌), limpid, still (Kangxi: 澄也澹也), as water; clear, calm (Kangxi: 湛安也), as a quiet moonlight. Heavy, thick (Kangxi: 重厚貌), abundantly dewy (Kangxi: 露盛貌). A surname (Kangxi: 姓也). 【湛】 (dreamX) (_adjective-like_) heavy, thick (_adjective-like_) deep"
 },
 "zam3":{
 "isCanonical":false,
@@ -11887,7 +11887,7 @@
 "zaam3":{
 "isCanonical":true,
 "williams":"ch(a/)m(3)",
-"text":"U+8638 May appear as either ⿱艹醮 or ⿱艹⿱醀灬 (assumed here), depending on the font. (F2.65 蘸) 以物淬水中 (Page 16|n59 蘸) To dip (Kangxi: 以物投水也), as a pencil in ink, or sop a morsel in gravy; used by some for baptize. Fan Wan entry: Normalised headword ⿱艹⿰酉隹 (missing 灬) to 蘸, and corrected 禾 to 水. Williams' \"pencil\": In the (now) dated sense of a brush."
+"text":"U+8638 May appear as either ⿱艹醮 or ⿱艹⿱醀灬 (assumed here), depending on the font. (F2.65 蘸) 以物淬水中 (Page 16|n59 #2: 蘸) To dip (Kangxi: 以物投水也), as a pencil in ink, or sop a morsel in gravy; used by some for baptize. Fan Wan entry: Normalised headword ⿱艹⿰酉隹 (missing 灬) to 蘸, and corrected 禾 to 水. Williams' \"pencil\": In the (now) dated sense of a brush."
 }
 },
 "暫":{
@@ -11901,14 +11901,14 @@
 "zaam6":{
 "isCanonical":true,
 "williams":"ch(a/)m(6)",
-"text":"U+7AD9 zaam3 (per 《廣韻》陟陷切) (F2.71 站 _Chan_ (zaan6)) 站立也又音賺 (Page 16|n59 站) A stage, a journey; _yik cham_ (jik6 zaam6 驛站) a stage; _cham t'au_ (zaam6 tau4 站頭), end of a journey; _yat cham lo_ (jat1 zaam6 lou6 一站路) a stage, usually reckoned to be a league. (Page 19|n62 站 _Chan_ (zaan6); here corrected to _Cham_ (zaam6)) To stand (Kangxi: 久立也); to stand erect; to stop; a stoppage; _~~chan~~ cham hi loi_ (zaam6 hei2 loi4 站起來), stand up! _~~chan~~ cham pan_ (zaam6 baan1 站班), to file off in rank, and salute an officer. Fan Wan entry: Note that Fan Wan considers _chan_ (zaan6) to be the canonical reading of 站, with 賺 to be read _cham_ (zaam6). Williams' 驛站: Corrected _yik_ (jik1) to _yik_ (jik6). Stage meaning a relay station for horses."
+"text":"U+7AD9 zaam3 (per 《廣韻》陟陷切) (F2.71 站 _Chan_ (zaan6)) 站立也又音賺 (Page 16|n59 #4: 站) A stage, a journey; _yik cham_ (jik6 zaam6 驛站) a stage; _cham t'au_ (zaam6 tau4 站頭), end of a journey; _yat cham lo_ (jat1 zaam6 lou6 一站路) a stage, usually reckoned to be a league. (Page 19|n62 站 _Chan_ (zaan6); here corrected to _Cham_ (zaam6)) To stand (Kangxi: 久立也); to stand erect; to stop; a stoppage; _~~chan~~ cham hi loi_ (zaam6 hei2 loi4 站起來), stand up! _~~chan~~ cham pan_ (zaam6 baan1 站班), to file off in rank, and salute an officer. Fan Wan entry: Note that Fan Wan considers _chan_ (zaan6) to be the canonical reading of 站, with 賺 to be read _cham_ (zaam6). Williams' 驛站: Corrected _yik_ (jik1) to _yik_ (jik6). Stage meaning a relay station for horses."
 }
 },
 "賺":{
 "zaam6":{
 "isCanonical":true,
 "williams":"ch(a/)m(6)",
-"text":"U+8CFA 赚 (Mainland simplified) (F2.65 賺) 中淡切猶眈誤也阻之也生意獲利亦曰賺 (Page 16|n59 賺) To impede, to hinder (Fan Wan: 阻之也); to sell (Kangxi: 賣也), (...); to gain unfairly, to palm off poor goods (Kangxi: 一曰市物失實); _cho cham_ (zo2 zaam6 阻賺) to deceive; to hinder. Fan Wan entry: The supplied dissection 中淡切 is incorrect, as it results in the 陰去 reading _cham_ (zaam3), rather than the intended 陽去 reading _cham_ (zaam6). Normalised 𫉬 to 獲."
+"text":"U+8CFA 赚 (Mainland simplified) (F2.65 賺) 中淡切猶眈誤也阻之也生意獲利亦曰賺 (Page 16|n59 #3: 賺) To impede, to hinder (Fan Wan: 阻之也); to sell (Kangxi: 賣也), (...); to gain unfairly, to palm off poor goods (Kangxi: 一曰市物失實); _cho cham_ (zo2 zaam6 阻賺) to deceive; to hinder. Fan Wan entry: The supplied dissection 中淡切 is incorrect, as it results in the 陰去 reading _cham_ (zaam3), rather than the intended 陽去 reading _cham_ (zaam6). Normalised 𫉬 to 獲."
 },
 "zaan6":{
 "isCanonical":true,
@@ -12844,28 +12844,28 @@
 "zan1":{
 "isCanonical":true,
 "williams":"(1)chan",
-"text":"U+73CD 珎 鉁 錱 (F1.79 珍) 寶也重也貴也又珍珠 (F1.79 ？) 同上 (F1.79 珎) 同上 (Page 16|n59 珍) Valuable, precious (Kangxi: 寶也, 貴也), excellent (Kangxi: 美也); important (Kangxi: 重也), rare (Kangxi: 奇也), noble; to prize; a delicacy (Kangxi: 食之美者亦曰珍); a rarity, a treasure; _chan chu_ (zan1 zyu1 珍珠), pearls; _chan po_ (zan1 bou2 珍寶), precious; _chan chung_ (zan1 zung6 珍重) to take care of, as the health; to esteem; _chan mi_ (zan1 mei6 珍味) delicious; _chan chu fan_ (zan1 zyu1 fan2 珍珠粉), pearl sago; _cheung sheung chan_ (zoeng2 soeng6 zan1 掌上珍), a pearl in the hand---a daughter. 【珍】 (trin) (_noun-like_) precious-thing (_adjective-like_) precious"
+"text":"U+73CD 珎 鉁 錱 (F1.79 珍) 寶也重也貴也又珍珠 (F1.79 ？) 同上 (F1.79 珎) 同上 (Page 16|n59 #10: 珍) Valuable, precious (Kangxi: 寶也, 貴也), excellent (Kangxi: 美也); important (Kangxi: 重也), rare (Kangxi: 奇也), noble; to prize; a delicacy (Kangxi: 食之美者亦曰珍); a rarity, a treasure; _chan chu_ (zan1 zyu1 珍珠), pearls; _chan po_ (zan1 bou2 珍寶), precious; _chan chung_ (zan1 zung6 珍重) to take care of, as the health; to esteem; _chan mi_ (zan1 mei6 珍味) delicious; _chan chu fan_ (zan1 zyu1 fan2 珍珠粉), pearl sago; _cheung sheung chan_ (zoeng2 soeng6 zan1 掌上珍), a pearl in the hand---a daughter. 【珍】 (trin) (_noun-like_) precious-thing (_adjective-like_) precious"
 }
 },
 "甄":{
 "zan1":{
 "isCanonical":false,
 "williams":"(1)chan",
-"text":"U+7504 (Page 16|n59 甄)"
+"text":"U+7504 (Page 16|n59 #11: 甄)"
 }
 },
 "眞":{
 "zan1":{
 "isCanonical":false,
 "williams":"(1)chan",
-"text":"U+771E (F1.79 眞) 實也正也精也純也 (Page 16|n59 眞真)"
+"text":"U+771E (F1.79 眞) 實也正也精也純也 (Page 16|n59 #9: 眞真)"
 }
 },
 "真":{
 "zan1":{
 "isCanonical":true,
 "williams":"(1)chan",
-"text":"U+771F 眞 (F1.79 眞) 實也正也精也純也 (Page 16|n59 眞真) True, sincere, unfeigned, genuine, pure (Kangxi 眞: 不虛假也, 實也僞之反也); in fact, truly, indeed, no mistake; a likeness; actual, not secondary (Kangxi 眞: 正也); spiritual, subtle, pure, unmixed (Kangxi 眞: 神也淳也精也); _chan yan_ (zan1 jan4 真人), a sprite, a phantom of a man~~,~~; _chan ko ts'z'_ (zan1 go3 ci5 真個似) in fact, it was like; _se chan_ (se2 zan1 寫真), to draw portraits (Kangxi 眞: 畫像曰寫眞); _chan hai_ (zan1 hai6 真係) it is so; _chan tsong ching fan_ (zan1 zong1 zing3 faan6-2 真贓正犯) this thing proves him a thief; _'m chi chan ka_ (m4 zi1 zan1 gaa2 唔知真假), I don't know whether it is so or not; _chan sam_ (zan1 sam1 真心), true-hearted; _chan fui hi_ (zan1 fui3 hei3 真晦氣) low-spirited; _chan ching_ (zan1 zing3 真正) truly, indeed; _chan kong_ (zan1 gong2 真講), it ts really so. Williams' 真人: Kangxi has 《說文》仙人變形而登天也 under 眞, i.e. \"The immortal man changing form and ascending to Heaven\". In modern non-Taoist usage this sense is now obsolete, and 真人 now simply means \"real person\". Williams' 真贓正犯: Corrected _fan_ (fan6) to _fan_ (faan6). 【真】 (tsyin) (_adjective-like_) true 【認真】 (jing6-2 zan1) (_degree_) Really, truly. 認真傻 (jing6-2 zan1 so4): \"That's truly dumb.\" 【嚟真】 (lai4-2 zan1) To do for real (as opposed to a practice, test, or fake run). 今次嚟真㗎喇 (gam1 ci3 lai4-2 zan1 ga3 la3): \"This time it's for real!\""
+"text":"U+771F 眞 (F1.79 眞) 實也正也精也純也 (Page 16|n59 #9: 眞真) True, sincere, unfeigned, genuine, pure (Kangxi 眞: 不虛假也, 實也僞之反也); in fact, truly, indeed, no mistake; a likeness; actual, not secondary (Kangxi 眞: 正也); spiritual, subtle, pure, unmixed (Kangxi 眞: 神也淳也精也); _chan yan_ (zan1 jan4 真人), a sprite, a phantom of a man~~,~~; _chan ko ts'z'_ (zan1 go3 ci5 真個似) in fact, it was like; _se chan_ (se2 zan1 寫真), to draw portraits (Kangxi 眞: 畫像曰寫眞); _chan hai_ (zan1 hai6 真係) it is so; _chan tsong ching fan_ (zan1 zong1 zing3 faan6-2 真贓正犯) this thing proves him a thief; _'m chi chan ka_ (m4 zi1 zan1 gaa2 唔知真假), I don't know whether it is so or not; _chan sam_ (zan1 sam1 真心), true-hearted; _chan fui hi_ (zan1 fui3 hei3 真晦氣) low-spirited; _chan ching_ (zan1 zing3 真正) truly, indeed; _chan kong_ (zan1 gong2 真講), it ts really so. Williams' 真人: Kangxi has 《說文》仙人變形而登天也 under 眞, i.e. \"The immortal man changing form and ascending to Heaven\". In modern non-Taoist usage this sense is now obsolete, and 真人 now simply means \"real person\". Williams' 真贓正犯: Corrected _fan_ (fan6) to _fan_ (faan6). 【真】 (tsyin) (_adjective-like_) true 【認真】 (jing6-2 zan1) (_degree_) Really, truly. 認真傻 (jing6-2 zan1 so4): \"That's truly dumb.\" 【嚟真】 (lai4-2 zan1) To do for real (as opposed to a practice, test, or fake run). 今次嚟真㗎喇 (gam1 ci3 lai4-2 zan1 ga3 la3): \"This time it's for real!\""
 }
 },
 "賑":{

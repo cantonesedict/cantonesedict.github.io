@@ -213,7 +213,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (4)攙 _(4)Ch(')(a/)m_ (caam4); here normalised to _(1)Ch(')(a/)m_ (caam1)]]
+  - [[Page~16|n59 #5: (4)攙 _(4)Ch(')(a/)m_ (caam4); here normalised to _(1)Ch(')(a/)m_ (caam1)]]
     ==
     - To stab [[Kangxi: 刺也]];
     - to sustain, to support [[Kangxi: 一曰扶也]], to lead;
@@ -543,7 +543,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 儳(3)]]
+  - [[Page~16|n59 #8: 儳(3)]]
     ==
     - Irregular, disorderly [[Kangxi: 儳互不齊也]], as undrilled troops [[Kangxi: 師次不整]];
     - ~~unequal,~~ uneven [[Kangxi: 亦不齊也]];
@@ -599,7 +599,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 懺(3)]]
+  - [[Page~16|n59 #7: 懺(3)]]
     ==
     - To repent [[Kangxi: 悔也]];
     - to confess one's errors;
@@ -631,7 +631,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 杉(3)]]
+  - [[Page~16|n59 #6: 杉(3)]]
     ==
     - Fir, pine [[Kangxi: 煔似松]];
     - _ch(')(a/)m(3) muk(9)_
@@ -830,7 +830,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (4)攙]]
+  - [[Page~16|n59 #5: (4)攙]]
     --
     [[Reading variation (for the "stab" sense). **See $攙caam1 for the canonical entry.**]]
     --

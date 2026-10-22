@@ -322,7 +322,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 湛(3)]]
+  - [[Page~16|n59 #1: 湛(3)]]
     ==
     - A northern affluent of the Yellow~R. near Sh(a/)ns(i/) [[山西]] [[Kangxi: 一曰湛水豫章浸 etc.]];
     - [[...]];
@@ -367,7 +367,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 蘸(3)]]
+  - [[Page~16|n59 #2: 蘸(3)]]
     ==
     - To dip [[Kangxi: 以物投水也]], as a pencil in ink, or sop a morsel in gravy;
     - used by some for baptize.
@@ -502,7 +502,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 站(6)]]
+  - [[Page~16|n59 #4: 站(6)]]
     ==
     - A stage, a journey;
     - _~~yik(7)~~ ``yik(9)`` ch(a/)m(6)_
@@ -556,7 +556,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 賺(6)]]
+  - [[Page~16|n59 #3: 賺(6)]]
     ==
     - To impede, to hinder [[Fan Wan: 阻之也]];
     - to sell [[Kangxi: 賣也]], [[...]];

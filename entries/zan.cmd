@@ -105,7 +105,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 (1)珍]]
+  - [[Page~16|n59 #10: (1)珍]]
     ==
     - Valuable, precious [[Kangxi: 寶也, 貴也]], excellent [[Kangxi: 美也]];
     - important [[Kangxi: 重也]], rare [[Kangxi: 奇也]], noble;
@@ -154,7 +154,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (1)甄]]
+  - [[Page~16|n59 #11: (1)甄]]
     --
     [[Reading variation. **See $甄jan1 for the canonical entry.**]] [[TODO]]
     --
@@ -178,7 +178,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 (1)眞(1)真]]
+  - [[Page~16|n59 #9: (1)眞(1)真]]
     --
     [[Alternative form of 真. **See $真zan1 for the canonical entry.**]]
     --
@@ -202,7 +202,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 (1)眞(1)真]]
+  - [[Page~16|n59 #9: (1)眞(1)真]]
     ==
     - True, sincere, unfeigned, genuine, pure [[Kangxi 眞: 不虛假也, 實也僞之反也]];
     - in fact, truly, indeed, no mistake;

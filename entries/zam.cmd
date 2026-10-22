@@ -700,7 +700,7 @@ W
         [[mok1 jat1 zam3 pei4 剝一浸皮]],
         pull off one covering.
     ==
-  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3) and normalised to 浸]]
+  - [[Page~16|n59 #1: 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3) and normalised to 浸]]
     ==
     - [[...]];
     - to soak, to immerse, to imbibe, as a sponge [[Kangxi 湛: 與浸同漬也]];
