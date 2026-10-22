@@ -1526,7 +1526,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $賺zaam6
+      - $賺zaam6, $賺zaan6
       ==
       </nav>
   //
@@ -1941,6 +1941,128 @@ OrdinaryDictionaryReplacement: #.properties-override
       <nav class="sideways">
       ==
       - $綻zaan6
+      ==
+      </nav>
+  //
+    ,{r=13} Page~20|n63
+    ,{#page-20-entry-1} #1
+    ,{.williams} 贃(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $賺zaan6
+      - ($贃zaan6)
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-2} #2
+    ,{.williams} (2)產
+    ,
+      <nav class="sideways">
+      ==
+      - $產caan2
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-3} #3
+    ,{.williams} (2)嵼
+    ,
+      <nav class="sideways">
+      ==
+      - $嵼caan2
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-4} #4
+    ,{.williams} (2)剷(2)剗
+    ,
+      <nav class="sideways">
+      ==
+      - ($剗caan2)
+      - $剷caan2
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-5} #5
+    ,{.williams} (2)鏟
+    ,
+      <nav class="sideways">
+      ==
+      - $鏟caan2
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-6} #6
+    ,{.williams} (5)棖
+    ,
+      <nav class="sideways">
+      ==
+      - $棖caam5, ($棖caan5)
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-7} #7
+    ,{.williams} (1)箏
+    ,
+      <nav class="sideways">
+      ==
+      - $箏zang1
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-8} #8
+    ,{.williams} (1)净
+    ,
+      <nav class="sideways">
+      ==
+      - $凈zang1
+      - $淨zing6
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-9} #9
+    ,{.williams} (1)棦
+    ,
+      <nav class="sideways">
+      ==
+      - $棦zang1
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-10} #10
+    ,{.williams} (1)琤
+    ,
+      <nav class="sideways">
+      ==
+      - $琤zang1
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-11} #11
+    ,{.williams} (1)錚
+    ,
+      <nav class="sideways">
+      ==
+      - $錚zang1
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-12} #12
+    ,{.williams} 諍(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $諍zang3
+      ==
+      </nav>
+  //
+    ,{#page-20-entry-13} #13
+    ,{.williams} (1)爭
+    ,
+      <nav class="sideways">
+      ==
+      - $爭zang1
+      - $諍zang3
       ==
       </nav>
   //

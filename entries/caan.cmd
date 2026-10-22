@@ -180,7 +180,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)剷(2)剗]]
+  - [[Page~20|n63 #4: (2)剷(2)剗]]
     --
     [[Alternative form of 剷. **See $剷caan2 for the canonical entry.**]]
     --
@@ -215,7 +215,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)剷(2)剗]]
+  - [[Page~20|n63 #4: (2)剷(2)剗]]
     --
     Interchanged with the next [[鏟]].
     --
@@ -270,7 +270,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)嵼]]
+  - [[Page~20|n63 #3: (2)嵼]]
     ==
     - Tortuous paths among the mountains [[Kangxi: {𡾰=⿰山蹇}嵼山屈曲貌]];
     - _(2)k(i/)n (2)ch(')(a/)n_
@@ -302,7 +302,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)產]]
+  - [[Page~20|n63 #2: (2)產]]
     ==
     - To produce, to grow [[Kangxi: 生也]];
     - to bear, to increase;
@@ -374,7 +374,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)鏟]]
+  - [[Page~20|n63 #5: (2)鏟]]
     ==
     - A thin iron plate [[Kangxi: 鏶也]];
     - a shovel, a plane;
@@ -705,7 +705,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (5)棖]]
+  - [[Page~20|n63 #6: (5)棖]]
     --
     [[Reading variation. **See $棖caam5 for the canonical entry.**]]
     --

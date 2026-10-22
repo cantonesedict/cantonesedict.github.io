@@ -1003,13 +1003,13 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 賺(6) _Ch(a/)m(6)_ (zaam6); here normalised to _Ch(a/)n(6)_ (zaan6)]]
+  - [[Page~16|n59 #3: 賺(6) _Ch(a/)m(6)_ (zaam6); here normalised to _Ch(a/)n(6)_ (zaan6)]]
     ==
     - [[...]];
     - [[...]] to profit;
     - [[...]].
     ==
-  - [[Page~20|n63 贃(6); here normalised to 賺]]
+  - [[Page~20|n63 #1: 贃(6); here normalised to 賺]]
     --
     An unauthorized word.
     --
@@ -1059,7 +1059,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 贃(6)]]
+  - [[Page~20|n63 #1: 贃(6)]]
     --
     [[Alternative form of 賺. **See $賺zaan6 for the canonical entry.**]]
     --

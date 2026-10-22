@@ -1366,12 +1366,12 @@
 "caam5":{
 "isCanonical":true,
 "williams":"(5)ch(')(a/)m",
-"text":"U+68D6 枨 (Mainland simplified) caan5 (per Williams) (Page 20|n63 棖 _Ch'an_ (caan5); here normalised to _Ch'am_ (caam5)) A colloquial word. A door sill; a threshold; _k'i mun ~~ch'an~~ ch'am_ (kei5 mun4 caam5 企門棖), standing in the door-way. 【門棖】 (mun4 caam5) A doorsill. The spelling 棖 is arbitrary."
+"text":"U+68D6 枨 (Mainland simplified) caan5 (per Williams) (Page 20|n63 #6: 棖 _Ch'an_ (caan5); here normalised to _Ch'am_ (caam5)) A colloquial word. A door sill; a threshold; _k'i mun ~~ch'an~~ ch'am_ (kei5 mun4 caam5 企門棖), standing in the door-way. 【門棖】 (mun4 caam5) A doorsill. The spelling 棖 is arbitrary."
 },
 "caan5":{
 "isCanonical":false,
 "williams":"(5)ch(')(a/)n",
-"text":"U+68D6 (Page 20|n63 棖)"
+"text":"U+68D6 (Page 20|n63 #6: 棖)"
 },
 "caang4":{
 "isCanonical":true,
@@ -1409,7 +1409,7 @@
 "caan2":{
 "isCanonical":false,
 "williams":"(2)ch(')(a/)n",
-"text":"U+5257 (F2.69 剷) 削平也 (F2.69 剗) 同上 (Page 20|n63 剷剗)"
+"text":"U+5257 (F2.69 剷) 削平也 (F2.69 剗) 同上 (Page 20|n63 #4: 剷剗)"
 },
 "zin2":{
 "isCanonical":true,
@@ -1421,28 +1421,28 @@
 "caan2":{
 "isCanonical":true,
 "williams":"(2)ch(')(a/)n",
-"text":"U+5277 May appear as either ⿰產刂 (assumed here) or ⿰産刂, depending on the font. 剗 鏟 铲 (Mainland simplified) (F2.69 剷) 削平也 (F2.69 剗) 同上 (Page 20|n63 剷剗) Interchanged with the next (鏟). To level off (Kangxi 剗: 削也, 平也), to spade up; to trim iron; _ch'an t'ai to_ (caan2 tai3 dou1 剷剃刀), to plane a razor; _hom ka ch'an_ (ham6 gaa1 caan2 冚家剷), may your race all be cut off; _ch'an heung_ (caan2 hoeng1 剷香), sandalwood shavings burned for the dead. 【剷】 (caan2) To delete, especially permanently. 剷咗佢 (caan2 zo2 keoi5): \"Delete it.\" 【冚家剷】 (ham6 gaa1 caan2) A curse that someone's entire family be annihilated."
+"text":"U+5277 May appear as either ⿰產刂 (assumed here) or ⿰産刂, depending on the font. 剗 鏟 铲 (Mainland simplified) (F2.69 剷) 削平也 (F2.69 剗) 同上 (Page 20|n63 #4: 剷剗) Interchanged with the next (鏟). To level off (Kangxi 剗: 削也, 平也), to spade up; to trim iron; _ch'an t'ai to_ (caan2 tai3 dou1 剷剃刀), to plane a razor; _hom ka ch'an_ (ham6 gaa1 caan2 冚家剷), may your race all be cut off; _ch'an heung_ (caan2 hoeng1 剷香), sandalwood shavings burned for the dead. 【剷】 (caan2) To delete, especially permanently. 剷咗佢 (caan2 zo2 keoi5): \"Delete it.\" 【冚家剷】 (ham6 gaa1 caan2) A curse that someone's entire family be annihilated."
 }
 },
 "嵼":{
 "caan2":{
 "isCanonical":true,
 "williams":"(2)ch(')(a/)n",
-"text":"U+5D7C May appear as either ⿰山產 (assumed here) or ⿰山産, depending on the font. (F2.69 嵼) 𡾰嵼山屈曲貌 (Page 20|n63 嵼) Tortuous paths among the mountains (Kangxi: 𡾰嵼山屈曲貌); _kin ch'an_ (gin2 caan2 𡾰嵼), winding, crooked, as paths."
+"text":"U+5D7C May appear as either ⿰山產 (assumed here) or ⿰山産, depending on the font. (F2.69 嵼) 𡾰嵼山屈曲貌 (Page 20|n63 #3: 嵼) Tortuous paths among the mountains (Kangxi: 𡾰嵼山屈曲貌); _kin ch'an_ (gin2 caan2 𡾰嵼), winding, crooked, as paths."
 }
 },
 "產":{
 "caan2":{
 "isCanonical":true,
 "williams":"(2)ch(')(a/)n",
-"text":"U+7522 産 产 (Mainland simplified) saan2 (per 《廣韻》所簡切) (F2.69 產) 生業也又生產 (Page 20|n63 產) To produce, to grow (Kangxi: 生也); to bear, to increase; an estate, a patrimony; an occupation (Kangxi: 民業曰產); the productions of a country (Kangxi: 本其所生長之地曰產); natives; a sort of flageolet (Kangxi: 大籥似笛三孔而短); a birth, act of parturition (Kangxi: 婦生子曰產); _po ch'an_ (bou2 caan2 保產), a strengthening pill for pregnancy; _siu ch'an_ (siu2 caan2 小產), ~~an~~ a spontaneous abortion; _fan ch'an_ (fan1 caan2 分產) to divide the patrimony; _shang ch'an_ (sang1 caan2 生產), an increase, to have a child; _ch'an ip_ (caan2 jip6 產業) one's property, real estate; _ka ch'an_ (gaa1 caan2 家產), family possessions; _t'o ch'an_ (tou2 caan2 土產), native productions; _k'ing ka pai ch'an_ (king1 gaa1 baai6 caan2 傾家敗產) the family lost everything. Williams' 小產: Now called a miscarriage. 【產】 (sreanX) (_verb-like_) to produce, to bear (_noun-like_) property"
+"text":"U+7522 産 产 (Mainland simplified) saan2 (per 《廣韻》所簡切) (F2.69 產) 生業也又生產 (Page 20|n63 #2: 產) To produce, to grow (Kangxi: 生也); to bear, to increase; an estate, a patrimony; an occupation (Kangxi: 民業曰產); the productions of a country (Kangxi: 本其所生長之地曰產); natives; a sort of flageolet (Kangxi: 大籥似笛三孔而短); a birth, act of parturition (Kangxi: 婦生子曰產); _po ch'an_ (bou2 caan2 保產), a strengthening pill for pregnancy; _siu ch'an_ (siu2 caan2 小產), ~~an~~ a spontaneous abortion; _fan ch'an_ (fan1 caan2 分產) to divide the patrimony; _shang ch'an_ (sang1 caan2 生產), an increase, to have a child; _ch'an ip_ (caan2 jip6 產業) one's property, real estate; _ka ch'an_ (gaa1 caan2 家產), family possessions; _t'o ch'an_ (tou2 caan2 土產), native productions; _k'ing ka pai ch'an_ (king1 gaa1 baai6 caan2 傾家敗產) the family lost everything. Williams' 小產: Now called a miscarriage. 【產】 (sreanX) (_verb-like_) to produce, to bear (_noun-like_) property"
 }
 },
 "鏟":{
 "caan2":{
 "isCanonical":true,
 "williams":"(2)ch(')(a/)n",
-"text":"U+93DF May appear as either ⿰釒產 (assumed here) or ⿰釒産, depending on the font. 剷 铲 (Mainland simplified) (F2.69 鏟) 平木之器 (Page 20|n63 鏟) A thin iron plate (Kangxi: 鏶也); a shovel, a plane; a spoke-shave, an iron shave (Kangxi: 一曰平䥫, 平木鐵器); to cut and pare (Kangxi: 損削也); to level; _wok ch'an_ (wok6 caan2 鑊鏟), a rice shovel; _yat fu ch'an k'im_ (jat1 fu3 caan2 kim4 一副鏟鉗), a set of shovel and tongs; _ch'an ts'o ch'u kan_ (caan2 cou2 ceoi4 gan1 鏟草除根), to root out, to extirpate; _ch'an shan_ (caan2 saan1 鏟山), to scarp hills, to dig in a level. 【煙鏟】 (jin1 caan2) A heavy smoker. 正煙鏟 (zing3 jin1 caan2): \"He's a right smokaholic.\""
+"text":"U+93DF May appear as either ⿰釒產 (assumed here) or ⿰釒産, depending on the font. 剷 铲 (Mainland simplified) (F2.69 鏟) 平木之器 (Page 20|n63 #5: 鏟) A thin iron plate (Kangxi: 鏶也); a shovel, a plane; a spoke-shave, an iron shave (Kangxi: 一曰平䥫, 平木鐵器); to cut and pare (Kangxi: 損削也); to level; _wok ch'an_ (wok6 caan2 鑊鏟), a rice shovel; _yat fu ch'an k'im_ (jat1 fu3 caan2 kim4 一副鏟鉗), a set of shovel and tongs; _ch'an ts'o ch'u kan_ (caan2 cou2 ceoi4 gan1 鏟草除根), to root out, to extirpate; _ch'an shan_ (caan2 saan1 鏟山), to scarp hills, to dig in a level. 【煙鏟】 (jin1 caan2) A heavy smoker. 正煙鏟 (zing3 jin1 caan2): \"He's a right smokaholic.\""
 }
 },
 "燦":{
@@ -11913,7 +11913,7 @@
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+8CFA 贃 赚 (Mainland simplified) zaam6 (per 《集韻》直陷切) (F2.65 賺 _Cham_ (zaam6)) 中淡切猶眈誤也阻之也生意獲利亦曰賺 (Page 16|n59 賺 _Cham_ (zaam6); here normalised to _Chan_ (zaan6)) (...) to profit; (Page 20|n63 贃; here normalised to 賺) An unauthorized word. To profit, to make gain in trade; _chan ts'in_ (zaan6 cin4-2 賺錢), to make money; _to chan_ (do1 zaan6 多賺) profitable; _mo tak chan_ (mou5 dak1 zaan6 冇得賺) no profit; _chan tak lo_ (zaan6 dak1 lou1 賺得撈), got my outlay back; _chan wan_ (zaan6 wan6 賺混) nothing but a trouble. Fan Wan entry: The supplied dissection 中淡切 is incorrect, as it results in the 陰去 reading _cham_ (zaam3), rather than the intended 陽去 reading _cham_ (zaam6). Normalised 𫉬 to 獲."
+"text":"U+8CFA 贃 赚 (Mainland simplified) zaam6 (per 《集韻》直陷切) (F2.65 賺 _Cham_ (zaam6)) 中淡切猶眈誤也阻之也生意獲利亦曰賺 (Page 16|n59 #3: 賺 _Cham_ (zaam6); here normalised to _Chan_ (zaan6)) (...) to profit; (Page 20|n63 #1: 贃; here normalised to 賺) An unauthorized word. To profit, to make gain in trade; _chan ts'in_ (zaan6 cin4-2 賺錢), to make money; _to chan_ (do1 zaan6 多賺) profitable; _mo tak chan_ (mou5 dak1 zaan6 冇得賺) no profit; _chan tak lo_ (zaan6 dak1 lou1 賺得撈), got my outlay back; _chan wan_ (zaan6 wan6 賺混) nothing but a trouble. Fan Wan entry: The supplied dissection 中淡切 is incorrect, as it results in the 陰去 reading _cham_ (zaam3), rather than the intended 陽去 reading _cham_ (zaam6). Normalised 𫉬 to 獲."
 }
 },
 "儹":{
@@ -12059,7 +12059,7 @@
 "zaan6":{
 "isCanonical":false,
 "williams":"ch(a/)n(6)",
-"text":"U+8D03 (Page 20|n63 贃)"
+"text":"U+8D03 (Page 20|n63 #1: 贃)"
 }
 },
 "輚":{
@@ -12097,7 +12097,7 @@
 "zang1":{
 "isCanonical":true,
 "williams":"(1)chang",
-"text":"U+68E6 May appear as either ⿰木争 (+6) or ⿰木爭 (+8 assumed here), depending on the font. caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (F2.29 棦) 木節 (Page 20|n63 棦) A bundle of sticks, a number of sticks tied up into a faggot (Kangxi: 木束也)."
+"text":"U+68E6 May appear as either ⿰木争 (+6) or ⿰木爭 (+8 assumed here), depending on the font. caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (F2.29 棦) 木節 (Page 20|n63 #9: 棦) A bundle of sticks, a number of sticks tied up into a faggot (Kangxi: 木束也)."
 }
 },
 "爭":{
@@ -12114,7 +12114,7 @@
 "zang1":{
 "isCanonical":true,
 "williams":"(1)chang",
-"text":"U+722D 争 諍 zaang1 (longer syllable) (F2.29 爭) 爭競爭闘 (Page 20|n63 爭 _Chang_ (zaang1); here normalised to _Chang_ (zang1) when appropriate) To wrangle, to strive for precedence (Kangxi: 引也, 競也); to contest, to litigate (Kangxi: 訟也); ~~A colloquial word;~~ ~~just, only, nearly, a little;~~ _chang noi_ (zang1 noi6 爭奈) but still, howbeit, nevertheless; _chang tam hi_ (zaang1 daam6 hei3 爭啖氣) unforgiving, choleric; _chang li ho_ (zaang1 lei4 hou4 爭釐毫), to quarrel upon trifles; _chang mat ye_ (zaang1 mat1 je5 爭乜嘢), what are you quarreling about? _chang tik sheung tong_ (zaang1 dik1 soeng5 dong3 爭滴上當) I came near being gulled; _chang tau_ (zang1 dau3 爭鬥) to fight, to fall to blows; _chang tsung_ (zang1 zung6 爭訟) to go to law; _chang kung_ (zaang1 gung1 爭功), to ~~emulate~~ claim merit; _chang tut_ (zang1 dyut6 爭奪) to take by force; _chang chap_ (zang1 zap1 爭執) obstinate; _chang yau han_ (zaang1 jau5 haan6 爭有限) differs a little; _chang tik chuk to k'u_ (zaang1 dik1 zuk1 dou3-2 keoi5 爭滴捉到佢), all but caught him; _chang au_ (zang1 aau3 爭詏) to dispute; _chang tak to_ (zaang1 dak1 do1 爭得多), very different; not enough; _chang kau_ (zaang1 gau3 爭夠) I'm tired of striving, I'll contend no more. Fan Wan places 爭 under the short syllable _chang_ (zang1); Williams places it under the longer _chang_ (zaang1). The longer syllable _chang_ (zaang1) is preferred in the vernacular register, so normalisation to the shorter _chang_ (zang1) is only appropriate in some instances. Williams' \"A colloquial word\" etc.: Yes it is a vernacular word, but the meaning is to differ or to lack (see below), not \"just\", \"only\", etc. Williams' 爭奪: Corrected _tut_ (dyut3) to _tut_ (dyut6). Williams' 爭得多: Corrected _to_ (dou1) to _to_ (do1). 【爭】 (tsreang) (_verb-like_) to strive, to dispute 【爭】 (zaang1) To differ by. 爭好遠 (zaang1 hou2 jyun5): \"Off by very far\" 爭少少 (zaang1 siu2 siu2): \"Off by a little.\" 爭啲 (zaang1 di1): \"Off by a bit.\" To lack, to be missing, to be short. 爭對筷子 (zaang1 deoi3 faai3 zi2): \"Short a pair of chopsticks.\" 爭一毫 (zaang1 jat1 hou4): \"Ten cents short.\" To owe. 爭住先 (zaang1 zyu6 sin1): \"I owe you for now\" (i.e. I'll pay you back later). 爭佢錢 (zaang1 keoi5 cin4-2): \"I owe him money.\" 【爭在】 (zaang1 zoi6) To matter. Especially used in contrast to something that does not matter (or in contrast to something that does matter when used in the negative, 唔爭在). 輸就輸硬、爭在輸幾多 (syu1 zau6 syu1 ngaang6, zaang1 zoi6 syu1 gei2 do1): \"Yes they've lost for sure, but what matters now is how much they lose by.\" 唔爭在遲多兩分鐘 (m4 zaang1 zoi6 ci4 do1 loeng5 fan1 zung1): \"It won't matter that we're two more minutes late on top of how late we are now.\" To be lacking in, or to fall short in. 平就平、爭在唔夠飽 (peng4 zau6 peng4, zaang1 zoi6 m4 gau3 baau2): \"Yes it's cheap, but it falls short in that it's not adequately filling.\""
+"text":"U+722D 争 諍 zaang1 (longer syllable) (F2.29 爭) 爭競爭闘 (Page 20|n63 #13: 爭 _Chang_ (zaang1); here normalised to _Chang_ (zang1) when appropriate) To wrangle, to strive for precedence (Kangxi: 引也, 競也); to contest, to litigate (Kangxi: 訟也); ~~A colloquial word;~~ ~~just, only, nearly, a little;~~ _chang noi_ (zang1 noi6 爭奈) but still, howbeit, nevertheless; _chang tam hi_ (zaang1 daam6 hei3 爭啖氣) unforgiving, choleric; _chang li ho_ (zaang1 lei4 hou4 爭釐毫), to quarrel upon trifles; _chang mat ye_ (zaang1 mat1 je5 爭乜嘢), what are you quarreling about? _chang tik sheung tong_ (zaang1 dik1 soeng5 dong3 爭滴上當) I came near being gulled; _chang tau_ (zang1 dau3 爭鬥) to fight, to fall to blows; _chang tsung_ (zang1 zung6 爭訟) to go to law; _chang kung_ (zaang1 gung1 爭功), to ~~emulate~~ claim merit; _chang tut_ (zang1 dyut6 爭奪) to take by force; _chang chap_ (zang1 zap1 爭執) obstinate; _chang yau han_ (zaang1 jau5 haan6 爭有限) differs a little; _chang tik chuk to k'u_ (zaang1 dik1 zuk1 dou3-2 keoi5 爭滴捉到佢), all but caught him; _chang au_ (zang1 aau3 爭詏) to dispute; _chang tak to_ (zaang1 dak1 do1 爭得多), very different; not enough; _chang kau_ (zaang1 gau3 爭夠) I'm tired of striving, I'll contend no more. Fan Wan places 爭 under the short syllable _chang_ (zang1); Williams places it under the longer _chang_ (zaang1). The longer syllable _chang_ (zaang1) is preferred in the vernacular register, so normalisation to the shorter _chang_ (zang1) is only appropriate in some instances. Williams' \"A colloquial word\" etc.: Yes it is a vernacular word, but the meaning is to differ or to lack (see below), not \"just\", \"only\", etc. Williams' 爭奪: Corrected _tut_ (dyut3) to _tut_ (dyut6). Williams' 爭得多: Corrected _to_ (dou1) to _to_ (do1). 【爭】 (tsreang) (_verb-like_) to strive, to dispute 【爭】 (zaang1) To differ by. 爭好遠 (zaang1 hou2 jyun5): \"Off by very far\" 爭少少 (zaang1 siu2 siu2): \"Off by a little.\" 爭啲 (zaang1 di1): \"Off by a bit.\" To lack, to be missing, to be short. 爭對筷子 (zaang1 deoi3 faai3 zi2): \"Short a pair of chopsticks.\" 爭一毫 (zaang1 jat1 hou4): \"Ten cents short.\" To owe. 爭住先 (zaang1 zyu6 sin1): \"I owe you for now\" (i.e. I'll pay you back later). 爭佢錢 (zaang1 keoi5 cin4-2): \"I owe him money.\" 【爭在】 (zaang1 zoi6) To matter. Especially used in contrast to something that does not matter (or in contrast to something that does matter when used in the negative, 唔爭在). 輸就輸硬、爭在輸幾多 (syu1 zau6 syu1 ngaang6, zaang1 zoi6 syu1 gei2 do1): \"Yes they've lost for sure, but what matters now is how much they lose by.\" 唔爭在遲多兩分鐘 (m4 zaang1 zoi6 ci4 do1 loeng5 fan1 zung1): \"It won't matter that we're two more minutes late on top of how late we are now.\" To be lacking in, or to fall short in. 平就平、爭在唔夠飽 (peng4 zau6 peng4, zaang1 zoi6 m4 gau3 baau2): \"Yes it's cheap, but it falls short in that it's not adequately filling.\""
 },
 "zang3":{
 "isCanonical":false,
@@ -12131,7 +12131,7 @@
 "zang1":{
 "isCanonical":true,
 "williams":"(1)chang",
-"text":"U+7424 May appear as either ⿰𤣩争 (+6) or ⿰𤣩爭 (+8 assumed here), depending on the font. caang1 (per 《廣韻》楚庚切 and 楚耕切) zaang1 (longer syllable) (F2.29 琤) 玉聲 (Page 20|n63 琤) The tinkling sound of gems when they are struck or rung together (Kangxi: 玉聲)."
+"text":"U+7424 May appear as either ⿰𤣩争 (+6) or ⿰𤣩爭 (+8 assumed here), depending on the font. caang1 (per 《廣韻》楚庚切 and 楚耕切) zaang1 (longer syllable) (F2.29 琤) 玉聲 (Page 20|n63 #10: 琤) The tinkling sound of gems when they are struck or rung together (Kangxi: 玉聲)."
 }
 },
 "箏":{
@@ -12143,7 +12143,7 @@
 "zang1":{
 "isCanonical":true,
 "williams":"(1)chang",
-"text":"U+7B8F 筝 zaang1 (longer syllable) (F2.29 筝) 樂器十二絃 (Page 20|n63 箏) A kind of harpsichord with 12 copper strings (Kangxi: 鼓絃竹身樂也, 箏瑟類本十二絃今則十三); _fung chang_ (fung1 zang1 風箏), glasses hung to jingle in the wind; _la chang_ (laa2 zang1 揦箏), to thrum the guitar; _fong fung chang_ (fong3 fung1 zang1 放風箏), to fly a singing kite."
+"text":"U+7B8F 筝 zaang1 (longer syllable) (F2.29 筝) 樂器十二絃 (Page 20|n63 #7: 箏) A kind of harpsichord with 12 copper strings (Kangxi: 鼓絃竹身樂也, 箏瑟類本十二絃今則十三); _fung chang_ (fung1 zang1 風箏), glasses hung to jingle in the wind; _la chang_ (laa2 zang1 揦箏), to thrum the guitar; _fong fung chang_ (fong3 fung1 zang1 放風箏), to fly a singing kite."
 }
 },
 "㬹":{
@@ -12169,7 +12169,7 @@
 "zang1":{
 "isCanonical":true,
 "williams":"(1)chang",
-"text":"U+931A May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here), depending on the font. 鏳 铮 (Mainland simplified) caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (F2.29 錚) 金聲 (Page 20|n63 錚) A small cymbal, a small sized gong (Kangxi: 鉦也); the ringing sound of metals (Kangxi: 金聲也). The reading _chang_ (zang1) is not unattested; 《集韻》 has the reading 甾莖切, explained 說文金聲也."
+"text":"U+931A May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here), depending on the font. 鏳 铮 (Mainland simplified) caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (F2.29 錚) 金聲 (Page 20|n63 #11: 錚) A small cymbal, a small sized gong (Kangxi: 鉦也); the ringing sound of metals (Kangxi: 金聲也). The reading _chang_ (zang1) is not unattested; 《集韻》 has the reading 甾莖切, explained 說文金聲也."
 }
 },
 "諍":{
@@ -12186,7 +12186,7 @@
 "zang3":{
 "isCanonical":true,
 "williams":"chang(3)",
-"text":"U+8ACD May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here), depending on the font. 争 爭 诤 (Mainland simplified) zaang3 (longer syllable) (F2.29 諍 _Chang_ (zang6)) 諫諍救正之也 (Page 20|n63 諍) To remonstrate with; to stop a wrong (Kangxi: 止也, 謂止其失也, 諫諍救正也); _kan chang_ (gaan3 zang3 諫諍) to reprove one's sovereign; to reprehend. (Page 20|n63 爭 _Chang_ (zaang1); _Chang_ (zang3) implied) to reprove, to remonstrate, in which senses it is used for the last (諍) (Kangxi 爭: 本作諍諫諍也止也). Fan Wan entry: 諍 is spuriously placed under the final _ang_ (ang6)."
+"text":"U+8ACD May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here), depending on the font. 争 爭 诤 (Mainland simplified) zaang3 (longer syllable) (F2.29 諍 _Chang_ (zang6)) 諫諍救正之也 (Page 20|n63 #12: 諍) To remonstrate with; to stop a wrong (Kangxi: 止也, 謂止其失也, 諫諍救正也); _kan chang_ (gaan3 zang3 諫諍) to reprove one's sovereign; to reprehend. (Page 20|n63 #13: 爭 _Chang_ (zaang1); _Chang_ (zang3) implied) to reprove, to remonstrate, in which senses it is used for the last (諍) (Kangxi 爭: 本作諍諫諍也止也). Fan Wan entry: 諍 is spuriously placed under the final _ang_ (ang6)."
 }
 },
 "劄":{
@@ -12945,7 +12945,7 @@
 "zang1":{
 "isCanonical":true,
 "williams":"(1)chang",
-"text":"U+51C8 净 caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (Page 20|n63 净; here normalised to 凈) Cold, shivering (Kangxi 凈: 冷貌)."
+"text":"U+51C8 净 caang1 (per 《廣韻》楚耕切) zaang1 (longer syllable) (Page 20|n63 #8: 净; here normalised to 凈) Cold, shivering (Kangxi 凈: 冷貌)."
 }
 },
 "增":{
@@ -13877,7 +13877,7 @@
 "zing6":{
 "isCanonical":true,
 "williams":"tsing(6)",
-"text":"U+6DE8 净 凈 浄 瀞 zeng6 (vernacular adjective \"clean\") (F1.73 淨) 潔淨不汚也 (Page 20|n63 净) Incorrectly but commonly used for 淨 _tsing_ (zing6) clean. (Page 576 before 精) (The three next (精, 井, 淨) are often pronounced _tseng_ (zeng)) (Page 576 淨) Clean, pure, spotless, undefiled (Kangxi: 無垢也潔也); upright, guileless; to wash clean, to cleanse; only; all; a rapids in the R. Han (漢) (Kangxi: 灘名, 漢水東爲淨灘); _kon tseng_ (gon1 zeng6 乾淨) clean, pure; _kit tseng_ (git3 zeng6 潔淨) clean, to purify one's heart; _tsing ~~chung~~ ch'ung_ (zing6 cung5 淨重) the nett weight; _tseng shui fu_ (zeng6 seoi2 fu4), a cleansing charm, used in houses; _yat ko to hu kon tseng_ (jat1 go3 dou1 heoi3 gon1 zeng6 一個都去乾淨) every one has gone. Fan Wan entry: Corrected 𠎧 to 潔. Williams' 淨重: Corrected _chung_ (zung6 去聲) to _ch'ung_ (cung5 上聲). 【淨】 (dzjengH) (_adjective-like_) clean (_verb-like_) to cleanse 【淨】 (zing6) Purely, only. 淨麵 (zing6 min6): \"Only noodles.\" 淨魚蛋 (zing6 jyu4 daan6-2): \"Only fish-balls\" (i.e. without noodles). 淨食餸 (zing6 sik6 sung3): \"Only eating dishes\" (i.e. without rice). 淨係佢去 (zing6 hai6 keoi5 heoi3): \"Only he is going.\""
+"text":"U+6DE8 净 凈 浄 瀞 zeng6 (vernacular adjective \"clean\") (F1.73 淨) 潔淨不汚也 (Page 20|n63 #8: 净) Incorrectly but commonly used for 淨 _tsing_ (zing6) clean. (Page 576 before 精) (The three next (精, 井, 淨) are often pronounced _tseng_ (zeng)) (Page 576 淨) Clean, pure, spotless, undefiled (Kangxi: 無垢也潔也); upright, guileless; to wash clean, to cleanse; only; all; a rapids in the R. Han (漢) (Kangxi: 灘名, 漢水東爲淨灘); _kon tseng_ (gon1 zeng6 乾淨) clean, pure; _kit tseng_ (git3 zeng6 潔淨) clean, to purify one's heart; _tsing ~~chung~~ ch'ung_ (zing6 cung5 淨重) the nett weight; _tseng shui fu_ (zeng6 seoi2 fu4), a cleansing charm, used in houses; _yat ko to hu kon tseng_ (jat1 go3 dou1 heoi3 gon1 zeng6 一個都去乾淨) every one has gone. Fan Wan entry: Corrected 𠎧 to 潔. Williams' 淨重: Corrected _chung_ (zung6 去聲) to _ch'ung_ (cung5 上聲). 【淨】 (dzjengH) (_adjective-like_) clean (_verb-like_) to cleanse 【淨】 (zing6) Purely, only. 淨麵 (zing6 min6): \"Only noodles.\" 淨魚蛋 (zing6 jyu4 daan6-2): \"Only fish-balls\" (i.e. without noodles). 淨食餸 (zing6 sik6 sung3): \"Only eating dishes\" (i.e. without rice). 淨係佢去 (zing6 hai6 keoi5 heoi3): \"Only he is going.\""
 }
 },
 "穽":{

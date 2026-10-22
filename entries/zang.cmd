@@ -88,7 +88,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)净; here normalised to 凈]]
+  - [[Page~20|n63 #8: (1)净; here normalised to 凈]]
     ==
     - Cold, shivering [[Kangxi 凈: 冷貌]].
     ==
@@ -347,7 +347,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)棦]]
+  - [[Page~20|n63 #9: (1)棦]]
     ==
     - A bundle of sticks, a number of sticks tied up into a faggot [[Kangxi: ::木[束]也::]].
     ==
@@ -380,7 +380,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1) when appropriate]]
+  - [[Page~20|n63 #13: (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1) when appropriate]]
     ==
     - To wrangle, to strive for precedence [[Kangxi: 引也, 競也]];
     - to contest, to litigate [[Kangxi: 訟也]];
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)琤]]
+  - [[Page~20|n63 #10: (1)琤]]
     ==
     - The tinkling sound of gems when they are struck or rung together [[Kangxi: 玉聲]].
     ==
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)箏]]
+  - [[Page~20|n63 #7: (1)箏]]
     ==
     - A kind of harpsichord with 12~copper strings [[Kangxi: ::鼓[絃]竹身樂也::, ::箏瑟類本十二[絃]今則十三::]];
     - _(1)fung (1)chang_
@@ -739,7 +739,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)錚]]
+  - [[Page~20|n63 #11: (1)錚]]
     ==
     - A small cymbal, a small sized gong [[Kangxi: 鉦也]];
     - the ringing sound of metals [[Kangxi: 金聲也]].
@@ -899,7 +899,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 諍(3)]]
+  - [[Page~20|n63 #12: 諍(3)]]
     ==
     - To remonstrate with;
     - to stop a wrong [[Kangxi: 止也, 謂止其失也, 諫諍救正也]];
@@ -908,7 +908,7 @@ W
         to reprove one's sovereign;
         to reprehend.
     ==
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
+  - [[Page~20|n63 #13: (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
     ==
     - [[...]];
     - to reprove, to remonstrate, in which senses it is used for the last [[諍]] [[Kangxi 爭: 本作諍諫諍也止也]].

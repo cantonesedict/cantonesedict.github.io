@@ -1149,7 +1149,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (5)棖 _(5)Ch(')(a/)n_ (caan5); here normalised to _(5)Ch(')(a/)m_ (caam5)]]
+  - [[Page~20|n63 #6: (5)棖 _(5)Ch(')(a/)n_ (caan5); here normalised to _(5)Ch(')(a/)m_ (caam5)]]
     --
     A colloquial word.
     --
