@@ -818,7 +818,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 櫬(3)]]
+  - [[Page~19|n62 #1: 櫬(3)]]
     ==
     - A coffin [[Kangxi: 棺也]];
     - to collect firewood [[Kangxi: 櫬采薪]];
@@ -971,7 +971,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 趁(3)趂(3)]]
+  - [[Page~19|n62 #3: 趁(3)趂(3)]]
     ==
     - To follow, to come up behind, to walk after [[Kangxi 趁: {𧾍=⿺走亶}也, 自後及之也, 逐也]];
     - to avail, to take;
@@ -1016,7 +1016,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 趁(3)趂(3)]]
+  - [[Page~19|n62 #3: 趁(3)趂(3)]]
     --
     [[Alternative form of 趁. **See $趁can3 for the canonical entry.**]]
     --
@@ -1039,7 +1039,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~19|n62 齔(3)]]
+  - [[Page~19|n62 #2: 齔(3)]]
     ==
     - To shed the milk teeth, as children do [[Kangxi: 毀齒也 etc.]];
     - shedding or renewing the teeth.

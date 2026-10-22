@@ -1815,6 +1815,135 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~19|n62
+    ,{#page-19-entry-1} #1
+    ,{.williams} 櫬(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $櫬can3
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-2} #2
+    ,{.williams} 齔(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $齔can3
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-3} #3
+    ,{.williams} 趁(3)趂(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $趁can3
+      - ($趂can3)
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-4} #4
+    ,{.williams} (2)盞
+    ,
+      <nav class="sideways">
+      ==
+      - $盞zaan2
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-5} #5
+    ,{.williams} (2)琖
+    ,
+      <nav class="sideways">
+      ==
+      - $琖zaan2
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-6} #6
+    ,{.williams} (2)醆
+    ,
+      <nav class="sideways">
+      ==
+      - $醆zaan2
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-7} #7
+    ,{.williams} 饌(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $饌zaan6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-8} #8
+    ,{.williams} 撰(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $撰zaan6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-9} #9
+    ,{.williams} 譔(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $撰zaan6
+      - $譔zaan6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-10} #10
+    ,{.williams} 站(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $站zaam6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-11} #11
+    ,{.williams} 棧(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $棧zaan6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-12} #12
+    ,{.williams} 輚(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $輚zaan6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-13} #13
+    ,{.williams} 虥(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $虥zaan6
+      ==
+      </nav>
+  //
+    ,{#page-19-entry-14} #14
+    ,{.williams} 綻(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $綻zaan6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

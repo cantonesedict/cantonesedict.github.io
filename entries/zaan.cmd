@@ -235,7 +235,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 (2)琖]]
+  - [[Page~19|n62 #5: (2)琖]]
     ==
     - A wine-cup, made ~~deeper than the preceding [[盞]],~~ of jade, or other valuable stone [[Kangxi: 玉爵也, 玉琖小杯]].
     ==
@@ -270,7 +270,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 (2)盞]]
+  - [[Page~19|n62 #4: (2)盞]]
     ==
     - A shallow cup ~~for oil~~ [[Kangxi: 杯也, 酒盞最小杯也]];
     - a wine saucer;
@@ -388,7 +388,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 (2)醆]]
+  - [[Page~19|n62 #6: (2)醆]]
     ==
     - Muddy, unsettled spirits [[Kangxi: 酒濁而微淸也]];
     - liquor beginning to clear;
@@ -728,7 +728,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 撰(6)]]
+  - [[Page~19|n62 #8: 撰(6)]]
     ==
     - ~~To regulate, to correct, to dispose in order;~~
     - to grasp [[Kangxi: 持也]];
@@ -747,7 +747,7 @@ W
     --
     [[...]]
     --
-  - [[Page~19|n62 譔(6)]]
+  - [[Page~19|n62 #9: 譔(6)]]
     --
     Same as the above [[撰]].
     --
@@ -810,7 +810,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 棧(6)]]
+  - [[Page~19|n62 #11: 棧(6)]]
     ==
     - ~~A covered loft;~~
     - palisades;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 綻(6)]]
+  - [[Page~19|n62 #14: 綻(6)]]
     ==
     - A rent seam [[Kangxi: 衣縫]];
     - to rip, to tear, to rend [[Kangxi: 綻猶解也]];
@@ -922,7 +922,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 虥(6)]]
+  - [[Page~19|n62 #13: 虥(6)]]
     ==
     - A tiger cat [[Kangxi: 貓也]];
     - _ch(a/)n(6) ~~(4)m(a/)i~~ ``(4)mi(u/)``_
@@ -956,7 +956,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 譔(6)]]
+  - [[Page~19|n62 #9: 譔(6)]]
     --
     [[...]]
     --
@@ -1099,7 +1099,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 輚(6)]]
+  - [[Page~19|n62 #12: 輚(6)]]
     ==
     - A tumbril ~~for carrying the wounded~~;
     - ~~a hearse;~~
@@ -1138,7 +1138,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 饌(6)]]
+  - [[Page~19|n62 #7: 饌(6)]]
     ==
     - To eat, to drink;
     - to feed persons;

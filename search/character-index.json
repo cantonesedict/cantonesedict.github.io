@@ -2285,7 +2285,7 @@
 "can3":{
 "isCanonical":true,
 "williams":"ch(')an(3)",
-"text":"U+6AEC 榇 (Mainland simplified) (F1.85 櫬) 棺櫬 (Page 19|n62 櫬) A coffin (Kangxi: 棺也); to collect firewood (Kangxi: 櫬采薪); _kun ch'an_ (gun1 can3 棺櫬) a coffin; _kun ch'an uk_ (gun1 can3 uk1 棺櫬屋) a sort of dead house or shed at a grave. Hibiscus flowers (Kangxi: 櫬木槿, 今王蒸). The Chinese parasol tree (Kangxi: 櫬梧, 今梧桐)."
+"text":"U+6AEC 榇 (Mainland simplified) (F1.85 櫬) 棺櫬 (Page 19|n62 #1: 櫬) A coffin (Kangxi: 棺也); to collect firewood (Kangxi: 櫬采薪); _kun ch'an_ (gun1 can3 棺櫬) a coffin; _kun ch'an uk_ (gun1 can3 uk1 棺櫬屋) a sort of dead house or shed at a grave. Hibiscus flowers (Kangxi: 櫬木槿, 今王蒸). The Chinese parasol tree (Kangxi: 櫬梧, 今梧桐)."
 }
 },
 "襯":{
@@ -2299,21 +2299,21 @@
 "can3":{
 "isCanonical":true,
 "williams":"ch(')an(3)",
-"text":"U+8D81 趂 (F1.85 趂) 及時也逐也從也 (Page 19|n62 趁趂) To follow, to come up behind, to walk after (Kangxi 趁: 𧾍也, 自後及之也, 逐也); to avail, to take; to embrace an opportunity; at the time of; _ch'an hu ta shi_ (can3 heoi1 daa2 si5 趁墟打市), to go to market; _ch'an shi hau_ (can3 si4 hau6 趁時候) to improve the time; _ch'an ki ui_ (can3 gei1 wui6 趁機會) take advantage of the opportunity; _ch'an fung shai li_ (can3 fung1 sai2 lei5 趁風駛𢃇), hoist sail when there's a wind; _ch'an un_ (can3 jyun6 趁願) as I wished it; _ch'an shai_ (can3 sai3 趁勢) avail of a favorable time. Williams' \"improve\": In the (now) dated sense of employing to good purpose."
+"text":"U+8D81 趂 (F1.85 趂) 及時也逐也從也 (Page 19|n62 #3: 趁趂) To follow, to come up behind, to walk after (Kangxi 趁: 𧾍也, 自後及之也, 逐也); to avail, to take; to embrace an opportunity; at the time of; _ch'an hu ta shi_ (can3 heoi1 daa2 si5 趁墟打市), to go to market; _ch'an shi hau_ (can3 si4 hau6 趁時候) to improve the time; _ch'an ki ui_ (can3 gei1 wui6 趁機會) take advantage of the opportunity; _ch'an fung shai li_ (can3 fung1 sai2 lei5 趁風駛𢃇), hoist sail when there's a wind; _ch'an un_ (can3 jyun6 趁願) as I wished it; _ch'an shai_ (can3 sai3 趁勢) avail of a favorable time. Williams' \"improve\": In the (now) dated sense of employing to good purpose."
 }
 },
 "趂":{
 "can3":{
 "isCanonical":false,
 "williams":"ch(')an(3)",
-"text":"U+8D82 (F1.85 趂) 及時也逐也從也 (Page 19|n62 趁趂)"
+"text":"U+8D82 (F1.85 趂) 及時也逐也從也 (Page 19|n62 #3: 趁趂)"
 }
 },
 "齔":{
 "can3":{
 "isCanonical":true,
 "williams":"ch(')an(3)",
-"text":"U+9F54 齓 龀 (Mainland simplified) (Page 19|n62 齔) To shed the milk teeth, as children do (Kangxi: 毀齒也 etc.); shedding or renewing the teeth."
+"text":"U+9F54 齓 龀 (Mainland simplified) (Page 19|n62 #2: 齔) To shed the milk teeth, as children do (Kangxi: 毀齒也 etc.); shedding or renewing the teeth."
 }
 },
 "塵":{
@@ -11901,7 +11901,7 @@
 "zaam6":{
 "isCanonical":true,
 "williams":"ch(a/)m(6)",
-"text":"U+7AD9 zaam3 (per 《廣韻》陟陷切) (F2.71 站 _Chan_ (zaan6)) 站立也又音賺 (Page 16|n59 #4: 站) A stage, a journey; _yik cham_ (jik6 zaam6 驛站) a stage; _cham t'au_ (zaam6 tau4 站頭), end of a journey; _yat cham lo_ (jat1 zaam6 lou6 一站路) a stage, usually reckoned to be a league. (Page 19|n62 站 _Chan_ (zaan6); here corrected to _Cham_ (zaam6)) To stand (Kangxi: 久立也); to stand erect; to stop; a stoppage; _~~chan~~ cham hi loi_ (zaam6 hei2 loi4 站起來), stand up! _~~chan~~ cham pan_ (zaam6 baan1 站班), to file off in rank, and salute an officer. Fan Wan entry: Note that Fan Wan considers _chan_ (zaan6) to be the canonical reading of 站, with 賺 to be read _cham_ (zaam6). Williams' 驛站: Corrected _yik_ (jik1) to _yik_ (jik6). Stage meaning a relay station for horses."
+"text":"U+7AD9 zaam3 (per 《廣韻》陟陷切) (F2.71 站 _Chan_ (zaan6)) 站立也又音賺 (Page 16|n59 #4: 站) A stage, a journey; _yik cham_ (jik6 zaam6 驛站) a stage; _cham t'au_ (zaam6 tau4 站頭), end of a journey; _yat cham lo_ (jat1 zaam6 lou6 一站路) a stage, usually reckoned to be a league. (Page 19|n62 #10: 站 _Chan_ (zaan6); here corrected to _Cham_ (zaam6)) To stand (Kangxi: 久立也); to stand erect; to stop; a stoppage; _~~chan~~ cham hi loi_ (zaam6 hei2 loi4 站起來), stand up! _~~chan~~ cham pan_ (zaam6 baan1 站班), to file off in rank, and salute an officer. Fan Wan entry: Note that Fan Wan considers _chan_ (zaan6) to be the canonical reading of 站, with 賺 to be read _cham_ (zaam6). Williams' 驛站: Corrected _yik_ (jik1) to _yik_ (jik6). Stage meaning a relay station for horses."
 }
 },
 "賺":{
@@ -11946,21 +11946,21 @@
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+68E7 桟 栈 (Mainland simplified) zaan2 (per Kangxi 阻限切 for \"small-bridge\" sense) zaan6-2 (vernacular rising-tone noun) (F2.71 棧) 閣木爲棚曰棧四川有棧道 (Page 19|n62 棧) ~~A covered loft;~~ palisades; a scaffold (Kangxi: 棚也); a covered, planked road cut out of the side of hills (Kangxi: 閣也, 木棧道也); a hearse (Kangxi: 柩車亦謂之棧), a workshop; a warehouse; a storehouse, a stable (Kangxi: 馬棧亦編木爲之), a pen, a sheepcote; a wooden bridge (Kangxi: 小橋曰棧) or pathway (Kangxi: 編木曰棧); _chan fong_ (zaan6-2 fong4 棧房), a warehouse, a packhouse; _chan tso_ (zaan6-2 zou1 棧租), storage charges; _~~miu~~ mau chan_ (maau1 zaan6-2 貓棧) a kennel for cats. Williams' 貓棧: Changed _miu_ (miu4) to common reading _mau_ (maau1). An inn or guesthouse. 【棧】 (dzreanX, dzrjenX, dzraenH) (_noun-like_) plank (_adjective-like_) planked, (_met._) hearse (_noun-like_) cote"
+"text":"U+68E7 桟 栈 (Mainland simplified) zaan2 (per Kangxi 阻限切 for \"small-bridge\" sense) zaan6-2 (vernacular rising-tone noun) (F2.71 棧) 閣木爲棚曰棧四川有棧道 (Page 19|n62 #11: 棧) ~~A covered loft;~~ palisades; a scaffold (Kangxi: 棚也); a covered, planked road cut out of the side of hills (Kangxi: 閣也, 木棧道也); a hearse (Kangxi: 柩車亦謂之棧), a workshop; a warehouse; a storehouse, a stable (Kangxi: 馬棧亦編木爲之), a pen, a sheepcote; a wooden bridge (Kangxi: 小橋曰棧) or pathway (Kangxi: 編木曰棧); _chan fong_ (zaan6-2 fong4 棧房), a warehouse, a packhouse; _chan tso_ (zaan6-2 zou1 棧租), storage charges; _~~miu~~ mau chan_ (maau1 zaan6-2 貓棧) a kennel for cats. Williams' 貓棧: Changed _miu_ (miu4) to common reading _mau_ (maau1). An inn or guesthouse. 【棧】 (dzreanX, dzrjenX, dzraenH) (_noun-like_) plank (_adjective-like_) planked, (_met._) hearse (_noun-like_) cote"
 }
 },
 "琖":{
 "zaan2":{
 "isCanonical":true,
 "williams":"(2)ch(a/)n",
-"text":"U+7416 盞 (F2.69 醆) 爵也夏曰醆殷曰斝周曰爵皆酒器也 (F2.69 琖) 同上 (Page 19|n62 琖) A wine-cup, made ~~deeper than the preceding (盞),~~ of jade, or other valuable stone (Kangxi: 玉爵也, 玉琖小杯). Fan Wan entry: Corrected 牽 (but with top similar to 立) to 斝. 【琖】 (tsreanX) (_noun-like_) jade-cup"
+"text":"U+7416 盞 (F2.69 醆) 爵也夏曰醆殷曰斝周曰爵皆酒器也 (F2.69 琖) 同上 (Page 19|n62 #5: 琖) A wine-cup, made ~~deeper than the preceding (盞),~~ of jade, or other valuable stone (Kangxi: 玉爵也, 玉琖小杯). Fan Wan entry: Corrected 牽 (but with top similar to 立) to 斝. 【琖】 (tsreanX) (_noun-like_) jade-cup"
 }
 },
 "盞":{
 "zaan2":{
 "isCanonical":true,
 "williams":"(2)ch(a/)n",
-"text":"U+76DE 盏 (Mainland simplified) (F2.69 盞) 酒盞 (Page 19|n62 盞) A shallow cup ~~for oil~~ (Kangxi: 杯也, 酒盞最小杯也); a wine saucer; the classifier of lamps; _tang chan_ (dang1 zaan2 燈盞), a saucer for a night lamp; _yat chan tang_ (jat1 zaan2 dang1 一盞燈), a lamp. 【盞】 (tsreanX) (_noun-like_) cup 【盞】 (zaan2) Classifier for lamps or lights. 盞燈壞咗 (zaan2 dang1 waai6 zo2): \"The light's broken.\" Only, just (for emphasising that a negative outcome is highly likely). The spelling 盞 for this word is arbitrary. 盞嘥氣 (zaan2 saai1 hei3): \"Talking to him will just be a waste of breath.\" 行得慢咪盞遲到 (haang4 dak1 maan6 mai6 zaan2 ci4 dou3): \"If we walk slow then we'll only arrive late, won't we?\""
+"text":"U+76DE 盏 (Mainland simplified) (F2.69 盞) 酒盞 (Page 19|n62 #4: 盞) A shallow cup ~~for oil~~ (Kangxi: 杯也, 酒盞最小杯也); a wine saucer; the classifier of lamps; _tang chan_ (dang1 zaan2 燈盞), a saucer for a night lamp; _yat chan tang_ (jat1 zaan2 dang1 一盞燈), a lamp. 【盞】 (tsreanX) (_noun-like_) cup 【盞】 (zaan2) Classifier for lamps or lights. 盞燈壞咗 (zaan2 dang1 waai6 zo2): \"The light's broken.\" Only, just (for emphasising that a negative outcome is highly likely). The spelling 盞 for this word is arbitrary. 盞嘥氣 (zaan2 saai1 hei3): \"Talking to him will just be a waste of breath.\" 行得慢咪盞遲到 (haang4 dak1 maan6 mai6 zaan2 ci4 dou3): \"If we walk slow then we'll only arrive late, won't we?\""
 }
 },
 "趲":{
@@ -11974,7 +11974,7 @@
 "zaan2":{
 "isCanonical":true,
 "williams":"(2)ch(a/)n",
-"text":"U+9186 (F2.69 醆) 爵也夏曰醆殷曰斝周曰爵皆酒器也 (F2.69 琖) 同上 (Page 19|n62 醆) Muddy, unsettled spirits (Kangxi: 酒濁而微淸也); liquor beginning to clear; a cup, a goblet (Kangxi: 爵也). 【醆】 (tsreanX) (_noun-like_) wine-cup (_noun-like_) slightly-clarified-wine"
+"text":"U+9186 (F2.69 醆) 爵也夏曰醆殷曰斝周曰爵皆酒器也 (F2.69 琖) 同上 (Page 19|n62 #6: 醆) Muddy, unsettled spirits (Kangxi: 酒濁而微淸也); liquor beginning to clear; a cup, a goblet (Kangxi: 爵也). 【醆】 (tsreanX) (_noun-like_) wine-cup (_noun-like_) slightly-clarified-wine"
 }
 },
 "撰":{
@@ -11986,7 +11986,7 @@
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+64B0 篹 (for \"write\" and \"compile\" senses) 譔 (for \"write\" and \"compile\" senses) zaan3 (common) (F2.71 撰) 造也脩也述也具也翰林又修撰 (Page 19|n62 撰) ~~To regulate, to correct, to dispose in order;~~ to grasp (Kangxi: 持也); to compose, to record (Kangxi: 撰述也屬辭記事曰撰); a rule, a statute (Kangxi: 則也); a received maxim; a business, an act; to edit, to revise books, to publish; _sau chan_ (sau1 zaan6 修撰) the first Hanlin (翰林) academician; _chan shut_ (zaan6 seot6 撰述) to narrate. (Page 19|n62 譔) Same as the above (撰). _chan man_ (zaan6 man4 譔文), to write essays; _pai chan_ (baai3 zaan6 拜譔) to prepare a eulogistic paper. Fan Wan entry: Corrected 㫦 to 脩. An aspiration, an inclination, a bent. 【撰】 (dzrwaenX, dzrjwenX) (_noun-like_) law of nature (_verb-like_) to take hold (_verb-like_) to prepare, to make (_verb-like_) to compose, to compile"
+"text":"U+64B0 篹 (for \"write\" and \"compile\" senses) 譔 (for \"write\" and \"compile\" senses) zaan3 (common) (F2.71 撰) 造也脩也述也具也翰林又修撰 (Page 19|n62 #8: 撰) ~~To regulate, to correct, to dispose in order;~~ to grasp (Kangxi: 持也); to compose, to record (Kangxi: 撰述也屬辭記事曰撰); a rule, a statute (Kangxi: 則也); a received maxim; a business, an act; to edit, to revise books, to publish; _sau chan_ (sau1 zaan6 修撰) the first Hanlin (翰林) academician; _chan shut_ (zaan6 seot6 撰述) to narrate. (Page 19|n62 #9: 譔) Same as the above (撰). _chan man_ (zaan6 man4 譔文), to write essays; _pai chan_ (baai3 zaan6 拜譔) to prepare a eulogistic paper. Fan Wan entry: Corrected 㫦 to 脩. An aspiration, an inclination, a bent. 【撰】 (dzrwaenX, dzrjwenX) (_noun-like_) law of nature (_verb-like_) to take hold (_verb-like_) to prepare, to make (_verb-like_) to compose, to compile"
 }
 },
 "濺":{
@@ -12038,21 +12038,21 @@
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+7DBB 袒 (for \"rent\" sense) 绽 (Mainland simplified) (F2.71 綻) 衣縫裂也事不完全曰破綻 (Page 19|n62 綻) A rent seam (Kangxi: 衣縫); to rip, to tear, to rend (Kangxi: 綻猶解也); a hint, inkling; _p'o chan_ (po3 zaan6 破綻) the affair is known, to hint a matter; _ta tak p'i hoi yuk chan_ (daa2 dak1 pei4 hoi1 juk6 zaan6 打得皮開肉綻) beaten till the flesh was laid bare; _chan lit_ (zaan6 lit6 綻裂) rip the seams. To blossom. 綻放 (zaan6 fong3): \"To blossom.\" 【綻】 (dreanH) (_adjective-like_) rent"
+"text":"U+7DBB 袒 (for \"rent\" sense) 绽 (Mainland simplified) (F2.71 綻) 衣縫裂也事不完全曰破綻 (Page 19|n62 #14: 綻) A rent seam (Kangxi: 衣縫); to rip, to tear, to rend (Kangxi: 綻猶解也); a hint, inkling; _p'o chan_ (po3 zaan6 破綻) the affair is known, to hint a matter; _ta tak p'i hoi yuk chan_ (daa2 dak1 pei4 hoi1 juk6 zaan6 打得皮開肉綻) beaten till the flesh was laid bare; _chan lit_ (zaan6 lit6 綻裂) rip the seams. To blossom. 綻放 (zaan6 fong3): \"To blossom.\" 【綻】 (dreanH) (_adjective-like_) rent"
 }
 },
 "虥":{
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+8665 虦 (F2.71 虥) 虎淺毛 (Page 19|n62 虥) A tiger cat (Kangxi: 貓也); _chan ~~mai~~ miu_ (zaan6 miu4 虥苗), a tiger ~~shedding its~~ with light-colored hair (Kangxi: 虎竊毛謂之虦貓). Williams' 虥苗: Corrected _mai_ (maai4) to _miu_ (miu4). Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓 is homophonous with 苗 _miu_ (miu4)."
+"text":"U+8665 虦 (F2.71 虥) 虎淺毛 (Page 19|n62 #13: 虥) A tiger cat (Kangxi: 貓也); _chan ~~mai~~ miu_ (zaan6 miu4 虥苗), a tiger ~~shedding its~~ with light-colored hair (Kangxi: 虎竊毛謂之虦貓). Williams' 虥苗: Corrected _mai_ (maai4) to _miu_ (miu4). Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓 is homophonous with 苗 _miu_ (miu4)."
 }
 },
 "譔":{
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+8B54 cyun1 (alternative per 《廣韻》此縁切) zaan3 (common) (F2.71 譔) 脩也作也作文曰譔文 (Page 19|n62 譔) ~~To exhort by precepts~~ To teach focusedly (Kangxi: 專敎也); To panegyrise (Kangxi: 善言也). 【譔】 (tshjwen, dzrjwenX, dzrjwenH) (_verb-like_) to panegyrise"
+"text":"U+8B54 cyun1 (alternative per 《廣韻》此縁切) zaan3 (common) (F2.71 譔) 脩也作也作文曰譔文 (Page 19|n62 #9: 譔) ~~To exhort by precepts~~ To teach focusedly (Kangxi: 專敎也); To panegyrise (Kangxi: 善言也). 【譔】 (tshjwen, dzrjwenX, dzrjwenH) (_verb-like_) to panegyrise"
 }
 },
 "贃":{
@@ -12066,14 +12066,14 @@
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+8F1A 轏 (F2.71 輚) 臥車 (Page 19|n62 輚) A tumbril ~~for carrying the wounded~~; ~~a hearse;~~ _chan lo_ (zaan6 lou6 輚輅) a ~~military~~ carriage for sleeping in (Kangxi: 輚輅臥車). Williams' \"military carriage\": This is a separate sense for 輚 itself (Kangxi: 兵車也)."
+"text":"U+8F1A 轏 (F2.71 輚) 臥車 (Page 19|n62 #12: 輚) A tumbril ~~for carrying the wounded~~; ~~a hearse;~~ _chan lo_ (zaan6 lou6 輚輅) a ~~military~~ carriage for sleeping in (Kangxi: 輚輅臥車). Williams' \"military carriage\": This is a separate sense for 輚 itself (Kangxi: 兵車也)."
 }
 },
 "饌":{
 "zaan6":{
 "isCanonical":true,
 "williams":"ch(a/)n(6)",
-"text":"U+994C May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 籑 䉵 馔 (Mainland simplified) (F2.71 饌) 具食 (Page 19|n62 饌) To eat, to drink; to feed persons; to provide for (Kangxi: 具食也, 謂饌陳具設之也); dressed food (Kangxi: 飯食也)~~:~~; _ch'it chan_ (cit3 zaan6 設饌) to set out a dinner; _shing chan_ (sing6 zaan6 盛饌) a banquet; _ts'oi chan_ (coi3 zaan6 菜饌) food; _yau mat ngau chan_ (jau5 mat1 ngaau4 zaan6 有乜餚饌) what delicacy did you have for a relish? 【饌】 (dzrjwenH) (_verb-like_) to consume (_verb-like_) to serve (viands) (_noun-like_) viand"
+"text":"U+994C May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 籑 䉵 馔 (Mainland simplified) (F2.71 饌) 具食 (Page 19|n62 #7: 饌) To eat, to drink; to feed persons; to provide for (Kangxi: 具食也, 謂饌陳具設之也); dressed food (Kangxi: 飯食也)~~:~~; _ch'it chan_ (cit3 zaan6 設饌) to set out a dinner; _shing chan_ (sing6 zaan6 盛饌) a banquet; _ts'oi chan_ (coi3 zaan6 菜饌) food; _yau mat ngau chan_ (jau5 mat1 ngaau4 zaan6 有乜餚饌) what delicacy did you have for a relish? 【饌】 (dzrjwenH) (_verb-like_) to consume (_verb-like_) to serve (viands) (_noun-like_) viand"
 }
 },
 "崢":{

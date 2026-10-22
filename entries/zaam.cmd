@@ -515,7 +515,7 @@ W
         [[jat1 zaam6 lou6 一站路]]
         a stage, usually reckoned to be a league.
     ==
-  - [[Page~19|n62 站(6) _Ch(a/)n(6)_ (zaan6); here corrected to _Ch(a/)m(6)_ (zaam6)]]
+  - [[Page~19|n62 #10: 站(6) _Ch(a/)n(6)_ (zaan6); here corrected to _Ch(a/)m(6)_ (zaam6)]]
     ==
     - To stand [[Kangxi: 久立也]];
     - to stand erect;
