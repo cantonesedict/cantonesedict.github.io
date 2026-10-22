@@ -147,7 +147,7 @@ W
         [[caau1 saai3 抄嗮]]
         it is all copied.
     ==
-  - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); _(1)Ch(')(a/)u_ (caau1) implied]]
+  - [[Page~30|n73 #6: 鈔(3) _Ch(')(a/)u(3)_ (caau3); _(1)Ch(')(a/)u_ (caau1) implied]]
     ==
     - Interchanged with 抄 to copy [[Kangxi 鈔: 今俗別作抄, 謄寫也]];
     - [[...]].
@@ -184,7 +184,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); here normalised to _(1)Ch(')(a/)u_ (caau1)]]
+  - [[Page~30|n73 #6: 鈔(3) _Ch(')(a/)u(3)_ (caau3); here normalised to _(1)Ch(')(a/)u_ (caau1)]]
     ==
     - [[...]];
     - a document, a government paper, a receipt [[Kangxi: 官收物而給印信文憑也]];
@@ -244,7 +244,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~30|n73 (2)吵]]
+  - [[Page~30|n73 #5: (2)吵]]
     ==
     - To clamor, to wrangle;
     - _(2)ch(')(a/)u n(a/)u(6)_
@@ -288,7 +288,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (2)炒]]
+  - [[Page~30|n73 #4: (2)炒]]
     ==
     - To roast in a boiler;
     - to fry [[Kangxi: 熬也]] in fat or batter;
@@ -408,7 +408,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 鈔(3)]]
+  - [[Page~30|n73 #6: 鈔(3)]]
     --
     [[Reading variation. **See $鈔caau1 for the canonical entry.**]]
     --
@@ -495,7 +495,7 @@ W
     --
     [[Otherwise, an alternative form of 漅. **See $漅caau4 for the canonical entry.**]]
     --
-  - [[Page~30|n73 (4)窠; here corrected to 巢]]
+  - [[Page~30|n73 #2: (4)窠; here corrected to 巢]]
     --
     [[...]]
     --
@@ -569,7 +569,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (4)漅]]
+  - [[Page~30|n73 #1: (4)漅]]
     ==
     - Name of a large lake
       in the south of the province of Ng(a/)nhwui [[安徽]] [[Kangxi: 湖名]].
@@ -600,7 +600,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (4)轈]]
+  - [[Page~30|n73 #3: (4)轈]]
     ==
     - A turret on a chariot, from the top of which to observe the troops [[Kangxi: 兵高車加巢以望敵也]].
     ==

@@ -2925,6 +2925,81 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~30|n73
+    ,{#page-30-entry-1} #1
+    ,{.williams} (4)漅
+    ,
+      <nav class="sideways">
+      ==
+      - $漅caau4
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-2} #2
+    ,{.williams} (4)窠
+    ,
+      <nav class="sideways">
+      ==
+      - $巢caau4
+      - $窠fo1
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-3} #3
+    ,{.williams} (4)轈
+    ,
+      <nav class="sideways">
+      ==
+      - $轈caau4
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-4} #4
+    ,{.williams} (2)炒
+    ,
+      <nav class="sideways">
+      ==
+      - $炒caau2
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-5} #5
+    ,{.williams} (2)吵
+    ,
+      <nav class="sideways">
+      ==
+      - $吵caau2
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-6} #6
+    ,{.williams} 鈔(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $抄caau1
+      - $鈔caau1, ($鈔caau3)
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-7} #7
+    ,{.williams} (1)遮
+    ,
+      <nav class="sideways">
+      ==
+      - $遮ze1
+      ==
+      </nav>
+  //
+    ,{#page-30-entry-8} #8
+    ,{.williams} (2)者
+    ,
+      <nav class="sideways">
+      ==
+      - $者ze2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

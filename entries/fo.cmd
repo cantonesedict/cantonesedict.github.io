@@ -151,7 +151,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (4)窠 _(4)Ch(')(a/)u_ (caau4); here corrected to _(1)Fo_ (fo1)]]
+  - [[Page~30|n73 #2: (4)窠 _(4)Ch(')(a/)u_ (caau4); here corrected to _(1)Fo_ (fo1)]]
     ==
     - A nest in a cave [[Kangxi: 穴中曰窠樹上曰巢]].
     ==

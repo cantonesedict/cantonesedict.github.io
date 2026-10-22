@@ -218,7 +218,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (1)遮]]
+  - [[Page~30|n73 #7: (1)遮]]
     ==
     - To cover, to screen, to vail, to conceal [[Kangxi: 蔽也]];
     - to shade;
@@ -384,7 +384,7 @@ F
   ==
 W
   ======
-  - [[Page~30|n73 (2)者]]
+  - [[Page~30|n73 #8: (2)者]]
     ====
     - A ~~relative or~~ demonstrative pronoun [[Kangxi: ::此也[...]今俗多用這字::]];
     - ~~it, this,~~ that, he, who, what;
