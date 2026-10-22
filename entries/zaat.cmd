@@ -66,7 +66,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 扎(8)]]
+  - [[Page~24|n67 #7: 扎(8)]]
     ==
     - To pluck up [[Kangxi: 拔也]];
     - [[...]].
@@ -117,7 +117,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 札(8)]]
+  - [[Page~24|n67 #8: 札(8)]]
     ==
     - A tablet for writing [[Kangxi: 牒也, 牒亦木牘也]];
     - a letter, a document, writings;
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 扎(8); here normalised to 紮]]
+  - [[Page~24|n67 #7: 扎(8); here normalised to 紮]]
     ==
     - [[...]];
     - to bind, to bind around, to bundle up [[Kangxi 紮: 纏束也]];
@@ -223,7 +223,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 茁(8)]]
+  - [[Page~24|n67 #10: 茁(8)]]
     --
     [[Reading variation. **See $茁zyut3 for the canonical entry.**]]
     --
@@ -253,7 +253,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~24|n67 軋(8)]]
+  - [[Page~24|n67 #9: 軋(8)]]
     ==
     - ~~Creaking~~ ``To crush with the`` roll of a wheel [[Kangxi: 車輾也]];
     - a creaking, grating, sound;

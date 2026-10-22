@@ -122,7 +122,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 刹(8)]]
+  - [[Page~24|n67 #12: 刹(8)]]
     --
     [[Alternative form of 剎, and reading variation. **See $剎saat3 for the canonical entry.**]] [[TODO]]
     --
@@ -176,7 +176,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 察(8)]]
+  - [[Page~24|n67 #11: 察(8)]]
     ==
     - To examine, to judge, to search out the truth [[Kangxi: 覆審也, 諦也知也]];
     - to observe closely, to inquire into all particulars [[Kangxi: 考也廉視也]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 獺(8)]]
+  - [[Page~24|n67 #13: 獺(8)]]
     ==
     - An otter [[Kangxi: 如小狗 etc.]];
     - _(1)sh(a/)n ch(')(a/)t(8)_

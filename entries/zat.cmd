@@ -376,7 +376,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 咥(9)]]
+  - [[Page~24|n67 #3: 咥(9)]]
     --
     [[Reading variation. **See $咥dit6 for the canonical entry.**]] [[TODO]]
     --
@@ -415,7 +415,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 姪(9)]]
+  - [[Page~24|n67 #1: 姪(9)]]
     ==
     - A brother's children [[Kangxi: 兄弟之女也, 兄弟之子]];
     - _chat(9) (2)tsz'_
@@ -523,7 +523,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 挃(9)]]
+  - [[Page~24|n67 #5: 挃(9)]]
     ==
     - ~~To cut~~ ``The sound of cutting`` down grain [[Kangxi: 穫禾聲, 挃挃穫也]];
     - to beat, to knock with the fist [[Kangxi: 撞挃也]].
@@ -555,7 +555,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 桎(9)]]
+  - [[Page~24|n67 #4: 桎(9)]]
     ==
     - Fetters, gyves, stocks of wood or iron [[Kangxi: 足械也]];
     - to manacle;
@@ -766,7 +766,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 蛭(9)]]
+  - [[Page~24|n67 #6: 蛭(9)]]
     ==
     - A leech [[Kangxi: 水蛭 etc.]];
     - _(2)shui chat(9)_
@@ -799,7 +799,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 蟄(9)]]
+  - [[Page~24|n67 #2: 蟄(9)]]
     ==
     - Retired into silence [[Kangxi: 藏也, 蟄靜也]];
     - to burrow;

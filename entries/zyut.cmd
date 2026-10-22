@@ -570,7 +570,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 茁(8) _Ch(a/)t(8)_ (zaat3); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+  - [[Page~24|n67 #10: 茁(8) _Ch(a/)t(8)_ (zaat3); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - Grass or plants starting out of the ground [[Kangxi: 草初生貌]];
     - fat, hearty, vigorous [[Fan Wan: 肥壯貌]],
