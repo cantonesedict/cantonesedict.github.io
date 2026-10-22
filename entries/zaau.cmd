@@ -182,7 +182,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+  - [[Page~25|n68 #12: (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
     - A besom [[Kangxi 箒: 箕箒也]];
     - a broom;
@@ -420,7 +420,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+  - [[Page~25|n68 #11: (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
     - ~~The fore-arm;~~
     - the elbow [[Kangxi: 臂節也]]~~, the wrist~~;

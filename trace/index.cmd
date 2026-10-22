@@ -2400,6 +2400,119 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~25|n68
+    ,{#page-25-entry-1} #1
+    ,{.williams} (1)周
+    ,
+      <nav class="sideways">
+      ==
+      - $周zau1
+      - $賙zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-2} #2
+    ,{.williams} (1)週
+    ,
+      <nav class="sideways">
+      ==
+      - $周zau1
+      - $週zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-3} #3
+    ,{.williams} (1)賙
+    ,
+      <nav class="sideways">
+      ==
+      - $賙zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-4} #4
+    ,{.williams} (1)輖
+    ,
+      <nav class="sideways">
+      ==
+      - $輖zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-5} #5
+    ,{.williams} (1)侜
+    ,
+      <nav class="sideways">
+      ==
+      - $侜zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-6} #6
+    ,{.williams} (1)舟
+    ,
+      <nav class="sideways">
+      ==
+      - $舟zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-7} #7
+    ,{.williams} (1)輈
+    ,
+      <nav class="sideways">
+      ==
+      - $輈zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-8} #8
+    ,{.williams} (1)州
+    ,
+      <nav class="sideways">
+      ==
+      - $州zau1
+      - $洲zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-9} #9
+    ,{.williams} (1)洲
+    ,
+      <nav class="sideways">
+      ==
+      - $洲zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-10} #10
+    ,{.williams} (1)譸
+    ,
+      <nav class="sideways">
+      ==
+      - $譸zau1
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-11} #11
+    ,{.williams} (2)肘
+    ,
+      <nav class="sideways">
+      ==
+      - $肘zaau2, ($肘zau2)
+      ==
+      </nav>
+  //
+    ,{#page-25-entry-12} #12
+    ,{.williams} (2)帚(2)箒
+    ,
+      <nav class="sideways">
+      ==
+      - $帚zaau2, ($帚zau2)
+      - ($箒zau2)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

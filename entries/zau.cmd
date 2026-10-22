@@ -90,7 +90,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)侜]]
+  - [[Page~25|n68 #5: (1)侜]]
     ==
     - To conceal, to shade, to hide [[Kangxi: 有廱蔽也]];
     - ~~something stretched for a shade.~~
@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)周]]
+  - [[Page~25|n68 #1: (1)周]]
     ==
     - Universal, complete, entire [[Kangxi: 備也]];
     - [[...]];
@@ -179,7 +179,7 @@ W
     --
     [[Otherwise, an alternative form of 賙. **See $賙zau1 for the canonical entry.**]]
     --
-  - [[Page~25|n68 (1)週]]
+  - [[Page~25|n68 #2: (1)週]]
     --
     Often used for the last [[周]].
     --
@@ -348,7 +348,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)州]]
+  - [[Page~25|n68 #8: (1)州]]
     ==
     - A district, less than a prefecture;
     - [[...]], a great division;
@@ -532,14 +532,14 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)州]]
+  - [[Page~25|n68 #8: (1)州]]
     ==
     - [[...]];
     - a continent, [[...]];
     - an island [[Kangxi 州: 水中可居曰州]];
     - [[...]].
     ==
-  - [[Page~25|n68 (1)洲]]
+  - [[Page~25|n68 #9: (1)洲]]
     ==
     - A spot encircled by streams, or in the water, as an islet [[Kangxi: 水渚也, 水中可居曰洲]];
     - a place where men collect, a village [[Kangxi: 聚也人及鳥物所聚息之處也]];
@@ -652,7 +652,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)舟]]
+  - [[Page~25|n68 #6: (1)舟]]
     ==
     - A boat, a vessel, a craft of any sort [[Kangxi: 船也]];
     - to go in a boat;
@@ -772,7 +772,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)譸]]
+  - [[Page~25|n68 #10: (1)譸]]
     ==
     - ~~Hurried, bustling,~~ to impose upon, to deceive [[Kangxi: 譸張誑也]];
     - _(1)chau (1)ch(e/)ung ~~(1)wai~~ ``(4)wai`` w(a/)n(6)_
@@ -811,13 +811,13 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)周; here normalised to 賙]]
+  - [[Page~25|n68 #1: (1)周; here normalised to 賙]]
     ==
     - [[...]];
     - to supply, to provide, to assist;
     - [[...]].
     ==
-  - [[Page~25|n68 (1)賙]]
+  - [[Page~25|n68 #3: (1)賙]]
     ==
     - To bestow charity [[Kangxi: 給也贍也]];
     - _(1)chau tsai(3)_
@@ -854,7 +854,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)輈]]
+  - [[Page~25|n68 #7: (1)輈]]
     ==
     - A ~~frame in front~~ ``pole or shaft`` of a carriage [[Kangxi: 車轅也 etc.]] ~~near which the driver sits~~;
     - ~~a sort of dashboard.~~
@@ -882,7 +882,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)輖]]
+  - [[Page~25|n68 #4: (1)輖]]
     ==
     - A heavily laden cart, which is low in front [[Kangxi: 低也一曰車前重也]];
     - a heavy load [[Kangxi: 重載也]];
@@ -908,7 +908,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)週]]
+  - [[Page~25|n68 #2: (1)週]]
     --
     [[...]]
     --
@@ -1187,7 +1187,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)帚(2)箒]]
+  - [[Page~25|n68 #12: (2)帚(2)箒]]
     --
     [[Reading variation. **See $帚zaau2 for the canonical entry.**]]
     --
@@ -1240,7 +1240,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)帚(2)箒]]
+  - [[Page~25|n68 #12: (2)帚(2)箒]]
     --
     [[Alternative form of 帚, and reading variation. **See $帚zaau2 for the canonical entry.**]]
     --
@@ -1264,7 +1264,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)肘]]
+  - [[Page~25|n68 #11: (2)肘]]
     --
     [[Reading variation. **See $肘zaau2 for the canonical entry.**]]
     --
