@@ -3591,6 +3591,88 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~38|n81
+    ,{#page-38-entry-1} #1
+    ,{.williams} (1)蜘
+    ,
+      <nav class="sideways">
+      ==
+      - $蜘zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-2} #2
+    ,{.williams} (1)之
+    ,
+      <nav class="sideways">
+      ==
+      - $之zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-3} #3
+    ,{.williams} (1)芝
+    ,
+      <nav class="sideways">
+      ==
+      - $芝zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-4} #4
+    ,{.williams} (1)支
+    ,
+      <nav class="sideways">
+      ==
+      - $支zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-5} #5
+    ,{.williams} (1)吱
+    ,
+      <nav class="sideways">
+      ==
+      - $吱zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-6} #6
+    ,{.williams} (1)枝
+    ,
+      <nav class="sideways">
+      ==
+      - $枝zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-7} #7
+    ,{.williams} (1)肢
+    ,
+      <nav class="sideways">
+      ==
+      - $肢zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-8} #8
+    ,{.williams} (1)脂
+    ,
+      <nav class="sideways">
+      ==
+      - $脂zi1
+      ==
+      </nav>
+  //
+    ,{#page-38-entry-9} #9
+    ,{.williams} (1)巵
+    ,
+      <nav class="sideways">
+      ==
+      - $巵zi1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

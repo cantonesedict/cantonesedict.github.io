@@ -11393,7 +11393,7 @@
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+4E4B 㞢 (F1.35 之) 於也往也又語助詞 (Page 38|n81 之) A sign of the genitive; when placed between ~~two nouns or verbs~~ a noun and a verb, answers to who, which, that; an object pronoun, ~~he~~ him, ~~she~~ her, it, them; often used in the abstract, after a noun, or as a relative particle, in apposition; ~~to progress;~~ to go to (Kangxi: 往也); _~~t'eng~~ t'ing chi chi yan_ (ting3 zi1 zi1 jan4 聽之之人), the person who hears him; _t'in chi ming ming_ (tin1 zi1 ming4 ming6 天之明命) heaven's plain decree; _u chi noi ho_ (jyu4 zi1 noi6 ho4 如之奈何) if so, how then? _mi chi yau ya_ (mei6 zi1 jau5 jaa5 未之有也), there is no such thing; _tseung ho chi_ (zoeng1 ho4 zi1 將何之), where are you going? _ku chi_ (gu2 zi1 古之), the ancients; _t'in ming chi_ (tin1 ming6 zi1 天命之), heaven orders it; _mo chi_ (mou4 zi1 無之), impossible; _hang i pat chi che yau chi_ (hang4 ji4 bat1 zi3 ze2 jau5 zi1 行而不至者有之), to go and not arrive is common; _chu chi che chi wai tai_ (zyu2 zi1 ze2 zi1 wai6 dai3 主之者之謂帝) that which rules is called supreme. Many of the senses given in Kangxi are too unsatisfactory to be mapped to Williams' definitions above. For example, where Kangxi has 語助辭 \"speech-assist word\" (i.e. particle), the examples given are actually for the objective pronoun sense. Williams' 聽之之人: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). Six of Williams' examples (天之明命, 未之有也, 古之, 無之, 行而不至者有之, 主之者之謂帝) are identical or suspiciously similar to those in Section 2.1 (_Examples of chi_, 之) of J. G. Bridgman's 1847 translation of Premare's ''Notitia Linguae Sinicae''. This (Kangxi: 此也). Till, until (Kangxi: 至也). 【之】 (tsyi) (_verb-like_) to go (_preposition-like_) till (_determiner-like_) this, such (_pronoun-like_) him, it, (_met._) a thing (_postposition-like_) of (_speech-assist_) that"
+"text":"U+4E4B 㞢 (F1.35 之) 於也往也又語助詞 (Page 38|n81 #2: 之) A sign of the genitive; when placed between ~~two nouns or verbs~~ a noun and a verb, answers to who, which, that; an object pronoun, ~~he~~ him, ~~she~~ her, it, them; often used in the abstract, after a noun, or as a relative particle, in apposition; ~~to progress;~~ to go to (Kangxi: 往也); _~~t'eng~~ t'ing chi chi yan_ (ting3 zi1 zi1 jan4 聽之之人), the person who hears him; _t'in chi ming ming_ (tin1 zi1 ming4 ming6 天之明命) heaven's plain decree; _u chi noi ho_ (jyu4 zi1 noi6 ho4 如之奈何) if so, how then? _mi chi yau ya_ (mei6 zi1 jau5 jaa5 未之有也), there is no such thing; _tseung ho chi_ (zoeng1 ho4 zi1 將何之), where are you going? _ku chi_ (gu2 zi1 古之), the ancients; _t'in ming chi_ (tin1 ming6 zi1 天命之), heaven orders it; _mo chi_ (mou4 zi1 無之), impossible; _hang i pat chi che yau chi_ (hang4 ji4 bat1 zi3 ze2 jau5 zi1 行而不至者有之), to go and not arrive is common; _chu chi che chi wai tai_ (zyu2 zi1 ze2 zi1 wai6 dai3 主之者之謂帝) that which rules is called supreme. Many of the senses given in Kangxi are too unsatisfactory to be mapped to Williams' definitions above. For example, where Kangxi has 語助辭 \"speech-assist word\" (i.e. particle), the examples given are actually for the objective pronoun sense. Williams' 聽之之人: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). Six of Williams' examples (天之明命, 未之有也, 古之, 無之, 行而不至者有之, 主之者之謂帝) are identical or suspiciously similar to those in Section 2.1 (_Examples of chi_, 之) of J. G. Bridgman's 1847 translation of Premare's ''Notitia Linguae Sinicae''. This (Kangxi: 此也). Till, until (Kangxi: 至也). 【之】 (tsyi) (_verb-like_) to go (_preposition-like_) till (_determiner-like_) this, such (_pronoun-like_) him, it, (_met._) a thing (_postposition-like_) of (_speech-assist_) that"
 }
 },
 "咱":{
@@ -14558,7 +14558,7 @@
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+5431 (Page 38|n81 吱) A colloquial final, like 咯 _lok_ (lok3) expressing certainty; or that an act was immaterial; _kom tsau ho chi_ (gam2 zau6 hou2 zi1 噉就好吱), then he would be well off; _chi chi hai_ (zi1 zi1 hai6 吱吱係) certainly so."
+"text":"U+5431 (Page 38|n81 #5: 吱) A colloquial final, like 咯 _lok_ (lok3) expressing certainty; or that an act was immaterial; _kom tsau ho chi_ (gam2 zau6 hou2 zi1 噉就好吱), then he would be well off; _chi chi hai_ (zi1 zi1 hai6 吱吱係) certainly so."
 }
 },
 "咨":{
@@ -14610,21 +14610,21 @@
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+5DF5 卮 (F1.36 巵) 酒杯 (Page 38|n81 巵) A goblet (Kangxi: 圜器也); a cup holding four gills (Kangxi: 巵酒器也受四升); ~~a syphon;~~ ~~a vessel for serving rations;~~ _tsau chi_ (zau2 zi1 酒巵)~~, a wine syphon~~. Williams' \"a vessel for serving rations\": This is a misreading of Kangxi 所以節飮食. Here, 節飮食 is the moderation of consumption for self-cultivation, rather than the rationing of food/drink due to limited resources. 【巵】 (tsye) (_noun-like_) goblet"
+"text":"U+5DF5 卮 (F1.36 巵) 酒杯 (Page 38|n81 #9: 巵) A goblet (Kangxi: 圜器也); a cup holding four gills (Kangxi: 巵酒器也受四升); ~~a syphon;~~ ~~a vessel for serving rations;~~ _tsau chi_ (zau2 zi1 酒巵)~~, a wine syphon~~. Williams' \"a vessel for serving rations\": This is a misreading of Kangxi 所以節飮食. Here, 節飮食 is the moderation of consumption for self-cultivation, rather than the rationing of food/drink due to limited resources. 【巵】 (tsye) (_noun-like_) goblet"
 }
 },
 "支":{
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+652F (F1.36 支) 持也分也又支离又支干又宗支 (Page 38|n81 支) To branch, to diverge; ~~to hold;~~ to give, to pay; to prop, to succor (Kangxi: 持也, 支拄也); a branch; posterity, descendants; a sept or tribe; to attend to; to bear up, to stand firm; diverging, parting (Kangxi: 一曰分也); the twelve horary characters (Kangxi: 十二支辰名); ~~to measure;~~ the 65th radical (U+2F40 ⽀ \"branch\"); _pau chi_ (baau1 zi1 包支), responsible for; _chi kang_ (zi1 gaang1 支更), a watchman; _yat chung chi yung_ (jat6 zung1 zi1 jung6 日中支用) daily outlays and expenses; _chi k'ap_ (zi1 kap1 支給) to give out; _chi kung ngan_ (zi1 gung1 ngan4 支工銀), to pay wages; _chi li_ (zi1 lei4 支離), irrelevant, not to the point, a liar; _chi siu_ (zi1 siu1 支消), to expend, use for expenses; _chi p'ai_ (zi1 paai3 支派) descendants, a tribe; _wang chi_ (waang4 zi1 橫支), a side branch, a concubine's child. Fan Wan entry: Corrected 千 to 干. Williams' 支更: Corrected _kang_ (gang1) to _kang_ (gaang1). To reckon (Kangxi: 支猶計也). A surname (Kangxi: 姓). 【支】 (tsye) (_noun-like_) branch, limb (_verb-like_) to support (_verb-like_) to pay (for) (_verb-like_) to reckon"
+"text":"U+652F (F1.36 支) 持也分也又支离又支干又宗支 (Page 38|n81 #4: 支) To branch, to diverge; ~~to hold;~~ to give, to pay; to prop, to succor (Kangxi: 持也, 支拄也); a branch; posterity, descendants; a sept or tribe; to attend to; to bear up, to stand firm; diverging, parting (Kangxi: 一曰分也); the twelve horary characters (Kangxi: 十二支辰名); ~~to measure;~~ the 65th radical (U+2F40 ⽀ \"branch\"); _pau chi_ (baau1 zi1 包支), responsible for; _chi kang_ (zi1 gaang1 支更), a watchman; _yat chung chi yung_ (jat6 zung1 zi1 jung6 日中支用) daily outlays and expenses; _chi k'ap_ (zi1 kap1 支給) to give out; _chi kung ngan_ (zi1 gung1 ngan4 支工銀), to pay wages; _chi li_ (zi1 lei4 支離), irrelevant, not to the point, a liar; _chi siu_ (zi1 siu1 支消), to expend, use for expenses; _chi p'ai_ (zi1 paai3 支派) descendants, a tribe; _wang chi_ (waang4 zi1 橫支), a side branch, a concubine's child. Fan Wan entry: Corrected 千 to 干. Williams' 支更: Corrected _kang_ (gang1) to _kang_ (gaang1). To reckon (Kangxi: 支猶計也). A surname (Kangxi: 姓). 【支】 (tsye) (_noun-like_) branch, limb (_verb-like_) to support (_verb-like_) to pay (for) (_verb-like_) to reckon"
 }
 },
 "枝":{
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+679D (F1.36 枝) 枝幹 (Page 38|n81 枝) A branch (Kangxi: 木別生條也), a twig; a slender post; to scatter, to branch off (Kangxi: 散也); a tributary of a river (Kangxi: 水別于他水入于大水及海者命曰枝水); a classifier of slender things, as pencils, flowers, pens, &c.; _chi kon_ (zi1 gon3 枝幹) trunk and branches; _yat chi fa_ (jat1 zi1 faa1 一枝花), a flower, a pretty girl; _yat chi kwan_ (jat1 zi1 gwan1 一枝軍), a detachment of troops; _pok chi_ (bok3 zi1 駁枝), to graft; _chi ip_ (zi1 jip6 枝葉) branches and leaves; _sun chi_ (syun1 zi1 酸枝), Chinese ebony; _shan chi_ (saan1 zi1 山枝), wild _sun-chi_ (酸枝) wood, a hard timber. Williams' \"pencils\": In the (now) dated sense of a brush. 【枝】 (tsye) (_noun-like_) branch (_classifier_)"
+"text":"U+679D (F1.36 枝) 枝幹 (Page 38|n81 #6: 枝) A branch (Kangxi: 木別生條也), a twig; a slender post; to scatter, to branch off (Kangxi: 散也); a tributary of a river (Kangxi: 水別于他水入于大水及海者命曰枝水); a classifier of slender things, as pencils, flowers, pens, &c.; _chi kon_ (zi1 gon3 枝幹) trunk and branches; _yat chi fa_ (jat1 zi1 faa1 一枝花), a flower, a pretty girl; _yat chi kwan_ (jat1 zi1 gwan1 一枝軍), a detachment of troops; _pok chi_ (bok3 zi1 駁枝), to graft; _chi ip_ (zi1 jip6 枝葉) branches and leaves; _sun chi_ (syun1 zi1 酸枝), Chinese ebony; _shan chi_ (saan1 zi1 山枝), wild _sun-chi_ (酸枝) wood, a hard timber. Williams' \"pencils\": In the (now) dated sense of a brush. 【枝】 (tsye) (_noun-like_) branch (_classifier_)"
 }
 },
 "梔":{
@@ -14695,7 +14695,7 @@
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+80A2 胑 (F1.36 肢) 四肢 (Page 38|n81 肢) The limbs (Kangxi: 體四胑也); _sz' chi_ (sei3 zi1 四肢), the four limbs; _chi t'ai_ (zi1 tai2 肢體), the whole body; _chi kai_ (zi1 gaai2 肢解), to quarter. 【肢】 (tsye) (_noun-like_) limb"
+"text":"U+80A2 胑 (F1.36 肢) 四肢 (Page 38|n81 #7: 肢) The limbs (Kangxi: 體四胑也); _sz' chi_ (sei3 zi1 四肢), the four limbs; _chi t'ai_ (zi1 tai2 肢體), the whole body; _chi kai_ (zi1 gaai2 肢解), to quarter. 【肢】 (tsye) (_noun-like_) limb"
 }
 },
 "胾":{
@@ -14714,14 +14714,14 @@
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+8102 (F1.36 脂) 膏也又胭脂 (Page 38|n81 脂) Grease, suet, lard, fat (Kangxi: 戴角者脂無角者膏); hard gums of trees; _met._ honors, glory (Kangxi: 以喩榮祿也); to grease (Kangxi: 用以利物曰脂); fat animals; _in chi_ (jin1 zi1 胭脂), rouge (Kangxi: 燕脂以紅藍花汁凝脂爲之 etc.); _man chi_ (man4 zi1 民脂), the fat of the people, _i. e._ their money; _chi ko_ (zi1 gou1 脂膏), greasy, unctuous; _yeung chi_ (joeng4 zi1 羊脂), mutton tallow; _chi fan_ (zi1 fan2 脂粉), cosmetics. 【脂】 (tsyij) (_noun-like_) grease, fat"
+"text":"U+8102 (F1.36 脂) 膏也又胭脂 (Page 38|n81 #8: 脂) Grease, suet, lard, fat (Kangxi: 戴角者脂無角者膏); hard gums of trees; _met._ honors, glory (Kangxi: 以喩榮祿也); to grease (Kangxi: 用以利物曰脂); fat animals; _in chi_ (jin1 zi1 胭脂), rouge (Kangxi: 燕脂以紅藍花汁凝脂爲之 etc.); _man chi_ (man4 zi1 民脂), the fat of the people, _i. e._ their money; _chi ko_ (zi1 gou1 脂膏), greasy, unctuous; _yeung chi_ (joeng4 zi1 羊脂), mutton tallow; _chi fan_ (zi1 fan2 脂粉), cosmetics. 【脂】 (tsyij) (_noun-like_) grease, fat"
 }
 },
 "芝":{
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+829D (F1.35 芝) 芝蔴又芝蘭 (Page 38|n81 芝) A sort of boletus or branched mushroom, regarded as felicitous (Kangxi: 神草也) from its durability; _chi ma_ (zi1 maa4 芝麻), sesamum; _chi lan_ (zi1 laan4 芝蘭), a sort of fragrant epidendrum; _chi ngan_ (zi1 ngaan4 芝顏), your fine face; _chi lan chi shat_ (zi1 laan4 zi1 sat1 芝蘭之室) an elegant house, as of the genii; _met._ intimate with good men. 【芝士】 (zi1 si6-2) Cheese. The spelling 芝士 is arbitrary (but well established)."
+"text":"U+829D (F1.35 芝) 芝蔴又芝蘭 (Page 38|n81 #3: 芝) A sort of boletus or branched mushroom, regarded as felicitous (Kangxi: 神草也) from its durability; _chi ma_ (zi1 maa4 芝麻), sesamum; _chi lan_ (zi1 laan4 芝蘭), a sort of fragrant epidendrum; _chi ngan_ (zi1 ngaan4 芝顏), your fine face; _chi lan chi shat_ (zi1 laan4 zi1 sat1 芝蘭之室) an elegant house, as of the genii; _met._ intimate with good men. 【芝士】 (zi1 si6-2) Cheese. The spelling 芝士 is arbitrary (but well established)."
 }
 },
 "菑":{
@@ -14745,7 +14745,7 @@
 "zi1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)",
-"text":"U+8718 鼅 䵹 (F1.35 蜘) 蜘蛛 (Page 38|n81 蜘) A spider (Kangxi: 蜘蛛); _chi chu_ (zi1 zyu1 蜘蛛), a spider, a general name for all kinds of aranea. 【蜘】 (trje) Used in 蜘蛛. 【蜘蛛】 (trje trju) (_noun-like_) spider"
+"text":"U+8718 鼅 䵹 (F1.35 蜘) 蜘蛛 (Page 38|n81 #1: 蜘) A spider (Kangxi: 蜘蛛); _chi chu_ (zi1 zyu1 蜘蛛), a spider, a general name for all kinds of aranea. 【蜘】 (trje) Used in 蜘蛛. 【蜘蛛】 (trje trju) (_noun-like_) spider"
 }
 },
 "諮":{

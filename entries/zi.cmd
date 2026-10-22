@@ -110,7 +110,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)之]]
+  - [[Page~38|n81 #2: (1)之]]
     ==
     - A sign of the genitive;
     - when placed between ~~two nouns or verbs~~ ``a noun and a verb``, answers to who, which, that;
@@ -244,7 +244,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~38|n81 (1)吱]]
+  - [[Page~38|n81 #5: (1)吱]]
     ==
     - A colloquial final, like 咯 _lok(8)_ [[lok3]] expressing certainty;
       or that an act was immaterial;
@@ -482,7 +482,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)巵]]
+  - [[Page~38|n81 #9: (1)巵]]
     ==
     - A goblet [[Kangxi: 圜器也]];
     - a cup holding four gills [[Kangxi: 巵酒器也受四升]];
@@ -521,7 +521,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)支]]
+  - [[Page~38|n81 #4: (1)支]]
     ==
     - To branch, to diverge;
     - ~~to hold;~~
@@ -600,7 +600,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)枝]]
+  - [[Page~38|n81 #6: (1)枝]]
     ==
     - A branch [[Kangxi: 木別生條也]], a twig;
     - a slender post;
@@ -1042,7 +1042,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)肢]]
+  - [[Page~38|n81 #7: (1)肢]]
     ==
     - The limbs [[Kangxi: 體四胑也]];
     - _sz'(3) (1)ch(i/)_
@@ -1140,7 +1140,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)脂]]
+  - [[Page~38|n81 #8: (1)脂]]
     ==
     - Grease, suet, lard, fat [[Kangxi: 戴角者脂無角者膏]];
     - hard gums of trees;
@@ -1186,7 +1186,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)芝]]
+  - [[Page~38|n81 #3: (1)芝]]
     ==
     - A sort of boletus or branched mushroom,
       regarded as felicitous [[Kangxi: 神草也]] from its durability;
@@ -1367,7 +1367,7 @@ F
   ==
 W
   ====
-  - [[Page~38|n81 (1)蜘]]
+  - [[Page~38|n81 #1: (1)蜘]]
     ==
     - A spider [[Kangxi: 蜘蛛]];
     - _(1)ch(i/) (1)ch(u:)_
