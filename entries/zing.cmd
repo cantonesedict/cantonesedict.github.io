@@ -1821,7 +1821,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
+  - [[Page~21* #14: 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
     --
     [[Reading variation. **See $鄭zeng6 for the canonical entry.**]]
     --

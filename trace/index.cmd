@@ -5038,6 +5038,134 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~21*
+    ,{#page-21*-entry-1} #1
+    ,{.williams} (4)裎
+    ,
+      <nav class="sideways">
+      ==
+      - $裎cing4
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-2} #2
+    ,{.williams} (4)埕
+    ,
+      <nav class="sideways">
+      ==
+      - $埕cing4
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-3} #3
+    ,{.williams} (4)酲
+    ,
+      <nav class="sideways">
+      ==
+      - $酲cing4
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-4} #4
+    ,{.williams} (4)惩(4)懲
+    ,
+      <nav class="sideways">
+      ==
+      - $懲cing4
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-5} #5
+    ,{.williams} (4)瞪
+    ,
+      <nav class="sideways">
+      ==
+      - $瞪cing4
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-6} #6
+    ,{.williams} (4)澄
+    ,
+      <nav class="sideways">
+      ==
+      - $澄cing4
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-7} #7
+    ,{.williams} (2)逞
+    ,
+      <nav class="sideways">
+      ==
+      - $逞cing2
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-8} #8
+    ,{.williams} (2)郢
+    ,
+      <nav class="sideways">
+      ==
+      - ($郢cing2)
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-9} #9
+    ,{.williams} (2)拯
+    ,
+      <nav class="sideways">
+      ==
+      - $拯cing2
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-10} #10
+    ,{.williams} (2)赬
+    ,
+      <nav class="sideways">
+      ==
+      - $赬cing1
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-11} #11
+    ,{.williams} (2)檉
+    ,
+      <nav class="sideways">
+      ==
+      - $檉cing1
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-12} #12
+    ,{.williams} (2)蟶
+    ,
+      <nav class="sideways">
+      ==
+      - $蟶cing1
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-13} #13
+    ,{.williams} 稱(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $秤cing3
+      - $稱cing3
+      ==
+      </nav>
+  //
+    ,{#page-21*-entry-14} #14
+    ,{.williams} 鄭(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $鄭zeng6, ($鄭zing6)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

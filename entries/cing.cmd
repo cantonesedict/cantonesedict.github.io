@@ -93,7 +93,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)檉 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+  - [[Page~21* #11: (2)檉 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A reddish bark willow, growing by water courses [[Kangxi: 河柳也]],
       and thought to indicate rain [[Kangxi: 天之將雨檉先起氣以應之故一名雨師]].
@@ -447,7 +447,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)蟶 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+  - [[Page~21* #12: (2)蟶 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A bivalve [[Kangxi: 蚌屬]], the razor-sheath or Solen,
       also called _(1)sh(a/) (4)lo_ [[saa1 lo4 沙螺]],
@@ -484,7 +484,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)赬 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+  - [[Page~21* #10: (2)赬 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A carnation or pink color;
     - cloth dyed twice over [[Kangxi: 再染謂之赬]], to dye red [[Kangxi: 赬染赤]];
@@ -706,7 +706,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)拯]]
+  - [[Page~21* #9: (2)拯]]
     ==
     - To rescue [[Kangxi: 救也助也, 援也]], to pull out, as from a well;
     - to deliver, to save;
@@ -890,7 +890,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)逞]]
+  - [[Page~21* #7: (2)逞]]
     ==
     - Froward, presuming, confident of one's power or pretensions [[Kangxi: 矜而自逞也]];
     - precipitate, hasty [[Kangxi: 疾也]];
@@ -948,7 +948,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)郢]]
+  - [[Page~21* #8: (2)郢]]
     --
     [[Reading variation. **See $郢jing5 for the canonical entry.**]] [[TODO]]
     --
@@ -988,7 +988,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 稱(3); here normalised to 秤]]
+  - [[Page~21* #13: 稱(3); here normalised to 秤]]
     ==
     - To weigh, to adjust;
     - a steelyard or dotchin [[Kangxi 秤: 正斤兩也]];
@@ -1067,7 +1067,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 稱(3)]]
+  - [[Page~21* #13: 稱(3)]]
     ==
     - [[...]];
     - suitable [[Kangxi: 適物之宜也]], as one wishes [[Kangxi: 愜意]];
@@ -1222,7 +1222,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)埕]]
+  - [[Page~21* #2: (4)埕]]
     --
     An unauthorized character.
     --
@@ -1352,7 +1352,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)惩(4)懲]]
+  - [[Page~21* #4: (4)惩(4)懲]]
     ==
     - To repress, to curb [[Kangxi 懲: 㣻也]];
     - to warn;
@@ -1433,7 +1433,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)澄]]
+  - [[Page~21* #6: (4)澄]]
     ==
     - Still water;
     - limpid, clear [[Kangxi: 水靜而淸也]];
@@ -1475,7 +1475,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)瞪]]
+  - [[Page~21* #5: (4)瞪]]
     ==
     - To stare at, to look straight at [[Kangxi: 直視也]], to fix the eye on;
     - _(4)ch(')ing (5)ng(a/)n mong(6)_
@@ -1587,7 +1587,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)裎]]
+  - [[Page~21* #1: (4)裎]]
     ==
     - ~~The upper part of the body;~~
     - naked [[Kangxi: 倮也]];
@@ -1628,7 +1628,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)酲]]
+  - [[Page~21* #3: (4)酲]]
     ==
     - ~~To drink till sick and drunk~~ ``Sick from drink`` [[Kangxi: 病酒也]];
     - half sobered, and ashamed at being drunk [[Kangxi: 一曰醉而覺也]];
