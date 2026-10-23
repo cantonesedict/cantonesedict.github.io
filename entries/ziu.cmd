@@ -115,7 +115,7 @@ F
   ==
 W
   ====
-  - [[Page~24* (1)招]]
+  - [[Page~24* #1: (1)招]]
     ==
     - To beckon, to motion to with the hand, to hail [[Kangxi: 手呼也 etc.]];
     - ~~to let people know;~~
@@ -853,7 +853,7 @@ F
   ==
 W
   ====
-  - [[Page~24* (2)沼]]
+  - [[Page~24* #2: (2)沼]]
     ==
     - A pool or tank [[Kangxi: 池也一說圓曰池曲曰沼]], used for a fishpond;
     - _(4)l(i/)n (2)chi(u/)_
@@ -929,7 +929,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 照(3)炤(3)]]
+  - [[Page~24* #3: 照(3)炤(3)]]
     --
     [[Alternative form of 照. **See $照ziu3 for the canonical entry.**]]
     --
@@ -961,7 +961,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 照(3)炤(3)]]
+  - [[Page~24* #3: 照(3)炤(3)]]
     ==
     - Light;
     - to illuminate, to brighten, to shine on [[Kangxi 照: 明所燭也]];
@@ -1078,7 +1078,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 詔(3)]]
+  - [[Page~24* #4: 詔(3)]]
     ==
     - To promulge, to announce, to proclaim [[Kangxi: 吿也]];
     - to teach, to exhort, to instruct ~~the empire~~ [[Kangxi: 導也 etc.]];
@@ -1210,7 +1210,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 兆(6)]]
+  - [[Page~24* #7: 兆(6)]]
     --
     [[Reading variation. **See $兆siu6 for the canonical entry.**]] [[TODO]]
     --
@@ -1234,7 +1234,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 召(6)]]
+  - [[Page~24* #5: 召(6)]]
     ==
     - To call, to summon [[Kangxi: {𧦝=⿰訁乎}也, 以手曰招以言曰召]], to invoke, to cite;
     - to order one to be present;
@@ -1282,7 +1282,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~24* 齸(6) _Chi(u/)(6)_; here corrected to 噍 _Tsi(u/)(6)_]]
+  - [[Page~24* #8: 齸(6) _Chi(u/)(6)_; here corrected to 噍 _Tsi(u/)(6)_]]
     --
     ~~A colloquial word.~~
     --
@@ -1380,7 +1380,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 旐(6)]]
+  - [[Page~24* #9: 旐(6)]]
     --
     [[Reading variation. **See $旐siu6 for the canonical entry.**]] [[TODO]]
     --
@@ -1408,7 +1408,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 趙(6)]]
+  - [[Page~24* #6: 趙(6)]]
     ==
     - To hasten to [[Kangxi: 趨趙也]];
     - to announce to a suzerain [[Kangxi: 趙朝也本小邑朝事于大國也]];
