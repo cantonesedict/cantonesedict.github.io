@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)侏]]
+  - [[Page~30* #1: (1)侏]]
     ==
     - A pigmy [[Kangxi: 侏儒容貌短小也]];
     - a short pillar in a roof like a king-post [[Kangxi: 梁上短柱亦曰侏儒]];
@@ -225,7 +225,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)株]]
+  - [[Page~30* #2: (1)株]]
     ==
     - The trunk or bole of a tree [[Kangxi: 木根也徐曰在土曰根在土上曰株]];
     - a classifier of trees [[Kangxi: 木身也]];
@@ -264,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)洙]]
+  - [[Page~30* #3: (1)洙]]
     ==
     - A small stream in Sh(a/)ntung [[山東]]
       flowing north from T(a/)i shan [[泰山]]
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)珠]]
+  - [[Page~30* #4: (1)珠]]
     ==
     - A pearl [[Kangxi: 蚌之隂精]];
     - a bead;
@@ -398,7 +398,7 @@ W
         [[zyu1 bou2 珠寶]],
         pearls.
     ==
-  - [[Page~30* (1)䏭; here normalised to 珠]]
+  - [[Page~30* #7: (1)䏭; here normalised to 珠]]
     --
     An unauthorized character.
     --
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)硃]]
+  - [[Page~30* #5: (1)硃]]
     ==
     - Cinnabar [[Kangxi: 丹砂也]];
     - _(1)ch(u:) (1)sh(a/)_
@@ -497,7 +497,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~30* (1)祩]]
+  - [[Page~30* #6: (1)祩]]
     ==
     - To curse, to imprecate misfortunes upon one [[Kangxi: 咒祩, 詛也]].
     ==
@@ -524,7 +524,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)䏭]]
+  - [[Page~30* #7: (1)䏭]]
     --
     [[Alternative form of 珠 (for the Cantonese "cheek" sense). **See $珠zyu1 for the canonical entry.**]]
     --
@@ -548,7 +548,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)茱]]
+  - [[Page~30* #8: (1)茱]]
     ==
     - A warm, peppery medicine [[Kangxi: 茱萸藥名]];
     - _(1)ch(u:) (4)(u:)_
@@ -578,7 +578,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)蛛]]
+  - [[Page~30* #9: (1)蛛]]
     ==
     - The spider [[Kangxi: 蜘蛛也]];
     - _(1)ch(u:) (1)sz'_
@@ -619,7 +619,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)誅]]
+  - [[Page~30* #10: (1)誅]]
     ==
     - ~~To make judicial inquiry;~~
     - to punish [[Kangxi: 罰也]], to destroy, to kill [[Kangxi: 討也, 殺也, 誅者戮其人]];
@@ -847,7 +847,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)邾]]
+  - [[Page~30* #11: (1)邾]]
     ==
     - A feudal state in the south of Sh(a/)ntung [[山東]],
       now the district of Tsau [[鄒]] [[Kangxi: 魯附庸國 etc., 邾今魯國鄒縣也]];
@@ -878,7 +878,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)銖]]
+  - [[Page~30* #12: (1)銖]]
     ==
     - ~~A small ancient silver coin,~~ ``A unit of weight``
       estimated as equal to 100~grains of millet [[Kangxi: 一曰十黍爲絫十絫爲銖]];
@@ -931,7 +931,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~30* (2)丶]]
+  - [[Page~30* #13: (2)丶]]
     ==
     - The flame of a lamp [[Kangxi: 鐙中火丶也]];
     - a stop``,`` a point [[Kangxi: 有所絕止丶而識之也]];
@@ -960,14 +960,14 @@ F
   ==
 W
   ====
-  - [[Page~30* (2)丶]]
+  - [[Page~30* #13: (2)丶]]
     --
     [[...]]
     --
     --
     Occurs used for the next [[主]] [[Kangxi 丶: 借爲主宰字]].
     --
-  - [[Page~30* (2)主]]
+  - [[Page~30* #14: (2)主]]
     ==
     - A rule, a lord, a master [[Kangxi: 君也]];
     - a host [[Kangxi: 賔之對也]];

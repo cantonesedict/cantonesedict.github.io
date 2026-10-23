@@ -5814,6 +5814,135 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~30*
+    ,{#page-30*-entry-1} #1
+    ,{.williams} (1)侏
+    ,
+      <nav class="sideways">
+      ==
+      - $侏zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-2} #2
+    ,{.williams} (1)株
+    ,
+      <nav class="sideways">
+      ==
+      - $株zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-3} #3
+    ,{.williams} (1)洙
+    ,
+      <nav class="sideways">
+      ==
+      - $洙zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-4} #4
+    ,{.williams} (1)珠
+    ,
+      <nav class="sideways">
+      ==
+      - $珠zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-5} #5
+    ,{.williams} (1)硃
+    ,
+      <nav class="sideways">
+      ==
+      - $硃zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-6} #6
+    ,{.williams} (1)祩
+    ,
+      <nav class="sideways">
+      ==
+      - $祩zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-7} #7
+    ,{.williams} (1)䏭
+    ,
+      <nav class="sideways">
+      ==
+      - $珠zyu1
+      - ($䏭zyu1)
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-8} #8
+    ,{.williams} (1)茱
+    ,
+      <nav class="sideways">
+      ==
+      - $茱zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-9} #9
+    ,{.williams} (1)蛛
+    ,
+      <nav class="sideways">
+      ==
+      - $蛛zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-10} #10
+    ,{.williams} (1)誅
+    ,
+      <nav class="sideways">
+      ==
+      - $誅zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-11} #11
+    ,{.williams} (1)邾
+    ,
+      <nav class="sideways">
+      ==
+      - $邾zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-12} #12
+    ,{.williams} (1)銖
+    ,
+      <nav class="sideways">
+      ==
+      - $銖zyu1
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-13} #13
+    ,{.williams} (2)丶
+    ,
+      <nav class="sideways">
+      ==
+      - $丶zyu2
+      - $主zyu2
+      ==
+      </nav>
+  //
+    ,{#page-30*-entry-14} #14
+    ,{.williams} (2)主
+    ,
+      <nav class="sideways">
+      ==
+      - $主zyu2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
