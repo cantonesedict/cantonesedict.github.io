@@ -6926,7 +6926,7 @@
 "cyu5":{
 "isCanonical":true,
 "williams":"(5)ch(')(u:)",
-"text":"U+5B81 著 cyu4 (alternative per 《廣韻》直魚切) (F1.47 宁) 門屏之間曰宁 (Page 31* 著 _Chu_ (zyu3); here corrected to _Ch'u_ (cyu5) and normalised to 宁) a porch; (Page 32* 宁) A porch, a space between the gate and the screen (Kangxi: 門屛之閒謂之宁); 【宁】 (drjoX, drjo) (_noun-like_) entrance-space"
+"text":"U+5B81 著 cyu4 (alternative per 《廣韻》直魚切) (F1.47 宁) 門屏之間曰宁 (Page 31* #5: 著 _Chu_ (zyu3); here corrected to _Ch'u_ (cyu5) and normalised to 宁) a porch; (Page 32* 宁) A porch, a space between the gate and the screen (Kangxi: 門屛之閒謂之宁); 【宁】 (drjoX, drjo) (_noun-like_) entrance-space"
 }
 },
 "杵":{
@@ -7002,7 +7002,7 @@
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 箸 (F1.47 著) 明也又著述 (Page 31* 著) To manifest (Kangxi: 明也); to set forth; clear; to narrate, to write; ~~to fix, to settle;~~ _chu tsok_ (zyu3 zok3 著作) to compose; _chu shut_ (zyu3 seot6 著述) to write an account of. To mark (Kangxi: 著標著也). Position, place (Kangxi: 著位次也). 【著-departing】 (trjoH) (_noun-like_) position, place (_verb-like_) to manifest, to make evident (_adjective-like_) manifest, evident, (_met._) notable (_verb-like_) to write"
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 箸 (F1.47 著) 明也又著述 (Page 31* #5: 著) To manifest (Kangxi: 明也); to set forth; clear; to narrate, to write; ~~to fix, to settle;~~ _chu tsok_ (zyu3 zok3 著作) to compose; _chu shut_ (zyu3 seot6 著述) to write an account of. To mark (Kangxi: 著標著也). Position, place (Kangxi: 著位次也). 【著-departing】 (trjoH) (_noun-like_) position, place (_verb-like_) to manifest, to make evident (_adjective-like_) manifest, evident, (_met._) notable (_verb-like_) to write"
 }
 },
 "貯":{
@@ -17699,40 +17699,40 @@
 "zyu2":{
 "isCanonical":true,
 "williams":"(2)ch(u:)",
-"text":"U+6E1A May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 陼 (F1.46 渚) 小洲也 (Page 31* 渚) An affluent ~~of the R. Hwai (淮) near Hu chau (許州) in Honan (河南)~~ (Kangxi: 水名, 水出常山中丘逢山東入湡); an islet (Kangxi: 小洲曰渚); a place awash in a river. 【渚】 (tsyoX) (_noun-like_) islet"
+"text":"U+6E1A May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 陼 (F1.46 渚) 小洲也 (Page 31* #3: 渚) An affluent ~~of the R. Hwai (淮) near Hu chau (許州) in Honan (河南)~~ (Kangxi: 水名, 水出常山中丘逢山東入湡); an islet (Kangxi: 小洲曰渚); a place awash in a river. 【渚】 (tsyoX) (_noun-like_) islet"
 }
 },
 "煮":{
 "zyu2":{
 "isCanonical":true,
 "williams":"(2)ch(u:)",
-"text":"U+716E May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 煑 䰞 (F1.46 煮) 烹飪也 (Page 31* 煮) To boil in water, to steep, to decoct; to cook (Kangxi 煑: 亨也), to dress food; boiled; _chu fan_ (zyu2 faan6 煮飯) to boil rice; _chu shuk_ (zyu2 suk6 煮熟) to cook thoroughly; _chu ming_ (zyu2 ming5 煮茗), to make tea, to give an entertainment. Fan Wan entry: Corrected 飳 to 飪. 【煮】 (tsyoX) (_verb-like_) to cook, to boil"
+"text":"U+716E May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 煑 䰞 (F1.46 煮) 烹飪也 (Page 31* #2: 煮) To boil in water, to steep, to decoct; to cook (Kangxi 煑: 亨也), to dress food; boiled; _chu fan_ (zyu2 faan6 煮飯) to boil rice; _chu shuk_ (zyu2 suk6 煮熟) to cook thoroughly; _chu ming_ (zyu2 ming5 煮茗), to make tea, to give an entertainment. Fan Wan entry: Corrected 飳 to 飪. 【煮】 (tsyoX) (_verb-like_) to cook, to boil"
 }
 },
 "翥":{
 "zyu2":{
 "isCanonical":false,
 "williams":"(2)ch(u:)",
-"text":"U+7FE5 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (F1.46 翥) 飛舉也 (Page 31* 翥)"
+"text":"U+7FE5 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (F1.46 翥) 飛舉也 (Page 31* #4: 翥)"
 },
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+7FE5 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 䎝 䬡 zyu2 (per 《正韻牋》腫庾切逸字) (F1.46 翥 _Chu_ (zyu2)) 飛舉也 (Page 31* 翥 _Chu_ (zyu2); here normalised to _Chu_ (zyu3)) To fly up (Kangxi: 飛舉也), to fly away; to soar (Kangxi: 翥舉也, 謂軒翥也), as a phoenix does."
+"text":"U+7FE5 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 䎝 䬡 zyu2 (per 《正韻牋》腫庾切逸字) (F1.46 翥 _Chu_ (zyu2)) 飛舉也 (Page 31* #4: 翥 _Chu_ (zyu2); here normalised to _Chu_ (zyu3)) To fly up (Kangxi: 飛舉也), to fly away; to soar (Kangxi: 翥舉也, 謂軒翥也), as a phoenix does."
 }
 },
 "麈":{
 "zyu2":{
 "isCanonical":true,
 "williams":"(2)ch(u:)",
-"text":"U+9E88 (F1.46 麈) 鹿之大者尾能主風 (Page 31* 麈) A large ruminant, (a yak?) with a bushy tail (Kangxi: 麋屬, 麈似鹿而大其尾辟麈); _chu mi_ (zyu2 mei5 麈尾), a chowry used by fairies."
+"text":"U+9E88 (F1.46 麈) 鹿之大者尾能主風 (Page 31* #1: 麈) A large ruminant, (a yak?) with a bushy tail (Kangxi: 麋屬, 麈似鹿而大其尾辟麈); _chu mi_ (zyu2 mei5 麈尾), a chowry used by fairies."
 }
 },
 "注":{
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+6CE8 澍 (for water/flow-related senses) 註 (for \"annotate\" sense) (F1.47 注) 意之所主又灌注厝注 (Page 31* 注) ~~Water disparting in streamlets,~~ to lead water in channels (Kangxi: 引也); to soak; to comment (Kangxi: 凡以傳釋經曰注通作註); to collect (Kangxi: 聚也); to strike (Kangxi: 擊也); to fix the mind on (Kangxi: 意所嚮曰注); _chu i_ (zyu3 ji3 注意) attend to closely; attentive; _chu nim_ (zyu3 nim6 注念) to remember, to ponder; _chu muk_ (zyu3 muk6 注目) to gaze at. (Page 31* 註) Used with the last ~~two~~ (~~著,~~ 注). To define, to explain, to illustrate (Kangxi 註: 訓釋也, 註者著也言爲之解說使其義著明也); a commentary, note, definition (Kangxi 註: 疏也解也); _chu shik_ (zyu3 sik1 註釋) to explain; _lok chu kai_ (lok6 zyu3 gaai2 落註解), it needs a commentary; _chu i_ (zyu3 ji6 註義) or _chu kai_ (zyu3 gaai2 註解), an explanation; _po chu_ (bou2 zyu3 補註) to add to the comments. Williams' \"Used with the last two\": I have not seen 著 used for 註 (or vice versa). Kangxi's reference to 《毛詩序疏》註者著也 is an explanation of the \"annotate\" sense, not an interchanging. To pour in, to inject (Kangxi: 灌也, 水流射也). A stake, a wager. 【注】 (tsyuH, trjuH) (_verb-like_) to flow in, to pour in (_verb-like_) to channel, to focus (_verb-like_) (_met._) to bring together (_verb-like_) (_met._) to give heed (_verb-like_) (_met._) to shoot (_verb-like_) to annotate"
+"text":"U+6CE8 澍 (for water/flow-related senses) 註 (for \"annotate\" sense) (F1.47 注) 意之所主又灌注厝注 (Page 31* #6: 注) ~~Water disparting in streamlets,~~ to lead water in channels (Kangxi: 引也); to soak; to comment (Kangxi: 凡以傳釋經曰注通作註); to collect (Kangxi: 聚也); to strike (Kangxi: 擊也); to fix the mind on (Kangxi: 意所嚮曰注); _chu i_ (zyu3 ji3 注意) attend to closely; attentive; _chu nim_ (zyu3 nim6 注念) to remember, to ponder; _chu muk_ (zyu3 muk6 注目) to gaze at. (Page 31* #7: 註) Used with the last ~~two~~ (~~著,~~ 注). To define, to explain, to illustrate (Kangxi 註: 訓釋也, 註者著也言爲之解說使其義著明也); a commentary, note, definition (Kangxi 註: 疏也解也); _chu shik_ (zyu3 sik1 註釋) to explain; _lok chu kai_ (lok6 zyu3 gaai2 落註解), it needs a commentary; _chu i_ (zyu3 ji6 註義) or _chu kai_ (zyu3 gaai2 註解), an explanation; _po chu_ (bou2 zyu3 補註) to add to the comments. Williams' \"Used with the last two\": I have not seen 著 used for 註 (or vice versa). Kangxi's reference to 《毛詩序疏》註者著也 is an explanation of the \"annotate\" sense, not an interchanging. To pour in, to inject (Kangxi: 灌也, 水流射也). A stake, a wager. 【注】 (tsyuH, trjuH) (_verb-like_) to flow in, to pour in (_verb-like_) to channel, to focus (_verb-like_) (_met._) to bring together (_verb-like_) (_met._) to give heed (_verb-like_) (_met._) to shoot (_verb-like_) to annotate"
 }
 },
 "澍":{
@@ -17746,7 +17746,7 @@
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+70B7 zyu2 (alternative per 《廣韻》之庾切) (F1.47 炷) 炷香 (Page 31* 炷) A wick (Kangxi: 燈炷也, 火炷燼所著者); a stick of incense; to light; _yat chu heung_ (jat1 zyu3 hoeng1 一炷香), a set of three incense sticks; _chu heung_ (zyu3 hoeng1 炷香), to light the incense stick."
+"text":"U+70B7 zyu2 (alternative per 《廣韻》之庾切) (F1.47 炷) 炷香 (Page 31* #8: 炷) A wick (Kangxi: 燈炷也, 火炷燼所著者); a stick of incense; to light; _yat chu heung_ (jat1 zyu3 hoeng1 一炷香), a set of three incense sticks; _chu heung_ (zyu3 hoeng1 炷香), to light the incense stick."
 }
 },
 "箸":{
@@ -17758,56 +17758,56 @@
 "zyu6":{
 "isCanonical":true,
 "williams":"ch(u:)(6)",
-"text":"U+7BB8 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 櫡 筯 (F1.49 筯) 快子 (F1.49 箸) 同上 (Page 31* 筯箸) Chopsticks (Kangxi 箸: 匙箸飯具); _nga chu yat tui_ (ngaa4 zyu6 jat1 deoi3 牙箸一對) a pair of ivory chopsticks; _pi chu_ (bei2 zyu6 匕箸) spoons and chopsticks; _pat hom ha chu_ (bat1 ham1 haa6 zyu6 不堪下箸) it is not worth nipping up, uneatable. 【箸】 (drjoH) (_noun-like_) chopsticks 【箸】 (zyu6) Classifier for a chopstickful of long or strand-like food. 夾箸麪 (gaap3 zyu6 min6): \"Take a chopstickful of noodles.\" 留返箸菜 (lau4 faan1 zyu6 coi3): \"Save a chopstickful of vegetables for later.\""
+"text":"U+7BB8 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 櫡 筯 (F1.49 筯) 快子 (F1.49 箸) 同上 (Page 31* #14: 筯箸) Chopsticks (Kangxi 箸: 匙箸飯具); _nga chu yat tui_ (ngaa4 zyu6 jat1 deoi3 牙箸一對) a pair of ivory chopsticks; _pi chu_ (bei2 zyu6 匕箸) spoons and chopsticks; _pat hom ha chu_ (bat1 ham1 haa6 zyu6 不堪下箸) it is not worth nipping up, uneatable. 【箸】 (drjoH) (_noun-like_) chopsticks 【箸】 (zyu6) Classifier for a chopstickful of long or strand-like food. 夾箸麪 (gaap3 zyu6 min6): \"Take a chopstickful of noodles.\" 留返箸菜 (lau4 faan1 zyu6 coi3): \"Save a chopstickful of vegetables for later.\""
 }
 },
 "蛀":{
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+86C0 (F1.47 蛀) 虫名 (Page 31* 蛀) An insect _(Ptinus)_ which eats books~~; moths in~~, clothes, wood, &c. (Kangxi: 木蠹蟲亦名蛀蟲); to eat, as insects do; _chu lan_ (zyu3 laan6 蛀爛) spoiled by the worms; _chu t'ung_ (zyu3 tung1 蛀通), all eaten through; _ch'ung chu_ (cung4 zyu3 蟲蛀) worm-eaten."
+"text":"U+86C0 (F1.47 蛀) 虫名 (Page 31* #9: 蛀) An insect _(Ptinus)_ which eats books~~; moths in~~, clothes, wood, &c. (Kangxi: 木蠹蟲亦名蛀蟲); to eat, as insects do; _chu lan_ (zyu3 laan6 蛀爛) spoiled by the worms; _chu t'ung_ (zyu3 tung1 蛀通), all eaten through; _ch'ung chu_ (cung4 zyu3 蟲蛀) worm-eaten."
 }
 },
 "註":{
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+8A3B 注 (F1.47 註) 訓釋也記也 (Page 31* 注; here normalised to 註) to record (Kangxi 注: 記也 etc.); (Page 31* 註) to record, to write about (Kangxi: 識也, 記物曰註); Fan Wan entry: Corrected ⿰訁㔾 to 記. 【註】 (trjuH, tsyuH) (_verb-like_) to record"
+"text":"U+8A3B 注 (F1.47 註) 訓釋也記也 (Page 31* #6: 注; here normalised to 註) to record (Kangxi 注: 記也 etc.); (Page 31* #7: 註) to record, to write about (Kangxi: 識也, 記物曰註); Fan Wan entry: Corrected ⿰訁㔾 to 記. 【註】 (trjuH, tsyuH) (_verb-like_) to record"
 }
 },
 "鑄":{
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+9444 鋳 铸 (Mainland simplified) (F1.47 鑄) 鎔鑄 (Page 31* 鑄) To melt, to fuse metals; to cast (Kangxi: 銷金成器也, 鎔鑄也); _chu ts'in_ (zyu3 cin4 鑄錢), to cast cash; _chu p'au_ (zyu3 paau3 鑄炮) to make cannon. Fan Wan entry: Corrected 鋊 to 鎔. To form, to cultivate. 【鑄】 (tsyuH) (_verb-like_) to cast"
+"text":"U+9444 鋳 铸 (Mainland simplified) (F1.47 鑄) 鎔鑄 (Page 31* #12: 鑄) To melt, to fuse metals; to cast (Kangxi: 銷金成器也, 鎔鑄也); _chu ts'in_ (zyu3 cin4 鑄錢), to cast cash; _chu p'au_ (zyu3 paau3 鑄炮) to make cannon. Fan Wan entry: Corrected 鋊 to 鎔. To form, to cultivate. 【鑄】 (tsyuH) (_verb-like_) to cast"
 }
 },
 "霔":{
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+9714 (F1.47 霔) 時雨也 (Page 31* 霔) A seasonable shower (Kangxi: 霔霖, 霖霔, 本作澍時雨澍生萬物); _chu lam_ (zyu3 lam4 霔霖), an opportune rain."
+"text":"U+9714 (F1.47 霔) 時雨也 (Page 31* #11: 霔) A seasonable shower (Kangxi: 霔霖, 霖霔, 本作澍時雨澍生萬物); _chu lam_ (zyu3 lam4 霔霖), an opportune rain."
 }
 },
 "駐":{
 "zyu3":{
 "isCanonical":true,
 "williams":"ch(u:)(3)",
-"text":"U+99D0 驻 (Mainland simplified) (F1.47 駐) 馬止也 (Page 31* 駐) To stop a horse (Kangxi: 馬立也, 馬止也); to rest, to tarry, to sojourn; a stopping-place; _chu tsuk_ (zyu3 zuk1 駐足) to lodge, to put up at; _chu chap_ (zyu3 zaap3 駐劄) to board at; stationed at, appointed to a post; _chu ma_ (zyu3 maa5 駐馬), to tarry a while at. To halt, to stay."
+"text":"U+99D0 驻 (Mainland simplified) (F1.47 駐) 馬止也 (Page 31* #10: 駐) To stop a horse (Kangxi: 馬立也, 馬止也); to rest, to tarry, to sojourn; a stopping-place; _chu tsuk_ (zyu3 zuk1 駐足) to lodge, to put up at; _chu chap_ (zyu3 zaap3 駐劄) to board at; stationed at, appointed to a post; _chu ma_ (zyu3 maa5 駐馬), to tarry a while at. To halt, to stay."
 }
 },
 "住":{
 "zyu6":{
 "isCanonical":true,
 "williams":"ch(u:)(6)",
-"text":"U+4F4F (F1.49 住) 居住 (Page 31* 住) To desist from, to cease, to stop (Kangxi: 止也); to detain; to dwell, to live in (Kangxi: 居也); to endure; to withstand; ~~to erect (Kangxi: 立也);~~ after another verb, it is ~~often merely~~ a sign ~~of past time, or~~ that the action ~~has rested~~ is ongoing; _cha chu_ (zaa1 zyu6 揸住) ~~held~~ holding it; _hit chu_ (hit3 zyu6 歇住) wait a little; _shau chu lo hau_ (sau2 zyu6 lou6 hau2 守住路口), guarding the passage; _chu po_ (zyu6 bou6 住步) to stop walking; _chu shau_ (zyu6 sau2 住手), hold up work; _ni chu pin ch'u_ (nei5 zyu6 bin1 cyu3 你住邊處) where do you live? _yan pat chu_ (jan2 bat1 zyu6 忍不住) I can not bear it. (Page 613 自 _Tsz'_ (zi6); here corrected to 住 _Chu_ (zyu6)) _mai ~~tsz'~~ chu_ (mai5 zyu6 咪住) stop, hold up! _'m ho hu ~~tsz'~~ chu_ (m4 hou2 heoi3 zyu6 唔好去住) don't go away, wait here a while; 【住】 (drjuH) (_verb-like_) to stay 【住】 (zyu6) Marker of the continuous aspect (ongoingness of an action). 着住長褲 (zoek3 zyu6 coeng4 fu3): \"Wearing long pants.\" 食住先 (sik6 zyu6 sin1): \"Let's be eating first before the others arrive.\" 睇住佢 (tai2 zyu6 keoi5): \"Watch over him.\" 我揸住 (ngo5 zaa1 zyu6): \"I'm holding onto it.\" Yet (for negative imperatives and indicatives). 咪行住 (mai5 haang4 zyu6): \"Don't walk off yet!\" 未得住 (mei6 dak1 zyu6): \"Not ready yet.\""
+"text":"U+4F4F (F1.49 住) 居住 (Page 31* #13: 住) To desist from, to cease, to stop (Kangxi: 止也); to detain; to dwell, to live in (Kangxi: 居也); to endure; to withstand; ~~to erect (Kangxi: 立也);~~ after another verb, it is ~~often merely~~ a sign ~~of past time, or~~ that the action ~~has rested~~ is ongoing; _cha chu_ (zaa1 zyu6 揸住) ~~held~~ holding it; _hit chu_ (hit3 zyu6 歇住) wait a little; _shau chu lo hau_ (sau2 zyu6 lou6 hau2 守住路口), guarding the passage; _chu po_ (zyu6 bou6 住步) to stop walking; _chu shau_ (zyu6 sau2 住手), hold up work; _ni chu pin ch'u_ (nei5 zyu6 bin1 cyu3 你住邊處) where do you live? _yan pat chu_ (jan2 bat1 zyu6 忍不住) I can not bear it. (Page 613 自 _Tsz'_ (zi6); here corrected to 住 _Chu_ (zyu6)) _mai ~~tsz'~~ chu_ (mai5 zyu6 咪住) stop, hold up! _'m ho hu ~~tsz'~~ chu_ (m4 hou2 heoi3 zyu6 唔好去住) don't go away, wait here a while; 【住】 (drjuH) (_verb-like_) to stay 【住】 (zyu6) Marker of the continuous aspect (ongoingness of an action). 着住長褲 (zoek3 zyu6 coeng4 fu3): \"Wearing long pants.\" 食住先 (sik6 zyu6 sin1): \"Let's be eating first before the others arrive.\" 睇住佢 (tai2 zyu6 keoi5): \"Watch over him.\" 我揸住 (ngo5 zaa1 zyu6): \"I'm holding onto it.\" Yet (for negative imperatives and indicatives). 咪行住 (mai5 haang4 zyu6): \"Don't walk off yet!\" 未得住 (mei6 dak1 zyu6): \"Not ready yet.\""
 }
 },
 "筯":{
 "zyu6":{
 "isCanonical":false,
 "williams":"ch(u:)(6)",
-"text":"U+7B6F (F1.49 筯) 快子 (F1.49 箸) 同上 (Page 31* 筯箸)"
+"text":"U+7B6F (F1.49 筯) 快子 (F1.49 箸) 同上 (Page 31* #14: 筯箸)"
 }
 },
 "剸":{

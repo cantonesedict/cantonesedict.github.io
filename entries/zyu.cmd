@@ -1166,7 +1166,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)渚]]
+  - [[Page~31* #3: (2)渚]]
     ==
     - An affluent ~~of the R.~Hw(a/)i [[淮]]
       near H(u:) chau [[許州]] in Hon(a/)n [[河南]]~~ [[Kangxi: 水名, 水出常山中丘逢山東入湡]];
@@ -1205,7 +1205,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)煮]]
+  - [[Page~31* #2: (2)煮]]
     ==
     - To boil in water, to steep, to decoct;
     - to cook [[Kangxi 煑: 亨也]], to dress food;
@@ -1251,7 +1251,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)翥]]
+  - [[Page~31* #4: (2)翥]]
     --
     [[Reading variation. **See $翥zyu3 for the canonical entry.**]]
     --
@@ -1275,7 +1275,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)麈]]
+  - [[Page~31* #1: (2)麈]]
     ==
     - A large ruminant, (a yak?) with a bushy tail [[Kangxi: 麋屬, 麈似鹿而大其尾辟麈]];
     - _(2)ch(u:) (5)m(i/)_
@@ -1325,7 +1325,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 注(3)]]
+  - [[Page~31* #6: 注(3)]]
     ==
     - ~~Water disparting in streamlets,~~ to lead water in channels [[Kangxi: 引也]];
     - to soak;
@@ -1348,7 +1348,7 @@ W
     --
     [[Otherwise, an alternative form of 註. **See $註zyu3 for the canonical entry.**]]
     --
-  - [[Page~31* 註(3)]]
+  - [[Page~31* #7: 註(3)]]
     --
     Used with the last ~~two~~ [[~~著,~~ 注]].
     --
@@ -1444,7 +1444,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 炷(3)]]
+  - [[Page~31* #8: 炷(3)]]
     ==
     - A wick [[Kangxi: 燈炷也, 火炷燼所著者]];
     - a stick of incense;
@@ -1536,7 +1536,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)翥 _(2)Ch(u:)_ (zyu2); here normalised to _Ch(u:)(3)_ (zyu3)]]
+  - [[Page~31* #4: (2)翥 _(2)Ch(u:)_ (zyu2); here normalised to _Ch(u:)(3)_ (zyu3)]]
     ==
     - To fly up [[Kangxi: 飛舉也]], to fly away;
     - to soar [[Kangxi: 翥舉也, 謂軒翥也]], as a phœnix does.
@@ -1569,7 +1569,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 著(3)]]
+  - [[Page~31* #5: 著(3)]]
     ==
     - To manifest [[Kangxi: 明也]];
     - to set forth;
@@ -1621,7 +1621,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 蛀(3)]]
+  - [[Page~31* #9: 蛀(3)]]
     ==
     - An insect _(Ptinus)_ which eats books~~; moths in~~``,`` clothes, wood, &c. [[Kangxi: 木蠹蟲亦名蛀蟲]];
     - to eat, as insects do;
@@ -1655,13 +1655,13 @@ F
   ==
 W
   ====
-  - [[Page~31* 注(3); here normalised to 註]]
+  - [[Page~31* #6: 注(3); here normalised to 註]]
     ==
     - [[...]];
     - to record [[Kangxi 注: 記也 etc.]];
     - [[...]].
     ==
-  - [[Page~31* 註(3)]]
+  - [[Page~31* #7: 註(3)]]
     --
     [[...]]
     --
@@ -1705,7 +1705,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 鑄(3)]]
+  - [[Page~31* #12: 鑄(3)]]
     ==
     - To melt, to fuse metals;
     - to cast [[Kangxi: 銷金成器也, 鎔鑄也]];
@@ -1747,7 +1747,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 霔(3)]]
+  - [[Page~31* #11: 霔(3)]]
     ==
     - A seasonable shower [[Kangxi: 霔霖, 霖霔, 本作澍時雨澍生萬物]];
     - _ch(u:)(3) (4)lam_
@@ -1777,7 +1777,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 駐(3)]]
+  - [[Page~31* #10: 駐(3)]]
     ==
     - To stop a horse [[Kangxi: 馬立也, 馬止也]];
     - to rest, to tarry, to sojourn;
@@ -1827,7 +1827,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 住(6)]]
+  - [[Page~31* #13: 住(6)]]
     ==
     - To desist from, to cease, to stop [[Kangxi: 止也]];
     - to detain;
@@ -1936,7 +1936,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 筯(6)箸(6)]]
+  - [[Page~31* #14: 筯(6)箸(6)]]
     --
     [[Alternative form of 箸. **See $箸zyu6 for the canonical entry.**]]
     --
@@ -1966,7 +1966,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 筯(6)箸(6)]]
+  - [[Page~31* #14: 筯(6)箸(6)]]
     ==
     - Chopsticks [[Kangxi 箸: 匙箸飯具]];
     - _(4)ng(a/) ch(u:)(6) yat(7) t(u/)i(3)_

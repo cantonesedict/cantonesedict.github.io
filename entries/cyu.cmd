@@ -753,7 +753,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 著(3) _Ch(u:)(3)_ (zyu3); here corrected to _(5)Ch(')(u:)_ (cyu5) and normalised to 宁]]
+  - [[Page~31* #5: 著(3) _Ch(u:)(3)_ (zyu3); here corrected to _(5)Ch(')(u:)_ (cyu5) and normalised to 宁]]
     ==
     - [[...]];
     - a porch;
