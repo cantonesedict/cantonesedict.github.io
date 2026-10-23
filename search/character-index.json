@@ -2932,12 +2932,12 @@
 "ce2":{
 "isCanonical":true,
 "williams":"(2)ch(')(e/)",
-"text":"U+54C6 (Page 12* 哆) _~~ch'i~~ ch'e in_ (ce2 jin4 哆然), sneering at, disobedient (Kangxi: 哆然衆有不服之心). Also read _ch'e_ (ce2)_;_ the lower lip hanging down (Kangxi: 脣下垂貌). Williams' 哆然: Corrected _ch'i_ (ci2) to _ch'e_ (ce2)."
+"text":"U+54C6 (Page 12* #5: 哆) _~~ch'i~~ ch'e in_ (ce2 jin4 哆然), sneering at, disobedient (Kangxi: 哆然衆有不服之心). Also read _ch'e_ (ce2)_;_ the lower lip hanging down (Kangxi: 脣下垂貌). Williams' 哆然: Corrected _ch'i_ (ci2) to _ch'e_ (ce2)."
 },
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+54C6 de2 (per 《集韻》丁寫切 for \"fish-gape\" sense) (Page 12* 哆) Gaping (Kangxi: 張口也); an open mouth, like a fish (Kangxi: 魚口張貌); large lipped; (...). 【哆】 (tsyheX) (_adjective-like_) open-mouthed"
+"text":"U+54C6 de2 (per 《集韻》丁寫切 for \"fish-gape\" sense) (Page 12* #5: 哆) Gaping (Kangxi: 張口也); an open mouth, like a fish (Kangxi: 魚口張貌); large lipped; (...). 【哆】 (tsyheX) (_adjective-like_) open-mouthed"
 }
 },
 "扯":{
@@ -3773,7 +3773,7 @@
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+4F88 (F1.39 侈) 大也又奢也 (Page 12* 侈) Extravagant, profuse (Kangxi: 奢也泰也); large, superfluous; prodigal; _ch'e ch'i_ (ce1 ci2 奢侈), wasteful; _ch'i fu_ (ci2 fu3 侈富) prodigal and showy; _ch'i in_ (ci2 jin4 侈言), exaggerated talk. 【侈】 (tsyheX) (_adjective-like_) prodigal"
+"text":"U+4F88 (F1.39 侈) 大也又奢也 (Page 12* #4: 侈) Extravagant, profuse (Kangxi: 奢也泰也); large, superfluous; prodigal; _ch'e ch'i_ (ce1 ci2 奢侈), wasteful; _ch'i fu_ (ci2 fu3 侈富) prodigal and showy; _ch'i in_ (ci2 jin4 侈言), exaggerated talk. 【侈】 (tsyheX) (_adjective-like_) prodigal"
 }
 },
 "始":{
@@ -3799,21 +3799,21 @@
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+6065 耻 (F1.39 恥) 慚愧 (F1.39 耻) 同上 (Page 12* 恥耻) Ashamed (Kangxi 恥: 辱也); to feel shame, disgraced, humbled, chagrined (Kangxi 恥: 慙也); to blush or redden; _sau ch'i_ (sau1 ci2 羞恥), shame; _mung ch'i_ (mung4 ci2 蒙恥), covered with disgrace; _ni 'm kin sau ch'i_ (nei5 m4 gin3 sau1 ci2 你唔見羞恥), are you not mortified? _mo ch'i chi t'o_ (mou4 ci2 zi1 tou4 無恥之徒), a brazenfaced rascal; _ch'i ma_ (ci2 maa6 恥罵) afraid of a scolding. Fan Wan entry: Corrected duplicate headword 耻 to 恥. 【恥】 (trhiX) (_noun-like_) shame (_verb-like_) to ashame"
+"text":"U+6065 耻 (F1.39 恥) 慚愧 (F1.39 耻) 同上 (Page 12* #2: 恥耻) Ashamed (Kangxi 恥: 辱也); to feel shame, disgraced, humbled, chagrined (Kangxi 恥: 慙也); to blush or redden; _sau ch'i_ (sau1 ci2 羞恥), shame; _mung ch'i_ (mung4 ci2 蒙恥), covered with disgrace; _ni 'm kin sau ch'i_ (nei5 m4 gin3 sau1 ci2 你唔見羞恥), are you not mortified? _mo ch'i chi t'o_ (mou4 ci2 zi1 tou4 無恥之徒), a brazenfaced rascal; _ch'i ma_ (ci2 maa6 恥罵) afraid of a scolding. Fan Wan entry: Corrected duplicate headword 耻 to 恥. 【恥】 (trhiX) (_noun-like_) shame (_verb-like_) to ashame"
 }
 },
 "杝":{
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+675D 柂 ci5 (per 《廣韻》池爾切) to1 (alternative per Kangxi 叶託何切) (F1.39 柂) 析薪而循其理 (Page 12* 杝柂) To split wood with the grain (Kangxi 杝: 析薪也, 杝隨其理也); to fall down (Kangxi 杝: 落也); ~~These are also read _i_ (ji4), _li_ (lei4), and _t'o_ (to4), with the same meanings.~~ The reading _ch'i_ (ci2) is not unattested; 《正韻牋》 has the reading 尺里切, explained 析木觀其理. Williams' \"read ... with the same meanings\": This is not quite correct. 杝 read _i_ (ji4) is the name of a tree. 杝 read _li_ (lei4) is used for 離. 杝 read _t'o_ (to4) is a mistaken parsing of Kangxi 叶託何切音佗 _t'o_ (to1), which is the only reading having the same meaning of \"splitting with the grain\". 【杝】 (drjeX) (_verb-like_) to split with the grain"
+"text":"U+675D 柂 ci5 (per 《廣韻》池爾切) to1 (alternative per Kangxi 叶託何切) (F1.39 柂) 析薪而循其理 (Page 12* #1: 杝柂) To split wood with the grain (Kangxi 杝: 析薪也, 杝隨其理也); to fall down (Kangxi 杝: 落也); ~~These are also read _i_ (ji4), _li_ (lei4), and _t'o_ (to4), with the same meanings.~~ The reading _ch'i_ (ci2) is not unattested; 《正韻牋》 has the reading 尺里切, explained 析木觀其理. Williams' \"read ... with the same meanings\": This is not quite correct. 杝 read _i_ (ji4) is the name of a tree. 杝 read _li_ (lei4) is used for 離. 杝 read _t'o_ (to4) is a mistaken parsing of Kangxi 叶託何切音佗 _t'o_ (to1), which is the only reading having the same meaning of \"splitting with the grain\". 【杝】 (drjeX) (_verb-like_) to split with the grain"
 }
 },
 "柂":{
 "ci2":{
 "isCanonical":false,
 "williams":"(2)ch(')(i/)",
-"text":"U+67C2 (F1.39 柂) 析薪而循其理 (Page 12* 杝柂)"
+"text":"U+67C2 (F1.39 柂) 析薪而循其理 (Page 12* #1: 杝柂)"
 }
 },
 "柿":{
@@ -3844,28 +3844,28 @@
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+77E2 (F1.39 矢) 箭也 (Page 12* 矢) An arrow or dart (Kangxi: 弓弩矢也); swift as an arrow; direct, openly; to set forth, to arrange (Kangxi: 陳也); to swear, to vow (Kangxi: 誓也); to display; to resolve, to form a purpose; the 111th radical (U+2F6E ⽮ \"arrow\"); _yat ch'i chi ti_ (jat1 ci2 zi1 dei6 一矢之地) a little distance, a bowshot; _ch'i chik_ (ci2 zik6 矢直) straight as an arrow; _fat yat ch'i_ (faat3 jat1 ci2 發一矢), let fly an arrow; _ch'i shai_ (ci2 sai6 矢誓) to take an oath; _ch'i hau pat i_ (ci2 hau2 bat1 ji4 矢口不移), to affirm constantly. Upright (Kangxi: 正也直也). 【矢】 (syijX) (_noun-like_) arrow (_verb-like_) to arrange (_verb-like_) to swear"
+"text":"U+77E2 (F1.39 矢) 箭也 (Page 12* #7: 矢) An arrow or dart (Kangxi: 弓弩矢也); swift as an arrow; direct, openly; to set forth, to arrange (Kangxi: 陳也); to swear, to vow (Kangxi: 誓也); to display; to resolve, to form a purpose; the 111th radical (U+2F6E ⽮ \"arrow\"); _yat ch'i chi ti_ (jat1 ci2 zi1 dei6 一矢之地) a little distance, a bowshot; _ch'i chik_ (ci2 zik6 矢直) straight as an arrow; _fat yat ch'i_ (faat3 jat1 ci2 發一矢), let fly an arrow; _ch'i shai_ (ci2 sai6 矢誓) to take an oath; _ch'i hau pat i_ (ci2 hau2 bat1 ji4 矢口不移), to affirm constantly. Upright (Kangxi: 正也直也). 【矢】 (syijX) (_noun-like_) arrow (_verb-like_) to arrange (_verb-like_) to swear"
 }
 },
 "耻":{
 "ci2":{
 "isCanonical":false,
 "williams":"(2)ch(')(i/)",
-"text":"U+803B (F1.39 恥) 慚愧 (F1.39 耻) 同上 (Page 12* 恥耻) Fan Wan entry: Corrected duplicate headword 耻 to 恥."
+"text":"U+803B (F1.39 恥) 慚愧 (F1.39 耻) 同上 (Page 12* #2: 恥耻) Fan Wan entry: Corrected duplicate headword 耻 to 恥."
 }
 },
 "豕":{
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+8C55 (F1.39 豕) 猪也 (Page 12* 豕) A hog, a pig (Kangxi: 彘也); the ~~153d~~ 152d radical (U+2F97 ⾗ \"pig\") of characters relating mostly to swine; _ch'i yuk_ (ci2 juk6 豕肉) pork. 【豕】 (syeX) (_noun-like_) swine"
+"text":"U+8C55 (F1.39 豕) 猪也 (Page 12* #6: 豕) A hog, a pig (Kangxi: 彘也); the ~~153d~~ 152d radical (U+2F97 ⾗ \"pig\") of characters relating mostly to swine; _ch'i yuk_ (ci2 juk6 豕肉) pork. 【豕】 (syeX) (_noun-like_) swine"
 }
 },
 "齒":{
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+9F52 歯 齿 (Mainland simplified) (F1.39 齒) 牙齒又年齒也 (Page 12* 齒) The upper front teeth (Kangxi: 口齗骨也, 上曰齒下曰牙); _met._ the mouth, words; age, years ~~(Kangxi: 齒壽也)~~; sort, class (Kangxi: 類也); associates, equals; to commence (Kangxi: 齒始也); to sort, to class by the age (Kangxi: 年也又列也, 論量...歲數); ~~to record, to write in;~~ the 211th radical (U+2FD2 ⿒ \"tooth\") of characters relating to teeth; _ch'i cheung_ (ci2 zoeng2 齒長), old; _fu chi ch'i_ (fu6 zi1 ci2 父之齒) a father's associates; _nin ch'i mui ts'ui_ (nin4 ci2 mui5 ceoi1 年齒每催), years are hastening one on; _nin ch'i_ (nin4 ci2 年齒), age, years; _ling nga li ch'i_ (ling4 ngaa4 lei6 ci2 伶牙俐齒), eloquent; _pok ch'i_ (bok6 ci2 薄齒), young, without distinction; _ch'i in_ (ci2 jin4 齒言), specious. Kangxi 齒壽也: Modern editions have 壽也 corrected to 齯齒壽也 per the original text of 《爾雅釋詁》. Williams' \"to record, to write in\": This is (I think) a misreading of Kangxi 錄也. Kangxi 錄 has 《增韻》齒也總也, i.e. to command. (Note that 《廣韻》 has 齒録也 for this sense, which is not very helpful.) Williams' 年齒每催: A misspelling of 年矢每催 (from Thousand Character Classic). 【齒】 (tsyhiX) (_noun-like_) front-tooth, tooth, (_met._) age"
+"text":"U+9F52 歯 齿 (Mainland simplified) (F1.39 齒) 牙齒又年齒也 (Page 12* #3: 齒) The upper front teeth (Kangxi: 口齗骨也, 上曰齒下曰牙); _met._ the mouth, words; age, years ~~(Kangxi: 齒壽也)~~; sort, class (Kangxi: 類也); associates, equals; to commence (Kangxi: 齒始也); to sort, to class by the age (Kangxi: 年也又列也, 論量...歲數); ~~to record, to write in;~~ the 211th radical (U+2FD2 ⿒ \"tooth\") of characters relating to teeth; _ch'i cheung_ (ci2 zoeng2 齒長), old; _fu chi ch'i_ (fu6 zi1 ci2 父之齒) a father's associates; _nin ch'i mui ts'ui_ (nin4 ci2 mui5 ceoi1 年齒每催), years are hastening one on; _nin ch'i_ (nin4 ci2 年齒), age, years; _ling nga li ch'i_ (ling4 ngaa4 lei6 ci2 伶牙俐齒), eloquent; _pok ch'i_ (bok6 ci2 薄齒), young, without distinction; _ch'i in_ (ci2 jin4 齒言), specious. Kangxi 齒壽也: Modern editions have 壽也 corrected to 齯齒壽也 per the original text of 《爾雅釋詁》. Williams' \"to record, to write in\": This is (I think) a misreading of Kangxi 錄也. Kangxi 錄 has 《增韻》齒也總也, i.e. to command. (Note that 《廣韻》 has 齒録也 for this sense, which is not very helpful.) Williams' 年齒每催: A misspelling of 年矢每催 (from Thousand Character Classic). 【齒】 (tsyhiX) (_noun-like_) front-tooth, tooth, (_met._) age"
 }
 },
 "佽":{
@@ -3898,14 +3898,14 @@
 "ci3":{
 "isCanonical":true,
 "williams":"ch(')(i/)(3)",
-"text":"U+557B 翅 (F1.42 啻) 但也止也 (Page 12* 啻) Only; to stop at (Kangxi: 啻猶止也猶言何止); an overplus (Kangxi: 餘也, 過多也); _pat ch'i_ (bat1 ci3 不啻) not only, more than; _ho ch'i ts'in man_ (ho4 ci3 cin1 maan6 何啻千萬) can it stop at ten millions? _pat ch'i fu mo_ (bat1 ci3 fu6 mou5 不啻父母), more than father and mother. ~~Often read _tai_ (dai3).~~ (Page 12* 翅翄) Used for the last (啻) (Kangxi 翅: 同啻). Fan Wan entry: Corrected 伹 to 但. Williams' \"Often read ...\": 《集韻》 has the reading 丁計切, explained 高聲一曰諟也, but this does not correspond to the senses given here. 【啻】 (syeH) (_adverb-like_) only, merely, (_met._) less than"
+"text":"U+557B 翅 (F1.42 啻) 但也止也 (Page 12* #10: 啻) Only; to stop at (Kangxi: 啻猶止也猶言何止); an overplus (Kangxi: 餘也, 過多也); _pat ch'i_ (bat1 ci3 不啻) not only, more than; _ho ch'i ts'in man_ (ho4 ci3 cin1 maan6 何啻千萬) can it stop at ten millions? _pat ch'i fu mo_ (bat1 ci3 fu6 mou5 不啻父母), more than father and mother. ~~Often read _tai_ (dai3).~~ (Page 12* #11: 翅翄) Used for the last (啻) (Kangxi 翅: 同啻). Fan Wan entry: Corrected 伹 to 但. Williams' \"Often read ...\": 《集韻》 has the reading 丁計切, explained 高聲一曰諟也, but this does not correspond to the senses given here. 【啻】 (syeH) (_adverb-like_) only, merely, (_met._) less than"
 }
 },
 "幟":{
 "ci3":{
 "isCanonical":true,
 "williams":"ch(')(i/)(3)",
-"text":"U+5E5F 織 帜 (Mainland simplified) si3 (alternative per 《廣韻》式吏切) (F1.42 幟) 旗幟 (Page 12* 幟) The fringe or border on a flag; a flag, a streamer or pennon, long and fringed (Kangxi: 旌旗之屬, 旗幟, 標也, 旛也); to tie or sew on fringes, as a signal (Kangxi: 記也); to signalize. 【幟】 (tsyhiH, syiH) (_noun-like_) flag"
+"text":"U+5E5F 織 帜 (Mainland simplified) si3 (alternative per 《廣韻》式吏切) (F1.42 幟) 旗幟 (Page 12* #9: 幟) The fringe or border on a flag; a flag, a streamer or pennon, long and fringed (Kangxi: 旌旗之屬, 旗幟, 標也, 旛也); to tie or sew on fringes, as a signal (Kangxi: 記也); to signalize. 【幟】 (tsyhiH, syiH) (_noun-like_) flag"
 }
 },
 "廁":{
@@ -3931,12 +3931,12 @@
 "ci3":{
 "isCanonical":false,
 "williams":"ch(')(i/)(3)",
-"text":"U+61E5 (F1.42 懥) 忿恨怒也 (Page 12* 懥)"
+"text":"U+61E5 (F1.42 懥) 忿恨怒也 (Page 12* #12: 懥)"
 },
 "zi3":{
 "isCanonical":true,
 "williams":"ch(i/)(3)",
-"text":"U+61E5 ci3 (alternative per 《集韻》丑吏切) (F1.42 懥 _Ch'i_ (ci3)) 忿恨怒也 (Page 12* 懥 _Ch'i_ (ci3); here normalised to _Chi_ (zi3)) ~~Vexation, irritated~~ Angry (Kangxi: 怒也); hatred; _fan ~~ch'i~~ chi_ (fan5 zi3 忿懥) enraged, in a great anger. 【懥】 (tsyijH, trijH) (_noun-like_) enragement"
+"text":"U+61E5 ci3 (alternative per 《集韻》丑吏切) (F1.42 懥 _Ch'i_ (ci3)) 忿恨怒也 (Page 12* #12: 懥 _Ch'i_ (ci3); here normalised to _Chi_ (zi3)) ~~Vexation, irritated~~ Angry (Kangxi: 怒也); hatred; _fan ~~ch'i~~ chi_ (fan5 zi3 忿懥) enraged, in a great anger. 【懥】 (tsyijH, trijH) (_noun-like_) enragement"
 }
 },
 "朿":{
@@ -3957,14 +3957,14 @@
 "ci3":{
 "isCanonical":true,
 "williams":"ch(')(i/)(3)",
-"text":"U+71BE 炽 (Mainland simplified) (F1.42 熾) 火盛 (Page 12* 熾) Flame, blaze; splendor (Kangxi: 熾盛也); the glare of lights; numerous; _i yau kau fo, u p'ok u ch'i_ (ji5 jau4 gau3 fo2 jyu6 pok3 jyu6 ci3 以油救火愈撲愈熾) as if you should try to put out a fire with oil, the more the fiercer it burns. 【熾】 (tsyhiH) (_adjective-like_) blazing"
+"text":"U+71BE 炽 (Mainland simplified) (F1.42 熾) 火盛 (Page 12* #8: 熾) Flame, blaze; splendor (Kangxi: 熾盛也); the glare of lights; numerous; _i yau kau fo, u p'ok u ch'i_ (ji5 jau4 gau3 fo2 jyu6 pok3 jyu6 ci3 以油救火愈撲愈熾) as if you should try to put out a fire with oil, the more the fiercer it burns. 【熾】 (tsyhiH) (_adjective-like_) blazing"
 }
 },
 "糦":{
 "ci3":{
 "isCanonical":false,
 "williams":"ch(')(i/)(3)",
-"text":"U+7CE6 (F1.42 饎) 酒食 (F1.42 糦) 黍稷 (Page 12* 饎糦)"
+"text":"U+7CE6 (F1.42 饎) 酒食 (F1.42 糦) 黍稷 (Page 12* #13: 饎糦)"
 }
 },
 "織":{
@@ -3983,14 +3983,14 @@
 "ci3":{
 "isCanonical":false,
 "williams":"ch(')(i/)(3)",
-"text":"U+7FC4 (Page 12* 翅翄)"
+"text":"U+7FC4 (Page 12* #11: 翅翄)"
 }
 },
 "翅":{
 "ci3":{
 "isCanonical":true,
 "williams":"ch(')(i/)(3)",
-"text":"U+7FC5 翄 (F1.42 翅) 鳥翼 (Page 12* 翅翄) Wings (Kangxi 翄: 翼也); fins; _ch'i yik_ (ci3 jik6 翅翼) wings; _u ch'i_ (jyu4 ci3 魚翅) fins; the shark's fins; _chin ch'i_ (zin2 ci3 展翅) to ~~flap~~ spread the wings; _ch'i p'ai_ (ci3 paai4 翅排), spread out like a comb; _kw'an ch'i_ (kwan4 ci3 裙翅) and _tui ch'i_ (deoi1 ci3 堆翅) are sorts of shark's fins."
+"text":"U+7FC5 翄 (F1.42 翅) 鳥翼 (Page 12* #11: 翅翄) Wings (Kangxi 翄: 翼也); fins; _ch'i yik_ (ci3 jik6 翅翼) wings; _u ch'i_ (jyu4 ci3 魚翅) fins; the shark's fins; _chin ch'i_ (zin2 ci3 展翅) to ~~flap~~ spread the wings; _ch'i p'ai_ (ci3 paai4 翅排), spread out like a comb; _kw'an ch'i_ (kwan4 ci3 裙翅) and _tui ch'i_ (deoi1 ci3 堆翅) are sorts of shark's fins."
 }
 },
 "蛓":{
@@ -4028,7 +4028,7 @@
 "ci3":{
 "isCanonical":true,
 "williams":"ch(')(i/)(3)",
-"text":"U+994E May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 糦 (F1.42 饎) 酒食 (F1.42 糦) 黍稷 (Page 12* 饎糦) To cook or dress provisions (Kangxi 饎: 炊黍稷曰饎); wine and food (Kangxi 饎: 饎酒食也), victuals; millet used in sacrifice (Kangxi 糦: 大祭亦稷也); _ch'i chan_ (ci3 zaan6 饎饌) food and drink; _ch'i in_ (ci3 jin4 饎筵), a feast. 【饎】 (tsyhiH) (_noun-like_) rice-offering, feast"
+"text":"U+994E May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 糦 (F1.42 饎) 酒食 (F1.42 糦) 黍稷 (Page 12* #13: 饎糦) To cook or dress provisions (Kangxi 饎: 炊黍稷曰饎); wine and food (Kangxi 饎: 饎酒食也), victuals; millet used in sacrifice (Kangxi 糦: 大祭亦稷也); _ch'i chan_ (ci3 zaan6 饎饌) food and drink; _ch'i in_ (ci3 jin4 饎筵), a feast. 【饎】 (tsyhiH) (_noun-like_) rice-offering, feast"
 }
 },
 "兹":{

@@ -892,7 +892,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)侈]]
+  - [[Page~12* #4: (2)侈]]
     ==
     - Extravagant, profuse [[Kangxi: 奢也泰也]];
     - large, superfluous;
@@ -932,7 +932,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12* (2)哆]]
+  - [[Page~12* #5: (2)哆]]
     ==
     - Gaping [[Kangxi: 張口也]];
     - an open mouth, like a fish [[Kangxi: 魚口張貌]];
@@ -1043,7 +1043,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)恥(2)耻]]
+  - [[Page~12* #2: (2)恥(2)耻]]
     ==
     - Ashamed [[Kangxi 恥: 辱也]];
     - to feel shame, disgraced, humbled, chagrined [[Kangxi 恥: 慙也]];
@@ -1101,7 +1101,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)杝(2)柂]]
+  - [[Page~12* #1: (2)杝(2)柂]]
     ==
     - To split wood with the grain [[Kangxi 杝: 析薪也, 杝隨其理也]];
     - to fall down [[Kangxi 杝: 落也]];
@@ -1154,7 +1154,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)杝(2)柂]]
+  - [[Page~12* #1: (2)杝(2)柂]]
     --
     [[Alternative form of 杝. **See $杝ci2 for the canonical entry.**]]
     --
@@ -1301,7 +1301,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)矢]]
+  - [[Page~12* #7: (2)矢]]
     ==
     - An arrow or dart [[Kangxi: 弓弩矢也]];
     - swift as an arrow;
@@ -1362,7 +1362,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)恥(2)耻]]
+  - [[Page~12* #2: (2)恥(2)耻]]
     --
     [[Alternative form of 恥. **See $恥ci2 for the canonical entry.**]]
     --
@@ -1429,7 +1429,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)豕]]
+  - [[Page~12* #6: (2)豕]]
     ==
     - A hog, a pig [[Kangxi: 彘也]];
     - the ~~153d~~^~``152d``~radical [[U+2F97 ⾗ "pig"]] of characters relating mostly to swine;
@@ -1465,7 +1465,7 @@ F
   ==
 W
   ====
-  - [[Page~12* (2)齒]]
+  - [[Page~12* #3: (2)齒]]
     ==
     - The upper front teeth [[Kangxi: 口齗骨也, 上曰齒下曰牙]];
     - _met._ the mouth, words;
@@ -1714,7 +1714,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 啻(3)]]
+  - [[Page~12* #10: 啻(3)]]
     ==
     - Only;
     - to stop at [[Kangxi: 啻猶止也猶言何止]];
@@ -1732,7 +1732,7 @@ W
     --
     ~~Often read _tai(3)_ [[dai3]].~~
     --
-  - [[Page~12* 翅(3)翄(3)]]
+  - [[Page~12* #11: 翅(3)翄(3)]]
     --
     Used for the last [[啻]] [[Kangxi 翅: 同啻]].
     --
@@ -1777,7 +1777,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 幟(3)]]
+  - [[Page~12* #9: 幟(3)]]
     ==
     - The fringe or border on a flag;
     - a flag, a streamer or pennon, long and fringed [[Kangxi: 旌旗之屬, 旗幟, 標也, 旛也]];
@@ -1877,7 +1877,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 懥(3)]]
+  - [[Page~12* #12: 懥(3)]]
     --
     [[Reading variation. **See $懥zi3 for the canonical entry.**]]
     --
@@ -2008,7 +2008,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 熾(3)]]
+  - [[Page~12* #8: 熾(3)]]
     ==
     - Flame, blaze;
     - splendor [[Kangxi: 熾盛也]];
@@ -2043,7 +2043,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 饎(3)糦(3)]]
+  - [[Page~12* #13: 饎(3)糦(3)]]
     --
     [[Alternative form of 饎. **See $饎ci3 for the canonical entry.**]]
     --
@@ -2082,7 +2082,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12* 翅(3)翄(3)]]
+  - [[Page~12* #11: 翅(3)翄(3)]]
     --
     [[Alternative form of 翅. **See $翅ci3 for the canonical entry.**]]
     --
@@ -2106,7 +2106,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 翅(3)翄(3)]]
+  - [[Page~12* #11: 翅(3)翄(3)]]
     --
     [[...]]
     --
@@ -2273,7 +2273,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 饎(3)糦(3)]]
+  - [[Page~12* #13: 饎(3)糦(3)]]
     ==
     - To cook or dress provisions [[Kangxi 饎: 炊黍稷曰饎]];
     - wine and food [[Kangxi 饎: 饎酒食也]], victuals;

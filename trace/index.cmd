@@ -4224,6 +4224,129 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~12*
+    ,{#page-12*-entry-1} #1
+    ,{.williams} (2)杝(2)柂
+    ,
+      <nav class="sideways">
+      ==
+      - $杝ci2
+      - ($柂ci2)
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-2} #2
+    ,{.williams} (2)恥(2)耻
+    ,
+      <nav class="sideways">
+      ==
+      - $恥ci2
+      - ($耻ci2)
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-3} #3
+    ,{.williams} (2)齒
+    ,
+      <nav class="sideways">
+      ==
+      - $齒ci2
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-4} #4
+    ,{.williams} (2)侈
+    ,
+      <nav class="sideways">
+      ==
+      - $侈ci2
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-5} #5
+    ,{.williams} (2)哆
+    ,
+      <nav class="sideways">
+      ==
+      - $哆ce2, $哆ci2
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-6} #6
+    ,{.williams} (2)豕
+    ,
+      <nav class="sideways">
+      ==
+      - $豕ci2
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-7} #7
+    ,{.williams} (2)矢
+    ,
+      <nav class="sideways">
+      ==
+      - $矢ci2
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-8} #8
+    ,{.williams} 熾(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $熾ci3
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-9} #9
+    ,{.williams} 幟(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $幟ci3
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-10} #10
+    ,{.williams} 啻(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $啻ci3
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-11} #11
+    ,{.williams} 翅(3)翄(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $啻ci3
+      - ($翄ci3)
+      - $翅ci3
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-12} #12
+    ,{.williams} 懥(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($懥ci3), $懥zi3
+      ==
+      </nav>
+  //
+    ,{#page-12*-entry-13} #13
+    ,{.williams} 饎(3)糦(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($糦ci3)
+      - $饎ci3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

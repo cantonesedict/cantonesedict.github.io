@@ -3947,7 +3947,7 @@ F
   ==
 W
   ====
-  - [[Page~12* 懥(3) _Ch(')(i/)(3)_ (ci3); here normalised to _Ch(i/)(3)_ (zi3)]]
+  - [[Page~12* #12: 懥(3) _Ch(')(i/)(3)_ (ci3); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
     - ~~Vexation, irritated~~ ``Angry`` [[Kangxi: 怒也]];
     - hatred;
