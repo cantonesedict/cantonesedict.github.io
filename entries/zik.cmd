@@ -1327,7 +1327,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(6) _Ch(i/)(6)_ (zi6); here normalised to 值 _Chik(9)_ (zik6)]]
+  - [[Page~10* #1: 値(6) _Ch(i/)(6)_ (zi6); here normalised to 值 _Chik(9)_ (zik6)]]
     ==
     - [[...]];
     - to occur, to meet with, to happen [[Kangxi 値: 又遇也]];

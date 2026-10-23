@@ -84,7 +84,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)呞(1){𪗪=⿰齒司}]]
+  - [[Page~10* #10: (1)呞(1){𪗪=⿰齒司}]]
     --
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
@@ -130,7 +130,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)嗤]]
+  - [[Page~10* #14: (1)嗤]]
     ==
     - Laughing [[Kangxi: 笑貌]];
     - to laugh at;
@@ -306,7 +306,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)癡(1)痴]]
+  - [[Page~10* #6: (1)癡(1)痴]]
     --
     [[Alternative form of 癡. **See $癡ci1 for the canonical entry.**]]
     --
@@ -335,7 +335,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)癡(1)痴]]
+  - [[Page~10* #6: (1)癡(1)痴]]
     ==
     - Foolish, silly [[Kangxi 癡: 不慧也]];
     - stupid, inapt [[Kangxi 癡: 癡者神思不足]];
@@ -386,7 +386,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)笞]]
+  - [[Page~10* #9: (1)笞]]
     ==
     - To punish with a bamboo, to bastinado;
     - to correct, so as to reform [[Kangxi: 笞者所以敎之也]];
@@ -414,7 +414,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10* (1){𥼝=⿰米禽}(1)黐]]
+  - [[Page~10* #12: (1){𥼝=⿰米禽}(1)黐]]
     --
     [[Alternative form of 黐. **See $黐ci1 for the canonical entry.**]]
     --
@@ -451,7 +451,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)胝]]
+  - [[Page~10* #7: (1)胝]]
     --
     [[Reading variation. **See $胝zi1 for the canonical entry.**]]
     --
@@ -475,7 +475,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)蚩]]
+  - [[Page~10* #13: (1)蚩]]
     ==
     - A worm [[Kangxi: 蟲名]];
     - ignorant, stupid [[Kangxi: 騃也]];
@@ -509,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)褫]]
+  - [[Page~10* #11: (1)褫]]
     --
     [[Reading variation. **See $褫ci2 for the canonical entry.**]]
     --
@@ -634,7 +634,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)鴟]]
+  - [[Page~10* #8: (1)鴟]]
     ==
     - A kind of owl, or a sort of hawk [[Kangxi: 䳠也]];
     - _kok(8) (1)ch(')(i/)_ [[gok3 ci1 角鴟]]^
@@ -683,7 +683,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10* (1){𥼝=⿰米禽}(1)黐]]
+  - [[Page~10* #12: (1){𥼝=⿰米禽}(1)黐]]
     ==
     - To attach to, to stick on;
     - glutinous, sticky, pasty [[Kangxi 黐: 黏也]];
@@ -785,7 +785,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)呞(1){𪗪=⿰齒司}; here normalised to 齝]]
+  - [[Page~10* #10: (1)呞(1){𪗪=⿰齒司}; here normalised to 齝]]
     ==
     - To ruminate, to chew the cud [[Kangxi 齝: 吐而噍也]], vulgarly called
       _(4)ngau t(')(o\)(3) (2)ts(')(o\)_
@@ -808,7 +808,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10* (1)呞(1){𪗪=⿰齒司}]]
+  - [[Page~10* #10: (1)呞(1){𪗪=⿰齒司}]]
     --
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
@@ -1390,7 +1390,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)褫 _(1)Ch(')(i/)_ (ci1); here normalised to _(2)Ch(')(i/)_ (ci2)]]
+  - [[Page~10* #11: (1)褫 _(1)Ch(')(i/)_ (ci1); here normalised to _(2)Ch(')(i/)_ (ci2)]]
     ==
     - To take away insignia, to degrade;
     - ``to strip,`` to take off clothes, to denude [[Kangxi: 奪衣也]];

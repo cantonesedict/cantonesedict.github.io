@@ -1082,7 +1082,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)胝 _(1)Ch(')(i/)_ (ci1); here normalised to _(1)Ch(i/)_ (zi1)]]
+  - [[Page~10* #7: (1)胝 _(1)Ch(')(i/)_ (ci1); here normalised to _(1)Ch(i/)_ (zi1)]]
     ==
     - Thickened skin [[Kangxi: 腄也, 腁胝, 皮厚也]] on the hand;
     - growing callous;
@@ -5166,7 +5166,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(6)]]
+  - [[Page~10* #1: 値(6)]]
     --
     [[Alternative form of 值. **See $值zi6 for the canonical entry.**]]
     --
@@ -5194,7 +5194,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(6); here normalised to 值]]
+  - [[Page~10* #1: 値(6); here normalised to 值]]
     ==
     - To manage, to take hold of [[Kangxi 値: 又持也]];
     - [[...]].
@@ -5596,7 +5596,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 彘(6)]]
+  - [[Page~10* #4: 彘(6)]]
     ==
     - A sow, a pig [[Kangxi: 豕也, 豬也]];
     - _(4)yan ch(i/)(6)_
@@ -5834,7 +5834,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 痔(6)]]
+  - [[Page~10* #5: 痔(6)]]
     ==
     - The piles [[Kangxi: 後病也, 隱瘡也]];
     - ~~to gnaw, as insects do;~~
@@ -5985,7 +5985,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 穉(6)稚(6)]]
+  - [[Page~10* #3: 穉(6)稚(6)]]
     ==
     - Small, delicate [[Kangxi 稺: 凡人物幼小皆曰稺]];
     - young, tender;
@@ -6026,7 +6026,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 穉(6)稚(6)]]
+  - [[Page~10* #3: 穉(6)稚(6)]]
     --
     [[Alternative form of 稚. **See $稚zi6 for the canonical entry.**]]
     --
@@ -6348,7 +6348,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 雉(6)]]
+  - [[Page~10* #2: 雉(6)]]
     ==
     - A pheasant [[Kangxi: 雉有十四種 etc.]], including also francolins;
     - an embrasure on a wall;

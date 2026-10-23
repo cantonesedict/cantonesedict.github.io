@@ -3981,6 +3981,139 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~10*
+    ,{#page-10*-entry-1} #1
+    ,{.williams} 値(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($値zi6)
+      - $值zi6, $值zik6
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-2} #2
+    ,{.williams} 雉(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $雉zi6
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-3} #3
+    ,{.williams} 穉(6)稚(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $稚zi6
+      - ($穉zi6)
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-4} #4
+    ,{.williams} 彘(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $彘zi6
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-5} #5
+    ,{.williams} 痔(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $痔zi6
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-6} #6
+    ,{.williams} (1)癡(1)痴
+    ,
+      <nav class="sideways">
+      ==
+      - ($痴ci1)
+      - $癡ci1
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-7} #7
+    ,{.williams} (1)胝
+    ,
+      <nav class="sideways">
+      ==
+      - ($胝ci1), $胝zi1
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-8} #8
+    ,{.williams} (1)鴟
+    ,
+      <nav class="sideways">
+      ==
+      - $鴟ci1
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-9} #9
+    ,{.williams} (1)笞
+    ,
+      <nav class="sideways">
+      ==
+      - $笞ci1
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-10} #10
+    ,{.williams} (1)呞(1){𪗪=⿰齒司}
+    ,
+      <nav class="sideways">
+      ==
+      - ($呞ci1)
+      - $齝ci1
+      - (${𪗪=⿰齒司}ci1)
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-11} #11
+    ,{.williams} (1)褫
+    ,
+      <nav class="sideways">
+      ==
+      - ($褫ci1), $褫ci2
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-12} #12
+    ,{.williams} (1){𥼝=⿰米禽}(1)黐
+    ,
+      <nav class="sideways">
+      ==
+      - (${𥼝=⿰米禽}ci1)
+      - $黐ci1
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-13} #13
+    ,{.williams} (1)蚩
+    ,
+      <nav class="sideways">
+      ==
+      - $蚩ci1
+      ==
+      </nav>
+  //
+    ,{#page-10*-entry-14} #14
+    ,{.williams} (1)嗤
+    ,
+      <nav class="sideways">
+      ==
+      - $嗤ci1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
