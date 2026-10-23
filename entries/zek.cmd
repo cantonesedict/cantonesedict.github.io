@@ -145,7 +145,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
+  - [[Page~14* #3: 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
     --
     [[Alternative form of 摭. **See $摭zek3 for the canonical entry.**]]
     --
@@ -191,7 +191,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
+  - [[Page~14* #3: 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
     ==
     - To take up [[Kangxi 摭: 拓或从庶, 取也, 猶拾取也]];
     - to collect, to gather;
@@ -241,11 +241,11 @@ F
   ==
 W
   ====
-  - [[Page~14* before 隻(9)]]
+  - [[Page~14*: before 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
-  - [[Page~14* 炙(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* #7: 炙(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - To roast [[Kangxi: 炮肉也, 炕火曰炙]];
     - to broil;
@@ -438,11 +438,11 @@ F
   ==
 W
   ====
-  - [[Page~14* before 隻(9)]]
+  - [[Page~14*: before 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
-  - [[Page~14* 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* #6: 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - [[...]];
     - the sole of the foot [[Kangxi 跖: 足下]];
@@ -528,11 +528,11 @@ F
   ==
 W
   ====
-  - [[Page~14* before 隻(9)]]
+  - [[Page~14*: before 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
-  - [[Page~14* ::蹠(9)~~跖(9)~~:: _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* #6: ::蹠(9)~~跖(9)~~:: _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - To tread on [[Kangxi 蹠: 足履踐也, 蹠蹈也, 蹠踐也]];
     - to leap [[Kangxi 蹠: 楚人謂跳躍曰蹠]];
@@ -585,11 +585,11 @@ F
   ==
 W
   ====
-  - [[Page~14* before 隻(9)]]
+  - [[Page~14*: before 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
-  - [[Page~14* 隻(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* #5: 隻(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - One, single, not a pair, one of a pair [[Kangxi: 鳥一枚也, 奇也, 物單曰隻]];
     - a classifier of vessels, boats, animals, birds, and of things in pairs,

@@ -4414,6 +4414,100 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~14*
+    ,{#page-14*-entry-1} #1
+    ,{.williams} 埴(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $埴zik6
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-2} #2
+    ,{.williams} 稙(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $稙zik6
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-3} #3
+    ,{.williams} 摭(9)拓(9)
+    ,
+      <nav class="sideways">
+      ==
+      - ($拓zek3)
+      - $摭zek3
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-4} #4
+    ,{.williams} 湜(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $湜zik6
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-5} #5
+    ,{.williams} 隻(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $隻zek3
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-6} #6
+    ,{.williams} 蹠(9)跖(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $跖zek3
+      - $蹠zek3
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-7} #7
+    ,{.williams} 炙(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $炙zek3
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-8} #8
+    ,{.williams} 赤(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $赤cik3
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-9} #9
+    ,{.williams} 勅(7)敕(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($勅cik1)
+      - $敕cik1
+      ==
+      </nav>
+  //
+    ,{#page-14*-entry-10} #10
+    ,{.williams} 斥(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $斥cik1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

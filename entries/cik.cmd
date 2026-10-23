@@ -80,7 +80,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 勅(7)敕(7)]]
+  - [[Page~14* #9: 勅(7)敕(7)]]
     --
     [[Alternative form of 敕. **See $敕cik1 for the canonical entry.**]]
     --
@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 勅(7)敕(7)]]
+  - [[Page~14* #9: 勅(7)敕(7)]]
     ==
     - An order, a prohibition or command from the emperor;
     - an ordinance, a special precept [[Kangxi 敕: ::[誡]也::]];
@@ -373,7 +373,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 斥(7)]]
+  - [[Page~14* #10: 斥(7)]]
     ==
     - To exclude, to expel, to send off, to drive off [[Kangxi: 逐也遠也]];
     - to scold;
@@ -739,7 +739,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 赤(8)]]
+  - [[Page~14* #8: 赤(8)]]
     ==
     - Carnation, purplish or light red [[Kangxi: 朱色也]];
     - flesh color [[Kangxi: ::[...]肉色也::]];

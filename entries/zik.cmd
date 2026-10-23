@@ -1412,7 +1412,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 埴(9)]]
+  - [[Page~14* #1: 埴(9)]]
     ==
     - Adhesive clay [[Kangxi: 黏土也]];
     - _(4)t(')(u:)n chik(9)_
@@ -1769,7 +1769,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 湜(9)]]
+  - [[Page~14* #4: 湜(9)]]
     ==
     - Pure, limpid water, through which the bottom can be seen [[Kangxi: 水淸底見也]];
     - pure-minded;
@@ -1924,7 +1924,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 稙(9)]]
+  - [[Page~14* #2: 稙(9)]]
     ==
     - Grain planted early, the first crop [[Kangxi: 早種禾也]];
     - to sow in good time [[Kangxi: 先種曰稙後種曰穉]];
