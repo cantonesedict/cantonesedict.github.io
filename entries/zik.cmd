@@ -744,7 +744,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 織(7)]]
+  - [[Page~13* #2: 織(7)]]
     ==
     - To weave [[Kangxi: 作布帛之總名]];
     - woven;
@@ -808,7 +808,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 職(7)]]
+  - [[Page~13* #1: 職(7)]]
     ==
     - To govern, to rule [[Kangxi: 執掌也]];
     - to attend to;
@@ -1060,7 +1060,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 陟(7)]]
+  - [[Page~13* #3: 陟(7)]]
     ==
     - To ascend, to enter on a higher office [[Kangxi: 陟陞也, 登也]];
     - promoted, advanced [[Kangxi: 進也]];
@@ -1294,7 +1294,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 値(9)]]
+  - [[Page~13* #5: 値(9)]]
     --
     [[Alternative form of 值. **See $值zik6 for the canonical entry.**]]
     --
@@ -1335,7 +1335,7 @@ W
         [[sik1 zik6 適值]]
         it so happened.
     ==
-  - [[Page~13* 直(9)]]
+  - [[Page~13* #4: 直(9)]]
     ==
     - [[...]];
     - price of;
@@ -1343,7 +1343,7 @@ W
     - used for the ~~three~~ next [[値~~, 殖, 植~~]];
     - [[...]].
     ==
-  - [[Page~13* 値(9); here normalised to 值]]
+  - [[Page~13* #5: 値(9); here normalised to 值]]
     ==
     - Price, value, worth of [[Kangxi 値: 物價曰値或作直]];
     - just;
@@ -1620,7 +1620,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 植(9)]]
+  - [[Page~13* #7: 植(9)]]
     ==
     - To plant [[Kangxi: 種也]], to set up [[Kangxi: 樹立也]], to transplant or set out;
     - erect, standing upright [[Kangxi: 立也]];
@@ -1685,7 +1685,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 殖(9)]]
+  - [[Page~13* #6: 殖(9)]]
     ==
     - To grow, to increase, to flourish [[Kangxi: 生也, 蕃也長也]]~~,~~``;``
     - to enrich, to amass~~;~~``,`` as money [[Kangxi: 興生財利曰殖]];
@@ -1810,7 +1810,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 直(9)]]
+  - [[Page~13* #4: 直(9)]]
     ==
     - To look ``straight`` ahead [[Kangxi: 正見也]];
     - straight, direct [[Kangxi: 正也, 不曲也]];

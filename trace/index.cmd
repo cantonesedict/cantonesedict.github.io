@@ -4347,6 +4347,73 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~13*
+    ,{#page-13*-entry-1} #1
+    ,{.williams} 職(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $職zik1
+      ==
+      </nav>
+  //
+    ,{#page-13*-entry-2} #2
+    ,{.williams} 織(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $織zik1
+      ==
+      </nav>
+  //
+    ,{#page-13*-entry-3} #3
+    ,{.williams} 陟(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $陟zik1
+      ==
+      </nav>
+  //
+    ,{#page-13*-entry-4} #4
+    ,{.williams} 直(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $值zik6
+      - $直zik6
+      ==
+      </nav>
+  //
+    ,{#page-13*-entry-5} #5
+    ,{.williams} 値(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $值zi6, $值zik6
+      - ($値zik6)
+      ==
+      </nav>
+  //
+    ,{#page-13*-entry-6} #6
+    ,{.williams} 殖(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $殖zik6
+      ==
+      </nav>
+  //
+    ,{#page-13*-entry-7} #7
+    ,{.williams} 植(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $置zi3
+      - $植zik6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

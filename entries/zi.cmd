@@ -4348,7 +4348,7 @@ W
         [[zi3 san1 mou4 dei6 置身無地]]
         ashamed, no place to hide myself.
     ==
-  - [[Page~13* 植(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(3)_ (zi3)]]
+  - [[Page~13* #7: 植(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(3)_ (zi3)]]
     ==
     - [[...]];
     - to place, to lay down [[Kangxi 植: 通置]];
@@ -5202,7 +5202,7 @@ W
     --
     [[Otherwise, a reading variation. **See $值zik6 for the canonical entry.**]]
     --
-  - [[Page~13* 値(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(6)_ (zi6) and normalised to 值]]
+  - [[Page~13* #5: 値(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(6)_ (zi6) and normalised to 值]]
     ==
     - [[...]];
     - [[...]], to hold in the hand;
