@@ -1518,7 +1518,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20* 症(3)]]
+  - [[Page~20* #3: 症(3)]]
     --
     An unauthorized character.
     --
@@ -1592,7 +1592,7 @@ F
   ==
 W
   ====
-  - [[Page~20* 証(3)]]
+  - [[Page~20* #2: 証(3)]]
     --
     [[...]]
     --
@@ -1631,7 +1631,7 @@ F
   ==
 W
   ====
-  - [[Page~20* 證(3)]]
+  - [[Page~20* #1: 證(3)]]
     ==
     - To prove, to confront, to testify [[Kangxi: 告也]];
     - to substantiate [[Kangxi: 驗也, {𠋫=⿰亻侯}也質也]];
@@ -1653,7 +1653,7 @@ W
         [[zing3 geoi3 證據]]
         evidence.
     ==
-  - [[Page~20* 証(3)]]
+  - [[Page~20* #2: 証(3)]]
     --
     Interchanged with the above [[證]].
     --

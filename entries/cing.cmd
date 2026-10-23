@@ -251,7 +251,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (1)秤]]
+  - [[Page~20* #5: (1)秤]]
     --
     [[Alternative form of 稱 (for the "weigh" sense). **See $稱cing1 for the canonical entry.**]]
     --
@@ -283,7 +283,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (1)稱]]
+  - [[Page~20* #4: (1)稱]]
     ==
     - To call, to name, to designate, to style [[Kangxi: 名號謂之稱]];
     - to say [[Kangxi: 言也]], to talk about;
@@ -314,7 +314,7 @@ W
         [[cing1 beng6 稱病]]
         to malinger, to feign sickness.
     ==
-  - [[Page~20* (1)秤; here normalised to 稱]]
+  - [[Page~20* #5: (1)秤; here normalised to 稱]]
     ==
     - Same as the last [[稱]], but usually applied only to weighing;
     - to adjust;
@@ -1144,7 +1144,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (4)呈]]
+  - [[Page~20* #7: (4)呈]]
     ==
     - A statement, a plea of a case;
     - to present a petition or statement;
@@ -1501,7 +1501,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (4)程]]
+  - [[Page~20* #6: (4)程]]
     ==
     - ~~The {1/100}th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]_;_~~
     - a portion or percentage;
