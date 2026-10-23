@@ -245,7 +245,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)幨]]
+  - [[Page~16* #5: (1)幨]]
     --
     Similar to the last [[襜]].
     --
@@ -409,7 +409,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)瞻]]
+  - [[Page~16* #3: (1)瞻]]
     ==
     - To look up to, to reverence, to regard with respect [[Kangxi: 仰視曰瞻]];
     - _(1)ch(i/)m (5)y(e/)ung_
@@ -466,7 +466,7 @@ W
     --
     [[Alternative form of 黏, and reading variation. **See $黏nim4 for the canonical entry.**]] [[TODO]]
     --
-  - [[Page~16* (1)黏; here normalised to 粘]]
+  - [[Page~16* #1: (1)黏; here normalised to 粘]]
     ==
     - Used for the preceding [[粘]];
     - rice;
@@ -512,7 +512,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)襜]]
+  - [[Page~16* #4: (1)襜]]
     ==
     - An apron [[Kangxi: 衣蔽前謂之襜]];
     - a flap, a skirt;
@@ -616,7 +616,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)詹]]
+  - [[Page~16* #2: (1)詹]]
     ==
     - ~~Tattling~~, wordy [[Kangxi: 多言也]];
     - to reach [[Kangxi: 至也]];
@@ -672,7 +672,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)譫]]
+  - [[Page~16* #6: (1)譫]]
     ==
     - Wordy, loquacious [[Kangxi: 多言也]];
     - _peng(6) (1)ch(i/)m_
@@ -711,7 +711,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)䠨]]
+  - [[Page~16* #7: (1)䠨]]
     ==
     - A horse traveling at full speed [[Kangxi: 馬急行]].
     ==
@@ -782,7 +782,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)黏]]
+  - [[Page~16* #1: (1)黏]]
     --
     [[Reading variation. **See $黏nim1 and $黏nim4 for the canonical entries.**]] [[TODO]]
     --
@@ -831,7 +831,7 @@ F
   ==
 W
   ====
-  - [[Page~16* 占(3)佔(3)]]
+  - [[Page~16* #8: 占(3)佔(3)]]
     --
     [[Alternative form of 占. See $占zim3.]]
     --
@@ -859,7 +859,7 @@ F
   ==
 W
   ====
-  - [[Page~16* 占(3)佔(3)]]
+  - [[Page~16* #8: 占(3)佔(3)]]
     ==
     - To usurp, to seize, to take forcibly [[Kangxi 占: 固有也, 擅據也著位也]];
     - to assume, to arrogate, to take the liberty;

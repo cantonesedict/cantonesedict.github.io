@@ -93,7 +93,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)儃]]
+  - [[Page~16* #11: (1)儃]]
     ==
     - Manner, air, figure [[Kangxi: 態也]];
     - look;
@@ -196,7 +196,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)旃]]
+  - [[Page~16* #10: (1)旃]]
     ==
     - A silken banner [[Kangxi: 通帛爲旃]];
     - a ``flag with a`` crooked flag-staff [[Kangxi: 旗曲柄也]];
@@ -234,7 +234,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊]]
+  - [[Page~16* #12: (1)毡(1)氊]]
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
@@ -261,7 +261,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊; here normalised to 氈]]
+  - [[Page~16* #12: (1)毡(1)氊; here normalised to 氈]]
     ==
     - Hair or wool worked into a felt [[Kangxi 氈: 撚毛也]];
     - coarse woolens, as blankets, carpets, rugs;
@@ -311,7 +311,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊]]
+  - [[Page~16* #12: (1)毡(1)氊]]
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --

@@ -4592,6 +4592,120 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~16*
+    ,{#page-16*-entry-1} #1
+    ,{.williams} (1)黏
+    ,
+      <nav class="sideways">
+      ==
+      - $粘zim1
+      - ($黏zim1)
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-2} #2
+    ,{.williams} (1)詹
+    ,
+      <nav class="sideways">
+      ==
+      - $詹zim1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-3} #3
+    ,{.williams} (1)瞻
+    ,
+      <nav class="sideways">
+      ==
+      - $瞻zim1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-4} #4
+    ,{.williams} (1)襜
+    ,
+      <nav class="sideways">
+      ==
+      - $襜zim1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-5} #5
+    ,{.williams} (1)幨
+    ,
+      <nav class="sideways">
+      ==
+      - $幨zim1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-6} #6
+    ,{.williams} (1)譫
+    ,
+      <nav class="sideways">
+      ==
+      - $譫zim1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-7} #7
+    ,{.williams} (1)䠨
+    ,
+      <nav class="sideways">
+      ==
+      - $䠨zim1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-8} #8
+    ,{.williams} 占(3)佔(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $佔zim3
+      - $占zim3
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-9} #9
+    ,{.williams} (2)諂(2){𨶒=⿵門舀}
+    ,
+      <nav class="sideways">
+      ==
+      - $諂cim2
+      - ($讇cim2)
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-10} #10
+    ,{.williams} (1)旃
+    ,
+      <nav class="sideways">
+      ==
+      - $旃zin1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-11} #11
+    ,{.williams} (1)儃
+    ,
+      <nav class="sideways">
+      ==
+      - $儃zin1
+      ==
+      </nav>
+  //
+    ,{#page-16*-entry-12} #12
+    ,{.williams} (1)毡(1)氊
+    ,
+      <nav class="sideways">
+      ==
+      - ($毡zin1)
+      - $氈zin1
+      - ($氊zin1)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

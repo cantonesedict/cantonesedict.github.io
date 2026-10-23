@@ -4392,7 +4392,7 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+5E68 裧 襜 cim1 (per 《廣韻》處占切) cim3 (per 《廣韻》昌豔切 for \"lapel\" sense) (F2.47 幨) 帖也 (Page 16* 幨) Similar to the last (襜). A curtain of a carriage (Kangxi: 車襜); a curtain over an opening (Kangxi: 帷也); an overlap or lapel ~~which hides a seam~~ (Kangxi: 披衣, 襟謂之幨). Fan Wan entry: Corrected 𭘖 to 帖. To fray(?), to purse up (Kangxi: 絕也, 幨謂絕起也). 【幨-level】 (tsyhem) (_verb-like_) to fray, to purse up 【幨-departing】 (tsyhemH) (_noun-like_) lapel"
+"text":"U+5E68 裧 襜 cim1 (per 《廣韻》處占切) cim3 (per 《廣韻》昌豔切 for \"lapel\" sense) (F2.47 幨) 帖也 (Page 16* #5: 幨) Similar to the last (襜). A curtain of a carriage (Kangxi: 車襜); a curtain over an opening (Kangxi: 帷也); an overlap or lapel ~~which hides a seam~~ (Kangxi: 披衣, 襟謂之幨). Fan Wan entry: Corrected 𭘖 to 帖. To fray(?), to purse up (Kangxi: 絕也, 幨謂絕起也). 【幨-level】 (tsyhem) (_verb-like_) to fray, to purse up 【幨-departing】 (tsyhemH) (_noun-like_) lapel"
 }
 },
 "憸":{
@@ -4446,21 +4446,21 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+895C 裧 襝 cim1 (per 《廣韻》處占切) (F2.47 襜) 整也 (Page 16* 襜) An apron (Kangxi: 衣蔽前謂之襜); a flap, a skirt; a curtain of a car (Kangxi: 帷也, 車上施帷 etc.); to adjust, to put the dress in order (Kangxi: 整貌); _ts'in chim_ (cin4 zim1 前襜), the front skirt; _chim chim_ (zim1 zim1 襜襜), nice and trim; flapping, as a curtain. To flap (Kangxi: 搖動貌). 【襜】 (tsyhem) (_noun-like_) apron (_verb-like_) to flap, to adjust"
+"text":"U+895C 裧 襝 cim1 (per 《廣韻》處占切) (F2.47 襜) 整也 (Page 16* #4: 襜) An apron (Kangxi: 衣蔽前謂之襜); a flap, a skirt; a curtain of a car (Kangxi: 帷也, 車上施帷 etc.); to adjust, to put the dress in order (Kangxi: 整貌); _ts'in chim_ (cin4 zim1 前襜), the front skirt; _chim chim_ (zim1 zim1 襜襜), nice and trim; flapping, as a curtain. To flap (Kangxi: 搖動貌). 【襜】 (tsyhem) (_noun-like_) apron (_verb-like_) to flap, to adjust"
 }
 },
 "諂":{
 "cim2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)m",
-"text":"U+8AC2 讇 谄 (Mainland simplified) (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* 諂~~𨶒~~讇) To flatter (Kangxi 諂: 同讇省諛也), to lie to; to cajole; to give a god or man worship or praise not due to him; to fawn on, to court; gratifying to one's feelings, adulation, sycophancy; _ch'im mi chi yan_ (cim2 mei6 zi1 jan4 諂媚之人), a flatterer; _ch'im u_ (cim2 jyu6 諂譽) to praise extravagantly; _ch'im siu_ (cim2 siu3 諂笑) to cajole and laugh with; _p'an i mo ch'im_ (pan4 ji4 mou4 cim2 貧而無諂), poor without being sycophantic. Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上. 【諂】 (trhjemX) (_verb-like_) to flatter"
+"text":"U+8AC2 讇 谄 (Mainland simplified) (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* #9: 諂~~𨶒~~讇) To flatter (Kangxi 諂: 同讇省諛也), to lie to; to cajole; to give a god or man worship or praise not due to him; to fawn on, to court; gratifying to one's feelings, adulation, sycophancy; _ch'im mi chi yan_ (cim2 mei6 zi1 jan4 諂媚之人), a flatterer; _ch'im u_ (cim2 jyu6 諂譽) to praise extravagantly; _ch'im siu_ (cim2 siu3 諂笑) to cajole and laugh with; _p'an i mo ch'im_ (pan4 ji4 mou4 cim2 貧而無諂), poor without being sycophantic. Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上. 【諂】 (trhjemX) (_verb-like_) to flatter"
 }
 },
 "讇":{
 "cim2":{
 "isCanonical":false,
 "williams":"(2)ch(')(i/)m",
-"text":"U+8B87 (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* 諂~~𨶒~~讇) Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上."
+"text":"U+8B87 (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* #9: 諂~~𨶒~~讇) Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上."
 }
 },
 "僭":{
@@ -4512,7 +4512,7 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+4828 cim1 (per 《集韻》處占切) cim3 (per 《廣韻》昌豔切) (F2.47 䠨) 仰視 (Page 16* 䠨) A horse traveling at full speed (Kangxi: 馬急行). Fan Wan entry: The explanation 仰視 is erroneous (it explains 瞻 rather than 䠨)."
+"text":"U+4828 cim1 (per 《集韻》處占切) cim3 (per 《廣韻》昌豔切) (F2.47 䠨) 仰視 (Page 16* #7: 䠨) A horse traveling at full speed (Kangxi: 馬急行). Fan Wan entry: The explanation 仰視 is erroneous (it explains 瞻 rather than 䠨)."
 }
 },
 "撍":{
@@ -15546,7 +15546,7 @@
 "zim3":{
 "isCanonical":true,
 "williams":"ch(i/)m(3)",
-"text":"U+4F54 占 (Mainland simplified) (F2.50 占) 霸占擅據也 (Page 16* 占佔)"
+"text":"U+4F54 占 (Mainland simplified) (F2.50 占) 霸占擅據也 (Page 16* #8: 占佔)"
 }
 },
 "占":{
@@ -15558,7 +15558,7 @@
 "zim3":{
 "isCanonical":true,
 "williams":"ch(i/)m(3)",
-"text":"U+5360 佔 (F2.50 占) 霸占擅據也 (Page 16* 占佔) To usurp, to seize, to take forcibly (Kangxi 占: 固有也, 擅據也著位也); to assume, to arrogate, to take the liberty; to possess (Kangxi 占: 有也); _pa chim_ (baa3 zim3 霸占) to take possession of; _chim sin hu_ (zim3 sin1 heoi3 占先去) to assume precedence; _chim siu shin_ (zim3 siu2 sin6 占小善) ~~to praise one's self~~; _chim p'in i_ (zim3 pin4 ji4-2 占便宜), to take what one likes, to assume more for one's self; _chim shan fan_ (zim3 san1 fan6 占身份) to regard one's place, to exercise one's rights. The second character (佔) is commonly but incorrectly used in this sense. Fan Wan entry: Corrected illegible character to 據. Williams' \"to praise one's self\": This is a misreading of 占小善 from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered \"they that possess even a little quality are all employed\". Williams' \"incorrectly used\": The form 佔 is \"incorrect\" to the extent that, in classical usage, it is an alternative form of 覘 rather than departing-tone 占. See 覘 zim1. 【占-departing】 (tsyemH) (_verb-like_) to occupy (_verb-like_) to possess"
+"text":"U+5360 佔 (F2.50 占) 霸占擅據也 (Page 16* #8: 占佔) To usurp, to seize, to take forcibly (Kangxi 占: 固有也, 擅據也著位也); to assume, to arrogate, to take the liberty; to possess (Kangxi 占: 有也); _pa chim_ (baa3 zim3 霸占) to take possession of; _chim sin hu_ (zim3 sin1 heoi3 占先去) to assume precedence; _chim siu shin_ (zim3 siu2 sin6 占小善) ~~to praise one's self~~; _chim p'in i_ (zim3 pin4 ji4-2 占便宜), to take what one likes, to assume more for one's self; _chim shan fan_ (zim3 san1 fan6 占身份) to regard one's place, to exercise one's rights. The second character (佔) is commonly but incorrectly used in this sense. Fan Wan entry: Corrected illegible character to 據. Williams' \"to praise one's self\": This is a misreading of 占小善 from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered \"they that possess even a little quality are all employed\". Williams' \"incorrectly used\": The form 佔 is \"incorrect\" to the extent that, in classical usage, it is an alternative form of 覘 rather than departing-tone 占. See 覘 zim1. 【占-departing】 (tsyemH) (_verb-like_) to occupy (_verb-like_) to possess"
 }
 },
 "尖":{
@@ -15579,14 +15579,14 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+77BB 詹 (F2.47 瞻) 瞻仰 (Page 16* 瞻) To look up to, to reverence, to regard with respect (Kangxi: 仰視曰瞻); _chim yeung_ (zim1 joeng5 瞻仰), to look up to; to have an audience; _yeung chim shan tau_ (joeng5 zim1 saan1 dau2 仰瞻山斗), I look up to you, said to a sage or magnate; _chim mong_ (zim1 mong6 瞻望) to long for, to anticipate; _chim pi yat ut_ (zim1 bei2 jat6 jyut6 瞻彼日月) I look at the sun and moon, _i. e._ on my conscience; _chim shi_ (zim1 si6 瞻視) to expect. To look forward. 【瞻】 (tsyem) (_verb-like_) to look (at) (_verb-like_) to look up (to)"
+"text":"U+77BB 詹 (F2.47 瞻) 瞻仰 (Page 16* #3: 瞻) To look up to, to reverence, to regard with respect (Kangxi: 仰視曰瞻); _chim yeung_ (zim1 joeng5 瞻仰), to look up to; to have an audience; _yeung chim shan tau_ (joeng5 zim1 saan1 dau2 仰瞻山斗), I look up to you, said to a sage or magnate; _chim mong_ (zim1 mong6 瞻望) to long for, to anticipate; _chim pi yat ut_ (zim1 bei2 jat6 jyut6 瞻彼日月) I look at the sun and moon, _i. e._ on my conscience; _chim shi_ (zim1 si6 瞻視) to expect. To look forward. 【瞻】 (tsyem) (_verb-like_) to look (at) (_verb-like_) to look up (to)"
 }
 },
 "粘":{
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+7C98 黏 (F2.47 粘) ？也 (F2.47 秥) 秥米 (Page 15* #9: 粘) (Page 16* 黏; here normalised to 粘) Used for the preceding (粘); rice; _chim mai_ (zim1 mai5 粘米), white rice, of which there are many kinds, as _sut chim_ (syut3 zim1 雪粘), _ai miu chim_ (ai2 miu4 zim1 矮苖粘), _chim tsai_ (zim1 zai2 粘仔), &c. Fan Wan entry: The first character of the explanation for 粘 is incomprehensible, but appears like ⿰苗月."
+"text":"U+7C98 黏 (F2.47 粘) ？也 (F2.47 秥) 秥米 (Page 15* #9: 粘) (Page 16* #1: 黏; here normalised to 粘) Used for the preceding (粘); rice; _chim mai_ (zim1 mai5 粘米), white rice, of which there are many kinds, as _sut chim_ (syut3 zim1 雪粘), _ai miu chim_ (ai2 miu4 zim1 矮苖粘), _chim tsai_ (zim1 zai2 粘仔), &c. Fan Wan entry: The first character of the explanation for 粘 is incomprehensible, but appears like ⿰苗月."
 }
 },
 "覘":{
@@ -15600,14 +15600,14 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+8A79 譫 (for \"verbose\" sense) (F2.47 詹) 姓亦竹名 (F2.47 𦧕) 同上 (Page 16* 詹) ~~Tattling~~, wordy (Kangxi: 多言也); to reach (Kangxi: 至也); ~~at, extreme, such a time;~~ to examine and direct; _chim chim_ (zim1 zim1 詹詹), loquacious; _kan chim_ (gan2 zim1 謹詹), carefully ~~provide~~ select. Fan Wan entry: Corrected headword ⿸厃⿳八土口 to 𦧕. A surname (Kangxi: 姓). 【詹】 (tsyem) (_adjective-like_) verbose (_verb-like_) to arrive"
+"text":"U+8A79 譫 (for \"verbose\" sense) (F2.47 詹) 姓亦竹名 (F2.47 𦧕) 同上 (Page 16* #2: 詹) ~~Tattling~~, wordy (Kangxi: 多言也); to reach (Kangxi: 至也); ~~at, extreme, such a time;~~ to examine and direct; _chim chim_ (zim1 zim1 詹詹), loquacious; _kan chim_ (gan2 zim1 謹詹), carefully ~~provide~~ select. Fan Wan entry: Corrected headword ⿸厃⿳八土口 to 𦧕. A surname (Kangxi: 姓). 【詹】 (tsyem) (_adjective-like_) verbose (_verb-like_) to arrive"
 }
 },
 "譫":{
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+8B6B 噡 谵 (Mainland simplified) (F2.47 譫) 多言也 (Page 16* 譫) Wordy, loquacious (Kangxi: 多言也); _peng chim_ (beng6 zim1 病譫), out of his head, incoherent; _chim u_ (zim1 jyu5 譫語), wandering talk. Delirium (Kangxi: 病也)."
+"text":"U+8B6B 噡 谵 (Mainland simplified) (F2.47 譫) 多言也 (Page 16* #6: 譫) Wordy, loquacious (Kangxi: 多言也); _peng chim_ (beng6 zim1 病譫), out of his head, incoherent; _chim u_ (zim1 jyu5 譫語), wandering talk. Delirium (Kangxi: 病也)."
 }
 },
 "霑":{
@@ -15621,7 +15621,7 @@
 "zim1":{
 "isCanonical":false,
 "williams":"(1)ch(i/)m",
-"text":"U+9ECF (F2.47 粘) ？也 (F2.47 秥) 秥米 (Page 16* 黏) Fan Wan entry: The first character of the explanation for 粘 is incomprehensible, but appears like ⿰苗月."
+"text":"U+9ECF (F2.47 粘) ？也 (F2.47 秥) 秥米 (Page 16* #1: 黏) Fan Wan entry: The first character of the explanation for 粘 is incomprehensible, but appears like ⿰苗月."
 }
 },
 "魙":{
@@ -15635,35 +15635,35 @@
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+5103 sin4 (per 《廣韻》市連切) taan4 (per 《廣韻》徒干切) (F1.20 儃) 態也又儃回不進也 (Page 16* 儃) Manner, air, figure (Kangxi: 態也); look; _chin ui_ (zin1 wui4 儃佪), undecided whether to go on, irresolute (Kangxi: 儃佪不進貌). Williams' 儃佪: Corrected _ui_ (wui1) to _ui_ (wui4). 【儃-level】 (dzyen) (_adjective-like_) hesitating"
+"text":"U+5103 sin4 (per 《廣韻》市連切) taan4 (per 《廣韻》徒干切) (F1.20 儃) 態也又儃回不進也 (Page 16* #11: 儃) Manner, air, figure (Kangxi: 態也); look; _chin ui_ (zin1 wui4 儃佪), undecided whether to go on, irresolute (Kangxi: 儃佪不進貌). Williams' 儃佪: Corrected _ui_ (wui1) to _ui_ (wui4). 【儃-level】 (dzyen) (_adjective-like_) hesitating"
 }
 },
 "旃":{
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+65C3 旜 (F1.20 旃) 通白之器又解曰之 (Page 16* 旃) A silken banner (Kangxi: 通帛爲旃); a flag with a crooked flag-staff (Kangxi: 旗曲柄也); ~~to signalize one to come.~~ Contraction of 之焉. 【旃】 (tsyen) (_noun-like_) banner Contraction of 之焉 (tsyi hjen)."
+"text":"U+65C3 旜 (F1.20 旃) 通白之器又解曰之 (Page 16* #10: 旃) A silken banner (Kangxi: 通帛爲旃); a flag with a crooked flag-staff (Kangxi: 旗曲柄也); ~~to signalize one to come.~~ Contraction of 之焉. 【旃】 (tsyen) (_noun-like_) banner Contraction of 之焉 (tsyi hjen)."
 }
 },
 "毡":{
 "zin1":{
 "isCanonical":false,
 "williams":"(1)ch(i/)n",
-"text":"U+6BE1 (F1.20 氊) 以毛爲物曰氊 (F1.20 毡) 同上 (Page 16* 毡氊)"
+"text":"U+6BE1 (F1.20 氊) 以毛爲物曰氊 (F1.20 毡) 同上 (Page 16* #12: 毡氊)"
 }
 },
 "氈":{
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+6C08 旃 毡 氊 (F1.20 氊) 以毛爲物曰氊 (F1.20 毡) 同上 (Page 16* 毡氊; here normalised to 氈) Hair or wool worked into a felt (Kangxi 氈: 撚毛也); coarse woolens, as blankets, carpets, rugs; _ti chin_ (dei6 zin1 地氈), a carpet; _chin mo_ (zin1 mou6-2 氈帽) a felt hat; _pak chin_ (baak6 zin1 白氈), a blanket; _hai chin_ (haai4 zin1 鞋氈), felt for soles; _ch'euk chin_ (coek3 zin1 桌氈), a table-cover; _chin pau_ (zin1 baau1 氈包), a carpet-bag; _chin chi_ (zin1 zi2 氈紙), coarse rough paper. 【氈】 (tsyen) (_noun-like_) felt"
+"text":"U+6C08 旃 毡 氊 (F1.20 氊) 以毛爲物曰氊 (F1.20 毡) 同上 (Page 16* #12: 毡氊; here normalised to 氈) Hair or wool worked into a felt (Kangxi 氈: 撚毛也); coarse woolens, as blankets, carpets, rugs; _ti chin_ (dei6 zin1 地氈), a carpet; _chin mo_ (zin1 mou6-2 氈帽) a felt hat; _pak chin_ (baak6 zin1 白氈), a blanket; _hai chin_ (haai4 zin1 鞋氈), felt for soles; _ch'euk chin_ (coek3 zin1 桌氈), a table-cover; _chin pau_ (zin1 baau1 氈包), a carpet-bag; _chin chi_ (zin1 zi2 氈紙), coarse rough paper. 【氈】 (tsyen) (_noun-like_) felt"
 }
 },
 "氊":{
 "zin1":{
 "isCanonical":false,
 "williams":"(1)ch(i/)n",
-"text":"U+6C0A (F1.20 氊) 以毛爲物曰氊 (F1.20 毡) 同上 (Page 16* 毡氊)"
+"text":"U+6C0A (F1.20 氊) 以毛爲物曰氊 (F1.20 毡) 同上 (Page 16* #12: 毡氊)"
 }
 },
 "湔":{
