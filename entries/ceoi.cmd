@@ -1324,7 +1324,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)廚(4)厨]]
+  - [[Page~32* #7: (4)廚(4)厨]]
     --
     [[Alternative form of 廚. **See $廚ceoi4 for the canonical entry.**]]
     --
@@ -1413,7 +1413,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)廚(4)厨]]
+  - [[Page~32* #7: (4)廚(4)厨]]
     ==
     - A kitchen, a cook-room [[Kangxi 廚: 庖屋也]];
     - a slaughter-house;
@@ -1692,7 +1692,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)滁]]
+  - [[Page~32* #3: (4)滁]]
     ==
     - A branch of the R.~Y(a/)ngtsz' [[揚子江]]
       flowing in between Nanking [[南京]] and (I/)ching [[？？]];
@@ -1748,7 +1748,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)篨]]
+  - [[Page~32* #4: (4)篨]]
     ==
     - A mat [[Kangxi: 籧篨竹席]] rolled up;
     - _(4)k(')(u:) (4)ch(')(u:)_
@@ -1787,7 +1787,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (4)蜍]]
+  - [[Page~32* #1: (4)蜍]]
     ==
     - A toad [[Kangxi: 蟾蜍也]];
     - _(4)sh(i/)m (4)ch(')(u:)_ [[sim4 ceoi4 蟾蜍]],
@@ -1823,7 +1823,7 @@ F
   (F1.45 ::[蹰]::) ::踟[蹰]::
 W
   ====
-  - [[Page~32* (4){𨆼=⿰𧾷㕑}; here normalised to 躕]]
+  - [[Page~32* #8: (4){𨆼=⿰𧾷㕑}; here normalised to 躕]]
     ==
     - Embarrassed, hindered [[Kangxi 躕: 踟躕行不進貌]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
@@ -1953,7 +1953,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)除]]
+  - [[Page~32* #2: (4)除]]
     ==
     - Steps to a palace [[Kangxi: 殿陛也]];
     - a vestibule [[Kangxi: 除謂門屛之閒]];

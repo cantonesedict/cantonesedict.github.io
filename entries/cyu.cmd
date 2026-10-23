@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (2)處(2)処]]
+  - [[Page~32* #10: (2)處(2)処]]
     --
     [[Alternative form of 處. **See $處cyu2 for the canonical entry.**]]
     --
@@ -131,7 +131,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (2)處(2)処]]
+  - [[Page~32* #10: (2)處(2)処]]
     ==
     - To dwell, to reside [[Kangxi 處: 居也]];
     - to be, to act, to occupy the place of;
@@ -359,7 +359,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (4)儲]]
+  - [[Page~32* #6: (4)儲]]
     --
     [[Reading variation. **See $儲cyu5 for the canonical entry.**]]
     --
@@ -384,7 +384,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)廚(4)厨]]
+  - [[Page~32* #7: (4)廚(4)厨]]
     --
     [[Alternative form of 廚, and reading variation. **See $廚ceoi4 for the canonical entry.**]]
     --
@@ -412,7 +412,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)廚(4)厨]]
+  - [[Page~32* #7: (4)廚(4)厨]]
     --
     [[Reading variation. **See $廚ceoi4 for the canonical entry.**]]
     --
@@ -438,7 +438,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* ::(4)~~摳~~``樞``::]]
+  - [[Page~32* #5: ::(4)~~摳~~``樞``::]]
     --
     [[Idio* reading from Fan Wan. **See $樞syu1 for the canonical entry.**]]
     --
@@ -463,7 +463,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)滁]]
+  - [[Page~32* #3: (4)滁]]
     --
     [[Reading variation. **See $滁ceoi4 for the canonical entry.**]]
     --
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)篨]]
+  - [[Page~32* #4: (4)篨]]
     --
     [[Reading variation. **See $篨ceoi4 for the canonical entry.**]]
     --
@@ -509,7 +509,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (4)蜍]]
+  - [[Page~32* #1: (4)蜍]]
     --
     [[Reading variation. **See $蜍ceoi4 for the canonical entry.**]]
     --
@@ -546,7 +546,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)躇]]
+  - [[Page~32* #9: (4)躇]]
     ==
     - At a loss, perplexed;
     - _(4)ch(')au (4)ch(')(u:)_
@@ -596,7 +596,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)除]]
+  - [[Page~32* #2: (4)除]]
     --
     [[Reading variation. **See $除ceoi4 for the canonical entry.**]]
     --
@@ -651,7 +651,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (5)佇(5)竚]]
+  - [[Page~32* #11: (5)佇(5)竚]]
     ==
     - To stand a long time [[Kangxi 佇: 佇久立也]];
     - to wait, to look for;
@@ -695,7 +695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (4)儲 _(4)Ch(')(u:)_ (cyu4); here normalised to _(5)Ch(')(u:)_ (cyu5)]]
+  - [[Page~32* #6: (4)儲 _(4)Ch(')(u:)_ (cyu4); here normalised to _(5)Ch(')(u:)_ (cyu5)]]
     ==
     - To collect [[Kangxi: 偫也]];
     - to provide for need;
@@ -759,7 +759,7 @@ W
     - a porch;
     - [[...]].
     ==
-  - [[Page~32* (5)宁]]
+  - [[Page~32* #12: (5)宁]]
     ==
     - A porch, a space between the gate and the screen [[Kangxi: 門屛之閒謂之宁]];
     - [[...]].
@@ -969,7 +969,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (5)佇(5)竚]]
+  - [[Page~32* #11: (5)佇(5)竚]]
     --
     [[Alternative form of 佇. **See $佇cyu5 for the canonical entry.**]]
     --
@@ -994,7 +994,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (5)紵]]
+  - [[Page~32* #13: (5)紵]]
     --
     ~~Contracted to ⿰糸@⿳宀一　 [[紵 with the last stroke unwritten]],
     unless it is used for the private name of Hienfung [[咸豐]].~~
@@ -1034,7 +1034,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (5)羜]]
+  - [[Page~32* #14: (5)羜]]
     ==
     - A lamb five months old [[Kangxi: 五月羔也]];
     - _(4)f(i/) (5)ch(')(u:)_
@@ -1155,7 +1155,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (5)宁; here normalised to 貯]]
+  - [[Page~32* #12: (5)宁; here normalised to 貯]]
     ==
     - [[...]];
     - to accumulate [[Kangxi 宁: ::宁[辨]積物也::]].

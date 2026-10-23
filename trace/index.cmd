@@ -6074,6 +6074,128 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~32*
+    ,{#page-32*-entry-1} #1
+    ,{.williams} (4)蜍
+    ,
+      <nav class="sideways">
+      ==
+      - $蜍ceoi4, ($蜍cyu4)
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-2} #2
+    ,{.williams} (4)除
+    ,
+      <nav class="sideways">
+      ==
+      - $除ceoi4, ($除cyu4)
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-3} #3
+    ,{.williams} (4)滁
+    ,
+      <nav class="sideways">
+      ==
+      - $滁ceoi4, ($滁cyu4)
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-4} #4
+    ,{.williams} (4)篨
+    ,
+      <nav class="sideways">
+      ==
+      - $篨ceoi4, ($篨cyu4)
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-6} #6
+    ,{.williams} (4)儲
+    ,
+      <nav class="sideways">
+      ==
+      - ($儲cyu4), $儲cyu5
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-7} #7
+    ,{.williams} (4)廚(4)厨
+    ,
+      <nav class="sideways">
+      ==
+      - ($厨ceoi4), ($厨cyu4)
+      - $廚ceoi4, ($廚cyu4)
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-8} #8
+    ,{.williams} (4){𨆼=⿰𧾷㕑}
+    ,
+      <nav class="sideways">
+      ==
+      - $躕ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-9} #9
+    ,{.williams} (4)躇
+    ,
+      <nav class="sideways">
+      ==
+      - $躇cyu4
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-10} #10
+    ,{.williams} (2)處(2)処
+    ,
+      <nav class="sideways">
+      ==
+      - ($処cyu2)
+      - $處cyu2
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-11} #11
+    ,{.williams} (5)佇(5)竚
+    ,
+      <nav class="sideways">
+      ==
+      - $佇cyu5
+      - ($竚cyu5)
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-12} #12
+    ,{.williams} (5)宁
+    ,
+      <nav class="sideways">
+      ==
+      - $宁cyu5
+      - $貯cyu5
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-13} #13
+    ,{.williams} (5)紵
+    ,
+      <nav class="sideways">
+      ==
+      - $紵cyu5
+      ==
+      </nav>
+  //
+    ,{#page-32*-entry-14} #14
+    ,{.williams} (5)羜
+    ,
+      <nav class="sideways">
+      ==
+      - $羜cyu5
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
