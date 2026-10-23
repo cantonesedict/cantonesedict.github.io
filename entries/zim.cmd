@@ -106,7 +106,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)占]]
+  - [[Page~15* #5: (1)占]]
     ==
     - To divine, to cast lots;
     - divination, casting lots [[Kangxi: 視兆問也]];
@@ -297,7 +297,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)沾]]
+  - [[Page~15* #6: (1)沾]]
     ==
     - To moisten, to tinge [[Kangxi: 漬也濡也]];
     - to receive benefits;
@@ -328,7 +328,7 @@ W
     --
     [[Otherwise, an alternative form of 覘. **See $覘zim1 for the canonical entry.**]]
     --
-  - [[Page~15* (1)霑]]
+  - [[Page~15* #7: (1)霑]]
     --
     Interchanged with the last [[沾]].
     --
@@ -462,7 +462,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)粘]]
+  - [[Page~15* #9: (1)粘]]
     --
     [[Alternative form of 黏, and reading variation. **See $黏nim4 for the canonical entry.**]] [[TODO]]
     --
@@ -574,7 +574,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)覘]]
+  - [[Page~15* #8: (1)覘]]
     ==
     - To peep, to spy at, to glance at [[Kangxi: 窺也]];
     - _(1)ch(i/)m hau(6)_
@@ -740,7 +740,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)霑]]
+  - [[Page~15* #7: (1)霑]]
     --
     [[...]]
     --

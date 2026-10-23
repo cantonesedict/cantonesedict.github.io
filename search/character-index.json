@@ -2901,7 +2901,7 @@
 "cek3":{
 "isCanonical":true,
 "williams":"ch(')ek(8)",
-"text":"U+5C3A cek3-2 (in 間尺) cik3 (uncommon) (F1.78 尺) 十寸曰尺 (Page 15* before 尺) (The next character (尺) is usually pronounced _ch'ek_ (cek).) (Page 15* 尺 _Ch'ik_ (cik6); _Ch'ek_ (cek6) implied by variational note; here corrected to _Ch'ek_ (cek3)) A cubit, or 10 _ts'un_ (Kangxi: 十寸也)_;_ the Chinese foot; _ch'ek ts'un_ (cek3 cyun3 尺寸) regular, proportioned; _ki to ch'ek ts'un_ (gei2 do1 cek3 cyun3 幾多尺寸) what are the dimensions? _'m kau ch'ek ts'un_ (m4 gau3 cek3 cyun3 唔夠尺寸) not of full stature; _sam ch'ek fat_ (saam1 cek3 faat3 三尺法) laws of the land, prohibitions; _p'ai ts'in ch'ek_ (paai4 cin4 cek3 排錢尺) the full length cubit; _kan ch'ek_ (gaan3 cek3-2 間尺) a ruler; _leung t'in ch'ek_ (loeng4 tin1 cek3 量天尺) a quadrant; _ch'ek wok_ (cek3 wok6 尺蠖) a geometrical worm; _ch'ek yat chi shu_ (cek3 jat1 zi1 syu1 尺一之書), an epistle, a note; _ch'ek to_ (cek3 dou6 尺度) ~~to~~ measure, measurable; _luk ch'ek chi ku_ (luk6 cek3 zi1 gu1 六尺之孤), a minor reigning; _sam ch'ek pak_ (saam1 cek3 baak6 三尺帛) a halter, a short rope. Williams has been misled by Fan Wan's placement of 尺 (_ch'ik_) in its own series *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 尺 is read 陽入 _ch'ik_ (cik6). However, since Fan Wan has a separate series for 勅勑敕斥叱螫𪅙赤 (_ch'ik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 尺 under _ch'ek_ (cek3) here. Williams' 尺蠖: Changed _wok_ (wok3) to common reading _wok_ (wok6). Williams' 尺一之書: From the length of 1.1 _ch'ek_ for the writing-boards used for imperial decrees. Williams' 尺度: Not the verb \"to measure\", but the noun \"measure\", as 度 is in departing tone. 【尺】 (tsyhek) (_noun-like_) ruler, rule 【間尺】 (gaan3 cek3-2) A ruler."
+"text":"U+5C3A cek3-2 (in 間尺) cik3 (uncommon) (F1.78 尺) 十寸曰尺 (Page 15*: before 尺) (The next character (尺) is usually pronounced _ch'ek_ (cek).) (Page 15* #4: 尺 _Ch'ik_ (cik6); _Ch'ek_ (cek6) implied by variational note; here corrected to _Ch'ek_ (cek3)) A cubit, or 10 _ts'un_ (Kangxi: 十寸也)_;_ the Chinese foot; _ch'ek ts'un_ (cek3 cyun3 尺寸) regular, proportioned; _ki to ch'ek ts'un_ (gei2 do1 cek3 cyun3 幾多尺寸) what are the dimensions? _'m kau ch'ek ts'un_ (m4 gau3 cek3 cyun3 唔夠尺寸) not of full stature; _sam ch'ek fat_ (saam1 cek3 faat3 三尺法) laws of the land, prohibitions; _p'ai ts'in ch'ek_ (paai4 cin4 cek3 排錢尺) the full length cubit; _kan ch'ek_ (gaan3 cek3-2 間尺) a ruler; _leung t'in ch'ek_ (loeng4 tin1 cek3 量天尺) a quadrant; _ch'ek wok_ (cek3 wok6 尺蠖) a geometrical worm; _ch'ek yat chi shu_ (cek3 jat1 zi1 syu1 尺一之書), an epistle, a note; _ch'ek to_ (cek3 dou6 尺度) ~~to~~ measure, measurable; _luk ch'ek chi ku_ (luk6 cek3 zi1 gu1 六尺之孤), a minor reigning; _sam ch'ek pak_ (saam1 cek3 baak6 三尺帛) a halter, a short rope. Williams has been misled by Fan Wan's placement of 尺 (_ch'ik_) in its own series *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 尺 is read 陽入 _ch'ik_ (cik6). However, since Fan Wan has a separate series for 勅勑敕斥叱螫𪅙赤 (_ch'ik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 尺 under _ch'ek_ (cek3) here. Williams' 尺蠖: Changed _wok_ (wok3) to common reading _wok_ (wok6). Williams' 尺一之書: From the length of 1.1 _ch'ek_ for the writing-boards used for imperial decrees. Williams' 尺度: Not the verb \"to measure\", but the noun \"measure\", as 度 is in departing tone. 【尺】 (tsyhek) (_noun-like_) ruler, rule 【間尺】 (gaan3 cek3-2) A ruler."
 }
 },
 "車":{
@@ -4275,7 +4275,7 @@
 "cik1":{
 "isCanonical":true,
 "williams":"ch(')ik(7)",
-"text":"U+53F1 𠮟 cat1 (per 《廣韻》昌栗切) (F1.74 叱) 呵叱怒罵也 (Page 15* 叱) To scold (Kangxi 𠮟: 訶也), to cry out to; to hoot at; to mention; _ch'ik ma_ (cik1 maa6 叱罵) to rail at; _ch'ik kau_ (cik1 gau2 叱狗), to drive out a dog; _ch'ik ming chi i_ (cik1 ming4 zi3 ji3 叱名致意) mention my name, and make my respects. 【叱】 (tsyhit) (_verb-like_) to berate, to shout (at)"
+"text":"U+53F1 𠮟 cat1 (per 《廣韻》昌栗切) (F1.74 叱) 呵叱怒罵也 (Page 15* #1: 叱) To scold (Kangxi 𠮟: 訶也), to cry out to; to hoot at; to mention; _ch'ik ma_ (cik1 maa6 叱罵) to rail at; _ch'ik kau_ (cik1 gau2 叱狗), to drive out a dog; _ch'ik ming chi i_ (cik1 ming4 zi3 ji3 叱名致意) mention my name, and make my respects. 【叱】 (tsyhit) (_verb-like_) to berate, to shout (at)"
 }
 },
 "慼":{
@@ -4324,7 +4324,7 @@
 "cik1":{
 "isCanonical":false,
 "williams":"ch(')ik(7)",
-"text":"U+87AB (F1.74 螫) 蟲行毒也詩自求辛螫 (Page 15* 螫)"
+"text":"U+87AB (F1.74 螫) 蟲行毒也詩自求辛螫 (Page 15* #2: 螫)"
 }
 },
 "鏚":{
@@ -4345,14 +4345,14 @@
 "cik1":{
 "isCanonical":true,
 "williams":"ch(')ik(7)",
-"text":"U+9D92 鷘 (F1.74 𪅙) 鸂𪅙鳥名 (Page 15* 鷘; here normalised to 鶒) A bird with a crest which frequents brooks; a gay colored water-bird (Kangxi 鶒: 鸂鶒水鳥也); a hoopoe? Fan Wan entry: Corrected 雞 to 鸂."
+"text":"U+9D92 鷘 (F1.74 𪅙) 鸂𪅙鳥名 (Page 15* #3: 鷘; here normalised to 鶒) A bird with a crest which frequents brooks; a gay colored water-bird (Kangxi 鶒: 鸂鶒水鳥也); a hoopoe? Fan Wan entry: Corrected 雞 to 鸂."
 }
 },
 "鷘":{
 "cik1":{
 "isCanonical":false,
 "williams":"ch(')ik(7)",
-"text":"U+9DD8 (F1.74 𪅙) 鸂𪅙鳥名 (Page 15* 鷘) Fan Wan entry: Corrected 雞 to 鸂."
+"text":"U+9DD8 (F1.74 𪅙) 鸂𪅙鳥名 (Page 15* #3: 鷘) Fan Wan entry: Corrected 雞 to 鸂."
 }
 },
 "僉":{
@@ -15553,7 +15553,7 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+5360 詹 zem1 (for Cantonese \"jam\" sense) (F2.47 占) 騐也測也候也 (Page 15* 占) To divine, to cast lots; divination, casting lots (Kangxi: 視兆問也); to observe, to wait for a verification (Kangxi: 𠋫也, 視也); to look towards (Kangxi: 占亦瞻也); _chim pat ling_ (zim1 bat1 ling4 占不靈), a false prediction; _chim sun ha_ (zim1 syun3 haa5 占算吓), cast a lot about it; _chim kwa_ (zim1 gwaa3 占卦) to prognosticate; _chim im_ (zim1 jim6 占驗) a verification of lots; _chim hau_ (zim1 hau6 占候) to foretell seasons; _chim ~~chiu~~ shiu_ (zim1 siu6 占兆) to see signs, to foretell by signs. Williams' 占兆: Changed _chiu_ (ziu6) to common reading _shiu_ (siu6). 【占-level】 (tsyem) (_verb-like_) to prognosticate 【占】 (zem1, zim1) Jam (fruit preserve). 果占 (gwo2 zem1): \"Fruit jam.\" 油占多 (jau4 zim1 do1): \"Butter jam toast.\" The spelling 占 is arbitrary (but well established)."
+"text":"U+5360 詹 zem1 (for Cantonese \"jam\" sense) (F2.47 占) 騐也測也候也 (Page 15* #5: 占) To divine, to cast lots; divination, casting lots (Kangxi: 視兆問也); to observe, to wait for a verification (Kangxi: 𠋫也, 視也); to look towards (Kangxi: 占亦瞻也); _chim pat ling_ (zim1 bat1 ling4 占不靈), a false prediction; _chim sun ha_ (zim1 syun3 haa5 占算吓), cast a lot about it; _chim kwa_ (zim1 gwaa3 占卦) to prognosticate; _chim im_ (zim1 jim6 占驗) a verification of lots; _chim hau_ (zim1 hau6 占候) to foretell seasons; _chim ~~chiu~~ shiu_ (zim1 siu6 占兆) to see signs, to foretell by signs. Williams' 占兆: Changed _chiu_ (ziu6) to common reading _shiu_ (siu6). 【占-level】 (tsyem) (_verb-like_) to prognosticate 【占】 (zem1, zim1) Jam (fruit preserve). 果占 (gwo2 zem1): \"Fruit jam.\" 油占多 (jau4 zim1 do1): \"Butter jam toast.\" The spelling 占 is arbitrary (but well established)."
 },
 "zim3":{
 "isCanonical":true,
@@ -15572,7 +15572,7 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+6CBE 霑 (F2.47 沾) 漬也濡也又沾恩 (Page 15* 沾) To moisten, to tinge (Kangxi: 漬也濡也); to receive benefits; to participate in; to be a recipient of; obliged, benefited; imbued with; infected, affected; _chim kwong_ (zim1 gwong1 沾光), got it through your favor; _fu lok kwan chim_ (fu2 lok6 gwan1 zim1 苦樂均沾), sorrow and joy equally bestowed; _chim yan chak_ (zim1 jan1 zaak6 沾恩澤) received benefits; _chim peng_ (zim1 beng6 沾病) to catch a disease; _chim im shai ts'ing_ (zim1 jim5 sai3 cing4 沾染世情), to be corrupted by bad influences; _ni chim cheuk yau tik 'm ho p'i hi_ (nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣) you have contracted a bad temper. (Page 15* 霑) Interchanged with the last (沾). Williams' 沾恩澤: Corrected _chak_ (zaak3) to _chak_ (zaak6). Williams' 你沾着有滴唔好脾氣: Corrected _cheuk_ (zoek3) to _cheuk_ (zoek6). 【沾】 (trjem) (_verb-like_) to moisten, to soak"
+"text":"U+6CBE 霑 (F2.47 沾) 漬也濡也又沾恩 (Page 15* #6: 沾) To moisten, to tinge (Kangxi: 漬也濡也); to receive benefits; to participate in; to be a recipient of; obliged, benefited; imbued with; infected, affected; _chim kwong_ (zim1 gwong1 沾光), got it through your favor; _fu lok kwan chim_ (fu2 lok6 gwan1 zim1 苦樂均沾), sorrow and joy equally bestowed; _chim yan chak_ (zim1 jan1 zaak6 沾恩澤) received benefits; _chim peng_ (zim1 beng6 沾病) to catch a disease; _chim im shai ts'ing_ (zim1 jim5 sai3 cing4 沾染世情), to be corrupted by bad influences; _ni chim cheuk yau tik 'm ho p'i hi_ (nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣) you have contracted a bad temper. (Page 15* #7: 霑) Interchanged with the last (沾). Williams' 沾恩澤: Corrected _chak_ (zaak3) to _chak_ (zaak6). Williams' 你沾着有滴唔好脾氣: Corrected _cheuk_ (zoek3) to _cheuk_ (zoek6). 【沾】 (trjem) (_verb-like_) to moisten, to soak"
 }
 },
 "瞻":{
@@ -15586,14 +15586,14 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+7C98 黏 (F2.47 粘) ？也 (F2.47 秥) 秥米 (Page 15* 粘) (Page 16* 黏; here normalised to 粘) Used for the preceding (粘); rice; _chim mai_ (zim1 mai5 粘米), white rice, of which there are many kinds, as _sut chim_ (syut3 zim1 雪粘), _ai miu chim_ (ai2 miu4 zim1 矮苖粘), _chim tsai_ (zim1 zai2 粘仔), &c. Fan Wan entry: The first character of the explanation for 粘 is incomprehensible, but appears like ⿰苗月."
+"text":"U+7C98 黏 (F2.47 粘) ？也 (F2.47 秥) 秥米 (Page 15* #9: 粘) (Page 16* 黏; here normalised to 粘) Used for the preceding (粘); rice; _chim mai_ (zim1 mai5 粘米), white rice, of which there are many kinds, as _sut chim_ (syut3 zim1 雪粘), _ai miu chim_ (ai2 miu4 zim1 矮苖粘), _chim tsai_ (zim1 zai2 粘仔), &c. Fan Wan entry: The first character of the explanation for 粘 is incomprehensible, but appears like ⿰苗月."
 }
 },
 "覘":{
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+8998 佔 占 沾 䀡 觇 (Mainland simplified) cim1 (per 《廣韻》丑廉切) cim3 (per 《廣韻》丑豔切) (F2.47 覘) 闚視也 (Page 15* 覘) To peep, to spy at, to glance at (Kangxi: 窺也); _chim hau_ (zim1 hau6 覘候) to wait for; _chim kin_ (zim1 gin3 覘見) to take a look at. Fan Wan entry: Corrected headword ⿰古見 to 覘. 【覘】 (trhjem, trhjemH) (_verb-like_) to spy (upon)"
+"text":"U+8998 佔 占 沾 䀡 觇 (Mainland simplified) cim1 (per 《廣韻》丑廉切) cim3 (per 《廣韻》丑豔切) (F2.47 覘) 闚視也 (Page 15* #8: 覘) To peep, to spy at, to glance at (Kangxi: 窺也); _chim hau_ (zim1 hau6 覘候) to wait for; _chim kin_ (zim1 gin3 覘見) to take a look at. Fan Wan entry: Corrected headword ⿰古見 to 覘. 【覘】 (trhjem, trhjemH) (_verb-like_) to spy (upon)"
 }
 },
 "詹":{
@@ -15614,7 +15614,7 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)m",
-"text":"U+9711 (F2.47 霑) 霑足雨之多也 (Page 15* 霑) A drizzling, dripping, pattering, rain (Kangxi: 雨𩃵也); to wet through (Kangxi: 霑濕也又濡也漬也); soaked, saturated; _chim tsuk_ (zim1 zuk1 霑足) wet to the skin; _chim i_ (zim1 ji1 霑衣), wet clothes. 【霑】 (trjem) (_verb-like_) to moisten, to soak"
+"text":"U+9711 (F2.47 霑) 霑足雨之多也 (Page 15* #7: 霑) A drizzling, dripping, pattering, rain (Kangxi: 雨𩃵也); to wet through (Kangxi: 霑濕也又濡也漬也); soaked, saturated; _chim tsuk_ (zim1 zuk1 霑足) wet to the skin; _chim i_ (zim1 ji1 霑衣), wet clothes. 【霑】 (trjem) (_verb-like_) to moisten, to soak"
 }
 },
 "黏":{

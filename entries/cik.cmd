@@ -108,7 +108,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 叱(7)]]
+  - [[Page~15* #1: 叱(7)]]
     ==
     - To scold [[Kangxi {𠮟=⿰口七}: 訶也]], to cry out to;
     - to hoot at;
@@ -480,7 +480,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 螫(7)]]
+  - [[Page~15* #2: 螫(7)]]
     --
     [[Reading variation. **See $螫sik1 for the canonical entry.**]] [[TODO]]
     --
@@ -602,7 +602,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 鷘(7); here normalised to 鶒]]
+  - [[Page~15* #3: 鷘(7); here normalised to 鶒]]
     ==
     - A bird with a crest which frequents brooks;
     - a gay colored water-bird [[Kangxi 鶒: 鸂鶒水鳥也]];
@@ -628,7 +628,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 鷘(7)]]
+  - [[Page~15* #3: 鷘(7)]]
     --
     [[Alternative form of 鶒. **See $鶒cik1 for the canonical entry.**]]
     --
