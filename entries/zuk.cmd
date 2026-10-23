@@ -79,7 +79,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 囑(7)]]
+  - [[Page~35* #5: 囑(7)]]
     ==
     - To order, to bid, to enjoin [[Kangxi: 付囑也, 託也]];
     - _chuk(7) ~~f(u/)(6)~~ ``f(u/)(3)``_
@@ -119,7 +119,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 捉(7)]]
+  - [[Page~35* #9: 捉(7)]]
     ==
     - To seize, to grasp, to gripe and hold [[Kangxi: 搤也一曰握也]];
     - to catch [[Kangxi: 捕也]];
@@ -200,7 +200,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 柷(7)]]
+  - [[Page~35* #3: 柷(7)]]
     ==
     - A sort of tub with a stick in the centre [[Kangxi: 柷狀如桼桶方二尺四寸深一尺八寸中有椎柄連厎挏之令左右擊]];
     - _chuk(7) (5)(u:)_
@@ -234,7 +234,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 燭(7)]]
+  - [[Page~35* #7: 燭(7)]]
     ==
     - A candle;
     - to illumine [[Kangxi: 照也]];
@@ -305,7 +305,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 矚(7)]]
+  - [[Page~35* #6: 矚(7)]]
     ==
     - To gaze, to look earnestly [[Kangxi: 視也, 視之甚也]];
     - to fix the eyes on.
@@ -330,7 +330,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 祝(7)]]
+  - [[Page~35* #4: 祝(7)]]
     ==
     - To pray, to supplicate;
     - to recite prayers;
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 竺(7)]]
+  - [[Page~35* #2: 竺(7)]]
     ==
     - A country;
     - _(1)t(')(i/)n chuk(7) kwok(8)_
@@ -492,7 +492,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 筑(7)]]
+  - [[Page~35* #1: 筑(7)]]
     ==
     - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]::]]~~,
       used in worship at the municipal temple~~.
@@ -578,7 +578,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 粥(7)]]
+  - [[Page~35* #8: 粥(7)]]
     ==
     - Congee [[Kangxi: 糜也]];
     - gruel;
@@ -891,7 +891,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 妯(9)]]
+  - [[Page~35* #14: 妯(9)]]
     ==
     - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]] [[Kangxi: 兄弟之妻相呼曰妯娌]]_;_
     - ~~also called _chau(3) (5)l(i/)_ [[zau3 lei5]]^ in Canton.~~
@@ -1020,7 +1020,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 濁(9)]]
+  - [[Page~35* #12: 濁(9)]]
     ==
     - Muddy, turbid, thick, foul [[Kangxi: 水不淸也]];
     - impure, vicious;
@@ -1169,7 +1169,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 蓫(9)]]
+  - [[Page~35* #11: 蓫(9)]]
     ==
     - Weeds which are hard to root out, such as the dock or thistles [[Kangxi: 蓫惡菜也, 牛蘈也陸註今人謂之羊蹄]].
     ==
@@ -1262,7 +1262,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 躅(9)]]
+  - [[Page~35* #13: 躅(9)]]
     ==
     - To walk unsteady;
     - _ch(a/)k(9) chuk(9)_
@@ -1303,7 +1303,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 軸(9)]]
+  - [[Page~35* #15: 軸(9)]]
     ==
     - ~~The end of~~ an axle ~~or nave~~ [[Kangxi: 持輪 etc.]];
     - a pivot, centre of motion;
@@ -1351,7 +1351,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 逐(9)]]
+  - [[Page~35* #10: 逐(9)]]
     ==
     - To push or drive out [[Kangxi: 驅也]];
     - to order away;
