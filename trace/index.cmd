@@ -4917,6 +4917,61 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=6} Page~19*
+    ,{#page-19*-entry-1} #1
+    ,{.williams} (1)徵
+    ,
+      <nav class="sideways">
+      ==
+      - $徵zing1
+      ==
+      </nav>
+  //
+    ,{#page-19*-entry-2} #2
+    ,{.williams} (1)癥
+    ,
+      <nav class="sideways">
+      ==
+      - $癥zing1
+      ==
+      </nav>
+  //
+    ,{#page-19*-entry-3} #3
+    ,{.williams} (1)鉦
+    ,
+      <nav class="sideways">
+      ==
+      - $鉦zing1
+      ==
+      </nav>
+  //
+    ,{#page-19*-entry-4} #4
+    ,{.williams} (2)整
+    ,
+      <nav class="sideways">
+      ==
+      - $整zing2
+      ==
+      </nav>
+  //
+    ,{#page-19*-entry-5} #5
+    ,{.williams} 正(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($正zeng3), $正zing3
+      ==
+      </nav>
+  //
+    ,{#page-19*-entry-6} #6
+    ,{.williams} 政(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $政zing3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

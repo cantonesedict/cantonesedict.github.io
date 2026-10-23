@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~19* (1)徵]]
+  - [[Page~19* #1: (1)徵]]
     ==
     - ~~To act;~~
     - ~~to set in motion;~~
@@ -570,7 +570,7 @@ F
   ==
 W
   ====
-  - [[Page~19* (1)癥]]
+  - [[Page~19* #2: (1)癥]]
     ==
     - Colic arising from obstruction [[Kangxi: 腹結病也]];
     - obstinate constipation;
@@ -1021,7 +1021,7 @@ F
   ==
 W
   ====
-  - [[Page~19* (1)鉦]]
+  - [[Page~19* #3: (1)鉦]]
     ==
     - ~~Cymbals set in a frame~~ ``Bronze bells with a vertical stick through the middle``, used to signalize a halt in armies [[Kangxi: 鐃類也 etc., 鉦以靜之鼓以動之]];
     - a cymbal used by priests, a brass tamborine;
@@ -1158,11 +1158,11 @@ F
   ==
 W
   ====
-  - [[Page~19* before (2)整]]
+  - [[Page~19*: before (2)整]]
     --
     (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
     --
-  - [[Page~19* (2)整]]
+  - [[Page~19* #4: (2)整]]
     ==
     - To even off, to place evenly [[Kangxi {𢿫=⿱⿰束攴正}: 齊也]];
     - to repair, to mend, to put in order, to make;
@@ -1290,7 +1290,7 @@ F
   ==
 W
   ====
-  - [[Page~19* 政(3)]]
+  - [[Page~19* #6: 政(3)]]
     ==
     - To rule, to govern [[Kangxi: 正也 etc.]];
     - a standard, a regulator;
@@ -1357,11 +1357,11 @@ F
   ==
 W
   ====
-  - [[Page~19* before (2)整]]
+  - [[Page~19*: before (2)整]]
     --
     (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
     --
-  - [[Page~19* 正(3)]]
+  - [[Page~19* #5: 正(3)]]
     ==
     - Correct [[Kangxi: 是也]], straight, right, not awry, erect [[Kangxi: 方直不曲謂之正]], even;
     - not inclined, not deflected;

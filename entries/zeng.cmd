@@ -140,7 +140,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~19* 正(3) _Ching(3)_ (zing3); _Cheng(3)_ (zeng3) implied by variational note]]
+  - [[Page~19* #5: 正(3) _Ching(3)_ (zing3); _Cheng(3)_ (zeng3) implied by variational note]]
     --
     [[Reading variation (vernacular adjective). **See $正zing3 for the canonical entry.**]]
     --
