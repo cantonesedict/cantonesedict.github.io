@@ -78,7 +78,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (1)啍]]
+  - [[Page~36* #8: (1)啍]]
     --
     [[Alternative form of 諄. **See $諄zeon1 for the canonical entry.**]]
     --
@@ -145,7 +145,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (1)屯]]
+  - [[Page~36* #13: (1)屯]]
     ==
     - ~~Budding plants;~~
     - ``difficulty [[Kangxi: 難也]];`` difficult to proceed [[Kangxi: 屯邅難行不進貌]];
@@ -397,7 +397,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~36* (1)窀]]
+  - [[Page~36* #11: (1)窀]]
     ==
     - To inter [[Kangxi: 窀穸下棺也]];
     - _(1)chun tsik(9)_
@@ -448,7 +448,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (1)肫]]
+  - [[Page~36* #10: (1)肫]]
     ==
     - Bones of the face [[Kangxi: 面頯也]];
     - earnest, sincere [[Kangxi: 懇誠貌]];
@@ -583,7 +583,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (1)啍]]
+  - [[Page~36* #8: (1)啍]]
     ==
     - Garrulous [[Kangxi 啍: 同諄]];
     - _(1)chun (1)chun_
@@ -593,7 +593,7 @@ W
     --
     [[...]]
     --
-  - [[Page~36* (1)諄]]
+  - [[Page~36* #9: (1)諄]]
     ==
     - To inculcate, to tell repeatedly [[Kangxi: 吿曉之熟也, 誨言重複也]];
     - _(1)chun (1)chun (4)(i/)n (1)ch(i/)_
@@ -629,7 +629,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (1)迍]]
+  - [[Page~36* #12: (1)迍]]
     ==
     - A vain effort to progress [[Kangxi: 迍邅也]];
     - _(1)chun (1)ch(i/)n_
@@ -785,7 +785,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (2)准]]
+  - [[Page~36* #14: (2)准]]
     ==
     - To permit, to approve;
     - to allow, to decide;
@@ -827,7 +827,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (2)凖]]
+  - [[Page~36* #15: (2)凖]]
     --
     [[Alternative form of 準. **See $準zeon2 for the canonical entry.**]]
     --
@@ -852,7 +852,7 @@ F
   ==
 W
   ====
-  - [[Page~36* (2)准; here normalised to 準]]
+  - [[Page~36* #14: (2)准; here normalised to 準]]
     ==
     - [[...]];
     - _(2)chun p(i/)(6)_
@@ -863,7 +863,7 @@ W
     --
     Used for the following [[凖]].
     --
-  - [[Page~36* (2)凖; here normalised to 準]]
+  - [[Page~36* #15: (2)凖; here normalised to 準]]
     ==
     - To equalize, to fix, to adjust [[Kangxi 準: 謂準擊平正之也]];
     - to level, to measure;
@@ -1210,7 +1210,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 圳(3)]]
+  - [[Page~36* #16: 圳(3)]]
     --
     [[Reading variation. **See $圳zan3 for the canonical entry.**]]
     --

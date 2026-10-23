@@ -119,7 +119,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 慉(7)]]
+  - [[Page~36* #3: 慉(7)]]
     ==
     - To sustain [[Kangxi: ::[慉]養也::]];
     - to encourage [[Kangxi: 起也]];
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 搐(7)]]
+  - [[Page~36* #4: 搐(7)]]
     ==
     - To drag along, to pull by force, as one drags an ox [[Kangxi: 牽制也]];
     - to shake rudely [[Kangxi: ::[搐]謂動而痛也::]].
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 束(7)]]
+  - [[Page~36* #5: 束(7)]]
     ==
     - To bind or bundle a number of things [[Kangxi: 縛也]];
     - to tie up in a sheaf;
@@ -299,7 +299,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 畜(7)]]
+  - [[Page~36* #1: 畜(7)]]
     ==
     - To rear, to feed, to raise [[Kangxi: 養也]];
     - to domesticate, to herd;
@@ -322,7 +322,7 @@ W
     --
     [[Otherwise, an alternative form of 蓄. **See $蓄cuk1 for the canonical entry.**]]
     --
-  - [[Page~36* 蓄(7); here corrected to 畜]]
+  - [[Page~36* #2: 蓄(7); here corrected to 畜]]
     ==
     - [[...]];
     - to nourish, to rear;
@@ -389,7 +389,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 矗(7)]]
+  - [[Page~36* #6: 矗(7)]]
     ==
     - High, eminent [[Kangxi: 聳上貌, 高起也]];
     - equal, even [[Kangxi: 齊也]], straight [[Kangxi: 直也, 長直貌]];
@@ -519,13 +519,13 @@ F
   ==
 W
   ====
-  - [[Page~36* 畜(7); here normalised to 蓄]]
+  - [[Page~36* #1: 畜(7); here normalised to 蓄]]
     ==
     - [[...]];
     - to gather [[Kangxi ::[畜]::^: 積也]];
     - [[...]].
     ==
-  - [[Page~36* 蓄(7)]]
+  - [[Page~36* #2: 蓄(7)]]
     ==
     - To collect, to accumulate, to hoard [[Kangxi: 積也, 聚也藏也]];
     - [[...]];
@@ -680,7 +680,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 觸(7)]]
+  - [[Page~36* #7: 觸(7)]]
     --
     [[Reading variation. **See $觸zuk1 for the canonical entry.**]]
     --

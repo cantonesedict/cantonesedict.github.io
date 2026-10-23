@@ -6567,6 +6567,156 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=16} Page~36*
+    ,{#page-36*-entry-1} #1
+    ,{.williams} 畜(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $畜cuk1
+      - $蓄cuk1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-2} #2
+    ,{.williams} 蓄(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $畜cuk1
+      - $蓄cuk1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-3} #3
+    ,{.williams} 慉(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $慉cuk1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-4} #4
+    ,{.williams} 搐(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $搐cuk1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-5} #5
+    ,{.williams} 束(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $束cuk1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-6} #6
+    ,{.williams} 矗(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $矗cuk1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-7} #7
+    ,{.williams} 觸(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($觸cuk1)
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-8} #8
+    ,{.williams} (1)啍
+    ,
+      <nav class="sideways">
+      ==
+      - ($啍zeon1)
+      - $諄zeon1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-9} #9
+    ,{.williams} (1)諄
+    ,
+      <nav class="sideways">
+      ==
+      - $諄zeon1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-10} #10
+    ,{.williams} (1)肫
+    ,
+      <nav class="sideways">
+      ==
+      - $肫zeon1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-11} #11
+    ,{.williams} (1)窀
+    ,
+      <nav class="sideways">
+      ==
+      - $窀zeon1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-12} #12
+    ,{.williams} (1)迍
+    ,
+      <nav class="sideways">
+      ==
+      - $迍zeon1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-13} #13
+    ,{.williams} (1)屯
+    ,
+      <nav class="sideways">
+      ==
+      - $屯zeon1
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-14} #14
+    ,{.williams} (2)准
+    ,
+      <nav class="sideways">
+      ==
+      - $准zeon2
+      - $準zeon2
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-15} #15
+    ,{.williams} (2)凖
+    ,
+      <nav class="sideways">
+      ==
+      - ($凖zeon2)
+      - $準zeon2
+      ==
+      </nav>
+  //
+    ,{#page-36*-entry-16} #16
+    ,{.williams} 圳(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $圳zan3, ($圳zeon3)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

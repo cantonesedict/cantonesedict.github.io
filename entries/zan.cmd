@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 圳(3) _Chun(3)_ (zeon3); here normalised to _Chan(3)_ (zan3)]]
+  - [[Page~36* #16: 圳(3) _Chun(3)_ (zeon3); here normalised to _Chan(3)_ (zan3)]]
     ==
     - A rapid in a stream;
     - _~~chun(3)~~ ``chan(3)`` (2)hau_
