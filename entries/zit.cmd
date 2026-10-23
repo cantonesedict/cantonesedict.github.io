@@ -546,7 +546,7 @@ F
   ==
 W
   ====
-  - [[Page~23* ::~~淅~~``浙``(8)::]]
+  - [[Page~23* #1: ::~~淅~~``浙``(8)::]]
     ==
     - A river [[Kangxi 浙: 江名]] in Chehki(a/)ng [[浙江]],
       called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
@@ -758,7 +758,7 @@ F
   ==
 W
   ====
-  - [[Page~23* 蜇(8)]]
+  - [[Page~23* #2: 蜇(8)]]
     ==
     - ~~A~~ ``To`` sting [[Kangxi: 蟲螫也]];
     - ~~any part of insects which inflicts a poisonous wound;~~

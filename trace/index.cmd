@@ -5241,6 +5241,89 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~23*
+    ,{#page-23*-entry-1} #1
+    ,{.williams} 淅(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $浙zit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-2} #2
+    ,{.williams} 蜇(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $蜇zit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-3} #3
+    ,{.williams} 設(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $設cit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-4} #4
+    ,{.williams} 徹(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $徹cit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-5} #5
+    ,{.williams} 撤(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $撤cit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-6} #6
+    ,{.williams} 澈(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $澈cit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-7} #7
+    ,{.williams} 轍(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $轍cit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-8} #8
+    ,{.williams} 掣(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $掣cit3
+      ==
+      </nav>
+  //
+    ,{#page-23*-entry-9} #9
+    ,{.williams} (1)朝(1)晁
+    ,
+      <nav class="sideways">
+      ==
+      - ($晁ziu1)
+      - $朝ziu1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

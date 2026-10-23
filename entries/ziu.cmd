@@ -224,7 +224,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23* (1)朝(1)晁]]
+  - [[Page~23* #9: (1)朝(1)晁]]
     --
     [[Alternative form of 朝. **See $朝ziu1 for the canonical entry.**]]
     --
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~23* (1)朝(1)晁]]
+  - [[Page~23* #9: (1)朝(1)晁]]
     ==
     - Dawn, morning [[Kangxi 朝: 旦也, 朝早也]];
     - early;
