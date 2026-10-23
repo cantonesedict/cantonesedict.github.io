@@ -1093,13 +1093,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33* (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2) and normalised to 拄]]
+  - [[Page~33* #5: (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2) and normalised to 拄]]
     ==
     - [[...]];
     - to support, to uphold;
     - [[...]].
     ==
-  - [[Page~33* (5)拄 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
+  - [[Page~33* #6: (5)拄 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
     --
     ~~Used for the last [[柱]].~~
     --

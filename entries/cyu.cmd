@@ -268,7 +268,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 處(3)]]
+  - [[Page~33* #8: 處(3)]]
     ==
     - A place, a spot [[Kangxi: 所也]];
     - a circumstance, a condition;
@@ -797,7 +797,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (5)杵]]
+  - [[Page~33* #7: (5)杵]]
     ==
     - A pestle, a beater [[Kangxi: 舂杵也]];
     - _yat(7) (4)t(')i(u/) (1)chung (5)ch(')(u:)_
@@ -838,7 +838,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (5)杼]]
+  - [[Page~33* #4: (5)杼]]
     ==
     - A shuttle [[Kangxi: 機之持緯者]];
     - thin, as a wheel [[Kangxi: 薄也]];
@@ -875,7 +875,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (5)柱]]
+  - [[Page~33* #5: (5)柱]]
     ==
     - A post, a pillar, an upright support~~, a joist~~ [[Kangxi: 楹也]];
     - a main dependance, a statesman;
@@ -934,7 +934,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33* (5)楮]]
+  - [[Page~33* #3: (5)楮]]
     ==
     - A mulberry _(Broussonetia papyfera)_ [[Kangxi: 榖也]]
       from whose bark paper and cloth can be made [[Kangxi: 江南人績其皮以爲布又擣以爲紙]];
@@ -1068,7 +1068,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (5)苧]]
+  - [[Page~33* #1: (5)苧]]
     ==
     - A plant _(Bœhmeria tenacissima)_ grown for its fibres [[Kangxi: 草名可爲繩]];
     - _(5)ch(')(u:) (4)m(a/)_
@@ -1160,7 +1160,7 @@ W
     - [[...]];
     - to accumulate [[Kangxi 宁: ::宁[辨]積物也::]].
     ==
-  - [[Page~33* (5)貯]]
+  - [[Page~33* #2: (5)貯]]
     ==
     - To hoard, to store up, to lay by in safety [[Kangxi: 積也, 藏也]];
     - a hoard, a treasure;

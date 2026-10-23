@@ -558,7 +558,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (1)追]]
+  - [[Page~33* #9: (1)追]]
     ==
     - To pursue [[Kangxi: 逐也]], to follow after [[Kangxi: 隨也]];
     - to come up with [[Kangxi: 送也]], to overtake, to catch [[Kangxi: 逮也]];
@@ -637,7 +637,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (1)錐]]
+  - [[Page~33* #10: (1)錐]]
     ==
     - An awl, a borer;
     - a sharp pointed tool [[Kangxi: 銳器也]];
@@ -744,7 +744,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (1)騅]]
+  - [[Page~33* #11: (1)騅]]
     ==
     - A black horse with white spots [[Kangxi: 蒼白雜毛騅]];
     - _(1)(u/) (1)chui (5)m(a/)_
@@ -1525,7 +1525,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 墜(6)隊(6)]]
+  - [[Page~33* #12: 墜(6)隊(6)]]
     ==
     - To fall, to tumble over [[Kangxi 墜: ::[陊]也::, 落也]];
     - to slide;
@@ -1742,7 +1742,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 縋(6)]]
+  - [[Page~33* #13: 縋(6)]]
     ==
     - A rope [[Kangxi: 縋繩索也]];
     - to let down by a cord [[Kangxi: 以繩有所懸也]];
@@ -2025,7 +2025,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 墜(6)隊(6)]]
+  - [[Page~33* #12: 墜(6)隊(6)]]
     --
     [[Alternative form of 墜. **See $墜zeoi6 for the canonical entry.**]]
     --
