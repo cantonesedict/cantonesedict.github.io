@@ -142,7 +142,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)吹(1)龡]]
+  - [[Page~34* #3: (1)吹(1)龡]]
     ==
     - To blow [[Kangxi 吹: 噓也, 出氣也]], as the wind or by breath;
     - to whistle;
@@ -171,7 +171,7 @@ W
         [[ceoi1 fo2 tung4 ceot1 san1 吹火筒出身]],
         began life as a firelighter.
     ==
-  - [[Page~34* (1)炊]]
+  - [[Page~34* #4: (1)炊]]
     --
     Used for the last [[吹]] [[Kangxi 炊: 與吹同]].
     --
@@ -279,7 +279,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)推]]
+  - [[Page~34* #5: (1)推]]
     --
     [[Reading variation. **See $推teoi1 for the canonical entry.**]] [[TODO]]
     --
@@ -350,7 +350,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)炊]]
+  - [[Page~34* #4: (1)炊]]
     --
     [[...]]
     --
@@ -592,7 +592,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)吹(1)龡]]
+  - [[Page~34* #3: (1)吹(1)龡]]
     --
     [[Alternative form of 吹. **See $吹ceoi1 for the canonical entry.**]]
     --
@@ -787,7 +787,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)惴]]
+  - [[Page~34* #10: (2)惴]]
     --
     [[Reading variation. **See $惴zeoi3 for the canonical entry.**]]
     --
@@ -812,7 +812,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)揣]]
+  - [[Page~34* #9: (2)揣]]
     --
     [[Reading variation. **See $揣cyun2 for the canonical entry.**]]
     --
@@ -1514,7 +1514,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~34* (4)搥; here normalised to 捶]]
+  - [[Page~34* #7: (4)搥; here normalised to 捶]]
     --
     [[...]]
     --
@@ -1547,7 +1547,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~34* (4)搥]]
+  - [[Page~34* #7: (4)搥]]
     --
     [[Alternative form of 捶. **See $捶ceoi4 for the canonical entry.**]]
     --
@@ -1599,7 +1599,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (4)槌(4)椎]]
+  - [[Page~34* #6: (4)槌(4)椎]]
     --
     [[Alternative form of 槌. **See $槌ceoi4 for the canonical entry.**]]
     --
@@ -1634,7 +1634,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (4)槌(4)椎]]
+  - [[Page~34* #6: (4)槌(4)椎]]
     ==
     - A mallet, a beater, a club, a bludgeon [[Kangxi 槌: 棒槌所以擊也]];
     - a beetle;
@@ -1657,7 +1657,7 @@ W
         [[ceoi4 bui3 槌背]]
         to shampoo``.``
     ==
-  - [[Page~34* (4)搥]]
+  - [[Page~34* #7: (4)搥]]
     --
     Like the last [[槌]].
     --
@@ -1871,7 +1871,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (4)錘(4)鎚]]
+  - [[Page~34* #8: (4)錘(4)鎚]]
     ==
     - The weight on a steelyard [[Kangxi 錘: 稱錘也]];
     - a hammer;
@@ -1929,7 +1929,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~34* (4)錘(4)鎚]]
+  - [[Page~34* #8: (4)錘(4)鎚]]
     --
     [[Alternative form of 錘 (for the "hammer" senses). **See $錘ceoi4 for the canonical entry.**]]
     --

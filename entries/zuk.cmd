@@ -399,7 +399,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 竹(7)]]
+  - [[Page~34* #11: 竹(7)]]
     ==
     - The bamboo [[Kangxi: 冬生靑艸 etc.]];
     - _chuk(7) (2)k(')(e/)ung_
@@ -526,7 +526,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 築(7)]]
+  - [[Page~34* #12: 築(7)]]
     ==
     - To make adobie walls;
     - to rear, to pile up earth;

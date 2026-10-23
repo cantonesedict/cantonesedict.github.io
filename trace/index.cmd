@@ -6316,6 +6316,121 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~34*
+    ,{#page-34*-entry-1} #1
+    ,{.williams} 贅(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $贅zeoi6
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-2} #2
+    ,{.williams} 綴(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $綴zeoi3, ($綴zeoi6)
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-3} #3
+    ,{.williams} (1)吹(1)龡
+    ,
+      <nav class="sideways">
+      ==
+      - $吹ceoi1
+      - ($龡ceoi1)
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-4} #4
+    ,{.williams} (1)炊
+    ,
+      <nav class="sideways">
+      ==
+      - $吹ceoi1
+      - $炊ceoi1
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-5} #5
+    ,{.williams} (1)推
+    ,
+      <nav class="sideways">
+      ==
+      - ($推ceoi1)
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-6} #6
+    ,{.williams} (4)槌(4)椎
+    ,
+      <nav class="sideways">
+      ==
+      - ($椎ceoi4)
+      - $槌ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-7} #7
+    ,{.williams} (4)搥
+    ,
+      <nav class="sideways">
+      ==
+      - $捶ceoi4
+      - ($搥ceoi4)
+      - $槌ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-8} #8
+    ,{.williams} (4)錘(4)鎚
+    ,
+      <nav class="sideways">
+      ==
+      - $錘ceoi4
+      - ($鎚ceoi4)
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-9} #9
+    ,{.williams} (2)揣
+    ,
+      <nav class="sideways">
+      ==
+      - ($揣ceoi2), $揣cyun2
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-10} #10
+    ,{.williams} (2)惴
+    ,
+      <nav class="sideways">
+      ==
+      - ($惴ceoi2), $惴zeoi3
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-11} #11
+    ,{.williams} 竹(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $竹zuk1
+      ==
+      </nav>
+  //
+    ,{#page-34*-entry-12} #12
+    ,{.williams} 築(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $築zuk1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

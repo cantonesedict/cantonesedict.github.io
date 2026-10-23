@@ -1122,7 +1122,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
+  - [[Page~34* #10: (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - ~~Mournful~~ ``Anxious, apprehensive`` [[Kangxi: 憂懼也]];
     - ~~in straits;~~
@@ -1260,7 +1260,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 綴(6) _Chui(6)_ (zeoi6); here normalised to _Chui(3)_ (zeoi3)]]
+  - [[Page~34* #2: 綴(6) _Chui(6)_ (zeoi6); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - Connected [[Kangxi: 連也, 緝也]];
     - to carry on [[Kangxi: 綴言不絕也]];
@@ -1712,7 +1712,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 綴(6)]]
+  - [[Page~34* #2: 綴(6)]]
     --
     [[Reading variation. **See $綴zeoi3 for the canonical entry.**]]
     --
@@ -1953,7 +1953,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 贅(6)]]
+  - [[Page~34* #1: 贅(6)]]
     ==
     - To pledge, to pawn [[Kangxi: 以物質錢]];
     - connected with, hanging to [[Kangxi: 贅屬也, 贅猶綴也謂繫綴而屬之]], an excrescence [[Kangxi: 贅屬也橫生一肉屬著體也]], a useless appendage;
