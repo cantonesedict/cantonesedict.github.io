@@ -409,9 +409,9 @@ F
   ==
 W
   ====
-  - [[Page~16* #3: (1)瞻]]
+  - [[Page~16* #3: ::(1)~~{？=⿰目⿸广⿱儿言}~~``瞻``::]]
     ==
-    - To look up to, to reverence, to regard with respect [[Kangxi: 仰視曰瞻]];
+    - To look up to, to reverence, to regard with respect [[Kangxi 瞻: 仰視曰瞻]];
     - _(1)ch(i/)m (5)y(e/)ung_
         [[zim1 joeng5 瞻仰]],
         to look up to;
@@ -430,6 +430,11 @@ W
         to expect.
     ==
   ====
+C
+  ==
+  - Williams misprints 瞻 as ⿰目⿸广⿱儿言; here corrected.
+    (The character 瞻 appears correctly on Page~788 in the character index.)
+  ==
 P
   ++
   1. To look forward.

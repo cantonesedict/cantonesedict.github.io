@@ -4613,7 +4613,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-16*-entry-3} #3
-    ,{.williams} (1)瞻
+    ,{.williams} (1){？=⿰目⿸广⿱儿言}
     ,
       <nav class="sideways">
       ==
