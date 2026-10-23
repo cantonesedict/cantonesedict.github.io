@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (1)弨]]
+  - [[Page~25* #2: (1)弨]]
     ==
     - To fly back, as a bow [[Kangxi: 弓反也]];
     - to spring back [[Kangxi: 翻起曰弨]];
@@ -107,7 +107,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (1)昭]]
+  - [[Page~25* #1: (1)昭]]
     ==
     - The brightness of the sun [[Kangxi: 日明也]];
     - bright, splendid [[Kangxi: 明也, 光也]];
@@ -175,7 +175,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (1)超]]
+  - [[Page~25* #3: (1)超]]
     ==
     - To leap over, to trip [[Kangxi: 跳也]];
     - to hop across, to vault, to step over, to go before, to precede [[Kangxi: 出前也]];
@@ -260,7 +260,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (1)釗]]
+  - [[Page~25* #4: (1)釗]]
     ==
     - To pare, to lop off [[Kangxi: 刓也]];
     - to see, to wait on [[Kangxi: 見也]];
@@ -825,7 +825,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (4)朝]]
+  - [[Page~25* #6: (4)朝]]
     ==
     - A court;
     - the court, the palace;
@@ -967,7 +967,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (4)潮]]
+  - [[Page~25* #5: (4)潮]]
     ==
     - The morning tide [[Kangxi: 隨月消長早曰潮晚曰汐]];
     - moist, damp;

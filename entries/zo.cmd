@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (2)爼; here normalised to 俎]]
+  - [[Page~25* #7: (2)爼; here normalised to 俎]]
     ==
     - A basin or bowl like a tripod, used in sacrifice [[Kangxi 俎: 祭享之器]];
     - _(2)cho tau(6)_
@@ -111,7 +111,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~25* (2)阻; here normalised to 咗]]
+  - [[Page~25* #8: (2)阻; here normalised to 咗]]
     --
     [[...]]
     --
@@ -301,7 +301,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (2)爼]]
+  - [[Page~25* #7: (2)爼]]
     --
     [[Alternative form of 俎. **See $俎zo2 for the canonical entry.**]]
     --
@@ -326,7 +326,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (2)阻]]
+  - [[Page~25* #8: (2)阻]]
     ==
     - To hinder, to impede [[Kangxi: 隔也]], to stop, to make delay;
     - grieved [[Kangxi: 憂也]];
