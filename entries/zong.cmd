@@ -760,7 +760,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 壯(3)]]
+  - [[Page~28* #2: 壯(3)]]
     ==
     - Robust, strong, bold, lusty, hardy, healthy [[Kangxi: 彊也]];
     - full grown [[Kangxi: 大也]], manhood;
@@ -956,7 +956,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 撞(6)]]
+  - [[Page~28* #4: 撞(6)]]
     ==
     - To beat, to pound;
     - to run or knock against, to dash upon or against [[Kangxi: 突也又擊也]];
@@ -1059,7 +1059,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 狀(6)]]
+  - [[Page~28* #3: 狀(6)]]
     ==
     - Appearance, form [[Kangxi: 形也]], fashion;
     - ~~to appear;~~

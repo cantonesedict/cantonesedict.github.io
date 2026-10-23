@@ -5652,6 +5652,72 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~28*
+    ,{#page-28*-entry-1} #1
+    ,{.williams} (4)幢
+    ,
+      <nav class="sideways">
+      ==
+      - $幢cong4
+      ==
+      </nav>
+  //
+    ,{#page-28*-entry-2} #2
+    ,{.williams} 壯(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $壯zong3
+      ==
+      </nav>
+  //
+    ,{#page-28*-entry-3} #3
+    ,{.williams} 狀(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $狀zong6
+      ==
+      </nav>
+  //
+    ,{#page-28*-entry-4} #4
+    ,{.williams} 撞(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $撞zong6
+      ==
+      </nav>
+  //
+    ,{#page-28*-entry-5} #5
+    ,{.williams} (1)創(1)刅
+    ,
+      <nav class="sideways">
+      ==
+      - ($刅cong1)
+      - $創cong1
+      ==
+      </nav>
+  //
+    ,{#page-28*-entry-6} #6
+    ,{.williams} (1)瘡
+    ,
+      <nav class="sideways">
+      ==
+      - $瘡cong1
+      ==
+      </nav>
+  //
+    ,{#page-28*-entry-7} #7
+    ,{.williams} (4)床(4)牀
+    ,
+      <nav class="sideways">
+      ==
+      - ($床cong4)
+      - $牀cong4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

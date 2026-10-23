@@ -144,7 +144,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (1)創(1)刅]]
+  - [[Page~28* #5: (1)創(1)刅]]
     --
     [[Alternative form of 創. **See $創cong1 for the canonical entry.**]]
     --
@@ -175,7 +175,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (1)創(1)刅]]
+  - [[Page~28* #5: (1)創(1)刅]]
     ==
     - To wound, to cut and injure [[Kangxi 創: 傷也]];
     - to butt, to gore;
@@ -288,7 +288,7 @@ F
   ==
 W
   ====
-  - [[Page~28* (1)瘡]]
+  - [[Page~28* #6: (1)瘡]]
     ==
     - A sore, ulcer, boil, or eruption [[Kangxi: 痏也, 瘍也]];
     - _(1)ch(')ong (1)n(a/)_
@@ -871,7 +871,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 創(3)刱(3)]]
+  - [[Page~29* 創(3)刱(3)]]
     --
     [[Alternative form of 創. **See $創cong3 for the canonical entry.**]]
     --
@@ -899,7 +899,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 創(3)刱(3)]]
+  - [[Page~29* 創(3)刱(3)]]
     ==
     - To begin, to invent [[Kangxi 創: 始也造也]];
     - to create, to found, to lay the foundation of;
@@ -1019,7 +1019,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (4)幢 _(4)^Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
+  - [[Page~28* #1: (4)幢 _(4)^Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
     ==
     - Long embroidered scrolls or streamers [[Kangxi: 旌旗之屬]] in temples,
       suspended from the roof,
@@ -1047,7 +1047,7 @@ F
   ==
 W
   ====
-  - [[Page~28* (4)床(4)牀]]
+  - [[Page~28* #7: (4)床(4)牀]]
     --
     [[Alternative form of 牀. **See $牀cong4 for the canonical entry.**]]
     --
@@ -1078,7 +1078,7 @@ F
   ==
 W
   ====
-  - [[Page~28* (4)床(4)牀]]
+  - [[Page~28* #7: (4)床(4)牀]]
     ==
     - A bed, a couch [[Kangxi 牀: 安身之坐者, 人所坐臥曰牀]];
     - a settee;
