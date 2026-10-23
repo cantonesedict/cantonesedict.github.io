@@ -4642,7 +4642,7 @@
 "zin2":{
 "isCanonical":true,
 "williams":"(2)ch(i/)n",
-"text":"U+95E1 閳 阐 (Mainland simplified) cin2 (per 《廣韻》昌善切) (F1.22 闡) 發也開也 (Page 17* 闡) To open, to spread out, to enlarge from the original condition (Kangxi: 開也); manifest, clear, plain (Kangxi: 顯也, 明也); _chin hoi_ (zin2 hoi1 闡開), to open, to extend; _chin ming_ (zin2 ming4 闡明), to state clearly; _chin tat_ (zin2 daat6 闡達) to comprehend. 【闡】 (tsyhenX) (_verb-like_) to open (up), (_met._) to elucidate"
+"text":"U+95E1 閳 阐 (Mainland simplified) cin2 (per 《廣韻》昌善切) (F1.22 闡) 發也開也 (Page 17* #11: 闡) To open, to spread out, to enlarge from the original condition (Kangxi: 開也); manifest, clear, plain (Kangxi: 顯也, 明也); _chin hoi_ (zin2 hoi1 闡開), to open, to extend; _chin ming_ (zin2 ming4 闡明), to state clearly; _chin tat_ (zin2 daat6 闡達) to comprehend. 【闡】 (tsyhenX) (_verb-like_) to open (up), (_met._) to elucidate"
 }
 },
 "前":{
@@ -4656,14 +4656,14 @@
 "cin4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)n",
-"text":"U+5EDB (F1.21 廛) 市宅 (Page 17* 廛) Ground allotted a serf (Kangxi: 一畝半一家之居 etc.); a shop, a village market, a bazaar (Kangxi: 市邸也); _ts'un hang ch'in sz'_ (ceon4 hang4 cin4 si3 巡行廛肆) to inspect the markets; _ch'in shi_ (cin4 si5 廛市), a market. Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 廛. 【廛】 (drjen) (_noun-like_) farming-lot (_noun-like_) shop"
+"text":"U+5EDB (F1.21 廛) 市宅 (Page 17* #13: 廛) Ground allotted a serf (Kangxi: 一畝半一家之居 etc.); a shop, a village market, a bazaar (Kangxi: 市邸也); _ts'un hang ch'in sz'_ (ceon4 hang4 cin4 si3 巡行廛肆) to inspect the markets; _ch'in shi_ (cin4 si5 廛市), a market. Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 廛. 【廛】 (drjen) (_noun-like_) farming-lot (_noun-like_) shop"
 }
 },
 "纏":{
 "cin4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)n",
-"text":"U+7E8F 缠 (Mainland simplified) zin6 (alternative per 《廣韻》持碾切) (F1.21 纏) 牽纏 (Page 17* 纏) To wind around (Kangxi: 繞也), to bind up (Kangxi: 約也, 束也), to wrap, to bandage; to entwine, to cling to; to molest, to implicate; to bother; _ch'in keuk_ (cin4 goek3 纏腳) to bandage the feet; _ch'in t'au_ (cin4 tau4 纏頭), to bind the head with a turban; _ch'in shau_ (cin4 sau2 纏手), to prevent doing; _ch'in kan_ (cin4 gan2 纏緊), bind it tight; _ch'in toi_ (cin4 doi6-2 纏袋) a waist bag for money; _ch'in min_ (cin4 min4 纏綿), to think of; _ch'in chu_ (cin4 zyu6 纏住) importunate, to bother; _ch'i ch'in_ (ci1 cin4 癡纏), troublesome, to annoy. Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 纏. Williams' 纏綿: More to be entangled or caught up in. Williams' 癡纏: Corrected _ch'i_ to _ch'i_. Also to be madly in love with. 【纏】 (drjen) (_verb-like_) to twine"
+"text":"U+7E8F 缠 (Mainland simplified) zin6 (alternative per 《廣韻》持碾切) (F1.21 纏) 牽纏 (Page 17* #14: 纏) To wind around (Kangxi: 繞也), to bind up (Kangxi: 約也, 束也), to wrap, to bandage; to entwine, to cling to; to molest, to implicate; to bother; _ch'in keuk_ (cin4 goek3 纏腳) to bandage the feet; _ch'in t'au_ (cin4 tau4 纏頭), to bind the head with a turban; _ch'in shau_ (cin4 sau2 纏手), to prevent doing; _ch'in kan_ (cin4 gan2 纏緊), bind it tight; _ch'in toi_ (cin4 doi6-2 纏袋) a waist bag for money; _ch'in min_ (cin4 min4 纏綿), to think of; _ch'in chu_ (cin4 zyu6 纏住) importunate, to bother; _ch'i ch'in_ (ci1 cin4 癡纏), troublesome, to annoy. Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 纏. Williams' 纏綿: More to be entangled or caught up in. Williams' 癡纏: Corrected _ch'i_ to _ch'i_. Also to be madly in love with. 【纏】 (drjen) (_verb-like_) to twine"
 }
 },
 "躔":{
@@ -15701,12 +15701,12 @@
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+76BD (Page 17* 皽) ~~To tear off, as a scab or placard;~~ to flay; to rip up; _chin hi_ (zin1 hei2 皽起), rip it up; _chin lat_ (zin1 lat1 皽甩) rip it off."
+"text":"U+76BD (Page 17* #1: 皽) ~~To tear off, as a scab or placard;~~ to flay; to rip up; _chin hi_ (zin1 hei2 皽起), rip it up; _chin lat_ (zin1 lat1 皽甩) rip it off."
 },
 "zin2":{
 "isCanonical":true,
 "williams":"(2)ch(i/)n",
-"text":"U+76BD ziu1 (alternative per 《廣韻》止遥切) (Page 17* 皽 _Chin_ (zin1); here corrected to _Chin_ (zin2)) thin scurf skin, a scab (Kangxi: 離也, 皮寬也, 皮肉之上魄膜也); 【皽】 (trjenX, tsyenX) (_noun-like_) skin-crust"
+"text":"U+76BD ziu1 (alternative per 《廣韻》止遥切) (Page 17* #1: 皽 _Chin_ (zin1); here corrected to _Chin_ (zin2)) thin scurf skin, a scab (Kangxi: 離也, 皮寬也, 皮肉之上魄膜也); 【皽】 (trjenX, tsyenX) (_noun-like_) skin-crust"
 }
 },
 "箋":{
@@ -15727,7 +15727,7 @@
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+7FB6 䍹 羴 膻 sin1 (per 《廣韻》式連切) (F1.20 羶) 腥羶羊脂也 (Page 17* 羶) The rank oder of goats (Kangxi: 羊臭也, 羊脂也羊氣也); frowzy; ~~sheep's fat, mutton tallow;~~ _ch'au chin_ (cau3 zin1 臭羶), fetid, rank; _seng chin_ (seng1 zin1 腥羶), frowzy. Williams' \"sheep's fat, mutton tallow\": Here, Williams has been misled by Kangxi 羊脂也, which (I think) is intended not just as \"sheep's fat\", but should be interpolated to \"the smell of sheep's fat\". 【羶】 (syen) (_noun-like_) rank-odour"
+"text":"U+7FB6 䍹 羴 膻 sin1 (per 《廣韻》式連切) (F1.20 羶) 腥羶羊脂也 (Page 17* #2: 羶) The rank oder of goats (Kangxi: 羊臭也, 羊脂也羊氣也); frowzy; ~~sheep's fat, mutton tallow;~~ _ch'au chin_ (cau3 zin1 臭羶), fetid, rank; _seng chin_ (seng1 zin1 腥羶), frowzy. Williams' \"sheep's fat, mutton tallow\": Here, Williams has been misled by Kangxi 羊脂也, which (I think) is intended not just as \"sheep's fat\", but should be interpolated to \"the smell of sheep's fat\". 【羶】 (syen) (_noun-like_) rank-odour"
 }
 },
 "膻":{
@@ -15741,40 +15741,40 @@
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+9085 zin6 (per 《廣韻》持碾切 for \"turn\" sense and 除善切 for \"shift/move\" sense) (F1.20 邅) 迍邅 (Page 17* 邅) Unable to advance (Kangxi: 迍邅難行不進貌); _chun chin_ (zeon1 zin1 迍邅), making no progress, unlucky in life, unfortunate. Kangxi erroneously has 𧾍上聲 and 𧾍去聲 the wrong way round. To turn (Kangxi: 轉也逐也). To shift, to move (Kangxi: 移也). 【邅-departing】 (drjenH) (_verb-like_) to turn 【邅-level】 (trjen) (_adjective-like_) hindered"
+"text":"U+9085 zin6 (per 《廣韻》持碾切 for \"turn\" sense and 除善切 for \"shift/move\" sense) (F1.20 邅) 迍邅 (Page 17* #3: 邅) Unable to advance (Kangxi: 迍邅難行不進貌); _chun chin_ (zeon1 zin1 迍邅), making no progress, unlucky in life, unfortunate. Kangxi erroneously has 𧾍上聲 and 𧾍去聲 the wrong way round. To turn (Kangxi: 轉也逐也). To shift, to move (Kangxi: 移也). 【邅-departing】 (drjenH) (_verb-like_) to turn 【邅-level】 (trjen) (_adjective-like_) hindered"
 }
 },
 "顫":{
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+986B 颤 (Mainland simplified) sin1 (per 《集韻》尸連切) (F1.20 顫) 四肢奏掉曰顫 (Page 17* 顫) Discerning of smells (Kangxi: 謂審於氣臭也). 【顫-level】 (syen) (_noun-like_) discernment of smells"
+"text":"U+986B 颤 (Mainland simplified) sin1 (per 《集韻》尸連切) (F1.20 顫) 四肢奏掉曰顫 (Page 17* #4: 顫) Discerning of smells (Kangxi: 謂審於氣臭也). 【顫-level】 (syen) (_noun-like_) discernment of smells"
 },
 "zin3":{
 "isCanonical":true,
 "williams":"ch(i/)n(3)",
-"text":"U+986B 颤 (Mainland simplified) zin1 (per Fan Wan) (F1.20 顫 _Chin_ (zin1)) 四肢奏掉曰顫 (Page 17* 顫 _Chin_ (zin1); here normalised to _Chin_ (zin3)) ~~The head awry (Kangxi: 頭不正也);~~ shivering with cold; the limbs cold and trembling (Kangxi: 四支寒動也); fearful, frightened; _sz' chi chin tung_ (si3 zi1 zin3 dung6 四肢顫動) trembling all over; _hon chin_ (hon4 zin3 寒顫), shivering. Williams' \"The head awry\": According to 段玉裁's annotations of 《說文》, 頭不正也 should instead be 頭不定也 \"the head not steady\". In other words, shaking or trembling. 【顫-departing】 (tsyenH) (_verb-like_) to tremble"
+"text":"U+986B 颤 (Mainland simplified) zin1 (per Fan Wan) (F1.20 顫 _Chin_ (zin1)) 四肢奏掉曰顫 (Page 17* #4: 顫 _Chin_ (zin1); here normalised to _Chin_ (zin3)) ~~The head awry (Kangxi: 頭不正也);~~ shivering with cold; the limbs cold and trembling (Kangxi: 四支寒動也); fearful, frightened; _sz' chi chin tung_ (si3 zi1 zin3 dung6 四肢顫動) trembling all over; _hon chin_ (hon4 zin3 寒顫), shivering. Williams' \"The head awry\": According to 段玉裁's annotations of 《說文》, 頭不正也 should instead be 頭不定也 \"the head not steady\". In other words, shaking or trembling. 【顫-departing】 (tsyenH) (_verb-like_) to tremble"
 }
 },
 "饘":{
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+9958 May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 𫗴 (Mainland simplified) zin2 (alternative per 《廣韻》旨善切) (F1.20 饘) 粥也 (F1.20 飦) 同上 (Page 17* 饘) Congee or gruel made from rice, thoroughly boiled (Kangxi: 糜也); _chin chuk_ (zin1 zuk1 饘粥) congee. 【饘】 (tsyen, tsyenX) (_noun-like_) porridge"
+"text":"U+9958 May appear with radical component 𩙿 or 飠 (assumed here), depending on the font. 𫗴 (Mainland simplified) zin2 (alternative per 《廣韻》旨善切) (F1.20 饘) 粥也 (F1.20 飦) 同上 (Page 17* #5: 饘) Congee or gruel made from rice, thoroughly boiled (Kangxi: 糜也); _chin chuk_ (zin1 zuk1 饘粥) congee. 【饘】 (tsyen, tsyenX) (_noun-like_) porridge"
 }
 },
 "鱣":{
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+9C63 鳣 (Mainland simplified) (F1.20 鱣) 魚名 (Page 17* 鱣) ~~A sea-monster;~~ a large sturgeon, or perhaps a grampus (Kangxi: 大魚似鱏 etc.); _chin k'ing_ (zin1 king4 鱣鯨), whales and grampuses, applied to an unscrupulous, grasping man. 【鱣】 (trjen) (_noun-like_) great-sturgeon"
+"text":"U+9C63 鳣 (Mainland simplified) (F1.20 鱣) 魚名 (Page 17* #6: 鱣) ~~A sea-monster;~~ a large sturgeon, or perhaps a grampus (Kangxi: 大魚似鱏 etc.); _chin k'ing_ (zin1 king4 鱣鯨), whales and grampuses, applied to an unscrupulous, grasping man. 【鱣】 (trjen) (_noun-like_) great-sturgeon"
 }
 },
 "鸇":{
 "zin1":{
 "isCanonical":true,
 "williams":"(1)ch(i/)n",
-"text":"U+9E07 鹯 (Mainland simplified) (F1.20 鸇) 食雀之鳥 (Page 17* 鸇) A falcon, goshawk, or kite (Kangxi: 鷙鳥); a yellow bird which pursues pigeons (Kangxi: 鸇似鷂黃色...擊鳩鴿燕雀食之); a sparrow-hawk. 【鸇】 (tsyen) (_noun-like_) hawk"
+"text":"U+9E07 鹯 (Mainland simplified) (F1.20 鸇) 食雀之鳥 (Page 17* #7: 鸇) A falcon, goshawk, or kite (Kangxi: 鷙鳥); a yellow bird which pursues pigeons (Kangxi: 鸇似鷂黃色...擊鳩鴿燕雀食之); a sparrow-hawk. 【鸇】 (tsyen) (_noun-like_) hawk"
 }
 },
 "剪":{
@@ -15788,7 +15788,7 @@
 "zin2":{
 "isCanonical":true,
 "williams":"(2)ch(i/)n",
-"text":"U+5C55 㞡 (F1.22 展) 舒展 (Page 17* 展) To open out, to unroll (Kangxi: 開也)~~, and inspect~~; to exhibit (Kangxi: 展陳也), to disentangle; to stretch out at one's ease (Kangxi: 舒也), to expand; to inspect, to judge of, to look into (Kangxi: 審也視也, 展省閱也); true, sincere (Kangxi: 一曰誠也); cheerful, pleasant; ~~gratified;~~ _yuk chin_ (juk6 zin2 玉展), may you open this; _chin hon_ (zin2 hon3 展看) to open and look at; _chin hoi_ (zin2 hoi1 展開), to spread out, to open (as a letter); _chin mi_ (zin2 mei4 展眉), a pleasant face; _chin un_ (zin2 wun6 展緩) to defer, to put off to get time; _chin han_ (zin2 haan6 展限) to extend the time. To record (Kangxi: 展猶錄也). To implement, to bring about. 【展】 (trjenX) (_verb-like_) to unfurl, to exhibit (_verb-like_) to examine (_adverb-like_) verily"
+"text":"U+5C55 㞡 (F1.22 展) 舒展 (Page 17* #8: 展) To open out, to unroll (Kangxi: 開也)~~, and inspect~~; to exhibit (Kangxi: 展陳也), to disentangle; to stretch out at one's ease (Kangxi: 舒也), to expand; to inspect, to judge of, to look into (Kangxi: 審也視也, 展省閱也); true, sincere (Kangxi: 一曰誠也); cheerful, pleasant; ~~gratified;~~ _yuk chin_ (juk6 zin2 玉展), may you open this; _chin hon_ (zin2 hon3 展看) to open and look at; _chin hoi_ (zin2 hoi1 展開), to spread out, to open (as a letter); _chin mi_ (zin2 mei4 展眉), a pleasant face; _chin un_ (zin2 wun6 展緩) to defer, to put off to get time; _chin han_ (zin2 haan6 展限) to extend the time. To record (Kangxi: 展猶錄也). To implement, to bring about. 【展】 (trjenX) (_verb-like_) to unfurl, to exhibit (_verb-like_) to examine (_adverb-like_) verily"
 }
 },
 "戩":{
@@ -15802,7 +15802,7 @@
 "zin2":{
 "isCanonical":false,
 "williams":"(2)ch(i/)n",
-"text":"U+78BE (F1.22 碾) 轢也又音研 (Page 17* 碾)"
+"text":"U+78BE (F1.22 碾) 轢也又音研 (Page 17* #9: 碾)"
 }
 },
 "翦":{
@@ -15837,7 +15837,7 @@
 "zin2":{
 "isCanonical":true,
 "williams":"(2)ch(i/)n",
-"text":"U+8F3E 展 辗 (Mainland simplified) (F1.22 輾) 轉之半曰輾 (Page 17* 輾) To roll over half way (Kangxi: 輾者轉之半也); to turn over (Kangxi: 轉也); _chin chun fan ~~ch'ak~~ chak_ (zin2 zyun2 faan2 zak1 輾轉反側) to turn back and forth, to think on. Williams' 輾轉反側: Corrected _ch'ak_ (cak1) to _chak_ (zak1). 【輾】 (trjenX) (_verb-like_) to roll (over), (_met._) to toss"
+"text":"U+8F3E 展 辗 (Mainland simplified) (F1.22 輾) 轉之半曰輾 (Page 17* #10: 輾) To roll over half way (Kangxi: 輾者轉之半也); to turn over (Kangxi: 轉也); _chin chun fan ~~ch'ak~~ chak_ (zin2 zyun2 faan2 zak1 輾轉反側) to turn back and forth, to think on. Williams' 輾轉反側: Corrected _ch'ak_ (cak1) to _chak_ (zak1). 【輾】 (trjenX) (_verb-like_) to roll (over), (_met._) to toss"
 }
 },
 "墊":{
@@ -15851,7 +15851,7 @@
 "zin3":{
 "isCanonical":true,
 "williams":"ch(i/)n(3)",
-"text":"U+6230 战 (Mainland simplified) (F1.25 戰) 閩戰又恐懼貌 (Page 17* 戰) To fight (Kangxi: 鬭也); ~~to be alarmed,~~ struck with dread (Kangxi: 懼也); fearful~~, anxious~~; a battle, an engagement; war, hostilities; military, pertaining to war; _hut chin_ (hyut3 zin3 血戰) a bloody fight; _chin shing_ (zin3 sing3 戰勝) a victory; _ta chin_ (daa2 zin3 打戰) terrified; _chin tau_ (zin3 dau3 戰鬥) or _kau chin_ (gaau1 zin3 交戰) to join battle; _chin ~~ch'an~~ chan_ (zin3 zan6 戰陳), troops drawn up for battle; _chin pai_ (zin3 baai6 戰敗) to be discomfited; _chin chin king king_ (zin3 zin3 ging1 ging1 戰戰兢兢), frightened, afraid of; _chin shun_ (zin3 syun4 戰船), a war-junk, a ship of war; _chin shu_ (zin3 syu1 戰書), a challenge to fight. Fan Wan entry: 閩 is probably a typo for 鬪 or similar. Williams' 戰陳: Corrected _ch'an_ (can4) to _chan_ (zan6). Williams' 戰敗: Corrected _pai_ (baai3) to _pai_ (baai6). 【戰】 (tsyenH) (_verb-like_) to battle (_verb-like_) to tremble"
+"text":"U+6230 战 (Mainland simplified) (F1.25 戰) 閩戰又恐懼貌 (Page 17* #12: 戰) To fight (Kangxi: 鬭也); ~~to be alarmed,~~ struck with dread (Kangxi: 懼也); fearful~~, anxious~~; a battle, an engagement; war, hostilities; military, pertaining to war; _hut chin_ (hyut3 zin3 血戰) a bloody fight; _chin shing_ (zin3 sing3 戰勝) a victory; _ta chin_ (daa2 zin3 打戰) terrified; _chin tau_ (zin3 dau3 戰鬥) or _kau chin_ (gaau1 zin3 交戰) to join battle; _chin ~~ch'an~~ chan_ (zin3 zan6 戰陳), troops drawn up for battle; _chin pai_ (zin3 baai6 戰敗) to be discomfited; _chin chin king king_ (zin3 zin3 ging1 ging1 戰戰兢兢), frightened, afraid of; _chin shun_ (zin3 syun4 戰船), a war-junk, a ship of war; _chin shu_ (zin3 syu1 戰書), a challenge to fight. Fan Wan entry: 閩 is probably a typo for 鬪 or similar. Williams' 戰陳: Corrected _ch'an_ (can4) to _chan_ (zan6). Williams' 戰敗: Corrected _pai_ (baai3) to _pai_ (baai6). 【戰】 (tsyenH) (_verb-like_) to battle (_verb-like_) to tremble"
 }
 },
 "洊":{

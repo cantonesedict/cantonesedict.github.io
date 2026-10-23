@@ -492,7 +492,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17* (1)皽]]
+  - [[Page~17* #1: (1)皽]]
     ==
     - ~~To tear off, as a scab or placard;~~
     - to flay;
@@ -615,7 +615,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)羶]]
+  - [[Page~17* #2: (1)羶]]
     ==
     - The rank oder of goats [[Kangxi: 羊臭也, 羊脂也羊氣也]];
     - frowzy;
@@ -681,7 +681,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)邅]]
+  - [[Page~17* #3: (1)邅]]
     ==
     - Unable to advance [[Kangxi: 迍邅難行不進貌]];
     - _(1)chun (1)ch(i/)n_
@@ -732,7 +732,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)顫]]
+  - [[Page~17* #4: (1)顫]]
     --
     [[Reading variation. **See $顫zin3 for the canonical entry.**]]
     --
@@ -780,7 +780,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)饘]]
+  - [[Page~17* #5: (1)饘]]
     ==
     - Congee or gruel made from rice, thoroughly boiled [[Kangxi: 糜也]];
     - _(1)ch(i/)n chuk(7)_
@@ -814,7 +814,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)鱣]]
+  - [[Page~17* #6: (1)鱣]]
     ==
     - ~~A sea-monster;~~
     - a large sturgeon, or perhaps a grampus [[Kangxi: 大魚似鱏 etc.]];
@@ -853,7 +853,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)鸇]]
+  - [[Page~17* #7: (1)鸇]]
     ==
     - A falcon, goshawk, or kite [[Kangxi: 鷙鳥]];
     - a yellow bird which pursues pigeons [[Kangxi: ::鸇似鷂黃色[...]擊鳩鴿燕雀食之::]];
@@ -1006,7 +1006,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)展]]
+  - [[Page~17* #8: (2)展]]
     ==
     - To open out, to unroll [[Kangxi: 開也]]~~, and inspect~~;
     - to exhibit [[Kangxi: ::展陳也::]], to disentangle;
@@ -1113,7 +1113,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17* (1)皽 _(1)Ch(i/)n_ (zin1); here corrected to _(2)Ch(i/)n_ (zin2)]]
+  - [[Page~17* #1: (1)皽 _(1)Ch(i/)n_ (zin1); here corrected to _(2)Ch(i/)n_ (zin2)]]
     ==
     - [[...]];
     - thin scurf skin, a scab [[Kangxi: 離也, 皮寬也, 皮肉之上魄膜也]];
@@ -1146,7 +1146,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)碾]]
+  - [[Page~17* #9: (2)碾]]
     --
     [[Reading variation. **See $碾nin5 for the canonical entry.**]] [[TODO]]
     --
@@ -1349,7 +1349,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)輾]]
+  - [[Page~17* #10: (2)輾]]
     ==
     - To roll over half way [[Kangxi: 輾者轉之半也]];
     - to turn over [[Kangxi: 轉也]];
@@ -1431,7 +1431,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)闡]]
+  - [[Page~17* #11: (2)闡]]
     ==
     - To open, to spread out, to enlarge from the original condition [[Kangxi: 開也]];
     - manifest, clear, plain [[Kangxi: 顯也, 明也]];
@@ -1522,7 +1522,7 @@ F
   ==
 W
   ====
-  - [[Page~17* 戰(3)]]
+  - [[Page~17* #12: 戰(3)]]
     ==
     - To fight [[Kangxi: 鬭也]];
     - ~~to be alarmed,~~ struck with dread [[Kangxi: 懼也]];
@@ -2055,7 +2055,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
+  - [[Page~17* #4: (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
     ==
     - ~~The head awry [[Kangxi: 頭不正也]];~~
     - shivering with cold;

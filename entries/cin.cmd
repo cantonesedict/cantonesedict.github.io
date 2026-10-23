@@ -674,7 +674,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (4)廛]]
+  - [[Page~17* #13: (4)廛]]
     ==
     - Ground allotted a serf [[Kangxi: 一畝半一家之居 etc.]];
     - a shop, a village market, a bazaar [[Kangxi: 市邸也]];
@@ -721,7 +721,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (4)纏]]
+  - [[Page~17* #14: (4)纏]]
     ==
     - To wind around [[Kangxi: 繞也]], to bind up [[Kangxi: 約也, 束也]], to wrap, to bandage;
     - to entwine, to cling to;

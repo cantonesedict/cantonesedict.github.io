@@ -4706,6 +4706,133 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~17*
+    ,{#page-17*-entry-1} #1
+    ,{.williams} (1)皽
+    ,
+      <nav class="sideways">
+      ==
+      - $皽zin1, $皽zin2
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-2} #2
+    ,{.williams} (1)羶
+    ,
+      <nav class="sideways">
+      ==
+      - $羶zin1
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-3} #3
+    ,{.williams} (1)邅
+    ,
+      <nav class="sideways">
+      ==
+      - $邅zin1
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-4} #4
+    ,{.williams} (1)顫
+    ,
+      <nav class="sideways">
+      ==
+      - $顫zin1, $顫zin3
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-5} #5
+    ,{.williams} (1)饘
+    ,
+      <nav class="sideways">
+      ==
+      - $饘zin1
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-6} #6
+    ,{.williams} (1)鱣
+    ,
+      <nav class="sideways">
+      ==
+      - $鱣zin1
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-7} #7
+    ,{.williams} (1)鸇
+    ,
+      <nav class="sideways">
+      ==
+      - $鸇zin1
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-8} #8
+    ,{.williams} (2)展
+    ,
+      <nav class="sideways">
+      ==
+      - $展zin2
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-9} #9
+    ,{.williams} (2)碾
+    ,
+      <nav class="sideways">
+      ==
+      - ($碾zin2)
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-10} #10
+    ,{.williams} (2)輾
+    ,
+      <nav class="sideways">
+      ==
+      - $輾zin2
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-11} #11
+    ,{.williams} (2)闡
+    ,
+      <nav class="sideways">
+      ==
+      - $闡zin2
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-12} #12
+    ,{.williams} 戰(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $戰zin3
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-13} #13
+    ,{.williams} (4)廛
+    ,
+      <nav class="sideways">
+      ==
+      - $廛cin4
+      ==
+      </nav>
+  //
+    ,{#page-17*-entry-14} #14
+    ,{.williams} (4)纏
+    ,
+      <nav class="sideways">
+      ==
+      - $纏cin4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
