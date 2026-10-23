@@ -606,7 +606,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)厰]]
+  - [[Page~29* #1: (2)厰]]
     --
     [[Alternative form of 廠. **See $廠cong2 for the canonical entry.**]]
     --
@@ -635,7 +635,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)厰; here normalised to 廠]]
+  - [[Page~29* #1: (2)厰; here normalised to 廠]]
     ==
     - An open shed [[Kangxi 廠: 露舍也]];
     - a covered place not walled in [[Kangxi 廠: 屋無壁也]];
@@ -691,7 +691,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2){𢠵=⿰忄敞}; here normalised to 惝]]
+  - [[Page~29* #2: (2){𢠵=⿰忄敞}; here normalised to 惝]]
     ==
     - Alarmed [[Kangxi {𢠵=⿰忄敞}: {𢠵=⿰忄敞}怳驚貌或省作惝]];
     - frightened;
@@ -723,7 +723,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)愴]]
+  - [[Page~29* #5: (2)愴]]
     --
     [[Reading variation. **See $愴cong3 for the canonical entry.**]]
     --
@@ -751,7 +751,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2){𢠵=⿰忄敞}]]
+  - [[Page~29* #2: (2){𢠵=⿰忄敞}]]
     --
     [[Alternative form of 惝. **See $惝cong2 for the canonical entry.**]]
     --
@@ -779,7 +779,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)昶]]
+  - [[Page~29* #3: (2)昶]]
     --
     [[...]].
     --
@@ -817,7 +817,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)闖]]
+  - [[Page~29* #4: (2)闖]]
     ==
     - A horse going out of a door [[Kangxi: 馬出門貌]];
     - to thrust out the head, to appear [[Kangxi: 出頭貌]];
@@ -871,7 +871,7 @@ F
   ==
 W
   ====
-  - [[Page~29* 創(3)刱(3)]]
+  - [[Page~29* #6: 創(3)刱(3)]]
     --
     [[Alternative form of 創. **See $創cong3 for the canonical entry.**]]
     --
@@ -899,7 +899,7 @@ F
   ==
 W
   ====
-  - [[Page~29* 創(3)刱(3)]]
+  - [[Page~29* #6: 創(3)刱(3)]]
     ==
     - To begin, to invent [[Kangxi 創: 始也造也]];
     - to create, to found, to lay the foundation of;
@@ -968,7 +968,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
+  - [[Page~29* #5: (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
     ==
     - Grief [[Kangxi: 傷也]];
     - _(1)ts(')ai ~~(2)ch(')ong~~ ``ch(')ong(3)``_

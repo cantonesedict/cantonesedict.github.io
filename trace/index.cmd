@@ -5718,6 +5718,102 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~29*
+    ,{#page-29*-entry-1} #1
+    ,{.williams} (2)厰
+    ,
+      <nav class="sideways">
+      ==
+      - ($厰cong2)
+      - $廠cong2
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-2} #2
+    ,{.williams} (2){𢠵=⿰忄敞}
+    ,
+      <nav class="sideways">
+      ==
+      - $惝cong2
+      - (${𢠵=⿰忄敞}cong2)
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-3} #3
+    ,{.williams} (2)昶
+    ,
+      <nav class="sideways">
+      ==
+      - ($昶coeng3), $昶cong2
+      - $暢coeng3
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-4} #4
+    ,{.williams} (2)闖
+    ,
+      <nav class="sideways">
+      ==
+      - $闖cong2
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-5} #5
+    ,{.williams} (2)愴
+    ,
+      <nav class="sideways">
+      ==
+      - $愴cong2, $愴cong3
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-6} #6
+    ,{.williams} 創(3)刱(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($刱cong3)
+      - $創cong3
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-7} #7
+    ,{.williams} (1)諸
+    ,
+      <nav class="sideways">
+      ==
+      - $諸zyu1
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-8} #8
+    ,{.williams} (1)猪
+    ,
+      <nav class="sideways">
+      ==
+      - ($猪zyu1)
+      - $豬zyu1
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-9} #9
+    ,{.williams} (1)瀦
+    ,
+      <nav class="sideways">
+      ==
+      - $瀦zyu1
+      ==
+      </nav>
+  //
+    ,{#page-29*-entry-10} #10
+    ,{.williams} (1)朱
+    ,
+      <nav class="sideways">
+      ==
+      - $朱zyu1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

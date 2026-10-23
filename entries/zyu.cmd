@@ -163,7 +163,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)朱]]
+  - [[Page~29* #10: (1)朱]]
     ==
     - A coniferæ with red heartwood [[Kangxi: 赤心木松柏之屬]];
     - vermilion;
@@ -295,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)瀦]]
+  - [[Page~29* #9: (1)瀦]]
     ==
     - A pool where water settles [[Kangxi: 水所停也]];
     - _(1)ch(u:) (2)shui_
@@ -338,7 +338,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)猪]]
+  - [[Page~29* #8: (1)猪]]
     --
     [[Alternative form of 豬. **See $豬zyu1 for the canonical entry.**]]
     --
@@ -680,7 +680,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)諸]]
+  - [[Page~29* #7: (1)諸]]
     ==
     - To discriminate~~, to discuss~~ [[Kangxi: 辯也, 別異之辭]];
     - not one alone, all, several, many, every [[Kangxi: 非一也皆言也, 凡衆也]];
@@ -780,7 +780,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)猪; here normalised to 豬]]
+  - [[Page~29* #8: (1)猪; here normalised to 豬]]
     ==
     - A hog [[Kangxi 豬: 豕而三毛叢居者 etc.]];
     - _(1)ch(u:) (2)n(a/)_
