@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)粧(1)妝]]
+  - [[Page~27* #3: (1)粧(1)妝]]
     ==
     - To adorn [[Kangxi 妝: 飾也]] the head;
     - ornamented, dressed;
@@ -126,7 +126,7 @@ W
         [[jung4 zong1 濃妝]],
         overdressed, bedizened.
     ==
-  - [[Page~27* (1)裝]]
+  - [[Page~27* #4: (1)裝]]
     ==
     - Used for the preceding [[妝]];
     - [[...]].
@@ -148,7 +148,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)庄]]
+  - [[Page~27* #2: (1)庄]]
     --
     [[Alternative form of 莊. **See $莊zong1 for the canonical entry.**]]
     --
@@ -196,7 +196,7 @@ F
   ==
 W
   ====
-  - [[Page~27* ::(1)~~{？=⿰才舂}~~``樁``::]]
+  - [[Page~27* #5: ::(1)~~{？=⿰才舂}~~``樁``::]]
     ==
     - ~~A club;~~
     - a post, a stake driven deep into the ground [[Kangxi 樁: 橛杙也]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)粧(1)妝]]
+  - [[Page~27* #3: (1)粧(1)妝]]
     --
     [[Alternative form of 妝. **See $妝zong1 for the canonical entry.**]]
     --
@@ -371,7 +371,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)莊]]
+  - [[Page~27* #1: (1)莊]]
     ==
     - Plants growing rank or luxuriantly [[Kangxi: 草盛貌, 艸芽之壯也]];
     - sedate, serious, grave, stern [[Kangxi: 嚴也]];
@@ -389,7 +389,7 @@ W
         [[hong1 zong1 康莊]],
         a level road.
     ==
-  - [[Page~27* (1)庄]]
+  - [[Page~27* #2: (1)庄]]
     ==
     - Used for the above [[莊]];
     - a barn, a grange, a cottage, a workshed;
@@ -456,7 +456,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)裝]]
+  - [[Page~27* #4: (1)裝]]
     ==
     - [[...]];
     - to bind, to tie on, to dress [[Kangxi: 裝束也]];
@@ -570,7 +570,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27* (1)䚎]]
+  - [[Page~27* #6: (1)䚎]]
     --
     [[...]]
     --
