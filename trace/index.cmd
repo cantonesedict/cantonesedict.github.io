@@ -5166,6 +5166,81 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~22*
+    ,{#page-22*-entry-1} #1
+    ,{.williams} 摺(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $摺zip3
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-2} #2
+    ,{.williams} 囁(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $囁zip3
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-3} #3
+    ,{.williams} 慴(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($慴zip3)
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-4} #4
+    ,{.williams} 襵(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $襵zip3
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-5} #5
+    ,{.williams} 褶(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $褶zaap3, $褶zaap6, ($褶zip3)
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-6} #6
+    ,{.williams} 輒(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $輒zip3
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-7} #7
+    ,{.williams} 折(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($折zit1), $折zit3
+      - $擳zit1
+      ==
+      </nav>
+  //
+    ,{#page-22*-entry-8} #8
+    ,{.williams} 哲(8)喆(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $哲zit3
+      - ($喆zit3)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

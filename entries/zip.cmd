@@ -77,7 +77,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 囁(8)]]
+  - [[Page~22* #2: 囁(8)]]
     ==
     - An unbridled tongue [[Kangxi: 口無節也]];
     - ~~vilifying,~~ grumbling, ``privately`` scolding [[Kangxi: 私罵也]]~~, slandering~~;
@@ -111,7 +111,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 慴(8)]]
+  - [[Page~22* #3: 慴(8)]]
     --
     [[Alternative form of 懾, and reading variation. **See $懾sip3 for the canonical entry.**]] [[TODO]]
     --
@@ -246,7 +246,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 摺(8)]]
+  - [[Page~22* #1: 摺(8)]]
     ==
     - To fold, to double up [[Kangxi: 摺疊也]];
     - [[...]], to destroy [[Kangxi: 敗也]], [[...]];
@@ -458,7 +458,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 褶(8)]]
+  - [[Page~22* #5: 褶(8)]]
     --
     [[Reading variation. **See $褶zaap3 for the canonical entry.**]]
     --
@@ -493,7 +493,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 襵(8)]]
+  - [[Page~22* #4: 襵(8)]]
     ==
     - To fold garments [[Kangxi: 詘也]];
     - to plait, to double;
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 輒(8)]]
+  - [[Page~22* #6: 輒(8)]]
     ==
     - The sides of a ~~a~~ carriage [[Kangxi: 車兩輢也]], where arms are stuck;
     - unceremoniously, suddenly, abruptly [[Kangxi: 忽然也]];

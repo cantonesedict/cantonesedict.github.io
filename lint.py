@@ -4677,7 +4677,7 @@ class Linter:
 
         for identity, collated_williams_locators in collated_williams_locators_from_identity.items():
             collated_unedited_headword_runs = set(
-                williams_locator.unedited_headword_run
+                williams_locator.unedited_headword_run.replace('(7)', '(8)')
                 for williams_locator in collated_williams_locators
             )
             if len(collated_unedited_headword_runs) > 1:

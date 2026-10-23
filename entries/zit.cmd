@@ -62,7 +62,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 折(7)]]
+  - [[Page~22* #7: 折(7)]]
     --
     [[Alternative form of 擳 (Cantonese). **See $擳zit1 for the canonical entry.**]]
     --
@@ -96,7 +96,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 折(7); here normalised to 擳]]
+  - [[Page~22* #7: 折(7); here normalised to 擳]]
     --
     [[...]]
     --
@@ -207,7 +207,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 哲(8)喆(8)]]
+  - [[Page~22* #8: 哲(8)喆(8)]]
     ==
     - Wise, perspicacious, sage [[Kangxi 哲: 哲智也, 哲知也]];
     - to know intuitively;
@@ -244,7 +244,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 哲(8)喆(8)]]
+  - [[Page~22* #8: 哲(8)喆(8)]]
     --
     [[Alternative form of 哲. **See $哲zit3 for the canonical entry.**]]
     --
@@ -301,7 +301,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 折(8)]]
+  - [[Page~22* #7: 折(8)]]
     ==
     - To sunder, to snap in two, to break off [[Kangxi: 拗折也]];
     - to fold, to bend [[Kangxi: 屈也]];
