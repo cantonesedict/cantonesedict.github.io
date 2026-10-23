@@ -161,7 +161,7 @@ F
   ==
 W
   ====
-  - [[Page~11* ::(1)~~{？=⿰女⿱山虫}~~``媸``::]]
+  - [[Page~11* #1: ::(1)~~{？=⿰女⿱山虫}~~``媸``::]]
     ==
     - Ugly [[Kangxi 媸: 醜也]];
     - a homely woman;
@@ -973,7 +973,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (2)始]]
+  - [[Page~11* #11: (2)始]]
     ==
     - The beginning [[Kangxi: 初也]];
     - an opening, a start;
@@ -1014,7 +1014,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (2)弛]]
+  - [[Page~11* #12: (2)弛]]
     --
     [[Reading variation. **See $弛ci4 for the canonical entry.**]]
     --
@@ -2436,7 +2436,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)坻]]
+  - [[Page~11* #4: (4)坻]]
     ==
     - An islet [[Kangxi: 小渚曰沚小沚曰坻]];
     - a ledge of rocks in a stream [[Kangxi: 水中高地也]];
@@ -2472,7 +2472,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)墀]]
+  - [[Page~11* #2: (4)墀]]
     ==
     - A porch, a vestibule or piazza, reached by a few steps [[Kangxi: 涂地也, 階上地也]];
     - a courtyard;
@@ -2501,7 +2501,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (2)弛 _(2)Ch(')(i/)_ (ci2); here normalised to _(4)Ch(')(i/)_ (ci4)]]
+  - [[Page~11* #12: (2)弛 _(2)Ch(')(i/)_ (ci2); here normalised to _(4)Ch(')(i/)_ (ci4)]]
     ==
     - A bow unstrung [[Kangxi: 弓解也]];
     - to let go the string of a bow [[Kangxi: 放也]];
@@ -2612,7 +2612,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)持]]
+  - [[Page~11* #8: (4)持]]
     ==
     - To take, to lay hold of, to grasp [[Kangxi: 握也, 執也]];
     - to observe or maintain;
@@ -2685,7 +2685,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)池]]
+  - [[Page~11* #6: (4)池]]
     ==
     - A tank, a pool, a pond [[Kangxi: ::治也[...]停水曰池::]];
     - a ditch, a fosse [[Kangxi: 城塹曰溝池]];
@@ -2938,7 +2938,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)篪]]
+  - [[Page~11* #9: (4)篪]]
     ==
     - A kind of bamboo flute, with seven holes [[Kangxi: 管樂也, 周禮云篪七孔]];
     - the sound resembles the wailing of children [[Kangxi: ::篪啼也[...]如嬰兒啼聲::]];
@@ -3127,7 +3127,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)蚳]]
+  - [[Page~11* #5: (4)蚳]]
     ==
     - Eggs or larva of ants [[Kangxi: 蟻卵也]]. ~~One says, a bloodsucker.~~
     ==
@@ -3265,7 +3265,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)踟]]
+  - [[Page~11* #10: (4)踟]]
     ==
     - Irresolute [[Kangxi: 踟躕行不進也]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
@@ -3414,7 +3414,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)遲]]
+  - [[Page~11* #3: (4)遲]]
     ==
     - Slow, dilatory [[Kangxi: 徐行也]];
     - late, tardy;
@@ -3538,7 +3538,7 @@ F
   ==
 W
   ====
-  - [[Page~11* (4)馳]]
+  - [[Page~11* #7: (4)馳]]
     ==
     - To gallop, to ride fast [[Kangxi: 走奔也, 馳騖也疾驅也]], as a courier;
     - ~~a fleet horse;~~

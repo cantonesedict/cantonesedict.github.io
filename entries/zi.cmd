@@ -2303,7 +2303,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2) and normalised to 坁]]
+  - [[Page~11* #4: (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2) and normalised to 坁]]
     ==
     - [[...]];
     - to stop [[Kangxi 坻: 止也]].
@@ -6295,7 +6295,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~11* (4)遲 _(4)Ch(')(i/)_ (ci4); here corrected to _Ch(i/)(6)_ (zi6)]]
+  - [[Page~11* #3: (4)遲 _(4)Ch(')(i/)_ (ci4); here corrected to _Ch(i/)(6)_ (zi6)]]
     ==
     - [[...]];
     - to wait for [[Kangxi: 待也]];

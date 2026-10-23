@@ -4114,6 +4114,116 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~11*
+    ,{#page-11*-entry-1} #1
+    ,{.williams} (1){？=⿰女⿱山虫}
+    ,
+      <nav class="sideways">
+      ==
+      - $媸ci1
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-2} #2
+    ,{.williams} (4)墀
+    ,
+      <nav class="sideways">
+      ==
+      - $墀ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-3} #3
+    ,{.williams} (4)遲
+    ,
+      <nav class="sideways">
+      ==
+      - $遲ci4, $遲zi6
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-4} #4
+    ,{.williams} (4)坻
+    ,
+      <nav class="sideways">
+      ==
+      - $坻ci4
+      - $坁zi2
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-5} #5
+    ,{.williams} (4)蚳
+    ,
+      <nav class="sideways">
+      ==
+      - $蚳ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-6} #6
+    ,{.williams} (4)池
+    ,
+      <nav class="sideways">
+      ==
+      - $池ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-7} #7
+    ,{.williams} (4)馳
+    ,
+      <nav class="sideways">
+      ==
+      - $馳ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-8} #8
+    ,{.williams} (4)持
+    ,
+      <nav class="sideways">
+      ==
+      - $持ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-9} #9
+    ,{.williams} (4)篪
+    ,
+      <nav class="sideways">
+      ==
+      - $篪ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-10} #10
+    ,{.williams} (4)踟
+    ,
+      <nav class="sideways">
+      ==
+      - $踟ci4
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-11} #11
+    ,{.williams} (2)始
+    ,
+      <nav class="sideways">
+      ==
+      - $始ci2
+      ==
+      </nav>
+  //
+    ,{#page-11*-entry-12} #12
+    ,{.williams} (2)弛
+    ,
+      <nav class="sideways">
+      ==
+      - ($弛ci2), $弛ci4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

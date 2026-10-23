@@ -3619,7 +3619,7 @@
 "ci1":{
 "isCanonical":true,
 "williams":"(1)ch(')(i/)",
-"text":"U+5AB8 (F1.36 媸) 妍媸 (Page 11* ~~？~~媸) Ugly (Kangxi 媸: 醜也); a homely woman; lewd (Kangxi 媸: 淫也), worthless, foolish (Kangxi 媸: 癡也); _ch'i no_ (ci1 nou4 媸奴), a harridan; _in ch'i tsz' ~~kin~~ in_ (jin4 ci1 zi6 jin6 妍媸自見) he knows whether he is handsome or ugly. Fan Wan entry: Normalised headword 𡟎 to 媸. Williams' \"homely\": In the sense of \"unattractive\". Williams' 妍媸自見: Corrected _kin_ (gin6) to _in_ (jin6)."
+"text":"U+5AB8 (F1.36 媸) 妍媸 (Page 11* #1: ~~？~~媸) Ugly (Kangxi 媸: 醜也); a homely woman; lewd (Kangxi 媸: 淫也), worthless, foolish (Kangxi 媸: 癡也); _ch'i no_ (ci1 nou4 媸奴), a harridan; _in ch'i tsz' ~~kin~~ in_ (jin4 ci1 zi6 jin6 妍媸自見) he knows whether he is handsome or ugly. Fan Wan entry: Normalised headword 𡟎 to 媸. Williams' \"homely\": In the sense of \"unattractive\". Williams' 妍媸自見: Corrected _kin_ (gin6) to _in_ (jin6)."
 }
 },
 "疵":{
@@ -3780,19 +3780,19 @@
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ch(')(i/)",
-"text":"U+59CB 乨 (F1.39 始) 初也原也 (Page 11* 始) The beginning (Kangxi: 初也); an opening, a start; to begin, to commence; at the beginning of a sentence, it often means then, was, at that time; _ch'i ch'o_ (ci2 co1 始初), the commencement, first; _ch'i chung_ (ci2 zung1 始終), beginning and end; the whole period, the circumstances; _ch'i ch'ong_ (ci2 cong3 始創) invention. 【始】 (syiX) (_noun-like_) beginning (_adverb-like_) (_met._) first, just"
+"text":"U+59CB 乨 (F1.39 始) 初也原也 (Page 11* #11: 始) The beginning (Kangxi: 初也); an opening, a start; to begin, to commence; at the beginning of a sentence, it often means then, was, at that time; _ch'i ch'o_ (ci2 co1 始初), the commencement, first; _ch'i chung_ (ci2 zung1 始終), beginning and end; the whole period, the circumstances; _ch'i ch'ong_ (ci2 cong3 始創) invention. 【始】 (syiX) (_noun-like_) beginning (_adverb-like_) (_met._) first, just"
 }
 },
 "弛":{
 "ci2":{
 "isCanonical":false,
 "williams":"(2)ch(')(i/)",
-"text":"U+5F1B (F1.39 弛) 放也棄也廢也 (Page 11* 弛)"
+"text":"U+5F1B (F1.39 弛) 放也棄也廢也 (Page 11* #12: 弛)"
 },
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+5F1B ci2 (per 《廣韻》施是切) (F1.39 弛 _Ch'i_ (ci2)) 放也棄也廢也 (Page 11* 弛 _Ch'i_ (ci2); here normalised to _Ch'i_ (ci4)) A bow unstrung (Kangxi: 弓解也); to let go the string of a bow (Kangxi: 放也); to relax (Kangxi: 緩也); to cast off (Kangxi: 置也舍也); injured, spoiled (Kangxi: 壞也); easy, dissolute, unconcerned (Kangxi: 易也); _fai ch'i_ (fai3 ci2 廢弛), heedless, careless; to fail, to grow old or useless, obsolete; _kai ch'i_ (gaai2 ci2 解弛), to unloose, to throw off; _ch'i lik_ (ci2 lik6 弛力) remiss. 【弛】 (syeX) (_verb-like_) to slacken"
+"text":"U+5F1B ci2 (per 《廣韻》施是切) (F1.39 弛 _Ch'i_ (ci2)) 放也棄也廢也 (Page 11* #12: 弛 _Ch'i_ (ci2); here normalised to _Ch'i_ (ci4)) A bow unstrung (Kangxi: 弓解也); to let go the string of a bow (Kangxi: 放也); to relax (Kangxi: 緩也); to cast off (Kangxi: 置也舍也); injured, spoiled (Kangxi: 壞也); easy, dissolute, unconcerned (Kangxi: 易也); _fai ch'i_ (fai3 ci2 廢弛), heedless, careless; to fail, to grow old or useless, obsolete; _kai ch'i_ (gaai2 ci2 解弛), to unloose, to throw off; _ch'i lik_ (ci2 lik6 弛力) remiss. 【弛】 (syeX) (_verb-like_) to slacken"
 }
 },
 "恥":{
@@ -4047,7 +4047,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+577B (F1.38 坻) 水中高地 (Page 11* 坻) An islet (Kangxi: 小渚曰沚小沚曰坻); a ledge of rocks in a stream (Kangxi: 水中高地也); a bank; to bank in; 【坻】 (drij) (_noun-like_) islet"
+"text":"U+577B (F1.38 坻) 水中高地 (Page 11* #4: 坻) An islet (Kangxi: 小渚曰沚小沚曰坻); a ledge of rocks in a stream (Kangxi: 水中高地也); a bank; to bank in; 【坻】 (drij) (_noun-like_) islet"
 },
 "zi2":{
 "isCanonical":false,
@@ -4059,7 +4059,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+5880 (F1.38 墀) 丹墀 (Page 11* 墀) A porch, a vestibule or piazza, reached by a few steps (Kangxi: 涂地也, 階上地也); a courtyard; the path or walk somewhat elevated between the gate and palace; _tan ch'i_ (daan1 ci4 丹墀), the vermilion avenue, _i. e._ the emperor's palace."
+"text":"U+5880 (F1.38 墀) 丹墀 (Page 11* #2: 墀) A porch, a vestibule or piazza, reached by a few steps (Kangxi: 涂地也, 階上地也); a courtyard; the path or walk somewhat elevated between the gate and palace; _tan ch'i_ (daan1 ci4 丹墀), the vermilion avenue, _i. e._ the emperor's palace."
 }
 },
 "慈":{
@@ -4073,14 +4073,14 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+6301 (F1.38 持) 執持又扶持 (Page 11* 持) To take, to lay hold of, to grasp (Kangxi: 握也, 執也); to observe or maintain; firm, decided; to direct resolutely; _pa ch'i_ (baa2 ci4 把持), to manage an affair; _ts'o shin i ch'i_ (cou1 sin3 ji6 ci4 粗扇二持), two common fans; _fu ch'i_ (fu4 ci4 扶持), to assist; _chap ch'i_ (zap1 ci4 執持), to hold in the hand; _ts'o ch'i_ (cou1 ci4 操持), to do with energy; _ch'i fat_ (ci4 faat3 持法) to maintain the law. 【持】 (dri) (_verb-like_) to hold"
+"text":"U+6301 (F1.38 持) 執持又扶持 (Page 11* #8: 持) To take, to lay hold of, to grasp (Kangxi: 握也, 執也); to observe or maintain; firm, decided; to direct resolutely; _pa ch'i_ (baa2 ci4 把持), to manage an affair; _ts'o shin i ch'i_ (cou1 sin3 ji6 ci4 粗扇二持), two common fans; _fu ch'i_ (fu4 ci4 扶持), to assist; _chap ch'i_ (zap1 ci4 執持), to hold in the hand; _ts'o ch'i_ (cou1 ci4 操持), to do with energy; _ch'i fat_ (ci4 faat3 持法) to maintain the law. 【持】 (dri) (_verb-like_) to hold"
 }
 },
 "池":{
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+6C60 (F1.38 池) 池沼 (Page 11* 池) A tank, a pool, a pond (Kangxi: 治也...停水曰池); a ditch, a fosse (Kangxi: 城塹曰溝池); stagnant water; _~~sheng~~ shing ch'i_ (sing4 ci4 城池), a moat; _chung ch'i_ (zung1 ci4 中池), the heart; _in ch'i_ (jin6 ci4 硯池), a water-cup for writing; _tsau ch'i yuk lam_ (zau2 ci4 juk6 lam4 酒池肉林), a wine tank and meat-grove, _i. e._ plenty; _ch'a ch'i_ (caa1 ci4 差池), a mirage pool, a take-in, a mistake; _ch'i t'ong_ (ci4 tong4 池塘) or _u ch'i_ (jyu4 ci4 魚池), a fish-pool. Williams' 城池: Changed _sheng_ (seng4) to literary reading _shing_ (sing4). Williams' 酒池肉林: Originally used to describe the excesses of 紂王. A surname (Kangxi: 姓). 【池】 (drje) (_noun-like_) pool"
+"text":"U+6C60 (F1.38 池) 池沼 (Page 11* #6: 池) A tank, a pool, a pond (Kangxi: 治也...停水曰池); a ditch, a fosse (Kangxi: 城塹曰溝池); stagnant water; _~~sheng~~ shing ch'i_ (sing4 ci4 城池), a moat; _chung ch'i_ (zung1 ci4 中池), the heart; _in ch'i_ (jin6 ci4 硯池), a water-cup for writing; _tsau ch'i yuk lam_ (zau2 ci4 juk6 lam4 酒池肉林), a wine tank and meat-grove, _i. e._ plenty; _ch'a ch'i_ (caa1 ci4 差池), a mirage pool, a take-in, a mistake; _ch'i t'ong_ (ci4 tong4 池塘) or _u ch'i_ (jyu4 ci4 魚池), a fish-pool. Williams' 城池: Changed _sheng_ (seng4) to literary reading _shing_ (sing4). Williams' 酒池肉林: Originally used to describe the excesses of 紂王. A surname (Kangxi: 姓). 【池】 (drje) (_noun-like_) pool"
 }
 },
 "治":{
@@ -4120,7 +4120,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+7BEA 竾 筂 䶵 (F1.38 篪) 塤篪又樂器 (Page 11* 篪) A kind of bamboo flute, with seven holes (Kangxi: 管樂也, 周禮云篪七孔); the sound resembles the wailing of children (Kangxi: 篪啼也...如嬰兒啼聲); _ch'i hun_ (ci4 hyun1 篪壎), two instruments which chord; fraternal love. 【篪】 (drje) (_noun-like_) flute"
+"text":"U+7BEA 竾 筂 䶵 (F1.38 篪) 塤篪又樂器 (Page 11* #9: 篪) A kind of bamboo flute, with seven holes (Kangxi: 管樂也, 周禮云篪七孔); the sound resembles the wailing of children (Kangxi: 篪啼也...如嬰兒啼聲); _ch'i hun_ (ci4 hyun1 篪壎), two instruments which chord; fraternal love. 【篪】 (drje) (_noun-like_) flute"
 }
 },
 "粢":{
@@ -4172,7 +4172,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+86B3 (F1.38 蚳) 姓 (Page 11* 蚳) Eggs or larva of ants (Kangxi: 蟻卵也). ~~One says, a bloodsucker.~~ 【蚳】 (drij) (_noun-like_) ant-egg"
+"text":"U+86B3 (F1.38 蚳) 姓 (Page 11* #5: 蚳) Eggs or larva of ants (Kangxi: 蟻卵也). ~~One says, a bloodsucker.~~ 【蚳】 (drij) (_noun-like_) ant-egg"
 }
 },
 "詞":{
@@ -4186,7 +4186,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+8E1F (F1.38 踟) 踟𨆼 (Page 11* 踟) Irresolute (Kangxi: 踟躕行不進也); _ch'i ch'u_ (ci4 cyu4 踟躕), undecided, embarrassed, going on and then returning. Williams' \"embarrassed\": In the (now) archaic sense of \"impeded\", \"obstructed\". 【踟】 (drje) Used in 踟躕. 【踟躕】 (drje drju) (_verb-like_) to walk about hesitatingly"
+"text":"U+8E1F (F1.38 踟) 踟𨆼 (Page 11* #10: 踟) Irresolute (Kangxi: 踟躕行不進也); _ch'i ch'u_ (ci4 cyu4 踟躕), undecided, embarrassed, going on and then returning. Williams' \"embarrassed\": In the (now) archaic sense of \"impeded\", \"obstructed\". 【踟】 (drje) Used in 踟躕. 【踟躕】 (drje drju) (_verb-like_) to walk about hesitatingly"
 }
 },
 "辞":{
@@ -4207,12 +4207,12 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+9072 赿 遅 遟 迟 (Mainland simplified) ci4-2 (rising second in vernacular 遲遲地) (F1.38 遲) 緩也又迎也又陵遲 (Page 11* 遲) Slow, dilatory (Kangxi: 徐行也); late, tardy; not urgent (Kangxi: 緩也, 緩而不迫也); to delay, to walk leisurely; to procrastinate; _loi tak ch'i_ (loi4 dak1 ci4 來得遲), came late; _ch'i sam yat tsau loi_ (ci4 saam1 jat6 zau6 loi4 遲三日就來), come in three days; _ch'i hiu_ (ci4 hiu1 遲嘵), you are late! _t'o ch'i_ (to5 ci4 ？遲), to put off continually; _kom ch'i_ (gam3 ci4 咁遲), so late! _fui han ch'i_ (fui3 han6 ci4 悔恨遲), unavailing repentance; _ch'i loi pat k'ap_ (ci4 loi4 bat1 kap6 遲來不及) you will be too late to reach the boat; _ch'i ha t'im_ (ci4 haa5 tim1 遲吓添) wait a little longer; _ch'i yat chan_ (ci4 jat1 zan6 遲一陣) wait a while; _ch'i 'm ch'i_ (ci4 m4 ci4 遲唔遲), will it be late? am I late? _ch'eung ngoi yat ch'i ch'i_ (coeng1 ngoi6 jat6 ci4 ci4 窗外日遲遲), the sun goes down slowly. 【遲-level】 (drij) (_adjective-like_) slow"
+"text":"U+9072 赿 遅 遟 迟 (Mainland simplified) ci4-2 (rising second in vernacular 遲遲地) (F1.38 遲) 緩也又迎也又陵遲 (Page 11* #3: 遲) Slow, dilatory (Kangxi: 徐行也); late, tardy; not urgent (Kangxi: 緩也, 緩而不迫也); to delay, to walk leisurely; to procrastinate; _loi tak ch'i_ (loi4 dak1 ci4 來得遲), came late; _ch'i sam yat tsau loi_ (ci4 saam1 jat6 zau6 loi4 遲三日就來), come in three days; _ch'i hiu_ (ci4 hiu1 遲嘵), you are late! _t'o ch'i_ (to5 ci4 ？遲), to put off continually; _kom ch'i_ (gam3 ci4 咁遲), so late! _fui han ch'i_ (fui3 han6 ci4 悔恨遲), unavailing repentance; _ch'i loi pat k'ap_ (ci4 loi4 bat1 kap6 遲來不及) you will be too late to reach the boat; _ch'i ha t'im_ (ci4 haa5 tim1 遲吓添) wait a little longer; _ch'i yat chan_ (ci4 jat1 zan6 遲一陣) wait a while; _ch'i 'm ch'i_ (ci4 m4 ci4 遲唔遲), will it be late? am I late? _ch'eung ngoi yat ch'i ch'i_ (coeng1 ngoi6 jat6 ci4 ci4 窗外日遲遲), the sun goes down slowly. 【遲-level】 (drij) (_adjective-like_) slow"
 },
 "zi6":{
 "isCanonical":true,
 "williams":"ch(i/)(6)",
-"text":"U+9072 遅 遟 迟 (Mainland simplified) (Page 11* 遲 _Ch'i_ (ci4); here corrected to _Chi_ (zi6)) to wait for (Kangxi: 待也); 【遲-departing】 (drijH) (_verb-like_) to await"
+"text":"U+9072 遅 遟 迟 (Mainland simplified) (Page 11* #3: 遲 _Ch'i_ (ci4); here corrected to _Chi_ (zi6)) to wait for (Kangxi: 待也); 【遲-departing】 (drijH) (_verb-like_) to await"
 }
 },
 "餈":{
@@ -4226,7 +4226,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ch(')(i/)",
-"text":"U+99B3 䮈 驰 (Mainland simplified) (F1.38 馳) 馳驅又馳騖 (Page 11* 馳) To gallop, to ride fast (Kangxi: 走奔也, 馳騖也疾驅也), as a courier; ~~a fleet horse;~~ to go fast; fast; far, spread abroad; _ch'i to_ (ci4 dou6 馳道) the middle road for the emperor; _ngoi mo fan ch'i_ (ngoi6 mou6 fan1 ci4 外騖分馳), harrassed with cares; _ch'i ma_ (ci4 maa5 馳馬), to gallop a horse; _ch'i yik_ (ci4 jik6 馳驛) to ride post; _ch'i k'u_ (ci4 keoi1 馳驅), to ride fast. 【馳】 (drje) (_verb-like_) to gallop, to speed"
+"text":"U+99B3 䮈 驰 (Mainland simplified) (F1.38 馳) 馳驅又馳騖 (Page 11* #7: 馳) To gallop, to ride fast (Kangxi: 走奔也, 馳騖也疾驅也), as a courier; ~~a fleet horse;~~ to go fast; fast; far, spread abroad; _ch'i to_ (ci4 dou6 馳道) the middle road for the emperor; _ngoi mo fan ch'i_ (ngoi6 mou6 fan1 ci4 外騖分馳), harrassed with cares; _ch'i ma_ (ci4 maa5 馳馬), to gallop a horse; _ch'i yik_ (ci4 jik6 馳驛) to ride post; _ch'i k'u_ (ci4 keoi1 馳驅), to ride fast. 【馳】 (drje) (_verb-like_) to gallop, to speed"
 }
 },
 "鶿":{
@@ -14841,7 +14841,7 @@
 "zi2":{
 "isCanonical":true,
 "williams":"(2)ch(i/)",
-"text":"U+5741 坻 (Page 11* 坻 _Ch'i_ (ci4); here corrected to _Chi_ (zi2) and normalised to 坁) to stop (Kangxi 坻: 止也)."
+"text":"U+5741 坻 (Page 11* #4: 坻 _Ch'i_ (ci4); here corrected to _Chi_ (zi2) and normalised to 坁) to stop (Kangxi 坻: 止也)."
 }
 },
 "姉":{
