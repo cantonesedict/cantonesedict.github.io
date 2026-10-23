@@ -119,7 +119,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (1)初]]
+  - [[Page~26* #4: (1)初]]
     ==
     - To cut out garments [[Kangxi: 裁衣之始也]];
     - to begin, to commence [[Kangxi: 始也]];
@@ -195,7 +195,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26* (1)唨]]
+  - [[Page~26* #5: (1)唨]]
     --
     A colloquial, final particle.
     --
@@ -459,7 +459,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (1)芻]]
+  - [[Page~26* #6: (1)芻]]
     ==
     - To cut grass [[Kangxi: 刈草也]];
     - hay, fodder, grass for animals [[Kangxi: 芻者飼牛馬之草, ::草[食]曰芻::]];
@@ -528,7 +528,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (4)雛 _(4)Ch(')o_ (co4); here normalised to _(1)Ch(')o_ (co1)]]
+  - [[Page~26* #7: (4)雛 _(4)Ch(')o_ (co4); here normalised to _(1)Ch(')o_ (co1)]]
     ==
     - A chick, a fledgeling [[Kangxi: 雞子也]];
     - the callow young of birds;
@@ -578,7 +578,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (2)憷]]
+  - [[Page~26* #10: (2)憷]]
     --
     [[Alternative form of 楚 (for the "pain/suffering" senses). **See $楚co2 for the canonical entry.**]]
     --
@@ -604,7 +604,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (2)楚]]
+  - [[Page~26* #9: (2)楚]]
     ==
     - A coppice, a bramble-bush, a thicket [[Kangxi: 叢木也]];
     - a clump of trees;
@@ -627,7 +627,7 @@ W
         [[fu2 co2 苦楚]],
         distressing, suffering.
     ==
-  - [[Page~26* (2)憷]]
+  - [[Page~26* #10: (2)憷]]
     --
     Interchanged with the last [[楚]], in the senses of painful, suffering [[Kangxi 憷: 通作楚]].
     --
@@ -686,7 +686,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26* ::(2)~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``::]]
+  - [[Page~26* #11: ::(2)~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``::]]
     ==
     - The stone base of a pillar or column [[Kangxi 礎: 柱下石, 礩也]];
     - a pedestal;
@@ -1035,7 +1035,7 @@ F
   ==
 W
   ====
-  - [[Page~26* ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
+  - [[Page~26* #8: ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
     --
     [[Alternative form of 鋤. **See $鋤co4 for the canonical entry.**]]
     --
@@ -1065,7 +1065,7 @@ F
   ==
 W
   ====
-  - [[Page~26* ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
+  - [[Page~26* #8: ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
     ==
     - A hoe, a mattoc [[Kangxi 鉏: 立薅所用也, 助也去穢助苗也]];
     - to hoe, to cultivate [[Kangxi 鉏: 治田也]];
@@ -1115,7 +1115,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (4)雛]]
+  - [[Page~26* #7: (4)雛]]
     --
     [[Reading variation. **See $雛co1 for the canonical entry.**]]
     --

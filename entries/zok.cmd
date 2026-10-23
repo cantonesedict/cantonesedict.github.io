@@ -415,7 +415,7 @@ F
   ==
 W
   ====
-  - [[Page~26* 濯(9)]]
+  - [[Page~26* #12: 濯(9)]]
     ==
     - To rinse, to wash [[Kangxi: {𤃬=⿰氵⿰龺⿱𠆢赤}也, 濯滌也, 濯漑也]];
     - fat [[Kangxi: 濯濯肥也]], sleek, bright [[Kangxi: 光明也]];

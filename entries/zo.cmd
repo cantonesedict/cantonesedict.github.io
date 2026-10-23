@@ -193,7 +193,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (2)岨]]
+  - [[Page~26* #1: (2)岨]]
     --
     [[Alternative form of 岨 (for the "mountain-pass" sense). **See $阻zo2 for the canonical entry.**]]
     --
@@ -362,7 +362,7 @@ W
     --
     [[Otherwise, an alternative form of 咗 (Cantonese). **See $咗zo2 for the canonical entry.**]]
     --
-  - [[Page~26* (2)岨]]
+  - [[Page~26* #1: (2)岨]]
     --
     Used instead of the last [[阻]].
     --
@@ -522,11 +522,11 @@ F
   ==
 W
   ====
-  - [[Page~26* before 詛(3)]]
+  - [[Page~26*: before 詛(3)]]
     --
     This character [[詛]] is often called ~~_ch(u\)_ [[zoe]] or~~ _ch(u:)_ [[zyu]].
     --
-  - [[Page~26* 詛(3)]]
+  - [[Page~26* #2: 詛(3)]]
     ==
     - To curse, to imprecate [[Kangxi: 詶也, 呪詛]];
     - bad language, curses;
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~26* 助(6)]]
+  - [[Page~26* #3: 助(6)]]
     ==
     - To assist, to help [[Kangxi: 左也]];
     - strengthening, beneficial [[Kangxi: 益也]];

@@ -5482,6 +5482,118 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~26*
+    ,{#page-26*-entry-1} #1
+    ,{.williams} (2)岨
+    ,
+      <nav class="sideways">
+      ==
+      - ($岨zo2)
+      - $阻zo2
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-2} #2
+    ,{.williams} 詛(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $詛zo3
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-3} #3
+    ,{.williams} 助(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $助zo6
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-4} #4
+    ,{.williams} (1)初
+    ,
+      <nav class="sideways">
+      ==
+      - $初co1
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-5} #5
+    ,{.williams} (1)唨
+    ,
+      <nav class="sideways">
+      ==
+      - $唨co1
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-6} #6
+    ,{.williams} (1)芻
+    ,
+      <nav class="sideways">
+      ==
+      - $芻co1
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-7} #7
+    ,{.williams} (4)雛
+    ,
+      <nav class="sideways">
+      ==
+      - $雛co1, ($雛co4)
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-8} #8
+    ,{.williams} (5)鉏(5)鋤
+    ,
+      <nav class="sideways">
+      ==
+      - ($鉏co4)
+      - $鋤co4
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-9} #9
+    ,{.williams} (2)楚
+    ,
+      <nav class="sideways">
+      ==
+      - $楚co2
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-10} #10
+    ,{.williams} (2)憷
+    ,
+      <nav class="sideways">
+      ==
+      - ($憷co2)
+      - $楚co2
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-11} #11
+    ,{.williams} (2){？=⿰石⿱林⿱冖⿱一龰}
+    ,
+      <nav class="sideways">
+      ==
+      - $礎co2
+      ==
+      </nav>
+  //
+    ,{#page-26*-entry-12} #12
+    ,{.williams} 濯(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $濯zok6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
