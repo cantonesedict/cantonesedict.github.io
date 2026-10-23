@@ -4833,6 +4833,90 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~18*
+    ,{#page-18*-entry-1} #1
+    ,{.williams} (4)躔
+    ,
+      <nav class="sideways">
+      ==
+      - $躔cin4
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-2} #2
+    ,{.williams} (1)正
+    ,
+      <nav class="sideways">
+      ==
+      - $正zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-3} #3
+    ,{.williams} (1)征
+    ,
+      <nav class="sideways">
+      ==
+      - $征zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-4} #4
+    ,{.williams} (1)貞
+    ,
+      <nav class="sideways">
+      ==
+      - $貞zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-5} #5
+    ,{.williams} (1)偵
+    ,
+      <nav class="sideways">
+      ==
+      - $偵zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-6} #6
+    ,{.williams} (1)楨
+    ,
+      <nav class="sideways">
+      ==
+      - $楨zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-7} #7
+    ,{.williams} (1)禎
+    ,
+      <nav class="sideways">
+      ==
+      - $禎zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-8} #8
+    ,{.williams} (1)烝
+    ,
+      <nav class="sideways">
+      ==
+      - $烝zing1
+      - $蒸zing1
+      ==
+      </nav>
+  //
+    ,{#page-18*-entry-9} #9
+    ,{.williams} (1)蒸
+    ,
+      <nav class="sideways">
+      ==
+      - $烝zing1
+      - $蒸zing1, $蒸zing3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

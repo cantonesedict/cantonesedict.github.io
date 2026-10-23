@@ -783,7 +783,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (4)躔]]
+  - [[Page~18* #1: (4)躔]]
     ==
     - To tread [[Kangxi: 踐也]];
     - to follow in order [[Kangxi: 星之躔次星所履行也]];

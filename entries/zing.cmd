@@ -92,7 +92,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)偵]]
+  - [[Page~18* #5: (1)偵]]
     ==
     - A spy (vulgo, _y(e/)(6) pat(7) ~~(4)shau~~ ``(1)shau``_ [[je6 bat1 sau1 夜不收]]),
       a scout;
@@ -131,7 +131,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)征]]
+  - [[Page~18* #3: (1)征]]
     ==
     - To go [[Kangxi: 行也]]``, to expedition``;
     - to take [[Kangxi: 征取也]];
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)楨]]
+  - [[Page~18* #6: (1)楨]]
     ==
     - ~~A kind of fir;~~
     - _(5)n(u:) (1)ching_
@@ -434,7 +434,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~18* (1)正]]
+  - [[Page~18* #2: (1)正]]
     ==
     - The first;
     - _(1)ching (u:)t(9)_
@@ -488,7 +488,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)烝]]
+  - [[Page~18* #8: (1)烝]]
     ==
     - [[...]];
     - a multitude, all [[Kangxi: 衆也]];
@@ -511,7 +511,7 @@ W
         to intrude one's self;
     - [[...]].
     ==
-  - [[Page~18* (1)蒸]]
+  - [[Page~18* #9: (1)蒸]]
     --
     Used for the last [[烝]] [[Kangxi 蒸: 通烝]].
     --
@@ -650,7 +650,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)禎]]
+  - [[Page~18* #7: (1)禎]]
     ==
     - A favourable omen [[Kangxi: 祥也]];
     - felicitous, lucky;
@@ -849,7 +849,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)烝; here normalised to 蒸]]
+  - [[Page~18* #8: (1)烝; here normalised to 蒸]]
     ==
     - A vapor made by heat, steam;
     - vapor, mist;
@@ -872,7 +872,7 @@ W
         [[zing1 ngo4-2 蒸鵝]]^
         a ~~boiled~~ ``steamed`` goose.
     ==
-  - [[Page~18* (1)蒸]]
+  - [[Page~18* #9: (1)蒸]]
     --
     [[...]]
     --
@@ -967,7 +967,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)貞]]
+  - [[Page~18* #4: (1)貞]]
     ==
     - To divine by shells [[Kangxi: 卜問也]];
     - chaste, virtuous;
@@ -1549,7 +1549,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~18* (1)蒸]]
+  - [[Page~18* #9: (1)蒸]]
     --
     [[...]]
     --
