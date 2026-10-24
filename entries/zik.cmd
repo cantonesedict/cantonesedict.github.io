@@ -452,7 +452,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 (1)漬]]
+  - [[Page~611 #11: (1)漬]]
     --
     Usually pronounced _tsik(7)_ [[zik1]].
     --

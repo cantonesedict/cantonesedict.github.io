@@ -16403,6 +16403,130 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~611
+    ,{#page-611-entry-1} #1
+    ,{.williams} (1)孶
+    ,
+      <nav class="sideways">
+      ==
+      - $孜zi1
+      - $孳zi1
+      - ($孶zi1)
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-2} #2
+    ,{.williams} (1)孜
+    ,
+      <nav class="sideways">
+      ==
+      - $孜zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-3} #3
+    ,{.williams} (1)胾
+    ,
+      <nav class="sideways">
+      ==
+      - ($胾zi1), $胾zi3
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-4} #4
+    ,{.williams} (1)淄
+    ,
+      <nav class="sideways">
+      ==
+      - $淄zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-5} #5
+    ,{.williams} (1)緇
+    ,
+      <nav class="sideways">
+      ==
+      - $緇zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-6} #6
+    ,{.williams} (1)甾(1)菑
+    ,
+      <nav class="sideways">
+      ==
+      - ($甾zi1)
+      - $菑zi1, $菑zi3
+      - $輜zi3
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-7} #7
+    ,{.williams} (1)輜
+    ,
+      <nav class="sideways">
+      ==
+      - $輜zi1, $輜zi3
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-8} #8
+    ,{.williams} (1)錙
+    ,
+      <nav class="sideways">
+      ==
+      - $錙zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-9} #9
+    ,{.williams} (1)貲
+    ,
+      <nav class="sideways">
+      ==
+      - $貲zi1
+      - $資zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-10} #10
+    ,{.williams} (1)資
+    ,
+      <nav class="sideways">
+      ==
+      - $資zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-11} #11
+    ,{.williams} (1)漬
+    ,
+      <nav class="sideways">
+      ==
+      - $漬zi3, $漬zik1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-12} #12
+    ,{.williams} (1)咨
+    ,
+      <nav class="sideways">
+      ==
+      - $咨zi1
+      ==
+      </nav>
+  //
+    ,{#page-611-entry-13} #13
+    ,{.williams} (1)諮
+    ,
+      <nav class="sideways">
+      ==
+      - $咨zi1
+      - ($諮zi1)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

@@ -277,7 +277,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)咨]]
+  - [[Page~611 #12: (1)咨]]
     ==
     - To deliberate, to plan, to consult [[Kangxi: 謀事曰咨, 咨謀也]];
     - to state or ask in writing;
@@ -294,7 +294,7 @@ W
         [[ji4 zi1 移咨]]
         to send a dispatch.
     ==
-  - [[Page~611 (1)諮]]
+  - [[Page~611 #13: (1)諮]]
     --
     Used for the last [[咨]] [[Kangxi 諮: 與咨同]].
     --
@@ -364,14 +364,14 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)孶]]
+  - [[Page~611 #1: (1)孶]]
     ==
     - [[...]];
     - unwearied, repeated, diligent,
       in which it is the same as the next [[孜]] [[Kangxi 孳: 與孜同]];
     - [[...]].
     ==
-  - [[Page~611 (1)孜]]
+  - [[Page~611 #2: (1)孜]]
     ==
     - Unceasing, unwearied effort, untiring diligence [[Kangxi: 一曰力篤愛也勤也]];
     - self-denying attachment;
@@ -406,7 +406,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)孶; here normalised to 孳]]
+  - [[Page~611 #1: (1)孶; here normalised to 孳]]
     ==
     - To bear, to produce [[Kangxi 孳: 孳息也]];
     - to suckle, to nourish, said of animals;
@@ -451,7 +451,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)孶]]
+  - [[Page~611 #1: (1)孶]]
     --
     [[Alternative form of 孳. **See $孳zi1 for the canonical entry.**]]
     --
@@ -693,7 +693,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)淄]]
+  - [[Page~611 #4: (1)淄]]
     ==
     - A river in the northeast of Sh(a/)ntung [[山東]] [[Kangxi: 水名]] flowing into the sea;
     - _(1)Tsz' (1)ch(')(u:)n_
@@ -790,7 +790,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 (1)甾(1)菑]]
+  - [[Page~611 #6: (1)甾(1)菑]]
     --
     [[Alternative form of 淄. **See $淄zi1 for the canonical entry.**]]
     --
@@ -1000,7 +1000,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 (1)緇]]
+  - [[Page~611 #5: (1)緇]]
     ==
     - Dark colored silk [[Kangxi: 帛黑色, 緇謂之皁]], dyed many times [[Kangxi: 七入爲緇, 緅又復再染以黑乃成緇矣]];
     - the dark color of a sediment [[Kangxi: 緇滓也泥緇黑色者曰滓此色然也]];
@@ -1116,7 +1116,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)胾]]
+  - [[Page~611 #3: (1)胾]]
     --
     [[Reading variation. **See $胾zi3 for the canonical entry.**]]
     --
@@ -1295,7 +1295,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)甾(1)菑]]
+  - [[Page~611 #6: (1)甾(1)菑]]
     ==
     - ~~Waste, untilled land, overgrown, jungly [[Kangxi 菑: 不耕田也]];~~
     - to clear new or waste land;
@@ -1558,7 +1558,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)諮]]
+  - [[Page~611 #13: (1)諮]]
     --
     [[Alternative form of 咨 (for the "consultation" senses). **See $咨zi1 for the canonical entry.**]]
     --
@@ -1587,7 +1587,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)貲]]
+  - [[Page~611 #9: (1)貲]]
     ==
     - A fine paid to redeem one's self [[Kangxi: 小罰以財自贖也]];
     - riches, goods, wealth [[Kangxi: 財也貨也]];
@@ -1630,14 +1630,14 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)貲]]
+  - [[Page~611 #9: (1)貲]]
     --
     [[...]]
     --
     --
     Used for the next [[資]].
     --
-  - [[Page~611 (1)資]]
+  - [[Page~611 #10: (1)資]]
     ==
     - Property, riches, things of value [[Kangxi: 貨也]];
     - necessaries, articles wanted;
@@ -1767,7 +1767,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)輜]]
+  - [[Page~611 #7: (1)輜]]
     ==
     - [[...]];
     - ~~treasure wagons, or such as carry arms and spoil;~~
@@ -1809,7 +1809,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)錙]]
+  - [[Page~611 #8: (1)錙]]
     ==
     - A weight equal to six _(1)ch(u:)_ [[zyu1]] 銖 [[Kangxi: 六銖也]]
       or the fourth part of a tael [[両]],
@@ -4123,7 +4123,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 (1)漬 _(1)Tsz'_ (zi1); here corrected to _Tsz'(3)_ (zi3)]]
+  - [[Page~611 #11: (1)漬 _(1)Tsz'_ (zi1); here corrected to _Tsz'(3)_ (zi3)]]
     --
     ~~Usually pronounced _tsik(7)_ [[zik1]].~~
     --
@@ -4389,7 +4389,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)胾 _(1)Tsz'_ (zi1); here normalised to _Ch(i/)(3)_ (zi3)]]
+  - [[Page~611 #3: (1)胾 _(1)Tsz'_ (zi1); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
     - To cut up meat into steaks or morsels for eating [[Kangxi: 大臠也, 切肉曰胾]];
     - slices, steaks, bits of meat.
@@ -4611,7 +4611,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ and _Tsz'(3)_ (zi3)]]
+  - [[Page~611 #6: ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ and _Tsz'(3)_ (zi3)]]
     ==
     - [[...]];
     - to cut, to rend [[Kangxi 菑: 剖也裂也]];
@@ -4959,14 +4959,14 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
+  - [[Page~611 #6: ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
     --
     [[...]]
     --
     --
     Occurs used for the next [[輜]].
     --
-  - [[Page~611 (1)輜 _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
+  - [[Page~611 #7: (1)輜 _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
     ==
     - ~~End of the axle within~~ ``Spokes going into`` the nave [[Kangxi: 車輻入牙曰輜, 與葘通, 葘謂輻入轂中者也]];
     - [[...]].
