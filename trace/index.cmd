@@ -8941,6 +8941,117 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~56
+    ,{#page-56-entry-1} #1
+    ,{.williams} (1){𮎰=⿱艹㠩}
+    ,
+      <nav class="sideways">
+      ==
+      - $荒fong1
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-2} #2
+    ,{.williams} (1)慌
+    ,
+      <nav class="sideways">
+      ==
+      - $慌fong1, $慌fong2
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-3} #3
+    ,{.williams} (1)衁
+    ,
+      <nav class="sideways">
+      ==
+      - $衁fong1
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-4} #4
+    ,{.williams} (1)盲
+    ,
+      <nav class="sideways">
+      ==
+      - $肓fong1
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-5} #5
+    ,{.williams} (4)房
+    ,
+      <nav class="sideways">
+      ==
+      - $房fong4
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-6} #6
+    ,{.williams} (4)防
+    ,
+      <nav class="sideways">
+      ==
+      - $防fong4
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-7} #7
+    ,{.williams} (4)魴
+    ,
+      <nav class="sideways">
+      ==
+      - $魴fong4
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-8} #8
+    ,{.williams} (2)倣
+    ,
+      <nav class="sideways">
+      ==
+      - $仿fong2
+      - ($倣fong2)
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-9} #9
+    ,{.williams} (2)彷(2)髣
+    ,
+      <nav class="sideways">
+      ==
+      - $彷fong2
+      - ($髣fong2)
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-10} #10
+    ,{.williams} (2)紡
+    ,
+      <nav class="sideways">
+      ==
+      - $紡fong2
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-11} #11
+    ,{.williams} (2)昉
+    ,
+      <nav class="sideways">
+      ==
+      - $昉fong2
+      ==
+      </nav>
+  //
+    ,{#page-56-entry-12} #12
+    ,{.williams} (2)訪
+    ,
+      <nav class="sideways">
+      ==
+      - $訪fong2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

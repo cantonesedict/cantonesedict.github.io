@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1)慌]]
+  - [[Page~56 #2: (1)慌]]
     ==
     - Fluttered, perturbed, apprehensive, nervous;
     - [[...]];
@@ -394,7 +394,7 @@ F
   ==
 W
   ====
-  - [[Page~56 ::(1)~~盲~~``肓``::]]
+  - [[Page~56 #4: ::(1)~~盲~~``肓``::]]
     ==
     - A part of the thorax ~~above the heart [[Kangxi 肓: 心上鬲下也]]~~ ``below the heart and above the diaphragm``;
     - the vitals.
@@ -503,7 +503,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1){𮎰=⿱艹㠩}; here normalised to 荒]]
+  - [[Page~56 #1: (1){𮎰=⿱艹㠩}; here normalised to 荒]]
     ==
     - Waste, wild [[Kangxi 荒: 蕪也]], barren, deserted, unproductive;
     - distant [[Fan Wan 荒: 遠也]];
@@ -581,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1)衁]]
+  - [[Page~56 #3: (1)衁]]
     ==
     - Blood ~~above the heart~~ [[Kangxi: 血也]].
     ==
@@ -693,7 +693,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)倣; here normalised to 仿]]
+  - [[Page~56 #8: (2)倣; here normalised to 仿]]
     ==
     - To imitate [[Kangxi 倣: 傚也依也通作仿]];
     - like;
@@ -748,7 +748,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)倣]]
+  - [[Page~56 #8: (2)倣]]
     --
     [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]]
     --
@@ -807,7 +807,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)彷(2)髣]]
+  - [[Page~56 #9: (2)彷(2)髣]]
     ==
     - Like, resembling [[Kangxi 彷: 彷彿也]], ~~seen indistinctly [[Kangxi 彷: 彷彿見不審也]]~~;
     - seeming, ~~dreamy~~;
@@ -959,7 +959,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1)慌 _(1)Fong_ (fong1); here corrected to _(2)Fong_ (fong2)]]
+  - [[Page~56 #2: (1)慌 _(1)Fong_ (fong1); here corrected to _(2)Fong_ (fong2)]]
     ==
     - [[...]];
     - obscure``, confused`` [[Kangxi: 昬也]];
@@ -1026,7 +1026,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)昉]]
+  - [[Page~56 #11: (2)昉]]
     ==
     - The first light of the morning [[Fan Wan: 初明也]];
     - ~~clear, bright [[Kangxi: 明也]];~~
@@ -1111,7 +1111,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)紡]]
+  - [[Page~56 #10: (2)紡]]
     ==
     - To spin, to twist into thread, to twine [[Kangxi: 績紡, 謂紡切麻絲之屬爲纑縷也]];
     - lines, threads;
@@ -1222,7 +1222,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)訪]]
+  - [[Page~56 #12: (2)訪]]
     ==
     - To inquire ``extensively``, to search out, to inform one's self [[Kangxi: 汎謀曰訪 etc., 問也]];
     - to ask advice of;
@@ -1332,7 +1332,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)彷(2)髣]]
+  - [[Page~56 #9: (2)彷(2)髣]]
     --
     [[Alternative form of 彷. **See $彷fong2 for the canonical entry.**]]
     --
@@ -1727,7 +1727,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (4)房]]
+  - [[Page~56 #5: (4)房]]
     ==
     - A room, a chamber, a dwelling;
     - an office;
@@ -1827,7 +1827,7 @@ W
     - to guard, to impede;
     - [[...]].
     ==
-  - [[Page~56 (4)防]]
+  - [[Page~56 #6: (4)防]]
     ==
     - A bank, a levee, a dyke [[Kangxi: 隄也]];
     - a defense [[Kangxi: 鄣也, 防禦也]];
@@ -1882,7 +1882,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (4)魴]]
+  - [[Page~56 #7: (4)魴]]
     ==
     - A kind of bream, a foot long, common at Canton;
     - the tail is red [[Kangxi: 赤尾魚]],
