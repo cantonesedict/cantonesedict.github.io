@@ -128,7 +128,7 @@ F
   ==
 W
   ====
-  - [[Page~569 勣(7)]]
+  - [[Page~569 #3: 勣(7)]]
     ==
     - Merit, praiseworthy acts [[Kangxi: 功也]];
     - meritorious deeds, conduct worthy of reward.
@@ -341,7 +341,7 @@ F
   ==
 W
   ====
-  - [[Page~569 ::嘖(7)~~賾(7)~~::]]
+  - [[Page~569 #6: ::嘖(7)~~賾(7)~~::]]
     --
     [[Reading variation. **See $嘖zaak3 for the canonical entry.**]]
     --
@@ -429,7 +429,7 @@ F
   ==
 W
   ====
-  - [[Page~569 幘(7)]]
+  - [[Page~569 #8: 幘(7)]]
     ==
     - A turban or cloth wound around the head [[Kangxi: 髮有巾曰幘 etc.]];
     - a kerchief used instead of a cap.
@@ -493,7 +493,7 @@ F
   ==
 W
   ====
-  - [[Page~569 ::~~{？=⿳田儿又}~~``畟``(7)::]]
+  - [[Page~569 #10: ::~~{？=⿳田儿又}~~``畟``(7)::]]
     ==
     - ~~A~~ sharp ~~agricultural instrument~~ like a mattoc [[Kangxi 畟: 治稼畟畟進也, 畟畟耜也, 言嚴利]];
     - ~~to attend to husbandry.~~
@@ -538,7 +538,7 @@ F
   ==
 W
   ====
-  - [[Page~569 磧(7)]]
+  - [[Page~569 #9: 磧(7)]]
     ==
     - Rocks under water, half-tide rocks, a stony bottom [[Kangxi: 水陼有石者]];
     - covered with sand and stones.
@@ -563,7 +563,7 @@ F
   ==
 W
   ====
-  - [[Page~569 稷(7)]]
+  - [[Page~569 #11: 稷(7)]]
     ==
     - Panicled millet _(Milium)_, one of the five grains [[Kangxi: {𪗉=⿵齊禾}也五穀之長]];
     - quick, rapid [[Kangxi: 疾也]];
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~569 積(7)]]
+  - [[Page~569 #5: 積(7)]]
     ==
     - To gather, to hoard up, to accumulate [[Kangxi: 聚也]], to store [[Kangxi: 聚也儲蓄也]];
     - to increase, to add to, to pile upon [[Kangxi: 累也]];
@@ -681,14 +681,14 @@ F
   ==
 W
   ====
-  - [[Page~569 勣(7)]]
+  - [[Page~569 #3: 勣(7)]]
     --
     [[...]]
     --
     --
     Interchanged with the next [[績]] [[Kangxi 勣: 通作績]].
     --
-  - [[Page~569 績(7)]]
+  - [[Page~569 #4: 績(7)]]
     ==
     - To twist hempen threads [[Kangxi: 緝也]] on the knee;
     - ~~to split hempen fibres;~~
@@ -898,7 +898,7 @@ F
   ==
 W
   ====
-  - [[Page~569 迹(7)跡(7)蹟(7)]]
+  - [[Page~569 #7: 迹(7)跡(7)蹟(7)]]
     ==
     - A trace, a foot-mark, a foot-step [[Kangxi 迹: 步處也, 足跡也]];
     - vestiges, effects, consequences, signs [[Kangxi 迹: 凡有形可見者皆曰迹]];
@@ -962,7 +962,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~569 踖(7)]]
+  - [[Page~569 #12: 踖(7)]]
     ==
     - To stride [[Kangxi: 長脛行也]];
     - to straddle or step over ``or step on`` a thing [[Kangxi: 踖猶躐也, 踐也]];
@@ -1018,7 +1018,7 @@ F
   ==
 W
   ====
-  - [[Page~569 迹(7)跡(7)蹟(7)]]
+  - [[Page~569 #7: 迹(7)跡(7)蹟(7)]]
     --
     [[Alternative form of 跡. **See $跡zik1 for the canonical entry.**]]
     --
@@ -1040,7 +1040,7 @@ F
   ==
 W
   ====
-  - [[Page~569 迹(7)跡(7)蹟(7)]]
+  - [[Page~569 #7: 迹(7)跡(7)蹟(7)]]
     --
     [[Alternative form of 跡. **See $跡zik1 for the canonical entry.**]]
     --
@@ -1170,7 +1170,7 @@ F
   ==
 W
   ====
-  - [[Page~569 脊(8)]]
+  - [[Page~569 #13: 脊(8)]]
     --
     [[Reading variation. **See $脊zek3 for the canonical entry.**]]
     --
@@ -1195,7 +1195,7 @@ F
   ==
 W
   ====
-  - [[Page~569 蹐(8)]]
+  - [[Page~569 #1: 蹐(8)]]
     --
     [[Reading variation. **See $蹐zek3 for the canonical entry.**]]
     --
@@ -1243,7 +1243,7 @@ F
   ==
 W
   ====
-  - [[Page~569 鶺(8)]]
+  - [[Page~569 #2: 鶺(8)]]
     --
     [[Reading variation. **See $鶺zek3 for the canonical entry.**]]
     --
@@ -2059,7 +2059,7 @@ F
   ==
 W
   ====
-  - [[Page~569 before 脊(8)]]
+  - [[Page~569: before 脊(8)]]
     --
     (This [[脊]] and the next [[席, here corrected to 蓆]]
     are often read _tsek_ [[zek]].)

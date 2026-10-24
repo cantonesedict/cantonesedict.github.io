@@ -12837,6 +12837,127 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~569
+    ,{#page-569-entry-1} #1
+    ,{.williams} 蹐(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($蹐zik3)
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-2} #2
+    ,{.williams} 鶺(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($鶺zik3)
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-3} #3
+    ,{.williams} 勣(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $勣zik1
+      - $績zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-4} #4
+    ,{.williams} 績(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $績zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-5} #5
+    ,{.williams} 積(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $積zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-6} #6
+    ,{.williams} 嘖(7)賾(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($嘖zik1)
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-7} #7
+    ,{.williams} 迹(7)跡(7)蹟(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $跡zik1
+      - ($蹟zik1)
+      - ($迹zik1)
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-8} #8
+    ,{.williams} 幘(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $幘zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-9} #9
+    ,{.williams} 磧(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $磧zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-10} #10
+    ,{.williams} {？=⿳田儿又}(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $畟zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-11} #11
+    ,{.williams} 稷(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $稷zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-12} #12
+    ,{.williams} 踖(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $踖zik1
+      ==
+      </nav>
+  //
+    ,{#page-569-entry-13} #13
+    ,{.williams} 脊(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($脊zik3)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
