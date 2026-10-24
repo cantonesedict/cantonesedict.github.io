@@ -90,7 +90,7 @@ F
   ==
 W
   ====
-  - [[Page~592 作(8)]]
+  - [[Page~592 #2: 作(8)]]
     ==
     - To act, to do, to make [[Kangxi: 爲也]];
     - to begin [[Kangxi: 始也]], to discover, to invent [[Kangxi: 造也]];
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~592 怍(9)]]
+  - [[Page~592 #4: 怍(9)]]
     ==
     - Ashamed [[Kangxi: 慚也]], disconcerted, out of countenance [[Kangxi: 顏色變也, 色不和曰怍]];
     - to blush, to redden;
@@ -333,7 +333,7 @@ F
   ==
 W
   ====
-  - [[Page~592 昨(9)]]
+  - [[Page~592 #3: 昨(9)]]
     ==
     - Yesterday [[Kangxi: 累日也, 昨日隔一宵也]];
     - time past;
@@ -382,7 +382,7 @@ F
   ==
 W
   ====
-  - [[Page~592 柞(9)]]
+  - [[Page~592 #5: 柞(9)]]
     ==
     - A ~~spinous~~ tree of firm wood,
       whose new leaves appear as the old ones fall [[Kangxi: 柞堅韌之木新葉將生故葉乃落]];
@@ -491,7 +491,7 @@ F
   ==
 W
   ====
-  - [[Page~592 酢(9)]]
+  - [[Page~592 #6: 酢(9)]]
     ==
     - To pledge a host, to return health [[Kangxi: 客酌主人也, 酬酢]];
     - to recompense, to return a compliment [[Kangxi: 酢報也]].
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~592 鑿(9)]]
+  - [[Page~592 #7: 鑿(9)]]
     ==
     - A chissel, a punch [[Kangxi: 鏨也, 鑿所以穿木也]];
     - a cold chissel;

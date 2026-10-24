@@ -70,7 +70,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~592 錯(8); here normalised to 剒]]
+  - [[Page~592 #8: 錯(8); here normalised to 剒]]
     --
     [[...]]
     --
@@ -199,7 +199,7 @@ W
     - To cut or work stones [[Kangxi: 治玉石曰錯]];
     - [[...]].
     ==
-  - [[Page~592 錯(8)]]
+  - [[Page~592 #8: 錯(8)]]
     ==
     - To ~~wash~~ ``inlay`` or plate with gold [[Kangxi: 金涂也]];
     - the stripes, striæ, streaks, &c., in stones or fabrics [[Kangxi: 錯衡文衡也]];

@@ -408,7 +408,7 @@ W
     - Like the last [[窄]] [[Kangxi 笮: 狹也廹也]];
     - [[...]].
     ==
-  - [[Page~592 柞(9); here normalised to 窄]]
+  - [[Page~592 #5: 柞(9); here normalised to 窄]]
     --
     [[...]]
     --

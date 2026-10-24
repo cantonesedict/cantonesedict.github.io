@@ -690,7 +690,7 @@ F
   ==
 W
   ====
-  - [[Page~592 賽(3)]]
+  - [[Page~592 #1: 賽(3)]]
     ==
     - To recompense, to thank [[Kangxi: 報也]];
     - to strive to surpass, to contest for, to emulate, to match;

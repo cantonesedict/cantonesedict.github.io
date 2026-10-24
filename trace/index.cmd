@@ -14733,6 +14733,81 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~592
+    ,{#page-592-entry-1} #1
+    ,{.williams} 賽(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $賽coi3
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-2} #2
+    ,{.williams} 作(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $作zok3
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-3} #3
+    ,{.williams} 昨(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $昨zok6
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-4} #4
+    ,{.williams} 怍(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $怍zok6
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-5} #5
+    ,{.williams} 柞(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $窄zaak3
+      - $柞zok6
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-6} #6
+    ,{.williams} 酢(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $酢zok6
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-7} #7
+    ,{.williams} 鑿(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $鑿zok6
+      ==
+      </nav>
+  //
+    ,{#page-592-entry-8} #8
+    ,{.williams} 錯(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $剒cok3
+      - $錯cok3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
