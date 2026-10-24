@@ -14298,6 +14298,89 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~586
+    ,{#page-586-entry-1} #1
+    ,{.williams} (1)操
+    ,
+      <nav class="sideways">
+      ==
+      - $操cou1, $操cou3
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-2} #2
+    ,{.williams} (1)粗(1)麤
+    ,
+      <nav class="sideways">
+      ==
+      - $粗cou1
+      - $麤cou1
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-3} #3
+    ,{.williams} (4)徂
+    ,
+      <nav class="sideways">
+      ==
+      - $徂cou4
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-4} #4
+    ,{.williams} (4)殂
+    ,
+      <nav class="sideways">
+      ==
+      - $殂cou4
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-5} #5
+    ,{.williams} (4)曹
+    ,
+      <nav class="sideways">
+      ==
+      - $曹cou4
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-6} #6
+    ,{.williams} (4){？=⿰口⿱曲曰}
+    ,
+      <nav class="sideways">
+      ==
+      - $嘈cou4
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-7} #7
+    ,{.williams} (4)槽
+    ,
+      <nav class="sideways">
+      ==
+      - $槽cou4
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-8} #8
+    ,{.williams} (4)漕
+    ,
+      <nav class="sideways">
+      ==
+      - $漕cou4
+      ==
+      </nav>
+  //
+    ,{#page-586-entry-9} #9
+    ,{.williams} (4)艚
+    ,
+      <nav class="sideways">
+      ==
+      - $艚cou4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

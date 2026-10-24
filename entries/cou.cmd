@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (1)操]]
+  - [[Page~586 #1: (1)操]]
     ==
     - To take, to hold, to grasp [[Kangxi: 把持也]];
     - to manage;
@@ -138,7 +138,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (1)粗(1)麤]]
+  - [[Page~586 #2: (1)粗(1)麤]]
     ==
     - Coarse [[Kangxi 粗: 略也疏也]], uncleaned, dirty, as rice just thrashed;
     - large, open, coarse [[Kangxi 粗: ::大也[...]物不精也::]];
@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (1)粗(1)麤]]
+  - [[Page~586 #2: (1)粗(1)麤]]
     --
     [[...]]
     --
@@ -610,7 +610,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~586 (1)操 _(1)Ts(')(o\)_ (cou1); here normalised to _Ts(')(o\)(3)_ (cou3)]]
+  - [[Page~586 #1: (1)操 _(1)Ts(')(o\)_ (cou1); here normalised to _Ts(')(o\)(3)_ (cou3)]]
     ==
     - [[...]];
     - a purpose, a design, self-imposed rule [[Kangxi: 所守也持念也, 所執持之志行也]];
@@ -1073,7 +1073,7 @@ F
   ==
 W
   ====
-  - [[Page~586 ::(4)~~{？=⿰口⿱曲曰}~~``嘈``::]]
+  - [[Page~586 #6: ::(4)~~{？=⿰口⿱曲曰}~~``嘈``::]]
     ==
     - Noise, clamor, hubbub [[Kangxi 嘈: 聲也]];
     - an outcry [[Kangxi 嘈: 喧嘈]];
@@ -1128,7 +1128,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (4)徂]]
+  - [[Page~586 #3: (4)徂]]
     ==
     - To go up;
     - to proceed, to travel [[Kangxi: 往也]];
@@ -1167,7 +1167,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (4)曹]]
+  - [[Page~586 #5: (4)曹]]
     ==
     - ~~A sort of revising judge~~;
     - ~~a judge of appeals;~~
@@ -1232,7 +1232,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (4)槽]]
+  - [[Page~586 #7: (4)槽]]
     ==
     - A trough, a log channeled out, a manger [[Kangxi: 畜獸之食器]];
     - a vat, a tub for spirits [[Kangxi: 酒槽酒坊也]];
@@ -1274,7 +1274,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (4)殂]]
+  - [[Page~586 #4: (4)殂]]
     ==
     - To die [[Kangxi: 往死也]];
     - ~~dead;~~
@@ -1310,7 +1310,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (4)漕]]
+  - [[Page~586 #8: (4)漕]]
     ==
     - A mill-race, a sluice through which water runs [[Kangxi: ::水轉[穀]也::]];
     - ~~a gulf, a gorge;~~
@@ -1344,7 +1344,7 @@ F
   ==
 W
   ====
-  - [[Page~586 (4)艚]]
+  - [[Page~586 #9: (4)艚]]
     ==
     - A junk, a smack [[Kangxi: 小船也]];
     - _p(a/)k(9) (4)ts(')(o\) (4)sh(u:)n_
