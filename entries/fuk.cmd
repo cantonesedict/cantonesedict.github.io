@@ -710,7 +710,7 @@ F
   ==
 W
   ====
-  - [[Page~64 馥(7)]]
+  - [[Page~64 #1: 馥(7)]]
     ==
     - Fragrance, odors diffused around [[Kangxi: 香氣芬馥]];
     - _~~(1)fau~~ ``(1)fan`` fuk(7)_
@@ -764,7 +764,7 @@ F
   ==
 W
   ====
-  - [[Page~64 伏(9)]]
+  - [[Page~64 #4: 伏(9)]]
     ==
     - To lie or fall prostrate;
     - to humble, to subject, to oppress;
@@ -839,7 +839,7 @@ F
   ==
 W
   ====
-  - [[Page~64 伏(9); here normalised to 匐]]
+  - [[Page~64 #4: 伏(9); here normalised to 匐]]
     ==
     - [[...]];
     - _(4)p(')(o\) fuk(9)_
@@ -847,7 +847,7 @@ W
         to go on the hands and knees, humbly;
     - [[...]].
     ==
-  - [[Page~64 匐(9) _P(a/)k(9)_ (baak6)]]
+  - [[Page~351 #3: 匐(9) _P(a/)k(9)_ (baak6)]]
     ==
     - To fall prostrate [[Kangxi: 伏地也]];
     - _(4)p(')(o\) p(a/)k(9)_
@@ -898,7 +898,7 @@ F
   ==
 W
   ====
-  - [[Page~64 復(9)]]
+  - [[Page~64 #3: 復(9)]]
     ==
     - Again, reiterated, to do the second time [[Kangxi: 又也, 再也]];
     - to return [[Kangxi: 返也, 復還也]], to reply [[Kangxi: 答也]];
@@ -969,7 +969,7 @@ F
   ==
 W
   ====
-  - [[Page~64 服(9)]]
+  - [[Page~64 #2: 服(9)]]
     ==
     - To use [[Kangxi: 用也]] (as a boat);
     - to wait on, to serve;
@@ -1020,7 +1020,7 @@ W
     --
     [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]]
     --
-  - [[Page~64 伏(9); here normalised to 服]]
+  - [[Page~64 #4: 伏(9); here normalised to 服]]
     ==
     - [[...]];
     - _(1)sh(u:) fuk(9)_
@@ -1081,7 +1081,7 @@ F
   ==
 W
   ====
-  - [[Page~64 茯(9)]]
+  - [[Page~64 #6: 茯(9)]]
     ==
     - China-root _(Smilax ~~China~~ ``glabra``)_
       called _fuk(9) (4)ling_ [[fuk6 ling4 茯苓]]_;_
@@ -1115,7 +1115,7 @@ F
   ==
 W
   ====
-  - [[Page~64 袱(9)]]
+  - [[Page~64 #5: 袱(9)]]
     ==
     - A square cloth wrapper,
       called _(1)p(a/)u fuk(9)_ [[baau1 fuk6 包袱]]^;

@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~64 (1)寛]]
+  - [[Page~64 #7: (1)寛]]
     --
     [[Alternative form of 寬. **See $寬fun1 for the canonical entry.**]]
     --
@@ -96,7 +96,7 @@ F
   ==
 W
   ====
-  - [[Page~64 (1)寛; here normalised to 寬]]
+  - [[Page~64 #7: (1)寛; here normalised to 寬]]
     ==
     - Large, spacious [[Kangxi 寬: 屋寬大也]], wide, ample [[Kangxi 寬: 裕也]], broad;
     - forgiving [[Kangxi 寬: 宥也]], easy [[Kangxi 寬: 舒也]], benignant, clement [[Kangxi 寬: 不猛也]]~~.~~``,`` kind, indulgent;
@@ -204,7 +204,7 @@ F
   ==
 W
   ====
-  - [[Page~64 (1)歡]]
+  - [[Page~64 #8: (1)歡]]
     ==
     - Joyous, jocund, glad, frolicsome, gleeful, merry [[Kangxi: 喜樂也]];
     - to rejoice [[Kangxi: 喜動聲氣故从欠]];
