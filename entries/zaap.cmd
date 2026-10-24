@@ -444,7 +444,7 @@ F
   ==
 W
   ====
-  - [[Page~558 習(9)]]
+  - [[Page~558 #6: 習(9)]]
     ==
     - ~~A continued flight~~ ``Flight by repetition`` [[Kangxi: 數飛也]];
     - to repeat the same act, to practice,
@@ -548,7 +548,7 @@ F
   ==
 W
   ====
-  - [[Page~558 雜(9)襍(9)]]
+  - [[Page~558 #3: 雜(9)襍(9)]]
     --
     [[Alternative form of 雜. **See $雜zaap6 for the canonical entry.**]]
     --
@@ -577,7 +577,7 @@ F
   ==
 W
   ====
-  - [[Page~558 襲(9)]]
+  - [[Page~558 #5: 襲(9)]]
     ==
     - Double garments [[Kangxi: 重衣也]]~~, lined robes, a court dress~~;
     - a suit;
@@ -795,7 +795,7 @@ F
   ==
 W
   ====
-  - [[Page~558 集(9)]]
+  - [[Page~558 #4: 集(9)]]
     ==
     - To flock together ``on a tree`` [[Kangxi: 本作雧羣鳥在木上也]];
     - to gather, as clouds;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~558 雜(9)襍(9)]]
+  - [[Page~558 #3: 雜(9)襍(9)]]
     ==
     - A mixture of different colors [[Kangxi 雜: 五彩相合也]] or ingredients;
     - particolored, streaked;

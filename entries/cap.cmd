@@ -250,7 +250,7 @@ F
   ==
 W
   ====
-  - [[Page~558 葺(7)]]
+  - [[Page~558 #2: 葺(7)]]
     ==
     - To put in order, to repair [[Kangxi: 修補也]];
     - to cover, to thatch [[Kangxi: 覆也, 苫也]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~558 輯(7)]]
+  - [[Page~558 #1: 輯(7)]]
     ==
     - To collect the materials to form a chariot, a car well arranged [[Kangxi: 車和輯也 etc.]];
     - union, concord, agreement [[Kangxi: 和也, 睦也]];
