@@ -1860,7 +1860,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 中(3)]]
+  - [[Page~40* #2: 中(3)]]
     ==
     - To hit the centre [[Kangxi: 矢至的曰中]];
     - struck by [[Kangxi: 著其中曰中]];
@@ -1962,7 +1962,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 衆(3); here normalised to 眾]]
+  - [[Page~40* #1: 衆(3); here normalised to 眾]]
     ==
     - A multitude [[Kangxi 眾: 多也]], a concourse of at least three [[Kangxi 眾: 國語三人爲眾數成於三也]];
     - ~~a quorum, a majority;~~
@@ -2292,7 +2292,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 衆(3)]]
+  - [[Page~40* #1: 衆(3)]]
     --
     [[Alternative form of 眾. **See $眾zung3 for the canonical entry.**]]
     --
@@ -2310,7 +2310,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40* (1)衷 _(1)Ch(')ung_ (cung1); here corrected to _Chung(3)_ (zung3)]]
+  - [[Page~40* #11: (1)衷 _(1)Ch(')ung_ (cung1); here corrected to _Chung(3)_ (zung3)]]
     ==
     - [[...]];
     - [[...]], equity;
@@ -2362,7 +2362,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 仲(6)]]
+  - [[Page~40* #3: 仲(6)]]
     ==
     - The second of three [[Kangxi: 仲中也位在中也]];
     - the second born of brothers;
@@ -2617,7 +2617,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 重(6)]]
+  - [[Page~40* #4: 重(6)]]
     ==
     - [[...]];
     - momentous [[Kangxi: ::毛氏曰[...]因其可重而重之與再重鄭重皆去聲::]];

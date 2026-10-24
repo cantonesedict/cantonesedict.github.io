@@ -7031,6 +7031,107 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~40*
+    ,{#page-40*-entry-1} #1
+    ,{.williams} 衆(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $眾zung3
+      - ($衆zung3)
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-2} #2
+    ,{.williams} 中(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $中zung3
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-3} #3
+    ,{.williams} 仲(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $仲zung6
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-4} #4
+    ,{.williams} 重(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $重cung5, $重zung6
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-5} #5
+    ,{.williams} (1)充(1){𠑽=⿱亠兄}
+    ,
+      <nav class="sideways">
+      ==
+      - $充cung1
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-6} #6
+    ,{.williams} (1)㤝
+    ,
+      <nav class="sideways">
+      ==
+      - $㤝cung1
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-7} #7
+    ,{.williams} (1)涌
+    ,
+      <nav class="sideways">
+      ==
+      - $涌cung1
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-8} #8
+    ,{.williams} (1)忡
+    ,
+      <nav class="sideways">
+      ==
+      - $忡cung1
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-9} #9
+    ,{.williams} (1)种
+    ,
+      <nav class="sideways">
+      ==
+      - $种cung4
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-10} #10
+    ,{.williams} (1)翀
+    ,
+      <nav class="sideways">
+      ==
+      - $翀cung1
+      ==
+      </nav>
+  //
+    ,{#page-40*-entry-11} #11
+    ,{.williams} (1)衷
+    ,
+      <nav class="sideways">
+      ==
+      - $衷cung1, $衷zung3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

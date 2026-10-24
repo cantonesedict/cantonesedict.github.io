@@ -99,7 +99,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)充(1){𠑽=⿱亠兄}]]
+  - [[Page~40* #5: (1)充(1){𠑽=⿱亠兄}]]
     ==
     - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]]~~, to extend~~;
     - to carry out, to continue [[Kangxi 充: 行也滿也]];
@@ -221,7 +221,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40* (1)忡]]
+  - [[Page~40* #8: (1)忡]]
     ==
     - Sorrowful, grieved [[Kangxi: 憂也]];
     - _(1)ch(')ung (1)ch(')ung_
@@ -283,7 +283,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)㤝]]
+  - [[Page~40* #6: (1)㤝]]
     ==
     - The mind ~~much~~ moved [[Kangxi: 心動也]];
     - perturbed, agitated.
@@ -489,7 +489,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)涌]]
+  - [[Page~40* #7: (1)涌]]
     ==
     - A creek, a side stream coming into a river;
     - _(1)ch(')ung k(a/)u(3)_
@@ -668,7 +668,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)翀]]
+  - [[Page~40* #10: (1)翀]]
     ==
     - To fly up [[Kangxi: 直上飛也]];
     - to ascend to the clouds;
@@ -943,7 +943,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)衷]]
+  - [[Page~40* #11: (1)衷]]
     ==
     - Inner garments [[Kangxi: 裏褻衣也]];
     - the heart;
@@ -1791,7 +1791,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)种 _(1)Ch(')ung_ (cung1); here corrected to _(4)Ch(')ung_ (cung4)]]
+  - [[Page~40* #9: (1)种 _(1)Ch(')ung_ (cung1); here corrected to _(4)Ch(')ung_ (cung4)]]
     ==
     - Young grain [[Kangxi: 稚也]];
     - delicate, tender;
@@ -2011,7 +2011,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40* 重(6) _Chung(6)_ (zung6); here corrected to _(5)Ch(')ung_ (cung5)]]
+  - [[Page~40* #4: 重(6) _Chung(6)_ (zung6); here corrected to _(5)Ch(')ung_ (cung5)]]
     ==
     - Heavy, weighty [[Kangxi: 毛氏曰凡物不輕而重則上聲]];
     - [[...]];
