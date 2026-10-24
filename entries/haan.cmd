@@ -733,7 +733,7 @@ W
     ==
     - The threshold of a door [[Kangxi {𨵬=⿵門限}: 門{𨵬=⿵門限}也本作限俗加門作{𨵬=⿵門限}]].
     ==
-  - [[Page~716 閬(6)]]
+  - [[Page~716 #4: 閬(6)]]
     ==
     - Should be changed to {𨵬=⿵門限};
     - the first [[閬]] is read _(4)long_ [[long4]].

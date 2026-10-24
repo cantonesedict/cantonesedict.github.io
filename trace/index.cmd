@@ -17491,13 +17491,76 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    ,{r=1} Page~716
+    ,{r=8} Page~716
+    ,{#page-716-entry-1} #1
+    ,{.williams} (1)㗇
+    ,
+      <nav class="sideways">
+      ==
+      - $㗇haa1
+      ==
+      </nav>
+  //
+    ,{#page-716-entry-2} #2
+    ,{.williams} (4)蕸
+    ,
+      <nav class="sideways">
+      ==
+      - $蕸haa4
+      ==
+      </nav>
+  //
+    ,{#page-716-entry-3} #3
+    ,{.williams} (4)鹹
+    ,
+      <nav class="sideways">
+      ==
+      - $鹹haam4
+      ==
+      </nav>
+  //
+    ,{#page-716-entry-4} #4
+    ,{.williams} 閬(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $限haan6
+      ==
+      </nav>
+  //
+    ,{#page-716-entry-5} #5
+    ,{.williams} (1)脝
+    ,
+      <nav class="sideways">
+      ==
+      - $脝hang1
+      ==
+      </nav>
+  //
+    ,{#page-716-entry-6} #6
+    ,{.williams} (4)行
+    ,
+      <nav class="sideways">
+      ==
+      - $行hang4
+      ==
+      </nav>
+  //
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
     ,
       <nav class="sideways">
       ==
       - $洽ap1
+      ==
+      </nav>
+  //
+    ,{#page-716-entry-13} #13
+    ,{.williams} (1)蹊
+    ,
+      <nav class="sideways">
+      ==
+      - $徯hai4
       ==
       </nav>
   //

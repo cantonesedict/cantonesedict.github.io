@@ -225,7 +225,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~716 (1)脝]]
+  - [[Page~716 #5: (1)脝]]
     ==
     - A puffed belly [[Kangxi: 膨脝脹也, 膨脝腹滿貌]];
     - _(4)p(')(a/)ng (1)hang_
@@ -715,7 +715,7 @@ W
         to thunder.
         <## TODO: 行雷 under $雷leoi4 with example 行雷閃電 ##>
     ==
-  - [[Page~716 (4)行]]
+  - [[Page~716 #6: (4)行]]
     ==
     - Temporary, for the present;
     - _(4)hang (4)ying_

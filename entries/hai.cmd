@@ -273,7 +273,7 @@ W
     --
     [[Otherwise, an alternative form of 蹊. **See $蹊hai4 for the canonical entry.**]]
     --
-  - [[Page~716 (1)蹊]]
+  - [[Page~716 #13: (1)蹊]]
     ==
     - Same as 徯 _(4)hai_ [[hai4]], [[...]].
     <## TODO: move under $蹊kei1

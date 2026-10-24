@@ -682,7 +682,7 @@ W
         [[haam4 tou4-2 鹹桃]],
         salted peaches.
     ==
-  - [[Page~716 (4)鹹]]
+  - [[Page~716 #3: (4)鹹]]
     ==
     - In a figurative sense, bitter, distressing, hard to bear;
     - _shau(6) kw(a/)n(3) (4)h(a/)m (2)f(u/)_

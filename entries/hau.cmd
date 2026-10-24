@@ -86,7 +86,7 @@ $$
 $$
 W
   ====
-  - [[Page~716 ^_Hau(3)_ (hau3); here assigned to 㖃]]
+  - [[Page~716 #10: ^_Hau(3)_ (hau3); here assigned to 㖃]]
     ==
     - A colloquial name for a weaver's reed or slaie.
     ==

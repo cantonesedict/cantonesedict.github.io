@@ -118,7 +118,7 @@ W
     --
     [[Otherwise, an alternative form of 蝦 (for the Cantonese "bully" sense). **See $蝦haa1 for the canonical entry.**]]
     --
-  - [[Page~716 (1)㗇]]
+  - [[Page~716 #1: (1)㗇]]
     ==
     - Is also a word of regret, an exclamation of dissatisfaction.
     ==
@@ -500,7 +500,7 @@ F
   ==
 W
   ====
-  - [[Page~716 (4)蕸]]
+  - [[Page~716 #2: (4)蕸]]
     ==
     - The leaves of the water lily [[Kangxi: 荷芙蕖, 其葉蕸]].
     ==

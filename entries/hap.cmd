@@ -73,7 +73,7 @@ W
     --
     [[...]]
     --
-  - [[Page~716 洽(9) _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
+  - [[Page~716 #8: 洽(9) _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
     --
     [[...]]
     --
