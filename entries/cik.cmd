@@ -176,7 +176,7 @@ F
   ==
 W
   ====
-  - [[Page~570 戚(7)]]
+  - [[Page~570 #9: 戚(7)]]
     ==
     - A sort of pole-ax [[Kangxi: 戉類, 戚斧也]];
     - to compassionate, to pity;

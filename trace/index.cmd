@@ -12958,6 +12958,89 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~570
+    ,{#page-570-entry-1} #1
+    ,{.williams} 席(9)
+    ,
+      <nav class="sideways">
+      ==
+      - ($蓆zek6), $蓆zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-2} #2
+    ,{.williams} 蓆(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $席zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-3} #3
+    ,{.williams} {？=⿱𥫗⿰耒⿱龷月}(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $籍zik6
+      - $藉zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-4} #4
+    ,{.williams} 藉(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $藉zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-5} #5
+    ,{.williams} 夕(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $夕zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-6} #6
+    ,{.williams} 汐(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $汐zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-7} #7
+    ,{.williams} 穸(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $穸zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-8} #8
+    ,{.williams} 寂(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $寂zik6
+      ==
+      </nav>
+  //
+    ,{#page-570-entry-9} #9
+    ,{.williams} 戚(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $戚cik1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

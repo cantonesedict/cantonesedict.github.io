@@ -736,7 +736,7 @@ F
   ==
 W
   ====
-  - [[Page~570 席(9) _Tsik(9)_ (zik6); _Tsek(9)_ (zek6) implied by variational note; here corrected to 蓆]]
+  - [[Page~570 #1: 席(9) _Tsik(9)_ (zik6); _Tsek(9)_ (zek6) implied by variational note; here corrected to 蓆]]
     --
     [[Reading variation (vernacular for the "mat" sense). **See $蓆zik6 for the canonical entry.**]]
     --

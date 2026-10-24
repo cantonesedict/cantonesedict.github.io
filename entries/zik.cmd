@@ -1445,7 +1445,7 @@ F
   ==
 W
   ====
-  - [[Page~570 夕(9)]]
+  - [[Page~570 #5: 夕(9)]]
     ==
     - Evening, dusk [[Kangxi: 晨之對暮也]];
     - late;
@@ -1492,7 +1492,7 @@ F
   ==
 W
   ====
-  - [[Page~570 寂(9)]]
+  - [[Page~570 #8: 寂(9)]]
     ==
     - Still, silent, as an uninhabited house [[Kangxi: 無人聲也]];
     - quiet, unmoved, like a recluse [[Kangxi: 靜也安也]];
@@ -1532,7 +1532,7 @@ F
   ==
 W
   ====
-  - [[Page~570 蓆(9); here corrected to 席]]
+  - [[Page~570 #2: 蓆(9); here corrected to 席]]
     ==
     - Mats [[Kangxi 席: 藉也, 牀席也, 薦席]];
     - a mat spread for eating on;
@@ -1740,7 +1740,7 @@ F
   ==
 W
   ====
-  - [[Page~570 汐(9)]]
+  - [[Page~570 #6: 汐(9)]]
     ==
     - The evening tide, high tide at sunset [[Kangxi: 海濤早曰潮夕曰汐]];
     - the name of a stream [[Kangxi: 水名]].
@@ -1957,7 +1957,7 @@ F
   ==
 W
   ====
-  - [[Page~570 穸(9)]]
+  - [[Page~570 #7: 穸(9)]]
     ==
     - Dark, obscure, as a winter night [[Kangxi: 窀厚也穸夜也言穴中厚暗如長夜也一曰長埋謂之窀長夜謂之穸]];
     - a vault;
@@ -1986,7 +1986,7 @@ F
   ==
 W
   ====
-  - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::]]
+  - [[Page~570 #3: ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::]]
     ==
     - A book for records [[Kangxi 籍: 書籍]]~~, a tablet~~;
     - a list, a register of the people [[Kangxi 籍: 戸籍]];
@@ -2064,7 +2064,7 @@ W
     (This [[脊]] and the next [[席, here corrected to 蓆]]
     are often read _tsek_ [[zek]].)
     --
-  - [[Page~570 席(9); here corrected to 蓆]]
+  - [[Page~570 #1: 席(9); here corrected to 蓆]]
     ==
     - Interchanged with the next [[here corrected to 席]], meaning a mat [[Kangxi 蓆: 與薦席之席通]];
     - ~~flowing;~~
@@ -2129,7 +2129,7 @@ F
   ==
 W
   ====
-  - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::; here normalised to 藉]]
+  - [[Page~570 #3: ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::; here normalised to 藉]]
     ==
     - [[...]];
     - _(4)long tsik(9)_
@@ -2137,7 +2137,7 @@ W
         notorious, infamous;
     - [[...]].
     ==
-  - [[Page~570 藉(9)]]
+  - [[Page~570 #4: 藉(9)]]
     ==
     - A mat on which things can be presented [[Kangxi: 祭藉也]];
     - to borrow;
