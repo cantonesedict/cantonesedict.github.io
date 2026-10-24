@@ -3766,7 +3766,7 @@
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ts(')z'",
-"text":"U+4F4C May appear with 止 having 3 strokes (+5) or 4 strokes (+6 assumed here), depending on the font. (F2.35 佌) 小也詩佌佌彼有屋 (Page 616 佌) Small, contracted, diminutive (Kangxi: 佌佌小也); _ts'z' ts'z' chi mat_ (ci2 ci2 zi1 mat6 佌佌之物) a very little thing. Fan Wan entry: Corrected 佌佊 to 佌佌彼. 【佌】 (tshjeX) (_adjective-like_) small, petty"
+"text":"U+4F4C May appear with 止 having 3 strokes (+5) or 4 strokes (+6 assumed here), depending on the font. (F2.35 佌) 小也詩佌佌彼有屋 (Page 616 #7: 佌) Small, contracted, diminutive (Kangxi: 佌佌小也); _ts'z' ts'z' chi mat_ (ci2 ci2 zi1 mat6 佌佌之物) a very little thing. Fan Wan entry: Corrected 佌佊 to 佌佌彼. 【佌】 (tshjeX) (_adjective-like_) small, petty"
 }
 },
 "侈":{
@@ -3825,19 +3825,19 @@
 "ci4":{
 "isCanonical":false,
 "williams":"(4)ts(')z'",
-"text":"U+67FF (F2.34 柿) 乾柿 (Page 616 柿)"
+"text":"U+67FF (F2.34 柿) 乾柿 (Page 616 #5: 柿)"
 },
 "ci5":{
 "isCanonical":true,
 "williams":"(5)ts(')z'",
-"text":"U+67FF 柹 ci4 (per Fan Wan) ci5-2 (vernacular rising-tone noun) (F2.34 柿 _Ts'z'_ (ci4)) 乾柿 (Page 616 柿 _Ts'z'_ (ci4); here normalised to _Ts'z'_ (ci5)) The persimmon, the Diospyrus or China fig; _kon ts'z'_ (gon1 ci5-2 乾柿) or _ts'z' peng_ (ci5-2 beng2 柿餅), dried persimmons or figs, prepared for exportation; _ngau sam ts'z'_ (ngau4 sam1 ci5-2 牛心柿) the large sort; _kai sam ts'z'_ (gai1 sam1 ci5-2 雞心柿) the small sort; _shui tsam ts'z'_ (seoi2 zam3 ci5-2 水浸柿) the yellow persimmon. Strictly, the pre-merger reading should be _ch'i_ per 《廣韻》鉏里切 for 𣐈. 【柿】 (dzriX) (_noun-like_) persimmon"
+"text":"U+67FF 柹 ci4 (per Fan Wan) ci5-2 (vernacular rising-tone noun) (F2.34 柿 _Ts'z'_ (ci4)) 乾柿 (Page 616 #5: 柿 _Ts'z'_ (ci4); here normalised to _Ts'z'_ (ci5)) The persimmon, the Diospyrus or China fig; _kon ts'z'_ (gon1 ci5-2 乾柿) or _ts'z' peng_ (ci5-2 beng2 柿餅), dried persimmons or figs, prepared for exportation; _ngau sam ts'z'_ (ngau4 sam1 ci5-2 牛心柿) the large sort; _kai sam ts'z'_ (gai1 sam1 ci5-2 雞心柿) the small sort; _shui tsam ts'z'_ (seoi2 zam3 ci5-2 水浸柿) the yellow persimmon. Strictly, the pre-merger reading should be _ch'i_ per 《廣韻》鉏里切 for 𣐈. 【柿】 (dzriX) (_noun-like_) persimmon"
 }
 },
 "此":{
 "ci2":{
 "isCanonical":true,
 "williams":"(2)ts(')z'",
-"text":"U+6B64 May appear with 止 having 3 strokes or 4 strokes (assumed here), depending on the font. (F2.35 此) 彼此斯也 (Page 616 此) A pronoun, this (Kangxi: 此者彼之對); here, now; this, the last spoken of; the thing in hand; _pi ts'z'_ (bei2 ci2 彼此) that, this; you, I; there, here; _u ts'z'_ (jyu4 ci2 如此) like this; _'m tsoi ts'z'_ (m4 zoi6 ci2 唔在此) not here; _i ts'z'_ (ji5 ci2 以此) by, or on this account; _ts'z' yan ts'z' tak_ (ci2 jan1 ci2 dak1 此恩此德) for this very kindness. Thus, then. 【此】 (tshjeX) (_determiner-like_) this"
+"text":"U+6B64 May appear with 止 having 3 strokes or 4 strokes (assumed here), depending on the font. (F2.35 此) 彼此斯也 (Page 616 #6: 此) A pronoun, this (Kangxi: 此者彼之對); here, now; this, the last spoken of; the thing in hand; _pi ts'z'_ (bei2 ci2 彼此) that, this; you, I; there, here; _u ts'z'_ (jyu4 ci2 如此) like this; _'m tsoi ts'z'_ (m4 zoi6 ci2 唔在此) not here; _i ts'z'_ (ji5 ci2 以此) by, or on this account; _ts'z' yan ts'z' tak_ (ci2 jan1 ci2 dak1 此恩此德) for this very kindness. Thus, then. 【此】 (tshjeX) (_determiner-like_) this"
 }
 },
 "矢":{
@@ -3872,7 +3872,7 @@
 "ci3":{
 "isCanonical":true,
 "williams":"ts(')z'(3)",
-"text":"U+4F7D (F2.35 佽) 便利也又比也助也 (Page 616 佽) Light, nimble, sprightly (Kangxi: 佽飛...輕疾若飛也); to help, to assist (Kangxi: 助也); ~~to compare;~~ for, instead (Kangxi: 代也遞也); _ts'z' cho_ (ci3 zo6 佽助) to aid. Fan Wan entry: Corrected headword 㐸 to 佽. Williams' \"to compare\": This is a misreading of Kangxi 比也, which explains 《詩小雅》決拾旣佽, with commentary 《註》利也謂相次然後射 and lesser-note 《鄭箋》謂指相次比也. In 次比, we have 比 in departing tone, meaning \"put beside\" or \"pack together\" (as in 鱗次櫛比 etc.). 【佽】 (tshijH) (_verb-like_) to help, to convenience"
+"text":"U+4F7D (F2.35 佽) 便利也又比也助也 (Page 616 #12: 佽) Light, nimble, sprightly (Kangxi: 佽飛...輕疾若飛也); to help, to assist (Kangxi: 助也); ~~to compare;~~ for, instead (Kangxi: 代也遞也); _ts'z' cho_ (ci3 zo6 佽助) to aid. Fan Wan entry: Corrected headword 㐸 to 佽. Williams' \"to compare\": This is a misreading of Kangxi 比也, which explains 《詩小雅》決拾旣佽, with commentary 《註》利也謂相次然後射 and lesser-note 《鄭箋》謂指相次比也. In 次比, we have 比 in departing tone, meaning \"put beside\" or \"pack together\" (as in 鱗次櫛比 etc.). 【佽】 (tshijH) (_verb-like_) to help, to convenience"
 }
 },
 "刺":{
@@ -3950,7 +3950,7 @@
 "ci3":{
 "isCanonical":true,
 "williams":"ts(')z'(3)",
-"text":"U+6B21 May appear as either ⿰二欠 (assumed here) or ⿰冫欠, depending on the font. This extends to all characters containing 次 as a component. (F2.35 次) 次第 (Page 616 次) Neither first nor best (Kangxi: 不前不精也); coming after, second in order, inferior, secondary; next, succeeding; to put in order (Kangxi: 位次); a halting-place, an encampment (Kangxi: 師止曰次, 安行旅之處爲旅次); a rest-house, an inn, a shed or stall (Kangxi: 凡舍皆曰次); a mansion (Kangxi: 次舍); a position, as of the stars (Kangxi: 星之躔舍爲次); a time, a place, a stated post; to halt, to reach (Kangxi: 至也); _ts'z' tai_ (ci3 dai6 次第) in order, regularly; _tsoi k'i ts'z'_ (zoi6 kei4 ci3 在其次) in that place; next in order; _t'au ts'z'_ (tau4 ci3 頭次) the first time; _ts'ang ts'ang ts'z' ts'z'_ (cang4 cang4 ci3 ci3 層層次次) rising gradually like a gallery; _ts'z' yat_ (ci3 jat6 次日) next day; _tso ts'z'_ (zou6 ci3 造次) flighty, flurried; _lui ts'z'_ (leoi5 ci3 屢次) repeatedly; _ts'z' ngan_ (ci3 ngan4 次銀), inferior silver; _wai ts'z'_ (wai6 ci3 位次) a seat, a position; _hak ts'z'_ (haak3 ci3 客次) a stranger's lodging, travelers' houses. The form ⿰冫欠 is compatibility ideograph U+2F8EF. 【次】 (tshijH) (_adjective-like_) next, second (_verb-like_) to come next (_noun-like_) sequence (_verb-like_) to camp, to lodge Used in 造次."
+"text":"U+6B21 May appear as either ⿰二欠 (assumed here) or ⿰冫欠, depending on the font. This extends to all characters containing 次 as a component. (F2.35 次) 次第 (Page 616 #11: 次) Neither first nor best (Kangxi: 不前不精也); coming after, second in order, inferior, secondary; next, succeeding; to put in order (Kangxi: 位次); a halting-place, an encampment (Kangxi: 師止曰次, 安行旅之處爲旅次); a rest-house, an inn, a shed or stall (Kangxi: 凡舍皆曰次); a mansion (Kangxi: 次舍); a position, as of the stars (Kangxi: 星之躔舍爲次); a time, a place, a stated post; to halt, to reach (Kangxi: 至也); _ts'z' tai_ (ci3 dai6 次第) in order, regularly; _tsoi k'i ts'z'_ (zoi6 kei4 ci3 在其次) in that place; next in order; _t'au ts'z'_ (tau4 ci3 頭次) the first time; _ts'ang ts'ang ts'z' ts'z'_ (cang4 cang4 ci3 ci3 層層次次) rising gradually like a gallery; _ts'z' yat_ (ci3 jat6 次日) next day; _tso ts'z'_ (zou6 ci3 造次) flighty, flurried; _lui ts'z'_ (leoi5 ci3 屢次) repeatedly; _ts'z' ngan_ (ci3 ngan4 次銀), inferior silver; _wai ts'z'_ (wai6 ci3 位次) a seat, a position; _hak ts'z'_ (haak3 ci3 客次) a stranger's lodging, travelers' houses. The form ⿰冫欠 is compatibility ideograph U+2F8EF. 【次】 (tshijH) (_adjective-like_) next, second (_verb-like_) to come next (_noun-like_) sequence (_verb-like_) to camp, to lodge Used in 造次."
 }
 },
 "熾":{
@@ -4146,14 +4146,14 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ts(')z'",
-"text":"U+81CD 齊 脐 (Mainland simplified) (F2.34 臍) 肚臍 (Page 616 臍) The navel (Kangxi: 肶臍也); ~~to cut off even;~~ _ts'z' tai_ (ci4 daai3-2 臍帶) the umbilical cord; _shai ts'z' mok k'ap_ (sai6 ci4 mok6 kap6 噬臍莫及) hard as for one to bite his own navel; _t'o ts'z'_ (tou5 ci4 肚臍) the navel; _nun ts'z' ko_ (nyun5 ci4 gou1 暖臍膏), a plaster to keep the navel warm. Williams' \"to cut off even\": This is a misreading of either Kangxi 劑也 (which means \"portion\") or Kangxi 通作齊 (which indicates that 臍 can be written 齊, not the other way round). 【臍】 (dzej) (_noun-like_) navel"
+"text":"U+81CD 齊 脐 (Mainland simplified) (F2.34 臍) 肚臍 (Page 616 #2: 臍) The navel (Kangxi: 肶臍也); ~~to cut off even;~~ _ts'z' tai_ (ci4 daai3-2 臍帶) the umbilical cord; _shai ts'z' mok k'ap_ (sai6 ci4 mok6 kap6 噬臍莫及) hard as for one to bite his own navel; _t'o ts'z'_ (tou5 ci4 肚臍) the navel; _nun ts'z' ko_ (nyun5 ci4 gou1 暖臍膏), a plaster to keep the navel warm. Williams' \"to cut off even\": This is a misreading of either Kangxi 劑也 (which means \"portion\") or Kangxi 通作齊 (which indicates that 臍 can be written 齊, not the other way round). 【臍】 (dzej) (_noun-like_) navel"
 }
 },
 "茨":{
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ts(')z'",
-"text":"U+8328 (F2.34 茨) 茨菰 (Page 616 茨) To thatch (Kangxi: 以茅蓋屋); grass on a wall; a spinous trailing plant with triangular seed (Kangxi: 蒺藜也); to collect (Kangxi: 積也聚也); _ts'z' ku_ (ci4 gu1 茨菰), the _Caladium sagittifolium_, a species of Arum. 【茨】 (dzij) (_verb-like_) to thatch (_noun-like_) puncture-vine"
+"text":"U+8328 (F2.34 茨) 茨菰 (Page 616 #3: 茨) To thatch (Kangxi: 以茅蓋屋); grass on a wall; a spinous trailing plant with triangular seed (Kangxi: 蒺藜也); to collect (Kangxi: 積也聚也); _ts'z' ku_ (ci4 gu1 茨菰), the _Caladium sagittifolium_, a species of Arum. 【茨】 (dzij) (_verb-like_) to thatch (_noun-like_) puncture-vine"
 }
 },
 "茲":{
@@ -4219,7 +4219,7 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ts(')z'",
-"text":"U+9908 粢 糍 䭣 (F2.34 餈) 飯餅 (Page 612 #2: 粢 _Tsz'_ (zi1); here corrected to _Ts'z'_ (ci4) and normalised to 餈) a cake of glutinous rice (Kangxi 粢: 稻餠與餈同). (Page 616 餈) Unleavened cakes; pancakes, or dumplings made of rice flour (Kangxi: 稻餠也); _yau ts'z'_ (jau4 ci4 油餈) cakes fried in fat; _ye ts'z'_ (je4 ci4 椰餈) cocoanut flour cakes. The alternative form 糍 is commonly used in the term 糯米糍 (see below). 【糯米糍】 (no6 mai5 ci4) Glutinous rice balls."
+"text":"U+9908 粢 糍 䭣 (F2.34 餈) 飯餅 (Page 612 #2: 粢 _Tsz'_ (zi1); here corrected to _Ts'z'_ (ci4) and normalised to 餈) a cake of glutinous rice (Kangxi 粢: 稻餠與餈同). (Page 616 #4: 餈) Unleavened cakes; pancakes, or dumplings made of rice flour (Kangxi: 稻餠也); _yau ts'z'_ (jau4 ci4 油餈) cakes fried in fat; _ye ts'z'_ (je4 ci4 椰餈) cocoanut flour cakes. The alternative form 糍 is commonly used in the term 糯米糍 (see below). 【糯米糍】 (no6 mai5 ci4) Glutinous rice balls."
 }
 },
 "馳":{
@@ -4233,35 +4233,35 @@
 "ci4":{
 "isCanonical":true,
 "williams":"(4)ts(')z'",
-"text":"U+9DBF May appear as either ⿱兹鳥 (+9 assumed here) or ⿱茲鳥 (+10), depending on the font. 鷀 鹚 (Mainland simplified) (F2.34 鷀) 鸕鷀水鳥 (Page 616 鷀; here normalised to 鶿) The fishing cormorant (Kangxi 鶿: 水鳥), the _Phalacrocorax;_ _lo ts'z'_ (lou4 ci4 鸕鶿) the cormorant, poetically called _shui lo a_ (seoi2 lou5 aa1 水老鴉), or the old water crow."
+"text":"U+9DBF May appear as either ⿱兹鳥 (+9 assumed here) or ⿱茲鳥 (+10), depending on the font. 鷀 鹚 (Mainland simplified) (F2.34 鷀) 鸕鷀水鳥 (Page 616 #1: 鷀; here normalised to 鶿) The fishing cormorant (Kangxi 鶿: 水鳥), the _Phalacrocorax;_ _lo ts'z'_ (lou4 ci4 鸕鶿) the cormorant, poetically called _shui lo a_ (seoi2 lou5 aa1 水老鴉), or the old water crow."
 }
 },
 "鷀":{
 "ci4":{
 "isCanonical":false,
 "williams":"(4)ts(')z'",
-"text":"U+9DC0 May appear as either ⿰兹鳥 (+9 assumed here) or ⿰茲鳥 (+10), depending on the font. (F2.34 鷀) 鸕鷀水鳥 (Page 616 鷀)"
+"text":"U+9DC0 May appear as either ⿰兹鳥 (+9 assumed here) or ⿰茲鳥 (+10), depending on the font. (F2.34 鷀) 鸕鷀水鳥 (Page 616 #1: 鷀)"
 }
 },
 "似":{
 "ci5":{
 "isCanonical":true,
 "williams":"(5)ts(')z'",
-"text":"U+4F3C 佀 ci5-2 (rising second in vernacular 似似地) (F2.35 似) 如也肖也 (Page 616 似) Like, similar; as, as if, as it were, appearing, resembling (Kangxi: 肖也); to appear, to have the aspect of; _ho ts'z'_ (hou2 ci5 好似) like; _ts'z' 'm ts'z'_ (ci5 m4 ci5 似唔似) is it like or not? _'m to ts'z'_ (m4 do1 ci5 唔多似) not very similar; _ts'z' tsuk ni_ (ci5 zuk1 nei5 似足你), just like you; _ts'z' shi i fi_ (ci5 si6 ji4 fei1 似是而非), somewhat of right, but still wrong; _yau shing ts'z' ngo tik_ (jau5 sing3 ci5 ngo5 dik1 有勝似我的) there are those superior to me; _yan yau seung ts'z'_ (jan4 jau5 soeng1 ci5 人有相似) they resemble each other. To continue (Kangxi: 嗣也). To present, to give (Kangxi: 况也奉也). 【似】 (ziX) (_verb-like_) to resemble (_conjunction-like_) like Cantonese prefers classical 似 over 像. 【似】 (ci5) To resemble, to be like. 似佢阿媽 (ci5 keoi5 aa3 maa1): \"She resembles her mum.\" 好似得咗 (hou2 ci5 dak1 zo2): \"Seems like it worked.\" 【似樣】 (ci5 joeng6-2) To resemble in appearance. 好似樣 (hou2 ci5 joeng6-2): \"They really look alike.\" To appear acceptable, to look the part. 噉似樣啲 (gam2 ci5 joeng6-2 di1): \"It looks more acceptable like this.\""
+"text":"U+4F3C 佀 ci5-2 (rising second in vernacular 似似地) (F2.35 似) 如也肖也 (Page 616 #8: 似) Like, similar; as, as if, as it were, appearing, resembling (Kangxi: 肖也); to appear, to have the aspect of; _ho ts'z'_ (hou2 ci5 好似) like; _ts'z' 'm ts'z'_ (ci5 m4 ci5 似唔似) is it like or not? _'m to ts'z'_ (m4 do1 ci5 唔多似) not very similar; _ts'z' tsuk ni_ (ci5 zuk1 nei5 似足你), just like you; _ts'z' shi i fi_ (ci5 si6 ji4 fei1 似是而非), somewhat of right, but still wrong; _yau shing ts'z' ngo tik_ (jau5 sing3 ci5 ngo5 dik1 有勝似我的) there are those superior to me; _yan yau seung ts'z'_ (jan4 jau5 soeng1 ci5 人有相似) they resemble each other. To continue (Kangxi: 嗣也). To present, to give (Kangxi: 况也奉也). 【似】 (ziX) (_verb-like_) to resemble (_conjunction-like_) like Cantonese prefers classical 似 over 像. 【似】 (ci5) To resemble, to be like. 似佢阿媽 (ci5 keoi5 aa3 maa1): \"She resembles her mum.\" 好似得咗 (hou2 ci5 dak1 zo2): \"Seems like it worked.\" 【似樣】 (ci5 joeng6-2) To resemble in appearance. 好似樣 (hou2 ci5 joeng6-2): \"They really look alike.\" To appear acceptable, to look the part. 噉似樣啲 (gam2 ci5 joeng6-2 di1): \"It looks more acceptable like this.\""
 }
 },
 "姒":{
 "ci5":{
 "isCanonical":true,
 "williams":"(5)ts(')z'",
-"text":"U+59D2 㚶 (F2.35 姒) 兄弟之妻相謂曰姒又文王之妃曰太姒 (Page 616 姒) An elder brother's wife; _ts'z' tai_ (ci5 dai6 姒娣) sisters-in-law; _ts'z' fu_ (ci5 fu5 姒婦), an old lady---a term used by the young."
+"text":"U+59D2 㚶 (F2.35 姒) 兄弟之妻相謂曰姒又文王之妃曰太姒 (Page 616 #9: 姒) An elder brother's wife; _ts'z' tai_ (ci5 dai6 姒娣) sisters-in-law; _ts'z' fu_ (ci5 fu5 姒婦), an old lady---a term used by the young."
 }
 },
 "汜":{
 "ci5":{
 "isCanonical":true,
 "williams":"(5)ts(')z'",
-"text":"U+6C5C 洍 (Page 616 汜) A stream leaving the main branch, and afterwards flowing into it again (Kangxi: 水別復入水也); _ts'z' shui_ (ci5 seoi2 汜水), a small river in Honan (河南) (Kangxi: 水名 etc.), west of K'aifung fu (開封府), having a town of the same name. Unflowing water (Kangxi: 一曰汜窮瀆也, 謂困窮不通之水瀆名汜也). 【汜】 (ziX) (_noun-like_) rejoining-water"
+"text":"U+6C5C 洍 (Page 616 #10: 汜) A stream leaving the main branch, and afterwards flowing into it again (Kangxi: 水別復入水也); _ts'z' shui_ (ci5 seoi2 汜水), a small river in Honan (河南) (Kangxi: 水名 etc.), west of K'aifung fu (開封府), having a town of the same name. Unflowing water (Kangxi: 一曰汜窮瀆也, 謂困窮不通之水瀆名汜也). 【汜】 (ziX) (_noun-like_) rejoining-water"
 }
 },
 "勅":{

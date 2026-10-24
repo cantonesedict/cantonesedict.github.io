@@ -858,7 +858,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (2)佌]]
+  - [[Page~616 #7: (2)佌]]
     ==
     - Small, contracted, diminutive [[Kangxi: 佌佌小也]];
     - _(2)ts(')z' (2)ts(')z' (1)ch(i/) mat(9)_
@@ -1205,7 +1205,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (2)此]]
+  - [[Page~616 #6: (2)此]]
     ==
     - A pronoun, this [[Kangxi: 此者彼之對]];
     - here, now;
@@ -1562,7 +1562,7 @@ F
   ==
 W
   ====
-  - [[Page~616 佽(3)]]
+  - [[Page~616 #12: 佽(3)]]
     ==
     - Light, nimble, sprightly [[Kangxi: ::佽飛[...]輕疾若飛也::]];
     - to help, to assist [[Kangxi: 助也]];
@@ -1929,7 +1929,7 @@ F
   ==
 W
   ====
-  - [[Page~616 次(3)]]
+  - [[Page~616 #11: 次(3)]]
     ==
     - Neither first nor best [[Kangxi: 不前不精也]];
     - coming after, second in order, inferior, secondary;
@@ -2660,7 +2660,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)柿]]
+  - [[Page~616 #5: (4)柿]]
     --
     [[Reading variation. **See $柿ci5 for the canonical entry.**]]
     --
@@ -3021,7 +3021,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)臍]]
+  - [[Page~616 #2: (4)臍]]
     ==
     - The navel [[Kangxi: 肶臍也]];
     - ~~to cut off even;~~
@@ -3068,7 +3068,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)茨]]
+  - [[Page~616 #3: (4)茨]]
     ==
     - To thatch [[Kangxi: 以茅蓋屋]];
     - grass on a wall;
@@ -3495,7 +3495,7 @@ W
     - [[...]];
     - a cake of glutinous rice [[Kangxi 粢: 稻餠與餈同]].
     ==
-  - [[Page~616 (4)餈]]
+  - [[Page~616 #4: (4)餈]]
     ==
     - Unleavened cakes;
     - pancakes, or dumplings made of rice flour [[Kangxi: 稻餠也]];
@@ -3593,7 +3593,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)鷀; here normalised to 鶿]]
+  - [[Page~616 #1: (4)鷀; here normalised to 鶿]]
     ==
     - The fishing cormorant [[Kangxi 鶿: 水鳥]], the _Phalacrocorax;_
     - _(4)l(o\) (4)ts(')z'_
@@ -3622,7 +3622,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)鷀]]
+  - [[Page~616 #1: (4)鷀]]
     --
     [[Alternative form of 鶿. **See $鶿ci4 for the canonical entry.**]]
     --
@@ -3664,7 +3664,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (5)似]]
+  - [[Page~616 #8: (5)似]]
     ==
     - Like, similar;
     - as, as if, as it were, appearing, resembling [[Kangxi: 肖也]];
@@ -3749,7 +3749,7 @@ F
   ==
 W
   ====
-  - [[Page~616 ::~~(2)姒~~``(5)姒``::]]
+  - [[Page~616 #9: ::~~(2)姒~~``(5)姒``::]]
     ==
     - An elder brother's wife;
     - _~~(2)ts(')z'~~ ``(5)ts(')z'`` tai(6)_
@@ -3784,7 +3784,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)柿 _(4)Ts(')z'_ (ci4); here normalised to  _(5)Ts(')z'_ (ci5)]]
+  - [[Page~616 #5: (4)柿 _(4)Ts(')z'_ (ci4); here normalised to  _(5)Ts(')z'_ (ci5)]]
     ==
     - The persimmon, the Diospyrus or China fig;
     - _(1)kon ~~(4)ts(')z'~~ ``(5)ts(')z'``_ [[gon1 ci5-2 乾柿]]
@@ -3836,7 +3836,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~616 (5)汜]]
+  - [[Page~616 #10: (5)汜]]
     ==
     - A stream leaving the main branch, and afterwards flowing into it again [[Kangxi: 水別復入水也]];
     - _(5)ts(')z' (2)shui_
