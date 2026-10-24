@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)樅]]
+  - [[Page~607 #4: (1)樅]]
     --
     [[Reading variation. **See $樅cung1 for the canonical entry.**]]
     --
@@ -988,7 +988,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)豵]]
+  - [[Page~607 #2: (1)豵]]
     ==
     - A pig six months or a year old [[Kangxi: 生六月豚一曰一歲豵尚叢聚也]];
     - ~~a pig,~~ a shote;
@@ -1290,7 +1290,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)鬃]]
+  - [[Page~607 #1: (1)鬃]]
     ==
     - A mane [[Kangxi: 馬鬃也或作騣]];
     - the ridge of bristles on the neck of hogs;
@@ -1328,7 +1328,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)鬷]]
+  - [[Page~607 #3: (1)鬷]]
     ==
     - A kind of boiler [[Kangxi: 釜屬也]];
     - ~~a run, a hank, as of hempen threads;~~
@@ -1516,7 +1516,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉]]
+  - [[Page~607 #5: (2)粽(2)糉]]
     --
     [[Reading variation (vernacular rising-tone noun). **See $粽zung3 for the canonical entry.**]]
     --
@@ -1541,7 +1541,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉]]
+  - [[Page~607 #5: (2)粽(2)糉]]
     --
     [[Alternative form of 粽, and reading variation. **See $粽zung3 for the canonical entry.**]]
     --
@@ -1616,7 +1616,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)總(2)搃]]
+  - [[Page~607 #6: (2)總(2)搃]]
     ==
     - To collect and tie up [[Kangxi 總: 聚束也]];
     - to unite the whole [[Kangxi 總: 合也]];
@@ -2116,7 +2116,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉 _(2)Tsung_ (zung2)]]
+  - [[Page~607 #5: (2)粽(2)糉 _(2)Tsung_ (zung2)]]
     ==
     - Dumplings made by boiling glutinous rice first soaked in weak lye,
       and then wrapped in leaves [[Kangxi 糉: 蘆葉裹米角黍也 etc.]],
@@ -2224,7 +2224,7 @@ F
   ==
 W
   ====
-  - [[Page~607 縱(3)]]
+  - [[Page~607 #7: 縱(3)]]
     ==
     - Remiss, careless;
     - ~~extravagant, as in speech;~~
@@ -2484,7 +2484,7 @@ F
   ==
 W
   ====
-  - [[Page~607 訟(6)]]
+  - [[Page~607 #8: 訟(6)]]
     ==
     - To contend before rulers;
     - to demand justice [[Kangxi: 上書爲人雪冤曰訟]];

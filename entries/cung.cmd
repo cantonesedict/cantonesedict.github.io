@@ -373,7 +373,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)樅 _(1)Tsung_ (zung1); here normalised to _(1)Ts(')ung_ (cung1)]]
+  - [[Page~607 #4: (1)樅 _(1)Tsung_ (zung1); here normalised to _(1)Ts(')ung_ (cung1)]]
     ==
     - A sort of tall thuja or yew [[Kangxi: 松葉柏身]],
       which furnishes timber [[Kangxi: 今太廟梁材用此]];

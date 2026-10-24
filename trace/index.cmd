@@ -16091,6 +16091,80 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~607
+    ,{#page-607-entry-1} #1
+    ,{.williams} (1)鬃
+    ,
+      <nav class="sideways">
+      ==
+      - $鬃zung1
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-2} #2
+    ,{.williams} (1)豵
+    ,
+      <nav class="sideways">
+      ==
+      - $豵zung1
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-3} #3
+    ,{.williams} (1)鬷
+    ,
+      <nav class="sideways">
+      ==
+      - $鬷zung1
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-4} #4
+    ,{.williams} (1)樅
+    ,
+      <nav class="sideways">
+      ==
+      - $樅cung1, $樅zung1
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-5} #5
+    ,{.williams} (2)粽(2)糉
+    ,
+      <nav class="sideways">
+      ==
+      - ($粽zung2), $粽zung3
+      - ($糉zung2)
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-6} #6
+    ,{.williams} (2)總(2)搃
+    ,
+      <nav class="sideways">
+      ==
+      - $總zung2
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-7} #7
+    ,{.williams} 縱(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $縱zung3
+      ==
+      </nav>
+  //
+    ,{#page-607-entry-8} #8
+    ,{.williams} 訟(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $訟zung6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
