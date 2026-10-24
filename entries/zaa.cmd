@@ -152,7 +152,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~547 (1)咱]]
+  - [[Page~547 #10: (1)咱]]
     --
     A colloquial word in the north;
     --

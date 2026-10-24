@@ -11038,6 +11038,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~547
+    ,{#page-547-entry-10} #10
+    ,{.williams} (1)咱
+    ,
+      <nav class="sideways">
+      ==
+      - $咱zaa1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
