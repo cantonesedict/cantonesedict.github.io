@@ -10350,6 +10350,135 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~69
+    ,{#page-69-entry-1} #1
+    ,{.williams} (1)揩
+    ,
+      <nav class="sideways">
+      ==
+      - $揩haai1
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-2} #2
+    ,{.williams} (4)諧
+    ,
+      <nav class="sideways">
+      ==
+      - $諧haai4
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-3} #3
+    ,{.williams} (4)鞋
+    ,
+      <nav class="sideways">
+      ==
+      - $鞋haai4
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-4} #4
+    ,{.williams} (4)嚡
+    ,
+      <nav class="sideways">
+      ==
+      - $嚡haai4
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-5} #5
+    ,{.williams} (5)蠏
+    ,
+      <nav class="sideways">
+      ==
+      - $蟹haai5
+      - ($蠏haai5)
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-6} #6
+    ,{.williams} (5)獬
+    ,
+      <nav class="sideways">
+      ==
+      - $獬haai5
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-7} #7
+    ,{.williams} (5)邂
+    ,
+      <nav class="sideways">
+      ==
+      - $邂haai5
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-8} #8
+    ,{.williams} 械(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $械haai6
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-9} #9
+    ,{.williams} 懈(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $懈haai6
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-10} #10
+    ,{.williams} 薤(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $薤haai6
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-11} #11
+    ,{.williams} 齘(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $齘haai6
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-12} #12
+    ,{.williams} 黑(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $黑hak1
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-13} #13
+    ,{.williams} 克(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $克hak1
+      - $剋hak1
+      ==
+      </nav>
+  //
+    ,{#page-69-entry-14} #14
+    ,{.williams} 赫(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $赫haak1, ($赫hak1)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

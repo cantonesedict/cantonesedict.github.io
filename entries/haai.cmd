@@ -62,7 +62,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (1)揩]]
+  - [[Page~69 #1: (1)揩]]
     ==
     - To rub, to wipe [[Kangxi: 摩拭也]];
     - _(1)h(a/)i (1)kon tseng(6)_
@@ -138,7 +138,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~69 (4)嚡]]
+  - [[Page~69 #4: (4)嚡]]
     ==
     - An exclamation of disappointment, Alas! Oh!
     - rough, hispid, harsh;
@@ -226,7 +226,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (4)諧]]
+  - [[Page~69 #2: (4)諧]]
     ==
     - To harmonize, to agree [[Kangxi: 詥也]];
     - to pair [[Kangxi: 耦也]];
@@ -286,7 +286,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (4)鞋]]
+  - [[Page~69 #3: (4)鞋]]
     ==
     - A shoe [[Kangxi: 鞋解也著時縮其上如履然解其上則舒解也, 本作鞵]];
     - _yat(7) t(u/)i(3) (4)h(a/)i_
@@ -398,7 +398,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (5)獬]]
+  - [[Page~69 #6: (5)獬]]
     ==
     - A fabulous animal, called _(5)h(a/)i ch(a/)i(6)_ [[haai5 zaai6 獬豸]] [[Kangxi: 獬豸也 etc.]]^,
       or ~~lion-unicorn~~ ``unicorn of understanding``;
@@ -441,7 +441,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (5)蠏; here normalised to 蟹]]
+  - [[Page~69 #5: (5)蠏; here normalised to 蟹]]
     ==
     - A crab [[Kangxi 蟹: 蟲名, 仄行蟹屬, 今人謂之旁蠏以其側行故也 etc.]];
     - _(5)h(a/)i (1)kang_
@@ -486,7 +486,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (5)蠏]]
+  - [[Page~69 #5: (5)蠏]]
     --
     [[Alternative form of 蟹. **See $蟹haai5 for the canonical entry.**]]
     --
@@ -545,7 +545,7 @@ F
   ==
 W
   ====
-  - [[Page~69 (5)邂]]
+  - [[Page~69 #7: (5)邂]]
     ==
     - Accidentally [[Kangxi: 邂逅不期而會也]], a pleasant hap;
     - _(5)h(a/)i hau(6)_
@@ -644,7 +644,7 @@ F
   ==
 W
   ====
-  - [[Page~69 懈(6)]]
+  - [[Page~69 #9: 懈(6)]]
     ==
     - Remiss, slow, negligent, inattentive [[Kangxi: 怠也, 又或作解]];
     - _h(a/)i(6) toi(6)_
@@ -689,7 +689,7 @@ F
   ==
 W
   ====
-  - [[Page~69 械(6)]]
+  - [[Page~69 #8: 械(6)]]
     ==
     - Military weapons, as spear, bow, &c. [[Kangxi: 一曰器之總名]];
     - shackles, fetters [[Kangxi: 一曰桎梏也]];
@@ -738,7 +738,7 @@ F
   ==
 W
   ====
-  - [[Page~69 薤(6)]]
+  - [[Page~69 #10: 薤(6)]]
     ==
     - Chives or onions [[Kangxi: 薤似韭之菜也]], not permitted to be eaten by people who fast.
     ==
@@ -836,7 +836,7 @@ F
   ==
 W
   ====
-  - [[Page~69 齘(6)]]
+  - [[Page~69 #11: 齘(6)]]
     ==
     - To gnash the teeth [[Kangxi: 齒相切也]], angry [[Kangxi: 䫴齘者切齒怒也 etc.]];
     - ~~plates in mail arranged like teeth.~~

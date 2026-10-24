@@ -83,7 +83,7 @@ F
   ==
 W
   ====
-  - [[Page~69 克(7)]]
+  - [[Page~69 #13: 克(7)]]
     ==
     - To sustain``, to carry`` [[Kangxi: 肩也]], adequate to [[Kangxi: 肩任也任者又負荷之名也能勝此物謂之克也, 克能也]];
     - superior to;
@@ -241,7 +241,7 @@ F
   ==
 W
   ====
-  - [[Page~69 克(7); here normalised to 剋]]
+  - [[Page~69 #13: 克(7); here normalised to 剋]]
     ==
     - [[...]];
     - overbearing;
@@ -299,7 +299,7 @@ F
   ==
 W
   ====
-  - [[Page~69 赫(7)]]
+  - [[Page~69 #14: 赫(7)]]
     --
     [[Reading variation. **See $赫haak1 for the canonical entry.**]]
     --
@@ -328,7 +328,7 @@ F
   ==
 W
   ====
-  - [[Page~69 黑(7)]]
+  - [[Page~69 #12: 黑(7)]]
     ==
     - Black [[Kangxi: 火所熏之色也, 北方隂色]], sooty;
     - dark, obscure [[Kangxi: 黑晦也如晦冥時色也]];

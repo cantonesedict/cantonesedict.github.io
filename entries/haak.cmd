@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~69 赫(7) _Hak(7)_ (hak1); here normalised to _H(a/)k(7)_ (haak1)]]
+  - [[Page~69 #14: 赫(7) _Hak(7)_ (hak1); here normalised to _H(a/)k(7)_ (haak1)]]
     ==
     - Bright ``red``, splendid, luminous, like a fire or the sun [[Kangxi: 火赤貌 etc., 赫赫然盛也, 赫顯也]];
     - angry [[Kangxi: 赫怒意]];
