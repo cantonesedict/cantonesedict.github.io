@@ -58,7 +58,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 under F(i/)t (fit); here assumed to be ^_F(i/)t(7)_ (fit1) and assigned to {𢞵=⿱飛必}]]
+  - [[Page~714 #6: ^_F(i/)t(7)_ (fit1) assumed; here assigned to {𢞵=⿱飛必}]]
     --
     A colloquial word.
     --

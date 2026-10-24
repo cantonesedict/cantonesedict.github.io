@@ -3656,7 +3656,7 @@ class WilliamsLocator:
     entry_marker: str
     entry_number: Optional[int]
     headword_run: str
-    unedited_headword_run: Optional[str]
+    unedited_headword_run: str
     clarification_run: str
     redirection_run: str
     content: str
@@ -3699,9 +3699,9 @@ class WilliamsLocator:
 
         if (
             not CHINESE_RUN_PATTERN.search(string=headword_run)
-            and any(verb in clarification_run for verb in ['exemplified', 'implied'])
+            and any(verb in clarification_run for verb in ['exemplified', 'assumed'])
         ):
-            unedited_headword_run = None
+            unedited_headword_run = ''
         else:
             unedited_headword_run = (
                 INSERTION_PATTERN.sub(repl='', string=headword_run)

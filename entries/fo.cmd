@@ -161,7 +161,7 @@ W
     --
     [[...]]
     --
-  - [[Page~714 (1)窠]]
+  - [[Page~714 #11: (1)窠]]
     ==
     - A hole [[Kangxi: 空也]];
     - a nest in the ground or a ~~cliff~~ ``cave``;

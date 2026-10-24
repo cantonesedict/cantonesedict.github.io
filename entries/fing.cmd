@@ -97,7 +97,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 ^_(1)Fing_ (fing1); here assigned to 揈]]
+  - [[Page~714 #8: ^_(1)Fing_ (fing1); here assigned to 揈]]
     --
     A colloquial word.
     --
@@ -173,7 +173,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 ^_Fing(3)_ (fing3); here assigned to 揈]]
+  - [[Page~714 #9: ^_Fing(3)_ (fing3); here assigned to 揈]]
     --
     A colloquial word.
     --
@@ -271,7 +271,7 @@ W
         [[fing6 lat1 揈甩]]
         shake it off.
     ==
-  - [[Page~714 ^_Fing(6)_ (fing6); here assigned to 揈]]
+  - [[Page~714 #10: ^_Fing(6)_ (fing6); here assigned to 揈]]
     --
     A colloquial word.
     --
@@ -284,7 +284,7 @@ W
         [[fing6 gwo3 lai4 揈過嚟]],
         yerk it (as the cue) forward.
     ==
-  - [[Page~714 after ^_Fing(6)_ (fing6)]]
+  - [[Page~714 after #10: ^_Fing(6)_ (fing6)]]
     ==
     - The character 捹, has no authority;
     - ~~it is read _pan(3)_ [[ban3]]_;_~~

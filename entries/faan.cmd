@@ -1977,7 +1977,7 @@ W
     - A beast's foot~~step~~ [[Kangxi 番: 獸足謂之番, 或作{𨆌=⿰𧾷煩}蹯]];
     - [[...]].
     ==
-  - [[Page~714 (4)蹯]]
+  - [[Page~714 #1: (4)蹯]]
     ==
     - A paw of a plantigrade animal [[Kangxi: 《說文》作番獸足也]], as a badger;
     - _(4)hung (4)f(a/)n_

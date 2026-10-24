@@ -67,7 +67,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 {𠱥=⿰口卉}(7)]]
+  - [[Page~714 #7: {𠱥=⿰口卉}(7)]]
     <####
     --
     Read _(i/)t(9)_ [[jit6]]_;_ <## TODO: ngot6 per 《集韻》ngat ##>

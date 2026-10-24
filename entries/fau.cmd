@@ -664,7 +664,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 {𧌓=⿰虫阜}(6); here normalised to 蛗]]
+  - [[Page~714 #3: {𧌓=⿰虫阜}(6); here normalised to 蛗]]
     ==
     - A kind of grasshopper or cricket;
     - _fau(6) (1)chung_
@@ -693,7 +693,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 {𧌓=⿰虫阜}(6)]]
+  - [[Page~714 #3: {𧌓=⿰虫阜}(6)]]
     --
     [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]]
     --

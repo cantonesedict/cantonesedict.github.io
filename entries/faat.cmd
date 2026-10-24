@@ -65,7 +65,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 沷(8)]]
+  - [[Page~714 #2: 沷(8)]]
     ==
     - Cold [[Kangxi: 寒也]];
     - to open sluices, to let water in over fields,

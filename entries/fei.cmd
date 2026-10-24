@@ -1100,7 +1100,7 @@ F
   ==
 W
   ====
-  - [[Page~714 (4)淝]]
+  - [[Page~714 #4: (4)淝]]
     ==
     - Diverging streams [[Kangxi: 所出同所歸異曰肥泉]];
     - a river in Ng(a/)nhwui [[安徽]]
@@ -1190,7 +1190,7 @@ W
     --
     [[Otherwise, an alternative form of 淝. **See $淝fei4 for the canonical entry.**]]
     --
-  - [[Page~714 (4)肥]]
+  - [[Page~714 #5: (4)肥]]
     --
     As a verb.
     --

@@ -17185,6 +17185,126 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~714
+    ,{#page-714-entry-1} #1
+    ,{.williams} (4)蹯
+    ,
+      <nav class="sideways">
+      ==
+      - $蹯faan4
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-2} #2
+    ,{.williams} 沷(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $沷faat3
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-3} #3
+    ,{.williams} {𧌓=⿰虫阜}(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $蛗fau6
+      - (${𧌓=⿰虫阜}fau6)
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-4} #4
+    ,{.williams} (4)淝
+    ,
+      <nav class="sideways">
+      ==
+      - $淝fei4
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-5} #5
+    ,{.williams} (4)肥
+    ,
+      <nav class="sideways">
+      ==
+      - $肥fei4
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-6} #6
+    ,{.williams}
+    ,
+      <nav class="sideways">
+      ==
+      - ${𢞵=⿱飛必}fit1
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-7} #7
+    ,{.williams} {𠱥=⿰口卉}(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ${𠱥=⿰口卉}fik1
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-8} #8
+    ,{.williams} ^_(1)Fing_
+    ,
+      <nav class="sideways">
+      ==
+      - $揈fing1
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-9} #9
+    ,{.williams} ^_Fing(3)_
+    ,
+      <nav class="sideways">
+      ==
+      - $揈fing3
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-10} #10
+    ,{.williams} ^_Fing(6)_
+    ,
+      <nav class="sideways">
+      ==
+      - $揈fing6
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-11} #11
+    ,{.williams} (1)窠
+    ,
+      <nav class="sideways">
+      ==
+      - $窠fo1
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-12} #12
+    ,{.williams} (2)恍(2)怳
+    ,
+      <nav class="sideways">
+      ==
+      - $怳fong2
+      - $恍fong2
+      ==
+      </nav>
+  //
+    ,{#page-714-entry-13} #13
+    ,{.williams} (2)幌
+    ,
+      <nav class="sideways">
+      ==
+      - $幌fong2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
