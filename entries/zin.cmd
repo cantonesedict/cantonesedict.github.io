@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)戔]]
+  - [[Page~573 #2: (1)戔]]
     --
     [[...]]
     --
@@ -352,7 +352,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)湔]]
+  - [[Page~573 #1: (1)湔]]
     ==
     - To sprinkle with the hand, to bespatter [[Kangxi: 手瀚也灑也傍沾也]];
     - name of a river in Sz'chuen [[四川]] [[Kangxi: 水名]].
@@ -530,7 +530,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)箋]]
+  - [[Page~573 #3: (1)箋]]
     ==
     - Tablets or slips on which to make memoranda [[Kangxi: 表識書也]];
     - a letter, a writing [[Kangxi: 書也]];
@@ -577,7 +577,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)籛]]
+  - [[Page~573 #4: (1)籛]]
     ==
     - A man's name,
       called _(1)Ts(i/)n (1)Hang_ [[zin1 hang1 籛鏗]], or Tsien Hing,
@@ -941,7 +941,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)翦(2)剪]]
+  - [[Page~573 #6: (2)翦(2)剪]]
     ==
     - [[...]];
     - to cut off smooth, to clip even [[Kangxi 翦: 翦齊也]];
@@ -1071,7 +1071,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)戩]]
+  - [[Page~573 #8: (2)戩]]
     ==
     - [[...]];
     - to finish, to exhaust;
@@ -1177,7 +1177,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)翦(2)剪]]
+  - [[Page~573 #6: (2)翦(2)剪]]
     ==
     - Even, regular, as feathers grow [[Kangxi 翦: 羽生也]];
     - to cut off smooth, to clip even [[Kangxi 翦: 翦齊也, 齊斷也]];
@@ -1196,7 +1196,7 @@ W
     --
     [[Alternative form of 剪. See $剪zin2.]]
     --
-  - [[Page~573 (2)戩; here normalised to 翦]]
+  - [[Page~573 #8: (2)戩; here normalised to 翦]]
     ==
     - To destroy, to kill, to exterminate [[Kangxi 戩: 與翦通, 滅也]];
     - [[...]];
@@ -1251,7 +1251,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)諓]]
+  - [[Page~573 #5: (2)諓]]
     ==
     - To flatter [[Kangxi: 諂也]];
     - pleasant, kind words [[Kangxi: 善言也]];
@@ -1288,7 +1288,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)謭]]
+  - [[Page~573 #7: (2)謭]]
     --
     [[Alternative form of 譾. **See $譾zin2 for the canonical entry.**]]
     --
@@ -1313,7 +1313,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)謭; here normalised to 譾]]
+  - [[Page~573 #7: (2)謭; here normalised to 譾]]
     ==
     - Shallow-pated, superficial, not profound;
     - unskilled, shallow, not deep [[Kangxi 譾: 淺也]];
@@ -1597,7 +1597,7 @@ F
   ==
 W
   ====
-  - [[Page~573 洊(3)]]
+  - [[Page~573 #12: 洊(3)]]
     ==
     - ~~Water flowing on;~~
     - a stream bursting forth again;
@@ -1770,7 +1770,7 @@ F
   ==
 W
   ====
-  - [[Page~573 箭(3)]]
+  - [[Page~573 #9: 箭(3)]]
     ==
     - An arrow [[Kangxi: 矢也]];
     - an archer;
@@ -1860,7 +1860,7 @@ F
   ==
 W
   ====
-  - [[Page~573 荐(3)]]
+  - [[Page~573 #11: 荐(3)]]
     ==
     - [[...]];
     - also to continue;
@@ -1931,7 +1931,7 @@ W
         a mattress;
     - [[...]].
     ==
-  - [[Page~573 薦(3)]]
+  - [[Page~573 #10: 薦(3)]]
     ==
     - Grass eaten by animals [[Kangxi: 獸之所食草也]];
     - pasturage;
@@ -1969,7 +1969,7 @@ W
     --
     [[Otherwise, an alternative form of 荐. **See $荐zin3 for the canonical entry.**]]
     --
-  - [[Page~573 荐(3)]]
+  - [[Page~573 #11: 荐(3)]]
     ==
     - Interchanged with the last [[薦]];
     - [[...]].
