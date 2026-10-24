@@ -16771,7 +16771,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-614-entry-8} #8
-    ,{.williams} 食(6)
+    ,{.williams} 食〬(6)
     ,
       <nav class="sideways">
       ==

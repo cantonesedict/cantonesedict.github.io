@@ -350,7 +350,7 @@ C
     but has done so poorly.
     I have applied corrective edits accordingly.
   - For the rising-tone reading on Page~97,
-    in additional to the dark-rising tone marker _(2)_,
+    in addition to the dark-rising tone marker (2),
     Williams prints the headword 去 with an explicit
     classical rising-tone marker ◌〫 (U+302B).
     Font support for classical departing-tone markers

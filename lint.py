@@ -900,6 +900,7 @@ UNICODE_CODE_POINT_PATTERN = re.compile(pattern='U[+][0-9A-F]{4,5}')
 
 CHINESE_RUN_REGEX = '[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+'
 CHINESE_RUN_PATTERN = re.compile(CHINESE_RUN_REGEX)
+CLASSICAL_TONE_MARKERS = '\u302a\u302b\u302c\u302d'
 
 INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
@@ -3057,7 +3058,12 @@ class CharacterEntry:
             headword_run = match.group(LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP)
             item_content = match.group(LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP)
 
-            headword_characters = CHINESE_RUN_PATTERN.findall(string=CmdIdioms.strip_compositions(headword_run))
+            headword_characters = {
+                character
+                for run in CHINESE_RUN_PATTERN.findall(string=CmdIdioms.strip_compositions(headword_run))
+                for character in run
+                if character not in CLASSICAL_TONE_MARKERS
+            }
             potential_characters = ''.join(sorted({character, *headword_characters}))
 
             if len(potential_characters) == 1:

@@ -6415,7 +6415,7 @@ W
     --
     Interchanged with the next [[食]].
     --
-  - [[Page~614 #8: 食(6)]]
+  - [[Page~614 #8: 食〬(6)]]
     ==
     - To feed, to set food before [[Kangxi: 以食與人也]];
     - to bring up [[Kangxi: 食謂乳養之也, 食養生也]];
@@ -6428,6 +6428,12 @@ W
 C
   ==
   - Fan Wan entry: Corrected 偎 to 餵.
+  - In addition to the light-departing tone marker ^(6),
+    Williams prints the headword 食 with an explicit
+    classical departing-tone marker ◌〬 (U+302C).
+    Font support for classical departing-tone markers
+    is known to be poor on Windows and iOS/macOS;
+    check the [Font test page](/font-test/).
   ==
 L
   ====

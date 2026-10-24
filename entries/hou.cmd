@@ -167,7 +167,7 @@ W
   ====
 C
   ==
-  - In additional to the dark-departing tone marker _(3)_,
+  - In addition to the dark-departing tone marker ^(3),
     Williams prints the headword 好 with an explicit
     classical departing-tone marker ◌〬 (U+302C).
     Font support for classical departing-tone markers

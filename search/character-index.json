@@ -15345,7 +15345,7 @@
 "zi6":{
 "isCanonical":true,
 "williams":"tsz'(6)",
-"text":"U+98DF 飤 飼 (F2.35 食) 以食餵物曰食又飯也 (Page 614 #7: 飤飼) Interchanged with the next (食). (Page 614 #8: 食) To feed, to set food before (Kangxi: 以食與人也); to bring up (Kangxi: 食謂乳養之也, 食養生也); food (Kangxi: 食飯屬也), provision (Kangxi: 糧也); _ngau yeung yan sho tsz'_ (ngau4 joeng4 jan4 so2 zi6 牛羊人所食) men rear sheep and oxen. Fan Wan entry: Corrected 偎 to 餵. 【食-departing】 (ziH) (_verb-like_) to feed"
+"text":"U+98DF 飤 飼 (F2.35 食) 以食餵物曰食又飯也 (Page 614 #7: 飤飼) Interchanged with the next (食). (Page 614 #8: 食) To feed, to set food before (Kangxi: 以食與人也); to bring up (Kangxi: 食謂乳養之也, 食養生也); food (Kangxi: 食飯屬也), provision (Kangxi: 糧也); _ngau yeung yan sho tsz'_ (ngau4 joeng4 jan4 so2 zi6 牛羊人所食) men rear sheep and oxen. Fan Wan entry: Corrected 偎 to 餵. In addition to the light-departing tone marker , Williams prints the headword 食 with an explicit classical departing-tone marker ◌ (U+302C). Font support for classical departing-tone markers is known to be poor on Windows and iOS/macOS; check the Font test page. 【食-departing】 (ziH) (_verb-like_) to feed"
 }
 },
 "飤":{
