@@ -16318,6 +16318,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~610
+    ,{#page-610-entry-1} #1
+    ,{.williams} 撮(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $撮cyut3
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-2} #2
+    ,{.williams} {？=⿱艹⿰糸@邑}(8)蕞(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($蕝cyut3), $蕝zyut3
+      - ($蕞cyut3), $蕞zeoi3
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-3} #3
+    ,{.williams} 卒(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $卒cyut3
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-4} #4
+    ,{.williams} 猝(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $猝cyut3
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-5} #5
+    ,{.williams} 捽(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $捽cyut3
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-6} #6
+    ,{.williams} (1)茲(1)兹
+    ,
+      <nav class="sideways">
+      ==
+      - ($兹zi1)
+      - $茲zi1
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-7} #7
+    ,{.williams} (1)滋
+    ,
+      <nav class="sideways">
+      ==
+      - $滋zi1
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-8} #8
+    ,{.williams} (1)蛓(1)螆
+    ,
+      <nav class="sideways">
+      ==
+      - ($蛓zi1)
+      - $螆zi1
+      ==
+      </nav>
+  //
+    ,{#page-610-entry-9} #9
+    ,{.williams} (1)鎡
+    ,
+      <nav class="sideways">
+      ==
+      - $鎡zi1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

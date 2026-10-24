@@ -202,7 +202,7 @@ F
   ==
 W
   ====
-  - [[Page~610 (1)茲(1)兹]]
+  - [[Page~610 #6: (1)茲(1)兹]]
     --
     [[Alternative form of 茲. **See $茲zi1 for the canonical entry.**]]
     --
@@ -730,7 +730,7 @@ F
   ==
 W
   ====
-  - [[Page~610 (1)滋]]
+  - [[Page~610 #7: (1)滋]]
     ==
     - ~~Occurs used for the last [[茲]];~~
     - sweet, pleasant, rich [[Kangxi: 滋味也]];
@@ -1235,7 +1235,7 @@ F
   ==
 W
   ====
-  - [[Page~610 (1)茲(1)兹]]
+  - [[Page~610 #6: (1)茲(1)兹]]
     ==
     - Herbs and shrubs in great abundance [[Kangxi 茲: 草木多益也]];
     - a mat [[Kangxi 茲: 蓐席也]];
@@ -1338,7 +1338,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 (1)蛓(1)螆]]
+  - [[Page~610 #8: (1)蛓(1)螆]]
     --
     [[Alternative form of 螆. **See $螆zi1 for the canonical entry.**]]
     --
@@ -1407,7 +1407,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 (1)蛓(1)螆]]
+  - [[Page~610 #8: (1)蛓(1)螆]]
     <ins>
     --
     A colloquial word.
@@ -1853,7 +1853,7 @@ F
   ==
 W
   ====
-  - [[Page~610 (1)鎡]]
+  - [[Page~610 #9: (1)鎡]]
     ==
     - A hoe ~~for removing weeds~~, called _(1)tsz' (1)k(i/)_ [[zi1 gei1 鎡基]] [[Kangxi: 鎡錤鉏也]],
       having a long narrow blade.
