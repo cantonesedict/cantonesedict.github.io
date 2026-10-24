@@ -304,7 +304,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~65 (1)貛]]
+  - [[Page~65 #1: (1)貛]]
     ==
     - A wild boar [[Kangxi: 野豕也]];
     - _(2)kau (1)f(u/)n_
@@ -352,7 +352,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)欵]]
+  - [[Page~65 #2: (2)欵]]
     --
     [[Alternative form of 款. **See $款fun2 for the canonical entry.**]]
     --
@@ -382,7 +382,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)欵; here normalised to 款]]
+  - [[Page~65 #2: (2)欵; here normalised to 款]]
     ==
     - ~~Something desired~~ ``Desiring`` [[Kangxi 款: 意有所欲也 etc.]];
     - sincere, single-hearted;
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)盥]]
+  - [[Page~65 #4: (2)盥]]
     --
     [[Reading variation. **See $盥gun3 for the canonical entry.**]] [[TODO]]
     --
@@ -490,7 +490,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)窾]]
+  - [[Page~65 #3: (2)窾]]
     ==
     - ~~An~~ empty ~~place~~ [[Kangxi: 空也]];
     - hollow, like an empty vessel;
@@ -537,7 +537,7 @@ F
   ==
 W
   ====
-  - [[Page~65 喚(3)]]
+  - [[Page~65 #5: 喚(3)]]
     --
     [[Reading variation. **See $喚wun6 for the canonical entry.**]] [[TODO]]
     --

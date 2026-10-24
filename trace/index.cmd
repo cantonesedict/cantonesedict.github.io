@@ -9902,6 +9902,89 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~65
+    ,{#page-65-entry-1} #1
+    ,{.williams} (1)貛
+    ,
+      <nav class="sideways">
+      ==
+      - $貛fun1
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-2} #2
+    ,{.williams} (2)欵
+    ,
+      <nav class="sideways">
+      ==
+      - ($欵fun2)
+      - $款fun2
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-3} #3
+    ,{.williams} (2)窾
+    ,
+      <nav class="sideways">
+      ==
+      - $窾fun2
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-4} #4
+    ,{.williams} (2)盥
+    ,
+      <nav class="sideways">
+      ==
+      - ($盥fun2)
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-5} #5
+    ,{.williams} 喚(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($喚fun3)
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-6} #6
+    ,{.williams} (1)風
+    ,
+      <nav class="sideways">
+      ==
+      - $風fung1
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-7} #7
+    ,{.williams} (1)楓
+    ,
+      <nav class="sideways">
+      ==
+      - $楓fung1
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-8} #8
+    ,{.williams} (1)瘋
+    ,
+      <nav class="sideways">
+      ==
+      - $瘋fung1
+      ==
+      </nav>
+  //
+    ,{#page-65-entry-9} #9
+    ,{.williams} (1)封
+    ,
+      <nav class="sideways">
+      ==
+      - $封fung1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

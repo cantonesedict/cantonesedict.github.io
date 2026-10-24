@@ -124,7 +124,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)封]]
+  - [[Page~65 #9: (1)封]]
     ==
     - The domain granted to princes [[Kangxi: 爵諸侯之土也]];
     - to heap up earth [[Kangxi: 聚土曰封]];
@@ -271,7 +271,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)楓]]
+  - [[Page~65 #7: (1)楓]]
     ==
     - The maple [[Kangxi: 木也 etc.]];
     - also applied to the sycamore;
@@ -368,7 +368,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)瘋]]
+  - [[Page~65 #8: (1)瘋]]
     ==
     - The leprosy, scrofula, and kindred diseases;
     - insane, insensate;
@@ -748,7 +748,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)風]]
+  - [[Page~65 #6: (1)風]]
     ==
     - Breath, spirit, passion;
     - air-gusts, gale, wind [[Kangxi: 風以動萬物也 etc.]];
