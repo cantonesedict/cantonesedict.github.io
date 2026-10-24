@@ -309,7 +309,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)摧 _(4)Ts(')(u/)i_ (ceoi4); here normalised to _(1)Ts(')(u/)i_ (ceoi1)]]
+  - [[Page~598 #6: (4)摧 _(4)Ts(')(u/)i_ (ceoi4); here normalised to _(1)Ts(')(u/)i_ (ceoi1)]]
     ==
     - To stop, to drive back, to repress [[Kangxi: 挫也抑也]];
     - to overpower, to set down;

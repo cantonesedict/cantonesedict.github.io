@@ -271,7 +271,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~728 婕(8)]]
+  - [[Page~728 #4: 婕(8)]]
     ==
     - Handsome, elegant [[Kangxi: 美貌]];
     - a female officer, called _ts(i/)t(8) (4)(u:)_ [[zit3 jyu4 婕妤]],

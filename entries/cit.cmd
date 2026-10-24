@@ -233,7 +233,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10|n53 掣(3) _Chai(3)_ (zai3); here corrected to _Ch(')(i/)t(8)_ (cit3)]]
+  - [[Page~10|n53 #1: 掣(3) _Chai(3)_ (zai3); here corrected to _Ch(')(i/)t(8)_ (cit3)]]
     ==
     - [[...]];
     - to take, to choose out, to raise up [[Kangxi: 揭也取也]];

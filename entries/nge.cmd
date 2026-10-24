@@ -61,7 +61,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~724 ^_(4)Ng(e/)_ (nge4); here assigned to {𫫃=⿰口挨}]]
+  - [[Page~724 #4: ^_(4)Ng(e/)_ (nge4); here assigned to {𫫃=⿰口挨}]]
     --
     A colloquial word.
     --

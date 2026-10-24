@@ -640,7 +640,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 觸(7) _Ch(')uk(7)_ (cuk1); here normalised to _Chuk(7)_ (zuk1)]]
+  - [[Page~36* #7: 觸(7) _Ch(')uk(7)_ (cuk1); here normalised to _Chuk(7)_ (zuk1)]]
     ==
     - To gore, to push as an ox [[Kangxi: 牴也]];
     - to oppose, to excite;

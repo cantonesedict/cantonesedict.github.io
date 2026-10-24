@@ -322,7 +322,7 @@ W
         [[hai4 ging3 徯徑]]
         a footpath [[Kangxi 徯: 徯徑細小狹路也]].
     ==
-  - [[Page~120 (1)蹊 _(1)K(')ai_ (kai1); here normalised to _(4)Hai_ (hai4)]]
+  - [[Page~120 #5: (1)蹊 _(1)K(')ai_ (kai1); here normalised to _(4)Hai_ (hai4)]]
     ==
     - A foot or bridle-path [[Kangxi: 徑道也, 步所用道曰蹊]], a narrow pathway;
     - to penetrate through byways, to go where no road is [[Kangxi: 徑也]].
@@ -628,7 +628,7 @@ W
         [[hai6 leoi6 繫累]],
         to implicate.
     ==
-  - [[Page~120 繫(3) _Kai(3)_ (gai3)]]
+  - [[Page~120 #1: 繫(3) _Kai(3)_ (gai3)]]
     ==
     - Usually read _~~hai(3)~~ ``hai(6)``_ [[hai6]]^, to tie;
     - ~~to pertain to, to follow in consequence of.~~

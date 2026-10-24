@@ -65,7 +65,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
+  - [[Page~10|n53 #3: ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
     --
     [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --
@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 (1)齊]]
+  - [[Page~10|n53 #4: (1)齊]]
     --
     [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --

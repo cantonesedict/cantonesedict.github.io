@@ -117,7 +117,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)爭]]
+  - [[Page~20|n63 #13: (1)爭]]
     --
     [[Reading variation. **See $爭zang1 for the canonical entry.**]]
     --

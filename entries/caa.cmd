@@ -424,7 +424,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~9|n52 吒(3)咤(3)]]
+  - [[Page~9|n52 #6: 吒(3)咤(3)]]
     --
     [[Alternative form of 詫. **See $詫caa3 for the canonical entry.**]]
     --
@@ -449,7 +449,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 吒(3)咤(3)]]
+  - [[Page~9|n52 #6: 吒(3)咤(3)]]
     --
     [[Alternative form of 詫. **See $詫caa3 for the canonical entry.**]]
     --

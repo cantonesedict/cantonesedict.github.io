@@ -603,7 +603,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); _Cham(3)_ (zam3) optional, here enforced]]
+  - [[Page~14|n57 #11: (2)枕 _(2)Cham_ (zam2); _Cham(3)_ (zam3) optional, here enforced]]
     ==
     - [[...]];
     - to pillow on, to lie near to;

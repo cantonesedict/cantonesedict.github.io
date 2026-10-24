@@ -136,7 +136,7 @@ F
   ==
 W
   ====
-  - [[Page~408 匝(8) _S(a/)p(8)_ (saap3); here normalised to _Ts(a/)p(8)_ (zaap3)]]
+  - [[Page~408 #5: 匝(8) _S(a/)p(8)_ (saap3); here normalised to _Ts(a/)p(8)_ (zaap3)]]
     ==
     - To make a circuit, to go the rounds, like a watchman;
     - pervading;

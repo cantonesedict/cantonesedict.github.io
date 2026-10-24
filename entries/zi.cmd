@@ -2142,7 +2142,7 @@ W
         only one sort;
     - [[...]].
     ==
-  - [[Page~152 (4)祇; here normalised to 只 via 祗]]
+  - [[Page~152 #7: (4)祇; here normalised to 只 via 祗]]
     --
     [[...]]
     --
@@ -3094,7 +3094,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~152 (4)祇 _(4)K(')(i/)_ (kei4); _(2)Ch(i/)_ (zi2) implied]]
+  - [[Page~152 #7: (4)祇 _(4)K(')(i/)_ (kei4); _(2)Ch(i/)_ (zi2) implied]]
     --
     [[Alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
     --

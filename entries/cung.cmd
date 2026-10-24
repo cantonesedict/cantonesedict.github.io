@@ -426,7 +426,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)冲(1)沖]]
+  - [[Page~41 #1: (1)冲(1)沖]]
     ==
     - Young, delicate [[Kangxi 沖: 幼小也, 沖童也]];
     - harmonious [[Kangxi 沖: 和也]];
@@ -1496,7 +1496,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+  - [[Page~606 #3: (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - To rejoice;
     - ~~pleasure, delight~~ ``joy`` [[Kangxi: 樂也]];
@@ -1766,7 +1766,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)琮 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+  - [[Page~606 #6: (1)琮 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - An ancient badge ~~of princely dignity~~, eight or nine inches wide,
       octagonal, and having a hole in it [[Kangxi: 瑞玉大八寸似車釭, 謂其狀外八角而中圓也]].

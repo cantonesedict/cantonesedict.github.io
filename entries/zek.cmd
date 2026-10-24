@@ -362,12 +362,12 @@ F
   ==
 W
   ====
-  - [[Page~569 before 脊(8)]]
+  - [[Page~569 before #13: 脊(8)]]
     --
     (This [[脊]] and the next [[席, here corrected to 蓆]]
     are often read _tsek_ [[zek]].)
     --
-  - [[Page~569 脊(8) _Tsik(8)_ (zik3); _Tsek(8)_ (zek3) implied by variational note]]
+  - [[Page~569 #13: 脊(8) _Tsik(8)_ (zik3); _Tsek(8)_ (zek3) implied by variational note]]
     ==
     - The back-bone, the spine [[Kangxi: 背呂也, 背脊]];
     - the back;
@@ -489,7 +489,7 @@ F
   ==
 W
   ====
-  - [[Page~569 蹐(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
+  - [[Page~569 #1: 蹐(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
     - To step carefully;
     - short steps, a mincing walk [[Kangxi: 小步也]];
@@ -664,7 +664,7 @@ F
   ==
 W
   ====
-  - [[Page~569 鶺(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
+  - [[Page~569 #2: 鶺(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
     - A wagtail, called _~~tsik(8)~~ ``tsek(8)`` (4)ling_ [[zek3 ling4 鶺鴒]] [[Kangxi: 鶺鴒]]_;_
     - it has a mottled, black neck;

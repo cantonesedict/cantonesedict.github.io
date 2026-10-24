@@ -1108,7 +1108,7 @@ F
   ==
 W
   ====
-  - [[Page~500 (4)燂 _(4)T(')(a/)m_ (taam4)]]
+  - [[Page~500 #10: (4)燂 _(4)T(')(a/)m_ (taam4)]]
     <## TODO: move under $燂taam4
     ==
     - To burn in the fire;

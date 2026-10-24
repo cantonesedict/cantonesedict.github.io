@@ -767,7 +767,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~728 譟(3)]]
+  - [[Page~728 #3: 譟(3)]]
     ==
     - The noise of a crowd [[Kangxi: 羣呼煩擾也, 聒也, 羣呼曰譟]];
     - a clamor, a disturbance [[Kangxi: 擾也]];

@@ -2872,7 +2872,7 @@ F
   ==
 W
   ====
-  - [[Page~631 乎 _(4)(U/)_ (wu4); here normalised to _(4)F(u/)_ (fu4)]]
+  - [[Page~631 #12: 乎 _(4)(U/)_ (wu4); here normalised to _(4)F(u/)_ (fu4)]]
     ==
     - An interrogative adverb [[Kangxi: 疑辭]];
     - an interjection of doubt, admiration, or inquiry,

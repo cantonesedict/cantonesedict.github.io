@@ -1000,7 +1000,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~728 魙(6)]]
+  - [[Page~728 #2: 魙(6)]]
     ==
     - A prince of demons [[Kangxi: 鬼名]], at the sight of whom ogres and vampires flee;
     - used as a charm [[Kangxi: 辟邪也符尾也]].

@@ -461,7 +461,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12|n55 笮(8) _Ch(a/)k(8)_ (zaak3); here corrected to _Tsok(9)_ (zok6)]]
+  - [[Page~12|n55 #10: 笮(8) _Ch(a/)k(8)_ (zaak3); here corrected to _Tsok(9)_ (zok6)]]
     ==
     - [[...]];
     - to tattoo or brand, as a punishment [[Kangxi: {𠛬=⿰幵刂}名, 黥{𠛬=⿰幵刂}也]].

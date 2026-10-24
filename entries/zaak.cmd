@@ -116,7 +116,7 @@ F
   ==
 W
   ====
-  - [[Page~569 ::嘖(7)~~賾(7)~~:: _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~569 #6: ::嘖(7)~~賾(7)~~:: _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - To bawl, to cry after [[Kangxi 嘖: 大呼也, 㗲嘖叫也]];
     - to dispute about, noisy quarreling [[Kangxi 嘖: 大呼聲, 爭言貌]];
@@ -186,7 +186,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~592 柞(9)]]
+  - [[Page~592 #5: 柞(9)]]
     --
     [[...]]
     --
@@ -670,7 +670,7 @@ W
     - the secret springs, the hidden cause;
     - occult, profound.
     ==
-  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~569 #6: 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - [[...]];
     - distant, retired, hidden [[Kangxi 嘖: 與賾通]];
@@ -811,7 +811,7 @@ W
         [[zaak6 deng2 摘頂]],
         to take away an officer's button.
     ==
-  - [[Page~13|n56 翟(9)]]
+  - [[Page~13|n56 #6: 翟(9)]]
     --
     [[...]]
     --

@@ -224,7 +224,7 @@ W
         [[fo2 ce1 火車]],
         a locomotive.
     ==
-  - [[Page~183 (1)車 _(1)K(u:)_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
+  - [[Page~183 #3: (1)車 _(1)K(u:)_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
     ==
     - [[...]];
     - the jaw-bones [[Kangxi: 牙車牙所載也 etc.]];

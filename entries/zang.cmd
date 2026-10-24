@@ -819,7 +819,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
+  - [[Page~20|n63 #13: (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
     --
     [[Alternative form of 諍. **See $諍zang3 for the canonical entry.**]]
     --

@@ -897,7 +897,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 晣(3)]]
+  - [[Page~9|n52 #10: 晣(3)]]
     --
     [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
     --

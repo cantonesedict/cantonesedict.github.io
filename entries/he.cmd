@@ -62,7 +62,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏]]
+  - [[Page~78 #5: ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏]]
     --
     [[Reading variation (by strict analogy with Williams). **See $唏hei1 for the canonical entry.**]]
     --

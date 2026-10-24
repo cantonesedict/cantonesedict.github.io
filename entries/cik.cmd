@@ -321,7 +321,7 @@ W
     --
     [[Otherwise, an alternative form of 飭. **See $飭cik1 for the canonical entry.**]]
     --
-  - [[Page~439 飭(7) _Shik(7)_ (sik1); here normalised to 敕 _Ch(')ik(7)_ (cik1)]]
+  - [[Page~439 #3: 飭(7) _Shik(7)_ (sik1); here normalised to 敕 _Ch(')ik(7)_ (cik1)]]
     --
     [[...]]
     --
@@ -550,7 +550,7 @@ F
   ==
 W
   ====
-  - [[Page~439 飭(7) _Shik(7)_ (sik1); here normalised to _Ch(')ik(7)_ (cik1)]]
+  - [[Page~439 #3: 飭(7) _Shik(7)_ (sik1); here normalised to _Ch(')ik(7)_ (cik1)]]
     --
     [[...]]
     --

@@ -84,7 +84,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~718 ^_K(')ak(7)_ (kak1) exemplified; here assigned to 揢]]
+  - [[Page~718 #4: ^_K(')ak(7)_ (kak1) exemplified; here assigned to 揢]]
     --
     A colloquial word.
     --

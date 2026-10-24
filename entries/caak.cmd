@@ -212,7 +212,7 @@ W
         [[caak3 caak3 dei6-2 seng1 坼坼地聲]],
         a wheezing, cracked voice.
     ==
-  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``::; here normalised to 坼]]
+  - [[Page~14|n57 #4: ::~~拆(9)~~``拆(8)``::; here normalised to 坼]]
     ==
     - [[...]]^
     - _ch(')(a/)k(8) (2)hau yat(9)_

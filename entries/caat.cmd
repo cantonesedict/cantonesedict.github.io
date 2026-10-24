@@ -75,7 +75,7 @@ F
   ==
 W
   ====
-  - [[Page~427 刷(8) _Sh(a/)t(8)_ (saat3); here normalised to _Ch(')(a/)t(8)_ (caat3)]]
+  - [[Page~427 #6: 刷(8) _Sh(a/)t(8)_ (saat3); here normalised to _Ch(')(a/)t(8)_ (caat3)]]
     ==
     - A brush, a scraper;
     - a curry-comb;

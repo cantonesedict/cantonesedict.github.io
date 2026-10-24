@@ -717,7 +717,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $鮓zaa2
+      - $鮓zaa2, $鮓zaa6
       ==
       </nav>
   //
@@ -782,6 +782,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - ($搾zaa3)
       - $榨zaa3
       ==
       </nav>
@@ -893,8 +894,9 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - ($吒caa3), $吒zaa3
+      - ($咤caa3)
       - $詫caa3
-      - $吒zaa3
       ==
       </nav>
   //
@@ -931,6 +933,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       <nav class="sideways">
       ==
       - $晢zai3
+      - ($晣zai3)
       ==
       </nav>
   //
@@ -959,7 +962,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $掣zai3
+      - $掣cit3, $掣zai3
       ==
       </nav>
   //
@@ -977,6 +980,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - ($斋zaai1)
       - $齋zaai1
       ==
       </nav>
@@ -986,6 +990,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - ($齊zaai1)
       - $齋zaai1
       ==
       </nav>
@@ -1133,7 +1138,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $簀zaai3, $簀zaak3
+      - $簀zaai3, $簀zaak3, ($簀zak1)
       ==
       </nav>
   //
@@ -1198,7 +1203,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       <nav class="sideways">
       ==
       - $窄zaak3
-      - $笮zaak3
+      - $笮zaak3, $笮zok6
       ==
       </nav>
   //
@@ -1253,6 +1258,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - $摘zaak6
       - $翟zaak6
       ==
       </nav>
@@ -1347,6 +1353,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - $坼caak3
       - $拆caak3
       ==
       </nav>
@@ -1413,7 +1420,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $枕zam2
+      - $枕zam2, $枕zam3
       ==
       </nav>
   //
@@ -1507,6 +1514,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - $沉cam4
       - $湛zaam3
       - $浸zam3
       ==
@@ -1544,7 +1552,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $攙caam1, ($攙caam4)
+      - $攙caam1, ($攙caam4), $攙zaam6
       ==
       </nav>
   //
@@ -1978,7 +1986,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($剗caan2)
+      - ($剗caan2), $剗zin2
       - $剷caan2
       ==
       </nav>
@@ -2061,7 +2069,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $爭zang1
+      - ($爭zaang1), $爭zang1, ($爭zang3)
       - $諍zang3
       ==
       </nav>
@@ -6629,7 +6637,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($觸cuk1)
+      - ($觸cuk1), $觸zuk1
       ==
       </nav>
   //
@@ -7139,6 +7147,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       <nav class="sideways">
       ==
       - ($冲cung1)
+      - $沖cung1
       - $盅cung1
       ==
       </nav>
@@ -8639,8 +8648,8 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - $匪fan1, $匪fei2
       - $騑fei1
-      - $匪fei2
       - $篚fei2
       ==
       </nav>
@@ -9859,7 +9868,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - $伏fuk6
+      - $伏fau6, $伏fuk6
       - $匐fuk6
       - $服fuk6
       ==
@@ -10952,6 +10961,76 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~78
+    ,{#page-78-entry-5} #5
+    ,{.williams}
+    ,
+      <nav class="sideways">
+      ==
+      - ($唏he1), $唏hei1
+      ==
+      </nav>
+  //
+    ,{r=2} Page~120
+    ,{#page-120-entry-1} #1
+    ,{.williams} 繫(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $繫hai6
+      ==
+      </nav>
+  //
+    ,{#page-120-entry-5} #5
+    ,{.williams} (1)蹊
+    ,
+      <nav class="sideways">
+      ==
+      - $蹊hai4
+      ==
+      </nav>
+  //
+    ,{r=1} Page~122
+    ,{#page-122-entry-3} #3
+    ,{.williams} 解(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $解haai6
+      ==
+      </nav>
+  //
+    ,{r=1} Page~152
+    ,{#page-152-entry-7} #7
+    ,{.williams} (4)祇
+    ,
+      <nav class="sideways">
+      ==
+      - $只zi2
+      - ($祇zi2)
+      ==
+      </nav>
+  //
+    ,{r=1} Page~154
+    ,{#page-154-entry-6} #6
+    ,{.williams} _Kik(7)_
+    ,
+      <nav class="sideways">
+      ==
+      - $丮gek1
+      ==
+      </nav>
+  //
+    ,{r=1} Page~183
+    ,{#page-183-entry-3} #3
+    ,{.williams} (1)車
+    ,
+      <nav class="sideways">
+      ==
+      - $車ce1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
@@ -11035,6 +11114,87 @@ OrdinaryDictionaryReplacement: #.properties-override
       <nav class="sideways">
       ==
       - $匐fuk6
+      ==
+      </nav>
+  //
+    ,{r=1} Page~352
+    ,{#page-352-entry-10} #10
+    ,{.williams} (1)賁
+    ,
+      <nav class="sideways">
+      ==
+      - $賁fan5
+      ==
+      </nav>
+  //
+    ,{r=1} Page~360
+    ,{#page-360-entry-3} #3
+    ,{.williams} 拂(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $拂fat6
+      ==
+      </nav>
+  //
+    ,{r=1} Page~402
+    ,{#page-402-entry-7} #7
+    ,{.williams} 綍(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $綍fat1
+      ==
+      </nav>
+  //
+    ,{r=1} Page~408
+    ,{#page-408-entry-5} #5
+    ,{.williams} 匝(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $匝zaap3
+      ==
+      </nav>
+  //
+    ,{r=1} Page~427
+    ,{#page-427-entry-6} #6
+    ,{.williams} 刷(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $刷caat3
+      ==
+      </nav>
+  //
+    ,{r=1} Page~439
+    ,{#page-439-entry-3} #3
+    ,{.williams} 飭(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $敕cik1
+      - $飭cik1
+      ==
+      </nav>
+  //
+    ,{r=1} Page~500
+    ,{#page-500-entry-10} #10
+    ,{.williams} (4)燂
+    ,
+      <nav class="sideways">
+      ==
+      - ($燂cam4), $燂cim4
+      ==
+      </nav>
+  //
+    ,{r=1} Page~519
+    ,{#page-519-entry-11} #11
+    ,{.williams} 墊(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $薦zin3
       ==
       </nav>
   //
@@ -12843,7 +13003,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($蹐zik3)
+      - $蹐zek3, ($蹐zik3)
       ==
       </nav>
   //
@@ -12852,7 +13012,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($鶺zik3)
+      - $鶺zek3, ($鶺zik3)
       ==
       </nav>
   //
@@ -12889,7 +13049,8 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($嘖zik1)
+      - $嘖zaak3, ($嘖zik1)
+      - $賾zaak3
       ==
       </nav>
   //
@@ -12936,6 +13097,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - $昃zak1
       - $稷zik1
       ==
       </nav>
@@ -12954,7 +13116,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($脊zik3)
+      - $脊zek3, ($脊zik3)
       ==
       </nav>
   //
@@ -14775,8 +14937,8 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - $柞zaak3, $柞zok6
       - $窄zaak3
-      - $柞zok6
       ==
       </nav>
   //
@@ -15281,7 +15443,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($摧ceoi4)
+      - $摧ceoi1, ($摧ceoi4)
       ==
       </nav>
   //
@@ -16030,7 +16192,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($悰zung1)
+      - $悰cung4, ($悰zung1)
       ==
       </nav>
   //
@@ -16058,7 +16220,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
-      - ($琮zung1)
+      - $琮cung4, ($琮zung1)
       ==
       </nav>
   //
@@ -17085,6 +17247,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~631
+    ,{#page-631-entry-12} #12
+    ,{.williams} 乎
+    ,
+      <nav class="sideways">
+      ==
+      - $乎fu4
+      ==
+      </nav>
+  //
     ,{r=11} Page~713
     ,{#page-713-entry-1} #1
     ,{.williams} 隻(8)
@@ -17564,13 +17736,70 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    ,{r=1} Page~724
+    ,{r=1} Page~718
+    ,{#page-718-entry-4} #4
+    ,{.williams}
+    ,
+      <nav class="sideways">
+      ==
+      - $揢kak1
+      ==
+      </nav>
+  //
+    ,{r=2} Page~724
+    ,{#page-724-entry-4} #4
+    ,{.williams} ^_(4)Ng(e/)_
+    ,
+      <nav class="sideways">
+      ==
+      - ${𫫃=⿰口挨}nge4
+      ==
+      </nav>
+  //
     ,{#page-724-entry-12} #12
     ,{.williams} (1)啽
     ,
       <nav class="sideways">
       ==
       - $啽am1
+      ==
+      </nav>
+  //
+    ,{r=1} Page~726
+    ,{#page-726-entry-7} #7
+    ,{.williams} 仆(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $仆puk1
+      ==
+      </nav>
+  //
+    ,{r=3} Page~728
+    ,{#page-728-entry-2} #2
+    ,{.williams} 魙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $魙zim6
+      ==
+      </nav>
+  //
+    ,{#page-728-entry-3} #3
+    ,{.williams} 譟(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $譟cou3
+      ==
+      </nav>
+  //
+    ,{#page-728-entry-4} #4
+    ,{.williams} 婕(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $婕zit3
       ==
       </nav>
 ''

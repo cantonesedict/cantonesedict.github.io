@@ -1101,7 +1101,7 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
         \[\[
             Page~(?P<page> \S+ )
             (?P<position> (?: [ ] (?: before | after) )? )
-            (?P<entry_marker> [ ][#] (?P<entry_number> [0-9]+ ) [:] )?
+            (?P<entry_marker> (?: [ ][#] (?P<entry_number> [0-9]+ ) [:] )? )
             (?P<spaces> [ ]+ )
             (?P<headword_run> [^\s;]+ ) (?P<clarification_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
         \]\]
@@ -3675,14 +3675,8 @@ class WilliamsLocator:
         if not WILLIAMS_TONE_PATTERN.search(string=content):
             raise LintException(f'missing Williams tone in Williams locator `{content}`')
 
-        if entry_marker is None:
-            page = '9999'
-            entry_number = '9999'
-            # TODO:
-            # raise LintException(
-            #     f'missing entry marker `:` or ` #{{number}}:` after `Page~{page}`'
-            #     f'in `{content}`'
-            # )
+        if not entry_marker:
+            raise LintException(f'missing entry marker ` #{{number}}:` after `Page~{page}` in `{content}`')
 
         page_clean = WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN.sub(repl='', string=page)
         page_number = int(DIGITS_PATTERN.search(string=page).group())

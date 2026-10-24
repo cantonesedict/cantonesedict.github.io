@@ -804,7 +804,7 @@ F
   ==
 W
   ====
-  - [[Page~402 綍(9) _P(u/)t(9)_ (but6); here normalised to _Fat(7)_ (fat1)]]
+  - [[Page~402 #7: 綍(9) _P(u/)t(9)_ (but6); here normalised to _Fat(7)_ (fat1)]]
     ==
     - Silken cords which are used to carry coffins by [[Kangxi: 同紼, 綍舉棺索也]];
     - _met._ fine, elegant, applied to the emperor's words;
@@ -1351,7 +1351,7 @@ W
     - to turn aside [[Kangxi 佛: 捩也]];
     - [[...]].
     ==
-  - [[Page~360 拂(9) _Pat(9)_ (bat6)]]
+  - [[Page~360 #3: 拂(9) _Pat(9)_ (bat6)]]
     ==
     - [[...]];
     - _pat(9) l(u:)(6)_

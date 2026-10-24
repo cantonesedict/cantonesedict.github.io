@@ -706,7 +706,7 @@ W
         [[cam4 hoeng1 沉香]],
         aloes.
     ==
-  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _(4)Ch(')am_ (cam4) and normalised to 沉]]
+  - [[Page~16|n59 #1: 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _(4)Ch(')am_ (cam4) and normalised to 沉]]
     ==
     - [[...]];
     - to sink in [[Kangxi 湛: 與沈同]];
@@ -763,7 +763,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~500 (4)燂 also read ^_(4)Ts(')am_ (cam4)]]
+  - [[Page~500 #10: (4)燂 also read ^_(4)Ts(')am_ (cam4)]]
     --
     [[Reading variation. **See $燂cim4 and $燂taam4 for the canonical entries.**]] [[TODO]]
     --

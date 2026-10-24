@@ -418,7 +418,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (4)攙 _(4)Ch(')(a/)m_ (caam4); here corrected to _Ch(a/)m(6)_ (zaam6)]]
+  - [[Page~16|n59 #5: (4)攙 _(4)Ch(')(a/)m_ (caam4); here corrected to _Ch(a/)m(6)_ (zaam6)]]
     ==
     - [[...]];
     - to supply a want, to make up [[Kangxi: 完補也]];

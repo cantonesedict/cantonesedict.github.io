@@ -907,7 +907,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 ::~~(2)剷~~(2)剗:: _(2)Ch(')(a/)n_ (caan2); here corrected to _(2)Ch(i/)n_ (zin2)]]
+  - [[Page~20|n63 #4: ::~~(2)剷~~(2)剗:: _(2)Ch(')(a/)n_ (caan2); here corrected to _(2)Ch(i/)n_ (zin2)]]
     --
     [[...]]
     --
@@ -1911,7 +1911,7 @@ F
   ==
 W
   ====
-  - [[Page~519 墊(6) _T(i/)n(6)_ (din6); here normalised to 薦 _Ts(i/)n(3)_ (zin3)]]
+  - [[Page~519 #11: 墊(6) _T(i/)n(6)_ (din6); here normalised to 薦 _Ts(i/)n(3)_ (zin3)]]
     ==
     - To lay down, to place on;
     - [[...]];

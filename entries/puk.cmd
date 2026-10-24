@@ -61,7 +61,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~726 仆(8) _P(')ok(8)_ (pok3); here normalised to _P(')uk(7)_ (puk1)]]
+  - [[Page~726 #7: 仆(8) _P(')ok(8)_ (pok3); here normalised to _P(')uk(7)_ (puk1)]]
     ==
     - This is more often pronounced _~~p(')ok(8)~~ ``p(')uk(7)``_ [[puk1]] than _f(u/)(6)_ [[fu6]]^,
       as given on page~61;

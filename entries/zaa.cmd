@@ -764,7 +764,7 @@ F
   ==
 W
   ====
-  - [[Page~8 搾(3)]]
+  - [[Page~8 #7: 搾(3)]]
     --
     [[Alternative form of 榨. **See $榨zaa3 for the canonical entry.**]]
     --
@@ -1176,7 +1176,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (2)鮓 _(2)Ch(a/)_ (zaa2); here corrected to _Ch(a/)(6)_ (zaa6)]]
+  - [[Page~7 #13: (2)鮓 _(2)Ch(a/)_ (zaa2); here corrected to _Ch(a/)(6)_ (zaa6)]]
     ==
     - [[...]];
     - _~~(2)ch(a/)~~ ``ch(a/)(6)`` (4)(u:)_

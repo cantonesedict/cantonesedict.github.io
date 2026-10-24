@@ -65,7 +65,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~154 _Kik(7)_ (gik1) _or_ _Kek(7)_ (gek1); here assigned to 丮]]
+  - [[Page~154 #6: _Kik(7)_ (gik1) _or_ _Kek(7)_ (gek1); here assigned to 丮]]
     --
     A colloquial word;
     --

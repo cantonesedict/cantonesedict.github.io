@@ -122,7 +122,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏 and hypothesised to correspond to modern hei1]]
+  - [[Page~78 #5: ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏 and hypothesised to correspond to modern hei1]]
     ==
     - A colloquial exclamation, expressing disapproval;
     - _(1)h(e/) (4)'m (2)h(o\) ~~t(')au(3)~~ ``tau(3)``_
