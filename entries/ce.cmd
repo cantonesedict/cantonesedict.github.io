@@ -527,7 +527,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~565 斜(3)]]
+  - [[Page~565 #2: 斜(3)]]
     --
     A colloquial word.
     --
@@ -615,7 +615,7 @@ F
   ==
 W
   ====
-  - [[Page~565 (4)斜]]
+  - [[Page~565 #1: (4)斜]]
     ==
     - Slanting, inclined, oblique, across, crisscross,
       diagonal, aslant, not with the rule [[Kangxi: 不正也]];

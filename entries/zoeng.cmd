@@ -113,7 +113,7 @@ F
   ==
 W
   ====
-  - [[Page~565 (1)將]]
+  - [[Page~565 #9: (1)將]]
     ==
     - To take, ``to bring,`` to hold in the hand;
     - sign of the future, shall, will, about to go [[Kangxi: 將甫始之辭]];

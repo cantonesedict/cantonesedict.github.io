@@ -509,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~565 鵲(8)]]
+  - [[Page~565 #8: 鵲(8)]]
     --
     [[Reading variation. **See $鵲zoek3 for the canonical entry.**]]
     --
