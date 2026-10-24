@@ -75,7 +75,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)儧; here normalised to 儹]]
+  - [[Page~555 #1: (2)儧; here normalised to 儹]]
     ==
     - To accumulate, to collect together, to hoard up, to store [[Kangxi 儧: 聚而計事也]].
     ==
@@ -145,7 +145,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)寁]]
+  - [[Page~555 #3: (2)寁]]
     ==
     - Promptly, quickly [[Kangxi: 居之速也]];
     - with haste;
@@ -186,7 +186,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)昝]]
+  - [[Page~555 #4: (2)昝]]
     --
     Sometimes used for _(1)ts(a/)_ [[zaa1]] 咱 I, me, in the north.
     --
@@ -334,7 +334,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)䟎; here normalised to 趲]]
+  - [[Page~555 #2: (2)䟎; here normalised to 趲]]
     ==
     - To ~~walk~~ ``run``, to get on [[Kangxi 趲: 走也]];
     - to flee, to run away, to scatter, to put to flight [[Kangxi 趲: 散走也]];
@@ -455,7 +455,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~555 濺(3)灒(3)]]
+  - [[Page~555 #7: 濺(3)灒(3)]]
     --
     [[Alternative form of 灒. **See $灒zaan3 for the canonical entry.**]]
     --
@@ -485,7 +485,7 @@ F
   ==
 W
   ====
-  - [[Page~555 濺(3)灒(3)]]
+  - [[Page~555 #7: 濺(3)灒(3)]]
     ==
     - To ~~stir up~~ ``spatter`` muddy water [[Kangxi 灒: 汙灑也]];
     - ~~turbid water;~~
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~555 瓚(3)]]
+  - [[Page~555 #8: 瓚(3)]]
     ==
     - A sort of stone ~~sceptre made with a~~ cup, used in pouring out libations [[Kangxi: ::瓚亦圭也[...]以進于神也::, 一曰祼器, 瓚者器名 etc.]];
     - a kind of bottle used in worship.
@@ -580,14 +580,14 @@ F
   ==
 W
   ====
-  - [[Page~555 贊(3)]]
+  - [[Page~555 #5: 贊(3)]]
     ==
     - [[...]];
     - to praise, to commend,
       in which sense it is interchanged with the next [[讚]];
     - [[...]].
     ==
-  - [[Page~555 讚(3)]]
+  - [[Page~555 #6: 讚(3)]]
     ==
     - To praise, to commend, to laud [[Kangxi: 稱人之美曰讚]];
     - to sing praises to;
@@ -642,7 +642,7 @@ F
   ==
 W
   ====
-  - [[Page~555 贊(3)]]
+  - [[Page~555 #5: 贊(3)]]
     ==
     - To visit a superior, to come before a god [[Kangxi: 見也]];
     - to second [[Kangxi: 贊佐也]], to assist in bringing forward [[Kangxi: 出也助也]],
@@ -667,7 +667,7 @@ W
     --
     [[Otherwise, an alternative form of 讚. **See $讚zaan3 for the canonical entry.**]]
     --
-  - [[Page~555 讚(3)]]
+  - [[Page~555 #6: 讚(3)]]
     ==
     - [[...]];
     - to assist [[Kangxi 讚: 佐也]];

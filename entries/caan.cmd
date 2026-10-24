@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (1)餐(1)飡]]
+  - [[Page~555 #9: (1)餐(1)飡]]
     --
     [[Alternative form of 餐. **See $餐caan1 for the canonical entry.**]]
     --
@@ -92,7 +92,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (1)餐(1)飡]]
+  - [[Page~555 #9: (1)餐(1)飡]]
     ==
     - To swallow [[Kangxi 餐: 吞也]], to eat;
     - a meal [[Kangxi 餐: 飮饌曰餐]];
