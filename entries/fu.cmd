@@ -1857,7 +1857,7 @@ F
   ==
 W
   ====
-  - [[Page~60 (2)琥]]
+  - [[Page~60 #2: (2)琥]]
     ==
     - A signet, made of veined stone ~~like a tiger's skin~~ ``depicting a tiger`` [[Kangxi: 發兵瑞玉爲虎文]];
     - _(2)f(u/) (4)f(u/)_
@@ -2180,7 +2180,7 @@ F
   ==
 W
   ====
-  - [[Page~60 (2)虎]]
+  - [[Page~60 #1: (2)虎]]
     ==
     - A tiger, the king of beasts [[Kangxi: 惡獸也, 山獸之君]];
     - brave, fierce;
@@ -2434,7 +2434,7 @@ F
   ==
 W
   ====
-  - [[Page~60 副(3)]]
+  - [[Page~60 #5: 副(3)]]
     ==
     - To assist, to aid, to second;
     - ~~to investigate [[Kangxi: 審也]];~~
@@ -2534,7 +2534,7 @@ F
   ==
 W
   ====
-  - [[Page~60 富(3)]]
+  - [[Page~60 #4: 富(3)]]
     ==
     - Rich, affluent [[Kangxi: 備也一曰厚也, 豐於財也]], abundant [[Kangxi: 凡充裕皆曰富]];
     - to provide, to enrich;
@@ -2604,7 +2604,7 @@ F
   ==
 W
   ====
-  - [[Page~60 庫(3)]]
+  - [[Page~60 #7: 庫(3)]]
     ==
     - A carriage-house;
     - an armory, an arsenal [[Kangxi: 兵車藏也]];
@@ -2650,7 +2650,7 @@ F
   ==
 W
   ====
-  - [[Page~60 戽(3)]]
+  - [[Page~60 #9: 戽(3)]]
     ==
     - To bale out water [[Kangxi: 抒也]];
     - a baling vessel [[Kangxi: 戽斗舟中渫水器也]];
@@ -2695,7 +2695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~60 褲(3)袴(3)]]
+  - [[Page~60 #8: 褲(3)袴(3)]]
     --
     [[Alternative form of 褲. See $褲fu3.]]
     --
@@ -2725,7 +2725,7 @@ F
   ==
 W
   ====
-  - [[Page~60 褲(3)袴(3)]]
+  - [[Page~60 #8: 褲(3)袴(3)]]
     ==
     - A covering for the legs, trowsers [[Kangxi 袴: 脛衣也]];
     - _(4)ngau (4)t(')au ~~fu(3)~~ ``f(u/)(3)``_
@@ -2782,7 +2782,7 @@ F
   ==
 W
   ====
-  - [[Page~60 賦(3)]]
+  - [[Page~60 #6: 賦(3)]]
     ==
     - To exact, to levy, to collect, to require [[Kangxi: 責取也, 斂也]];
     - taxes of money ~~or~~ ``for the`` military ~~arms~~;
@@ -3376,7 +3376,7 @@ F
   ==
 W
   ====
-  - [[Page~60 (5)婦]]
+  - [[Page~60 #3: (5)婦]]
     ==
     - A wife, a married woman, a female under subjection [[Kangxi: 服也, ::[...]又女子已嫁曰婦婦之言服也服事於夫也::]];
     - a lady;
