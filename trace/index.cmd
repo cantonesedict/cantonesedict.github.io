@@ -16165,6 +16165,93 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~608
+    ,{#page-608-entry-1} #1
+    ,{.williams} 誦(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $誦zung6
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-2} #2
+    ,{.williams} 頌(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $頌zung6
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-3} #3
+    ,{.williams} 從(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $從zung6
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-4} #4
+    ,{.williams} (1)聰(1)聦
+    ,
+      <nav class="sideways">
+      ==
+      - ($聦cung1)
+      - $聰cung1
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-5} #5
+    ,{.williams} (1)悤
+    ,
+      <nav class="sideways">
+      ==
+      - $匆cung1
+      - ($悤cung1)
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-6} #6
+    ,{.williams} (1){𤧚=⿰𤣩怱}
+    ,
+      <nav class="sideways">
+      ==
+      - (${𤧚=⿰𤣩怱}cung1)
+      - $璁cung1
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-7} #7
+    ,{.williams} (1)騘
+    ,
+      <nav class="sideways">
+      ==
+      - ($騘cung1)
+      - $驄cung1
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-8} #8
+    ,{.williams} (1)葱
+    ,
+      <nav class="sideways">
+      ==
+      - ($葱cung1)
+      - $蔥cung1
+      ==
+      </nav>
+  //
+    ,{#page-608-entry-9} #9
+    ,{.williams} (4)從
+    ,
+      <nav class="sideways">
+      ==
+      - $從cung4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

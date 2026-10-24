@@ -193,7 +193,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)悤; here normalised to 匆]]
+  - [[Page~608 #5: (1)悤; here normalised to 匆]]
     ==
     - Hurried [[Kangxi 悤: 悤悤急遽也, 亦作忩俗作匆非]], alarmed, agitated;
     - _n(o\)(6) h(i/)(3) (1)ts(')ung (1)ts(')ung_
@@ -306,7 +306,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)悤]]
+  - [[Page~608 #5: (1)悤]]
     --
     [[Alternative form of 匆. **See $匆cung1 for the canonical entry.**]]
     --
@@ -523,7 +523,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1){𤧚=⿰𤣩怱}]]
+  - [[Page~608 #6: (1){𤧚=⿰𤣩怱}]]
     --
     [[Alternative form of 璁. **See $璁cung1 for the canonical entry.**]]
     --
@@ -555,7 +555,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1){𤧚=⿰𤣩怱}; here normalised to 璁]]
+  - [[Page~608 #6: (1){𤧚=⿰𤣩怱}; here normalised to 璁]]
     ==
     - A pebble or stone, resembling a precious gem [[Kangxi 璁: 石之似玉者]].
     ==
@@ -701,7 +701,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)聰(1)聦]]
+  - [[Page~608 #4: (1)聰(1)聦]]
     --
     [[Alternative form of 聰. **See $聰cung1 for the canonical entry.**]]
     --
@@ -737,7 +737,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)聰(1)聦]]
+  - [[Page~608 #4: (1)聰(1)聦]]
     ==
     - Quick at hearing, astute, ready, quickwitted;
     - to perceive clearly [[Kangxi 聰: 聞也明也通也聽也]];
@@ -784,7 +784,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)葱]]
+  - [[Page~608 #8: (1)葱]]
     --
     [[Alternative form of 蔥. **See $蔥cung1 for the canonical entry.**]]
     --
@@ -811,7 +811,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)葱; here normalised to 蔥]]
+  - [[Page~608 #8: (1)葱; here normalised to 蔥]]
     ==
     - An onion~~, garlic~~;
     - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
@@ -993,7 +993,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)騘]]
+  - [[Page~608 #7: (1)騘]]
     --
     [[Alternative form of 驄. **See $驄cung1 for the canonical entry.**]]
     --
@@ -1026,7 +1026,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)騘; here normalised to 驄]]
+  - [[Page~608 #7: (1)騘; here normalised to 驄]]
     ==
     - A dapple-gray horse [[Kangxi 驄: 馬靑白雜毛也 etc.]]~~, a bay horse~~;
     - _(5)'ng (1)f(a/) (1)ts(')ung_
@@ -1402,7 +1402,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (4)從]]
+  - [[Page~608 #9: (4)從]]
     ==
     - To follow, to listen to [[Kangxi: 相聽也]], to comply with, to agree;
     - to believe in;

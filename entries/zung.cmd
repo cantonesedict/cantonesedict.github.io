@@ -2415,7 +2415,7 @@ F
   ==
 W
   ====
-  - [[Page~608 從(6)]]
+  - [[Page~608 #3: 從(6)]]
     ==
     - A clan or family [[Kangxi: 同宗也]]~~, a succession of, as posterity~~;
     - ~~to be second to, to follow after;~~
@@ -2558,7 +2558,7 @@ F
   ==
 W
   ====
-  - [[Page~608 誦(6)]]
+  - [[Page~608 #1: 誦(6)]]
     ==
     - To hum, to recite over, to read in a humming tone [[Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.]], as priests do;
     - a murmuring, recitative way of reading;
@@ -2730,7 +2730,7 @@ F
   ==
 W
   ====
-  - [[Page~608 頌(6)]]
+  - [[Page~608 #2: 頌(6)]]
     ==
     <## $頌jung4
     - The face, the visage;
