@@ -503,7 +503,7 @@ F
   ==
 W
   ====
-  - [[Page~52 覆(6) _Fau(6)_ (fau6); here normalised to _Fuk(7)_ (fuk1)]]
+  - [[Page~52 #6: 覆(6) _Fau(6)_ (fau6); here normalised to _Fuk(7)_ (fuk1)]]
     ==
     - To cover, to overshadow [[Kangxi: 蓋也]];
     - [[...]];

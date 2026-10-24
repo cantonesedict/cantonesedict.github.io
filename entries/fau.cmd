@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (2)否]]
+  - [[Page~52 #2: (2)否]]
     ==
     - Not so, ~~ought~~ not [[Kangxi: 不也 etc.]];
     - used at the end of sentences as a negative interrogation;
@@ -477,7 +477,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (2)芣 _(2)Fau_ (fau2); here corrected to _(4)Fau_ (fau4)]]
+  - [[Page~52 #3: (2)芣 _(2)Fau_ (fau2); here corrected to _(4)Fau_ (fau4)]]
     ==
     - The plantago or plantain leaf,
       called _~~(2)fau~~ ``(4)fau`` (5)(i/)_
@@ -518,7 +518,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (4)蜉]]
+  - [[Page~52 #1: (4)蜉]]
     ==
     - A large ant, called _(4)p(')(i/) (4)fau_ [[pei4 fau4 蚍蜉]] [[Kangxi: ::蚍蜉大[螘]::]]^;
     - _(4)fau (4)yau_
@@ -567,7 +567,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~52 覆(6); here corrected to 伏]]
+  - [[Page~52 #6: 覆(6); here corrected to 伏]]
     ==
     - [[...]];
     - to brood, as a hen;
@@ -614,7 +614,7 @@ F
   ==
 W
   ====
-  - [[Page~52 ::~~{？=⿱垖十}~~``埠``(6)::]]
+  - [[Page~52 #5: ::~~{？=⿱垖十}~~``埠``(6)::]]
     ==
     - A landing where trade is carried on,
       a mart on the seaside,
@@ -713,7 +713,7 @@ F
   ==
 W
   ====
-  - [[Page~52 覆(6)]]
+  - [[Page~52 #6: 覆(6)]]
     --
     [[Reading variation (for the "overspread" sense). **See $覆fuk1 for the canonical entry.**]]
     --
@@ -743,7 +743,7 @@ F
   ==
 W
   ====
-  - [[Page~52 阜(6)阝]]
+  - [[Page~52 #4: 阜(6)阝]]
     ==
     - A ``great`` mound or hill of earth [[Kangxi 阜: 大陸曰阜, 山無石者]];
     - ``the 170th~``radical [[U+2FA9 ⾩ "mound"]] of elevations, hills, &c.;

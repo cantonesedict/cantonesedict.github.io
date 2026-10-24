@@ -8478,6 +8478,143 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=15} Page~52
+    ,{#page-52-entry-1} #1
+    ,{.williams} (4)蜉
+    ,
+      <nav class="sideways">
+      ==
+      - $蜉fau4
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-2} #2
+    ,{.williams} (2)否
+    ,
+      <nav class="sideways">
+      ==
+      - $否fau2
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-3} #3
+    ,{.williams} (2)芣
+    ,
+      <nav class="sideways">
+      ==
+      - $芣fau4
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-4} #4
+    ,{.williams} 阜(6)阝
+    ,
+      <nav class="sideways">
+      ==
+      - $阜fau6
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-5} #5
+    ,{.williams} {？=⿱垖十}(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $埠fau6
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-6} #6
+    ,{.williams} 覆(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $伏fau6
+      - ($覆fau6), $覆fuk1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-7} #7
+    ,{.williams} (1)非
+    ,
+      <nav class="sideways">
+      ==
+      - $非fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-8} #8
+    ,{.williams} (1)扉
+    ,
+      <nav class="sideways">
+      ==
+      - $扉fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-9} #9
+    ,{.williams} (1)緋
+    ,
+      <nav class="sideways">
+      ==
+      - $緋fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-10} #10
+    ,{.williams} (1)裶
+    ,
+      <nav class="sideways">
+      ==
+      - $裶fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-11} #11
+    ,{.williams} (1)蜚
+    ,
+      <nav class="sideways">
+      ==
+      - $蜚fei1, $蜚fei2
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-12} #12
+    ,{.williams} (1)霏
+    ,
+      <nav class="sideways">
+      ==
+      - $霏fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-13} #13
+    ,{.williams} (1)騑
+    ,
+      <nav class="sideways">
+      ==
+      - $騑fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-14} #14
+    ,{.williams} (1)飛
+    ,
+      <nav class="sideways">
+      ==
+      - $飛fei1
+      ==
+      </nav>
+  //
+    ,{#page-52-entry-15} #15
+    ,{.williams} (1){？=⿰女㔾}
+    ,
+      <nav class="sideways">
+      ==
+      - $妃fei1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

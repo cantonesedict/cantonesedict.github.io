@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~52 ::(1)~~{？=⿰女㔾}~~``妃``::]]
+  - [[Page~52 #15: ::(1)~~{？=⿰女㔾}~~``妃``::]]
     ==
     - Royal concubines [[Kangxi 妃: ::女與己身儔也古[嬪]御之貴次于后者曰妃::]];
     - _~~(1)wong~~ ``(4)wong`` (1)f(i/)_
@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)扉]]
+  - [[Page~52 #8: (1)扉]]
     ==
     - A wooden ~~door with two leaves~~ ``door-leaf`` [[Kangxi: 戶扇也, 闔謂之扉, 以木曰扉以葦曰扇]];
     - _met._ a rustic house.
@@ -182,7 +182,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)緋]]
+  - [[Page~52 #9: (1)緋]]
     ==
     - Red or crimson silk [[Kangxi: 帛赤色, 絳色又赤練]];
     - _(1)f(i/) (4)p(')(o\)_
@@ -250,7 +250,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)蜚]]
+  - [[Page~52 #11: (1)蜚]]
     --
     [[...]]
     --
@@ -283,7 +283,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)裶]]
+  - [[Page~52 #10: (1)裶]]
     ==
     - ~~To lift up the skirt;~~
     - long, trailing``, as`` dresses [[Kangxi: 衣長貌, 曳衣貌]];
@@ -315,7 +315,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)霏]]
+  - [[Page~52 #12: (1)霏]]
     ==
     - Rain, sleet, or snow driven by the wind, and filling the air [[Kangxi: 雨雪貌, 雰也, 霏甚貌]].
     ==
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)非]]
+  - [[Page~52 #7: (1)非]]
     ==
     - Not right, not good [[Kangxi: 不是也]];
     - not so, opposite [[Kangxi: 違也]];
@@ -417,7 +417,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)飛]]
+  - [[Page~52 #14: (1)飛]]
     ==
     - To fly [[Kangxi: 鳥翥, 飛翔]];
     - to flit;
@@ -520,7 +520,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)騑]]
+  - [[Page~52 #13: (1)騑]]
     ==
     - The two outside of a team of four horses [[Kangxi: 車有一轅四馬中兩馬夾轅名服馬兩邊名騑馬亦名驂馬]];
     - _(1)f(i/) (1)f(i/)_
@@ -970,7 +970,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~52 (1)蜚 _(1)F(i/)_ (fei1); here corrected to _(2)F(i/)_ (fei2)]]
+  - [[Page~52 #11: (1)蜚 _(1)F(i/)_ (fei1); here corrected to _(2)F(i/)_ (fei2)]]
     ==
     - A stinking bug which eats clothes and grain [[Kangxi: ::[...]然則蜚是臭惡之蟲害人衣物[...]::]];
     - a fabulous animal ominous of pestilence [[Kangxi: 獸名, ::[...]見則天下大疫::]].
