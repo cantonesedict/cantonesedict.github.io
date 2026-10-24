@@ -258,7 +258,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
+  - [[Page~554 #9: (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
     ==
     - Bamboos varying in length [[Kangxi: 篸{𥰭=⿱𥫗差}竹貌]];
     - a pandean pipe [[Kangxi: 洞簫也]];
@@ -354,7 +354,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)慘(2){𢡖=⿰忄叅}]]
+  - [[Page~554 #6: (2)慘(2){𢡖=⿰忄叅}]]
     ==
     - Cruel, hard-hearted, inhuman [[Kangxi 慘: 毒也]];
     - to be afflicted, injured, wounded in the mind [[Kangxi 慘: 痛也]];
@@ -394,7 +394,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)憯]]
+  - [[Page~554 #7: (2)憯]]
     ==
     - Pained, feeling acutely, grieved;
     - distressed;
@@ -424,7 +424,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)慘(2){𢡖=⿰忄叅}]]
+  - [[Page~554 #6: (2)慘(2){𢡖=⿰忄叅}]]
     --
     [[Alternative form of 慘. **See $慘caam2 for the canonical entry.**]]
     --
@@ -453,7 +453,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)摻]]
+  - [[Page~554 #8: (2)摻]]
     ==
     - [[...]];
     - to take up with the hand [[Kangxi: 取也一曰執也]].
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)篸]]
+  - [[Page~554 #9: (2)篸]]
     ==
     - [[...]];
     - an open basket like a fan;
@@ -731,7 +731,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
+  - [[Page~554 #1: (4)巉(4){𥕌=⿰石斬}]]
     ==
     - A high, inaccessible peak or cliff [[Kangxi 巉: 巉巖高也]];
     - a cloud-capt summit;
@@ -768,7 +768,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)慚(4)慙]]
+  - [[Page~554 #5: (4)慚(4)慙]]
     --
     [[Alternative form of 慚. **See $慚caam4 for the canonical entry.**]]
     --
@@ -794,7 +794,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)慚(4)慙]]
+  - [[Page~554 #5: (4)慚(4)慙]]
     ==
     - Ashamed, mortified, chopfallen [[Kangxi 慙: 媿也]];
     - to feel ashamed of, to blush for;
@@ -855,7 +855,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)毚]]
+  - [[Page~554 #2: (4)毚]]
     ==
     - Crafty, wily, artful, as a hare [[Kangxi: 狡兔也]],
       which has many ways of escape;
@@ -918,7 +918,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
+  - [[Page~554 #1: (4)巉(4){𥕌=⿰石斬}]]
     --
     [[Alternative form of 巉. **See $巉caam4 for the canonical entry.**]]
     --
@@ -1018,7 +1018,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)讒]]
+  - [[Page~554 #3: (4)讒]]
     ==
     - ~~To adulate, to humor, to flatter;~~
     - to misrepresent, to gloss over, to calumniate,
@@ -1081,7 +1081,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)饞]]
+  - [[Page~554 #4: (4)饞]]
     ==
     - To gormandise, to be fond of eating;
     - greedy, gluttonous, voracious [[Kangxi: 不廉, 饕也]];

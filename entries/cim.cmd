@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)摻 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(i/)m_ (cim1)]]
+  - [[Page~554 #8: (2)摻 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(i/)m_ (cim1)]]
     ==
     - A delicate hand [[Kangxi: 女手貌]], a hand with tapering fingers;
     - fine, tapering, small;

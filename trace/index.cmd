@@ -11544,6 +11544,102 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~554
+    ,{#page-554-entry-1} #1
+    ,{.williams} (4)巉(4){𥕌=⿰石斬}
+    ,
+      <nav class="sideways">
+      ==
+      - $巉caam4
+      - (${𥕌=⿰石斬}caam4)
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-2} #2
+    ,{.williams} (4)毚
+    ,
+      <nav class="sideways">
+      ==
+      - $毚caam4
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-3} #3
+    ,{.williams} (4)讒
+    ,
+      <nav class="sideways">
+      ==
+      - $讒caam4
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-4} #4
+    ,{.williams} (4)饞
+    ,
+      <nav class="sideways">
+      ==
+      - $饞caam4
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-5} #5
+    ,{.williams} (4)慚(4)慙
+    ,
+      <nav class="sideways">
+      ==
+      - ($慙caam4)
+      - $慚caam4
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-6} #6
+    ,{.williams} (2)慘(2){𢡖=⿰忄叅}
+    ,
+      <nav class="sideways">
+      ==
+      - $慘caam2
+      - (${𢡖=⿰忄叅}caam2)
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-7} #7
+    ,{.williams} (2)憯
+    ,
+      <nav class="sideways">
+      ==
+      - $憯caam2
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-8} #8
+    ,{.williams} (2)摻
+    ,
+      <nav class="sideways">
+      ==
+      - $摻caam2, $摻cim1
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-9} #9
+    ,{.williams} (2)篸
+    ,
+      <nav class="sideways">
+      ==
+      - $篸caam1, $篸caam2
+      - $簪zaam1
+      ==
+      </nav>
+  //
+    ,{#page-554-entry-10} #10
+    ,{.williams} (1)親
+    ,
+      <nav class="sideways">
+      ==
+      - $嚫can1
+      - $親can1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

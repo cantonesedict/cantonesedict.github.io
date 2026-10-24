@@ -114,7 +114,7 @@ W
         [[gai1 zaam1 mai5 雞簪米]],
         the fowl pecks the rice---a colloquial phrase.
     ==
-  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
+  - [[Page~554 #9: (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
     ==
     - [[...]];
     - a hair-pin [[Kangxi 篸: 同簪]];

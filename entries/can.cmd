@@ -116,7 +116,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~554 (1)親; here normalised to 嚫]]
+  - [[Page~554 #10: (1)親; here normalised to 嚫]]
     ==
     - [[...]];
     - _(2)kong (1)ts(')an (2)h(o\) (2)hau l(a/)n(6)_
@@ -217,7 +217,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (1)親]]
+  - [[Page~554 #10: (1)親]]
     ==
     - To love, to be attached to [[Kangxi: 愛也]];
     - liking, pleased with;
