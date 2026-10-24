@@ -126,7 +126,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)俘]]
+  - [[Page~58 #2: (1)俘]]
     ==
     - To captivate, to capture [[Kangxi: 一說俘取也]], to take prisoner in war;
     - a prisoner ``of war`` [[Kangxi: 囚敵曰俘]];
@@ -230,7 +230,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)呼]]
+  - [[Page~58 #6: (1)呼]]
     ==
     - To breathe ``out``, an expiration [[Kangxi: 外息也, 出息爲呼入息爲吸]];
     - to call, to invoke [[Kangxi: 喚也]];
@@ -297,7 +297,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)嘑]]
+  - [[Page~58 #7: (1)嘑]]
     ==
     - Same as the preceding [[呼]];
     - also to hoot``, to roar at`` [[Kangxi: 唬也, 大聲]], to menace;
@@ -430,7 +430,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)孚]]
+  - [[Page~58 #1: (1)孚]]
     ==
     - [[...]];
     - accordant, mutual agreement;
@@ -484,7 +484,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~58 (1)孚; here normalised to 孵]]
+  - [[Page~58 #1: (1)孚; here normalised to 孵]]
     ==
     - To brood over, to hatch [[Kangxi 孵: 孵化也 etc.]];
     - [[...]].
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)敷]]
+  - [[Page~58 #8: (1)敷]]
     ==
     - To spread out, to diffuse [[Kangxi: 散也]], to give;
     - to issue ~~an order~~, to promulgate [[Kangxi: ::言其外布[...]::]], to announce, to show forth;
@@ -674,7 +674,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)枯]]
+  - [[Page~58 #12: (1)枯]]
     ==
     - ~~Rotten~~ ``Withered`` wood [[Kangxi: 槀木也]];
     - decayed~~, rotten, putrid~~;
@@ -722,13 +722,13 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)桴; here normalised to 枹]]
+  - [[Page~58 #3: (1)桴; here normalised to 枹]]
     ==
     - [[...]];
     - a drumstick [[Kangxi 桴: 擊鼓杖與枹同]];
     - [[...]].
     ==
-  - [[Page~58 (1)枹]]
+  - [[Page~58 #5: (1)枹]]
     ==
     - A drumstick [[Kangxi: 擊鼓杖也]];
     - [[...]].
@@ -776,7 +776,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)柎]]
+  - [[Page~58 #11: (1)柎]]
     ==
     - A stem or petiole;
     - a calyx [[Kangxi: 花萼足也凡草木房謂之柎]];
@@ -831,7 +831,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)桴]]
+  - [[Page~58 #3: (1)桴]]
     ==
     - A raft [[Kangxi: 編竹木代舟也大曰筏小曰桴]];
     - a ridge pole in a roof [[Kangxi: 棟名, 棟謂之桴, 謂屋脊也]];
@@ -844,7 +844,7 @@ W
     --
     [[Otherwise, an alternative form of 枹. **See $枹fu1 for the canonical entry.**]]
     --
-  - [[Page~58 (1)柎; here normalised to 桴]]
+  - [[Page~58 #11: (1)柎; here normalised to 桴]]
     ==
     - [[...]];
     - a raft [[Kangxi 柎: 編木以渡曰泭或作柎通作桴]];
@@ -945,7 +945,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)痡]]
+  - [[Page~58 #9: (1)痡]]
     --
     [[Reading variation. **See $痡pou1 for the canonical entry.**]] [[TODO]]
     --
@@ -1056,7 +1056,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)膚]]
+  - [[Page~58 #10: (1)膚]]
     ==
     - The skin, the epidermis [[Kangxi: 皮也 etc.]];
     - the soft flesh;
@@ -1142,7 +1142,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)莩]]
+  - [[Page~58 #4: (1)莩]]
     ==
     - The pellicle lining the culms of reeds [[Kangxi: 莩者其筩中白皮至薄者也]];
     - ~~_met._ near to, friendly, sincere.~~
@@ -2984,7 +2984,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)夫]]
+  - [[Page~58 #16: (4)夫]]
     ==
     - An initial particle [[Kangxi: 語端辭]];
     - now therefore, however;
@@ -3028,7 +3028,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)扶]]
+  - [[Page~58 #17: (4)扶]]
     ==
     - ~~To lead a hand,~~ ~~te~~ ``to`` aid, to assist [[Kangxi: 佐也一曰相也]];
     - to uphold, to protect [[Kangxi: 護也]];
@@ -3088,7 +3088,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)符]]
+  - [[Page~58 #14: (4)符]]
     ==
     - A tally made of two slips [[Kangxi: ::符信也[...]分而相合::, 符符節也分爲兩邊各持一以爲信]];
     - a seal on two pieces;
@@ -3190,7 +3190,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)苻]]
+  - [[Page~58 #15: (4)苻]]
     ==
     - A plant, called devil's eye [[Kangxi: 苻鬼目 etc.]],
       from the red and round ~~seeds~~ ``fruit`` it bears [[Kangxi: 莖似葛葉圓而毛子如耳璫赤色叢生江東人呼鬼目草]];

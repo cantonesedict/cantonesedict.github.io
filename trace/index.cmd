@@ -9146,6 +9146,154 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=16} Page~58
+    ,{#page-58-entry-1} #1
+    ,{.williams} (1)孚
+    ,
+      <nav class="sideways">
+      ==
+      - $孚fu1
+      - $孵fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-2} #2
+    ,{.williams} (1)俘
+    ,
+      <nav class="sideways">
+      ==
+      - $俘fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-3} #3
+    ,{.williams} (1)桴
+    ,
+      <nav class="sideways">
+      ==
+      - $枹fu1
+      - $桴fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-4} #4
+    ,{.williams} (1)莩
+    ,
+      <nav class="sideways">
+      ==
+      - $莩fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-5} #5
+    ,{.williams} (1)枹
+    ,
+      <nav class="sideways">
+      ==
+      - $枹fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-6} #6
+    ,{.williams} (1)呼
+    ,
+      <nav class="sideways">
+      ==
+      - $呼fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-7} #7
+    ,{.williams} (1)嘑
+    ,
+      <nav class="sideways">
+      ==
+      - $嘑fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-8} #8
+    ,{.williams} (1)敷
+    ,
+      <nav class="sideways">
+      ==
+      - $敷fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-9} #9
+    ,{.williams} (1)痡
+    ,
+      <nav class="sideways">
+      ==
+      - ($痡fu1)
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-10} #10
+    ,{.williams} (1)膚
+    ,
+      <nav class="sideways">
+      ==
+      - $膚fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-11} #11
+    ,{.williams} (1)柎
+    ,
+      <nav class="sideways">
+      ==
+      - $柎fu1
+      - $桴fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-12} #12
+    ,{.williams} (1)枯
+    ,
+      <nav class="sideways">
+      ==
+      - $枯fu1
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-14} #14
+    ,{.williams} (4)符
+    ,
+      <nav class="sideways">
+      ==
+      - $符fu4
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-15} #15
+    ,{.williams} (4)苻
+    ,
+      <nav class="sideways">
+      ==
+      - $苻fu4
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-16} #16
+    ,{.williams} (4)夫
+    ,
+      <nav class="sideways">
+      ==
+      - $夫fu4
+      ==
+      </nav>
+  //
+    ,{#page-58-entry-17} #17
+    ,{.williams} (4)扶
+    ,
+      <nav class="sideways">
+      ==
+      - $扶fu4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
