@@ -78,7 +78,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)噍]]
+  - [[Page~580 #9: (1)噍]]
     ==
     - A ~~husky,~~ suppressed [[Kangxi: 噍{𠴫=⿰口叔}也]] ``or urgent`` [[Kangxi: 噍子遙反謂急也]] voice;
     - [[...]];
@@ -368,7 +368,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)椒]]
+  - [[Page~580 #5: (1)椒]]
     ==
     - Pepper [[Kangxi: 莍也 etc.]];
     - peppery, hot;
@@ -448,7 +448,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)焦]]
+  - [[Page~580 #7: (1)焦]]
     ==
     - Scorched, burned [[Kangxi: 火所傷也]];
     - blackened, charred [[Kangxi: 火燒黑也]];
@@ -596,14 +596,14 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)焦]]
+  - [[Page~580 #7: (1)焦]]
     --
     [[...]]
     --
     --
     Used for the next [[膲]] [[Kangxi 焦: ::三焦者[...]別作膲::]].
     --
-  - [[Page~580 (1)膲]]
+  - [[Page~580 #8: (1)膲]]
     ==
     - The parts of the body between the heart and groin,
       three imaginary organs which regulate the secretions
@@ -630,7 +630,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)蕉]]
+  - [[Page~580 #6: (1)蕉]]
     ==
     - The banana or plantain [[Kangxi: 芭蕉]];
     - _(1)h(e/)ung (4)ng(a/) (1)tsi(u/)_

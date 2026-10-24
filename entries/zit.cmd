@@ -581,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~580 癤(8)]]
+  - [[Page~580 #1: 癤(8)]]
     ==
     - A small boil, a pimple, a sore [[Kangxi: 癰也, 瘍類與癰疽別瘍之小者爲癤]].
     ==
@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~580 截(9)]]
+  - [[Page~580 #2: 截(9)]]
     ==
     - To cut in pieces, to cut up;
     - to cut off [[Kangxi: 斷也]], to amputate;
@@ -906,7 +906,7 @@ F
   ==
 W
   ====
-  - [[Page~580 捷(9)]]
+  - [[Page~580 #3: 捷(9)]]
     ==
     - ~~To obtain a victory;~~
     - successful, victorious [[Kangxi: 尅也]];

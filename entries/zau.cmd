@@ -296,7 +296,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~580 (1)噍 _(1)Tsi(u/)_ (ziu1); here normalised to _(1)Tsau_ (zau1)]]
+  - [[Page~580 #9: (1)噍 _(1)Tsi(u/)_ (ziu1); here normalised to _(1)Tsau_ (zau1)]]
     ==
     - [[...]];
     - the chattering of birds [[Kangxi: 燕雀聲, 噍子流反, 通作啾]];

@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~580 切(8)]]
+  - [[Page~580 #4: 切(8)]]
     ==
     - To cut, to carve, to mince, to slice [[Kangxi: 割也刻也]];
     - to urge, to press [[Kangxi: 迫也急也]];
