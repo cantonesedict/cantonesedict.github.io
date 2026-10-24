@@ -2545,7 +2545,7 @@
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+714D cau5 (per 《玉篇》慈糾切) ziu2 (per 《玉篇》子了切) (Page 563 煍) To change the color of (Kangxi: 變色也); to colly, to blacken, as with smoke; _fo t'am ts'au_ (fo2 taam4 cau1 火燂煍), the fire blackens it; _ts'au hak_ (cau1 hak1 煍黑) smoked and blackened. Williams' : Changed _hak_ (haak1) to _hak_ (hak1)."
+"text":"U+714D cau5 (per 《玉篇》慈糾切) ziu2 (per 《玉篇》子了切) (Page 563 #1: 煍) To change the color of (Kangxi: 變色也); to colly, to blacken, as with smoke; _fo t'am ts'au_ (fo2 taam4 cau1 火燂煍), the fire blackens it; _ts'au hak_ (cau1 hak1 煍黑) smoked and blackened. Williams' : Changed _hak_ (haak1) to _hak_ (hak1)."
 }
 },
 "瘳":{
@@ -2592,28 +2592,28 @@
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+97A6 秋 (F1.50 鞦) 馬靷又鞦韆 (Page 563 鞦) The traces of a carriage (Kangxi: 車鞦也); _ts'au ts'in_ (cau1 cin1 鞦韆), a swing, a whirligig, a see-saw; _ta ts'au ts'in_ (daa2 cau1 cin1 打鞦韆), to swing. Fan Wan entry: Corrected 䩑 to 靷. In Cantonese, 韆鞦 (cin1 cau1) \"thousand autumns\" is preferred over 鞦韆 (cau1 cin1) \"autumns thousand\". See 韆鞦."
+"text":"U+97A6 秋 (F1.50 鞦) 馬靷又鞦韆 (Page 563 #3: 鞦) The traces of a carriage (Kangxi: 車鞦也); _ts'au ts'in_ (cau1 cin1 鞦韆), a swing, a whirligig, a see-saw; _ta ts'au ts'in_ (daa2 cau1 cin1 打鞦韆), to swing. Fan Wan entry: Corrected 䩑 to 靷. In Cantonese, 韆鞦 (cin1 cau1) \"thousand autumns\" is preferred over 鞦韆 (cau1 cin1) \"autumns thousand\". See 韆鞦."
 }
 },
 "鰌":{
 "cau1":{
 "isCanonical":false,
 "williams":"(1)ts(')au",
-"text":"U+9C0C (F1.50 鰌) 與鰍同泥鰌又海鰌魚 (Page 563 鰌鰍)"
+"text":"U+9C0C (F1.50 鰌) 與鰍同泥鰌又海鰌魚 (Page 563 #4: 鰌鰍)"
 }
 },
 "鰍":{
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+9C0D 鰌 鳅 (Mainland simplified) (F1.50 鰍) 魚名 (Page 563 鰌鰍) An eel; the mud or conger eel (Kangxi 鰌: 鰼也); _nai ts'au_ (nai4 cau1 泥鰍), a freshwater eel; _hoi ts'au_ (hoi2 cau1 海鰍), a sea-dragon, myriads of miles long; a long, narrow boat; _ts'au u kwat_ (cau1 jyu4 gwat1 鰍魚骨) whalebone. Williams' \"eel\": More a loach than an eel."
+"text":"U+9C0D 鰌 鳅 (Mainland simplified) (F1.50 鰍) 魚名 (Page 563 #4: 鰌鰍) An eel; the mud or conger eel (Kangxi 鰌: 鰼也); _nai ts'au_ (nai4 cau1 泥鰍), a freshwater eel; _hoi ts'au_ (hoi2 cau1 海鰍), a sea-dragon, myriads of miles long; a long, narrow boat; _ts'au u kwat_ (cau1 jyu4 gwat1 鰍魚骨) whalebone. Williams' \"eel\": More a loach than an eel."
 }
 },
 "鶖":{
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+9D96 𪀖 鹙 (Mainland simplified) (F1.50 鶖) 秃鶖食魚之鳥 (Page 563 鶖) A long legged bird like an adjutant, having red eyes and bare neck (Kangxi: 水鳥也 etc.); it eats snakes. 【鶖】 (tshjuw) (_noun-like_) marabou"
+"text":"U+9D96 𪀖 鹙 (Mainland simplified) (F1.50 鶖) 秃鶖食魚之鳥 (Page 563 #5: 鶖) A long legged bird like an adjutant, having red eyes and bare neck (Kangxi: 水鳥也 etc.); it eats snakes. 【鶖】 (tshjuw) (_noun-like_) marabou"
 }
 },
 "丑":{
@@ -2651,7 +2651,7 @@
 "cau3":{
 "isCanonical":false,
 "williams":"ts(')au(3)",
-"text":"U+51D1 (F1.55 凑) 會合也 (Page 563 凑湊)"
+"text":"U+51D1 (F1.55 凑) 會合也 (Page 563 #9: 凑湊)"
 }
 },
 "嗅":{
@@ -2665,7 +2665,7 @@
 "cau3":{
 "isCanonical":true,
 "williams":"ts(')au(3)",
-"text":"U+6E4A 凑 輳 (for \"gather\" senses) (F1.55 凑) 會合也 (Page 563 凑湊) To collect, to gather (Kangxi 湊: 一曰聚也); to run together; to run into each other; a gathering on the water, as at a regatta (Kangxi 湊: 水上人所會也); a reunion; to go with one, to take care of; with, together; a concurrence of circumstances, to estimate the probabilities of; to strive to excel (Kangxi 湊: 競進也); for; _ni hu ts'au ngo ta ~~t'eng~~ t'ing_ (nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽) will you go and learn about it for me; _ts'au hau_ (cau3 haau2 湊巧), a lucky guess, a fortunate coincidence, just as; _ts'au ngam_ (cau3 ngaam1 湊啱), a lucky hit; just the thing; _pi sam ki ts'au k'u_ (bei2 sam1 gei1 cau3 keoi5 畀心機湊佢), look carefully after him; _t'ai lai ts'au_ (tai2 lai4 cau3 睇嚟湊) I'll see how I can do; _ts'au kau_ (cau3 gau3 湊夠) to make up enough; _'m ts'au ni ho_ (m4 cau3 nei5 hou2 唔湊你好), I'll have nothing to do with you; _ts'au mai yat hi_ (cau3 maai4 jat1 hei3 湊埋一氣) lump it all in one; _ts'au hop_ (cau3 hap6 湊合) to group. (Page 563 輳) Similar to the preceding (湊) (Kangxi 輳: 通作湊); Williams' 你去湊我打聽: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). The use of 湊 as \"for\" is very dated. 【湊】 (cau3) To look after, to raise, to baby sit. 湊仔 (cau3 zai2): \"Look after kids.\" 湊大佢 (cau3 daai6 keoi5): \"Raised him up.\""
+"text":"U+6E4A 凑 輳 (for \"gather\" senses) (F1.55 凑) 會合也 (Page 563 #9: 凑湊) To collect, to gather (Kangxi 湊: 一曰聚也); to run together; to run into each other; a gathering on the water, as at a regatta (Kangxi 湊: 水上人所會也); a reunion; to go with one, to take care of; with, together; a concurrence of circumstances, to estimate the probabilities of; to strive to excel (Kangxi 湊: 競進也); for; _ni hu ts'au ngo ta ~~t'eng~~ t'ing_ (nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽) will you go and learn about it for me; _ts'au hau_ (cau3 haau2 湊巧), a lucky guess, a fortunate coincidence, just as; _ts'au ngam_ (cau3 ngaam1 湊啱), a lucky hit; just the thing; _pi sam ki ts'au k'u_ (bei2 sam1 gei1 cau3 keoi5 畀心機湊佢), look carefully after him; _t'ai lai ts'au_ (tai2 lai4 cau3 睇嚟湊) I'll see how I can do; _ts'au kau_ (cau3 gau3 湊夠) to make up enough; _'m ts'au ni ho_ (m4 cau3 nei5 hou2 唔湊你好), I'll have nothing to do with you; _ts'au mai yat hi_ (cau3 maai4 jat1 hei3 湊埋一氣) lump it all in one; _ts'au hop_ (cau3 hap6 湊合) to group. (Page 563 #10: 輳) Similar to the preceding (湊) (Kangxi 輳: 通作湊); Williams' 你去湊我打聽: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). The use of 湊 as \"for\" is very dated. 【湊】 (cau3) To look after, to raise, to baby sit. 湊仔 (cau3 zai2): \"Look after kids.\" 湊大佢 (cau3 daai6 keoi5): \"Raised him up.\""
 }
 },
 "簇":{
@@ -2737,7 +2737,7 @@
 "cau3":{
 "isCanonical":true,
 "williams":"ts(')au(3)",
-"text":"U+8F33 辏 (Mainland simplified) (F1.55 輳) 輻輳猶聚集也 (Page 563 輳) centre of a wheel, place where the rays centre (Kangxi: 輻輳輻共轂也); to collect, to bring together (Kangxi: 輳聚也); concentrated."
+"text":"U+8F33 辏 (Mainland simplified) (F1.55 輳) 輻輳猶聚集也 (Page 563 #10: 輳) centre of a wheel, place where the rays centre (Kangxi: 輻輳輻共轂也); to collect, to bring together (Kangxi: 輳聚也); concentrated."
 }
 },
 "仇":{
@@ -2758,7 +2758,7 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ts(')au",
-"text":"U+56DA (F1.53 囚) 囚犯拘罪人也 (Page 563 before 囚) (The three next (囚, 酋, 遒) are often read _ch'au_.) (Page 563 囚) To imprison, to confine, to cage (Kangxi: 繫也, 拘也); to ~~handcuff~~ restrain (Kangxi: 囚拘也主拘繫當𠛬殺者); a prisoner, a felon; a prison; _ts'au lung_ (cau4 lung4 囚籠), a cage in which criminals are carried; _yap ts'au_ (jap6 cau4 入囚), to imprison; _ts'au fan_ (cau4 faan6-2 囚犯) a criminal. Fan Wan entry: Corrected ⿰才巳 to 犯. Williams' \"to handcuff\": Kangxi has 囚拘也主拘繫當𠛬殺者 followed by commentary on various wooden restraints depending on the crime/punishment. In particular, 桎 applies to the feet, so 囚 is better rendered generically as \"restrain\", rather than \"handcuff\". 【囚】 (zjuw) (_verb-like_) to imprison (_noun-like_) prisoner"
+"text":"U+56DA (F1.53 囚) 囚犯拘罪人也 (Page 563: before 囚) (The three next (囚, 酋, 遒) are often read _ch'au_.) (Page 563 #6: 囚) To imprison, to confine, to cage (Kangxi: 繫也, 拘也); to ~~handcuff~~ restrain (Kangxi: 囚拘也主拘繫當𠛬殺者); a prisoner, a felon; a prison; _ts'au lung_ (cau4 lung4 囚籠), a cage in which criminals are carried; _yap ts'au_ (jap6 cau4 入囚), to imprison; _ts'au fan_ (cau4 faan6-2 囚犯) a criminal. Fan Wan entry: Corrected ⿰才巳 to 犯. Williams' \"to handcuff\": Kangxi has 囚拘也主拘繫當𠛬殺者 followed by commentary on various wooden restraints depending on the crime/punishment. In particular, 桎 applies to the feet, so 囚 is better rendered generically as \"restrain\", rather than \"handcuff\". 【囚】 (zjuw) (_verb-like_) to imprison (_noun-like_) prisoner"
 }
 },
 "幬":{
@@ -2854,14 +2854,14 @@
 "cau4":{
 "isCanonical":true,
 "williams":"(4)ts(')au",
-"text":"U+9052 逎 (F1.53 遒) 聚也 (Page 563 before 囚) (The three next (囚, 酋, 遒) are often read _ch'au_.) (Page 563 遒) To urge, to constrain, to press upon (Kangxi: 迫也); a crowd, a throng; to exhaust, to carry to the utmost, to end (Kangxi: 盡也); brave, strong, unyielding (Kangxi: 健也勁也); to bring together (Kangxi: 聚也); _ts'au yan_ (cau4 jan4 遒人), a herald. 【遒】 (tsjuw, dzjuw) (_verb-like_) to rally, to consolidate"
+"text":"U+9052 逎 (F1.53 遒) 聚也 (Page 563: before 囚) (The three next (囚, 酋, 遒) are often read _ch'au_.) (Page 563 #8: 遒) To urge, to constrain, to press upon (Kangxi: 迫也); a crowd, a throng; to exhaust, to carry to the utmost, to end (Kangxi: 盡也); brave, strong, unyielding (Kangxi: 健也勁也); to bring together (Kangxi: 聚也); _ts'au yan_ (cau4 jan4 遒人), a herald. 【遒】 (tsjuw, dzjuw) (_verb-like_) to rally, to consolidate"
 }
 },
 "酋":{
 "cau4":{
 "isCanonical":false,
 "williams":"(4)ts(')au",
-"text":"U+914B (F1.53 酋) 夷狄有酋長 (Page 563 酋)"
+"text":"U+914B (F1.53 酋) 夷狄有酋長 (Page 563 #7: 酋)"
 }
 },
 "酧":{
@@ -13439,7 +13439,7 @@
 "zau3":{
 "isCanonical":true,
 "williams":"chau(3)",
-"text":"U+7503 (F1.50 甃 _Ts'au_ (cau1)) 井甓又結砌也 (Page 563 甃 _Ts'au_ (cau1); here corrected to _Chau_ (zau3)) The brick lining of a well (Kangxi: 井甓也); to lay, as bricks (Kangxi: 結砌也); to pile up (Kangxi: 以塼壘井修井之壞謂之甃); to finish off a well. Fan Wan entry: Corrected 并 to 井. To adorn, to decorate (Kangxi: 甃猶飾也). 【甃】 (tsrjuwH) (_noun-like_) brickwork"
+"text":"U+7503 (F1.50 甃 _Ts'au_ (cau1)) 井甓又結砌也 (Page 563 #2: 甃 _Ts'au_ (cau1); here corrected to _Chau_ (zau3)) The brick lining of a well (Kangxi: 井甓也); to lay, as bricks (Kangxi: 結砌也); to pile up (Kangxi: 以塼壘井修井之壞謂之甃); to finish off a well. Fan Wan entry: Corrected 并 to 井. To adorn, to decorate (Kangxi: 甃猶飾也). 【甃】 (tsrjuwH) (_noun-like_) brickwork"
 }
 },
 "皺":{
@@ -13566,7 +13566,7 @@
 "ze1":{
 "isCanonical":true,
 "williams":"(1)ts(e/)",
-"text":"U+55DF (F2.83 嗟) 嘆詞又痛惜也 (F2.83 𭋦) 同上 (Page 563 嗟) To sigh, to lament (Kangxi: 嗟歎也); painful regrets (Kangxi: 一曰痛惜也); an interjection of admiration (Kangxi: 咨也); ah! alas! (Kangxi: 嗟佐也言不足以盡意故發此聲以自佐也) _tse t'an_ (ze1 taan3 嗟嘆) to sigh; _tse loi chi shik_ (ze1 loi4 zi1 sik6 嗟來之食) ~~to groan and beg one's bread~~ food given in contempt. Fan Wan entry: Corrected ⿰亻肯 to 惜. Williams' 嗟來之食: Not to beg for food, but food given in contempt. Per 《禮檀弓》, the phrase 嗟來食 \"alas come eat\" was the utterance of the wealthy man 黔敖 as he handed out food and drink to the famished. 【嗟】 (tsjae) (_interjection_) alas"
+"text":"U+55DF (F2.83 嗟) 嘆詞又痛惜也 (F2.83 𭋦) 同上 (Page 563 #11: 嗟) To sigh, to lament (Kangxi: 嗟歎也); painful regrets (Kangxi: 一曰痛惜也); an interjection of admiration (Kangxi: 咨也); ah! alas! (Kangxi: 嗟佐也言不足以盡意故發此聲以自佐也) _tse t'an_ (ze1 taan3 嗟嘆) to sigh; _tse loi chi shik_ (ze1 loi4 zi1 sik6 嗟來之食) ~~to groan and beg one's bread~~ food given in contempt. Fan Wan entry: Corrected ⿰亻肯 to 惜. Williams' 嗟來之食: Not to beg for food, but food given in contempt. Per 《禮檀弓》, the phrase 嗟來食 \"alas come eat\" was the utterance of the wealthy man 黔敖 as he handed out food and drink to the famished. 【嗟】 (tsjae) (_interjection_) alas"
 }
 },
 "姐":{
@@ -13578,14 +13578,14 @@
 "ze2":{
 "isCanonical":true,
 "williams":"(2)ts(e/)",
-"text":"U+59D0 媎 (for \"mother\" sense) ze2-1 (vernacular, and high second in reduplication 姐姐) ze2-4 (low suffix for endearment, and low first in reduplication 姐姐) (F2.84 姐) 姊也 (Page 563 姐) An elder sister (Kangxi: 今俗弟呼女兄曰姐); a miss; formerly applied to one's mother (Kangxi: 蜀人呼母曰姐); proud, saucy (Kangxi: 一曰慢也); _tse mui_ (ze2 mui6-2 姐妹) sisters; _tai tse_ (daai6 ze2-1 大姐), my elder sister; also, a marriageable maidservant; _siu tse_ (siu2 ze2 小姐), a young miss; _ling tse_ (ling6 ze2 令姐), your sister; _tse fu_ (ze2 fu1 姐夫), a sister's husband; _a tse_ (aa3 ze2 阿姐), sister; also a term for a father's concubine. Williams' 姐妹: The preferred term for \"sisters\" in Cantonese is 姊妹. Williams' 阿姐: This is the meaning when 姐 is read in the original rising tone. 【阿姐】 (aa3 ze2-1) Generic address for an adult woman when the speaker is not a child. (Can be respectful, neutral, or impolite depending on the context.) 【家姐】 (gaa1 ze2-1) Older sister (or older female paternal cousin). 【細姐】 (sai3 ze2) Father's concubine (presumed to be younger than his wife)."
+"text":"U+59D0 媎 (for \"mother\" sense) ze2-1 (vernacular, and high second in reduplication 姐姐) ze2-4 (low suffix for endearment, and low first in reduplication 姐姐) (F2.84 姐) 姊也 (Page 563 #13: 姐) An elder sister (Kangxi: 今俗弟呼女兄曰姐); a miss; formerly applied to one's mother (Kangxi: 蜀人呼母曰姐); proud, saucy (Kangxi: 一曰慢也); _tse mui_ (ze2 mui6-2 姐妹) sisters; _tai tse_ (daai6 ze2-1 大姐), my elder sister; also, a marriageable maidservant; _siu tse_ (siu2 ze2 小姐), a young miss; _ling tse_ (ling6 ze2 令姐), your sister; _tse fu_ (ze2 fu1 姐夫), a sister's husband; _a tse_ (aa3 ze2 阿姐), sister; also a term for a father's concubine. Williams' 姐妹: The preferred term for \"sisters\" in Cantonese is 姊妹. Williams' 阿姐: This is the meaning when 姐 is read in the original rising tone. 【阿姐】 (aa3 ze2-1) Generic address for an adult woman when the speaker is not a child. (Can be respectful, neutral, or impolite depending on the context.) 【家姐】 (gaa1 ze2-1) Older sister (or older female paternal cousin). 【細姐】 (sai3 ze2) Father's concubine (presumed to be younger than his wife)."
 }
 },
 "罝":{
 "ze1":{
 "isCanonical":true,
 "williams":"(1)ts(e/)",
-"text":"U+7F5D (F2.83 罝) 取兔網 (Page 563 罝) A net with which hares are caught (Kangxi: 兔罔也); a net for beasts (Kangxi: 獸罟曰罝); to stop the way, as a net does. Fan Wan entry: Normalised headword ⿱罓且 to 罝. 【罝】 (tsjae) (_noun-like_) rabbit-net"
+"text":"U+7F5D (F2.83 罝) 取兔網 (Page 563 #12: 罝) A net with which hares are caught (Kangxi: 兔罔也); a net for beasts (Kangxi: 獸罟曰罝); to stop the way, as a net does. Fan Wan entry: Normalised headword ⿱罓且 to 罝. 【罝】 (tsjae) (_noun-like_) rabbit-net"
 }
 },
 "遮":{

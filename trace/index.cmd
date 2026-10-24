@@ -12294,6 +12294,127 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~563
+    ,{#page-563-entry-1} #1
+    ,{.williams} (1)煍
+    ,
+      <nav class="sideways">
+      ==
+      - $煍cau1
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-2} #2
+    ,{.williams} (1)甃
+    ,
+      <nav class="sideways">
+      ==
+      - $甃zau3
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-3} #3
+    ,{.williams} (1)鞦
+    ,
+      <nav class="sideways">
+      ==
+      - $鞦cau1
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-4} #4
+    ,{.williams} (1)鰌(1)鰍
+    ,
+      <nav class="sideways">
+      ==
+      - ($鰌cau1)
+      - $鰍cau1
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-5} #5
+    ,{.williams} (1)鶖
+    ,
+      <nav class="sideways">
+      ==
+      - $鶖cau1
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-6} #6
+    ,{.williams} (4)囚
+    ,
+      <nav class="sideways">
+      ==
+      - $囚cau4
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-7} #7
+    ,{.williams} (4)酋
+    ,
+      <nav class="sideways">
+      ==
+      - ($酋cau4)
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-8} #8
+    ,{.williams} (4)遒
+    ,
+      <nav class="sideways">
+      ==
+      - $遒cau4
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-9} #9
+    ,{.williams} 凑(3)湊(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($凑cau3)
+      - $湊cau3
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-10} #10
+    ,{.williams} 輳(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $湊cau3
+      - $輳cau3
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-11} #11
+    ,{.williams} (1)嗟
+    ,
+      <nav class="sideways">
+      ==
+      - $嗟ze1
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-12} #12
+    ,{.williams} (1)罝
+    ,
+      <nav class="sideways">
+      ==
+      - $罝ze1
+      ==
+      </nav>
+  //
+    ,{#page-563-entry-13} #13
+    ,{.williams} (2)姐
+    ,
+      <nav class="sideways">
+      ==
+      - $姐ze2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

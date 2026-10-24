@@ -120,7 +120,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)嗟]]
+  - [[Page~563 #11: (1)嗟]]
     ==
     - To sigh, to lament [[Kangxi: 嗟歎也]];
     - painful regrets [[Kangxi: 一曰痛惜也]];
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)罝]]
+  - [[Page~563 #12: (1)罝]]
     ==
     - A net with which hares are caught [[Kangxi: 兔罔也]];
     - a net for beasts [[Kangxi: 獸罟曰罝]];
@@ -312,7 +312,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (2)姐]]
+  - [[Page~563 #13: (2)姐]]
     ==
     - An elder sister [[Kangxi: 今俗弟呼女兄曰姐]];
     - a miss;

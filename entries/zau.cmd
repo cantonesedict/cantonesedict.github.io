@@ -1871,7 +1871,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Chau(3)_ (zau3)]]
+  - [[Page~563 #2: (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Chau(3)_ (zau3)]]
     ==
     - The brick lining of a well [[Kangxi: 井甓也]];
     - to lay, as bricks [[Kangxi: 結砌也]];

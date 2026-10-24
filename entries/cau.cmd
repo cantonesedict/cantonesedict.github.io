@@ -431,7 +431,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~563 (1)煍]]
+  - [[Page~563 #1: (1)煍]]
     ==
     - To change the color of [[Kangxi: 變色也]];
     - to colly, to blacken, as with smoke;
@@ -683,7 +683,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鞦]]
+  - [[Page~563 #3: (1)鞦]]
     ==
     - The traces of a carriage [[Kangxi: 車鞦也]];
     - _(1)ts(')au (1)ts(')(i/)n_
@@ -716,7 +716,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鰌(1)鰍]]
+  - [[Page~563 #4: (1)鰌(1)鰍]]
     --
     [[Alternative form of 鰍. **See $鰍cau1 for the canonical entry.**]]
     --
@@ -741,7 +741,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鰌(1)鰍]]
+  - [[Page~563 #4: (1)鰌(1)鰍]]
     ==
     - An eel;
     - the mud or conger eel [[Kangxi 鰌: 鰼也]];
@@ -781,7 +781,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鶖]]
+  - [[Page~563 #5: (1)鶖]]
     ==
     - A long legged bird like an adjutant, having red eyes and bare neck [[Kangxi: 水鳥也 etc.]];
     - it eats snakes.
@@ -1001,7 +1001,7 @@ F
   ==
 W
   ====
-  - [[Page~563 凑(3)湊(3)]]
+  - [[Page~563 #9: 凑(3)湊(3)]]
     --
     [[Alternative form of 湊. **See $湊cau3 for the canonical entry.**]]
     --
@@ -1064,7 +1064,7 @@ F
   ==
 W
   ====
-  - [[Page~563 凑(3)湊(3)]]
+  - [[Page~563 #9: 凑(3)湊(3)]]
     ==
     - To collect, to gather [[Kangxi 湊: 一曰聚也]];
     - to run together;
@@ -1105,7 +1105,7 @@ W
         [[cau3 hap6 湊合]]
         to group.
     ==
-  - [[Page~563 輳(3)]]
+  - [[Page~563 #10: 輳(3)]]
     ==
     - Similar to the preceding [[湊]] [[Kangxi 輳: 通作湊]];
     - [[...]].
@@ -1358,7 +1358,7 @@ F
   ==
 W
   ====
-  - [[Page~563 輳(3)]]
+  - [[Page~563 #10: 輳(3)]]
     ==
     - [[...]];
     - centre of a wheel, place where the rays centre [[Kangxi: 輻輳輻共轂也]];
@@ -1493,11 +1493,11 @@ F
   ==
 W
   ====
-  - [[Page~563 before (4)囚]]
+  - [[Page~563: before (4)囚]]
     --
     (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
     --
-  - [[Page~563 (4)囚]]
+  - [[Page~563 #6: (4)囚]]
     ==
     - To imprison, to confine, to cage [[Kangxi: 繫也, 拘也]];
     - to ~~handcuff~~ ``restrain`` [[Kangxi: 囚拘也主拘繫當{𠛬=⿰幵刂}殺者]];
@@ -2125,11 +2125,11 @@ F
   ==
 W
   ====
-  - [[Page~563 before (4)囚]]
+  - [[Page~563: before (4)囚]]
     --
     (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
     --
-  - [[Page~563 (4)遒]]
+  - [[Page~563 #8: (4)遒]]
     ==
     - To urge, to constrain, to press upon [[Kangxi: 迫也]];
     - a crowd, a throng;
@@ -2163,7 +2163,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (4)酋]]
+  - [[Page~563 #7: (4)酋]]
     --
     [[Reading variation. **See $酋jau4 for the canonical entry.**]] [[TODO]]
     --
