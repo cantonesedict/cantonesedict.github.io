@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
-  - [[Page~74 呷(8)]]
+  - [[Page~74 #9: 呷(8)]]
     ==
     - To gulp, to swallow, to drink;
     - _chuk(7) (2)shui (5)m(o\) t(a/)m(6) h(a/)p(8)_
@@ -64,7 +64,7 @@ $$
 $$
 W
   ====
-  - [[Page~74 匣(9)]]
+  - [[Page~74 #12: 匣(9)]]
     ==
     - A chest or trunk;
     - a press for clothes;
@@ -110,7 +110,7 @@ $$
 $$
 W
   ====
-  - [[Page~74 柙(9)]]
+  - [[Page~74 #11: 柙(9)]]
     ==
     - A cage for wild beasts or prisoners;
     - to encage;
@@ -125,7 +125,7 @@ $$
 $$
 W
   ====
-  - [[Page~74 狎(9)]]
+  - [[Page~74 #10: 狎(9)]]
     ==
     - Accustomed, familiar with;
     - irreverent, disrespectful to;

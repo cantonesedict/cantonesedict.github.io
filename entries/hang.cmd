@@ -468,7 +468,7 @@ F
   ==
 W
   ====
-  - [[Page~74 (4)桁 _(4)H(a/)ng_ (haang4); here normalised to _(4)Hang_ (hang4)]]
+  - [[Page~74 #6: (4)桁 _(4)H(a/)ng_ (haang4); here normalised to _(4)Hang_ (hang4)]]
     ==
     - The purlines of a roof [[Kangxi: 屋桁屋橫木也]];
     - [[...]];
@@ -924,7 +924,7 @@ F
   ==
 W
   ====
-  - [[Page~74 倖(6)]]
+  - [[Page~74 #1: 倖(6)]]
     --
     [[Alternative form of 幸 (for the "fortunate" and "favour" senses). See $幸hang6.]]
     --
@@ -1015,7 +1015,7 @@ W
         [[bat1 hang6 zung1 zi1 hang6 不幸中之幸]]
         fortunate in the midst of disaster.
     ==
-  - [[Page~74 倖(6)]]
+  - [[Page~74 #1: 倖(6)]]
     ==
     - To obtain or avoid without merit or right [[Kangxi 幸: 非分而得曰幸, 非所當得而得與不可免而免曰幸]];
     - _hang(6) (5)m(i/)n_
@@ -1097,7 +1097,7 @@ F
   ==
 W
   ====
-  - [[Page~74 杏(6)]]
+  - [[Page~74 #2: 杏(6)]]
     ==
     - A kind of plum [[Kangxi: 果名 etc.]];
     - _hang(6) (4)yan_
@@ -1143,7 +1143,7 @@ F
   ==
 W
   ====
-  - [[Page~74 荇(6)]]
+  - [[Page~74 #3: 荇(6)]]
     ==
     - An aquatic vegetable with a reddish leaf [[Kangxi: 接余也 etc.]];
     - not found in Canton.
@@ -1192,7 +1192,7 @@ F
   ==
 W
   ====
-  - [[Page~74 行(6)]]
+  - [[Page~74 #4: 行(6)]]
     ==
     - Actions, conduct [[Kangxi: 行迹也, 德行內外在心爲德施之爲行]];
     - _(2)pan hang(6)_

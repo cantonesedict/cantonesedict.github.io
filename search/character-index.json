@@ -11025,7 +11025,7 @@
 "haang1":{
 "isCanonical":true,
 "williams":"(1)h(a/)ng",
-"text":"U+5751 坈 阬 (F2.88 坑) 坑坎阱也 (Page 74 坑) A ditch, trench, hollow, hole, cave, or pit, natural or artificial (Kangxi: 同阬, 虛也, 陷也); the furrows in a roof; a pit to entrap wild beasts; to throw into a pit; to excavate; _hang k'u_ (haang1 keoi4 坑渠), a sewer or drain; _hang hom_ (haang1 ham2 坑坎), a natural gully, a ravine; _Lo hang_ (lou5 haang1 老坑), a quarry in ~~Shauking~~ Chauking fu (肇慶府) which furnishes good inkstones; _shui hang mun_ (seoi2 haang1 mun4 水坑門), a sluice; _mui hang_ (mui4 haang1 煤坑), a coal pit. Williams' 老坑: Corrected _Lo_ (lou2) to _Lo_ (lou5). 【阬】 (khaeng) (_noun-like_) pit (_verb-like_) (_met._) to bury"
+"text":"U+5751 坈 阬 (F2.88 坑) 坑坎阱也 (Page 74 #5: 坑) A ditch, trench, hollow, hole, cave, or pit, natural or artificial (Kangxi: 同阬, 虛也, 陷也); the furrows in a roof; a pit to entrap wild beasts; to throw into a pit; to excavate; _hang k'u_ (haang1 keoi4 坑渠), a sewer or drain; _hang hom_ (haang1 ham2 坑坎), a natural gully, a ravine; _Lo hang_ (lou5 haang1 老坑), a quarry in ~~Shauking~~ Chauking fu (肇慶府) which furnishes good inkstones; _shui hang mun_ (seoi2 haang1 mun4 水坑門), a sluice; _mui hang_ (mui4 haang1 煤坑), a coal pit. Williams' 老坑: Corrected _Lo_ (lou2) to _Lo_ (lou5). 【阬】 (khaeng) (_noun-like_) pit (_verb-like_) (_met._) to bury"
 }
 },
 "阬":{
@@ -11039,12 +11039,12 @@
 "haang4":{
 "isCanonical":false,
 "williams":"(4)h(a/)ng",
-"text":"U+6841 (F2.88 桁) 屋上桁槁 (Page 74 桁)"
+"text":"U+6841 (F2.88 桁) 屋上桁槁 (Page 74 #6: 桁)"
 },
 "hang4":{
 "isCanonical":true,
 "williams":"(4)hang",
-"text":"U+6841 haang4 (longer syllable) (F2.88 桁 _Hang_ (haang4)) 屋上桁槁 (Page 74 桁 _Hang_ (haang4); here normalised to _Hang_ (hang4)) The purlines of a roof (Kangxi: 屋桁屋橫木也); _hang kok_ (hang4 gok3 桁桷) purlines and rafters; _uk hang_ (uk1 hang4 屋桁), purlines. A wooden lid for sacrificial wine jars used in burial (Kangxi: 葬具, ...所以蓋也苞筲甕甒之屬以木桁塞其口也). 【桁】 (haeng) (_noun-like_) wooden-lid"
+"text":"U+6841 haang4 (longer syllable) (F2.88 桁 _Hang_ (haang4)) 屋上桁槁 (Page 74 #6: 桁 _Hang_ (haang4); here normalised to _Hang_ (hang4)) The purlines of a roof (Kangxi: 屋桁屋橫木也); _hang kok_ (hang4 gok3 桁桷) purlines and rafters; _uk hang_ (uk1 hang4 屋桁), purlines. A wooden lid for sacrificial wine jars used in burial (Kangxi: 葬具, ...所以蓋也苞筲甕甒之屬以木桁塞其口也). 【桁】 (haeng) (_noun-like_) wooden-lid"
 }
 },
 "行":{
@@ -11061,7 +11061,7 @@
 "hang6":{
 "isCanonical":true,
 "williams":"hang(6)",
-"text":"U+884C (F2.32 行) 德行又身之所行爲也 (Page 74 行) Actions, conduct (Kangxi: 行迹也, 德行內外在心爲德施之爲行); _pan hang_ (ban2 hang6 品行) disposition, character; _tak hang_ (dak1 hang6 德行) virtue, good works; _to hang sham_ (dou6 hang6 sam1 道行深), able, experienced, learned; _sun hang_ (seon3 hang6 信行) honest; _tun hang_ (dyun2 hang6 短行) curt, snappish. 【行-departing】 (haengH) (_noun-like_) conduct"
+"text":"U+884C (F2.32 行) 德行又身之所行爲也 (Page 74 #4: 行) Actions, conduct (Kangxi: 行迹也, 德行內外在心爲德施之爲行); _pan hang_ (ban2 hang6 品行) disposition, character; _tak hang_ (dak1 hang6 德行) virtue, good works; _to hang sham_ (dou6 hang6 sam1 道行深), able, experienced, learned; _sun hang_ (seon3 hang6 信行) honest; _tun hang_ (dyun2 hang6 短行) curt, snappish. 【行-departing】 (haengH) (_noun-like_) conduct"
 }
 },
 "閪":{
@@ -11313,7 +11313,7 @@
 "hang6":{
 "isCanonical":true,
 "williams":"hang(6)",
-"text":"U+5016 幸 (Mainland simplified) (F2.32 幸) 慶幸不當得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸 (F2.32 倖) 徼倖 (Page 74 倖) Fan Wan entry: Fixed missing stroke ㇖ in 慶, and fixed missing final stroke in 當."
+"text":"U+5016 幸 (Mainland simplified) (F2.32 幸) 慶幸不當得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸 (F2.32 倖) 徼倖 (Page 74 #1: 倖) Fan Wan entry: Fixed missing stroke ㇖ in 慶, and fixed missing final stroke in 當."
 }
 },
 "婞":{
@@ -11327,7 +11327,7 @@
 "hang6":{
 "isCanonical":true,
 "williams":"hang(6)",
-"text":"U+5E78 倖 (for \"fortunate\" and \"favour\" senses) 婞 (for \"favour\" sense) (F2.32 幸) 慶幸不當得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸 (F2.32 倖) 徼倖 (Page 73 #9: 幸) Fortunate, lucky (Kangxi: 吉而免凶也 etc.); blessed; happily; an emperor reaching or tarrying in a place (Kangxi: 幸天子所至也); to hope, to wait or long for (Kangxi: 冀也, 幸覬也); lucky in getting, to rejoice; to love (Kangxi: 幸御所親愛也), pleased; _hang tak_ (hang6 dak1 幸得) to succeed pleasantly; _shi hang_ (si6 hang6 是幸) is well, will be pleased---a phrase used in a bill; _ka mun pat hang_ (gaa1 mun4 bat1 hang6 家門不幸) domestic affliction, family trouble; _pat hang chung chi hang_ (bat1 hang6 zung1 zi1 hang6 不幸中之幸) fortunate in the midst of disaster. (Page 74 倖) To obtain or avoid without merit or right (Kangxi 幸: 非分而得曰幸, 非所當得而得與不可免而免曰幸); _hang min_ (hang6 min5 倖免), fortunately escaped; _hiu hang_ (hiu1 hang6 僥倖) very fortunate. Fan Wan entry: Fixed missing stroke ㇖ in 慶, and fixed missing final stroke in 當. Williams' \"to love\": Better rendered \"to favour\". 【幸】 (heangX) (_noun-like_) luck, fortune (_verb-like_) to feel glad at"
+"text":"U+5E78 倖 (for \"fortunate\" and \"favour\" senses) 婞 (for \"favour\" sense) (F2.32 幸) 慶幸不當得而得與不可免而免皆曰幸又冀望也得也愛也又天子車駕所至曰幸 (F2.32 倖) 徼倖 (Page 73 #9: 幸) Fortunate, lucky (Kangxi: 吉而免凶也 etc.); blessed; happily; an emperor reaching or tarrying in a place (Kangxi: 幸天子所至也); to hope, to wait or long for (Kangxi: 冀也, 幸覬也); lucky in getting, to rejoice; to love (Kangxi: 幸御所親愛也), pleased; _hang tak_ (hang6 dak1 幸得) to succeed pleasantly; _shi hang_ (si6 hang6 是幸) is well, will be pleased---a phrase used in a bill; _ka mun pat hang_ (gaa1 mun4 bat1 hang6 家門不幸) domestic affliction, family trouble; _pat hang chung chi hang_ (bat1 hang6 zung1 zi1 hang6 不幸中之幸) fortunate in the midst of disaster. (Page 74 #1: 倖) To obtain or avoid without merit or right (Kangxi 幸: 非分而得曰幸, 非所當得而得與不可免而免曰幸); _hang min_ (hang6 min5 倖免), fortunately escaped; _hiu hang_ (hiu1 hang6 僥倖) very fortunate. Fan Wan entry: Fixed missing stroke ㇖ in 慶, and fixed missing final stroke in 當. Williams' \"to love\": Better rendered \"to favour\". 【幸】 (heangX) (_noun-like_) luck, fortune (_verb-like_) to feel glad at"
 }
 },
 "悻":{
@@ -11341,14 +11341,14 @@
 "hang6":{
 "isCanonical":true,
 "williams":"hang(6)",
-"text":"U+674F (F2.32 杏) 果名 (Page 74 杏) A kind of plum (Kangxi: 果名 etc.); _hang yan_ (hang6 jan4 杏仁), almonds; _ngan hang_ (ngan4 hang6 銀杏) nuts of the Salisburia adiantifolia; _hang mui_ (hang6 mui4 杏梅), a sort of apricot, ripe in June. Williams' \"A kind of plum\": Specifically, the apricot. Williams' 銀杏: Commonly called ginkgo (or gingko) via Japanese. 【杏】 (haengX) (_noun-like_) apricot"
+"text":"U+674F (F2.32 杏) 果名 (Page 74 #2: 杏) A kind of plum (Kangxi: 果名 etc.); _hang yan_ (hang6 jan4 杏仁), almonds; _ngan hang_ (ngan4 hang6 銀杏) nuts of the Salisburia adiantifolia; _hang mui_ (hang6 mui4 杏梅), a sort of apricot, ripe in June. Williams' \"A kind of plum\": Specifically, the apricot. Williams' 銀杏: Commonly called ginkgo (or gingko) via Japanese. 【杏】 (haengX) (_noun-like_) apricot"
 }
 },
 "荇":{
 "hang6":{
 "isCanonical":true,
 "williams":"hang(6)",
-"text":"U+8347 莕 䓷 (F2.32 荇) 菜名 (Page 74 荇) An aquatic vegetable with a reddish leaf (Kangxi: 接余也 etc.); not found in Canton. Specifically, _Nymphoides peltata_, or the fringed water-lily. 【荇】 (haengX) (_noun-like_) water-fringe"
+"text":"U+8347 莕 䓷 (F2.32 荇) 菜名 (Page 74 #3: 荇) An aquatic vegetable with a reddish leaf (Kangxi: 接余也 etc.); not found in Canton. Specifically, _Nymphoides peltata_, or the fringed water-lily. 【荇】 (haengX) (_noun-like_) water-fringe"
 }
 },
 "莕":{

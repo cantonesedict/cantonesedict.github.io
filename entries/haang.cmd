@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~74 (1)坑]]
+  - [[Page~74 #5: (1)坑]]
     ==
     - A ditch, trench, hollow, hole, cave, or pit, natural or artificial [[Kangxi: 同阬, 虛也, 陷也]];
     - the furrows in a roof;
@@ -153,7 +153,7 @@ F
   ==
 W
   ====
-  - [[Page~74 (4)桁]]
+  - [[Page~74 #6: (4)桁]]
     --
     [[Reading variation. **See $桁hang4 for the canonical entry.**]]
     --

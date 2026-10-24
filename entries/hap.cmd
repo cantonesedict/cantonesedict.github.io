@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
-  - [[Page~74 恰(7)]]
+  - [[Page~74 #7: 恰(7)]]
     ==
     - To apply the mind to;
     - seasonably, fortunately, in good time, to the purpose, fitly;
@@ -97,7 +97,7 @@ $$
 $$
 W
   ====
-  - [[Page~74 哈(7); here corrected to 瞌]]
+  - [[Page~74 #8: 哈(7); here corrected to 瞌]]
     ==
     - ~~A colloquial word, for which this character [[哈]] is sometimes used, meaning~~
       to nod, sleepy;
