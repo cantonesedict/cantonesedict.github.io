@@ -5241,12 +5241,12 @@
 "cok3":{
 "isCanonical":true,
 "williams":"ts(')ok(8)",
-"text":"U+932F 剒 (for \"cut/work\" sense) 厝 (for \"whetstone\" sense) 逪 (for \"cross/diagonal\" senses) 䥄 (for \"inlay/plate\" sense) 错 (Mainland simplified) (F1.102 錯) 舛也乖也誤也亂也 (Page 588 錯 _Ts'o_ (cou3); here corrected to _Ts'ok_ (cok3)) To cut or work stones (Kangxi: 治玉石曰錯); (Page 592 錯) To ~~wash~~ inlay or plate with gold (Kangxi: 金涂也); the stripes, striae, streaks, &c., in stones or fabrics (Kangxi: 錯衡文衡也); to file or polish (Kangxi: 鑢也, 治玉石曰錯); to tattoo (Kangxi: 錯臂亦文身謂以丹靑錯畫其臂); a stone for grinding gems or glass (Kangxi: 厲石也, 錯石也可以琢玉); mixed, crossed, barred, confused (Kangxi: 雜也, 亂也); _ts'ok pi_ (cok3 bei3 錯臂) to tattoo the arm. 【錯】 (tshak) (_noun-like_) whetstone (_verb-like_) to inlay, to tattoo (_verb-like_) to cross (diagonally) (_adjective-like_) mixed, erroneous, confused (_adjective-like_) diagonal (_adjective-like_) wary"
+"text":"U+932F 剒 (for \"cut/work\" sense) 厝 (for \"whetstone\" sense) 逪 (for \"cross/diagonal\" senses) 䥄 (for \"inlay/plate\" sense) 错 (Mainland simplified) (F1.102 錯) 舛也乖也誤也亂也 (Page 588 #1: 錯 _Ts'o_ (cou3); here corrected to _Ts'ok_ (cok3)) To cut or work stones (Kangxi: 治玉石曰錯); (Page 592 錯) To ~~wash~~ inlay or plate with gold (Kangxi: 金涂也); the stripes, striae, streaks, &c., in stones or fabrics (Kangxi: 錯衡文衡也); to file or polish (Kangxi: 鑢也, 治玉石曰錯); to tattoo (Kangxi: 錯臂亦文身謂以丹靑錯畫其臂); a stone for grinding gems or glass (Kangxi: 厲石也, 錯石也可以琢玉); mixed, crossed, barred, confused (Kangxi: 雜也, 亂也); _ts'ok pi_ (cok3 bei3 錯臂) to tattoo the arm. 【錯】 (tshak) (_noun-like_) whetstone (_verb-like_) to inlay, to tattoo (_verb-like_) to cross (diagonally) (_adjective-like_) mixed, erroneous, confused (_adjective-like_) diagonal (_adjective-like_) wary"
 },
 "cou3":{
 "isCanonical":true,
 "williams":"ts(')(o\\)(3)",
-"text":"U+932F 错 (Mainland simplified) (F2.16 錯 _Ts'u_) 捨置也又倉入聲礪石也 (Page 588 錯) Interchanged with the two last (厝, 措). to place (Kangxi: 錯置也); to hide, to store away (Kangxi: 藏也)."
+"text":"U+932F 错 (Mainland simplified) (F2.16 錯 _Ts'u_) 捨置也又倉入聲礪石也 (Page 588 #1: 錯) Interchanged with the two last (厝, 措). to place (Kangxi: 錯置也); to hide, to store away (Kangxi: 藏也)."
 }
 },
 "鉏":{
@@ -6229,7 +6229,7 @@
 "cou3":{
 "isCanonical":true,
 "williams":"ts(')(o\\)(3)",
-"text":"U+918B 酢 (F2.16 醋 _Ts'u_) 酒醋 (Page 588 醋) Vinegar (Kangxi 酢: 今人...反以醋爲酢字, 酸也); pickle; pickled; _tsau ts'o_ (zau2 cou3 酒醋) vinegar of spirits; _pak ts'o_ (baak6 cou3 白醋) clear vinegar; _hap ts'o_ (haap3 cou3 呷醋) female rivalry, as between two concubines; _lok tik im ts'o_ (lok6 dik1 jim4 cou3 落滴鹽醋) be more severe with him, as with a pupil; _tso ts'o 'm sun_ (zou6 cou3 m4 syun1 做醋唔酸), your vinegar has no sourness, *you* can do nothing; _yak keung ts'o_ (jaak3 goeng1 cou3 吃薑醋) to bear a child, because ginger and vinegar are given to the mother; _yeung ts'o_ (joeng4 cou3 洋醋) foreign vinegar. 【呷醋】 (haap3 cou3) To be jealous of a romantic rival."
+"text":"U+918B 酢 (F2.16 醋 _Ts'u_) 酒醋 (Page 588 #2: 醋) Vinegar (Kangxi 酢: 今人...反以醋爲酢字, 酸也); pickle; pickled; _tsau ts'o_ (zau2 cou3 酒醋) vinegar of spirits; _pak ts'o_ (baak6 cou3 白醋) clear vinegar; _hap ts'o_ (haap3 cou3 呷醋) female rivalry, as between two concubines; _lok tik im ts'o_ (lok6 dik1 jim4 cou3 落滴鹽醋) be more severe with him, as with a pupil; _tso ts'o 'm sun_ (zou6 cou3 m4 syun1 做醋唔酸), your vinegar has no sourness, *you* can do nothing; _yak keung ts'o_ (jaak3 goeng1 cou3 吃薑醋) to bear a child, because ginger and vinegar are given to the mother; _yeung ts'o_ (joeng4 cou3 洋醋) foreign vinegar. 【呷醋】 (haap3 cou3) To be jealous of a romantic rival."
 }
 },
 "嘈":{
@@ -16783,14 +16783,14 @@
 "zoi1":{
 "isCanonical":true,
 "williams":"(1)tsoi",
-"text":"U+54C9 才 㦲 (F2.43 哉) 語助詞又始也 (Page 588 哉) An interjection (Kangxi: 言之閒也) of praise or surprise; an interrogative particle, intimating doubt or conviction, according to the scope (Kangxi: 疑辭也); a superlative; a particle placed after important words to draw attention (Kangxi: 語助), but the regimen alters its meaning much; to begin (Kangxi: 哉始也); ~~to burst forth, as plants in spring;~~ _k'i ku ho tsoi_ (kei4 gu3 ho4 zoi1 其故何哉), on what account, pray? _ho yau u ngo tsoi_ (ho4 jau5 jyu1 ngo5 zoi1 何有於我哉), what is this to me? _hi ho sik tsoi_ (hei2 ho2 sik1 zoi1 豈可惜哉), would you pity him! _yan un ~~u~~ fu tsoi_ (jan4 jyun5 fu4 zoi1 仁遠乎哉), has humanity so far gone! _on pat pi tsoi_ (on1 bat1 bei1 zoi1 安不悲哉), how could I forbear pity? _sik tsoi_ (sik1 zoi1 惜哉), sad indeed! _tai tsoi man_ (daai6 zoi1 man6 大哉問) ah! truly an important question; _tai tsoi Hung tsz'_ (daai6 zoi1 hung2 zi2 大哉孔子) Confucius, oh, how great! _u fu oi tsoi_ (wu1 fu1 oi1 zoi1 嗚呼哀哉), alas, sad indeed! _ye tsoi Yau ya_ (je5 zoi1 jau4 jaa5 野哉由也) what a clown is Yau! _ku chi tsoi, ku chi tsoi_ (gu1 zi1 zoi1, gu1 zi1 zoi1 沽之哉沽之哉), sell it! sell it! The alternative form U+39B2 㦲 (⿹𢦏勹) is known to appear incorrectly in at least one sans-serif font; check the Font test page. Williams' \"to burst forth, as plants in spring\": This is a misreading of Kangxi 說文云才草木之初也以聲近借爲哉始之哉, which says that the \"begin\" sense of 哉 was sometimes spelt 才 due to the phonetic nearness and the (now considered incorrect) explanation of 才 as a sprouting plant in 《說文》. Williams' 仁遠乎哉: Changed _u_ (wu4) to common reading _fu_ (fu4). Williams' 野哉由也: Corrected _ya_ (jaa6) to _ya_ (jaa5). Two of Williams' examples (大哉問, 野哉由也) are suspiciously similar to those in Section 2.14 (_Examples of tsai_, 哉, _and nai_, 乃) of J. G. Bridgman's 1847 translation of Premare's ''Notitia Linguae Sinicae''. A further four examples (其故何哉, 何有於我哉, 仁遠乎哉, 安不悲哉) are identical or suspiciously similar to those in Section 2.17 (_Interrogative Particles_) of the same. 【哉】 (tsoj) (_speech-assist_) (_verb-like_) to begin"
+"text":"U+54C9 才 㦲 (F2.43 哉) 語助詞又始也 (Page 588 #3: 哉) An interjection (Kangxi: 言之閒也) of praise or surprise; an interrogative particle, intimating doubt or conviction, according to the scope (Kangxi: 疑辭也); a superlative; a particle placed after important words to draw attention (Kangxi: 語助), but the regimen alters its meaning much; to begin (Kangxi: 哉始也); ~~to burst forth, as plants in spring;~~ _k'i ku ho tsoi_ (kei4 gu3 ho4 zoi1 其故何哉), on what account, pray? _ho yau u ngo tsoi_ (ho4 jau5 jyu1 ngo5 zoi1 何有於我哉), what is this to me? _hi ho sik tsoi_ (hei2 ho2 sik1 zoi1 豈可惜哉), would you pity him! _yan un ~~u~~ fu tsoi_ (jan4 jyun5 fu4 zoi1 仁遠乎哉), has humanity so far gone! _on pat pi tsoi_ (on1 bat1 bei1 zoi1 安不悲哉), how could I forbear pity? _sik tsoi_ (sik1 zoi1 惜哉), sad indeed! _tai tsoi man_ (daai6 zoi1 man6 大哉問) ah! truly an important question; _tai tsoi Hung tsz'_ (daai6 zoi1 hung2 zi2 大哉孔子) Confucius, oh, how great! _u fu oi tsoi_ (wu1 fu1 oi1 zoi1 嗚呼哀哉), alas, sad indeed! _ye tsoi Yau ya_ (je5 zoi1 jau4 jaa5 野哉由也) what a clown is Yau! _ku chi tsoi, ku chi tsoi_ (gu1 zi1 zoi1, gu1 zi1 zoi1 沽之哉沽之哉), sell it! sell it! The alternative form U+39B2 㦲 (⿹𢦏勹) is known to appear incorrectly in at least one sans-serif font; check the Font test page. Williams' \"to burst forth, as plants in spring\": This is a misreading of Kangxi 說文云才草木之初也以聲近借爲哉始之哉, which says that the \"begin\" sense of 哉 was sometimes spelt 才 due to the phonetic nearness and the (now considered incorrect) explanation of 才 as a sprouting plant in 《說文》. Williams' 仁遠乎哉: Changed _u_ (wu4) to common reading _fu_ (fu4). Williams' 野哉由也: Corrected _ya_ (jaa6) to _ya_ (jaa5). Two of Williams' examples (大哉問, 野哉由也) are suspiciously similar to those in Section 2.14 (_Examples of tsai_, 哉, _and nai_, 乃) of J. G. Bridgman's 1847 translation of Premare's ''Notitia Linguae Sinicae''. A further four examples (其故何哉, 何有於我哉, 仁遠乎哉, 安不悲哉) are identical or suspiciously similar to those in Section 2.17 (_Interrogative Particles_) of the same. 【哉】 (tsoj) (_speech-assist_) (_verb-like_) to begin"
 }
 },
 "栽":{
 "zoi1":{
 "isCanonical":true,
 "williams":"(1)tsoi",
-"text":"U+683D (F2.43 栽) 種植也 (Page 588 栽) To plant seed (Kangxi: 種也); to set out saplings, to put suckers in the ground (Kangxi: 草木之殖曰栽); to hill, to heap up earth at the roots; a sapling (Kangxi: 穉曰栽長曰樹); to assist; _fa tsoi_ (faa1 zoi1 花栽), flower suckers; _tsoi p'ui_ (zoi1 pui4 栽培), to put earth to, as to roots; _ho i tsoi p'ui_ (ho2 ji5 zoi1 pui4 可以栽培), he is worthy of your care. To tumble, to fall. 【栽-level】 (tsoj) (_verb-like_) to plant"
+"text":"U+683D (F2.43 栽) 種植也 (Page 588 #4: 栽) To plant seed (Kangxi: 種也); to set out saplings, to put suckers in the ground (Kangxi: 草木之殖曰栽); to hill, to heap up earth at the roots; a sapling (Kangxi: 穉曰栽長曰樹); to assist; _fa tsoi_ (faa1 zoi1 花栽), flower suckers; _tsoi p'ui_ (zoi1 pui4 栽培), to put earth to, as to roots; _ho i tsoi p'ui_ (ho2 ji5 zoi1 pui4 可以栽培), he is worthy of your care. To tumble, to fall. 【栽-level】 (tsoj) (_verb-like_) to plant"
 },
 "zoi6":{
 "isCanonical":true,
@@ -16802,28 +16802,28 @@
 "zoi1":{
 "isCanonical":true,
 "williams":"(1)tsoi",
-"text":"U+707D 灾 烖 甾 菑 (F2.43 災) 災禍災害 (F2.43 灾) 同上 (F2.43 烖) 同上 (F2.43 菑) 古灾字又音兹 (Page 588 災灾烖) Natural calamities (Kangxi 災: 天火也), as floods or drought; divine judgments, plagues; misfortunes, miseries, dangers (Kangxi 災: 害也); adverse, calamitous, unfortunate; _tsoi hoi_ (zoi1 hoi6 災害) injurious, afflictive; _tsoi wo_ (zoi1 wo6 災禍) miserable; afflictions; _kau tsoi_ (gau3 zoi1 救災), to relieve sufferings; _chiu tsoi_ (ziu1 zoi1 招災), to bring evil on one's self; _t'in tsoi wang wo_ (tin1 zoi1 waang4 wo6 天災橫禍) divine and unforeseen judgments; _sung fo tsoi_ (sung3 fo2 zoi1 送火災), to dismiss all risk of fire, as is done at a _ta tsiu_ (daa2 ziu3 打醮)_;_ _shui tsoi_ (seoi2 zoi1 水災), a flood; _t'in tsoi lau hang_ (tin1 zoi1 lau4 hang4 天災流行), an epidemic; _tsoi yeung kok ti t'au_ (zoi1 joeng1 gok3 dei6 tau4 災殃各地頭), each place has its own calamity. Fan Wan entry: Added (hypothesised) homophone 兹 for 菑. Williams' 打醮: Corrected _ta_ to _ta_. 【災】 (tsoj) (_noun-like_) calamity"
+"text":"U+707D 灾 烖 甾 菑 (F2.43 災) 災禍災害 (F2.43 灾) 同上 (F2.43 烖) 同上 (F2.43 菑) 古灾字又音兹 (Page 588 #5: 災灾烖) Natural calamities (Kangxi 災: 天火也), as floods or drought; divine judgments, plagues; misfortunes, miseries, dangers (Kangxi 災: 害也); adverse, calamitous, unfortunate; _tsoi hoi_ (zoi1 hoi6 災害) injurious, afflictive; _tsoi wo_ (zoi1 wo6 災禍) miserable; afflictions; _kau tsoi_ (gau3 zoi1 救災), to relieve sufferings; _chiu tsoi_ (ziu1 zoi1 招災), to bring evil on one's self; _t'in tsoi wang wo_ (tin1 zoi1 waang4 wo6 天災橫禍) divine and unforeseen judgments; _sung fo tsoi_ (sung3 fo2 zoi1 送火災), to dismiss all risk of fire, as is done at a _ta tsiu_ (daa2 ziu3 打醮)_;_ _shui tsoi_ (seoi2 zoi1 水災), a flood; _t'in tsoi lau hang_ (tin1 zoi1 lau4 hang4 天災流行), an epidemic; _tsoi yeung kok ti t'au_ (zoi1 joeng1 gok3 dei6 tau4 災殃各地頭), each place has its own calamity. Fan Wan entry: Added (hypothesised) homophone 兹 for 菑. Williams' 打醮: Corrected _ta_ to _ta_. 【災】 (tsoj) (_noun-like_) calamity"
 }
 },
 "灾":{
 "zoi1":{
 "isCanonical":false,
 "williams":"(1)tsoi",
-"text":"U+707E (F2.43 災) 災禍災害 (F2.43 灾) 同上 (F2.43 烖) 同上 (F2.43 菑) 古灾字又音兹 (Page 588 災灾烖)"
+"text":"U+707E (F2.43 災) 災禍災害 (F2.43 灾) 同上 (F2.43 烖) 同上 (F2.43 菑) 古灾字又音兹 (Page 588 #5: 災灾烖)"
 }
 },
 "烖":{
 "zoi1":{
 "isCanonical":false,
 "williams":"(1)tsoi",
-"text":"U+70D6 (F2.43 災) 災禍災害 (F2.43 灾) 同上 (F2.43 烖) 同上 (F2.43 菑) 古灾字又音兹 (Page 588 災灾烖)"
+"text":"U+70D6 (F2.43 災) 災禍災害 (F2.43 灾) 同上 (F2.43 烖) 同上 (F2.43 菑) 古灾字又音兹 (Page 588 #5: 災灾烖)"
 }
 },
 "宰":{
 "zoi2":{
 "isCanonical":true,
 "williams":"(2)tsoi",
-"text":"U+5BB0 (F2.44 宰) 主宰烹宰又邑宰家宰 (Page 588 宰) To govern, to rule, to superintend (Kangxi: 治也, 主也, 制也, 爲事物主也); ~~to fashion to one's liking;~~ a ruler, a headman, a governor (Kangxi: 官稱); to slaughter animals, to butcher, to skin and dress animals (Kangxi: 屠也烹也); ~~to cook;~~ _tsoi seung_ (zoi2 soeng3 宰相) a prime-minister; _chu tsoi_ (zyu2 zoi2 主宰), the ruler of all, the chief governor; the mind; _ka tsoi_ (gaa1 zoi2 家宰), a steward; _kam chi t'o tsoi_ (gam3 zi2 tou4 zoi2 禁止屠宰), prohibited the butchering of animals, as in time of drought; _un tsoi_ (jyun6 zoi2 縣宰), a district magistrate; _tsoi ngau_ (zoi2 ngau4 宰牛), to kill an ox. A surname (Kangxi: 姓). A steward (Kangxi: 家臣之長曰宰). Used in 宰父 (a compound surname) (Kangxi: 宰父複姓). 【宰】 (tsojX) (_noun-like_) steward, minister, governor (_verb-like_) to rule over (_verb-like_) to butcher"
+"text":"U+5BB0 (F2.44 宰) 主宰烹宰又邑宰家宰 (Page 588 #6: 宰) To govern, to rule, to superintend (Kangxi: 治也, 主也, 制也, 爲事物主也); ~~to fashion to one's liking;~~ a ruler, a headman, a governor (Kangxi: 官稱); to slaughter animals, to butcher, to skin and dress animals (Kangxi: 屠也烹也); ~~to cook;~~ _tsoi seung_ (zoi2 soeng3 宰相) a prime-minister; _chu tsoi_ (zyu2 zoi2 主宰), the ruler of all, the chief governor; the mind; _ka tsoi_ (gaa1 zoi2 家宰), a steward; _kam chi t'o tsoi_ (gam3 zi2 tou4 zoi2 禁止屠宰), prohibited the butchering of animals, as in time of drought; _un tsoi_ (jyun6 zoi2 縣宰), a district magistrate; _tsoi ngau_ (zoi2 ngau4 宰牛), to kill an ox. A surname (Kangxi: 姓). A steward (Kangxi: 家臣之長曰宰). Used in 宰父 (a compound surname) (Kangxi: 宰父複姓). 【宰】 (tsojX) (_noun-like_) steward, minister, governor (_verb-like_) to rule over (_verb-like_) to butcher"
 }
 },
 "載":{

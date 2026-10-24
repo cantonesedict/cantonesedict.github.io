@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)哉]]
+  - [[Page~588 #3: (1)哉]]
     ==
     - An interjection [[Kangxi: 言之閒也]] of praise or surprise;
     - an interrogative particle, intimating doubt or conviction, according to the scope [[Kangxi: 疑辭也]];
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)栽]]
+  - [[Page~588 #4: (1)栽]]
     ==
     - To plant seed [[Kangxi: 種也]];
     - to set out saplings, to put suckers in the ground [[Kangxi: 草木之殖曰栽]];
@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)災(1)灾(1)烖]]
+  - [[Page~588 #5: (1)災(1)灾(1)烖]]
     ==
     - Natural calamities [[Kangxi 災: 天火也]], as floods or drought;
     - divine judgments, plagues;
@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)災(1)灾(1)烖]]
+  - [[Page~588 #5: (1)災(1)灾(1)烖]]
     --
     [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
     --
@@ -312,7 +312,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)災(1)灾(1)烖]]
+  - [[Page~588 #5: (1)災(1)灾(1)烖]]
     --
     [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
     --
@@ -393,7 +393,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (2)宰]]
+  - [[Page~588 #6: (2)宰]]
     ==
     - To govern, to rule, to superintend [[Kangxi: 治也, 主也, 制也, 爲事物主也]];
     - ~~to fashion to one's liking;~~

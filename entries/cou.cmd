@@ -941,7 +941,7 @@ F
   ==
 W
   ====
-  - [[Page~588 醋(3)]]
+  - [[Page~588 #2: 醋(3)]]
     ==
     - Vinegar [[Kangxi 酢: ::今人[...]反以醋爲酢字::, 酸也]];
     - pickle;
@@ -995,7 +995,7 @@ F
   ==
 W
   ====
-  - [[Page~588 錯(3)]]
+  - [[Page~588 #1: 錯(3)]]
     --
     Interchanged with the two last [[厝, 措]].
     --

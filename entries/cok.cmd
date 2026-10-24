@@ -191,7 +191,7 @@ F
   ==
 W
   ====
-  - [[Page~588 錯(3) _Ts(')(o\)(3)_ (cou3); here corrected to _Ts(')ok(8)_ (cok3)]]
+  - [[Page~588 #1: 錯(3) _Ts(')(o\)(3)_ (cou3); here corrected to _Ts(')ok(8)_ (cok3)]]
     --
     [[...]]
     --

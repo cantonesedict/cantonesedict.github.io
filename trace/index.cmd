@@ -14483,6 +14483,63 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=6} Page~588
+    ,{#page-588-entry-1} #1
+    ,{.williams} 錯(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $錯cok3, $錯cou3
+      ==
+      </nav>
+  //
+    ,{#page-588-entry-2} #2
+    ,{.williams} 醋(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $醋cou3
+      ==
+      </nav>
+  //
+    ,{#page-588-entry-3} #3
+    ,{.williams} (1)哉
+    ,
+      <nav class="sideways">
+      ==
+      - $哉zoi1
+      ==
+      </nav>
+  //
+    ,{#page-588-entry-4} #4
+    ,{.williams} (1)栽
+    ,
+      <nav class="sideways">
+      ==
+      - $栽zoi1
+      ==
+      </nav>
+  //
+    ,{#page-588-entry-5} #5
+    ,{.williams} (1)災(1)灾(1)烖
+    ,
+      <nav class="sideways">
+      ==
+      - $災zoi1
+      - ($灾zoi1)
+      - ($烖zoi1)
+      ==
+      </nav>
+  //
+    ,{#page-588-entry-6} #6
+    ,{.williams} (2)宰
+    ,
+      <nav class="sideways">
+      ==
+      - $宰zoi2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
