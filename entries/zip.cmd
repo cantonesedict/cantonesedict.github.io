@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2026-08-10
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,7 +77,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 囁(8)]]
+  - [[Page~22* #2: 囁(8)]]
     ==
     - An unbridled tongue [[Kangxi: 口無節也]];
     - ~~vilifying,~~ grumbling, ``privately`` scolding [[Kangxi: 私罵也]]~~, slandering~~;
@@ -111,7 +111,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 慴(8)]]
+  - [[Page~22* #3: 慴(8)]]
     --
     [[Alternative form of 懾, and reading variation. **See $懾sip3 for the canonical entry.**]] [[TODO]]
     --
@@ -160,7 +160,7 @@ F
   ==
 W
   ====
-  - [[Page~579 接(8)]]
+  - [[Page~579 #2: 接(8)]]
     ==
     - To receive in the hand [[Kangxi: 持也受也承也]];
     - to receive, to connect, to join [[Kangxi: 接續也連也]], to succeed;
@@ -246,7 +246,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 摺(8)]]
+  - [[Page~22* #1: 摺(8)]]
     ==
     - To fold, to double up [[Kangxi: 摺疊也]];
     - [[...]], to destroy [[Kangxi: 敗也]], [[...]];
@@ -324,7 +324,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~578 楫(8)]]
+  - [[Page~578 #4: 楫(8)]]
     ==
     - An oar, a paddle, or whatever is used to propel a boat [[Kangxi: 舟櫂也, 行舟具]];
     - to row;
@@ -357,11 +357,11 @@ F
   ==
 W
   ====
-  - [[Page~578 before 浹(8)]]
+  - [[Page~578 before #5: 浹(8)]]
     --
     (This character [[浹]] is also read _h(a/)p_ [[haap]] ~~and _h(i/)p_ [[hip]]~~.)
     --
-  - [[Page~578 浹(8)]]
+  - [[Page~578 #5: 浹(8)]]
     --
     ~~Interchanged with _h(i/)p_ [[hip]] 挾 to assist.~~
     --
@@ -428,7 +428,7 @@ F
   ==
 W
   ====
-  - [[Page~579 睫(8)]]
+  - [[Page~579 #1: 睫(8)]]
     --
     [[Reading variation. **See $睫zit6 for the canonical entry.**]]
     --
@@ -458,7 +458,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 褶(8)]]
+  - [[Page~22* #5: 褶(8)]]
     --
     [[Reading variation. **See $褶zaap3 for the canonical entry.**]]
     --
@@ -493,7 +493,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 襵(8)]]
+  - [[Page~22* #4: 襵(8)]]
     ==
     - To fold garments [[Kangxi: 詘也]];
     - to plait, to double;
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 輒(8)]]
+  - [[Page~22* #6: 輒(8)]]
     ==
     - The sides of a ~~a~~ carriage [[Kangxi: 車兩輢也]], where arms are stuck;
     - unceremoniously, suddenly, abruptly [[Kangxi: 忽然也]];

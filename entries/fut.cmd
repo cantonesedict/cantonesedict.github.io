@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fut
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -69,7 +69,7 @@ F
   ==
 W
   ====
-  - [[Page~67 闊(8)]]
+  - [[Page~67 #5: 闊(8)]]
     ==
     - Broad, wide [[Kangxi: 廣也]], large;
     - ample;

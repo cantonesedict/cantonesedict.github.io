@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~580 切(8)]]
+  - [[Page~580 #4: 切(8)]]
     ==
     - To cut, to carve, to mince, to slice [[Kangxi: 割也刻也]];
     - to urge, to press [[Kangxi: 迫也急也]];
@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~23* 徹(8)]]
+  - [[Page~23* #4: 徹(8)]]
     ==
     - Pervious, perspicacious, discerning [[Kangxi: 通也]];
     - to penetrate, to pass through [[Kangxi: 徹達也]];
@@ -233,7 +233,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10|n53 掣(3) _Chai(3)_ (zai3); here corrected to _Ch(')(i/)t(8)_ (cit3)]]
+  - [[Page~10|n53 #1: 掣(3) _Chai(3)_ (zai3); here corrected to _Ch(')(i/)t(8)_ (cit3)]]
     ==
     - [[...]];
     - to take, to choose out, to raise up [[Kangxi: 揭也取也]];
@@ -244,7 +244,7 @@ W
         to draw lots;
     - [[...]].
     ==
-  - [[Page~23* 掣(8)]]
+  - [[Page~23* #8: 掣(8)]]
     ==
     - To choose, to draw out [[Kangxi: 取也]];
     - _ch(')(i/)t(8) (1)ts(')(i/)m_
@@ -279,7 +279,7 @@ F
   ==
 W
   ====
-  - [[Page~23* 撤(8)]]
+  - [[Page~23* #5: 撤(8)]]
     ==
     - To send away, to remove [[Kangxi: 除去也]];
     - to reject, to recall;
@@ -333,7 +333,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23* 澈(8)]]
+  - [[Page~23* #6: 澈(8)]]
     ==
     - Pure, transparent, pellucid [[Kangxi: 水澄也]];
     - _(4)ch(')ing ch(')(i/)t(8)_
@@ -360,7 +360,7 @@ F
   ==
 W
   ====
-  - [[Page~23* 設(8)]]
+  - [[Page~23* #3: 設(8)]]
     ==
     - To institute, to establish [[Kangxi: 立也]];
     - to set forth [[Kangxi: 施陳也]];
@@ -442,7 +442,7 @@ F
   ==
 W
   ====
-  - [[Page~23* 轍(8)]]
+  - [[Page~23* #7: 轍(8)]]
     ==
     - A rut of a wheel [[Kangxi: 車輪所碾迹也]];
     - _k(')ok(8) ch(')(i/)t(8)_

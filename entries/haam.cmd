@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -109,7 +109,7 @@ F
   ==
 W
   ====
-  - [[Page~71 喊(3)]]
+  - [[Page~71 #3: 喊(3)]]
     ==
     - To call, to halloo after, to call for, to vociferate [[Kangxi 嚂: 聲也亦與喊同]];
     - a call [[Kangxi: 喊聲也]];
@@ -214,7 +214,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)函]]
+  - [[Page~70 #8: (4)函]]
     ==
     - To contain, to infold, to comprehend in, to envelop [[Kangxi: 容也, 函包也, 讀與含同]];
     - a letter, or what is contained in an envelop [[Kangxi: 書也]];
@@ -273,7 +273,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)咸]]
+  - [[Page~70 #5: (4)咸]]
     ==
     - All, jointly, altogether [[Kangxi: 皆也, 悉也]];
     - completely, totally;
@@ -378,7 +378,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (4){？=⿰口䣃}(4)㘅]]
+  - [[Page~71 #2: (4){？=⿰口䣃}(4)㘅]]
     --
     [[Alternative form of 銜. **See $銜haam4 for the canonical entry.**]]
     --
@@ -409,7 +409,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)㮀]]
+  - [[Page~70 #10: (4)㮀]]
     ==
     - The Fan Wan says, to plant, to set out [[Fan Wan: 植也]];
     - [[...]].
@@ -440,7 +440,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~70 (4)㮀; here normalised to 椷]]
+  - [[Page~70 #10: (4)㮀; here normalised to 椷]]
     ==
     - [[...]];
     - but K(a/)ngh(i/) defines it a wooden ~~bowl~~ ``cup`` [[Kangxi 椷: 杯也 etc.]].
@@ -473,7 +473,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)涵]]
+  - [[Page~70 #9: (4)涵]]
     ==
     - Submerged [[Kangxi: 涵沉也]];
     - to leak [[Kangxi: 一曰水入船]];
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)諴]]
+  - [[Page~70 #7: (4)諴]]
     ==
     - Union, harmony [[Kangxi: 和也]];
     - to be accordant, united;
@@ -574,7 +574,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (4)銜]]
+  - [[Page~71 #1: (4)銜]]
     ==
     - Bit of a bridle [[Kangxi: 馬勒口中, 馬銜所以制之行也]];
     - to hold in the mouth [[Kangxi: 凡口含物曰銜]];
@@ -597,7 +597,7 @@ W
         [[haam4 han6 銜恨]]
         to restrain one's indignation.
     ==
-  - [[Page~71 (4){？=⿰口䣃}(4)㘅; here normalised to 銜]]
+  - [[Page~71 #2: (4){？=⿰口䣃}(4)㘅; here normalised to 銜]]
     ==
     - To hold in the mouth;
     - used for the preceding [[銜]] [[Kangxi 㘅: 同銜]];
@@ -668,9 +668,9 @@ F
   ==
 W
   ====
-  - [[Page~70 ::(4)~~？~~``鹹``::]]
+  - [[Page~70 #6: (4)鹹]]
     ==
-    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi 鹹: 北方味也, 不淡, 鹽味]];
+    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi: 北方味也, 不淡, 鹽味]];
     - salted, preserved in brine;
     - _(4)h(a/)m shap(7)_
         [[haam4 sap1 鹹濕]]
@@ -682,7 +682,7 @@ W
         [[haam4 tou4-2 鹹桃]],
         salted peaches.
     ==
-  - [[Page~716 (4)鹹]]
+  - [[Page~716 #3: (4)鹹]]
     ==
     - In a figurative sense, bitter, distressing, hard to bear;
     - _shau(6) kw(a/)n(3) (4)h(a/)m (2)f(u/)_
@@ -692,9 +692,6 @@ W
   ====
 C
   ==
-  - Williams prints the headword on Page~70 with the last stroke of 鹵 missing; here corrected.
-    (The character 鹹 appears correctly on Page~716 in the additional entry,
-    and on Page~828 in the character index.)
   - Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎,
     and corrected malformed 鹽 and 淡.
   ==
@@ -753,7 +750,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (2)菡 _(2)(A/)m_ (aam2); here normalised to _(5)H(a/)m_ (haam5)]]
+  - [[Page~4 #1: (2)菡 _(2)(A/)m_ (aam2); here normalised to _(5)H(a/)m_ (haam5)]]
     ==
     -  An unopened flower [[Kangxi: 菡猶含也未吐之意]];
     - _~~(2)(a/)m~~ ``(5)h(a/)m`` t(a/)m(6)_
@@ -808,7 +805,7 @@ F
   ==
 W
   ====
-  - [[Page~71 陷(6)]]
+  - [[Page~71 #4: 陷(6)]]
     --
     [[Reading variation. **See $陷ham6 for the canonical entry.**]] [[TODO]]
     --
@@ -851,7 +848,7 @@ F
   ==
 W
   ====
-  - [[Page~71 餡(6)]]
+  - [[Page~71 #5: 餡(6)]]
     ==
     - ~~Small flour cakes, like dumplings, with meat or fruit inside~~ ``The filling within flour cakes, dumplings, &c.`` [[Kangxi: 凡米麫食物坎其中實以雜味曰餡或作䭑]];
     - _~~(2)p(a/)u~~ ``(1)p(a/)u`` h(a/)m(6)_

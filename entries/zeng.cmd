@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -74,7 +74,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 (1)精 _(1)Tsing_ (zing1); _(1)Tseng_ (zeng1) implied by variational note]]
+  - [[Page~576 #5: (1)精 _(1)Tsing_ (zing1); _(1)Tseng_ (zeng1) implied by variational note]]
     --
     [[Reading variation (vernacular for "clever" sense). **See $精zing1 for the canonical entry.**]]
     --
@@ -107,7 +107,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 (2)井 _(2)Tsing_ (zing2); _(2)Tseng_ (zeng2) implied by variational note]]
+  - [[Page~576 #6: (2)井 _(2)Tsing_ (zing2); _(2)Tseng_ (zeng2) implied by variational note]]
     --
     [[Reading variation. **See $井zing2 for the canonical entry.**]]
     --
@@ -140,7 +140,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~19* 正(3) _Ching(3)_ (zing3); _Cheng(3)_ (zeng3) implied by variational note]]
+  - [[Page~19* #5: 正(3) _Ching(3)_ (zing3); _Cheng(3)_ (zeng3) implied by variational note]]
     --
     [[Reading variation (vernacular adjective). **See $正zing3 for the canonical entry.**]]
     --
@@ -177,7 +177,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 淨(6) _Tsing(6)_ (zing6); _Tseng(6)_ (zeng6) implied by variational note]]
+  - [[Page~576 #7: 淨(6) _Tsing(6)_ (zing6); _Tseng(6)_ (zeng6) implied by variational note]]
     --
     [[Reading variation (vernacular adjective "clean"). **See $淨zing6 for the canonical entry.**]]
     --
@@ -230,7 +230,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6) and normalised to _Cheng(6)_ (zeng6)]]
+  - [[Page~21* #14: 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6) and normalised to _Cheng(6)_ (zeng6)]]
     ==
     - A feudal state [[Kangxi: 國名]] in the Chau [[周]] dynasty,
       now the prefecture of K(a/)ifung [[開封]] in Hon(a/)n [[河南]];

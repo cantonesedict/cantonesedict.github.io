@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> gam
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -21,6 +21,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## TODO: $感gam2 (⿱咸心 or ⿵咸心, extends) ##>
 
 <##
 $$

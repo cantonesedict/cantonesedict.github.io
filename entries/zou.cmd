@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (1)租]]
+  - [[Page~584 #1: (1)租]]
     ==
     - Rent in kind;
     - rental, rent;
@@ -130,7 +130,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (1)糟]]
+  - [[Page~584 #2: (1)糟]]
     ==
     - The sediment~~;~~ ``of`` grains left after distilling spirits [[Kangxi: 酒滓也]];
     - dregs;
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (1)遭]]
+  - [[Page~584 #3: (1)遭]]
     ==
     - To encounter, to meet [[Kangxi: 遇也]];
     - to suffer, to endure, to occur, to happen;
@@ -264,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)早]]
+  - [[Page~584 #4: (2)早]]
     ==
     - The morning [[Kangxi: 晨也]];
     - early, soon [[Kangxi: 先也]];
@@ -305,7 +305,7 @@ W
         [[zou2 zou2 早早]]^
         very early.
     ==
-  - [[Page~584 (2)蚤]]
+  - [[Page~584 #5: (2)蚤]]
     --
     Used for the preceding [[早]].
     --
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)棗]]
+  - [[Page~584 #8: (2)棗]]
     ==
     - The fruit of the Cannarium or jujube tree [[Kangxi: 果名 etc.]];
     - _mat(9) (2)ts(o\)_
@@ -398,7 +398,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)澡]]
+  - [[Page~584 #9: (2)澡]]
     --
     [[Reading variation. **See $澡cou3 for the canonical entry.**]]
     --
@@ -428,7 +428,7 @@ F
   ==
 W
   ====
-  - [[Page~585 (2)璪]]
+  - [[Page~585 #1: (2)璪]]
     ==
     - Pendents of precious stones or pearls
       hung like beads around the edge of a coronet [[Kangxi: 雜采絲貫玉爲冕飾]].
@@ -460,7 +460,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)祖]]
+  - [[Page~584 #6: (2)祖]]
     ==
     - A grandfather [[Kangxi: 父之父也]];
     - a progenitor [[Kangxi: 又先祖始祖通謂之祖]];
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)組]]
+  - [[Page~584 #7: (2)組]]
     ==
     - A band, a fillet, a string, a tape,
       for tying [[Kangxi: 綬屬其小者以爲冕纓]] ~~the dress or hair~~;
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~585 (2)藻]]
+  - [[Page~585 #2: (2)藻]]
     ==
     - A sort of aquatic grass (a Vallisneria?) [[Kangxi: 水草也]]
       which ducks delight in [[Kangxi: 鳧得水藻言喜悅也]];
@@ -645,7 +645,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)蚤]]
+  - [[Page~584 #5: (2)蚤]]
     --
     [[...]]
     --
@@ -701,7 +701,7 @@ F
   ==
 W
   ====
-  - [[Page~585 竈(3)灶(3)]]
+  - [[Page~585 #3: 竈(3)灶(3)]]
     ==
     - A furnace;
     - a place for cooking, a kitchen-range [[Kangxi 竈: 炊竈也]];
@@ -750,7 +750,7 @@ F
   ==
 W
   ====
-  - [[Page~585 竈(3)灶(3)]]
+  - [[Page~585 #3: 竈(3)灶(3)]]
     --
     [[Alternative form of 灶. **See $灶zou3 for the canonical entry.**]]
     --
@@ -787,7 +787,7 @@ F
   ==
 W
   ====
-  - [[Page~585 做(6)]]
+  - [[Page~585 #4: 做(6)]]
     ==
     - To do, to make, to act;
     - to be, to perform the duties of;
@@ -925,7 +925,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~585 皁(6)皂(6)]]
+  - [[Page~585 #6: 皁(6)皂(6)]]
     --
     [[Alternative form of 皂 (for all senses except "soap"). **See $皂zou6 for the canonical entry.**]]
     --
@@ -954,7 +954,7 @@ F
   ==
 W
   ====
-  - [[Page~585 皁(6)皂(6)]]
+  - [[Page~585 #6: 皁(6)皂(6)]]
     ==
     - A black color [[Kangxi 皁: 色黑也 etc.]];
     - underlings, lictors, low officers who execute commands [[Kangxi 皁: 皁隸臣也, 賤人也]];
@@ -1018,7 +1018,7 @@ F
   ==
 W
   ====
-  - [[Page~585 祚(6)]]
+  - [[Page~585 #7: 祚(6)]]
     ==
     - Happiness``,`` ~~derived from~~ wealth [[Kangxi: 祿也]]``,`` or office;
     - dignities [[Kangxi: 位也]], felicity [[Kangxi: 福也]];
@@ -1061,7 +1061,7 @@ F
   ==
 W
   ====
-  - [[Page~585 胙(6)]]
+  - [[Page~585 #8: 胙(6)]]
     ==
     - Roasted flesh offered in sacrifices [[Kangxi: 祭福肉也 etc.]];
     - to set up an altar to Ceres [[Kangxi: 建置社稷曰胙]];
@@ -1109,7 +1109,7 @@ F
   ==
 W
   ====
-  - [[Page~585 造(6)]]
+  - [[Page~585 #5: 造(6)]]
     ==
     - To build, to make, to construct [[Kangxi: 建也作也爲也]];
     - to create;
@@ -1184,7 +1184,7 @@ F
   ==
 W
   ====
-  - [[Page~585 阼(6)]]
+  - [[Page~585 #9: 阼(6)]]
     ==
     - The steps on the east to ascend to the hall [[Kangxi: 主階也, ::阼階東階[...]::]];
     - steps;

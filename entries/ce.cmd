@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,7 +113,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (1)奢]]
+  - [[Page~31|n74 #7: (1)奢]]
     ==
     - Wasteful, extravagant [[Kangxi: 侈也]];
     - to spread out [[Kangxi: 張也]];
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (1)車]]
+  - [[Page~31|n74 #8: (1)車]]
     --
     [[...]]
     --
@@ -224,7 +224,7 @@ W
         [[fo2 ce1 火車]],
         a locomotive.
     ==
-  - [[Page~183 (1)車 _(1)K(u:)_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
+  - [[Page~183 #3: (1)車 _(1)K(u:)_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
     ==
     - [[...]];
     - the jaw-bones [[Kangxi: 牙車牙所載也 etc.]];
@@ -282,7 +282,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (2)且]]
+  - [[Page~31|n74 #9: (2)且]]
     ==
     - A conjunctive particle;
     - and, further, moreover, still;
@@ -368,7 +368,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12* (2)哆]]
+  - [[Page~12* #5: (2)哆]]
     ==
     - [[...]];
     - _~~(2)ch(')(i/)~~ ``(2)ch(')(e/)`` (4)(i/)n_
@@ -410,7 +410,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 ::(2)撦~~(2)抯~~(2)扯::]]
+  - [[Page~31|n74 #10: ::(2)撦~~(2)抯~~(2)扯::]]
     ==
     - To tear open, to pull apart [[Kangxi 撦: 裂開也]];
     - to tear away;
@@ -494,7 +494,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~31|n74 ::(2)撦~~(2)抯~~(2)扯::]]
+  - [[Page~31|n74 #10: ::(2)撦~~(2)抯~~(2)扯::]]
     --
     [[Alternative form of 扯. **See $扯ce2 for the canonical entry.**]]
     --
@@ -527,7 +527,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~565 斜(3)]]
+  - [[Page~565 #2: 斜(3)]]
     --
     A colloquial word.
     --
@@ -615,7 +615,7 @@ F
   ==
 W
   ====
-  - [[Page~565 (4)斜]]
+  - [[Page~565 #1: (4)斜]]
     ==
     - Slanting, inclined, oblique, across, crisscross,
       diagonal, aslant, not with the rule [[Kangxi: 不正也]];
@@ -703,7 +703,7 @@ F
   ==
 W
   ====
-  - [[Page~564 (4)邪]]
+  - [[Page~564 #5: (4)邪]]
     ==
     - Deflected, inclined, swerving from the right line [[Kangxi: 不正也]];
     - whatever leads astray;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)偵]]
+  - [[Page~18* #5: (1)偵]]
     ==
     - A spy (vulgo, _y(e/)(6) pat(7) ~~(4)shau~~ ``(1)shau``_ [[je6 bat1 sau1 夜不收]]),
       a scout;
@@ -131,7 +131,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)征]]
+  - [[Page~18* #3: (1)征]]
     ==
     - To go [[Kangxi: 行也]]``, to expedition``;
     - to take [[Kangxi: 征取也]];
@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~19* (1)徵]]
+  - [[Page~19* #1: (1)徵]]
     ==
     - ~~To act;~~
     - ~~to set in motion;~~
@@ -285,7 +285,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (1)旌]]
+  - [[Page~575 #6: (1)旌]]
     ==
     - A banner, a standard having plumes,
       which when waved encourage the troops [[Kangxi: 析羽注旄首所以進士卒]];
@@ -337,7 +337,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)晶]]
+  - [[Page~576 #1: (1)晶]]
     ==
     - Lustre, brightness [[Kangxi: 精光也]];
     - clear, pure, light;
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)楨]]
+  - [[Page~18* #6: (1)楨]]
     ==
     - ~~A kind of fir;~~
     - _(5)n(u:) (1)ching_
@@ -434,7 +434,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~18* (1)正]]
+  - [[Page~18* #2: (1)正]]
     ==
     - The first;
     - _(1)ching (u:)t(9)_
@@ -488,7 +488,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)烝]]
+  - [[Page~18* #8: (1)烝]]
     ==
     - [[...]];
     - a multitude, all [[Kangxi: 衆也]];
@@ -511,7 +511,7 @@ W
         to intrude one's self;
     - [[...]].
     ==
-  - [[Page~18* (1)蒸]]
+  - [[Page~18* #9: (1)蒸]]
     --
     Used for the last [[烝]] [[Kangxi 蒸: 通烝]].
     --
@@ -570,7 +570,7 @@ F
   ==
 W
   ====
-  - [[Page~19* (1)癥]]
+  - [[Page~19* #2: (1)癥]]
     ==
     - Colic arising from obstruction [[Kangxi: 腹結病也]];
     - obstinate constipation;
@@ -603,7 +603,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)睛]]
+  - [[Page~576 #2: (1)睛]]
     ==
     - The ball of the eye;
     - the pupil;
@@ -650,7 +650,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)禎]]
+  - [[Page~18* #7: (1)禎]]
     ==
     - A favourable omen [[Kangxi: 祥也]];
     - felicitous, lucky;
@@ -689,11 +689,11 @@ F
   ==
 W
   ====
-  - [[Page~576 before (1)精]]
+  - [[Page~576 before #5: (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
-  - [[Page~576 (1)精]]
+  - [[Page~576 #5: (1)精]]
     ==
     - Cleaned rice [[Kangxi: 鑿也]];
     - selected [[Kangxi: 擇也]], ripe, mature [[Kangxi: 熟也]];
@@ -800,7 +800,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)菁]]
+  - [[Page~576 #3: (1)菁]]
     ==
     - Scallion blossoms [[Kangxi: 韭華也]];
     - a kind of three ribbed rush [[Kangxi: 菁茅, 江淮之閒有一茅而三脊 etc.]];
@@ -849,7 +849,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)烝; here normalised to 蒸]]
+  - [[Page~18* #8: (1)烝; here normalised to 蒸]]
     ==
     - A vapor made by heat, steam;
     - vapor, mist;
@@ -872,7 +872,7 @@ W
         [[zing1 ngo4-2 蒸鵝]]^
         a ~~boiled~~ ``steamed`` goose.
     ==
-  - [[Page~18* (1)蒸]]
+  - [[Page~18* #9: (1)蒸]]
     --
     [[...]]
     --
@@ -930,7 +930,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)蜻]]
+  - [[Page~576 #4: (1)蜻]]
     ==
     - [[...]];
     - _(1)tsing l(i/)t(9)_
@@ -967,7 +967,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (1)貞]]
+  - [[Page~18* #4: (1)貞]]
     ==
     - To divine by shells [[Kangxi: 卜問也]];
     - chaste, virtuous;
@@ -1021,7 +1021,7 @@ F
   ==
 W
   ====
-  - [[Page~19* (1)鉦]]
+  - [[Page~19* #3: (1)鉦]]
     ==
     - ~~Cymbals set in a frame~~ ``Bronze bells with a vertical stick through the middle``, used to signalize a halt in armies [[Kangxi: 鐃類也 etc., 鉦以靜之鼓以動之]];
     - a cymbal used by priests, a brass tamborine;
@@ -1072,11 +1072,11 @@ F
   ==
 W
   ====
-  - [[Page~576 before (1)精]]
+  - [[Page~576 before #5: (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
-  - [[Page~576 (2)井]]
+  - [[Page~576 #6: (2)井]]
     ==
     - A well [[Kangxi: 穴地出水曰井]];
     - a deep pit;
@@ -1158,11 +1158,11 @@ F
   ==
 W
   ====
-  - [[Page~19* before (2)整]]
+  - [[Page~19* before #4: (2)整]]
     --
     (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
     --
-  - [[Page~19* (2)整]]
+  - [[Page~19* #4: (2)整]]
     ==
     - To even off, to place evenly [[Kangxi {𢿫=⿱⿰束攴正}: 齊也]];
     - to repair, to mend, to put in order, to make;
@@ -1290,7 +1290,7 @@ F
   ==
 W
   ====
-  - [[Page~19* 政(3)]]
+  - [[Page~19* #6: 政(3)]]
     ==
     - To rule, to govern [[Kangxi: 正也 etc.]];
     - a standard, a regulator;
@@ -1357,11 +1357,11 @@ F
   ==
 W
   ====
-  - [[Page~19* before (2)整]]
+  - [[Page~19* before #4: (2)整]]
     --
     (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
     --
-  - [[Page~19* 正(3)]]
+  - [[Page~19* #5: 正(3)]]
     ==
     - Correct [[Kangxi: 是也]], straight, right, not awry, erect [[Kangxi: 方直不曲謂之正]], even;
     - not inclined, not deflected;
@@ -1518,7 +1518,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20* 症(3)]]
+  - [[Page~20* #3: 症(3)]]
     --
     An unauthorized character.
     --
@@ -1549,7 +1549,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~18* (1)蒸]]
+  - [[Page~18* #9: (1)蒸]]
     --
     [[...]]
     --
@@ -1592,7 +1592,7 @@ F
   ==
 W
   ====
-  - [[Page~20* 証(3)]]
+  - [[Page~20* #2: 証(3)]]
     --
     [[...]]
     --
@@ -1631,7 +1631,7 @@ F
   ==
 W
   ====
-  - [[Page~20* 證(3)]]
+  - [[Page~20* #1: 證(3)]]
     ==
     - To prove, to confront, to testify [[Kangxi: 告也]];
     - to substantiate [[Kangxi: 驗也, {𠋫=⿰亻侯}也質也]];
@@ -1653,7 +1653,7 @@ W
         [[zing3 geoi3 證據]]
         evidence.
     ==
-  - [[Page~20* 証(3)]]
+  - [[Page~20* #2: 証(3)]]
     --
     Interchanged with the above [[證]].
     --
@@ -1715,18 +1715,18 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)净]]
+  - [[Page~20|n63 #8: (1)净]]
     --
     [[...]]
     --
     --
     Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean.
     --
-  - [[Page~576 before (1)精]]
+  - [[Page~576 before #5: (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
-  - [[Page~576 淨(6)]]
+  - [[Page~576 #7: 淨(6)]]
     ==
     - Clean, pure, spotless, undefiled [[Kangxi: 無垢也潔也]];
     - upright, guileless;
@@ -1797,7 +1797,7 @@ F
   ==
 W
   ====
-  - [[Page~577 穽(6)阱(6)]]
+  - [[Page~577 #4: 穽(6)阱(6)]]
     --
     [[Alternative form of 阱. **See $阱zing6 for the canonical entry.**]]
     --
@@ -1821,7 +1821,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
+  - [[Page~21* #14: 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
     --
     [[Reading variation. **See $鄭zeng6 for the canonical entry.**]]
     --
@@ -1860,7 +1860,7 @@ F
   ==
 W
   ====
-  - [[Page~577 穽(6)阱(6)]]
+  - [[Page~577 #4: 穽(6)阱(6)]]
     ==
     - A pit, a pitfall, a hole to catch beasts in [[Kangxi 阱: 坑也, 陷也]];
     - ~~to fall into a pit;~~
@@ -1906,7 +1906,7 @@ F
   ==
 W
   ====
-  - [[Page~577 靖(6)]]
+  - [[Page~577 #3: 靖(6)]]
     ==
     - To become ~~clean and~~ quiet;
     - small, fine [[Kangxi: 一曰細貌]];
@@ -1962,7 +1962,7 @@ F
   ==
 W
   ====
-  - [[Page~577 靚(6)]]
+  - [[Page~577 #2: 靚(6)]]
     --
     [[...]]
     --
@@ -2011,7 +2011,7 @@ F
   ==
 W
   ====
-  - [[Page~577 靜(6)]]
+  - [[Page~577 #1: 靜(6)]]
     ==
     - Still [[Kangxi: 動之對也]], silent, ~~impassible,~~ imperturbable;
     - at rest [[Kangxi: 息也]], quiet [[Kangxi: 靜安也]];
@@ -2044,7 +2044,7 @@ W
         [[je6 zing6 夜靜]]
         the stilly night.
     ==
-  - [[Page~577 靚(6); here normalised to 靜]]
+  - [[Page~577 #2: 靚(6); here normalised to 靜]]
     --
     [[...]]
     --

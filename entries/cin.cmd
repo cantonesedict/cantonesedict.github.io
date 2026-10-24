@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-09-28
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)千]]
+  - [[Page~574 #6: (1)千]]
     ==
     - A thousand [[Kangxi: 十百也]];
     - many, an indefinite number;
@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)芊]]
+  - [[Page~574 #7: (1)芊]]
     ==
     - Exuberant foliage, flourishing vegetation [[Kangxi: 芊芊草盛貌]];
     - green, like jade [[Kangxi: 碧貌]];
@@ -211,7 +211,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)躚]]
+  - [[Page~574 #10: (1)躚]]
     --
     [[Reading variation. **See $躚sin1 for the canonical entry.**]] [[TODO]]
     --
@@ -236,7 +236,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)遷(1)迁]]
+  - [[Page~574 #9: (1)遷(1)迁]]
     --
     [[Alternative form of 遷. **See $遷cin1 for the canonical entry.**]]
     --
@@ -271,7 +271,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)遷(1)迁]]
+  - [[Page~574 #9: (1)遷(1)迁]]
     ==
     - To move, to remove, to place elsewhere [[Kangxi 遷: 移物曰遷]];
     - to ascend [[Kangxi 遷: 登也, 去下之高也]];
@@ -323,7 +323,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)阡]]
+  - [[Page~574 #8: (1)阡]]
     ==
     - A road going north and south [[Kangxi: 路南北爲阡]];
     - a cross-way through a field, a path to a grave [[Kangxi: 墓道也]].
@@ -355,7 +355,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (1)韆]]
+  - [[Page~575 #1: (1)韆]]
     ==
     - To swing to and fro, to play upon the whirligig;
     - _(1)ts(')au (1)ts(')(i/)n_
@@ -417,7 +417,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (2)俴]]
+  - [[Page~575 #5: (2)俴]]
     --
     [[Reading variation. **See $俴cin5 for the canonical entry.**]]
     --
@@ -445,7 +445,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (2)淺]]
+  - [[Page~575 #4: (2)淺]]
     ==
     - Shallow, not deep [[Kangxi: 水不深也]];
     - superficial, not profound;
@@ -574,7 +574,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (4)前]]
+  - [[Page~575 #2: (4)前]]
     ==
     - Before, in front of, in presence of [[Kangxi: 前後之對]];
     - in advance [[Kangxi: 進也]];
@@ -674,7 +674,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (4)廛]]
+  - [[Page~17* #13: (4)廛]]
     ==
     - Ground allotted a serf [[Kangxi: 一畝半一家之居 etc.]];
     - a shop, a village market, a bazaar [[Kangxi: 市邸也]];
@@ -721,7 +721,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (4)纏]]
+  - [[Page~17* #14: (4)纏]]
     ==
     - To wind around [[Kangxi: 繞也]], to bind up [[Kangxi: 約也, 束也]], to wrap, to bandage;
     - to entwine, to cling to;
@@ -783,7 +783,7 @@ F
   ==
 W
   ====
-  - [[Page~18* (4)躔]]
+  - [[Page~18* #1: (4)躔]]
     ==
     - To tread [[Kangxi: 踐也]];
     - to follow in order [[Kangxi: 星之躔次星所履行也]];
@@ -831,7 +831,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (4)錢(4){？=⿸⿻勹丿丶}]]
+  - [[Page~575 #3: (4)錢(4){？=⿸⿻勹丿丶}]]
     ==
     - Copper coin, cash, coppers [[Kangxi 錢: 冶銅爲錢易貨也]];
     - coin, a piece of money;
@@ -953,7 +953,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (2)俴 _(2)Ts(')(i/)n_ (cin2); here normalised to  _(5)Ts(')(i/)n_ (cin5)]]
+  - [[Page~575 #5: (2)俴 _(2)Ts(')(i/)n_ (cin2); here normalised to  _(5)Ts(')(i/)n_ (cin5)]]
     ==
     - Shallow, thin, beaten out, as a piece of metal [[Kangxi: 淺也 etc.]];
     - superficial, ignorant.
@@ -997,7 +997,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 踐(6) _Ts(i/)n(6)_ (zin6); often read _(5)Ts(')(i/)n_ (cin5)]]
+  - [[Page~574 #5: 踐(6) _Ts(i/)n(6)_ (zin6); often read _(5)Ts(')(i/)n_ (cin5)]]
     ==
     - To tread upon [[Kangxi: 履也]], to trample on or over [[Kangxi: 踐蹋也, 踐殘也使殘壞也]];
     - ~~to walk,~~ to step;

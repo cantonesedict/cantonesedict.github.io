@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> kak
-* %date-modified --> 2026-09-24
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -84,7 +84,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~718 ^_K(')ak(7)_ (kak1) exemplified; here assigned to 揢]]
+  - [[Page~718 #4: ^_K(')ak(7)_ (kak1) exemplified; here assigned to 揢]]
     --
     A colloquial word.
     --

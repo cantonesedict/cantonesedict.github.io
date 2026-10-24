@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,7 +75,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)儧; here normalised to 儹]]
+  - [[Page~555 #1: (2)儧; here normalised to 儹]]
     ==
     - To accumulate, to collect together, to hoard up, to store [[Kangxi 儧: 聚而計事也]].
     ==
@@ -145,7 +145,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)寁]]
+  - [[Page~555 #3: (2)寁]]
     ==
     - Promptly, quickly [[Kangxi: 居之速也]];
     - with haste;
@@ -186,7 +186,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)昝]]
+  - [[Page~555 #4: (2)昝]]
     --
     Sometimes used for _(1)ts(a/)_ [[zaa1]] 咱 I, me, in the north.
     --
@@ -235,7 +235,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 (2)琖]]
+  - [[Page~19|n62 #5: (2)琖]]
     ==
     - A wine-cup, made ~~deeper than the preceding [[盞]],~~ of jade, or other valuable stone [[Kangxi: 玉爵也, 玉琖小杯]].
     ==
@@ -270,7 +270,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 (2)盞]]
+  - [[Page~19|n62 #4: (2)盞]]
     ==
     - A shallow cup ~~for oil~~ [[Kangxi: 杯也, 酒盞最小杯也]];
     - a wine saucer;
@@ -334,7 +334,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (2)䟎; here normalised to 趲]]
+  - [[Page~555 #2: (2)䟎; here normalised to 趲]]
     ==
     - To ~~walk~~ ``run``, to get on [[Kangxi 趲: 走也]];
     - to flee, to run away, to scatter, to put to flight [[Kangxi 趲: 散走也]];
@@ -388,7 +388,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 (2)醆]]
+  - [[Page~19|n62 #6: (2)醆]]
     ==
     - Muddy, unsettled spirits [[Kangxi: 酒濁而微淸也]];
     - liquor beginning to clear;
@@ -455,7 +455,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~555 濺(3)灒(3)]]
+  - [[Page~555 #7: 濺(3)灒(3)]]
     --
     [[Alternative form of 灒. **See $灒zaan3 for the canonical entry.**]]
     --
@@ -485,7 +485,7 @@ F
   ==
 W
   ====
-  - [[Page~555 濺(3)灒(3)]]
+  - [[Page~555 #7: 濺(3)灒(3)]]
     ==
     - To ~~stir up~~ ``spatter`` muddy water [[Kangxi 灒: 汙灑也]];
     - ~~turbid water;~~
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~555 瓚(3)]]
+  - [[Page~555 #8: 瓚(3)]]
     ==
     - A sort of stone ~~sceptre made with a~~ cup, used in pouring out libations [[Kangxi: ::瓚亦圭也[...]以進于神也::, 一曰祼器, 瓚者器名 etc.]];
     - a kind of bottle used in worship.
@@ -580,14 +580,14 @@ F
   ==
 W
   ====
-  - [[Page~555 贊(3)]]
+  - [[Page~555 #5: 贊(3)]]
     ==
     - [[...]];
     - to praise, to commend,
       in which sense it is interchanged with the next [[讚]];
     - [[...]].
     ==
-  - [[Page~555 讚(3)]]
+  - [[Page~555 #6: 讚(3)]]
     ==
     - To praise, to commend, to laud [[Kangxi: 稱人之美曰讚]];
     - to sing praises to;
@@ -642,7 +642,7 @@ F
   ==
 W
   ====
-  - [[Page~555 贊(3)]]
+  - [[Page~555 #5: 贊(3)]]
     ==
     - To visit a superior, to come before a god [[Kangxi: 見也]];
     - to second [[Kangxi: 贊佐也]], to assist in bringing forward [[Kangxi: 出也助也]],
@@ -667,7 +667,7 @@ W
     --
     [[Otherwise, an alternative form of 讚. **See $讚zaan3 for the canonical entry.**]]
     --
-  - [[Page~555 讚(3)]]
+  - [[Page~555 #6: 讚(3)]]
     ==
     - [[...]];
     - to assist [[Kangxi 讚: 佐也]];
@@ -728,7 +728,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 撰(6)]]
+  - [[Page~19|n62 #8: 撰(6)]]
     ==
     - ~~To regulate, to correct, to dispose in order;~~
     - to grasp [[Kangxi: 持也]];
@@ -747,7 +747,7 @@ W
     --
     [[...]]
     --
-  - [[Page~19|n62 譔(6)]]
+  - [[Page~19|n62 #9: 譔(6)]]
     --
     Same as the above [[撰]].
     --
@@ -810,7 +810,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 棧(6)]]
+  - [[Page~19|n62 #11: 棧(6)]]
     ==
     - ~~A covered loft;~~
     - palisades;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 綻(6)]]
+  - [[Page~19|n62 #14: 綻(6)]]
     ==
     - A rent seam [[Kangxi: 衣縫]];
     - to rip, to tear, to rend [[Kangxi: 綻猶解也]];
@@ -922,7 +922,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 虥(6)]]
+  - [[Page~19|n62 #13: 虥(6)]]
     ==
     - A tiger cat [[Kangxi: 貓也]];
     - _ch(a/)n(6) ~~(4)m(a/)i~~ ``(4)mi(u/)``_
@@ -956,7 +956,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 譔(6)]]
+  - [[Page~19|n62 #9: 譔(6)]]
     --
     [[...]]
     --
@@ -1003,13 +1003,13 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 賺(6) _Ch(a/)m(6)_ (zaam6); here normalised to _Ch(a/)n(6)_ (zaan6)]]
+  - [[Page~16|n59 #3: 賺(6) _Ch(a/)m(6)_ (zaam6); here normalised to _Ch(a/)n(6)_ (zaan6)]]
     ==
     - [[...]];
     - [[...]] to profit;
     - [[...]].
     ==
-  - [[Page~20|n63 贃(6); here normalised to 賺]]
+  - [[Page~20|n63 #1: 贃(6); here normalised to 賺]]
     --
     An unauthorized word.
     --
@@ -1059,7 +1059,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 贃(6)]]
+  - [[Page~20|n63 #1: 贃(6)]]
     --
     [[Alternative form of 賺. **See $賺zaan6 for the canonical entry.**]]
     --
@@ -1099,7 +1099,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 輚(6)]]
+  - [[Page~19|n62 #12: 輚(6)]]
     ==
     - A tumbril ~~for carrying the wounded~~;
     - ~~a hearse;~~
@@ -1138,7 +1138,7 @@ F
   ==
 W
   ====
-  - [[Page~19|n62 饌(6)]]
+  - [[Page~19|n62 #7: 饌(6)]]
     ==
     - To eat, to drink;
     - to feed persons;

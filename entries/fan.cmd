@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -100,7 +100,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)分]]
+  - [[Page~45 #15: (1)分]]
     ==
     - To separate, to divide [[Kangxi: 別也]];
     - to halve [[Kangxi: 半也]];
@@ -238,7 +238,7 @@ F
   ==
 W
   ====
-  - [[Page~45 ::(1)~~{？=⿺熏力}~~``勳``::]]
+  - [[Page~45 #2: ::(1)~~{？=⿺熏力}~~``勳``::]]
     ==
     - Loyal merit [[Kangxi 勳: 能成王功也 etc.]], meritorious;
     - to spend strength for one's king;
@@ -274,7 +274,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 (2)匪]]
+  - [[Page~53 #3: (2)匪]]
     --
     [[...]]
     --
@@ -313,7 +313,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)吩]]
+  - [[Page~46 #1: (1)吩]]
     ==
     - To direct;
     - _(1)fan ~~(1)f(u/)~~ ``f(u/)(3)``_
@@ -347,7 +347,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)婚]]
+  - [[Page~45 #8: (1)婚]]
     ==
     - Marriage [[Kangxi: 婚姻嫁也]];
     - to take a wife;
@@ -429,7 +429,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)惛]]
+  - [[Page~45 #9: (1)惛]]
     ==
     - Stupid [[Kangxi: 不憭也, 不明了也, 心不明也]], forgetful [[Kangxi: 迷忘也]];
     - confused ~~recollection~~ [[Kangxi: 昏意也]].
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)昏]]
+  - [[Page~45 #7: (1)昏]]
     ==
     - The sun setting [[Kangxi: 日冥也]];
     - ``evening`` twilight;
@@ -543,7 +543,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)熏; here normalised to 曛]]
+  - [[Page~45 #1: (1)熏; here normalised to 曛]]
     ==
     - [[...]];
     - evening ``twilight``;
@@ -553,7 +553,7 @@ W
         ``evening`` twilight;
     - [[...]].
     ==
-  - [[Page~45 (1)曛]]
+  - [[Page~45 #3: (1)曛]]
     ==
     - ~~Twilight~~ ``Evening twilight, dusk`` [[Kangxi: 黃昏時]];
     - the light reflected after sunset [[Kangxi: 日入餘光]];
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)枌]]
+  - [[Page~46 #2: (1)枌]]
     --
     [[Reading variation. **See $枌fan4 for the canonical entry.**]]
     --
@@ -614,7 +614,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)棻]]
+  - [[Page~46 #4: (1)棻]]
     ==
     - A fragrant wood [[Kangxi: 香木也]] burned for its perfume.
     ==
@@ -643,7 +643,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)棼]]
+  - [[Page~46 #3: (1)棼]]
     ==
     - [[...]];
     - confused, disordered, complicated [[Kangxi: 亂也]];
@@ -687,7 +687,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)氛]]
+  - [[Page~46 #6: (1)氛]]
     ==
     - Fume, vapor [[Kangxi: 氣也]];
     - shadowy signs, a will-o'-the-wisp, airy omens [[Kangxi: 氛氳祥氣也, 氛祲妖氣也]];
@@ -734,7 +734,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)汾]]
+  - [[Page~46 #5: (1)汾]]
     --
     [[Alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
@@ -765,7 +765,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)涽]]
+  - [[Page~45 #10: (1)涽]]
     ==
     - Unsettled, unstable, like water [[Kangxi: 涽涽未定貌]];
     - [[...]].
@@ -818,7 +818,7 @@ F
   ==
 W
   ====
-  - [[Page~45 ::~~(1)蔒~~(1)焄::]]
+  - [[Page~45 #14: ::~~(1)蔒~~(1)焄::]]
     ==
     - [[...]];
     - fumes from cooked vegetables;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)熏]]
+  - [[Page~45 #1: (1)熏]]
     ==
     - Vapor, exhalations, steam [[Kangxi: 火氣盛貌]];
     - smoke rising [[Kangxi: 火煙上出也]];
@@ -903,7 +903,7 @@ W
     --
     [[Otherwise, an alternative form of 醺. **See $醺fan1 for the canonical entry.**]]
     --
-  - [[Page~45 ::~~(1)蔒~~(1)焄::]]
+  - [[Page~45 #14: ::~~(1)蔒~~(1)焄::]]
     ==
     - Vapor or steam [[Kangxi 焄: 火上出也, 亦作熏]];
     - [[...]].
@@ -973,7 +973,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)獯]]
+  - [[Page~45 #4: (1)獯]]
     ==
     - A tribe of aborigines, called _(1)fan yuk(9)_ [[fan1 juk6 獯鬻]] [[Kangxi: 獯鬻 etc.]]^;
     - they dwelt near Shens(i/) [[陝西]].
@@ -1003,7 +1003,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)紛]]
+  - [[Page~46 #7: (1)紛]]
     ==
     - A variegated ribbon [[Kangxi: 紛如綬有文而狹者也]];
     - confused, perplexed [[Kangxi: 亂也]];
@@ -1027,7 +1027,7 @@ W
     --
     [[Otherwise, an alternative form of 帉. **See $帉fan1 for the canonical entry.**]]
     --
-  - [[Page~46 (1)芬; here normalised to 紛]]
+  - [[Page~46 #8: (1)芬; here normalised to 紛]]
     --
     [[...]]
     --
@@ -1073,7 +1073,7 @@ F
   ==
 W
   ====
-  - [[Page~713 (1)纁]]
+  - [[Page~713 #8: (1)纁]]
     ==
     - A light red [[Kangxi: 淺絳也]], produced by a trine immersion in the dye [[Kangxi: 三染謂之纁]];
     - a scarlet tint.
@@ -1104,7 +1104,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)芬]]
+  - [[Page~46 #8: (1)芬]]
     ==
     - Budding and blossoming;
     - fragrance from opening plants [[Kangxi: ::草初生[香]分布也::]];
@@ -1162,7 +1162,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)葷]]
+  - [[Page~45 #13: (1)葷]]
     ==
     - Leeks, onions, and strong flavored vegetables [[Kangxi: 蔥薤也, 葷臭菜也 etc.]];
     - animal food;
@@ -1204,7 +1204,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~45 ::(1)蔒~~(1)焄~~::]]
+  - [[Page~45 #14: ::(1)蔒~~(1)焄~~::]]
     --
     [[Alternative form of 葷. **See $葷fan1 for the canonical entry.**]]
     --
@@ -1233,7 +1233,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)薰]]
+  - [[Page~45 #5: (1)薰]]
     ==
     - Fragrant plants [[Kangxi: 香草也]], fragrance;
     - used ~~in houses~~ to expel demons [[Kangxi: 古人祓除以此草薰之故謂之薰]];
@@ -1287,7 +1287,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)醺]]
+  - [[Page~45 #6: (1)醺]]
     ==
     - Intoxicated, drunk [[Kangxi: 醉也 etc.]];
     - smelling of liquor;
@@ -1323,7 +1323,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)閽]]
+  - [[Page~45 #11: (1)閽]]
     ==
     - ~~To shut~~ ``The lowly servant who shuts`` the door at evening [[Kangxi: 常以昏閉門隸也]];
     - a ``lowly`` porter [[Kangxi: 閽者守門之賤者也]];
@@ -1361,7 +1361,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)雰]]
+  - [[Page~46 #9: (1)雰]]
     ==
     - A frosty mist [[Kangxi: 霧氣也]];
     - hoarfrost [[Kangxi: ::[潤]氣著草木遇寒凍色白曰雰::]];
@@ -1404,7 +1404,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)餴]]
+  - [[Page~45 #12: (1)餴]]
     --
     [[Alternative form of 饙. **See $饙fan1 for the canonical entry.**]]
     --
@@ -1433,7 +1433,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)餴; here normalised to 饙]]
+  - [[Page~45 #12: (1)餴; here normalised to 饙]]
     ==
     - Rice steamed thoroughly;
     - to steam rice [[Kangxi 饙: ::[...]然則蒸米爲之饙饙必餾而熟之[...]::]].
@@ -1481,11 +1481,11 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~46 (2)份]]
+  - [[Page~46 #15: (2)份]]
     --
     [[Reading variation (vernacular rising-tone noun). **See $份fan6 for the canonical entry.**]]
     --
-  - [[Page~713 (2)份]]
+  - [[Page~713 #10: (2)份]]
     --
     [[...]]
     --
@@ -1514,7 +1514,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (2)粉]]
+  - [[Page~46 #16: (2)粉]]
     ==
     - Rice broken to pieces [[Kangxi: 米粉, 分也硏米使分散也]];
     - a flour of any grain [[Kangxi: 豆屑也]];
@@ -1559,7 +1559,7 @@ W
         [[jyun4 fan2 鉛粉]],
         white lead.
     ==
-  - [[Page~713 (2)粉]]
+  - [[Page~713 #9: (2)粉]]
     ==
     - The white pus of sores;
     - _(2)fan (4)lau_
@@ -1621,7 +1621,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 瞓(3)]]
+  - [[Page~47 #6: 瞓(3)]]
     ==
     - To sleep, to rest;
     - _(5)n(i/) fan(3) (1)wan_
@@ -1711,7 +1711,7 @@ F
   ==
 W
   ====
-  - [[Page~47 糞(3)]]
+  - [[Page~47 #8: 糞(3)]]
     ==
     - Ordure, filth, muck [[Kangxi: 穢也]], excrement;
     - to manure [[Kangxi: 治也培也]];
@@ -1767,7 +1767,7 @@ F
   ==
 W
   ====
-  - [[Page~47 訓(3)]]
+  - [[Page~47 #7: 訓(3)]]
     ==
     - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]]~~, to exhort~~;
     - to explain [[Kangxi: 訓者釋所言之理也]];
@@ -1847,7 +1847,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (4)墳]]
+  - [[Page~46 #11: (4)墳]]
     ==
     - A grave, a tomb [[Kangxi: 墓也]], a tumulus [[Kangxi: 土之高者曰墳]];
     - river banks, an embankment [[Kangxi: 水涯曰墳大防也所以扞水]];
@@ -1910,7 +1910,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (4)幩]]
+  - [[Page~46 #12: (4)幩]]
     ==
     - An ornament on the bit of a bridle [[Kangxi: 馬纏鑣扇汗也, 幩飾也 etc.]].
     ==
@@ -1941,7 +1941,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
+  - [[Page~46 #2: (1)枌 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
     ==
     - A tree resembling the elm with white wood [[Kangxi: 楡白枌]];
     - [[...]];
@@ -1981,13 +1981,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4) and normalised to 棼]]
+  - [[Page~46 #2: (1)枌 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4) and normalised to 棼]]
     ==
     - [[...]];
     - a beam in a house [[Kangxi 枌: 通棼複屋棟也]];
     - [[...]].
     ==
-  - [[Page~46 (1)棼 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4)]]
+  - [[Page~46 #3: (1)棼 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4)]]
     ==
     - A beam or ridge-pole of a roof [[Kangxi: 複屋棟也, 複屋背重梁]];
     - [[...]];
@@ -2028,7 +2028,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)汾 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
+  - [[Page~46 #5: (1)汾 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
     --
     A river in Sh(a/)ns(i/) [[山西]], a branch of the Yellow R [[Kangxi: 水名 etc.]].
     --
@@ -2076,7 +2076,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (4)濆]]
+  - [[Page~46 #13: (4)濆]]
     ==
     - A river overflowing and making streamlets;
     - a river bank [[Kangxi: 水厓也]];
@@ -2123,7 +2123,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (4)焚]]
+  - [[Page~46 #10: (4)焚]]
     ==
     - To burn, to light, to set on fire [[Kangxi: 燒也, 火灼物也]];
     - _(4)fan (1)h(e/)ung_
@@ -2176,7 +2176,7 @@ F
   ==
 W
   ====
-  - [[Page~46 (4)蕡]]
+  - [[Page~46 #14: (4)蕡]]
     ==
     - Fruitful [[Kangxi: 草木多實也]], flourishing plants [[Kangxi: 蕡藹]], fragrant flowers growing together [[Kangxi: 雜香草也]];
     - _(4)m(a/) (4)fan_
@@ -2325,7 +2325,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)僨]]
+  - [[Page~47 #3: (5)僨]]
     ==
     - ~~Prostrate;~~
     - to overthrow, to ruin [[Kangxi: 覆敗也]];
@@ -2378,7 +2378,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~46 (4)墳 read _Fan(3)_ (fan3); here corrected to _(5)Fan_ (fan5)]]
+  - [[Page~46 #11: (4)墳 read _Fan(3)_ (fan3); here corrected to _(5)Fan_ (fan5)]]
     ==
     - [[...]];
     - rich soil [[Kangxi: 土膏肥也]];
@@ -2426,7 +2426,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)奮]]
+  - [[Page~47 #5: (5)奮]]
     ==
     - To endeavor after, to excite, to rouse [[Kangxi: 震動也]];
     - to spread abroad [[Kangxi: 揚也]] or reach to;
@@ -2482,7 +2482,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)忿]]
+  - [[Page~47 #1: (5)忿]]
     ==
     - Anger, resentment [[Kangxi: 悁也, 恨也怒也]];
     - _(5)fan n(o\)(6)_
@@ -2542,7 +2542,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)憤]]
+  - [[Page~47 #4: (5)憤]]
     ==
     - Impatient desire [[Kangxi: 懣也]], zeal, ardor;
     - anger, violent feeling;
@@ -2556,7 +2556,7 @@ W
       ``_(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]]``
         wrought up by passion.
     ==
-  - [[Page~713 (5)憤]]
+  - [[Page~713 #11: (5)憤]]
     ==
     - Under this character, for _(5)fan k(i/)t(8)_ [[fan5 git3]]
       read _(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]].
@@ -2638,7 +2638,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~352 (1)賁]]
+  - [[Page~352 #10: (1)賁]]
     --
     [[...]]
     --
@@ -2691,7 +2691,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 (5)鼢]]
+  - [[Page~47 #2: (5)鼢]]
     ==
     - A mole or field rat [[Kangxi: 地行鼠 etc.]];
     - called _(4)lai (2)sh(u:)_
@@ -2737,7 +2737,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~46 (2)份]]
+  - [[Page~46 #15: (2)份]]
     ==
     - A portion, a dividend, a share;
     - _(1)fan (2)fan_
@@ -2753,7 +2753,7 @@ W
     --
     A vulgar character.
     --
-  - [[Page~713 (2)份]]
+  - [[Page~713 #10: (2)份]]
     --
     [[...]] <## TODO: $份ban1 ##>
     --
@@ -2809,7 +2809,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~45 (1)分 read _Fan(3)_ (fan3); here corrected to _Fan(6)_ (fan6)]]
+  - [[Page~45 #15: (1)分 read _Fan(3)_ (fan3); here corrected to _Fan(6)_ (fan6)]]
     --
     [[...]]
     --

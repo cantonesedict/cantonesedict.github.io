@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2026-08-08
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 {𠽃=⿰口執}(7)]]
+  - [[Page~557 #4: {𠽃=⿰口執}(7)]]
     --
     [[Alternative form of 蓻 (Cantonese). **See $蓻zap1 for the canonical entry.**]]
     --
@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 執(7)]]
+  - [[Page~22|n65 #1: 執(7)]]
     ==
     - To take in the hand, to pick up, to lay hold of, to grasp;
     - to apprehend, to catch [[Kangxi: 捕也]];
@@ -229,7 +229,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 汁(7)]]
+  - [[Page~22|n65 #3: 汁(7)]]
     ==
     - Gravy, juice [[Kangxi: 液也]];
     - thickened liquor;
@@ -287,7 +287,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 縶(7)]]
+  - [[Page~22|n65 #2: 縶(7)]]
     ==
     - To fetter a horse [[Kangxi: 縶絆也]] or cow ``with rope``;
     - ~~fetters, shackles;~~
@@ -325,7 +325,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 {𠽃=⿰口執}(7); here normalised to 蓻]]
+  - [[Page~557 #4: {𠽃=⿰口執}(7); here normalised to 蓻]]
     --
     A colloquial word.
     --

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 仄(7)]]
+  - [[Page~12|n55 #1: 仄(7)]]
     ==
     - Inclined, slanting, leaning, oblique [[Kangxi: 人處厂下有慮傾側之象]];
     - the name of the three deflected tones [[上聲, 去聲, 入聲]] [[Kangxi: 平仄字聲也]];
@@ -117,7 +117,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 側(7)]]
+  - [[Page~12|n55 #5: 側(7)]]
     ==
     - Side, the side [[Kangxi: 旁也]];
     - on the side;
@@ -181,7 +181,7 @@ F
   ==
 W
   ====
-  - [[Page~550 則(7)]]
+  - [[Page~550 #10: 則(7)]]
     ==
     - A rule, a precept, a law, a regulation [[Kangxi: 法也, 則常也]];
     - a principle [[Kangxi: 天理不差曰則]];
@@ -270,7 +270,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 昃(7)]]
+  - [[Page~12|n55 #2: 昃(7)]]
     ==
     - The sun declining to the west [[Kangxi: 日昃昳中也]];
     - the afternoon [[Kangxi: 日中則昃]];
@@ -279,7 +279,7 @@ W
         [[jat6 zak1 日昃]]
         day is declining.
     ==
-  - [[Page~569 稷(7) _Tsik(7)_ (zik1); here corrected to _Chak(7)_ (zak1)]]
+  - [[Page~569 #11: 稷(7) _Tsik(7)_ (zik1); here corrected to _Chak(7)_ (zak1)]]
     ==
     - [[...]];
     - _h(a/)(6) ~~tsik(7)~~ ``chak(7)``_
@@ -330,7 +330,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 簀(7)]]
+  - [[Page~12|n55 #3: 簀(7)]]
     --
     [[Reading variation. **See $簀zaak3 for the canonical entry.**]]
     --
@@ -365,7 +365,7 @@ F
   ==
 W
   ====
-  - [[Page~551 鯽(7)]]
+  - [[Page~551 #1: 鯽(7)]]
     --
     [[Alternative form of 鰂. **See $鰂zak1 for the canonical entry.**]]
     --
@@ -393,7 +393,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~551 鯽(7); here normalised to 鰂]]
+  - [[Page~551 #1: 鯽(7); here normalised to 鰂]]
     ==
     - A species of bream _(Cyprinus gibelioides)_ with a long dorsal,
       called _tsak(7) ~~(5)n(a/)~~ ``(2)n(a/)`` (4)(u:)_ [[zak1 naa2 jyu4-2 鰂乸魚]]_;_

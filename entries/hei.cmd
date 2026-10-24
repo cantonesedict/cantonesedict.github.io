@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏 and hypothesised to correspond to modern hei1]]
+  - [[Page~78 #5: ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏 and hypothesised to correspond to modern hei1]]
     ==
     - A colloquial exclamation, expressing disapproval;
     - _(1)h(e/) (4)'m (2)h(o\) ~~t(')au(3)~~ ``tau(3)``_
@@ -682,7 +682,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 屭(3) _Ai(3)_ (ai3); here corrected to _H(i/)(3)_ (hei3)]]
+  - [[Page~2 #8: 屭(3) _Ai(3)_ (ai3); here corrected to _H(i/)(3)_ (hei3)]]
     ==
     - Strong, herculean, athletic [[Kangxi: 壯大貌]].
     ==

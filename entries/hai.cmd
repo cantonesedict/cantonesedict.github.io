@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-09-21
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -109,7 +109,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~68 (2)喺]]
+  - [[Page~68 #11: (2)喺]]
     ==
     - To be at, to be in;
     - ~~is;~~
@@ -189,7 +189,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)兮]]
+  - [[Page~68 #9: (4)兮]]
     ==
     - A poetical word used as an exclamation [[Kangxi: 語有所稽也 etc.]]
       ~~of admiration or interrogation,
@@ -223,7 +223,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)奚]]
+  - [[Page~68 #7: (4)奚]]
     ==
     - Why, how? [[Kangxi: 疑問辭]]
     - a page to an officer, a waiting-maid [[Kangxi: 隷役也, 奚猶今官婢通作㜎傒]].
@@ -265,7 +265,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)徯]]
+  - [[Page~68 #8: (4)徯]]
     ==
     - To wait for [[Kangxi: 待也]], to hope [[Kangxi: 有所望也]];
     - [[...]].
@@ -273,7 +273,7 @@ W
     --
     [[Otherwise, an alternative form of 蹊. **See $蹊hai4 for the canonical entry.**]]
     --
-  - [[Page~716 (1)蹊]]
+  - [[Page~716 #13: (1)蹊]]
     ==
     - Same as 徯 _(4)hai_ [[hai4]], [[...]].
     <## TODO: move under $蹊kei1
@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)徯]]
+  - [[Page~68 #8: (4)徯]]
     ==
     - [[...]];
     - a narrow pathway [[Kangxi 徯: 與蹊通]];
@@ -322,7 +322,7 @@ W
         [[hai4 ging3 徯徑]]
         a footpath [[Kangxi 徯: 徯徑細小狹路也]].
     ==
-  - [[Page~120 (1)蹊 _(1)K(')ai_ (kai1); here normalised to _(4)Hai_ (hai4)]]
+  - [[Page~120 #5: (1)蹊 _(1)K(')ai_ (kai1); here normalised to _(4)Hai_ (hai4)]]
     ==
     - A foot or bridle-path [[Kangxi: 徑道也, 步所用道曰蹊]], a narrow pathway;
     - to penetrate through byways, to go where no road is [[Kangxi: 徑也]].
@@ -366,7 +366,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)鼷]]
+  - [[Page~68 #10: (4)鼷]]
     ==
     - A small meadow mouse, whose bite is considered poisonous [[Kangxi: 小鼠也, 螫毒食人及鳥獸皆不痛今之甘口鼠也, etc.]].
     ==
@@ -420,7 +420,7 @@ F
   ==
 W
   ====
-  - [[Page~68 係(6)]]
+  - [[Page~68 #12: 係(6)]]
     ==
     - The substantive verb;
     - to be, am, is;
@@ -553,7 +553,7 @@ F
   ==
 W
   ====
-  - [[Page~68 系(6)]]
+  - [[Page~68 #13: 系(6)]]
     ==
     - To connect, to tie [[Kangxi: 繫也, 相連繫也]];
     - to continue [[Kangxi: 系繼也]];
@@ -615,7 +615,7 @@ F
   ==
 W
   ====
-  - [[Page~68 繫(6)]]
+  - [[Page~68 #14: 繫(6)]]
     ==
     - To tie, to bind [[Kangxi: 約束也]];
     - ~~to continue;~~
@@ -628,7 +628,7 @@ W
         [[hai6 leoi6 繫累]],
         to implicate.
     ==
-  - [[Page~120 繫(3) _Kai(3)_ (gai3)]]
+  - [[Page~120 #1: 繫(3) _Kai(3)_ (gai3)]]
     ==
     - Usually read _~~hai(3)~~ ``hai(6)``_ [[hai6]]^, to tie;
     - ~~to pertain to, to follow in consequence of.~~

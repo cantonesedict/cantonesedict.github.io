@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (1)啁]]
+  - [[Page~28|n71 #10: (1)啁]]
     --
     [[...]]
     --
@@ -109,7 +109,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (1)嘲]]
+  - [[Page~28|n71 #9: (1)嘲]]
     ==
     - To deride, to jeer at [[Kangxi: 謔也]];
     - to ridicule;
@@ -124,7 +124,7 @@ W
         [[zaau1 maa6 嘲罵]]
         to jeer and rail at.
     ==
-  - [[Page~28|n71 (1)啁]]
+  - [[Page~28|n71 #10: (1)啁]]
     --
     Interchanged with the last [[嘲]] [[Kangxi 啁: 與嘲謿通]].
     --
@@ -182,7 +182,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+  - [[Page~25|n68 #12: (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
     - A besom [[Kangxi 箒: 箕箒也]];
     - a broom;
@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 (2)找]]
+  - [[Page~29|n72 #3: (2)找]]
     ==
     - To seek;
     - to make up the deficiency, to supply what is wanted [[Kangxi: 俗音爪補不足曰找]];
@@ -287,7 +287,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 (2)爪; here normalised to 抓]]
+  - [[Page~29|n72 #1: (2)爪; here normalised to 抓]]
     ==
     - [[...]];
     - to scratch, to claw;
@@ -304,7 +304,7 @@ W
         to scratch;
     - [[...]].
     ==
-  - [[Page~29|n72 (2)抓]]
+  - [[Page~29|n72 #2: (2)抓]]
     --
     Interchanged with the last [[爪]].
     --
@@ -343,7 +343,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 (2)爪]]
+  - [[Page~29|n72 #1: (2)爪]]
     ==
     - Claws, talons, nails [[Kangxi: 覆手曰爪, 手足甲也]];
     - [[...]];
@@ -420,7 +420,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+  - [[Page~25|n68 #11: (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
     - ~~The fore-arm;~~
     - the elbow [[Kangxi: 臂節也]]~~, the wrist~~;
@@ -471,7 +471,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~584 (2)蚤 _(2)Ts(o\)_ (zou2); here corrected to _(2)Ch(a/)u_ (zaau2)]]
+  - [[Page~584 #5: (2)蚤 _(2)Ts(o\)_ (zou2); here corrected to _(2)Ch(a/)u_ (zaau2)]]
     --
     [[...]]
     --
@@ -545,7 +545,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 {𦻐=⿱艹焯}(3); here normalised to 㷹]]
+  - [[Page~29|n72 #6: {𦻐=⿱艹焯}(3); here normalised to 㷹]]
     ==
     - Blazing fire [[Kangxi 㷹: 火急煎貌]];
     - to fry;
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 笊(3)]]
+  - [[Page~29|n72 #5: 笊(3)]]
     ==
     - A skimmer made of bamboo or iron wire [[Kangxi: 笊篱竹器]];
     - nests in caves [[Kangxi: 鳥居穴曰笊居樹曰巢]];
@@ -612,7 +612,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
+  - [[Page~29|n72 #4: ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
     ==
     - A net, or basket to catch mud fish by covering them [[Kangxi 罩: 捕魚器也]];
     - to catch or cover over;
@@ -660,7 +660,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 {𦻐=⿱艹焯}(3)]]
+  - [[Page~29|n72 #6: {𦻐=⿱艹焯}(3)]]
     --
     [[Alternative form of 㷹. **See $㷹zaau3 for the canonical entry.**]]
     --
@@ -683,7 +683,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 踔(3)]]
+  - [[Page~29|n72 #7: 踔(3)]]
     ==
     - To tread on [[Kangxi: 踶也]];
     - to stretch ahead in running [[Kangxi: 踔走也, 踔踰也, 踔猶越也]];
@@ -755,7 +755,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
+  - [[Page~29|n72 #8: 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
     ==
     - To row [[Kangxi 櫂: 言使舟櫂進也]];
     - to shoot an arrow;
@@ -839,7 +839,7 @@ F
   ==
 W
   ====
-  - [[Page~562 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
+  - [[Page~562 #4: 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
     ==
     - A fleet horse [[Kangxi: 馬疾步也]];
     - to run [[Kangxi: 奔也]];

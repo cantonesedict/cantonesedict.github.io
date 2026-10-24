@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haang
-* %date-modified --> 2026-09-05
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~74 (1)坑]]
+  - [[Page~74 #5: (1)坑]]
     ==
     - A ditch, trench, hollow, hole, cave, or pit, natural or artificial [[Kangxi: 同阬, 虛也, 陷也]];
     - the furrows in a roof;
@@ -153,7 +153,7 @@ F
   ==
 W
   ====
-  - [[Page~74 (4)桁]]
+  - [[Page~74 #6: (4)桁]]
     --
     [[Reading variation. **See $桁hang4 for the canonical entry.**]]
     --
@@ -180,7 +180,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~73 (4)行 _(4)Hang_ (hang4); _(4)H(a/)ng_ (haang4) implied by variational note]]
+  - [[Page~73 #1: (4)行 _(4)Hang_ (hang4); _(4)H(a/)ng_ (haang4) implied by variational note]]
     --
     [[Reading variation (vernacular longer syllable for the "walk" and "move" senses). **See $行hang4 for the canonical entry.**]]
     --

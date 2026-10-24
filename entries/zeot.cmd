@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~609 卒(7)]]
+  - [[Page~609 #5: 卒(7)]]
     ==
     - Those who execute orders [[Kangxi: 隸人給事者]];
     - lictors, soldiers, underlings, menials;
@@ -138,7 +138,7 @@ F
   ==
 W
   ====
-  - [[Page~41 怵(7)]]
+  - [[Page~41 #13: 怵(7)]]
     ==
     - Fear, terror [[Kangxi: 恐也]];
     - to dread;
@@ -225,14 +225,14 @@ F
   ==
 W
   ====
-  - [[Page~41 絀(7)]]
+  - [[Page~41 #12: 絀(7)]]
     --
     [[Reading variation. **See $絀zyut3 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 黜. **See $黜zeot1 for the canonical entry.**]]
     --
-  - [[Page~713 絀(7)]]
+  - [[Page~713 #4: 絀(7)]]
     --
     [[...]]
     --
@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~41 黜(7)]]
+  - [[Page~41 #11: 黜(7)]]
     ==
     - ~~To blame;~~
     - to degrade, to dismiss, to put out of office [[Kangxi: 貶下也, 退也貶也下也去也放絕也減也]];
@@ -304,7 +304,7 @@ W
         [[juk6 zeot1 辱黜]]
         degraded and ashamed.
     ==
-  - [[Page~41 絀(7); here normalised to 黜]]
+  - [[Page~41 #12: 絀(7); here normalised to 黜]]
     ==
     - [[...]];
     - used for the preceding [[黜]] [[Kangxi 絀: 同黜]].

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,7 +83,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)嫜]]
+  - [[Page~33|n76 #8: (1)嫜]]
     ==
     - A husband's father [[Kangxi: 夫之父母也]];
     - _(1)k(u/) (1)ch(e/)ung_
@@ -113,7 +113,7 @@ F
   ==
 W
   ====
-  - [[Page~565 (1)將]]
+  - [[Page~565 #9: (1)將]]
     ==
     - To take, ``to bring,`` to hold in the hand;
     - sign of the future, shall, will, about to go [[Kangxi: 將甫始之辭]];
@@ -238,7 +238,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)張]]
+  - [[Page~33|n76 #6: (1)張]]
     ==
     - To draw a bow [[Kangxi: ::施弓[弦]也::]];
     - to extend, to stretch, to open [[Kangxi: 開也]];
@@ -339,7 +339,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)彰]]
+  - [[Page~33|n76 #9: (1)彰]]
     ==
     - Luminous [[Kangxi: 明也, 著也]];
     - beautiful;
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)慞]]
+  - [[Page~33|n76 #10: (1)慞]]
     ==
     - Alarm;
     - apprehensive;
@@ -410,7 +410,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)樟]]
+  - [[Page~33|n76 #11: (1)樟]]
     ==
     - The camphor _(Laurus camphora)_ [[Kangxi: 豫樟木也 etc.]]_;_
     - _(1)ch(e/)ung muk(9)_
@@ -446,7 +446,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)漳]]
+  - [[Page~34|n77 #1: (1)漳]]
     ==
     - Name of a river [[Kangxi: 水名]];
     - the prefecture of Ch(a/)ngchau [[漳州]] [[Kangxi: 州名]] in Fuhkien [[福建]] near Amoy [[廈門]].
@@ -473,7 +473,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (1)漿(1)䊢]]
+  - [[Page~566 #1: (1)漿(1)䊢]]
     ==
     - Thick, half fluid, pasty [[Kangxi 漿: 一曰水米汁相將也]];
     - starch, syrup, pus, or matter;
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)麞; here normalised to 獐]]
+  - [[Page~34|n77 #4: (1)麞; here normalised to 獐]]
     ==
     - A kind of chevrotain or gazelle, hornless, and of elegant shape [[Kangxi 麞: 與獐同, 麋屬, 麞如小鹿而美]];
     - _(4)ngan (1)ch(e/)ung_
@@ -557,7 +557,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)璋]]
+  - [[Page~34|n77 #2: (1)璋]]
     ==
     - A kind of plaything made of jade [[Kangxi: 剡上爲圭半圭爲璋]];
     - _lung(6) (1)ch(e/)ung_
@@ -592,7 +592,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 (1)章]]
+  - [[Page~33|n76 #7: (1)章]]
     ==
     - A piece of music [[Kangxi: 樂竟爲一章]];
     - a chapter, a section [[Kangxi: 篇章]];
@@ -665,7 +665,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (1)漿(1)䊢]]
+  - [[Page~566 #1: (1)漿(1)䊢]]
     --
     [[Alternative form of 漿. **See $漿zoeng1 for the canonical entry.**]]
     --
@@ -687,7 +687,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~566 (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to _(1)Ts(e/)ung_ (zoeng1)]]
+  - [[Page~566 #5: (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to _(1)Ts(e/)ung_ (zoeng1)]]
     ==
     - [[...]];
     - _(1)k(u/) ~~(2)ts(e/)ung~~ ``(1)ts(e/)ung``_
@@ -727,7 +727,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (1)螿]]
+  - [[Page~566 #2: (1)螿]]
     ==
     - Small species of cicada or grasshopper, whose elytra are green [[Kangxi: 寒螿蟬屬 etc.]].
     ==
@@ -747,7 +747,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)鄣]]
+  - [[Page~34|n77 #3: (1)鄣]]
     ==
     - A feudal state, now part of T(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
@@ -778,7 +778,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (1)麞]]
+  - [[Page~34|n77 #4: (1)麞]]
     --
     [[Alternative form of 獐. **See $獐zoeng1 for the canonical entry.**]]
     --
@@ -814,7 +814,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)奬]]
+  - [[Page~566 #3: (2)奬]]
     --
     [[Alternative form of 獎. **See $獎zoeng2 for the canonical entry.**]]
     --
@@ -834,7 +834,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (2)掌]]
+  - [[Page~34|n77 #5: (2)掌]]
     ==
     - The palm of the hand [[Kangxi: 手中也, 手心也謂指本也]];
     - the paw or sole of animals;
@@ -916,7 +916,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)槳]]
+  - [[Page~566 #4: (2)槳]]
     ==
     - An oar [[Kangxi: 楫屬 etc.]];
     - _ch(a/)u(6) (2)ts(e/)ung_
@@ -948,7 +948,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)奬; here normalised to 獎]]
+  - [[Page~566 #3: (2)奬; here normalised to 獎]]
     ==
     - To exhort, to animate, to excite, to encourage [[Kangxi 奬: 勸勉也]];
     - to laud, to praise, to commend [[Kangxi 奬: 褒美也]];
@@ -1003,7 +1003,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)蔣]]
+  - [[Page~566 #5: (2)蔣]]
     ==
     - A surname [[Kangxi: 姓]];
     - [[...]].
@@ -1035,7 +1035,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 (2)長]]
+  - [[Page~34|n77 #6: (2)長]]
     ==
     - Old, senior, superior, greater [[Kangxi: 長雄長之長]];
     - to excel, to increase [[Kangxi: 進也]];
@@ -1160,7 +1160,7 @@ F
   ==
 W
   ====
-  - [[Page~566 將(3)]]
+  - [[Page~566 #7: 將(3)]]
     ==
     - To take charge of troops, to lead troops into the field, to act as a general [[Kangxi: 將之也]];
     - a general, a leader [[Kangxi: 將帥也]];
@@ -1206,7 +1206,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 帳(3)]]
+  - [[Page~34|n77 #8: 帳(3)]]
     ==
     - A curtain, a screen [[Kangxi: 帳張也張施於牀上也, 帷也張也幬也]];
     - a tent;
@@ -1297,7 +1297,7 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 悵(3)]]
+  - [[Page~34|n77 #7: 悵(3)]]
     ==
     - Disappointment [[Kangxi: 望恨也]];
     - vexed;
@@ -1340,7 +1340,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 漲(3)]]
+  - [[Page~35|n78 #1: 漲(3)]]
     ==
     - An inundation [[Kangxi: 水大貌]];
     - to overflow [[Kangxi: 溢也]];
@@ -1369,7 +1369,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 瘴(3)]]
+  - [[Page~35|n78 #3: 瘴(3)]]
     ==
     - Malaria [[Kangxi: 瘴癘也, 熱病]];
     - pestilential vapors;
@@ -1415,7 +1415,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 脹(3)]]
+  - [[Page~35|n78 #2: 脹(3)]]
     ==
     - A swelled belly [[Kangxi: 腹滿也]];
     - a swelling;
@@ -1454,13 +1454,13 @@ F
   ==
 W
   ====
-  - [[Page~34|n77 帳(3)]]
+  - [[Page~34|n77 #8: 帳(3)]]
     ==
     - [[...]];
     - an account, for which the next [[賬]] is used [[Kangxi 帳: 計簿也]];
     - [[...]].
     ==
-  - [[Page~34|n77 賬(3)]]
+  - [[Page~34|n77 #9: 賬(3)]]
     --
     An unauthorized character.
     --
@@ -1577,7 +1577,7 @@ F
   ==
 W
   ====
-  - [[Page~566 醬(3)]]
+  - [[Page~566 #6: 醬(3)]]
     ==
     - A sort of sauce, pickle or condiment [[Kangxi: 醢也, 醢肉醬也又豉醬又菜茹亦謂之醬]], made of salt and sugar;
     - relishes, seasoning, like oilmen's stores;
@@ -1632,7 +1632,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 障(3)]]
+  - [[Page~35|n78 #4: 障(3)]]
     ==
     - To separate [[Kangxi: 隔也]];
     - to divide [[Kangxi: 界也]];
@@ -1708,7 +1708,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 丈(6)]]
+  - [[Page~35|n78 #5: 丈(6)]]
     ==
     - Ten _ch(')ek_ [[尺]] [[Kangxi: 十尺曰丈]] or 141~English inches;
     - to measure;
@@ -1775,7 +1775,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 仗(6)]]
+  - [[Page~35|n78 #7: 仗(6)]]
     ==
     - ~~A sharp weapon~~ ``Weaponry`` [[Kangxi: 劒戟總名]];
     - to fight;
@@ -1844,7 +1844,7 @@ F
   ==
 W
   ====
-  - [[Page~566 像(6)]]
+  - [[Page~566 #9: 像(6)]]
     ==
     - [[...]];
     - like, similar [[Kangxi: 形象也肖似也]];
@@ -1903,7 +1903,7 @@ F
   ==
 W
   ====
-  - [[Page~567 匠(6)]]
+  - [[Page~567 #1: 匠(6)]]
     ==
     - A workman, a mechanic, an artisan of any kind [[Kangxi: 工匠]];
     - _(2)t(a/) (4)ngan ts(e/)ung(6)_
@@ -1954,7 +1954,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 杖(6)]]
+  - [[Page~35|n78 #6: 杖(6)]]
     ==
     - A cane, a staff [[Kangxi: 所以扶行也]];
     - a cudgel, a club [[Kangxi: 木梃也]];
@@ -2073,7 +2073,7 @@ F
   ==
 W
   ====
-  - [[Page~566 象(6)]]
+  - [[Page~566 #8: 象(6)]]
     ==
     - An elephant [[Kangxi: 長鼻牙南越大獸 etc.]];
     - a figure, a form, an image;
@@ -2100,7 +2100,7 @@ W
         [[daai6 ban6 zoeng6 大笨象]]
         stupid, dull.
     ==
-  - [[Page~566 像(6)]]
+  - [[Page~566 #9: 像(6)]]
     ==
     - Interchanged with the preceding [[象]];
     - [[...]].

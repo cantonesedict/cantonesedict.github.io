@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (2)爼; here normalised to 俎]]
+  - [[Page~25* #7: (2)爼; here normalised to 俎]]
     ==
     - A basin or bowl like a tripod, used in sacrifice [[Kangxi 俎: 祭享之器]];
     - _(2)cho tau(6)_
@@ -111,7 +111,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~25* (2)阻; here normalised to 咗]]
+  - [[Page~25* #8: (2)阻; here normalised to 咗]]
     --
     [[...]]
     --
@@ -193,7 +193,7 @@ F
   ==
 W
   ====
-  - [[Page~26* (2)岨]]
+  - [[Page~26* #1: (2)岨]]
     --
     [[Alternative form of 岨 (for the "mountain-pass" sense). **See $阻zo2 for the canonical entry.**]]
     --
@@ -221,7 +221,7 @@ F
   ==
 W
   ====
-  - [[Page~582 (2)左]]
+  - [[Page~582 #5: (2)左]]
     ==
     - The left [[Kangxi: 左右之對]], the left hand;
     - second;
@@ -301,7 +301,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (2)爼]]
+  - [[Page~25* #7: (2)爼]]
     --
     [[Alternative form of 俎. **See $俎zo2 for the canonical entry.**]]
     --
@@ -326,7 +326,7 @@ F
   ==
 W
   ====
-  - [[Page~25* (2)阻]]
+  - [[Page~25* #8: (2)阻]]
     ==
     - To hinder, to impede [[Kangxi: 隔也]], to stop, to make delay;
     - grieved [[Kangxi: 憂也]];
@@ -362,7 +362,7 @@ W
     --
     [[Otherwise, an alternative form of 咗 (Cantonese). **See $咗zo2 for the canonical entry.**]]
     --
-  - [[Page~26* (2)岨]]
+  - [[Page~26* #1: (2)岨]]
     --
     Used instead of the last [[阻]].
     --
@@ -427,7 +427,7 @@ F
   ==
 W
   ====
-  - [[Page~582 佐(3)]]
+  - [[Page~582 #6: 佐(3)]]
     ==
     - To assist, to second;
     - an assistant, a deputy, a second [[Kangxi: 輔也貳也]], a substitute;
@@ -522,11 +522,11 @@ F
   ==
 W
   ====
-  - [[Page~26* before 詛(3)]]
+  - [[Page~26* before #2: 詛(3)]]
     --
     This character [[詛]] is often called ~~_ch(u\)_ [[zoe]] or~~ _ch(u:)_ [[zyu]].
     --
-  - [[Page~26* 詛(3)]]
+  - [[Page~26* #2: 詛(3)]]
     ==
     - To curse, to imprecate [[Kangxi: 詶也, 呪詛]];
     - bad language, curses;
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~26* 助(6)]]
+  - [[Page~26* #3: 助(6)]]
     ==
     - To assist, to help [[Kangxi: 左也]];
     - strengthening, beneficial [[Kangxi: 益也]];
@@ -642,7 +642,7 @@ F
   ==
 W
   ====
-  - [[Page~582 坐(6)]]
+  - [[Page~582 #7: 坐(6)]]
     ==
     - To sit [[Kangxi: 行之對也]];
     - to sit on the heels;
@@ -820,13 +820,13 @@ F
   ==
 W
   ====
-  - [[Page~582 坐(6); here normalised to 座]]
+  - [[Page~582 #7: 坐(6); here normalised to 座]]
     ==
     - [[...]];
     - a seat, a place;
     - [[...]].
     ==
-  - [[Page~583 座(6)]]
+  - [[Page~583 #1: 座(6)]]
     ==
     - A seat [[Kangxi: 牀座也, 坐具]], a throne;
     - a shrine;

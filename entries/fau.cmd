@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)坏]]
+  - [[Page~51 #10: (1)坏]]
     ==
     - A hillock of earth.
     ==
@@ -89,7 +89,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)抔]]
+  - [[Page~51 #11: (1)抔]]
     --
     [[Reading variation. **See $抔pau4 for the canonical entry.**]] [[TODO]]
     --
@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (2)否]]
+  - [[Page~52 #2: (2)否]]
     ==
     - Not so, ~~ought~~ not [[Kangxi: 不也 etc.]];
     - used at the end of sentences as a negative interrogation;
@@ -204,7 +204,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)缶 _(1)Fau_ (fau1); here corrected to _(2)Fau_ (fau2)]]
+  - [[Page~51 #8: (1)缶 _(1)Fau_ (fau1); here corrected to _(2)Fau_ (fau2)]]
     ==
     - Earthenware in general [[Kangxi: 瓦缶之器]];
     - a vessel used to contain wine [[Kangxi: 瓦器所以盛酒漿]];
@@ -307,7 +307,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (4)浮]]
+  - [[Page~51 #13: (4)浮]]
     ==
     - To float [[Kangxi: 氾也]], to drift [[Kangxi: 順流曰浮]];
     - to overflow, to exceed [[Kangxi: 溢也過也]], to inundate;
@@ -409,7 +409,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (4)紑]]
+  - [[Page~51 #12: (4)紑]]
     ==
     - ~~New silken~~ ``Fresh, clean, as`` garments [[Kangxi: 白鮮衣貌, 紑絜鮮貌]];
     - ~~elegant,~~ lustrous``, as silk`` [[Kangxi: 繒色鮮]].
@@ -445,7 +445,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)罘 _(1)Fau_ (fau1); here corrected to _(4)Fau_ (fau4)]]
+  - [[Page~51 #9: (1)罘 _(1)Fau_ (fau1); here corrected to _(4)Fau_ (fau4)]]
     ==
     - A rabbit net [[Kangxi: 兔罟, 罘罝也]];
     - a ~~wooden~~ screen before an official residence [[Kangxi: 罘罳 etc.]].
@@ -477,7 +477,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (2)芣 _(2)Fau_ (fau2); here corrected to _(4)Fau_ (fau4)]]
+  - [[Page~52 #3: (2)芣 _(2)Fau_ (fau2); here corrected to _(4)Fau_ (fau4)]]
     ==
     - The plantago or plantain leaf,
       called _~~(2)fau~~ ``(4)fau`` (5)(i/)_
@@ -518,7 +518,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (4)蜉]]
+  - [[Page~52 #1: (4)蜉]]
     ==
     - A large ant, called _(4)p(')(i/) (4)fau_ [[pei4 fau4 蚍蜉]] [[Kangxi: ::蚍蜉大[螘]::]]^;
     - _(4)fau (4)yau_
@@ -567,7 +567,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~52 覆(6); here corrected to 伏]]
+  - [[Page~52 #6: 覆(6); here corrected to 伏]]
     ==
     - [[...]];
     - to brood, as a hen;
@@ -576,7 +576,7 @@ W
         [[gai1 naa2 fau6 zai2 雞乸伏仔]],
         the hen covers her chickens.
     ==
-  - [[Page~64 伏(9) _Fuk(9)_ (fuk6); here corrected to _Fau(6)_ (fau6)]]
+  - [[Page~64 #4: 伏(9) _Fuk(9)_ (fuk6); here corrected to _Fau(6)_ (fau6)]]
     ==
     - [[...]];
     - to brood [[Kangxi: 禽覆卵也]];
@@ -614,7 +614,7 @@ F
   ==
 W
   ====
-  - [[Page~52 ::~~{？=⿱垖十}~~``埠``(6)::]]
+  - [[Page~52 #5: ::~~{？=⿱垖十}~~``埠``(6)::]]
     ==
     - A landing where trade is carried on,
       a mart on the seaside,
@@ -664,7 +664,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 {𧌓=⿰虫阜}(6); here normalised to 蛗]]
+  - [[Page~714 #3: {𧌓=⿰虫阜}(6); here normalised to 蛗]]
     ==
     - A kind of grasshopper or cricket;
     - _fau(6) (1)chung_
@@ -693,7 +693,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 {𧌓=⿰虫阜}(6)]]
+  - [[Page~714 #3: {𧌓=⿰虫阜}(6)]]
     --
     [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]]
     --
@@ -713,7 +713,7 @@ F
   ==
 W
   ====
-  - [[Page~52 覆(6)]]
+  - [[Page~52 #6: 覆(6)]]
     --
     [[Reading variation (for the "overspread" sense). **See $覆fuk1 for the canonical entry.**]]
     --
@@ -743,7 +743,7 @@ F
   ==
 W
   ====
-  - [[Page~52 阜(6)阝]]
+  - [[Page~52 #4: 阜(6)阝]]
     ==
     - A ``great`` mound or hill of earth [[Kangxi 阜: 大陸曰阜, 山無石者]];
     - ``the 170th~``radical [[U+2FA9 ⾩ "mound"]] of elevations, hills, &c.;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -128,7 +128,7 @@ F
   ==
 W
   ====
-  - [[Page~569 勣(7)]]
+  - [[Page~569 #3: 勣(7)]]
     ==
     - Merit, praiseworthy acts [[Kangxi: 功也]];
     - meritorious deeds, conduct worthy of reward.
@@ -161,7 +161,7 @@ F
   ==
 W
   ====
-  - [[Page~568 卽(7); here normalised to 即]]
+  - [[Page~568 #8: 卽(7); here normalised to 即]]
     ==
     - ~~Eating, about~~ ``Nearing`` to eat [[Kangxi 卽: 卽猶就也就食也]];
     - an adverb, now, immediately, soon, presently, when, then, forthwith;
@@ -239,7 +239,7 @@ F
   ==
 W
   ====
-  - [[Page~568 卽(7)]]
+  - [[Page~568 #8: 卽(7)]]
     --
     [[Alternative form of 即. **See $即zik1 for the canonical entry.**]]
     --
@@ -263,7 +263,7 @@ F
   ==
 W
   ====
-  - [[Page~568 喞(7); here normalised to 唧]]
+  - [[Page~568 #9: 喞(7); here normalised to 唧]]
     ==
     - The noise of a crowd [[Kangxi 喞: 啾喞也, 啾喞衆聲]];
     - the hum of insects;
@@ -317,7 +317,7 @@ F
   ==
 W
   ====
-  - [[Page~568 喞(7)]]
+  - [[Page~568 #9: 喞(7)]]
     --
     [[Alternative form of 唧. **See $唧zik1 for the canonical entry.**]]
     --
@@ -341,7 +341,7 @@ F
   ==
 W
   ====
-  - [[Page~569 ::嘖(7)~~賾(7)~~::]]
+  - [[Page~569 #6: ::嘖(7)~~賾(7)~~::]]
     --
     [[Reading variation. **See $嘖zaak3 for the canonical entry.**]]
     --
@@ -374,7 +374,7 @@ F
   ==
 W
   ====
-  - [[Page~568 堲(7)]]
+  - [[Page~568 #10: 堲(7)]]
     ==
     - To make bricks [[Kangxi: ::火[熟]曰堲::]];
     - ~~to make an arched grave;~~
@@ -429,7 +429,7 @@ F
   ==
 W
   ====
-  - [[Page~569 幘(7)]]
+  - [[Page~569 #8: 幘(7)]]
     ==
     - A turban or cloth wound around the head [[Kangxi: 髮有巾曰幘 etc.]];
     - a kerchief used instead of a cap.
@@ -452,7 +452,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~611 (1)漬]]
+  - [[Page~611 #11: (1)漬]]
     --
     Usually pronounced _tsik(7)_ [[zik1]].
     --
@@ -493,7 +493,7 @@ F
   ==
 W
   ====
-  - [[Page~569 ::~~{？=⿳田儿又}~~``畟``(7)::]]
+  - [[Page~569 #10: ::~~{？=⿳田儿又}~~``畟``(7)::]]
     ==
     - ~~A~~ sharp ~~agricultural instrument~~ like a mattoc [[Kangxi 畟: 治稼畟畟進也, 畟畟耜也, 言嚴利]];
     - ~~to attend to husbandry.~~
@@ -538,7 +538,7 @@ F
   ==
 W
   ====
-  - [[Page~569 磧(7)]]
+  - [[Page~569 #9: 磧(7)]]
     ==
     - Rocks under water, half-tide rocks, a stony bottom [[Kangxi: 水陼有石者]];
     - covered with sand and stones.
@@ -563,7 +563,7 @@ F
   ==
 W
   ====
-  - [[Page~569 稷(7)]]
+  - [[Page~569 #11: 稷(7)]]
     ==
     - Panicled millet _(Milium)_, one of the five grains [[Kangxi: {𪗉=⿵齊禾}也五穀之長]];
     - quick, rapid [[Kangxi: 疾也]];
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~569 積(7)]]
+  - [[Page~569 #5: 積(7)]]
     ==
     - To gather, to hoard up, to accumulate [[Kangxi: 聚也]], to store [[Kangxi: 聚也儲蓄也]];
     - to increase, to add to, to pile upon [[Kangxi: 累也]];
@@ -681,14 +681,14 @@ F
   ==
 W
   ====
-  - [[Page~569 勣(7)]]
+  - [[Page~569 #3: 勣(7)]]
     --
     [[...]]
     --
     --
     Interchanged with the next [[績]] [[Kangxi 勣: 通作績]].
     --
-  - [[Page~569 績(7)]]
+  - [[Page~569 #4: 績(7)]]
     ==
     - To twist hempen threads [[Kangxi: 緝也]] on the knee;
     - ~~to split hempen fibres;~~
@@ -744,7 +744,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 織(7)]]
+  - [[Page~13* #2: 織(7)]]
     ==
     - To weave [[Kangxi: 作布帛之總名]];
     - woven;
@@ -808,7 +808,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 職(7)]]
+  - [[Page~13* #1: 職(7)]]
     ==
     - To govern, to rule [[Kangxi: 執掌也]];
     - to attend to;
@@ -898,7 +898,7 @@ F
   ==
 W
   ====
-  - [[Page~569 迹(7)跡(7)蹟(7)]]
+  - [[Page~569 #7: 迹(7)跡(7)蹟(7)]]
     ==
     - A trace, a foot-mark, a foot-step [[Kangxi 迹: 步處也, 足跡也]];
     - vestiges, effects, consequences, signs [[Kangxi 迹: 凡有形可見者皆曰迹]];
@@ -962,7 +962,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~569 踖(7)]]
+  - [[Page~569 #12: 踖(7)]]
     ==
     - To stride [[Kangxi: 長脛行也]];
     - to straddle or step over ``or step on`` a thing [[Kangxi: 踖猶躐也, 踐也]];
@@ -1018,7 +1018,7 @@ F
   ==
 W
   ====
-  - [[Page~569 迹(7)跡(7)蹟(7)]]
+  - [[Page~569 #7: 迹(7)跡(7)蹟(7)]]
     --
     [[Alternative form of 跡. **See $跡zik1 for the canonical entry.**]]
     --
@@ -1040,7 +1040,7 @@ F
   ==
 W
   ====
-  - [[Page~569 迹(7)跡(7)蹟(7)]]
+  - [[Page~569 #7: 迹(7)跡(7)蹟(7)]]
     --
     [[Alternative form of 跡. **See $跡zik1 for the canonical entry.**]]
     --
@@ -1060,7 +1060,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 陟(7)]]
+  - [[Page~13* #3: 陟(7)]]
     ==
     - To ascend, to enter on a higher office [[Kangxi: 陟陞也, 登也]];
     - promoted, advanced [[Kangxi: 進也]];
@@ -1146,7 +1146,7 @@ F
   ==
 W
   ====
-  - [[Page~568 瘠(8)]]
+  - [[Page~568 #11: 瘠(8)]]
     --
     [[Reading variation. **See $瘠zek3 for the canonical entry.**]]
     --
@@ -1170,7 +1170,7 @@ F
   ==
 W
   ====
-  - [[Page~569 脊(8)]]
+  - [[Page~569 #13: 脊(8)]]
     --
     [[Reading variation. **See $脊zek3 for the canonical entry.**]]
     --
@@ -1195,7 +1195,7 @@ F
   ==
 W
   ====
-  - [[Page~569 蹐(8)]]
+  - [[Page~569 #1: 蹐(8)]]
     --
     [[Reading variation. **See $蹐zek3 for the canonical entry.**]]
     --
@@ -1219,7 +1219,7 @@ F
   ==
 W
   ====
-  - [[Page~713 隻(8)]]
+  - [[Page~713 #1: 隻(8)]]
     --
     [[Reading variation. **See $隻zek3 for the canonical entry.**]]
     --
@@ -1243,7 +1243,7 @@ F
   ==
 W
   ====
-  - [[Page~569 鶺(8)]]
+  - [[Page~569 #2: 鶺(8)]]
     --
     [[Reading variation. **See $鶺zek3 for the canonical entry.**]]
     --
@@ -1294,7 +1294,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 値(9)]]
+  - [[Page~13* #5: 値(9)]]
     --
     [[Alternative form of 值. **See $值zik6 for the canonical entry.**]]
     --
@@ -1327,7 +1327,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(6) _Ch(i/)(6)_ (zi6); here normalised to 值 _Chik(9)_ (zik6)]]
+  - [[Page~10* #1: 値(6) _Ch(i/)(6)_ (zi6); here normalised to 值 _Chik(9)_ (zik6)]]
     ==
     - [[...]];
     - to occur, to meet with, to happen [[Kangxi 値: 又遇也]];
@@ -1335,7 +1335,7 @@ W
         [[sik1 zik6 適值]]
         it so happened.
     ==
-  - [[Page~13* 直(9)]]
+  - [[Page~13* #4: 直(9)]]
     ==
     - [[...]];
     - price of;
@@ -1343,7 +1343,7 @@ W
     - used for the ~~three~~ next [[値~~, 殖, 植~~]];
     - [[...]].
     ==
-  - [[Page~13* 値(9); here normalised to 值]]
+  - [[Page~13* #5: 値(9); here normalised to 值]]
     ==
     - Price, value, worth of [[Kangxi 値: 物價曰値或作直]];
     - just;
@@ -1412,7 +1412,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 埴(9)]]
+  - [[Page~14* #1: 埴(9)]]
     ==
     - Adhesive clay [[Kangxi: 黏土也]];
     - _(4)t(')(u:)n chik(9)_
@@ -1445,7 +1445,7 @@ F
   ==
 W
   ====
-  - [[Page~570 夕(9)]]
+  - [[Page~570 #5: 夕(9)]]
     ==
     - Evening, dusk [[Kangxi: 晨之對暮也]];
     - late;
@@ -1492,7 +1492,7 @@ F
   ==
 W
   ====
-  - [[Page~570 寂(9)]]
+  - [[Page~570 #8: 寂(9)]]
     ==
     - Still, silent, as an uninhabited house [[Kangxi: 無人聲也]];
     - quiet, unmoved, like a recluse [[Kangxi: 靜也安也]];
@@ -1532,7 +1532,7 @@ F
   ==
 W
   ====
-  - [[Page~570 蓆(9); here corrected to 席]]
+  - [[Page~570 #2: 蓆(9); here corrected to 席]]
     ==
     - Mats [[Kangxi 席: 藉也, 牀席也, 薦席]];
     - a mat spread for eating on;
@@ -1620,7 +1620,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 植(9)]]
+  - [[Page~13* #7: 植(9)]]
     ==
     - To plant [[Kangxi: 種也]], to set up [[Kangxi: 樹立也]], to transplant or set out;
     - erect, standing upright [[Kangxi: 立也]];
@@ -1685,7 +1685,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 殖(9)]]
+  - [[Page~13* #6: 殖(9)]]
     ==
     - To grow, to increase, to flourish [[Kangxi: 生也, 蕃也長也]]~~,~~``;``
     - to enrich, to amass~~;~~``,`` as money [[Kangxi: 興生財利曰殖]];
@@ -1740,7 +1740,7 @@ F
   ==
 W
   ====
-  - [[Page~570 汐(9)]]
+  - [[Page~570 #6: 汐(9)]]
     ==
     - The evening tide, high tide at sunset [[Kangxi: 海濤早曰潮夕曰汐]];
     - the name of a stream [[Kangxi: 水名]].
@@ -1769,7 +1769,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 湜(9)]]
+  - [[Page~14* #4: 湜(9)]]
     ==
     - Pure, limpid water, through which the bottom can be seen [[Kangxi: 水淸底見也]];
     - pure-minded;
@@ -1810,7 +1810,7 @@ F
   ==
 W
   ====
-  - [[Page~13* 直(9)]]
+  - [[Page~13* #4: 直(9)]]
     ==
     - To look ``straight`` ahead [[Kangxi: 正見也]];
     - straight, direct [[Kangxi: 正也, 不曲也]];
@@ -1924,7 +1924,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 稙(9)]]
+  - [[Page~14* #2: 稙(9)]]
     ==
     - Grain planted early, the first crop [[Kangxi: 早種禾也]];
     - to sow in good time [[Kangxi: 先種曰稙後種曰穉]];
@@ -1957,7 +1957,7 @@ F
   ==
 W
   ====
-  - [[Page~570 穸(9)]]
+  - [[Page~570 #7: 穸(9)]]
     ==
     - Dark, obscure, as a winter night [[Kangxi: 窀厚也穸夜也言穴中厚暗如長夜也一曰長埋謂之窀長夜謂之穸]];
     - a vault;
@@ -1986,7 +1986,7 @@ F
   ==
 W
   ====
-  - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::]]
+  - [[Page~570 #3: ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::]]
     ==
     - A book for records [[Kangxi 籍: 書籍]]~~, a tablet~~;
     - a list, a register of the people [[Kangxi 籍: 戸籍]];
@@ -2059,12 +2059,12 @@ F
   ==
 W
   ====
-  - [[Page~569 before 脊(8)]]
+  - [[Page~569 before #13: 脊(8)]]
     --
     (This [[脊]] and the next [[席, here corrected to 蓆]]
     are often read _tsek_ [[zek]].)
     --
-  - [[Page~570 席(9); here corrected to 蓆]]
+  - [[Page~570 #1: 席(9); here corrected to 蓆]]
     ==
     - Interchanged with the next [[here corrected to 席]], meaning a mat [[Kangxi 蓆: 與薦席之席通]];
     - ~~flowing;~~
@@ -2129,7 +2129,7 @@ F
   ==
 W
   ====
-  - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::; here normalised to 藉]]
+  - [[Page~570 #3: ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::; here normalised to 藉]]
     ==
     - [[...]];
     - _(4)long tsik(9)_
@@ -2137,7 +2137,7 @@ W
         notorious, infamous;
     - [[...]].
     ==
-  - [[Page~570 藉(9)]]
+  - [[Page~570 #4: 藉(9)]]
     ==
     - A mat on which things can be presented [[Kangxi: 祭藉也]];
     - to borrow;

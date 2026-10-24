@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)粧(1)妝]]
+  - [[Page~27* #3: (1)粧(1)妝]]
     ==
     - To adorn [[Kangxi 妝: 飾也]] the head;
     - ornamented, dressed;
@@ -126,7 +126,7 @@ W
         [[jung4 zong1 濃妝]],
         overdressed, bedizened.
     ==
-  - [[Page~27* (1)裝]]
+  - [[Page~27* #4: (1)裝]]
     ==
     - Used for the preceding [[妝]];
     - [[...]].
@@ -148,7 +148,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)庄]]
+  - [[Page~27* #2: (1)庄]]
     --
     [[Alternative form of 莊. **See $莊zong1 for the canonical entry.**]]
     --
@@ -166,7 +166,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~568 (4)戕 _(4)Ts(')(e/)ung_ (coeng4); here corrected to _(1)Tsong_ (zong1)]]
+  - [[Page~568 #2: (4)戕 _(4)Ts(')(e/)ung_ (coeng4); here corrected to _(1)Tsong_ (zong1)]]
     ==
     - [[...]];
     - a post [[Kangxi: 戕戙{𣏾=⿰木戈}也]];
@@ -196,7 +196,7 @@ F
   ==
 W
   ====
-  - [[Page~27* ::(1)~~{？=⿰才舂}~~``樁``::]]
+  - [[Page~27* #5: ::(1)~~{？=⿰才舂}~~``樁``::]]
     ==
     - ~~A club;~~
     - a post, a stake driven deep into the ground [[Kangxi 樁: 橛杙也]];
@@ -223,7 +223,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)牂]]
+  - [[Page~593 #3: (1)牂]]
     ==
     - A ~~ram or~~ ewe [[Kangxi: 牡羒牝牂]];
     - full, plenty [[Kangxi: 盛也]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)粧(1)妝]]
+  - [[Page~27* #3: (1)粧(1)妝]]
     --
     [[Alternative form of 妝. **See $妝zong1 for the canonical entry.**]]
     --
@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)臧]]
+  - [[Page~593 #1: (1)臧]]
     ==
     - Good [[Kangxi: 臧善也]], generous [[Kangxi: 厚也]];
     - virtuous, faithful;
@@ -371,7 +371,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)莊]]
+  - [[Page~27* #1: (1)莊]]
     ==
     - Plants growing rank or luxuriantly [[Kangxi: 草盛貌, 艸芽之壯也]];
     - sedate, serious, grave, stern [[Kangxi: 嚴也]];
@@ -389,7 +389,7 @@ W
         [[hong1 zong1 康莊]],
         a level road.
     ==
-  - [[Page~27* (1)庄]]
+  - [[Page~27* #2: (1)庄]]
     ==
     - Used for the above [[莊]];
     - a barn, a grange, a cottage, a workshed;
@@ -456,7 +456,7 @@ F
   ==
 W
   ====
-  - [[Page~27* (1)裝]]
+  - [[Page~27* #4: (1)裝]]
     ==
     - [[...]];
     - to bind, to tie on, to dress [[Kangxi: 裝束也]];
@@ -570,7 +570,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27* (1)䚎]]
+  - [[Page~27* #6: (1)䚎]]
     --
     [[...]]
     --
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)贓(1)賍]]
+  - [[Page~593 #2: (1)贓(1)賍]]
     --
     [[Alternative form of 贓. **See $贓zong1 for the canonical entry.**]]
     --
@@ -657,7 +657,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)贓(1)賍]]
+  - [[Page~593 #2: (1)贓(1)賍]]
     ==
     - Booty, plunder, loot, stolen goods;
     - to receive bribes [[Kangxi 贓: 納賄曰贓]];
@@ -732,7 +732,7 @@ F
   ==
 W
   ====
-  - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
+  - [[Page~593 #4: ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     --
     [[Alternative form of 葬. **See $葬zong3 for the canonical entry.**]]
     --
@@ -760,7 +760,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 壯(3)]]
+  - [[Page~28* #2: 壯(3)]]
     ==
     - Robust, strong, bold, lusty, hardy, healthy [[Kangxi: 彊也]];
     - full grown [[Kangxi: 大也]], manhood;
@@ -834,7 +834,7 @@ F
   ==
 W
   ====
-  - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
+  - [[Page~593 #4: ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     ==
     - To bury, to inter, to put under the ground [[Kangxi 葬: 葬者藏也]];
     - _tsong(3) (4)m(a/)i_
@@ -956,7 +956,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 撞(6)]]
+  - [[Page~28* #4: 撞(6)]]
     ==
     - To beat, to pound;
     - to run or knock against, to dash upon or against [[Kangxi: 突也又擊也]];
@@ -1059,7 +1059,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 狀(6)]]
+  - [[Page~28* #3: 狀(6)]]
     ==
     - Appearance, form [[Kangxi: 形也]], fashion;
     - ~~to appear;~~
@@ -1130,7 +1130,7 @@ F
   ==
 W
   ====
-  - [[Page~593 臟(6)]]
+  - [[Page~593 #5: 臟(6)]]
     ==
     - The viscera [[Kangxi: 五臟也 etc.]];
     - the entrails;
@@ -1197,7 +1197,7 @@ F
   ==
 W
   ====
-  - [[Page~593 藏(6)]]
+  - [[Page~593 #6: 藏(6)]]
     ==
     - A store-house, a retreat;
     - a strong-box, a casket;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,7 +78,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)噍]]
+  - [[Page~580 #9: (1)噍]]
     ==
     - A ~~husky,~~ suppressed [[Kangxi: 噍{𠴫=⿰口叔}也]] ``or urgent`` [[Kangxi: 噍子遙反謂急也]] voice;
     - [[...]];
@@ -115,7 +115,7 @@ F
   ==
 W
   ====
-  - [[Page~24* (1)招]]
+  - [[Page~24* #1: (1)招]]
     ==
     - To beckon, to motion to with the hand, to hail [[Kangxi: 手呼也 etc.]];
     - ~~to let people know;~~
@@ -224,7 +224,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23* (1)朝(1)晁]]
+  - [[Page~23* #9: (1)朝(1)晁]]
     --
     [[Alternative form of 朝. **See $朝ziu1 for the canonical entry.**]]
     --
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~23* (1)朝(1)晁]]
+  - [[Page~23* #9: (1)朝(1)晁]]
     ==
     - Dawn, morning [[Kangxi 朝: 旦也, 朝早也]];
     - early;
@@ -368,7 +368,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)椒]]
+  - [[Page~580 #5: (1)椒]]
     ==
     - Pepper [[Kangxi: 莍也 etc.]];
     - peppery, hot;
@@ -448,7 +448,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)焦]]
+  - [[Page~580 #7: (1)焦]]
     ==
     - Scorched, burned [[Kangxi: 火所傷也]];
     - blackened, charred [[Kangxi: 火燒黑也]];
@@ -517,7 +517,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 燋(3) _Tsi(u/)(3)_ (ziu3); here corrected to _(1)Tsi(u/)_ (ziu1)]]
+  - [[Page~581 #6: 燋(3) _Tsi(u/)(3)_ (ziu3); here corrected to _(1)Tsi(u/)_ (ziu1)]]
     ==
     - [[...]];
     - to char ~~wood~~, to sear, to scorch [[Kangxi: 傷火]];
@@ -560,7 +560,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 (1)礁]]
+  - [[Page~581 #2: (1)礁]]
     --
     An unauthorized character;
     --
@@ -596,14 +596,14 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)焦]]
+  - [[Page~580 #7: (1)焦]]
     --
     [[...]]
     --
     --
     Used for the next [[膲]] [[Kangxi 焦: ::三焦者[...]別作膲::]].
     --
-  - [[Page~580 (1)膲]]
+  - [[Page~580 #8: (1)膲]]
     ==
     - The parts of the body between the heart and groin,
       three imaginary organs which regulate the secretions
@@ -630,7 +630,7 @@ F
   ==
 W
   ====
-  - [[Page~580 (1)蕉]]
+  - [[Page~580 #6: (1)蕉]]
     ==
     - The banana or plantain [[Kangxi: 芭蕉]];
     - _(1)h(e/)ung (4)ng(a/) (1)tsi(u/)_
@@ -681,7 +681,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (1)鐎]]
+  - [[Page~581 #1: (1)鐎]]
     ==
     - A ~~soldier's~~ brass kettle or skillet,
       about the size of a peck [[斗]] measure [[Kangxi: 鐎斗也, 溫器三足而有柄, etc.]];
@@ -712,7 +712,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (1)鷦]]
+  - [[Page~581 #3: (1)鷦]]
     ==
     - A wren [[Kangxi: 鷦{𪃦=⿰眇鳥}桃蟲也一名鷦鷯]];
     - _(1)tsi(u/) (4)li(u/)_
@@ -771,7 +771,7 @@ F
   ==
 W
   ====
-  - [[Page~581 ::~~(1)剿(1){𠞰=⿰巢刀}~~``(2)剿(2){𠞰=⿰巢刀}``::]]
+  - [[Page~581 #4: ::~~(1)剿(1){𠞰=⿰巢刀}~~``(2)剿(2){𠞰=⿰巢刀}``::]]
     ==
     - To destroy utterly, to exterminate, to devastate;
     - _(2)tsi(u/) m(i/)t(9)_
@@ -853,7 +853,7 @@ F
   ==
 W
   ====
-  - [[Page~24* (2)沼]]
+  - [[Page~24* #2: (2)沼]]
     ==
     - A pool or tank [[Kangxi: 池也一說圓曰池曲曰沼]], used for a fishpond;
     - _(4)l(i/)n (2)chi(u/)_
@@ -929,7 +929,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 照(3)炤(3)]]
+  - [[Page~24* #3: 照(3)炤(3)]]
     --
     [[Alternative form of 照. **See $照ziu3 for the canonical entry.**]]
     --
@@ -961,7 +961,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 照(3)炤(3)]]
+  - [[Page~24* #3: 照(3)炤(3)]]
     ==
     - Light;
     - to illuminate, to brighten, to shine on [[Kangxi 照: 明所燭也]];
@@ -1040,7 +1040,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 燋(3)]]
+  - [[Page~581 #6: 燋(3)]]
     ==
     - ~~Properly used for the last [[醮]],
       in the sense of burning the moxa;~~
@@ -1078,7 +1078,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 詔(3)]]
+  - [[Page~24* #4: 詔(3)]]
     ==
     - To promulge, to announce, to proclaim [[Kangxi: 吿也]];
     - to teach, to exhort, to instruct ~~the empire~~ [[Kangxi: 導也 etc.]];
@@ -1135,7 +1135,7 @@ F
   ==
 W
   ====
-  - [[Page~581 醮(3)]]
+  - [[Page~581 #5: 醮(3)]]
     ==
     - To sacrifice to ancestors and spirits [[Kangxi: 醮祭也]];
     - a sacrifice, a requiem [[Kangxi: 凡僧道設壇祈禱曰醮]];
@@ -1210,7 +1210,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 兆(6)]]
+  - [[Page~24* #7: 兆(6)]]
     --
     [[Reading variation. **See $兆siu6 for the canonical entry.**]] [[TODO]]
     --
@@ -1234,7 +1234,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 召(6)]]
+  - [[Page~24* #5: 召(6)]]
     ==
     - To call, to summon [[Kangxi: {𧦝=⿰訁乎}也, 以手曰招以言曰召]], to invoke, to cite;
     - to order one to be present;
@@ -1282,7 +1282,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~24* 齸(6) _Chi(u/)(6)_; here corrected to 噍 _Tsi(u/)(6)_]]
+  - [[Page~24* #8: 齸(6) _Chi(u/)(6)_; here corrected to 噍 _Tsi(u/)(6)_]]
     --
     ~~A colloquial word.~~
     --
@@ -1294,7 +1294,7 @@ W
     --
     [[...]]
     --
-  - [[Page~581 噍(6)]]
+  - [[Page~581 #7: 噍(6)]]
     ==
     - To bite, to chew, to gnaw [[Kangxi: 齧也, 嚼也]];
     - _(4)ngau tsi(u/)(6) ~~(5)mau~~ ``(5)m(a/)u`` (1)t(a/)n_
@@ -1380,7 +1380,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 旐(6)]]
+  - [[Page~24* #9: 旐(6)]]
     --
     [[Reading variation. **See $旐siu6 for the canonical entry.**]] [[TODO]]
     --
@@ -1408,7 +1408,7 @@ F
   ==
 W
   ====
-  - [[Page~24* 趙(6)]]
+  - [[Page~24* #6: 趙(6)]]
     ==
     - To hasten to [[Kangxi: 趨趙也]];
     - to announce to a suzerain [[Kangxi: 趙朝也本小邑朝事于大國也]];

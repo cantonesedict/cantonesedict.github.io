@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -120,7 +120,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)嗟]]
+  - [[Page~563 #11: (1)嗟]]
     ==
     - To sigh, to lament [[Kangxi: 嗟歎也]];
     - painful regrets [[Kangxi: 一曰痛惜也]];
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)罝]]
+  - [[Page~563 #12: (1)罝]]
     ==
     - A net with which hares are caught [[Kangxi: 兔罔也]];
     - a net for beasts [[Kangxi: 獸罟曰罝]];
@@ -218,7 +218,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (1)遮]]
+  - [[Page~30|n73 #7: (1)遮]]
     ==
     - To cover, to screen, to vail, to conceal [[Kangxi: 蔽也]];
     - to shade;
@@ -312,7 +312,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (2)姐]]
+  - [[Page~563 #13: (2)姐]]
     ==
     - An elder sister [[Kangxi: 今俗弟呼女兄曰姐]];
     - a miss;
@@ -384,7 +384,7 @@ F
   ==
 W
   ======
-  - [[Page~30|n73 (2)者]]
+  - [[Page~30|n73 #8: (2)者]]
     ====
     - A ~~relative or~~ demonstrative pronoun [[Kangxi: ::此也[...]今俗多用這字::]];
     - ~~it, this,~~ that, he, who, what;
@@ -483,7 +483,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (2)赭]]
+  - [[Page~31|n74 #1: (2)赭]]
     ==
     - Ochre color [[Kangxi: 赤土也]];
     - a carnation or reddish brown [[Kangxi: 赤也]];
@@ -530,7 +530,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 這(3) _Ch(e/)(3)_ (ze3); here normalised to _(2)Ch(e/)_ (ze2)]]
+  - [[Page~31|n74 #6: 這(3) _Ch(e/)(3)_ (ze3); here normalised to _(2)Ch(e/)_ (ze2)]]
     ==
     - A demonstrative pronoun, this, that;
     - _~~ch(e/)(3)~~ ``(2)ch(e/)`` ~~(5)l(i/)~~ ``(5)l(u:)``_
@@ -601,7 +601,7 @@ F
   ==
 W
   ====
-  - [[Page~564 借(3)]]
+  - [[Page~564 #1: 借(3)]]
     ==
     - To assist [[Kangxi: 助也]];
     - to lend, to borrow [[Kangxi: 假也貸也]];
@@ -688,7 +688,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~31|n74 啫(3)]]
+  - [[Page~31|n74 #2: 啫(3)]]
     --
     [[Alternative form of 嗻. **See $嗻ze3 for the canonical entry.**]]
     --
@@ -714,7 +714,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~31|n74 啫(3); here normalised to 嗻]]
+  - [[Page~31|n74 #2: 啫(3); here normalised to 嗻]]
     --
     A colloquial particle.
     --
@@ -762,7 +762,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 柘(3)]]
+  - [[Page~31|n74 #4: 柘(3)]]
     ==
     - [[...]];
     - a tree whose leaves are fed to silk worms [[Kangxi: 桑屬, 柘葉飼蠶爲絲]].
@@ -794,7 +794,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 蔗(3)樜(3)]]
+  - [[Page~31|n74 #3: 蔗(3)樜(3)]]
     --
     [[Alternative form of 柘. **See $柘ze3 for the canonical entry.**]]
     --
@@ -823,7 +823,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 蔗(3)樜(3)]]
+  - [[Page~31|n74 #3: 蔗(3)樜(3)]]
     ==
     - The sugar cane [[Kangxi 蔗: 甘蔗也]];
     - _(i/)t(9) ch(e/)(3)_
@@ -852,7 +852,7 @@ W
         [[dou3 daam6 ze3 倒啖蔗]]
         he eats his cane backwards, he has the best still coming.
     ==
-  - [[Page~31|n74 柘(3)]]
+  - [[Page~31|n74 #4: 柘(3)]]
     ==
     - Sometimes used for the above [[蔗]] [[Kangxi 柘: 諸柘一曰甘蔗]];
     - [[...]].
@@ -884,7 +884,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 這(3)]]
+  - [[Page~31|n74 #6: 這(3)]]
     --
     [[Reading variation. **See $這ze2 for the canonical entry.**]]
     --
@@ -912,7 +912,7 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 鷓(3)]]
+  - [[Page~31|n74 #5: 鷓(3)]]
     ==
     - The partridge [[Kangxi: 鳥名鷓鴣越雉也]];
     - it also includes francolins and grouse;
@@ -953,7 +953,7 @@ F
   ==
 W
   ====
-  - [[Page~564 榭(6)]]
+  - [[Page~564 #3: 榭(6)]]
     ==
     - A terrace having ~~trees around~~ ``a timber structure on`` it [[Kangxi: 臺有屋也, 土高曰臺有木曰榭]]~~, an arbor~~;
     - a place for storing musical instruments [[Kangxi: 榭者所以藏樂器]];
@@ -992,7 +992,7 @@ F
   ==
 W
   ====
-  - [[Page~564 灺(6)]]
+  - [[Page~564 #4: 灺(6)]]
     ==
     - The snuff of a candle [[Kangxi: 燭㶳]];
     - the expiring wick of a lamp.
@@ -1025,7 +1025,7 @@ F
   ==
 W
   ====
-  - [[Page~564 謝(6)]]
+  - [[Page~564 #2: 謝(6)]]
     ==
     - To decline, to withdraw from, to refuse [[Kangxi: 辭去也]], to go away [[Kangxi: 去也]];
     - to resign, to throw up;

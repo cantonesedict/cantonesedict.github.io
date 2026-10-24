@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 掙(6)]]
+  - [[Page~21|n64 #3: 掙(6)]]
     --
     [[...]]
     --
@@ -136,7 +136,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)撐(1)撑]]
+  - [[Page~21|n64 #4: (1)撐(1)撑]]
     ==
     - To prop, to shore up;
     - to fasten open, as with a stretcher;
@@ -188,7 +188,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)撐(1)撑]]
+  - [[Page~21|n64 #4: (1)撐(1)撑]]
     --
     [[Alternative form of 撐. **See $撐caang1 for the canonical entry.**]]
     --
@@ -215,7 +215,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 槍]]
+  - [[Page~567 #2: (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 槍]]
     ==
     - [[...]];
     - a comet [[Kangxi 搶: 欃槍或作攙搶彗星也]];
@@ -245,7 +245,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕]]
+  - [[Page~21|n64 #5: (1)橕]]
     ==
     - A branch stretching out;
     - a fulcrum;
@@ -289,7 +289,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
+  - [[Page~567 #6: (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
     ==
     - [[...]];
     - the tinkle of bells, a jingling sound [[Kangxi: 鐘聲也]];
@@ -327,7 +327,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 鐺]]
+  - [[Page~567 #6: (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 鐺]]
     ==
     - [[...]];
     - a sort of pot [[Kangxi 鐺: 釜屬, 鬴有足曰鐺]] to hold spirits [[Kangxi 鐺: 三足溫酒器也]];
@@ -440,7 +440,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕; here normalised to 撐]]
+  - [[Page~21|n64 #5: (1)橕; here normalised to 撐]]
     --
     [[...]]
     --
@@ -509,7 +509,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕 read ^_Ch(')(a/)ng(3)_ (caang3)]]
+  - [[Page~21|n64 #5: (1)橕 read ^_Ch(')(a/)ng(3)_ (caang3)]]
     --
     [[Alternative form of 撐 (Cantonese) and {𨅝=⿰𧾷牚} (Cantonese). **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
     --
@@ -541,7 +541,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)橕; here normalised to {𨅝=⿰𧾷牚}]]
+  - [[Page~21|n64 #5: (1)橕; here normalised to {𨅝=⿰𧾷牚}]]
     --
     [[...]]
     --
@@ -615,7 +615,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (4)倀]]
+  - [[Page~21|n64 #7: (4)倀]]
     --
     [[...]]
     --
@@ -692,7 +692,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (4)橙]]
+  - [[Page~21|n64 #6: (4)橙]]
     ==
     - The coolie orange [[Kangxi: 橘屬 etc.]];
     - _(4)ch(')(a/)ng (2)tsau_

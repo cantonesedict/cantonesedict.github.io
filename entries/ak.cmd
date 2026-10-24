@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,6 +50,7 @@ $$
 - $厄1
 - $啞1
 - $幄1
+- $扼1
 - $握1
 - $渥1
 - $阨1
@@ -82,7 +83,7 @@ F
   ==
 W
   ====
-  - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
+  - [[Page~3 #6: ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
     ==
     - [[...]];
     - small door in a house [[Kangxi 厄: 同戹]];
@@ -141,7 +142,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~1|n44 (2)啞]]
+  - [[Page~1 #5: (2)啞]]
     --
     [[...]]
     --
@@ -179,7 +180,7 @@ F
   ==
 W
   ====
-  - [[Page~3 幄(7)]]
+  - [[Page~3 #5: 幄(7)]]
     ==
     - A curtain, a screen [[Kangxi: 帳也, 幬也]];
     - a large tent, a markee [[Kangxi: 大帷]];
@@ -193,6 +194,56 @@ L
     - (_noun-like_) tent, canopy
     ==
   ====
+$$
+
+### 扼1 | _Ak(7)_ [[ak1]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+627C
+A
+  ==
+  - 㧖
+  - 搤
+  - 搹
+  ==
+V
+  ==
+  - aak1 (longer syllable)
+  - ngak1 (hypercorrected initial)
+  ==
+F
+  ==
+  - (F2.33 扼) 持也抑也
+  ==
+W
+  ====
+  - [[Page~3 #8: 扼(7)]]
+    ==
+    - To seize or hold with the hand [[Kangxi 㧖: 把也]];
+    - to gripe, to clutch;
+    - the grasp;
+    - to pull;
+    - _ak(7) (2)(u/)n ~~(2)k(a/)u~~ ``(2)kau`` (1)ch(i/)_
+        [[ak1 wun2 gau2 zi1 扼腕久之]],
+        held him by the wrist a long time.
+    ==
+  ====
+C
+  ==
+  - Williams' 扼腕久之: Corrected _(2)k(a/)u_ (gaau2) to _(2)kau_ (gau2).
+  ==
+P
+  ++
+  1. To control.
+  1. To suppress (Kangxi 㧖: 抑也), to block.
+  ++
+S
+  ==
+  - ($扼aak1)
+  ==
 $$
 
 ### 握1 | _Ak(7)_ [[ak1]]
@@ -213,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~3 握(7)]]
+  - [[Page~3 #3: 握(7)]]
     ==
     - To grasp, to hold within the hand [[Kangxi: 搤持也 etc.]];
     - a little, as much as the palm can hold;
@@ -266,7 +317,7 @@ F
   ==
 W
   ====
-  - [[Page~3 渥(7)]]
+  - [[Page~3 #4: 渥(7)]]
     ==
     - To moisten, to soak [[Kangxi: 霑也]];
     - to enrich with favors;
@@ -319,13 +370,13 @@ F
   ==
 W
   ====
-  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]]
+  - [[Page~3 #1: 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]]
     ==
     - [[...]];
     - impeded, stopped up;
     - [[...]].
     ==
-  - [[Page~3 阨(7) ^_Ak(7)_ (ak1)]]
+  - [[Page~3 #7: 阨(7) ^_Ak(7)_ (ak1)]]
     ==
     - An obstruction [[Kangxi: 限也]], a stop [[Kangxi: 塞也]];
     - [[...]];

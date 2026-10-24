@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 劄(8)]]
+  - [[Page~22|n65 #4: 劄(8)]]
     ==
     - To prick, to puncture [[Kangxi 箚: 以鍼刺也]];
     - to embroider;
@@ -136,7 +136,7 @@ F
   ==
 W
   ====
-  - [[Page~408 匝(8) _S(a/)p(8)_ (saap3); here normalised to _Ts(a/)p(8)_ (zaap3)]]
+  - [[Page~408 #5: 匝(8) _S(a/)p(8)_ (saap3); here normalised to _Ts(a/)p(8)_ (zaap3)]]
     ==
     - To make a circuit, to go the rounds, like a watchman;
     - pervading;
@@ -285,7 +285,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 褶(8) _Ch(i/)p(8)_ (zip3)]]
+  - [[Page~22* #5: 褶(8) _Ch(i/)p(8)_ (zip3)]]
     --
     Used for the last [[襵]],
     but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[^both zaap3]].
@@ -372,7 +372,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22|n65 极(9)]]
+  - [[Page~22|n65 #7: 极(9)]]
     --
     [[...]]
     --
@@ -408,7 +408,7 @@ F
   ==
 W
   ====
-  - [[Page~559 槢(9)]]
+  - [[Page~559 #1: 槢(9)]]
     ==
     - Firm, hard wood [[Kangxi: 堅木]];
     - durable timber;
@@ -444,7 +444,7 @@ F
   ==
 W
   ====
-  - [[Page~558 習(9)]]
+  - [[Page~558 #6: 習(9)]]
     ==
     - ~~A continued flight~~ ``Flight by repetition`` [[Kangxi: 數飛也]];
     - to repeat the same act, to practice,
@@ -511,7 +511,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 褶(8) _Ch(i/)p(8)_ (zip3); here corrected to _Ts(a/)p(9)_ (zaap6)]]
+  - [[Page~22* #5: 褶(8) _Ch(i/)p(8)_ (zip3); here corrected to _Ts(a/)p(9)_ (zaap6)]]
     --
     [[...]]
     --
@@ -548,7 +548,7 @@ F
   ==
 W
   ====
-  - [[Page~558 雜(9)襍(9)]]
+  - [[Page~558 #3: 雜(9)襍(9)]]
     --
     [[Alternative form of 雜. **See $雜zaap6 for the canonical entry.**]]
     --
@@ -577,7 +577,7 @@ F
   ==
 W
   ====
-  - [[Page~558 襲(9)]]
+  - [[Page~558 #5: 襲(9)]]
     ==
     - Double garments [[Kangxi: 重衣也]]~~, lined robes, a court dress~~;
     - a suit;
@@ -646,7 +646,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22|n65 鈒(9)]]
+  - [[Page~22|n65 #6: 鈒(9)]]
     --
     [[...]]
     --
@@ -713,7 +713,7 @@ F
   ==
 W
   ====
-  - [[Page~22|n65 閘(9)]]
+  - [[Page~22|n65 #5: 閘(9)]]
     ==
     - A guarded gate, a barrier, a barricade [[Kangxi: 開閉門也]];
     - dam;
@@ -759,7 +759,7 @@ F
   ==
 W
   ====
-  - [[Page~559 隰(9)]]
+  - [[Page~559 #2: 隰(9)]]
     ==
     - Low, marshy land [[Kangxi: 下濕曰隰]];
     - a pool, a morass, wet meadows at the base of hills [[Kangxi: 阪下濕也]];
@@ -795,7 +795,7 @@ F
   ==
 W
   ====
-  - [[Page~558 集(9)]]
+  - [[Page~558 #4: 集(9)]]
     ==
     - To flock together ``on a tree`` [[Kangxi: 本作雧羣鳥在木上也]];
     - to gather, as clouds;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~558 雜(9)襍(9)]]
+  - [[Page~558 #3: 雜(9)襍(9)]]
     ==
     - A mixture of different colors [[Kangxi 雜: 五彩相合也]] or ingredients;
     - particolored, streaked;
@@ -999,7 +999,7 @@ F
   ==
 W
   ====
-  - [[Page~559 霫(9)]]
+  - [[Page~559 #3: 霫(9)]]
     ==
     - A great shower [[Kangxi: 雴霫大雨也]], [[...]];
     - an ancient tribe of northerners ~~near Corea or Manchuria~~,

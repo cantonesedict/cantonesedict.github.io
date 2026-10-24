@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-09-09
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,7 +82,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)劑]]
+  - [[Page~548 #1: (1)劑]]
     ==
     - To pare, to cut even, to trim [[Kangxi: 劑翦齊也, 齊截也]];
     - to equalize, to portion, to adjust [[Kangxi: 分劑]];
@@ -131,7 +131,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(1)Tsai_ (zai1)]]
+  - [[Page~549 #3: 懠(3) _Tsai(3)_ (zai3); here corrected to _(1)Tsai_ (zai1)]]
     ==
     - [[...]];
     - suspicious, envious of [[Kangxi: 懠疑猶猜疑也]];
@@ -167,7 +167,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 (1)擠 _(1)Chai_ (zai1)]]
+  - [[Page~9|n52 #9: (1)擠 _(1)Chai_ (zai1)]]
     --
     A colloquial word.
     --
@@ -183,7 +183,7 @@ W
         [[zai1 bin1 cyu3 dou1 hou2 擠邊處都好]],
         put ~~in~~ it down anywhere.
     ==
-  - [[Page~548 (1)擠 _(1)Tsai_ (zai1)]]
+  - [[Page~548 #2: (1)擠 _(1)Tsai_ (zai1)]]
     ==
     - To push [[Kangxi: 排也一曰推也]], to push over, to upset [[Kangxi: 擠墜也]];
     - to press upon, to crowd;
@@ -231,7 +231,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)穧]]
+  - [[Page~548 #3: (1)穧]]
     --
     [[Reading variation. **See $穧zai6 for the canonical entry.**]]
     --
@@ -256,7 +256,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)賷(1)賫]]
+  - [[Page~548 #5: (1)賷(1)賫]]
     --
     [[Alternative form of 齎. **See $齎zai1 for the canonical entry.**]]
     --
@@ -277,7 +277,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)賷(1)賫]]
+  - [[Page~548 #5: (1)賷(1)賫]]
     --
     [[Alternative form of 齎. **See $齎zai1 for the canonical entry.**]]
     --
@@ -308,7 +308,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)躋(1)隮]]
+  - [[Page~548 #4: (1)躋(1)隮]]
     ==
     - To ascend, to go up, as stairs, to mount a steep hill [[Kangxi 躋: 登也, 躋升也, 亦作隮]];
     - to reach;
@@ -357,7 +357,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)躋(1)隮]]
+  - [[Page~548 #4: (1)躋(1)隮]]
     ==
     - To ascend, to go up, as stairs, to mount a steep hill [[Kangxi 隮: 登也]];
     - [[...]];
@@ -414,7 +414,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)賷(1)賫; here normalised to 齎]]
+  - [[Page~548 #5: (1)賷(1)賫; here normalised to 齎]]
     ==
     - To take or send a present;
     - to present to, to offer;
@@ -427,7 +427,7 @@ W
         [[zai1 sung3 齎送]]
         to send, as a present.
     ==
-  - [[Page~548 (1)齎]]
+  - [[Page~548 #6: (1)齎]]
     --
     Interchanged with the preceding [[賷, 賫]] [[Kangxi 賷: 齎或作賷]].
     --
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)齏]]
+  - [[Page~548 #7: (1)齏]]
     ==
     - A sort of leek [[Kangxi: {𩐌=⿱隊韭}也]];
     - to prepare and compound, to blend, to mix [[Kangxi: 膾酢也 etc.]], as tastes;
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (2)仔]]
+  - [[Page~548 #8: (2)仔]]
     --
     A colloquial word.
     --
@@ -624,7 +624,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
+  - [[Page~549 #1: 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
     ==
     - Name of a river [[Kangxi: 水名]];
     - [[...]];
@@ -685,7 +685,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 制(3)]]
+  - [[Page~9|n52 #11: 制(3)]]
     ==
     - To adjust, to cut, to form [[Kangxi: 裁也]];
     - to govern, to regulate, to rule [[Kangxi: 正也御也檢也]];
@@ -778,7 +778,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 掣(3)]]
+  - [[Page~10|n53 #1: 掣(3)]]
     ==
     - To obstruct, to hinder from ~~entering~~ ``advancing`` [[Kangxi: 滯隔不進也]];
     - [[...]];
@@ -857,7 +857,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 晣(3); here normalised to 晢]]
+  - [[Page~9|n52 #10: 晣(3); here normalised to 晢]]
     ==
     - Brightness of stars [[Kangxi 晢: 星光也]];
     - _(4)ming (1)sing chai(3) chai(3)_
@@ -897,7 +897,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 晣(3)]]
+  - [[Page~9|n52 #10: 晣(3)]]
     --
     [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
     --
@@ -933,7 +933,7 @@ F
   ==
 W
   ====
-  - [[Page~549 濟(3)]]
+  - [[Page~549 #1: 濟(3)]]
     ==
     - [[...]];
     - to assist, to succor, to benefit [[Kangxi: 益也]];
@@ -998,7 +998,7 @@ F
   ==
 W
   ====
-  - [[Page~548 祭(3)]]
+  - [[Page~548 #9: 祭(3)]]
     ==
     - To sacrifice, to offer slaughtered victims before the gods or penates,
       which are also usually cooked [[Kangxi: 祭祀也]];
@@ -1046,7 +1046,7 @@ F
   ==
 W
   ====
-  - [[Page~548 穄(3)]]
+  - [[Page~548 #10: 穄(3)]]
     ==
     - A sort of panicled millet which is not glutinous, and resembles wheat [[Kangxi: {𪎭=⿸麻黍}也, 穄似麥而不黏]];
       it grows in Shens(i/) [[陝西]].
@@ -1078,13 +1078,13 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 制(3); here normalised to 製]]
+  - [[Page~9|n52 #11: 制(3); here normalised to 製]]
     ==
     - [[...]];
     - to invent, to make;
     - [[...]].
     ==
-  - [[Page~9|n52 製(3)]]
+  - [[Page~9|n52 #12: 製(3)]]
     --
     Interchanged with the last [[制]].
     --
@@ -1148,7 +1148,7 @@ F
   ==
 W
   ====
-  - [[Page~548 際(3)]]
+  - [[Page~548 #11: 際(3)]]
     ==
     - A limit, a border, a ~~region~~ ``perimeter`` [[Kangxi: 方也, 邊也畔也]], the line of junction of two ~~things~~ ``walls`` [[Kangxi: 壁會也]];
     - the time or place where another begins [[Kangxi: 際接也]];
@@ -1236,13 +1236,13 @@ F
   ==
 W
   ====
-  - [[Page~549 濟(3)]]
+  - [[Page~549 #1: 濟(3)]]
     ==
     - [[...]];
     - used for the next [[霽]] [[Kangxi 濟: 與霽通亦止也]];
     - [[...]].
     ==
-  - [[Page~549 霽(3)]]
+  - [[Page~549 #2: 霽(3)]]
     ==
     - The rain stopping [[Kangxi: 雨止也]], the clouds clearing away and the blue sky appearing [[Kangxi: 晴也, 雨晴曰霽]];
     - _(4)ts(')ing tsai(3)_
@@ -1291,7 +1291,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 嚌(6)]]
+  - [[Page~549 #4: 嚌(6)]]
     --
     ~~Read _(1)tsai_ [[zai1]].~~
     --
@@ -1389,7 +1389,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 滯(6)]]
+  - [[Page~10|n53 #2: 滯(6)]]
     ==
     - Water impeded;
     - condensed, congealed [[Kangxi: 凝也]];
@@ -1468,7 +1468,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here normalised to _Tsai(6)_ (zai6)]]
+  - [[Page~548 #3: (1)穧 _(1)Tsai_ (zai1); here normalised to _Tsai(6)_ (zai6)]]
     ==
     - To reap grain [[Kangxi: 穫刈也]];
     - a handful of rice [[Kangxi: 一曰撮也]], as it is cut;

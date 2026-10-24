@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~63 幅(7)]]
+  - [[Page~63 #7: 幅(7)]]
     ==
     - ~~A wide strip~~ ``The width`` of cloth [[Kangxi: 布帛廣也 etc.]];
     - a roll of paper or cloth;
@@ -154,7 +154,7 @@ F
   ==
 W
   ====
-  - [[Page~63 楅(7)]]
+  - [[Page~63 #9: 楅(7)]]
     --
     [[Reading variation. **See $楅bik1 for the canonical entry.**]] [[TODO]]
     --
@@ -187,7 +187,7 @@ F
   ==
 W
   ====
-  - [[Page~63 福(7)]]
+  - [[Page~63 #8: 福(7)]]
     ==
     - Happiness, good fortune, lucky, felicity [[Kangxi: 祐也休也善也祥也]];
     - to bless;
@@ -232,7 +232,7 @@ W
         [[jat1 lou6 fuk1 sing1 一路福星]],
         let a lucky star [light] your journey.
     ==
-  - [[Page~715 福(7)]]
+  - [[Page~715 #18: 福(7)]]
     ==
     - For "wealth, virtuous" in the list of five blessings,
       read "honor, posterity;"
@@ -273,7 +273,7 @@ F
   ==
 W
   ====
-  - [[Page~63 腹(7)]]
+  - [[Page~63 #13: 腹(7)]]
     ==
     - That which embraces;
     - the belly, abdomen, bowels [[Kangxi: 肚也 etc.]];
@@ -335,7 +335,7 @@ F
   ==
 W
   ====
-  - [[Page~63 葍(7)]]
+  - [[Page~63 #10: 葍(7)]]
     ==
     - An edible vegetable with white roots,
       size of the finger [[Kangxi: 大葉白華根如指正白可啖]],
@@ -364,7 +364,7 @@ F
   ==
 W
   ====
-  - [[Page~63 蝠(7)]]
+  - [[Page~63 #11: 蝠(7)]]
     ==
     - A bat [[Kangxi: 蝙蝠服翼]];
     - [[...]].
@@ -394,7 +394,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~63 蝠(7); here normalised to 蝮]]
+  - [[Page~63 #11: 蝠(7); here normalised to 蝮]]
     ==
     - [[...]];
     - _fuk(7) (4)sh(e/)_
@@ -402,7 +402,7 @@ W
         a venemous serpent;
         _met._ a malignant heart.
     ==
-  - [[Page~63 蝮(7)]]
+  - [[Page~63 #12: 蝮(7)]]
     ==
     - An adder, cobra, or venemous serpent, called in Canton
       _~~f(a/)n(3)~~ ``f(a/)n(6)`` ~~(4)sh(i/)~~ ``(4)ch(')(i/)`` (4)t(')au_ [[faan6 ci4 tau4 飯匙頭]],
@@ -449,7 +449,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 複(7)]]
+  - [[Page~715 #19: 複(7)]]
     ==
     - A wadded or lined garment [[Kangxi: 重衣也]];
     - doubled;
@@ -503,7 +503,7 @@ F
   ==
 W
   ====
-  - [[Page~52 覆(6) _Fau(6)_ (fau6); here normalised to _Fuk(7)_ (fuk1)]]
+  - [[Page~52 #6: 覆(6) _Fau(6)_ (fau6); here normalised to _Fuk(7)_ (fuk1)]]
     ==
     - To cover, to overshadow [[Kangxi: 蓋也]];
     - [[...]];
@@ -513,7 +513,7 @@ W
         the heaven covers and earth ~~contains~~ ``carries``;
     - [[...]].
     ==
-  - [[Page~63 覆(7)]]
+  - [[Page~63 #14: 覆(7)]]
     ==
     - To and fro, to repeat, back and forth [[Kangxi: 反覆也]];
     - unstable, unsettled;
@@ -663,7 +663,7 @@ F
   ==
 W
   ====
-  - [[Page~63 輻(7)]]
+  - [[Page~63 #6: 輻(7)]]
     ==
     - The spokes of a wheel [[Kangxi: 輪轑也, 輻謂輪中木之直指者]];
     - _fuk(7) ts(')au(3)_
@@ -710,7 +710,7 @@ F
   ==
 W
   ====
-  - [[Page~64 馥(7)]]
+  - [[Page~64 #1: 馥(7)]]
     ==
     - Fragrance, odors diffused around [[Kangxi: 香氣芬馥]];
     - _~~(1)fau~~ ``(1)fan`` fuk(7)_
@@ -764,7 +764,7 @@ F
   ==
 W
   ====
-  - [[Page~64 伏(9)]]
+  - [[Page~64 #4: 伏(9)]]
     ==
     - To lie or fall prostrate;
     - to humble, to subject, to oppress;
@@ -839,7 +839,7 @@ F
   ==
 W
   ====
-  - [[Page~64 伏(9); here normalised to 匐]]
+  - [[Page~64 #4: 伏(9); here normalised to 匐]]
     ==
     - [[...]];
     - _(4)p(')(o\) fuk(9)_
@@ -847,7 +847,7 @@ W
         to go on the hands and knees, humbly;
     - [[...]].
     ==
-  - [[Page~64 匐(9) _P(a/)k(9)_ (baak6)]]
+  - [[Page~351 #3: 匐(9) _P(a/)k(9)_ (baak6)]]
     ==
     - To fall prostrate [[Kangxi: 伏地也]];
     - _(4)p(')(o\) p(a/)k(9)_
@@ -898,7 +898,7 @@ F
   ==
 W
   ====
-  - [[Page~64 復(9)]]
+  - [[Page~64 #3: 復(9)]]
     ==
     - Again, reiterated, to do the second time [[Kangxi: 又也, 再也]];
     - to return [[Kangxi: 返也, 復還也]], to reply [[Kangxi: 答也]];
@@ -969,7 +969,7 @@ F
   ==
 W
   ====
-  - [[Page~64 服(9)]]
+  - [[Page~64 #2: 服(9)]]
     ==
     - To use [[Kangxi: 用也]] (as a boat);
     - to wait on, to serve;
@@ -1020,7 +1020,7 @@ W
     --
     [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]]
     --
-  - [[Page~64 伏(9); here normalised to 服]]
+  - [[Page~64 #4: 伏(9); here normalised to 服]]
     ==
     - [[...]];
     - _(1)sh(u:) fuk(9)_
@@ -1081,7 +1081,7 @@ F
   ==
 W
   ====
-  - [[Page~64 茯(9)]]
+  - [[Page~64 #6: 茯(9)]]
     ==
     - China-root _(Smilax ~~China~~ ``glabra``)_
       called _fuk(9) (4)ling_ [[fuk6 ling4 茯苓]]_;_
@@ -1115,7 +1115,7 @@ F
   ==
 W
   ====
-  - [[Page~64 袱(9)]]
+  - [[Page~64 #5: 袱(9)]]
     ==
     - A square cloth wrapper,
       called _(1)p(a/)u fuk(9)_ [[baau1 fuk6 包袱]]^;

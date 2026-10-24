@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faa
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -66,7 +66,7 @@ F
   ==
 W
   ====
-  - [[Page~42 (1)花(1)華]]
+  - [[Page~42 #10: (1)花(1)華]]
     ==
     - A blossom, a flower [[Kangxi 花: 草木之葩也]];
     - pleasure, vice;
@@ -208,7 +208,7 @@ F
   ==
 W
   ====
-  - [[Page~42 (1)花(1)華]]
+  - [[Page~42 #10: (1)花(1)華]]
     --
     [[Alternative form of 花. **See $花faa1 for the canonical entry.**]]
     --
@@ -244,7 +244,7 @@ F
   ==
 W
   ====
-  - [[Page~43 化(3)]]
+  - [[Page~43 #1: 化(3)]]
     ==
     - To change, to influence so as to alter, to transform [[Kangxi: 化敎行也 etc.]];
     - to melt, to digest;

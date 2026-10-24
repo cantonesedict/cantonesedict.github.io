@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,6 +50,7 @@ $$
 =={.modern}
 - ($厄1)
 - $呃1
+- ($扼1)
 - ($握1)
 - $軛1
 - ($阨1)
@@ -100,7 +101,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7); here normalised to 呃]]
+  - [[Page~3 #11: 阨(7) ^_(A/)k(7)_ (aak1); here normalised to 呃]]
     --
     A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
     --
@@ -128,6 +129,28 @@ E
 S
   ==
   - $呃ngaak1 (TODO)
+  ==
+$$
+
+###+ 扼1 | _(A/)k(7)_ [[aak1]]
+
+$$.
+R
+  ⼿ + 4
+U
+  U+627C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 軛. **See $軛aak1 for the canonical entry.**
+  1. Reading variation. **See $扼ak1 for the canonical entry.**
+  ++
+S
+  ==
+  - $扼ak1
   ==
 $$
 
@@ -162,6 +185,8 @@ U
 A
   ==
   - $厄1
+  - $扼1
+  - 軶
   - 轭 (Mainland simplified)
   ==
 V
@@ -176,7 +201,7 @@ F
   ==
 W
   ====
-  - [[Page~3 軛(7)]]
+  - [[Page~3 #10: 軛(7)]]
     ==
     - A yoke [[Kangxi: 轅端橫木駕馬領者]];
     - the yoke of a carriage;
@@ -207,7 +232,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1)]]
+  - [[Page~3 #11: 阨(7) ^_(A/)k(7)_ (aak1)]]
     --
     [[Alternative form of 呃 (Cantonese). **See $呃aak1 for the canonical entry.**]]
     --
@@ -251,7 +276,7 @@ F
   ==
 W
   ====
-  - [[Page~3 鈪(8)]]
+  - [[Page~3 #9: 鈪(8)]]
     --
     An unauthorized character.
     --

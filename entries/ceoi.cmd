@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 催1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+### ~~傕~~``催``1 | _(1)Ts(')(u/)i_ [[ceoi1]]
 
 $$
 R
@@ -86,9 +86,9 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)催]]
+  - [[Page~598 #3: ::(1)~~傕~~``催``::]]
     ==
-    - To urge, to press, to egg on [[Kangxi: 促也迫也]];
+    - To urge, to press, to egg on [[Kangxi 催: 促也迫也]];
     - to importune;
     - to hasten, as the payment of a debt;
     - ~~to reiterate;~~
@@ -112,6 +112,8 @@ W
   ====
 C
   ==
+  - Williams misprints 催 as 傕; here corrected.
+    (The character 催 appears correctly on Page~741 in the character index.)
   - Williams' 乏价走催: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
 L
@@ -142,7 +144,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)吹(1)龡]]
+  - [[Page~34* #3: (1)吹(1)龡]]
     ==
     - To blow [[Kangxi 吹: 噓也, 出氣也]], as the wind or by breath;
     - to whistle;
@@ -171,7 +173,7 @@ W
         [[ceoi1 fo2 tung4 ceot1 san1 吹火筒出身]],
         began life as a firelighter.
     ==
-  - [[Page~34* (1)炊]]
+  - [[Page~34* #4: (1)炊]]
     --
     Used for the last [[吹]] [[Kangxi 炊: 與吹同]].
     --
@@ -243,7 +245,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)崔]]
+  - [[Page~598 #2: (1)崔]]
     ==
     - Lofty, mountainous [[Kangxi: 高大也, 崔嵬也]];
     - rugged, as a hilly country;
@@ -279,7 +281,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)推]]
+  - [[Page~34* #5: (1)推]]
     --
     [[Reading variation. **See $推teoi1 for the canonical entry.**]] [[TODO]]
     --
@@ -307,7 +309,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)摧 _(4)Ts(')(u/)i_ (ceoi4); here normalised to _(1)Ts(')(u/)i_ (ceoi1)]]
+  - [[Page~598 #6: (4)摧 _(4)Ts(')(u/)i_ (ceoi4); here normalised to _(1)Ts(')(u/)i_ (ceoi1)]]
     ==
     - To stop, to drive back, to repress [[Kangxi: 挫也抑也]];
     - to overpower, to set down;
@@ -350,7 +352,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)炊]]
+  - [[Page~34* #4: (1)炊]]
     --
     [[...]]
     --
@@ -388,7 +390,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)璀]]
+  - [[Page~598 #4: (1)璀]]
     ==
     - The lustre of a gem [[Kangxi: 璀璨玉光也]];
     - a gem hanging down, as from the girdle [[Kangxi: 璀璨珠垂貌]].
@@ -419,7 +421,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)衰(1)縗]]
+  - [[Page~598 #5: (1)衰(1)縗]]
     ==
     - The unhemmed, frayed edges of mourning clothes [[Kangxi 縗: 喪服也]], which are left so;
     - to ravel out;
@@ -458,7 +460,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (1)蛆]]
+  - [[Page~595 #9: (1)蛆]]
     ==
     - Maggots in putrid flesh [[Kangxi: 肉中蟲也]];
     - flyblows, eggs of flies [[Kangxi: 蠅乳]];
@@ -499,7 +501,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)衰(1)縗]]
+  - [[Page~598 #5: (1)衰(1)縗]]
     --
     [[Alternative form of 縗. **See $縗ceoi1 for the canonical entry.**]]
     --
@@ -554,7 +556,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (1)趨(1)趋]]
+  - [[Page~595 #8: (1)趨(1)趋]]
     ==
     - To hasten to one's place [[Kangxi 趨: 疾行曰趨趨赴也赴所至也, 趨今之捷步]], to stride off [[Kangxi 趨: 行而張足曰趨]], as in a superior's presence;
     - to run, to walk quick [[Kangxi 趨: 走也, 行也]];
@@ -592,7 +594,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (1)吹(1)龡]]
+  - [[Page~34* #3: (1)吹(1)龡]]
     --
     [[Alternative form of 吹. **See $吹ceoi1 for the canonical entry.**]]
     --
@@ -631,7 +633,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)取]]
+  - [[Page~595 #11: (2)取]]
     ==
     - To take, to lay hold on [[Kangxi: 捕取也]], to use;
     - to exact;
@@ -728,13 +730,13 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)取; here normalised to 娶]]
+  - [[Page~595 #11: (2)取; here normalised to 娶]]
     ==
     - [[...]];
     - to take, as a wife;
     - [[...]].
     ==
-  - [[Page~596 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
+  - [[Page~596 #1: 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
     ==
     - To marry a woman with the legal ceremonies [[Kangxi: ::[取]婦也::]];
     - a marriage;
@@ -787,7 +789,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)惴]]
+  - [[Page~34* #10: (2)惴]]
     --
     [[Reading variation. **See $惴zeoi3 for the canonical entry.**]]
     --
@@ -812,7 +814,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)揣]]
+  - [[Page~34* #9: (2)揣]]
     --
     [[Reading variation. **See $揣cyun2 for the canonical entry.**]]
     --
@@ -836,14 +838,14 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)漼 _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
+  - [[Page~598 #7: ::(4)~~㴶~~``漼``:: _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
     ==
-    - Deep [[Kangxi: 深也]], clear water;
-    - tears trickling down [[Kangxi: 涕垂貌]];
-    - fresh, new [[Kangxi: 鮮明也]], clean;
-    - spoiling, ruining [[Kangxi: 壞貌]];
+    - Deep [[Kangxi 漼: 深也]], clear water;
+    - tears trickling down [[Kangxi 漼: 涕垂貌]];
+    - fresh, new [[Kangxi 漼: 鮮明也]], clean;
+    - spoiling, ruining [[Kangxi 漼: 壞貌]];
     - [[...]];
-    - name of a stream [[Kangxi: 水名]].
+    - name of a stream [[Kangxi 漼: 水名]].
     ==
   ====
 L
@@ -897,7 +899,7 @@ F
   ==
 W
   ====
-  - [[Page~609 啐(8) _Ts(u:)t(8)_ (zyut3); here corrected to _Ts(')(u/)i(3)_ (ceoi3)]]
+  - [[Page~609 #7: 啐(8) _Ts(u:)t(8)_ (zyut3); here corrected to _Ts(')(u/)i(3)_ (ceoi3)]]
     ==
     - To taste [[Kangxi: 嘗也, 嘗入口]]~~, to craunch~~;
     - [[...]].
@@ -934,7 +936,7 @@ F
   ==
 W
   ====
-  - [[Page~596 娶(3)]]
+  - [[Page~596 #1: 娶(3)]]
     --
     [[Reading variation. **See $娶ceoi2 for the canonical entry.**]]
     --
@@ -958,7 +960,7 @@ F
   ==
 W
   ====
-  - [[Page~597 毳(3)]]
+  - [[Page~597 #6: 毳(3)]]
     ==
     - The down on birds, the fine undergrowth of hair on animals [[Kangxi: 獸細毛也]];
     - ~~birds molting;~~
@@ -1003,7 +1005,7 @@ F
   ==
 W
   ====
-  - [[Page~597 翠(3)]]
+  - [[Page~597 #5: 翠(3)]]
     ==
     - The female of a kingfisher, whose feathers are used in plumagery [[Kangxi: 靑羽雀也, 雄曰翡雌曰翠]];
     - _ts(')ui(3) ki(u/)(6)_
@@ -1044,7 +1046,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~597 脃(3)脆(3)]]
+  - [[Page~597 #7: 脃(3)脆(3)]]
     --
     [[Alternative form of 脆. **See $脆ceoi3 for the canonical entry.**]]
     --
@@ -1072,7 +1074,7 @@ F
   ==
 W
   ====
-  - [[Page~597 脃(3)脆(3)]]
+  - [[Page~597 #7: 脃(3)脆(3)]]
     ==
     - Delicate, easily broken [[Kangxi 脃: 小耎易斷也]];
     - brittle, crackling;
@@ -1132,7 +1134,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~596 蜡(3)]]
+  - [[Page~596 #4: 蜡(3)]]
     --
     [[...]]
     --
@@ -1171,7 +1173,7 @@ F
   ==
 W
   ====
-  - [[Page~596 覰(3)]]
+  - [[Page~596 #3: 覰(3)]]
     --
     [[Alternative form of 覷. **See $覷ceoi3 for the canonical entry.**]]
     --
@@ -1200,7 +1202,7 @@ F
   ==
 W
   ====
-  - [[Page~596 覰(3); here normalised to 覷]]
+  - [[Page~596 #3: 覰(3); here normalised to 覷]]
     ==
     - To spy, to look at;
     - to peep, to descry, to reconnoitre [[Kangxi 覰: 伺視也]];
@@ -1232,7 +1234,7 @@ F
   ==
 W
   ====
-  - [[Page~596 趣(3)]]
+  - [[Page~596 #2: 趣(3)]]
     ==
     - Similar to _(1)ts(')(u:)_ [[ceoi1]] 趨 to run;
     - to go, to advance quickly [[Kangxi: 疾也]];
@@ -1324,7 +1326,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)廚(4)厨]]
+  - [[Page~32* #7: (4)廚(4)厨]]
     --
     [[Alternative form of 廚. **See $廚ceoi4 for the canonical entry.**]]
     --
@@ -1354,7 +1356,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~597 (4)隨; here normalised to {𡃴=⿰口隨}]]
+  - [[Page~597 #3: (4)隨; here normalised to {𡃴=⿰口隨}]]
     --
     [[...]]
     --
@@ -1413,7 +1415,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)廚(4)厨]]
+  - [[Page~32* #7: (4)廚(4)厨]]
     ==
     - A kitchen, a cook-room [[Kangxi 廚: 庖屋也]];
     - a slaughter-house;
@@ -1463,7 +1465,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (4)徐]]
+  - [[Page~595 #10: (4)徐]]
     ==
     - Grave, serious, leisurely;
     - tardy, slow [[Kangxi: 緩也, 遲也]];
@@ -1514,7 +1516,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~34* (4)搥; here normalised to 捶]]
+  - [[Page~34* #7: (4)搥; here normalised to 捶]]
     --
     [[...]]
     --
@@ -1547,7 +1549,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~34* (4)搥]]
+  - [[Page~34* #7: (4)搥]]
     --
     [[Alternative form of 捶. **See $捶ceoi4 for the canonical entry.**]]
     --
@@ -1574,7 +1576,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)摧]]
+  - [[Page~598 #6: (4)摧]]
     --
     [[Reading variation. **See $摧ceoi1 for the canonical entry.**]]
     --
@@ -1599,7 +1601,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (4)槌(4)椎]]
+  - [[Page~34* #6: (4)槌(4)椎]]
     --
     [[Alternative form of 槌. **See $槌ceoi4 for the canonical entry.**]]
     --
@@ -1634,7 +1636,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (4)槌(4)椎]]
+  - [[Page~34* #6: (4)槌(4)椎]]
     ==
     - A mallet, a beater, a club, a bludgeon [[Kangxi 槌: 棒槌所以擊也]];
     - a beetle;
@@ -1657,7 +1659,7 @@ W
         [[ceoi4 bui3 槌背]]
         to shampoo``.``
     ==
-  - [[Page~34* (4)搥]]
+  - [[Page~34* #7: (4)搥]]
     --
     Like the last [[槌]].
     --
@@ -1692,7 +1694,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)滁]]
+  - [[Page~32* #3: (4)滁]]
     ==
     - A branch of the R.~Y(a/)ngtsz' [[揚子江]]
       flowing in between Nanking [[南京]] and (I/)ching [[？？]];
@@ -1705,7 +1707,7 @@ S
   ==
 $$
 
-### 漼4 | _(4)Ts(')(u/)i_ [[ceoi4]]
+### ~~㴶~~``漼``4 | _(4)Ts(')(u/)i_ [[ceoi4]]
 
 $$
 R
@@ -1718,10 +1720,10 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)漼]]
+  - [[Page~598 #7: ::(4)~~㴶~~``漼``::]]
     ==
     - [[...]];
-    - snow drifted [[Kangxi: 漼溰雪霜積聚貌]];
+    - snow drifted [[Kangxi 漼: 漼溰雪霜積聚貌]];
     - [[...]].
     ==
   ====
@@ -1748,7 +1750,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)篨]]
+  - [[Page~32* #4: (4)篨]]
     ==
     - A mat [[Kangxi: 籧篨竹席]] rolled up;
     - _(4)k(')(u:) (4)ch(')(u:)_
@@ -1787,7 +1789,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (4)蜍]]
+  - [[Page~32* #1: (4)蜍]]
     ==
     - A toad [[Kangxi: 蟾蜍也]];
     - _(4)sh(i/)m (4)ch(')(u:)_ [[sim4 ceoi4 蟾蜍]],
@@ -1823,7 +1825,7 @@ F
   (F1.45 ::[蹰]::) ::踟[蹰]::
 W
   ====
-  - [[Page~32* (4){𨆼=⿰𧾷㕑}; here normalised to 躕]]
+  - [[Page~32* #8: (4){𨆼=⿰𧾷㕑}; here normalised to 躕]]
     ==
     - Embarrassed, hindered [[Kangxi 躕: 踟躕行不進貌]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
@@ -1871,7 +1873,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (4)錘(4)鎚]]
+  - [[Page~34* #8: (4)錘(4)鎚]]
     ==
     - The weight on a steelyard [[Kangxi 錘: 稱錘也]];
     - a hammer;
@@ -1929,7 +1931,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~34* (4)錘(4)鎚]]
+  - [[Page~34* #8: (4)錘(4)鎚]]
     --
     [[Alternative form of 錘 (for the "hammer" senses). **See $錘ceoi4 for the canonical entry.**]]
     --
@@ -1953,7 +1955,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (4)除]]
+  - [[Page~32* #2: (4)除]]
     ==
     - Steps to a palace [[Kangxi: 殿陛也]];
     - a vestibule [[Kangxi: 除謂門屛之閒]];
@@ -2038,7 +2040,7 @@ F
   ==
 W
   ====
-  - [[Page~597 (4)隋]]
+  - [[Page~597 #4: (4)隋]]
     ==
     - A dynasty, which ruled from A.~D.~^~~590~~~``581``--~~620~~~``619``,
       preceding the T(')(a/)ng [[唐]] dynasty.
@@ -2063,7 +2065,7 @@ F
   ==
 W
   ====
-  - [[Page~597 (4)隨]]
+  - [[Page~597 #3: (4)隨]]
     ==
     - To follow, to accord with, to yield, to comply obediently [[Kangxi: 從也順也]];
     - to permit, to let;

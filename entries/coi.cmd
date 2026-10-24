@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~590 (1)啋]]
+  - [[Page~590 #1: (1)啋]]
     --
     A colloquial word.
     --
@@ -133,7 +133,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)寀]]
+  - [[Page~591 #2: (2)寀]]
     ==
     - Lands or cities allotted for the revenue of officers [[Kangxi: 謂寀地]];
     - _(2)ts(')oi t(i/)(6)_
@@ -168,7 +168,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)彩]]
+  - [[Page~591 #3: (2)彩]]
     ==
     - Variegated, mixed or ornamented with different colors;
     - elegant, gay, colored;
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)採]]
+  - [[Page~591 #1: (2)採]]
     ==
     - To select, to choose, to pick, to pluck, as leaves [[Kangxi: 摘也取也㩜也]];
     - to take with the hand;
@@ -302,7 +302,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)棌]]
+  - [[Page~591 #5: (2)棌]]
     ==
     - A sort of tree [[Kangxi: 槲也]], whose wood is hard and durable,
       like that of the chestnut or locust.
@@ -331,7 +331,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~591 (2)睬]]
+  - [[Page~591 #6: (2)睬]]
     ==
     - To pay attention to, to notice, to greet [[Kangxi: 偢睬俗言也]];
     - _(4)'m (1)ts(')au (4)'m (2)ts(')oi_
@@ -361,7 +361,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)綵]]
+  - [[Page~591 #4: (2)綵]]
     --
     Interchanged with the last [[彩]].
     --
@@ -403,7 +403,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (2)采]]
+  - [[Page~590 #7: (2)采]]
     --
     To be distinguished from 釆 _p(i/)n(6)_ [[bin6]] to divide.
     --
@@ -516,7 +516,7 @@ F
   ==
 W
   ====
-  - [[Page~591 塞(3)]]
+  - [[Page~591 #9: 塞(3)]]
     ==
     - A boundary, a frontier, a limit [[Kangxi: 邊界也]];
     - _ch(')ut(7) ts(')oi(3)_
@@ -557,7 +557,7 @@ F
   ==
 W
   ====
-  - [[Page~591 菜(3)]]
+  - [[Page~591 #7: 菜(3)]]
     ==
     - Vegetables, edible herbs, greens [[Kangxi: 草之可食者, 蔬也]];
     - food, viands;
@@ -650,7 +650,7 @@ F
   ==
 W
   ====
-  - [[Page~591 蔡(3)]]
+  - [[Page~591 #8: 蔡(3)]]
     ==
     - Grass, herbs, esculent herbs [[Kangxi: 草也]];
     - ~~a law, a rule~~ ``punishment by banishment`` [[Kangxi: 蔡法也]];
@@ -690,7 +690,7 @@ F
   ==
 W
   ====
-  - [[Page~592 賽(3)]]
+  - [[Page~592 #1: 賽(3)]]
     ==
     - To recompense, to thank [[Kangxi: 報也]];
     - to strive to surpass, to contest for, to emulate, to match;
@@ -776,7 +776,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)才]]
+  - [[Page~590 #2: (4)才]]
     ==
     - [[...]];
     - talents, capacity, ability, powers [[Kangxi: 一曰能也, 質也力也]];
@@ -857,13 +857,13 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)才]]
+  - [[Page~590 #2: (4)才]]
     ==
     - Materials, stuff, or the substance of things,
       for which the next [[材]] is used;
     - [[...]].
     ==
-  - [[Page~590 (4)材]]
+  - [[Page~590 #3: (4)材]]
     ==
     - Materials of which things are made [[Kangxi: 五材金木水火土也 etc.]];
     - nature, qualities;
@@ -918,7 +918,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)纔]]
+  - [[Page~590 #6: (4)纔]]
     ==
     - An adverb of time;
     - near to, at hand, nearly reaching to;
@@ -966,7 +966,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)裁]]
+  - [[Page~590 #5: (4)裁]]
     ==
     - To make clothes, to cut out garments [[Kangxi: 制衣也]];
     - to tear, to cut off [[Kangxi: 裂也]];
@@ -1029,7 +1029,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)財]]
+  - [[Page~590 #4: (4)財]]
     ==
     - Wealth, riches, valuables, property, possessions, goods,
       whatever men can use [[Kangxi: 人所寶也, 可入用者也, etc.]];

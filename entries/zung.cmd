@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (1)中]]
+  - [[Page~38* #12: (1)中]]
     ==
     - The middle, the centre~~:~~``;``
     - half [[Kangxi: 半也]], in the middle of;
@@ -203,7 +203,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)宗]]
+  - [[Page~606 #2: (1)宗]]
     ==
     - An ancestral temple [[Kangxi: 尊祖廟也]];
     - an ancestral tablet [[Kangxi: 宗者何宗有尊也爲先祖主也宗人之所尊也]];
@@ -320,7 +320,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)忠]]
+  - [[Page~39* #1: (1)忠]]
     ==
     - Faithful, loyal [[Kangxi: 不貳也]], patriotic;
     - ~~attached to~~ ``devoted``, sincere [[Kangxi: 內盡其心而不欺也]];
@@ -367,7 +367,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)悰]]
+  - [[Page~606 #3: (1)悰]]
     --
     [[Reading variation. **See $悰cung4 for the canonical entry.**]]
     --
@@ -401,7 +401,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)棕(1)椶]]
+  - [[Page~606 #4: (1)棕(1)椶]]
     ==
     - A kind of gomuti palm, the _Chamœrops_ [[Kangxi 椶: 栟櫚也 etc.]],
       whose bracts furnish coir for ropes, mats, &c.;
@@ -437,7 +437,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)棕(1)椶]]
+  - [[Page~606 #4: (1)棕(1)椶]]
     --
     [[Alternative form of 棕. **See $棕zung1 for the canonical entry.**]]
     --
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)樅]]
+  - [[Page~607 #4: (1)樅]]
     --
     [[Reading variation. **See $樅cung1 for the canonical entry.**]]
     --
@@ -499,7 +499,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)淙]]
+  - [[Page~606 #5: (1)淙]]
     ==
     - The noise of water [[Kangxi: 水聲也]];
     - murmuring, flowing water [[Kangxi: 一曰水流貌]];
@@ -567,7 +567,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)琮]]
+  - [[Page~606 #6: (1)琮]]
     --
     [[Reading variation. **See $琮cung4 for the canonical entry.**]]
     --
@@ -595,7 +595,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)鍾; here normalised to 盅]]
+  - [[Page~39* #2: (1)鍾; here normalised to 盅]]
     ==
     - [[...]];
     - a cup or goblet;
@@ -604,7 +604,7 @@ W
         [[zau2 zung1 酒盅]],
         a wine-cup.
     ==
-  - [[Page~39* (1)鐘; here corrected to 鍾 and normalised to 盅]]
+  - [[Page~39* #3: (1)鐘; here corrected to 鍾 and normalised to 盅]]
     ==
     - [[...]];
     - _kuk(9) (1)chung_
@@ -616,7 +616,7 @@ W
         a cup of tea;
     - [[...]].
     ==
-  - [[Page~39* (1)盅]]
+  - [[Page~39* #7: (1)盅]]
     ==
     - A cup, [[...]], generally small and covered;
     - _(4)ngau (4)yau (1)chung_
@@ -657,7 +657,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)終]]
+  - [[Page~39* #5: (1)終]]
     ==
     - The end, the termination, a finis [[Kangxi: 極也窮也, 一曰盡也]];
     - death;
@@ -737,7 +737,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)綜]]
+  - [[Page~606 #7: (1)綜]]
     ==
     - [[...]];
     - to hold the reins of authority [[Fan Wan: ::理也又[治]也::]].
@@ -784,7 +784,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)縱]]
+  - [[Page~606 #9: (1)縱]]
     ==
     - Perpendicularly, downward [[Kangxi: 縱橫也, 或作從]];
     - a meridian line [[Kangxi: 東西曰衡南北曰從]];
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)舂]]
+  - [[Page~39* #4: (1)舂]]
     ==
     - To beat with a pestle [[Kangxi: 擣粟也]];
     - to pound firmly;
@@ -924,7 +924,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)螽]]
+  - [[Page~39* #6: (1)螽]]
     ==
     - A longheaded grasshopper;
     - _(1)chung (1)sz'_
@@ -988,7 +988,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)豵]]
+  - [[Page~607 #2: (1)豵]]
     ==
     - A pig six months or a year old [[Kangxi: 生六月豚一曰一歲豵尚叢聚也]];
     - ~~a pig,~~ a shote;
@@ -1033,7 +1033,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)踪(1)蹤]]
+  - [[Page~606 #8: (1)踪(1)蹤]]
     --
     [[Alternative form of 蹤. **See $蹤zung1 for the canonical entry.**]]
     --
@@ -1065,7 +1065,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)踪(1)蹤]]
+  - [[Page~606 #8: (1)踪(1)蹤]]
     ==
     - A vestige, a trace, a footstep [[Kangxi 蹤: 跡也, 從也人形從之也]];
     - to follow in the track of another;
@@ -1082,7 +1082,7 @@ W
         [[mou4 zung1 無蹤]],
         no trace of him.
     ==
-  - [[Page~606 (1)縱; here normalised to 蹤]]
+  - [[Page~606 #9: (1)縱; here normalised to 蹤]]
     ==
     - [[...]];
     - a vestige, a step [[Kangxi 縱: 與蹤通]];
@@ -1113,7 +1113,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)鍾]]
+  - [[Page~39* #2: (1)鍾]]
     ==
     - ~~A measure equal to 4~_tau_ [[dau 斗]]_;_~~
     - [[...]];
@@ -1183,7 +1183,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)鐘]]
+  - [[Page~39* #3: (1)鐘]]
     ==
     - A bell [[Kangxi: 樂鐘也]];
     - [[...]];
@@ -1290,7 +1290,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)鬃]]
+  - [[Page~607 #1: (1)鬃]]
     ==
     - A mane [[Kangxi: 馬鬃也或作騣]];
     - the ridge of bristles on the neck of hogs;
@@ -1328,7 +1328,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)鬷]]
+  - [[Page~607 #3: (1)鬷]]
     ==
     - A kind of boiler [[Kangxi: 釜屬也]];
     - ~~a run, a hank, as of hempen threads;~~
@@ -1435,7 +1435,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (2)種]]
+  - [[Page~39* #10: (2)種]]
     ==
     - A seed, a kernel [[Kangxi: 穀種也]];
     - a sort, a class, a kind [[Kangxi: 種類]];
@@ -1516,7 +1516,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉]]
+  - [[Page~607 #5: (2)粽(2)糉]]
     --
     [[Reading variation (vernacular rising-tone noun). **See $粽zung3 for the canonical entry.**]]
     --
@@ -1541,7 +1541,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉]]
+  - [[Page~607 #5: (2)粽(2)糉]]
     --
     [[Alternative form of 粽, and reading variation. **See $粽zung3 for the canonical entry.**]]
     --
@@ -1616,7 +1616,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)總(2)搃]]
+  - [[Page~607 #6: (2)總(2)搃]]
     ==
     - To collect and tie up [[Kangxi 總: 聚束也]];
     - to unite the whole [[Kangxi 總: 合也]];
@@ -1718,7 +1718,7 @@ F
   ==
 W
   ====
-  - [[Page~39* ::(2)腫~~(2)瘇~~::]]
+  - [[Page~39* #8: ::(2)腫~~(2)瘇~~::]]
     ==
     - To swell up, to tumefy [[Kangxi 腫: 膚肉浮滿也, 脹也]];
     - a swelling;
@@ -1781,7 +1781,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (2)踵]]
+  - [[Page~39* #9: (2)踵]]
     ==
     - The heel [[Kangxi: 足後]];
     - to follow one, to imitate [[Kangxi: 因也]], to go after one [[Kangxi: 追也]];
@@ -1860,7 +1860,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 中(3)]]
+  - [[Page~40* #2: 中(3)]]
     ==
     - To hit the centre [[Kangxi: 矢至的曰中]];
     - struck by [[Kangxi: 著其中曰中]];
@@ -1962,7 +1962,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 衆(3); here normalised to 眾]]
+  - [[Page~40* #1: 衆(3); here normalised to 眾]]
     ==
     - A multitude [[Kangxi 眾: 多也]], a concourse of at least three [[Kangxi 眾: 國語三人爲眾數成於三也]];
     - ~~a quorum, a majority;~~
@@ -2038,7 +2038,7 @@ F
   ==
 W
   ====
-  - [[Page~39* 種(3)]]
+  - [[Page~39* #11: 種(3)]]
     ==
     - To plant, to sow [[Kangxi: 布也]], to grow;
     - to cultivate, to raise;
@@ -2116,7 +2116,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉 _(2)Tsung_ (zung2)]]
+  - [[Page~607 #5: (2)粽(2)糉 _(2)Tsung_ (zung2)]]
     ==
     - Dumplings made by boiling glutinous rice first soaked in weak lye,
       and then wrapped in leaves [[Kangxi 糉: 蘆葉裹米角黍也 etc.]],
@@ -2183,7 +2183,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)綜 _(1)Tsung_ (zung1); here corrected to _Tsung(3)_ (zung3)]]
+  - [[Page~606 #7: (1)綜 _(1)Tsung_ (zung1); here corrected to _Tsung(3)_ (zung3)]]
     ==
     - The harness of a loom [[Kangxi: 織縷也 etc.]];
     - to work the slaie, and arrange the patterns in weaving;
@@ -2224,7 +2224,7 @@ F
   ==
 W
   ====
-  - [[Page~607 縱(3)]]
+  - [[Page~607 #7: 縱(3)]]
     ==
     - Remiss, careless;
     - ~~extravagant, as in speech;~~
@@ -2292,7 +2292,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 衆(3)]]
+  - [[Page~40* #1: 衆(3)]]
     --
     [[Alternative form of 眾. **See $眾zung3 for the canonical entry.**]]
     --
@@ -2310,7 +2310,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40* (1)衷 _(1)Ch(')ung_ (cung1); here corrected to _Chung(3)_ (zung3)]]
+  - [[Page~40* #11: (1)衷 _(1)Ch(')ung_ (cung1); here corrected to _Chung(3)_ (zung3)]]
     ==
     - [[...]];
     - [[...]], equity;
@@ -2362,7 +2362,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 仲(6)]]
+  - [[Page~40* #3: 仲(6)]]
     ==
     - The second of three [[Kangxi: 仲中也位在中也]];
     - the second born of brothers;
@@ -2415,7 +2415,7 @@ F
   ==
 W
   ====
-  - [[Page~608 從(6)]]
+  - [[Page~608 #3: 從(6)]]
     ==
     - A clan or family [[Kangxi: 同宗也]]~~, a succession of, as posterity~~;
     - ~~to be second to, to follow after;~~
@@ -2484,7 +2484,7 @@ F
   ==
 W
   ====
-  - [[Page~607 訟(6)]]
+  - [[Page~607 #8: 訟(6)]]
     ==
     - To contend before rulers;
     - to demand justice [[Kangxi: 上書爲人雪冤曰訟]];
@@ -2558,7 +2558,7 @@ F
   ==
 W
   ====
-  - [[Page~608 誦(6)]]
+  - [[Page~608 #1: 誦(6)]]
     ==
     - To hum, to recite over, to read in a humming tone [[Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.]], as priests do;
     - a murmuring, recitative way of reading;
@@ -2617,7 +2617,7 @@ F
   ==
 W
   ====
-  - [[Page~40* 重(6)]]
+  - [[Page~40* #4: 重(6)]]
     ==
     - [[...]];
     - momentous [[Kangxi: ::毛氏曰[...]因其可重而重之與再重鄭重皆去聲::]];
@@ -2730,7 +2730,7 @@ F
   ==
 W
   ====
-  - [[Page~608 頌(6)]]
+  - [[Page~608 #2: 頌(6)]]
     ==
     <## $頌jung4
     - The face, the visage;

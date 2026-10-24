@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-08-20
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -88,7 +88,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)净; here normalised to 凈]]
+  - [[Page~20|n63 #8: (1)净; here normalised to 凈]]
     ==
     - Cold, shivering [[Kangxi 凈: 冷貌]].
     ==
@@ -116,12 +116,12 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)曾]]
+  - [[Page~556 #5: (1)曾; here normalised to 增]]
     ==
     - [[...]], to add [[Kangxi 曾: 與增同]];
     - [[...]].
     ==
-  - [[Page~556 (1)增]]
+  - [[Page~556 #6: (1)增]]
     ==
     - To add, to double, to increase [[Kangxi: 益也]];
     - repeated, doubled [[Kangxi: 一曰重也]];
@@ -173,7 +173,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1)]]
+  - [[Page~21|n64 #2: (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1)]]
     ==
     - To rise above;
     - conspicuous, eminent, like a lofty mountain [[Kangxi: 崝嶸也]];
@@ -205,7 +205,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)憎]]
+  - [[Page~556 #7: (1)憎]]
     ==
     - To hate, to dislike, to abominate [[Kangxi: 惡也]];
     - _(2)ho (1)tsang_
@@ -281,6 +281,10 @@ R
   ⽈ + 8
 U
   U+66FE
+H
+  May appear with top component 丷 (assumed here) or 八,
+  depending on the font.
+  This extends to all characters containing 曾 as a component.
 A
   ==
   - 曽
@@ -291,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)曾]]
+  - [[Page~556 #5: (1)曾]]
     ==
     - To duplicate [[Kangxi: 曾猶重也]], [[...]];
     - _(1)tsang (1)s(u:)n_
@@ -347,7 +351,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)棦]]
+  - [[Page~20|n63 #9: (1)棦]]
     ==
     - A bundle of sticks, a number of sticks tied up into a faggot [[Kangxi: ::木[束]也::]].
     ==
@@ -380,7 +384,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1) when appropriate]]
+  - [[Page~20|n63 #13: (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1) when appropriate]]
     ==
     - To wrangle, to strive for precedence [[Kangxi: 引也, 競也]];
     - to contest, to litigate [[Kangxi: 訟也]];
@@ -529,7 +533,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)琤]]
+  - [[Page~20|n63 #10: (1)琤]]
     ==
     - The tinkling sound of gems when they are struck or rung together [[Kangxi: 玉聲]].
     ==
@@ -582,7 +586,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)箏]]
+  - [[Page~20|n63 #7: (1)箏]]
     ==
     - A kind of harpsichord with 12~copper strings [[Kangxi: ::鼓[絃]竹身樂也::, ::箏瑟類本十二[絃]今則十三::]];
     - _(1)fung (1)chang_
@@ -624,7 +628,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)繒]]
+  - [[Page~556 #9: (1)繒]]
     ==
     - A general name for common silken fabrics, as pongee, sarsnet, lutestring [[Kangxi: 帛也]].
     ==
@@ -660,7 +664,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)罾]]
+  - [[Page~556 #8: (1)罾]]
     ==
     - A lifting net, suspended by the corners [[Kangxi: ::罾魚網也形似[仰]繖蓋四維而舉之::]];
     - _kw(a/)(3) (1)tsang_
@@ -739,7 +743,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)錚]]
+  - [[Page~20|n63 #11: (1)錚]]
     ==
     - A small cymbal, a small sized gong [[Kangxi: 鉦也]];
     - the ringing sound of metals [[Kangxi: 金聲也]].
@@ -785,7 +789,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 掙(6)]]
+  - [[Page~21|n64 #3: 掙(6)]]
     --
     [[...]]
     --
@@ -815,7 +819,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
+  - [[Page~20|n63 #13: (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
     --
     [[Alternative form of 諍. **See $諍zang3 for the canonical entry.**]]
     --
@@ -849,7 +853,7 @@ F
   ==
 W
   ====
-  - [[Page~556 甑(3)]]
+  - [[Page~556 #10: 甑(3)]]
     ==
     - A boiler for distilling [[Fan Wan: 酒甑]], an alembic, a still made of pewter;
     - a boiler for steaming [[Kangxi: 甗也]] rice;
@@ -899,7 +903,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 諍(3)]]
+  - [[Page~20|n63 #12: 諍(3)]]
     ==
     - To remonstrate with;
     - to stop a wrong [[Kangxi: 止也, 謂止其失也, 諫諍救正也]];
@@ -908,7 +912,7 @@ W
         to reprove one's sovereign;
         to reprehend.
     ==
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
+  - [[Page~20|n63 #13: (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
     ==
     - [[...]];
     - to reprove, to remonstrate, in which senses it is used for the last [[諍]] [[Kangxi 爭: 本作諍諫諍也止也]].
@@ -939,7 +943,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~556 蹭(3)]]
+  - [[Page~556 #11: 蹭(3)]]
     --
     [[Idio* reading from Williams. **See $蹭sang3 for the canonical entry.**]]
     --
@@ -1002,7 +1006,7 @@ F
   ==
 W
   ====
-  - [[Page~557 贈(6)]]
+  - [[Page~557 #1: 贈(6)]]
     ==
     - To present, to give to, to bestow on [[Kangxi: 贈送也]];
     - to confer, as by the crown;

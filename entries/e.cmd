@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> e
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -66,7 +66,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~42 (1){𫫃=⿰口挨}]]
+  - [[Page~42 #9: (1){𫫃=⿰口挨}]]
     ==
     - A final particle, denoting are you willing, if you please, is it not so?
     - _(5)Ngo k(a/)u(3) (5)n(i/) tuk(9) (1)(e/)_
@@ -76,7 +76,7 @@ W
         [[si3 jat1 si3 e1 試一試{𫫃=⿰口挨}]],
         try, will you?
     ==
-  - [[Page~713 (1){𫫃=⿰口挨}]]
+  - [[Page~713 #5: (1){𫫃=⿰口挨}]]
     ==
     - A tone, a whine;
     - _(1)(e/) (1)(e/) (1)sheng_

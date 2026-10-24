@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 只(7)]]
+  - [[Page~23|n66 #7: 只(7)]]
     --
     [[Reading variation. **See $只zi2 for the canonical entry.**]]
     --
@@ -94,7 +94,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 枳(7)]]
+  - [[Page~23|n66 #8: 枳(7)]]
     --
     A colloquial word.
     --
@@ -145,7 +145,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 質(7)]]
+  - [[Page~23|n66 #4: 質(7)]]
     ==
     - Substance, essence, nature, the material of [[Kangxi: 質猶性也]];
     - plain, unadorned [[Kangxi: 樸也, 質猶本也]];
@@ -222,7 +222,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 郅(7)]]
+  - [[Page~23|n66 #3: 郅(7)]]
     --
     [[Reading variation. **See $郅zat6 for the canonical entry.**]]
     --
@@ -248,7 +248,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~23|n66 鑕(7)]]
+  - [[Page~23|n66 #5: 鑕(7)]]
     ==
     - An ax, a hatchet [[Kangxi: 斧也]];
     - an anvil or iron block [[Kangxi: 鐵鑕砧, 斧鑕椹也]], used by smiths and others.
@@ -269,7 +269,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 ::~~{？=⿰阝⿱步馬}~~``騭``(7)隲(7)::]]
+  - [[Page~23|n66 #6: {𨽥=⿰阝⿱步馬}(7)隲(7)]]
     --
     [[Alternative form of 騭. **See $騭zat1 for the canonical entry.**]]
     --
@@ -295,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 {𨽥=⿰阝⿱步馬}(7)隲(7); here normalised to 騭]]
+  - [[Page~23|n66 #6: {𨽥=⿰阝⿱步馬}(7)隲(7); here normalised to 騭]]
     ==
     - A stallion [[Kangxi 騭: 牡馬也, 牡曰騭]];
     - to mount;
@@ -376,7 +376,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 咥(9)]]
+  - [[Page~24|n67 #3: 咥(9)]]
     --
     [[Reading variation. **See $咥dit6 for the canonical entry.**]] [[TODO]]
     --
@@ -415,7 +415,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 姪(9)]]
+  - [[Page~24|n67 #1: 姪(9)]]
     ==
     - A brother's children [[Kangxi: 兄弟之女也, 兄弟之子]];
     - _chat(9) (2)tsz'_
@@ -478,13 +478,13 @@ F
   ==
 W
   ====
-  - [[Page~559 疾(9)]]
+  - [[Page~559 #4: 疾(9)]]
     ==
     - [[...]];
     - used for the next [[嫉]];
     - [[...]].
     ==
-  - [[Page~559 嫉(9)]]
+  - [[Page~559 #5: 嫉(9)]]
     ==
     - Envy, jealousy [[Kangxi: 妎也]];
     - to envy, to dislike, as a competitor;
@@ -523,7 +523,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 挃(9)]]
+  - [[Page~24|n67 #5: 挃(9)]]
     ==
     - ~~To cut~~ ``The sound of cutting`` down grain [[Kangxi: 穫禾聲, 挃挃穫也]];
     - to beat, to knock with the fist [[Kangxi: 撞挃也]].
@@ -555,7 +555,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 桎(9)]]
+  - [[Page~24|n67 #4: 桎(9)]]
     ==
     - Fetters, gyves, stocks of wood or iron [[Kangxi: 足械也]];
     - to manacle;
@@ -595,7 +595,7 @@ F
   ==
 W
   ====
-  - [[Page~559 疾(9)]]
+  - [[Page~559 #4: 疾(9)]]
     ==
     - Sickness, a disease which comes suddenly on one [[Kangxi: 病也一曰急也 etc.]];
     - ~~calamities,~~ afflictions [[Kangxi: 患也]];
@@ -668,7 +668,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 窒(9)]]
+  - [[Page~23|n66 #9: 窒(9)]]
     ==
     - To close [[Kangxi: 塞也]], to stop up the mouth of;
     - to hamper~~,~~``;``
@@ -727,7 +727,7 @@ F
   ==
 W
   ====
-  - [[Page~559 蒺(9)]]
+  - [[Page~559 #6: 蒺(9)]]
     ==
     - Gorse, furze [[Kangxi: 蒺䔧藥草]];
     - a thorny shrub [[Kangxi: 其刺傷人甚疾而利也]], whose seeds are biting and spicy;
@@ -766,7 +766,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 蛭(9)]]
+  - [[Page~24|n67 #6: 蛭(9)]]
     ==
     - A leech [[Kangxi: 水蛭 etc.]];
     - _(2)shui chat(9)_
@@ -799,7 +799,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 蟄(9)]]
+  - [[Page~24|n67 #2: 蟄(9)]]
     ==
     - Retired into silence [[Kangxi: 藏也, 蟄靜也]];
     - to burrow;
@@ -847,7 +847,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 郅(7) _Chat(7)_ (zat1); here normalised to _Chat(9)_ (zat6)]]
+  - [[Page~23|n66 #3: 郅(7) _Chat(7)_ (zat1); here normalised to _Chat(9)_ (zat6)]]
     ==
     - To ascend, to go up [[Kangxi: 登也]], as a hill;
     - flourishing, as an age;

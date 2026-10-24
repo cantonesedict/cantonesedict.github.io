@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -133,7 +133,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 册(8); here normalised to 冊]]
+  - [[Page~14|n57 #2: 册(8); here normalised to 冊]]
     ==
     - A slip;
     - an inventory, a register, a list;
@@ -175,7 +175,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 册(8)]]
+  - [[Page~14|n57 #2: 册(8)]]
     --
     [[Alternative form of 冊. **See $冊caak3 for the canonical entry.**]]
     --
@@ -197,7 +197,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 坼(8)]]
+  - [[Page~14|n57 #5: 坼(8)]]
     ==
     - To rive, to crack [[Kangxi: 裂也]];
     - to open, to burst open, as buds [[Kangxi: 植物房初開也]];
@@ -212,7 +212,7 @@ W
         [[caak3 caak3 dei6-2 seng1 坼坼地聲]],
         a wheezing, cracked voice.
     ==
-  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``::; here normalised to 坼]]
+  - [[Page~14|n57 #4: ::~~拆(9)~~``拆(8)``::; here normalised to 坼]]
     ==
     - [[...]]^
     - _ch(')(a/)k(8) (2)hau yat(9)_
@@ -264,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``::]]
+  - [[Page~14|n57 #4: ::~~拆(9)~~``拆(8)``::]]
     ==
     - To break up or open [[Kangxi: 裂也開也]];
     - to split, to unrip;
@@ -327,7 +327,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 栅(8); here normalised to 柵]]
+  - [[Page~14|n57 #3: 栅(8); here normalised to 柵]]
     ==
     - Posts of a stockade [[Kangxi 柵: 編樹木也, 豎木以立柵也]];
     - a railing;
@@ -356,7 +356,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 栅(8)]]
+  - [[Page~14|n57 #3: 栅(8)]]
     --
     [[Alternative form of 柵. **See $柵caak3 for the canonical entry.**]]
     --
@@ -376,7 +376,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 策(8)]]
+  - [[Page~13|n56 #12: 策(8)]]
     ==
     - A bamboo slip [[Kangxi: ::策[簡]也::]], such as books were once engraved on;
     - a book, writings;
@@ -431,7 +431,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 茦(8)]]
+  - [[Page~14|n57 #1: 茦(8)]]
     ==
     - A thorn, a spike, a prickle [[Kangxi: 莿也, 茦刺]];
     - to prick, to pierce with a thorn.
@@ -470,13 +470,13 @@ F
   ==
 W
   ====
-  - [[Page~551 賊(9); here normalised to 蠈]]
+  - [[Page~551 #2: 賊(9); here normalised to 蠈]]
     ==
     - [[...]];
     - a fly in grain [[Kangxi 賊: 害苗之蟲]];
     - [[...]].
     ==
-  - [[Page~551 蠈(9)]]
+  - [[Page~551 #3: 蠈(9)]]
     ==
     - A fly which eats the grain at its joints [[Kangxi: 食禾節蟲]];
     - a sort of Hessian fly,
@@ -509,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~551 賊(9)]]
+  - [[Page~551 #2: 賊(9)]]
     ==
     - A thief, a robber, a highwayman [[Kangxi: 盜也]];
     - a bandit;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faak
-* %date-modified --> 2026-07-13
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -79,7 +79,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~713 ^_F(a/)k(8)_ (faak3) implied; here assigned to {𢫦=⿰扌百}]]
+  - [[Page~713 #7: ^_F(a/)k(8)_ (faak3) exemplified; here assigned to {𢫦=⿰扌百}]]
     --
     A colloquial word.
     --

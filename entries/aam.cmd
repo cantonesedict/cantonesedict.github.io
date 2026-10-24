@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ F
   ==
 W
   ====
-  - [[Page~4 (2)菡]]
+  - [[Page~4 #1: (2)菡]]
     --
     [[Reading variation. **See $菡haam5 for the canonical entry.**]]
     --

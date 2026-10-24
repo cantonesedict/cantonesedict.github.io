@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,7 +62,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 折(7)]]
+  - [[Page~22* #7: 折(7)]]
     --
     [[Alternative form of 擳 (Cantonese). **See $擳zit1 for the canonical entry.**]]
     --
@@ -96,7 +96,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~22* 折(7); here normalised to 擳]]
+  - [[Page~22* #7: 折(7); here normalised to 擳]]
     --
     [[...]]
     --
@@ -207,7 +207,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 哲(8)喆(8)]]
+  - [[Page~22* #8: 哲(8)喆(8)]]
     ==
     - Wise, perspicacious, sage [[Kangxi 哲: 哲智也, 哲知也]];
     - to know intuitively;
@@ -244,7 +244,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 哲(8)喆(8)]]
+  - [[Page~22* #8: 哲(8)喆(8)]]
     --
     [[Alternative form of 哲. **See $哲zit3 for the canonical entry.**]]
     --
@@ -271,7 +271,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~728 婕(8)]]
+  - [[Page~728 #4: 婕(8)]]
     ==
     - Handsome, elegant [[Kangxi: 美貌]];
     - a female officer, called _ts(i/)t(8) (4)(u:)_ [[zit3 jyu4 婕妤]],
@@ -301,7 +301,7 @@ F
   ==
 W
   ====
-  - [[Page~22* 折(8)]]
+  - [[Page~22* #7: 折(8)]]
     ==
     - To sunder, to snap in two, to break off [[Kangxi: 拗折也]];
     - to fold, to bend [[Kangxi: 屈也]];
@@ -507,7 +507,7 @@ F
   ==
 W
   ====
-  - [[Page~579 櫛(8)]]
+  - [[Page~579 #5: 櫛(8)]]
     ==
     - A comb of any kind [[Kangxi: 梳枇之總名也]];
     - to comb, to clean [[Kangxi: 理髮也]];
@@ -546,7 +546,7 @@ F
   ==
 W
   ====
-  - [[Page~23* ::~~淅~~``浙``(8)::]]
+  - [[Page~23* #1: ::~~淅~~``浙``(8)::]]
     ==
     - A river [[Kangxi 浙: 江名]] in Chehki(a/)ng [[浙江]],
       called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
@@ -581,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~580 癤(8)]]
+  - [[Page~580 #1: 癤(8)]]
     ==
     - A small boil, a pimple, a sore [[Kangxi: 癰也, 瘍類與癰疽別瘍之小者爲癤]].
     ==
@@ -618,7 +618,7 @@ F
   ==
 W
   ====
-  - [[Page~579 節(8)]]
+  - [[Page~579 #4: 節(8)]]
     ==
     - The joint of bamboos [[Kangxi: 竹節也]];
     - a joint, a knot, a node;
@@ -758,7 +758,7 @@ F
   ==
 W
   ====
-  - [[Page~23* 蜇(8)]]
+  - [[Page~23* #2: 蜇(8)]]
     ==
     - ~~A~~ ``To`` sting [[Kangxi: 蟲螫也]];
     - ~~any part of insects which inflicts a poisonous wound;~~
@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~580 截(9)]]
+  - [[Page~580 #2: 截(9)]]
     ==
     - To cut in pieces, to cut up;
     - to cut off [[Kangxi: 斷也]], to amputate;
@@ -906,7 +906,7 @@ F
   ==
 W
   ====
-  - [[Page~580 捷(9)]]
+  - [[Page~580 #3: 捷(9)]]
     ==
     - ~~To obtain a victory;~~
     - successful, victorious [[Kangxi: 尅也]];
@@ -981,7 +981,7 @@ F
   ==
 W
   ====
-  - [[Page~579 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
+  - [[Page~579 #1: 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
     ==
     - The eye-lashes [[Kangxi: 同䀹, 目旁毛也]];
     - _met._ the eye;

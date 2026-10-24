@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~553 ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
+  - [[Page~553 #4: ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
     ==
     - To be concerned with [[Kangxi 參: 干與也]], to join with for consultation [[Kangxi 參: 相謁也]],
       to advise, to give counsel to;
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~553 ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
+  - [[Page~553 #4: ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
     --
     [[Alternative form of 參. **See $參caam1 for the canonical entry.**]]
     --
@@ -213,7 +213,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (4)攙 _(4)Ch(')(a/)m_ (caam4); here normalised to _(1)Ch(')(a/)m_ (caam1)]]
+  - [[Page~16|n59 #5: (4)攙 _(4)Ch(')(a/)m_ (caam4); here normalised to _(1)Ch(')(a/)m_ (caam1)]]
     ==
     - To stab [[Kangxi: 刺也]];
     - to sustain, to support [[Kangxi: 一曰扶也]], to lead;
@@ -258,7 +258,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
+  - [[Page~554 #9: (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
     ==
     - Bamboos varying in length [[Kangxi: 篸{𥰭=⿱𥫗差}竹貌]];
     - a pandean pipe [[Kangxi: 洞簫也]];
@@ -295,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (1)驂]]
+  - [[Page~553 #5: (1)驂]]
     ==
     - Three horses abreast in a chariot [[Kangxi: 驂馬, 駕三馬也]];
     - the horses outside of the thills [[Kangxi: 車中兩馬曰服兩馬驂其外小退曰驂]];
@@ -354,7 +354,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)慘(2){𢡖=⿰忄叅}]]
+  - [[Page~554 #6: (2)慘(2){𢡖=⿰忄叅}]]
     ==
     - Cruel, hard-hearted, inhuman [[Kangxi 慘: 毒也]];
     - to be afflicted, injured, wounded in the mind [[Kangxi 慘: 痛也]];
@@ -394,7 +394,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)憯]]
+  - [[Page~554 #7: (2)憯]]
     ==
     - Pained, feeling acutely, grieved;
     - distressed;
@@ -424,7 +424,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)慘(2){𢡖=⿰忄叅}]]
+  - [[Page~554 #6: (2)慘(2){𢡖=⿰忄叅}]]
     --
     [[Alternative form of 慘. **See $慘caam2 for the canonical entry.**]]
     --
@@ -453,7 +453,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)摻]]
+  - [[Page~554 #8: (2)摻]]
     ==
     - [[...]];
     - to take up with the hand [[Kangxi: 取也一曰執也]].
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)篸]]
+  - [[Page~554 #9: (2)篸]]
     ==
     - [[...]];
     - an open basket like a fan;
@@ -543,7 +543,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 儳(3)]]
+  - [[Page~16|n59 #8: 儳(3)]]
     ==
     - Irregular, disorderly [[Kangxi: 儳互不齊也]], as undrilled troops [[Kangxi: 師次不整]];
     - ~~unequal,~~ uneven [[Kangxi: 亦不齊也]];
@@ -599,7 +599,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 懺(3)]]
+  - [[Page~16|n59 #7: 懺(3)]]
     ==
     - To repent [[Kangxi: 悔也]];
     - to confess one's errors;
@@ -631,7 +631,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 杉(3)]]
+  - [[Page~16|n59 #6: 杉(3)]]
     ==
     - Fir, pine [[Kangxi: 煔似松]];
     - _ch(')(a/)m(3) muk(9)_
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (4)劖]]
+  - [[Page~553 #7: (4)劖]]
     ==
     - To cut apart, to chop [[Kangxi: 斷也]];
     - to chissel off [[Kangxi: 劖鑿也]];
@@ -731,7 +731,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
+  - [[Page~554 #1: (4)巉(4){𥕌=⿰石斬}]]
     ==
     - A high, inaccessible peak or cliff [[Kangxi 巉: 巉巖高也]];
     - a cloud-capt summit;
@@ -768,7 +768,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)慚(4)慙]]
+  - [[Page~554 #5: (4)慚(4)慙]]
     --
     [[Alternative form of 慚. **See $慚caam4 for the canonical entry.**]]
     --
@@ -794,7 +794,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)慚(4)慙]]
+  - [[Page~554 #5: (4)慚(4)慙]]
     ==
     - Ashamed, mortified, chopfallen [[Kangxi 慙: 媿也]];
     - to feel ashamed of, to blush for;
@@ -830,7 +830,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (4)攙]]
+  - [[Page~16|n59 #5: (4)攙]]
     --
     [[Reading variation (for the "stab" sense). **See $攙caam1 for the canonical entry.**]]
     --
@@ -855,7 +855,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)毚]]
+  - [[Page~554 #2: (4)毚]]
     ==
     - Crafty, wily, artful, as a hare [[Kangxi: 狡兔也]],
       which has many ways of escape;
@@ -918,7 +918,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
+  - [[Page~554 #1: (4)巉(4){𥕌=⿰石斬}]]
     --
     [[Alternative form of 巉. **See $巉caam4 for the canonical entry.**]]
     --
@@ -939,7 +939,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (4)蠶(4)蚕]]
+  - [[Page~553 #6: (4)蠶(4)蚕]]
     --
     [[Alternative form of 蠶. **See $蠶caam4 for the canonical entry.**]]
     --
@@ -968,7 +968,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (4)蠶(4)蚕]]
+  - [[Page~553 #6: (4)蠶(4)蚕]]
     ==
     - The silkworm [[Kangxi 蠶: 絲蟲也]];
     - caterpillars which weave coccoons [[Kangxi 蠶: 任絲也]];
@@ -1018,7 +1018,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)讒]]
+  - [[Page~554 #3: (4)讒]]
     ==
     - ~~To adulate, to humor, to flatter;~~
     - to misrepresent, to gloss over, to calumniate,
@@ -1081,7 +1081,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)饞]]
+  - [[Page~554 #4: (4)饞]]
     ==
     - To gormandise, to be fond of eating;
     - greedy, gluttonous, voracious [[Kangxi: 不廉, 饕也]];
@@ -1149,7 +1149,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (5)棖 _(5)Ch(')(a/)n_ (caan5); here normalised to _(5)Ch(')(a/)m_ (caam5)]]
+  - [[Page~20|n63 #6: (5)棖 _(5)Ch(')(a/)n_ (caan5); here normalised to _(5)Ch(')(a/)m_ (caam5)]]
     --
     A colloquial word.
     --
@@ -1200,7 +1200,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (5)鏨 _(5)^Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
+  - [[Page~553 #2: (5)鏨 _(5)^Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
     ==
     - A stone-cutter's chissel;
     - a small cold chissel [[Kangxi: 小鑿也]];

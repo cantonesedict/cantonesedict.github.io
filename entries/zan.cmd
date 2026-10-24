@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -105,7 +105,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 (1)珍]]
+  - [[Page~16|n59 #10: (1)珍]]
     ==
     - Valuable, precious [[Kangxi: 寶也, 貴也]], excellent [[Kangxi: 美也]];
     - important [[Kangxi: 重也]], rare [[Kangxi: 奇也]], noble;
@@ -154,7 +154,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (1)甄]]
+  - [[Page~16|n59 #11: (1)甄]]
     --
     [[Reading variation. **See $甄jan1 for the canonical entry.**]] [[TODO]]
     --
@@ -178,7 +178,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 (1)眞(1)真]]
+  - [[Page~16|n59 #9: (1)眞(1)真]]
     --
     [[Alternative form of 真. **See $真zan1 for the canonical entry.**]]
     --
@@ -202,7 +202,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 (1)眞(1)真]]
+  - [[Page~16|n59 #9: (1)眞(1)真]]
     ==
     - True, sincere, unfeigned, genuine, pure [[Kangxi 眞: 不虛假也, 實也僞之反也]];
     - in fact, truly, indeed, no mistake;
@@ -348,7 +348,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17|n60 賑(3)]]
+  - [[Page~17|n60 #3: 賑(3)]]
     --
     [[...]]
     --
@@ -406,7 +406,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17|n60 侲(3)]]
+  - [[Page~17|n60 #5: 侲(3)]]
     ==
     - A boy [[Kangxi: 童子也]] ~~of ten or twelve years~~;
     - _chan(3) (4)t(')ung_
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 圳(3) _Chun(3)_ (zeon3); here normalised to _Chan(3)_ (zan3)]]
+  - [[Page~36* #16: 圳(3) _Chun(3)_ (zeon3); here normalised to _Chan(3)_ (zan3)]]
     ==
     - A rapid in a stream;
     - _~~chun(3)~~ ``chan(3)`` (2)hau_
@@ -484,7 +484,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17|n60 帪(3)]]
+  - [[Page~17|n60 #6: 帪(3)]]
     ==
     - A bag to tie on a horse's head, in which his fodder is placed [[Kangxi: 囊也馬兜也, 帪飤馬橐]].
     ==
@@ -513,7 +513,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 振(3)]]
+  - [[Page~17|n60 #1: 振(3)]]
     ==
     - To shake, to move [[Kangxi: 裂也又動也]];
     - to stir up, to agitate [[Kangxi: 一曰奮也]];
@@ -618,7 +618,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 賑(3)]]
+  - [[Page~17|n60 #3: 賑(3)]]
     ==
     - A largess, a bounty;
     - to give, to relieve, to supply [[Kangxi: 贍也給也]];
@@ -665,7 +665,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 鎭(3)]]
+  - [[Page~17|n60 #4: 鎭(3)]]
     --
     [[Alternative form of 鎮. **See $鎮zan3 for the canonical entry.**]]
     --
@@ -691,7 +691,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 鎭(3); here normalised to 鎮]]
+  - [[Page~17|n60 #4: 鎭(3); here normalised to 鎮]]
     ==
     - To press down [[Kangxi 鎭: 博壓也, 重也壓也]];
     - to repress, to keep in subjection;
@@ -756,7 +756,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 震(3)]]
+  - [[Page~17|n60 #2: 震(3)]]
     --
     Interchanged with the last [[振]].
     --
@@ -852,7 +852,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 陣(6)陳(6)]]
+  - [[Page~17|n60 #7: 陣(6)陳(6)]]
     ==
     - A rank, a file of soldiers, a battalion [[Kangxi 陣: 旅也, 列也]];
     - an army;
@@ -981,7 +981,7 @@ F
   ==
 W
   ====
-  - [[Page~17|n60 陣(6)陳(6)]]
+  - [[Page~17|n60 #7: 陣(6)陳(6)]]
     --
     [[Alternative form of 陣. **See $陣zan6 for the canonical entry.**]]
     --

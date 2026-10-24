@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-10-17
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)春]]
+  - [[Page~37* #1: (1)春]]
     ==
     - Spring [[Kangxi: 春爲靑陽 etc.]], beginning of the year [[Kangxi: 春者何歲之始也]];
     - joyous, glad;
@@ -126,7 +126,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)椿]]
+  - [[Page~37* #2: (1)椿]]
     ==
     - A longlived tree [[Kangxi: 上古有大椿者以八千歲爲春八千歲爲秋]], a kind of banian;
     - _(1)ch(')un (4)t(')ong_
@@ -172,7 +172,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1){𱼚=⿰未⿱成肉}; here normalised to 膥]]
+  - [[Page~37* #3: (1){𱼚=⿰未⿱成肉}; here normalised to 膥]]
     ==
     - An egg, fish roe, crab's eggs;
     - _(4)lui (1)kung (1)ch(')un_
@@ -278,7 +278,7 @@ F
   ==
 W
   ====
-  - [[Page~37* ::~~(2)舂~~(2)蠢::]]
+  - [[Page~37* #4: ::~~(2)舂~~(2)蠢::]]
     ==
     - To crawl, to wriggle, as worms [[Kangxi 蠢: 蟲動也]];
     - to move, to stir [[Kangxi 蠢: 蠢作也, 蠢動作也]];
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (2)踳]]
+  - [[Page~37* #5: (2)踳]]
     ==
     - Blended, mixed, as colors;
     - _(2)ch(')un pok(8)_
@@ -402,13 +402,13 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)循]]
+  - [[Page~603 #1: (4)循]]
     ==
     - [[...]];
     - to inspect, to go the rounds, to perambulate, to go on the circuit [[Kangxi 循: 巡也]];
     - [[...]].
     ==
-  - [[Page~603 (4)廵(4)巡]]
+  - [[Page~603 #3: (4)廵(4)巡]]
     ==
     - To cruize [[Kangxi 巡: 巡行也]];
     - to go on circuit [[Kangxi 巡: 徧也, 謂巡繞徧行之]],
@@ -471,7 +471,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~603 (4)廵(4)巡]]
+  - [[Page~603 #3: (4)廵(4)巡]]
     --
     [[Alternative form of 巡. **See $巡ceon4 for the canonical entry.**]]
     --
@@ -495,7 +495,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)循]]
+  - [[Page~603 #1: (4)循]]
     ==
     - To follow a leader;
     - to comply with [[Kangxi: 自也率循也]];
@@ -566,7 +566,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)揗]]
+  - [[Page~603 #2: (4)揗]]
     ==
     - To pat, to stroke;
     - to encourage, to soothe [[Kangxi: 手相安慰也]];
@@ -599,7 +599,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)旬]]
+  - [[Page~604 #2: (4)旬]]
     ==
     - A decade of years or days [[Kangxi: 徧也十日爲旬]];
     - a complete number finished, completed [[Kangxi: 徧也]];
@@ -642,7 +642,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)秦]]
+  - [[Page~603 #6: (4)秦]]
     ==
     - A kind of rice [[Kangxi: 一曰秦禾名]];
     - a feudal state [[Kangxi: 國名]] occupying the region of the rivers Wei [[渭]] and King [[涇]];
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)紃]]
+  - [[Page~603 #4: (4)紃]]
     ==
     - Fine, silken cords or bindings [[Kangxi: 圜采也, 絛紃也, etc.]];
     - tassels, ornaments;
@@ -718,7 +718,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)螓]]
+  - [[Page~604 #1: (4)螓]]
     ==
     - A small species of cicada [[Kangxi: 蟲名似蟬而小 etc.]];
     - ~~eggs of the mantis;~~
@@ -747,7 +747,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)馴]]
+  - [[Page~603 #5: (4)馴]]
     --
     [[Reading variation. **See $馴seon4 for the canonical entry.**]] [[TODO]]
     --

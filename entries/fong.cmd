@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -82,7 +82,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)坊]]
+  - [[Page~55 #8: (1)坊]]
     ==
     - A neighborhood;
     - a street, a lane, an alley [[Kangxi: 邑里之名]];
@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1)慌]]
+  - [[Page~56 #2: (1)慌]]
     ==
     - Fluttered, perturbed, apprehensive, nervous;
     - [[...]];
@@ -206,7 +206,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)方]]
+  - [[Page~55 #6: (1)方]]
     ==
     - Square [[Kangxi: ::[...]方者中矩::]];
     - cornered, angular;
@@ -267,7 +267,7 @@ W
         [[hoi1 fong1 開方]],
         to commence a new business.
     ==
-  - [[Page~57 (2)舫 _(2)Fong_ (fong2); here corrected to _(1)Fong_ (fong1) and normalised to 方]]
+  - [[Page~57 #1: (2)舫 _(2)Fong_ (fong2); here corrected to _(1)Fong_ (fong1) and normalised to 方]]
     ==
     - Two boats alongside of each other [[Kangxi 舫: 倂船也]];
     - [[...]];
@@ -331,7 +331,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)枋]]
+  - [[Page~55 #9: (1)枋]]
     ==
     - A wood used by cartwrights [[Kangxi: 木可作車]], and shipwrights;
     - ~~the white~~ board``s`` used by fishermen to ~~entice~~ ``wall`` fish [[Kangxi: 蜀人以木偃魚曰枋]];
@@ -370,7 +370,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)祊]]
+  - [[Page~55 #10: (1)祊]]
     --
     [[Reading variation. **See $祊bang1 for the canonical entry.**]] [[TODO]]
     --
@@ -394,7 +394,7 @@ F
   ==
 W
   ====
-  - [[Page~56 ::(1)~~盲~~``肓``::]]
+  - [[Page~56 #4: ::(1)~~盲~~``肓``::]]
     ==
     - A part of the thorax ~~above the heart [[Kangxi 肓: 心上鬲下也]]~~ ``below the heart and above the diaphragm``;
     - the vitals.
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)芳]]
+  - [[Page~55 #11: (1)芳]]
     ==
     - Fragrant, odorous [[Kangxi: 芬芳香氣貌]];
     - beautiful, like flowers;
@@ -503,7 +503,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1){𮎰=⿱艹㠩}; here normalised to 荒]]
+  - [[Page~56 #1: (1){𮎰=⿱艹㠩}; here normalised to 荒]]
     ==
     - Waste, wild [[Kangxi 荒: 蕪也]], barren, deserted, unproductive;
     - distant [[Fan Wan 荒: 遠也]];
@@ -581,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1)衁]]
+  - [[Page~56 #3: (1)衁]]
     ==
     - Blood ~~above the heart~~ [[Kangxi: 血也]].
     ==
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)謊 _(2)Fong_ (fong2); here normalised to _(1)Fong_ (fong1)]]
+  - [[Page~57 #3: (2)謊 _(2)Fong_ (fong2); here normalised to _(1)Fong_ (fong1)]]
     ==
     - To talk in sleep [[Kangxi 詤: 夢言也]], incoherent;
     - to lie, lying, raving;
@@ -693,7 +693,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)倣; here normalised to 仿]]
+  - [[Page~56 #8: (2)倣; here normalised to 仿]]
     ==
     - To imitate [[Kangxi 倣: 傚也依也通作仿]];
     - like;
@@ -709,7 +709,7 @@ W
     --
     [[Alternative form of 彷. See $彷fong2.]]
     --
-  - [[Page~57 放(3) _Fong(3)_ (fong3); here corrected to _(2)Fong_ (fong2) and normalised to 仿]]
+  - [[Page~57 #4: 放(3) _Fong(3)_ (fong3); here corrected to _(2)Fong_ (fong2) and normalised to 仿]]
     ==
     - [[...]];
     - accord [[Kangxi 放: 放猶依也]];
@@ -748,7 +748,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)倣]]
+  - [[Page~56 #8: (2)倣]]
     --
     [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]]
     --
@@ -770,7 +770,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 (2)幌]]
+  - [[Page~714 #13: (2)幌]]
     ==
     - A curtain [[Kangxi: 帷幔也]];
     - an ornament for the head [[Kangxi: 蔮恢也恢郭覆髮上也齊人曰幌飾形貌也]];
@@ -807,7 +807,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)彷(2)髣]]
+  - [[Page~56 #9: (2)彷(2)髣]]
     ==
     - Like, resembling [[Kangxi 彷: 彷彿也]], ~~seen indistinctly [[Kangxi 彷: 彷彿見不審也]]~~;
     - seeming, ~~dreamy~~;
@@ -853,7 +853,7 @@ F
   ==
 W
   ====
-  - [[Page~714 (2)恍(2)怳]]
+  - [[Page~714 #12: (2)恍(2)怳]]
     --
     [[...]]
     --
@@ -904,7 +904,7 @@ F
   ==
 W
   ====
-  - [[Page~714 (2)恍(2)怳]]
+  - [[Page~714 #12: (2)恍(2)怳]]
     --
     ~~Interchanged with 慌 _(1)fong_ [[fong1]].~~
     --
@@ -959,7 +959,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (1)慌 _(1)Fong_ (fong1); here corrected to _(2)Fong_ (fong2)]]
+  - [[Page~56 #2: (1)慌 _(1)Fong_ (fong1); here corrected to _(2)Fong_ (fong2)]]
     ==
     - [[...]];
     - obscure``, confused`` [[Kangxi: 昬也]];
@@ -1026,7 +1026,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)昉]]
+  - [[Page~56 #11: (2)昉]]
     ==
     - The first light of the morning [[Fan Wan: 初明也]];
     - ~~clear, bright [[Kangxi: 明也]];~~
@@ -1111,7 +1111,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)紡]]
+  - [[Page~56 #10: (2)紡]]
     ==
     - To spin, to twist into thread, to twine [[Kangxi: 績紡, 謂紡切麻絲之屬爲纑縷也]];
     - lines, threads;
@@ -1159,7 +1159,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)舫]]
+  - [[Page~57 #1: (2)舫]]
     ==
     - [[...]];
     - ~~a pilot or steersman [[Kangxi: 船師也]];~~
@@ -1222,7 +1222,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)訪]]
+  - [[Page~56 #12: (2)訪]]
     ==
     - To inquire ``extensively``, to search out, to inform one's self [[Kangxi: 汎謀曰訪 etc., 問也]];
     - to ask advice of;
@@ -1274,7 +1274,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)謊]]
+  - [[Page~57 #3: (2)謊]]
     --
     [[Reading variation. **See $謊fong1 for the canonical entry.**]]
     --
@@ -1302,7 +1302,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)貺]]
+  - [[Page~57 #2: (2)貺]]
     --
     [[Reading variation. **See $貺fong3 for the canonical entry.**]]
     --
@@ -1332,7 +1332,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (2)彷(2)髣]]
+  - [[Page~56 #9: (2)彷(2)髣]]
     --
     [[Alternative form of 彷. **See $彷fong2 for the canonical entry.**]]
     --
@@ -1367,7 +1367,7 @@ F
   ==
 W
   ====
-  - [[Page~57 况(3)況(3)]]
+  - [[Page~57 #5: 况(3)況(3)]]
     --
     [[Alternative form of 況. **See $況fong3 for the canonical entry.**]]
     --
@@ -1402,7 +1402,7 @@ F
   ==
 W
   ====
-  - [[Page~57 放(3)]]
+  - [[Page~57 #4: 放(3)]]
     ==
     - To reject, to let off;
     - to let go [[Kangxi: 棄也]], to extend, to liberate, to loose;
@@ -1519,7 +1519,7 @@ F
   ==
 W
   ====
-  - [[Page~57 况(3)況(3)]]
+  - [[Page~57 #5: 况(3)況(3)]]
     ==
     - More, moreover, further [[Kangxi 況: 矧也]];
     - ~~now;~~
@@ -1595,7 +1595,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)貺 _(2)Fong_ (fong2); here normalised to _Fong(3)_ (fong3)]]
+  - [[Page~57 #2: (2)貺 _(2)Fong_ (fong2); here normalised to _Fong(3)_ (fong3)]]
     ==
     - To give, to bestow [[Kangxi: 賜也, 與也]] (said by the recipient);
     - _~~(2)fong~~ ``fong(3)`` ts(')z'(3)_
@@ -1681,7 +1681,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)妨 _(1)Fong_ (fong1); here normalised to _(4)Fong_ (fong4)]]
+  - [[Page~55 #7: (1)妨 _(1)Fong_ (fong1); here normalised to _(4)Fong_ (fong4)]]
     ==
     - An impediment, an obstacle, a hindrance [[Kangxi: 一曰礙也]];
     - to injure [[Kangxi: 害也]];
@@ -1727,7 +1727,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (4)房]]
+  - [[Page~56 #5: (4)房]]
     ==
     - A room, a chamber, a dwelling;
     - an office;
@@ -1821,13 +1821,13 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)坊 _(1)Fong_ (fong1); here corrected to _(4)Fong_ (fong4) and normalised to 防]]
+  - [[Page~55 #8: (1)坊 _(1)Fong_ (fong1); here corrected to _(4)Fong_ (fong4) and normalised to 防]]
     ==
     - [[...]];
     - to guard, to impede;
     - [[...]].
     ==
-  - [[Page~56 (4)防]]
+  - [[Page~56 #6: (4)防]]
     ==
     - A bank, a levee, a dyke [[Kangxi: 隄也]];
     - a defense [[Kangxi: 鄣也, 防禦也]];
@@ -1882,7 +1882,7 @@ F
   ==
 W
   ====
-  - [[Page~56 (4)魴]]
+  - [[Page~56 #7: (4)魴]]
     ==
     - A kind of bream, a foot long, common at Canton;
     - the tail is red [[Kangxi: 赤尾魚]],

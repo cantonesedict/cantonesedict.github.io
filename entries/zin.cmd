@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -93,7 +93,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)儃]]
+  - [[Page~16* #11: (1)儃]]
     ==
     - Manner, air, figure [[Kangxi: 態也]];
     - look;
@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)戔]]
+  - [[Page~573 #2: (1)戔]]
     --
     [[...]]
     --
@@ -196,7 +196,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)旃]]
+  - [[Page~16* #10: (1)旃]]
     ==
     - A silken banner [[Kangxi: 通帛爲旃]];
     - a ``flag with a`` crooked flag-staff [[Kangxi: 旗曲柄也]];
@@ -234,7 +234,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊]]
+  - [[Page~16* #12: (1)毡(1)氊]]
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
@@ -261,7 +261,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊; here normalised to 氈]]
+  - [[Page~16* #12: (1)毡(1)氊; here normalised to 氈]]
     ==
     - Hair or wool worked into a felt [[Kangxi 氈: 撚毛也]];
     - coarse woolens, as blankets, carpets, rugs;
@@ -311,7 +311,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊]]
+  - [[Page~16* #12: (1)毡(1)氊]]
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
@@ -352,7 +352,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)湔]]
+  - [[Page~573 #1: (1)湔]]
     ==
     - To sprinkle with the hand, to bespatter [[Kangxi: 手瀚也灑也傍沾也]];
     - name of a river in Sz'chuen [[四川]] [[Kangxi: 水名]].
@@ -384,7 +384,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 濺(3) _Ts(i/)n(3)_ (zin3); here corrected to _(1)Ts(i/)n_ (zin1)]]
+  - [[Page~574 #3: 濺(3) _Ts(i/)n(3)_ (zin3); here corrected to _(1)Ts(i/)n_ (zin1)]]
     ==
     - A swift current [[Kangxi: 濺濺水疾流貌]];
     - a raceway;
@@ -415,7 +415,7 @@ F
   ==
 W
   ====
-  - [[Page~572 (1)煎]]
+  - [[Page~572 #12: (1)煎]]
     ==
     - To fry, to roast``, to decoct`` in a pan [[Kangxi: 熬也, 火去汁也, 熟煑也, 火乾也, etc.]];
     - to vex, to harass;
@@ -492,7 +492,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17* (1)皽]]
+  - [[Page~17* #1: (1)皽]]
     ==
     - ~~To tear off, as a scab or placard;~~
     - to flay;
@@ -530,7 +530,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)箋]]
+  - [[Page~573 #3: (1)箋]]
     ==
     - Tablets or slips on which to make memoranda [[Kangxi: 表識書也]];
     - a letter, a writing [[Kangxi: 書也]];
@@ -577,7 +577,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (1)籛]]
+  - [[Page~573 #4: (1)籛]]
     ==
     - A man's name,
       called _(1)Ts(i/)n (1)Hang_ [[zin1 hang1 籛鏗]], or Tsien Hing,
@@ -615,7 +615,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)羶]]
+  - [[Page~17* #2: (1)羶]]
     ==
     - The rank oder of goats [[Kangxi: 羊臭也, 羊脂也羊氣也]];
     - frowzy;
@@ -681,7 +681,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)邅]]
+  - [[Page~17* #3: (1)邅]]
     ==
     - Unable to advance [[Kangxi: 迍邅難行不進貌]];
     - _(1)chun (1)ch(i/)n_
@@ -732,7 +732,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)顫]]
+  - [[Page~17* #4: (1)顫]]
     --
     [[Reading variation. **See $顫zin3 for the canonical entry.**]]
     --
@@ -780,7 +780,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)饘]]
+  - [[Page~17* #5: (1)饘]]
     ==
     - Congee or gruel made from rice, thoroughly boiled [[Kangxi: 糜也]];
     - _(1)ch(i/)n chuk(7)_
@@ -814,7 +814,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)鱣]]
+  - [[Page~17* #6: (1)鱣]]
     ==
     - ~~A sea-monster;~~
     - a large sturgeon, or perhaps a grampus [[Kangxi: 大魚似鱏 etc.]];
@@ -853,7 +853,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)鸇]]
+  - [[Page~17* #7: (1)鸇]]
     ==
     - A falcon, goshawk, or kite [[Kangxi: 鷙鳥]];
     - a yellow bird which pursues pigeons [[Kangxi: ::鸇似鷂黃色[...]擊鳩鴿燕雀食之::]];
@@ -907,7 +907,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 ::~~(2)剷~~(2)剗:: _(2)Ch(')(a/)n_ (caan2); here corrected to _(2)Ch(i/)n_ (zin2)]]
+  - [[Page~20|n63 #4: ::~~(2)剷~~(2)剗:: _(2)Ch(')(a/)n_ (caan2); here corrected to _(2)Ch(i/)n_ (zin2)]]
     --
     [[...]]
     --
@@ -941,7 +941,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)翦(2)剪]]
+  - [[Page~573 #6: (2)翦(2)剪]]
     ==
     - [[...]];
     - to cut off smooth, to clip even [[Kangxi 翦: 翦齊也]];
@@ -1006,7 +1006,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)展]]
+  - [[Page~17* #8: (2)展]]
     ==
     - To open out, to unroll [[Kangxi: 開也]]~~, and inspect~~;
     - to exhibit [[Kangxi: ::展陳也::]], to disentangle;
@@ -1071,7 +1071,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)戩]]
+  - [[Page~573 #8: (2)戩]]
     ==
     - [[...]];
     - to finish, to exhaust;
@@ -1113,7 +1113,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~17* (1)皽 _(1)Ch(i/)n_ (zin1); here corrected to _(2)Ch(i/)n_ (zin2)]]
+  - [[Page~17* #1: (1)皽 _(1)Ch(i/)n_ (zin1); here corrected to _(2)Ch(i/)n_ (zin2)]]
     ==
     - [[...]];
     - thin scurf skin, a scab [[Kangxi: 離也, 皮寬也, 皮肉之上魄膜也]];
@@ -1146,7 +1146,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)碾]]
+  - [[Page~17* #9: (2)碾]]
     --
     [[Reading variation. **See $碾nin5 for the canonical entry.**]] [[TODO]]
     --
@@ -1177,7 +1177,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)翦(2)剪]]
+  - [[Page~573 #6: (2)翦(2)剪]]
     ==
     - Even, regular, as feathers grow [[Kangxi 翦: 羽生也]];
     - to cut off smooth, to clip even [[Kangxi 翦: 翦齊也, 齊斷也]];
@@ -1196,7 +1196,7 @@ W
     --
     [[Alternative form of 剪. See $剪zin2.]]
     --
-  - [[Page~573 (2)戩; here normalised to 翦]]
+  - [[Page~573 #8: (2)戩; here normalised to 翦]]
     ==
     - To destroy, to kill, to exterminate [[Kangxi 戩: 與翦通, 滅也]];
     - [[...]];
@@ -1251,7 +1251,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)諓]]
+  - [[Page~573 #5: (2)諓]]
     ==
     - To flatter [[Kangxi: 諂也]];
     - pleasant, kind words [[Kangxi: 善言也]];
@@ -1288,7 +1288,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)謭]]
+  - [[Page~573 #7: (2)謭]]
     --
     [[Alternative form of 譾. **See $譾zin2 for the canonical entry.**]]
     --
@@ -1313,7 +1313,7 @@ F
   ==
 W
   ====
-  - [[Page~573 (2)謭; here normalised to 譾]]
+  - [[Page~573 #7: (2)謭; here normalised to 譾]]
     ==
     - Shallow-pated, superficial, not profound;
     - unskilled, shallow, not deep [[Kangxi 譾: 淺也]];
@@ -1349,7 +1349,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)輾]]
+  - [[Page~17* #10: (2)輾]]
     ==
     - To roll over half way [[Kangxi: 輾者轉之半也]];
     - to turn over [[Kangxi: 轉也]];
@@ -1431,7 +1431,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (2)闡]]
+  - [[Page~17* #11: (2)闡]]
     ==
     - To open, to spread out, to enlarge from the original condition [[Kangxi: 開也]];
     - manifest, clear, plain [[Kangxi: 顯也, 明也]];
@@ -1522,7 +1522,7 @@ F
   ==
 W
   ====
-  - [[Page~17* 戰(3)]]
+  - [[Page~17* #12: 戰(3)]]
     ==
     - To fight [[Kangxi: 鬭也]];
     - ~~to be alarmed,~~ struck with dread [[Kangxi: 懼也]];
@@ -1597,7 +1597,7 @@ F
   ==
 W
   ====
-  - [[Page~573 洊(3)]]
+  - [[Page~573 #12: 洊(3)]]
     ==
     - ~~Water flowing on;~~
     - a stream bursting forth again;
@@ -1655,7 +1655,7 @@ F
   ==
 W
   ====
-  - [[Page~574 濺(3)]]
+  - [[Page~574 #3: 濺(3)]]
     ==
     - [[...]];
     - to spatter up, to dash against;
@@ -1695,7 +1695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 (1)煎]]
+  - [[Page~572 #12: (1)煎]]
     --
     [[...]]
     --
@@ -1745,7 +1745,7 @@ F
   ==
 W
   ====
-  - [[Page~574 牮(3)]]
+  - [[Page~574 #1: 牮(3)]]
     ==
     - A prop to shore up a leaning house [[Kangxi: 屋斜用牮]];
     - a sluice or weir of earth or stone to lead water [[Kangxi: 以土石遮水亦曰牮]].
@@ -1770,7 +1770,7 @@ F
   ==
 W
   ====
-  - [[Page~573 箭(3)]]
+  - [[Page~573 #9: 箭(3)]]
     ==
     - An arrow [[Kangxi: 矢也]];
     - an archer;
@@ -1860,7 +1860,7 @@ F
   ==
 W
   ====
-  - [[Page~573 荐(3)]]
+  - [[Page~573 #11: 荐(3)]]
     ==
     - [[...]];
     - also to continue;
@@ -1911,7 +1911,7 @@ F
   ==
 W
   ====
-  - [[Page~519 墊(6) _T(i/)n(6)_ (din6); here normalised to 薦 _Ts(i/)n(3)_ (zin3)]]
+  - [[Page~519 #11: 墊(6) _T(i/)n(6)_ (din6); here normalised to 薦 _Ts(i/)n(3)_ (zin3)]]
     ==
     - To lay down, to place on;
     - [[...]];
@@ -1931,7 +1931,7 @@ W
         a mattress;
     - [[...]].
     ==
-  - [[Page~573 薦(3)]]
+  - [[Page~573 #10: 薦(3)]]
     ==
     - Grass eaten by animals [[Kangxi: 獸之所食草也]];
     - pasturage;
@@ -1969,7 +1969,7 @@ W
     --
     [[Otherwise, an alternative form of 荐. **See $荐zin3 for the canonical entry.**]]
     --
-  - [[Page~573 荐(3)]]
+  - [[Page~573 #11: 荐(3)]]
     ==
     - Interchanged with the last [[薦]];
     - [[...]].
@@ -2055,7 +2055,7 @@ F
   ==
 W
   ====
-  - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
+  - [[Page~17* #4: (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
     ==
     - ~~The head awry [[Kangxi: 頭不正也]];~~
     - shivering with cold;
@@ -2115,7 +2115,7 @@ F
   ==
 W
   ====
-  - [[Page~574 餞(3)]]
+  - [[Page~574 #2: 餞(3)]]
     ==
     - To present food to one, to give a farewell dinner to [[Kangxi: 送去也, 酒食送也]];
     - ~~to send food to;~~
@@ -2178,7 +2178,7 @@ F
   ==
 W
   ====
-  - [[Page~574 賤(6)]]
+  - [[Page~574 #4: 賤(6)]]
     ==
     - Worthless, vile, mean, low, ignoble, base [[Kangxi: ::[卑]下也不貴也::]];
     - cheap, low-priced [[Kangxi: 賈少也]];
@@ -2249,7 +2249,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 踐(6)]]
+  - [[Page~574 #5: 踐(6)]]
     --
     [[Reading variation. **See $踐cin5 for the canonical entry.**]]
     --

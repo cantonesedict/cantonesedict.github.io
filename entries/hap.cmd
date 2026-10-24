@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hap
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
-  - [[Page~74 恰(7)]]
+  - [[Page~74 #7: 恰(7)]]
     ==
     - To apply the mind to;
     - seasonably, fortunately, in good time, to the purpose, fitly;
@@ -58,7 +58,7 @@ $$
 $$
 W
   ====
-  - [[Page~4 洽(7) read _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
+  - [[Page~4 #11: 洽(7) read _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
     --
     Read _~~h(a/)p(9)~~ ``hap(7)``_ [[hap1]].
     --
@@ -73,7 +73,7 @@ W
     --
     [[...]]
     --
-  - [[Page~716 洽(9) _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
+  - [[Page~716 #8: 洽(9) _H(a/)p(9)_ (haap6); here normalised to _Hap(7)_ (hap1)]]
     --
     [[...]]
     --
@@ -97,7 +97,7 @@ $$
 $$
 W
   ====
-  - [[Page~74 哈(7); here corrected to 瞌]]
+  - [[Page~74 #8: 哈(7); here corrected to 瞌]]
     ==
     - ~~A colloquial word, for which this character [[哈]] is sometimes used, meaning~~
       to nod, sleepy;

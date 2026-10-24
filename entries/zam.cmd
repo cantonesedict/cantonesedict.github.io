@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-10-07
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,7 +71,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)斟]]
+  - [[Page~14|n57 #9: (1)斟]]
     ==
     - To pour from or into [[Kangxi: 斟益也, 言斟酌而益之]];
     - to lade out, to lighten;
@@ -127,7 +127,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 (1)椹]]
+  - [[Page~14|n57 #10: (1)椹]]
     <##
     --
     TODO: Used for _sham``(6)``_ [[sam6]] 葚, the mulberry seed.
@@ -176,7 +176,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)砧(1)碪]]
+  - [[Page~14|n57 #8: (1)砧(1)碪]]
     ==
     - A stone to beat clothes on [[Kangxi 砧: 擣衣石也]];
     - an anvil [[Kangxi 椹: 鐵椹斫木櫍也]];
@@ -220,7 +220,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)砧(1)碪]]
+  - [[Page~14|n57 #8: (1)砧(1)碪]]
     --
     [[Alternative form of 砧. **See $砧zam1 for the canonical entry.**]]
     --
@@ -253,7 +253,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
+  - [[Page~552 #3: (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
     ==
     - To influence, to act upon;
     - a malign halo [[Kangxi: 妖氛也]];
@@ -285,7 +285,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)箴]]
+  - [[Page~14|n57 #7: (1)箴]]
     --
     [[...]]
     --
@@ -338,7 +338,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)針(1)鍼]]
+  - [[Page~14|n57 #6: (1)針(1)鍼]]
     ==
     - A needle [[Kangxi 鍼: 所以縫布帛之錐也, 或作箴亦作針]];
     - a cauterizing probe;
@@ -367,7 +367,7 @@ W
         [[man1 zam1 蚊針]],
         a musquito's sting.
     ==
-  - [[Page~14|n57 (1)箴]]
+  - [[Page~14|n57 #7: (1)箴]]
     --
     Used for the last [[針]].
     --
@@ -399,7 +399,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (1)針(1)鍼]]
+  - [[Page~14|n57 #6: (1)針(1)鍼]]
     --
     [[Alternative form of 針. **See $針zam1 for the canonical entry.**]]
     --
@@ -431,7 +431,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2)怎 _(2)Cham_]]
+  - [[Page~15|n58 #1: (2)怎 _(2)Cham_]]
     ==
     - An interrogative word;
     - what, how?
@@ -448,7 +448,7 @@ W
         [[zam2 gam2 bat1 dai1 tau4 怎敢不低頭]],
         how could I decline assent?
     ==
-  - [[Page~551 (2)怎 _(2)Tsam_]]
+  - [[Page~551 #4: (2)怎 _(2)Tsam_]]
     ==
     - What?
     - _(2)tsam (1)mo_
@@ -478,7 +478,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 (2)枕]]
+  - [[Page~14|n57 #11: (2)枕]]
     ==
     - A pillow [[Kangxi: 臥薦首者]];
     - ~~a stake;~~
@@ -576,7 +576,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 僭(3) _Ts(')(i/)m(3)_ (cim3); here corrected to _Cham(3)_ (zam3)]]
+  - [[Page~572 #8: 僭(3) _Ts(')(i/)m(3)_ (cim3); here corrected to _Cham(3)_ (zam3)]]
     ==
     - [[...]];
     - dubious, false [[Kangxi: 僭始不信之端也 etc.]];
@@ -603,7 +603,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); _Cham(3)_ (zam3) optional, here enforced]]
+  - [[Page~14|n57 #11: (2)枕 _(2)Cham_ (zam2); _Cham(3)_ (zam3) optional, here enforced]]
     ==
     - [[...]];
     - to pillow on, to lie near to;
@@ -651,7 +651,7 @@ F
   ==
 W
   ==
-  - [[Page~551 沁(3)]]
+  - [[Page~551 #6: 沁(3)]]
     --
     [[Reading variation. **See $沁sam3 for the canonical entry.**]] [[TODO]]
     --
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 浸(3) _Cham(3)_]]
+  - [[Page~15|n58 #2: 浸(3) _Cham(3)_]]
     --
     A colloquial word.
     --
@@ -700,14 +700,14 @@ W
         [[mok1 jat1 zam3 pei4 剝一浸皮]],
         pull off one covering.
     ==
-  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3) and normalised to 浸]]
+  - [[Page~16|n59 #1: 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3) and normalised to 浸]]
     ==
     - [[...]];
     - to soak, to immerse, to imbibe, as a sponge [[Kangxi 湛: 與浸同漬也]];
     - to plunge in [[Kangxi 湛: 投物水中也]];
     - [[...]].
     ==
-  - [[Page~551 浸(3) _Tsam(3)_]]
+  - [[Page~551 #5: 浸(3) _Tsam(3)_]]
     ==
     - To soak through, to penetrate [[Kangxi: 漬也]];
     - to saturate, to steep in, to macerate, to wet [[Kangxi: 潤也]];
@@ -839,7 +839,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
+  - [[Page~15|n58 #7: 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
     ==
     - To slander, to vilify [[Kangxi: 愬也, 䛼也, 讒也]];
     - to discredit;
@@ -896,7 +896,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~15|n58 朕(6); here normalised to {𠹻=⿰口朕}]]
+  - [[Page~15|n58 #3: 朕(6); here normalised to {𠹻=⿰口朕}]]
     --
     A colloquial word.
     --
@@ -938,7 +938,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 朕(6)]]
+  - [[Page~15|n58 #3: 朕(6)]]
     ==
     - Anciently used for I [[Kangxi: 我也, 古者貴賤皆自稱朕]];
     - now the royal We, Ourself [[Kangxi: ::秦始皇[...]定爲至尊之稱:: etc.]];

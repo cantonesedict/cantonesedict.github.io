@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,7 +89,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (4)倀 _(4)Ch(')(a/)ng_ (caang4); here corrected to _(1)Ch(')(e/)ung_ (coeng1)]]
+  - [[Page~21|n64 #7: (4)倀 _(4)Ch(')(a/)ng_ (caang4); here corrected to _(1)Ch(')(e/)ung_ (coeng1)]]
     ==
     - Groping, going blindly [[Kangxi: 狂行不知所如也 etc.]];
     - madly [[Kangxi: 狂也]], carelessly;
@@ -125,7 +125,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡]]
+  - [[Page~36|n79 #2: (1)倡]]
     --
     [[Reading variation. **See $倡coeng3 for the canonical entry.**]]
     --
@@ -159,13 +159,13 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡]]
+  - [[Page~36|n79 #2: (1)倡]]
     ==
     - [[...]];
     - used for the [[...]] next [[娼]] [[Kangxi 倡: 別作娼]];
     - [[...]].
     ==
-  - [[Page~36|n79 (1)娼]]
+  - [[Page~36|n79 #3: (1)娼]]
     ==
     - A singing woman [[Kangxi 倡: ::倡優女樂[...]別作娼::]];
     - a courtesan;
@@ -246,7 +246,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::]]
+  - [[Page~36|n79 #7: ::(1)~~帽~~``{𢃑=⿰巾昌}``::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
@@ -276,7 +276,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)搶]]
+  - [[Page~567 #2: (1)搶]]
     ==
     - To defend, to withstand [[Kangxi: 拒也]];
     - to thrust at [[Kangxi: 搶猶刺也]];
@@ -286,7 +286,7 @@ W
         [[ji5 tau4 coeng1 dei6 以頭搶地]]
         to knock the head against the ground.
     ==
-  - [[Page~567 (1)槍; here normalised to 搶]]
+  - [[Page~567 #7: (1)槍; here normalised to 搶]]
     ==
     - [[...]];
     - to ~~bow~~ ``knock`` the head low [[Kangxi 槍: 抵也]];
@@ -320,7 +320,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)斨]]
+  - [[Page~567 #8: (1)斨]]
     ==
     - A sort of broad-ax [[Kangxi: 斨卽斧也]];
     - a ~~pole-ax made square, a bill~~ ``square-eyed axe`` [[Kangxi: 方銎斧也]];
@@ -356,7 +356,7 @@ F
   ==
 W
   ====
-  - [[Page~35|n78 (1)昌]]
+  - [[Page~35|n78 #8: (1)昌]]
     ==
     - Light of the sun [[Kangxi: 一曰日光也]];
     - fine words [[Kangxi: 美言也]];
@@ -414,7 +414,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)槍]]
+  - [[Page~567 #7: (1)槍]]
     ==
     - Interchanged with the last [[鎗]];
     - a spear, sharp at both ends [[Kangxi: 木兩頭銳也]];
@@ -462,7 +462,7 @@ F
   ====
 W
   ====
-  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+  - [[Page~36|n79 #6: (1)窓(1)窗(1)牕]]
     --
     [[Alternative form of 窗. **See $窗coeng1 for the canonical entry.**]]
     --
@@ -486,14 +486,14 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)猖]]
+  - [[Page~36|n79 #1: (1)猖]]
     ==
     -  ~~A herd of animals fleeing;~~
     -  _(1)ch(')(e/)ung (4)kw(')ong_
         [[coeng1 kwong4 猖狂]],
         ungovernable, unrestrained [[Kangxi: 猖狂]].
     ==
-  - [[Page~36|n79 (1)倡]]
+  - [[Page~36|n79 #2: (1)倡]]
     ==
     - [[...]];
     - used for the last [[猖]] [[Kangxi 倡: 亦作猖]] [[...]];
@@ -521,7 +521,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~593 (1)瑲 _(1)Ts(')ong_ (cong1); here corrected to _(1)Ts(')(e/)ung_ (coeng1)]]
+  - [[Page~593 #10: (1)瑲 _(1)Ts(')ong_ (cong1); here corrected to _(1)Ts(')(e/)ung_ (coeng1)]]
     ==
     - [[...]];
     - a musical sound [[Kangxi: 玉聲也, 一曰樂聲]];
@@ -557,7 +557,7 @@ F
   ====
 W
   ====
-  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+  - [[Page~36|n79 #6: (1)窓(1)窗(1)牕]]
     --
     [[Alternative form of 窗. **See $窗coeng1 for the canonical entry.**]]
     --
@@ -592,7 +592,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+  - [[Page~36|n79 #6: (1)窓(1)窗(1)牕]]
     ==
     - A window, an aperture to admit light [[Kangxi 窗: 助戸爲明]];
     - a sash;
@@ -678,7 +678,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)菖]]
+  - [[Page~36|n79 #4: (1)菖]]
     ==
     - The flag _(Acorus)_ [[Kangxi: 菖蒲蒲類之昌盛者]]_;_
     - _(1)ch(')(e/)ung (4)p(')(o\)_
@@ -705,7 +705,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::; here normalised to 裮]]
+  - [[Page~36|n79 #7: ::(1)~~帽~~``{𢃑=⿰巾昌}``::; here normalised to 裮]]
     ==
     - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
@@ -736,13 +736,13 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)蹌]]
+  - [[Page~567 #3: (1)蹌]]
     ==
     - To walk rapidly [[Kangxi: 恐動趨步, 蹌巧趨貌]];
     - to move ~~towards a superior quickly~~ ``dignifiedly`` [[Kangxi: 士大夫之威儀也]];
     - to gambol, to skip about [[Kangxi: 舞貌]].
     ==
-  - [[Page~567 (1)蹡]]
+  - [[Page~567 #4: (1)蹡]]
     ==
     - Similar to the preceding [[蹌]];
     - [[...]].
@@ -775,7 +775,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)蹡]]
+  - [[Page~567 #4: (1)蹡]]
     --
     [[Alternative form of 蹌. **See $蹌coeng1 for the canonical entry.**]]
     --
@@ -804,7 +804,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)鎗]]
+  - [[Page~567 #6: (1)鎗]]
     ==
     - [[...]];
     - a gun;
@@ -857,7 +857,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)鏘]]
+  - [[Page~567 #5: (1)鏘]]
     ==
     - The sound of stones, bells and drums [[Kangxi: 玉聲也一曰樂聲]];
     - a noise [[Kangxi: 鏘聲也]];
@@ -866,7 +866,7 @@ W
         [[hang1 coeng1 鏗鏘]],
         the ring of metallic things.
     ==
-  - [[Page~567 (1)鎗]]
+  - [[Page~567 #6: (1)鎗]]
     ==
     - Interchanged with the last [[鏘]];
     - [[...]].
@@ -898,7 +898,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)閶]]
+  - [[Page~36|n79 #5: (1)閶]]
     ==
     - The door of heaven [[Kangxi: 天門也]];
     - a gate of S(u/)chau [[蘇州]];
@@ -1008,7 +1008,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (2)搶]]
+  - [[Page~568 #7: (2)搶]]
     ==
     - To take, to extort, to force away, to ravish, to snatch [[Kangxi: 爭取也]];
     - to dispute for, to struggle for;
@@ -1087,7 +1087,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
+  - [[Page~36|n79 #2: (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
     ==
     - To lead, to go before [[Kangxi: 倡發歌句也]], to seduce or induce;
     - a leader;
@@ -1136,7 +1136,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 唱(3)]]
+  - [[Page~37|n80 #4: 唱(3)]]
     ==
     - To sing in recitative [[Kangxi: 發歌也]];
     - to cry out, to give the word;
@@ -1209,7 +1209,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29* (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
+  - [[Page~29* #3: (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
     --
     [[Alternative form of 暢. **See $暢coeng3 for the canonical entry.**]]
     --
@@ -1243,7 +1243,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 暢(3)]]
+  - [[Page~37|n80 #5: 暢(3)]]
     ==
     - ~~The inner qualities developing;~~
     - penetrating, thorough, spreading [[Kangxi: 通暢又達也]];
@@ -1265,7 +1265,7 @@ W
         [[coeng3 mau6 暢茂]]
         flourishing.
     ==
-  - [[Page~29* (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
+  - [[Page~29* #3: (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
     --
     Interchanged with 暢 [[Kangxi 昶: 昶與暢同]].
     --
@@ -1342,7 +1342,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)蹡 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _Ts(')(e/)ung(3)_ (coeng3)]]
+  - [[Page~567 #4: (1)蹡 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _Ts(')(e/)ung(3)_ (coeng3)]]
     ==
     - [[...]];
     - to move irregularly, to go across, to walk awry [[Kangxi: 同蹌行不正貌]].
@@ -1371,7 +1371,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 韔(3)]]
+  - [[Page~37|n80 #3: 韔(3)]]
     ==
     - A bow case [[Kangxi: 弓衣也]];
     - to put a bow into its case [[Kangxi: 韔韜也]].
@@ -1399,7 +1399,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 鬯(3)]]
+  - [[Page~37|n80 #6: 鬯(3)]]
     ==
     - Sacrificial spirits, made by infusing millet and fragrant herbs [[Kangxi: ::以秬釀{𩰪=⿳⿴𦥑缶冖⿰鬯彡}艸芬芳[條暢]以降神也::, 鬯香酒奉宗廟之盛也]];
     - mixed wine;
@@ -1476,7 +1476,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 (4)塲; here normalised to 場]]
+  - [[Page~37|n80 #1: (4)塲; here normalised to 場]]
     ==
     - An arena [[Kangxi 場: 戰爭之地曰戰場]], an area, a lot, a field [[Kangxi 場: 收禾圃曰場]];
     - an altar, a sacrificial ground [[Kangxi 場: 祭神道也]];
@@ -1564,7 +1564,7 @@ F
   ==
 W
   ====
-  - [[Page~37|n80 (4)塲]]
+  - [[Page~37|n80 #1: (4)塲]]
     --
     [[Alternative form of 場. **See $場coeng4 for the canonical entry.**]]
     --
@@ -1585,7 +1585,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)牆(4)墻]]
+  - [[Page~568 #3: (4)牆(4)墻]]
     --
     [[Alternative form of 牆. **See $牆coeng4 for the canonical entry.**]]
     --
@@ -1609,7 +1609,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)嬙]]
+  - [[Page~568 #4: (4)嬙]]
     ==
     - Female officers in the imperial hareem [[Kangxi: 嬪嬙婦官名]];
     - _pan(3) (4)ts(')(e/)ung_
@@ -1632,7 +1632,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (4)庠]]
+  - [[Page~567 #9: (4)庠]]
     ==
     - An asylum for aged people in ancient times [[Kangxi: 禮官養老處也]],
       a village school, a college, a gymnasium, an academy [[Kangxi: 上庠右學大學也下庠左學小學也]];
@@ -1670,7 +1670,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)戕]]
+  - [[Page~568 #2: (4)戕]]
     ==
     - ~~A spear, a wooden lance;~~
     - [[...]];
@@ -1722,7 +1722,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)檣]]
+  - [[Page~568 #5: (4)檣]]
     ==
     - A mast, any spar or mast which sustains the sails [[Kangxi: 船檣帆柱也]];
     - _(4)f(a/)n (4)ts(')(e/)ung_
@@ -1752,7 +1752,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)牆(4)墻]]
+  - [[Page~568 #3: (4)牆(4)墻]]
     ==
     - A wall made of stone, brick, or mud [[Kangxi 牆: 垣蔽也, 牆謂之墉]];
     - a defense or wall [[Kangxi 牆: 牆所以防非常]];
@@ -1812,7 +1812,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (4)祥]]
+  - [[Page~567 #10: (4)祥]]
     ==
     - Happiness, felicity, fortune [[Kangxi: 福也]], goodness [[Kangxi: 一云善也]];
     - an omen, a sign, a prognostic [[Kangxi: 凡吉凶之兆皆曰祥, 祥詳也, 祥者善惡之徵]];
@@ -1886,7 +1886,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)翔]]
+  - [[Page~568 #1: (4)翔]]
     ==
     - To soar, to hover over [[Kangxi: 回飛也]];
     - to look back [[Kangxi: 翔廻顧也]];
@@ -1927,7 +1927,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (4)腸]]
+  - [[Page~36|n79 #10: (4)腸]]
     ==
     - The bowels [[Kangxi: 大小腸藏府之二名也]];
     - the intestines;
@@ -2015,7 +2015,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (4)萇]]
+  - [[Page~36|n79 #9: (4)萇]]
     ==
     - A sort of fruit, the carambola _(Averrhoa)_ [[Kangxi: 萇楚, 今羊桃也]],
       also called the _(4)y(e/)ung (4)t(')(o\)_ [[joeng4 tou4 羊桃]],
@@ -2052,7 +2052,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)薔]]
+  - [[Page~568 #6: (4)薔]]
     ==
     - A rose;
     - _(4)ts(')(e/)ung (4)m(i/) (1)f(a/)_
@@ -2087,7 +2087,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (4)詳]]
+  - [[Page~567 #11: (4)詳]]
     ==
     - To examine carefully, to learn and report upon, to inquire fully into [[Kangxi: 審議也]];
     - to discourse upon [[Kangxi: 論也]], to reason upon [[Kangxi: 諟也]];
@@ -2154,7 +2154,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (4)長]]
+  - [[Page~36|n79 #8: (4)長]]
     ==
     - Long in time [[Kangxi: 久也]] or distance [[Kangxi: 短之對也]], far off [[Kangxi: 遠也]];
     - constantly, regularly [[Kangxi: 常也]];

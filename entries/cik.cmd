@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,7 +80,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 勅(7)敕(7)]]
+  - [[Page~14* #9: 勅(7)敕(7)]]
     --
     [[Alternative form of 敕. **See $敕cik1 for the canonical entry.**]]
     --
@@ -108,7 +108,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 叱(7)]]
+  - [[Page~15* #1: 叱(7)]]
     ==
     - To scold [[Kangxi {𠮟=⿰口七}: 訶也]], to cry out to;
     - to hoot at;
@@ -140,13 +140,17 @@ R
   ⼼ + 11
 U
   U+617C
+H
+  May appear as either ⿱戚心 or ⿵戚心 (assumed here),
+  depending on the font.
+  This extends to all characters containing 慼 as a component.
 F
   ==
   - (F1.75 慼) 憂也
   ==
 W
   ====
-  - [[Page~571 慼(7)]]
+  - [[Page~571 #1: 慼(7)]]
     ==
     - Grief, sorrow [[Kangxi: 憂也]];
     - to be afflicted, to be sad;
@@ -176,7 +180,7 @@ F
   ==
 W
   ====
-  - [[Page~570 戚(7)]]
+  - [[Page~570 #9: 戚(7)]]
     ==
     - A sort of pole-ax [[Kangxi: 戉類, 戚斧也]];
     - to compassionate, to pity;
@@ -201,7 +205,7 @@ W
     --
     [[Otherwise, an alternative form of {𥄎=⿱目攴} (Cantonese). **See ${𥄎=⿱目攴}cik1 for the canonical entry.**]]
     --
-  - [[Page~571 慼(7)]]
+  - [[Page~571 #1: 慼(7)]]
     --
     [[...]]
     --
@@ -289,7 +293,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 勅(7)敕(7)]]
+  - [[Page~14* #9: 勅(7)敕(7)]]
     ==
     - An order, a prohibition or command from the emperor;
     - an ordinance, a special precept [[Kangxi 敕: ::[誡]也::]];
@@ -317,7 +321,7 @@ W
     --
     [[Otherwise, an alternative form of 飭. **See $飭cik1 for the canonical entry.**]]
     --
-  - [[Page~439 飭(7) _Shik(7)_ (sik1); here normalised to 敕 _Ch(')ik(7)_ (cik1)]]
+  - [[Page~439 #3: 飭(7) _Shik(7)_ (sik1); here normalised to 敕 _Ch(')ik(7)_ (cik1)]]
     --
     [[...]]
     --
@@ -373,7 +377,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 斥(7)]]
+  - [[Page~14* #10: 斥(7)]]
     ==
     - To exclude, to expel, to send off, to drive off [[Kangxi: 逐也遠也]];
     - to scold;
@@ -480,7 +484,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 螫(7)]]
+  - [[Page~15* #2: 螫(7)]]
     --
     [[Reading variation. **See $螫sik1 for the canonical entry.**]] [[TODO]]
     --
@@ -504,7 +508,7 @@ F
   ==
 W
   ====
-  - [[Page~571 鏚(7)]]
+  - [[Page~571 #2: 鏚(7)]]
     ==
     - A sort of pole-ax, a bill [[Kangxi: 干鏚斧鉞也, 鏚斧也]];
     - an ornamental kind of ax carried in processions.
@@ -546,7 +550,7 @@ F
   ==
 W
   ====
-  - [[Page~439 飭(7) _Shik(7)_ (sik1); here normalised to _Ch(')ik(7)_ (cik1)]]
+  - [[Page~439 #3: 飭(7) _Shik(7)_ (sik1); here normalised to _Ch(')ik(7)_ (cik1)]]
     --
     [[...]]
     --
@@ -602,7 +606,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 鷘(7); here normalised to 鶒]]
+  - [[Page~15* #3: 鷘(7); here normalised to 鶒]]
     ==
     - A bird with a crest which frequents brooks;
     - a gay colored water-bird [[Kangxi 鶒: 鸂鶒水鳥也]];
@@ -628,7 +632,7 @@ F
   ==
 W
   ====
-  - [[Page~15* 鷘(7)]]
+  - [[Page~15* #3: 鷘(7)]]
     --
     [[Alternative form of 鶒. **See $鶒cik1 for the canonical entry.**]]
     --
@@ -663,7 +667,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 刺(8)]]
+  - [[Page~571 #3: 刺(8)]]
     ==
     - To bore through [[Kangxi: 穿也傷也]];
     - to stab;
@@ -677,7 +681,7 @@ W
     --
     [[Reading variation (for the "stab" senses). See $刺ci3.]]
     --
-  - [[Page~617 刺(3) _Ts(')z'(3)_ (ci3); here corrected to _Ts(')ik(8)_ (cik3)]]
+  - [[Page~617 #5: 刺(3) _Ts(')z'(3)_ (ci3); here corrected to _Ts(')ik(8)_ (cik3)]]
     ==
     - [[...]];
     - to pole, as a boat [[Kangxi: 撐也]];
@@ -706,7 +710,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 {𤷫=⿸疒刺}(8)]]
+  - [[Page~571 #4: {𤷫=⿸疒刺}(8)]]
     --
     [[Reading variation. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
     --
@@ -739,7 +743,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 赤(8)]]
+  - [[Page~14* #8: 赤(8)]]
     ==
     - Carnation, purplish or light red [[Kangxi: 朱色也]];
     - flesh color [[Kangxi: ::[...]肉色也::]];

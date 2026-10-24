@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> he
-* %date-modified --> 2026-09-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -62,7 +62,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~78 ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏]]
+  - [[Page~78 #5: ^_(1)H(e/)_ (he1) exemplified; here assigned to 唏]]
     --
     [[Reading variation (by strict analogy with Williams). **See $唏hei1 for the canonical entry.**]]
     --

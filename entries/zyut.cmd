@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2026-08-13
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~42 剟(8)]]
+  - [[Page~42 #5: 剟(8)]]
     ==
     - To clip, to pare [[Kangxi: 刊也]], to cut off [[Kangxi: 割也 etc.]], to stab [[Kangxi: 刺也]];
     - ~~to reject;~~
@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~609 啐(8)]]
+  - [[Page~609 #7: 啐(8)]]
     ==
     - [[...]];
     - [[...]], the noise of sucking [[Kangxi: 吮聲]]~~, or swallowing with a gusto~~;
@@ -177,7 +177,7 @@ F
   ==
 W
   ====
-  - [[Page~42 ::啜(8)~~歠(8)~~::]]
+  - [[Page~42 #4: ::啜(8)~~歠(8)~~::]]
     ==
     - To sob [[Kangxi 啜: 泣貌]], to talk incessantly [[Kangxi 啜: 言多不止]];
     - to taste [[Kangxi 啜: 嘗也, 啜茹也, 啜者拾食]], [[...]];
@@ -193,7 +193,7 @@ W
     --
     [[Otherwise, an alternative form of 歠. **See $歠zyut3 for the canonical entry.**]]
     --
-  - [[Page~609 啐(8) _Ts(u:)t(8)_; here normalised to 啜]]
+  - [[Page~609 #7: 啐(8) _Ts(u:)t(8)_; here normalised to 啜]]
     ==
     - [[...]];
     - to suck, [[...]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~42 拙(8)]]
+  - [[Page~42 #2: 拙(8)]]
     ==
     - Stupid, unskillful, unhandy, unapt [[Kangxi: 不巧也]];
     - _(2)ch(')un ch(u:)t(8)_
@@ -341,7 +341,7 @@ F
   ==
 W
   ====
-  - [[Page~42 掇(8)]]
+  - [[Page~42 #6: 掇(8)]]
     ==
     - To gather, to take with the hand [[Kangxi: 拾取也]], to pluck [[Kangxi: 採也]], to seize.
     ==
@@ -376,7 +376,7 @@ F
   ==
 W
   ====
-  - [[Page~42 梲(8)]]
+  - [[Page~42 #3: 梲(8)]]
     ==
     - A joist to support a plate or girder [[Kangxi: 同棳梁上楹也, 梲侏儒柱也梁上短柱]];
     - a sort of king-post.
@@ -421,7 +421,7 @@ F
   ==
 W
   ====
-  - [[Page~42 啜(8)歠(8)]]
+  - [[Page~42 #4: 啜(8)歠(8)]]
     ==
     - [[...]];
     - [[...]], to drink [[Kangxi 歠: 飮也]];
@@ -473,7 +473,7 @@ F
   ==
 W
   ====
-  - [[Page~41 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+  - [[Page~41 #12: 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - Crimson [[Kangxi: 絳也]] silk;
     - to sew [[Kangxi: 紩也]];
@@ -484,7 +484,7 @@ W
         unequal;
     - [[...]].
     ==
-  - [[Page~713 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+  - [[Page~713 #4: 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - This word also means ~~obstructed,~~ bent;
     - withdrawn~~, as money from circulation~~;
@@ -528,7 +528,7 @@ F
   ==
 W
   ====
-  - [[Page~42 綴(8)]]
+  - [[Page~42 #7: 綴(8)]]
     ==
     - [[...]];
     - to stop [[Kangxi: 綴猶止也]];
@@ -570,7 +570,7 @@ F
   ==
 W
   ====
-  - [[Page~24|n67 茁(8) _Ch(a/)t(8)_ (zaat3); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+  - [[Page~24|n67 #10: 茁(8) _Ch(a/)t(8)_ (zaat3); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - Grass or plants starting out of the ground [[Kangxi: 草初生貌]];
     - fat, hearty, vigorous [[Fan Wan: 肥壯貌]],
@@ -617,7 +617,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
+  - [[Page~610 #2: ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
     ==
     - A bundle or sheaf of coarse sedge
       used for straining or pouring spirits through [[Kangxi 蕝: ::蕝謂束茅而立之所以[縮]酒::, 通蕞]].
@@ -690,7 +690,7 @@ F
   ==
 W
   ====
-  - [[Page~42 輟(8)]]
+  - [[Page~42 #8: 輟(8)]]
     ==
     - To stop [[Kangxi: 已也, 止也, 歇也]];
     - a carriage repaired [[Kangxi: 車小缺復合者]];
@@ -760,7 +760,7 @@ F
   ==
 W
   ====
-  - [[Page~609 絕(9)]]
+  - [[Page~609 #8: 絕(9)]]
     ==
     - To interrupt a connection with, to cut off a thread [[Kangxi: 斷絲]];
     - to interrupt;

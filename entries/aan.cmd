@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~4 晏(3)]]
+  - [[Page~4 #2: 晏(3)]]
     ==
     - Evening, sunset;
     - a serene, clear, sky [[Kangxi: 天淸也]];
@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~4 鷃(3)]]
+  - [[Page~4 #3: 鷃(3)]]
     ==
     - A kind of small [[Kangxi: 小雀也]] partridge,
       which breeds on the ground [[Kangxi: 鷃不木處]],

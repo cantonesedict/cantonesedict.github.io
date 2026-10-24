@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-09-05
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -106,7 +106,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)占]]
+  - [[Page~15* #5: (1)占]]
     ==
     - To divine, to cast lots;
     - divination, casting lots [[Kangxi: 視兆問也]];
@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)尖]]
+  - [[Page~571 #5: (1)尖]]
     ==
     - Sharp, pointed, acute, tapering to a peak or point [[Kangxi: 末銳也小也]];
     - wedge-like, pyramidal, conical, or needle-shaped;
@@ -245,7 +245,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)幨]]
+  - [[Page~16* #5: (1)幨]]
     --
     Similar to the last [[襜]].
     --
@@ -297,7 +297,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)沾]]
+  - [[Page~15* #6: (1)沾]]
     ==
     - To moisten, to tinge [[Kangxi: 漬也濡也]];
     - to receive benefits;
@@ -328,7 +328,7 @@ W
     --
     [[Otherwise, an alternative form of 覘. **See $覘zim1 for the canonical entry.**]]
     --
-  - [[Page~15* (1)霑]]
+  - [[Page~15* #7: (1)霑]]
     --
     Interchanged with the last [[沾]].
     --
@@ -367,7 +367,7 @@ F
   ==
 W
   ====
-  - [[Page~571 漸(6) _Ts(i/)m(6)_ (zim6); here corrected to _(1)Ts(i/)m_ (zim1)]]
+  - [[Page~571 #6: 漸(6) _Ts(i/)m(6)_ (zim6); here corrected to _(1)Ts(i/)m_ (zim1)]]
     ==
     - [[...]];
     - to find its way in, as water does [[Kangxi: 流入也]];
@@ -409,9 +409,9 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)瞻]]
+  - [[Page~16* #3: ::(1)~~{？=⿰目⿸广⿱儿言}~~``瞻``::]]
     ==
-    - To look up to, to reverence, to regard with respect [[Kangxi: 仰視曰瞻]];
+    - To look up to, to reverence, to regard with respect [[Kangxi 瞻: 仰視曰瞻]];
     - _(1)ch(i/)m (5)y(e/)ung_
         [[zim1 joeng5 瞻仰]],
         to look up to;
@@ -430,6 +430,11 @@ W
         to expect.
     ==
   ====
+C
+  ==
+  - Williams misprints 瞻 as ⿰目⿸广⿱儿言; here corrected.
+    (The character 瞻 appears correctly on Page~788 in the character index.)
+  ==
 P
   ++
   1. To look forward.
@@ -462,11 +467,11 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)粘]]
+  - [[Page~15* #9: (1)粘]]
     --
     [[Alternative form of 黏, and reading variation. **See $黏nim4 for the canonical entry.**]] [[TODO]]
     --
-  - [[Page~16* (1)黏; here normalised to 粘]]
+  - [[Page~16* #1: (1)黏; here normalised to 粘]]
     ==
     - Used for the preceding [[粘]];
     - rice;
@@ -512,7 +517,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)襜]]
+  - [[Page~16* #4: (1)襜]]
     ==
     - An apron [[Kangxi: 衣蔽前謂之襜]];
     - a flap, a skirt;
@@ -574,7 +579,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)覘]]
+  - [[Page~15* #8: (1)覘]]
     ==
     - To peep, to spy at, to glance at [[Kangxi: 窺也]];
     - _(1)ch(i/)m hau(6)_
@@ -616,7 +621,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)詹]]
+  - [[Page~16* #2: (1)詹]]
     ==
     - ~~Tattling~~, wordy [[Kangxi: 多言也]];
     - to reach [[Kangxi: 至也]];
@@ -672,7 +677,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)譫]]
+  - [[Page~16* #6: (1)譫]]
     ==
     - Wordy, loquacious [[Kangxi: 多言也]];
     - _peng(6) (1)ch(i/)m_
@@ -711,7 +716,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)䠨]]
+  - [[Page~16* #7: (1)䠨]]
     ==
     - A horse traveling at full speed [[Kangxi: 馬急行]].
     ==
@@ -740,7 +745,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)霑]]
+  - [[Page~15* #7: (1)霑]]
     --
     [[...]]
     --
@@ -782,7 +787,7 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)黏]]
+  - [[Page~16* #1: (1)黏]]
     --
     [[Reading variation. **See $黏nim1 and $黏nim4 for the canonical entries.**]] [[TODO]]
     --
@@ -831,7 +836,7 @@ F
   ==
 W
   ====
-  - [[Page~16* 占(3)佔(3)]]
+  - [[Page~16* #8: 占(3)佔(3)]]
     --
     [[Alternative form of 占. See $占zim3.]]
     --
@@ -859,7 +864,7 @@ F
   ==
 W
   ====
-  - [[Page~16* 占(3)佔(3)]]
+  - [[Page~16* #8: 占(3)佔(3)]]
     ==
     - To usurp, to seize, to take forcibly [[Kangxi 占: 固有也, 擅據也著位也]];
     - to assume, to arrogate, to take the liberty;
@@ -942,7 +947,7 @@ F
   ==
 W
   ====
-  - [[Page~571 漸(6)]]
+  - [[Page~571 #6: 漸(6)]]
     ==
     - Name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]
       near Ng(a/)nking f(u/) [[安慶府]] [[Kangxi: 水名, 水出丹陽黟南蠻中東入海]];
@@ -995,7 +1000,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~728 魙(6)]]
+  - [[Page~728 #2: 魙(6)]]
     ==
     - A prince of demons [[Kangxi: 鬼名]], at the sight of whom ogres and vampires flee;
     - used as a charm [[Kangxi: 辟邪也符尾也]].

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 勺(8)]]
+  - [[Page~32|n75 #3: 勺(8)]]
     ==
     - A ladle or spoon [[Kangxi: 勺所以{𣂏=⿰奭斗}酒也]];
     - a spoonful;
@@ -108,7 +108,7 @@ W
     --
     [[Otherwise, an alternative form of 芍, and reading variation. **See $芍coek3 for the canonical entry.**]]
     --
-  - [[Page~32|n75 杓(8); here normalised to 勺]]
+  - [[Page~32|n75 #6: 杓(8); here normalised to 勺]]
     ==
     - A ladle [[Kangxi 杓: 以爲桮杓之杓所以抒挹也]];
     - [[...]].
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~565 嚼(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+  - [[Page~565 #5: 嚼(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
     - To chew, to bite, ~~to ruminate,~~ to craunch, to mumble, to munch, to masticate [[Kangxi: 齧也]];
     - a mouthful, a bite;
@@ -206,7 +206,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 妁(8)]]
+  - [[Page~32|n75 #2: 妁(8)]]
     ==
     - A go-between [[Kangxi: 媒也]];
     - to consult about a marriage;
@@ -237,7 +237,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 斫(8)]]
+  - [[Page~32|n75 #9: 斫(8)]]
     ==
     - To cut with a sword or knife [[Kangxi: 刀斫]];
     - to amputate;
@@ -276,7 +276,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 杓(8)]]
+  - [[Page~32|n75 #6: 杓(8)]]
     ==
     - [[...]];
     - a beam ~~for a~~ bridge [[Kangxi: 橫木橋]].
@@ -381,7 +381,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 灼(8)]]
+  - [[Page~32|n75 #4: 灼(8)]]
     --
     [[Reading variation. **See $灼coek3 for the canonical entry.**]]
     --
@@ -419,7 +419,7 @@ F
   ==
 W
   ====
-  - [[Page~565 爝(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+  - [[Page~565 #6: 爝(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
     - A flambeau, a torch, a link;
     - a lighted match burned at night on an alarm.
@@ -464,7 +464,7 @@ F
   ==
 W
   ====
-  - [[Page~565 爵(8)]]
+  - [[Page~565 #4: 爵(8)]]
     ==
     - A cyathus with three legs,
       a cup for libations [[Kangxi: 禮器也 etc.]], a metallic wine cup;
@@ -525,7 +525,7 @@ F
   ==
 W
   ====
-  - [[Page~565 皭(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+  - [[Page~565 #7: 皭(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
     - A white color [[Kangxi: 白色]], pure, unsullied, clean [[Kangxi: 淨貌]];
     - nice, clean looking.
@@ -561,7 +561,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 着(8)著(8)]]
+  - [[Page~32|n75 #1: 着(8)著(8)]]
     ==
     - [[...]];
     - to cover over, to put on, as clothes [[Kangxi 著: 被服也]];
@@ -637,7 +637,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 禚(8)]]
+  - [[Page~32|n75 #8: 禚(8)]]
     ==
     - A city in the feudal state of ~~Ts(i/)~~ ``Ts(')(i/)`` [[齊]] [[Kangxi: 齊地名]],
       now a place in Sh(a/)ntung [[山東]] province.
@@ -658,7 +658,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 芍(8)]]
+  - [[Page~32|n75 #7: 芍(8)]]
     --
     [[Reading variation. **See $芍coek3 for the canonical entry.**]]
     --
@@ -684,7 +684,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32|n75 着(8)著(8)]]
+  - [[Page~32|n75 #1: 着(8)著(8)]]
     --
     [[Alternative form of 着. **See $着zoek3 for the canonical entry.**]]
     --
@@ -714,14 +714,14 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 勺(8); here normalised to 酌]]
+  - [[Page~32|n75 #3: 勺(8); here normalised to 酌]]
     ==
     - [[...]];
     - to bale or pour out;
     - to adopt, to follow;
     - [[...]].
     ==
-  - [[Page~32|n75 酌(8)]]
+  - [[Page~32|n75 #5: 酌(8)]]
     ==
     - To pour out liquor, to fill a cup [[Kangxi: 盛酒行觴也, 酌猶斟也]];
     - a cup, a glass;
@@ -795,7 +795,7 @@ F
   ==
 W
   ====
-  - [[Page~565 雀(3)]]
+  - [[Page~565 #3: 雀(3)]]
     ==
     - A sparrow [[Kangxi: 依人小鳥也]];
     - a term for small birds [[Fan Wan: 小鳥亦曰雀]], like the finch or lark;
@@ -829,7 +829,7 @@ W
         [[zoek3 sit3 faa1 雀舌花]],
         the _Gardenia radicans_.
     ==
-  - [[Page~565 爵(8)]]
+  - [[Page~565 #4: 爵(8)]]
     ==
     - [[...]];
     - occurs for the preceding [[雀]];
@@ -896,7 +896,7 @@ F
   ==
 W
   ====
-  - [[Page~565 鵲(8) _Ts(')(e/)uk(8)_ (coek3); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+  - [[Page~565 #8: 鵲(8) _Ts(')(e/)uk(8)_ (coek3); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
     - A magpie, a jackdaw [[Kangxi: 鳥名喜鵲也]];
     - a jay [[Kangxi: 練鵲]];
@@ -957,7 +957,7 @@ F
   ==
 W
   ====
-  - [[Page~565 嚼(9)]]
+  - [[Page~565 #5: 嚼(9)]]
     --
     [[Reading variation. **See $嚼zoek3 for the canonical entry.**]]
     --
@@ -986,7 +986,7 @@ F
   ==
 W
   ====
-  - [[Page~565 爝(9)]]
+  - [[Page~565 #6: 爝(9)]]
     --
     [[Reading variation. **See $爝zoek3 for the canonical entry.**]]
     --
@@ -1014,7 +1014,7 @@ F
   ==
 W
   ====
-  - [[Page~565 皭(9)]]
+  - [[Page~565 #7: 皭(9)]]
     --
     [[Reading variation. **See $皭zoek3 for the canonical entry.**]]
     --
@@ -1047,7 +1047,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
+  - [[Page~32|n75 #1: 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
     ==
     - Right, correct;
     - according to;
@@ -1178,7 +1178,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
+  - [[Page~32|n75 #1: 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); _Ch(e/)uk(9)_ (zoek6) optional, here enforced]]
     --
     [[Alternative form of 着. **See $着zoek6 for the canonical entry.**]]
     --

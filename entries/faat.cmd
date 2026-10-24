@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -65,7 +65,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 沷(8)]]
+  - [[Page~714 #2: 沷(8)]]
     ==
     - Cold [[Kangxi: 寒也]];
     - to open sluices, to let water in over fields,
@@ -94,7 +94,7 @@ F
   ==
 W
   ====
-  - [[Page~51 法(8)]]
+  - [[Page~51 #1: 法(8)]]
     ==
     - A rule, a law, usage [[Kangxi: 法常也, 法偪也偪而使有所限也, etc.]];
     - regulations, precepts;
@@ -190,7 +190,7 @@ F
   ==
 W
   ====
-  - [[Page~50 發(8)]]
+  - [[Page~50 #13: 發(8)]]
     ==
     - To issue, to appear, to send forth, to germinate;
     - to cause to go, to dispatch [[Kangxi: 遣也]]~~, throw out~~;
@@ -310,7 +310,7 @@ F
   ==
 W
   ====
-  - [[Page~51 髮(8)]]
+  - [[Page~51 #2: 髮(8)]]
     ==
     - Hair of the head [[Kangxi: 首上毛也]];
     - _met._ herbs, trees, moss [[Kangxi: 毛草也地理書云山以草木爲髮]];

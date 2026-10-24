@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 囑(7)]]
+  - [[Page~35* #5: 囑(7)]]
     ==
     - To order, to bid, to enjoin [[Kangxi: 付囑也, 託也]];
     - _chuk(7) ~~f(u/)(6)~~ ``f(u/)(3)``_
@@ -119,7 +119,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 捉(7)]]
+  - [[Page~35* #9: 捉(7)]]
     ==
     - To seize, to grasp, to gripe and hold [[Kangxi: 搤也一曰握也]];
     - to catch [[Kangxi: 捕也]];
@@ -200,7 +200,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 柷(7)]]
+  - [[Page~35* #3: 柷(7)]]
     ==
     - A sort of tub with a stick in the centre [[Kangxi: 柷狀如桼桶方二尺四寸深一尺八寸中有椎柄連厎挏之令左右擊]];
     - _chuk(7) (5)(u:)_
@@ -234,7 +234,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 燭(7)]]
+  - [[Page~35* #7: 燭(7)]]
     ==
     - A candle;
     - to illumine [[Kangxi: 照也]];
@@ -305,7 +305,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 矚(7)]]
+  - [[Page~35* #6: 矚(7)]]
     ==
     - To gaze, to look earnestly [[Kangxi: 視也, 視之甚也]];
     - to fix the eyes on.
@@ -330,7 +330,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 祝(7)]]
+  - [[Page~35* #4: 祝(7)]]
     ==
     - To pray, to supplicate;
     - to recite prayers;
@@ -399,7 +399,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 竹(7)]]
+  - [[Page~34* #11: 竹(7)]]
     ==
     - The bamboo [[Kangxi: 冬生靑艸 etc.]];
     - _chuk(7) (2)k(')(e/)ung_
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 竺(7)]]
+  - [[Page~35* #2: 竺(7)]]
     ==
     - A country;
     - _(1)t(')(i/)n chuk(7) kwok(8)_
@@ -492,7 +492,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 筑(7)]]
+  - [[Page~35* #1: 筑(7)]]
     ==
     - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]::]]~~,
       used in worship at the municipal temple~~.
@@ -526,7 +526,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 築(7)]]
+  - [[Page~34* #12: 築(7)]]
     ==
     - To make adobie walls;
     - to rear, to pile up earth;
@@ -578,7 +578,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 粥(7)]]
+  - [[Page~35* #8: 粥(7)]]
     ==
     - Congee [[Kangxi: 糜也]];
     - gruel;
@@ -640,7 +640,7 @@ F
   ==
 W
   ====
-  - [[Page~36* 觸(7) _Ch(')uk(7)_ (cuk1); here normalised to _Chuk(7)_ (zuk1)]]
+  - [[Page~36* #7: 觸(7) _Ch(')uk(7)_ (cuk1); here normalised to _Chuk(7)_ (zuk1)]]
     ==
     - To gore, to push as an ox [[Kangxi: 牴也]];
     - to oppose, to excite;
@@ -694,7 +694,7 @@ F
   ==
 W
   ====
-  - [[Page~598 足(7)]]
+  - [[Page~598 #8: 足(7)]]
     ==
     - The leg [[Kangxi: 人之足也]];
     - the foot;
@@ -829,7 +829,7 @@ F
   ==
 W
   ====
-  - [[Page~599 俗(9)]]
+  - [[Page~599 #1: 俗(9)]]
     ==
     - What common people desire [[Kangxi: 俗欲也俗人所欲也]];
     - inelegant, uneducated, common, vulgar, unpolished, rude [[Kangxi: 不雅曰俗]];
@@ -891,7 +891,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 妯(9)]]
+  - [[Page~35* #14: 妯(9)]]
     ==
     - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]] [[Kangxi: 兄弟之妻相呼曰妯娌]]_;_
     - ~~also called _chau(3) (5)l(i/)_ [[zau3 lei5]]^ in Canton.~~
@@ -927,7 +927,7 @@ F
   ==
 W
   ====
-  - [[Page~599 族(9)]]
+  - [[Page~599 #2: 族(9)]]
     ==
     - [[...]];
     - to collect, to draw together, as a banner does [[Kangxi: 一曰从㫃㫃所以標衆矢之所集又聚也]];
@@ -1020,7 +1020,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 濁(9)]]
+  - [[Page~35* #12: 濁(9)]]
     ==
     - Muddy, turbid, thick, foul [[Kangxi: 水不淸也]];
     - impure, vicious;
@@ -1074,7 +1074,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 #3: 蔟(9)簇(9)]]
     --
     [[Reading variation. **See $簇cuk1 for the canonical entry.**]]
     --
@@ -1108,7 +1108,7 @@ F
   ==
 W
   ====
-  - [[Page~599 續(9)]]
+  - [[Page~599 #6: 續(9)]]
     ==
     - To continue, to join on, to succeed [[Kangxi: 繼也]];
     - to keep up;
@@ -1169,7 +1169,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 蓫(9)]]
+  - [[Page~35* #11: 蓫(9)]]
     ==
     - Weeds which are hard to root out, such as the dock or thistles [[Kangxi: 蓫惡菜也, 牛蘈也陸註今人謂之羊蹄]].
     ==
@@ -1200,7 +1200,7 @@ F
   ==
 W
   ====
-  - [[Page~599 ::蔟(9)~~簇(9)~~::]]
+  - [[Page~599 #3: ::蔟(9)~~簇(9)~~::]]
     --
     [[Reading variation. **See $蔟cuk1 for the canonical entry.**]]
     --
@@ -1229,7 +1229,7 @@ F
   ==
 W
   ====
-  - [[Page~599 藚(9)]]
+  - [[Page~599 #7: 藚(9)]]
     ==
     - A marshy, grassy``,`` and climbing plant, with leaves like purslane,
       called also cow's lips [[Kangxi: 水舄也, 藚牛脣, 今澤瀉也]].
@@ -1262,7 +1262,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 躅(9)]]
+  - [[Page~35* #13: 躅(9)]]
     ==
     - To walk unsteady;
     - _ch(a/)k(9) chuk(9)_
@@ -1303,7 +1303,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 軸(9)]]
+  - [[Page~35* #15: 軸(9)]]
     ==
     - ~~The end of~~ an axle ~~or nave~~ [[Kangxi: 持輪 etc.]];
     - a pivot, centre of motion;
@@ -1351,7 +1351,7 @@ F
   ==
 W
   ====
-  - [[Page~35* 逐(9)]]
+  - [[Page~35* #10: 逐(9)]]
     ==
     - To push or drive out [[Kangxi: 驅也]];
     - to order away;
@@ -1415,12 +1415,12 @@ F
   ==
 W
   ====
-  - [[Page~599 族(9); here normalised to 鏃]]
+  - [[Page~599 #2: 族(9); here normalised to 鏃]]
     ==
     - A barb of a dart [[Kangxi 族: 矢鋒也]];
     - [[...]].
     ==
-  - [[Page~599 鏃(9)]]
+  - [[Page~599 #4: 鏃(9)]]
     ==
     - The barb of a dart or arrow, the iron head of a dart [[Kangxi: 箭鏃也]];
     - sharp ~~pointed~~ [[Kangxi: 利也]].
@@ -1448,7 +1448,7 @@ F
   ==
 W
   ====
-  - [[Page~599 鷟(9)]]
+  - [[Page~599 #5: 鷟(9)]]
     --
     [[Reading variation. **See $鷟zok6 for the canonical entry.**]]
     --

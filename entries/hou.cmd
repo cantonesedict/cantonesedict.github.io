@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hou
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -167,7 +167,7 @@ W
   ====
 C
   ==
-  - In additional to the dark-departing tone marker _(3)_,
+  - In addition to the dark-departing tone marker ^(3),
     Williams prints the headword 好 with an explicit
     classical departing-tone marker ◌〬 (U+302C).
     Font support for classical departing-tone markers

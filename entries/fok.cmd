@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fok
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -69,7 +69,7 @@ F
   ==
 W
   ====
-  - [[Page~55 攉(8)]]
+  - [[Page~55 #5: 攉(8)]]
     ==
     - To ~~recall one with~~ ``flip over`` the hand [[Kangxi: 手反覆也]];
     - to motion ~~back~~ with the hand [[Kangxi: 搖手曰揮反手曰攉]];
@@ -110,7 +110,7 @@ F
   ==
 W
   ====
-  - [[Page~54 攫(8)]]
+  - [[Page~54 #11: 攫(8)]]
     ==
     - To grasp with the talons or claws [[Kangxi: 扟也, 撲取也, 以腳取之謂之攫以翼擊之謂之搏, 一曰持也]];
     - _fok(8) (2)ts(')(u:)_
@@ -148,7 +148,7 @@ F
   ==
 W
   ====
-  - [[Page~54 矍(8)]]
+  - [[Page~54 #12: 矍(8)]]
     ==
     - The fluttering of a bird when caught [[Kangxi: 隹欲逸走也]];
     - looking right and left ``in fear`` [[Kangxi: 左右驚顧也]];
@@ -189,7 +189,7 @@ F
   ==
 W
   ====
-  - [[Page~55 縛(8)]]
+  - [[Page~55 #1: 縛(8)]]
     --
     [[Reading variation. **See $縛bok3 for the canonical entry.**]] [[TODO]]
     --
@@ -217,7 +217,7 @@ F
   ==
 W
   ====
-  - [[Page~55 藿(8)]]
+  - [[Page~55 #4: 藿(8)]]
     ==
     - Leaves ``or young sprouts`` of pulse [[Kangxi: 尗之少也, 藿豆葉]], used as food;
     - ~~greens in general;~~
@@ -254,7 +254,7 @@ F
   ==
 W
   ====
-  - [[Page~54 躩(8)]]
+  - [[Page~54 #10: 躩(8)]]
     ==
     - A short, quick, stately step,
       as if ~~going up stairs~~ ``turning on the spot``,
@@ -302,7 +302,7 @@ F
   ==
 W
   ====
-  - [[Page~55 钁(8)]]
+  - [[Page~55 #2: 钁(8)]]
     ==
     - A large hoe or mattock [[Kangxi: 大鉏也 etc.]],
       made of wood, edged with iron.
@@ -327,7 +327,7 @@ F
   ==
 W
   ====
-  - [[Page~55 霍(8)]]
+  - [[Page~55 #3: 霍(8)]]
     ==
     - Speed, celerity, agility [[揮霍, 揮霍猝遽也, 揮霍疾貌]];
     - a surname [[Kangxi: 姓]];

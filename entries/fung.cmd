@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fung
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -85,7 +85,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)丰]]
+  - [[Page~66 #8: (1)丰]]
     ==
     - Luxuriant [[Kangxi: 丰茸草盛貌]];
     - plump, good-looking [[Kangxi: 容色美好貌]];
@@ -124,7 +124,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)封]]
+  - [[Page~65 #9: (1)封]]
     ==
     - The domain granted to princes [[Kangxi: 爵諸侯之土也]];
     - to heap up earth [[Kangxi: 聚土曰封]];
@@ -212,7 +212,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)峯]]
+  - [[Page~66 #4: (1)峯]]
     --
     [[Alternative form of 峰. **See $峰fung1 for the canonical entry.**]]
     --
@@ -236,7 +236,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)峯; here normalised to 峰]]
+  - [[Page~66 #4: (1)峯; here normalised to 峰]]
     ==
     - The peak of a mountain [[Kangxi 峯: 山耑也]];
     - a camel's hump;
@@ -271,7 +271,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)楓]]
+  - [[Page~65 #7: (1)楓]]
     ==
     - The maple [[Kangxi: 木也 etc.]];
     - also applied to the sycamore;
@@ -327,7 +327,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)烽]]
+  - [[Page~66 #7: (1)烽]]
     ==
     - A fire-place erected on hills, in which fires are lighted;
     - _(1)fung (1)(i/)n_
@@ -368,7 +368,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)瘋]]
+  - [[Page~65 #8: (1)瘋]]
     ==
     - The leprosy, scrofula, and kindred diseases;
     - insane, insensate;
@@ -404,7 +404,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)葑]]
+  - [[Page~66 #1: (1)葑]]
     ==
     - ~~Vegetables~~ ``A vegetable`` resembling mustard, chives [[Kangxi: 菜名 etc.]];
     - _(1)fung (2)f(i/)_
@@ -451,7 +451,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)蜂(1)蠭]]
+  - [[Page~66 #5: (1)蜂(1)蠭]]
     ==
     - Bees, wasps, hornets [[Kangxi 蠭: 飛蟲螫人者 etc.]];
     - _mat(9) (1)fung_
@@ -510,7 +510,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)蜂(1)蠭]]
+  - [[Page~66 #5: (1)蜂(1)蠭]]
     --
     [[Alternative form of 蜂. **See $蜂fung1 for the canonical entry.**]]
     --
@@ -538,7 +538,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)豊]]
+  - [[Page~66 #2: (1)豊]]
     --
     [[Alternative form of 豐. **See $豐fung1 for the canonical entry.**]]
     --
@@ -572,7 +572,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)豊; here normalised to 豐]]
+  - [[Page~66 #2: (1)豊; here normalised to 豐]]
     ==
     - ~~A full goblet;~~
     - abundant, affluent, copious, exuberant [[Kangxi 豐: 茂也盛也]];
@@ -594,7 +594,7 @@ W
         [[fung1 dang1 豐登]],
         large supplies (of corn).
     ==
-  - [[Page~715 (1)豐]]
+  - [[Page~715 #21: (1)豐]]
     ==
     - Is the full form of 豊;
     - the latter [[豊]] is the least used.
@@ -643,7 +643,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)酆]]
+  - [[Page~66 #3: (1)酆]]
     ==
     - The capital of Wan w(a/)ng [[文王]] [[Kangxi: 周文王所都]],
       now H(u/) hien [[鄠縣]] in S(i/)-ng(a/)n f(u/) [[西安府]]
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (1)鋒]]
+  - [[Page~66 #6: (1)鋒]]
     ==
     - The point of a weapon, a sharp pont [[Kangxi: 兵耑也 etc.]];
     - the vanguard [[Kangxi: 軍之前列]];
@@ -748,7 +748,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)風]]
+  - [[Page~65 #6: (1)風]]
     ==
     - Breath, spirit, passion;
     - air-gusts, gale, wind [[Kangxi: 風以動萬物也 etc.]];
@@ -823,7 +823,7 @@ W
     --
     [[Otherwise, an alternative form of 瘋. **See $瘋fung1 for the canonical entry.**]]
     --
-  - [[Page~66 (1)丰]]
+  - [[Page~66 #8: (1)丰]]
     ==
     - [[...]];
     - _(2)s(e/)ung mong(6) (1)fung (4)(i/)_
@@ -897,7 +897,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (2)俸]]
+  - [[Page~66 #12: (2)俸]]
     --
     [[Reading variation (vernacular rising-tone noun). **See $俸fung6 for the canonical entry.**]]
     --
@@ -925,7 +925,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (2)捧]]
+  - [[Page~66 #13: (2)捧]]
     --
     [[Reading variation. **See $捧pung2 for the canonical entry.**]] [[TODO]]
     --
@@ -948,7 +948,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (2)泛]]
+  - [[Page~67 #4: (2)泛]]
     --
     [[Alternative form of 覂 (for the "overturn" sense). **See $覂fung2 for the canonical entry.**]]
     --
@@ -975,7 +975,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (2)泛; here normalised to 覂]]
+  - [[Page~67 #4: (2)泛; here normalised to 覂]]
     ==
     - To overthrow [[Kangxi 覂: 反覆也, 泛本作覂後通用耳]],
       to throw a rider, to "spill" him;
@@ -1050,7 +1050,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (2)諷 _(2)Fung_ (fung2); here corrected to _Fung(3)_ (fung3)]]
+  - [[Page~67 #1: (2)諷 _(2)Fung_ (fung2); here corrected to _Fung(3)_ (fung3)]]
     ==
     - To recite [[Kangxi: 誦也]] ~~or rehearse in a musical tone~~;
     - ~~recitative;~~
@@ -1166,7 +1166,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (4)渢]]
+  - [[Page~715 #22: (4)渢]]
     ==
     - The noise or roaring of water or waves [[Kangxi: 水聲一曰弘大聲]];
     - floating [[Kangxi: 一曰浮貌]].
@@ -1210,7 +1210,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (4)縫]]
+  - [[Page~66 #10: (4)縫]]
     ==
     - To sew, to stitch [[Kangxi: 以鍼紩衣也]];
     - a seam [[Kangxi: 衣縫也]], a cleft;
@@ -1269,7 +1269,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (4)逢]]
+  - [[Page~66 #9: (4)逢]]
     ==
     - To meet undesignedly [[Kangxi: 遇也, 値也]];
     - to meet with;
@@ -1338,7 +1338,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (4)馮]]
+  - [[Page~66 #11: (4)馮]]
     ==
     <## TODO: correct to $馮pang4
     - A horse running;
@@ -1388,7 +1388,7 @@ F
   ==
 W
   ====
-  - [[Page~66 (2)俸 _(2)Fung_ (fung2)]]
+  - [[Page~66 #12: (2)俸 _(2)Fung_ (fung2)]]
     ==
     - Salary, emoluments [[Kangxi: 秩祿也, 亦作奉]];
     - wages, stipend, pay, rations, allowance;
@@ -1440,7 +1440,7 @@ F
   ==
 W
   ====
-  - [[Page~67 奉(6)]]
+  - [[Page~67 #2: 奉(6)]]
     ==
     - To respectfully receive in both hands,
       to receive from a superior [[Kangxi: 承也 etc.]],
@@ -1537,7 +1537,7 @@ F
   ==
 W
   ====
-  - [[Page~67 鳳(6)]]
+  - [[Page~67 #3: 鳳(6)]]
     ==
     - A fabulous bird [[Kangxi: 神鳥也 etc.]],
       the male is called _fung(6)_ [[fung6 鳳]]^,

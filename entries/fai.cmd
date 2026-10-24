@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -100,7 +100,7 @@ F
   ==
 W
   ====
-  - [[Page~44 (1)徽]]
+  - [[Page~44 #1: (1)徽]]
     ==
     - A cord of three strands [[Kangxi: 三糾繩也]];
     - a string;
@@ -168,7 +168,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)揮]]
+  - [[Page~43 #2: (1)揮]]
     ==
     - To move, to shake [[Kangxi: 振也動也]];
     - to be agitated [[Kangxi: 奮也]];
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)撝]]
+  - [[Page~43 #8: (1)撝]]
     ==
     - To rend open, to tear off [[Kangxi: 裂也]];
     - to point ~~out~~;
@@ -303,7 +303,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)暉]]
+  - [[Page~43 #5: (1)暉]]
     ==
     - Same as the two preceding [[輝, 煇]];
     - effulgent, glorious [[Kangxi: 光也]], as the sun.
@@ -336,7 +336,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)煇]]
+  - [[Page~43 #4: (1)煇]]
     --
     [[Alternative form of 輝. **See $輝fai1 for the canonical entry.**]]
     --
@@ -362,7 +362,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (1)睢 _(1)Ts(u:)_ (zeoi1); here normalised to _(1)Fai_ (fai1)]]
+  - [[Page~594 #7: (1)睢 _(1)Ts(u:)_ (zeoi1); here normalised to _(1)Fai_ (fai1)]]
     ==
     - To stare at [[Kangxi: 大視也]] ~~in a fright~~,
       to gaze up at [[Kangxi: 仰目也, 仰目視貌]],
@@ -401,7 +401,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)翬]]
+  - [[Page~43 #7: (1)翬]]
     ==
     - To fly [[Kangxi: 大飛也]] with noise ``quickly`` [[Kangxi: 翬翬其飛疾羽聲也]];
     - a kind of colored pheasant [[Kangxi: 一曰伊洛而南雉五采皆備曰翬 etc.]];
@@ -443,7 +443,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)輝]]
+  - [[Page~43 #3: (1)輝]]
     ==
     - Brilliant, refulgent, glorious [[Kangxi: 光也火之光也]], like the sun;
     - to glisten;
@@ -454,7 +454,7 @@ W
         [[fai1 jin6 輝現]]
         exceedingly glorious.
     ==
-  - [[Page~43 (1)煇; here normalised to 輝]]
+  - [[Page~43 #4: (1)煇; here normalised to 輝]]
     ==
     - Luminous, splendid [[Kangxi 煇: 光也, 燿光也]], like fire [[Kangxi 煇: 火之光]];
     - _(1)fai (1)kwong_
@@ -510,7 +510,7 @@ F
   ==
 W
   ====
-  - [[Page~43 ::(1)~~{？=⿳隋𠆢氺}~~``隳``::]]
+  - [[Page~43 #10: ::(1)~~{？=⿳隋𠆢氺}~~``隳``::]]
     ==
     - To destroy, to overth``r``ow, to break [[Kangxi 隓: 俗作隳非, 廢也毀也損也, 亦作墮]];
     - to injure;
@@ -570,7 +570,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)麾]]
+  - [[Page~43 #6: (1)麾]]
     ==
     - A signal or marking flag [[Kangxi: 旌旗之屬所以指麾也, 或作戲, 戲大將之旗]];
     - to make a signal, to motion to [[Kangxi: 與撝同以手指麾也]];
@@ -694,7 +694,7 @@ F
   ==
 W
   ====
-  - [[Page~44 廢(3)]]
+  - [[Page~44 #3: 廢(3)]]
     ==
     - A house in ruins [[Kangxi: ::屋[頓]也::]];
     - to abandon, to throw aside [[Kangxi: 廢舍也, 舍放置]], to destroy, to lose;
@@ -750,7 +750,7 @@ F
   ==
 W
   ====
-  - [[Page~44 沸(3)]]
+  - [[Page~44 #5: 沸(3)]]
     ==
     - To bubble, as boiling water [[Kangxi: 涫也]] or a spring [[Kangxi: 觱沸泉出貌]];
     - _~~shui(3)~~ ``(2)shui`` fai(3) (1)ch(')ung (4)ch(')(a/)_
@@ -829,7 +829,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~713 疿(3)]]
+  - [[Page~713 #6: 疿(3)]]
     ==
     - Pimples, small boils~~;~~``,`` sores from heat [[Kangxi: 熱生小瘡 etc.]];
     - _(i/)t(9) fai(3)_ [[jit6 fai3-2 熱疿]]
@@ -915,7 +915,7 @@ F
   ==
 W
   ====
-  - [[Page~44 肺(3)]]
+  - [[Page~44 #6: 肺(3)]]
     ==
     - The lungs [[Kangxi: 金藏也 etc.]];
     - they are connected with metal;
@@ -958,7 +958,7 @@ F
   ==
 W
   ====
-  - [[Page~44 芾(3)]]
+  - [[Page~44 #7: 芾(3)]]
     ==
     - Luxuriant [[Fan Wan: 蔽芾木盛也]];
     - small [[Kangxi: 蔽芾小貌]];
@@ -1017,7 +1017,7 @@ F
   ==
 W
   ====
-  - [[Page~44 費(3)]]
+  - [[Page~44 #2: 費(3)]]
     ==
     - To spend, to use [[Kangxi: 散財用也]];
     - to exert;
@@ -1112,7 +1112,7 @@ F
   ==
 W
   ====
-  - [[Page~44 吠(6)]]
+  - [[Page~44 #8: 吠(6)]]
     ==
     - The bark of a dog [[Kangxi: 犬吠鳴也, 犬聲]];
     - _l(u:)n(6) fai(6) (2)kau_

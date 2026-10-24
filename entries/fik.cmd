@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fik
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -67,7 +67,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~714 {𠱥=⿰口卉}(7)]]
+  - [[Page~714 #7: {𠱥=⿰口卉}(7)]]
     <####
     --
     Read _(i/)t(9)_ [[jit6]]_;_ <## TODO: ngot6 per 《集韻》ngat ##>
@@ -121,7 +121,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 _Fik(7)_ (fik1) exemplified; here corrected to _Fik(9)_ (fik6) and assigned to 掝]]
+  - [[Page~53 #12: _Fik(7)_ (fik1) exemplified; here corrected to _Fik(9)_ (fik6) and assigned to 掝]]
     ==
     - To brush off (as a fly);
     - _~~fik(7)~~ ``fik(9)`` (1)hoi_

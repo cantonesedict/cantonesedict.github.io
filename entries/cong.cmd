@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -84,7 +84,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)倉]]
+  - [[Page~593 #7: (1)倉]]
     ==
     - A granary [[Kangxi: 穀藏也]] of the government;
     - a storehouse;
@@ -114,7 +114,7 @@ W
     --
     [[Otherwise, an alternative form of 蒼. **See $蒼cong1 for the canonical entry.**]]
     --
-  - [[Page~593 (1)蒼; here normalised to 倉]]
+  - [[Page~593 #8: (1)蒼; here normalised to 倉]]
     ==
     - Occurs used for the last [[倉]], hastily;
     - [[...]];
@@ -144,7 +144,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (1)創(1)刅]]
+  - [[Page~28* #5: (1)創(1)刅]]
     --
     [[Alternative form of 創. **See $創cong1 for the canonical entry.**]]
     --
@@ -175,7 +175,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (1)創(1)刅]]
+  - [[Page~28* #5: (1)創(1)刅]]
     ==
     - To wound, to cut and injure [[Kangxi 創: 傷也]];
     - to butt, to gore;
@@ -225,7 +225,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)滄]]
+  - [[Page~593 #9: (1)滄]]
     ==
     - Vast like the sea;
     - name of a river and lake [[Kangxi: 水名, 河名, 湖名]];
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)瑲]]
+  - [[Page~593 #10: (1)瑲]]
     ==
     - Color of gems [[Kangxi: 玉色]];
     - [[...]].
@@ -288,7 +288,7 @@ F
   ==
 W
   ====
-  - [[Page~28* (1)瘡]]
+  - [[Page~28* #6: (1)瘡]]
     ==
     - A sore, ulcer, boil, or eruption [[Kangxi: 痏也, 瘍也]];
     - _(1)ch(')ong (1)n(a/)_
@@ -345,7 +345,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (1)艙]]
+  - [[Page~594 #1: (1)艙]]
     --
     An unauthorized character.
     --
@@ -399,7 +399,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)蒼]]
+  - [[Page~593 #8: (1)蒼]]
     ==
     - [[...]];
     - the green tint of plants [[Kangxi: 草色也]], or the azure of the sky;
@@ -453,7 +453,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27* (1)䚎 _(1)Chong_ (zong1); here corrected to _(1)Ch(')ong_ (cong1)]]
+  - [[Page~27* #6: (1)䚎 _(1)Chong_ (zong1); here corrected to _(1)Ch(')ong_ (cong1)]]
     ==
     - To see indistinctly [[Kangxi: 視不明也]];
     - to look at fixedly [[Kangxi: 一曰直視]];
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)鯧(1)䱽]]
+  - [[Page~594 #2: (1)鯧(1)䱽]]
     --
     The second character [[䱽]] is unauthorized.
     --
@@ -540,7 +540,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)鶬]]
+  - [[Page~594 #3: (1)鶬]]
     ==
     - A kind of crane [[Kangxi: 今呼鶬鴰, 鶬大如鶴]], plumage ashcolored [[Kangxi: 靑蒼色亦有灰色者]], and cheeks red [[Kangxi: 兩頰紅]];
     - _(1)ts(')ong ~~k(u/)t(8)~~ ``k(')(u/)t(8)``_
@@ -606,7 +606,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)厰]]
+  - [[Page~29* #1: (2)厰]]
     --
     [[Alternative form of 廠. **See $廠cong2 for the canonical entry.**]]
     --
@@ -635,7 +635,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)厰; here normalised to 廠]]
+  - [[Page~29* #1: (2)厰; here normalised to 廠]]
     ==
     - An open shed [[Kangxi 廠: 露舍也]];
     - a covered place not walled in [[Kangxi 廠: 屋無壁也]];
@@ -691,7 +691,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2){𢠵=⿰忄敞}; here normalised to 惝]]
+  - [[Page~29* #2: (2){𢠵=⿰忄敞}; here normalised to 惝]]
     ==
     - Alarmed [[Kangxi {𢠵=⿰忄敞}: {𢠵=⿰忄敞}怳驚貌或省作惝]];
     - frightened;
@@ -723,7 +723,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)愴]]
+  - [[Page~29* #5: (2)愴]]
     --
     [[Reading variation. **See $愴cong3 for the canonical entry.**]]
     --
@@ -751,7 +751,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2){𢠵=⿰忄敞}]]
+  - [[Page~29* #2: (2){𢠵=⿰忄敞}]]
     --
     [[Alternative form of 惝. **See $惝cong2 for the canonical entry.**]]
     --
@@ -779,7 +779,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)昶]]
+  - [[Page~29* #3: (2)昶]]
     --
     [[...]].
     --
@@ -817,7 +817,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)闖]]
+  - [[Page~29* #4: (2)闖]]
     ==
     - A horse going out of a door [[Kangxi: 馬出門貌]];
     - to thrust out the head, to appear [[Kangxi: 出頭貌]];
@@ -871,7 +871,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 創(3)刱(3)]]
+  - [[Page~29* #6: 創(3)刱(3)]]
     --
     [[Alternative form of 創. **See $創cong3 for the canonical entry.**]]
     --
@@ -899,7 +899,7 @@ F
   ==
 W
   ====
-  - [[Page~28* 創(3)刱(3)]]
+  - [[Page~29* #6: 創(3)刱(3)]]
     ==
     - To begin, to invent [[Kangxi 創: 始也造也]];
     - to create, to found, to lay the foundation of;
@@ -968,7 +968,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
+  - [[Page~29* #5: (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
     ==
     - Grief [[Kangxi: 傷也]];
     - _(1)ts(')ai ~~(2)ch(')ong~~ ``ch(')ong(3)``_
@@ -1019,7 +1019,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (4)幢 _(4)^Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
+  - [[Page~28* #1: (4)幢 _(4)^Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
     ==
     - Long embroidered scrolls or streamers [[Kangxi: 旌旗之屬]] in temples,
       suspended from the roof,
@@ -1047,7 +1047,7 @@ F
   ==
 W
   ====
-  - [[Page~28* (4)床(4)牀]]
+  - [[Page~28* #7: (4)床(4)牀]]
     --
     [[Alternative form of 牀. **See $牀cong4 for the canonical entry.**]]
     --
@@ -1078,7 +1078,7 @@ F
   ==
 W
   ====
-  - [[Page~28* (4)床(4)牀]]
+  - [[Page~28* #7: (4)床(4)牀]]
     ==
     - A bed, a couch [[Kangxi 牀: 安身之坐者, 人所坐臥曰牀]];
     - a settee;
@@ -1165,7 +1165,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (4)藏]]
+  - [[Page~594 #4: (4)藏]]
     ==
     - To store away [[Kangxi: 蓄也]], to put in safety;
     - to contain;

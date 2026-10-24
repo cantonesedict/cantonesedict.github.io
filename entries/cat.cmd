@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2026-10-03
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~559 七(7)柒(7)]]
+  - [[Page~559 #7: 七(7)柒(7)]]
     ==
     - Seven;
     - _ts(')at(7) shap(9)_
@@ -143,7 +143,7 @@ F
   ==
 W
   ====
-  - [[Page~559 七(7)柒(7)]]
+  - [[Page~559 #7: 七(7)柒(7)]]
     --
     [[...]]
     --
@@ -177,7 +177,7 @@ F
   ==
 W
   ====
-  - [[Page~559 七(7)柒(7)]]
+  - [[Page~559 #7: 七(7)柒(7)]]
     --
     [[...]]
     --
@@ -185,7 +185,7 @@ W
     The second [[柒]] [[...]] is also [[...]]
     a contracted form of the next [[::[漆]::]] [[Kangxi 柒: 俗漆字]].
     --
-  - [[Page~559 ::~~{？=⿰氵⿱來氺}~~``漆``(7)::]]
+  - [[Page~559 #8: ::~~{？=⿰氵⿱來氺}~~``漆``(7)::]]
     ==
     - Varnish, lacquer;
     - viscid or resinous juices which can be used in painting [[Kangxi 漆: 木汁可髤物]];

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ F
   ==
 W
   ====
-  - [[Page~592 作(8)]]
+  - [[Page~592 #2: 作(8)]]
     ==
     - To act, to do, to make [[Kangxi: 爲也]];
     - to begin [[Kangxi: 始也]], to discover, to invent [[Kangxi: 造也]];
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~592 怍(9)]]
+  - [[Page~592 #4: 怍(9)]]
     ==
     - Ashamed [[Kangxi: 慚也]], disconcerted, out of countenance [[Kangxi: 顏色變也, 色不和曰怍]];
     - to blush, to redden;
@@ -291,7 +291,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擢(9) _Ch(a/)k(9)_ (zaak6); here normalised to _Chok(9)_ (zok6)]]
+  - [[Page~13|n56 #7: 擢(9) _Ch(a/)k(9)_ (zaak6); here normalised to _Chok(9)_ (zok6)]]
     ==
     - To pull up [[Kangxi: 引也]];
     - to take out, to select, to raise, to promote [[Kangxi: 拔也, 抽也出也]];
@@ -333,7 +333,7 @@ F
   ==
 W
   ====
-  - [[Page~592 昨(9)]]
+  - [[Page~592 #3: 昨(9)]]
     ==
     - Yesterday [[Kangxi: 累日也, 昨日隔一宵也]];
     - time past;
@@ -382,7 +382,7 @@ F
   ==
 W
   ====
-  - [[Page~592 柞(9)]]
+  - [[Page~592 #5: 柞(9)]]
     ==
     - A ~~spinous~~ tree of firm wood,
       whose new leaves appear as the old ones fall [[Kangxi: 柞堅韌之木新葉將生故葉乃落]];
@@ -415,7 +415,7 @@ F
   ==
 W
   ====
-  - [[Page~26* 濯(9)]]
+  - [[Page~26* #12: 濯(9)]]
     ==
     - To rinse, to wash [[Kangxi: {𤃬=⿰氵⿰龺⿱𠆢赤}也, 濯滌也, 濯漑也]];
     - fat [[Kangxi: 濯濯肥也]], sleek, bright [[Kangxi: 光明也]];
@@ -461,7 +461,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12|n55 笮(8) _Ch(a/)k(8)_ (zaak3); here corrected to _Tsok(9)_ (zok6)]]
+  - [[Page~12|n55 #10: 笮(8) _Ch(a/)k(8)_ (zaak3); here corrected to _Tsok(9)_ (zok6)]]
     ==
     - [[...]];
     - to tattoo or brand, as a punishment [[Kangxi: {𠛬=⿰幵刂}名, 黥{𠛬=⿰幵刂}也]].
@@ -491,7 +491,7 @@ F
   ==
 W
   ====
-  - [[Page~592 酢(9)]]
+  - [[Page~592 #6: 酢(9)]]
     ==
     - To pledge a host, to return health [[Kangxi: 客酌主人也, 酬酢]];
     - to recompense, to return a compliment [[Kangxi: 酢報也]].
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~592 鑿(9)]]
+  - [[Page~592 #7: 鑿(9)]]
     ==
     - A chissel, a punch [[Kangxi: 鏨也, 鑿所以穿木也]];
     - a cold chissel;
@@ -612,7 +612,7 @@ F
   ==
 W
   ====
-  - [[Page~599 鷟(9) _Tsuk(9)_ (zuk6); here normalised to _Chok(9)_ (zok6)]]
+  - [[Page~599 #5: 鷟(9) _Tsuk(9)_ (zuk6); here normalised to _Chok(9)_ (zok6)]]
     ==
     - A phœnix of a carnation color [[Kangxi: 鸑鷟也, 紫鳳曰鷟]];
     - a large species of duck near river banks [[Kangxi: 江中有鸑鷟似鳧而大此別一種]];

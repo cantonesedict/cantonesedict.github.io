@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faai
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~44 傀(3)]]
+  - [[Page~44 #11: 傀(3)]]
     ==
     <## - Great, strange, monstrous, as an eruption, a meteor; ##>
     - [[...]];
@@ -106,7 +106,7 @@ F
   ==
 W
   ====
-  - [[Page~44 噲(3)]]
+  - [[Page~44 #12: 噲(3)]]
     ==
     - To swallow, to drink ~~with avidity~~ [[Kangxi: 一曰嚵噲也]];
     - ~~voracious;~~
@@ -149,7 +149,7 @@ F
   ==
 W
   ====
-  - [[Page~44 塊(3)]]
+  - [[Page~44 #10: 塊(3)]]
     ==
     - A clod [[Kangxi: 墣也]], a lump;
     - a piece of, a fraction;
@@ -212,7 +212,7 @@ F
   ==
 W
   ====
-  - [[Page~44 快(3)]]
+  - [[Page~44 #9: 快(3)]]
     ==
     - Contented [[Kangxi: 稱心也可也]], glad [[Kangxi: 喜也]];
     - pleasure, cheerfulness;
@@ -303,7 +303,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~44 快(3); here normalised to 筷]]
+  - [[Page~44 #9: 快(3); here normalised to 筷]]
     ==
     - [[...]];
     - _f(a/)i(3) (2)tsz'_

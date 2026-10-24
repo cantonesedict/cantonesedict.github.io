@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fun
-* %date-modified --> 2026-08-21
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~64 (1)寛]]
+  - [[Page~64 #7: (1)寛]]
     --
     [[Alternative form of 寬. **See $寬fun1 for the canonical entry.**]]
     --
@@ -96,7 +96,7 @@ F
   ==
 W
   ====
-  - [[Page~64 (1)寛; here normalised to 寬]]
+  - [[Page~64 #7: (1)寛; here normalised to 寬]]
     ==
     - Large, spacious [[Kangxi 寬: 屋寬大也]], wide, ample [[Kangxi 寬: 裕也]], broad;
     - forgiving [[Kangxi 寬: 宥也]], easy [[Kangxi 寬: 舒也]], benignant, clement [[Kangxi 寬: 不猛也]]~~.~~``,`` kind, indulgent;
@@ -168,7 +168,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)懽]]
+  - [[Page~715 #20: (1)懽]]
     --
     [[Alternative form of 歡. **See $歡fun1 for the canonical entry.**]]
     --
@@ -204,7 +204,7 @@ F
   ==
 W
   ====
-  - [[Page~64 (1)歡]]
+  - [[Page~64 #8: (1)歡]]
     ==
     - Joyous, jocund, glad, frolicsome, gleeful, merry [[Kangxi: 喜樂也]];
     - to rejoice [[Kangxi: 喜動聲氣故从欠]];
@@ -218,7 +218,7 @@ W
         [[fun1 lok6 歡樂]]
         highly delighted.
     ==
-  - [[Page~715 (1)懽]]
+  - [[Page~715 #20: (1)懽]]
     --
     Interchanged with 歡 _(1)f(u/)n_ [[fun1]].
     --
@@ -304,7 +304,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~65 (1)貛]]
+  - [[Page~65 #1: (1)貛]]
     ==
     - A wild boar [[Kangxi: 野豕也]];
     - _(2)kau (1)f(u/)n_
@@ -352,7 +352,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)欵]]
+  - [[Page~65 #2: (2)欵]]
     --
     [[Alternative form of 款. **See $款fun2 for the canonical entry.**]]
     --
@@ -382,7 +382,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)欵; here normalised to 款]]
+  - [[Page~65 #2: (2)欵; here normalised to 款]]
     ==
     - ~~Something desired~~ ``Desiring`` [[Kangxi 款: 意有所欲也 etc.]];
     - sincere, single-hearted;
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)盥]]
+  - [[Page~65 #4: (2)盥]]
     --
     [[Reading variation. **See $盥gun3 for the canonical entry.**]] [[TODO]]
     --
@@ -490,7 +490,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (2)窾]]
+  - [[Page~65 #3: (2)窾]]
     ==
     - ~~An~~ empty ~~place~~ [[Kangxi: 空也]];
     - hollow, like an empty vessel;
@@ -537,7 +537,7 @@ F
   ==
 W
   ====
-  - [[Page~65 喚(3)]]
+  - [[Page~65 #5: 喚(3)]]
     --
     [[Reading variation. **See $喚wun6 for the canonical entry.**]] [[TODO]]
     --

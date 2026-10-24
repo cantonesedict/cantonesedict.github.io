@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cip
-* %date-modified --> 2026-08-04
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,7 +59,7 @@ F
   ==
 W
   ====
-  - [[Page~579 妾(8)]]
+  - [[Page~579 #3: 妾(8)]]
     ==
     - A concubine, a wife taken without the legal ceremonies [[Kangxi: 接也得接于君子者也]], a secondary wife;
     - term by which ladies call themselves;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haak
-* %date-modified --> 2026-10-02
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~69 赫(7) _Hak(7)_ (hak1); here normalised to _H(a/)k(7)_ (haak1)]]
+  - [[Page~69 #14: 赫(7) _Hak(7)_ (hak1); here normalised to _H(a/)k(7)_ (haak1)]]
     ==
     - Bright ``red``, splendid, luminous, like a fire or the sun [[Kangxi: 火赤貌 etc., 赫赫然盛也, 赫顯也]];
     - angry [[Kangxi: 赫怒意]];
@@ -202,7 +202,7 @@ F
   ==
 W
   ====
-  - [[Page~70 嚇(8)]]
+  - [[Page~70 #2: 嚇(8)]]
     ==
     - An angry ~~tone~~ ``sound`` [[Kangxi: 怒其聲]];
     - to threaten, to intimidate;
@@ -259,7 +259,7 @@ F
   ==
 W
   ====
-  - [[Page~70 客(8)]]
+  - [[Page~70 #1: 客(8)]]
     ==
     - A guest, a visitor [[Kangxi: 賔客]], a friend;
     - a dealer, customer, a stranger [[Kangxi: 凡自外至者皆曰客]];

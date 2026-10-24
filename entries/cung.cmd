@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -99,7 +99,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)充(1){𠑽=⿱亠兄}]]
+  - [[Page~40* #5: (1)充(1){𠑽=⿱亠兄}]]
     ==
     - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]]~~, to extend~~;
     - to carry out, to continue [[Kangxi 充: 行也滿也]];
@@ -158,7 +158,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)冲(1)沖]]
+  - [[Page~41 #1: (1)冲(1)沖]]
     --
     [[Alternative form of 沖. **See $沖cung1 for the canonical entry.**]]
     --
@@ -193,7 +193,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)悤; here normalised to 匆]]
+  - [[Page~608 #5: (1)悤; here normalised to 匆]]
     ==
     - Hurried [[Kangxi 悤: 悤悤急遽也, 亦作忩俗作匆非]], alarmed, agitated;
     - _n(o\)(6) h(i/)(3) (1)ts(')ung (1)ts(')ung_
@@ -221,7 +221,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40* (1)忡]]
+  - [[Page~40* #8: (1)忡]]
     ==
     - Sorrowful, grieved [[Kangxi: 憂也]];
     - _(1)ch(')ung (1)ch(')ung_
@@ -283,7 +283,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)㤝]]
+  - [[Page~40* #6: (1)㤝]]
     ==
     - The mind ~~much~~ moved [[Kangxi: 心動也]];
     - perturbed, agitated.
@@ -306,7 +306,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)悤]]
+  - [[Page~608 #5: (1)悤]]
     --
     [[Alternative form of 匆. **See $匆cung1 for the canonical entry.**]]
     --
@@ -333,7 +333,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)憧]]
+  - [[Page~41 #3: (1)憧]]
     ==
     - Unsettled in mind, disturbed, undecided [[Kangxi: 意不定也]];
     - irresolute.
@@ -373,7 +373,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (1)樅 _(1)Tsung_ (zung1); here normalised to _(1)Ts(')ung_ (cung1)]]
+  - [[Page~607 #4: (1)樅 _(1)Tsung_ (zung1); here normalised to _(1)Ts(')ung_ (cung1)]]
     ==
     - A sort of tall thuja or yew [[Kangxi: 松葉柏身]],
       which furnishes timber [[Kangxi: 今太廟梁材用此]];
@@ -426,7 +426,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)冲(1)沖]]
+  - [[Page~41 #1: (1)冲(1)沖]]
     ==
     - Young, delicate [[Kangxi 沖: 幼小也, 沖童也]];
     - harmonious [[Kangxi 沖: 和也]];
@@ -489,7 +489,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)涌]]
+  - [[Page~40* #7: (1)涌]]
     ==
     - A creek, a side stream coming into a river;
     - _(1)ch(')ung k(a/)u(3)_
@@ -523,7 +523,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1){𤧚=⿰𤣩怱}]]
+  - [[Page~608 #6: (1){𤧚=⿰𤣩怱}]]
     --
     [[Alternative form of 璁. **See $璁cung1 for the canonical entry.**]]
     --
@@ -555,7 +555,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1){𤧚=⿰𤣩怱}; here normalised to 璁]]
+  - [[Page~608 #6: (1){𤧚=⿰𤣩怱}; here normalised to 璁]]
     ==
     - A pebble or stone, resembling a precious gem [[Kangxi 璁: 石之似玉者]].
     ==
@@ -586,12 +586,12 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~39* (1)盅 _(1)Chung_ (zung1); here corrected to _(1)Ch(')ung_ (cung1)]]
+  - [[Page~39* #7: (1)盅 _(1)Chung_ (zung1); here corrected to _(1)Ch(')ung_ (cung1)]]
     ==
     - [[...]] a hollow vessel [[Kangxi: 器虛也, 通作沖]] [[...]];
     - [[...]].
     ==
-  - [[Page~41 (1)冲(1)沖; here normalised to 盅]]
+  - [[Page~41 #1: (1)冲(1)沖; here normalised to 盅]]
     ==
     - [[...]];
     - [[...]], hollow [[Kangxi 沖: 虛也]];
@@ -628,7 +628,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)罿]]
+  - [[Page~41 #4: (1)罿]]
     ==
     - A net to take birds, with a frame [[Kangxi: 罬也, 幡車罔]];
     - the Fan Wan says, a frame to cover rabbits [[Fan Wan: ::[掩]兔之車::]].
@@ -668,7 +668,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)翀]]
+  - [[Page~40* #10: (1)翀]]
     ==
     - To fly up [[Kangxi: 直上飛也]];
     - to ascend to the clouds;
@@ -701,7 +701,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)聰(1)聦]]
+  - [[Page~608 #4: (1)聰(1)聦]]
     --
     [[Alternative form of 聰. **See $聰cung1 for the canonical entry.**]]
     --
@@ -737,7 +737,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)聰(1)聦]]
+  - [[Page~608 #4: (1)聰(1)聦]]
     ==
     - Quick at hearing, astute, ready, quickwitted;
     - to perceive clearly [[Kangxi 聰: 聞也明也通也聽也]];
@@ -784,7 +784,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)葱]]
+  - [[Page~608 #8: (1)葱]]
     --
     [[Alternative form of 蔥. **See $蔥cung1 for the canonical entry.**]]
     --
@@ -811,7 +811,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)葱; here normalised to 蔥]]
+  - [[Page~608 #8: (1)葱; here normalised to 蔥]]
     ==
     - An onion~~, garlic~~;
     - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
@@ -878,7 +878,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)衝]]
+  - [[Page~41 #2: (1)衝]]
     ==
     - A path, a crossway [[Kangxi: 通道也 etc.]];
     - ~~to support;~~
@@ -943,7 +943,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)衷]]
+  - [[Page~40* #11: (1)衷]]
     ==
     - Inner garments [[Kangxi: 裏褻衣也]];
     - the heart;
@@ -993,7 +993,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)騘]]
+  - [[Page~608 #7: (1)騘]]
     --
     [[Alternative form of 驄. **See $驄cung1 for the canonical entry.**]]
     --
@@ -1026,7 +1026,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (1)騘; here normalised to 驄]]
+  - [[Page~608 #7: (1)騘; here normalised to 驄]]
     ==
     - A dapple-gray horse [[Kangxi 驄: 馬靑白雜毛也 etc.]]~~, a bay horse~~;
     - _(5)'ng (1)f(a/) (1)ts(')ung_
@@ -1074,7 +1074,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (2)冡; here corrected to 冢]]
+  - [[Page~41 #7: (2)冡; here corrected to 冢]]
     ==
     - The peak of a hill [[Kangxi 冢: 山頂也]];
     - a mound or tumulus [[Kangxi 冢: 墓之墳者亦曰冢]];
@@ -1130,7 +1130,7 @@ F
   ==
 W
   ====
-  - [[Page~41 ::(2)~~塜~~``塚``::]]
+  - [[Page~41 #8: ::(2)~~塜~~``塚``::]]
     ==
     - A grave, a tomb [[Kangxi 塚: 冢俗作塚]];
     - _(1)fong (2)ch(')ung_
@@ -1177,7 +1177,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (2){𠖥=⿱冖龍}; here normalised to 寵]]
+  - [[Page~41 #9: (2){𠖥=⿱冖龍}; here normalised to 寵]]
     ==
     - Grace, kindness, affection [[Kangxi 寵: 一曰愛也恩也]], regard, friendship;
     - favor of superiors;
@@ -1196,7 +1196,7 @@ W
         [[jan4 cung2 仁寵]],
         loving-kindness.
     ==
-  - [[Page~713 (2){𠖥=⿱冖龍}(2)寵]]
+  - [[Page~713 #2: (2){𠖥=⿱冖龍}(2)寵]]
     --
     The second form [[寵]] of this character is the most correct.
     --
@@ -1245,7 +1245,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~713 㧤(3)]]
+  - [[Page~713 #3: 㧤(3)]]
     ==
     - To leap, to jump [[Kangxi: 跳也]].
     ==
@@ -1286,7 +1286,7 @@ F
   ==
 W
   ====
-  - [[Page~41 銃(3)]]
+  - [[Page~41 #10: 銃(3)]]
     ==
     - ~~A piece of iron bored~~ ``The eye of an axe`` [[Kangxi: 銎也, 斧穿也]];
     - a blunderbuss, a ginjall, a gun;
@@ -1350,7 +1350,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)叢]]
+  - [[Page~609 #3: (4)叢]]
     ==
     - A thicket, a bushy place;
     - crowded, as trees;
@@ -1402,7 +1402,7 @@ F
   ==
 W
   ====
-  - [[Page~608 (4)從]]
+  - [[Page~608 #9: (4)從]]
     ==
     - To follow, to listen to [[Kangxi: 相聽也]], to comply with, to agree;
     - to believe in;
@@ -1496,7 +1496,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+  - [[Page~606 #3: (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - To rejoice;
     - ~~pleasure, delight~~ ``joy`` [[Kangxi: 樂也]];
@@ -1538,7 +1538,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (1)松]]
+  - [[Page~609 #1: (1)松]]
     ==
     - The fir tree [[Kangxi: 木也 etc.]];
     - an emblem of longevity;
@@ -1637,7 +1637,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)淞]]
+  - [[Page~609 #2: (4)淞]]
     --
     [[Reading variation. **See $淞sung1 for the canonical entry.**]] [[TODO]]
     --
@@ -1669,7 +1669,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)潨; here normalised to 潀]]
+  - [[Page~609 #4: (4)潨; here normalised to 潀]]
     ==
     - Smaller streams flowing into the main river [[Kangxi 潨: 小水入大水曰潨]];
     - ~~tributaries;~~
@@ -1702,7 +1702,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)潨]]
+  - [[Page~609 #4: (4)潨]]
     --
     [[Alternative form of 潀. **See $潀cung4 for the canonical entry.**]]
     --
@@ -1766,7 +1766,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)琮 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+  - [[Page~606 #6: (1)琮 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - An ancient badge ~~of princely dignity~~, eight or nine inches wide,
       octagonal, and having a hole in it [[Kangxi: 瑞玉大八寸似車釭, 謂其狀外八角而中圓也]].
@@ -1791,7 +1791,7 @@ F
   ==
 W
   ====
-  - [[Page~40* (1)种 _(1)Ch(')ung_ (cung1); here corrected to _(4)Ch(')ung_ (cung4)]]
+  - [[Page~40* #9: (1)种 _(1)Ch(')ung_ (cung1); here corrected to _(4)Ch(')ung_ (cung4)]]
     ==
     - Young grain [[Kangxi: 稚也]];
     - delicate, tender;
@@ -1865,7 +1865,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (4)虫(4)蟲]]
+  - [[Page~41 #5: (4)虫(4)蟲]]
     --
     [[Alternative form of 蟲. **See $蟲cung4 for the canonical entry.**]]
     --
@@ -1898,7 +1898,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (4)虫(4)蟲]]
+  - [[Page~41 #5: (4)虫(4)蟲]]
     ==
     - Term for featherless and hairless animals,
       including insects, frogs, snails, &c.;
@@ -1910,7 +1910,7 @@ W
     --
     [[Otherwise, an alternative form of 爞. **See $爞cung4 for the canonical entry.**]]
     --
-  - [[Page~715 (1)虺(1)虫]]
+  - [[Page~715 #15: ::~~(1)虺~~(1)虫::]]
     ==
     - The second [[虫]] is used for 蟲 _(4)ch(')ung_ [[cung4]]_;_
     - [[...]].
@@ -1942,7 +1942,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (4)重]]
+  - [[Page~41 #6: (4)重]]
     ==
     - To duplicate, to repeat, to reiterate [[Kangxi: 複也疊也]];
     - to add;
@@ -2011,7 +2011,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40* 重(6) _Chung(6)_ (zung6); here corrected to _(5)Ch(')ung_ (cung5)]]
+  - [[Page~40* #4: 重(6) _Chung(6)_ (zung6); here corrected to _(5)Ch(')ung_ (cung5)]]
     ==
     - Heavy, weighty [[Kangxi: 毛氏曰凡物不輕而重則上聲]];
     - [[...]];

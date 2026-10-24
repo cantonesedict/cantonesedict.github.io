@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hang
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)亨]]
+  - [[Page~72 #12: (1)亨]]
     ==
     - To penetrate or pervade [[Kangxi: 通也]];
     - successful;
@@ -113,7 +113,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~72 (1)哼]]
+  - [[Page~72 #13: (1)哼]]
     ==
     - Frightened, an antipathy to [[Kangxi: 嗆哼愚怯貌]];
     - a local word applied to smells, lothsome.
@@ -153,7 +153,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)牼]]
+  - [[Page~72 #16: (1)牼]]
     --
     The shank bone of an ox [[Kangxi: 牛膝下骨也]].
     --
@@ -187,7 +187,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)硜]]
+  - [[Page~72 #15: (1)硜]]
     ==
     - The jingling of stones, striking hard stones together [[Kangxi: 石聲]].
     ==
@@ -225,7 +225,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~716 (1)脝]]
+  - [[Page~716 #5: (1)脝]]
     ==
     - A puffed belly [[Kangxi: 膨脝脹也, 膨脝腹滿貌]];
     - _(4)p(')(a/)ng (1)hang_
@@ -255,7 +255,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)鏗]]
+  - [[Page~72 #14: (1)鏗]]
     ==
     - To strike against [[Kangxi: 撞也]] as sounding glasses or metals,
       a ringing or metallic sound [[Kangxi: 鏗鏘金石聲, 或作鍞銵]];
@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (2)肯]]
+  - [[Page~73 #7: (2)肯]]
     ==
     - ~~The attachment of the muscles~~ ``Flesh attached to bone`` [[Kangxi: 著骨肉也]];
     - to assent, willing, acquiescing [[Kangxi: 肯可也]];
@@ -377,7 +377,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4)恒; here normalised to 恆]]
+  - [[Page~73 #6: (4)恒; here normalised to 恆]]
     ==
     - Constant, regular, perpetual [[Kangxi 恆: 常也, 恆久也]], according to rule [[Kangxi 恆: 恆故也必因循故法也]];
     - to continue of the same mind, persevering;
@@ -437,7 +437,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~73 (4)恒]]
+  - [[Page~73 #6: (4)恒]]
     --
     [[Alternative form of 恆. **See $恆hang4 for the canonical entry.**]]
     --
@@ -468,7 +468,7 @@ F
   ==
 W
   ====
-  - [[Page~74 (4)桁 _(4)H(a/)ng_ (haang4); here normalised to _(4)Hang_ (hang4)]]
+  - [[Page~74 #6: (4)桁 _(4)H(a/)ng_ (haang4); here normalised to _(4)Hang_ (hang4)]]
     ==
     - The purlines of a roof [[Kangxi: 屋桁屋橫木也]];
     - [[...]];
@@ -526,7 +526,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4)珩]]
+  - [[Page~73 #2: (4)珩]]
     ==
     - ~~An~~ ``The gem on an`` ornamented clasp~~, a gem which has a play of colors,
       worn on the person~~ [[Kangxi: 佩上玉也 etc., 通作衡]].
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4)莖]]
+  - [[Page~73 #5: (4)莖]]
     --
     [[Reading variation. **See $莖ging3 for the canonical entry.**]] [[TODO]]
     --
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4){𧄇=⿱艹⿲彳魚亍}; here normalised to 蘅]]
+  - [[Page~73 #4: (4){𧄇=⿱艹⿲彳魚亍}; here normalised to 蘅]]
     ==
     - A fragrant plant like mallows [[Kangxi 蘅: 香草也 etc.]];
     - _t(o\)(6) (4)hang_
@@ -628,11 +628,11 @@ F
   ==
 W
   ====
-  - [[Page~73 before (4)行]]
+  - [[Page~73 before #1: (4)行]]
     --
     (This character [[行]] is often pronounced like the next syllable [[haang]].)
     --
-  - [[Page~73 (4)行]]
+  - [[Page~73 #1: (4)行]]
     ==
     - To go, to walk, to proceed [[Kangxi: 人之步趨也, 適也往也去也]];
     - to act, to do, to direct;
@@ -715,7 +715,7 @@ W
         to thunder.
         <## TODO: 行雷 under $雷leoi4 with example 行雷閃電 ##>
     ==
-  - [[Page~716 (4)行]]
+  - [[Page~716 #6: (4)行]]
     ==
     - Temporary, for the present;
     - _(4)hang (4)ying_
@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4){𢖍=⿲彳魚亍}; here normalised to 衡]]
+  - [[Page~73 #3: (4){𢖍=⿲彳魚亍}; here normalised to 衡]]
     ==
     - A yoke or strap on the head of cattle [[Kangxi 衡: 楅衡所以楅持牛使不得抵觸也]];
     - the space under the eyebrows [[Kangxi 衡: 眉目之閒也]];
@@ -924,7 +924,7 @@ F
   ==
 W
   ====
-  - [[Page~74 倖(6)]]
+  - [[Page~74 #1: 倖(6)]]
     --
     [[Alternative form of 幸 (for the "fortunate" and "favour" senses). See $幸hang6.]]
     --
@@ -956,7 +956,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~73 (2)悻 _(2)Hang_ (hang2); here corrected to _Hang(6)_ (hang6) and normalised to 婞]]
+  - [[Page~73 #8: (2)悻 _(2)Hang_ (hang2); here corrected to _Hang(6)_ (hang6) and normalised to 婞]]
     ==
     - [[...]];
     - quarrelsome, pertinacious [[Kangxi 婞: 同悻, 很也]].
@@ -993,7 +993,7 @@ F
   ==
 W
   ====
-  - [[Page~73 幸(6)]]
+  - [[Page~73 #9: 幸(6)]]
     ==
     - Fortunate, lucky [[Kangxi: 吉而免凶也 etc.]];
     - blessed;
@@ -1015,7 +1015,7 @@ W
         [[bat1 hang6 zung1 zi1 hang6 不幸中之幸]]
         fortunate in the midst of disaster.
     ==
-  - [[Page~74 倖(6)]]
+  - [[Page~74 #1: 倖(6)]]
     ==
     - To obtain or avoid without merit or right [[Kangxi 幸: 非分而得曰幸, 非所當得而得與不可免而免曰幸]];
     - _hang(6) (5)m(i/)n_
@@ -1064,7 +1064,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (2)悻 _(2)Hang_ (hang2); here normalised to _Hang(6)_ (hang6)]]
+  - [[Page~73 #8: (2)悻 _(2)Hang_ (hang2); here normalised to _Hang(6)_ (hang6)]]
     ==
     - _~~(2)Hang (2)hang~~ ``Hang(6) hang(6)``_ [[hang6 hang6]],
         anger, hatred [[Kangxi: 悻悻很怒也]];
@@ -1097,7 +1097,7 @@ F
   ==
 W
   ====
-  - [[Page~74 杏(6)]]
+  - [[Page~74 #2: 杏(6)]]
     ==
     - A kind of plum [[Kangxi: 果名 etc.]];
     - _hang(6) (4)yan_
@@ -1143,7 +1143,7 @@ F
   ==
 W
   ====
-  - [[Page~74 荇(6)]]
+  - [[Page~74 #3: 荇(6)]]
     ==
     - An aquatic vegetable with a reddish leaf [[Kangxi: 接余也 etc.]];
     - not found in Canton.
@@ -1192,7 +1192,7 @@ F
   ==
 W
   ====
-  - [[Page~74 行(6)]]
+  - [[Page~74 #4: 行(6)]]
     ==
     - Actions, conduct [[Kangxi: 行迹也, 德行內外在心爲德施之爲行]];
     - _(2)pan hang(6)_

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -126,7 +126,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)俘]]
+  - [[Page~58 #2: (1)俘]]
     ==
     - To captivate, to capture [[Kangxi: 一說俘取也]], to take prisoner in war;
     - a prisoner ``of war`` [[Kangxi: 囚敵曰俘]];
@@ -185,7 +185,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)刳]]
+  - [[Page~715 #4: (1)刳]]
     ==
     - To cut open [[Kangxi: 刳剖也]];
     - to rip up, to kill [[Kangxi: 屠也]];
@@ -230,7 +230,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)呼]]
+  - [[Page~58 #6: (1)呼]]
     ==
     - To breathe ``out``, an expiration [[Kangxi: 外息也, 出息爲呼入息爲吸]];
     - to call, to invoke [[Kangxi: 喚也]];
@@ -297,7 +297,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)嘑]]
+  - [[Page~58 #7: (1)嘑]]
     ==
     - Same as the preceding [[呼]];
     - also to hoot``, to roar at`` [[Kangxi: 唬也, 大聲]], to menace;
@@ -340,7 +340,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)夫]]
+  - [[Page~57 #9: (1)夫]]
     ==
     - ~~To help, one who can assist;~~
     - a man [[Kangxi: 男子通稱]], a scholar, a distinguished man;
@@ -430,7 +430,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)孚]]
+  - [[Page~58 #1: (1)孚]]
     ==
     - [[...]];
     - accordant, mutual agreement;
@@ -484,7 +484,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~58 (1)孚; here normalised to 孵]]
+  - [[Page~58 #1: (1)孚; here normalised to 孵]]
     ==
     - To brood over, to hatch [[Kangxi 孵: 孵化也 etc.]];
     - [[...]].
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)怤]]
+  - [[Page~715 #5: (1)怤]]
     ==
     - To think upon with pleasure [[Kangxi: 思也, 悅也]];
     - pleased, gratified with, as a friend.
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)敷]]
+  - [[Page~58 #8: (1)敷]]
     ==
     - To spread out, to diffuse [[Kangxi: 散也]], to give;
     - to issue ~~an order~~, to promulgate [[Kangxi: ::言其外布[...]::]], to announce, to show forth;
@@ -674,7 +674,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)枯]]
+  - [[Page~58 #12: (1)枯]]
     ==
     - ~~Rotten~~ ``Withered`` wood [[Kangxi: 槀木也]];
     - decayed~~, rotten, putrid~~;
@@ -722,13 +722,13 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)桴; here normalised to 枹]]
+  - [[Page~58 #3: (1)桴; here normalised to 枹]]
     ==
     - [[...]];
     - a drumstick [[Kangxi 桴: 擊鼓杖與枹同]];
     - [[...]].
     ==
-  - [[Page~58 (1)枹]]
+  - [[Page~58 #5: (1)枹]]
     ==
     - A drumstick [[Kangxi: 擊鼓杖也]];
     - [[...]].
@@ -776,7 +776,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)柎]]
+  - [[Page~58 #11: (1)柎]]
     ==
     - A stem or petiole;
     - a calyx [[Kangxi: 花萼足也凡草木房謂之柎]];
@@ -831,7 +831,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)桴]]
+  - [[Page~58 #3: (1)桴]]
     ==
     - A raft [[Kangxi: 編竹木代舟也大曰筏小曰桴]];
     - a ridge pole in a roof [[Kangxi: 棟名, 棟謂之桴, 謂屋脊也]];
@@ -844,7 +844,7 @@ W
     --
     [[Otherwise, an alternative form of 枹. **See $枹fu1 for the canonical entry.**]]
     --
-  - [[Page~58 (1)柎; here normalised to 桴]]
+  - [[Page~58 #11: (1)柎; here normalised to 桴]]
     ==
     - [[...]];
     - a raft [[Kangxi 柎: 編木以渡曰泭或作柎通作桴]];
@@ -902,7 +902,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)滹]]
+  - [[Page~715 #2: (1)滹]]
     ==
     - A river in the southwest of Chihl(i/) [[直隸]],
       the _(1)F(u/) (4)t(')o (4)ho_ [[fu1 to4 ho4 滹沱河]],
@@ -925,7 +925,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)玞]]
+  - [[Page~715 #8: (1)玞]]
     --
     [[Alternative form of 砆. **See $砆fu1 for the canonical entry.**]]
     --
@@ -945,7 +945,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)痡]]
+  - [[Page~58 #9: (1)痡]]
     --
     [[Reading variation. **See $痡pou1 for the canonical entry.**]] [[TODO]]
     --
@@ -974,12 +974,12 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)砆]]
+  - [[Page~57 #10: (1)砆]]
     ==
     - A stone resembling a gem [[Kangxi: 同玞, 碔砆石次玉]];
     - a false gem.
     ==
-  - [[Page~715 (1)玞]]
+  - [[Page~715 #8: (1)玞]]
     ==
     - Is the same as 砆 _(1)f(u/)_ [[fu1]]_;_
     - it is probably a veined jasper.
@@ -1002,7 +1002,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)粰; here normalised to 稃]]
+  - [[Page~715 #6: (1)粰; here normalised to 稃]]
     ==
     - [[...]];
     - (1)稃 is also the capsule or pericarp of a seed [[Kangxi 稃: 稃卽米殻, 穀皮也]]~~,
@@ -1029,7 +1029,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)粰]]
+  - [[Page~715 #6: (1)粰]]
     --
     [[Alternative form of 麩. **See $麩fu1 for the canonical entry.**]]
     --
@@ -1056,7 +1056,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)膚]]
+  - [[Page~58 #10: (1)膚]]
     ==
     - The skin, the epidermis [[Kangxi: 皮也 etc.]];
     - the soft flesh;
@@ -1142,7 +1142,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (1)莩]]
+  - [[Page~58 #4: (1)莩]]
     ==
     - The pellicle lining the culms of reeds [[Kangxi: 莩者其筩中白皮至薄者也]];
     - ~~_met._ near to, friendly, sincere.~~
@@ -1219,7 +1219,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)趺]]
+  - [[Page~57 #11: (1)趺]]
     ==
     - To sit in audience or state, with the legs bent under one, _à la Turque_ [[Kangxi: 跏趺大坐也]]^;
     - ~~_(1)f(u/) (1)f(u/) (4)(i/)n_
@@ -1259,7 +1259,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 跗(6) _F(u/)(6)_ (fu6); here normalised to _(1)F(u/)_ (fu1)]]
+  - [[Page~715 #13: 跗(6) _F(u/)(6)_ (fu6); here normalised to _(1)F(u/)_ (fu1)]]
     ==
     - The instep of the foot, where sandals are tied [[Kangxi: 足上也 etc.]];
     - _~~f(u/)(6)~~ ``(1)f(u/)`` ch(u:)(3)_
@@ -1300,7 +1300,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)郛]]
+  - [[Page~715 #3: (1)郛]]
     ==
     - The outermost wall beyond the citadel [[Kangxi: 城外大郭也]];
     - the suburbs, the purlieus of a city.
@@ -1332,7 +1332,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)鈇]]
+  - [[Page~57 #12: (1)鈇]]
     --
     [[Reading variation. **See $鈇fu2 for the canonical entry.**]]
     --
@@ -1365,7 +1365,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)骷]]
+  - [[Page~715 #1: (1)骷]]
     ==
     - The shoulder-blade, the ~~thigh bone~~ ``knee-cap or lumbar vertebrae`` [[Kangxi: 骷髆䯊也]];
     - a skeleton;
@@ -1397,12 +1397,12 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)麩]]
+  - [[Page~57 #13: (1)麩]]
     ==
     - Bran or husk of wheat [[Kangxi: 小麥屑皮也一作麱]];
     - the refuse of hemp-seed or ground nut, after the oil is expressed.
     ==
-  - [[Page~715 (1)粰]]
+  - [[Page~715 #6: (1)粰]]
     ==
     - is the same as (1)麩;
     - [[...]].
@@ -1474,7 +1474,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (2)俛]]
+  - [[Page~715 #11: (2)俛]]
     --
     [[Alternative form of 俯. **See $俯fu2 for the canonical entry.**]]
     --
@@ -1510,7 +1510,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)俯]]
+  - [[Page~59 #10: (2)俯]]
     ==
     - To stoop ``the head`` [[Kangxi: 俛也]], to bow;
     - to consider, to look down on, to condescend;
@@ -1525,7 +1525,7 @@ W
         [[fu2 joeng5 俯仰]],
         to look down and up~~, all ranks~~.
     ==
-  - [[Page~715 (2)俛; here normalised to 俯]]
+  - [[Page~715 #11: (2)俛; here normalised to 俯]]
     ==
     - Interchanged with 頫 ~~_t(')i(u/)(3)_ [[tiu3]]~~
       in the senses of hanging down the head [[Kangxi 俛: 同俯頫 etc.]];
@@ -1565,7 +1565,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)府]]
+  - [[Page~59 #9: (2)府]]
     ==
     - A store-house, a record office, a library [[Kangxi: 文書藏也]], a treasury [[Kangxi: 府謂寶藏財賄之處也]];
     - the officer over them [[Kangxi: 掌財幣之官皆曰府]];
@@ -1632,13 +1632,13 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)撫; here normalised to 拊]]
+  - [[Page~59 #11: (2)撫; here normalised to 拊]]
     ==
     - [[...]];
     - [[...]], to pat [[Kangxi 撫: 拍也]];
     - [[...]].
     ==
-  - [[Page~59 (2)拊]]
+  - [[Page~59 #12: (2)拊]]
     ==
     - To pat, [[...]], to strike``, to beat`` [[Kangxi: 擊也拍也, 重擊曰擊輕擊曰拊]];
     - ~~to permit;~~
@@ -1693,7 +1693,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)撫]]
+  - [[Page~59 #11: (2)撫]]
     ==
     - To keep down with the hand~~, to fold the hands~~;
     - to stroke, [[...]];
@@ -1716,7 +1716,7 @@ W
     --
     [[Otherwise, an alternative form of 拊. **See $拊fu2 for the canonical entry.**]]
     --
-  - [[Page~59 (2)拊]]
+  - [[Page~59 #12: (2)拊]]
     ==
     - [[...]], to put the hand on, [[...]];
     - [[...]];
@@ -1767,7 +1767,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)斧]]
+  - [[Page~59 #7: (2)斧]]
     ==
     - An ax, a hatchet [[Kangxi: 斫也 etc.]];
     - to cut, to hack, to fell [[Kangxi: 凡以斧斫物亦曰斧]];
@@ -1857,7 +1857,7 @@ F
   ==
 W
   ====
-  - [[Page~60 (2)琥]]
+  - [[Page~60 #2: (2)琥]]
     ==
     - A signet, made of veined stone ~~like a tiger's skin~~ ``depicting a tiger`` [[Kangxi: 發兵瑞玉爲虎文]];
     - _(2)f(u/) (4)f(u/)_
@@ -1906,7 +1906,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)甫]]
+  - [[Page~59 #3: (2)甫]]
     ==
     - Large;
     - beautiful, good;
@@ -1965,7 +1965,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)簠]]
+  - [[Page~59 #4: (2)簠]]
     ==
     - A sort of basket, square outside and round within,
       used to contain grain [[Kangxi: 外方內圓曰簠用貯稻粱容一斗二升]]
@@ -2003,7 +2003,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)脯]]
+  - [[Page~59 #5: (2)脯]]
     ==
     - Preserved or dried meat [[Kangxi: 肉乾也, 脯腊也, 乾脯, 乾肉爲脯]];
     - ~~flesh;~~
@@ -2052,7 +2052,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)腑]]
+  - [[Page~59 #13: (2)腑]]
     ==
     - The inferior viscera [[Kangxi: 臟腑, 本作府]];
     - _luk(9) (2)f(u/)_
@@ -2099,7 +2099,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)苦]]
+  - [[Page~59 #14: (2)苦]]
     ==
     - A marshy plant, which becomes sweet when frozen [[Kangxi: 苦苦菜也陸璣云生田及山澤中得霜甜脃而美]];
     - bitter [[Kangxi: 味也]], unpleasant;
@@ -2180,7 +2180,7 @@ F
   ==
 W
   ====
-  - [[Page~60 (2)虎]]
+  - [[Page~60 #1: (2)虎]]
     ==
     - A tiger, the king of beasts [[Kangxi: 惡獸也, 山獸之君]];
     - brave, fierce;
@@ -2253,7 +2253,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)釜]]
+  - [[Page~59 #8: (2)釜]]
     ==
     - A boiler or caldron without feet [[Kangxi: 鬴或作{𨥏=⿱父金}俗省作釜, 有足曰錡無足曰釜]];
     - _(2)f(u/) tsang(3)_
@@ -2298,7 +2298,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)鈇 _(1)F(u/)_ (fu1); here normalised to _(2)F(u/)_ (fu2)]]
+  - [[Page~57 #12: (1)鈇 _(1)F(u/)_ (fu1); here normalised to _(2)F(u/)_ (fu2)]]
     ==
     - A kind of hatchet of small ax [[Kangxi: 斧也, 鈇方于反又音斧]].
     ==
@@ -2349,7 +2349,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)黼]]
+  - [[Page~59 #6: (2)黼]]
     ==
     - Black and white, diversified``, in embroidery`` [[Kangxi: 白與黑相次文 etc.]];
     - embroidered, elegant dress;
@@ -2434,7 +2434,7 @@ F
   ==
 W
   ====
-  - [[Page~60 副(3)]]
+  - [[Page~60 #5: 副(3)]]
     ==
     - To assist, to aid, to second;
     - ~~to investigate [[Kangxi: 審也]];~~
@@ -2534,7 +2534,7 @@ F
   ==
 W
   ====
-  - [[Page~60 富(3)]]
+  - [[Page~60 #4: 富(3)]]
     ==
     - Rich, affluent [[Kangxi: 備也一曰厚也, 豐於財也]], abundant [[Kangxi: 凡充裕皆曰富]];
     - to provide, to enrich;
@@ -2559,7 +2559,7 @@ W
         [[fu3 zuk1 富足]]
         rich enough.
     ==
-  - [[Page~715 富(3)]]
+  - [[Page~715 #12: 富(3)]]
     ==
     - The phrase _hok(9) f(u/)(3) (1)ch(e/)_ [[hok6 fu3 ze1]]^ should be
         _hok(9) f(u/)(3) (5)'ng ~~(1)ch(')(e/)~~ ``(1)k(u:)``_
@@ -2604,7 +2604,7 @@ F
   ==
 W
   ====
-  - [[Page~60 庫(3)]]
+  - [[Page~60 #7: 庫(3)]]
     ==
     - A carriage-house;
     - an armory, an arsenal [[Kangxi: 兵車藏也]];
@@ -2650,7 +2650,7 @@ F
   ==
 W
   ====
-  - [[Page~60 戽(3)]]
+  - [[Page~60 #9: 戽(3)]]
     ==
     - To bale out water [[Kangxi: 抒也]];
     - a baling vessel [[Kangxi: 戽斗舟中渫水器也]];
@@ -2695,7 +2695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~60 褲(3)袴(3)]]
+  - [[Page~60 #8: 褲(3)袴(3)]]
     --
     [[Alternative form of 褲. See $褲fu3.]]
     --
@@ -2725,7 +2725,7 @@ F
   ==
 W
   ====
-  - [[Page~60 褲(3)袴(3)]]
+  - [[Page~60 #8: 褲(3)袴(3)]]
     ==
     - A covering for the legs, trowsers [[Kangxi 袴: 脛衣也]];
     - _(4)ngau (4)t(')au ~~fu(3)~~ ``f(u/)(3)``_
@@ -2782,7 +2782,7 @@ F
   ==
 W
   ====
-  - [[Page~60 賦(3)]]
+  - [[Page~60 #6: 賦(3)]]
     ==
     - To exact, to levy, to collect, to require [[Kangxi: 責取也, 斂也]];
     - taxes of money ~~or~~ ``for the`` military ~~arms~~;
@@ -2872,7 +2872,7 @@ F
   ==
 W
   ====
-  - [[Page~631 乎 _(4)(U/)_ (wu4); here normalised to _(4)F(u/)_ (fu4)]]
+  - [[Page~631 #12: 乎 _(4)(U/)_ (wu4); here normalised to _(4)F(u/)_ (fu4)]]
     ==
     - An interrogative adverb [[Kangxi: 疑辭]];
     - an interjection of doubt, admiration, or inquiry,
@@ -2984,7 +2984,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)夫]]
+  - [[Page~58 #16: (4)夫]]
     ==
     - An initial particle [[Kangxi: 語端辭]];
     - now therefore, however;
@@ -3028,7 +3028,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)扶]]
+  - [[Page~58 #17: (4)扶]]
     ==
     - ~~To lead a hand,~~ ~~te~~ ``to`` aid, to assist [[Kangxi: 佐也一曰相也]];
     - to uphold, to protect [[Kangxi: 護也]];
@@ -3088,7 +3088,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)符]]
+  - [[Page~58 #14: (4)符]]
     ==
     - A tally made of two slips [[Kangxi: ::符信也[...]分而相合::, 符符節也分爲兩邊各持一以爲信]];
     - a seal on two pieces;
@@ -3142,7 +3142,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (4)芙]]
+  - [[Page~715 #9: (4)芙]]
     ==
     - A flower;
     - _(4)f(u/) (4)yung (1)f(a/)_
@@ -3190,7 +3190,7 @@ F
   ==
 W
   ====
-  - [[Page~58 (4)苻]]
+  - [[Page~58 #15: (4)苻]]
     ==
     - A plant, called devil's eye [[Kangxi: 苻鬼目 etc.]],
       from the red and round ~~seeds~~ ``fruit`` it bears [[Kangxi: 莖似葛葉圓而毛子如耳璫赤色叢生江東人呼鬼目草]];
@@ -3242,7 +3242,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (4)蚨]]
+  - [[Page~59 #1: (4)蚨]]
     ==
     - A species of cicada or dytiscus,
       called _(1)ts(')ing (4)f(u/)_ [[cing1 fu4 青蚨]],
@@ -3266,7 +3266,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (4)颫]]
+  - [[Page~715 #10: (4)颫]]
     ==
     - A gust of wind;
     - the wind blowing downwards [[Kangxi: 風自上下謂之颫颻]];
@@ -3295,7 +3295,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (4)鳬; here normalised to 鳧]]
+  - [[Page~59 #2: (4)鳬; here normalised to 鳧]]
     ==
     - A sheldrake or mallard [[Kangxi 鳧: 野曰鳧家曰鴨]];
     - a wild duck with a crest;
@@ -3335,7 +3335,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (4)鳬]]
+  - [[Page~59 #2: (4)鳬]]
     --
     [[Alternative form of 鳧. **See $鳧fu4 for the canonical entry.**]]
     --
@@ -3376,7 +3376,7 @@ F
   ==
 W
   ====
-  - [[Page~60 (5)婦]]
+  - [[Page~60 #3: (5)婦]]
     ==
     - A wife, a married woman, a female under subjection [[Kangxi: 服也, ::[...]又女子已嫁曰婦婦之言服也服事於夫也::]];
     - a lady;
@@ -3491,7 +3491,7 @@ F
   ==
 W
   ====
-  - [[Page~61 仆(6)]]
+  - [[Page~61 #8: 仆(6)]]
     ==
     - To fall down ``prostrate`` [[Kangxi: 偃也僵也]];
     - to fall to the earth;
@@ -3540,7 +3540,7 @@ F
   ==
 W
   ====
-  - [[Page~62 付(6)]]
+  - [[Page~62 #3: 付(6)]]
     ==
     - To give, to deliver, to hand over [[Kangxi: ::^{𢌿=⿱田廾}也授也::]];
     - _f(u/)(6) k(i/)(3)_
@@ -3603,7 +3603,7 @@ F
   ==
 W
   ====
-  - [[Page~62 傅(6)]]
+  - [[Page~62 #2: 傅(6)]]
     ==
     - To annex [[Kangxi: 麗著也]]~~, to arrange~~;
     - ~~to receive;~~
@@ -3735,7 +3735,7 @@ F
   ==
 W
   ====
-  - [[Page~61 父(6)]]
+  - [[Page~61 #1: 父(6)]]
     ==
     - A father [[Kangxi: 矩也家長率敎者 etc.]];
     - a senior, an ancestor, an old man [[Kangxi: 老叟之稱]];
@@ -3814,7 +3814,7 @@ F
   ==
 W
   ====
-  - [[Page~61 祔(6)]]
+  - [[Page~61 #4: 祔(6)]]
     ==
     - To sacrifice to ``the newly dead alongside`` ancestors in the hall [[Kangxi: 後死者合食於先祖]];
     - to inter in the same tomb [[Kangxi: 合葬亦曰祔]];
@@ -3853,7 +3853,7 @@ F
   ==
 W
   ====
-  - [[Page~61 腐(6)]]
+  - [[Page~61 #6: 腐(6)]]
     ==
     - Corrupted, carious, rotten [[Kangxi: 爛也, 朽也敗也]];
     - ~~crushed to powder;~~
@@ -3912,7 +3912,7 @@ F
   ==
 W
   ====
-  - [[Page~61 訃(6)]]
+  - [[Page~61 #10: 訃(6)]]
     ==
     - To announce the death [[Kangxi: 吿喪也]] of a parent or relative
       by the nearest mourner on the 7th~day;
@@ -3952,7 +3952,7 @@ F
   ==
 W
   ====
-  - [[Page~61 負(6)]]
+  - [[Page~61 #11: 負(6)]]
     ==
     - To carry on the back, to bear [[Kangxi: 負背也置項背也, 擔也, 荷也]];
     - to take a duty;
@@ -4025,7 +4025,7 @@ F
   ==
 W
   ====
-  - [[Page~62 賻(6)]]
+  - [[Page~62 #1: 賻(6)]]
     ==
     - To contribute to bury one [[Kangxi: 助也, 以財助喪也]];
     - to assist an interment by giving articles.
@@ -4058,7 +4058,7 @@ F
   ==
 W
   ====
-  - [[Page~61 赴(6)]]
+  - [[Page~61 #9: 赴(6)]]
     ==
     - To go to, to repair to, to hasten [[Kangxi: 赴至也, 趨而至也, 趨也]];
     - to arrive at, to come;
@@ -4110,7 +4110,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 跗(6)]]
+  - [[Page~715 #13: 跗(6)]]
     --
     [[Reading variation. **See $跗fu1 for the canonical entry.**]]
     --
@@ -4139,7 +4139,7 @@ F
   ==
 W
   ====
-  - [[Page~61 輔(6)]]
+  - [[Page~61 #7: 輔(6)]]
     ==
     - The rack or cheeks of a cart [[Kangxi: 車輔兩旁夾車木也 etc.]];
     - end of the jaw bones [[Kangxi: 人頰骨也, 輔上頷也]];
@@ -4185,7 +4185,7 @@ F
   ==
 W
   ====
-  - [[Page~61 附(6)]]
+  - [[Page~61 #5: 附(6)]]
     ==
     - Near, about, ~~approaching~~ ``attached`` [[Kangxi: 依也近也著也]];
     - to lean on, to follow;
@@ -4263,7 +4263,7 @@ F
   ==
 W
   ====
-  - [[Page~61 駙(6)]]
+  - [[Page~61 #2: 駙(6)]]
     ==
     - Near [[Kangxi: 一曰近也]];
     - quick [[Kangxi: 一曰疾也]];
@@ -4292,7 +4292,7 @@ F
   ==
 W
   ====
-  - [[Page~61 鮒(6)]]
+  - [[Page~61 #3: 鮒(6)]]
     ==
     - A ``small`` freshwater fish resembling the perch [[Kangxi: 魚名, 鮒鰿也今作鯽, 鮒魚魚之小者]],
       said to go in pairs or shoals [[Kangxi: 以相附謂之鮒]], and be faithful to each other [[Kangxi: 義取夫婦相依附者也]];

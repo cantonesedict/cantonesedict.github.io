@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,7 +81,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)偢]]
+  - [[Page~562 #6: (1)偢]]
     --
     [[Alternative form of 瞅. **See $瞅cau1 for the canonical entry.**]]
     --
@@ -171,7 +171,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (1)抽]]
+  - [[Page~26|n69 #10: (1)抽]]
     ==
     - To take from, to take out [[Kangxi: 拔也除也]];
     - to take a dividend;
@@ -295,7 +295,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)掫 _(1)Tsau_ (zau1); here corrected to _(1)Ch(')au_ (cau1)]]
+  - [[Page~560 #9: (1)掫 _(1)Tsau_ (zau1); here corrected to _(1)Ch(')au_ (cau1)]]
     ==
     - [[...]];
     - to seize, to take with the hand [[Kangxi: 手取物也]];
@@ -319,7 +319,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)揫(1)揪]]
+  - [[Page~562 #7: (1)揫(1)揪]]
     --
     [[Reading variation. **See $揪zau1 for the canonical entry.**]]
     --
@@ -341,7 +341,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)揫(1)揪]]
+  - [[Page~562 #7: (1)揫(1)揪]]
     --
     [[Alternative form of 揪, and reading variation. **See $揪zau1 for the canonical entry.**]]
     --
@@ -365,7 +365,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)楸]]
+  - [[Page~562 #8: (1)楸]]
     ==
     - A strong wood;
     - the tree is like a yew or cypress;
@@ -394,7 +394,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)湫]]
+  - [[Page~562 #10: (1)湫]]
     ==
     - A pond, a fish-pond, a pool [[Kangxi: 北人呼水池爲湫]];
     - [[...]];
@@ -431,7 +431,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~563 (1)煍]]
+  - [[Page~563 #1: (1)煍]]
     ==
     - To change the color of [[Kangxi: 變色也]];
     - to colly, to blacken, as with smoke;
@@ -462,7 +462,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (1)瘳]]
+  - [[Page~26|n69 #12: (1)瘳]]
     ==
     - Convalescent [[Kangxi: 疾病瘉也]];
     - curable;
@@ -508,7 +508,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)偢; here normalised to 瞅]]
+  - [[Page~562 #6: (1)偢; here normalised to 瞅]]
     ==
     - [[...]];
     - _(4)'m (1)ts(')au (2)ts(')oi_
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)秋]]
+  - [[Page~562 #5: (1)秋]]
     ==
     - Autumn [[Kangxi: 金行之時]];
     - harvest, the time of reaping;
@@ -630,7 +630,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (1)篘]]
+  - [[Page~26|n69 #11: (1)篘]]
     ==
     - A strainer made of wicker or bamboo for straining spirits [[Kangxi: 酒籠漉取酒也]].
     ==
@@ -652,7 +652,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)紬 _(4)Ch(')au_ (cau4); here corrected to _(1)Ch(')au_ (cau1)]]
+  - [[Page~27|n70 #7: (4)紬 _(4)Ch(')au_ (cau4); here corrected to _(1)Ch(')au_ (cau1)]]
     ==
     - [[...]];
     - to draw out threads for weaving [[Kangxi: 紬抽也]];
@@ -683,7 +683,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鞦]]
+  - [[Page~563 #3: (1)鞦]]
     ==
     - The traces of a carriage [[Kangxi: 車鞦也]];
     - _(1)ts(')au (1)ts(')(i/)n_
@@ -716,7 +716,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鰌(1)鰍]]
+  - [[Page~563 #4: (1)鰌(1)鰍]]
     --
     [[Alternative form of 鰍. **See $鰍cau1 for the canonical entry.**]]
     --
@@ -741,7 +741,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鰌(1)鰍]]
+  - [[Page~563 #4: (1)鰌(1)鰍]]
     ==
     - An eel;
     - the mud or conger eel [[Kangxi 鰌: 鰼也]];
@@ -781,7 +781,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)鶖]]
+  - [[Page~563 #5: (1)鶖]]
     ==
     - A long legged bird like an adjutant, having red eyes and bare neck [[Kangxi: 水鳥也 etc.]];
     - it eats snakes.
@@ -822,7 +822,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (2)丑]]
+  - [[Page~28|n71 #3: (2)丑]]
     ==
     - The second of the 12~horary signs;
     - the 4th~watch, from 1 to 3~A.~M.;
@@ -893,7 +893,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (2)醜]]
+  - [[Page~28|n71 #4: (2)醜]]
     ==
     - Ugly, deformed, vile, ill looking [[Kangxi: 貌惡也]];
     - disagreeable;
@@ -1001,7 +1001,7 @@ F
   ==
 W
   ====
-  - [[Page~563 凑(3)湊(3)]]
+  - [[Page~563 #9: 凑(3)湊(3)]]
     --
     [[Alternative form of 湊. **See $湊cau3 for the canonical entry.**]]
     --
@@ -1031,7 +1031,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 嗅(3)]]
+  - [[Page~28|n71 #7: 嗅(3)]]
     ==
     - To smell [[Kangxi: 以鼻就臭, 以鼻取氣]], to perceive odors as a dog does;
     - the plaintive cry of birds [[Fan Wan: 鳥哀鳴聲]].
@@ -1064,7 +1064,7 @@ F
   ==
 W
   ====
-  - [[Page~563 凑(3)湊(3)]]
+  - [[Page~563 #9: 凑(3)湊(3)]]
     ==
     - To collect, to gather [[Kangxi 湊: 一曰聚也]];
     - to run together;
@@ -1105,7 +1105,7 @@ W
         [[cau3 hap6 湊合]]
         to group.
     ==
-  - [[Page~563 輳(3)]]
+  - [[Page~563 #10: 輳(3)]]
     ==
     - Similar to the preceding [[湊]] [[Kangxi 輳: 通作湊]];
     - [[...]].
@@ -1140,7 +1140,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 #3: 蔟(9)簇(9)]]
     --
     [[Alternative form of 蔟. **See $蔟cau3 for the canonical entry.**]]
     --
@@ -1171,7 +1171,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 糗(3)]]
+  - [[Page~28|n71 #8: 糗(3)]]
     ==
     - Roasted or parched wheat or rice [[Kangxi: 熬米麥也又乾飯屑也]];
     - coarsely pounded rice like grits;
@@ -1206,7 +1206,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 臭(3)]]
+  - [[Page~28|n71 #6: 臭(3)]]
     ==
     - To track by the scent [[Kangxi: 禽走臭而知其迹者犬也]];
     - effluvia, savor, smell, putridity, odor, stench [[Kangxi: 凡氣之總名]];
@@ -1280,7 +1280,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 #3: 蔟(9)簇(9)]]
     --
     These two [[蔟, 簇]] are used interchangeably.
     --
@@ -1324,7 +1324,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
+  - [[Page~28|n71 #5: (5){𧽒=⿺走臭}]]
     --
     Read _ch(')au(3)_ [[cau3]]_;_
     --
@@ -1358,7 +1358,7 @@ F
   ==
 W
   ====
-  - [[Page~563 輳(3)]]
+  - [[Page~563 #10: 輳(3)]]
     ==
     - [[...]];
     - centre of a wheel, place where the rays centre [[Kangxi: 輻輳輻共轂也]];
@@ -1415,7 +1415,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (4)讐(4)仇]]
+  - [[Page~26|n69 #13: (4)讐(4)仇]]
     --
     [[Reading variation. **See $仇sau4 for the canonical entry.**]] [[TODO]]
     --
@@ -1456,7 +1456,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)儔]]
+  - [[Page~27|n70 #6: (4)儔]]
     --
     [[...]]
     --
@@ -1493,11 +1493,11 @@ F
   ==
 W
   ====
-  - [[Page~563 before (4)囚]]
+  - [[Page~563 before #6: (4)囚]]
     --
     (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
     --
-  - [[Page~563 (4)囚]]
+  - [[Page~563 #6: (4)囚]]
     ==
     - To imprison, to confine, to cage [[Kangxi: 繫也, 拘也]];
     - to ~~handcuff~~ ``restrain`` [[Kangxi: 囚拘也主拘繫當{𠛬=⿰幵刂}殺者]];
@@ -1548,7 +1548,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)幬]]
+  - [[Page~27|n70 #2: (4)幬]]
     ==
     - ~~A single~~ ``An unlined`` curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
     - a leather screen or partition [[Kangxi: 幔轂之革也]];
@@ -1582,7 +1582,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)惆]]
+  - [[Page~27|n70 #9: (4)惆]]
     ==
     - Disappointed [[Kangxi: 失意也]];
     - ~~deceived;~~
@@ -1605,7 +1605,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)椆]]
+  - [[Page~27|n70 #3: (4)椆]]
     ==
     - A hard kind of wood resembling rose wood [[Kangxi: 木也]];
     - [[...]].
@@ -1630,7 +1630,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (4)犨]]
+  - [[Page~28|n71 #1: (4)犨]]
     ==
     - A white ox [[Fan Wan: 白色牛]];
     - the lowing or snorting of a cow [[Kangxi: 牛息聲]];
@@ -1657,7 +1657,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)疇]]
+  - [[Page~27|n70 #5: (4)疇]]
     ==
     - A cultivated field;
     - to till, to cultivate [[Kangxi: 耕治之也]];
@@ -1670,7 +1670,7 @@ W
         [[cau4 sik1 疇昔]]
         formerly, in time past.
     ==
-  - [[Page~27|n70 (4)儔]]
+  - [[Page~27|n70 #6: (4)儔]]
     --
     Used for the preceding [[疇]] [[for the "who" sense]] [[Kangxi 儔: ::誰也[...]與疇同::]].
     --
@@ -1711,7 +1711,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)綢]]
+  - [[Page~27|n70 #8: (4)綢]]
     ==
     - [[...]];
     - close, thick, crowded [[Kangxi 綢: 綢者綢緻之言故爲密也]];
@@ -1720,7 +1720,7 @@ W
     --
     [[...]]
     --
-  - [[Page~27|n70 (4)稠]]
+  - [[Page~27|n70 #10: (4)稠]]
     ==
     - Grain growing close [[Kangxi: 穊也]];
     - thick set, close together;
@@ -1766,7 +1766,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71 (4)籌]]
+  - [[Page~28|n71 #2: (4)籌]]
     ==
     - To compute, to calculate [[Kangxi: 籌算也]];
     - to devise, to plan, to arrange [[Kangxi: 籌策]];
@@ -1839,7 +1839,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)紬]]
+  - [[Page~27|n70 #7: (4)紬]]
     --
     [[Alternative form of 綢 (for the "silk" sense). **See $綢cau4 for the canonical entry.**]]
     --
@@ -1869,7 +1869,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)紬; here normalised to 綢]]
+  - [[Page~27|n70 #7: (4)紬; here normalised to 綢]]
     ==
     - Silk [[Kangxi 紬: 大絲繒也]];
     - pongee, senshaw, levantine, lustring;
@@ -1902,7 +1902,7 @@ W
         [[cyun1 cau4 川綢]],
         Sz'chuen [[四川]] pongee.
     ==
-  - [[Page~27|n70 (4)綢]]
+  - [[Page~27|n70 #8: (4)綢]]
     ==
     - Used for the last [[紬]], when denoting silk;
     - to bind, to wrap around, to twine about [[Kangxi 綢^: 繆也, 綢縛束也]];
@@ -1955,7 +1955,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)裯]]
+  - [[Page~27|n70 #4: (4)裯]]
     ==
     - ~~A single~~ ``An unlined`` coverlet [[Kangxi: 被也, 襌被也]];
     - a bed curtain [[Kangxi: 牀帳也]];
@@ -2002,7 +2002,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 ::(4)讐~~(4)仇~~::; here normalised to 讎]]
+  - [[Page~26|n69 #13: ::(4)讐~~(4)仇~~::; here normalised to 讎]]
     ==
     - [[...]]; <## TODO: 仇 sau4 "enmity" ##>
     - to verify, to collate with [[Kangxi 讎: 應驗也]];
@@ -2049,7 +2049,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (4)讐(4)仇]]
+  - [[Page~26|n69 #13: (4)讐(4)仇]]
     --
     [[Alternative form of 仇 "enmity", and reading variation. **See $仇sau4 for the canonical entry.**]] [[TODO]]
     --
@@ -2094,7 +2094,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)躊]]
+  - [[Page~27|n70 #11: (4)躊]]
     ==
     - Embarrassed [[Kangxi: 躊躇也]];
     - _(4)ch(')au (4)ch(')(u:)_
@@ -2125,11 +2125,11 @@ F
   ==
 W
   ====
-  - [[Page~563 before (4)囚]]
+  - [[Page~563 before #6: (4)囚]]
     --
     (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
     --
-  - [[Page~563 (4)遒]]
+  - [[Page~563 #8: (4)遒]]
     ==
     - To urge, to constrain, to press upon [[Kangxi: 迫也]];
     - a crowd, a throng;
@@ -2163,7 +2163,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (4)酋]]
+  - [[Page~563 #7: (4)酋]]
     --
     [[Reading variation. **See $酋jau4 for the canonical entry.**]] [[TODO]]
     --
@@ -2188,7 +2188,7 @@ F
   ==
 W
   ====
-  - [[Page~27|n70 (4)酬(4)酧]]
+  - [[Page~27|n70 #1: (4)酬(4)酧]]
     --
     [[Alternative form of 酬. **See $酬cau4 for the canonical entry.**]]
     --
@@ -2217,13 +2217,13 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 ::(4)讐~~(4)仇~~::]]
+  - [[Page~26|n69 #13: ::(4)讐~~(4)仇~~::]]
     ==
     - [[...]];
     - used for the next [[酬]] [[Kangxi 讎: 通作酬]];
     - [[...]].
     ==
-  - [[Page~27|n70 (4)酬(4)酧]]
+  - [[Page~27|n70 #1: (4)酬(4)酧]]
     ==
     - To pledge a guest [[Kangxi 酬: 主人實觶酬賔]];
     - to recompense;
@@ -2287,7 +2287,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
+  - [[Page~28|n71 #5: (5){𧽒=⿺走臭}]]
     --
     [[...]]
     --

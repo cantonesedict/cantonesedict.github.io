@@ -310,6 +310,16 @@ FixedDelimitersReplacement: #.syntax.small-parenthetical
 - tag_name: small
 
 
+RegexDictionaryReplacement: #.syntax.tracing-links
+- queue_position: BEFORE #specified-links
+* Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
+  (?P<page_slug_suffix> (?: [|] [n]? [0-9]+ )? )
+  (?P<position> (?: [ ] (?: before | after) )? )
+  [ ] [#] (?P<entry_number> [0-9]+ ) [:]
+    -->
+  Page~\g<page_number>\g<asterisk>\g<page_slug_suffix>\g<position> [#\g<entry_number>](/trace/#page-\g<page_number>\g<asterisk>-entry-\g<entry_number>):
+
+
 RegexDictionaryReplacement: #.syntax.link-abbreviations-williams
 - queue_position: BEFORE #specified-links
 * Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )

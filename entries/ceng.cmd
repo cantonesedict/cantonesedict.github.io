@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceng
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -63,7 +63,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~577 (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
+  - [[Page~577 #5: (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
     --
     [[Alternative form of 青, and reading variation (vernacular for "green" senses). **See $青cing1 for the canonical entry.**]]
     --
@@ -85,7 +85,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~577 (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
+  - [[Page~577 #5: (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
     --
     [[Reading variation (vernacular for "green" senses). **See $青cing1 for the canonical entry.**]]
     --
@@ -122,7 +122,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~578 (2)請 _(2)Ts(')ing_ (cing2); _(2)Ts(')eng_ (ceng2) implied by variational note]]
+  - [[Page~578 #3: (2)請 _(2)Ts(')ing_ (cing2); _(2)Ts(')eng_ (ceng2) implied by variational note]]
     --
     [[Reading variation (vernacular). **See $請cing2 for the canonical entry.**]]
     --

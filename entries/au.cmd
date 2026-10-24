@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-09-27
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)區]]
+  - [[Page~6 #4: (1)區]]
     ==
     - A surname [[Kangxi: 姓]];
     - a measure of four pecks [[Kangxi: 四豆爲區]];
@@ -127,7 +127,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
+  - [[Page~6 #9: (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
     --
     [[...]]
     --
@@ -171,7 +171,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)歐]]
+  - [[Page~6 #8: (1)歐]]
     --
     [[...]]
     --
@@ -216,7 +216,7 @@ F
   ==
 W
   ====
-  - [[Page~6 漚(3)]]
+  - [[Page~6 #11: 漚(3)]]
     --
     [[...]]
     --
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)甌]]
+  - [[Page~6 #5: ::^~~(7)甌~~``(1)甌``::]]
     ==
     - A bowl [[Kangxi: 小盆也, 瓦器]], a deep cup [[Kangxi: 今俗謂盌深者爲甌]];
     - _(5)ng(a/) (1)au_
@@ -278,6 +278,10 @@ W
         a wooden bowl.
     ==
   ====
+C
+  ==
+  - Williams misprints the headword tone marker (1)^ as ^(7); here corrected.
+  ==
 $$
 
 ### 謳1 | _(1)Au_ [[au1]]
@@ -303,7 +307,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)謳]]
+  - [[Page~6 #7: (1)謳]]
     ==
     - To sing songs in recitative [[Kangxi: 歌也]];
     - a chant [[Kangxi: 吟也]];
@@ -315,7 +319,7 @@ W
         [[au1 jam4 謳吟]],
         to sing songs.
     ==
-  - [[Page~6 (1)歐]]
+  - [[Page~6 #8: (1)歐]]
     ==
     - To sing;
     - to crow merrily;
@@ -324,7 +328,7 @@ W
     --
     [[...]]
     --
-  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
+  - [[Page~6 #9: (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
     --
     [[...]]
     --
@@ -366,7 +370,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)鷗]]
+  - [[Page~6 #6: (1)鷗]]
     ==
     - A gull [[Kangxi: 鷗水鴞也]];
     - _p(a/)k(9) (1)au_^
@@ -416,7 +420,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
+  - [[Page~6 #8: (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
     --
     [[...]]
     --
@@ -426,7 +430,7 @@ W
     --
     [[...]]
     --
-  - [[Page~6 (2)嘔]]
+  - [[Page~6 #9: (2)嘔]]
     --
     Interchanged with the last [[歐]] [[Kangxi: 與歐同吐也]].
     --
@@ -481,7 +485,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
+  - [[Page~6 #8: (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
     --
     [[Alternative form of 嘔. **See $嘔au2 for the canonical entry.**]]
     --
@@ -517,7 +521,7 @@ F
   ==
 W
   ====
-  - [[Page~6 (2)毆]]
+  - [[Page~6 #10: (2)毆]]
     ==
     - To fight, to hit with a stick [[Kangxi: 捶毄物也, 以杖擊也]];
     - to strike, to knock;
@@ -573,7 +577,7 @@ F
   ==
 W
   ====
-  - [[Page~6 漚(3)]]
+  - [[Page~6 #11: 漚(3)]]
     ==
     - To soak, to macerate, to steep [[Kangxi: 久漬也]];
     - to soften by soaking [[Kangxi: 漚柔也]];

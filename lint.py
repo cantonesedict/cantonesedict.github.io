@@ -890,6 +890,7 @@ COMMENTS_NECESSITY = '<#'
 SCRIPTS_NECESSITY = '<script>'
 
 WHITESPACE_RUN_PATTERN = re.compile(pattern=r'\s+')
+DIGITS_PATTERN = re.compile(pattern='[0-9]+')
 ROUND_BRACKETS_PATTERN = re.compile(pattern='[()]')
 COMMENTS_PATTERN = re.compile(pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >', flags=re.DOTALL | re.VERBOSE)
 SCRIPTS_PATTERN = re.compile(pattern='<script>.*?</script>', flags=re.DOTALL)
@@ -899,10 +900,13 @@ UNICODE_CODE_POINT_PATTERN = re.compile(pattern='U[+][0-9A-F]{4,5}')
 
 CHINESE_RUN_REGEX = '[⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+'
 CHINESE_RUN_PATTERN = re.compile(CHINESE_RUN_REGEX)
+CLASSICAL_TONE_MARKERS = '\u302a\u302b\u302c\u302d'
 
 INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
+WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN = re.compile(pattern=r'[|].*')
+ROUND_BRACKETED_JYUTPING_PATTERN = re.compile(pattern=r'[ ]+ \( [a-z]+[1-6][-]?[1-6]? \)', flags=re.VERBOSE)
 
 ENTRY_ITEM_PATTERN = re.compile(
     pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
@@ -1013,6 +1017,10 @@ TERMS_TABLE_PATTERN = re.compile(
     pattern='<## terms-table ##>.*?<## /terms-table ##>',
     flags=re.DOTALL,
 )
+WILLIAMS_TABLE_PATTERN = re.compile(
+    pattern='<## williams-table ##>.*?<## /williams-table ##>',
+    flags=re.DOTALL,
+)
 
 TONE_HEADING_PATTERN = re.compile(
     pattern=r'''
@@ -1087,6 +1095,30 @@ CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN = re.compile(
     flags=re.MULTILINE | re.VERBOSE,
 )
 CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP = 'raw_jyutping'
+
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
+    pattern=r'''
+        ^ [ ]+ [-][ ]
+        \[\[
+            Page~(?P<page> \S+ )
+            (?P<position> (?: [ ] (?: before | after) )? )
+            (?P<entry_marker> (?: [ ][#] (?P<entry_number> [0-9]+ ) [:] )? )
+            (?P<spaces> [ ]+ )
+            (?P<headword_run> (?i: _[()a-z1-9_ ]+_ ) | [^\s;]+ )
+            (?P<clarification_run> .*? )
+            (?P<redirection_run> (?: ;.*? )? )
+        \]\]
+    ''',
+    flags=re.MULTILINE | re.VERBOSE,
+)
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP = 'page'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_POSITION_GROUP = 'position'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP = 'entry_marker'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP = 'entry_number'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP = 'spaces'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_CLARIFICATION_RUN_GROUP = 'clarification_run'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP = 'redirection_run'
 
 CHARACTER_ENTRY_LITERARY_RENDERING_ITEM_PATTERN = re.compile(
     pattern=r'''
@@ -1410,12 +1442,6 @@ LINTING_CONSECUTIVE_LISTS_PATTERN = re.compile(
     flags=re.MULTILINE | re.VERBOSE,
 )
 
-LINTING_WILLIAMS_LOCATOR_PATTERN = re.compile(
-    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
-    flags=re.MULTILINE | re.VERBOSE,
-)
-LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP = 'headword_run'
-
 LINTING_ELLIPSIS_ITEM = "- [[...]]"
 LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN = re.compile(
     pattern=f'^[ ]+{re.escape(LINTING_ELLIPSIS_ITEM)}$',
@@ -1507,10 +1533,6 @@ LINTING_W_CONTENT_CANONICAL_ITEM_PATTERN = re.compile(
 LINTING_P_CONTENT_ITEM_PATTERN = re.compile(
     pattern='^[ ]+1[.].*',
     flags=re.MULTILINE,
-)
-LINTING_LOCATOR_LINE_PATTERN = re.compile(
-    pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
-    flags=re.MULTILINE | re.VERBOSE,
 )
 
 LINTING_ALTERNATIVE_FORM_REDIRECT_PATTERN = re.compile(
@@ -2762,8 +2784,9 @@ class CharacterEntry:
     e_content: Optional[str]
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
-    cantonese_entries: Optional[list['CantoneseEntry']]
+    williams_locators: list['WilliamsLocator']
     literary_renderings: Optional[list['LiteraryRendering']]
+    cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
@@ -2831,6 +2854,7 @@ class CharacterEntry:
         e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
+        williams_locators = CharacterEntry.extract_williams_locators(w_content)
         literary_renderings = CharacterEntry.extract_literary_renderings(l_content, character, page_heading_jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
@@ -2838,7 +2862,6 @@ class CharacterEntry:
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
         CharacterEntry.lint_residual_stroke_count_consistency(radical_strokes_list, h_content, heading_content)
         CharacterEntry.lint_consecutive_lists(w_content, heading_content)
-        CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
         CharacterEntry.lint_annotation_headword(character, w_content)
@@ -2847,7 +2870,7 @@ class CharacterEntry:
 
         CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
         CharacterEntry.lint_additionality(is_canonical, is_added, character_run, williams_run, character,
-                                          w_content, heading_content)
+                                          williams_locators, w_content, heading_content)
         CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_reading_variation_order(reading_variations)
@@ -2872,6 +2895,7 @@ class CharacterEntry:
         self.p_content = p_content
         self.alternative_forms = alternative_forms
         self.reading_variations = reading_variations
+        self.williams_locators = williams_locators
         self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
@@ -2994,15 +3018,6 @@ class CharacterEntry:
             )
 
     @staticmethod
-    def lint_williams_locator_tone(content: str):
-        for match in LINTING_WILLIAMS_LOCATOR_PATTERN.finditer(string=content):
-            locator_run = match.group().strip()
-            headword_run = match.group(LINTING_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP)
-
-            if not WILLIAMS_TONE_PATTERN.search(string=headword_run):
-                raise LintException(f'missing Williams tone in locator `{locator_run}`')
-
-    @staticmethod
     def lint_williams_ellipsis_item_punctuation(content: str):
         if LINTING_UNPUNCTUATED_ELLIPSIS_ITEM_PATTERN.search(string=content):
             raise LintException(
@@ -3046,7 +3061,12 @@ class CharacterEntry:
             headword_run = match.group(LINTING_WILLIAMS_LOCATED_ITEM_HEADWORD_RUN_GROUP)
             item_content = match.group(LINTING_WILLIAMS_LOCATED_ITEM_CONTENT_GROUP)
 
-            headword_characters = CHINESE_RUN_PATTERN.findall(string=CmdIdioms.strip_compositions(headword_run))
+            headword_characters = {
+                character
+                for run in CHINESE_RUN_PATTERN.findall(string=CmdIdioms.strip_compositions(headword_run))
+                for character in run
+                if character not in CLASSICAL_TONE_MARKERS
+            }
             potential_characters = ''.join(sorted({character, *headword_characters}))
 
             if len(potential_characters) == 1:
@@ -3187,14 +3207,14 @@ class CharacterEntry:
 
     @staticmethod
     def lint_additionality(is_canonical: bool, is_added: bool, character_run: str, williams_run: str, character: str,
-                           w_content: str, heading_content: str):
+                           williams_locators: list['WilliamsLocator'], w_content: str, heading_content: str):
         is_williams_present = w_content.strip() != '[[Not present]]'
         redirect_verbs = ['corrected', 'normalised', 'exemplified']
-        locator_lines = LINTING_LOCATOR_LINE_PATTERN.findall(string=w_content)
+        locator_lines = [williams_locator.content for williams_locator in williams_locators]
 
         if is_williams_present and character not in '\n'.join(locator_lines):
             raise LintException(
-                f'character `{character}` not present in at least one locator under `{heading_content}`'
+                f'character `{character}` not present in at least one Williams locator under `{heading_content}`'
             )
 
         if any(
@@ -3206,7 +3226,7 @@ class CharacterEntry:
             )
         ):
             raise LintException(
-                f'same-romanisation locator `{same_romanisation_locator_line.strip()}` under `{heading_content}` '
+                f'same-romanisation Williams locator `{same_romanisation_locator_line}` under `{heading_content}` '
                 f'(suppress with caret before opening underscore if legitimate (e.g. for disambiguation))'
             )
 
@@ -3337,6 +3357,24 @@ class CharacterEntry:
             for match in CHARACTER_ENTRY_READING_VARIATION_ITEM_PATTERN.finditer(string=content)
             if (
                 raw_jyutping := match.group(CHARACTER_ENTRY_READING_VARIATION_RAW_JYUTPING_GROUP),
+            )
+        ]
+
+    @staticmethod
+    def extract_williams_locators(content: str) -> list['WilliamsLocator']:
+        return [
+            WilliamsLocator(page, position, entry_marker, entry_number, whitespace,
+                            headword_run, clarification_run, redirection_run)
+            for match in CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN.finditer(string=content)
+            if (
+                page := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP),
+                position := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_POSITION_GROUP),
+                entry_marker := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP),
+                entry_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP),
+                whitespace := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP),
+                headword_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_HEADWORD_RUN_GROUP),
+                clarification_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_CLARIFICATION_RUN_GROUP),
+                redirection_run := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_REDIRECTION_RUN_GROUP),
             )
         ]
 
@@ -3612,6 +3650,88 @@ class SeeAlsoLink:
         return f'${self.character_content}{self.jyutping}'
 
 
+class WilliamsLocator:
+    page_grouping: int
+    page: str
+    page_clean: str
+    page_number: int
+    position: str
+    entry_marker: str
+    entry_number: Optional[int]
+    headword_run: str
+    unedited_headword_run: str
+    clarification_run: str
+    redirection_run: str
+    content: str
+
+    def __init__(self, page: str, position: str, entry_marker: Optional[str], entry_number: Optional[str],
+                 whitespace: str, headword_run: str, clarification_run: str, redirection_run: str):
+        content = (
+            f'- [[Page~{page}{position}{entry_marker}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
+        )
+
+        if whitespace != ' ':
+            raise LintException(
+                f'whitespace `{whitespace}` is not a single space in Williams locator `{content}`'
+            )
+
+        if not WILLIAMS_TONE_PATTERN.search(string=content):
+            raise LintException(f'missing Williams tone in Williams locator `{content}`')
+
+        if not entry_marker:
+            raise LintException(f'missing entry marker ` #{{number}}:` after `Page~{page}` in `{content}`')
+
+        page_clean = WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN.sub(repl='', string=page)
+        page_number = int(DIGITS_PATTERN.search(string=page).group())
+
+        if page_number >= 41:
+            page_grouping = 3
+        elif '*' in page:
+            page_grouping = 2
+        else:
+            page_grouping = 1
+
+        if entry_number is not None:
+            entry_number = int(entry_number)
+
+        if not CHINESE_RUN_PATTERN.search(string=headword_run):
+            if any(verb in clarification_run for verb in ['exemplified', 'assumed']):
+                unedited_headword_run = ''
+            else:
+                unedited_headword_run = ROUND_BRACKETED_JYUTPING_PATTERN.sub(repl='', string=headword_run)
+        else:
+            unedited_headword_run = (
+                INSERTION_PATTERN.sub(repl='', string=headword_run)
+                .replace('~~', '')
+                .replace('::', '')
+            )
+
+        self.page_grouping = page_grouping
+        self.page = page
+        self.page_clean = page_clean
+        self.page_number = page_number
+        self.position = position
+        self.entry_marker = entry_marker
+        self.entry_number = entry_number
+        self.headword_run = headword_run
+        self.unedited_headword_run = unedited_headword_run
+        self.clarification_run = clarification_run
+        self.redirection_run = redirection_run
+        self.content = content
+
+    def __eq__(self, other):
+        return self.identity() == other.identity()
+
+    def __hash__(self):
+        return hash(self.identity())
+
+    def __lt__(self, other):
+        return self.identity() < other.identity()
+
+    def identity(self):
+        return self.page_grouping, self.page_number, self.entry_number
+
+
 class LiteraryRendering:
     term: str
     disambiguation_suffix: str
@@ -3832,6 +3952,11 @@ class Linter:
             for entry_page in entry_pages
             for character_entry in entry_page.character_entries
         ]
+        williams_locators = [
+            williams_locator
+            for character_entry in character_entries
+            for williams_locator in character_entry.williams_locators
+        ]
         literary_renderings = [
             literary_rendering
             for entry_page in entry_pages
@@ -3858,6 +3983,7 @@ class Linter:
             Linter.lint_character_entry_literary_rendering_linkage(character_entries)
             Linter.lint_character_entry_see_also_presence(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
+            Linter.lint_williams_locator_consistency(williams_locators)
             Linter.lint_literary_rendering_fragment_duplication(literary_renderings)
             Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
@@ -3870,6 +3996,7 @@ class Linter:
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
         self.character_entries = character_entries
+        self.williams_locators = williams_locators
         self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
 
@@ -3883,6 +4010,7 @@ class Linter:
         self.index_terms()  # Cantonese terms by Jyutping
         self.index_search()  # characters and compositions
         self.index_radicals()  # characters by radical
+        self.index_trace()  # trace of Williams entries
 
     def print_statistics(self):
         page_count = len(self.entry_pages)
@@ -4031,6 +4159,25 @@ class Linter:
 
         for cmd_source in self.cmd_sources:
             cmd_source.index_radicals(character_entries_from_radical_strokes)
+
+    def index_trace(self):
+        character_entries_from_williams_locator = Utilities.collate_firsts_by_second(
+            (character_entry, williams_locator)
+            for character_entry in self.character_entries
+            for williams_locator in character_entry.williams_locators
+            if not williams_locator.position
+        )
+
+        with open('trace/index.cmd', 'r', encoding='utf-8') as read_file:
+            new_content = content = read_file.read()
+
+        new_content = Linter._replace_williams_table(new_content, character_entries_from_williams_locator)
+
+        if new_content == content:
+            return
+
+        with open('trace/index.cmd', 'w', encoding='utf-8') as write_file:
+            write_file.write(new_content)
 
     def save_cache(self):
         cached_cmd_source_from_file_name = {
@@ -4536,6 +4683,28 @@ class Linter:
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
 
     @staticmethod
+    def lint_williams_locator_consistency(williams_locators: list['WilliamsLocator']):
+        collated_williams_locators_from_identity = Utilities.collate_firsts_by_second(
+            (williams_locator, williams_locator.identity())
+            for williams_locator in williams_locators
+        )
+
+        for identity, collated_williams_locators in collated_williams_locators_from_identity.items():
+            collated_unedited_headword_runs = set(
+                williams_locator.unedited_headword_run.replace('(7)', '(8)')
+                for williams_locator in collated_williams_locators
+            )
+            if len(collated_unedited_headword_runs) > 1:
+                williams_locator_lines = [
+                    williams_locator.content
+                    for williams_locator in collated_williams_locators
+                ]
+                raise LintException(
+                    f'inconsistent unedited headword runs {collated_unedited_headword_runs} '
+                    f'in Williams locators {williams_locator_lines}'
+                )
+
+    @staticmethod
     def lint_literary_rendering_fragment_duplication(literary_renderings: list['LiteraryRendering']):
         collated_literary_renderings_from_fragment = Utilities.collate_firsts_by_second(
             (literary_rendering, literary_rendering.url_fragment())
@@ -4723,6 +4892,80 @@ class Linter:
 
         return TERMS_TABLE_PATTERN.sub(
             repl=Utilities.literal_replacement_pattern(terms_table_content_expected),
+            string=content,
+        )
+
+    @staticmethod
+    def _replace_williams_table(content: str,
+                                character_entries_from_williams_locator: dict['WilliamsLocator',
+                                                                              list['CharacterEntry']]) -> str:
+        williams_locator_from_number_from_page = Utilities.collate_first_by_second_by_third(
+            (williams_locator, williams_locator.entry_number, williams_locator.page)
+            for williams_locator in sorted(character_entries_from_williams_locator)
+        )
+
+        williams_table_content_expected = Utilities.nested_newline_join([
+            "<## williams-table ##>",
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Page",
+            "    ; Entry",
+            "    ; Headword run",
+            "    ; Modern entry links",
+            "|:",
+            [
+                [
+                    [
+                        f'  //',
+                        *(
+                            [f'    ,{{r={entry_count}}} Page~{page}'] if index == 0
+                            else []
+                        ),
+                        f'    ,{{#page-{williams_locator.page_clean}-entry-{number}}} #{number}',
+                        f'    ,{{.williams}}{headword_run_cell_space}{unedited_headword_run}',
+                        f'    ,',
+                        f'      <nav class="sideways">',
+                        f'      ==',
+                        [
+                            f'      - {link_sequence_content}'
+                            for character_entries in character_entries_from_character.values()
+                            if (
+                                link_sequence_content := ', '.join(
+                                    (
+                                        character_entry.universal_link() if character_entry.is_canonical
+                                        else f'({character_entry.universal_link()})'
+                                    )
+                                    for character_entry in character_entries
+                                ),
+                            )
+                        ],
+                        f'      ==',
+                        f'      </nav>',
+                    ]
+                    for index, (number, williams_locator) in enumerate(sorted(williams_locator_from_number.items()))
+                    if (
+                        character_entries_from_character := Utilities.collate_firsts_by_second(
+                            (character_entry, character_entry.character)
+                            for character_entry in character_entries_from_williams_locator[williams_locator]
+                        ),
+                        unedited_headword_run := williams_locator.unedited_headword_run,
+                        headword_run_cell_space := ' ' if unedited_headword_run else '',
+                    )
+                ]
+                for page, williams_locator_from_number in williams_locator_from_number_from_page.items()
+                if (
+                    entry_count := len(williams_locator_from_number),
+                )
+            ],
+            "''",
+            "||||",
+            "<## /williams-table ##>",
+        ])
+
+        return WILLIAMS_TABLE_PATTERN.sub(
+            repl=Utilities.literal_replacement_pattern(williams_table_content_expected),
             string=content,
         )
 

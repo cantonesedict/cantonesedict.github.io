@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-09-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -74,7 +74,7 @@ F
   (F2.19 剸) 割也
 W
   ====
-  - [[Page~37* (1)剸]]
+  - [[Page~37* #8: (1)剸]]
     --
     [[Alternative form of 專. **See $專zyun1 for the canonical entry.**]]
     --
@@ -122,7 +122,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)專(1)耑]]
+  - [[Page~37* #6: (1)專(1)耑]]
     ==
     - One, single, alone [[Kangxi 專: 獨也]], undivided;
     - bent on, to turn to one thing [[Kangxi 專: 壹也誠也, 純篤也]];
@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (1)尊]]
+  - [[Page~604 #3: (1)尊]]
     ==
     - Honorable, eminent, respected, noble [[Kangxi: 高稱也, 重也貴也 etc.]];
     - a term of respect, your;
@@ -311,7 +311,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)磚(1)甎]]
+  - [[Page~37* #7: (1)磚(1)甎]]
     --
     [[Alternative form of 磚. **See $磚zyun1 for the canonical entry.**]]
     --
@@ -339,7 +339,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)磚(1)甎]]
+  - [[Page~37* #7: (1)磚(1)甎]]
     ==
     - A brick, a tile [[Kangxi 甎: 㼾甎, 甎瓦, 燒墼也, 甓也]];
     - to cover with brick;
@@ -387,7 +387,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)專(1)耑]]
+  - [[Page~37* #6: (1)專(1)耑]]
     --
     [[Alternative form of 專. **See $專zyun1 for the canonical entry.**]]
     --
@@ -453,7 +453,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)鱄]]
+  - [[Page~37* #9: (1)鱄]]
     ==
     - A large fish [[Kangxi: 魚之大者名爲鱄]], a pike?
       found in the Lake Tungting [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
@@ -527,7 +527,7 @@ F
   ==
 W
   ====
-  - [[Page~605 噂 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
+  - [[Page~605 #14: (5)噂 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
     ==
     - Many persons conversing [[Kangxi: 聚語也]] ~~amicably~~;
     - to talk agreeably to one;
@@ -571,7 +571,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (2)囀]]
+  - [[Page~37* #11: (2)囀]]
     ==
     - The song of a nightingale [[Fan Wan: 鶯聲]];
     - a warbling note [[Kangxi: 鳥鳴, 鳥吟]];
@@ -602,7 +602,7 @@ F
   ==
 W
   ====
-  - [[Page~604 ::(2)纂~~(2)藄~~::]]
+  - [[Page~604 #5: ::(2)纂~~(2)藄~~::]]
     ==
     - A kind of carnation band or cord [[Kangxi 纂: 似組而赤]];
     - ~~to connect;~~
@@ -657,7 +657,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (2)纘]]
+  - [[Page~604 #4: (2)纘]]
     ==
     - ~~To tie things together;~~
     - to continue, to carry on [[Kangxi: 繼也]];
@@ -698,7 +698,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (2)轉]]
+  - [[Page~37* #10: (2)轉]]
     ==
     - To turn, to revolve [[Kangxi: 動也旋也]];
     - to transmit, to forward;
@@ -860,7 +860,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (2)轉 _(2)Ch(u:)n_ (zyun2); here corrected to _Ch(u:)n(3)_ (zyun3)]]
+  - [[Page~37* #10: (2)轉 _(2)Ch(u:)n_ (zyun2); here corrected to _Ch(u:)n(3)_ (zyun3)]]
     ==
     - [[...]];
     - _(2)s(e/)ung (2)k(a/)u ~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (5)k(')(u:)_
@@ -931,7 +931,7 @@ F
   ==
 W
   ====
-  - [[Page~604 鑽(3)鑚(3)]]
+  - [[Page~604 #6: 鑽(3)鑚(3)]]
     ==
     - An awl, a gimlet, an ~~augur~~ ``auger``, a borer;
     - an instrument for perforating [[Kangxi 鑽: 所以穿也]];
@@ -1043,7 +1043,7 @@ F
   ==
 W
   ====
-  - [[Page~38* 傳(6)]]
+  - [[Page~38* #1: 傳(6)]]
     ==
     - Records or precepts of ancient times [[Kangxi: 訓也賢人之書曰傳又紀載事迹以傳於世亦曰傳諸史列傳是也, 傳傳也以傳示後人也]];
     - _ch(u:)n(6) (4)man_

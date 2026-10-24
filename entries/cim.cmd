@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-08-07
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,7 +82,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)僉]]
+  - [[Page~571 #7: (1)僉]]
     ==
     - All, the whole [[Kangxi: 皆也咸也]];
     - an unanimous voice, the general opinion [[Kangxi: 衆共言之也]];
@@ -118,7 +118,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}]]
+  - [[Page~571 #10: (1){𠠃=⿰⿳从一韭刂}]]
     --
     [[Alternative form of 㔐. **See $㔐cim1 for the canonical entry.**]]
     --
@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
+  - [[Page~571 #10: (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
     ==
     - To cut [[Kangxi {𠠃=⿰⿳从一韭刂}: 切割也]];
     - to stick in the throat;
@@ -203,7 +203,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 (1)孅]]
+  - [[Page~572 #5: (1)孅]]
     ==
     - [[...]];
     - crafty, subtle [[Kangxi: 孅趨巧佞也]];
@@ -249,7 +249,7 @@ F
   ==
 W
   ====
-  - [[Page~572 (1)憸]]
+  - [[Page~572 #1: (1)憸]]
     ==
     - Disputatious, skilled at arguing [[Kangxi: 小人而謂之憸者形容其沾沾便捷之狀也]];
     - insidious, lying flattery [[Kangxi: 憸詖也]];
@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (2)摻 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(i/)m_ (cim1)]]
+  - [[Page~554 #8: (2)摻 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(i/)m_ (cim1)]]
     ==
     - A delicate hand [[Kangxi: 女手貌]], a hand with tapering fingers;
     - fine, tapering, small;
@@ -333,14 +333,14 @@ F
   ==
 W
   ====
-  - [[Page~572 (1)瀸; here normalised to 殲]]
+  - [[Page~572 #2: (1)瀸; here normalised to 殲]]
     ==
     - [[...]] [[Kangxi 瀸: 滅也通殲]];
     - _(1)ts(')(i/)m m(i/)t(9)_
         [[cim1 mit6 殲滅]]
         to extirpate.
     ==
-  - [[Page~572 (1)殲]]
+  - [[Page~572 #3: (1)殲]]
     ==
     - To destroy utterly, to exterminate [[Kangxi: 殲盡也]], to pierce, to kill;
     - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k(')(u:)_
@@ -377,7 +377,7 @@ F
   ==
 W
   ====
-  - [[Page~572 (1)瀸]]
+  - [[Page~572 #2: (1)瀸]]
     ==
     - To soak, to moisten, to dampen [[Kangxi: 漬也洽也]];
     - ~~to overflow;~~
@@ -407,7 +407,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)簽]]
+  - [[Page~571 #8: (1)簽]]
     ==
     - [[...]];
     - to subscribe, to write one's name [[Kangxi: 簽書文字也]];
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)簽; here normalised to 籤]]
+  - [[Page~571 #8: (1)簽; here normalised to 籤]]
     ==
     - Slips of bamboo written on for lots [[...]];
     - [[...]];
@@ -458,7 +458,7 @@ W
         [[cim1 jyu5 籤語]],
         to draw lots for a response.
     ==
-  - [[Page~571 (1)韱; here corrected to 籤]]
+  - [[Page~571 #9: (1)韱; here corrected to 籤]]
     ==
     - Similar to the above [[簽]];
     - a slip, a lot [[Kangxi 籤: 驗也, 竹籤用以卜者]];
@@ -505,7 +505,7 @@ F
   ==
 W
   ====
-  - [[Page~572 (1)纖(1)摻]]
+  - [[Page~572 #4: (1)纖(1)摻]]
     ==
     - Fine silk [[Kangxi 纖: 繒帛之細者謂之纖]];
     - small, delicate [[Kangxi 纖: 細也, 纖小也, 纖細也]], like silken fibres;
@@ -521,7 +521,7 @@ W
         [[cim1 jiu1 纖腰]],
         a slender waist,
     ==
-  - [[Page~572 (1)孅; here normalised to 纖]]
+  - [[Page~572 #5: (1)孅; here normalised to 纖]]
     ==
     - [[...]];
     - slender, sharp-pointed, acute [[Kangxi 孅: 銳細也與纖通]];
@@ -585,7 +585,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)鋟 _(1)Ts(')am_ (cam1); here normalised to _(1)Ts(')(i/)m_ (cim1)]]
+  - [[Page~552 #4: (1)鋟 _(1)Ts(')am_ (cam1); here normalised to _(1)Ts(')(i/)m_ (cim1)]]
     ==
     - To cut, to engrave [[Kangxi: 刻也]];
     - sharp-pointed [[Kangxi: 錐也]];
@@ -635,7 +635,7 @@ F
   ==
 W
   ====
-  - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
+  - [[Page~16* #9: ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     ==
     - To flatter [[Kangxi 諂: 同讇省諛也]], to lie to;
     - to cajole;
@@ -684,7 +684,7 @@ F
   ==
 W
   ====
-  - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
+  - [[Page~16* #9: ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     --
     [[Alternative form of 諂. **See $諂cim2 for the canonical entry.**]]
     --
@@ -730,7 +730,7 @@ F
   ==
 W
   ====
-  - [[Page~572 僭(3)]]
+  - [[Page~572 #8: 僭(3)]]
     ==
     - To arrogate to one's self, to usurp, to assume [[Kangxi: 假也, 儗也]];
     - to overstep one's limits or rank;
@@ -788,7 +788,7 @@ F
   ==
 W
   ====
-  - [[Page~572 塹(3)壍(3)]]
+  - [[Page~572 #9: 塹(3)壍(3)]]
     ==
     - The moat around a wall [[Kangxi 塹: 遶城水也]], a fosse, a ditch [[Kangxi 塹: 坑也]];
     - a sluice to lead water upon trees;
@@ -828,7 +828,7 @@ F
   ==
 W
   ====
-  - [[Page~572 塹(3)壍(3)]]
+  - [[Page~572 #9: 塹(3)壍(3)]]
     --
     [[Alternative form of 塹. **See $塹cim3 for the canonical entry.**]]
     --
@@ -852,7 +852,7 @@ F
   ==
 W
   ====
-  - [[Page~572 暹(3)]]
+  - [[Page~572 #11: 暹(3)]]
     ==
     - The increasing light and splendor of the sun [[Kangxi: 日光升也]];
     - advancing, rising higher and higher [[Fan Wan: 進也]];
@@ -893,7 +893,7 @@ F
   ==
 W
   ====
-  - [[Page~572 槧(3)]]
+  - [[Page~572 #10: 槧(3)]]
     ==
     - Boards for cutting books on [[Kangxi: 牘樸也]];
     - tablets for memoranda, tablets to be written on with a pencil.
@@ -963,7 +963,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 (4)撍]]
+  - [[Page~572 #7: (4)撍]]
     ==
     - To move with the hand [[Kangxi: 手動也]], to take up [[Kangxi: 掇也]];
     - to select [[Kangxi: 摘也]], to pull out, as from a pile;
@@ -1024,7 +1024,7 @@ F
   ==
 W
   ====
-  - [[Page~572 (4)潛(4)潜]]
+  - [[Page~572 #6: (4)潛(4)潜]]
     ==
     - To ford, to wade across, to cross water [[Kangxi 潛: 涉水也]];
     - to dive [[Kangxi 潛: 潛涵沉也又游也]], to walk on the bottom [[Kangxi 潛: 潛行水中亦曰游]];
@@ -1078,7 +1078,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 (4)潛(4)潜]]
+  - [[Page~572 #6: (4)潛(4)潜]]
     --
     [[Alternative form of 潛. **See $潛cim4 for the canonical entry.**]]
     --
@@ -1108,7 +1108,7 @@ F
   ==
 W
   ====
-  - [[Page~500 (4)燂 _(4)T(')(a/)m_ (taam4)]]
+  - [[Page~500 #10: (4)燂 _(4)T(')(a/)m_ (taam4)]]
     <## TODO: move under $燂taam4
     ==
     - To burn in the fire;

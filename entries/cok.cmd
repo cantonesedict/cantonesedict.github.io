@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2026-08-05
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~592 錯(8); here normalised to 剒]]
+  - [[Page~592 #8: 錯(8); here normalised to 剒]]
     --
     [[...]]
     --
@@ -148,7 +148,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 ::~~蔟(9)~~簇(9):: _Tsuk(9)_ (zuk6); here corrected to _Ch(')ok(8)_ (cok3)]]
+  - [[Page~599 #3: ::~~蔟(9)~~簇(9):: _Tsuk(9)_ (zuk6); here corrected to _Ch(')ok(8)_ (cok3)]]
     --
     [[...]]
     --
@@ -191,7 +191,7 @@ F
   ==
 W
   ====
-  - [[Page~588 錯(3) _Ts(')(o\)(3)_ (cou3); here corrected to _Ts(')ok(8)_ (cok3)]]
+  - [[Page~588 #1: 錯(3) _Ts(')(o\)(3)_ (cou3); here corrected to _Ts(')ok(8)_ (cok3)]]
     --
     [[...]]
     --
@@ -199,7 +199,7 @@ W
     - To cut or work stones [[Kangxi: 治玉石曰錯]];
     - [[...]].
     ==
-  - [[Page~592 錯(8)]]
+  - [[Page~592 #8: 錯(8)]]
     ==
     - To ~~wash~~ ``inlay`` or plate with gold [[Kangxi: 金涂也]];
     - the stripes, striæ, streaks, &c., in stones or fabrics [[Kangxi: 錯衡文衡也]];

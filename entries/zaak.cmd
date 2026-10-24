@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,7 +75,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 咋(3) _Ch(a/)(3)_ (zaa3); here corrected to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~8 #8: 咋(3) _Ch(a/)(3)_ (zaa3); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     --
     A loud sound, a rude noise [[Kangxi: 大聲]].
     --
@@ -116,7 +116,7 @@ F
   ==
 W
   ====
-  - [[Page~569 ::嘖(7)~~賾(7)~~:: _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~569 #6: ::嘖(7)~~賾(7)~~:: _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - To bawl, to cry after [[Kangxi 嘖: 大呼也, 㗲嘖叫也]];
     - to dispute about, noisy quarreling [[Kangxi 嘖: 大呼聲, 爭言貌]];
@@ -155,7 +155,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~587 措(3)]]
+  - [[Page~587 #11: 措(3)]]
     --
     [[...]]
     --
@@ -186,7 +186,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~592 柞(9)]]
+  - [[Page~592 #5: 柞(9)]]
     --
     [[...]]
     --
@@ -236,7 +236,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12|n55 責(8); here normalised to 矺]]
+  - [[Page~12|n55 #8: 責(8); here normalised to 矺]]
     ==
     - [[...]];
     - to lay a weight on;
@@ -379,7 +379,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 窄(8)]]
+  - [[Page~12|n55 #9: 窄(8)]]
     ==
     - Narrow, strait [[Kangxi: 狹也迫也隘也]];
     - compressed;
@@ -403,12 +403,12 @@ W
         [[zaak3 lou6 窄路]]
         a lane.
     ==
-  - [[Page~12|n55 笮(8)]]
+  - [[Page~12|n55 #10: 笮(8)]]
     ==
     - Like the last [[窄]] [[Kangxi 笮: 狹也廹也]];
     - [[...]].
     ==
-  - [[Page~592 柞(9); here normalised to 窄]]
+  - [[Page~592 #5: 柞(9); here normalised to 窄]]
     --
     [[...]]
     --
@@ -443,7 +443,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~12|n55 笮(8)]]
+  - [[Page~12|n55 #10: 笮(8)]]
     ==
     - [[...]];
     - a quiver [[Kangxi: 矢箙]];
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~12|n55 #3: 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - Boards of a bed [[Kangxi: 牀棧也]];
     - a bed mat [[Kangxi: 簀謂之笫]];
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 舴(8)]]
+  - [[Page~13|n56 #1: 舴(8)]]
     ==
     - A boat;
     - _ch(a/)k(8) ~~mang(6)~~ ``(5)m(a/)ng``_
@@ -584,7 +584,7 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 責(8)]]
+  - [[Page~12|n55 #8: 責(8)]]
     ==
     - To reprove, to reprimand, to blame [[Kangxi: 責讓也]];
     - to punish [[Kangxi: 誅責也]], to fine;
@@ -664,13 +664,13 @@ F
   ==
 W
   ====
-  - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~12|n55 #4: 賾(7) _Chak(7)_ (zak1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - Obscure, hard of understanding [[Kangxi: 謂幽深難見]];
     - the secret springs, the hidden cause;
     - occult, profound.
     ==
-  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~569 #6: 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - [[...]];
     - distant, retired, hidden [[Kangxi 嘖: 與賾通]];
@@ -734,7 +734,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 宅(9)]]
+  - [[Page~13|n56 #8: 宅(9)]]
     ==
     - A dwelling, a mansion, a residence [[Kangxi: 居也, 謂居處也]];
     - a grave;
@@ -788,7 +788,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 摘(9)]]
+  - [[Page~13|n56 #5: 摘(9)]]
     ==
     - To pluck, to cull;
     - to pull, to pick [[Kangxi: 拓果樹實也]];
@@ -811,7 +811,7 @@ W
         [[zaak6 deng2 摘頂]],
         to take away an officer's button.
     ==
-  - [[Page~13|n56 翟(9)]]
+  - [[Page~13|n56 #6: 翟(9)]]
     --
     [[...]]
     --
@@ -852,7 +852,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擇(9)]]
+  - [[Page~13|n56 #3: 擇(9)]]
     ==
     - To select, to pick out, to choose, to prefer [[Kangxi: 揀選也]];
     - _ch(a/)k(9) yat(9)_
@@ -891,7 +891,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擢(9)]]
+  - [[Page~13|n56 #7: 擢(9)]]
     --
     [[Reading variation. **See $擢zok6 for the canonical entry.**]]
     --
@@ -920,7 +920,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 擲(9)]]
+  - [[Page~13|n56 #4: 擲(9)]]
     ==
     - To throw down, to throw at [[Kangxi: 投也]];
     - to throw away, to reject [[Kangxi: 拋也掉也與擿同]];
@@ -963,7 +963,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 澤(9)]]
+  - [[Page~13|n56 #2: 澤(9)]]
     ==
     - A marsh, a fen, a pool [[Kangxi: 澤水之鐘也, 水草交厝名之爲澤]];
     - to fertilize, to soften, to enrich [[Kangxi: 澤者言其潤澤萬物以阜民用也]];
@@ -1053,7 +1053,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 翟(9)]]
+  - [[Page~13|n56 #6: 翟(9)]]
     ==
     - A surname [[Kangxi: 亦姓]].
     ==
@@ -1083,7 +1083,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~13|n56 {𧓸=⿰虫鄭}(9)]]
+  - [[Page~13|n56 #9: {𧓸=⿰虫鄭}(9)]]
     ==
     - A large green caterpillar,
       called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 {𧓸=⿰虫鄭}蠋]]
@@ -1116,7 +1116,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 謫(9)讁(9)]]
+  - [[Page~13|n56 #11: 謫(9)讁(9)]]
     ==
     - To blame, to reprehend [[Kangxi 謫: 責也, 咎也]];
     - to ~~disgracc~~ ``disgrace`` officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
@@ -1159,7 +1159,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 謫(9)讁(9)]]
+  - [[Page~13|n56 #11: 謫(9)讁(9)]]
     --
     [[Alternative form of 謫. **See $謫zaak6 for the canonical entry.**]]
     --
@@ -1215,7 +1215,7 @@ F
   ==
 W
   ====
-  - [[Page~13|n56 躑(9)]]
+  - [[Page~13|n56 #10: 躑(9)]]
     ==
     - Going back and forth [[Kangxi: 躑躅猶踟躕也]];
     - embarrassed, undecided [[Kangxi: 躑躅行不進也]];

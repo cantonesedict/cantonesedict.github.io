@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2026-08-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (1)簪]]
+  - [[Page~553 #1: (1)簪]]
     ==
     - A hairpin, clasp, or bodkin, used to confine the hair
       or fasten the coiffure [[Kangxi: 首筓也]];
@@ -114,7 +114,7 @@ W
         [[gai1 zaam1 mai5 雞簪米]],
         the fowl pecks the rice---a colloquial phrase.
     ==
-  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
+  - [[Page~554 #9: (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
     ==
     - [[...]];
     - a hair-pin [[Kangxi 篸: 同簪]];
@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2)斬]]
+  - [[Page~15|n58 #9: (2)斬]]
     ==
     - To sunder, to cut in two [[Kangxi: 截也, 裁也]];
     - to cut off [[Kangxi: ::斬[...]卽斷也::]];
@@ -322,7 +322,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 湛(3)]]
+  - [[Page~16|n59 #1: 湛(3)]]
     ==
     - A northern affluent of the Yellow~R. near Sh(a/)ns(i/) [[山西]] [[Kangxi: 一曰湛水豫章浸 etc.]];
     - [[...]];
@@ -367,7 +367,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 蘸(3)]]
+  - [[Page~16|n59 #2: 蘸(3)]]
     ==
     - To dip [[Kangxi: 以物投水也]], as a pencil in ink, or sop a morsel in gravy;
     - used by some for baptize.
@@ -418,7 +418,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~16|n59 (4)攙 _(4)Ch(')(a/)m_ (caam4); here corrected to _Ch(a/)m(6)_ (zaam6)]]
+  - [[Page~16|n59 #5: (4)攙 _(4)Ch(')(a/)m_ (caam4); here corrected to _Ch(a/)m(6)_ (zaam6)]]
     ==
     - [[...]];
     - to supply a want, to make up [[Kangxi: 完補也]];
@@ -452,7 +452,7 @@ F
   ==
 W
   ====
-  - [[Page~553 暫(6)]]
+  - [[Page~553 #3: 暫(6)]]
     ==
     - ~~A part of a day;~~
     - for the time being, briefly, shortly, for a short time,
@@ -502,7 +502,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 站(6)]]
+  - [[Page~16|n59 #4: 站(6)]]
     ==
     - A stage, a journey;
     - _~~yik(7)~~ ``yik(9)`` ch(a/)m(6)_
@@ -515,7 +515,7 @@ W
         [[jat1 zaam6 lou6 一站路]]
         a stage, usually reckoned to be a league.
     ==
-  - [[Page~19|n62 站(6) _Ch(a/)n(6)_ (zaan6); here corrected to _Ch(a/)m(6)_ (zaam6)]]
+  - [[Page~19|n62 #10: 站(6) _Ch(a/)n(6)_ (zaan6); here corrected to _Ch(a/)m(6)_ (zaam6)]]
     ==
     - To stand [[Kangxi: 久立也]];
     - to stand erect;
@@ -556,7 +556,7 @@ F
   ==
 W
   ====
-  - [[Page~16|n59 賺(6)]]
+  - [[Page~16|n59 #3: 賺(6)]]
     ==
     - To impede, to hinder [[Fan Wan: 阻之也]];
     - to sell [[Kangxi: 賣也]], [[...]];

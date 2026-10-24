@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,7 +100,7 @@ F
   ==
 W
   ====
-  - [[Page~557 戢(7)]]
+  - [[Page~557 #5: 戢(7)]]
     ==
     - To collect in an arsenal, to store up weapons [[Kangxi: 藏兵也]];
     - to gather [[Kangxi: 斂也]];
@@ -154,7 +154,7 @@ F
   ==
 W
   ====
-  - [[Page~557 濈(7)]]
+  - [[Page~557 #6: 濈(7)]]
     ==
     - Water rapidly flowing out [[Kangxi: 濈水行出也]];
     - rapid [[Kangxi: 疾貌]];
@@ -188,7 +188,7 @@ F
   ==
 W
   ====
-  - [[Page~557 緝(7)]]
+  - [[Page~557 #7: 緝(7)]]
     ==
     - To twist a cord [[Kangxi: 績也]];
     - to join, to continue [[Kangxi: 續也]];
@@ -250,7 +250,7 @@ F
   ==
 W
   ====
-  - [[Page~558 葺(7)]]
+  - [[Page~558 #2: 葺(7)]]
     ==
     - To put in order, to repair [[Kangxi: 修補也]];
     - to cover, to thatch [[Kangxi: 覆也, 苫也]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~558 輯(7)]]
+  - [[Page~558 #1: 輯(7)]]
     ==
     - To collect the materials to form a chariot, a car well arranged [[Kangxi: 車和輯也 etc.]];
     - union, concord, agreement [[Kangxi: 和也, 睦也]];

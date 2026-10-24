@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 倬(8)]]
+  - [[Page~33|n76 #2: 倬(8)]]
     ==
     - Extensive~~, distant~~;
     - large [[Kangxi: 大也]];
@@ -140,7 +140,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 卓(8)]]
+  - [[Page~33|n76 #1: 卓(8)]]
     ==
     - Firm, stable;
     - lofty [[Kangxi: 高也]] and profound;
@@ -196,7 +196,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33|n76 戳(8)]]
+  - [[Page~33|n76 #5: 戳(8)]]
     ==
     - To stab or spear [[Kangxi: 槍戳也]];
     - a seal used by constables;
@@ -228,7 +228,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33|n76 棹(8); here normalised to 桌]]
+  - [[Page~33|n76 #3: 棹(8); here normalised to 桌]]
     ==
     - A table [[Kangxi 桌: 俗呼几案曰桌]];
     - a stand;
@@ -265,7 +265,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33|n76 棹(8)]]
+  - [[Page~33|n76 #3: 棹(8)]]
     ==
     - [[...]];
     - a kind of tree [[Kangxi: 木名]];
@@ -303,7 +303,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 灼(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
+  - [[Page~32|n75 #4: 灼(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
     ==
     - To burn [[Kangxi: 炙也, 熱也]];
     - to singe, to cauterize ~~with moxa~~ [[Kangxi: 熱也]];
@@ -389,7 +389,7 @@ F
   ==
 W
   ====
-  - [[Page~33|n76 綽(8)]]
+  - [[Page~33|n76 #4: 綽(8)]]
     ==
     - Large, ample [[Kangxi: 緩也, 綽綽寬也, 綽猶多也]];
     - ~~slow, leisurely;~~
@@ -440,7 +440,7 @@ F
   ==
 W
   ====
-  - [[Page~32|n75 芍(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
+  - [[Page~32|n75 #7: 芍(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
     ==
     - The peony [[Kangxi: 芍藥猶綽約也]];
     - also the dahlia;
@@ -478,7 +478,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 踔(3)]]
+  - [[Page~29|n72 #7: 踔(3)]]
     --
     [[...]]
     --
@@ -509,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~565 鵲(8)]]
+  - [[Page~565 #8: 鵲(8)]]
     --
     [[Reading variation. **See $鵲zoek3 for the canonical entry.**]]
     --

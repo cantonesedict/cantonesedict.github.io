@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2026-10-04
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~610 卒(8)]]
+  - [[Page~610 #3: 卒(8)]]
     ==
     - An adverb, hastily, suddenly, abruptly [[Kangxi: 急也, 匆遽之貌]];
     - urgently;
@@ -122,7 +122,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 捽(8)]]
+  - [[Page~610 #5: 捽(8)]]
     ==
     - To grasp, to clutch, to seize [[Kangxi: 手持也]], as by the nape;
     - to butt, to push [[Kangxi: 觸也]];
@@ -171,7 +171,7 @@ F
   ==
 W
   ====
-  - [[Page~610 撮(8)]]
+  - [[Page~610 #1: 撮(8)]]
     ==
     - To take a pinch with two or three fingers [[Kangxi: 一曰兩指撮也, 三指取也]];
     - a pinch, a pugil;
@@ -238,7 +238,7 @@ F
   ==
 W
   ====
-  - [[Page~610 猝(8)]]
+  - [[Page~610 #4: 猝(8)]]
     --
     Similar to the last [[卒]].
     --
@@ -269,7 +269,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
+  - [[Page~610 #2: ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --
@@ -293,7 +293,7 @@ F
   ==
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
+  - [[Page~610 #2: ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Alternative form of 蕝, and reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --

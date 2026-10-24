@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 (1)崢]]
+  - [[Page~21|n64 #2: (1)崢]]
     --
     [[Reading variation. **See $崢zang1 for the canonical entry.**]]
     --
@@ -117,7 +117,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)爭]]
+  - [[Page~20|n63 #13: (1)爭]]
     --
     [[Reading variation. **See $爭zang1 for the canonical entry.**]]
     --
@@ -201,7 +201,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)㬹]]
+  - [[Page~21|n64 #1: (1)㬹]]
     ==
     - The tendon Achilles [[Kangxi: 足跟筋也]];
     - the heel;
@@ -375,7 +375,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~21|n64 掙(6)]]
+  - [[Page~21|n64 #3: 掙(6)]]
     --
     A colloquial word.
     --

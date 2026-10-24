@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fui
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -66,7 +66,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (1)恢]]
+  - [[Page~62 #6: (1)恢]]
     ==
     - Great [[Kangxi: 大也]];
     - liberal;
@@ -105,7 +105,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (1)悝]]
+  - [[Page~62 #8: (1)悝]]
     --
     [[...]]
     --
@@ -144,7 +144,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (1)灰]]
+  - [[Page~62 #5: (1)灰]]
     ==
     - Ashes [[Kangxi: 死火餘㶳也, 火之滅者爲灰]], ashy;
     - lime;
@@ -172,7 +172,7 @@ W
         [[fui1 coeng4 灰牆]],
         to plaster a wall.
     ==
-  - [[Page~715 (1)灰]]
+  - [[Page~715 #14: (1)灰]]
     ==
     - As a verb, to turn pale, to faint, to sink from amazement;
     - _(1)sam (1)f(u/)i_
@@ -213,7 +213,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (1)虺]]
+  - [[Page~62 #9: (1)虺]]
     ==
     <## TODO: normalise to $虺wai2 (fui1 per 正韻呼回切)
     - Noise, grunting [[Kangxi: 喧虺]];
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (1)詼]]
+  - [[Page~62 #7: (1)詼]]
     ==
     - To play with, to laugh at [[Kangxi: 調戲也, 譏戲也, 謔也嘲也]];
     - _(1)f(u/)i ~~(2)si(u/)~~ ``si(u/)(3)``_
@@ -288,7 +288,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (1)魁]]
+  - [[Page~62 #4: (1)魁]]
     ==
     - A star [[Kangxi: 星名]];
     - the head, chief [[Kangxi: 魁帥也, 魁猶首也]];
@@ -359,7 +359,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (2)洧]]
+  - [[Page~62 #12: (2)洧]]
     --
     [[Reading variation. **See $洧kui2 for the canonical entry.**]] [[TODO]]
     --
@@ -383,7 +383,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (2)賄]]
+  - [[Page~62 #10: (2)賄]]
     --
     [[Reading variation. **See $賄kui2 for the canonical entry.**]] [[TODO]]
     --
@@ -411,7 +411,7 @@ F
   ==
 W
   ====
-  - [[Page~62 (2)鮪]]
+  - [[Page~62 #11: (2)鮪]]
     --
     [[Reading variation. **See $鮪kui2 for the canonical entry.**]] [[TODO]]
     --
@@ -470,7 +470,7 @@ F
   ==
 W
   ====
-  - [[Page~63 悔(3)]]
+  - [[Page~63 #3: 悔(3)]]
     ==
     - To repent, to change [[Kangxi: 悔恨也, 改也恨也]];
     - to regret [[Kangxi: 悔吝也]], vexed with one's self;
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~63 晦(3)]]
+  - [[Page~63 #4: 晦(3)]]
     ==
     - Obscure [[Kangxi: 晦昧也]], dark [[Kangxi: 晦昏也]];
     - night [[Kangxi: 晦夜也]], the close of light [[Kangxi: 晦晏也]];
@@ -576,7 +576,7 @@ F
   ==
 W
   ====
-  - [[Page~63 誨(3)]]
+  - [[Page~63 #5: 誨(3)]]
     ==
     - To teach, to reiterate instruction [[Kangxi: 曉敎也 etc.]];
     - to admonish, to give line upon line;
@@ -611,7 +611,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 靧(3)]]
+  - [[Page~715 #17: 靧(3)]]
     ==
     - To wash the face [[Kangxi: 洗面也]].
     ==

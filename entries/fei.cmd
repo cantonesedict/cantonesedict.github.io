@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~52 ::(1)~~{？=⿰女㔾}~~``妃``::]]
+  - [[Page~52 #15: ::(1)~~{？=⿰女㔾}~~``妃``::]]
     ==
     - Royal concubines [[Kangxi 妃: ::女與己身儔也古[嬪]御之貴次于后者曰妃::]];
     - _~~(1)wong~~ ``(4)wong`` (1)f(i/)_
@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)扉]]
+  - [[Page~52 #8: (1)扉]]
     ==
     - A wooden ~~door with two leaves~~ ``door-leaf`` [[Kangxi: 戶扇也, 闔謂之扉, 以木曰扉以葦曰扇]];
     - _met._ a rustic house.
@@ -182,7 +182,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)緋]]
+  - [[Page~52 #9: (1)緋]]
     ==
     - Red or crimson silk [[Kangxi: 帛赤色, 絳色又赤練]];
     - _(1)f(i/) (4)p(')(o\)_
@@ -207,7 +207,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1)]]
+  - [[Page~53 #8: (2)菲 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1)]]
     ==
     - [[...]];
     - fragrant [[Kangxi: 菲菲香也]], ~~beautiful~~ ``luxuriant`` [[Kangxi: 草茂貌, 芳菲也]];
@@ -250,7 +250,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)蜚]]
+  - [[Page~52 #11: (1)蜚]]
     --
     [[...]]
     --
@@ -283,7 +283,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)裶]]
+  - [[Page~52 #10: (1)裶]]
     ==
     - ~~To lift up the skirt;~~
     - long, trailing``, as`` dresses [[Kangxi: 衣長貌, 曳衣貌]];
@@ -315,7 +315,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)霏]]
+  - [[Page~52 #12: (1)霏]]
     ==
     - Rain, sleet, or snow driven by the wind, and filling the air [[Kangxi: 雨雪貌, 雰也, 霏甚貌]].
     ==
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)非]]
+  - [[Page~52 #7: (1)非]]
     ==
     - Not right, not good [[Kangxi: 不是也]];
     - not so, opposite [[Kangxi: 違也]];
@@ -417,7 +417,7 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)飛]]
+  - [[Page~52 #14: (1)飛]]
     ==
     - To fly [[Kangxi: 鳥翥, 飛翔]];
     - to flit;
@@ -520,14 +520,14 @@ F
   ==
 W
   ====
-  - [[Page~52 (1)騑]]
+  - [[Page~52 #13: (1)騑]]
     ==
     - The two outside of a team of four horses [[Kangxi: 車有一轅四馬中兩馬夾轅名服馬兩邊名騑馬亦名驂馬]];
     - _(1)f(i/) (1)f(i/)_
         [[fei1 fei1 騑騑]],
         the regular march of horses [[Kangxi: 騑騑馬行不止貌]].
     ==
-  - [[Page~53 (2)匪 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1) and normalised to 騑]]
+  - [[Page~53 #3: (2)匪 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1) and normalised to 騑]]
     ==
     - [[...]];
     - regular march of horses [[Kangxi 匪: 同騑騑騑馬行不止貌]], beautiful [[Kangxi 匪: 行而有文也]];
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)匪]]
+  - [[Page~53 #3: (2)匪]]
     ==
     - [[...]];
     - not right, illegal;
@@ -666,7 +666,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)悱]]
+  - [[Page~53 #4: (2)悱]]
     ==
     - Embarrassed, unable to speak out one's ideas [[Kangxi: 口欲言而未能之貌]].
     ==
@@ -701,7 +701,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)斐]]
+  - [[Page~53 #6: (2)斐]]
     ==
     - Elegant, adorned [[Kangxi: 分別文也 etc.]], graceful, polished, applied to actions or writings;
     - _(2)f(i/) (5)m(i/)_
@@ -740,7 +740,7 @@ F
   ==
 W
   ====
-  - [[Page~53 ::~~(2)榧~~(2)~~棑~~``棐``::]]
+  - [[Page~53 #5: ::~~(2)榧~~(2)~~棑~~``棐``::]]
     ==
     - [[...]];
     - a piece of wood tied to a bow at the grasp to ~~strengthen~~ ``straighten`` it [[Kangxi 棐: 輔也, 輔卽弓檠也故从木]];
@@ -792,7 +792,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 ::(2)榧(2)~~棑~~``棐``::]]
+  - [[Page~53 #5: ::(2)榧(2)~~棑~~``棐``::]]
     ==
     - A kind of cabinet wood with lines [[Kangxi 榧: 榧似煔而材光文彩如柏古謂文木通作棐]],
       suitable to make furniture [[Kangxi 棐: 與榧同木名可爲几]];
@@ -832,7 +832,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)匪; here normalised to 篚]]
+  - [[Page~53 #3: (2)匪; here normalised to 篚]]
     ==
     - A ~~square~~ bamboo box``-like container`` [[Kangxi 匪: 匪如篋, ~~竹器方曰匪,~~ 器如竹篋今从竹爲筐篚字]];
     - [[...]].
@@ -840,7 +840,7 @@ W
     --
     [[...]]
     --
-  - [[Page~53 (2)篚]]
+  - [[Page~53 #7: (2)篚]]
     ==
     - A round bamboo basket [[Kangxi: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
     ==
@@ -870,7 +870,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 翡(6) _F(i/)(6)_ (fei6); here normalised to _(2)F(i/)_ (fei2)]]
+  - [[Page~53 #11: 翡(6) _F(i/)(6)_ (fei6); here normalised to _(2)F(i/)_ (fei2)]]
     ==
     - A kingfisher, with beautiful plumage [[Kangxi: 赤羽雀也出鬱林, 鳥似翠而赤]];
     - the cock is called _~~f(i/)(6)~~ ``(2)f(i/)``_ [[fei2 翡]]^,
@@ -908,7 +908,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)菲]]
+  - [[Page~53 #8: (2)菲]]
     ==
     - A red marshy plant [[Kangxi: 菜名, 芴也, 菲草生下濕地似蕪菁華紫赤色可食]];
     - pot-herbs, greens;
@@ -970,7 +970,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~52 (1)蜚 _(1)F(i/)_ (fei1); here corrected to _(2)F(i/)_ (fei2)]]
+  - [[Page~52 #11: (1)蜚 _(1)F(i/)_ (fei1); here corrected to _(2)F(i/)_ (fei2)]]
     ==
     - A stinking bug which eats clothes and grain [[Kangxi: ::[...]然則蜚是臭惡之蟲害人衣物[...]::]];
     - a fabulous animal ominous of pestilence [[Kangxi: 獸名, ::[...]見則天下大疫::]].
@@ -1025,7 +1025,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)誹]]
+  - [[Page~53 #9: (2)誹]]
     ==
     - To backbite, to speak against [[Kangxi: 謗也, {𧨚=⿰訁圼}也, 或省作非]];
     - _(2)f(i/) p(')ong(3)_
@@ -1100,7 +1100,7 @@ F
   ==
 W
   ====
-  - [[Page~714 (4)淝]]
+  - [[Page~714 #4: (4)淝]]
     ==
     - Diverging streams [[Kangxi: 所出同所歸異曰肥泉]];
     - a river in Ng(a/)nhwui [[安徽]]
@@ -1164,7 +1164,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (4)肥]]
+  - [[Page~53 #1: (4)肥]]
     ==
     - Fat, oily, fleshy [[Kangxi: 多肉也]], rich [[Kangxi: 饒裕也]], fertile [[Kangxi: 田有肥瘠]];
     - _(4)f(i/) chong(3)_
@@ -1190,7 +1190,7 @@ W
     --
     [[Otherwise, an alternative form of 淝. **See $淝fei4 for the canonical entry.**]]
     --
-  - [[Page~714 (4)肥]]
+  - [[Page~714 #5: (4)肥]]
     --
     As a verb.
     --
@@ -1255,7 +1255,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (4)腓]]
+  - [[Page~53 #2: (4)腓]]
     ==
     - Calf of the leg [[Kangxi: 脛腨也, 腳腨腸也, 腓䏿也, 脛後肉腓腸也]];
     - sick, diseased [[Kangxi: 病也, 變也]];
@@ -1351,7 +1351,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here normalised to 屝 _F(i/)(6)_ (fei6)]]
+  - [[Page~53 #8: (2)菲 _(2)F(i/)_ (fei2); here normalised to 屝 _F(i/)(6)_ (fei6)]]
     ==
     - [[...]];
     - straw sandals [[Kangxi 菲: 與屝通, 菲草履]];
@@ -1393,7 +1393,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 狒(6)]]
+  - [[Page~53 #10: 狒(6)]]
     ==
     - An animal of the monkey tribe, large and monstrous [[Kangxi: 狒狒如人被髮迅走食人, 梟羊也 etc.]];
     - _f(i/)(6) f(i/)(6)_
@@ -1423,7 +1423,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 翡(6)]]
+  - [[Page~53 #11: 翡(6)]]
     --
     [[Reading variation. **See $翡fei2 for the canonical entry.**]]
     --

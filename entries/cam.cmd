@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2026-10-07
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)侵]]
+  - [[Page~552 #1: (1)侵]]
     ==
     - To usurp, to incroach upon, to enter gradually [[Kangxi: 漸進也]];
     - to appropriate, to plunder, to invade [[Kangxi: 朘削也]];
@@ -152,7 +152,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~551 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
+  - [[Page~551 #5: 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
     ==
     - [[...]];
     - _(4)k(')(i/) sh(u:)t(8) ~~tsam(3)~~ ``(1)ts(')am`` (4)yam_
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)祲]]
+  - [[Page~552 #3: (1)祲]]
     --
     [[Reading variation. **See $祲zam1 for the canonical entry.**]]
     --
@@ -211,7 +211,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)葠]]
+  - [[Page~552 #5: (1)葠]]
     --
     Used for _(1)sham_ [[sam1]] 參 ginseng~~, but erroneously~~.
     --
@@ -240,7 +240,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)鋟]]
+  - [[Page~552 #4: (1)鋟]]
     --
     [[Reading variation. **See $鋟cim1 for the canonical entry.**]]
     --
@@ -268,7 +268,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)駸]]
+  - [[Page~552 #2: (1)駸]]
     ==
     - ~~Occurs used for the preceding [[侵]];~~
     - properly a ~~swift~~ horse ``moving swiftly`` [[Kangxi: 駸駸馬行疾貌]];
@@ -311,7 +311,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)侵]]
+  - [[Page~552 #1: (1)侵]]
     --
     [[...]]
     --
@@ -351,7 +351,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (2)寢]]
+  - [[Page~552 #12: (2)寢]]
     ==
     - To sleep [[Kangxi: 臥也]];
     - rest, sleep;
@@ -424,7 +424,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 譖(3)]]
+  - [[Page~15|n58 #7: 譖(3)]]
     --
     [[Reading variation. **See $譖zam3 for the canonical entry.**]]
     --
@@ -465,7 +465,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 讖(3)]]
+  - [[Page~15|n58 #8: 讖(3)]]
     ==
     - To verify, to prove [[Kangxi: 驗也]];
     - a prognostic [[Kangxi: 凡讖緯皆言將來之驗也]];
@@ -543,7 +543,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)尋]]
+  - [[Page~552 #6: (4)尋]]
     ==
     - To hunt after, to search, on the track of;
     - to seek, to investigate [[Kangxi: 繹理也, 求也]];
@@ -636,7 +636,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~15|n58 (4)沉(4)沈]]
+  - [[Page~15|n58 #4: (4)沉(4)沈]]
     --
     [[Alternative form of 沉. **See $沉cam4 for the canonical entry.**]]
     --
@@ -670,7 +670,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (4)沉(4)沈]]
+  - [[Page~15|n58 #4: (4)沉(4)沈]]
     ==
     - To sink [[Kangxi 沈: 沒也]];
     - to immerse;
@@ -706,7 +706,7 @@ W
         [[cam4 hoeng1 沉香]],
         aloes.
     ==
-  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _(4)Ch(')am_ (cam4) and normalised to 沉]]
+  - [[Page~16|n59 #1: 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _(4)Ch(')am_ (cam4) and normalised to 沉]]
     ==
     - [[...]];
     - to sink in [[Kangxi 湛: 與沈同]];
@@ -763,7 +763,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~500 (4)燂 also read ^_(4)Ts(')am_ (cam4)]]
+  - [[Page~500 #10: (4)燂 also read ^_(4)Ts(')am_ (cam4)]]
     --
     [[Reading variation. **See $燂cim4 and $燂taam4 for the canonical entries.**]] [[TODO]]
     --
@@ -821,7 +821,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)燖]]
+  - [[Page~552 #7: (4)燖]]
     --
     [[Alternative form of 爓. **See $爓cam4 for the canonical entry.**]]
     --
@@ -871,7 +871,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~552 (4)燖; here normalised to 爓]]
+  - [[Page~552 #7: (4)燖; here normalised to 爓]]
     ==
     - To scald, as a fowl, in order to pluck it;
     - to steep in hot broth [[Kangxi 爓: 爓沈肉于湯也]], to make a broth of.
@@ -919,7 +919,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鐔]]
+  - [[Page~552 #10: (4)鐔]]
     ==
     - The guard on the hilt of a sword [[Kangxi: 劒鼻也]];
     - a dagger, a dirk [[Kangxi: 鐔似劒而小]];
@@ -945,7 +945,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (4)霃]]
+  - [[Page~15|n58 #5: (4)霃]]
     ==
     - Dark, cloudy for a long time [[Kangxi: 久隂也]];
     - _(1)yam (1)yam (4)ch(')am (4)ch(')am_
@@ -972,7 +972,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鬵]]
+  - [[Page~552 #11: (4)鬵]]
     ==
     - A vase with a large belly and small mouth [[Kangxi: 一曰鼎大上小下若甑曰鬵]];
     - a large kettle or boiler [[Kangxi: 大釜也]].
@@ -1009,7 +1009,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2){𩵫=⿰冘魚} _(2)Ch(')am_ (cam2); here corrected to 魫 _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 #6: (2){𩵫=⿰冘魚} _(2)Ch(')am_ (cam2); here corrected to 魫 _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi 魫: 魚子]];
     - the name of a fish [[Fan Wan 魫: 魚名]].
@@ -1044,7 +1044,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鱏]]
+  - [[Page~552 #9: (4)鱏]]
     ==
     - An enormous fish, with a long nose [[Kangxi: 鱏長鼻魚也重千斤]],
       found in the Y(a/)ngtsz' ki(a/)ng [[揚子江]];
@@ -1070,7 +1070,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鱘]]
+  - [[Page~552 #8: (4)鱘]]
     ==
     - The sturgeon;
     - _(4)ts(')am (4)lung (4)(u:)_

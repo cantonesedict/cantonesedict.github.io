@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,7 +67,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 (1)凄(1)淒]]
+  - [[Page~549 #6: (1)凄(1)淒]]
     --
     [[Alternative form of 淒. **See $淒cai1 for the canonical entry.**]]
     --
@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)妻]]
+  - [[Page~549 #5: (1)妻]]
     ==
     - A wife, a partner [[Kangxi: 妻與己齊者也]], a spouse, a consort who is taken with legal ceremonies;
     - _(1)ts(')ai (2)tsz'_
@@ -155,7 +155,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)悽]]
+  - [[Page~549 #7: (1)悽]]
     --
     [[...]]
     --
@@ -188,7 +188,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
+  - [[Page~550 #2: ::(1)棲(1)~~梄~~``栖``::]]
     --
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
+  - [[Page~550 #2: ::(1)棲(1)~~梄~~``栖``::]]
     ==
     - To roost, to perch, to nestle [[Kangxi 栖: 日在西方而鳥棲 etc.]] [[Kangxi 棲: 同栖鳥棲也]];
     - to sojourn, to stay at, to reside;
@@ -277,7 +277,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)凄(1)淒]]
+  - [[Page~549 #6: (1)凄(1)淒]]
     ==
     - Intense cold [[Kangxi 淒: 寒涼也]];
     - bleak, cloudy, wintry [[Kangxi 淒: 雲雨起貌]];
@@ -307,7 +307,7 @@ W
     --
     The second [[淒]] also means gathering clouds.
     --
-  - [[Page~549 (1)悽]]
+  - [[Page~549 #7: (1)悽]]
     --
     Similar to the last [[淒]];
     --
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)緀]]
+  - [[Page~549 #8: (1)緀]]
     ==
     - The stripes, colored or plain, in silken fabrics [[Kangxi: 帛文貌]];
     - ornamented, blended colors and stripes [[Kangxi: 緀斐文章相錯貌]].
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)萋]]
+  - [[Page~549 #9: (1)萋]]
     ==
     - Luxuriant foliage [[Kangxi: 草盛貌]];
     - _(1)ts(')ai (1)ts(')ai_
@@ -408,7 +408,7 @@ F
   ==
 W
   ====
-  - [[Page~550 切(3)]]
+  - [[Page~550 #8: 切(3)]]
     ==
     - All, every, the whole;
     - _yat(7) ts(')ai(3)_
@@ -449,7 +449,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)妻]]
+  - [[Page~549 #5: (1)妻]]
     --
     [[...]]
     --
@@ -486,7 +486,7 @@ F
   ==
 W
   ====
-  - [[Page~550 砌(3)]]
+  - [[Page~550 #9: 砌(3)]]
     ==
     - A stone step [[Kangxi: 階甃也]];
     - ornamented tiles laid for steps;
@@ -548,7 +548,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 嚌(6) read _(1)Tsai_ (zai1); here corrected to _(4)Ts(')ai_ (cai4)]]
+  - [[Page~549 #4: 嚌(6) read _(1)Tsai_ (zai1); here corrected to _(4)Ts(')ai_ (cai4)]]
     --
     ~~Read _(1)tsai_ [[zai1]].~~
     --
@@ -583,7 +583,7 @@ F
   ==
 W
   ====
-  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
+  - [[Page~549 #3: 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
     ==
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];
@@ -622,7 +622,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (4)蠐]]
+  - [[Page~550 #4: (4)蠐]]
     ==
     - ~~A maggot~~ ``The scarab beetle grub`` [[Kangxi: 蠐螬]];
     - _(4)ts(')ai (4)ts(')(o\)_
@@ -667,7 +667,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (4)齊]]
+  - [[Page~550 #3: (4)齊]]
     ==
     - Even [[Kangxi: 整也]], equal [[Kangxi: 等也]], uniform;
     - to equalize, to tranquillize;
@@ -772,7 +772,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (5)泚]]
+  - [[Page~550 #7: (5)泚]]
     --
     [[Reading variation. **See $泚ci2 for the canonical entry.**]]
     --
@@ -802,7 +802,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (5)薺]]
+  - [[Page~550 #5: (5)薺]]
     ==
     - Cress, shepherd's purse [[Kangxi: 甘菜]];
     - a term for small esculent plants like pepper-grass, cress, mint.
@@ -832,7 +832,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~550 (5)鱭(5)鮆]]
+  - [[Page~550 #6: (5)鱭(5)鮆]]
     --
     [[Alternative form of 鱭. **See $鱭cai5 for the canonical entry.**]]
     --
@@ -856,7 +856,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~550 (5)鱭(5)鮆]]
+  - [[Page~550 #6: (5)鱭(5)鮆]]
     ==
     - A thin fish, with a silvery belly;
     - a mullet;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hak
-* %date-modified --> 2026-08-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -83,7 +83,7 @@ F
   ==
 W
   ====
-  - [[Page~69 克(7)]]
+  - [[Page~69 #13: 克(7)]]
     ==
     - To sustain``, to carry`` [[Kangxi: 肩也]], adequate to [[Kangxi: 肩任也任者又負荷之名也能勝此物謂之克也, 克能也]];
     - superior to;
@@ -108,7 +108,7 @@ W
     --
     [[Otherwise, an alternative form of 剋. **See $剋hak1 for the canonical entry.**]]
     --
-  - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 克 _Hak(7)_ (hak1)]]
+  - [[Page~70 #4: 尅(7) _H(a/)k(7)_ (haak1); here normalised to 克 _Hak(7)_ (hak1)]]
     ==
     - To subdue, to overcome [[Kangxi 剋: 剋勝也, 謂得勝也]];
     - [[...]].
@@ -160,7 +160,7 @@ F
   ==
 W
   ====
-  - [[Page~70 刻(7) _H(a/)k(7)_ (haak1); here normalised to _Hak(7)_ (hak1)]]
+  - [[Page~70 #3: 刻(7) _H(a/)k(7)_ (haak1); here normalised to _Hak(7)_ (hak1)]]
     ==
     - To carve [[Kangxi: 鏤也]], to chisel, to sculpture;
     - ~~a~~ ``to`` cut [[Kangxi: 割也]];
@@ -241,13 +241,13 @@ F
   ==
 W
   ====
-  - [[Page~69 克(7); here normalised to 剋]]
+  - [[Page~69 #13: 克(7); here normalised to 剋]]
     ==
     - [[...]];
     - overbearing;
     - [[...]].
     ==
-  - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 剋 _Hak(7)_ (hak1)]]
+  - [[Page~70 #4: 尅(7) _H(a/)k(7)_ (haak1); here normalised to 剋 _Hak(7)_ (hak1)]]
     ==
     - [[...]];
     - to repress, to exorcise;
@@ -299,7 +299,7 @@ F
   ==
 W
   ====
-  - [[Page~69 赫(7)]]
+  - [[Page~69 #14: 赫(7)]]
     --
     [[Reading variation. **See $赫haak1 for the canonical entry.**]]
     --
@@ -328,7 +328,7 @@ F
   ==
 W
   ====
-  - [[Page~69 黑(7)]]
+  - [[Page~69 #12: 黑(7)]]
     ==
     - Black [[Kangxi: 火所熏之色也, 北方隂色]], sooty;
     - dark, obscure [[Kangxi: 黑晦也如晦冥時色也]];

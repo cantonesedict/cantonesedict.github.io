@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,7 +85,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)且]]
+  - [[Page~594 #5: (1)且]]
     ==
     - A phonetic particle, used in the Sh(i/) King [[詩經]]
       at the end of sentences, as an affirmative [[Kangxi: 語餘聲]].
@@ -175,7 +175,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)沮]]
+  - [[Page~594 #11: (1)沮]]
     ==
     - The name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]  [[Kangxi: 水名, 水出漢中房陵東入江]]
       west of ~~K'ingchau~~ ``Kingchau`` f(u/) [[荊州府]] in H(u/)peh [[湖北]];
@@ -214,7 +214,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)疽]]
+  - [[Page~594 #6: (1)疽]]
     ==
     - A deep-seated ulcer [[Kangxi: 久癰也]];
     - a carbuncle or anthrax;
@@ -250,7 +250,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (1)睢]]
+  - [[Page~594 #7: (1)睢]]
     --
     [[Reading variation. **See $睢fai1 for the canonical entry.**]]
     --
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)苴]]
+  - [[Page~594 #8: (1)苴]]
     ==
     - ~~The female~~ hemp ~~plant~~ [[Kangxi: 麻也]] ``or hempseed`` [[Kangxi: 苴麻子也]];
     - sackcloth;
@@ -423,7 +423,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)菹]]
+  - [[Page~594 #9: (1)菹]]
     ==
     - Pickled fruits, like melons [[Kangxi: 酢菜也 etc.]];
     - salted vegetables;
@@ -459,7 +459,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~595 (1)蛆]]
+  - [[Page~595 #9: (1)蛆]]
     --
     [[...]]
     --
@@ -497,7 +497,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~612 (1)觜]]
+  - [[Page~612 #4: (1)觜]]
     --
     [[...]]
     --
@@ -535,7 +535,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)趄]]
+  - [[Page~594 #10: (1)趄]]
     ==
     - To walk slowly, impeded in going [[Kangxi: 趑趄也]];
     - _(1)tsz' (1)ts(u:)_
@@ -558,7 +558,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (1)追]]
+  - [[Page~33* #9: (1)追]]
     ==
     - To pursue [[Kangxi: 逐也]], to follow after [[Kangxi: 隨也]];
     - to come up with [[Kangxi: 送也]], to overtake, to catch [[Kangxi: 逮也]];
@@ -637,7 +637,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (1)錐]]
+  - [[Page~33* #10: (1)錐]]
     ==
     - An awl, a borer;
     - a sharp pointed tool [[Kangxi: 銳器也]];
@@ -744,7 +744,7 @@ F
   ==
 W
   ====
-  - [[Page~33* (1)騅]]
+  - [[Page~33* #11: (1)騅]]
     ==
     - A black horse with white spots [[Kangxi: 蒼白雜毛騅]];
     - _(1)(u/) (1)chui (5)m(a/)_
@@ -790,7 +790,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)咀]]
+  - [[Page~595 #1: (2)咀]]
     ==
     - To taste [[Kangxi: 含味也]];
     - to chew, to bite in order to taste [[Kangxi: 咀嚼]];
@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~596 (2)嘴]]
+  - [[Page~596 #5: (2)嘴]]
     ==
     - The lips;
     - a beak, a bill of a bird [[Kangxi {𠲿=⿰口束}: 鳥喙也, 與觜同 etc.]];
@@ -914,7 +914,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (2)沮]]
+  - [[Page~594 #12: (2)沮]]
     ==
     - To stop, to prohibit [[Kangxi: 止也]];
     - ~~to pass over;~~
@@ -982,7 +982,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~612 (1)觜 read _(1)Tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
+  - [[Page~612 #4: (1)觜 read _(1)Tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
     --
     [[...]]
     --
@@ -1052,7 +1052,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)齟]]
+  - [[Page~595 #2: (2)齟]]
     ==
     - Irregular teeth, which do not interlock easily [[Kangxi: 齒不相値曰齟齬]];
     - discordant, as opinions, incongruous;
@@ -1122,7 +1122,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
+  - [[Page~34* #10: (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - ~~Mournful~~ ``Anxious, apprehensive`` [[Kangxi: 憂懼也]];
     - ~~in straits;~~
@@ -1170,7 +1170,7 @@ F
   ==
 W
   ====
-  - [[Page~597 最(3)]]
+  - [[Page~597 #2: 最(3)]]
     ==
     - To come together, to assemble [[Kangxi: 聚也]];
     - an adjective denoting the most important, the highest degree of [[Kangxi: 極也, 最爲第一]];
@@ -1214,7 +1214,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (2)沮 _(2)Ts(u:)_ (zeoi2); here corrected to _Ts(u:)(3)_ (zeoi3)]]
+  - [[Page~594 #12: (2)沮 _(2)Ts(u:)_ (zeoi2); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     ==
     - [[...]];
     - _shap(7) ~~(2)ts(u:)~~ ``ts(u:)(3)``_
@@ -1260,7 +1260,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 綴(6) _Chui(6)_ (zeoi6); here normalised to _Chui(3)_ (zeoi3)]]
+  - [[Page~34* #2: 綴(6) _Chui(6)_ (zeoi6); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - Connected [[Kangxi: 連也, 緝也]];
     - to carry on [[Kangxi: 綴言不絕也]];
@@ -1268,7 +1268,7 @@ W
     - mixed, variegated [[Kangxi: 綴雜彩有文之具]];
     - to oversee royal robes [[Kangxi: 掌衣服 etc.]].
     ==
-  - [[Page~42 綴(8) _Ch(u:)t(8)_ (zyut3); here normalised to _Chui(3)_ (zeoi3)]]
+  - [[Page~42 #7: 綴(8) _Ch(u:)t(8)_ (zyut3); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - To connect, to join;
     - [[...]];
@@ -1319,7 +1319,7 @@ F
   ==
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
+  - [[Page~610 #2: ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
     --
     [[...]]
     --
@@ -1351,7 +1351,7 @@ F
   ==
 W
   ====
-  - [[Page~598 足(7) read _Ts(u:)(6)_ (zeoi6); here corrected to _Ts(u:)(3)_ (zeoi3)]]
+  - [[Page~598 #8: 足(7) read _Ts(u:)(6)_ (zeoi6); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     --
     [[...]]
     --
@@ -1398,7 +1398,7 @@ F
   ==
 W
   ====
-  - [[Page~597 醉(3)]]
+  - [[Page~597 #1: 醉(3)]]
     ==
     - Exhilirated with drink [[Kangxi: 爲酒所酣曰醉]];
     - intoxicated, fuddled, drunken;
@@ -1495,7 +1495,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~595 敍(6)叙(6)]]
+  - [[Page~595 #4: 敍(6)叙(6)]]
     --
     [[Alternative form of 序 (for the "order" and "preface" senses). **See $序zeoi6 for the canonical entry.**]]
     --
@@ -1525,7 +1525,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 墜(6)隊(6)]]
+  - [[Page~33* #12: 墜(6)隊(6)]]
     ==
     - To fall, to tumble over [[Kangxi 墜: ::[陊]也::, 落也]];
     - to slide;
@@ -1584,7 +1584,7 @@ F
   ==
 W
   ====
-  - [[Page~595 序(6)]]
+  - [[Page~595 #3: 序(6)]]
     ==
     - Eastern and western walls ~~or rooms~~ [[Kangxi 序^: 東西牆謂之序]];
     - a college, a school [[Kangxi 序^: 學也]];
@@ -1608,7 +1608,7 @@ W
         [[zeoi6 si6 to5 dong3 序事妥當]]
         everything in its order.
     ==
-  - [[Page~595 敍(6)叙(6)]]
+  - [[Page~595 #4: 敍(6)叙(6)]]
     ==
     - Similar to the preceding [[序]];
     - to arrange, to order, to set in their proper places;
@@ -1643,7 +1643,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~595 敍(6)叙(6)]]
+  - [[Page~595 #4: 敍(6)叙(6)]]
     --
     [[Alternative form of 序 (for the "order" and "preface" senses). **See $序zeoi6 for the canonical entry.**]]
     --
@@ -1671,7 +1671,7 @@ F
   ==
 W
   ====
-  - [[Page~595 敍(6)叙(6); here normalised to 敘]]
+  - [[Page~595 #4: 敍(6)叙(6); here normalised to 敘]]
     ==
     - [[...]];
     - to meet, to converse;
@@ -1712,7 +1712,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 綴(6)]]
+  - [[Page~34* #2: 綴(6)]]
     --
     [[Reading variation. **See $綴zeoi3 for the canonical entry.**]]
     --
@@ -1742,7 +1742,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 縋(6)]]
+  - [[Page~33* #13: 縋(6)]]
     ==
     - A rope [[Kangxi: 縋繩索也]];
     - to let down by a cord [[Kangxi: 以繩有所懸也]];
@@ -1782,7 +1782,7 @@ F
   ==
 W
   ====
-  - [[Page~598 罪(6)辠(6)]]
+  - [[Page~598 #1: 罪(6)辠(6)]]
     ==
     - A bamboo net for fish [[Kangxi 罪: 捕魚竹罔]];
     - to become entangled in the net of the law;
@@ -1863,7 +1863,7 @@ F
   ==
 W
   ====
-  - [[Page~595 聚(6)]]
+  - [[Page~595 #5: 聚(6)]]
     ==
     - To assemble, to congregate [[Kangxi: 會也]], to gather [[Kangxi: 斂也]];
     - to meet;
@@ -1910,7 +1910,7 @@ F
   ==
 W
   ====
-  - [[Page~595 藇(6)]]
+  - [[Page~595 #6: 藇(6)]]
     ==
     - Good, agreeable, pleasant [[Kangxi: 美貌]], as liquor.
     ==
@@ -1953,7 +1953,7 @@ F
   ==
 W
   ====
-  - [[Page~34* 贅(6)]]
+  - [[Page~34* #1: 贅(6)]]
     ==
     - To pledge, to pawn [[Kangxi: 以物質錢]];
     - connected with, hanging to [[Kangxi: 贅屬也, 贅猶綴也謂繫綴而屬之]], an excrescence [[Kangxi: 贅屬也橫生一肉屬著體也]], a useless appendage;
@@ -2004,7 +2004,7 @@ F
   ==
 W
   ====
-  - [[Page~598 罪(6)辠(6)]]
+  - [[Page~598 #1: 罪(6)辠(6)]]
     --
     [[Alternative form of 罪. **See $罪zeoi6 for the canonical entry.**]]
     --
@@ -2025,7 +2025,7 @@ F
   ==
 W
   ====
-  - [[Page~33* 墜(6)隊(6)]]
+  - [[Page~33* #12: 墜(6)隊(6)]]
     --
     [[Alternative form of 墜. **See $墜zeoi6 for the canonical entry.**]]
     --
@@ -2053,7 +2053,7 @@ F
   ==
 W
   ====
-  - [[Page~595 鱮(6)]]
+  - [[Page~595 #7: 鱮(6)]]
     ==
     - The tench or roach;
     - a large, coarse species of carp

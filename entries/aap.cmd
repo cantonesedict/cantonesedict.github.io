@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~5 押(8)]]
+  - [[Page~5 #2: 押(8)]]
     --
     [[Reading variation. **See $押aat3 for the canonical entry.**]]
     --
@@ -97,7 +97,7 @@ F
   ==
 W
   ====
-  - [[Page~5 鴨(8)]]
+  - [[Page~5 #1: 鴨(8)]]
     ==
     - A duck, a mallard;
     - _(2)h(i/)n (a/)p(8)_

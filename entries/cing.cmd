@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -93,7 +93,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)檉 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+  - [[Page~21* #11: (2)檉 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A reddish bark willow, growing by water courses [[Kangxi: 河柳也]],
       and thought to indicate rain [[Kangxi: 天之將雨檉先起氣以應之故一名雨師]].
@@ -121,7 +121,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)淸]]
+  - [[Page~577 #6: (1)淸]]
     --
     [[Alternative form of 清. **See $清cing1 for the canonical entry.**]]
     --
@@ -149,7 +149,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)淸; here normalised to 清]]
+  - [[Page~577 #6: (1)淸; here normalised to 清]]
     ==
     - Pure, limpid [[Kangxi 淸: 朖也]], clear [[Kangxi 淸: 澂水之貌]], unsullied, sharpsighted [[Kangxi 淸: 視淸明也]];
     - clean [[Kangxi 淸: 潔也]], incorruptible, right principled;
@@ -251,7 +251,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (1)秤]]
+  - [[Page~20* #5: (1)秤]]
     --
     [[Alternative form of 稱 (for the "weigh" sense). **See $稱cing1 for the canonical entry.**]]
     --
@@ -283,7 +283,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (1)稱]]
+  - [[Page~20* #4: (1)稱]]
     ==
     - To call, to name, to designate, to style [[Kangxi: 名號謂之稱]];
     - to say [[Kangxi: 言也]], to talk about;
@@ -314,7 +314,7 @@ W
         [[cing1 beng6 稱病]]
         to malinger, to feign sickness.
     ==
-  - [[Page~20* (1)秤; here normalised to 稱]]
+  - [[Page~20* #5: (1)秤; here normalised to 稱]]
     ==
     - Same as the last [[稱]], but usually applied only to weighing;
     - to adjust;
@@ -404,7 +404,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
+  - [[Page~576 #4: (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
     ==
     - A dragon-fly, called _~~(1)tsing (1)t(')ing~~ ``(1)ts(')ing (4)t(')ing``_ [[cing1 ting4 蜻蜓]],
       which sips the water [[Kangxi: 蜻蜓蟲]];
@@ -447,7 +447,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)蟶 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+  - [[Page~21* #12: (2)蟶 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A bivalve [[Kangxi: 蚌屬]], the razor-sheath or Solen,
       also called _(1)sh(a/) (4)lo_ [[saa1 lo4 沙螺]],
@@ -484,7 +484,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)赬 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+  - [[Page~21* #10: (2)赬 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A carnation or pink color;
     - cloth dyed twice over [[Kangxi: 再染謂之赬]], to dye red [[Kangxi: 赬染赤]];
@@ -513,7 +513,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)靑(1)青]]
+  - [[Page~577 #5: (1)靑(1)青]]
     --
     [[Alternative form of 青. **See $青cing1 for the canonical entry.**]]
     --
@@ -545,7 +545,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)靑(1)青]]
+  - [[Page~577 #5: (1)靑(1)青]]
     ==
     - The color of nature,
       as the azure of the sky or the green of growing plants [[Kangxi 靑: 靑生也]];
@@ -706,7 +706,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)拯]]
+  - [[Page~21* #9: (2)拯]]
     ==
     - To rescue [[Kangxi: 救也助也, 援也]], to pull out, as from a well;
     - to deliver, to save;
@@ -784,7 +784,7 @@ F
   ==
 W
   ====
-  - [[Page~578 (2)請]]
+  - [[Page~578 #3: (2)請]]
     ==
     - To request, to ask courteously, to pray, to beg [[Kangxi: 謁也, 求也, 乞也問也, 祈也扣也]];
     - to request liberty to do, to ask, as for orders;
@@ -890,7 +890,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)逞]]
+  - [[Page~21* #7: (2)逞]]
     ==
     - Froward, presuming, confident of one's power or pretensions [[Kangxi: 矜而自逞也]];
     - precipitate, hasty [[Kangxi: 疾也]];
@@ -948,7 +948,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (2)郢]]
+  - [[Page~21* #8: (2)郢]]
     --
     [[Reading variation. **See $郢jing5 for the canonical entry.**]] [[TODO]]
     --
@@ -988,7 +988,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 稱(3); here normalised to 秤]]
+  - [[Page~21* #13: 稱(3); here normalised to 秤]]
     ==
     - To weigh, to adjust;
     - a steelyard or dotchin [[Kangxi 秤: 正斤兩也]];
@@ -1067,7 +1067,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 稱(3)]]
+  - [[Page~21* #13: 稱(3)]]
     ==
     - [[...]];
     - suitable [[Kangxi: 適物之宜也]], as one wishes [[Kangxi: 愜意]];
@@ -1144,7 +1144,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (4)呈]]
+  - [[Page~20* #7: (4)呈]]
     ==
     - A statement, a plea of a case;
     - to present a petition or statement;
@@ -1222,7 +1222,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)埕]]
+  - [[Page~21* #2: (4)埕]]
     --
     An unauthorized character.
     --
@@ -1263,7 +1263,7 @@ F
   ==
 W
   ====
-  - [[Page~578 (4)情]]
+  - [[Page~578 #1: (4)情]]
     ==
     - The passions [[Kangxi: 人欲之謂情]], reckoned to be seven [[Kangxi: 喜怒哀懼愛惡欲]];
     - the feelings, the desires;
@@ -1352,7 +1352,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)惩(4)懲]]
+  - [[Page~21* #4: (4)惩(4)懲]]
     ==
     - To repress, to curb [[Kangxi 懲: 㣻也]];
     - to warn;
@@ -1402,7 +1402,7 @@ F
   ==
 W
   ====
-  - [[Page~578 (4)晴]]
+  - [[Page~578 #2: (4)晴]]
     ==
     - The sky clearing up after rain [[Kangxi: 雨止也晴明也無雲也]], the clear blue sky;
     - the stars coming out [[Kangxi: 夝雨而夜除星見也, 今俗作晴非]];
@@ -1433,7 +1433,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)澄]]
+  - [[Page~21* #6: (4)澄]]
     ==
     - Still water;
     - limpid, clear [[Kangxi: 水靜而淸也]];
@@ -1475,7 +1475,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)瞪]]
+  - [[Page~21* #5: (4)瞪]]
     ==
     - To stare at, to look straight at [[Kangxi: 直視也]], to fix the eye on;
     - _(4)ch(')ing (5)ng(a/)n mong(6)_
@@ -1501,7 +1501,7 @@ F
   ==
 W
   ====
-  - [[Page~20* (4)程]]
+  - [[Page~20* #6: (4)程]]
     ==
     - ~~The {1/100}th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]_;_~~
     - a portion or percentage;
@@ -1587,7 +1587,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)裎]]
+  - [[Page~21* #1: (4)裎]]
     ==
     - ~~The upper part of the body;~~
     - naked [[Kangxi: 倮也]];
@@ -1628,7 +1628,7 @@ F
   ==
 W
   ====
-  - [[Page~21* (4)酲]]
+  - [[Page~21* #3: (4)酲]]
     ==
     - ~~To drink till sick and drunk~~ ``Sick from drink`` [[Kangxi: 病酒也]];
     - half sobered, and ashamed at being drunk [[Kangxi: 一曰醉而覺也]];

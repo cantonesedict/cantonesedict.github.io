@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2026-07-15
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,7 +67,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (1)餐(1)飡]]
+  - [[Page~555 #9: (1)餐(1)飡]]
     --
     [[Alternative form of 餐. **See $餐caan1 for the canonical entry.**]]
     --
@@ -92,7 +92,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (1)餐(1)飡]]
+  - [[Page~555 #9: (1)餐(1)飡]]
     ==
     - To swallow [[Kangxi 餐: 吞也]], to eat;
     - a meal [[Kangxi 餐: 飮饌曰餐]];
@@ -180,7 +180,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)剷(2)剗]]
+  - [[Page~20|n63 #4: (2)剷(2)剗]]
     --
     [[Alternative form of 剷. **See $剷caan2 for the canonical entry.**]]
     --
@@ -215,7 +215,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)剷(2)剗]]
+  - [[Page~20|n63 #4: (2)剷(2)剗]]
     --
     Interchanged with the next [[鏟]].
     --
@@ -270,7 +270,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)嵼]]
+  - [[Page~20|n63 #3: (2)嵼]]
     ==
     - Tortuous paths among the mountains [[Kangxi: {𡾰=⿰山蹇}嵼山屈曲貌]];
     - _(2)k(i/)n (2)ch(')(a/)n_
@@ -302,7 +302,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)產]]
+  - [[Page~20|n63 #2: (2)產]]
     ==
     - To produce, to grow [[Kangxi: 生也]];
     - to bear, to increase;
@@ -374,7 +374,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (2)鏟]]
+  - [[Page~20|n63 #5: (2)鏟]]
     ==
     - A thin iron plate [[Kangxi: 鏶也]];
     - a shovel, a plane;
@@ -440,7 +440,7 @@ F
   ==
 W
   ====
-  - [[Page~556 燦(3)]]
+  - [[Page~556 #3: 燦(3)]]
     ==
     - Resplendent, clear [[Kangxi: 燦爛明瀞貌]];
     - attractive, bright, gay;
@@ -485,7 +485,7 @@ F
   ==
 W
   ====
-  - [[Page~556 璨(3)]]
+  - [[Page~556 #4: 璨(3)]]
     ==
     - The lustre of gem, a bright gem [[Kangxi: 玉光也]];
     - _(1)ts(')(u/)i ts(')(a/)n(3)_
@@ -512,7 +512,7 @@ F
   ==
 W
   ====
-  - [[Page~556 粲(3)]]
+  - [[Page~556 #2: 粲(3)]]
     ==
     - ~~Half a _(2)tau_ [[dau2 斗]] or peck;~~
     - a meal [[Kangxi: 餐也]];
@@ -582,7 +582,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~573 (1)戔 used for ^_(4)Ts(')(a/)n_ (caan4)]]
+  - [[Page~573 #2: (1)戔 used for ^_(4)Ts(')(a/)n_ (caan4)]]
     --
     [[Alternative form of 殘. **See $殘caan4 for the canonical entry.**]]
     --
@@ -619,7 +619,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (4)殘]]
+  - [[Page~556 #1: (4)殘]]
     ==
     - To ruin, to destroy [[Kangxi: 賊也]];
     - to injure, to spoil;
@@ -660,7 +660,7 @@ W
         [[caan4 jan2 殘忍]],
         cruel, unfeeling.
     ==
-  - [[Page~573 (1)戔 used for ^_(4)Ts(')(a/)n_ (caan4)]]
+  - [[Page~573 #2: (1)戔]]
     --
     Used for _(4)ts(')(a/)n_ [[caan4]] 殘 cruel [[Kangxi 戔: 通作殘]].
     --
@@ -705,7 +705,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (5)棖]]
+  - [[Page~20|n63 #6: (5)棖]]
     --
     [[Reading variation. **See $棖caam5 for the canonical entry.**]]
     --

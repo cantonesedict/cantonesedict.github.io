@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-09-13
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (1)科]]
+  - [[Page~53 #14: (1)科]]
     ==
     - ~~A root, the hollow culm of grain;~~
     - ~~a vacuum, empty~~ ``a hollow in a tree`` [[Kangxi: 木中空也]];
@@ -151,7 +151,7 @@ F
   ==
 W
   ====
-  - [[Page~30|n73 (4)窠 _(4)Ch(')(a/)u_ (caau4); here corrected to _(1)Fo_ (fo1)]]
+  - [[Page~30|n73 #2: (4)窠 _(4)Ch(')(a/)u_ (caau4); here corrected to _(1)Fo_ (fo1)]]
     ==
     - A nest in a cave [[Kangxi: 穴中曰窠樹上曰巢]].
     ==
@@ -161,7 +161,7 @@ W
     --
     [[...]]
     --
-  - [[Page~714 (1)窠]]
+  - [[Page~714 #11: (1)窠]]
     ==
     - A hole [[Kangxi: 空也]];
     - a nest in the ground or a ~~cliff~~ ``cave``;
@@ -204,7 +204,7 @@ F
   ==
 W
   ====
-  - [[Page~54 ::(1)~~蚪~~``蝌``::]]
+  - [[Page~54 #1: ::(1)~~蚪~~``蝌``::]]
     ==
     - The tadpole;
     - _(1)fo (2)tau_
@@ -260,7 +260,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)火; here normalised to 伙]]
+  - [[Page~54 #2: (2)火; here normalised to 伙]]
     ==
     - [[...]];
     - _~~(1)tsun~~ ``tsun(3)`` (2)fo_
@@ -268,7 +268,7 @@ W
         to move to a new house;
     - [[...]].
     ==
-  - [[Page~54 (2)伙]]
+  - [[Page~54 #3: (2)伙]]
     ==
     - A company of ten in the army [[Kangxi 火: 府兵十人爲火 etc.]];
     - _(1)k(a/) (2)fo_
@@ -291,7 +291,7 @@ W
         well, pleasing, handsome;
         also used in irony, as detestable, badly, done.
     ==
-  - [[Page~54 (2)夥; here normalised to 伙]]
+  - [[Page~54 #4: (2)夥; here normalised to 伙]]
     ==
     - A colleague, comrade, accomplice, associate;
     - [[...]];
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)夥]]
+  - [[Page~54 #4: (2)夥]]
     ==
     - [[...]];
     - many, numerous [[Kangxi: 多也]];
@@ -414,7 +414,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)火]]
+  - [[Page~54 #2: (2)火]]
     ==
     - Fire, flame [[Kangxi: 火燬也南方之行炎而上]];
     - to burn, to consume [[Kangxi: 火化也消化物也 etc.]];
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)顆]]
+  - [[Page~54 #5: (2)顆]]
     ==
     - A little head [[Kangxi: 小頭也]] ~~or clod~~;
     - ``a clod [[Kangxi: 與堁同土塊 etc.]];``
@@ -600,7 +600,7 @@ F
   ==
 W
   ====
-  - [[Page~54 課(3)]]
+  - [[Page~54 #7: 課(3)]]
     ==
     - A plan, an example, a task, an exercise;
     - literary pursuits;
@@ -666,7 +666,7 @@ F
   ==
 W
   ====
-  - [[Page~54 貨(3)]]
+  - [[Page~54 #6: 貨(3)]]
     ==
     - Goods, merchandise, commodities``, things of value or utility`` [[Kangxi: 財也, 貨寶用物, etc.]];
     - to trade``, to buy, to sell [[Kangxi: 貨賣也]]``;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-10-14
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)哉]]
+  - [[Page~588 #3: (1)哉]]
     ==
     - An interjection [[Kangxi: 言之閒也]] of praise or surprise;
     - an interrogative particle, intimating doubt or conviction, according to the scope [[Kangxi: 疑辭也]];
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)栽]]
+  - [[Page~588 #4: (1)栽]]
     ==
     - To plant seed [[Kangxi: 種也]];
     - to set out saplings, to put suckers in the ground [[Kangxi: 草木之殖曰栽]];
@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)災(1)灾(1)烖]]
+  - [[Page~588 #5: (1)災(1)灾(1)烖]]
     ==
     - Natural calamities [[Kangxi 災: 天火也]], as floods or drought;
     - divine judgments, plagues;
@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)災(1)灾(1)烖]]
+  - [[Page~588 #5: (1)災(1)灾(1)烖]]
     --
     [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
     --
@@ -312,7 +312,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (1)災(1)灾(1)烖]]
+  - [[Page~588 #5: (1)災(1)灾(1)烖]]
     --
     [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
     --
@@ -393,7 +393,7 @@ F
   ==
 W
   ====
-  - [[Page~588 (2)宰]]
+  - [[Page~588 #6: (2)宰]]
     ==
     - To govern, to rule, to superintend [[Kangxi: 治也, 主也, 制也, 爲事物主也]];
     - ~~to fashion to one's liking;~~
@@ -476,7 +476,7 @@ F
   ==
 W
   ====
-  - [[Page~589 (2)載]]
+  - [[Page~589 #1: (2)載]]
     ==
     - A year [[Kangxi: 年也]];
     - to commence, as after a full revolution [[Kangxi: 載始也取物終更始之義]];
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~589 再(3)]]
+  - [[Page~589 #3: 再(3)]]
     ==
     - Again;
     - doubled, repeated [[Kangxi: 兩也, 重也]];
@@ -601,7 +601,7 @@ F
   ==
 W
   ====
-  - [[Page~589 載(3)]]
+  - [[Page~589 #2: 載(3)]]
     ==
     - To contain, to hold, as a carriage or ship [[Kangxi: 乗也]];
     - to fill in, to load on, to bear, to sustain [[Kangxi: 承也勝也]];
@@ -721,7 +721,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~589 儎(6)]]
+  - [[Page~589 #4: 儎(6)]]
     --
     A colloquial word.
     --
@@ -771,7 +771,7 @@ F
   ==
 W
   ====
-  - [[Page~589 在(6)]]
+  - [[Page~589 #5: 在(6)]]
     ==
     - To be in, to pertain to, to be at;
     - to reside, to remain, to live, to dwell at [[Kangxi {𡉈=⿸扌土}: 居也]];

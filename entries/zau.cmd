@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)侜]]
+  - [[Page~25|n68 #5: (1)侜]]
     ==
     - To conceal, to shade, to hide [[Kangxi: 有廱蔽也]];
     - ~~something stretched for a shade.~~
@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)周]]
+  - [[Page~25|n68 #1: (1)周]]
     ==
     - Universal, complete, entire [[Kangxi: 備也]];
     - [[...]];
@@ -179,7 +179,7 @@ W
     --
     [[Otherwise, an alternative form of 賙. **See $賙zau1 for the canonical entry.**]]
     --
-  - [[Page~25|n68 (1)週]]
+  - [[Page~25|n68 #2: (1)週]]
     --
     Often used for the last [[周]].
     --
@@ -267,7 +267,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)啾]]
+  - [[Page~560 #8: (1)啾]]
     ==
     - The wail of infants [[Kangxi: 小兒聲也]];
     - the hum of insects;
@@ -296,7 +296,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~580 (1)噍 _(1)Tsi(u/)_ (ziu1); here normalised to _(1)Tsau_ (zau1)]]
+  - [[Page~580 #9: (1)噍 _(1)Tsi(u/)_ (ziu1); here normalised to _(1)Tsau_ (zau1)]]
     ==
     - [[...]];
     - the chattering of birds [[Kangxi: 燕雀聲, 噍子流反, 通作啾]];
@@ -348,7 +348,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)州]]
+  - [[Page~25|n68 #8: (1)州]]
     ==
     - A district, less than a prefecture;
     - [[...]], a great division;
@@ -393,7 +393,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)掫]]
+  - [[Page~560 #9: (1)掫]]
     ==
     - To strike the rounds at night, to pace the beat at night [[Kangxi: 夜戒守有所擊也]];
     - [[...]];
@@ -427,7 +427,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)揫(1)揪 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
+  - [[Page~562 #7: (1)揫(1)揪 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
     ==
     - To bind, to gather in sheaves [[Kangxi 揫: 束也, 斂也]];
     - to compress in binding;
@@ -501,7 +501,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)棷]]
+  - [[Page~560 #10: (1)棷]]
     ==
     - A kind of wood suitable for fuel [[Kangxi: 木薪也]];
     - [[...]];
@@ -532,14 +532,14 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)州]]
+  - [[Page~25|n68 #8: (1)州]]
     ==
     - [[...]];
     - a continent, [[...]];
     - an island [[Kangxi 州: 水中可居曰州]];
     - [[...]].
     ==
-  - [[Page~25|n68 (1)洲]]
+  - [[Page~25|n68 #9: (1)洲]]
     ==
     - A spot encircled by streams, or in the water, as an islet [[Kangxi: 水渚也, 水中可居曰洲]];
     - a place where men collect, a village [[Kangxi: 聚也人及鳥物所聚息之處也]];
@@ -591,7 +591,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)湫 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
+  - [[Page~562 #10: (1)湫 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
     ==
     - [[...]];
     - a small tributary of the Yellow~R.
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)緅]]
+  - [[Page~560 #11: (1)緅]]
     ==
     - Silk first dyed red thrice, and then twice dipped in black [[Kangxi: 五入爲緅, 染纁者三入而成又再染以黑則爲緅]];
     - a dark red-like puce [[Kangxi: 帛靑赤色也]].
@@ -652,7 +652,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)舟]]
+  - [[Page~25|n68 #6: (1)舟]]
     ==
     - A boat, a vessel, a craft of any sort [[Kangxi: 船也]];
     - to go in a boat;
@@ -692,7 +692,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)諏]]
+  - [[Page~560 #12: (1)諏]]
     ==
     - To consult with [[Kangxi: 聚謀也]], to take advice,
       to inquire into matters of government publicly [[Kangxi: 問政事也]];
@@ -736,7 +736,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)謅]]
+  - [[Page~560 #3: (1)謅]]
     ==
     - To whisper [[Kangxi: 小言私授謂之謅]], to speak into one's ear;
     - to speak in a low tone.
@@ -772,7 +772,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)譸]]
+  - [[Page~25|n68 #10: (1)譸]]
     ==
     - ~~Hurried, bustling,~~ to impose upon, to deceive [[Kangxi: 譸張誑也]];
     - _(1)chau (1)ch(e/)ung ~~(1)wai~~ ``(4)wai`` w(a/)n(6)_
@@ -811,13 +811,13 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)周; here normalised to 賙]]
+  - [[Page~25|n68 #1: (1)周; here normalised to 賙]]
     ==
     - [[...]];
     - to supply, to provide, to assist;
     - [[...]].
     ==
-  - [[Page~25|n68 (1)賙]]
+  - [[Page~25|n68 #3: (1)賙]]
     ==
     - To bestow charity [[Kangxi: 給也贍也]];
     - _(1)chau tsai(3)_
@@ -854,7 +854,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)輈]]
+  - [[Page~25|n68 #7: (1)輈]]
     ==
     - A ~~frame in front~~ ``pole or shaft`` of a carriage [[Kangxi: 車轅也 etc.]] ~~near which the driver sits~~;
     - ~~a sort of dashboard.~~
@@ -882,7 +882,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)輖]]
+  - [[Page~25|n68 #4: (1)輖]]
     ==
     - A heavily laden cart, which is low in front [[Kangxi: 低也一曰車前重也]];
     - a heavy load [[Kangxi: 重載也]];
@@ -908,7 +908,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (1)週]]
+  - [[Page~25|n68 #2: (1)週]]
     --
     [[...]]
     --
@@ -951,13 +951,13 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鄹; here normalised to 郰]]
+  - [[Page~560 #6: (1)鄹; here normalised to 郰]]
     ==
     - The district in L(u/) [[魯]] where Confucius was born [[Kangxi 郰: 魯下邑孔子之鄕, 又通作鄹, 又通作陬]],
       now in Yenchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]];
     - it is not far from the preceding [[鄒]].
     ==
-  - [[Page~560 (1)陬; here normalised to 郰]]
+  - [[Page~560 #7: (1)陬; here normalised to 郰]]
     ==
     - [[...]];
     - _(1)tsau yap(7)_
@@ -989,7 +989,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鄒]]
+  - [[Page~560 #5: (1)鄒]]
     ==
     - A district in the southwest of Sh(a/)ntung [[山東]] on the Yellow River;
     - an ancient city in L(u/) [[魯]] [[Kangxi: 魯縣 etc.]], where Mencius was born.
@@ -1022,7 +1022,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鄹]]
+  - [[Page~560 #6: (1)鄹]]
     --
     [[Alternative form of 鄒. **See $鄒zau1 for the canonical entry.**]]
     --
@@ -1049,7 +1049,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)陬]]
+  - [[Page~560 #7: (1)陬]]
     ==
     - An angle or corner [[Kangxi: 阪隅也]] ~~of a city wall~~, where it is retired;
     - ~~a bastion;~~
@@ -1094,7 +1094,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)騶]]
+  - [[Page~560 #4: (1)騶]]
     ==
     - A fabulous ~~feline~~ beast, called _(1)tsau (4)(u:)_ [[zau1 jyu4 騶虞]],
       emblematic of kindness to animals and gentleness [[Kangxi: 騶虞義獸至德所感則見馬之屬 etc.]];
@@ -1142,7 +1142,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鯫]]
+  - [[Page~560 #13: (1)鯫]]
     ==
     - Minnows, white fish [[Kangxi: 白魚也, 一曰小魚]] which skip over the water;
     - _met._ a simpleton [[Kangxi: 小人貌也]];
@@ -1187,7 +1187,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)帚(2)箒]]
+  - [[Page~25|n68 #12: (2)帚(2)箒]]
     --
     [[Reading variation. **See $帚zaau2 for the canonical entry.**]]
     --
@@ -1213,7 +1213,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)棷 _(1)Tsau_ (zau1); here corrected to _(2)Chau_ (zau2)]]
+  - [[Page~560 #10: (1)棷 _(1)Tsau_ (zau1); here corrected to _(2)Chau_ (zau2)]]
     ==
     - [[...]];
     - ~~it is used for making~~ watchmen's alarms [[Kangxi: 夜戒守有所擊也]];
@@ -1240,7 +1240,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)帚(2)箒]]
+  - [[Page~25|n68 #12: (2)帚(2)箒]]
     --
     [[Alternative form of 帚, and reading variation. **See $帚zaau2 for the canonical entry.**]]
     --
@@ -1264,7 +1264,7 @@ F
   ==
 W
   ====
-  - [[Page~25|n68 (2)肘]]
+  - [[Page~25|n68 #11: (2)肘]]
     --
     [[Reading variation. **See $肘zaau2 for the canonical entry.**]]
     --
@@ -1301,7 +1301,7 @@ F
   ==
 W
   ====
-  - [[Page~561 (2)走]]
+  - [[Page~561 #1: (2)走]]
     ==
     - To go [[Kangxi: 走猶去也]];
     - to sail;
@@ -1449,7 +1449,7 @@ F
   ==
 W
   ====
-  - [[Page~561 (2)酒]]
+  - [[Page~561 #2: (2)酒]]
     ==
     - Spirits [[Kangxi: 就也所以就人性之善惡]];
     - distilled liquor made from rice [[Kangxi: 酒酉也釀之米麴酉澤久而味美也]];
@@ -1565,7 +1565,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)僽 _(1)Tsau_ (zau1); here corrected to _Tsau(3)_ (zau3)]]
+  - [[Page~560 #14: (1)僽 _(1)Tsau_ (zau1); here corrected to _Tsau(3)_ (zau3)]]
     ==
     - To scold, to rail at [[Kangxi: 僝僽惡言詈也]];
     - abusive, scurrilous language;
@@ -1590,7 +1590,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咒(3)呪(3)]]
+  - [[Page~26|n69 #2: 咒(3)呪(3)]]
     --
     [[Alternative form of 咒. **See $咒zau3 for the canonical entry.**]]
     --
@@ -1621,7 +1621,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咒(3)呪(3)]]
+  - [[Page~26|n69 #2: 咒(3)呪(3)]]
     ==
     - To imprecate, to rail at, to curse [[Kangxi 呪: 呪詛也]];
     - to pray or recite spells;
@@ -1678,7 +1678,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咮(3)]]
+  - [[Page~26|n69 #3: 咮(3)]]
     ==
     - The bill of birds [[Kangxi: 鳥口也, 與噣同, 咮喙也, 通作注]];
     - to peck with the bill~~, the twittering of birds~~.
@@ -1739,7 +1739,7 @@ F
   ==
 W
   ====
-  - [[Page~561 奏(3)]]
+  - [[Page~561 #3: 奏(3)]]
     ==
     - To report to the throne, to memorialize the emperor,
       to tell the sovereign, to cause him to hear or know [[Kangxi: 人臣言事章疏曰奏]];
@@ -1809,7 +1809,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 晝(3)]]
+  - [[Page~26|n69 #1: 晝(3)]]
     ==
     - A day, daytime, daylight [[Kangxi: 日之出入與夜爲界]];
     - _chau(3) y(e/)(6) pat(7) h(i/)t(8)_
@@ -1846,7 +1846,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27|n70 (4)椆 _(4)Ch(')au_ (cau4); here corrected to _Chau(3)_ (zau3)]]
+  - [[Page~27|n70 #3: (4)椆 _(4)Ch(')au_ (cau4); here corrected to _Chau(3)_ (zau3)]]
     ==
     - [[...]];
     - a pole for poling boats [[Kangxi: 木椆船篙木]].
@@ -1871,7 +1871,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Chau(3)_ (zau3)]]
+  - [[Page~563 #2: (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Chau(3)_ (zau3)]]
     ==
     - The brick lining of a well [[Kangxi: 井甓也]];
     - to lay, as bricks [[Kangxi: 結砌也]];
@@ -1914,13 +1914,13 @@ F
   ==
 W
   ====
-  - [[Page~561 縐(3)]]
+  - [[Page~561 #4: 縐(3)]]
     ==
     - [[...]];
     - used for the next [[皺]];
     - [[...]].
     ==
-  - [[Page~561 皺(3)]]
+  - [[Page~561 #5: 皺(3)]]
     ==
     - The skin wrinkled [[Kangxi: 面皺也]] from age;
     - frowning [[Kangxi: 眉攢也]];
@@ -1989,7 +1989,7 @@ F
   ==
 W
   ====
-  - [[Page~561 縐(3)]]
+  - [[Page~561 #4: 縐(3)]]
     ==
     - Crape [[Kangxi: 絺之細者]];
     - rumpled, crenulated, crinkled, crisp, frizzled;
@@ -2074,7 +2074,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 冑(6)]]
+  - [[Page~26|n69 #6: 冑(6)]]
     --
     Often confounded with the last [[胄]].
     --
@@ -2113,7 +2113,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 宙(6)]]
+  - [[Page~26|n69 #4: 宙(6)]]
     ==
     - ~~To contain, as the earth does;~~
     - including all ages, from ancient times till now [[Kangxi: 往古來今謂之宙]].
@@ -2145,7 +2145,7 @@ F
   ==
 W
   ====
-  - [[Page~561 就(6)]]
+  - [[Page~561 #6: 就(6)]]
     ==
     - The place to which things tend or culminate at [[Kangxi: 就高也从京从尤, 尤異也尤高人所就之處]];
     - to go towards, to approach, to draw near;
@@ -2269,7 +2269,7 @@ F
   ==
 W
   ====
-  - [[Page~562 岫(6)]]
+  - [[Page~562 #3: 岫(6)]]
     ==
     - A den, a cave among the hills [[Kangxi: 山穴也]];
     - a glen, a ravine, gorge, or defile.
@@ -2296,7 +2296,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26|n69 籒(6); here normalised to 籀]]
+  - [[Page~26|n69 #8: 籒(6); here normalised to 籀]]
     ==
     - The framer of the seal character,
       _Chau(6) ~~t(')^(a/)i(6)~~ ``t(')(a/)i(3)`` (2)sz'_
@@ -2327,7 +2327,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26|n69 籒(6)]]
+  - [[Page~26|n69 #8: 籒(6)]]
     --
     [[Alternative form of 籀. **See $籀zau6 for the canonical entry.**]]
     --
@@ -2351,7 +2351,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 紂(6)]]
+  - [[Page~26|n69 #7: 紂(6)]]
     ==
     - A crupper [[Kangxi: 馬緧也]];
     - a silk trace;
@@ -2389,7 +2389,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 胄(6)]]
+  - [[Page~26|n69 #5: 胄(6)]]
     ==
     - Descendants, posterity [[Kangxi: 後也]];
     - _chau(6) (2)tsz'_
@@ -2438,7 +2438,7 @@ F
   ==
 W
   ====
-  - [[Page~562 袖(6)]]
+  - [[Page~562 #2: 袖(6)]]
     ==
     - The sleeve [[Kangxi: 袂也, 袖由也手所由出入也]];
     - to put into the sleeve, to receive in the hand [[Kangxi: 亦言受也以受手也]];
@@ -2484,7 +2484,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 酎(6)]]
+  - [[Page~26|n69 #9: 酎(6)]]
     ==
     - ~~New, ripe spirits;~~
     - pure strong spirits, thrice distilled [[Kangxi: 三重醇酒也]];
@@ -2550,7 +2550,7 @@ F
   ==
 W
   ====
-  - [[Page~562 驟(6)]]
+  - [[Page~562 #4: 驟(6)]]
     --
     [[Reading variation. **See $驟zaau6 for the canonical entry.**]]
     --
@@ -2580,7 +2580,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 鷲(6)]]
+  - [[Page~562 #1: 鷲(6)]]
     ==
     - A large accipitrine bird;
     - perhaps a harpy eagle, or a whitish headed condor [[Kangxi: ::鷲悍多力[...]卽白鵰也::]].

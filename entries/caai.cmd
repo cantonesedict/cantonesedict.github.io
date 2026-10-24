@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,7 +66,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (1)差]]
+  - [[Page~11|n54 #1: (1)差]]
     ==
     - To commission, to send on a message [[Kangxi: 差使也]];
     - to manage, to act;
@@ -195,7 +195,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (1)猜]]
+  - [[Page~11|n54 #3: (1)猜]]
     ==
     - To guess; to doubt, to conjecture [[Kangxi: 疑也]];
     - to dislike;
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (1)釵]]
+  - [[Page~11|n54 #2: (1)釵]]
     ==
     - A broad hair-pin [[Kangxi: 筓屬]];
     - _met._ females;
@@ -307,7 +307,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (2)踹]]
+  - [[Page~11|n54 #7: (2)踹]]
     --
     [[...]]
     --
@@ -397,7 +397,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 嘬(3)]]
+  - [[Page~11|n54 #10: 嘬(3)]]
     ==
     - To gnaw, to bite [[Kangxi: 齧也]];
     - to eat rapidly;
@@ -437,7 +437,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~583 (1)瘥 _(1)Ts(')o_ (co1); here corrected to _Ch(')(a/)i(3)_ (caai3)]]
+  - [[Page~583 #9: (1)瘥 _(1)Ts(')o_ (co1); here corrected to _Ch(')(a/)i(3)_ (caai3)]]
     ==
     - To get convalescent, to recover [[Kangxi: 疾愈也, 瘥癒也]];
     - [[...]].
@@ -463,7 +463,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 瘵(3)]]
+  - [[Page~11|n54 #9: 瘵(3)]]
     --
     [[Reading variation. **See $瘵zaai3 for the canonical entry.**]]
     --
@@ -492,7 +492,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 蠆(3)]]
+  - [[Page~11|n54 #8: 蠆(3)]]
     ==
     - The sting of a bee, or other insect;
     - a sort of scorpion with a long tail [[Kangxi: 螫蟲]].
@@ -538,7 +538,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (4)儕]]
+  - [[Page~11|n54 #5: (4)儕]]
     ==
     - A class, a company [[Kangxi: 等輩也]];
     - persons of the same sort;
@@ -574,7 +574,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (4)柴]]
+  - [[Page~11|n54 #4: (4)柴]]
     ==
     - Firewood, faggots;
     - brushwood [[Kangxi: 小木散材]];
@@ -641,7 +641,7 @@ F
   ==
 W
   ====
-  - [[Page~11|n54 (4)豺]]
+  - [[Page~11|n54 #6: (4)豺]]
     ==
     - A ravenous beast [[Kangxi: 豺貪殘之獸]];
     - a lynx or wolf [[Kangxi: 狼屬]];

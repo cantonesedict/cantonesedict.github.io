@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2026-07-31
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~2 (1)挨]]
+  - [[Page~2 #10: (1)挨]]
     ==
     - To lean upon, to trust to;
     - to push away [[Kangxi: 推也]], to carry on the back;
@@ -148,7 +148,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 嗌(3)]]
+  - [[Page~3 #2: 嗌(3)]]
     --
     A colloquial word;
     --
@@ -252,7 +252,7 @@ F
   ==
 W
   ====
-  - [[Page~3 隘(3)]]
+  - [[Page~3 #1: 隘(3)]]
     ==
     - A pass, a defile [[Kangxi: 古之爲軍也不以阻隘也 etc.]];
     - narrow [[Kangxi: ::[陋]也::, 陝也]], confined, straitened;
@@ -266,7 +266,7 @@ W
         [[haap6 aai3 狹隘]]
         narrow as a pass; a contracted mind.
     ==
-  - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3) and normalised to 隘]]
+  - [[Page~3 #7: 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3) and normalised to 隘]]
     ==
     - [[...]];
     - a defile, a pass [[Kangxi 阨: 或作隘阸陋也]];

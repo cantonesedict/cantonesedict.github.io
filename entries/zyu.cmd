@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-10-18
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)侏]]
+  - [[Page~30* #1: (1)侏]]
     ==
     - A pigmy [[Kangxi: 侏儒容貌短小也]];
     - a short pillar in a roof like a king-post [[Kangxi: 梁上短柱亦曰侏儒]];
@@ -122,7 +122,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 咮(3)]]
+  - [[Page~26|n69 #3: 咮(3)]]
     --
     [[...]]
     --
@@ -163,7 +163,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)朱]]
+  - [[Page~29* #10: (1)朱]]
     ==
     - A coniferæ with red heartwood [[Kangxi: 赤心木松柏之屬]];
     - vermilion;
@@ -225,7 +225,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)株]]
+  - [[Page~30* #2: (1)株]]
     ==
     - The trunk or bole of a tree [[Kangxi: 木根也徐曰在土曰根在土上曰株]];
     - a classifier of trees [[Kangxi: 木身也]];
@@ -264,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)洙]]
+  - [[Page~30* #3: (1)洙]]
     ==
     - A small stream in Sh(a/)ntung [[山東]]
       flowing north from T(a/)i shan [[泰山]]
@@ -295,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)瀦]]
+  - [[Page~29* #9: (1)瀦]]
     ==
     - A pool where water settles [[Kangxi: 水所停也]];
     - _(1)ch(u:) (2)shui_
@@ -338,7 +338,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)猪]]
+  - [[Page~29* #8: (1)猪]]
     --
     [[Alternative form of 豬. **See $豬zyu1 for the canonical entry.**]]
     --
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)珠]]
+  - [[Page~30* #4: (1)珠]]
     ==
     - A pearl [[Kangxi: 蚌之隂精]];
     - a bead;
@@ -398,7 +398,7 @@ W
         [[zyu1 bou2 珠寶]],
         pearls.
     ==
-  - [[Page~30* (1)䏭; here normalised to 珠]]
+  - [[Page~30* #7: (1)䏭; here normalised to 珠]]
     --
     An unauthorized character.
     --
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)硃]]
+  - [[Page~30* #5: (1)硃]]
     ==
     - Cinnabar [[Kangxi: 丹砂也]];
     - _(1)ch(u:) (1)sh(a/)_
@@ -497,7 +497,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~30* (1)祩]]
+  - [[Page~30* #6: (1)祩]]
     ==
     - To curse, to imprecate misfortunes upon one [[Kangxi: 咒祩, 詛也]].
     ==
@@ -524,7 +524,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)䏭]]
+  - [[Page~30* #7: (1)䏭]]
     --
     [[Alternative form of 珠 (for the Cantonese "cheek" sense). **See $珠zyu1 for the canonical entry.**]]
     --
@@ -548,7 +548,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)茱]]
+  - [[Page~30* #8: (1)茱]]
     ==
     - A warm, peppery medicine [[Kangxi: 茱萸藥名]];
     - _(1)ch(u:) (4)(u:)_
@@ -578,7 +578,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)蛛]]
+  - [[Page~30* #9: (1)蛛]]
     ==
     - The spider [[Kangxi: 蜘蛛也]];
     - _(1)ch(u:) (1)sz'_
@@ -619,7 +619,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)誅]]
+  - [[Page~30* #10: (1)誅]]
     ==
     - ~~To make judicial inquiry;~~
     - to punish [[Kangxi: 罰也]], to destroy, to kill [[Kangxi: 討也, 殺也, 誅者戮其人]];
@@ -680,7 +680,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)諸]]
+  - [[Page~29* #7: (1)諸]]
     ==
     - To discriminate~~, to discuss~~ [[Kangxi: 辯也, 別異之辭]];
     - not one alone, all, several, many, every [[Kangxi: 非一也皆言也, 凡衆也]];
@@ -780,7 +780,7 @@ F
   ==
 W
   ====
-  - [[Page~29* (1)猪; here normalised to 豬]]
+  - [[Page~29* #8: (1)猪; here normalised to 豬]]
     ==
     - A hog [[Kangxi 豬: 豕而三毛叢居者 etc.]];
     - _(1)ch(u:) (2)n(a/)_
@@ -847,7 +847,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)邾]]
+  - [[Page~30* #11: (1)邾]]
     ==
     - A feudal state in the south of Sh(a/)ntung [[山東]],
       now the district of Tsau [[鄒]] [[Kangxi: 魯附庸國 etc., 邾今魯國鄒縣也]];
@@ -878,7 +878,7 @@ F
   ==
 W
   ====
-  - [[Page~30* (1)銖]]
+  - [[Page~30* #12: (1)銖]]
     ==
     - ~~A small ancient silver coin,~~ ``A unit of weight``
       estimated as equal to 100~grains of millet [[Kangxi: 一曰十黍爲絫十絫爲銖]];
@@ -931,7 +931,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~30* (2)丶]]
+  - [[Page~30* #13: (2)丶]]
     ==
     - The flame of a lamp [[Kangxi: 鐙中火丶也]];
     - a stop``,`` a point [[Kangxi: 有所絕止丶而識之也]];
@@ -960,14 +960,14 @@ F
   ==
 W
   ====
-  - [[Page~30* (2)丶]]
+  - [[Page~30* #13: (2)丶]]
     --
     [[...]]
     --
     --
     Occurs used for the next [[主]] [[Kangxi 丶: 借爲主宰字]].
     --
-  - [[Page~30* (2)主]]
+  - [[Page~30* #14: (2)主]]
     ==
     - A rule, a lord, a master [[Kangxi: 君也]];
     - a host [[Kangxi: 賔之對也]];
@@ -1093,13 +1093,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~33* (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2) and normalised to 拄]]
+  - [[Page~33* #5: (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2) and normalised to 拄]]
     ==
     - [[...]];
     - to support, to uphold;
     - [[...]].
     ==
-  - [[Page~33* (5)拄 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
+  - [[Page~33* #6: (5)拄 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
     --
     ~~Used for the last [[柱]].~~
     --
@@ -1166,7 +1166,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)渚]]
+  - [[Page~31* #3: (2)渚]]
     ==
     - An affluent ~~of the R.~Hw(a/)i [[淮]]
       near H(u:) chau [[許州]] in Hon(a/)n [[河南]]~~ [[Kangxi: 水名, 水出常山中丘逢山東入湡]];
@@ -1205,7 +1205,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)煮]]
+  - [[Page~31* #2: (2)煮]]
     ==
     - To boil in water, to steep, to decoct;
     - to cook [[Kangxi 煑: 亨也]], to dress food;
@@ -1251,7 +1251,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)翥]]
+  - [[Page~31* #4: (2)翥]]
     --
     [[Reading variation. **See $翥zyu3 for the canonical entry.**]]
     --
@@ -1275,7 +1275,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)麈]]
+  - [[Page~31* #1: (2)麈]]
     ==
     - A large ruminant, (a yak?) with a bushy tail [[Kangxi: 麋屬, 麈似鹿而大其尾辟麈]];
     - _(2)ch(u:) (5)m(i/)_
@@ -1325,7 +1325,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 注(3)]]
+  - [[Page~31* #6: 注(3)]]
     ==
     - ~~Water disparting in streamlets,~~ to lead water in channels [[Kangxi: 引也]];
     - to soak;
@@ -1348,7 +1348,7 @@ W
     --
     [[Otherwise, an alternative form of 註. **See $註zyu3 for the canonical entry.**]]
     --
-  - [[Page~31* 註(3)]]
+  - [[Page~31* #7: 註(3)]]
     --
     Used with the last ~~two~~ [[~~著,~~ 注]].
     --
@@ -1444,7 +1444,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 炷(3)]]
+  - [[Page~31* #8: 炷(3)]]
     ==
     - A wick [[Kangxi: 燈炷也, 火炷燼所著者]];
     - a stick of incense;
@@ -1536,7 +1536,7 @@ F
   ==
 W
   ====
-  - [[Page~31* (2)翥 _(2)Ch(u:)_ (zyu2); here normalised to _Ch(u:)(3)_ (zyu3)]]
+  - [[Page~31* #4: (2)翥 _(2)Ch(u:)_ (zyu2); here normalised to _Ch(u:)(3)_ (zyu3)]]
     ==
     - To fly up [[Kangxi: 飛舉也]], to fly away;
     - to soar [[Kangxi: 翥舉也, 謂軒翥也]], as a phœnix does.
@@ -1569,7 +1569,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 著(3)]]
+  - [[Page~31* #5: 著(3)]]
     ==
     - To manifest [[Kangxi: 明也]];
     - to set forth;
@@ -1621,7 +1621,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 蛀(3)]]
+  - [[Page~31* #9: 蛀(3)]]
     ==
     - An insect _(Ptinus)_ which eats books~~; moths in~~``,`` clothes, wood, &c. [[Kangxi: 木蠹蟲亦名蛀蟲]];
     - to eat, as insects do;
@@ -1655,13 +1655,13 @@ F
   ==
 W
   ====
-  - [[Page~31* 注(3); here normalised to 註]]
+  - [[Page~31* #6: 注(3); here normalised to 註]]
     ==
     - [[...]];
     - to record [[Kangxi 注: 記也 etc.]];
     - [[...]].
     ==
-  - [[Page~31* 註(3)]]
+  - [[Page~31* #7: 註(3)]]
     --
     [[...]]
     --
@@ -1705,7 +1705,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 鑄(3)]]
+  - [[Page~31* #12: 鑄(3)]]
     ==
     - To melt, to fuse metals;
     - to cast [[Kangxi: 銷金成器也, 鎔鑄也]];
@@ -1747,7 +1747,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 霔(3)]]
+  - [[Page~31* #11: 霔(3)]]
     ==
     - A seasonable shower [[Kangxi: 霔霖, 霖霔, 本作澍時雨澍生萬物]];
     - _ch(u:)(3) (4)lam_
@@ -1777,7 +1777,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 駐(3)]]
+  - [[Page~31* #10: 駐(3)]]
     ==
     - To stop a horse [[Kangxi: 馬立也, 馬止也]];
     - to rest, to tarry, to sojourn;
@@ -1827,7 +1827,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 住(6)]]
+  - [[Page~31* #13: 住(6)]]
     ==
     - To desist from, to cease, to stop [[Kangxi: 止也]];
     - to detain;
@@ -1858,7 +1858,7 @@ W
         [[jan2 bat1 zyu6 忍不住]]
         I can not bear it.
     ==
-  - [[Page~613 自(6) _Tsz'(6)_ (zi6); here corrected to 住 _Ch(u:)(6)_ (zyu6)]]
+  - [[Page~613 #8: 自(6) _Tsz'(6)_ (zi6); here corrected to 住 _Ch(u:)(6)_ (zyu6)]]
     ==
     - [[...]];
     - _(5)mai ~~tsz'(6)~~ ``ch(u:)(6)``_
@@ -1936,7 +1936,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 筯(6)箸(6)]]
+  - [[Page~31* #14: 筯(6)箸(6)]]
     --
     [[Alternative form of 箸. **See $箸zyu6 for the canonical entry.**]]
     --
@@ -1966,7 +1966,7 @@ F
   ==
 W
   ====
-  - [[Page~31* 筯(6)箸(6)]]
+  - [[Page~31* #14: 筯(6)箸(6)]]
     ==
     - Chopsticks [[Kangxi 箸: 匙箸飯具]];
     - _(4)ng(a/) ch(u:)(6) yat(7) t(u/)i(3)_
