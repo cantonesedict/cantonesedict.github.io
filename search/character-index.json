@@ -8057,7 +8057,7 @@
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+5429 分 (in 吩咐 spelt 分付) (F1.80 吩) 吩咐 (Page 46 吩) To direct; _fan fu_ (fan1 fu3 吩咐), to bid to do, to order. Williams' 吩咐: Corrected 吩呼 _fan fu_ (fan1 fu1) to 吩咐 _fan fu_ (fan1 fu3). Note that Williams has no entry for the character 咐."
+"text":"U+5429 分 (in 吩咐 spelt 分付) (F1.80 吩) 吩咐 (Page 46 #1: 吩) To direct; _fan fu_ (fan1 fu3 吩咐), to bid to do, to order. Williams' 吩咐: Corrected 吩呼 _fan fu_ (fan1 fu1) to 吩咐 _fan fu_ (fan1 fu3). Note that Williams has no entry for the character 咐."
 }
 },
 "婚":{
@@ -8106,50 +8106,50 @@
 "fan1":{
 "isCanonical":false,
 "williams":"(1)fan",
-"text":"U+678C (F1.80 枌) 枌榆木名 (Page 46 枌)"
+"text":"U+678C (F1.80 枌) 枌榆木名 (Page 46 #2: 枌)"
 },
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+678C fan1 (per Fan Wan) (F1.80 枌 _Fan_ (fan1)) 枌榆木名 (Page 46 枌 _Fan_ (fan1); here normalised to _Fan_ (fan4)) A tree resembling the elm with white wood (Kangxi: 楡白枌); _fan u she_ (fan4 jyu4 se5 枌榆社), an agricultural ~~feast~~ altar (Kangxi: 枌楡社名). 【枌】 (bjun) (_noun-like_) white-elm"
+"text":"U+678C fan1 (per Fan Wan) (F1.80 枌 _Fan_ (fan1)) 枌榆木名 (Page 46 #2: 枌 _Fan_ (fan1); here normalised to _Fan_ (fan4)) A tree resembling the elm with white wood (Kangxi: 楡白枌); _fan u she_ (fan4 jyu4 se5 枌榆社), an agricultural ~~feast~~ altar (Kangxi: 枌楡社名). 【枌】 (bjun) (_noun-like_) white-elm"
 }
 },
 "棻":{
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+68FB 梤 fan4 (alternative per 《廣韻》符分切) (F1.80 棻) 香木也 (Page 46 棻) A fragrant wood (Kangxi: 香木也) burned for its perfume. Flourishing, luxuriant."
+"text":"U+68FB 梤 fan4 (alternative per 《廣韻》符分切) (F1.80 棻) 香木也 (Page 46 #4: 棻) A fragrant wood (Kangxi: 香木也) burned for its perfume. Flourishing, luxuriant."
 }
 },
 "棼":{
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+68FC fan4 (per Kangxi 符分切) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 棼) confused, disordered, complicated (Kangxi: 亂也); Kangxi has this sense under the reading 符分切 _fan_ (fan4). In my opinion, this is dubious, as 《廣韻》符分切 is explained 複屋棟也, which is unrelated to confusion/disorder. Fan Wan entry: Fixed missing strokes in 衆 and 亂."
+"text":"U+68FC fan4 (per Kangxi 符分切) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 #3: 棼) confused, disordered, complicated (Kangxi: 亂也); Kangxi has this sense under the reading 符分切 _fan_ (fan4). In my opinion, this is dubious, as 《廣韻》符分切 is explained 複屋棟也, which is unrelated to confusion/disorder. Fan Wan entry: Fixed missing strokes in 衆 and 亂."
 },
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+68FC 枌 (for \"roof-beam\" sense) (Page 46 枌 _Fan_ (fan1); here corrected to _Fan_ (fan4) and normalised to 棼) a beam in a house (Kangxi 枌: 通棼複屋棟也); (Page 46 棼 _Fan_ (fan1); here corrected to _Fan_ (fan4)) A beam or ridge-pole of a roof (Kangxi: 複屋棟也, 複屋背重梁); hempen covering (Kangxi: 薠麻謂之棼, 棼麻布也). 【棼】 (bjun) (_noun-like_) roof-beam (_noun-like_) hemp-cloth"
+"text":"U+68FC 枌 (for \"roof-beam\" sense) (Page 46 #2: 枌 _Fan_ (fan1); here corrected to _Fan_ (fan4) and normalised to 棼) a beam in a house (Kangxi 枌: 通棼複屋棟也); (Page 46 #3: 棼 _Fan_ (fan1); here corrected to _Fan_ (fan4)) A beam or ridge-pole of a roof (Kangxi: 複屋棟也, 複屋背重梁); hempen covering (Kangxi: 薠麻謂之棼, 棼麻布也). 【棼】 (bjun) (_noun-like_) roof-beam (_noun-like_) hemp-cloth"
 }
 },
 "氛":{
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+6C1B 雰 fan4 (alternative per 《廣韻》符分切) (F1.80 氛) 沃氛 (Page 46 氛) Fume, vapor (Kangxi: 氣也); shadowy signs, a will-o'-the-wisp, airy omens (Kangxi: 氛氳祥氣也, 氛祲妖氣也); _fan wan_ (fan1 wan1 氛氳), aerial influences; _iu fan_ (jiu2 fan1 妖氛), noxious influences; _hoi fan_ (hoi2 fan1 海氛), pirates; _kwok fan_ (gwok3 fan1 國氛), ~~demagogues, disturbers~~ disturbings of the peace. 《廣韻》 has 符分切 _fan_ (fan4) for 氛氲祥氣 \"auspicious ambience\", and 撫文切 _fan_ (fan1) for 氛侵妖氣 \"malign ambience\". Modern usage prefers the latter reading, and it is debatable whether the distinction was necessary in the first place. 【氛】 (bjun, phjun) (_noun-like_) ambience"
+"text":"U+6C1B 雰 fan4 (alternative per 《廣韻》符分切) (F1.80 氛) 沃氛 (Page 46 #6: 氛) Fume, vapor (Kangxi: 氣也); shadowy signs, a will-o'-the-wisp, airy omens (Kangxi: 氛氳祥氣也, 氛祲妖氣也); _fan wan_ (fan1 wan1 氛氳), aerial influences; _iu fan_ (jiu2 fan1 妖氛), noxious influences; _hoi fan_ (hoi2 fan1 海氛), pirates; _kwok fan_ (gwok3 fan1 國氛), ~~demagogues, disturbers~~ disturbings of the peace. 《廣韻》 has 符分切 _fan_ (fan4) for 氛氲祥氣 \"auspicious ambience\", and 撫文切 _fan_ (fan1) for 氛侵妖氣 \"malign ambience\". Modern usage prefers the latter reading, and it is debatable whether the distinction was necessary in the first place. 【氛】 (bjun, phjun) (_noun-like_) ambience"
 }
 },
 "汾":{
 "fan1":{
 "isCanonical":false,
 "williams":"(1)fan",
-"text":"U+6C7E (F1.80 汾) 水名 (Page 46 汾)"
+"text":"U+6C7E (F1.80 汾) 水名 (Page 46 #5: 汾)"
 },
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+6C7E fan1 (per Fan Wan) (F1.80 汾 _Fan_ (fan1)) 水名 (Page 46 汾 _Fan_ (fan1); here normalised to _Fan_ (fan4)) A river in Shansi (山西), a branch of the Yellow R (Kangxi: 水名 etc.). _Fan yeung wong_ (fan4 joeng4 wong4 汾陽王), a personage in the Tang (唐) dynasty, whose name is a synonym for happiness; as _Fan yeung tim hom_ (fan4 joeng4 dim2 ham5 汾陽點頷), Fanyeung's king nodding his chin (because he did not know all his descendants). Williams' \"A river in Shansi\": Note that Kangxi 水出太原晉陽山西南入河 is to be punctuated as \"水出太原晉陽山、西南入河\". That we know it is in Shansi is due to \"太原晉陽山\", not \"山、西\"."
+"text":"U+6C7E fan1 (per Fan Wan) (F1.80 汾 _Fan_ (fan1)) 水名 (Page 46 #5: 汾 _Fan_ (fan1); here normalised to _Fan_ (fan4)) A river in Shansi (山西), a branch of the Yellow R (Kangxi: 水名 etc.). _Fan yeung wong_ (fan4 joeng4 wong4 汾陽王), a personage in the Tang (唐) dynasty, whose name is a synonym for happiness; as _Fan yeung tim hom_ (fan4 joeng4 dim2 ham5 汾陽點頷), Fanyeung's king nodding his chin (because he did not know all his descendants). Williams' \"A river in Shansi\": Note that Kangxi 水出太原晉陽山西南入河 is to be punctuated as \"水出太原晉陽山、西南入河\". That we know it is in Shansi is due to \"太原晉陽山\", not \"山、西\"."
 }
 },
 "涽":{
@@ -8198,7 +8198,7 @@
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+7D1B 分 (for \"confused\" and \"many\" senses) 棼 (for \"confused\" and \"many\" senses) 汾 (for \"confused\" and \"many\" senses) 芬 (for \"confused\" and \"many\" senses) 纷 (Mainland simplified) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 紛) A variegated ribbon (Kangxi: 紛如綬有文而狹者也); confused, perplexed (Kangxi: 亂也); raveled; to mix up; many things at once (Kangxi: 紛紛衆也, 紛衆也, 紛紛言其多); hurry, bustle, clamor; _fan lun_ (fan1 lyun6 紛亂) hubbub; _fan fan to sz'_ (fan1 fan1 do1 si6 紛紛多事) distracted by business; _fan fa lau lun_ (fan1 faa1 lau5 lyun6 紛花柳亂) all in disorder; _fan wan_ (fan1 wan4 紛紜), confused. (Page 46 芬; here normalised to 紛) Numerous (Kangxi 芬: 芬謂衆多), (...). Fan Wan entry: Fixed missing strokes in 衆 and 亂. A horse-tail tie (Kangxi: 馬尾韜也). Dispute. To disturb. 【紛】 (phjun) (_adjective-like_) confused (_adjective-like_) numbersome (_noun-like_) lace-ribbon"
+"text":"U+7D1B 分 (for \"confused\" and \"many\" senses) 棼 (for \"confused\" and \"many\" senses) 汾 (for \"confused\" and \"many\" senses) 芬 (for \"confused\" and \"many\" senses) 纷 (Mainland simplified) (F1.80 紛) 紛紜雜也衆也紛亂也 (F1.80 棼) 同上 (Page 46 #7: 紛) A variegated ribbon (Kangxi: 紛如綬有文而狹者也); confused, perplexed (Kangxi: 亂也); raveled; to mix up; many things at once (Kangxi: 紛紛衆也, 紛衆也, 紛紛言其多); hurry, bustle, clamor; _fan lun_ (fan1 lyun6 紛亂) hubbub; _fan fan to sz'_ (fan1 fan1 do1 si6 紛紛多事) distracted by business; _fan fa lau lun_ (fan1 faa1 lau5 lyun6 紛花柳亂) all in disorder; _fan wan_ (fan1 wan4 紛紜), confused. (Page 46 #8: 芬; here normalised to 紛) Numerous (Kangxi 芬: 芬謂衆多), (...). Fan Wan entry: Fixed missing strokes in 衆 and 亂. A horse-tail tie (Kangxi: 馬尾韜也). Dispute. To disturb. 【紛】 (phjun) (_adjective-like_) confused (_adjective-like_) numbersome (_noun-like_) lace-ribbon"
 }
 },
 "纁":{
@@ -8212,7 +8212,7 @@
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+82AC (F1.80 芬) 芬芳 (Page 46 芬) Budding and blossoming; fragrance from opening plants (Kangxi: 草初生香分布也); _fan fong_ (fan1 fong1 芬芳), spreading fragrance; _fan fan_ (fan1 fan1 芬芬), odoriferous (Kangxi: 芬芬香也). (...), harmonious (Kangxi: 和也). Kangxi has the \"mound-like, bulging\" sense (supplemented below) under the main reading 撫文切 _fan_ (fan1). But if this is the same word as 墳 \"moundy\", then it should be read 符分切 _fan_ (fan4) instead. Mound-like, bulging (Kangxi: 芬然壤起貌). 【芬】 (phjun) (_adjective-like_) sweet-smelling"
+"text":"U+82AC (F1.80 芬) 芬芳 (Page 46 #8: 芬) Budding and blossoming; fragrance from opening plants (Kangxi: 草初生香分布也); _fan fong_ (fan1 fong1 芬芳), spreading fragrance; _fan fan_ (fan1 fan1 芬芬), odoriferous (Kangxi: 芬芬香也). (...), harmonious (Kangxi: 和也). Kangxi has the \"mound-like, bulging\" sense (supplemented below) under the main reading 撫文切 _fan_ (fan1). But if this is the same word as 墳 \"moundy\", then it should be read 符分切 _fan_ (fan4) instead. Mound-like, bulging (Kangxi: 芬然壤起貌). 【芬】 (phjun) (_adjective-like_) sweet-smelling"
 }
 },
 "葷":{
@@ -8254,7 +8254,7 @@
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+96F0 (F1.80 雰) 下雲貌 (Page 46 雰) A frosty mist (Kangxi: 霧氣也); hoarfrost (Kangxi: 潤氣著草木遇寒凍色白曰雰); _u fan fan_ (jyu5 fan1 fan1 雨雰雰), a snowy, sleety, rain. Snowy (Kangxi: 雰雰雪貌). 【雰】 (phjun) (_adjective-like_) snowy"
+"text":"U+96F0 (F1.80 雰) 下雲貌 (Page 46 #9: 雰) A frosty mist (Kangxi: 霧氣也); hoarfrost (Kangxi: 潤氣著草木遇寒凍色白曰雰); _u fan fan_ (jyu5 fan1 fan1 雨雰雰), a snowy, sleety, rain. Snowy (Kangxi: 雰雰雪貌). 【雰】 (phjun) (_adjective-like_) snowy"
 }
 },
 "餴":{
@@ -8275,19 +8275,19 @@
 "fan2":{
 "isCanonical":false,
 "williams":"(2)fan",
-"text":"U+4EFD (Page 46 份) (Page 713 份)"
+"text":"U+4EFD (Page 46 #15: 份) (Page 713 份)"
 },
 "fan6":{
 "isCanonical":true,
 "williams":"fan(6)",
-"text":"U+4EFD 分 fan6-2 (vernacular rising-tone noun for \"share/part\" senses) (Page 46 份) A portion, a dividend, a share; _fan fan_ (fan1 fan6-2 分份), to divide the profits; _mai fan_ (maai4 fan6-2 埋份), to put in shares; _fan tsz'_ (fan6-2 zi2 份子) a share. A vulgar character. (Page 713 份) (...) The proper sound in colloquial is _fan_ (fan6), though sometimes read _fan_ (fan6-2). It is the same word as 分 (fan6) when used as a noun. Classifier for documents. Classifier for gifts. Classifier for jobs. Suffixed after 年, 月, 省, etc. to indicate an interval (in time) or division (in space). 【份】 (fan6-2) A part, a partaking. 有份出席 (jau5 fan6-2 ceot1 zik6): \"Have a part in attending.\" 冇佢份 (mou5 keoi5 fan6-2): \"There's no part for him\" (i.e. he is excluded). 【兩份】 (loeng5 fan6-2) Shared between two. 兩份飲 (loeng5 fan6-2 jam2): \"Drink it between the two of us.\""
+"text":"U+4EFD 分 fan6-2 (vernacular rising-tone noun for \"share/part\" senses) (Page 46 #15: 份) A portion, a dividend, a share; _fan fan_ (fan1 fan6-2 分份), to divide the profits; _mai fan_ (maai4 fan6-2 埋份), to put in shares; _fan tsz'_ (fan6-2 zi2 份子) a share. A vulgar character. (Page 713 份) (...) The proper sound in colloquial is _fan_ (fan6), though sometimes read _fan_ (fan6-2). It is the same word as 分 (fan6) when used as a noun. Classifier for documents. Classifier for gifts. Classifier for jobs. Suffixed after 年, 月, 省, etc. to indicate an interval (in time) or division (in space). 【份】 (fan6-2) A part, a partaking. 有份出席 (jau5 fan6-2 ceot1 zik6): \"Have a part in attending.\" 冇佢份 (mou5 keoi5 fan6-2): \"There's no part for him\" (i.e. he is excluded). 【兩份】 (loeng5 fan6-2) Shared between two. 兩份飲 (loeng5 fan6-2 jam2): \"Drink it between the two of us.\""
 }
 },
 "粉":{
 "fan2":{
 "isCanonical":true,
 "williams":"(2)fan",
-"text":"U+7C89 fan3 (per 《集韻》方問切 for \"apply\" sense) (F1.83 粉) 米末也又粉飾 (Page 46 粉) Rice broken to pieces (Kangxi: 米粉, 分也硏米使分散也); a flour of any grain (Kangxi: 豆屑也); pigment, to adorn (Kangxi: 傅也飾也); to whitewash or color (Kangxi: 設采潤色謂之粉澤 etc.); _mai fan_ (mai5 fan2 米粉) rice flour; rice vermicelli; _suk mai fan_ (suk1 mai5 fan2 粟米粉), indian-meal; _fan sz'_ (fan2 si1 粉絲) or _fan tsai_ (fan2 zai2 粉仔), vermicelli; _min fan_ (min6 fan2 面粉), a cosmetic; _fan tseung_ (fan2 zoeng1 粉漿), starch; _fan toi_ (fan2 doi6-2 粉袋) a tailor's chalk-bag; _leung fan_ (loeng4 fan2 涼粉), a sort of jelly; _fan sui_ (fan2 seoi3 粉碎) smashed to shivers; _fan shik t'ai p'ing_ (fan2 sik1 taai3 ping4 粉飾太平), a specious peace; _fan ~~pai~~ p'ai_ (fan2 paai4 粉牌) a writing-board; _fan pik_ (fan2 bik1 粉壁) to whitewash a wall; _un fan_ (jyun4 fan2 鉛粉), white lead. (Page 713 粉) The white pus of sores; _fan lau_ (fan2 lau4-2 粉瘤), the sloughing from tumors. Fan Wan entry: Corrected 未 to 末. Williams' 米粉, 粟米粉: Corrected _mai_ (mai2) to _mai_ (mai5). Williams' 粉絲: Now more commonly known as glass/cellophane noodles. Williams' 面粉: Not to be confused with 麪粉. Williams' 涼粉: Corrected _leung_ (loeng1) to _leung_ (loeng4). Specifically, grass jelly. Williams' 粉碎: Corrected _sui_ (seoi6) to _sui_ (seoi3). Williams' 粉牌: Corrected _pai_ (baai4) to _p'ai_ (paai4). Cosmetics (Kangxi: 傅面者也). Powder (Kangxi: 凡物磑之如屑者皆爲粉粉通稱非獨米也). To powder. Flour- or starch-based foods (especially staples). 【粉】 (pjunX) (_noun-like_) powder (_noun-like_) rice-flour"
+"text":"U+7C89 fan3 (per 《集韻》方問切 for \"apply\" sense) (F1.83 粉) 米末也又粉飾 (Page 46 #16: 粉) Rice broken to pieces (Kangxi: 米粉, 分也硏米使分散也); a flour of any grain (Kangxi: 豆屑也); pigment, to adorn (Kangxi: 傅也飾也); to whitewash or color (Kangxi: 設采潤色謂之粉澤 etc.); _mai fan_ (mai5 fan2 米粉) rice flour; rice vermicelli; _suk mai fan_ (suk1 mai5 fan2 粟米粉), indian-meal; _fan sz'_ (fan2 si1 粉絲) or _fan tsai_ (fan2 zai2 粉仔), vermicelli; _min fan_ (min6 fan2 面粉), a cosmetic; _fan tseung_ (fan2 zoeng1 粉漿), starch; _fan toi_ (fan2 doi6-2 粉袋) a tailor's chalk-bag; _leung fan_ (loeng4 fan2 涼粉), a sort of jelly; _fan sui_ (fan2 seoi3 粉碎) smashed to shivers; _fan shik t'ai p'ing_ (fan2 sik1 taai3 ping4 粉飾太平), a specious peace; _fan ~~pai~~ p'ai_ (fan2 paai4 粉牌) a writing-board; _fan pik_ (fan2 bik1 粉壁) to whitewash a wall; _un fan_ (jyun4 fan2 鉛粉), white lead. (Page 713 粉) The white pus of sores; _fan lau_ (fan2 lau4-2 粉瘤), the sloughing from tumors. Fan Wan entry: Corrected 未 to 末. Williams' 米粉, 粟米粉: Corrected _mai_ (mai2) to _mai_ (mai5). Williams' 粉絲: Now more commonly known as glass/cellophane noodles. Williams' 面粉: Not to be confused with 麪粉. Williams' 涼粉: Corrected _leung_ (loeng1) to _leung_ (loeng4). Specifically, grass jelly. Williams' 粉碎: Corrected _sui_ (seoi6) to _sui_ (seoi3). Williams' 粉牌: Corrected _pai_ (baai4) to _p'ai_ (paai4). Cosmetics (Kangxi: 傅面者也). Powder (Kangxi: 凡物磑之如屑者皆爲粉粉通稱非獨米也). To powder. Flour- or starch-based foods (especially staples). 【粉】 (pjunX) (_noun-like_) powder (_noun-like_) rice-flour"
 }
 },
 "瞓":{
@@ -8315,33 +8315,33 @@
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+58B3 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 隫 坟 (Mainland simplified) (F1.81 墳) 墳墓又墳典言書籍也 (Page 46 墳) A grave, a tomb (Kangxi: 墓也), a tumulus (Kangxi: 土之高者曰墳); river banks, an embankment (Kangxi: 水涯曰墳大防也所以扞水); great, vast (Kangxi: 大也); _Fan mo_ (fan4 mou6 墳墓) a tomb; _so fan_ (sou3 fan4 掃墳), to worship at the graves; _fong fan_ (fong1 fan4 荒墳), a deserted grave; _sam fan_ (saam1 fan4 三墳), the distinction of heaven, earth, man (Kangxi: 三墳分也論三才之分天地人之始也). Williams' 掃墳: Corrected _fan_ (fan1) to _fan_ (fan4). A classical book or tome. 【墳-level】 (bjun) (_noun-like_) mound (_noun-like_) embankment (_adjective-like_) moundy, (_met._) large"
+"text":"U+58B3 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 隫 坟 (Mainland simplified) (F1.81 墳) 墳墓又墳典言書籍也 (Page 46 #11: 墳) A grave, a tomb (Kangxi: 墓也), a tumulus (Kangxi: 土之高者曰墳); river banks, an embankment (Kangxi: 水涯曰墳大防也所以扞水); great, vast (Kangxi: 大也); _Fan mo_ (fan4 mou6 墳墓) a tomb; _so fan_ (sou3 fan4 掃墳), to worship at the graves; _fong fan_ (fong1 fan4 荒墳), a deserted grave; _sam fan_ (saam1 fan4 三墳), the distinction of heaven, earth, man (Kangxi: 三墳分也論三才之分天地人之始也). Williams' 掃墳: Corrected _fan_ (fan1) to _fan_ (fan4). A classical book or tome. 【墳-level】 (bjun) (_noun-like_) mound (_noun-like_) embankment (_adjective-like_) moundy, (_met._) large"
 },
 "fan5":{
 "isCanonical":true,
 "williams":"(5)fan",
-"text":"U+58B3 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 坟 (Mainland simplified) bun6 (per 《集韻》部本切 for \"raised\" sense) (Page 46 墳 read _Fan_ (fan3); here corrected to _Fan_ (fan5)) rich soil (Kangxi: 土膏肥也); read _fan_ (fan5). Raised (Kangxi: 土沸起也). 【墳-rising】 (bjunX) (_adjective-like_) rich"
+"text":"U+58B3 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 坟 (Mainland simplified) bun6 (per 《集韻》部本切 for \"raised\" sense) (Page 46 #11: 墳 read _Fan_ (fan3); here corrected to _Fan_ (fan5)) rich soil (Kangxi: 土膏肥也); read _fan_ (fan5). Raised (Kangxi: 土沸起也). 【墳-rising】 (bjunX) (_adjective-like_) rich"
 }
 },
 "幩":{
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+5E69 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. (F1.82 幩) 鑣之飾也 (Page 46 幩) An ornament on the bit of a bridle (Kangxi: 馬纏鑣扇汗也, 幩飾也 etc.). 【幩】 (bjun) (_noun-like_) bridle-ornament"
+"text":"U+5E69 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. (F1.82 幩) 鑣之飾也 (Page 46 #12: 幩) An ornament on the bit of a bridle (Kangxi: 馬纏鑣扇汗也, 幩飾也 etc.). 【幩】 (bjun) (_noun-like_) bridle-ornament"
 }
 },
 "濆":{
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+6FC6 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 𣸣 (Mainland simplified) (F1.81 濆) 水涯 (Page 46 濆) A river overflowing and making streamlets; a river bank (Kangxi: 水厓也); a river in Honan (Kangxi: 汝水逕奇雒城西北濆水出焉). Williams' \"A river overflowing and making streamlets\": Kangxi 大水溢出別爲小水之名 is commentary for 《爾雅釋水》汝爲濆, in which a great river (named 汝) makes (爲) a streamlet (named 濆). It perhaps should not be read as a definition. 【濆】 (bjun) (_noun-like_) riverbank, bank"
+"text":"U+6FC6 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 𣸣 (Mainland simplified) (F1.81 濆) 水涯 (Page 46 #13: 濆) A river overflowing and making streamlets; a river bank (Kangxi: 水厓也); a river in Honan (Kangxi: 汝水逕奇雒城西北濆水出焉). Williams' \"A river overflowing and making streamlets\": Kangxi 大水溢出別爲小水之名 is commentary for 《爾雅釋水》汝爲濆, in which a great river (named 汝) makes (爲) a streamlet (named 濆). It perhaps should not be read as a definition. 【濆】 (bjun) (_noun-like_) riverbank, bank"
 }
 },
 "焚":{
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+711A 炃 㷊 燌 燓 (F1.81 焚) 火燒曰焚 (Page 46 焚) To burn, to light, to set on fire (Kangxi: 燒也, 火灼物也); _fan heung_ (fan4 hoeng1 焚香), to light incense sticks; _fan fa_ (fan4 faa3 焚化) to burn up; to cremate, to incinerate; _fan sau_ (fan4 sau1 焚修), to burn ~~a bonze~~ incense in the pursuit of Budhist cultivation; _fan shu_ (fan4 syu1 焚書), burning of the books by Tsin (秦). Williams' 焚化: Corrected _fan_ (fan1) to _fan_ (fan4). Williams' 焚書: Corrected _shu_ (syu4) to _shu_ (syu1). 【焚】 (bjun) (_verb-like_) to burn"
+"text":"U+711A 炃 㷊 燌 燓 (F1.81 焚) 火燒曰焚 (Page 46 #10: 焚) To burn, to light, to set on fire (Kangxi: 燒也, 火灼物也); _fan heung_ (fan4 hoeng1 焚香), to light incense sticks; _fan fa_ (fan4 faa3 焚化) to burn up; to cremate, to incinerate; _fan sau_ (fan4 sau1 焚修), to burn ~~a bonze~~ incense in the pursuit of Budhist cultivation; _fan shu_ (fan4 syu1 焚書), burning of the books by Tsin (秦). Williams' 焚化: Corrected _fan_ (fan1) to _fan_ (fan4). Williams' 焚書: Corrected _shu_ (syu4) to _shu_ (syu1). 【焚】 (bjun) (_verb-like_) to burn"
 },
 "fan5":{
 "isCanonical":false,
@@ -8353,7 +8353,7 @@
 "fan4":{
 "isCanonical":true,
 "williams":"(4)fan",
-"text":"U+8561 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. (F1.81 蕡) 草木多實曰蕡 (Page 46 蕡) Fruitful (Kangxi: 草木多實也), flourishing plants (Kangxi: 蕡藹), fragrant flowers growing together (Kangxi: 雜香草也); _ma fan_ (maa4 fan4 麻蕡), hemp seed (Kangxi: 蕡麻子也); _fan shat_ (fan4 sat6 蕡實) bearing much seed. 【蕡】 (bjun) (_adjective-like_) fruitful (_noun-like_) hemp-seed"
+"text":"U+8561 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. (F1.81 蕡) 草木多實曰蕡 (Page 46 #14: 蕡) Fruitful (Kangxi: 草木多實也), flourishing plants (Kangxi: 蕡藹), fragrant flowers growing together (Kangxi: 雜香草也); _ma fan_ (maa4 fan4 麻蕡), hemp seed (Kangxi: 蕡麻子也); _fan shat_ (fan4 sat6 蕡實) bearing much seed. 【蕡】 (bjun) (_adjective-like_) fruitful (_noun-like_) hemp-seed"
 }
 },
 "蚡":{
