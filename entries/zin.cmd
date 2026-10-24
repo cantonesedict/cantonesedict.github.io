@@ -384,7 +384,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 濺(3) _Ts(i/)n(3)_ (zin3); here corrected to _(1)Ts(i/)n_ (zin1)]]
+  - [[Page~574 #3: 濺(3) _Ts(i/)n(3)_ (zin3); here corrected to _(1)Ts(i/)n_ (zin1)]]
     ==
     - A swift current [[Kangxi: 濺濺水疾流貌]];
     - a raceway;
@@ -1655,7 +1655,7 @@ F
   ==
 W
   ====
-  - [[Page~574 濺(3)]]
+  - [[Page~574 #3: 濺(3)]]
     ==
     - [[...]];
     - to spatter up, to dash against;
@@ -1745,7 +1745,7 @@ F
   ==
 W
   ====
-  - [[Page~574 牮(3)]]
+  - [[Page~574 #1: 牮(3)]]
     ==
     - A prop to shore up a leaning house [[Kangxi: 屋斜用牮]];
     - a sluice or weir of earth or stone to lead water [[Kangxi: 以土石遮水亦曰牮]].
@@ -2115,7 +2115,7 @@ F
   ==
 W
   ====
-  - [[Page~574 餞(3)]]
+  - [[Page~574 #2: 餞(3)]]
     ==
     - To present food to one, to give a farewell dinner to [[Kangxi: 送去也, 酒食送也]];
     - ~~to send food to;~~
@@ -2178,7 +2178,7 @@ F
   ==
 W
   ====
-  - [[Page~574 賤(6)]]
+  - [[Page~574 #4: 賤(6)]]
     ==
     - Worthless, vile, mean, low, ignoble, base [[Kangxi: ::[卑]下也不貴也::]];
     - cheap, low-priced [[Kangxi: 賈少也]];
@@ -2249,7 +2249,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 踐(6)]]
+  - [[Page~574 #5: 踐(6)]]
     --
     [[Reading variation. **See $踐cin5 for the canonical entry.**]]
     --

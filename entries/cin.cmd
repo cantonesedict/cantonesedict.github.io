@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)千]]
+  - [[Page~574 #6: (1)千]]
     ==
     - A thousand [[Kangxi: 十百也]];
     - many, an indefinite number;
@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)芊]]
+  - [[Page~574 #7: (1)芊]]
     ==
     - Exuberant foliage, flourishing vegetation [[Kangxi: 芊芊草盛貌]];
     - green, like jade [[Kangxi: 碧貌]];
@@ -211,7 +211,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)躚]]
+  - [[Page~574 #10: (1)躚]]
     --
     [[Reading variation. **See $躚sin1 for the canonical entry.**]] [[TODO]]
     --
@@ -236,7 +236,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)遷(1)迁]]
+  - [[Page~574 #9: (1)遷(1)迁]]
     --
     [[Alternative form of 遷. **See $遷cin1 for the canonical entry.**]]
     --
@@ -271,7 +271,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)遷(1)迁]]
+  - [[Page~574 #9: (1)遷(1)迁]]
     ==
     - To move, to remove, to place elsewhere [[Kangxi 遷: 移物曰遷]];
     - to ascend [[Kangxi 遷: 登也, 去下之高也]];
@@ -323,7 +323,7 @@ F
   ==
 W
   ====
-  - [[Page~574 (1)阡]]
+  - [[Page~574 #8: (1)阡]]
     ==
     - A road going north and south [[Kangxi: 路南北爲阡]];
     - a cross-way through a field, a path to a grave [[Kangxi: 墓道也]].
@@ -997,7 +997,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 踐(6) _Ts(i/)n(6)_ (zin6); often read _(5)Ts(')(i/)n_ (cin5)]]
+  - [[Page~574 #5: 踐(6) _Ts(i/)n(6)_ (zin6); often read _(5)Ts(')(i/)n_ (cin5)]]
     ==
     - To tread upon [[Kangxi: 履也]], to trample on or over [[Kangxi: 踐蹋也, 踐殘也使殘壞也]];
     - ~~to walk,~~ to step;

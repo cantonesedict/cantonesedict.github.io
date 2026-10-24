@@ -13362,6 +13362,98 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~574
+    ,{#page-574-entry-1} #1
+    ,{.williams} 牮(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $牮zin3
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-2} #2
+    ,{.williams} 餞(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $餞zin3
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-3} #3
+    ,{.williams} 濺(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $濺zin1, $濺zin3
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-4} #4
+    ,{.williams} 賤(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $賤zin6
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-5} #5
+    ,{.williams} 踐(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $踐cin5, ($踐zin6)
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-6} #6
+    ,{.williams} (1)千
+    ,
+      <nav class="sideways">
+      ==
+      - $千cin1
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-7} #7
+    ,{.williams} (1)芊
+    ,
+      <nav class="sideways">
+      ==
+      - $芊cin1
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-8} #8
+    ,{.williams} (1)阡
+    ,
+      <nav class="sideways">
+      ==
+      - $阡cin1
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-9} #9
+    ,{.williams} (1)遷(1)迁
+    ,
+      <nav class="sideways">
+      ==
+      - ($迁cin1)
+      - $遷cin1
+      ==
+      </nav>
+  //
+    ,{#page-574-entry-10} #10
+    ,{.williams} (1)躚
+    ,
+      <nav class="sideways">
+      ==
+      - ($躚cin1)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
