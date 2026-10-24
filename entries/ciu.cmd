@@ -553,6 +553,10 @@ R
   ⾁ + 3
 U
   U+8096
+H
+  May appear with top component as 尙 or 尚 (assumed here),
+  depending on the font.
+  This extends to all characters containing 肖 as a component.
 F
   ==
   - (F2.7 肖) 似也像也
