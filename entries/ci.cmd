@@ -195,7 +195,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (1)差]]
+  - [[Page~615 #2: (1)差]]
     ==
     - Uneven, projecting irregularly [[Kangxi: 不齊等也]];
     - _(1)ts(')(a/)m (1)ts(')z'_
@@ -254,7 +254,7 @@ W
     - [[...]];
     - a defect, a flaw [[Kangxi 呰: 瑕也]].
     ==
-  - [[Page~615 (4)疵 _(4)Ts(')z'_ (ci4); here normalised to _(1)Ts(')z'_ (ci1)]]
+  - [[Page~615 #4: (4)疵 _(4)Ts(')z'_ (ci4); here normalised to _(1)Ts(')z'_ (ci1)]]
     ==
     - Malady [[Kangxi: 病也]], disease, infirmity;
     - an imperfection, as a mole;
@@ -568,7 +568,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (1)雌]]
+  - [[Page~615 #1: (1)雌]]
     ==
     - The female of birds, a hen bird [[Kangxi: 鳥母也]];
     - _met._ weak;
@@ -2551,7 +2551,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)慈]]
+  - [[Page~615 #8: (4)慈]]
     ==
     - Maternal affection [[Kangxi: 父母之愛子也]];
     - love [[Kangxi: 愛也]], kindness, mercy, compassion;
@@ -2780,7 +2780,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)磁; here normalised to 瓷]]
+  - [[Page~615 #9: (4)磁; here normalised to 瓷]]
     ==
     - [[...]];
     - porcelain, chinaware [[Kangxi 瓷: 瓦器也]];
@@ -2819,7 +2819,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)疵]]
+  - [[Page~615 #4: (4)疵]]
     --
     [[Reading variation. **See $疵ci1 for the canonical entry.**]]
     --
@@ -2849,7 +2849,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)磁]]
+  - [[Page~615 #9: (4)磁]]
     ==
     - The loadstone [[Kangxi: 本作礠省从兹, 石名可以引鍼]];
     - [[...]];
@@ -2888,7 +2888,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)祠]]
+  - [[Page~615 #5: (4)祠]]
     ==
     - To sacrifice to ancestors in the spring [[Kangxi: 祭也, 春曰祠]];
     - a family shrine, an ancestral temple;
@@ -3160,7 +3160,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)詞]]
+  - [[Page~615 #6: (4)詞]]
     ==
     - An expression, a phrase, a sentence, a word [[Kangxi: 說也, 言也]];
     - a particle;
@@ -3181,7 +3181,7 @@ W
         [[zong6 ci4 狀詞]]
         an accusation, a petition.
     ==
-  - [[Page~615 (4)辭(4)辞]]
+  - [[Page~615 #7: (4)辭(4)辞]]
     ==
     - Similar to the last [[詞]];
     - [[...]].
@@ -3304,7 +3304,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)辭(4)辞]]
+  - [[Page~615 #7: (4)辭(4)辞]]
     --
     [[Alternative form of 辭. **See $辭ci4 for the canonical entry.**]]
     --
@@ -3330,7 +3330,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (4)辭(4)辞]]
+  - [[Page~615 #7: (4)辭(4)辞]]
     ==
     - [[...]];
     - an expression, a word, a particle, a part of speech;

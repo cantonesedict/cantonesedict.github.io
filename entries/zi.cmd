@@ -1512,7 +1512,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~615 (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(1)Tsz'_ (zi1)]]
+  - [[Page~615 #3: (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(1)Tsz'_ (zi1)]]
     ==
     - [[...]];
     - to think, to consult [[Kangxi: 思也, 量也]];
@@ -3532,7 +3532,7 @@ F
   ==
 W
   ====
-  - [[Page~615 (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(2)Tsz'_ (zi2)]]
+  - [[Page~615 #3: (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(2)Tsz'_ (zi2)]]
     ==
     - To speak hastily, to utter things unadvisedly [[Kangxi: 不思稱意也]];
     - to slander, to detract from [[Kangxi: 毀也]];

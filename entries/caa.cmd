@@ -220,7 +220,7 @@ W
         [[cing3 caa1 saai3 秤差嗮]]
         all weighed wrong.
     ==
-  - [[Page~615 (1)差 _(1)Ts(')z'_ (ci1); here corrected to _(1)Ch(')(a/)_ (caa1)]]
+  - [[Page~615 #2: (1)差 _(1)Ts(')z'_ (ci1); here corrected to _(1)Ch(')(a/)_ (caa1)]]
     ==
     - [[...]];
     - _~~(1)ts(')z'~~ ``(1)ch(')(a/)`` (2)ho (4)yan (i/)(3)_

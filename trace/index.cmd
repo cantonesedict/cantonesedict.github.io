@@ -16825,6 +16825,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~615
+    ,{#page-615-entry-1} #1
+    ,{.williams} (1)雌
+    ,
+      <nav class="sideways">
+      ==
+      - $雌ci1
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-2} #2
+    ,{.williams} (1)差
+    ,
+      <nav class="sideways">
+      ==
+      - $差caa1, $差ci1
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-3} #3
+    ,{.williams} (1)訾
+    ,
+      <nav class="sideways">
+      ==
+      - $訾zi1, $訾zi2
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-4} #4
+    ,{.williams} (4)疵
+    ,
+      <nav class="sideways">
+      ==
+      - $疵ci1, ($疵ci4)
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-5} #5
+    ,{.williams} (4)祠
+    ,
+      <nav class="sideways">
+      ==
+      - $祠ci4
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-6} #6
+    ,{.williams} (4)詞
+    ,
+      <nav class="sideways">
+      ==
+      - $詞ci4
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-7} #7
+    ,{.williams} (4)辭(4)辞
+    ,
+      <nav class="sideways">
+      ==
+      - $詞ci4
+      - ($辞ci4)
+      - $辭ci4
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-8} #8
+    ,{.williams} (4)慈
+    ,
+      <nav class="sideways">
+      ==
+      - $慈ci4
+      ==
+      </nav>
+  //
+    ,{#page-615-entry-9} #9
+    ,{.williams} (4)磁
+    ,
+      <nav class="sideways">
+      ==
+      - $瓷ci4
+      - $磁ci4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
