@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)亨]]
+  - [[Page~72 #12: (1)亨]]
     ==
     - To penetrate or pervade [[Kangxi: 通也]];
     - successful;
@@ -113,7 +113,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~72 (1)哼]]
+  - [[Page~72 #13: (1)哼]]
     ==
     - Frightened, an antipathy to [[Kangxi: 嗆哼愚怯貌]];
     - a local word applied to smells, lothsome.
@@ -153,7 +153,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)牼]]
+  - [[Page~72 #16: (1)牼]]
     --
     The shank bone of an ox [[Kangxi: 牛膝下骨也]].
     --
@@ -187,7 +187,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)硜]]
+  - [[Page~72 #15: (1)硜]]
     ==
     - The jingling of stones, striking hard stones together [[Kangxi: 石聲]].
     ==
@@ -255,7 +255,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)鏗]]
+  - [[Page~72 #14: (1)鏗]]
     ==
     - To strike against [[Kangxi: 撞也]] as sounding glasses or metals,
       a ringing or metallic sound [[Kangxi: 鏗鏘金石聲, 或作鍞銵]];

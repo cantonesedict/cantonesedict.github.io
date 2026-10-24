@@ -10665,6 +10665,153 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=16} Page~72
+    ,{#page-72-entry-1} #1
+    ,{.williams} (1)慳
+    ,
+      <nav class="sideways">
+      ==
+      - $慳haan1
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-2} #2
+    ,{.williams} (4)閒
+    ,
+      <nav class="sideways">
+      ==
+      - $閒haan4
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-3} #3
+    ,{.williams} (4)閑
+    ,
+      <nav class="sideways">
+      ==
+      - $閑haan4
+      - $閒haan4
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-4} #4
+    ,{.williams} (4)憪
+    ,
+      <nav class="sideways">
+      ==
+      - $憪haan4, $憪haan5
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-5} #5
+    ,{.williams} (4)嫺
+    ,
+      <nav class="sideways">
+      ==
+      - $嫺haan4
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-6} #6
+    ,{.williams} (4)癇
+    ,
+      <nav class="sideways">
+      ==
+      - $癇haan4
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-7} #7
+    ,{.williams} (4)鷳
+    ,
+      <nav class="sideways">
+      ==
+      - $鷳haan4
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-8} #8
+    ,{.williams} (4)僩
+    ,
+      <nav class="sideways">
+      ==
+      - $僩haan5
+      - $撊haan5
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-9} #9
+    ,{.williams} (4)瞯
+    ,
+      <nav class="sideways">
+      ==
+      - $瞯haan4
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-10} #10
+    ,{.williams} 限(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $限haan6
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-11} #11
+    ,{.williams} 閬(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $限haan6
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-12} #12
+    ,{.williams} (1)亨
+    ,
+      <nav class="sideways">
+      ==
+      - $亨hang1
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-13} #13
+    ,{.williams} (1)哼
+    ,
+      <nav class="sideways">
+      ==
+      - $哼hang1
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-14} #14
+    ,{.williams} (1)鏗
+    ,
+      <nav class="sideways">
+      ==
+      - $鏗hang1
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-15} #15
+    ,{.williams} (1)硜
+    ,
+      <nav class="sideways">
+      ==
+      - $硜hang1
+      ==
+      </nav>
+  //
+    ,{#page-72-entry-16} #16
+    ,{.williams} (1)牼
+    ,
+      <nav class="sideways">
+      ==
+      - $牼hang1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

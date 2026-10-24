@@ -66,7 +66,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (1)慳]]
+  - [[Page~72 #1: (1)慳]]
     ==
     - Saving, niggardly, stingy;
     - to be sparing of;
@@ -149,7 +149,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)嫺]]
+  - [[Page~72 #5: (4)嫺]]
     ==
     - Accustomed [[Kangxi: 習也, 通作閒]];
     - ~~loving leisure;~~
@@ -198,7 +198,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)憪]]
+  - [[Page~72 #4: (4)憪]]
     ==
     - [[...]], pleased [[Kangxi ::[憪]::^: 愉也]];
     - composed, tranquil, contented [[Kangxi ::[憪]::^: 心靜也]];
@@ -240,7 +240,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)癇]]
+  - [[Page~72 #6: (4)癇]]
     ==
     - Convulsions in children [[Kangxi: 病也, 小兒瘨病 etc.]];
     - spasms from fright;
@@ -267,7 +267,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~72 (4)瞯]]
+  - [[Page~72 #9: (4)瞯]]
     ==
     <## TODO: normalise to $瞯gaan3
     - To observe narrowly, to watch furtively;
@@ -333,7 +333,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)閑]]
+  - [[Page~72 #3: (4)閑]]
     ==
     - A bar or barrier, a fence [[Kangxi: 闌也 etc., 閑與梐枑皆禁衞之物也]];
     - an inclosure;
@@ -402,7 +402,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)閒]]
+  - [[Page~72 #2: (4)閒]]
     ==
     - Repose [[Kangxi: 安也]], leisure [[Kangxi: {𨻶=⿰阝⿳少日小}也, ::[...]空閒[...]::]];
     - indolent;
@@ -444,7 +444,7 @@ W
     --
     [[Otherwise, an alternative form of 嫺 (for the "adept" sense). **See $嫺haan4 for the canonical entry.**]]
     --
-  - [[Page~72 (4)閑]]
+  - [[Page~72 #3: (4)閑]]
     --
     [[...]]
     --
@@ -508,7 +508,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)鷳]]
+  - [[Page~72 #7: (4)鷳]]
     ==
     - A kind of pheasant;
     - _p(a/)k(9) (4)h(a/)n_
@@ -571,7 +571,7 @@ F
   ==
 W
   ====
-  - [[Page~72 (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
+  - [[Page~72 #8: (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
     ==
     - [[...]];
     - ~~depending on one's-self;~~
@@ -606,7 +606,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~72 (4)憪 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
+  - [[Page~72 #4: (4)憪 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5)]]
     ==
     - Liberal [[Kangxi ::[憪]::^: 寬大貌]], [[...]];
     - [[...]];
@@ -645,7 +645,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~72 (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5) and normalised to 撊]]
+  - [[Page~72 #8: (4)僩 _(4)H(a/)n_ (haan4); here corrected to _(5)H(a/)n_ (haan5) and normalised to 撊]]
     ==
     - Courageous;
     - [[...]];
@@ -697,7 +697,7 @@ F
   ==
 W
   ====
-  - [[Page~72 限(6)]]
+  - [[Page~72 #10: 限(6)]]
     ==
     - To limit, to fix or set a time, to assign, to adjust;
     - to impede, to moderate;
@@ -729,7 +729,7 @@ W
         [[haan6 dou6 限度]]
         a ~~fixed~~ ``limited`` measure.
     ==
-  - [[Page~72 ::~~閬~~``{𨵬=⿵門限}``(6)::]]
+  - [[Page~72 #11: ::~~閬~~``{𨵬=⿵門限}``(6)::]]
     ==
     - The threshold of a door [[Kangxi {𨵬=⿵門限}: 門{𨵬=⿵門限}也本作限俗加門作{𨵬=⿵門限}]].
     ==
