@@ -172,7 +172,7 @@ W
         [[fui1 coeng4 灰牆]],
         to plaster a wall.
     ==
-  - [[Page~715 (1)灰]]
+  - [[Page~715 #14: (1)灰]]
     ==
     - As a verb, to turn pale, to faint, to sink from amazement;
     - _(1)sam (1)f(u/)i_
@@ -611,7 +611,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 靧(3)]]
+  - [[Page~715 #17: 靧(3)]]
     ==
     - To wash the face [[Kangxi: 洗面也]].
     ==

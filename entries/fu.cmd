@@ -185,7 +185,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)刳]]
+  - [[Page~715 #4: (1)刳]]
     ==
     - To cut open [[Kangxi: 刳剖也]];
     - to rip up, to kill [[Kangxi: 屠也]];
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)怤]]
+  - [[Page~715 #5: (1)怤]]
     ==
     - To think upon with pleasure [[Kangxi: 思也, 悅也]];
     - pleased, gratified with, as a friend.
@@ -902,7 +902,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)滹]]
+  - [[Page~715 #2: (1)滹]]
     ==
     - A river in the southwest of Chihl(i/) [[直隸]],
       the _(1)F(u/) (4)t(')o (4)ho_ [[fu1 to4 ho4 滹沱河]],
@@ -925,7 +925,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)玞]]
+  - [[Page~715 #8: (1)玞]]
     --
     [[Alternative form of 砆. **See $砆fu1 for the canonical entry.**]]
     --
@@ -979,7 +979,7 @@ W
     - A stone resembling a gem [[Kangxi: 同玞, 碔砆石次玉]];
     - a false gem.
     ==
-  - [[Page~715 (1)玞]]
+  - [[Page~715 #8: (1)玞]]
     ==
     - Is the same as 砆 _(1)f(u/)_ [[fu1]]_;_
     - it is probably a veined jasper.
@@ -1002,7 +1002,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)粰; here normalised to 稃]]
+  - [[Page~715 #6: (1)粰; here normalised to 稃]]
     ==
     - [[...]];
     - (1)稃 is also the capsule or pericarp of a seed [[Kangxi 稃: 稃卽米殻, 穀皮也]]~~,
@@ -1029,7 +1029,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)粰]]
+  - [[Page~715 #6: (1)粰]]
     --
     [[Alternative form of 麩. **See $麩fu1 for the canonical entry.**]]
     --
@@ -1259,7 +1259,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 跗(6) _F(u/)(6)_ (fu6); here normalised to _(1)F(u/)_ (fu1)]]
+  - [[Page~715 #13: 跗(6) _F(u/)(6)_ (fu6); here normalised to _(1)F(u/)_ (fu1)]]
     ==
     - The instep of the foot, where sandals are tied [[Kangxi: 足上也 etc.]];
     - _~~f(u/)(6)~~ ``(1)f(u/)`` ch(u:)(3)_
@@ -1300,7 +1300,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)郛]]
+  - [[Page~715 #3: (1)郛]]
     ==
     - The outermost wall beyond the citadel [[Kangxi: 城外大郭也]];
     - the suburbs, the purlieus of a city.
@@ -1365,7 +1365,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (1)骷]]
+  - [[Page~715 #1: (1)骷]]
     ==
     - The shoulder-blade, the ~~thigh bone~~ ``knee-cap or lumbar vertebrae`` [[Kangxi: 骷髆䯊也]];
     - a skeleton;
@@ -1402,7 +1402,7 @@ W
     - Bran or husk of wheat [[Kangxi: 小麥屑皮也一作麱]];
     - the refuse of hemp-seed or ground nut, after the oil is expressed.
     ==
-  - [[Page~715 (1)粰]]
+  - [[Page~715 #6: (1)粰]]
     ==
     - is the same as (1)麩;
     - [[...]].
@@ -1474,7 +1474,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (2)俛]]
+  - [[Page~715 #11: (2)俛]]
     --
     [[Alternative form of 俯. **See $俯fu2 for the canonical entry.**]]
     --
@@ -1525,7 +1525,7 @@ W
         [[fu2 joeng5 俯仰]],
         to look down and up~~, all ranks~~.
     ==
-  - [[Page~715 (2)俛; here normalised to 俯]]
+  - [[Page~715 #11: (2)俛; here normalised to 俯]]
     ==
     - Interchanged with 頫 ~~_t(')i(u/)(3)_ [[tiu3]]~~
       in the senses of hanging down the head [[Kangxi 俛: 同俯頫 etc.]];
@@ -2559,7 +2559,7 @@ W
         [[fu3 zuk1 富足]]
         rich enough.
     ==
-  - [[Page~715 富(3)]]
+  - [[Page~715 #12: 富(3)]]
     ==
     - The phrase _hok(9) f(u/)(3) (1)ch(e/)_ [[hok6 fu3 ze1]]^ should be
         _hok(9) f(u/)(3) (5)'ng ~~(1)ch(')(e/)~~ ``(1)k(u:)``_
@@ -3142,7 +3142,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 (4)芙]]
+  - [[Page~715 #9: (4)芙]]
     ==
     - A flower;
     - _(4)f(u/) (4)yung (1)f(a/)_
@@ -3266,7 +3266,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (4)颫]]
+  - [[Page~715 #10: (4)颫]]
     ==
     - A gust of wind;
     - the wind blowing downwards [[Kangxi: 風自上下謂之颫颻]];
@@ -4110,7 +4110,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 跗(6)]]
+  - [[Page~715 #13: 跗(6)]]
     --
     [[Reading variation. **See $跗fu1 for the canonical entry.**]]
     --

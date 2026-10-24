@@ -594,7 +594,7 @@ W
         [[fung1 dang1 豐登]],
         large supplies (of corn).
     ==
-  - [[Page~715 (1)豐]]
+  - [[Page~715 #21: (1)豐]]
     ==
     - Is the full form of 豊;
     - the latter [[豊]] is the least used.
@@ -1166,7 +1166,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (4)渢]]
+  - [[Page~715 #22: (4)渢]]
     ==
     - The noise or roaring of water or waves [[Kangxi: 水聲一曰弘大聲]];
     - floating [[Kangxi: 一曰浮貌]].

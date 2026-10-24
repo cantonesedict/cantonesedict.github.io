@@ -17305,6 +17305,192 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=20} Page~715
+    ,{#page-715-entry-1} #1
+    ,{.williams} (1)骷
+    ,
+      <nav class="sideways">
+      ==
+      - $骷fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-2} #2
+    ,{.williams} (1)滹
+    ,
+      <nav class="sideways">
+      ==
+      - $滹fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-3} #3
+    ,{.williams} (1)郛
+    ,
+      <nav class="sideways">
+      ==
+      - $郛fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-4} #4
+    ,{.williams} (1)刳
+    ,
+      <nav class="sideways">
+      ==
+      - $刳fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-5} #5
+    ,{.williams} (1)怤
+    ,
+      <nav class="sideways">
+      ==
+      - $怤fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-6} #6
+    ,{.williams} (1)粰
+    ,
+      <nav class="sideways">
+      ==
+      - $稃fu1
+      - ($粰fu1)
+      - $麩fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-8} #8
+    ,{.williams} (1)玞
+    ,
+      <nav class="sideways">
+      ==
+      - ($玞fu1)
+      - $砆fu1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-9} #9
+    ,{.williams} (4)芙
+    ,
+      <nav class="sideways">
+      ==
+      - $芙fu4
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-10} #10
+    ,{.williams} (4)颫
+    ,
+      <nav class="sideways">
+      ==
+      - $颫fu4
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-11} #11
+    ,{.williams} (2)俛
+    ,
+      <nav class="sideways">
+      ==
+      - ($俛fu2)
+      - $俯fu2
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-12} #12
+    ,{.williams} 富(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $富fu3
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-13} #13
+    ,{.williams} 跗(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $跗fu1, ($跗fu6)
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-14} #14
+    ,{.williams} (1)灰
+    ,
+      <nav class="sideways">
+      ==
+      - $灰fui1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-15} #15
+    ,{.williams} (1)虺(1)虫
+    ,
+      <nav class="sideways">
+      ==
+      - $蟲cung4
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-17} #17
+    ,{.williams} 靧(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $靧fui3
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-18} #18
+    ,{.williams} 福(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $福fuk1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-19} #19
+    ,{.williams} 複(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $複fuk1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-20} #20
+    ,{.williams} (1)懽
+    ,
+      <nav class="sideways">
+      ==
+      - ($懽fun1)
+      - $歡fun1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-21} #21
+    ,{.williams} (1)豐
+    ,
+      <nav class="sideways">
+      ==
+      - $豐fung1
+      ==
+      </nav>
+  //
+    ,{#page-715-entry-22} #22
+    ,{.williams} (4)渢
+    ,
+      <nav class="sideways">
+      ==
+      - $渢fung4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

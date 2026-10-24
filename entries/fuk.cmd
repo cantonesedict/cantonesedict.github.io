@@ -232,7 +232,7 @@ W
         [[jat1 lou6 fuk1 sing1 一路福星]],
         let a lucky star [light] your journey.
     ==
-  - [[Page~715 福(7)]]
+  - [[Page~715 #18: 福(7)]]
     ==
     - For "wealth, virtuous" in the list of five blessings,
       read "honor, posterity;"
@@ -449,7 +449,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~715 複(7)]]
+  - [[Page~715 #19: 複(7)]]
     ==
     - A wadded or lined garment [[Kangxi: 重衣也]];
     - doubled;

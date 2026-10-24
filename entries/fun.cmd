@@ -168,7 +168,7 @@ F
   ==
 W
   ====
-  - [[Page~715 (1)懽]]
+  - [[Page~715 #20: (1)懽]]
     --
     [[Alternative form of 歡. **See $歡fun1 for the canonical entry.**]]
     --
@@ -218,7 +218,7 @@ W
         [[fun1 lok6 歡樂]]
         highly delighted.
     ==
-  - [[Page~715 (1)懽]]
+  - [[Page~715 #20: (1)懽]]
     --
     Interchanged with 歡 _(1)f(u/)n_ [[fun1]].
     --

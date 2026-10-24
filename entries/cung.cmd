@@ -1910,7 +1910,7 @@ W
     --
     [[Otherwise, an alternative form of 爞. **See $爞cung4 for the canonical entry.**]]
     --
-  - [[Page~715 (1)虺(1)虫]]
+  - [[Page~715 #15: ::~~(1)虺~~(1)虫::]]
     ==
     - The second [[虫]] is used for 蟲 _(4)ch(')ung_ [[cung4]]_;_
     - [[...]].
