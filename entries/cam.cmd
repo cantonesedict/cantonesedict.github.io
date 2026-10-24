@@ -152,7 +152,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~551 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
+  - [[Page~551 #5: 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
     ==
     - [[...]];
     - _(4)k(')(i/) sh(u:)t(8) ~~tsam(3)~~ ``(1)ts(')am`` (4)yam_

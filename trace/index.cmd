@@ -11320,6 +11320,63 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=6} Page~551
+    ,{#page-551-entry-1} #1
+    ,{.williams} 鯽(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($鯽zak1)
+      - $鰂zak1
+      ==
+      </nav>
+  //
+    ,{#page-551-entry-2} #2
+    ,{.williams} 賊(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $蠈caak6
+      - $賊caak6
+      ==
+      </nav>
+  //
+    ,{#page-551-entry-3} #3
+    ,{.williams} 蠈(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $蠈caak6
+      ==
+      </nav>
+  //
+    ,{#page-551-entry-4} #4
+    ,{.williams} (2)怎
+    ,
+      <nav class="sideways">
+      ==
+      - $怎zam2
+      ==
+      </nav>
+  //
+    ,{#page-551-entry-5} #5
+    ,{.williams} 浸(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $浸cam1, $浸zam3
+      ==
+      </nav>
+  //
+    ,{#page-551-entry-6} #6
+    ,{.williams} 沁(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($沁zam3)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

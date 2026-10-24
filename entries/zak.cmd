@@ -365,7 +365,7 @@ F
   ==
 W
   ====
-  - [[Page~551 鯽(7)]]
+  - [[Page~551 #1: 鯽(7)]]
     --
     [[Alternative form of 鰂. **See $鰂zak1 for the canonical entry.**]]
     --
@@ -393,7 +393,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~551 鯽(7); here normalised to 鰂]]
+  - [[Page~551 #1: 鯽(7); here normalised to 鰂]]
     ==
     - A species of bream _(Cyprinus gibelioides)_ with a long dorsal,
       called _tsak(7) ~~(5)n(a/)~~ ``(2)n(a/)`` (4)(u:)_ [[zak1 naa2 jyu4-2 鰂乸魚]]_;_

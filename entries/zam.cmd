@@ -448,7 +448,7 @@ W
         [[zam2 gam2 bat1 dai1 tau4 怎敢不低頭]],
         how could I decline assent?
     ==
-  - [[Page~551 (2)怎 _(2)Tsam_]]
+  - [[Page~551 #4: (2)怎 _(2)Tsam_]]
     ==
     - What?
     - _(2)tsam (1)mo_
@@ -651,7 +651,7 @@ F
   ==
 W
   ==
-  - [[Page~551 沁(3)]]
+  - [[Page~551 #6: 沁(3)]]
     --
     [[Reading variation. **See $沁sam3 for the canonical entry.**]] [[TODO]]
     --
@@ -707,7 +707,7 @@ W
     - to plunge in [[Kangxi 湛: 投物水中也]];
     - [[...]].
     ==
-  - [[Page~551 浸(3) _Tsam(3)_]]
+  - [[Page~551 #5: 浸(3) _Tsam(3)_]]
     ==
     - To soak through, to penetrate [[Kangxi: 漬也]];
     - to saturate, to steep in, to macerate, to wet [[Kangxi: 潤也]];

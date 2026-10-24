@@ -470,13 +470,13 @@ F
   ==
 W
   ====
-  - [[Page~551 賊(9); here normalised to 蠈]]
+  - [[Page~551 #2: 賊(9); here normalised to 蠈]]
     ==
     - [[...]];
     - a fly in grain [[Kangxi 賊: 害苗之蟲]];
     - [[...]].
     ==
-  - [[Page~551 蠈(9)]]
+  - [[Page~551 #3: 蠈(9)]]
     ==
     - A fly which eats the grain at its joints [[Kangxi: 食禾節蟲]];
     - a sort of Hessian fly,
@@ -509,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~551 賊(9)]]
+  - [[Page~551 #2: 賊(9)]]
     ==
     - A thief, a robber, a highwayman [[Kangxi: 盜也]];
     - a bandit;
