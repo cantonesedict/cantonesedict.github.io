@@ -312,7 +312,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1) and normalised to 鍬]]
+  - [[Page~582 #2: 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1) and normalised to 鍬]]
     ==
     - A spade or pick [[Kangxi 鍫: 臿也]];
     - an implement for turning up the ground;
@@ -473,7 +473,7 @@ W
         [[ciu3 saang1 俏生]],
         like life, as puppets or images.
     ==
-  - [[Page~582 肖(3); here corrected to 俏]]
+  - [[Page~582 #3: 肖(3); here corrected to 俏]]
     ==
     - [[...]];
     - _ts(')i(u/)(3) (4)p(')(i/)_
@@ -559,7 +559,7 @@ F
   ==
 W
   ====
-  - [[Page~582 肖(3)]]
+  - [[Page~582 #3: 肖(3)]]
     ==
     - To assimilate, to imitate [[Kangxi: 肖法也]];
     - a likeness or relationship between parent and child [[Kangxi: 骨肉相似也]],
@@ -637,7 +637,7 @@ W
     - to reprehend [[Kangxi 譙: 責也]];
     - [[...]].
     ==
-  - [[Page~582 誚(3)]]
+  - [[Page~582 #4: 誚(3)]]
     ==
     - To ridicule;
     - to blame, to reprehend [[Kangxi: 讓也, 誚責也]];
@@ -696,7 +696,7 @@ F
   ==
 W
   ====
-  - [[Page~582 (2)鞘 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+  - [[Page~582 #1: (2)鞘 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
     - A scabbard, a sheath [[Kangxi: 刀室也]] [[...]].
       <##

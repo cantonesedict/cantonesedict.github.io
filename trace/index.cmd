@@ -13936,6 +13936,72 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~582
+    ,{#page-582-entry-1} #1
+    ,{.williams} (2)鞘
+    ,
+      <nav class="sideways">
+      ==
+      - $鞘ciu3
+      ==
+      </nav>
+  //
+    ,{#page-582-entry-2} #2
+    ,{.williams} 鍫(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $鍬ciu1
+      ==
+      </nav>
+  //
+    ,{#page-582-entry-3} #3
+    ,{.williams} 肖(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $俏ciu3
+      - $肖ciu3
+      ==
+      </nav>
+  //
+    ,{#page-582-entry-4} #4
+    ,{.williams} 誚(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $誚ciu3
+      ==
+      </nav>
+  //
+    ,{#page-582-entry-5} #5
+    ,{.williams} (2)左
+    ,
+      <nav class="sideways">
+      ==
+      - $左zo2
+      ==
+      </nav>
+  //
+    ,{#page-582-entry-6} #6
+    ,{.williams} 佐(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $佐zo3
+      ==
+      </nav>
+  //
+    ,{#page-582-entry-7} #7
+    ,{.williams} 坐(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $坐zo6
+      - $座zo6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

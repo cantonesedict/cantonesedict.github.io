@@ -221,7 +221,7 @@ F
   ==
 W
   ====
-  - [[Page~582 (2)左]]
+  - [[Page~582 #5: (2)左]]
     ==
     - The left [[Kangxi: 左右之對]], the left hand;
     - second;
@@ -427,7 +427,7 @@ F
   ==
 W
   ====
-  - [[Page~582 佐(3)]]
+  - [[Page~582 #6: 佐(3)]]
     ==
     - To assist, to second;
     - an assistant, a deputy, a second [[Kangxi: 輔也貳也]], a substitute;
@@ -642,7 +642,7 @@ F
   ==
 W
   ====
-  - [[Page~582 坐(6)]]
+  - [[Page~582 #7: 坐(6)]]
     ==
     - To sit [[Kangxi: 行之對也]];
     - to sit on the heels;
@@ -820,7 +820,7 @@ F
   ==
 W
   ====
-  - [[Page~582 坐(6); here normalised to 座]]
+  - [[Page~582 #7: 坐(6); here normalised to 座]]
     ==
     - [[...]];
     - a seat, a place;
