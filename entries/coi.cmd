@@ -133,7 +133,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)寀]]
+  - [[Page~591 #2: (2)寀]]
     ==
     - Lands or cities allotted for the revenue of officers [[Kangxi: 謂寀地]];
     - _(2)ts(')oi t(i/)(6)_
@@ -168,7 +168,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)彩]]
+  - [[Page~591 #3: (2)彩]]
     ==
     - Variegated, mixed or ornamented with different colors;
     - elegant, gay, colored;
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)採]]
+  - [[Page~591 #1: (2)採]]
     ==
     - To select, to choose, to pick, to pluck, as leaves [[Kangxi: 摘也取也㩜也]];
     - to take with the hand;
@@ -302,7 +302,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)棌]]
+  - [[Page~591 #5: (2)棌]]
     ==
     - A sort of tree [[Kangxi: 槲也]], whose wood is hard and durable,
       like that of the chestnut or locust.
@@ -331,7 +331,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~591 (2)睬]]
+  - [[Page~591 #6: (2)睬]]
     ==
     - To pay attention to, to notice, to greet [[Kangxi: 偢睬俗言也]];
     - _(4)'m (1)ts(')au (4)'m (2)ts(')oi_
@@ -361,7 +361,7 @@ F
   ==
 W
   ====
-  - [[Page~591 (2)綵]]
+  - [[Page~591 #4: (2)綵]]
     --
     Interchanged with the last [[彩]].
     --
@@ -516,7 +516,7 @@ F
   ==
 W
   ====
-  - [[Page~591 塞(3)]]
+  - [[Page~591 #9: 塞(3)]]
     ==
     - A boundary, a frontier, a limit [[Kangxi: 邊界也]];
     - _ch(')ut(7) ts(')oi(3)_
@@ -557,7 +557,7 @@ F
   ==
 W
   ====
-  - [[Page~591 菜(3)]]
+  - [[Page~591 #7: 菜(3)]]
     ==
     - Vegetables, edible herbs, greens [[Kangxi: 草之可食者, 蔬也]];
     - food, viands;
@@ -650,7 +650,7 @@ F
   ==
 W
   ====
-  - [[Page~591 蔡(3)]]
+  - [[Page~591 #8: 蔡(3)]]
     ==
     - Grass, herbs, esculent herbs [[Kangxi: 草也]];
     - ~~a law, a rule~~ ``punishment by banishment`` [[Kangxi: 蔡法也]];

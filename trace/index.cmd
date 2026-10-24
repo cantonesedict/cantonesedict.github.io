@@ -14651,6 +14651,88 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~591
+    ,{#page-591-entry-1} #1
+    ,{.williams} (2)採
+    ,
+      <nav class="sideways">
+      ==
+      - $採coi2
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-2} #2
+    ,{.williams} (2)寀
+    ,
+      <nav class="sideways">
+      ==
+      - $寀coi2
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-3} #3
+    ,{.williams} (2)彩
+    ,
+      <nav class="sideways">
+      ==
+      - $彩coi2
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-4} #4
+    ,{.williams} (2)綵
+    ,
+      <nav class="sideways">
+      ==
+      - $綵coi2
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-5} #5
+    ,{.williams} (2)棌
+    ,
+      <nav class="sideways">
+      ==
+      - $棌coi2
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-6} #6
+    ,{.williams} (2)睬
+    ,
+      <nav class="sideways">
+      ==
+      - $睬coi2
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-7} #7
+    ,{.williams} 菜(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $菜coi3
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-8} #8
+    ,{.williams} 蔡(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $蔡coi3
+      ==
+      </nav>
+  //
+    ,{#page-591-entry-9} #9
+    ,{.williams} 塞(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $塞coi3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
