@@ -3953,7 +3953,6 @@ class Linter:
             williams_locator
             for character_entry in character_entries
             for williams_locator in character_entry.williams_locators
-            if williams_locator.page != '9999'  # TODO: REMOVE
         ]
         literary_renderings = [
             literary_rendering
@@ -4163,7 +4162,6 @@ class Linter:
             (character_entry, williams_locator)
             for character_entry in self.character_entries
             for williams_locator in character_entry.williams_locators
-            if williams_locator.page != '9999'  # TODO: REMOVE
             if not williams_locator.position
         )
 
