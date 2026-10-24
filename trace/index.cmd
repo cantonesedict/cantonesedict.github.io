@@ -9985,6 +9985,128 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~66
+    ,{#page-66-entry-1} #1
+    ,{.williams} (1)葑
+    ,
+      <nav class="sideways">
+      ==
+      - $葑fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-2} #2
+    ,{.williams} (1)豊
+    ,
+      <nav class="sideways">
+      ==
+      - ($豊fung1)
+      - $豐fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-3} #3
+    ,{.williams} (1)酆
+    ,
+      <nav class="sideways">
+      ==
+      - $酆fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-4} #4
+    ,{.williams} (1)峯
+    ,
+      <nav class="sideways">
+      ==
+      - ($峯fung1)
+      - $峰fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-5} #5
+    ,{.williams} (1)蜂(1)蠭
+    ,
+      <nav class="sideways">
+      ==
+      - $蜂fung1
+      - ($蠭fung1)
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-6} #6
+    ,{.williams} (1)鋒
+    ,
+      <nav class="sideways">
+      ==
+      - $鋒fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-7} #7
+    ,{.williams} (1)烽
+    ,
+      <nav class="sideways">
+      ==
+      - $烽fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-8} #8
+    ,{.williams} (1)丰
+    ,
+      <nav class="sideways">
+      ==
+      - $丰fung1
+      - $風fung1
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-9} #9
+    ,{.williams} (4)逢
+    ,
+      <nav class="sideways">
+      ==
+      - $逢fung4
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-10} #10
+    ,{.williams} (4)縫
+    ,
+      <nav class="sideways">
+      ==
+      - $縫fung4
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-11} #11
+    ,{.williams} (4)馮
+    ,
+      <nav class="sideways">
+      ==
+      - $馮fung4
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-12} #12
+    ,{.williams} (2)俸
+    ,
+      <nav class="sideways">
+      ==
+      - ($俸fung2), $俸fung6
+      ==
+      </nav>
+  //
+    ,{#page-66-entry-13} #13
+    ,{.williams} (2)捧
+    ,
+      <nav class="sideways">
+      ==
+      - ($捧fung2)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

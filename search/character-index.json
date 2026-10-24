@@ -10326,7 +10326,7 @@
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+4E30 May appear with first stroke ㇒ (assumed here) or ㇐, depending on the font. fung4 (alternative per 《集韻》符風切) (F1.58 丰) 丰采又面丰滿也 (Page 66 丰) Luxuriant (Kangxi: 丰茸草盛貌); plump, good-looking (Kangxi: 容色美好貌); easy, melodious; a round face; Kangxi considers the form with first stroke ㇐ (horizontal) to be standard. Fan Wan entry: Corrected malformed 滿. 【丰】 (phjowng) (_adjective-like_) luxuriant, lush"
+"text":"U+4E30 May appear with first stroke ㇒ (assumed here) or ㇐, depending on the font. fung4 (alternative per 《集韻》符風切) (F1.58 丰) 丰采又面丰滿也 (Page 66 #8: 丰) Luxuriant (Kangxi: 丰茸草盛貌); plump, good-looking (Kangxi: 容色美好貌); easy, melodious; a round face; Kangxi considers the form with first stroke ㇐ (horizontal) to be standard. Fan Wan entry: Corrected malformed 滿. 【丰】 (phjowng) (_adjective-like_) luxuriant, lush"
 }
 },
 "封":{
@@ -10340,14 +10340,14 @@
 "fung1":{
 "isCanonical":false,
 "williams":"(1)fung",
-"text":"U+5CEF (F1.58 峯) 山之尖頂 (Page 66 峯)"
+"text":"U+5CEF (F1.58 峯) 山之尖頂 (Page 66 #4: 峯)"
 }
 },
 "峰":{
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+5CF0 峯 (F1.58 峯) 山之尖頂 (Page 66 峯; here normalised to 峰) The peak of a mountain (Kangxi 峯: 山耑也); a camel's hump; _fung lun_ (fung1 lyun4 峰巒), ridges and peaks. 【峰】 (phjowng) (_noun-like_) peak, summit"
+"text":"U+5CF0 峯 (F1.58 峯) 山之尖頂 (Page 66 #4: 峯; here normalised to 峰) The peak of a mountain (Kangxi 峯: 山耑也); a camel's hump; _fung lun_ (fung1 lyun4 峰巒), ridges and peaks. 【峰】 (phjowng) (_noun-like_) peak, summit"
 }
 },
 "楓":{
@@ -10373,7 +10373,7 @@
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+70FD 㶻 㷭 (F1.58 烽) 烽火置薪火於高處賊至則焚之以相吿曰烽火 (Page 66 烽) A fire-place erected on hills, in which fires are lighted; _fung in_ (fung1 jin1 烽煙), a beacon-fire. Fan Wan entry: Fixed missing strokes in 賊. Williams' \"A fire-place ...\": Specifically, for the purposes of signalling or warning (Kangxi 㷭: 同烽, 燧表𠋫也邊有警則舉火). 【烽】 (phjowng) (_noun-like_) beacon"
+"text":"U+70FD 㶻 㷭 (F1.58 烽) 烽火置薪火於高處賊至則焚之以相吿曰烽火 (Page 66 #7: 烽) A fire-place erected on hills, in which fires are lighted; _fung in_ (fung1 jin1 烽煙), a beacon-fire. Fan Wan entry: Fixed missing strokes in 賊. Williams' \"A fire-place ...\": Specifically, for the purposes of signalling or warning (Kangxi 㷭: 同烽, 燧表𠋫也邊有警則舉火). 【烽】 (phjowng) (_noun-like_) beacon"
 }
 },
 "瘋":{
@@ -10387,7 +10387,7 @@
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+8451 (F1.58 葑) 葑菲菜名 (Page 66 葑) ~~Vegetables~~ A vegetable resembling mustard, chives (Kangxi: 菜名 etc.); _fung fi_ (fung1 fei2 葑菲), cheap greens; _met._ poor, trifling, worthless. Possibly turnip (Kangxi: 葑蔓菁也). 【葑】 (pjowng) (_noun-like_) turnip"
+"text":"U+8451 (F1.58 葑) 葑菲菜名 (Page 66 #1: 葑) ~~Vegetables~~ A vegetable resembling mustard, chives (Kangxi: 菜名 etc.); _fung fi_ (fung1 fei2 葑菲), cheap greens; _met._ poor, trifling, worthless. Possibly turnip (Kangxi: 葑蔓菁也). 【葑】 (pjowng) (_noun-like_) turnip"
 },
 "fung3":{
 "isCanonical":true,
@@ -10399,49 +10399,49 @@
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+8702 蚌 䗬 蠭 鋒 (for \"swarming\" sense) (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 蜂蠭) Bees, wasps, hornets (Kangxi 蠭: 飛蟲螫人者 etc.); _mat fung_ (mat6 fung1 蜜蜂), a honey bee; _fung tau_ (fung1 dau3 蜂竇) a bee's-nest; _wong fung tau_ (wong4 fung1 dau3 黃蜂竇) a hornet's nest, a villain; _fung ch'au_ (fung1 caau4 蜂巢), a bee-hive; _ma fung_ (maa5 fung1 馬蜂), a ~~horse-fly, a breeze~~ wasp or hornet; _fung cham_ (fung1 zam1 蜂針), a sting. Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭. Williams' 蜂竇, 黃蜂竇: Corrected _tau_ (dau6) to _tau_ (dau3). Swarming. 【蜂】 (phjowng) (_noun-like_) bee, wasp, hornet (_adjective-like_) (_met._) swarming"
+"text":"U+8702 蚌 䗬 蠭 鋒 (for \"swarming\" sense) (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 #5: 蜂蠭) Bees, wasps, hornets (Kangxi 蠭: 飛蟲螫人者 etc.); _mat fung_ (mat6 fung1 蜜蜂), a honey bee; _fung tau_ (fung1 dau3 蜂竇) a bee's-nest; _wong fung tau_ (wong4 fung1 dau3 黃蜂竇) a hornet's nest, a villain; _fung ch'au_ (fung1 caau4 蜂巢), a bee-hive; _ma fung_ (maa5 fung1 馬蜂), a ~~horse-fly, a breeze~~ wasp or hornet; _fung cham_ (fung1 zam1 蜂針), a sting. Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭. Williams' 蜂竇, 黃蜂竇: Corrected _tau_ (dau6) to _tau_ (dau3). Swarming. 【蜂】 (phjowng) (_noun-like_) bee, wasp, hornet (_adjective-like_) (_met._) swarming"
 }
 },
 "蠭":{
 "fung1":{
 "isCanonical":false,
 "williams":"(1)fung",
-"text":"U+882D (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 蜂蠭) Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭."
+"text":"U+882D (F1.58 蜂) 蜜蜂 (F1.58 蠭) 同蜂字 (Page 66 #5: 蜂蠭) Fan Wan entry: Corrected malformed 蜜, and normalised headword 𧔧 to 蠭."
 }
 },
 "豊":{
 "fung1":{
 "isCanonical":false,
 "williams":"(1)fung",
-"text":"U+8C4A (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊) Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上."
+"text":"U+8C4A (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 #2: 豊) Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上."
 }
 },
 "豐":{
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+8C50 豊 丰 (Mainland simplified) (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 豊; here normalised to 豐) ~~A full goblet;~~ abundant, affluent, copious, exuberant (Kangxi 豐: 茂也盛也); rich, fertile, prolific; talented; _fung nin_ (fung1 nin4 豐年), a plenteous year; _fung shing_ (fung1 sing6 豐盛) flourishing, prosperous; _fung shuk_ (fung1 suk6 豐熟) ripe, fully grown; _fung hau_ (fung1 hau5 豐厚) generous (as a feast); _fung tang_ (fung1 dang1 豐登), large supplies (of corn). (Page 715 豐) Is the full form of 豊; the latter (豊) is the least used. Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上. Williams' \"A full goblet\": This is a misreading of Kangxi 豆之豐滿者也. Here, 豐滿者 means \"the full-sized\", while 豆 is a ritual vessel much flatter than a typical goblet. Williams' 豐厚: Normalised _hau_ (hau6) to _hau_ (hau5). A type of ritual vessel (Kangxi: 一曰器名, 似豆而卑). Great (Kangxi: 大也). Ample (Kangxi: 多也, 猶厚也). A surname (Kangxi: 姓). 【豐】 (phjuwng) (_noun-like_) flat-goblet (_adjective-like_) plenteous, ample (_adjective-like_) exuberant"
+"text":"U+8C50 豊 丰 (Mainland simplified) (F1.58 豐) 大也盛也又豐熟 (F1.58 豊) 同上 (Page 66 #2: 豊; here normalised to 豐) ~~A full goblet;~~ abundant, affluent, copious, exuberant (Kangxi 豐: 茂也盛也); rich, fertile, prolific; talented; _fung nin_ (fung1 nin4 豐年), a plenteous year; _fung shing_ (fung1 sing6 豐盛) flourishing, prosperous; _fung shuk_ (fung1 suk6 豐熟) ripe, fully grown; _fung hau_ (fung1 hau5 豐厚) generous (as a feast); _fung tang_ (fung1 dang1 豐登), large supplies (of corn). (Page 715 豐) Is the full form of 豊; the latter (豊) is the least used. Fan Wan entry: Fixed missing dot in 盛, and corrected 土 to 上. Williams' \"A full goblet\": This is a misreading of Kangxi 豆之豐滿者也. Here, 豐滿者 means \"the full-sized\", while 豆 is a ritual vessel much flatter than a typical goblet. Williams' 豐厚: Normalised _hau_ (hau6) to _hau_ (hau5). A type of ritual vessel (Kangxi: 一曰器名, 似豆而卑). Great (Kangxi: 大也). Ample (Kangxi: 多也, 猶厚也). A surname (Kangxi: 姓). 【豐】 (phjuwng) (_noun-like_) flat-goblet (_adjective-like_) plenteous, ample (_adjective-like_) exuberant"
 }
 },
 "酆":{
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+9146 鄷 (F1.58 鄷) 鄷都山又地名 (Page 66 酆) The capital of Wan wang (文王) (Kangxi: 周文王所都), now Hu hien (鄠縣) in Si-ngan fu (西安府) in Shensi (陝西); _fung to_ (fung1 dou1 酆都), a district in Chung chau (中州) in Sz'chuen (四川), where the fire-wells occur, hence used as a name for hell, or Tophet, from the popular belief. Williams' 酆都: Now 豐都. A surname (Kangxi: 姓)."
+"text":"U+9146 鄷 (F1.58 鄷) 鄷都山又地名 (Page 66 #3: 酆) The capital of Wan wang (文王) (Kangxi: 周文王所都), now Hu hien (鄠縣) in Si-ngan fu (西安府) in Shensi (陝西); _fung to_ (fung1 dou1 酆都), a district in Chung chau (中州) in Sz'chuen (四川), where the fire-wells occur, hence used as a name for hell, or Tophet, from the popular belief. Williams' 酆都: Now 豐都. A surname (Kangxi: 姓)."
 }
 },
 "鋒":{
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+92D2 蜂 蠭 鏠 锋 (Mainland simplified) (F1.58 鋒) 刀劍之芒 (Page 66 鋒) The point of a weapon, a sharp pont (Kangxi: 兵耑也 etc.); the vanguard (Kangxi: 軍之前列); bristling; turbulent; ~~to rise up (as spears appear);~~ _kau fung_ (gaau1 fung1 交鋒), to ~~attack~~ engage in battle; _sin fung_ (sin1 fung1 先鋒), the van. Williams' \"to rise up (as spears appear)\": This is a reasonable rendering of Kangxi 《註》如鋒刃齊起而難犯, but that commentary applies to examples with the phrase 鋒起 rather than to 鋒 by itself. Williams' 先鋒: Here, \"van\" is short for \"vanguard\". The cutting edge of a weapon. A meteorological front. Pointed, sharp. 【鋒】 (phjowng) (_noun-like_) weapon-point, (_met._) vanguard, momentum (_adjective-like_) pointed"
+"text":"U+92D2 蜂 蠭 鏠 锋 (Mainland simplified) (F1.58 鋒) 刀劍之芒 (Page 66 #6: 鋒) The point of a weapon, a sharp pont (Kangxi: 兵耑也 etc.); the vanguard (Kangxi: 軍之前列); bristling; turbulent; ~~to rise up (as spears appear);~~ _kau fung_ (gaau1 fung1 交鋒), to ~~attack~~ engage in battle; _sin fung_ (sin1 fung1 先鋒), the van. Williams' \"to rise up (as spears appear)\": This is a reasonable rendering of Kangxi 《註》如鋒刃齊起而難犯, but that commentary applies to examples with the phrase 鋒起 rather than to 鋒 by itself. Williams' 先鋒: Here, \"van\" is short for \"vanguard\". The cutting edge of a weapon. A meteorological front. Pointed, sharp. 【鋒】 (phjowng) (_noun-like_) weapon-point, (_met._) vanguard, momentum (_adjective-like_) pointed"
 }
 },
 "風":{
 "fung1":{
 "isCanonical":true,
 "williams":"(1)fung",
-"text":"U+98A8 丰 (for \"manner/demeanour\" senses) 凬 风 (Mainland simplified) (F1.58 風) 風雨又風化 (Page 65 #6: 風) Breath, spirit, passion; air-gusts, gale, wind (Kangxi: 風以動萬物也 etc.); haste, fleetness; manners, deportment, etiquette; administration, policy; fame, example, fashion (Kangxi: 風俗); instruction, reformation (Kangxi: 敎也, 風是諸侯政敎也); institutes, influence; disposition, temper; to affect by example; heat in animals (Kangxi: 佚也, ...風放也牝牡相誘謂之風...); _tai fung_ (daai6 fung1 大風), a gale, a tyfoon; _fung mang_ (fung1 maang5 風猛), the wind is violent; _shun fung_ (seon6 fung1 順風), a fair wind; _shim shan fung_ (sim2 saan1 fung1 閃山風), a gust; _ngak fung_ (ngaak6 fung1 額風), a head wind; _wang fung_ (waang4 fung1 橫風), a side wind; _fung sheng_ (fung1 seng1 風聲), or _lau fung_ (lau4 fung1 流風), a rumor; _fung tsuk_ (fung1 zuk6 風俗) usage; _fung fa_ (fung1 faa3 風化) influence of example; _man fung_ (man4 fung1 民風), character of a people; _fung ut_ (fung1 jyut6 風月) dissipation; _fung lau_ (fung1 lau4 風流), gaiety, pleasure; _man fung_ (man4 fung1 文風), a literary spirit; _fung shui_ (fung1 seoi2 風水), geomancy; _fung seung_ (fung1 soeng1 風箱), a bellows; _kwai t'au fung_ (gwai2 tau4 fung1 鬼頭風), an adverse wind; _man fung chuk ying_ (man4 fung1 zuk1 jing2 聞風捉影), a newsmonger, an idle talebearer; _kom pai ha fung_ (gam1 baai3 haa6 fung1 甘拜下風), I willingly acknowledge your superiority; _fung ts'ing_ (fung1 cing4 風情) lascivious looks. (Page 66 丰) _seung mong fung i_ (soeng2 mong6 fung1 ji4 想望丰儀), I wish to see your pleasant demeanour and face; _fung ts'oi_ (fung1 coi2 丰采), a graceful carriage. Williams' 大風: In modern usage, it is 颱風 that is a typhoon. Williams' 甘拜下風: Corrected _ha_ (haa3) to _ha_ (haa6). News. Scenery. 放風 (fong3 fung1): \"Release the news.\" 收到風 (sau1 dou3-2 fung1): \"Received news.\" \"Wind\" in Chinese medicine. 傷風 (soeng1 fung1): \"A cold.\" 中風 (zung3 fung1): \"Stroke.\" The 182nd radical (U+2FB5 ⾵ \"wind\"). 【風-level】 (pjuwng) (_noun-like_) wind (_noun-like_) style, manner (_noun-like_) (_met._) air (_noun-like_) (_met._) in heat"
+"text":"U+98A8 丰 (for \"manner/demeanour\" senses) 凬 风 (Mainland simplified) (F1.58 風) 風雨又風化 (Page 65 #6: 風) Breath, spirit, passion; air-gusts, gale, wind (Kangxi: 風以動萬物也 etc.); haste, fleetness; manners, deportment, etiquette; administration, policy; fame, example, fashion (Kangxi: 風俗); instruction, reformation (Kangxi: 敎也, 風是諸侯政敎也); institutes, influence; disposition, temper; to affect by example; heat in animals (Kangxi: 佚也, ...風放也牝牡相誘謂之風...); _tai fung_ (daai6 fung1 大風), a gale, a tyfoon; _fung mang_ (fung1 maang5 風猛), the wind is violent; _shun fung_ (seon6 fung1 順風), a fair wind; _shim shan fung_ (sim2 saan1 fung1 閃山風), a gust; _ngak fung_ (ngaak6 fung1 額風), a head wind; _wang fung_ (waang4 fung1 橫風), a side wind; _fung sheng_ (fung1 seng1 風聲), or _lau fung_ (lau4 fung1 流風), a rumor; _fung tsuk_ (fung1 zuk6 風俗) usage; _fung fa_ (fung1 faa3 風化) influence of example; _man fung_ (man4 fung1 民風), character of a people; _fung ut_ (fung1 jyut6 風月) dissipation; _fung lau_ (fung1 lau4 風流), gaiety, pleasure; _man fung_ (man4 fung1 文風), a literary spirit; _fung shui_ (fung1 seoi2 風水), geomancy; _fung seung_ (fung1 soeng1 風箱), a bellows; _kwai t'au fung_ (gwai2 tau4 fung1 鬼頭風), an adverse wind; _man fung chuk ying_ (man4 fung1 zuk1 jing2 聞風捉影), a newsmonger, an idle talebearer; _kom pai ha fung_ (gam1 baai3 haa6 fung1 甘拜下風), I willingly acknowledge your superiority; _fung ts'ing_ (fung1 cing4 風情) lascivious looks. (Page 66 #8: 丰) _seung mong fung i_ (soeng2 mong6 fung1 ji4 想望丰儀), I wish to see your pleasant demeanour and face; _fung ts'oi_ (fung1 coi2 丰采), a graceful carriage. Williams' 大風: In modern usage, it is 颱風 that is a typhoon. Williams' 甘拜下風: Corrected _ha_ (haa3) to _ha_ (haa6). News. Scenery. 放風 (fong3 fung1): \"Release the news.\" 收到風 (sau1 dou3-2 fung1): \"Received news.\" \"Wind\" in Chinese medicine. 傷風 (soeng1 fung1): \"A cold.\" 中風 (zung3 fung1): \"Stroke.\" The 182nd radical (U+2FB5 ⾵ \"wind\"). 【風-level】 (pjuwng) (_noun-like_) wind (_noun-like_) style, manner (_noun-like_) (_met._) air (_noun-like_) (_met._) in heat"
 },
 "fung3":{
 "isCanonical":true,
@@ -10453,19 +10453,19 @@
 "fung2":{
 "isCanonical":false,
 "williams":"(2)fung",
-"text":"U+4FF8 (F1.61 俸) 俸祿 (Page 66 俸) Fan Wan entry: Fixed incomplete strokes in 祿."
+"text":"U+4FF8 (F1.61 俸) 俸祿 (Page 66 #12: 俸) Fan Wan entry: Fixed incomplete strokes in 祿."
 },
 "fung6":{
 "isCanonical":true,
 "williams":"fung(6)",
-"text":"U+4FF8 奉 fung6-2 (vernacular rising-tone noun) (F1.61 俸 _Fung_ (fung2)) 俸祿 (Page 66 俸 _Fung_ (fung2)) Salary, emoluments (Kangxi: 秩祿也, 亦作奉); wages, stipend, pay, rations, allowance; _fung luk_ (fung6-2 luk6 俸祿) an officer's salary; _fung sau_ (fung6-2 sau1 俸修), government allowances; _tai fung kwai t'in_ (daai3 fung6-2 gwai1 tin4 帶俸歸田), to retire from an office on its salary; _fung mai_ (fung6-2 mai5 俸米), soldiers' rations. Fan Wan entry: Fixed incomplete strokes in 祿. Williams' 帶俸歸田: Inferred incompletely printed letters _i_ in _tai_, \"o\" in \"from\", and \"c\" in \"office\". Williams' 俸米: Also the grain allowance for non-military officials. 【俸】 (bjowngH) (_noun-like_) emolument"
+"text":"U+4FF8 奉 fung6-2 (vernacular rising-tone noun) (F1.61 俸 _Fung_ (fung2)) 俸祿 (Page 66 #12: 俸 _Fung_ (fung2)) Salary, emoluments (Kangxi: 秩祿也, 亦作奉); wages, stipend, pay, rations, allowance; _fung luk_ (fung6-2 luk6 俸祿) an officer's salary; _fung sau_ (fung6-2 sau1 俸修), government allowances; _tai fung kwai t'in_ (daai3 fung6-2 gwai1 tin4 帶俸歸田), to retire from an office on its salary; _fung mai_ (fung6-2 mai5 俸米), soldiers' rations. Fan Wan entry: Fixed incomplete strokes in 祿. Williams' 帶俸歸田: Inferred incompletely printed letters _i_ in _tai_, \"o\" in \"from\", and \"c\" in \"office\". Williams' 俸米: Also the grain allowance for non-military officials. 【俸】 (bjowngH) (_noun-like_) emolument"
 }
 },
 "捧":{
 "fung2":{
 "isCanonical":false,
 "williams":"(2)fung",
-"text":"U+6367 (F1.61 捧) 兩手持物也 (Page 66 捧)"
+"text":"U+6367 (F1.61 捧) 兩手持物也 (Page 66 #13: 捧)"
 }
 },
 "覂":{
@@ -10486,7 +10486,7 @@
 "fung4":{
 "isCanonical":true,
 "williams":"(4)fung",
-"text":"U+7E2B 綘 缝 (Mainland simplified) fung4-2 (vernacular rising-tone noun in 裁縫) fung6 (per 《廣韻》扶用切 for noun senses) (F1.59 縫) 裁縫彌縫 (Page 66 縫) To sew, to stitch (Kangxi: 以鍼紩衣也); a seam (Kangxi: 衣縫也), a cleft; _fung i_ (fung4 ji1 縫衣), to sew clothes; _fung san_ (fung4 san1 縫新), to make new clothes; _fung hau_ (fung4 hau2 縫口), a seam; _fung mai_ (fung4 maai4 縫埋), to sew together. Fan Wan entry: Fixed incomplete strokes in 彌. A gap. 牙縫刷 (ngaa4 fung4 caat3-2): \"Interdental brush.\" 【縫-level】 (bjowng) (_verb-like_) to sew, (_met._) to mend 【縫-departing】 (bjowngH) (_noun-like_) seam"
+"text":"U+7E2B 綘 缝 (Mainland simplified) fung4-2 (vernacular rising-tone noun in 裁縫) fung6 (per 《廣韻》扶用切 for noun senses) (F1.59 縫) 裁縫彌縫 (Page 66 #10: 縫) To sew, to stitch (Kangxi: 以鍼紩衣也); a seam (Kangxi: 衣縫也), a cleft; _fung i_ (fung4 ji1 縫衣), to sew clothes; _fung san_ (fung4 san1 縫新), to make new clothes; _fung hau_ (fung4 hau2 縫口), a seam; _fung mai_ (fung4 maai4 縫埋), to sew together. Fan Wan entry: Fixed incomplete strokes in 彌. A gap. 牙縫刷 (ngaa4 fung4 caat3-2): \"Interdental brush.\" 【縫-level】 (bjowng) (_verb-like_) to sew, (_met._) to mend 【縫-departing】 (bjowngH) (_noun-like_) seam"
 },
 "fung6":{
 "isCanonical":false,
@@ -10498,14 +10498,14 @@
 "fung4":{
 "isCanonical":true,
 "williams":"(4)fung",
-"text":"U+9022 (F1.59 逢) 遇也迎也 (Page 66 逢) To meet undesignedly (Kangxi: 遇也, 値也); to meet with; to run against, to occur; great, wide (Kangxi: 大也); _nan fung_ (naan4 fung4 難逢), difficulty in seeing (as a friend); _fung ying_ (fung4 jing4 逢迎), to go out to meet; _seung fung_ (soeng1 fung4 相逢), two persons meeting; _fung yan pin shut sam fan wa_ (fung4 jan4 bin6 syut3 saam1 fan1 waa6 逢人便說三分話) speak only a little to strangers; _fung cheuk_ (fung4 zoek6 逢着) to meet one. Williams' 逢迎: Figuratively, to pander to. Williams' 逢着: Corrected _cheuk_ (zoek3) to _cheuk_ (zoek6). Every, for all, whenever. To pander to. 【逢-meet】 (bjowng) (_verb-like_) to encounter, to meet (with) (_verb-like_) (_met._) to pander unto (_adjective-like_) large"
+"text":"U+9022 (F1.59 逢) 遇也迎也 (Page 66 #9: 逢) To meet undesignedly (Kangxi: 遇也, 値也); to meet with; to run against, to occur; great, wide (Kangxi: 大也); _nan fung_ (naan4 fung4 難逢), difficulty in seeing (as a friend); _fung ying_ (fung4 jing4 逢迎), to go out to meet; _seung fung_ (soeng1 fung4 相逢), two persons meeting; _fung yan pin shut sam fan wa_ (fung4 jan4 bin6 syut3 saam1 fan1 waa6 逢人便說三分話) speak only a little to strangers; _fung cheuk_ (fung4 zoek6 逢着) to meet one. Williams' 逢迎: Figuratively, to pander to. Williams' 逢着: Corrected _cheuk_ (zoek3) to _cheuk_ (zoek6). Every, for all, whenever. To pander to. 【逢-meet】 (bjowng) (_verb-like_) to encounter, to meet (with) (_verb-like_) (_met._) to pander unto (_adjective-like_) large"
 }
 },
 "馮":{
 "fung4":{
 "isCanonical":true,
 "williams":"(4)fung",
-"text":"U+99AE 冯 (Mainland simplified) fung4-2 (vernacular rising-tone for endearment) (F1.59 馮) 姓又音朋 (Page 66 馮) a surname (Kangxi: 姓也)."
+"text":"U+99AE 冯 (Mainland simplified) fung4-2 (vernacular rising-tone for endearment) (F1.59 馮) 姓又音朋 (Page 66 #11: 馮) a surname (Kangxi: 姓也)."
 }
 },
 "奉":{
