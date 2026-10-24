@@ -15162,6 +15162,72 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~597
+    ,{#page-597-entry-1} #1
+    ,{.williams} 醉(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $醉zeoi3
+      ==
+      </nav>
+  //
+    ,{#page-597-entry-2} #2
+    ,{.williams} 最(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $最zeoi3
+      ==
+      </nav>
+  //
+    ,{#page-597-entry-3} #3
+    ,{.williams} (4)隨
+    ,
+      <nav class="sideways">
+      ==
+      - ${𡃴=⿰口隨}ceoi4
+      - $隨ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-597-entry-4} #4
+    ,{.williams} (4)隋
+    ,
+      <nav class="sideways">
+      ==
+      - $隋ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-597-entry-5} #5
+    ,{.williams} 翠(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $翠ceoi3
+      ==
+      </nav>
+  //
+    ,{#page-597-entry-6} #6
+    ,{.williams} 毳(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $毳ceoi3
+      ==
+      </nav>
+  //
+    ,{#page-597-entry-7} #7
+    ,{.williams} 脃(3)脆(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($脃ceoi3)
+      - $脆ceoi3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

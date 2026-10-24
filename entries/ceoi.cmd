@@ -958,7 +958,7 @@ F
   ==
 W
   ====
-  - [[Page~597 毳(3)]]
+  - [[Page~597 #6: 毳(3)]]
     ==
     - The down on birds, the fine undergrowth of hair on animals [[Kangxi: 獸細毛也]];
     - ~~birds molting;~~
@@ -1003,7 +1003,7 @@ F
   ==
 W
   ====
-  - [[Page~597 翠(3)]]
+  - [[Page~597 #5: 翠(3)]]
     ==
     - The female of a kingfisher, whose feathers are used in plumagery [[Kangxi: 靑羽雀也, 雄曰翡雌曰翠]];
     - _ts(')ui(3) ki(u/)(6)_
@@ -1044,7 +1044,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~597 脃(3)脆(3)]]
+  - [[Page~597 #7: 脃(3)脆(3)]]
     --
     [[Alternative form of 脆. **See $脆ceoi3 for the canonical entry.**]]
     --
@@ -1072,7 +1072,7 @@ F
   ==
 W
   ====
-  - [[Page~597 脃(3)脆(3)]]
+  - [[Page~597 #7: 脃(3)脆(3)]]
     ==
     - Delicate, easily broken [[Kangxi 脃: 小耎易斷也]];
     - brittle, crackling;
@@ -1354,7 +1354,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~597 (4)隨; here normalised to {𡃴=⿰口隨}]]
+  - [[Page~597 #3: (4)隨; here normalised to {𡃴=⿰口隨}]]
     --
     [[...]]
     --
@@ -2038,7 +2038,7 @@ F
   ==
 W
   ====
-  - [[Page~597 (4)隋]]
+  - [[Page~597 #4: (4)隋]]
     ==
     - A dynasty, which ruled from A.~D.~^~~590~~~``581``--~~620~~~``619``,
       preceding the T(')(a/)ng [[唐]] dynasty.
@@ -2063,7 +2063,7 @@ F
   ==
 W
   ====
-  - [[Page~597 (4)隨]]
+  - [[Page~597 #3: (4)隨]]
     ==
     - To follow, to accord with, to yield, to comply obediently [[Kangxi: 從也順也]];
     - to permit, to let;

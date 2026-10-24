@@ -1170,7 +1170,7 @@ F
   ==
 W
   ====
-  - [[Page~597 最(3)]]
+  - [[Page~597 #2: 最(3)]]
     ==
     - To come together, to assemble [[Kangxi: 聚也]];
     - an adjective denoting the most important, the highest degree of [[Kangxi: 極也, 最爲第一]];
@@ -1398,7 +1398,7 @@ F
   ==
 W
   ====
-  - [[Page~597 醉(3)]]
+  - [[Page~597 #1: 醉(3)]]
     ==
     - Exhilirated with drink [[Kangxi: 爲酒所酣曰醉]];
     - intoxicated, fuddled, drunken;
