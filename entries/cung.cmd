@@ -1350,7 +1350,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)叢]]
+  - [[Page~609 #3: (4)叢]]
     ==
     - A thicket, a bushy place;
     - crowded, as trees;
@@ -1538,7 +1538,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (1)松]]
+  - [[Page~609 #1: (1)松]]
     ==
     - The fir tree [[Kangxi: 木也 etc.]];
     - an emblem of longevity;
@@ -1637,7 +1637,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)淞]]
+  - [[Page~609 #2: (4)淞]]
     --
     [[Reading variation. **See $淞sung1 for the canonical entry.**]] [[TODO]]
     --
@@ -1669,7 +1669,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)潨; here normalised to 潀]]
+  - [[Page~609 #4: (4)潨; here normalised to 潀]]
     ==
     - Smaller streams flowing into the main river [[Kangxi 潨: 小水入大水曰潨]];
     - ~~tributaries;~~
@@ -1702,7 +1702,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (4)潨]]
+  - [[Page~609 #4: (4)潨]]
     --
     [[Alternative form of 潀. **See $潀cung4 for the canonical entry.**]]
     --

@@ -899,7 +899,7 @@ F
   ==
 W
   ====
-  - [[Page~609 啐(8) _Ts(u:)t(8)_ (zyut3); here corrected to _Ts(')(u/)i(3)_ (ceoi3)]]
+  - [[Page~609 #7: 啐(8) _Ts(u:)t(8)_ (zyut3); here corrected to _Ts(')(u/)i(3)_ (ceoi3)]]
     ==
     - To taste [[Kangxi: 嘗也, 嘗入口]]~~, to craunch~~;
     - [[...]].

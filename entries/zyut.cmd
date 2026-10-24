@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~609 啐(8)]]
+  - [[Page~609 #7: 啐(8)]]
     ==
     - [[...]];
     - [[...]], the noise of sucking [[Kangxi: 吮聲]]~~, or swallowing with a gusto~~;
@@ -193,7 +193,7 @@ W
     --
     [[Otherwise, an alternative form of 歠. **See $歠zyut3 for the canonical entry.**]]
     --
-  - [[Page~609 啐(8) _Ts(u:)t(8)_; here normalised to 啜]]
+  - [[Page~609 #7: 啐(8) _Ts(u:)t(8)_; here normalised to 啜]]
     ==
     - [[...]];
     - to suck, [[...]];
@@ -760,7 +760,7 @@ F
   ==
 W
   ====
-  - [[Page~609 絕(9)]]
+  - [[Page~609 #8: 絕(9)]]
     ==
     - To interrupt a connection with, to cut off a thread [[Kangxi: 斷絲]];
     - to interrupt;

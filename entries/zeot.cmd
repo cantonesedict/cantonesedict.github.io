@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~609 卒(7)]]
+  - [[Page~609 #5: 卒(7)]]
     ==
     - Those who execute orders [[Kangxi: 隸人給事者]];
     - lictors, soldiers, underlings, menials;
