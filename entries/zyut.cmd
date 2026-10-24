@@ -484,7 +484,7 @@ W
         unequal;
     - [[...]].
     ==
-  - [[Page~713 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+  - [[Page~713 #4: 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - This word also means ~~obstructed,~~ bent;
     - withdrawn~~, as money from circulation~~;

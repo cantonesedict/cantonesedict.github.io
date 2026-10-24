@@ -1196,7 +1196,7 @@ W
         [[jan4 cung2 仁寵]],
         loving-kindness.
     ==
-  - [[Page~713 (2){𠖥=⿱冖龍}(2)寵]]
+  - [[Page~713 #2: (2){𠖥=⿱冖龍}(2)寵]]
     --
     The second form [[寵]] of this character is the most correct.
     --
@@ -1245,7 +1245,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~713 㧤(3)]]
+  - [[Page~713 #3: 㧤(3)]]
     ==
     - To leap, to jump [[Kangxi: 跳也]].
     ==

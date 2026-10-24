@@ -232,7 +232,7 @@ W
     --
     [[Otherwise, an alternative form of 黜. **See $黜zeot1 for the canonical entry.**]]
     --
-  - [[Page~713 絀(7)]]
+  - [[Page~713 #4: 絀(7)]]
     --
     [[...]]
     --

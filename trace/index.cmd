@@ -17085,6 +17085,106 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~713
+    ,{#page-713-entry-1} #1
+    ,{.williams} 隻(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $隻zek3, ($隻zik3)
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-2} #2
+    ,{.williams} (2){𠖥=⿱冖龍}(2)寵
+    ,
+      <nav class="sideways">
+      ==
+      - $寵cung2
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-3} #3
+    ,{.williams} 㧤(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $㧤cung3
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-4} #4
+    ,{.williams} 絀(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($絀zeot1), $絀zyut3
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-5} #5
+    ,{.williams} (1){𫫃=⿰口挨}
+    ,
+      <nav class="sideways">
+      ==
+      - ${𫫃=⿰口挨}e1
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-6} #6
+    ,{.williams} 疿(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $疿fai3
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-7} #7
+    ,{.williams} ^_F(a/)k(8)_
+    ,
+      <nav class="sideways">
+      ==
+      - ${𢫦=⿰扌百}faak3
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-8} #8
+    ,{.williams} (1)纁
+    ,
+      <nav class="sideways">
+      ==
+      - $纁fan1
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-9} #9
+    ,{.williams} (2)粉
+    ,
+      <nav class="sideways">
+      ==
+      - $粉fan2
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-10} #10
+    ,{.williams} (2)份
+    ,
+      <nav class="sideways">
+      ==
+      - ($份fan2), $份fan6
+      ==
+      </nav>
+  //
+    ,{#page-713-entry-11} #11
+    ,{.williams} (5)憤
+    ,
+      <nav class="sideways">
+      ==
+      - $憤fan5
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

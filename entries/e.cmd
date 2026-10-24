@@ -76,7 +76,7 @@ W
         [[si3 jat1 si3 e1 試一試{𫫃=⿰口挨}]],
         try, will you?
     ==
-  - [[Page~713 (1){𫫃=⿰口挨}]]
+  - [[Page~713 #5: (1){𫫃=⿰口挨}]]
     ==
     - A tone, a whine;
     - _(1)(e/) (1)(e/) (1)sheng_

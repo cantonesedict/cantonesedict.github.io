@@ -829,7 +829,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~713 疿(3)]]
+  - [[Page~713 #6: 疿(3)]]
     ==
     - Pimples, small boils~~;~~``,`` sores from heat [[Kangxi: 熱生小瘡 etc.]];
     - _(i/)t(9) fai(3)_ [[jit6 fai3-2 熱疿]]

@@ -607,7 +607,7 @@ W
         [[giu3 zek3 teng5 叫隻艇]],
         call a boat.
     ==
-  - [[Page~713 隻(8) _Chik(8)_ (zik3); here normalised to _Chek(8)_ (zek3)]]
+  - [[Page~713 #1: 隻(8) _Chik(8)_ (zik3); here normalised to _Chek(8)_ (zek3)]]
     ==
     - This character is constantly contracted to 只 in Canton.
     ==

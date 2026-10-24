@@ -1073,7 +1073,7 @@ F
   ==
 W
   ====
-  - [[Page~713 (1)纁]]
+  - [[Page~713 #8: (1)纁]]
     ==
     - A light red [[Kangxi: 淺絳也]], produced by a trine immersion in the dye [[Kangxi: 三染謂之纁]];
     - a scarlet tint.
@@ -1485,7 +1485,7 @@ W
     --
     [[Reading variation (vernacular rising-tone noun). **See $份fan6 for the canonical entry.**]]
     --
-  - [[Page~713 (2)份]]
+  - [[Page~713 #10: (2)份]]
     --
     [[...]]
     --
@@ -1559,7 +1559,7 @@ W
         [[jyun4 fan2 鉛粉]],
         white lead.
     ==
-  - [[Page~713 (2)粉]]
+  - [[Page~713 #9: (2)粉]]
     ==
     - The white pus of sores;
     - _(2)fan (4)lau_
@@ -2556,7 +2556,7 @@ W
       ``_(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]]``
         wrought up by passion.
     ==
-  - [[Page~713 (5)憤]]
+  - [[Page~713 #11: (5)憤]]
     ==
     - Under this character, for _(5)fan k(i/)t(8)_ [[fan5 git3]]
       read _(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]].
@@ -2753,7 +2753,7 @@ W
     --
     A vulgar character.
     --
-  - [[Page~713 (2)份]]
+  - [[Page~713 #10: (2)份]]
     --
     [[...]] <## TODO: $份ban1 ##>
     --

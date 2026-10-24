@@ -399,7 +399,7 @@
 "e1":{
 "isCanonical":true,
 "williams":"(1)(e/)",
-"text":"U+2BAC3 nge1 (alternative for onomatopoeic whine sense) (Page 42 #9: 𫫃) A final particle, denoting are you willing, if you please, is it not so? _Ngo kau ni tuk e_ (ngo5 gaau3 nei5 duk6 e1 我教你讀𫫃), shall I teach you to read? _shi yat shi e_ (si3 jat1 si3 e1 試一試𫫃), try, will you? (Page 713 𫫃) A tone, a whine; _e e sheng_ (e1 e1 seng1 𫫃𫫃聲), the whining moan of a sick child. Also pronounced _nge_ (nge1)."
+"text":"U+2BAC3 nge1 (alternative for onomatopoeic whine sense) (Page 42 #9: 𫫃) A final particle, denoting are you willing, if you please, is it not so? _Ngo kau ni tuk e_ (ngo5 gaau3 nei5 duk6 e1 我教你讀𫫃), shall I teach you to read? _shi yat shi e_ (si3 jat1 si3 e1 試一試𫫃), try, will you? (Page 713 #5: 𫫃) A tone, a whine; _e e sheng_ (e1 e1 seng1 𫫃𫫃聲), the whining moan of a sick child. Also pronounced _nge_ (nge1)."
 },
 "nge4":{
 "isCanonical":true,
@@ -3557,12 +3557,12 @@
 "zeot1":{
 "isCanonical":false,
 "williams":"chut(7)",
-"text":"U+7D40 (F2.55 黜) 諄入聲貶斥也 (F2.55 絀) 同上 (Page 41 #12: 絀) (Page 713 絀)"
+"text":"U+7D40 (F2.55 黜) 諄入聲貶斥也 (F2.55 絀) 同上 (Page 41 #12: 絀) (Page 713 #4: 絀)"
 },
 "zyut3":{
 "isCanonical":true,
 "williams":"ch(u:)t(8)",
-"text":"U+7D40 绌 (Mainland simplified) fat1 (per 《正韻牋》曲勿切 for \"bent/withdrawn\" sense) zeot1 (per 《廣韻》竹律切) (F1.86 絀 _Fat_ (fat1)) 嬴絀猶屈伸也 (Page 41 #12: 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) Crimson (Kangxi: 絳也) silk; to sew (Kangxi: 紩也); ~~to baste or sew badly;~~ _ying chut_ (jing4 zyut3 嬴絀) to retire and come forth (Kangxi: 猶言屈伸也); unequal; (Page 713 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) This word also means ~~obstructed,~~ bent; withdrawn~~, as money from circulation~~; _ts'oi yung chi chut_ (coi4 jung6 zi1 zyut3 財用之絀) ~~obstructions in the way of trade~~ insufficiency of funds. Williams' \"to baste or sew badly\": This is a misreading of Kangxi ...故作秫絀耳此蓋言其女工箴縷之麤拙也. Here, it is 秫 that supplies the meaning of \"poor\". The character 絀 simply means \"sew\" or \"stitch\". Insufficient."
+"text":"U+7D40 绌 (Mainland simplified) fat1 (per 《正韻牋》曲勿切 for \"bent/withdrawn\" sense) zeot1 (per 《廣韻》竹律切) (F1.86 絀 _Fat_ (fat1)) 嬴絀猶屈伸也 (Page 41 #12: 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) Crimson (Kangxi: 絳也) silk; to sew (Kangxi: 紩也); ~~to baste or sew badly;~~ _ying chut_ (jing4 zyut3 嬴絀) to retire and come forth (Kangxi: 猶言屈伸也); unequal; (Page 713 #4: 絀 _Chut_ (zeot1); here normalised to _Chut_ (zyut3)) This word also means ~~obstructed,~~ bent; withdrawn~~, as money from circulation~~; _ts'oi yung chi chut_ (coi4 jung6 zi1 zyut3 財用之絀) ~~obstructions in the way of trade~~ insufficiency of funds. Williams' \"to baste or sew badly\": This is a misreading of Kangxi ...故作秫絀耳此蓋言其女工箴縷之麤拙也. Here, it is 秫 that supplies the meaning of \"poor\". The character 絀 simply means \"sew\" or \"stitch\". Insufficient."
 }
 },
 "黜":{
@@ -6661,14 +6661,14 @@
 "cung2":{
 "isCanonical":true,
 "williams":"(2)ch(')ung",
-"text":"U+5BF5 𠖥 龍 宠 (Mainland simplified) (F1.61 寵) 愛也恩也尊榮也寵 (Page 41 #9: 𠖥; here normalised to 寵) Grace, kindness, affection (Kangxi 寵: 一曰愛也恩也), regard, friendship; favor of superiors; to esteem (Kangxi 寵: 尊榮也); to indulge to allow; _ch'ung oi_ (cung2 oi3 寵愛) delight in; _ch'ung fi_ (cung2 fei1 寵妃), a favorite concubine; _ch'ung sik_ (cung2 sik1 寵錫) a special favor of the king; _yan ch'ung_ (jan4 cung2 仁寵), loving-kindness. (Page 713 𠖥寵) The second form (寵) of this character is the most correct. _Ling ch'ung_ (ling6 cung2 令寵), your concubine; _tak ch'ung_ (dak1 cung2 得寵), to win a hushand's love. 【寵】 (trhjowngX) (_verb-like_) to favour, to adore"
+"text":"U+5BF5 𠖥 龍 宠 (Mainland simplified) (F1.61 寵) 愛也恩也尊榮也寵 (Page 41 #9: 𠖥; here normalised to 寵) Grace, kindness, affection (Kangxi 寵: 一曰愛也恩也), regard, friendship; favor of superiors; to esteem (Kangxi 寵: 尊榮也); to indulge to allow; _ch'ung oi_ (cung2 oi3 寵愛) delight in; _ch'ung fi_ (cung2 fei1 寵妃), a favorite concubine; _ch'ung sik_ (cung2 sik1 寵錫) a special favor of the king; _yan ch'ung_ (jan4 cung2 仁寵), loving-kindness. (Page 713 #2: 𠖥寵) The second form (寵) of this character is the most correct. _Ling ch'ung_ (ling6 cung2 令寵), your concubine; _tak ch'ung_ (dak1 cung2 得寵), to win a hushand's love. 【寵】 (trhjowngX) (_verb-like_) to favour, to adore"
 }
 },
 "㧤":{
 "cung3":{
 "isCanonical":true,
 "williams":"ch(')ung(3)",
-"text":"U+39E4 May appear with 𠫓 having 3 strokes (+5) or 4 strokes (+6 assumed here), depending on the font. (Page 713 㧤) To leap, to jump (Kangxi: 跳也). A colloquial word. At once, altogether; to push, to hit; _ch'ung ts'an_ (cung3 can1 㧤嚫), to run upon, to thump against; _yat ch'ung sam tau yau_ (jat1 cung3 saam1 dau2 jau4 一㧤三斗油), I don't know why he is all at once so very angry."
+"text":"U+39E4 May appear with 𠫓 having 3 strokes (+5) or 4 strokes (+6 assumed here), depending on the font. (Page 713 #3: 㧤) To leap, to jump (Kangxi: 跳也). A colloquial word. At once, altogether; to push, to hit; _ch'ung ts'an_ (cung3 can1 㧤嚫), to run upon, to thump against; _yat ch'ung sam tau yau_ (jat1 cung3 saam1 dau2 jau4 一㧤三斗油), I don't know why he is all at once so very angry."
 }
 },
 "銃":{
@@ -7398,7 +7398,7 @@
 "faak3":{
 "isCanonical":true,
 "williams":"f(a/)k(8)",
-"text":"U+22AE6 𢪎 (Cantonese) (Page 713 _Fak_ (faak3) implied; here assigned to 𢫦) A colloquial word. To whip; to beat with a flat board; to beat up, as eggs or jelly; _fak kon tseng_ (faak3 gon1 zeng6 𢫦乾淨) thrash it clean, as a carpet; _fak t'ung_ (faak3 tung2 𢫦桶), the tub into which grain is thrashed. 【𢫦】 (faak3) To whip, to swing abruptly, to flap violently. 𢫦甩啲塵 (faak3 lat1 di1 can4): \"Flap off the dust.\" To whisk. 𢫦蛋 (faak3 daan6-2): \"Whisk eggs.\" The spelling 𢫦 is arbitrary. The alternative spelling 𢪎 has poorer font support."
+"text":"U+22AE6 𢪎 (Cantonese) (Page 713 #7: _Fak_ (faak3) implied; here assigned to 𢫦) A colloquial word. To whip; to beat with a flat board; to beat up, as eggs or jelly; _fak kon tseng_ (faak3 gon1 zeng6 𢫦乾淨) thrash it clean, as a carpet; _fak t'ung_ (faak3 tung2 𢫦桶), the tub into which grain is thrashed. 【𢫦】 (faak3) To whip, to swing abruptly, to flap violently. 𢫦甩啲塵 (faak3 lat1 di1 can4): \"Flap off the dust.\" To whisk. 𢫦蛋 (faak3 daan6-2): \"Whisk eggs.\" The spelling 𢫦 is arbitrary. The alternative spelling 𢪎 has poorer font support."
 }
 },
 "反":{
@@ -7865,7 +7865,7 @@
 "fai3":{
 "isCanonical":true,
 "williams":"fai(3)",
-"text":"U+75BF 痱 fai3-2 (vernacular rising-tone noun) fai6 (per 《廣韻》扶沸切 for 痱) (Page 713 疿) Pimples, small boils~~;~~, sores from heat (Kangxi: 熱生小瘡 etc.); _it fai_ (jit6 fai3-2 熱疿) or _fai tsz'_ (fai3-2 zi2 疿子) prickly heat. The original departing reading fai3 is almost never heard, having been supplanted by vernacular rising fai3-2 in all senses. In modern usage, the spelling 痱 is much more common. However, this appears to be a merger of two apparently distinct (but synonymous) words in Middle Chinese: 疿, read 方味切 _fai_ (fai3), explained 熱生小瘡; and 痱, read 扶沸切 _fai_ (fai6), explained 熱瘡. In Cantonese, the distinction is hidden by the vernacular rising tone. In Mandarin, there is no distinction between 陰去 and 陽去 (both become fei). Of the two characters, 疿 is the older, as attested in 《黃帝素問》汗出見濕乃生痤疿. Whilst it is 痱 that appears in 《說文》, it is for the different sense of \"stroke/paralysis\", to be read 符非切 _fi_ (fei4). See 痱 fei4. Williams' \"small boils\": Corrected the following semicolon to a comma. There is only one sense to be defined here (i.e. the pimples and small boils are also from heat, not standalone). 【疿】 (pj+jH) (_noun-like_) heat-rash 【熱痱】 (jit6 fai3-2) Miliaria, heat rash."
+"text":"U+75BF 痱 fai3-2 (vernacular rising-tone noun) fai6 (per 《廣韻》扶沸切 for 痱) (Page 713 #6: 疿) Pimples, small boils~~;~~, sores from heat (Kangxi: 熱生小瘡 etc.); _it fai_ (jit6 fai3-2 熱疿) or _fai tsz'_ (fai3-2 zi2 疿子) prickly heat. The original departing reading fai3 is almost never heard, having been supplanted by vernacular rising fai3-2 in all senses. In modern usage, the spelling 痱 is much more common. However, this appears to be a merger of two apparently distinct (but synonymous) words in Middle Chinese: 疿, read 方味切 _fai_ (fai3), explained 熱生小瘡; and 痱, read 扶沸切 _fai_ (fai6), explained 熱瘡. In Cantonese, the distinction is hidden by the vernacular rising tone. In Mandarin, there is no distinction between 陰去 and 陽去 (both become fei). Of the two characters, 疿 is the older, as attested in 《黃帝素問》汗出見濕乃生痤疿. Whilst it is 痱 that appears in 《說文》, it is for the different sense of \"stroke/paralysis\", to be read 符非切 _fi_ (fei4). See 痱 fei4. Williams' \"small boils\": Corrected the following semicolon to a comma. There is only one sense to be defined here (i.e. the pimples and small boils are also from heat, not standalone). 【疿】 (pj+jH) (_noun-like_) heat-rash 【熱痱】 (jit6 fai3-2) Miliaria, heat rash."
 }
 },
 "痱":{
@@ -8205,7 +8205,7 @@
 "fan1":{
 "isCanonical":true,
 "williams":"(1)fan",
-"text":"U+7E81 𫄸 (Mainland simplified) (F1.80 纁) 淡紅色也 (Page 713 纁) A light red (Kangxi: 淺絳也), produced by a trine immersion in the dye (Kangxi: 三染謂之纁); a scarlet tint. 【纁】 (xjun) (_adjective-like_) light-red, pink"
+"text":"U+7E81 𫄸 (Mainland simplified) (F1.80 纁) 淡紅色也 (Page 713 #8: 纁) A light red (Kangxi: 淺絳也), produced by a trine immersion in the dye (Kangxi: 三染謂之纁); a scarlet tint. 【纁】 (xjun) (_adjective-like_) light-red, pink"
 }
 },
 "芬":{
@@ -8275,19 +8275,19 @@
 "fan2":{
 "isCanonical":false,
 "williams":"(2)fan",
-"text":"U+4EFD (Page 46 #15: 份) (Page 713 份)"
+"text":"U+4EFD (Page 46 #15: 份) (Page 713 #10: 份)"
 },
 "fan6":{
 "isCanonical":true,
 "williams":"fan(6)",
-"text":"U+4EFD 分 fan6-2 (vernacular rising-tone noun for \"share/part\" senses) (Page 46 #15: 份) A portion, a dividend, a share; _fan fan_ (fan1 fan6-2 分份), to divide the profits; _mai fan_ (maai4 fan6-2 埋份), to put in shares; _fan tsz'_ (fan6-2 zi2 份子) a share. A vulgar character. (Page 713 份) (...) The proper sound in colloquial is _fan_ (fan6), though sometimes read _fan_ (fan6-2). It is the same word as 分 (fan6) when used as a noun. Classifier for documents. Classifier for gifts. Classifier for jobs. Suffixed after 年, 月, 省, etc. to indicate an interval (in time) or division (in space). 【份】 (fan6-2) A part, a partaking. 有份出席 (jau5 fan6-2 ceot1 zik6): \"Have a part in attending.\" 冇佢份 (mou5 keoi5 fan6-2): \"There's no part for him\" (i.e. he is excluded). 【兩份】 (loeng5 fan6-2) Shared between two. 兩份飲 (loeng5 fan6-2 jam2): \"Drink it between the two of us.\""
+"text":"U+4EFD 分 fan6-2 (vernacular rising-tone noun for \"share/part\" senses) (Page 46 #15: 份) A portion, a dividend, a share; _fan fan_ (fan1 fan6-2 分份), to divide the profits; _mai fan_ (maai4 fan6-2 埋份), to put in shares; _fan tsz'_ (fan6-2 zi2 份子) a share. A vulgar character. (Page 713 #10: 份) (...) The proper sound in colloquial is _fan_ (fan6), though sometimes read _fan_ (fan6-2). It is the same word as 分 (fan6) when used as a noun. Classifier for documents. Classifier for gifts. Classifier for jobs. Suffixed after 年, 月, 省, etc. to indicate an interval (in time) or division (in space). 【份】 (fan6-2) A part, a partaking. 有份出席 (jau5 fan6-2 ceot1 zik6): \"Have a part in attending.\" 冇佢份 (mou5 keoi5 fan6-2): \"There's no part for him\" (i.e. he is excluded). 【兩份】 (loeng5 fan6-2) Shared between two. 兩份飲 (loeng5 fan6-2 jam2): \"Drink it between the two of us.\""
 }
 },
 "粉":{
 "fan2":{
 "isCanonical":true,
 "williams":"(2)fan",
-"text":"U+7C89 fan3 (per 《集韻》方問切 for \"apply\" sense) (F1.83 粉) 米末也又粉飾 (Page 46 #16: 粉) Rice broken to pieces (Kangxi: 米粉, 分也硏米使分散也); a flour of any grain (Kangxi: 豆屑也); pigment, to adorn (Kangxi: 傅也飾也); to whitewash or color (Kangxi: 設采潤色謂之粉澤 etc.); _mai fan_ (mai5 fan2 米粉) rice flour; rice vermicelli; _suk mai fan_ (suk1 mai5 fan2 粟米粉), indian-meal; _fan sz'_ (fan2 si1 粉絲) or _fan tsai_ (fan2 zai2 粉仔), vermicelli; _min fan_ (min6 fan2 面粉), a cosmetic; _fan tseung_ (fan2 zoeng1 粉漿), starch; _fan toi_ (fan2 doi6-2 粉袋) a tailor's chalk-bag; _leung fan_ (loeng4 fan2 涼粉), a sort of jelly; _fan sui_ (fan2 seoi3 粉碎) smashed to shivers; _fan shik t'ai p'ing_ (fan2 sik1 taai3 ping4 粉飾太平), a specious peace; _fan ~~pai~~ p'ai_ (fan2 paai4 粉牌) a writing-board; _fan pik_ (fan2 bik1 粉壁) to whitewash a wall; _un fan_ (jyun4 fan2 鉛粉), white lead. (Page 713 粉) The white pus of sores; _fan lau_ (fan2 lau4-2 粉瘤), the sloughing from tumors. Fan Wan entry: Corrected 未 to 末. Williams' 米粉, 粟米粉: Corrected _mai_ (mai2) to _mai_ (mai5). Williams' 粉絲: Now more commonly known as glass/cellophane noodles. Williams' 面粉: Not to be confused with 麪粉. Williams' 涼粉: Corrected _leung_ (loeng1) to _leung_ (loeng4). Specifically, grass jelly. Williams' 粉碎: Corrected _sui_ (seoi6) to _sui_ (seoi3). Williams' 粉牌: Corrected _pai_ (baai4) to _p'ai_ (paai4). Cosmetics (Kangxi: 傅面者也). Powder (Kangxi: 凡物磑之如屑者皆爲粉粉通稱非獨米也). To powder. Flour- or starch-based foods (especially staples). 【粉】 (pjunX) (_noun-like_) powder (_noun-like_) rice-flour"
+"text":"U+7C89 fan3 (per 《集韻》方問切 for \"apply\" sense) (F1.83 粉) 米末也又粉飾 (Page 46 #16: 粉) Rice broken to pieces (Kangxi: 米粉, 分也硏米使分散也); a flour of any grain (Kangxi: 豆屑也); pigment, to adorn (Kangxi: 傅也飾也); to whitewash or color (Kangxi: 設采潤色謂之粉澤 etc.); _mai fan_ (mai5 fan2 米粉) rice flour; rice vermicelli; _suk mai fan_ (suk1 mai5 fan2 粟米粉), indian-meal; _fan sz'_ (fan2 si1 粉絲) or _fan tsai_ (fan2 zai2 粉仔), vermicelli; _min fan_ (min6 fan2 面粉), a cosmetic; _fan tseung_ (fan2 zoeng1 粉漿), starch; _fan toi_ (fan2 doi6-2 粉袋) a tailor's chalk-bag; _leung fan_ (loeng4 fan2 涼粉), a sort of jelly; _fan sui_ (fan2 seoi3 粉碎) smashed to shivers; _fan shik t'ai p'ing_ (fan2 sik1 taai3 ping4 粉飾太平), a specious peace; _fan ~~pai~~ p'ai_ (fan2 paai4 粉牌) a writing-board; _fan pik_ (fan2 bik1 粉壁) to whitewash a wall; _un fan_ (jyun4 fan2 鉛粉), white lead. (Page 713 #9: 粉) The white pus of sores; _fan lau_ (fan2 lau4-2 粉瘤), the sloughing from tumors. Fan Wan entry: Corrected 未 to 末. Williams' 米粉, 粟米粉: Corrected _mai_ (mai2) to _mai_ (mai5). Williams' 粉絲: Now more commonly known as glass/cellophane noodles. Williams' 面粉: Not to be confused with 麪粉. Williams' 涼粉: Corrected _leung_ (loeng1) to _leung_ (loeng4). Specifically, grass jelly. Williams' 粉碎: Corrected _sui_ (seoi6) to _sui_ (seoi3). Williams' 粉牌: Corrected _pai_ (baai4) to _p'ai_ (paai4). Cosmetics (Kangxi: 傅面者也). Powder (Kangxi: 凡物磑之如屑者皆爲粉粉通稱非獨米也). To powder. Flour- or starch-based foods (especially staples). 【粉】 (pjunX) (_noun-like_) powder (_noun-like_) rice-flour"
 }
 },
 "瞓":{
@@ -8427,7 +8427,7 @@
 "fan5":{
 "isCanonical":true,
 "williams":"(5)fan",
-"text":"U+61A4 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 忿 (for \"anger\" sense) 賁 愤 (Mainland simplified) (F1.83 憤) 心求通而未能也又發憤又怒也 (Page 47 #4: 憤) Impatient desire (Kangxi: 懣也), zeal, ardor; anger, violent feeling; _fat fan_ (faat3 fan5 發憤), excited, zealous after; _fan lik_ (fan5 lik6 憤力) to put forth one's energies; ~~_fan kit_ (fan5 git3)~~ _fan lit_ (fan5 lit6 憤烈) wrought up by passion. (Page 713 憤) Under this character, for _fan kit_ (fan5 git3) read _fan lit_ (fan5 lit6 憤烈). See commentary at 忿 on the distinction from 憤. Fan Wan entry: Fixed missing stroke in 通. Williams' 發憤, 憤力: These are effectively alternative forms of 發奮, 奮力. 【憤】 (bjunX) (_adjective-like_) disgruntled"
+"text":"U+61A4 May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13), depending on the font. 忿 (for \"anger\" sense) 賁 愤 (Mainland simplified) (F1.83 憤) 心求通而未能也又發憤又怒也 (Page 47 #4: 憤) Impatient desire (Kangxi: 懣也), zeal, ardor; anger, violent feeling; _fat fan_ (faat3 fan5 發憤), excited, zealous after; _fan lik_ (fan5 lik6 憤力) to put forth one's energies; ~~_fan kit_ (fan5 git3)~~ _fan lit_ (fan5 lit6 憤烈) wrought up by passion. (Page 713 #11: 憤) Under this character, for _fan kit_ (fan5 git3) read _fan lit_ (fan5 lit6 憤烈). See commentary at 忿 on the distinction from 憤. Fan Wan entry: Fixed missing stroke in 通. Williams' 發憤, 憤力: These are effectively alternative forms of 發奮, 奮力. 【憤】 (bjunX) (_adjective-like_) disgruntled"
 }
 },
 "揈":{
@@ -13783,12 +13783,12 @@
 "zek3":{
 "isCanonical":true,
 "williams":"chek(8)",
-"text":"U+96BB 只 zik3 (alternative) (F1.78 隻) 件也 (Page 14* before #5: 隻) (The three next characters (隻, 蹠跖, 炙) are usually pronounced _chek_ (zek).) (Page 14* #5: 隻 _Chik_ (zik6); _Chek_ (zek6) implied by variational note; here corrected to _Chek_ (zek3)) One, single, not a pair, one of a pair (Kangxi: 鳥一枚也, 奇也, 物單曰隻); a classifier of vessels, boats, animals, birds, and of things in pairs, as legs, arms eyes, cups, saucers, &c.; _chek shan_ (zek3 san1 隻身), myself alone; _chek chek yau mi_ (zek3 zek3 jau5 mei5 隻隻有尾), every one has a tail; _tai chek hat i_ (daai6 zek3 hat1 ji4-1 大隻乞兒), a sturdy beggar; _kiu chek t'eng_ (giu3 zek3 teng5 叫隻艇), call a boat. (Page 713 隻 _Chik_ (zik3); here normalised to _Chek_ (zek3)) This character is constantly contracted to 只 in Canton. Williams has been misled by Fan Wan's placement of the series 跖蹠拓隻炙 (_chik_) *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 隻 is read 陽入 _chik_ (zik6). However, since Fan Wan has a separate series for 直値殖植稙湜埴 (_chik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 隻 under _chek_ (zek3) here. 【隻】 (tsyek) (_adjective-like_) single (_classifier_)"
+"text":"U+96BB 只 zik3 (alternative) (F1.78 隻) 件也 (Page 14* before #5: 隻) (The three next characters (隻, 蹠跖, 炙) are usually pronounced _chek_ (zek).) (Page 14* #5: 隻 _Chik_ (zik6); _Chek_ (zek6) implied by variational note; here corrected to _Chek_ (zek3)) One, single, not a pair, one of a pair (Kangxi: 鳥一枚也, 奇也, 物單曰隻); a classifier of vessels, boats, animals, birds, and of things in pairs, as legs, arms eyes, cups, saucers, &c.; _chek shan_ (zek3 san1 隻身), myself alone; _chek chek yau mi_ (zek3 zek3 jau5 mei5 隻隻有尾), every one has a tail; _tai chek hat i_ (daai6 zek3 hat1 ji4-1 大隻乞兒), a sturdy beggar; _kiu chek t'eng_ (giu3 zek3 teng5 叫隻艇), call a boat. (Page 713 #1: 隻 _Chik_ (zik3); here normalised to _Chek_ (zek3)) This character is constantly contracted to 只 in Canton. Williams has been misled by Fan Wan's placement of the series 跖蹠拓隻炙 (_chik_) *after* 劇屐 (_k'ik_) and 溺 (_nik_), which are 陽入 (see F1.78). Based on this ordering, Williams has inferred that the character 隻 is read 陽入 _chik_ (zik6). However, since Fan Wan has a separate series for 直値殖植稙湜埴 (_chik_), it appears that its authors have attempted to distinguish the vernacular rime _-ek_ from the literary rime _-ik_, notwithstanding all series appear under 第七英影應益. I have corrected Williams by placing 隻 under _chek_ (zek3) here. 【隻】 (tsyek) (_adjective-like_) single (_classifier_)"
 },
 "zik3":{
 "isCanonical":false,
 "williams":"chik(8)",
-"text":"U+96BB (F1.78 隻) 件也 (Page 713 隻)"
+"text":"U+96BB (F1.78 隻) 件也 (Page 713 #1: 隻)"
 }
 },
 "鶺":{

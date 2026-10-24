@@ -1219,7 +1219,7 @@ F
   ==
 W
   ====
-  - [[Page~713 隻(8)]]
+  - [[Page~713 #1: 隻(8)]]
     --
     [[Reading variation. **See $隻zek3 for the canonical entry.**]]
     --
