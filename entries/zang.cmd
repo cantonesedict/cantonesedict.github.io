@@ -1002,7 +1002,7 @@ F
   ==
 W
   ====
-  - [[Page~557 贈(6)]]
+  - [[Page~557 #1: 贈(6)]]
     ==
     - To present, to give to, to bestow on [[Kangxi: 贈送也]];
     - to confer, as by the crown;

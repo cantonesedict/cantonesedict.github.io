@@ -2346,14 +2346,14 @@
 "cang4":{
 "isCanonical":true,
 "williams":"(4)ts(')ang",
-"text":"U+5C64 曾 层 (Mainland simplified) (F2.31 層) 重叠也 (Page 557 層) A story of a house; a layer, a strata, a tier, a stage; a lamina, a plate, or whatever is piled or laid on; still more, added to; a step, a degree above (Kangxi: 級也); a classifier of stories; _ko k'u yat ts'ang_ (gou1 keoi5 jat1 cang4 高佢一層), one peg higher than it; _mo ts'ang_ (mou4 cang4 無層), no progress, it can't be done; _ts'in ts'ang chi_ (cin1 cang4 zi2 千層紙), foliated mica; _sheung tai sam ts'ang_ (soeng5 dai6 saam1 cang4 上第三層), go up to the third story; _~~chung~~ ch'ung yat ts'ang_ (cung5 jat1 cang4 重一層), one degree heavier; _yau ts'ang yau ts'z'_ (jau5 cang4 jau5 ci3 有層有次) there are proper gradations. Williams' 重一層: Corrected _chung_ (zung6 去聲) to _ch'ung_ (cung5 上聲). A multi-storey house (Kangxi: 重屋也). Multi-layered (Kangxi: 凡物之重者通曰層). 【層】 (dzong) (_noun-like_) storey"
+"text":"U+5C64 曾 层 (Mainland simplified) (F2.31 層) 重叠也 (Page 557 #3: 層) A story of a house; a layer, a strata, a tier, a stage; a lamina, a plate, or whatever is piled or laid on; still more, added to; a step, a degree above (Kangxi: 級也); a classifier of stories; _ko k'u yat ts'ang_ (gou1 keoi5 jat1 cang4 高佢一層), one peg higher than it; _mo ts'ang_ (mou4 cang4 無層), no progress, it can't be done; _ts'in ts'ang chi_ (cin1 cang4 zi2 千層紙), foliated mica; _sheung tai sam ts'ang_ (soeng5 dai6 saam1 cang4 上第三層), go up to the third story; _~~chung~~ ch'ung yat ts'ang_ (cung5 jat1 cang4 重一層), one degree heavier; _yau ts'ang yau ts'z'_ (jau5 cang4 jau5 ci3 有層有次) there are proper gradations. Williams' 重一層: Corrected _chung_ (zung6 去聲) to _ch'ung_ (cung5 上聲). A multi-storey house (Kangxi: 重屋也). Multi-layered (Kangxi: 凡物之重者通曰層). 【層】 (dzong) (_noun-like_) storey"
 }
 },
 "曾":{
 "cang4":{
 "isCanonical":true,
 "williams":"(4)ts(')ang",
-"text":"U+66FE 曽 (F2.31 曾) 嘗也又不料之詞又反詞 (Page 557 曾) An adverb of time; past, already, done (Kangxi: 經也, 嘗也); how? a sign of past time; _'m ts'ang_ (m4 cang4 唔曾) or _mi ts'ang_ (mei6 cang4 未曾), not yet; often a polite way of saying no; _ya ts'ang tso kwo_ (jaa5 cang4 zou6 gwo3 也曾做過) it is already done; _ho ts'ang_ (ho4 cang4 何曾), when ~~will it be~~ was it? _ts'ang kin_ (cang4 gin3 曾見) I have seen it; _tso 'm ts'ang_ (zou6 m4 cang4 做唔曾), is it done yet? Williams' \"how?\": This appears to be an attempt at rendering the very vague and unhelpful 《說文》詞之舒也. Note that Kangxi has this sense under 昨稜切 _ts'ang_ (cang4), and includes such examples as 《論語》曾是以爲孝乎 that other sources would instead put under the reading _tsang_ (zang1). For example, 萌典 puts the \"astonishingly\" sense (乃、竟然) under zeng with the example ...曾是以為孝乎. Williams' 唔曾: Dated. Astonishingly. 【曾-voiced】 (dzong) (_adverb-like_) once, ever (_adverb-like_) astonishingly, (_met._) and yet, dare"
+"text":"U+66FE 曽 (F2.31 曾) 嘗也又不料之詞又反詞 (Page 557 #2: 曾) An adverb of time; past, already, done (Kangxi: 經也, 嘗也); how? a sign of past time; _'m ts'ang_ (m4 cang4 唔曾) or _mi ts'ang_ (mei6 cang4 未曾), not yet; often a polite way of saying no; _ya ts'ang tso kwo_ (jaa5 cang4 zou6 gwo3 也曾做過) it is already done; _ho ts'ang_ (ho4 cang4 何曾), when ~~will it be~~ was it? _ts'ang kin_ (cang4 gin3 曾見) I have seen it; _tso 'm ts'ang_ (zou6 m4 cang4 做唔曾), is it done yet? Williams' \"how?\": This appears to be an attempt at rendering the very vague and unhelpful 《說文》詞之舒也. Note that Kangxi has this sense under 昨稜切 _ts'ang_ (cang4), and includes such examples as 《論語》曾是以爲孝乎 that other sources would instead put under the reading _tsang_ (zang1). For example, 萌典 puts the \"astonishingly\" sense (乃、竟然) under zeng with the example ...曾是以為孝乎. Williams' 唔曾: Dated. Astonishingly. 【曾-voiced】 (dzong) (_adverb-like_) once, ever (_adverb-like_) astonishingly, (_met._) and yet, dare"
 },
 "zang1":{
 "isCanonical":true,
@@ -2372,21 +2372,21 @@
 "cap1":{
 "isCanonical":true,
 "williams":"ts(')ap(7)",
-"text":"U+6222 zap1 (per 《廣韻》阻立切) (F2.39 戢) 安集也止也歛也藏也 (Page 557 戢) To collect in an arsenal, to store up weapons (Kangxi: 藏兵也); to gather (Kangxi: 斂也); to desist from (Kangxi: 止也), to lay aside, as arms; to fold, as wings; _ts'ai ts'ap ts'ap_ (cai4 cap1 cap1 齊戢戢) to cut off evenly; _ch'ai ts'ap to shat_ (caai2 cap1 dou3 sat6 踹戢到實) tread it, press it down very solid; _tsoi ts'ap kon kwo_ (zoi3 cap1 gon1 gwo1 載戢干戈), to lay by shields and spears. Williams' 載戢干戈: Corrected _tsoi_ (zoi2 上聲) to _tsoi_ (zoi3 去聲). 【戢】 (tsrip) (_verb-like_) to store (up), to gather (in), (_met._) to restrain, to check 【齊戢戢】 (cai4 cap1 cap1) Neat and even (not jagged)."
+"text":"U+6222 zap1 (per 《廣韻》阻立切) (F2.39 戢) 安集也止也歛也藏也 (Page 557 #5: 戢) To collect in an arsenal, to store up weapons (Kangxi: 藏兵也); to gather (Kangxi: 斂也); to desist from (Kangxi: 止也), to lay aside, as arms; to fold, as wings; _ts'ai ts'ap ts'ap_ (cai4 cap1 cap1 齊戢戢) to cut off evenly; _ch'ai ts'ap to shat_ (caai2 cap1 dou3 sat6 踹戢到實) tread it, press it down very solid; _tsoi ts'ap kon kwo_ (zoi3 cap1 gon1 gwo1 載戢干戈), to lay by shields and spears. Williams' 載戢干戈: Corrected _tsoi_ (zoi2 上聲) to _tsoi_ (zoi3 去聲). 【戢】 (tsrip) (_verb-like_) to store (up), to gather (in), (_met._) to restrain, to check 【齊戢戢】 (cai4 cap1 cap1) Neat and even (not jagged)."
 }
 },
 "濈":{
 "cap1":{
 "isCanonical":true,
 "williams":"ts(')ap(7)",
-"text":"U+6FC8 zap1 (per 《廣韻》阻立切) (F2.39 濈) 口舌聲 (Page 557 濈) Water rapidly flowing out (Kangxi: 濈水行出也); rapid (Kangxi: 疾貌); cordial, harmonious, agreeing (Kangxi: 和也); to accord with. 【濈】 (tsrip) (_adjective-like_) huddled, accordant"
+"text":"U+6FC8 zap1 (per 《廣韻》阻立切) (F2.39 濈) 口舌聲 (Page 557 #6: 濈) Water rapidly flowing out (Kangxi: 濈水行出也); rapid (Kangxi: 疾貌); cordial, harmonious, agreeing (Kangxi: 和也); to accord with. 【濈】 (tsrip) (_adjective-like_) huddled, accordant"
 }
 },
 "緝":{
 "cap1":{
 "isCanonical":true,
 "williams":"ts(')ap(7)",
-"text":"U+7DDD 缉 (Mainland simplified) (F2.39 緝) 繼續也續也 (Page 557 緝) To twist a cord (Kangxi: 績也); to join, to continue (Kangxi: 續也); to come after, to follow, to succeed; to pursue, to follow after, to be on the search for; to apprehend; _ts'ap wok_ (cap1 wok6 緝獲) to pursue and seize; _ts'ap sz'_ (cap1 si1 緝私) to watch smugglers; _ts'ap sz' shun_ (cap1 si1 syun4 緝私船), revenue cutters; _ts'ap cheuk_ (cap1 zoek6 緝着) caught him; _ch'a ts'ap_ (caa4 cap1 查緝) on the search; _ts'un ts'ap_ (ceon4 cap1 巡緝) to get on the trail. 【緝】 (tship) (_verb-like_) to spin (thread), to hem (_verb-like_) to continue Used in 緝熙. 【緝熙】 (tship xi) (_adjective-like_) brilliant"
+"text":"U+7DDD 缉 (Mainland simplified) (F2.39 緝) 繼續也續也 (Page 557 #7: 緝) To twist a cord (Kangxi: 績也); to join, to continue (Kangxi: 續也); to come after, to follow, to succeed; to pursue, to follow after, to be on the search for; to apprehend; _ts'ap wok_ (cap1 wok6 緝獲) to pursue and seize; _ts'ap sz'_ (cap1 si1 緝私) to watch smugglers; _ts'ap sz' shun_ (cap1 si1 syun4 緝私船), revenue cutters; _ts'ap cheuk_ (cap1 zoek6 緝着) caught him; _ch'a ts'ap_ (caa4 cap1 查緝) on the search; _ts'un ts'ap_ (ceon4 cap1 巡緝) to get on the trail. 【緝】 (tship) (_verb-like_) to spin (thread), to hem (_verb-like_) to continue Used in 緝熙. 【緝熙】 (tship xi) (_adjective-like_) brilliant"
 }
 },
 "葺":{
@@ -12999,14 +12999,14 @@
 "zang6":{
 "isCanonical":true,
 "williams":"tsang(6)",
-"text":"U+8D08 赠 (Mainland simplified) (F2.32 贈) 送也 (Page 557 贈) To present, to give to, to bestow on (Kangxi: 贈送也); to confer, as by the crown; to add to (Kangxi: 贈增也); _tsang sung_ (zang6 sung3 贈送) to give a present to; _ko tsang_ (gou3 zang6 誥贈) to honor an officer's parents for his merits; _tsang kun hi shik_ (zang6 gun1 hei3 sik1 贈觀氣色) to give a look at one's complexion---a sign of physiognomists; _chit lau tsang hang yan_ (zit3 lau5 zang6 hang4 jan4 折柳贈行人), to give a willow-twig at parting; _toi tsang_ (doi6 zang6 待贈) waiting for promotion, as expectant graduates do, at sixty. 【贈】 (dzongH) (_verb-like_) to gift"
+"text":"U+8D08 赠 (Mainland simplified) (F2.32 贈) 送也 (Page 557 #1: 贈) To present, to give to, to bestow on (Kangxi: 贈送也); to confer, as by the crown; to add to (Kangxi: 贈增也); _tsang sung_ (zang6 sung3 贈送) to give a present to; _ko tsang_ (gou3 zang6 誥贈) to honor an officer's parents for his merits; _tsang kun hi shik_ (zang6 gun1 hei3 sik1 贈觀氣色) to give a look at one's complexion---a sign of physiognomists; _chit lau tsang hang yan_ (zit3 lau5 zang6 hang4 jan4 折柳贈行人), to give a willow-twig at parting; _toi tsang_ (doi6 zang6 待贈) waiting for promotion, as expectant graduates do, at sixty. 【贈】 (dzongH) (_verb-like_) to gift"
 }
 },
 "𠽃":{
 "zap1":{
 "isCanonical":false,
 "williams":"tsap(7)",
-"text":"U+20F43 (Page 557 𠽃)"
+"text":"U+20F43 (Page 557 #4: 𠽃)"
 }
 },
 "執":{
@@ -13034,7 +13034,7 @@
 "zap1":{
 "isCanonical":true,
 "williams":"tsap(7)",
-"text":"U+84FB 𠽃 (Cantonese) 執 (Cantonese) (Page 557 𠽃; here normalised to 蓻) A colloquial word. A heap, a handful, a pile; a group, a knot; _chu mai yat tsap_ (zyu6 maai4 jat1 zap1 住埋一蓻) living in a single community; _~~tso~~ ts'o mai yat tsap_ (co5 maai4 jat1 zap1 坐埋一蓻) sitting together in a group; _so mai yat tsap_ (sou3 maai4 jat1 zap1 掃埋一蓻) sweep it up into a pile; _ap tsap_ (ap1 zap1 洽蓻) stingy, craven, slovenly; _yat tsap mai_ (jat1 zap1 mai5 一蓻米), as much rice as the fingers can grasp; _t'au tsap_ (tau1 zap1 偷蓻) to make a little money. Williams' 坐埋一蓻: Corrected _tso_ (zo6 去聲) to _ts'o_ (co5 上聲). 【蓻】 (zap1) A pinch or tuft. 一蓻鹽 (jat1 zap1 jim4): \"One pinch of salt.\" 一蓻頭髮 (jat zap1 tau4 faat3): \"One tuft of hair.\" It is debatable whether this is the same word as 執 _chap_ (zap1). In any case, Williams records the reading as _tsap_ (zap1), and Eitel (1877) prefers the character 蓻, which matches _tsap_ (zap1) in pronunciation: 《廣韻》子入切 蓻 草生多皃 《康熙字典》蓻 《唐韻》子入切音𥠋草生多貌 又《玉篇》茅芽也..."
+"text":"U+84FB 𠽃 (Cantonese) 執 (Cantonese) (Page 557 #4: 𠽃; here normalised to 蓻) A colloquial word. A heap, a handful, a pile; a group, a knot; _chu mai yat tsap_ (zyu6 maai4 jat1 zap1 住埋一蓻) living in a single community; _~~tso~~ ts'o mai yat tsap_ (co5 maai4 jat1 zap1 坐埋一蓻) sitting together in a group; _so mai yat tsap_ (sou3 maai4 jat1 zap1 掃埋一蓻) sweep it up into a pile; _ap tsap_ (ap1 zap1 洽蓻) stingy, craven, slovenly; _yat tsap mai_ (jat1 zap1 mai5 一蓻米), as much rice as the fingers can grasp; _t'au tsap_ (tau1 zap1 偷蓻) to make a little money. Williams' 坐埋一蓻: Corrected _tso_ (zo6 去聲) to _ts'o_ (co5 上聲). 【蓻】 (zap1) A pinch or tuft. 一蓻鹽 (jat1 zap1 jim4): \"One pinch of salt.\" 一蓻頭髮 (jat zap1 tau4 faat3): \"One tuft of hair.\" It is debatable whether this is the same word as 執 _chap_ (zap1). In any case, Williams records the reading as _tsap_ (zap1), and Eitel (1877) prefers the character 蓻, which matches _tsap_ (zap1) in pronunciation: 《廣韻》子入切 蓻 草生多皃 《康熙字典》蓻 《唐韻》子入切音𥠋草生多貌 又《玉篇》茅芽也..."
 }
 },
 "只":{

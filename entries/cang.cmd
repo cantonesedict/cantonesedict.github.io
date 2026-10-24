@@ -65,7 +65,7 @@ F
   ==
 W
   ====
-  - [[Page~557 (4)層]]
+  - [[Page~557 #3: (4)層]]
     ==
     - A story of a house;
     - a layer, a strata, a tier, a stage;
@@ -128,7 +128,7 @@ F
   ==
 W
   ====
-  - [[Page~557 (4)曾]]
+  - [[Page~557 #2: (4)曾]]
     ==
     - An adverb of time;
     - past, already, done [[Kangxi: 經也, 嘗也]];

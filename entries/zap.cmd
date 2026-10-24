@@ -63,7 +63,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 {𠽃=⿰口執}(7)]]
+  - [[Page~557 #4: {𠽃=⿰口執}(7)]]
     --
     [[Alternative form of 蓻 (Cantonese). **See $蓻zap1 for the canonical entry.**]]
     --
@@ -325,7 +325,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 {𠽃=⿰口執}(7); here normalised to 蓻]]
+  - [[Page~557 #4: {𠽃=⿰口執}(7); here normalised to 蓻]]
     --
     A colloquial word.
     --

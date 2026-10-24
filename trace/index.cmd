@@ -11818,6 +11818,71 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~557
+    ,{#page-557-entry-1} #1
+    ,{.williams} 贈(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $贈zang6
+      ==
+      </nav>
+  //
+    ,{#page-557-entry-2} #2
+    ,{.williams} (4)曾
+    ,
+      <nav class="sideways">
+      ==
+      - $曾cang4
+      ==
+      </nav>
+  //
+    ,{#page-557-entry-3} #3
+    ,{.williams} (4)層
+    ,
+      <nav class="sideways">
+      ==
+      - $層cang4
+      ==
+      </nav>
+  //
+    ,{#page-557-entry-4} #4
+    ,{.williams} {𠽃=⿰口執}(7)
+    ,
+      <nav class="sideways">
+      ==
+      - (${𠽃=⿰口執}zap1)
+      - $蓻zap1
+      ==
+      </nav>
+  //
+    ,{#page-557-entry-5} #5
+    ,{.williams} 戢(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $戢cap1
+      ==
+      </nav>
+  //
+    ,{#page-557-entry-6} #6
+    ,{.williams} 濈(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $濈cap1
+      ==
+      </nav>
+  //
+    ,{#page-557-entry-7} #7
+    ,{.williams} 緝(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $緝cap1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

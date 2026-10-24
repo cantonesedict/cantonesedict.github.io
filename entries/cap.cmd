@@ -100,7 +100,7 @@ F
   ==
 W
   ====
-  - [[Page~557 戢(7)]]
+  - [[Page~557 #5: 戢(7)]]
     ==
     - To collect in an arsenal, to store up weapons [[Kangxi: 藏兵也]];
     - to gather [[Kangxi: 斂也]];
@@ -154,7 +154,7 @@ F
   ==
 W
   ====
-  - [[Page~557 濈(7)]]
+  - [[Page~557 #6: 濈(7)]]
     ==
     - Water rapidly flowing out [[Kangxi: 濈水行出也]];
     - rapid [[Kangxi: 疾貌]];
@@ -188,7 +188,7 @@ F
   ==
 W
   ====
-  - [[Page~557 緝(7)]]
+  - [[Page~557 #7: 緝(7)]]
     ==
     - To twist a cord [[Kangxi: 績也]];
     - to join, to continue [[Kangxi: 續也]];
