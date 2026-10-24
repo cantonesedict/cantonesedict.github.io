@@ -9052,6 +9052,100 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~57
+    ,{#page-57-entry-1} #1
+    ,{.williams} (2)舫
+    ,
+      <nav class="sideways">
+      ==
+      - $方fong1
+      - $舫fong2
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-2} #2
+    ,{.williams} (2)貺
+    ,
+      <nav class="sideways">
+      ==
+      - ($貺fong2), $貺fong3
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-3} #3
+    ,{.williams} (2)謊
+    ,
+      <nav class="sideways">
+      ==
+      - $謊fong1, ($謊fong2)
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-4} #4
+    ,{.williams} 放(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $仿fong2
+      - $放fong3
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-5} #5
+    ,{.williams} 况(3)況(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($况fong3)
+      - $況fong3
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-9} #9
+    ,{.williams} (1)夫
+    ,
+      <nav class="sideways">
+      ==
+      - $夫fu1
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-10} #10
+    ,{.williams} (1)砆
+    ,
+      <nav class="sideways">
+      ==
+      - $砆fu1
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-11} #11
+    ,{.williams} (1)趺
+    ,
+      <nav class="sideways">
+      ==
+      - $趺fu1
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-12} #12
+    ,{.williams} (1)鈇
+    ,
+      <nav class="sideways">
+      ==
+      - $鈇fu1, $鈇fu2
+      ==
+      </nav>
+  //
+    ,{#page-57-entry-13} #13
+    ,{.williams} (1)麩
+    ,
+      <nav class="sideways">
+      ==
+      - $麩fu1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

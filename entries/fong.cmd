@@ -267,7 +267,7 @@ W
         [[hoi1 fong1 開方]],
         to commence a new business.
     ==
-  - [[Page~57 (2)舫 _(2)Fong_ (fong2); here corrected to _(1)Fong_ (fong1) and normalised to 方]]
+  - [[Page~57 #1: (2)舫 _(2)Fong_ (fong2); here corrected to _(1)Fong_ (fong1) and normalised to 方]]
     ==
     - Two boats alongside of each other [[Kangxi 舫: 倂船也]];
     - [[...]];
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)謊 _(2)Fong_ (fong2); here normalised to _(1)Fong_ (fong1)]]
+  - [[Page~57 #3: (2)謊 _(2)Fong_ (fong2); here normalised to _(1)Fong_ (fong1)]]
     ==
     - To talk in sleep [[Kangxi 詤: 夢言也]], incoherent;
     - to lie, lying, raving;
@@ -709,7 +709,7 @@ W
     --
     [[Alternative form of 彷. See $彷fong2.]]
     --
-  - [[Page~57 放(3) _Fong(3)_ (fong3); here corrected to _(2)Fong_ (fong2) and normalised to 仿]]
+  - [[Page~57 #4: 放(3) _Fong(3)_ (fong3); here corrected to _(2)Fong_ (fong2) and normalised to 仿]]
     ==
     - [[...]];
     - accord [[Kangxi 放: 放猶依也]];
@@ -1159,7 +1159,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)舫]]
+  - [[Page~57 #1: (2)舫]]
     ==
     - [[...]];
     - ~~a pilot or steersman [[Kangxi: 船師也]];~~
@@ -1274,7 +1274,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)謊]]
+  - [[Page~57 #3: (2)謊]]
     --
     [[Reading variation. **See $謊fong1 for the canonical entry.**]]
     --
@@ -1302,7 +1302,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)貺]]
+  - [[Page~57 #2: (2)貺]]
     --
     [[Reading variation. **See $貺fong3 for the canonical entry.**]]
     --
@@ -1367,7 +1367,7 @@ F
   ==
 W
   ====
-  - [[Page~57 况(3)況(3)]]
+  - [[Page~57 #5: 况(3)況(3)]]
     --
     [[Alternative form of 況. **See $況fong3 for the canonical entry.**]]
     --
@@ -1402,7 +1402,7 @@ F
   ==
 W
   ====
-  - [[Page~57 放(3)]]
+  - [[Page~57 #4: 放(3)]]
     ==
     - To reject, to let off;
     - to let go [[Kangxi: 棄也]], to extend, to liberate, to loose;
@@ -1519,7 +1519,7 @@ F
   ==
 W
   ====
-  - [[Page~57 况(3)況(3)]]
+  - [[Page~57 #5: 况(3)況(3)]]
     ==
     - More, moreover, further [[Kangxi 況: 矧也]];
     - ~~now;~~
@@ -1595,7 +1595,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (2)貺 _(2)Fong_ (fong2); here normalised to _Fong(3)_ (fong3)]]
+  - [[Page~57 #2: (2)貺 _(2)Fong_ (fong2); here normalised to _Fong(3)_ (fong3)]]
     ==
     - To give, to bestow [[Kangxi: 賜也, 與也]] (said by the recipient);
     - _~~(2)fong~~ ``fong(3)`` ts(')z'(3)_

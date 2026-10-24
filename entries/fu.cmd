@@ -340,7 +340,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)夫]]
+  - [[Page~57 #9: (1)夫]]
     ==
     - ~~To help, one who can assist;~~
     - a man [[Kangxi: 男子通稱]], a scholar, a distinguished man;
@@ -974,7 +974,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)砆]]
+  - [[Page~57 #10: (1)砆]]
     ==
     - A stone resembling a gem [[Kangxi: 同玞, 碔砆石次玉]];
     - a false gem.
@@ -1219,7 +1219,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)趺]]
+  - [[Page~57 #11: (1)趺]]
     ==
     - To sit in audience or state, with the legs bent under one, _à la Turque_ [[Kangxi: 跏趺大坐也]]^;
     - ~~_(1)f(u/) (1)f(u/) (4)(i/)n_
@@ -1332,7 +1332,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)鈇]]
+  - [[Page~57 #12: (1)鈇]]
     --
     [[Reading variation. **See $鈇fu2 for the canonical entry.**]]
     --
@@ -1397,7 +1397,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)麩]]
+  - [[Page~57 #13: (1)麩]]
     ==
     - Bran or husk of wheat [[Kangxi: 小麥屑皮也一作麱]];
     - the refuse of hemp-seed or ground nut, after the oil is expressed.
@@ -2298,7 +2298,7 @@ F
   ==
 W
   ====
-  - [[Page~57 (1)鈇 _(1)F(u/)_ (fu1); here normalised to _(2)F(u/)_ (fu2)]]
+  - [[Page~57 #12: (1)鈇 _(1)F(u/)_ (fu1); here normalised to _(2)F(u/)_ (fu2)]]
     ==
     - A kind of hatchet of small ax [[Kangxi: 斧也, 鈇方于反又音斧]].
     ==
