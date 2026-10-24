@@ -94,7 +94,7 @@ F
   ==
 W
   ====
-  - [[Page~51 法(8)]]
+  - [[Page~51 #1: 法(8)]]
     ==
     - A rule, a law, usage [[Kangxi: 法常也, 法偪也偪而使有所限也, etc.]];
     - regulations, precepts;
@@ -310,7 +310,7 @@ F
   ==
 W
   ====
-  - [[Page~51 髮(8)]]
+  - [[Page~51 #2: 髮(8)]]
     ==
     - Hair of the head [[Kangxi: 首上毛也]];
     - _met._ herbs, trees, moss [[Kangxi: 毛草也地理書云山以草木爲髮]];

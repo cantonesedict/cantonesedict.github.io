@@ -1126,7 +1126,7 @@ F
   ==
 W
   ====
-  - [[Page~51 乏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+  - [[Page~51 #7: 乏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
     ==
     - Want~~, failure, defective~~;
     - without [[Kangxi: 無也]];
@@ -1175,7 +1175,7 @@ F
   ==
 W
   ====
-  - [[Page~51 伐(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+  - [[Page~51 #3: 伐(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
     ==
     - To destroy, to strike``, to smite`` [[Kangxi: 攻殺擊刺也]]~~, to fight~~;
     - to punish, to subdue [[Kangxi: 征伐]]~~, to desolate~~;
@@ -1390,7 +1390,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~51 筏(9) _F(a/)t(9)_ (faat6); here corrected to 橃 and normalised to _Fat(9)_ (fat6)]]
+  - [[Page~51 #4: 筏(9) _F(a/)t(9)_ (faat6); here corrected to 橃 and normalised to _Fat(9)_ (fat6)]]
     ==
     - [[...]];
     - a large ship ~~like a raft for size~~ [[Kangxi 橃: 海中大船, 俗作筏非是]];
@@ -1456,7 +1456,7 @@ F
   ==
 W
   ====
-  - [[Page~51 筏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+  - [[Page~51 #4: 筏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
     ==
     - A bamboo raft [[Kangxi: 編竹渡水曰筏]];
     - [[...]].
@@ -1491,7 +1491,7 @@ F
   ==
 W
   ====
-  - [[Page~51 罰(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+  - [[Page~51 #6: 罰(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
     ==
     - A peccadillo [[Kangxi: 辠之小者 etc.]], a crime;
     - to punish, to castigate, to flog [[Kangxi: 罰謂撻擊之也]];
@@ -1545,7 +1545,7 @@ F
   ==
 W
   ====
-  - [[Page~51 閥(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+  - [[Page~51 #5: 閥(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
     ==
     - A door on the left [[Kangxi: 門在左曰閥在右曰閱]];
     - meritorious services, to set forth one's merit [[Kangxi: 明其等曰閥積日曰閱]];

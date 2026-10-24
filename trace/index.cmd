@@ -8359,6 +8359,125 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~51
+    ,{#page-51-entry-1} #1
+    ,{.williams} 法(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $法faat3
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-2} #2
+    ,{.williams} 髮(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $髮faat3
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-3} #3
+    ,{.williams} 伐(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $伐fat6
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-4} #4
+    ,{.williams} 筏(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $橃fat6
+      - $筏fat6
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-5} #5
+    ,{.williams} 閥(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $閥fat6
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-6} #6
+    ,{.williams} 罰(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $罰fat6
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-7} #7
+    ,{.williams} 乏(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $乏fat6
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-8} #8
+    ,{.williams} (1)缶
+    ,
+      <nav class="sideways">
+      ==
+      - $缶fau2
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-9} #9
+    ,{.williams} (1)罘
+    ,
+      <nav class="sideways">
+      ==
+      - $罘fau4
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-10} #10
+    ,{.williams} (1)坏
+    ,
+      <nav class="sideways">
+      ==
+      - $坏fau1
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-11} #11
+    ,{.williams} (1)抔
+    ,
+      <nav class="sideways">
+      ==
+      - ($抔fau1)
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-12} #12
+    ,{.williams} (4)紑
+    ,
+      <nav class="sideways">
+      ==
+      - $紑fau4
+      ==
+      </nav>
+  //
+    ,{#page-51-entry-13} #13
+    ,{.williams} (4)浮
+    ,
+      <nav class="sideways">
+      ==
+      - $浮fau4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

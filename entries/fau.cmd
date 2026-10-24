@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)坏]]
+  - [[Page~51 #10: (1)坏]]
     ==
     - A hillock of earth.
     ==
@@ -89,7 +89,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)抔]]
+  - [[Page~51 #11: (1)抔]]
     --
     [[Reading variation. **See $抔pau4 for the canonical entry.**]] [[TODO]]
     --
@@ -204,7 +204,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)缶 _(1)Fau_ (fau1); here corrected to _(2)Fau_ (fau2)]]
+  - [[Page~51 #8: (1)缶 _(1)Fau_ (fau1); here corrected to _(2)Fau_ (fau2)]]
     ==
     - Earthenware in general [[Kangxi: 瓦缶之器]];
     - a vessel used to contain wine [[Kangxi: 瓦器所以盛酒漿]];
@@ -307,7 +307,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (4)浮]]
+  - [[Page~51 #13: (4)浮]]
     ==
     - To float [[Kangxi: 氾也]], to drift [[Kangxi: 順流曰浮]];
     - to overflow, to exceed [[Kangxi: 溢也過也]], to inundate;
@@ -409,7 +409,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (4)紑]]
+  - [[Page~51 #12: (4)紑]]
     ==
     - ~~New silken~~ ``Fresh, clean, as`` garments [[Kangxi: 白鮮衣貌, 紑絜鮮貌]];
     - ~~elegant,~~ lustrous``, as silk`` [[Kangxi: 繒色鮮]].
@@ -445,7 +445,7 @@ F
   ==
 W
   ====
-  - [[Page~51 (1)罘 _(1)Fau_ (fau1); here corrected to _(4)Fau_ (fau4)]]
+  - [[Page~51 #9: (1)罘 _(1)Fau_ (fau1); here corrected to _(4)Fau_ (fau4)]]
     ==
     - A rabbit net [[Kangxi: 兔罟, 罘罝也]];
     - a ~~wooden~~ screen before an official residence [[Kangxi: 罘罳 etc.]].
