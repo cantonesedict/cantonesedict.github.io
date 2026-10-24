@@ -2442,12 +2442,12 @@
 "cau1":{
 "isCanonical":false,
 "williams":"(1)ts(')au",
-"text":"U+5062 (Page 562 偢)"
+"text":"U+5062 (Page 562 #6: 偢)"
 },
 "ciu3":{
 "isCanonical":true,
 "williams":"ts(')i(u/)(3)",
-"text":"U+5062 (Page 562 偢 _Ts'au_ (cau1); here corrected to _Ts'iu_ (ciu3)) Malevolent (Kangxi: 傻偢不仁); ill-natured;"
+"text":"U+5062 (Page 562 #6: 偢 _Ts'au_ (cau1); here corrected to _Ts'iu_ (ciu3)) Malevolent (Kangxi: 傻偢不仁); ill-natured;"
 }
 },
 "妯":{
@@ -2471,7 +2471,7 @@
 "ciu2":{
 "isCanonical":true,
 "williams":"(2)ts(')i(u/)",
-"text":"U+6100 cau1 (alternative per 《集韻》雌由切) cau5 (alternative per 《廣韻》在九切) (F1.50 愀 _Ts'au_ (cau1)) 色變也 (Page 562 愁 _Ts'au_ (cau1); here corrected to 愀 and normalised to _Ts'iu_ (ciu2)) ~~To blush, to redden,~~ to change ~~color~~ the countenance (Kangxi 愀: 容色變也); 【愀】 (tshjewX, dzjuwX) (_verb-like_) to change countenance"
+"text":"U+6100 cau1 (alternative per 《集韻》雌由切) cau5 (alternative per 《廣韻》在九切) (F1.50 愀 _Ts'au_ (cau1)) 色變也 (Page 562 #9: 愁 _Ts'au_ (cau1); here corrected to 愀 and normalised to _Ts'iu_ (ciu2)) ~~To blush, to redden,~~ to change ~~color~~ the countenance (Kangxi 愀: 容色變也); 【愀】 (tshjewX, dzjuwX) (_verb-like_) to change countenance"
 }
 },
 "抽":{
@@ -2497,19 +2497,19 @@
 "cau1":{
 "isCanonical":false,
 "williams":"(1)ts(')au",
-"text":"U+63EA (Page 562 揫揪)"
+"text":"U+63EA (Page 562 #7: 揫揪)"
 },
 "zau1":{
 "isCanonical":true,
 "williams":"(1)tsau",
-"text":"U+63EA 揫 cau1 (per Fan Wan) (Page 562 揫揪 _Ts'au_ (cau1); here normalised to _Tsau_ (zau1)) To bind, to gather in sheaves (Kangxi 揫: 束也, 斂也); to compress in binding; to collect, to assemble (Kangxi 揫: 聚也); to lift, to grasp, to clutch; to gripe; _~~ts'au~~ tsau chu_ (zau1 zyu6 揪住) to seize fast; _~~ts'au~~ tsau i_ (zau1 ji5 揪耳), to nab by the ears; _~~ts'au~~ tsau ch'uk_ (zau1 cuk1 揪束) to bind up, as a sheaf is. Modern dictionaries distinguish 揫 for the \"bind\" sense, and 揪 for the \"grasp/clutch\" sense. Kangxi considers 揪 to be the same as 揫, and their separation to be erroneous: 按揪揫同字分音各訓誤. 【揪】 (zau1) To catch or capture. 畀差佬揪 (bei2 caai1 lou2 zau1): \"Caught by a copper.\""
+"text":"U+63EA 揫 cau1 (per Fan Wan) (Page 562 #7: 揫揪 _Ts'au_ (cau1); here normalised to _Tsau_ (zau1)) To bind, to gather in sheaves (Kangxi 揫: 束也, 斂也); to compress in binding; to collect, to assemble (Kangxi 揫: 聚也); to lift, to grasp, to clutch; to gripe; _~~ts'au~~ tsau chu_ (zau1 zyu6 揪住) to seize fast; _~~ts'au~~ tsau i_ (zau1 ji5 揪耳), to nab by the ears; _~~ts'au~~ tsau ch'uk_ (zau1 cuk1 揪束) to bind up, as a sheaf is. Modern dictionaries distinguish 揫 for the \"bind\" sense, and 揪 for the \"grasp/clutch\" sense. Kangxi considers 揪 to be the same as 揫, and their separation to be erroneous: 按揪揫同字分音各訓誤. 【揪】 (zau1) To catch or capture. 畀差佬揪 (bei2 caai1 lou2 zau1): \"Caught by a copper.\""
 }
 },
 "揫":{
 "cau1":{
 "isCanonical":false,
 "williams":"(1)ts(')au",
-"text":"U+63EB (Page 562 揫揪)"
+"text":"U+63EB (Page 562 #7: 揫揪)"
 },
 "zau1":{
 "isCanonical":false,
@@ -2521,19 +2521,19 @@
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+6978 (F1.50 楸) 木名 (Page 562 楸) A strong wood; the tree is like a yew or cypress; _ts'au p'ing_ (cau1 ping4 楸枰), a chess-board (Kangxi: 棊局也). Fan Wan entry: Corrected 本 to 木. Williams' 楸枰: Specifically, a surrounding-chess (go) board."
+"text":"U+6978 (F1.50 楸) 木名 (Page 562 #8: 楸) A strong wood; the tree is like a yew or cypress; _ts'au p'ing_ (cau1 ping4 楸枰), a chess-board (Kangxi: 棊局也). Fan Wan entry: Corrected 本 to 木. Williams' 楸枰: Specifically, a surrounding-chess (go) board."
 }
 },
 "湫":{
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+6E6B (F1.50 湫) 水名 (Page 562 湫) A pond, a fish-pond, a pool (Kangxi: 北人呼水池爲湫); Kangxi has the \"pool\" sense under 卽由切 or 將由切 _tsau_ (zau1), but 《廣韻》 has 七由切 _ts'au_ (cau1), explained 水池名北人呼."
+"text":"U+6E6B (F1.50 湫) 水名 (Page 562 #10: 湫) A pond, a fish-pond, a pool (Kangxi: 北人呼水池爲湫); Kangxi has the \"pool\" sense under 卽由切 or 將由切 _tsau_ (zau1), but 《廣韻》 has 七由切 _ts'au_ (cau1), explained 水池名北人呼."
 },
 "zau1":{
 "isCanonical":true,
 "williams":"(1)tsau",
-"text":"U+6E6B cau1 (per Fan Wan) (F1.50 湫 _Ts'au_ (cau1)) 水名 (Page 562 湫 _Ts'au_ (cau1); here normalised to _Tsau_ (zau1)) a small tributary of the Yellow R. near Lin hien (臨縣) in Shansi (山西); cool (Kangxi: 涼貌); mournful (Kangxi: 憂愁貌), to excite sad feelings."
+"text":"U+6E6B cau1 (per Fan Wan) (F1.50 湫 _Ts'au_ (cau1)) 水名 (Page 562 #10: 湫 _Ts'au_ (cau1); here normalised to _Tsau_ (zau1)) a small tributary of the Yellow R. near Lin hien (臨縣) in Shansi (山西); cool (Kangxi: 涼貌); mournful (Kangxi: 憂愁貌), to excite sad feelings."
 },
 "ziu2":{
 "isCanonical":true,
@@ -2559,14 +2559,14 @@
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+7785 偢 cau2 (possibly from Mandarin-matching) (Page 562 偢; here normalised to 瞅) _'m ts'au ts'oi_ (m4 cau1 coi2 唔瞅睬), not to speak to, the cut direct. The character 瞅 is not attested in the Middle Chinese rime books, nor is it recorded in Kangxi. Modern Cantonese dictionaries typically record a reading of cau2 (rising tone), which I wager is from analogy with the Mandarin reading chou. And yet: The variant form 偢 appears under the Kangxi entry for 睬, with the explicit reading _ts'au_ (cau1) in level tone: 《康熙字典》睬 《字彙補》此宰切音彩偢睬俗言也詞家多用此字偢音秋 The common Cantonese reading is cau1, consistent with Williams, and as sung by Alan Tam in 誰可改變 (1984) (containing the phrase 不瞅不睬)."
+"text":"U+7785 偢 cau2 (possibly from Mandarin-matching) (Page 562 #6: 偢; here normalised to 瞅) _'m ts'au ts'oi_ (m4 cau1 coi2 唔瞅睬), not to speak to, the cut direct. The character 瞅 is not attested in the Middle Chinese rime books, nor is it recorded in Kangxi. Modern Cantonese dictionaries typically record a reading of cau2 (rising tone), which I wager is from analogy with the Mandarin reading chou. And yet: The variant form 偢 appears under the Kangxi entry for 睬, with the explicit reading _ts'au_ (cau1) in level tone: 《康熙字典》睬 《字彙補》此宰切音彩偢睬俗言也詞家多用此字偢音秋 The common Cantonese reading is cau1, consistent with Williams, and as sung by Alan Tam in 誰可改變 (1984) (containing the phrase 不瞅不睬)."
 }
 },
 "秋":{
 "cau1":{
 "isCanonical":true,
 "williams":"(1)ts(')au",
-"text":"U+79CB 秌 龝 (F1.50 秋) 四季之一 (F1.50 龝) 同上 (Page 562 秋) Autumn (Kangxi: 金行之時); harvest, the time of reaping; the return of the year, a year; autumnal; sorrowful, unhappy (Kangxi: 西方者秋秋愁也 etc.); _mak ts'au_ (mak6 cau1 麥秋), wheat harvest; _ts'au fan_ (cau1 fan1 秋分), autumnal equinox; _chang ts'au it_ (zaang1 cau1 jit6 爭秋熱) heat of dog-days; _ts'au t'in_ (cau1 tin1 秋天) autumn; _ts'au ho mo fan_ (cau1 hou4 mou4 faan6 秋毫無犯) not the error of an autumn's down; _ts'in ts'au_ (cin1 cau1 千秋), a thousand autumns --- a birthday; _ts'au kun_ (cau1 gun1 秋官), a judge, because cases are decided in autumn; _ts'au shau_ (cau1 sau1 秋收), harvest; _ts'au hau shin_ (cau1 hau6 sin3 秋後扇) a fan in winter --- a useless thing; _ts'au hi_ (cau1 hei3 秋氣) cool autumnal weather. Fan Wan entry: Corrected 土 to 上. A surname (Kangxi: 姓). 【秋】 (tshjuw) (_noun-like_) autumn"
+"text":"U+79CB 秌 龝 (F1.50 秋) 四季之一 (F1.50 龝) 同上 (Page 562 #5: 秋) Autumn (Kangxi: 金行之時); harvest, the time of reaping; the return of the year, a year; autumnal; sorrowful, unhappy (Kangxi: 西方者秋秋愁也 etc.); _mak ts'au_ (mak6 cau1 麥秋), wheat harvest; _ts'au fan_ (cau1 fan1 秋分), autumnal equinox; _chang ts'au it_ (zaang1 cau1 jit6 爭秋熱) heat of dog-days; _ts'au t'in_ (cau1 tin1 秋天) autumn; _ts'au ho mo fan_ (cau1 hou4 mou4 faan6 秋毫無犯) not the error of an autumn's down; _ts'in ts'au_ (cin1 cau1 千秋), a thousand autumns --- a birthday; _ts'au kun_ (cau1 gun1 秋官), a judge, because cases are decided in autumn; _ts'au shau_ (cau1 sau1 秋收), harvest; _ts'au hau shin_ (cau1 hau6 sin3 秋後扇) a fan in winter --- a useless thing; _ts'au hi_ (cau1 hei3 秋氣) cool autumnal weather. Fan Wan entry: Corrected 土 to 上. A surname (Kangxi: 姓). 【秋】 (tshjuw) (_noun-like_) autumn"
 }
 },
 "篘":{
@@ -12506,12 +12506,12 @@
 "zaau6":{
 "isCanonical":true,
 "williams":"ch(a/)u(6)",
-"text":"U+9A5F May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here), depending on the font. 騶 骤 (Mainland simplified) zau6 (per 《廣韻》鋤祐切) (F1.55 驟 _Chau_ (zau6)) 馳驟又疾速也 (Page 562 驟 _Tsau_ (zau6); here normalised to _Chau_ (zaau6)) A fleet horse (Kangxi: 馬疾步也); to run (Kangxi: 奔也); quick, fleet; pressing, urgent; frequently, repeatedly (Kangxi: 數也); _~~tsau~~ chau in i loi_ (zaau6 jin4 ji4 loi4 驟然而來), arrived very quickly; _pat ho ~~tsau~~ chau tak_ (bat1 ho2 zaau6 dak1 不可驟得) it can not be dune in an instant. 【驟】 (dzrjuwH) (_adjective-like_) speedy"
+"text":"U+9A5F May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here), depending on the font. 騶 骤 (Mainland simplified) zau6 (per 《廣韻》鋤祐切) (F1.55 驟 _Chau_ (zau6)) 馳驟又疾速也 (Page 562 #4: 驟 _Tsau_ (zau6); here normalised to _Chau_ (zaau6)) A fleet horse (Kangxi: 馬疾步也); to run (Kangxi: 奔也); quick, fleet; pressing, urgent; frequently, repeatedly (Kangxi: 數也); _~~tsau~~ chau in i loi_ (zaau6 jin4 ji4 loi4 驟然而來), arrived very quickly; _pat ho ~~tsau~~ chau tak_ (bat1 ho2 zaau6 dak1 不可驟得) it can not be dune in an instant. 【驟】 (dzrjuwH) (_adjective-like_) speedy"
 },
 "zau6":{
 "isCanonical":false,
 "williams":"tsau(6)",
-"text":"U+9A5F May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here), depending on the font. (F1.55 驟 _Chau_ (zau6)) 馳驟又疾速也 (Page 562 驟) Strictly, the pre-merger reading should be _chau_ per 《廣韻》鋤祐切."
+"text":"U+9A5F May appear as either ⿰馬⿱取乑 or ⿰馬⿱取⿸⿹亻人人 (assumed here), depending on the font. (F1.55 驟 _Chau_ (zau6)) 馳驟又疾速也 (Page 562 #4: 驟) Strictly, the pre-merger reading should be _chau_ per 《廣韻》鋤祐切."
 }
 },
 "劑":{
@@ -13498,7 +13498,7 @@
 "zau6":{
 "isCanonical":true,
 "williams":"tsau(6)",
-"text":"U+5CAB jau4 (alternative per 《集韻》夷周切) (F1.55 岫) 山有石穴曰岫 (Page 562 岫) A den, a cave among the hills (Kangxi: 山穴也); a glen, a ravine, gorge, or defile. Fan Wan entry: Corrected headword 油 to 岫."
+"text":"U+5CAB jau4 (alternative per 《集韻》夷周切) (F1.55 岫) 山有石穴曰岫 (Page 562 #3: 岫) A den, a cave among the hills (Kangxi: 山穴也); a glen, a ravine, gorge, or defile. Fan Wan entry: Corrected headword 油 to 岫."
 }
 },
 "籀":{
@@ -13533,7 +13533,7 @@
 "zau6":{
 "isCanonical":true,
 "williams":"tsau(6)",
-"text":"U+8896 褎 褏 (F1.56 袖) 衫袖 (Page 562 袖) The sleeve (Kangxi: 袂也, 袖由也手所由出入也); to put into the sleeve, to receive in the hand (Kangxi: 亦言受也以受手也); _tsau hau_ (zau6 hau2 袖口), a cuff; _tsau shau_ (zau6 sau2 袖手), to hide the hands in the cuffs; _tsau t'au_ (zau6 tau4 袖頭), official cuffs shaped like a horsehoof; _ling tsau_ (ling5 zau6 領袖) a chief, one born to command; _t'o tsau_ (tou3 zau6 套袖) sleeve-covers; _tsau shau p'ong kun_ (zau6 sau2 pong4 gun1 袖手旁觀), to fold the hands and look on. 【袖】 (zjuwH) (_noun-like_) sleeve"
+"text":"U+8896 褎 褏 (F1.56 袖) 衫袖 (Page 562 #2: 袖) The sleeve (Kangxi: 袂也, 袖由也手所由出入也); to put into the sleeve, to receive in the hand (Kangxi: 亦言受也以受手也); _tsau hau_ (zau6 hau2 袖口), a cuff; _tsau shau_ (zau6 sau2 袖手), to hide the hands in the cuffs; _tsau t'au_ (zau6 tau4 袖頭), official cuffs shaped like a horsehoof; _ling tsau_ (ling5 zau6 領袖) a chief, one born to command; _t'o tsau_ (tou3 zau6 套袖) sleeve-covers; _tsau shau p'ong kun_ (zau6 sau2 pong4 gun1 袖手旁觀), to fold the hands and look on. 【袖】 (zjuwH) (_noun-like_) sleeve"
 }
 },
 "酎":{
@@ -13547,7 +13547,7 @@
 "zau6":{
 "isCanonical":true,
 "williams":"tsau(6)",
-"text":"U+9DF2 鹫 (Mainland simplified) (Page 562 鷲) A large accipitrine bird; perhaps a harpy eagle, or a whitish headed condor (Kangxi: 鷲悍多力...卽白鵰也)."
+"text":"U+9DF2 鹫 (Mainland simplified) (Page 562 #1: 鷲) A large accipitrine bird; perhaps a harpy eagle, or a whitish headed condor (Kangxi: 鷲悍多力...卽白鵰也)."
 }
 },
 "啫":{

@@ -81,7 +81,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)偢]]
+  - [[Page~562 #6: (1)偢]]
     --
     [[Alternative form of 瞅. **See $瞅cau1 for the canonical entry.**]]
     --
@@ -319,7 +319,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)揫(1)揪]]
+  - [[Page~562 #7: (1)揫(1)揪]]
     --
     [[Reading variation. **See $揪zau1 for the canonical entry.**]]
     --
@@ -341,7 +341,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)揫(1)揪]]
+  - [[Page~562 #7: (1)揫(1)揪]]
     --
     [[Alternative form of 揪, and reading variation. **See $揪zau1 for the canonical entry.**]]
     --
@@ -365,7 +365,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)楸]]
+  - [[Page~562 #8: (1)楸]]
     ==
     - A strong wood;
     - the tree is like a yew or cypress;
@@ -394,7 +394,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)湫]]
+  - [[Page~562 #10: (1)湫]]
     ==
     - A pond, a fish-pond, a pool [[Kangxi: 北人呼水池爲湫]];
     - [[...]];
@@ -508,7 +508,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)偢; here normalised to 瞅]]
+  - [[Page~562 #6: (1)偢; here normalised to 瞅]]
     ==
     - [[...]];
     - _(4)'m (1)ts(')au (2)ts(')oi_
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)秋]]
+  - [[Page~562 #5: (1)秋]]
     ==
     - Autumn [[Kangxi: 金行之時]];
     - harvest, the time of reaping;

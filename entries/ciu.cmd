@@ -400,7 +400,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)愁 _(1)Ts(')au_ (cau1); here corrected to 愀 and normalised to _(2)Ts(')i(u/)_ (ciu2)]]
+  - [[Page~562 #9: (1)愁 _(1)Ts(')au_ (cau1); here corrected to 愀 and normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
     - ~~To blush, to redden,~~ to change ~~color~~ ``the countenance`` [[Kangxi 愀: 容色變也]];
     - [[...]].
@@ -500,7 +500,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)偢 _(1)Ts(')au_ (cau1); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+  - [[Page~562 #6: (1)偢 _(1)Ts(')au_ (cau1); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
     - Malevolent [[Kangxi: 傻偢不仁]];
     - ill-natured;

@@ -12201,6 +12201,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~562
+    ,{#page-562-entry-1} #1
+    ,{.williams} 鷲(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $鷲zau6
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-2} #2
+    ,{.williams} 袖(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $袖zau6
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-3} #3
+    ,{.williams} 岫(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $岫zau6
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-4} #4
+    ,{.williams} 驟(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $驟zaau6, ($驟zau6)
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-5} #5
+    ,{.williams} (1)秋
+    ,
+      <nav class="sideways">
+      ==
+      - $秋cau1
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-6} #6
+    ,{.williams} (1)偢
+    ,
+      <nav class="sideways">
+      ==
+      - ($偢cau1), $偢ciu3
+      - $瞅cau1
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-7} #7
+    ,{.williams} (1)揫(1)揪
+    ,
+      <nav class="sideways">
+      ==
+      - ($揪cau1), $揪zau1
+      - ($揫cau1)
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-8} #8
+    ,{.williams} (1)楸
+    ,
+      <nav class="sideways">
+      ==
+      - $楸cau1
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-9} #9
+    ,{.williams} (1)愁
+    ,
+      <nav class="sideways">
+      ==
+      - $愀ciu2
+      ==
+      </nav>
+  //
+    ,{#page-562-entry-10} #10
+    ,{.williams} (1)湫
+    ,
+      <nav class="sideways">
+      ==
+      - $湫cau1, $湫zau1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

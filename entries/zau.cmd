@@ -427,7 +427,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 (1)揫(1)揪 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
+  - [[Page~562 #7: (1)揫(1)揪 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
     ==
     - To bind, to gather in sheaves [[Kangxi 揫: 束也, 斂也]];
     - to compress in binding;
@@ -591,7 +591,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)湫 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
+  - [[Page~562 #10: (1)湫 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
     ==
     - [[...]];
     - a small tributary of the Yellow~R.
@@ -2269,7 +2269,7 @@ F
   ==
 W
   ====
-  - [[Page~562 岫(6)]]
+  - [[Page~562 #3: 岫(6)]]
     ==
     - A den, a cave among the hills [[Kangxi: 山穴也]];
     - a glen, a ravine, gorge, or defile.
@@ -2438,7 +2438,7 @@ F
   ==
 W
   ====
-  - [[Page~562 袖(6)]]
+  - [[Page~562 #2: 袖(6)]]
     ==
     - The sleeve [[Kangxi: 袂也, 袖由也手所由出入也]];
     - to put into the sleeve, to receive in the hand [[Kangxi: 亦言受也以受手也]];
@@ -2550,7 +2550,7 @@ F
   ==
 W
   ====
-  - [[Page~562 驟(6)]]
+  - [[Page~562 #4: 驟(6)]]
     --
     [[Reading variation. **See $驟zaau6 for the canonical entry.**]]
     --
@@ -2580,7 +2580,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~562 鷲(6)]]
+  - [[Page~562 #1: 鷲(6)]]
     ==
     - A large accipitrine bird;
     - perhaps a harpy eagle, or a whitish headed condor [[Kangxi: ::鷲悍多力[...]卽白鵰也::]].

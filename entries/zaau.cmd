@@ -839,7 +839,7 @@ F
   ==
 W
   ====
-  - [[Page~562 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
+  - [[Page~562 #4: 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
     ==
     - A fleet horse [[Kangxi: 馬疾步也]];
     - to run [[Kangxi: 奔也]];
