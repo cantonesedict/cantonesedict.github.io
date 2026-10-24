@@ -1043,7 +1043,7 @@ F
   ==
 W
   ====
-  - [[Page~38* 傳(6)]]
+  - [[Page~38* #1: 傳(6)]]
     ==
     - Records or precepts of ancient times [[Kangxi: 訓也賢人之書曰傳又紀載事迹以傳於世亦曰傳諸史列傳是也, 傳傳也以傳示後人也]];
     - _ch(u:)n(6) (4)man_

@@ -6819,6 +6819,116 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~38*
+    ,{#page-38*-entry-1} #1
+    ,{.williams} 傳(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $傳zyun6
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-2} #2
+    ,{.williams} (1)川
+    ,
+      <nav class="sideways">
+      ==
+      - $川cyun1
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-3} #3
+    ,{.williams} (1)穿
+    ,
+      <nav class="sideways">
+      ==
+      - $穿cyun1
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-4} #4
+    ,{.williams} (4)傳
+    ,
+      <nav class="sideways">
+      ==
+      - $傳cyun4
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-5} #5
+    ,{.williams} (2)舛
+    ,
+      <nav class="sideways">
+      ==
+      - $舛cyun2
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-6} #6
+    ,{.williams} (2)竄
+    ,
+      <nav class="sideways">
+      ==
+      - ($竄cyun2), $竄cyun3
+      - $攛cyun3
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-7} #7
+    ,{.williams} (2)攛
+    ,
+      <nav class="sideways">
+      ==
+      - ($攛cyun2), $攛cyun3
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-8} #8
+    ,{.williams} (2)喘
+    ,
+      <nav class="sideways">
+      ==
+      - $喘cyun2
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-9} #9
+    ,{.williams} (2)遄
+    ,
+      <nav class="sideways">
+      ==
+      - ($遄cyun2), $遄cyun4
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-10} #10
+    ,{.williams} 串(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $串cyun3
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-11} #11
+    ,{.williams} 釧(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $釧cyun3
+      ==
+      </nav>
+  //
+    ,{#page-38*-entry-12} #12
+    ,{.williams} (1)中
+    ,
+      <nav class="sideways">
+      ==
+      - $中zung1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

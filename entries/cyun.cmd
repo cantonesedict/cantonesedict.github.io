@@ -91,7 +91,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (1)川]]
+  - [[Page~38* #2: (1)川]]
     ==
     - ~~Mountain~~ streams, ~~perennial~~ brooks [[Kangxi: 穿也穿地而流也]];
     - _(1)ch(')(u:)n (4)lau pat(7) sik(7)_
@@ -175,7 +175,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (1)穿]]
+  - [[Page~38* #3: (1)穿]]
     ==
     - To bore through [[Kangxi: 委曲入也鑽也鑿也]], to perforate [[Kangxi: 通也穴也]];
     - to clothe, to put on;
@@ -298,7 +298,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)喘]]
+  - [[Page~38* #8: (2)喘]]
     ==
     - To pant, to gasp [[Kangxi: 疾息也, 喘息]];
     - the breath, the life;
@@ -448,7 +448,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)攛]]
+  - [[Page~38* #7: (2)攛]]
     --
     [[Reading variation. **See $攛cyun3 for the canonical entry.**]]
     --
@@ -476,7 +476,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)竄]]
+  - [[Page~38* #6: (2)竄]]
     --
     [[Reading variation. **See $竄cyun3 for the canonical entry.**]]
     --
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)舛]]
+  - [[Page~38* #5: (2)舛]]
     ==
     - Erroneous [[Kangxi: 舛錯也, 錯亂也]], opposed [[Kangxi: 舛偝也 etc.]];
     - to contradict;
@@ -639,7 +639,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~38* (2)遄]]
+  - [[Page~38* #9: (2)遄]]
     --
     [[Reading variation. **See $遄cyun4 for the canonical entry.**]]
     --
@@ -679,7 +679,7 @@ F
   ==
 W
   ====
-  - [[Page~38* 串(3)]]
+  - [[Page~38* #10: 串(3)]]
     ==
     - To string together [[Kangxi: 物相連貫也與穿讀去聲通穿亦作串]];
     - to connect;
@@ -814,13 +814,13 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to 攛 _Ts(')(u:)n(3)_ (cyun3)]]
+  - [[Page~38* #6: (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to 攛 _Ts(')(u:)n(3)_ (cyun3)]]
     ==
     - [[...]];
     - to seduce, to beguile [[Kangxi 竄: 誘人爲惡曰竄俗曰攛掇]];
     - [[...]].
     ==
-  - [[Page~38* (2)攛 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
+  - [[Page~38* #7: (2)攛 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
     ==
     - To fling away [[Kangxi: 擲也]];
     - to tempt, to seduce to evil [[Kangxi: 俗謂誘人爲非曰攛掇]];
@@ -927,7 +927,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
+  - [[Page~38* #6: (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
     ==
     - To sneak away, to hide, to skulk [[Kangxi: 匿也逃也]];
     - ~~to kill~~ ``to exile, to punish`` [[Kangxi: 放也誅也]];
@@ -995,7 +995,7 @@ F
   ==
 W
   ====
-  - [[Page~38* 釧(3)]]
+  - [[Page~38* #11: 釧(3)]]
     ==
     - A bracelet or armlet [[Kangxi: 臂環也 etc.]];
     - ~~an amulet on the arm,~~
@@ -1050,7 +1050,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (4)傳]]
+  - [[Page~38* #4: (4)傳]]
     ==
     - To transfer [[Kangxi: 轉也]], to transmit, to hand down, to perpetuate [[Kangxi: 授也續也]];
     - to deliver an order;
@@ -1623,7 +1623,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (2)遄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _(4)Ch(')(u:)n_ (cyun4)]]
+  - [[Page~38* #9: (2)遄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _(4)Ch(')(u:)n_ (cyun4)]]
     ==
     - To go quickly [[Kangxi: 往來數也, 疾也速也]];
     - haste, speed;

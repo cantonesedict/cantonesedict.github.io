@@ -95,7 +95,7 @@ F
   ==
 W
   ====
-  - [[Page~38* (1)中]]
+  - [[Page~38* #12: (1)中]]
     ==
     - The middle, the centre~~:~~``;``
     - half [[Kangxi: 半也]], in the middle of;
