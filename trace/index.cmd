@@ -6717,6 +6717,108 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~37*
+    ,{#page-37*-entry-1} #1
+    ,{.williams} (1)春
+    ,
+      <nav class="sideways">
+      ==
+      - $春ceon1
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-2} #2
+    ,{.williams} (1)椿
+    ,
+      <nav class="sideways">
+      ==
+      - $椿ceon1
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-3} #3
+    ,{.williams} (1){𱼚=⿰未⿱成肉}
+    ,
+      <nav class="sideways">
+      ==
+      - $膥ceon1
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-4} #4
+    ,{.williams} (2)舂(2)蠢
+    ,
+      <nav class="sideways">
+      ==
+      - $蠢ceon2
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-5} #5
+    ,{.williams} (2)踳
+    ,
+      <nav class="sideways">
+      ==
+      - $踳ceon2
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-6} #6
+    ,{.williams} (1)專(1)耑
+    ,
+      <nav class="sideways">
+      ==
+      - $專zyun1
+      - ($耑zyun1)
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-7} #7
+    ,{.williams} (1)磚(1)甎
+    ,
+      <nav class="sideways">
+      ==
+      - ($甎zyun1)
+      - $磚zyun1
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-8} #8
+    ,{.williams} (1)剸
+    ,
+      <nav class="sideways">
+      ==
+      - ($剸zyun1)
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-9} #9
+    ,{.williams} (1)鱄
+    ,
+      <nav class="sideways">
+      ==
+      - $鱄zyun1
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-10} #10
+    ,{.williams} (2)轉
+    ,
+      <nav class="sideways">
+      ==
+      - $轉zyun2, $轉zyun3
+      ==
+      </nav>
+  //
+    ,{#page-37*-entry-11} #11
+    ,{.williams} (2)囀
+    ,
+      <nav class="sideways">
+      ==
+      - $囀zyun2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

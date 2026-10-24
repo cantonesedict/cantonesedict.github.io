@@ -70,7 +70,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)春]]
+  - [[Page~37* #1: (1)春]]
     ==
     - Spring [[Kangxi: 春爲靑陽 etc.]], beginning of the year [[Kangxi: 春者何歲之始也]];
     - joyous, glad;
@@ -126,7 +126,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1)椿]]
+  - [[Page~37* #2: (1)椿]]
     ==
     - A longlived tree [[Kangxi: 上古有大椿者以八千歲爲春八千歲爲秋]], a kind of banian;
     - _(1)ch(')un (4)t(')ong_
@@ -172,7 +172,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (1){𱼚=⿰未⿱成肉}; here normalised to 膥]]
+  - [[Page~37* #3: (1){𱼚=⿰未⿱成肉}; here normalised to 膥]]
     ==
     - An egg, fish roe, crab's eggs;
     - _(4)lui (1)kung (1)ch(')un_
@@ -278,7 +278,7 @@ F
   ==
 W
   ====
-  - [[Page~37* ::~~(2)舂~~(2)蠢::]]
+  - [[Page~37* #4: ::~~(2)舂~~(2)蠢::]]
     ==
     - To crawl, to wriggle, as worms [[Kangxi 蠢: 蟲動也]];
     - to move, to stir [[Kangxi 蠢: 蠢作也, 蠢動作也]];
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~37* (2)踳]]
+  - [[Page~37* #5: (2)踳]]
     ==
     - Blended, mixed, as colors;
     - _(2)ch(')un pok(8)_
