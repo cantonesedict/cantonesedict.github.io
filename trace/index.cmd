@@ -16703,6 +16703,128 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~614
+    ,{#page-614-entry-1} #1
+    ,{.williams} 牸(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $牸zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-2} #2
+    ,{.williams} 俟(6)竢(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $俟zi6
+      - ($竢zi6)
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-3} #3
+    ,{.williams} 涘(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $涘zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-4} #4
+    ,{.williams} 伺(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $伺zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-5} #5
+    ,{.williams} 嗣(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $嗣zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-6} #6
+    ,{.williams} 笥(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $笥zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-7} #7
+    ,{.williams} 飤(6)飼(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $食zi6
+      - ($飤zi6)
+      - $飼zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-8} #8
+    ,{.williams} 食(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $食zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-9} #9
+    ,{.williams} 巳(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $巳zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-10} #10
+    ,{.williams} 祀(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $祀zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-11} #11
+    ,{.williams} 耜(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $耜zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-12} #12
+    ,{.williams} 寺(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $寺zi6
+      ==
+      </nav>
+  //
+    ,{#page-614-entry-13} #13
+    ,{.williams} 䦙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $寺zi6
+      - ($䦙zi6)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

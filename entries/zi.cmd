@@ -5084,7 +5084,7 @@ F
   ==
 W
   ====
-  - [[Page~614 伺(6)]]
+  - [[Page~614 #4: 伺(6)]]
     ==
     - To wait upon, to wait for;
     - to spy, to narrowly examine [[Kangxi: 偵{𠋫=⿰亻侯}也又察也]];
@@ -5113,7 +5113,7 @@ F
   ==
 W
   ====
-  - [[Page~614 俟(6)竢(6)]]
+  - [[Page~614 #2: 俟(6)竢(6)]]
     ==
     - To wait, to stay [[Kangxi 俟: 待也]];
     - to wait upon;
@@ -5239,7 +5239,7 @@ F
   ==
 W
   ====
-  - [[Page~614 嗣(6)]]
+  - [[Page~614 #5: 嗣(6)]]
     ==
     - To connect, as a family;
     - ~~to adopt;~~
@@ -5478,7 +5478,7 @@ F
   ==
 W
   ====
-  - [[Page~614 寺(6)]]
+  - [[Page~614 #12: 寺(6)]]
     ==
     - An official residence, chambers about a court;
     - a court, an office, a hall [[Kangxi: 廷也有法度者也]];
@@ -5505,7 +5505,7 @@ W
     --
     ~~Used for the next [[䦙]].~~
     --
-  - [[Page~614 䦙(6); here normalised to 寺]]
+  - [[Page~614 #13: 䦙(6); here normalised to 寺]]
     ==
     - A court, a hall where officers hold sittings [[Kangxi 䦙: 廷也有法度者也本作寺]];
     - an eunuch [[Kangxi 寺: 宦寺]];
@@ -5543,7 +5543,7 @@ F
   ==
 W
   ====
-  - [[Page~614 巳(6)]]
+  - [[Page~614 #9: 巳(6)]]
     ==
     - The sixth of the 12~branches, denoted by a snake [[Kangxi: ::[...]故巳爲蛇象形::]],
       and corresponding to 9--11~A.~M.
@@ -5775,7 +5775,7 @@ F
   ==
 W
   ====
-  - [[Page~614 涘(6)]]
+  - [[Page~614 #3: 涘(6)]]
     ==
     - The banks of a river [[Kangxi: 水厓也]], the shores or mouth of a stream;
     - _(2)shui tsz'(6)_
@@ -5810,7 +5810,7 @@ F
   ==
 W
   ====
-  - [[Page~614 牸(6)]]
+  - [[Page~614 #1: 牸(6)]]
     ==
     - A cow [[Kangxi: 牝牛]];
     - the female of domesticated animals [[Kangxi: 牝馬亦曰牸, 牸雌也]];
@@ -5935,7 +5935,7 @@ F
   ==
 W
   ====
-  - [[Page~614 祀(6)]]
+  - [[Page~614 #10: 祀(6)]]
     ==
     - To sacrifice to gods or ~~devils~~ ``ancestral spirits``, to offer sacrifices [[Kangxi: 祭也]];
     - sacrificial;
@@ -6044,7 +6044,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~614 俟(6)竢(6)]]
+  - [[Page~614 #2: 俟(6)竢(6)]]
     --
     [[Alternative form of 俟. **See $俟zi6 for the canonical entry.**]]
     --
@@ -6073,7 +6073,7 @@ F
   ==
 W
   ====
-  - [[Page~614 笥(6)]]
+  - [[Page~614 #6: 笥(6)]]
     ==
     - A hamper, a basket [[Kangxi: 飯及衣之器也]];
     - _(1)sh(u:) tsz'(6)_
@@ -6114,7 +6114,7 @@ F
   ==
 W
   ====
-  - [[Page~614 耜(6)]]
+  - [[Page~614 #11: 耜(6)]]
     ==
     - A ploughshare [[Kangxi: 臿也, 耜者耒之金也]];
     - a colter, the part of a plough which enters the earth;
@@ -6328,7 +6328,7 @@ F
   ==
 W
   ====
-  - [[Page~614 䦙(6)]]
+  - [[Page~614 #13: 䦙(6)]]
     --
     [[Alternative form of 寺. **See $寺zi6 for the canonical entry.**]]
     --
@@ -6408,14 +6408,14 @@ F
   ==
 W
   ====
-  - [[Page~614 飤(6)飼(6)]]
+  - [[Page~614 #7: 飤(6)飼(6)]]
     --
     [[...]]
     --
     --
     Interchanged with the next [[食]].
     --
-  - [[Page~614 食(6)]]
+  - [[Page~614 #8: 食(6)]]
     ==
     - To feed, to set food before [[Kangxi: 以食與人也]];
     - to bring up [[Kangxi: 食謂乳養之也, 食養生也]];
@@ -6458,7 +6458,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~614 飤(6)飼(6)]]
+  - [[Page~614 #7: 飤(6)飼(6)]]
     --
     [[Alternative form of 食 and 飼. **See $食zi6 and $飼zi6 for the canonical entries.**]]
     --
@@ -6487,7 +6487,7 @@ F
   ==
 W
   ====
-  - [[Page~614 飤(6)飼(6)]]
+  - [[Page~614 #7: 飤(6)飼(6)]]
     ==
     - To feed, to nourish [[Kangxi 飤: 以食食人也]];
     - to set food before;
