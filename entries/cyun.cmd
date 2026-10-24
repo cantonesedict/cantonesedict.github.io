@@ -340,7 +340,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (2)忖]]
+  - [[Page~605 #11: (2)忖]]
     ==
     - To consider, to reflect on [[Kangxi: 思也]];
     - to guess, to surmise [[Kangxi: 度也]];
@@ -867,7 +867,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (2)㸑 _(2)Ts(')(u:)n_ (cyun2); here corrected to _Ts(')(u:)n(3)_ (cyun3) and normalised to 爨]]
+  - [[Page~605 #12: (2)㸑 _(2)Ts(')(u:)n_ (cyun2); here corrected to _Ts(')(u:)n(3)_ (cyun3) and normalised to 爨]]
     ==
     - A furnace or cooking-place [[Kangxi 爨: 竈也 etc.]];
     - a mess, a table;
@@ -1181,7 +1181,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)存]]
+  - [[Page~605 #9: (4)存]]
     ==
     - To preserve, to defend from injury;
     - alive, to exist [[Kangxi: 存在也]];
@@ -1245,7 +1245,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)拴]]
+  - [[Page~605 #1: (4)拴]]
     ==
     - To select from, to pick out from with the hand [[Kangxi: 揀也]].
     ==
@@ -1281,7 +1281,7 @@ F
   ==
 W
   ====
-  - [[Page~605 ::(4)~~{？=⿰扌⿱⿰夫⿹夫丶貝}~~``攅``::; here normalised to 攢]]
+  - [[Page~605 #7: ::(4)~~{？=⿰扌⿱⿰夫⿹夫丶貝}~~``攅``::; here normalised to 攢]]
     ==
     - ~~Interchanged with 欑;~~
     - to collect, to come together, to assemble [[Kangxi 攢: 族聚也]];
@@ -1325,7 +1325,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~605 ::(4)~~{？=⿰扌⿱⿰夫⿹夫丶貝}~~``攅``::; here corrected to 欑]]
+  - [[Page~605 #7: ::(4)~~{？=⿰扌⿱⿰夫⿹夫丶貝}~~``攅``::; here corrected to 欑]]
     ==
     - ~~Interchanged with 欑;~~
     - [[...]];
@@ -1362,7 +1362,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)泉]]
+  - [[Page~605 #8: (4)泉]]
     ==
     - A fountain, a spring [[Kangxi: 濫泉正出正出涌出也 etc.]];
     - the headwaters of a river [[Kangxi: 水原也]];
@@ -1435,7 +1435,7 @@ W
         [[cyun4 jyu6 全愈]]
         entirely well.
     ==
-  - [[Page~605 (4)痊]]
+  - [[Page~605 #2: (4)痊]]
     ==
     - Cured, healed, convalescent, recovered [[Kangxi: 病瘳也, 病除也]];
     - _peng(6) (4)ts(')(u:)n_
@@ -1462,7 +1462,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)筌]]
+  - [[Page~605 #3: (4)筌]]
     ==
     - A crab-trap;
     - a bamboo trap for fish [[Kangxi: 取魚竹器, 捕魚器今之斗回也]], having a small entrance;
@@ -1505,7 +1505,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)詮]]
+  - [[Page~605 #4: (4)詮]]
     ==
     - To explain, to comment on [[Kangxi: 解喩也]];
     - ~~select sayings;~~
@@ -1544,7 +1544,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)跧]]
+  - [[Page~605 #5: (4)跧]]
     ==
     - Stooping, creeping, bent down [[Kangxi: ::一曰[卑]也絭也::]];
     - to kick [[Kangxi: 蹴也]];
@@ -1580,7 +1580,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (4)蹲]]
+  - [[Page~605 #10: (4)蹲]]
     ==
     - To sit cross-legged;
     - to sit cuddled up, to sit on the heels [[Kangxi: 踞也]];
@@ -1727,7 +1727,7 @@ F
   ==
 W
   ====
-  - [[Page~605 (5)鱒]]
+  - [[Page~605 #13: (5)鱒]]
     ==
     - A fish like the roach, with small scales ``and red eyes`` [[Kangxi: 鱒似鯶魚而鱗細於鯶赤眼]].
     ==

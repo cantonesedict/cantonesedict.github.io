@@ -15878,13 +15878,131 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    ,{r=1} Page~605
+    ,{r=14} Page~605
+    ,{#page-605-entry-1} #1
+    ,{.williams} (4)拴
+    ,
+      <nav class="sideways">
+      ==
+      - $拴cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-2} #2
+    ,{.williams} (4)痊
+    ,
+      <nav class="sideways">
+      ==
+      - $痊cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-3} #3
+    ,{.williams} (4)筌
+    ,
+      <nav class="sideways">
+      ==
+      - $筌cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-4} #4
+    ,{.williams} (4)詮
+    ,
+      <nav class="sideways">
+      ==
+      - $詮cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-5} #5
+    ,{.williams} (4)跧
+    ,
+      <nav class="sideways">
+      ==
+      - $跧cyun4
+      ==
+      </nav>
+  //
     ,{#page-605-entry-6} #6
     ,{.williams} (4)銓
     ,
       <nav class="sideways">
       ==
       - $銓cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-7} #7
+    ,{.williams} (4){？=⿰扌⿱⿰夫⿹夫丶貝}
+    ,
+      <nav class="sideways">
+      ==
+      - $攢cyun4
+      - $欑cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-8} #8
+    ,{.williams} (4)泉
+    ,
+      <nav class="sideways">
+      ==
+      - $泉cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-9} #9
+    ,{.williams} (4)存
+    ,
+      <nav class="sideways">
+      ==
+      - $存cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-10} #10
+    ,{.williams} (4)蹲
+    ,
+      <nav class="sideways">
+      ==
+      - $蹲cyun4
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-11} #11
+    ,{.williams} (2)忖
+    ,
+      <nav class="sideways">
+      ==
+      - $忖cyun2
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-12} #12
+    ,{.williams} (2)㸑
+    ,
+      <nav class="sideways">
+      ==
+      - $爨cyun3
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-13} #13
+    ,{.williams} (5)鱒
+    ,
+      <nav class="sideways">
+      ==
+      - $鱒cyun5
+      ==
+      </nav>
+  //
+    ,{#page-605-entry-14} #14
+    ,{.williams} (5)噂
+    ,
+      <nav class="sideways">
+      ==
+      - $噂zyun2
       ==
       </nav>
   //
