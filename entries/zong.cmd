@@ -166,7 +166,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~568 (4)戕 _(4)Ts(')(e/)ung_ (coeng4); here corrected to _(1)Tsong_ (zong1)]]
+  - [[Page~568 #2: (4)戕 _(4)Ts(')(e/)ung_ (coeng4); here corrected to _(1)Tsong_ (zong1)]]
     ==
     - [[...]];
     - a post [[Kangxi: 戕戙{𣏾=⿰木戈}也]];

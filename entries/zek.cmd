@@ -320,7 +320,7 @@ F
   ==
 W
   ====
-  - [[Page~568 瘠(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
+  - [[Page~568 #11: 瘠(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
     - Lean, thin, reduced to a bone, emaciated [[Kangxi: 瘦也]];
     - poor, as land;

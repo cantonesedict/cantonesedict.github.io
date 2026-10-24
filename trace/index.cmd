@@ -12734,6 +12734,109 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~568
+    ,{#page-568-entry-1} #1
+    ,{.williams} (4)翔
+    ,
+      <nav class="sideways">
+      ==
+      - $翔coeng4
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-2} #2
+    ,{.williams} (4)戕
+    ,
+      <nav class="sideways">
+      ==
+      - $戕coeng4, $戕zong1
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-3} #3
+    ,{.williams} (4)牆(4)墻
+    ,
+      <nav class="sideways">
+      ==
+      - ($墻coeng4)
+      - $牆coeng4
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-4} #4
+    ,{.williams} (4)嬙
+    ,
+      <nav class="sideways">
+      ==
+      - $嬙coeng4
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-5} #5
+    ,{.williams} (4)檣
+    ,
+      <nav class="sideways">
+      ==
+      - $檣coeng4
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-6} #6
+    ,{.williams} (4)薔
+    ,
+      <nav class="sideways">
+      ==
+      - $薔coeng4
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-7} #7
+    ,{.williams} (2)搶
+    ,
+      <nav class="sideways">
+      ==
+      - $搶coeng2
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-8} #8
+    ,{.williams} 卽(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $即zik1
+      - ($卽zik1)
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-9} #9
+    ,{.williams} 喞(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $唧zik1
+      - ($喞zik1)
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-10} #10
+    ,{.williams} 堲(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $堲zik1
+      ==
+      </nav>
+  //
+    ,{#page-568-entry-11} #11
+    ,{.williams} 瘠(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $瘠zek3, ($瘠zik3)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

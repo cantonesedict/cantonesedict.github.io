@@ -1008,7 +1008,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (2)搶]]
+  - [[Page~568 #7: (2)搶]]
     ==
     - To take, to extort, to force away, to ravish, to snatch [[Kangxi: 爭取也]];
     - to dispute for, to struggle for;
@@ -1585,7 +1585,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)牆(4)墻]]
+  - [[Page~568 #3: (4)牆(4)墻]]
     --
     [[Alternative form of 牆. **See $牆coeng4 for the canonical entry.**]]
     --
@@ -1609,7 +1609,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)嬙]]
+  - [[Page~568 #4: (4)嬙]]
     ==
     - Female officers in the imperial hareem [[Kangxi: 嬪嬙婦官名]];
     - _pan(3) (4)ts(')(e/)ung_
@@ -1670,7 +1670,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)戕]]
+  - [[Page~568 #2: (4)戕]]
     ==
     - ~~A spear, a wooden lance;~~
     - [[...]];
@@ -1722,7 +1722,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)檣]]
+  - [[Page~568 #5: (4)檣]]
     ==
     - A mast, any spar or mast which sustains the sails [[Kangxi: 船檣帆柱也]];
     - _(4)f(a/)n (4)ts(')(e/)ung_
@@ -1752,7 +1752,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)牆(4)墻]]
+  - [[Page~568 #3: (4)牆(4)墻]]
     ==
     - A wall made of stone, brick, or mud [[Kangxi 牆: 垣蔽也, 牆謂之墉]];
     - a defense or wall [[Kangxi 牆: 牆所以防非常]];
@@ -1886,7 +1886,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)翔]]
+  - [[Page~568 #1: (4)翔]]
     ==
     - To soar, to hover over [[Kangxi: 回飛也]];
     - to look back [[Kangxi: 翔廻顧也]];
@@ -2052,7 +2052,7 @@ F
   ==
 W
   ====
-  - [[Page~568 (4)薔]]
+  - [[Page~568 #6: (4)薔]]
     ==
     - A rose;
     - _(4)ts(')(e/)ung (4)m(i/) (1)f(a/)_

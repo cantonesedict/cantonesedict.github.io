@@ -161,7 +161,7 @@ F
   ==
 W
   ====
-  - [[Page~568 卽(7); here normalised to 即]]
+  - [[Page~568 #8: 卽(7); here normalised to 即]]
     ==
     - ~~Eating, about~~ ``Nearing`` to eat [[Kangxi 卽: 卽猶就也就食也]];
     - an adverb, now, immediately, soon, presently, when, then, forthwith;
@@ -239,7 +239,7 @@ F
   ==
 W
   ====
-  - [[Page~568 卽(7)]]
+  - [[Page~568 #8: 卽(7)]]
     --
     [[Alternative form of 即. **See $即zik1 for the canonical entry.**]]
     --
@@ -263,7 +263,7 @@ F
   ==
 W
   ====
-  - [[Page~568 喞(7); here normalised to 唧]]
+  - [[Page~568 #9: 喞(7); here normalised to 唧]]
     ==
     - The noise of a crowd [[Kangxi 喞: 啾喞也, 啾喞衆聲]];
     - the hum of insects;
@@ -317,7 +317,7 @@ F
   ==
 W
   ====
-  - [[Page~568 喞(7)]]
+  - [[Page~568 #9: 喞(7)]]
     --
     [[Alternative form of 唧. **See $唧zik1 for the canonical entry.**]]
     --
@@ -374,7 +374,7 @@ F
   ==
 W
   ====
-  - [[Page~568 堲(7)]]
+  - [[Page~568 #10: 堲(7)]]
     ==
     - To make bricks [[Kangxi: ::火[熟]曰堲::]];
     - ~~to make an arched grave;~~
@@ -1146,7 +1146,7 @@ F
   ==
 W
   ====
-  - [[Page~568 瘠(8)]]
+  - [[Page~568 #11: 瘠(8)]]
     --
     [[Reading variation. **See $瘠zek3 for the canonical entry.**]]
     --
