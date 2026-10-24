@@ -507,7 +507,7 @@ F
   ==
 W
   ====
-  - [[Page~579 櫛(8)]]
+  - [[Page~579 #5: 櫛(8)]]
     ==
     - A comb of any kind [[Kangxi: 梳枇之總名也]];
     - to comb, to clean [[Kangxi: 理髮也]];
@@ -618,7 +618,7 @@ F
   ==
 W
   ====
-  - [[Page~579 節(8)]]
+  - [[Page~579 #4: 節(8)]]
     ==
     - The joint of bamboos [[Kangxi: 竹節也]];
     - a joint, a knot, a node;
@@ -981,7 +981,7 @@ F
   ==
 W
   ====
-  - [[Page~579 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
+  - [[Page~579 #1: 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
     ==
     - The eye-lashes [[Kangxi: 同䀹, 目旁毛也]];
     - _met._ the eye;

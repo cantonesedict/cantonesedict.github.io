@@ -160,7 +160,7 @@ F
   ==
 W
   ====
-  - [[Page~579 接(8)]]
+  - [[Page~579 #2: 接(8)]]
     ==
     - To receive in the hand [[Kangxi: 持也受也承也]];
     - to receive, to connect, to join [[Kangxi: 接續也連也]], to succeed;
@@ -428,7 +428,7 @@ F
   ==
 W
   ====
-  - [[Page~579 睫(8)]]
+  - [[Page~579 #1: 睫(8)]]
     --
     [[Reading variation. **See $睫zit6 for the canonical entry.**]]
     --
