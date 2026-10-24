@@ -188,7 +188,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
+  - [[Page~550 #2: ::(1)棲(1)~~梄~~``栖``::]]
     --
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
@@ -222,7 +222,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
+  - [[Page~550 #2: ::(1)棲(1)~~梄~~``栖``::]]
     ==
     - To roost, to perch, to nestle [[Kangxi 栖: 日在西方而鳥棲 etc.]] [[Kangxi 棲: 同栖鳥棲也]];
     - to sojourn, to stay at, to reside;
@@ -408,7 +408,7 @@ F
   ==
 W
   ====
-  - [[Page~550 切(3)]]
+  - [[Page~550 #8: 切(3)]]
     ==
     - All, every, the whole;
     - _yat(7) ts(')ai(3)_
@@ -486,7 +486,7 @@ F
   ==
 W
   ====
-  - [[Page~550 砌(3)]]
+  - [[Page~550 #9: 砌(3)]]
     ==
     - A stone step [[Kangxi: 階甃也]];
     - ornamented tiles laid for steps;
@@ -622,7 +622,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (4)蠐]]
+  - [[Page~550 #4: (4)蠐]]
     ==
     - ~~A maggot~~ ``The scarab beetle grub`` [[Kangxi: 蠐螬]];
     - _(4)ts(')ai (4)ts(')(o\)_
@@ -667,7 +667,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (4)齊]]
+  - [[Page~550 #3: (4)齊]]
     ==
     - Even [[Kangxi: 整也]], equal [[Kangxi: 等也]], uniform;
     - to equalize, to tranquillize;
@@ -772,7 +772,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (5)泚]]
+  - [[Page~550 #7: (5)泚]]
     --
     [[Reading variation. **See $泚ci2 for the canonical entry.**]]
     --
@@ -802,7 +802,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (5)薺]]
+  - [[Page~550 #5: (5)薺]]
     ==
     - Cress, shepherd's purse [[Kangxi: 甘菜]];
     - a term for small esculent plants like pepper-grass, cress, mint.
@@ -832,7 +832,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~550 (5)鱭(5)鮆]]
+  - [[Page~550 #6: (5)鱭(5)鮆]]
     --
     [[Alternative form of 鱭. **See $鱭cai5 for the canonical entry.**]]
     --
@@ -856,7 +856,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~550 (5)鱭(5)鮆]]
+  - [[Page~550 #6: (5)鱭(5)鮆]]
     ==
     - A thin fish, with a silvery belly;
     - a mullet;

@@ -3022,7 +3022,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here corrected to _(2)Tsz'_ (zi2)]]
+  - [[Page~550 #7: (5)泚 _(5)Ts(')ai_ (cai5); here corrected to _(2)Tsz'_ (zi2)]]
     ==
     - [[...]];
     - name of a stream [[Kangxi: 水名]].

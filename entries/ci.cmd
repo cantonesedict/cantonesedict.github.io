@@ -1265,7 +1265,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here normalised to _(2)Ts(')z'_ (ci2)]]
+  - [[Page~550 #7: (5)泚 _(5)Ts(')ai_ (cai5); here normalised to _(2)Ts(')z'_ (ci2)]]
     ==
     - Perspiring [[Kangxi: 汗出貌]], sweating on the forehead;
     - clear water [[Kangxi: 水淸也]];

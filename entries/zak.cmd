@@ -181,7 +181,7 @@ F
   ==
 W
   ====
-  - [[Page~550 則(7)]]
+  - [[Page~550 #10: 則(7)]]
     ==
     - A rule, a precept, a law, a regulation [[Kangxi: 法也, 則常也]];
     - a principle [[Kangxi: 天理不差曰則]];

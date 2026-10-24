@@ -11236,6 +11236,90 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~550
+    ,{#page-550-entry-2} #2
+    ,{.williams} (1)棲(1)梄
+    ,
+      <nav class="sideways">
+      ==
+      - ($栖cai1)
+      - $棲cai1
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-3} #3
+    ,{.williams} (4)齊
+    ,
+      <nav class="sideways">
+      ==
+      - $齊cai4
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-4} #4
+    ,{.williams} (4)蠐
+    ,
+      <nav class="sideways">
+      ==
+      - $蠐cai4
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-5} #5
+    ,{.williams} (5)薺
+    ,
+      <nav class="sideways">
+      ==
+      - $薺cai5
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-6} #6
+    ,{.williams} (5)鱭(5)鮆
+    ,
+      <nav class="sideways">
+      ==
+      - ($鮆cai5)
+      - $鱭cai5
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-7} #7
+    ,{.williams} (5)泚
+    ,
+      <nav class="sideways">
+      ==
+      - ($泚cai5), $泚ci2, $泚zi2
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-8} #8
+    ,{.williams} 切(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $切cai3
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-9} #9
+    ,{.williams} 砌(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $砌cai3
+      ==
+      </nav>
+  //
+    ,{#page-550-entry-10} #10
+    ,{.williams} 則(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $則zak1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
