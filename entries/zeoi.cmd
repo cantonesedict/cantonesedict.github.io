@@ -85,7 +85,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)且]]
+  - [[Page~594 #5: (1)且]]
     ==
     - A phonetic particle, used in the Sh(i/) King [[詩經]]
       at the end of sentences, as an affirmative [[Kangxi: 語餘聲]].
@@ -175,7 +175,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)沮]]
+  - [[Page~594 #11: (1)沮]]
     ==
     - The name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]  [[Kangxi: 水名, 水出漢中房陵東入江]]
       west of ~~K'ingchau~~ ``Kingchau`` f(u/) [[荊州府]] in H(u/)peh [[湖北]];
@@ -214,7 +214,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)疽]]
+  - [[Page~594 #6: (1)疽]]
     ==
     - A deep-seated ulcer [[Kangxi: 久癰也]];
     - a carbuncle or anthrax;
@@ -250,7 +250,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (1)睢]]
+  - [[Page~594 #7: (1)睢]]
     --
     [[Reading variation. **See $睢fai1 for the canonical entry.**]]
     --
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)苴]]
+  - [[Page~594 #8: (1)苴]]
     ==
     - ~~The female~~ hemp ~~plant~~ [[Kangxi: 麻也]] ``or hempseed`` [[Kangxi: 苴麻子也]];
     - sackcloth;
@@ -423,7 +423,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)菹]]
+  - [[Page~594 #9: (1)菹]]
     ==
     - Pickled fruits, like melons [[Kangxi: 酢菜也 etc.]];
     - salted vegetables;
@@ -535,7 +535,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)趄]]
+  - [[Page~594 #10: (1)趄]]
     ==
     - To walk slowly, impeded in going [[Kangxi: 趑趄也]];
     - _(1)tsz' (1)ts(u:)_
@@ -914,7 +914,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (2)沮]]
+  - [[Page~594 #12: (2)沮]]
     ==
     - To stop, to prohibit [[Kangxi: 止也]];
     - ~~to pass over;~~
@@ -1214,7 +1214,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (2)沮 _(2)Ts(u:)_ (zeoi2); here corrected to _Ts(u:)(3)_ (zeoi3)]]
+  - [[Page~594 #12: (2)沮 _(2)Ts(u:)_ (zeoi2); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     ==
     - [[...]];
     - _shap(7) ~~(2)ts(u:)~~ ``ts(u:)(3)``_

@@ -345,7 +345,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (1)艙]]
+  - [[Page~594 #1: (1)艙]]
     --
     An unauthorized character.
     --
@@ -487,7 +487,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)鯧(1)䱽]]
+  - [[Page~594 #2: (1)鯧(1)䱽]]
     --
     The second character [[䱽]] is unauthorized.
     --
@@ -540,7 +540,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (1)鶬]]
+  - [[Page~594 #3: (1)鶬]]
     ==
     - A kind of crane [[Kangxi: 今呼鶬鴰, 鶬大如鶴]], plumage ashcolored [[Kangxi: 靑蒼色亦有灰色者]], and cheeks red [[Kangxi: 兩頰紅]];
     - _(1)ts(')ong ~~k(u/)t(8)~~ ``k(')(u/)t(8)``_
@@ -1165,7 +1165,7 @@ F
   ==
 W
   ====
-  - [[Page~594 (4)藏]]
+  - [[Page~594 #4: (4)藏]]
     ==
     - To store away [[Kangxi: 蓄也]], to put in safety;
     - to contain;

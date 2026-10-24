@@ -362,7 +362,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (1)睢 _(1)Ts(u:)_ (zeoi1); here normalised to _(1)Fai_ (fai1)]]
+  - [[Page~594 #7: (1)睢 _(1)Ts(u:)_ (zeoi1); here normalised to _(1)Fai_ (fai1)]]
     ==
     - To stare at [[Kangxi: 大視也]] ~~in a fright~~,
       to gaze up at [[Kangxi: 仰目也, 仰目視貌]],
