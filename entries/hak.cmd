@@ -108,7 +108,7 @@ W
     --
     [[Otherwise, an alternative form of 剋. **See $剋hak1 for the canonical entry.**]]
     --
-  - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 克 _Hak(7)_ (hak1)]]
+  - [[Page~70 #4: 尅(7) _H(a/)k(7)_ (haak1); here normalised to 克 _Hak(7)_ (hak1)]]
     ==
     - To subdue, to overcome [[Kangxi 剋: 剋勝也, 謂得勝也]];
     - [[...]].
@@ -160,7 +160,7 @@ F
   ==
 W
   ====
-  - [[Page~70 刻(7) _H(a/)k(7)_ (haak1); here normalised to _Hak(7)_ (hak1)]]
+  - [[Page~70 #3: 刻(7) _H(a/)k(7)_ (haak1); here normalised to _Hak(7)_ (hak1)]]
     ==
     - To carve [[Kangxi: 鏤也]], to chisel, to sculpture;
     - ~~a~~ ``to`` cut [[Kangxi: 割也]];
@@ -247,7 +247,7 @@ W
     - overbearing;
     - [[...]].
     ==
-  - [[Page~70 尅(7) _H(a/)k(7)_ (haak1); here normalised to 剋 _Hak(7)_ (hak1)]]
+  - [[Page~70 #4: 尅(7) _H(a/)k(7)_ (haak1); here normalised to 剋 _Hak(7)_ (hak1)]]
     ==
     - [[...]];
     - to repress, to exorcise;

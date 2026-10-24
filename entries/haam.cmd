@@ -214,7 +214,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)函]]
+  - [[Page~70 #8: (4)函]]
     ==
     - To contain, to infold, to comprehend in, to envelop [[Kangxi: 容也, 函包也, 讀與含同]];
     - a letter, or what is contained in an envelop [[Kangxi: 書也]];
@@ -273,7 +273,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)咸]]
+  - [[Page~70 #5: (4)咸]]
     ==
     - All, jointly, altogether [[Kangxi: 皆也, 悉也]];
     - completely, totally;
@@ -409,7 +409,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)㮀]]
+  - [[Page~70 #10: (4)㮀]]
     ==
     - The Fan Wan says, to plant, to set out [[Fan Wan: 植也]];
     - [[...]].
@@ -440,7 +440,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~70 (4)㮀; here normalised to 椷]]
+  - [[Page~70 #10: (4)㮀; here normalised to 椷]]
     ==
     - [[...]];
     - but K(a/)ngh(i/) defines it a wooden ~~bowl~~ ``cup`` [[Kangxi 椷: 杯也 etc.]].
@@ -473,7 +473,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)涵]]
+  - [[Page~70 #9: (4)涵]]
     ==
     - Submerged [[Kangxi: 涵沉也]];
     - to leak [[Kangxi: 一曰水入船]];
@@ -534,7 +534,7 @@ F
   ==
 W
   ====
-  - [[Page~70 (4)諴]]
+  - [[Page~70 #7: (4)諴]]
     ==
     - Union, harmony [[Kangxi: 和也]];
     - to be accordant, united;
@@ -668,9 +668,9 @@ F
   ==
 W
   ====
-  - [[Page~70 ::(4)~~？~~``鹹``::]]
+  - [[Page~70 #6: (4)鹹]]
     ==
-    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi 鹹: 北方味也, 不淡, 鹽味]];
+    - ~~Saltish, like sea-water~~ ``Salty`` [[Kangxi: 北方味也, 不淡, 鹽味]];
     - salted, preserved in brine;
     - _(4)h(a/)m shap(7)_
         [[haam4 sap1 鹹濕]]

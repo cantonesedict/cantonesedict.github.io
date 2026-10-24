@@ -10479,6 +10479,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~70
+    ,{#page-70-entry-1} #1
+    ,{.williams} 客(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $客haak3
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-2} #2
+    ,{.williams} 嚇(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $嚇haak3
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-3} #3
+    ,{.williams} 刻(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $刻hak1
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-4} #4
+    ,{.williams} 尅(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $克hak1
+      - $剋hak1
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-5} #5
+    ,{.williams} (4)咸
+    ,
+      <nav class="sideways">
+      ==
+      - $咸haam4
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-6} #6
+    ,{.williams} (4)鹹
+    ,
+      <nav class="sideways">
+      ==
+      - $鹹haam4
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-7} #7
+    ,{.williams} (4)諴
+    ,
+      <nav class="sideways">
+      ==
+      - $諴haam4
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-8} #8
+    ,{.williams} (4)函
+    ,
+      <nav class="sideways">
+      ==
+      - $函haam4
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-9} #9
+    ,{.williams} (4)涵
+    ,
+      <nav class="sideways">
+      ==
+      - $涵haam4
+      ==
+      </nav>
+  //
+    ,{#page-70-entry-10} #10
+    ,{.williams} (4)㮀
+    ,
+      <nav class="sideways">
+      ==
+      - $㮀haam4
+      - $椷haam4
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

@@ -202,7 +202,7 @@ F
   ==
 W
   ====
-  - [[Page~70 嚇(8)]]
+  - [[Page~70 #2: 嚇(8)]]
     ==
     - An angry ~~tone~~ ``sound`` [[Kangxi: 怒其聲]];
     - to threaten, to intimidate;
@@ -259,7 +259,7 @@ F
   ==
 W
   ====
-  - [[Page~70 客(8)]]
+  - [[Page~70 #1: 客(8)]]
     ==
     - A guest, a visitor [[Kangxi: 賔客]], a friend;
     - a dealer, customer, a stranger [[Kangxi: 凡自外至者皆曰客]];
