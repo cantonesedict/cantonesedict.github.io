@@ -110,7 +110,7 @@ F
   ==
 W
   ====
-  - [[Page~54 攫(8)]]
+  - [[Page~54 #11: 攫(8)]]
     ==
     - To grasp with the talons or claws [[Kangxi: 扟也, 撲取也, 以腳取之謂之攫以翼擊之謂之搏, 一曰持也]];
     - _fok(8) (2)ts(')(u:)_
@@ -148,7 +148,7 @@ F
   ==
 W
   ====
-  - [[Page~54 矍(8)]]
+  - [[Page~54 #12: 矍(8)]]
     ==
     - The fluttering of a bird when caught [[Kangxi: 隹欲逸走也]];
     - looking right and left ``in fear`` [[Kangxi: 左右驚顧也]];
@@ -254,7 +254,7 @@ F
   ==
 W
   ====
-  - [[Page~54 躩(8)]]
+  - [[Page~54 #10: 躩(8)]]
     ==
     - A short, quick, stately step,
       as if ~~going up stairs~~ ``turning on the spot``,

@@ -204,7 +204,7 @@ F
   ==
 W
   ====
-  - [[Page~54 ::(1)~~蚪~~``蝌``::]]
+  - [[Page~54 #1: ::(1)~~蚪~~``蝌``::]]
     ==
     - The tadpole;
     - _(1)fo (2)tau_
@@ -260,7 +260,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)火; here normalised to 伙]]
+  - [[Page~54 #2: (2)火; here normalised to 伙]]
     ==
     - [[...]];
     - _~~(1)tsun~~ ``tsun(3)`` (2)fo_
@@ -268,7 +268,7 @@ W
         to move to a new house;
     - [[...]].
     ==
-  - [[Page~54 (2)伙]]
+  - [[Page~54 #3: (2)伙]]
     ==
     - A company of ten in the army [[Kangxi 火: 府兵十人爲火 etc.]];
     - _(1)k(a/) (2)fo_
@@ -291,7 +291,7 @@ W
         well, pleasing, handsome;
         also used in irony, as detestable, badly, done.
     ==
-  - [[Page~54 (2)夥; here normalised to 伙]]
+  - [[Page~54 #4: (2)夥; here normalised to 伙]]
     ==
     - A colleague, comrade, accomplice, associate;
     - [[...]];
@@ -385,7 +385,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)夥]]
+  - [[Page~54 #4: (2)夥]]
     ==
     - [[...]];
     - many, numerous [[Kangxi: 多也]];
@@ -414,7 +414,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)火]]
+  - [[Page~54 #2: (2)火]]
     ==
     - Fire, flame [[Kangxi: 火燬也南方之行炎而上]];
     - to burn, to consume [[Kangxi: 火化也消化物也 etc.]];
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~54 (2)顆]]
+  - [[Page~54 #5: (2)顆]]
     ==
     - A little head [[Kangxi: 小頭也]] ~~or clod~~;
     - ``a clod [[Kangxi: 與堁同土塊 etc.]];``
@@ -600,7 +600,7 @@ F
   ==
 W
   ====
-  - [[Page~54 課(3)]]
+  - [[Page~54 #7: 課(3)]]
     ==
     - A plan, an example, a task, an exercise;
     - literary pursuits;
@@ -666,7 +666,7 @@ F
   ==
 W
   ====
-  - [[Page~54 貨(3)]]
+  - [[Page~54 #6: 貨(3)]]
     ==
     - Goods, merchandise, commodities``, things of value or utility`` [[Kangxi: 財也, 貨寶用物, etc.]];
     - to trade``, to buy, to sell [[Kangxi: 貨賣也]]``;

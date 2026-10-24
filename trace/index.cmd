@@ -8747,6 +8747,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~54
+    ,{#page-54-entry-1} #1
+    ,{.williams} (1)蚪
+    ,
+      <nav class="sideways">
+      ==
+      - $蝌fo1
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-2} #2
+    ,{.williams} (2)火
+    ,
+      <nav class="sideways">
+      ==
+      - $伙fo2
+      - $火fo2
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-3} #3
+    ,{.williams} (2)伙
+    ,
+      <nav class="sideways">
+      ==
+      - $伙fo2
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-4} #4
+    ,{.williams} (2)夥
+    ,
+      <nav class="sideways">
+      ==
+      - $伙fo2
+      - $夥fo2
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-5} #5
+    ,{.williams} (2)顆
+    ,
+      <nav class="sideways">
+      ==
+      - $顆fo2
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-6} #6
+    ,{.williams} 貨(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $貨fo3
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-7} #7
+    ,{.williams} 課(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $課fo3
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-10} #10
+    ,{.williams} 躩(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $躩fok3
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-11} #11
+    ,{.williams} 攫(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $攫fok3
+      ==
+      </nav>
+  //
+    ,{#page-54-entry-12} #12
+    ,{.williams} 矍(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $矍fok3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
