@@ -67,7 +67,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 (1)凄(1)淒]]
+  - [[Page~549 #6: (1)凄(1)淒]]
     --
     [[Alternative form of 淒. **See $淒cai1 for the canonical entry.**]]
     --
@@ -87,7 +87,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)妻]]
+  - [[Page~549 #5: (1)妻]]
     ==
     - A wife, a partner [[Kangxi: 妻與己齊者也]], a spouse, a consort who is taken with legal ceremonies;
     - _(1)ts(')ai (2)tsz'_
@@ -155,7 +155,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)悽]]
+  - [[Page~549 #7: (1)悽]]
     --
     [[...]]
     --
@@ -277,7 +277,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)凄(1)淒]]
+  - [[Page~549 #6: (1)凄(1)淒]]
     ==
     - Intense cold [[Kangxi 淒: 寒涼也]];
     - bleak, cloudy, wintry [[Kangxi 淒: 雲雨起貌]];
@@ -307,7 +307,7 @@ W
     --
     The second [[淒]] also means gathering clouds.
     --
-  - [[Page~549 (1)悽]]
+  - [[Page~549 #7: (1)悽]]
     --
     Similar to the last [[淒]];
     --
@@ -342,7 +342,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)緀]]
+  - [[Page~549 #8: (1)緀]]
     ==
     - The stripes, colored or plain, in silken fabrics [[Kangxi: 帛文貌]];
     - ornamented, blended colors and stripes [[Kangxi: 緀斐文章相錯貌]].
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)萋]]
+  - [[Page~549 #9: (1)萋]]
     ==
     - Luxuriant foliage [[Kangxi: 草盛貌]];
     - _(1)ts(')ai (1)ts(')ai_
@@ -449,7 +449,7 @@ F
   ==
 W
   ====
-  - [[Page~549 (1)妻]]
+  - [[Page~549 #5: (1)妻]]
     --
     [[...]]
     --
@@ -548,7 +548,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 嚌(6) read _(1)Tsai_ (zai1); here corrected to _(4)Ts(')ai_ (cai4)]]
+  - [[Page~549 #4: 嚌(6) read _(1)Tsai_ (zai1); here corrected to _(4)Ts(')ai_ (cai4)]]
     --
     ~~Read _(1)tsai_ [[zai1]].~~
     --
@@ -583,7 +583,7 @@ F
   ==
 W
   ====
-  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
+  - [[Page~549 #3: 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
     ==
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];

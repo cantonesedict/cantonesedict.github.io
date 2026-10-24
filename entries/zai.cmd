@@ -131,7 +131,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(1)Tsai_ (zai1)]]
+  - [[Page~549 #3: 懠(3) _Tsai(3)_ (zai3); here corrected to _(1)Tsai_ (zai1)]]
     ==
     - [[...]];
     - suspicious, envious of [[Kangxi: 懠疑猶猜疑也]];
@@ -624,7 +624,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
+  - [[Page~549 #1: 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
     ==
     - Name of a river [[Kangxi: 水名]];
     - [[...]];
@@ -933,7 +933,7 @@ F
   ==
 W
   ====
-  - [[Page~549 濟(3)]]
+  - [[Page~549 #1: 濟(3)]]
     ==
     - [[...]];
     - to assist, to succor, to benefit [[Kangxi: 益也]];
@@ -1236,13 +1236,13 @@ F
   ==
 W
   ====
-  - [[Page~549 濟(3)]]
+  - [[Page~549 #1: 濟(3)]]
     ==
     - [[...]];
     - used for the next [[霽]] [[Kangxi 濟: 與霽通亦止也]];
     - [[...]].
     ==
-  - [[Page~549 霽(3)]]
+  - [[Page~549 #2: 霽(3)]]
     ==
     - The rain stopping [[Kangxi: 雨止也]], the clouds clearing away and the blue sky appearing [[Kangxi: 晴也, 雨晴曰霽]];
     - _(4)ts(')ing tsai(3)_
@@ -1291,7 +1291,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~549 嚌(6)]]
+  - [[Page~549 #4: 嚌(6)]]
     --
     ~~Read _(1)tsai_ [[zai1]].~~
     --

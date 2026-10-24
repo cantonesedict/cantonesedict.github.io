@@ -11151,6 +11151,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~549
+    ,{#page-549-entry-1} #1
+    ,{.williams} 濟(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $濟zai2, $濟zai3
+      - $霽zai3
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-2} #2
+    ,{.williams} 霽(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $霽zai3
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-3} #3
+    ,{.williams} 懠(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $懠cai4, $懠zai1
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-4} #4
+    ,{.williams} 嚌(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $嚌cai4, $嚌zai6
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-5} #5
+    ,{.williams} (1)妻
+    ,
+      <nav class="sideways">
+      ==
+      - $妻cai1, $妻cai3
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-6} #6
+    ,{.williams} (1)凄(1)淒
+    ,
+      <nav class="sideways">
+      ==
+      - ($凄cai1)
+      - $淒cai1
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-7} #7
+    ,{.williams} (1)悽
+    ,
+      <nav class="sideways">
+      ==
+      - $悽cai1
+      - $淒cai1
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-8} #8
+    ,{.williams} (1)緀
+    ,
+      <nav class="sideways">
+      ==
+      - $緀cai1
+      ==
+      </nav>
+  //
+    ,{#page-549-entry-9} #9
+    ,{.williams} (1)萋
+    ,
+      <nav class="sideways">
+      ==
+      - $萋cai1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
