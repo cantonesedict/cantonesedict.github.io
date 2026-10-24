@@ -281,6 +281,10 @@ R
   ⽈ + 8
 U
   U+66FE
+H
+  May appear with top component 丷 (assumed here) or 八,
+  depending on the font.
+  This extends to all characters containing 曾 as a component.
 A
   ==
   - 曽
