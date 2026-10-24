@@ -9716,6 +9716,116 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~63
+    ,{#page-63-entry-3} #3
+    ,{.williams} 悔(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $悔fui3
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-4} #4
+    ,{.williams} 晦(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $晦fui3
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-5} #5
+    ,{.williams} 誨(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $誨fui3
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-6} #6
+    ,{.williams} 輻(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $輻fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-7} #7
+    ,{.williams} 幅(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $幅fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-8} #8
+    ,{.williams} 福(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $福fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-9} #9
+    ,{.williams} 楅(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($楅fuk1)
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-10} #10
+    ,{.williams} 葍(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $葍fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-11} #11
+    ,{.williams} 蝠(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $蝠fuk1
+      - $蝮fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-12} #12
+    ,{.williams} 蝮(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $蝮fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-13} #13
+    ,{.williams} 腹(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $腹fuk1
+      ==
+      </nav>
+  //
+    ,{#page-63-entry-14} #14
+    ,{.williams} 覆(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $覆fuk1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

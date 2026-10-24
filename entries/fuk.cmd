@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~63 幅(7)]]
+  - [[Page~63 #7: 幅(7)]]
     ==
     - ~~A wide strip~~ ``The width`` of cloth [[Kangxi: 布帛廣也 etc.]];
     - a roll of paper or cloth;
@@ -154,7 +154,7 @@ F
   ==
 W
   ====
-  - [[Page~63 楅(7)]]
+  - [[Page~63 #9: 楅(7)]]
     --
     [[Reading variation. **See $楅bik1 for the canonical entry.**]] [[TODO]]
     --
@@ -187,7 +187,7 @@ F
   ==
 W
   ====
-  - [[Page~63 福(7)]]
+  - [[Page~63 #8: 福(7)]]
     ==
     - Happiness, good fortune, lucky, felicity [[Kangxi: 祐也休也善也祥也]];
     - to bless;
@@ -273,7 +273,7 @@ F
   ==
 W
   ====
-  - [[Page~63 腹(7)]]
+  - [[Page~63 #13: 腹(7)]]
     ==
     - That which embraces;
     - the belly, abdomen, bowels [[Kangxi: 肚也 etc.]];
@@ -335,7 +335,7 @@ F
   ==
 W
   ====
-  - [[Page~63 葍(7)]]
+  - [[Page~63 #10: 葍(7)]]
     ==
     - An edible vegetable with white roots,
       size of the finger [[Kangxi: 大葉白華根如指正白可啖]],
@@ -364,7 +364,7 @@ F
   ==
 W
   ====
-  - [[Page~63 蝠(7)]]
+  - [[Page~63 #11: 蝠(7)]]
     ==
     - A bat [[Kangxi: 蝙蝠服翼]];
     - [[...]].
@@ -394,7 +394,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~63 蝠(7); here normalised to 蝮]]
+  - [[Page~63 #11: 蝠(7); here normalised to 蝮]]
     ==
     - [[...]];
     - _fuk(7) (4)sh(e/)_
@@ -402,7 +402,7 @@ W
         a venemous serpent;
         _met._ a malignant heart.
     ==
-  - [[Page~63 蝮(7)]]
+  - [[Page~63 #12: 蝮(7)]]
     ==
     - An adder, cobra, or venemous serpent, called in Canton
       _~~f(a/)n(3)~~ ``f(a/)n(6)`` ~~(4)sh(i/)~~ ``(4)ch(')(i/)`` (4)t(')au_ [[faan6 ci4 tau4 飯匙頭]],
@@ -513,7 +513,7 @@ W
         the heaven covers and earth ~~contains~~ ``carries``;
     - [[...]].
     ==
-  - [[Page~63 覆(7)]]
+  - [[Page~63 #14: 覆(7)]]
     ==
     - To and fro, to repeat, back and forth [[Kangxi: 反覆也]];
     - unstable, unsettled;
@@ -663,7 +663,7 @@ F
   ==
 W
   ====
-  - [[Page~63 輻(7)]]
+  - [[Page~63 #6: 輻(7)]]
     ==
     - The spokes of a wheel [[Kangxi: 輪轑也, 輻謂輪中木之直指者]];
     - _fuk(7) ts(')au(3)_

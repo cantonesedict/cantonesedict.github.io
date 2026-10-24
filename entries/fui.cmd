@@ -470,7 +470,7 @@ F
   ==
 W
   ====
-  - [[Page~63 悔(3)]]
+  - [[Page~63 #3: 悔(3)]]
     ==
     - To repent, to change [[Kangxi: 悔恨也, 改也恨也]];
     - to regret [[Kangxi: 悔吝也]], vexed with one's self;
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~63 晦(3)]]
+  - [[Page~63 #4: 晦(3)]]
     ==
     - Obscure [[Kangxi: 晦昧也]], dark [[Kangxi: 晦昏也]];
     - night [[Kangxi: 晦夜也]], the close of light [[Kangxi: 晦晏也]];
@@ -576,7 +576,7 @@ F
   ==
 W
   ====
-  - [[Page~63 誨(3)]]
+  - [[Page~63 #5: 誨(3)]]
     ==
     - To teach, to reiterate instruction [[Kangxi: 曉敎也 etc.]];
     - to admonish, to give line upon line;
