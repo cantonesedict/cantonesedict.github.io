@@ -92,7 +92,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (1)簪]]
+  - [[Page~553 #1: (1)簪]]
     ==
     - A hairpin, clasp, or bodkin, used to confine the hair
       or fasten the coiffure [[Kangxi: 首筓也]];
@@ -452,7 +452,7 @@ F
   ==
 W
   ====
-  - [[Page~553 暫(6)]]
+  - [[Page~553 #3: 暫(6)]]
     ==
     - ~~A part of a day;~~
     - for the time being, briefly, shortly, for a short time,

@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~553 ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
+  - [[Page~553 #4: ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
     ==
     - To be concerned with [[Kangxi 參: 干與也]], to join with for consultation [[Kangxi 參: 相謁也]],
       to advise, to give counsel to;
@@ -164,7 +164,7 @@ F
   ==
 W
   ====
-  - [[Page~553 ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
+  - [[Page~553 #4: ::(1)參(1)~~{？=⿳厽𠆢氺}~~``叅``::]]
     --
     [[Alternative form of 參. **See $參caam1 for the canonical entry.**]]
     --
@@ -295,7 +295,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (1)驂]]
+  - [[Page~553 #5: (1)驂]]
     ==
     - Three horses abreast in a chariot [[Kangxi: 驂馬, 駕三馬也]];
     - the horses outside of the thills [[Kangxi: 車中兩馬曰服兩馬驂其外小退曰驂]];
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (4)劖]]
+  - [[Page~553 #7: (4)劖]]
     ==
     - To cut apart, to chop [[Kangxi: 斷也]];
     - to chissel off [[Kangxi: 劖鑿也]];
@@ -939,7 +939,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (4)蠶(4)蚕]]
+  - [[Page~553 #6: (4)蠶(4)蚕]]
     --
     [[Alternative form of 蠶. **See $蠶caam4 for the canonical entry.**]]
     --
@@ -968,7 +968,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (4)蠶(4)蚕]]
+  - [[Page~553 #6: (4)蠶(4)蚕]]
     ==
     - The silkworm [[Kangxi 蠶: 絲蟲也]];
     - caterpillars which weave coccoons [[Kangxi 蠶: 任絲也]];
@@ -1200,7 +1200,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (5)鏨 _(5)^Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
+  - [[Page~553 #2: (5)鏨 _(5)^Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
     ==
     - A stone-cutter's chissel;
     - a small cold chissel [[Kangxi: 小鑿也]];
