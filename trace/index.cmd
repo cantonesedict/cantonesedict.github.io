@@ -13807,6 +13807,135 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~581
+    ,{#page-581-entry-1} #1
+    ,{.williams} (1)鐎
+    ,
+      <nav class="sideways">
+      ==
+      - $鐎ziu1
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-2} #2
+    ,{.williams} (1)礁
+    ,
+      <nav class="sideways">
+      ==
+      - $礁ziu1
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-3} #3
+    ,{.williams} (1)鷦
+    ,
+      <nav class="sideways">
+      ==
+      - $鷦ziu1
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-4} #4
+    ,{.williams} (1)剿(1){𠞰=⿰巢刀}
+    ,
+      <nav class="sideways">
+      ==
+      - $剿ziu2
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-5} #5
+    ,{.williams} 醮(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $醮ziu3
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-6} #6
+    ,{.williams} 燋(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $燋ziu1, $燋ziu3
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-7} #7
+    ,{.williams} 噍(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $噍ziu6
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-8} #8
+    ,{.williams} (4)樵
+    ,
+      <nav class="sideways">
+      ==
+      - $樵ciu4
+      - $譙ciu4
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-9} #9
+    ,{.williams} (4)譙
+    ,
+      <nav class="sideways">
+      ==
+      - $誚ciu3
+      - ($譙ciu3), $譙ciu4
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-10} #10
+    ,{.williams} (4)憔
+    ,
+      <nav class="sideways">
+      ==
+      - $憔ciu4
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-11} #11
+    ,{.williams} (4)瞧
+    ,
+      <nav class="sideways">
+      ==
+      - $瞧ciu4
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-12} #12
+    ,{.williams} (2)俏
+    ,
+      <nav class="sideways">
+      ==
+      - $俏ciu3
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-13} #13
+    ,{.williams} (2)峭
+    ,
+      <nav class="sideways">
+      ==
+      - $峭ciu3
+      ==
+      </nav>
+  //
+    ,{#page-581-entry-14} #14
+    ,{.williams} (2)悄
+    ,
+      <nav class="sideways">
+      ==
+      - $悄ciu2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

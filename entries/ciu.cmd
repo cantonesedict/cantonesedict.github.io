@@ -356,7 +356,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (2)悄]]
+  - [[Page~581 #14: (2)悄]]
     ==
     - Sad, downcast, sorrowing [[Kangxi: 憂也]];
     - _(1)yau (1)sam (2)ts(')i(u/) (2)ts(')i(u/)_
@@ -452,7 +452,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (2)俏 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+  - [[Page~581 #12: (2)俏 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
     - Like, as if, similar [[Kangxi: 似也像也]];
     - handsome, pretty, beautiful [[Kangxi: 好貌]];
@@ -530,7 +530,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (2)峭 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+  - [[Page~581 #13: (2)峭 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
     - A steep, abrupt hill [[Kangxi: 山峻拔峭絕也]];
     - a cliff, which obstructs the way [[Kangxi: 嶮也]];
@@ -626,7 +626,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (4)譙]]
+  - [[Page~581 #9: (4)譙]]
     --
     Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold [[Kangxi 譙: 譙誚二字古通]].
     --
@@ -667,7 +667,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 (4)譙]]
+  - [[Page~581 #9: (4)譙]]
     --
     [[Alternative form of 誚. **See $誚ciu3 for the canonical entry.**]]
     --
@@ -749,7 +749,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (4)憔]]
+  - [[Page~581 #10: (4)憔]]
     ==
     -  Lean [[Kangxi: 憔悴瘦也]], anxious and starving;
     - _(4)ts(')i(u/) sui(6)_
@@ -913,7 +913,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (4)樵]]
+  - [[Page~581 #8: (4)樵]]
     ==
     - Wood fit for fuel;
     - scattered wood [[Kangxi: 散木也]];
@@ -1019,7 +1019,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 (4)瞧]]
+  - [[Page~581 #11: (4)瞧]]
     ==
     - To look at, to see;
     - to look at furtively [[Kangxi: 偸視貌]], to glance at;
@@ -1073,13 +1073,13 @@ F
   ==
 W
   ====
-  - [[Page~581 (4)樵]]
+  - [[Page~581 #8: (4)樵]]
     ==
     - [[...]];
     - a lookout terrace, for which the next [[譙]] is used [[Kangxi 樵: 與譙通, ::[...]高樓以望敵也::]];
     - [[...]].
     ==
-  - [[Page~581 (4)譙]]
+  - [[Page~581 #9: (4)譙]]
     --
     [[...]]
     --

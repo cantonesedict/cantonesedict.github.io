@@ -517,7 +517,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 燋(3) _Tsi(u/)(3)_ (ziu3); here corrected to _(1)Tsi(u/)_ (ziu1)]]
+  - [[Page~581 #6: 燋(3) _Tsi(u/)(3)_ (ziu3); here corrected to _(1)Tsi(u/)_ (ziu1)]]
     ==
     - [[...]];
     - to char ~~wood~~, to sear, to scorch [[Kangxi: 傷火]];
@@ -560,7 +560,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 (1)礁]]
+  - [[Page~581 #2: (1)礁]]
     --
     An unauthorized character;
     --
@@ -681,7 +681,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (1)鐎]]
+  - [[Page~581 #1: (1)鐎]]
     ==
     - A ~~soldier's~~ brass kettle or skillet,
       about the size of a peck [[斗]] measure [[Kangxi: 鐎斗也, 溫器三足而有柄, etc.]];
@@ -712,7 +712,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (1)鷦]]
+  - [[Page~581 #3: (1)鷦]]
     ==
     - A wren [[Kangxi: 鷦{𪃦=⿰眇鳥}桃蟲也一名鷦鷯]];
     - _(1)tsi(u/) (4)li(u/)_
@@ -771,7 +771,7 @@ F
   ==
 W
   ====
-  - [[Page~581 ::~~(1)剿(1){𠞰=⿰巢刀}~~``(2)剿(2){𠞰=⿰巢刀}``::]]
+  - [[Page~581 #4: ::~~(1)剿(1){𠞰=⿰巢刀}~~``(2)剿(2){𠞰=⿰巢刀}``::]]
     ==
     - To destroy utterly, to exterminate, to devastate;
     - _(2)tsi(u/) m(i/)t(9)_
@@ -1040,7 +1040,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~581 燋(3)]]
+  - [[Page~581 #6: 燋(3)]]
     ==
     - ~~Properly used for the last [[醮]],
       in the sense of burning the moxa;~~
@@ -1135,7 +1135,7 @@ F
   ==
 W
   ====
-  - [[Page~581 醮(3)]]
+  - [[Page~581 #5: 醮(3)]]
     ==
     - To sacrifice to ancestors and spirits [[Kangxi: 醮祭也]];
     - a sacrifice, a requiem [[Kangxi: 凡僧道設壇祈禱曰醮]];
@@ -1294,7 +1294,7 @@ W
     --
     [[...]]
     --
-  - [[Page~581 噍(6)]]
+  - [[Page~581 #7: 噍(6)]]
     ==
     - To bite, to chew, to gnaw [[Kangxi: 齧也, 嚼也]];
     - _(4)ngau tsi(u/)(6) ~~(5)mau~~ ``(5)m(a/)u`` (1)t(a/)n_
