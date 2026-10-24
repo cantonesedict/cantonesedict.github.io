@@ -12415,6 +12415,52 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=5} Page~564
+    ,{#page-564-entry-1} #1
+    ,{.williams} 借(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $借ze3
+      ==
+      </nav>
+  //
+    ,{#page-564-entry-2} #2
+    ,{.williams} 謝(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $謝ze6
+      ==
+      </nav>
+  //
+    ,{#page-564-entry-3} #3
+    ,{.williams} 榭(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $榭ze6
+      ==
+      </nav>
+  //
+    ,{#page-564-entry-4} #4
+    ,{.williams} 灺(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $灺ze6
+      ==
+      </nav>
+  //
+    ,{#page-564-entry-5} #5
+    ,{.williams} (4)邪
+    ,
+      <nav class="sideways">
+      ==
+      - $邪ce4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

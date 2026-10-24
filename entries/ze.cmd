@@ -601,7 +601,7 @@ F
   ==
 W
   ====
-  - [[Page~564 借(3)]]
+  - [[Page~564 #1: 借(3)]]
     ==
     - To assist [[Kangxi: 助也]];
     - to lend, to borrow [[Kangxi: 假也貸也]];
@@ -953,7 +953,7 @@ F
   ==
 W
   ====
-  - [[Page~564 榭(6)]]
+  - [[Page~564 #3: 榭(6)]]
     ==
     - A terrace having ~~trees around~~ ``a timber structure on`` it [[Kangxi: 臺有屋也, 土高曰臺有木曰榭]]~~, an arbor~~;
     - a place for storing musical instruments [[Kangxi: 榭者所以藏樂器]];
@@ -992,7 +992,7 @@ F
   ==
 W
   ====
-  - [[Page~564 灺(6)]]
+  - [[Page~564 #4: 灺(6)]]
     ==
     - The snuff of a candle [[Kangxi: 燭㶳]];
     - the expiring wick of a lamp.
@@ -1025,7 +1025,7 @@ F
   ==
 W
   ====
-  - [[Page~564 謝(6)]]
+  - [[Page~564 #2: 謝(6)]]
     ==
     - To decline, to withdraw from, to refuse [[Kangxi: 辭去也]], to go away [[Kangxi: 去也]];
     - to resign, to throw up;

@@ -703,7 +703,7 @@ F
   ==
 W
   ====
-  - [[Page~564 (4)邪]]
+  - [[Page~564 #5: (4)邪]]
     ==
     - Deflected, inclined, swerving from the right line [[Kangxi: 不正也]];
     - whatever leads astray;
