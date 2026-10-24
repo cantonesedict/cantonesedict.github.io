@@ -14540,6 +14540,52 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=5} Page~589
+    ,{#page-589-entry-1} #1
+    ,{.williams} (2)載
+    ,
+      <nav class="sideways">
+      ==
+      - $載zoi2
+      ==
+      </nav>
+  //
+    ,{#page-589-entry-2} #2
+    ,{.williams} 載(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $載zoi3
+      ==
+      </nav>
+  //
+    ,{#page-589-entry-3} #3
+    ,{.williams} 再(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $再zoi3
+      ==
+      </nav>
+  //
+    ,{#page-589-entry-4} #4
+    ,{.williams} 儎(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $儎zoi6
+      ==
+      </nav>
+  //
+    ,{#page-589-entry-5} #5
+    ,{.williams} 在(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $在zoi6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

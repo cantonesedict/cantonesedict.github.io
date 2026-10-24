@@ -476,7 +476,7 @@ F
   ==
 W
   ====
-  - [[Page~589 (2)載]]
+  - [[Page~589 #1: (2)載]]
     ==
     - A year [[Kangxi: 年也]];
     - to commence, as after a full revolution [[Kangxi: 載始也取物終更始之義]];
@@ -529,7 +529,7 @@ F
   ==
 W
   ====
-  - [[Page~589 再(3)]]
+  - [[Page~589 #3: 再(3)]]
     ==
     - Again;
     - doubled, repeated [[Kangxi: 兩也, 重也]];
@@ -601,7 +601,7 @@ F
   ==
 W
   ====
-  - [[Page~589 載(3)]]
+  - [[Page~589 #2: 載(3)]]
     ==
     - To contain, to hold, as a carriage or ship [[Kangxi: 乗也]];
     - to fill in, to load on, to bear, to sustain [[Kangxi: 承也勝也]];
@@ -721,7 +721,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~589 儎(6)]]
+  - [[Page~589 #4: 儎(6)]]
     --
     A colloquial word.
     --
@@ -771,7 +771,7 @@ F
   ==
 W
   ====
-  - [[Page~589 在(6)]]
+  - [[Page~589 #5: 在(6)]]
     ==
     - To be in, to pertain to, to be at;
     - to reside, to remain, to live, to dwell at [[Kangxi {𡉈=⿸扌土}: 居也]];
