@@ -906,6 +906,7 @@ INSERTION_PATTERN = re.compile(pattern='``.+``')
 DELETION_PATTERN = re.compile(pattern='~~.+?~~')
 WILLIAMS_TONE_PATTERN = re.compile(pattern=r'\([1-9]\)')
 WILLIAMS_PAGE_SLUG_SUFFIX_PATTERN = re.compile(pattern=r'[|].*')
+ROUND_BRACKETED_JYUTPING_PATTERN = re.compile(pattern=r'[ ]+ \( [a-z]+[1-6][-]?[1-6]? \)', flags=re.VERBOSE)
 
 ENTRY_ITEM_PATTERN = re.compile(
     pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
@@ -1103,7 +1104,9 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
             (?P<position> (?: [ ] (?: before | after) )? )
             (?P<entry_marker> (?: [ ][#] (?P<entry_number> [0-9]+ ) [:] )? )
             (?P<spaces> [ ]+ )
-            (?P<headword_run> [^\s;]+ ) (?P<clarification_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
+            (?P<headword_run> (?i: _[()a-z1-9_ ]+_ ) | [^\s;]+ )
+            (?P<clarification_run> .*? )
+            (?P<redirection_run> (?: ;.*? )? )
         \]\]
     ''',
     flags=re.MULTILINE | re.VERBOSE,
@@ -3691,11 +3694,11 @@ class WilliamsLocator:
         if entry_number is not None:
             entry_number = int(entry_number)
 
-        if (
-            not CHINESE_RUN_PATTERN.search(string=headword_run)
-            and any(verb in clarification_run for verb in ['exemplified', 'assumed'])
-        ):
-            unedited_headword_run = ''
+        if not CHINESE_RUN_PATTERN.search(string=headword_run):
+            if any(verb in clarification_run for verb in ['exemplified', 'assumed']):
+                unedited_headword_run = ''
+            else:
+                unedited_headword_run = ROUND_BRACKETED_JYUTPING_PATTERN.sub(repl='', string=headword_run)
         else:
             unedited_headword_run = (
                 INSERTION_PATTERN.sub(repl='', string=headword_run)

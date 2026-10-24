@@ -11013,7 +11013,7 @@ OrdinaryDictionaryReplacement: #.properties-override
   //
     ,{r=1} Page~154
     ,{#page-154-entry-6} #6
-    ,{.williams} _Kik(7)_
+    ,{.williams} _Kik(7)_ _or_ _Kek(7)_
     ,
       <nav class="sideways">
       ==
