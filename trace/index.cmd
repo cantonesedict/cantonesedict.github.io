@@ -10220,6 +10220,136 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~68
+    ,{#page-68-entry-1} #1
+    ,{.williams} (1)㗇
+    ,
+      <nav class="sideways">
+      ==
+      - $㗇haa1
+      - $蝦haa1
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-2} #2
+    ,{.williams} 下(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $下haa6
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-3} #3
+    ,{.williams} 夏(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $夏haa6
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-4} #4
+    ,{.williams} 厦(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($厦haa6)
+      - $廈haa6
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-5} #5
+    ,{.williams} 暇(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $暇haa6
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-6} #6
+    ,{.williams} (1)㗿
+    ,
+      <nav class="sideways">
+      ==
+      - $哈haa1
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-7} #7
+    ,{.williams} (4)奚
+    ,
+      <nav class="sideways">
+      ==
+      - $奚hai4
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-8} #8
+    ,{.williams} (4)徯
+    ,
+      <nav class="sideways">
+      ==
+      - $徯hai4
+      - $蹊hai4
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-9} #9
+    ,{.williams} (4)兮
+    ,
+      <nav class="sideways">
+      ==
+      - $兮hai4
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-10} #10
+    ,{.williams} (4)鼷
+    ,
+      <nav class="sideways">
+      ==
+      - $鼷hai4
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-11} #11
+    ,{.williams} (2)喺
+    ,
+      <nav class="sideways">
+      ==
+      - $喺hai2
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-12} #12
+    ,{.williams} 係(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $係hai6
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-13} #13
+    ,{.williams} 系(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $系hai6
+      ==
+      </nav>
+  //
+    ,{#page-68-entry-14} #14
+    ,{.williams} 繫(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $繫hai6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

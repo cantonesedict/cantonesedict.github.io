@@ -66,7 +66,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~68 (1)㗿; here corrected to 哈]]
+  - [[Page~68 #6: (1)㗿; here corrected to 哈]]
     ==
     - Laughter;
     - _(1)h(a/) (1)h(a/)_
@@ -109,7 +109,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~68 (1)㗇]]
+  - [[Page~68 #1: (1)㗇]]
     ==
     - The throat [[Kangxi: 咽也]];
     - to swallow;
@@ -252,7 +252,7 @@ W
     --
     [[Otherwise, a reading variation. **See $蝦haa4 for the canonical entry.**]]
     --
-  - [[Page~68 (1)㗇; here normalised to 蝦]]
+  - [[Page~68 #1: (1)㗇; here normalised to 蝦]]
     ==
     - [[...]];
     - _(1)h(a/) p(a/)(3)_
@@ -899,7 +899,7 @@ W
         [[haa6 sau2 下手]],
         to begin to act.
     ==
-  - [[Page~68 下(6)]]
+  - [[Page~68 #2: 下(6)]]
     ==
     - Below, down, bottom, inferior [[Kangxi: 在下之下對上之稱]];
     - mean, vulgar [[Kangxi: 賤也]];
@@ -997,7 +997,7 @@ F
   ==
 W
   ====
-  - [[Page~68 厦(6)]]
+  - [[Page~68 #4: 厦(6)]]
     --
     [[Alternative form of 廈. **See $廈haa6 for the canonical entry.**]]
     --
@@ -1021,7 +1021,7 @@ F
   ==
 W
   ====
-  - [[Page~68 夏(6)]]
+  - [[Page~68 #3: 夏(6)]]
     ==
     - Summer [[Kangxi: 四時二曰夏 etc.]];
     - a mansion [[Kangxi: 大屋曰夏]];
@@ -1092,7 +1092,7 @@ F
   ==
 W
   ====
-  - [[Page~68 厦(6); here normalised to 廈]]
+  - [[Page~68 #4: 厦(6); here normalised to 廈]]
     ==
     - A mansion [[Kangxi 廈: 大屋]], a side room [[Kangxi 廈: ::今之門廡旁廣而[卑]::]];
     - _h(a/)(6) (4)m(u/)n_
@@ -1133,7 +1133,7 @@ F
   ==
 W
   ====
-  - [[Page~68 暇(6)]]
+  - [[Page~68 #5: 暇(6)]]
     ==
     - Leisure, relaxation [[Kangxi: 閑也]];
     - self-indulgence, unoccupied;

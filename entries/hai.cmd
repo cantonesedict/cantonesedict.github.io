@@ -109,7 +109,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~68 (2)喺]]
+  - [[Page~68 #11: (2)喺]]
     ==
     - To be at, to be in;
     - ~~is;~~
@@ -189,7 +189,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)兮]]
+  - [[Page~68 #9: (4)兮]]
     ==
     - A poetical word used as an exclamation [[Kangxi: 語有所稽也 etc.]]
       ~~of admiration or interrogation,
@@ -223,7 +223,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)奚]]
+  - [[Page~68 #7: (4)奚]]
     ==
     - Why, how? [[Kangxi: 疑問辭]]
     - a page to an officer, a waiting-maid [[Kangxi: 隷役也, 奚猶今官婢通作㜎傒]].
@@ -265,7 +265,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)徯]]
+  - [[Page~68 #8: (4)徯]]
     ==
     - To wait for [[Kangxi: 待也]], to hope [[Kangxi: 有所望也]];
     - [[...]].
@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)徯]]
+  - [[Page~68 #8: (4)徯]]
     ==
     - [[...]];
     - a narrow pathway [[Kangxi 徯: 與蹊通]];
@@ -366,7 +366,7 @@ F
   ==
 W
   ====
-  - [[Page~68 (4)鼷]]
+  - [[Page~68 #10: (4)鼷]]
     ==
     - A small meadow mouse, whose bite is considered poisonous [[Kangxi: 小鼠也, 螫毒食人及鳥獸皆不痛今之甘口鼠也, etc.]].
     ==
@@ -420,7 +420,7 @@ F
   ==
 W
   ====
-  - [[Page~68 係(6)]]
+  - [[Page~68 #12: 係(6)]]
     ==
     - The substantive verb;
     - to be, am, is;
@@ -553,7 +553,7 @@ F
   ==
 W
   ====
-  - [[Page~68 系(6)]]
+  - [[Page~68 #13: 系(6)]]
     ==
     - To connect, to tie [[Kangxi: 繫也, 相連繫也]];
     - to continue [[Kangxi: 系繼也]];
@@ -615,7 +615,7 @@ F
   ==
 W
   ====
-  - [[Page~68 繫(6)]]
+  - [[Page~68 #14: 繫(6)]]
     ==
     - To tie, to bind [[Kangxi: 約束也]];
     - ~~to continue;~~
