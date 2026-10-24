@@ -458,7 +458,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (1)蛆]]
+  - [[Page~595 #9: (1)蛆]]
     ==
     - Maggots in putrid flesh [[Kangxi: 肉中蟲也]];
     - flyblows, eggs of flies [[Kangxi: 蠅乳]];
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (1)趨(1)趋]]
+  - [[Page~595 #8: (1)趨(1)趋]]
     ==
     - To hasten to one's place [[Kangxi 趨: 疾行曰趨趨赴也赴所至也, 趨今之捷步]], to stride off [[Kangxi 趨: 行而張足曰趨]], as in a superior's presence;
     - to run, to walk quick [[Kangxi 趨: 走也, 行也]];
@@ -631,7 +631,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)取]]
+  - [[Page~595 #11: (2)取]]
     ==
     - To take, to lay hold on [[Kangxi: 捕取也]], to use;
     - to exact;
@@ -728,7 +728,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)取; here normalised to 娶]]
+  - [[Page~595 #11: (2)取; here normalised to 娶]]
     ==
     - [[...]];
     - to take, as a wife;
@@ -1463,7 +1463,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (4)徐]]
+  - [[Page~595 #10: (4)徐]]
     ==
     - Grave, serious, leisurely;
     - tardy, slow [[Kangxi: 緩也, 遲也]];

@@ -15011,6 +15011,110 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~595
+    ,{#page-595-entry-1} #1
+    ,{.williams} (2)咀
+    ,
+      <nav class="sideways">
+      ==
+      - $咀zeoi2
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-2} #2
+    ,{.williams} (2)齟
+    ,
+      <nav class="sideways">
+      ==
+      - $齟zeoi2
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-3} #3
+    ,{.williams} 序(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $序zeoi6
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-4} #4
+    ,{.williams} 敍(6)叙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($叙zeoi6)
+      - $序zeoi6
+      - ($敍zeoi6)
+      - $敘zeoi6
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-5} #5
+    ,{.williams} 聚(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $聚zeoi6
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-6} #6
+    ,{.williams} 藇(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $藇zeoi6
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-7} #7
+    ,{.williams} 鱮(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $鱮zeoi6
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-8} #8
+    ,{.williams} (1)趨(1)趋
+    ,
+      <nav class="sideways">
+      ==
+      - $趨ceoi1
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-9} #9
+    ,{.williams} (1)蛆
+    ,
+      <nav class="sideways">
+      ==
+      - $蛆ceoi1, $蛆zeoi1
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-10} #10
+    ,{.williams} (4)徐
+    ,
+      <nav class="sideways">
+      ==
+      - $徐ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-595-entry-11} #11
+    ,{.williams} (2)取
+    ,
+      <nav class="sideways">
+      ==
+      - $取ceoi2
+      - $娶ceoi2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

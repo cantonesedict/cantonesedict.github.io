@@ -459,7 +459,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~595 (1)蛆]]
+  - [[Page~595 #9: (1)蛆]]
     --
     [[...]]
     --
@@ -790,7 +790,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)咀]]
+  - [[Page~595 #1: (2)咀]]
     ==
     - To taste [[Kangxi: 含味也]];
     - to chew, to bite in order to taste [[Kangxi: 咀嚼]];
@@ -1052,7 +1052,7 @@ F
   ==
 W
   ====
-  - [[Page~595 (2)齟]]
+  - [[Page~595 #2: (2)齟]]
     ==
     - Irregular teeth, which do not interlock easily [[Kangxi: 齒不相値曰齟齬]];
     - discordant, as opinions, incongruous;
@@ -1495,7 +1495,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~595 敍(6)叙(6)]]
+  - [[Page~595 #4: 敍(6)叙(6)]]
     --
     [[Alternative form of 序 (for the "order" and "preface" senses). **See $序zeoi6 for the canonical entry.**]]
     --
@@ -1584,7 +1584,7 @@ F
   ==
 W
   ====
-  - [[Page~595 序(6)]]
+  - [[Page~595 #3: 序(6)]]
     ==
     - Eastern and western walls ~~or rooms~~ [[Kangxi 序^: 東西牆謂之序]];
     - a college, a school [[Kangxi 序^: 學也]];
@@ -1608,7 +1608,7 @@ W
         [[zeoi6 si6 to5 dong3 序事妥當]]
         everything in its order.
     ==
-  - [[Page~595 敍(6)叙(6)]]
+  - [[Page~595 #4: 敍(6)叙(6)]]
     ==
     - Similar to the preceding [[序]];
     - to arrange, to order, to set in their proper places;
@@ -1643,7 +1643,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~595 敍(6)叙(6)]]
+  - [[Page~595 #4: 敍(6)叙(6)]]
     --
     [[Alternative form of 序 (for the "order" and "preface" senses). **See $序zeoi6 for the canonical entry.**]]
     --
@@ -1671,7 +1671,7 @@ F
   ==
 W
   ====
-  - [[Page~595 敍(6)叙(6); here normalised to 敘]]
+  - [[Page~595 #4: 敍(6)叙(6); here normalised to 敘]]
     ==
     - [[...]];
     - to meet, to converse;
@@ -1863,7 +1863,7 @@ F
   ==
 W
   ====
-  - [[Page~595 聚(6)]]
+  - [[Page~595 #5: 聚(6)]]
     ==
     - To assemble, to congregate [[Kangxi: 會也]], to gather [[Kangxi: 斂也]];
     - to meet;
@@ -1910,7 +1910,7 @@ F
   ==
 W
   ====
-  - [[Page~595 藇(6)]]
+  - [[Page~595 #6: 藇(6)]]
     ==
     - Good, agreeable, pleasant [[Kangxi: 美貌]], as liquor.
     ==
@@ -2053,7 +2053,7 @@ F
   ==
 W
   ====
-  - [[Page~595 鱮(6)]]
+  - [[Page~595 #7: 鱮(6)]]
     ==
     - The tench or roach;
     - a large, coarse species of carp
