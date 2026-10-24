@@ -415,7 +415,7 @@ F
   ==
 W
   ====
-  - [[Page~572 (1)煎]]
+  - [[Page~572 #12: (1)煎]]
     ==
     - To fry, to roast``, to decoct`` in a pan [[Kangxi: 熬也, 火去汁也, 熟煑也, 火乾也, etc.]];
     - to vex, to harass;
@@ -1695,7 +1695,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 (1)煎]]
+  - [[Page~572 #12: (1)煎]]
     --
     [[...]]
     --

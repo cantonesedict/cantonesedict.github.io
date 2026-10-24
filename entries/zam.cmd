@@ -576,7 +576,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~572 僭(3) _Ts(')(i/)m(3)_ (cim3); here corrected to _Cham(3)_ (zam3)]]
+  - [[Page~572 #8: 僭(3) _Ts(')(i/)m(3)_ (cim3); here corrected to _Cham(3)_ (zam3)]]
     ==
     - [[...]];
     - dubious, false [[Kangxi: 僭始不信之端也 etc.]];

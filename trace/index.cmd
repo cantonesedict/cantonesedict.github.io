@@ -13135,6 +13135,119 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~572
+    ,{#page-572-entry-1} #1
+    ,{.williams} (1)憸
+    ,
+      <nav class="sideways">
+      ==
+      - $憸cim1
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-2} #2
+    ,{.williams} (1)瀸
+    ,
+      <nav class="sideways">
+      ==
+      - $殲cim1
+      - $瀸cim1
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-3} #3
+    ,{.williams} (1)殲
+    ,
+      <nav class="sideways">
+      ==
+      - $殲cim1
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-4} #4
+    ,{.williams} (1)纖(1)摻
+    ,
+      <nav class="sideways">
+      ==
+      - $纖cim1
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-5} #5
+    ,{.williams} (1)孅
+    ,
+      <nav class="sideways">
+      ==
+      - $孅cim1
+      - $纖cim1
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-6} #6
+    ,{.williams} (4)潛(4)潜
+    ,
+      <nav class="sideways">
+      ==
+      - $潛cim4
+      - ($潜cim4)
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-7} #7
+    ,{.williams} (4)撍
+    ,
+      <nav class="sideways">
+      ==
+      - $撍cim4
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-8} #8
+    ,{.williams} 僭(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $僭cim3, $僭zam3
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-9} #9
+    ,{.williams} 塹(3)壍(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $塹cim3
+      - ($壍cim3)
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-10} #10
+    ,{.williams} 槧(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $槧cim3
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-11} #11
+    ,{.williams} 暹(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $暹cim3
+      ==
+      </nav>
+  //
+    ,{#page-572-entry-12} #12
+    ,{.williams} (1)煎
+    ,
+      <nav class="sideways">
+      ==
+      - $煎zin1, $煎zin3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
