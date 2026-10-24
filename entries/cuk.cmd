@@ -85,7 +85,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~600 促(7)]]
+  - [[Page~600 #11: 促(7)]]
     ==
     - To constrain [[Kangxi: 局促小貌]];
     - near, short, close [[Kangxi: 迫也近也密也]];
@@ -240,7 +240,7 @@ F
   ==
 W
   ====
-  - [[Page~600 {𣙙=⿰木敕}(7); here normalised to 樕]]
+  - [[Page~600 #4: {𣙙=⿰木敕}(7); here normalised to 樕]]
     ==
     - A small tree, a shrub, a sapling [[Kangxi 樕: 樸樕小木也]];
     - _puk(9) ts(')uk(7)_
@@ -275,7 +275,7 @@ F
   ==
 W
   ====
-  - [[Page~600 {𣙙=⿰木敕}(7)]]
+  - [[Page~600 #4: {𣙙=⿰木敕}(7)]]
     --
     [[Alternative form of 樕. **See $樕cuk1 for the canonical entry.**]]
     --
@@ -466,7 +466,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~600 {𫂙=⿱𥫗敕}(7); here normalised to 簌]]
+  - [[Page~600 #5: {𫂙=⿱𥫗敕}(7); here normalised to 簌]]
     ==
     - To sift, and cause to shower down [[Kangxi 簌: 篩也]];
     - close, thickset [[Kangxi 簌: 茂密貌]];
@@ -490,7 +490,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~600 {𫂙=⿱𥫗敕}(7)]]
+  - [[Page~600 #5: {𫂙=⿱𥫗敕}(7)]]
     --
     [[Alternative form of 簌. **See $簌cuk1 for the canonical entry.**]]
     --
@@ -562,7 +562,7 @@ F
   ==
 W
   ====
-  - [[Page~600 蔌(7)]]
+  - [[Page~600 #6: 蔌(7)]]
     ==
     - Vegetables, legumes, kitchen herbs [[Kangxi: 菜謂之蔌, 蔌者菜茹之總名]];
     - _ts(')oi(3) ts(')uk(7)_
@@ -650,7 +650,7 @@ F
   ==
 W
   ====
-  - [[Page~600 觫(7)]]
+  - [[Page~600 #3: 觫(7)]]
     ==
     - Horns beginning to start;
     - to start, to tremble;
@@ -737,7 +737,7 @@ F
   ==
 W
   ====
-  - [[Page~600 蹙(7)]]
+  - [[Page~600 #8: 蹙(7)]]
     ==
     - Pressed upon, urged, impelled [[Kangxi: 迫也, 近也]];
     - cramped, cribbed;
@@ -755,7 +755,7 @@ W
     --
     [[Otherwise, an alternative form of 蹴. **See $蹴cuk1 for the canonical entry.**]]
     --
-  - [[Page~600 顣(7)]]
+  - [[Page~600 #9: 顣(7)]]
     ==
     - Interchanged with the last [[蹙]], to frown [[Kangxi 顣: 顣頞鼻頤促貌]];
     - to wrinkle the forehead;
@@ -796,7 +796,7 @@ F
   ==
 W
   ====
-  - [[Page~600 蹴(7)]]
+  - [[Page~600 #10: 蹴(7)]]
     --
     ~~Similar to the last two [[蹙, 顣]].~~
     --
@@ -838,7 +838,7 @@ F
   ==
 W
   ====
-  - [[Page~600 速(7)]]
+  - [[Page~600 #1: 速(7)]]
     ==
     - Hasty, quick, hurried [[Kangxi: 疾也]];
     - fleet, as a deer;
@@ -889,7 +889,7 @@ F
   ==
 W
   ====
-  - [[Page~600 遬(7)]]
+  - [[Page~600 #7: 遬(7)]]
     --
     ~~Similar to the next [[蹙]].~~
     --
@@ -930,7 +930,7 @@ F
   ==
 W
   ====
-  - [[Page~600 顣(7)]]
+  - [[Page~600 #9: 顣(7)]]
     --
     [[Alternative form of 蹙. **See $蹙cuk1 for the canonical entry.**]]
     --
@@ -958,7 +958,7 @@ F
   ==
 W
   ====
-  - [[Page~600 餗(7)]]
+  - [[Page~600 #2: 餗(7)]]
     ==
     - The prepared contents of a boiler or kettle [[Kangxi: 鼎實也]];
     - pot-luck, dressed food.

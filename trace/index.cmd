@@ -15369,6 +15369,129 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~600
+    ,{#page-600-entry-1} #1
+    ,{.williams} 速(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $速cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-2} #2
+    ,{.williams} 餗(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $餗cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-3} #3
+    ,{.williams} 觫(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $觫cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-4} #4
+    ,{.williams} {𣙙=⿰木敕}(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $樕cuk1
+      - (${𣙙=⿰木敕}cuk1)
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-5} #5
+    ,{.williams} {𫂙=⿱𥫗敕}(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $簌cuk1
+      - (${𫂙=⿱𥫗敕}cuk1)
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-6} #6
+    ,{.williams} 蔌(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $蔌cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-7} #7
+    ,{.williams} 遬(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $遬cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-8} #8
+    ,{.williams} 蹙(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $蹙cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-9} #9
+    ,{.williams} 顣(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $蹙cuk1
+      - ($顣cuk1)
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-10} #10
+    ,{.williams} 蹴(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $蹴cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-11} #11
+    ,{.williams} 促(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $促cuk1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-12} #12
+    ,{.williams} (1)津
+    ,
+      <nav class="sideways">
+      ==
+      - $津zeon1
+      ==
+      </nav>
+  //
+    ,{#page-600-entry-13} #13
+    ,{.williams} (1)樽(1)罇(1)尊
+    ,
+      <nav class="sideways">
+      ==
+      - ($尊zeon1)
+      - $樽zeon1
+      - ($罇zeon1)
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

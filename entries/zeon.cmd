@@ -109,7 +109,7 @@ F
   ==
 W
   ====
-  - [[Page~600 (1)樽(1)罇(1)尊]]
+  - [[Page~600 #13: (1)樽(1)罇(1)尊]]
     --
     [[Alternative form of 樽. **See $樽zeon1 for the canonical entry.**]]
     --
@@ -235,7 +235,7 @@ F
   ==
 W
   ====
-  - [[Page~600 (1)樽(1)罇(1)尊]]
+  - [[Page~600 #13: (1)樽(1)罇(1)尊]]
     ==
     - A vase for libations;
     - a vase for wine [[Kangxi 樽: 酒器也]];
@@ -301,7 +301,7 @@ F
   ==
 W
   ====
-  - [[Page~600 (1)津]]
+  - [[Page~600 #12: (1)津]]
     ==
     - A ford [[Kangxi: 渡也, 津是渡處]], a ferry;
     - a landing-place, a ghaut;
@@ -424,7 +424,7 @@ F
   ==
 W
   ====
-  - [[Page~600 (1)樽(1)罇(1)尊]]
+  - [[Page~600 #13: (1)樽(1)罇(1)尊]]
     --
     [[Alternative form of 樽. **See $樽zeon1 for the canonical entry.**]]
     --
