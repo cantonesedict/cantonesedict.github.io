@@ -13454,6 +13454,61 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=6} Page~575
+    ,{#page-575-entry-1} #1
+    ,{.williams} (1)韆
+    ,
+      <nav class="sideways">
+      ==
+      - $韆cin1
+      ==
+      </nav>
+  //
+    ,{#page-575-entry-2} #2
+    ,{.williams} (4)前
+    ,
+      <nav class="sideways">
+      ==
+      - $前cin4
+      ==
+      </nav>
+  //
+    ,{#page-575-entry-3} #3
+    ,{.williams} (4)錢(4){？=⿸⿻勹丿丶}
+    ,
+      <nav class="sideways">
+      ==
+      - $錢cin4
+      ==
+      </nav>
+  //
+    ,{#page-575-entry-4} #4
+    ,{.williams} (2)淺
+    ,
+      <nav class="sideways">
+      ==
+      - $淺cin2
+      ==
+      </nav>
+  //
+    ,{#page-575-entry-5} #5
+    ,{.williams} (2)俴
+    ,
+      <nav class="sideways">
+      ==
+      - ($俴cin2), $俴cin5
+      ==
+      </nav>
+  //
+    ,{#page-575-entry-6} #6
+    ,{.williams} (1)旌
+    ,
+      <nav class="sideways">
+      ==
+      - $旌zing1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

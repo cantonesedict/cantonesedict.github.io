@@ -285,7 +285,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (1)旌]]
+  - [[Page~575 #6: (1)旌]]
     ==
     - A banner, a standard having plumes,
       which when waved encourage the troops [[Kangxi: 析羽注旄首所以進士卒]];

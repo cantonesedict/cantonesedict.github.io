@@ -355,7 +355,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (1)韆]]
+  - [[Page~575 #1: (1)韆]]
     ==
     - To swing to and fro, to play upon the whirligig;
     - _(1)ts(')au (1)ts(')(i/)n_
@@ -417,7 +417,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (2)俴]]
+  - [[Page~575 #5: (2)俴]]
     --
     [[Reading variation. **See $俴cin5 for the canonical entry.**]]
     --
@@ -445,7 +445,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (2)淺]]
+  - [[Page~575 #4: (2)淺]]
     ==
     - Shallow, not deep [[Kangxi: 水不深也]];
     - superficial, not profound;
@@ -574,7 +574,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (4)前]]
+  - [[Page~575 #2: (4)前]]
     ==
     - Before, in front of, in presence of [[Kangxi: 前後之對]];
     - in advance [[Kangxi: 進也]];
@@ -831,7 +831,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (4)錢(4){？=⿸⿻勹丿丶}]]
+  - [[Page~575 #3: (4)錢(4){？=⿸⿻勹丿丶}]]
     ==
     - Copper coin, cash, coppers [[Kangxi 錢: 冶銅爲錢易貨也]];
     - coin, a piece of money;
@@ -953,7 +953,7 @@ F
   ==
 W
   ====
-  - [[Page~575 (2)俴 _(2)Ts(')(i/)n_ (cin2); here normalised to  _(5)Ts(')(i/)n_ (cin5)]]
+  - [[Page~575 #5: (2)俴 _(2)Ts(')(i/)n_ (cin2); here normalised to  _(5)Ts(')(i/)n_ (cin5)]]
     ==
     - Shallow, thin, beaten out, as a piece of metal [[Kangxi: 淺也 etc.]];
     - superficial, ignorant.
