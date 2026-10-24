@@ -1116,7 +1116,7 @@ F
   ==
 W
   ====
-  - [[Page~602 雋(3) read _Tsui(3)_ (zeoi3); here corrected to _Tsun(3)_ (zeon3) and normalised to 俊]]
+  - [[Page~602 #1: 雋(3) read _Tsui(3)_ (zeoi3); here corrected to _Tsun(3)_ (zeon3) and normalised to 俊]]
     --
     [[...]]
     --
@@ -1126,14 +1126,14 @@ W
     ==
     - a hero [[Kangxi 雋: 與儁通]].
     ==
-  - [[Page~602 儁(3); here normalised to 俊]]
+  - [[Page~602 #2: 儁(3); here normalised to 俊]]
     ==
     - Valiant, brave;
     - superior, excelling others in skill or wisdom [[Kangxi 儁: 卓特也]];
     - to overcome [[Kangxi 儁: 得儁曰克, 勝也]];
     - unusual, strange [[Kangxi 儁: 異也]].
     ==
-  - [[Page~602 俊(3)]]
+  - [[Page~602 #3: 俊(3)]]
     ==
     - Similar to the last [[儁]] [[Kangxi 俊^: ::與儁[...]通::]];
     - superior, remarkable, one of a thousand [[Kangxi 俊^: ::材[過]千人也:: etc.]];
@@ -1145,7 +1145,7 @@ W
         [[kwan4 gwai3 zeon3 sau3 群季俊秀]]
         all distinguished for accomplishments and beauty.
     ==
-  - [[Page~602 駿(3); here normalised to 俊]]
+  - [[Page~602 #9: 駿(3); here normalised to 俊]]
     ==
     - [[...]];
     - excelling [[Kangxi 駿: 與俊同英儁也]];
@@ -1184,7 +1184,7 @@ F
   ==
 W
   ====
-  - [[Page~602 儁(3)]]
+  - [[Page~602 #2: 儁(3)]]
     --
     [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
     --
@@ -1236,7 +1236,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~602 峻(3)]]
+  - [[Page~602 #4: 峻(3)]]
     ==
     - High, lofty, steep, as mountains [[Kangxi: 高也, 險也, 大也]];
     - impetuous, hasty, stern, severe [[Kangxi: 峭也速也嚴急也]], as one's temper;
@@ -1282,13 +1282,13 @@ F
   ==
 W
   ====
-  - [[Page~602 晉(3)晋(3); here normalised to 搢]]
+  - [[Page~602 #12: 晉(3)晋(3); here normalised to 搢]]
     ==
     - [[...]];
     - to stick [[Kangxi 晉: 晉插也]], as into a case or about the person;
     - [[...]].
     ==
-  - [[Page~602 搢(3)]]
+  - [[Page~602 #13: 搢(3)]]
     ==
     - To stick into, to insert``, to tuck`` [[Kangxi: 插也]];
     - to put in, as into a socket;
@@ -1297,7 +1297,7 @@ W
     --
     ~~Used for the next [[縉]].~~
     --
-  - [[Page~602 縉(3); here normalised to 搢]]
+  - [[Page~602 #14: 縉(3); here normalised to 搢]]
     ==
     - [[...]];
     - ~~to wrap around;~~
@@ -1350,7 +1350,7 @@ F
   ==
 W
   ====
-  - [[Page~602 晉(3)晋(3)]]
+  - [[Page~602 #12: 晉(3)晋(3)]]
     ==
     - To increase, to flourish, to grow, as the sun makes all things [[Kangxi 晉: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義]];
     - [[...]];
@@ -1389,7 +1389,7 @@ F
   ==
 W
   ====
-  - [[Page~602 朘(3)]]
+  - [[Page~602 #10: 朘(3)]]
     --
     [[Reading variation. **See $朘syun1 for the canonical entry.**]] [[TODO]]
     --
@@ -1419,7 +1419,7 @@ F
   ==
 W
   ====
-  - [[Page~602 浚(3)濬(3)]]
+  - [[Page~602 #5: 浚(3)濬(3)]]
     ==
     - Deep, profound [[Kangxi 浚: 深也]], as water;
     - to dig a channel, to deepen a water-course;
@@ -1464,7 +1464,7 @@ F
   ==
 W
   ====
-  - [[Page~602 浚(3)濬(3)]]
+  - [[Page~602 #5: 浚(3)濬(3)]]
     --
     [[Alternative form of 浚 (for the "deep", "dig", and proper-name senses). **See $浚zeon3 for the canonical entry.**]]
     --
@@ -1488,7 +1488,7 @@ F
   ==
 W
   ====
-  - [[Page~602 瑨(3)]]
+  - [[Page~602 #15: 瑨(3)]]
     ==
     - A pebble or secondary gem [[Kangxi: 次玉]];
     - a stone which may be considered precious [[Kangxi: 美石]].
@@ -1509,7 +1509,7 @@ F
   ==
 W
   ====
-  - [[Page~602 畯(3)]]
+  - [[Page~602 #7: 畯(3)]]
     ==
     - An officer who superintended the fields [[Kangxi: 農夫也一曰典田官, 田畯田大夫也]];
     - a land-office;
@@ -1542,7 +1542,7 @@ F
   ==
 W
   ====
-  - [[Page~602 睃(3)]]
+  - [[Page~602 #6: 睃(3)]]
     ==
     - To see [[Kangxi: 視也]];
     - a man's name [[Kangxi: 人名]];
@@ -1578,7 +1578,7 @@ F
   ==
 W
   ====
-  - [[Page~602 竣(3)]]
+  - [[Page~602 #8: 竣(3)]]
     ==
     - To stop work, to finish, to complete a task [[Kangxi: 止也]];
     - completed, done [[Kangxi: 事畢也]];
@@ -1634,7 +1634,7 @@ F
   ==
 W
   ====
-  - [[Page~602 縉(3)]]
+  - [[Page~602 #14: 縉(3)]]
     ==
     - Carnation colored silk [[Kangxi: 帛赤色]], a light red [[Kangxi: 縉淺赤色也]];
     - [[...]].
@@ -1786,7 +1786,7 @@ F
   ==
 W
   ====
-  - [[Page~602 雋(3)]]
+  - [[Page~602 #1: 雋(3)]]
     --
     [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
     --
@@ -1824,7 +1824,7 @@ F
   ==
 W
   ====
-  - [[Page~602 餕(3)]]
+  - [[Page~602 #11: 餕(3)]]
     ==
     - Hot food [[Kangxi: 熟食也]];
     - to eat the remnants of an offering [[Kangxi: 祭畢食神之餘]] or a meal [[Kangxi: 凡食人之餘及日晚食饌之餘皆云餕]];
@@ -1857,7 +1857,7 @@ F
   ==
 W
   ====
-  - [[Page~602 駿(3)]]
+  - [[Page~602 #9: 駿(3)]]
     ==
     - A steed, a stately, fine horse [[Kangxi: 馬之美稱]];
     - dignified, majestic;
@@ -1935,7 +1935,7 @@ F
   ==
 W
   ====
-  - [[Page~602 盡(6)尽(6)]]
+  - [[Page~602 #16: 盡(6)尽(6)]]
     --
     [[Alternative form of 盡. **See $盡zeon6 for the canonical entry.**]]
     --
@@ -1982,7 +1982,7 @@ F
   ==
 W
   ====
-  - [[Page~602 盡(6)尽(6)]]
+  - [[Page~602 #16: 盡(6)尽(6)]]
     ==
     - An empty vessel [[Kangxi 盡: 器中空也]];
     - to exhaust, to use all [[Kangxi 盡: 竭也]];
