@@ -471,7 +471,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~584 (2)蚤 _(2)Ts(o\)_ (zou2); here corrected to _(2)Ch(a/)u_ (zaau2)]]
+  - [[Page~584 #5: (2)蚤 _(2)Ts(o\)_ (zou2); here corrected to _(2)Ch(a/)u_ (zaau2)]]
     --
     [[...]]
     --

@@ -652,7 +652,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)澡 _(2)Ts(o\)_ (zou2); here normalised to _Ts(')(o\)(3)_ (cou3)]]
+  - [[Page~584 #9: (2)澡 _(2)Ts(o\)_ (zou2); here normalised to _Ts(')(o\)(3)_ (cou3)]]
     ==
     - To bathe, to wash the person [[Kangxi: 澡洗也]];
     - to cleanse the heart, to reform [[Kangxi: 借作修潔意]];

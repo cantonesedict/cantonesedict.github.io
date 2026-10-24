@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (1)租]]
+  - [[Page~584 #1: (1)租]]
     ==
     - Rent in kind;
     - rental, rent;
@@ -130,7 +130,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (1)糟]]
+  - [[Page~584 #2: (1)糟]]
     ==
     - The sediment~~;~~ ``of`` grains left after distilling spirits [[Kangxi: 酒滓也]];
     - dregs;
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (1)遭]]
+  - [[Page~584 #3: (1)遭]]
     ==
     - To encounter, to meet [[Kangxi: 遇也]];
     - to suffer, to endure, to occur, to happen;
@@ -264,7 +264,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)早]]
+  - [[Page~584 #4: (2)早]]
     ==
     - The morning [[Kangxi: 晨也]];
     - early, soon [[Kangxi: 先也]];
@@ -305,7 +305,7 @@ W
         [[zou2 zou2 早早]]^
         very early.
     ==
-  - [[Page~584 (2)蚤]]
+  - [[Page~584 #5: (2)蚤]]
     --
     Used for the preceding [[早]].
     --
@@ -363,7 +363,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)棗]]
+  - [[Page~584 #8: (2)棗]]
     ==
     - The fruit of the Cannarium or jujube tree [[Kangxi: 果名 etc.]];
     - _mat(9) (2)ts(o\)_
@@ -398,7 +398,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)澡]]
+  - [[Page~584 #9: (2)澡]]
     --
     [[Reading variation. **See $澡cou3 for the canonical entry.**]]
     --
@@ -460,7 +460,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)祖]]
+  - [[Page~584 #6: (2)祖]]
     ==
     - A grandfather [[Kangxi: 父之父也]];
     - a progenitor [[Kangxi: 又先祖始祖通謂之祖]];
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)組]]
+  - [[Page~584 #7: (2)組]]
     ==
     - A band, a fillet, a string, a tape,
       for tying [[Kangxi: 綬屬其小者以爲冕纓]] ~~the dress or hair~~;
@@ -645,7 +645,7 @@ F
   ==
 W
   ====
-  - [[Page~584 (2)蚤]]
+  - [[Page~584 #5: (2)蚤]]
     --
     [[...]]
     --
