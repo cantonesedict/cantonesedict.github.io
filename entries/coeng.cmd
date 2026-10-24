@@ -276,7 +276,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)搶]]
+  - [[Page~567 #2: (1)搶]]
     ==
     - To defend, to withstand [[Kangxi: 拒也]];
     - to thrust at [[Kangxi: 搶猶刺也]];
@@ -286,7 +286,7 @@ W
         [[ji5 tau4 coeng1 dei6 以頭搶地]]
         to knock the head against the ground.
     ==
-  - [[Page~567 (1)槍; here normalised to 搶]]
+  - [[Page~567 #7: (1)槍; here normalised to 搶]]
     ==
     - [[...]];
     - to ~~bow~~ ``knock`` the head low [[Kangxi 槍: 抵也]];
@@ -320,7 +320,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)斨]]
+  - [[Page~567 #8: (1)斨]]
     ==
     - A sort of broad-ax [[Kangxi: 斨卽斧也]];
     - a ~~pole-ax made square, a bill~~ ``square-eyed axe`` [[Kangxi: 方銎斧也]];
@@ -414,7 +414,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)槍]]
+  - [[Page~567 #7: (1)槍]]
     ==
     - Interchanged with the last [[鎗]];
     - a spear, sharp at both ends [[Kangxi: 木兩頭銳也]];
@@ -736,13 +736,13 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)蹌]]
+  - [[Page~567 #3: (1)蹌]]
     ==
     - To walk rapidly [[Kangxi: 恐動趨步, 蹌巧趨貌]];
     - to move ~~towards a superior quickly~~ ``dignifiedly`` [[Kangxi: 士大夫之威儀也]];
     - to gambol, to skip about [[Kangxi: 舞貌]].
     ==
-  - [[Page~567 (1)蹡]]
+  - [[Page~567 #4: (1)蹡]]
     ==
     - Similar to the preceding [[蹌]];
     - [[...]].
@@ -775,7 +775,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)蹡]]
+  - [[Page~567 #4: (1)蹡]]
     --
     [[Alternative form of 蹌. **See $蹌coeng1 for the canonical entry.**]]
     --
@@ -804,7 +804,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)鎗]]
+  - [[Page~567 #6: (1)鎗]]
     ==
     - [[...]];
     - a gun;
@@ -857,7 +857,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (1)鏘]]
+  - [[Page~567 #5: (1)鏘]]
     ==
     - The sound of stones, bells and drums [[Kangxi: 玉聲也一曰樂聲]];
     - a noise [[Kangxi: 鏘聲也]];
@@ -866,7 +866,7 @@ W
         [[hang1 coeng1 鏗鏘]],
         the ring of metallic things.
     ==
-  - [[Page~567 (1)鎗]]
+  - [[Page~567 #6: (1)鎗]]
     ==
     - Interchanged with the last [[鏘]];
     - [[...]].
@@ -1342,7 +1342,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)蹡 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _Ts(')(e/)ung(3)_ (coeng3)]]
+  - [[Page~567 #4: (1)蹡 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _Ts(')(e/)ung(3)_ (coeng3)]]
     ==
     - [[...]];
     - to move irregularly, to go across, to walk awry [[Kangxi: 同蹌行不正貌]].
@@ -1632,7 +1632,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (4)庠]]
+  - [[Page~567 #9: (4)庠]]
     ==
     - An asylum for aged people in ancient times [[Kangxi: 禮官養老處也]],
       a village school, a college, a gymnasium, an academy [[Kangxi: 上庠右學大學也下庠左學小學也]];
@@ -1812,7 +1812,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (4)祥]]
+  - [[Page~567 #10: (4)祥]]
     ==
     - Happiness, felicity, fortune [[Kangxi: 福也]], goodness [[Kangxi: 一云善也]];
     - an omen, a sign, a prognostic [[Kangxi: 凡吉凶之兆皆曰祥, 祥詳也, 祥者善惡之徵]];
@@ -2087,7 +2087,7 @@ F
   ==
 W
   ====
-  - [[Page~567 (4)詳]]
+  - [[Page~567 #11: (4)詳]]
     ==
     - To examine carefully, to learn and report upon, to inquire fully into [[Kangxi: 審議也]];
     - to discourse upon [[Kangxi: 論也]], to reason upon [[Kangxi: 諟也]];

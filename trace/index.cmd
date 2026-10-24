@@ -12629,6 +12629,111 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~567
+    ,{#page-567-entry-1} #1
+    ,{.williams} 匠(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $匠zoeng6
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-2} #2
+    ,{.williams} (1)搶
+    ,
+      <nav class="sideways">
+      ==
+      - $槍caang1
+      - $搶coeng1
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-3} #3
+    ,{.williams} (1)蹌
+    ,
+      <nav class="sideways">
+      ==
+      - $蹌coeng1
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-4} #4
+    ,{.williams} (1)蹡
+    ,
+      <nav class="sideways">
+      ==
+      - $蹌coeng1
+      - ($蹡coeng1), $蹡coeng3
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-5} #5
+    ,{.williams} (1)鏘
+    ,
+      <nav class="sideways">
+      ==
+      - $鏘coeng1
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-6} #6
+    ,{.williams} (1)鎗
+    ,
+      <nav class="sideways">
+      ==
+      - $鎗caang1, $鎗coeng1
+      - $鐺caang1
+      - $鏘coeng1
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-7} #7
+    ,{.williams} (1)槍
+    ,
+      <nav class="sideways">
+      ==
+      - $搶coeng1
+      - $槍coeng1
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-8} #8
+    ,{.williams} (1)斨
+    ,
+      <nav class="sideways">
+      ==
+      - $斨coeng1
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-9} #9
+    ,{.williams} (4)庠
+    ,
+      <nav class="sideways">
+      ==
+      - $庠coeng4
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-10} #10
+    ,{.williams} (4)祥
+    ,
+      <nav class="sideways">
+      ==
+      - $祥coeng4
+      ==
+      </nav>
+  //
+    ,{#page-567-entry-11} #11
+    ,{.williams} (4)詳
+    ,
+      <nav class="sideways">
+      ==
+      - $詳coeng4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

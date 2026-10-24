@@ -215,7 +215,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 槍]]
+  - [[Page~567 #2: (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 槍]]
     ==
     - [[...]];
     - a comet [[Kangxi 搶: 欃槍或作攙搶彗星也]];
@@ -289,7 +289,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
+  - [[Page~567 #6: (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
     ==
     - [[...]];
     - the tinkle of bells, a jingling sound [[Kangxi: 鐘聲也]];
@@ -327,7 +327,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~567 (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 鐺]]
+  - [[Page~567 #6: (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 鐺]]
     ==
     - [[...]];
     - a sort of pot [[Kangxi 鐺: 釜屬, 鬴有足曰鐺]] to hold spirits [[Kangxi 鐺: 三足溫酒器也]];

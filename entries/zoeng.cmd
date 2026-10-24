@@ -1903,7 +1903,7 @@ F
   ==
 W
   ====
-  - [[Page~567 匠(6)]]
+  - [[Page~567 #1: 匠(6)]]
     ==
     - A workman, a mechanic, an artisan of any kind [[Kangxi: 工匠]];
     - _(2)t(a/) (4)ngan ts(e/)ung(6)_
