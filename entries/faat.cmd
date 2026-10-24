@@ -190,7 +190,7 @@ F
   ==
 W
   ====
-  - [[Page~50 發(8)]]
+  - [[Page~50 #13: 發(8)]]
     ==
     - To issue, to appear, to send forth, to germinate;
     - to cause to go, to dispatch [[Kangxi: 遣也]]~~, throw out~~;

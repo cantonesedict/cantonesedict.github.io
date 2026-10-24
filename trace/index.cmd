@@ -8238,6 +8238,127 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~50
+    ,{#page-50-entry-1} #1
+    ,{.williams} 紱(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $紱fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-2} #2
+    ,{.williams} 祓(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $祓fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-3} #3
+    ,{.williams} 袚(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $袚fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-4} #4
+    ,{.williams} 韍(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $紱fat1
+      - $韍fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-5} #5
+    ,{.williams} 髴(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $彿fat1
+      - $髴fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-6} #6
+    ,{.williams} 黻(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $黻fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-7} #7
+    ,{.williams} 忽(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $忽fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-8} #8
+    ,{.williams} 惚(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $惚fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-9} #9
+    ,{.williams} 㧾(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $㧾fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-10} #10
+    ,{.williams} 笏(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $笏fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-11} #11
+    ,{.williams} 窟(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $窟fat1
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-12} #12
+    ,{.williams} 佛(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $佛fat6
+      - $拂fat6
+      ==
+      </nav>
+  //
+    ,{#page-50-entry-13} #13
+    ,{.williams} 發(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $發faat3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

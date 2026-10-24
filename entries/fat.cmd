@@ -211,7 +211,7 @@ W
         [[fong2 fat1 彷彿]]
         resembling [[Kangxi: 彷彿也]].
     ==
-  - [[Page~50 髴(7); here normalised to 彿]]
+  - [[Page~50 #5: 髴(7); here normalised to 彿]]
     ==
     - [[...]];
     - like, nearly [[Kangxi 髴: 若似也, 或作彿]], applied to things.
@@ -252,7 +252,7 @@ F
   ==
 W
   ====
-  - [[Page~50 忽(7)]]
+  - [[Page~50 #7: 忽(7)]]
     ==
     - A single floss of silk [[Kangxi: 輕也一蠶爲一忽十忽爲一絲, 忽蜘蛛網也]];
     - the smallest fraction in notation, a ~~millionth~~ ``hundred thousandth``;
@@ -325,7 +325,7 @@ F
   ==
 W
   ====
-  - [[Page~50 惚(7)]]
+  - [[Page~50 #8: 惚(7)]]
     ==
     - Minute, abstruse [[Kangxi: 怳惚微妙不測貌]];
     - inexplicable;
@@ -416,7 +416,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~50 㧾(7)]]
+  - [[Page~50 #9: 㧾(7)]]
     ==
     - To take up refuse, to clean away;
     - to bale out, to dip up;
@@ -538,7 +538,7 @@ F
   ==
 W
   ====
-  - [[Page~50 祓(7)]]
+  - [[Page~50 #2: 祓(7)]]
     ==
     - ~~Clean, pure~~ ``To cleanse, to purify`` [[Kangxi: 潔也]];
     - to disperse;
@@ -587,7 +587,7 @@ F
   ==
 W
   ====
-  - [[Page~50 窟(7)]]
+  - [[Page~50 #11: 窟(7)]]
     ==
     - A hole in the ground [[Kangxi: 窟室也孔穴也]];
     - a stable or sty dug out of the earth;
@@ -650,7 +650,7 @@ F
   ==
 W
   ====
-  - [[Page~50 笏(7)]]
+  - [[Page~50 #10: 笏(7)]]
     ==
     - A tablet of ivory, bamboo, gem, or wood,
       used at audiences in former times [[Kangxi: 公及士所搢也 etc., 笏一名手版品官所執]];
@@ -704,7 +704,7 @@ F
   ==
 W
   ====
-  - [[Page~50 紱(7)]]
+  - [[Page~50 #1: 紱(7)]]
     ==
     - A ribbon to hold a seal [[Kangxi: 綬也, 紱或作紼]];
     - ~~used for the two preceding [[茀, 紼]].~~
@@ -712,7 +712,7 @@ W
     --
     [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]]
     --
-  - [[Page~50 韍(7); here normalised to 紱]]
+  - [[Page~50 #4: 韍(7); here normalised to 紱]]
     ==
     - [[...]];
     - a string on a seal [[Kangxi 韍: 璽之組也]].
@@ -956,7 +956,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~50 袚(7)]]
+  - [[Page~50 #3: 袚(7)]]
     ==
     - A covering for the knees [[Kangxi: 蔽膝也 etc.]];
     - ~~a short tunic worn in southern China~~ ``clothing worn by south-eastern barbarians`` [[Kangxi: ::蠻[夷]服也::]].
@@ -996,7 +996,7 @@ F
   ==
 W
   ====
-  - [[Page~50 韍(7)]]
+  - [[Page~50 #4: 韍(7)]]
     ==
     - A knee-pad of leather [[Kangxi: 本作巿韠也]];
     - a cover or defense for the bosom;
@@ -1036,7 +1036,7 @@ F
   ==
 W
   ====
-  - [[Page~50 髴(7)]]
+  - [[Page~50 #5: 髴(7)]]
     ==
     - Disheveled hair [[Kangxi: 髮亂貌]];
     - head ornaments [[Kangxi: 婦人首飾]];
@@ -1061,7 +1061,7 @@ F
   ==
 W
   ====
-  - [[Page~50 黻(7)]]
+  - [[Page~50 #6: 黻(7)]]
     ==
     - ~~Variegated,~~ ``An embroidered symbol in`` black and azure mixed [[Kangxi: 黑與靑相次文, 黼黻彰也, etc.]];
     - to embroider in colors;
@@ -1233,7 +1233,7 @@ F
   ==
 W
   ====
-  - [[Page~50 佛(9)]]
+  - [[Page~50 #12: 佛(9)]]
     ==
     - [[...]];
     - Budha``, the enlightened one`` [[Kangxi: 佛佗佛者覺也]];
@@ -1345,7 +1345,7 @@ W
     --
     [[Alternative form of 咈. See $咈fat6.]]
     --
-  - [[Page~50 佛(9); here normalised to 拂]]
+  - [[Page~50 #12: 佛(9); here normalised to 拂]]
     ==
     - Contrary, unreasonable [[Kangxi 佛: 逆也戾也, 與拂同]];
     - to turn aside [[Kangxi 佛: 捩也]];
