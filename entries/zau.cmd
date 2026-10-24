@@ -1301,7 +1301,7 @@ F
   ==
 W
   ====
-  - [[Page~561 (2)走]]
+  - [[Page~561 #1: (2)走]]
     ==
     - To go [[Kangxi: 走猶去也]];
     - to sail;
@@ -1449,7 +1449,7 @@ F
   ==
 W
   ====
-  - [[Page~561 (2)酒]]
+  - [[Page~561 #2: (2)酒]]
     ==
     - Spirits [[Kangxi: 就也所以就人性之善惡]];
     - distilled liquor made from rice [[Kangxi: 酒酉也釀之米麴酉澤久而味美也]];
@@ -1739,7 +1739,7 @@ F
   ==
 W
   ====
-  - [[Page~561 奏(3)]]
+  - [[Page~561 #3: 奏(3)]]
     ==
     - To report to the throne, to memorialize the emperor,
       to tell the sovereign, to cause him to hear or know [[Kangxi: 人臣言事章疏曰奏]];
@@ -1914,13 +1914,13 @@ F
   ==
 W
   ====
-  - [[Page~561 縐(3)]]
+  - [[Page~561 #4: 縐(3)]]
     ==
     - [[...]];
     - used for the next [[皺]];
     - [[...]].
     ==
-  - [[Page~561 皺(3)]]
+  - [[Page~561 #5: 皺(3)]]
     ==
     - The skin wrinkled [[Kangxi: 面皺也]] from age;
     - frowning [[Kangxi: 眉攢也]];
@@ -1989,7 +1989,7 @@ F
   ==
 W
   ====
-  - [[Page~561 縐(3)]]
+  - [[Page~561 #4: 縐(3)]]
     ==
     - Crape [[Kangxi: 絺之細者]];
     - rumpled, crenulated, crinkled, crisp, frizzled;
@@ -2145,7 +2145,7 @@ F
   ==
 W
   ====
-  - [[Page~561 就(6)]]
+  - [[Page~561 #6: 就(6)]]
     ==
     - The place to which things tend or culminate at [[Kangxi: 就高也从京从尤, 尤異也尤高人所就之處]];
     - to go towards, to approach, to draw near;

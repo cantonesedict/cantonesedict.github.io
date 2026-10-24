@@ -12145,6 +12145,62 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=6} Page~561
+    ,{#page-561-entry-1} #1
+    ,{.williams} (2)走
+    ,
+      <nav class="sideways">
+      ==
+      - $走zau2
+      ==
+      </nav>
+  //
+    ,{#page-561-entry-2} #2
+    ,{.williams} (2)酒
+    ,
+      <nav class="sideways">
+      ==
+      - $酒zau2
+      ==
+      </nav>
+  //
+    ,{#page-561-entry-3} #3
+    ,{.williams} 奏(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $奏zau3
+      ==
+      </nav>
+  //
+    ,{#page-561-entry-4} #4
+    ,{.williams} 縐(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $皺zau3
+      - $縐zau3
+      ==
+      </nav>
+  //
+    ,{#page-561-entry-5} #5
+    ,{.williams} 皺(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $皺zau3
+      ==
+      </nav>
+  //
+    ,{#page-561-entry-6} #6
+    ,{.williams} 就(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $就zau6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
