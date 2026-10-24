@@ -404,7 +404,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
+  - [[Page~576 #4: (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
     ==
     - A dragon-fly, called _~~(1)tsing (1)t(')ing~~ ``(1)ts(')ing (4)t(')ing``_ [[cing1 ting4 蜻蜓]],
       which sips the water [[Kangxi: 蜻蜓蟲]];

@@ -13509,6 +13509,70 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~576
+    ,{#page-576-entry-1} #1
+    ,{.williams} (1)晶
+    ,
+      <nav class="sideways">
+      ==
+      - $晶zing1
+      ==
+      </nav>
+  //
+    ,{#page-576-entry-2} #2
+    ,{.williams} (1)睛
+    ,
+      <nav class="sideways">
+      ==
+      - $睛zing1
+      ==
+      </nav>
+  //
+    ,{#page-576-entry-3} #3
+    ,{.williams} (1)菁
+    ,
+      <nav class="sideways">
+      ==
+      - $菁zing1
+      ==
+      </nav>
+  //
+    ,{#page-576-entry-4} #4
+    ,{.williams} (1)蜻
+    ,
+      <nav class="sideways">
+      ==
+      - $蜻cing1, $蜻zing1
+      ==
+      </nav>
+  //
+    ,{#page-576-entry-5} #5
+    ,{.williams} (1)精
+    ,
+      <nav class="sideways">
+      ==
+      - ($精zeng1), $精zing1
+      ==
+      </nav>
+  //
+    ,{#page-576-entry-6} #6
+    ,{.williams} (2)井
+    ,
+      <nav class="sideways">
+      ==
+      - ($井zeng2), $井zing2
+      ==
+      </nav>
+  //
+    ,{#page-576-entry-7} #7
+    ,{.williams} 淨(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($淨zeng6), $淨zing6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

@@ -74,7 +74,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 (1)精 _(1)Tsing_ (zing1); _(1)Tseng_ (zeng1) implied by variational note]]
+  - [[Page~576 #5: (1)精 _(1)Tsing_ (zing1); _(1)Tseng_ (zeng1) implied by variational note]]
     --
     [[Reading variation (vernacular for "clever" sense). **See $精zing1 for the canonical entry.**]]
     --
@@ -107,7 +107,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 (2)井 _(2)Tsing_ (zing2); _(2)Tseng_ (zeng2) implied by variational note]]
+  - [[Page~576 #6: (2)井 _(2)Tsing_ (zing2); _(2)Tseng_ (zeng2) implied by variational note]]
     --
     [[Reading variation. **See $井zing2 for the canonical entry.**]]
     --
@@ -177,7 +177,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 淨(6) _Tsing(6)_ (zing6); _Tseng(6)_ (zeng6) implied by variational note]]
+  - [[Page~576 #7: 淨(6) _Tsing(6)_ (zing6); _Tseng(6)_ (zeng6) implied by variational note]]
     --
     [[Reading variation (vernacular adjective "clean"). **See $淨zing6 for the canonical entry.**]]
     --

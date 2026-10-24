@@ -337,7 +337,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)晶]]
+  - [[Page~576 #1: (1)晶]]
     ==
     - Lustre, brightness [[Kangxi: 精光也]];
     - clear, pure, light;
@@ -603,7 +603,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)睛]]
+  - [[Page~576 #2: (1)睛]]
     ==
     - The ball of the eye;
     - the pupil;
@@ -689,11 +689,11 @@ F
   ==
 W
   ====
-  - [[Page~576 before (1)精]]
+  - [[Page~576: before (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
-  - [[Page~576 (1)精]]
+  - [[Page~576 #5: (1)精]]
     ==
     - Cleaned rice [[Kangxi: 鑿也]];
     - selected [[Kangxi: 擇也]], ripe, mature [[Kangxi: 熟也]];
@@ -800,7 +800,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)菁]]
+  - [[Page~576 #3: (1)菁]]
     ==
     - Scallion blossoms [[Kangxi: 韭華也]];
     - a kind of three ribbed rush [[Kangxi: 菁茅, 江淮之閒有一茅而三脊 etc.]];
@@ -930,7 +930,7 @@ F
   ==
 W
   ====
-  - [[Page~576 (1)蜻]]
+  - [[Page~576 #4: (1)蜻]]
     ==
     - [[...]];
     - _(1)tsing l(i/)t(9)_
@@ -1072,11 +1072,11 @@ F
   ==
 W
   ====
-  - [[Page~576 before (1)精]]
+  - [[Page~576: before (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
-  - [[Page~576 (2)井]]
+  - [[Page~576 #6: (2)井]]
     ==
     - A well [[Kangxi: 穴地出水曰井]];
     - a deep pit;
@@ -1722,11 +1722,11 @@ W
     --
     Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean.
     --
-  - [[Page~576 before (1)精]]
+  - [[Page~576: before (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
-  - [[Page~576 淨(6)]]
+  - [[Page~576 #7: 淨(6)]]
     ==
     - Clean, pure, spotless, undefiled [[Kangxi: 無垢也潔也]];
     - upright, guileless;
