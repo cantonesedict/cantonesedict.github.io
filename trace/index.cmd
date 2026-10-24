@@ -11048,6 +11048,109 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~548
+    ,{#page-548-entry-1} #1
+    ,{.williams} (1)劑
+    ,
+      <nav class="sideways">
+      ==
+      - $劑zai1
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-2} #2
+    ,{.williams} (1)擠
+    ,
+      <nav class="sideways">
+      ==
+      - $擠zai1
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-3} #3
+    ,{.williams} (1)穧
+    ,
+      <nav class="sideways">
+      ==
+      - ($穧zai1), $穧zai6
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-4} #4
+    ,{.williams} (1)躋(1)隮
+    ,
+      <nav class="sideways">
+      ==
+      - $躋zai1
+      - $隮zai1
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-5} #5
+    ,{.williams} (1)賷(1)賫
+    ,
+      <nav class="sideways">
+      ==
+      - ($賫zai1)
+      - ($賷zai1)
+      - $齎zai1
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-6} #6
+    ,{.williams} (1)齎
+    ,
+      <nav class="sideways">
+      ==
+      - $齎zai1
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-7} #7
+    ,{.williams} (1)齏
+    ,
+      <nav class="sideways">
+      ==
+      - $齏zai1
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-8} #8
+    ,{.williams} (2)仔
+    ,
+      <nav class="sideways">
+      ==
+      - $仔zai2
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-9} #9
+    ,{.williams} 祭(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $祭zai3
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-10} #10
+    ,{.williams} 穄(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $穄zai3
+      ==
+      </nav>
+  //
+    ,{#page-548-entry-11} #11
+    ,{.williams} 際(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $際zai3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
