@@ -14381,6 +14381,108 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~587
+    ,{#page-587-entry-1} #1
+    ,{.williams} (4)螬
+    ,
+      <nav class="sideways">
+      ==
+      - $螬cou4
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-2} #2
+    ,{.williams} (2)草(2)艸
+    ,
+      <nav class="sideways">
+      ==
+      - $艸cou2
+      - $草cou2
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-3} #3
+    ,{.williams} (5)造
+    ,
+      <nav class="sideways">
+      ==
+      - $造cou5
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-4} #4
+    ,{.williams} 造(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $造cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-5} #5
+    ,{.williams} 糙(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $糙cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-6} #6
+    ,{.williams} 噪(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $噪cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-7} #7
+    ,{.williams} 懆(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $懆cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-8} #8
+    ,{.williams} 燥(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $燥cou3
+      - $躁cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-9} #9
+    ,{.williams} 躁(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $躁cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-10} #10
+    ,{.williams} 厝(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $厝cou3
+      ==
+      </nav>
+  //
+    ,{#page-587-entry-11} #11
+    ,{.williams} 措(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $措cou3, $措zaak3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

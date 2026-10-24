@@ -288,7 +288,7 @@ F
   ==
 W
   ====
-  - [[Page~587 (2)草(2)艸]]
+  - [[Page~587 #2: (2)草(2)艸]]
     ==
     - [[...]];
     - the 140th~radical [[U+2F8B ⾋ "grass"]] of characters relating to herbs;
@@ -318,7 +318,7 @@ F
   ==
 W
   ====
-  - [[Page~587 (2)草(2)艸]]
+  - [[Page~587 #2: (2)草(2)艸]]
     ==
     - Herbs, grasses, plants with herbaceous stems [[Kangxi 草: 百卉也]];
     - plants in general;
@@ -429,7 +429,7 @@ F
   ==
 W
   ====
-  - [[Page~587 厝(3)]]
+  - [[Page~587 #10: 厝(3)]]
     ==
     - ~~A large flat stone, fit for a gravestone;~~
     - to place [[Kangxi: 厝置也]], to put a body away properly;
@@ -478,7 +478,7 @@ F
   ==
 W
   ====
-  - [[Page~587 噪(3)]]
+  - [[Page~587 #6: 噪(3)]]
     ==
     - The chirping and singing of many birds [[Kangxi 喿: 鳥羣鳴也, 或作噪{𠹏=⿰口蚤}]];
     - the hum of men;
@@ -507,7 +507,7 @@ F
   ==
 W
   ====
-  - [[Page~587 懆(3)]]
+  - [[Page~587 #7: 懆(3)]]
     ==
     - Chagrined, thoughtful, sad, vexed [[Kangxi: 愁不安也]];
     - covetous [[Kangxi: 貪也]];
@@ -555,7 +555,7 @@ F
   ==
 W
   ====
-  - [[Page~587 措(3)]]
+  - [[Page~587 #11: 措(3)]]
     ==
     - To cast away, to throw down, to place, to put in its place [[Kangxi: 措置也, 投也]];
     - to make known, to show abroad [[Kangxi: 舉也]];
@@ -693,7 +693,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~587 燥(3)]]
+  - [[Page~587 #8: 燥(3)]]
     ==
     - Dry, scorched, chapped, parched [[Kangxi: 乾也]];
     - to dry by the fire;
@@ -742,7 +742,7 @@ F
   ==
 W
   ====
-  - [[Page~587 糙(3)]]
+  - [[Page~587 #5: 糙(3)]]
     ==
     - Coarse rice [[Kangxi: 粗米未舂]]~~, paddy which has only been hulled, and not cleaned~~;
     - _ts(')(o\)(3) (5)mai (1)l(a/)n_
@@ -813,13 +813,13 @@ F
   ==
 W
   ====
-  - [[Page~587 燥(3); here normalised to 躁]]
+  - [[Page~587 #8: 燥(3); here normalised to 躁]]
     ==
     - [[...]];
     - fierce, untameable;
     - [[...]].
     ==
-  - [[Page~587 躁(3)]]
+  - [[Page~587 #9: 躁(3)]]
     ==
     - Hasty, heedless, precipitate;
     - to go quickly [[Kangxi: 疾也]];
@@ -869,7 +869,7 @@ F
   ==
 W
   ====
-  - [[Page~587 造(3)]]
+  - [[Page~587 #4: 造(3)]]
     ==
     - To go to, to arrive [[Kangxi: 就也, 詣也]];
     - to advance, to enter [[Kangxi: 進也]];
@@ -1370,7 +1370,7 @@ F
   ==
 W
   ====
-  - [[Page~587 (4)螬]]
+  - [[Page~587 #1: (4)螬]]
     ==
     - ~~Maggots~~ ``Scarabs`` in ordure [[Kangxi: 蟦蠐螬, 在糞土中者]];
     - _(4)ts(')ai (4)ts(')(o\)_
@@ -1445,7 +1445,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~587 (5)造]]
+  - [[Page~587 #3: (5)造]]
     --
     A colloquial word.
     --
