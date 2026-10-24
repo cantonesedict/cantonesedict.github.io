@@ -497,7 +497,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~612 (1)觜]]
+  - [[Page~612 #4: (1)觜]]
     --
     [[...]]
     --
@@ -982,7 +982,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~612 (1)觜 read _(1)Tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
+  - [[Page~612 #4: (1)觜 read _(1)Tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
     --
     [[...]]
     --

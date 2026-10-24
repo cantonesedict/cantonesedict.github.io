@@ -3490,7 +3490,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)粢 _(1)Tsz'_ (zi1); here corrected to _(4)Ts(')z'_ (ci4) and normalised to 餈]]
+  - [[Page~612 #2: (1)粢 _(1)Tsz'_ (zi1); here corrected to _(4)Ts(')z'_ (ci4) and normalised to 餈]]
     ==
     - [[...]];
     - a cake of glutinous rice [[Kangxi 粢: 稻餠與餈同]].

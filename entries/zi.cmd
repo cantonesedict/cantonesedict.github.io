@@ -326,7 +326,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)姿]]
+  - [[Page~612 #1: (1)姿]]
     ==
     - Manner, gait, form, carriage, air [[Kangxi: 態也]];
     - beautiful, graceful;
@@ -960,7 +960,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)粢]]
+  - [[Page~612 #2: (1)粢]]
     ==
     - A common name for grains ~~and pulse~~ [[Kangxi: 稷也]];
     - rice used in sacrifices, which must be of the best;
@@ -1481,7 +1481,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)觜]]
+  - [[Page~612 #4: (1)觜]]
     ==
     - The 21st~zodiacal constellation [[Kangxi: 星名觜觿西方宿也]],
       consisting of λ and 2π in Orion's head.
@@ -1719,7 +1719,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)趑]]
+  - [[Page~612 #3: (1)趑]]
     ==
     - Unable to advance [[Kangxi: 趑趄行不進也, 趑趄難行也]], either from fear or disability;
     - to go awry;
@@ -1897,7 +1897,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)髭]]
+  - [[Page~612 #5: (1)髭]]
     ==
     - The mustaches [[Kangxi: 口上須也]], which the Chinese wear long;
     - ~~beautiful, good-looking;~~
@@ -1938,7 +1938,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (1)鼒]]
+  - [[Page~612 #6: (1)鼒]]
     ==
     - A small round tripod [[Kangxi: 小鼎也]];
     - a round lid``ded`` or cover``ed`` ~~of a~~ tripod [[Kangxi: 鼎之圜掩上者]].
@@ -2043,7 +2043,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (2)仔]]
+  - [[Page~612 #8: (2)仔]]
     ==
     - To bear, to carry [[Kangxi: 克也任也]];
     - to undertake, as an officer;
@@ -2413,7 +2413,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (2)子]]
+  - [[Page~612 #7: (2)子]]
     ==
     - A son [[Kangxi: 男子之通稱]], anciently it meant a child [[Kangxi: 女子亦稱子]];
     - a boy, a lad, a person;
@@ -2831,7 +2831,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (2)梓]]
+  - [[Page~612 #10: (2)梓]]
     ==
     - A sort of tree [[Kangxi: 楸也]],
       considered to be the best of all trees [[Kangxi: 梓爲百木長故呼梓爲木王 etc.]] (a sort of cedar?);
@@ -3439,7 +3439,7 @@ F
   ==
 W
   ====
-  - [[Page~612 (2)耔]]
+  - [[Page~612 #9: (2)耔]]
     ==
     - To ~~weed and hoe~~ ``heap`` earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
     ==
