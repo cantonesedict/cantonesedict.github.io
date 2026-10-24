@@ -770,12 +770,12 @@
 "caa1":{
 "isCanonical":true,
 "williams":"(1)ch(')(a/)",
-"text":"U+8256 co1 (per Fan Wan) (F2.58 艖 _Ts'o_ (co1)) 舟名 (Page 583 艖 _Ts'o_ (co1)) A skiff (Kangxi: 小舟也); _im ts'o_ (jim4 co1 鹽艖), a salt boat, vessels used in salt transportation. Also read _ch'a_ (caa1)."
+"text":"U+8256 co1 (per Fan Wan) (F2.58 艖 _Ts'o_ (co1)) 舟名 (Page 583 #5: 艖 _Ts'o_ (co1)) A skiff (Kangxi: 小舟也); _im ts'o_ (jim4 co1 鹽艖), a salt boat, vessels used in salt transportation. Also read _ch'a_ (caa1)."
 },
 "co1":{
 "isCanonical":false,
 "williams":"(1)ts(')o",
-"text":"U+8256 (F2.58 艖) 舟名 (Page 583 艖)"
+"text":"U+8256 (F2.58 艖) 舟名 (Page 583 #5: 艖)"
 }
 },
 "鑔":{
@@ -935,7 +935,7 @@
 "co1":{
 "isCanonical":true,
 "williams":"(1)ts(')o",
-"text":"U+6413 (F2.58 搓) 挪然也 (Page 583 搓) To twist by rubbing on the knee; to rub or roll between the palms (Kangxi: 搓挪也); _ts'o mai yat t'un_ (co1 maai4 jat1 tyun4 搓埋一團), roll it into a ball; _ts'o sin_ (co1 sin3 搓線) to twist thread; _ts'o heung_ (co1 hoeng1 搓香), to cover incense sticks by rolling; _ts'o un kam pin_ (co1 jyun4 gam6 bin2 搓圓撳扁), can be rolled or flattened; _met._ an easy obliging man; _ts'o no_ (co1 no4 搓挪), to roll and mix between the hands; rustling, flexible, like willow twigs. Fan Wan entry: Corrected 梛 to 挪."
+"text":"U+6413 (F2.58 搓) 挪然也 (Page 583 #4: 搓) To twist by rubbing on the knee; to rub or roll between the palms (Kangxi: 搓挪也); _ts'o mai yat t'un_ (co1 maai4 jat1 tyun4 搓埋一團), roll it into a ball; _ts'o sin_ (co1 sin3 搓線) to twist thread; _ts'o heung_ (co1 hoeng1 搓香), to cover incense sticks by rolling; _ts'o un kam pin_ (co1 jyun4 gam6 bin2 搓圓撳扁), can be rolled or flattened; _met._ an easy obliging man; _ts'o no_ (co1 no4 搓挪), to roll and mix between the hands; rustling, flexible, like willow twigs. Fan Wan entry: Corrected 梛 to 挪."
 }
 },
 "猜":{
@@ -980,17 +980,17 @@
 "caai3":{
 "isCanonical":true,
 "williams":"ch(')(a/)i(3)",
-"text":"U+7625 (Page 583 瘥 _Ts'o_ (co1); here corrected to _Ch'ai_ (caai3)) To get convalescent, to recover (Kangxi: 疾愈也, 瘥癒也);"
+"text":"U+7625 (Page 583 #9: 瘥 _Ts'o_ (co1); here corrected to _Ch'ai_ (caai3)) To get convalescent, to recover (Kangxi: 疾愈也, 瘥癒也);"
 },
 "co1":{
 "isCanonical":false,
 "williams":"(1)ts(')o",
-"text":"U+7625 (Page 583 瘥)"
+"text":"U+7625 (Page 583 #9: 瘥)"
 },
 "co4":{
 "isCanonical":true,
 "williams":"(4)ts(')o",
-"text":"U+7625 co1 (per Williams) ze1 (alternative per 《廣韻》子邪切) (Page 583 瘥 _Ts'o_ (co1); here normalised to _Ts'o_ (co4)) a slight ailment (Kangxi: 病也), slight epidemic, like influenza. 【瘥】 (dza, tsjae) (_noun-like_) ailment, (_met._) plague"
+"text":"U+7625 co1 (per Williams) ze1 (alternative per 《廣韻》子邪切) (Page 583 #9: 瘥 _Ts'o_ (co1); here normalised to _Ts'o_ (co4)) a slight ailment (Kangxi: 病也), slight epidemic, like influenza. 【瘥】 (dza, tsjae) (_noun-like_) ailment, (_met._) plague"
 }
 },
 "瘵":{
@@ -5104,7 +5104,7 @@
 "co1":{
 "isCanonical":true,
 "williams":"(1)ts(')o",
-"text":"U+509E so1 (alternative per 《廣韻》素何切) (F2.58 傞) 舞不止也 (Page 583 傞) The drunken frolics of a man in liquor (Kangxi: 醉舞貌); _ts'o ts'o_ (co1 co1 傞傞), drunken antics. Williams' \"frolics\": Specifically, dancing. 【傞】 (tsha, sa) Used in 傞傞. 【傞傞】 (tsha tsha, sa sa) (_adverb-like_) (dancing) drunkenly, on and on"
+"text":"U+509E so1 (alternative per 《廣韻》素何切) (F2.58 傞) 舞不止也 (Page 583 #2: 傞) The drunken frolics of a man in liquor (Kangxi: 醉舞貌); _ts'o ts'o_ (co1 co1 傞傞), drunken antics. Williams' \"frolics\": Specifically, dancing. 【傞】 (tsha, sa) Used in 傞傞. 【傞傞】 (tsha tsha, sa sa) (_adverb-like_) (dancing) drunkenly, on and on"
 }
 },
 "初":{
@@ -5130,14 +5130,14 @@
 "co1":{
 "isCanonical":true,
 "williams":"(1)ts(')o",
-"text":"U+5D6F 嵳 co4 (per 《廣韻》昨何切) (F2.58 嵯) 嵯峨 (Page 583 嵯) ~~Uneven hills;~~ ~~_ts'o ngo_ (co1 ngo4 嵯峨), the inequalities of hills, the undulating outline of mountains.~~ The reading _ts'o_ (co1) is not unattested; Kangxi has 《集韻》《韻會》《正韻》𠀤倉何切音磋《說文》嵯峨山石貌. Williams' \"Uneven hills\" etc.: These explanations only apply to the reading 楚宜切 _ch'i_ (ci1) for use in the phrase 㠁嵯, which is the mountain version of 參差. Used in 嵯峨 (lofty, mountainous)."
+"text":"U+5D6F 嵳 co4 (per 《廣韻》昨何切) (F2.58 嵯) 嵯峨 (Page 583 #3: 嵯) ~~Uneven hills;~~ ~~_ts'o ngo_ (co1 ngo4 嵯峨), the inequalities of hills, the undulating outline of mountains.~~ The reading _ts'o_ (co1) is not unattested; Kangxi has 《集韻》《韻會》《正韻》𠀤倉何切音磋《說文》嵯峨山石貌. Williams' \"Uneven hills\" etc.: These explanations only apply to the reading 楚宜切 _ch'i_ (ci1) for use in the phrase 㠁嵯, which is the mountain version of 參差. Used in 嵯峨 (lofty, mountainous)."
 }
 },
 "瑳":{
 "co1":{
 "isCanonical":true,
 "williams":"(1)ts(')o",
-"text":"U+7473 co2 (alternative per 《廣韻》千可切) (F2.58 瑳) 玉鮮白色 (Page 583 瑳) A white, lustrous, stone (Kangxi: 玉色鮮白也); fresh, beautiful (Kangxi: 凡物鮮盛亦曰瑳, 鮮盛貌); to smile, to look fascinating (Kangxi: 笑貌, 瑳巧笑貌). Fan Wan entry: Corrected 解 to 鮮 (notwithstanding the olden dictionaries read 玉色鮮白). Kangxi prescribes the rising-tone reading for the \"brilliant\" (鮮盛貌) and \"smiling\" (笑貌) senses. 【瑳】 (tsha, tshaX) (_adjective-like_) brilliant-white"
+"text":"U+7473 co2 (alternative per 《廣韻》千可切) (F2.58 瑳) 玉鮮白色 (Page 583 #7: 瑳) A white, lustrous, stone (Kangxi: 玉色鮮白也); fresh, beautiful (Kangxi: 凡物鮮盛亦曰瑳, 鮮盛貌); to smile, to look fascinating (Kangxi: 笑貌, 瑳巧笑貌). Fan Wan entry: Corrected 解 to 鮮 (notwithstanding the olden dictionaries read 玉色鮮白). Kangxi prescribes the rising-tone reading for the \"brilliant\" (鮮盛貌) and \"smiling\" (笑貌) senses. 【瑳】 (tsha, tshaX) (_adjective-like_) brilliant-white"
 },
 "co2":{
 "isCanonical":false,
@@ -5149,7 +5149,7 @@
 "co1":{
 "isCanonical":true,
 "williams":"(1)ts(')o",
-"text":"U+78CB 瑳 (F2.58 磋) 切磋所以治骨角 (Page 583 瑳) Used for the next (磋) (Kangxi 瑳: 與磋同). (Page 583 磋) To polish, to work on (Kangxi: 磨治也, 治象曰磋); to cut and polish; to work at, to make good, as composition; _ts'it ts'o_ (cit3 co1 切磋), to cut and polish. 【磋】 (tsha) (_verb-like_) to polish"
+"text":"U+78CB 瑳 (F2.58 磋) 切磋所以治骨角 (Page 583 #7: 瑳) Used for the next (磋) (Kangxi 瑳: 與磋同). (Page 583 #8: 磋) To polish, to work on (Kangxi: 磨治也, 治象曰磋); to cut and polish; to work at, to make good, as composition; _ts'it ts'o_ (cit3 co1 切磋), to cut and polish. 【磋】 (tsha) (_verb-like_) to polish"
 }
 },
 "芻":{
@@ -5163,7 +5163,7 @@
 "co1":{
 "isCanonical":true,
 "williams":"(1)ts(')o",
-"text":"U+8E49 (F2.58 蹉) 蹉跎不及也 (Page 583 蹉) To slip (Kangxi: 蹉跌也); to err (Kangxi: 蹉過也); _ts'o t'o_ (co1 to4 蹉跎), to miss the time, to lose the opportunity (Kangxi: 蹉跎失時也)."
+"text":"U+8E49 (F2.58 蹉) 蹉跎不及也 (Page 583 #6: 蹉) To slip (Kangxi: 蹉跌也); to err (Kangxi: 蹉過也); _ts'o t'o_ (co1 to4 蹉跎), to miss the time, to lose the opportunity (Kangxi: 蹉跎失時也)."
 }
 },
 "雛":{
@@ -5203,40 +5203,40 @@
 "co2":{
 "isCanonical":true,
 "williams":"(2)ts(')o",
-"text":"U+811E co3 (per Fan Wan) (F2.61 脞 _Ts'o_ (co3)) 叢脞又細碎無大畧也 (Page 583 脞 _Ts'o_ (co3); here normalised to _Ts'o_ (co2)) To mince up meat (Kangxi: 一曰切肉爲脞); broken to bits, minced; small (Kangxi: 小也); to attend to trifles (Kangxi: 叢脞細碎無大略). 【脞】 (tshwaX) (_noun-like_) mince, (_met._) trifle"
+"text":"U+811E co3 (per Fan Wan) (F2.61 脞 _Ts'o_ (co3)) 叢脞又細碎無大畧也 (Page 583 #13: 脞 _Ts'o_ (co3); here normalised to _Ts'o_ (co2)) To mince up meat (Kangxi: 一曰切肉爲脞); broken to bits, minced; small (Kangxi: 小也); to attend to trifles (Kangxi: 叢脞細碎無大略). 【脞】 (tshwaX) (_noun-like_) mince, (_met._) trifle"
 },
 "co3":{
 "isCanonical":false,
 "williams":"ts(')o(3)",
-"text":"U+811E (F2.61 脞) 叢脞又細碎無大畧也 (Page 583 脞)"
+"text":"U+811E (F2.61 脞) 叢脞又細碎無大畧也 (Page 583 #13: 脞)"
 }
 },
 "剉":{
 "co3":{
 "isCanonical":true,
 "williams":"ts(')o(3)",
-"text":"U+5249 (F2.61 剉) 折也 (F2.61 銼) 與剉同 (Page 583 剉) To cut, to lop off the corners and sharp points, to trim and prune (Kangxi: 折傷也, 斫也, 斬截也); to cut up, to cut to pieces."
+"text":"U+5249 (F2.61 剉) 折也 (F2.61 銼) 與剉同 (Page 583 #10: 剉) To cut, to lop off the corners and sharp points, to trim and prune (Kangxi: 折傷也, 斫也, 斬截也); to cut up, to cut to pieces."
 }
 },
 "挫":{
 "co3":{
 "isCanonical":true,
 "williams":"ts(')o(3)",
-"text":"U+632B zo3 (per 《廣韻》則臥切) (F2.61 挫) 摧折也打也 (Page 583 挫) To break, to wound (Kangxi: 摧也, 挫折也); to take off the edge, to humble; to oppress, to treat harshly; ~~to trim, to file off;~~ _ts'o k'i yui hi_ (co3 kei4 jeoi6 hei3 挫其銳氣) to bring down his valor; _ts'o chit_ (co3 zit3 挫折) to improve, to polish rude ways; tried by afflictions. 【挫】 (tswaH) (_verb-like_) to break, to defeat, (_met._) to dampen (_verb-like_) to push"
+"text":"U+632B zo3 (per 《廣韻》則臥切) (F2.61 挫) 摧折也打也 (Page 583 #12: 挫) To break, to wound (Kangxi: 摧也, 挫折也); to take off the edge, to humble; to oppress, to treat harshly; ~~to trim, to file off;~~ _ts'o k'i yui hi_ (co3 kei4 jeoi6 hei3 挫其銳氣) to bring down his valor; _ts'o chit_ (co3 zit3 挫折) to improve, to polish rude ways; tried by afflictions. 【挫】 (tswaH) (_verb-like_) to break, to defeat, (_met._) to dampen (_verb-like_) to push"
 }
 },
 "銼":{
 "co3":{
 "isCanonical":true,
 "williams":"ts(')o(3)",
-"text":"U+92BC 剉 锉 (Mainland simplified) co4 (per 《廣韻》昨禾切 for \"boiler\" sense) zuk6 (per 《廣韻》昨木切 for \"boiler\" sense) (F2.61 剉) 折也 (F2.61 銼) 與剉同 (Page 583 剉) Often used for the next (銼). (Page 583 銼) An iron pan or boiler (Kangxi: 鍑也); a file, a rasp; to rasp, to file, to smooth off the sharp or rough points; to rub down; _yat pa ts'o_ (jat1 baa2 co3 一把銼) one file; _ts'o wat_ (co3 waat6 銼滑) file it smooth; _kai ch'un ts'o_ (gai1 ceon1 co3 雞膥銼) to file eggs, or _chi ma ts'o_ (zi1 maa4 co3 芝麻銼) to scrape sesamum seeds, both mean a skinflint; _ts'o kok_ (co3 gok3 銼角) to file off corners. Williams' 雞膥銼, 芝麻銼: More accurately rendered as nouns, i.e. \"chicken-egg file\" and \"sesame file\"."
+"text":"U+92BC 剉 锉 (Mainland simplified) co4 (per 《廣韻》昨禾切 for \"boiler\" sense) zuk6 (per 《廣韻》昨木切 for \"boiler\" sense) (F2.61 剉) 折也 (F2.61 銼) 與剉同 (Page 583 #10: 剉) Often used for the next (銼). (Page 583 #11: 銼) An iron pan or boiler (Kangxi: 鍑也); a file, a rasp; to rasp, to file, to smooth off the sharp or rough points; to rub down; _yat pa ts'o_ (jat1 baa2 co3 一把銼) one file; _ts'o wat_ (co3 waat6 銼滑) file it smooth; _kai ch'un ts'o_ (gai1 ceon1 co3 雞膥銼) to file eggs, or _chi ma ts'o_ (zi1 maa4 co3 芝麻銼) to scrape sesamum seeds, both mean a skinflint; _ts'o kok_ (co3 gok3 銼角) to file off corners. Williams' 雞膥銼, 芝麻銼: More accurately rendered as nouns, i.e. \"chicken-egg file\" and \"sesame file\"."
 }
 },
 "錯":{
 "co3":{
 "isCanonical":true,
 "williams":"ts(')o(3)",
-"text":"U+932F 错 (Mainland simplified) (Page 583 錯) In disorder, confused; to mistake, to err, to do wrong; to slip; erroneous, mixed, wrong; _mo ts'o_ (mou5 co3 冇錯) no mistake, right; _ts'o ngam_ (co3 ngaam1 錯啱), a lucky hit, an error which is fortunate; _'m ying ts'o_ (m4 jing6 co3 唔認錯) will not confess the wrong; _ts'o keuk nan fan_ (co3 goek3 naan4 faan1 錯腳難翻) a slip may be hard to retrieve; _ts'o kwo pit koi_ (co3 gwo3 bit1 goi2 錯過必改), error must be corrected; _se ts'o_ (se2 co3 寫錯) written wrong. The classical reading of the \"erroneous\" and \"mixed\" senses is entering-tone _ts'ok_ (cok3). Williams' 錯啱: Corrected _ngam_ (ngaam5) to _ngam_ (ngaam1). 【唔錯】 (m4 co3) Not bad (in quality). 唔錯吖 (m4 co3 a1): \"Not bad!\" 【冇錯】 (mou5 co3) Correct. 冇錯喇 (mou5 co3 la3): \"That's correct.\""
+"text":"U+932F 错 (Mainland simplified) (Page 583 #14: 錯) In disorder, confused; to mistake, to err, to do wrong; to slip; erroneous, mixed, wrong; _mo ts'o_ (mou5 co3 冇錯) no mistake, right; _ts'o ngam_ (co3 ngaam1 錯啱), a lucky hit, an error which is fortunate; _'m ying ts'o_ (m4 jing6 co3 唔認錯) will not confess the wrong; _ts'o keuk nan fan_ (co3 goek3 naan4 faan1 錯腳難翻) a slip may be hard to retrieve; _ts'o kwo pit koi_ (co3 gwo3 bit1 goi2 錯過必改), error must be corrected; _se ts'o_ (se2 co3 寫錯) written wrong. The classical reading of the \"erroneous\" and \"mixed\" senses is entering-tone _ts'ok_ (cok3). Williams' 錯啱: Corrected _ngam_ (ngaam5) to _ngam_ (ngaam1). 【唔錯】 (m4 co3) Not bad (in quality). 唔錯吖 (m4 co3 a1): \"Not bad!\" 【冇錯】 (mou5 co3) Correct. 冇錯喇 (mou5 co3 la3): \"That's correct.\""
 },
 "cok3":{
 "isCanonical":true,
@@ -16428,7 +16428,7 @@
 "zo6":{
 "isCanonical":true,
 "williams":"tso(6)",
-"text":"U+5EA7 坐 zo6-2 (vernacular rising-tone noun for \"base\" sense) (F2.62 座) 位也 (Page 582 #7: 坐; here normalised to 座) a seat, a place; (Page 583 座) A seat (Kangxi: 牀座也, 坐具), a throne; a shrine; a classifier of houses, towers, hills, cities, pagodas, movable pavilions, &c.; _hoi kwong shing tso_ (hoi1 gwong1 sing1 zo6 開光陞座) to vivify and enshrine an idol; _yat tso t'ap_ (jat1 zo6 taap3 一座塔) one division of a hong (行); _hi tak sam tso uk_ (hei2 dak1 saam1 zo6 uk1 起得三座屋) can build three houses there; _kung tso i_ (gung1 zo6 ji2 公座椅), an easy chair; _pat tso_ (baat3 zo6 八座) eight chair-bearers. Williams' 起得三座屋: Corrected _hi_ (hei3) to _hi_ (hei2). A stand or base. Short for 星座 (constellation). 【座】 (dzwaH) (_noun-like_) seat, (_met._) place"
+"text":"U+5EA7 坐 zo6-2 (vernacular rising-tone noun for \"base\" sense) (F2.62 座) 位也 (Page 582 #7: 坐; here normalised to 座) a seat, a place; (Page 583 #1: 座) A seat (Kangxi: 牀座也, 坐具), a throne; a shrine; a classifier of houses, towers, hills, cities, pagodas, movable pavilions, &c.; _hoi kwong shing tso_ (hoi1 gwong1 sing1 zo6 開光陞座) to vivify and enshrine an idol; _yat tso t'ap_ (jat1 zo6 taap3 一座塔) one division of a hong (行); _hi tak sam tso uk_ (hei2 dak1 saam1 zo6 uk1 起得三座屋) can build three houses there; _kung tso i_ (gung1 zo6 ji2 公座椅), an easy chair; _pat tso_ (baat3 zo6 八座) eight chair-bearers. Williams' 起得三座屋: Corrected _hi_ (hei3) to _hi_ (hei2). A stand or base. Short for 星座 (constellation). 【座】 (dzwaH) (_noun-like_) seat, (_met._) place"
 }
 },
 "妁":{

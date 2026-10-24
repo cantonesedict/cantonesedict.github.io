@@ -826,7 +826,7 @@ W
     - a seat, a place;
     - [[...]].
     ==
-  - [[Page~583 座(6)]]
+  - [[Page~583 #1: 座(6)]]
     ==
     - A seat [[Kangxi: 牀座也, 坐具]], a throne;
     - a shrine;

@@ -80,7 +80,7 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)傞]]
+  - [[Page~583 #2: (1)傞]]
     ==
     - The drunken frolics of a man in liquor [[Kangxi: 醉舞貌]];
     - _(1)ts(')o (1)ts(')o_
@@ -236,7 +236,7 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)嵯]]
+  - [[Page~583 #3: (1)嵯]]
     ==
     - ~~Uneven hills;~~
     - ~~_(1)ts(')o (4)ngo_
@@ -271,7 +271,7 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)搓]]
+  - [[Page~583 #4: (1)搓]]
     ==
     - To twist by rubbing on the knee;
     - to rub or roll between the palms [[Kangxi: 搓挪也]];
@@ -321,7 +321,7 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)瑳]]
+  - [[Page~583 #7: (1)瑳]]
     ==
     - A white, lustrous, stone [[Kangxi: 玉色鮮白也]];
     - fresh, beautiful [[Kangxi: 凡物鮮盛亦曰瑳, 鮮盛貌]];
@@ -362,7 +362,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~583 (1)瘥]]
+  - [[Page~583 #9: (1)瘥]]
     --
     [[Reading variation. **See $瘥co4 for the canonical entry.**]]
     --
@@ -391,14 +391,14 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)瑳]]
+  - [[Page~583 #7: (1)瑳]]
     --
     [[...]]
     --
     --
     Used for the next [[磋]] [[Kangxi 瑳: 與磋同]].
     --
-  - [[Page~583 (1)磋]]
+  - [[Page~583 #8: (1)磋]]
     ==
     - To polish, to work on [[Kangxi: 磨治也, 治象曰磋]];
     - to cut and polish;
@@ -430,7 +430,7 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)艖]]
+  - [[Page~583 #5: (1)艖]]
     --
     [[Reading variation. **See $艖caa1 for the canonical entry.**]]
     --
@@ -495,7 +495,7 @@ F
   ==
 W
   ====
-  - [[Page~583 (1)蹉]]
+  - [[Page~583 #6: (1)蹉]]
     ==
     - To slip [[Kangxi: 蹉跌也]];
     - to err [[Kangxi: 蹉過也]];
@@ -712,7 +712,7 @@ F
   ==
 W
   ====
-  - [[Page~583 脞(3) _Ts(')o(3)_ (co3); here normalised to _(2)Ts(')o_ (co2)]]
+  - [[Page~583 #13: 脞(3) _Ts(')o(3)_ (co3); here normalised to _(2)Ts(')o_ (co2)]]
     ==
     - To mince up meat [[Kangxi: 一曰切肉爲脞]];
     - broken to bits, minced;
@@ -762,7 +762,7 @@ F
   ==
 W
   ====
-  - [[Page~583 剉(3)]]
+  - [[Page~583 #10: 剉(3)]]
     ==
     - To cut, to lop off the corners and sharp points, to trim and prune [[Kangxi: 折傷也, 斫也, 斬截也]];
     - to cut up, to cut to pieces.
@@ -790,7 +790,7 @@ F
   ==
 W
   ====
-  - [[Page~583 挫(3)]]
+  - [[Page~583 #12: 挫(3)]]
     ==
     - To break, to wound [[Kangxi: 摧也, 挫折也]];
     - to take off the edge, to humble;
@@ -828,7 +828,7 @@ F
   ==
 W
   ====
-  - [[Page~583 脞(3)]]
+  - [[Page~583 #13: 脞(3)]]
     --
     [[Reading variation. **See $脞co2 for the canonical entry.**]]
     --
@@ -863,14 +863,14 @@ F
   ==
 W
   ====
-  - [[Page~583 剉(3)]]
+  - [[Page~583 #10: 剉(3)]]
     --
     [[...]]
     --
     --
     Often used for the next [[銼]].
     --
-  - [[Page~583 銼(3)]]
+  - [[Page~583 #11: 銼(3)]]
     ==
     - An iron pan or boiler [[Kangxi: 鍑也]];
     - a file, a rasp;
@@ -915,7 +915,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~583 錯(3)]]
+  - [[Page~583 #14: 錯(3)]]
     ==
     - In disorder, confused;
     - to mistake, to err, to do wrong;
@@ -1001,7 +1001,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~583 (1)瘥 _(1)Ts(')o_ (co1); here normalised to _(4)Ts(')o_ (co4)]]
+  - [[Page~583 #9: (1)瘥 _(1)Ts(')o_ (co1); here normalised to _(4)Ts(')o_ (co4)]]
     ==
     - [[...]];
     - a slight ailment [[Kangxi: 病也]], slight epidemic, like influenza.

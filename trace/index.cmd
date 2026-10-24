@@ -14002,6 +14002,135 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~583
+    ,{#page-583-entry-1} #1
+    ,{.williams} 座(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $座zo6
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-2} #2
+    ,{.williams} (1)傞
+    ,
+      <nav class="sideways">
+      ==
+      - $傞co1
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-3} #3
+    ,{.williams} (1)嵯
+    ,
+      <nav class="sideways">
+      ==
+      - $嵯co1
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-4} #4
+    ,{.williams} (1)搓
+    ,
+      <nav class="sideways">
+      ==
+      - $搓co1
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-5} #5
+    ,{.williams} (1)艖
+    ,
+      <nav class="sideways">
+      ==
+      - $艖caa1, ($艖co1)
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-6} #6
+    ,{.williams} (1)蹉
+    ,
+      <nav class="sideways">
+      ==
+      - $蹉co1
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-7} #7
+    ,{.williams} (1)瑳
+    ,
+      <nav class="sideways">
+      ==
+      - $瑳co1
+      - $磋co1
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-8} #8
+    ,{.williams} (1)磋
+    ,
+      <nav class="sideways">
+      ==
+      - $磋co1
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-9} #9
+    ,{.williams} (1)瘥
+    ,
+      <nav class="sideways">
+      ==
+      - $瘥caai3, ($瘥co1), $瘥co4
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-10} #10
+    ,{.williams} 剉(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $剉co3
+      - $銼co3
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-11} #11
+    ,{.williams} 銼(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $銼co3
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-12} #12
+    ,{.williams} 挫(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $挫co3
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-13} #13
+    ,{.williams} 脞(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $脞co2, ($脞co3)
+      ==
+      </nav>
+  //
+    ,{#page-583-entry-14} #14
+    ,{.williams} 錯(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $錯co3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
