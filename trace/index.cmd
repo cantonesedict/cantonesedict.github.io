@@ -15303,6 +15303,72 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~599
+    ,{#page-599-entry-1} #1
+    ,{.williams} 俗(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $俗zuk6
+      ==
+      </nav>
+  //
+    ,{#page-599-entry-2} #2
+    ,{.williams} 族(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $族zuk6
+      - $鏃zuk6
+      ==
+      </nav>
+  //
+    ,{#page-599-entry-3} #3
+    ,{.williams} 蔟(9)簇(9)
+    ,
+      <nav class="sideways">
+      ==
+      - ($簇cau3), $簇cok3, $簇cuk1, ($簇zuk6)
+      - $蔟cau3, $蔟cuk1, ($蔟zuk6)
+      ==
+      </nav>
+  //
+    ,{#page-599-entry-4} #4
+    ,{.williams} 鏃(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $鏃zuk6
+      ==
+      </nav>
+  //
+    ,{#page-599-entry-5} #5
+    ,{.williams} 鷟(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $鷟zok6, ($鷟zuk6)
+      ==
+      </nav>
+  //
+    ,{#page-599-entry-6} #6
+    ,{.williams} 續(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $續zuk6
+      ==
+      </nav>
+  //
+    ,{#page-599-entry-7} #7
+    ,{.williams} 藚(9)
+    ,
+      <nav class="sideways">
+      ==
+      - $藚zuk6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

@@ -829,7 +829,7 @@ F
   ==
 W
   ====
-  - [[Page~599 俗(9)]]
+  - [[Page~599 #1: 俗(9)]]
     ==
     - What common people desire [[Kangxi: 俗欲也俗人所欲也]];
     - inelegant, uneducated, common, vulgar, unpolished, rude [[Kangxi: 不雅曰俗]];
@@ -927,7 +927,7 @@ F
   ==
 W
   ====
-  - [[Page~599 族(9)]]
+  - [[Page~599 #2: 族(9)]]
     ==
     - [[...]];
     - to collect, to draw together, as a banner does [[Kangxi: 一曰从㫃㫃所以標衆矢之所集又聚也]];
@@ -1074,7 +1074,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 #3: 蔟(9)簇(9)]]
     --
     [[Reading variation. **See $簇cuk1 for the canonical entry.**]]
     --
@@ -1108,7 +1108,7 @@ F
   ==
 W
   ====
-  - [[Page~599 續(9)]]
+  - [[Page~599 #6: 續(9)]]
     ==
     - To continue, to join on, to succeed [[Kangxi: 繼也]];
     - to keep up;
@@ -1200,7 +1200,7 @@ F
   ==
 W
   ====
-  - [[Page~599 ::蔟(9)~~簇(9)~~::]]
+  - [[Page~599 #3: ::蔟(9)~~簇(9)~~::]]
     --
     [[Reading variation. **See $蔟cuk1 for the canonical entry.**]]
     --
@@ -1229,7 +1229,7 @@ F
   ==
 W
   ====
-  - [[Page~599 藚(9)]]
+  - [[Page~599 #7: 藚(9)]]
     ==
     - A marshy, grassy``,`` and climbing plant, with leaves like purslane,
       called also cow's lips [[Kangxi: 水舄也, 藚牛脣, 今澤瀉也]].
@@ -1415,12 +1415,12 @@ F
   ==
 W
   ====
-  - [[Page~599 族(9); here normalised to 鏃]]
+  - [[Page~599 #2: 族(9); here normalised to 鏃]]
     ==
     - A barb of a dart [[Kangxi 族: 矢鋒也]];
     - [[...]].
     ==
-  - [[Page~599 鏃(9)]]
+  - [[Page~599 #4: 鏃(9)]]
     ==
     - The barb of a dart or arrow, the iron head of a dart [[Kangxi: 箭鏃也]];
     - sharp ~~pointed~~ [[Kangxi: 利也]].
@@ -1448,7 +1448,7 @@ F
   ==
 W
   ====
-  - [[Page~599 鷟(9)]]
+  - [[Page~599 #5: 鷟(9)]]
     --
     [[Reading variation. **See $鷟zok6 for the canonical entry.**]]
     --

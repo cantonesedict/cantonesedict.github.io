@@ -1140,7 +1140,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 #3: 蔟(9)簇(9)]]
     --
     [[Alternative form of 蔟. **See $蔟cau3 for the canonical entry.**]]
     --
@@ -1280,7 +1280,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 #3: 蔟(9)簇(9)]]
     --
     These two [[蔟, 簇]] are used interchangeably.
     --

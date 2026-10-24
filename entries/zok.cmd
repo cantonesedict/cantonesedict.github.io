@@ -612,7 +612,7 @@ F
   ==
 W
   ====
-  - [[Page~599 鷟(9) _Tsuk(9)_ (zuk6); here normalised to _Chok(9)_ (zok6)]]
+  - [[Page~599 #5: 鷟(9) _Tsuk(9)_ (zuk6); here normalised to _Chok(9)_ (zok6)]]
     ==
     - A phœnix of a carnation color [[Kangxi: 鸑鷟也, 紫鳳曰鷟]];
     - a large species of duck near river banks [[Kangxi: 江中有鸑鷟似鳧而大此別一種]];

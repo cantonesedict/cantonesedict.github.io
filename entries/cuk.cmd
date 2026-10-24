@@ -420,7 +420,7 @@ F
   ==
 W
   ====
-  - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
+  - [[Page~599 #3: 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
     --
     ~~These two [[蔟, 簇]] are used interchangeably.~~
     --
@@ -608,7 +608,7 @@ F
   ==
 W
   ====
-  - [[Page~599 ::蔟(9)~~簇(9)~~:: _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
+  - [[Page~599 #3: ::蔟(9)~~簇(9)~~:: _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
     --
     [[...]]
     --
