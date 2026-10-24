@@ -402,13 +402,13 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)循]]
+  - [[Page~603 #1: (4)循]]
     ==
     - [[...]];
     - to inspect, to go the rounds, to perambulate, to go on the circuit [[Kangxi 循: 巡也]];
     - [[...]].
     ==
-  - [[Page~603 (4)廵(4)巡]]
+  - [[Page~603 #3: (4)廵(4)巡]]
     ==
     - To cruize [[Kangxi 巡: 巡行也]];
     - to go on circuit [[Kangxi 巡: 徧也, 謂巡繞徧行之]],
@@ -471,7 +471,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~603 (4)廵(4)巡]]
+  - [[Page~603 #3: (4)廵(4)巡]]
     --
     [[Alternative form of 巡. **See $巡ceon4 for the canonical entry.**]]
     --
@@ -495,7 +495,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)循]]
+  - [[Page~603 #1: (4)循]]
     ==
     - To follow a leader;
     - to comply with [[Kangxi: 自也率循也]];
@@ -566,7 +566,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)揗]]
+  - [[Page~603 #2: (4)揗]]
     ==
     - To pat, to stroke;
     - to encourage, to soothe [[Kangxi: 手相安慰也]];
@@ -642,7 +642,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)秦]]
+  - [[Page~603 #6: (4)秦]]
     ==
     - A kind of rice [[Kangxi: 一曰秦禾名]];
     - a feudal state [[Kangxi: 國名]] occupying the region of the rivers Wei [[渭]] and King [[涇]];
@@ -686,7 +686,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)紃]]
+  - [[Page~603 #4: (4)紃]]
     ==
     - Fine, silken cords or bindings [[Kangxi: 圜采也, 絛紃也, etc.]];
     - tassels, ornaments;
@@ -747,7 +747,7 @@ F
   ==
 W
   ====
-  - [[Page~603 (4)馴]]
+  - [[Page~603 #5: (4)馴]]
     --
     [[Reading variation. **See $馴seon4 for the canonical entry.**]] [[TODO]]
     --
