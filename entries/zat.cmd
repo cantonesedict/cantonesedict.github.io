@@ -478,13 +478,13 @@ F
   ==
 W
   ====
-  - [[Page~559 疾(9)]]
+  - [[Page~559 #4: 疾(9)]]
     ==
     - [[...]];
     - used for the next [[嫉]];
     - [[...]].
     ==
-  - [[Page~559 嫉(9)]]
+  - [[Page~559 #5: 嫉(9)]]
     ==
     - Envy, jealousy [[Kangxi: 妎也]];
     - to envy, to dislike, as a competitor;
@@ -595,7 +595,7 @@ F
   ==
 W
   ====
-  - [[Page~559 疾(9)]]
+  - [[Page~559 #4: 疾(9)]]
     ==
     - Sickness, a disease which comes suddenly on one [[Kangxi: 病也一曰急也 etc.]];
     - ~~calamities,~~ afflictions [[Kangxi: 患也]];
@@ -727,7 +727,7 @@ F
   ==
 W
   ====
-  - [[Page~559 蒺(9)]]
+  - [[Page~559 #6: 蒺(9)]]
     ==
     - Gorse, furze [[Kangxi: 蒺䔧藥草]];
     - a thorny shrub [[Kangxi: 其刺傷人甚疾而利也]], whose seeds are biting and spicy;

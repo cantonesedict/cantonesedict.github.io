@@ -408,7 +408,7 @@ F
   ==
 W
   ====
-  - [[Page~559 槢(9)]]
+  - [[Page~559 #1: 槢(9)]]
     ==
     - Firm, hard wood [[Kangxi: 堅木]];
     - durable timber;
@@ -759,7 +759,7 @@ F
   ==
 W
   ====
-  - [[Page~559 隰(9)]]
+  - [[Page~559 #2: 隰(9)]]
     ==
     - Low, marshy land [[Kangxi: 下濕曰隰]];
     - a pool, a morass, wet meadows at the base of hills [[Kangxi: 阪下濕也]];
@@ -999,7 +999,7 @@ F
   ==
 W
   ====
-  - [[Page~559 霫(9)]]
+  - [[Page~559 #3: 霫(9)]]
     ==
     - A great shower [[Kangxi: 雴霫大雨也]], [[...]];
     - an ancient tribe of northerners ~~near Corea or Manchuria~~,
