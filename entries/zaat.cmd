@@ -304,7 +304,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6)]]
+  - [[Page~560 #2: 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6)]]
     --
     [[Alternative form of 甴 (in 曱甴 spelt 甴曱). **See $甴zaat6 for the canonical entry.**]]
     --
@@ -339,7 +339,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6) and normalised to 甴]]
+  - [[Page~560 #2: 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6) and normalised to 甴]]
     --
     A colloquial word.
     --

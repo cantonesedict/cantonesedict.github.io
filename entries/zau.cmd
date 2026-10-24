@@ -267,7 +267,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)啾]]
+  - [[Page~560 #8: (1)啾]]
     ==
     - The wail of infants [[Kangxi: 小兒聲也]];
     - the hum of insects;
@@ -393,7 +393,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)掫]]
+  - [[Page~560 #9: (1)掫]]
     ==
     - To strike the rounds at night, to pace the beat at night [[Kangxi: 夜戒守有所擊也]];
     - [[...]];
@@ -501,7 +501,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)棷]]
+  - [[Page~560 #10: (1)棷]]
     ==
     - A kind of wood suitable for fuel [[Kangxi: 木薪也]];
     - [[...]];
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)緅]]
+  - [[Page~560 #11: (1)緅]]
     ==
     - Silk first dyed red thrice, and then twice dipped in black [[Kangxi: 五入爲緅, 染纁者三入而成又再染以黑則爲緅]];
     - a dark red-like puce [[Kangxi: 帛靑赤色也]].
@@ -692,7 +692,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)諏]]
+  - [[Page~560 #12: (1)諏]]
     ==
     - To consult with [[Kangxi: 聚謀也]], to take advice,
       to inquire into matters of government publicly [[Kangxi: 問政事也]];
@@ -736,7 +736,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)謅]]
+  - [[Page~560 #3: (1)謅]]
     ==
     - To whisper [[Kangxi: 小言私授謂之謅]], to speak into one's ear;
     - to speak in a low tone.
@@ -951,13 +951,13 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鄹; here normalised to 郰]]
+  - [[Page~560 #6: (1)鄹; here normalised to 郰]]
     ==
     - The district in L(u/) [[魯]] where Confucius was born [[Kangxi 郰: 魯下邑孔子之鄕, 又通作鄹, 又通作陬]],
       now in Yenchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]];
     - it is not far from the preceding [[鄒]].
     ==
-  - [[Page~560 (1)陬; here normalised to 郰]]
+  - [[Page~560 #7: (1)陬; here normalised to 郰]]
     ==
     - [[...]];
     - _(1)tsau yap(7)_
@@ -989,7 +989,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鄒]]
+  - [[Page~560 #5: (1)鄒]]
     ==
     - A district in the southwest of Sh(a/)ntung [[山東]] on the Yellow River;
     - an ancient city in L(u/) [[魯]] [[Kangxi: 魯縣 etc.]], where Mencius was born.
@@ -1022,7 +1022,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鄹]]
+  - [[Page~560 #6: (1)鄹]]
     --
     [[Alternative form of 鄒. **See $鄒zau1 for the canonical entry.**]]
     --
@@ -1049,7 +1049,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)陬]]
+  - [[Page~560 #7: (1)陬]]
     ==
     - An angle or corner [[Kangxi: 阪隅也]] ~~of a city wall~~, where it is retired;
     - ~~a bastion;~~
@@ -1094,7 +1094,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)騶]]
+  - [[Page~560 #4: (1)騶]]
     ==
     - A fabulous ~~feline~~ beast, called _(1)tsau (4)(u:)_ [[zau1 jyu4 騶虞]],
       emblematic of kindness to animals and gentleness [[Kangxi: 騶虞義獸至德所感則見馬之屬 etc.]];
@@ -1142,7 +1142,7 @@ F
   ==
 W
   ====
-  - [[Page~560 (1)鯫]]
+  - [[Page~560 #13: (1)鯫]]
     ==
     - Minnows, white fish [[Kangxi: 白魚也, 一曰小魚]] which skip over the water;
     - _met._ a simpleton [[Kangxi: 小人貌也]];
@@ -1213,7 +1213,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)棷 _(1)Tsau_ (zau1); here corrected to _(2)Chau_ (zau2)]]
+  - [[Page~560 #10: (1)棷 _(1)Tsau_ (zau1); here corrected to _(2)Chau_ (zau2)]]
     ==
     - [[...]];
     - ~~it is used for making~~ watchmen's alarms [[Kangxi: 夜戒守有所擊也]];
@@ -1565,7 +1565,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)僽 _(1)Tsau_ (zau1); here corrected to _Tsau(3)_ (zau3)]]
+  - [[Page~560 #14: (1)僽 _(1)Tsau_ (zau1); here corrected to _Tsau(3)_ (zau3)]]
     ==
     - To scold, to rail at [[Kangxi: 僝僽惡言詈也]];
     - abusive, scurrilous language;

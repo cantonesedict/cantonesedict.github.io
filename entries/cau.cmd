@@ -295,7 +295,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)掫 _(1)Tsau_ (zau1); here corrected to _(1)Ch(')au_ (cau1)]]
+  - [[Page~560 #9: (1)掫 _(1)Tsau_ (zau1); here corrected to _(1)Ch(')au_ (cau1)]]
     ==
     - [[...]];
     - to seize, to take with the hand [[Kangxi: 手取物也]];

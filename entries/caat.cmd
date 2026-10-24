@@ -220,7 +220,7 @@ F
   ==
 W
   ====
-  - [[Page~560 擦(8)]]
+  - [[Page~560 #1: 擦(8)]]
     ==
     - To rub hard, to brush;
     - to feel for;

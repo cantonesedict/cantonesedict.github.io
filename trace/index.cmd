@@ -12015,6 +12015,136 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~560
+    ,{#page-560-entry-1} #1
+    ,{.williams} 擦(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $擦caat3
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-2} #2
+    ,{.williams} 曱(9)
+    ,
+      <nav class="sideways">
+      ==
+      - ($曱zaat6)
+      - $甴zaat6
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-3} #3
+    ,{.williams} (1)謅
+    ,
+      <nav class="sideways">
+      ==
+      - $謅zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-4} #4
+    ,{.williams} (1)騶
+    ,
+      <nav class="sideways">
+      ==
+      - $騶zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-5} #5
+    ,{.williams} (1)鄒
+    ,
+      <nav class="sideways">
+      ==
+      - $鄒zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-6} #6
+    ,{.williams} (1)鄹
+    ,
+      <nav class="sideways">
+      ==
+      - $郰zau1
+      - ($鄹zau1)
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-7} #7
+    ,{.williams} (1)陬
+    ,
+      <nav class="sideways">
+      ==
+      - $郰zau1
+      - $陬zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-8} #8
+    ,{.williams} (1)啾
+    ,
+      <nav class="sideways">
+      ==
+      - $啾zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-9} #9
+    ,{.williams} (1)掫
+    ,
+      <nav class="sideways">
+      ==
+      - $掫cau1, $掫zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-10} #10
+    ,{.williams} (1)棷
+    ,
+      <nav class="sideways">
+      ==
+      - $棷zau1, $棷zau2
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-11} #11
+    ,{.williams} (1)緅
+    ,
+      <nav class="sideways">
+      ==
+      - $緅zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-12} #12
+    ,{.williams} (1)諏
+    ,
+      <nav class="sideways">
+      ==
+      - $諏zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-13} #13
+    ,{.williams} (1)鯫
+    ,
+      <nav class="sideways">
+      ==
+      - $鯫zau1
+      ==
+      </nav>
+  //
+    ,{#page-560-entry-14} #14
+    ,{.williams} (1)僽
+    ,
+      <nav class="sideways">
+      ==
+      - $僽zau3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
