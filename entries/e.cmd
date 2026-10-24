@@ -66,7 +66,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~42 (1){𫫃=⿰口挨}]]
+  - [[Page~42 #9: (1){𫫃=⿰口挨}]]
     ==
     - A final particle, denoting are you willing, if you please, is it not so?
     - _(5)Ngo k(a/)u(3) (5)n(i/) tuk(9) (1)(e/)_

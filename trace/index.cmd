@@ -7253,6 +7253,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~42
+    ,{#page-42-entry-1} #1
+    ,{.williams} 出(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $出ceot1
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-2} #2
+    ,{.williams} 拙(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $拙zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-3} #3
+    ,{.williams} 梲(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $梲zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-4} #4
+    ,{.williams} 啜(8)歠(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $啜zyut3
+      - $歠zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-5} #5
+    ,{.williams} 剟(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $剟zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-6} #6
+    ,{.williams} 掇(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $掇zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-7} #7
+    ,{.williams} 綴(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $綴zeoi3, $綴zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-8} #8
+    ,{.williams} 輟(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $輟zyut3
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-9} #9
+    ,{.williams} (1){𫫃=⿰口挨}
+    ,
+      <nav class="sideways">
+      ==
+      - ${𫫃=⿰口挨}e1
+      ==
+      </nav>
+  //
+    ,{#page-42-entry-10} #10
+    ,{.williams} (1)花(1)華
+    ,
+      <nav class="sideways">
+      ==
+      - $花faa1
+      - ($華faa1)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

@@ -1268,7 +1268,7 @@ W
     - mixed, variegated [[Kangxi: 綴雜彩有文之具]];
     - to oversee royal robes [[Kangxi: 掌衣服 etc.]].
     ==
-  - [[Page~42 綴(8) _Ch(u:)t(8)_ (zyut3); here normalised to _Chui(3)_ (zeoi3)]]
+  - [[Page~42 #7: 綴(8) _Ch(u:)t(8)_ (zyut3); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - To connect, to join;
     - [[...]];

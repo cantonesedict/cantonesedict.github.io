@@ -66,7 +66,7 @@ F
   ==
 W
   ====
-  - [[Page~42 (1)花(1)華]]
+  - [[Page~42 #10: (1)花(1)華]]
     ==
     - A blossom, a flower [[Kangxi 花: 草木之葩也]];
     - pleasure, vice;
@@ -208,7 +208,7 @@ F
   ==
 W
   ====
-  - [[Page~42 (1)花(1)華]]
+  - [[Page~42 #10: (1)花(1)華]]
     --
     [[Alternative form of 花. **See $花faa1 for the canonical entry.**]]
     --

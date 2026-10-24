@@ -68,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~42 出(7)]]
+  - [[Page~42 #1: 出(7)]]
     ==
     - To go out [[Kangxi: 出入也]], to issue [[Kangxi: 吐也]], to proceed forth [[Kangxi: 進也]], to manifest [[Kangxi: 見也]],
       according to the tenor of the following or preceding word;

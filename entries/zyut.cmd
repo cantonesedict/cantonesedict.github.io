@@ -76,7 +76,7 @@ F
   ==
 W
   ====
-  - [[Page~42 剟(8)]]
+  - [[Page~42 #5: 剟(8)]]
     ==
     - To clip, to pare [[Kangxi: 刊也]], to cut off [[Kangxi: 割也 etc.]], to stab [[Kangxi: 刺也]];
     - ~~to reject;~~
@@ -177,7 +177,7 @@ F
   ==
 W
   ====
-  - [[Page~42 ::啜(8)~~歠(8)~~::]]
+  - [[Page~42 #4: ::啜(8)~~歠(8)~~::]]
     ==
     - To sob [[Kangxi 啜: 泣貌]], to talk incessantly [[Kangxi 啜: 言多不止]];
     - to taste [[Kangxi 啜: 嘗也, 啜茹也, 啜者拾食]], [[...]];
@@ -290,7 +290,7 @@ F
   ==
 W
   ====
-  - [[Page~42 拙(8)]]
+  - [[Page~42 #2: 拙(8)]]
     ==
     - Stupid, unskillful, unhandy, unapt [[Kangxi: 不巧也]];
     - _(2)ch(')un ch(u:)t(8)_
@@ -341,7 +341,7 @@ F
   ==
 W
   ====
-  - [[Page~42 掇(8)]]
+  - [[Page~42 #6: 掇(8)]]
     ==
     - To gather, to take with the hand [[Kangxi: 拾取也]], to pluck [[Kangxi: 採也]], to seize.
     ==
@@ -376,7 +376,7 @@ F
   ==
 W
   ====
-  - [[Page~42 梲(8)]]
+  - [[Page~42 #3: 梲(8)]]
     ==
     - A joist to support a plate or girder [[Kangxi: 同棳梁上楹也, 梲侏儒柱也梁上短柱]];
     - a sort of king-post.
@@ -421,7 +421,7 @@ F
   ==
 W
   ====
-  - [[Page~42 啜(8)歠(8)]]
+  - [[Page~42 #4: 啜(8)歠(8)]]
     ==
     - [[...]];
     - [[...]], to drink [[Kangxi 歠: 飮也]];
@@ -528,7 +528,7 @@ F
   ==
 W
   ====
-  - [[Page~42 綴(8)]]
+  - [[Page~42 #7: 綴(8)]]
     ==
     - [[...]];
     - to stop [[Kangxi: 綴猶止也]];
@@ -690,7 +690,7 @@ F
   ==
 W
   ====
-  - [[Page~42 輟(8)]]
+  - [[Page~42 #8: 輟(8)]]
     ==
     - To stop [[Kangxi: 已也, 止也, 歇也]];
     - a carriage repaired [[Kangxi: 車小缺復合者]];
