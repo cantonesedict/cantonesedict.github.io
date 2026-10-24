@@ -357,7 +357,7 @@ F
   ==
 W
   ====
-  - [[Page~578: before 浹(8)]]
+  - [[Page~578 before #5: 浹(8)]]
     --
     (This character [[浹]] is also read _h(a/)p_ [[haap]] ~~and _h(i/)p_ [[hip]]~~.)
     --

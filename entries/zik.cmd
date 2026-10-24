@@ -2059,7 +2059,7 @@ F
   ==
 W
   ====
-  - [[Page~569: before 脊(8)]]
+  - [[Page~569 before #13: 脊(8)]]
     --
     (This [[脊]] and the next [[席, here corrected to 蓆]]
     are often read _tsek_ [[zek]].)

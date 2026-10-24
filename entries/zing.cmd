@@ -689,7 +689,7 @@ F
   ==
 W
   ====
-  - [[Page~576: before (1)精]]
+  - [[Page~576 before #5: (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
@@ -1072,7 +1072,7 @@ F
   ==
 W
   ====
-  - [[Page~576: before (1)精]]
+  - [[Page~576 before #5: (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
@@ -1158,7 +1158,7 @@ F
   ==
 W
   ====
-  - [[Page~19*: before (2)整]]
+  - [[Page~19* before #4: (2)整]]
     --
     (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
     --
@@ -1357,7 +1357,7 @@ F
   ==
 W
   ====
-  - [[Page~19*: before (2)整]]
+  - [[Page~19* before #4: (2)整]]
     --
     (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
     --
@@ -1722,7 +1722,7 @@ W
     --
     Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean.
     --
-  - [[Page~576: before (1)精]]
+  - [[Page~576 before #5: (1)精]]
     --
     (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --

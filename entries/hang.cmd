@@ -628,7 +628,7 @@ F
   ==
 W
   ====
-  - [[Page~73: before (4)行]]
+  - [[Page~73 before #1: (4)行]]
     --
     (This character [[行]] is often pronounced like the next syllable [[haang]].)
     --

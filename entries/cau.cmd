@@ -1493,7 +1493,7 @@ F
   ==
 W
   ====
-  - [[Page~563: before (4)囚]]
+  - [[Page~563 before #6: (4)囚]]
     --
     (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
     --
@@ -2125,7 +2125,7 @@ F
   ==
 W
   ====
-  - [[Page~563: before (4)囚]]
+  - [[Page~563 before #6: (4)囚]]
     --
     (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
     --

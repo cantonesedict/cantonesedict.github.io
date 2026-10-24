@@ -1099,10 +1099,8 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
         ^ [ ]+ [-][ ]
         \[\[
             Page~(?P<page> \S+ )
-            (?P<entry_marker>
-                [:]
-                | [ ][#] (?P<entry_number> [0-9]+ ) [:]
-            )?
+            (?P<position> (?: [ ] (?: before | after) )? )
+            (?P<entry_marker> [ ][#] (?P<entry_number> [0-9]+ ) [:] )?
             (?P<spaces> [ ]+ )
             (?P<headword_run> [^\s;]+ ) (?P<clarification_run> .*? ) (?P<redirection_run> (?: ;.*? )? )
         \]\]
@@ -1110,6 +1108,7 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
     flags=re.MULTILINE | re.VERBOSE,
 )
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP = 'page'
+CHARACTER_ENTRY_WILLIAMS_LOCATOR_POSITION_GROUP = 'position'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP = 'entry_marker'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP = 'entry_number'
 CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP = 'spaces'
@@ -3355,11 +3354,12 @@ class CharacterEntry:
     @staticmethod
     def extract_williams_locators(content: str) -> list['WilliamsLocator']:
         return [
-            WilliamsLocator(page, entry_marker, entry_number, whitespace,
+            WilliamsLocator(page, position, entry_marker, entry_number, whitespace,
                             headword_run, clarification_run, redirection_run)
             for match in CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN.finditer(string=content)
             if (
                 page := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_PAGE_GROUP),
+                position := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_POSITION_GROUP),
                 entry_marker := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_MARKER_GROUP),
                 entry_number := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_ENTRY_NUMBER_GROUP),
                 whitespace := match.group(CHARACTER_ENTRY_WILLIAMS_LOCATOR_SPACES_GROUP),
@@ -3644,16 +3644,21 @@ class SeeAlsoLink:
 class WilliamsLocator:
     page_grouping: int
     page: str
+    page_clean: str
     page_number: int
+    position: str
+    entry_marker: str
     entry_number: Optional[int]
     headword_run: str
     unedited_headword_run: str
+    clarification_run: str
     redirection_run: str
+    content: str
 
-    def __init__(self, page: str, entry_marker: Optional[str], entry_number: Optional[str], whitespace: str,
-                 headword_run: str, clarification_run: str, redirection_run: str):
+    def __init__(self, page: str, position: str, entry_marker: Optional[str], entry_number: Optional[str],
+                 whitespace: str, headword_run: str, clarification_run: str, redirection_run: str):
         content = (
-            f'- [[Page~{page}{entry_marker}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
+            f'- [[Page~{page}{position}{entry_marker}{whitespace}{headword_run}{clarification_run}{redirection_run}]]'
         )
 
         if whitespace != ' ':
@@ -3696,6 +3701,7 @@ class WilliamsLocator:
         self.page = page
         self.page_clean = page_clean
         self.page_number = page_number
+        self.position = position
         self.entry_marker = entry_marker
         self.entry_number = entry_number
         self.headword_run = headword_run
@@ -4152,6 +4158,7 @@ class Linter:
             for character_entry in self.character_entries
             for williams_locator in character_entry.williams_locators
             if williams_locator.page != '9999'  # TODO: REMOVE
+            if not williams_locator.position
         )
 
         with open('trace/index.cmd', 'r', encoding='utf-8') as read_file:

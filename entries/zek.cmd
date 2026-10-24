@@ -241,7 +241,7 @@ F
   ==
 W
   ====
-  - [[Page~14*: before 隻(9)]]
+  - [[Page~14* before #5: 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
@@ -438,7 +438,7 @@ F
   ==
 W
   ====
-  - [[Page~14*: before 隻(9)]]
+  - [[Page~14* before #5: 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
@@ -528,7 +528,7 @@ F
   ==
 W
   ====
-  - [[Page~14*: before 隻(9)]]
+  - [[Page~14* before #5: 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
@@ -585,7 +585,7 @@ F
   ==
 W
   ====
-  - [[Page~14*: before 隻(9)]]
+  - [[Page~14* before #5: 隻(9)]]
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --

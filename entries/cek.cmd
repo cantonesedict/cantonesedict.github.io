@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~15*: before 尺(9)]]
+  - [[Page~15* before #4: 尺(9)]]
     --
     (The next character [[尺]] is usually pronounced _ch(')ek_ [[cek]].)
     --

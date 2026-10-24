@@ -522,7 +522,7 @@ F
   ==
 W
   ====
-  - [[Page~26*: before 詛(3)]]
+  - [[Page~26* before #2: 詛(3)]]
     --
     This character [[詛]] is often called ~~_ch(u\)_ [[zoe]] or~~ _ch(u:)_ [[zyu]].
     --
