@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (1)尊]]
+  - [[Page~604 #3: (1)尊]]
     ==
     - Honorable, eminent, respected, noble [[Kangxi: 高稱也, 重也貴也 etc.]];
     - a term of respect, your;
@@ -602,7 +602,7 @@ F
   ==
 W
   ====
-  - [[Page~604 ::(2)纂~~(2)藄~~::]]
+  - [[Page~604 #5: ::(2)纂~~(2)藄~~::]]
     ==
     - A kind of carnation band or cord [[Kangxi 纂: 似組而赤]];
     - ~~to connect;~~
@@ -657,7 +657,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (2)纘]]
+  - [[Page~604 #4: (2)纘]]
     ==
     - ~~To tie things together;~~
     - to continue, to carry on [[Kangxi: 繼也]];
@@ -931,7 +931,7 @@ F
   ==
 W
   ====
-  - [[Page~604 鑽(3)鑚(3)]]
+  - [[Page~604 #6: 鑽(3)鑚(3)]]
     ==
     - An awl, a gimlet, an ~~augur~~ ``auger``, a borer;
     - an instrument for perforating [[Kangxi 鑽: 所以穿也]];

@@ -599,7 +599,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)旬]]
+  - [[Page~604 #2: (4)旬]]
     ==
     - A decade of years or days [[Kangxi: 徧也十日爲旬]];
     - a complete number finished, completed [[Kangxi: 徧也]];
@@ -718,7 +718,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)螓]]
+  - [[Page~604 #1: (4)螓]]
     ==
     - A small species of cicada [[Kangxi: 蟲名似蟬而小 etc.]];
     - ~~eggs of the mantis;~~

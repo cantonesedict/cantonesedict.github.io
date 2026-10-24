@@ -137,7 +137,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (1)村(1)邨]]
+  - [[Page~604 #7: (1)村(1)邨]]
     ==
     - A hamlet, a village [[Kangxi 村: 墅也, 聚落也]];
     - _(1)h(e/)ung (1)ts(')(u:)n_
@@ -249,7 +249,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (1)村(1)邨]]
+  - [[Page~604 #7: (1)村(1)邨]]
     --
     [[Alternative form of 村. See $村cyun1.]]
     --
@@ -1121,7 +1121,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)全]]
+  - [[Page~604 #8: (4)全]]
     ==
     - Complete, entire, unbroken, perfect [[Kangxi: 完也]];
     - all, the whole [[Kangxi: 具也]];
@@ -1428,7 +1428,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)全; here normalised to 痊]]
+  - [[Page~604 #8: (4)全; here normalised to 痊]]
     ==
     - [[...]];
     - _(4)ts(')(u:)n (u:)(6)_
@@ -1674,7 +1674,7 @@ F
   ==
 W
   ====
-  - [[Page~604 (4)銓]]
+  - [[Page~605 #6: (4)銓]]
     ==
     - To weigh, to measure [[Kangxi: 衡也, 量也次也度也]];
     - to estimate the quantity of things, to value;

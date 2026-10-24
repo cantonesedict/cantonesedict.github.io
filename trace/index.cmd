@@ -15803,6 +15803,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~604
+    ,{#page-604-entry-1} #1
+    ,{.williams} (4)螓
+    ,
+      <nav class="sideways">
+      ==
+      - $螓ceon4
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-2} #2
+    ,{.williams} (4)旬
+    ,
+      <nav class="sideways">
+      ==
+      - $旬ceon4
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-3} #3
+    ,{.williams} (1)尊
+    ,
+      <nav class="sideways">
+      ==
+      - $尊zyun1
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-4} #4
+    ,{.williams} (2)纘
+    ,
+      <nav class="sideways">
+      ==
+      - $纘zyun2
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-5} #5
+    ,{.williams} (2)纂(2)藄
+    ,
+      <nav class="sideways">
+      ==
+      - $纂zyun2
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-6} #6
+    ,{.williams} 鑽(3)鑚(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $鑽zyun3
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-7} #7
+    ,{.williams} (1)村(1)邨
+    ,
+      <nav class="sideways">
+      ==
+      - $村cyun1
+      - $邨cyun1
+      ==
+      </nav>
+  //
+    ,{#page-604-entry-8} #8
+    ,{.williams} (4)全
+    ,
+      <nav class="sideways">
+      ==
+      - $全cyun4
+      - $痊cyun4
+      ==
+      </nav>
+  //
+    ,{r=1} Page~605
+    ,{#page-605-entry-6} #6
+    ,{.williams} (4)銓
+    ,
+      <nav class="sideways">
+      ==
+      - $銓cyun4
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
