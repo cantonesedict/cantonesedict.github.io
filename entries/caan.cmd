@@ -440,7 +440,7 @@ F
   ==
 W
   ====
-  - [[Page~556 燦(3)]]
+  - [[Page~556 #3: 燦(3)]]
     ==
     - Resplendent, clear [[Kangxi: 燦爛明瀞貌]];
     - attractive, bright, gay;
@@ -485,7 +485,7 @@ F
   ==
 W
   ====
-  - [[Page~556 璨(3)]]
+  - [[Page~556 #4: 璨(3)]]
     ==
     - The lustre of gem, a bright gem [[Kangxi: 玉光也]];
     - _(1)ts(')(u/)i ts(')(a/)n(3)_
@@ -512,7 +512,7 @@ F
   ==
 W
   ====
-  - [[Page~556 粲(3)]]
+  - [[Page~556 #2: 粲(3)]]
     ==
     - ~~Half a _(2)tau_ [[dau2 斗]] or peck;~~
     - a meal [[Kangxi: 餐也]];
@@ -619,7 +619,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (4)殘]]
+  - [[Page~556 #1: (4)殘]]
     ==
     - To ruin, to destroy [[Kangxi: 賊也]];
     - to injure, to spoil;

@@ -116,12 +116,12 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)曾]]
+  - [[Page~556 #5: (1)曾; here normalised to 增]]
     ==
     - [[...]], to add [[Kangxi 曾: 與增同]];
     - [[...]].
     ==
-  - [[Page~556 (1)增]]
+  - [[Page~556 #6: (1)增]]
     ==
     - To add, to double, to increase [[Kangxi: 益也]];
     - repeated, doubled [[Kangxi: 一曰重也]];
@@ -205,7 +205,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)憎]]
+  - [[Page~556 #7: (1)憎]]
     ==
     - To hate, to dislike, to abominate [[Kangxi: 惡也]];
     - _(2)ho (1)tsang_
@@ -291,7 +291,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)曾]]
+  - [[Page~556 #5: (1)曾]]
     ==
     - To duplicate [[Kangxi: 曾猶重也]], [[...]];
     - _(1)tsang (1)s(u:)n_
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)繒]]
+  - [[Page~556 #9: (1)繒]]
     ==
     - A general name for common silken fabrics, as pongee, sarsnet, lutestring [[Kangxi: 帛也]].
     ==
@@ -660,7 +660,7 @@ F
   ==
 W
   ====
-  - [[Page~556 (1)罾]]
+  - [[Page~556 #8: (1)罾]]
     ==
     - A lifting net, suspended by the corners [[Kangxi: ::罾魚網也形似[仰]繖蓋四維而舉之::]];
     - _kw(a/)(3) (1)tsang_
@@ -849,7 +849,7 @@ F
   ==
 W
   ====
-  - [[Page~556 甑(3)]]
+  - [[Page~556 #10: 甑(3)]]
     ==
     - A boiler for distilling [[Fan Wan: 酒甑]], an alembic, a still made of pewter;
     - a boiler for steaming [[Kangxi: 甗也]] rice;
@@ -939,7 +939,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~556 蹭(3)]]
+  - [[Page~556 #11: 蹭(3)]]
     --
     [[Idio* reading from Williams. **See $蹭sang3 for the canonical entry.**]]
     --
