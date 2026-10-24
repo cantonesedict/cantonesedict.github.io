@@ -586,7 +586,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~39* (1)盅 _(1)Chung_ (zung1); here corrected to _(1)Ch(')ung_ (cung1)]]
+  - [[Page~39* #7: (1)盅 _(1)Chung_ (zung1); here corrected to _(1)Ch(')ung_ (cung1)]]
     ==
     - [[...]] a hollow vessel [[Kangxi: 器虛也, 通作沖]] [[...]];
     - [[...]].

@@ -320,7 +320,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)忠]]
+  - [[Page~39* #1: (1)忠]]
     ==
     - Faithful, loyal [[Kangxi: 不貳也]], patriotic;
     - ~~attached to~~ ``devoted``, sincere [[Kangxi: 內盡其心而不欺也]];
@@ -595,7 +595,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)鍾; here normalised to 盅]]
+  - [[Page~39* #2: (1)鍾; here normalised to 盅]]
     ==
     - [[...]];
     - a cup or goblet;
@@ -604,7 +604,7 @@ W
         [[zau2 zung1 酒盅]],
         a wine-cup.
     ==
-  - [[Page~39* (1)鐘; here corrected to 鍾 and normalised to 盅]]
+  - [[Page~39* #3: (1)鐘; here corrected to 鍾 and normalised to 盅]]
     ==
     - [[...]];
     - _kuk(9) (1)chung_
@@ -616,7 +616,7 @@ W
         a cup of tea;
     - [[...]].
     ==
-  - [[Page~39* (1)盅]]
+  - [[Page~39* #7: (1)盅]]
     ==
     - A cup, [[...]], generally small and covered;
     - _(4)ngau (4)yau (1)chung_
@@ -657,7 +657,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)終]]
+  - [[Page~39* #5: (1)終]]
     ==
     - The end, the termination, a finis [[Kangxi: 極也窮也, 一曰盡也]];
     - death;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)舂]]
+  - [[Page~39* #4: (1)舂]]
     ==
     - To beat with a pestle [[Kangxi: 擣粟也]];
     - to pound firmly;
@@ -924,7 +924,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)螽]]
+  - [[Page~39* #6: (1)螽]]
     ==
     - A longheaded grasshopper;
     - _(1)chung (1)sz'_
@@ -1113,7 +1113,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)鍾]]
+  - [[Page~39* #2: (1)鍾]]
     ==
     - ~~A measure equal to 4~_tau_ [[dau 斗]]_;_~~
     - [[...]];
@@ -1183,7 +1183,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (1)鐘]]
+  - [[Page~39* #3: (1)鐘]]
     ==
     - A bell [[Kangxi: 樂鐘也]];
     - [[...]];
@@ -1435,7 +1435,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (2)種]]
+  - [[Page~39* #10: (2)種]]
     ==
     - A seed, a kernel [[Kangxi: 穀種也]];
     - a sort, a class, a kind [[Kangxi: 種類]];
@@ -1718,7 +1718,7 @@ F
   ==
 W
   ====
-  - [[Page~39* ::(2)腫~~(2)瘇~~::]]
+  - [[Page~39* #8: ::(2)腫~~(2)瘇~~::]]
     ==
     - To swell up, to tumefy [[Kangxi 腫: 膚肉浮滿也, 脹也]];
     - a swelling;
@@ -1781,7 +1781,7 @@ F
   ==
 W
   ====
-  - [[Page~39* (2)踵]]
+  - [[Page~39* #9: (2)踵]]
     ==
     - The heel [[Kangxi: 足後]];
     - to follow one, to imitate [[Kangxi: 因也]], to go after one [[Kangxi: 追也]];
@@ -2038,7 +2038,7 @@ F
   ==
 W
   ====
-  - [[Page~39* 種(3)]]
+  - [[Page~39* #11: 種(3)]]
     ==
     - To plant, to sow [[Kangxi: 布也]], to grow;
     - to cultivate, to raise;

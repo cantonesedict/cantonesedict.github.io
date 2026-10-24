@@ -6929,6 +6929,108 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~39*
+    ,{#page-39*-entry-1} #1
+    ,{.williams} (1)忠
+    ,
+      <nav class="sideways">
+      ==
+      - $忠zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-2} #2
+    ,{.williams} (1)鍾
+    ,
+      <nav class="sideways">
+      ==
+      - $盅zung1
+      - $鍾zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-3} #3
+    ,{.williams} (1)鐘
+    ,
+      <nav class="sideways">
+      ==
+      - $盅zung1
+      - $鐘zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-4} #4
+    ,{.williams} (1)舂
+    ,
+      <nav class="sideways">
+      ==
+      - $舂zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-5} #5
+    ,{.williams} (1)終
+    ,
+      <nav class="sideways">
+      ==
+      - $終zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-6} #6
+    ,{.williams} (1)螽
+    ,
+      <nav class="sideways">
+      ==
+      - $螽zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-7} #7
+    ,{.williams} (1)盅
+    ,
+      <nav class="sideways">
+      ==
+      - $盅cung1, $盅zung1
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-8} #8
+    ,{.williams} (2)腫(2)瘇
+    ,
+      <nav class="sideways">
+      ==
+      - $腫zung2
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-9} #9
+    ,{.williams} (2)踵
+    ,
+      <nav class="sideways">
+      ==
+      - $踵zung2
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-10} #10
+    ,{.williams} (2)種
+    ,
+      <nav class="sideways">
+      ==
+      - $種zung2
+      ==
+      </nav>
+  //
+    ,{#page-39*-entry-11} #11
+    ,{.williams} 種(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $種zung3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
