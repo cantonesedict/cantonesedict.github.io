@@ -955,7 +955,7 @@ W
         [[baat3 zaa3 八蜡]]
         a sacrifice of thanksgiving to the earth in winter for ripening crops.
     ==
-  - [[Page~596 蜡(3)]]
+  - [[Page~596 #4: 蜡(3)]]
     --
     [[...]]
     --

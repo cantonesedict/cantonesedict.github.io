@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~596 (2)嘴]]
+  - [[Page~596 #5: (2)嘴]]
     ==
     - The lips;
     - a beak, a bill of a bird [[Kangxi {𠲿=⿰口束}: 鳥喙也, 與觜同 etc.]];

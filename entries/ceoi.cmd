@@ -734,7 +734,7 @@ W
     - to take, as a wife;
     - [[...]].
     ==
-  - [[Page~596 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
+  - [[Page~596 #1: 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
     ==
     - To marry a woman with the legal ceremonies [[Kangxi: ::[取]婦也::]];
     - a marriage;
@@ -934,7 +934,7 @@ F
   ==
 W
   ====
-  - [[Page~596 娶(3)]]
+  - [[Page~596 #1: 娶(3)]]
     --
     [[Reading variation. **See $娶ceoi2 for the canonical entry.**]]
     --
@@ -1132,7 +1132,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~596 蜡(3)]]
+  - [[Page~596 #4: 蜡(3)]]
     --
     [[...]]
     --
@@ -1171,7 +1171,7 @@ F
   ==
 W
   ====
-  - [[Page~596 覰(3)]]
+  - [[Page~596 #3: 覰(3)]]
     --
     [[Alternative form of 覷. **See $覷ceoi3 for the canonical entry.**]]
     --
@@ -1200,7 +1200,7 @@ F
   ==
 W
   ====
-  - [[Page~596 覰(3); here normalised to 覷]]
+  - [[Page~596 #3: 覰(3); here normalised to 覷]]
     ==
     - To spy, to look at;
     - to peep, to descry, to reconnoitre [[Kangxi 覰: 伺視也]];
@@ -1232,7 +1232,7 @@ F
   ==
 W
   ====
-  - [[Page~596 趣(3)]]
+  - [[Page~596 #2: 趣(3)]]
     ==
     - Similar to _(1)ts(')(u:)_ [[ceoi1]] 趨 to run;
     - to go, to advance quickly [[Kangxi: 疾也]];
