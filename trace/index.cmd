@@ -12544,6 +12544,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~566
+    ,{#page-566-entry-1} #1
+    ,{.williams} (1)漿(1)䊢
+    ,
+      <nav class="sideways">
+      ==
+      - $漿zoeng1
+      - ($䊢zoeng1)
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-2} #2
+    ,{.williams} (1)螿
+    ,
+      <nav class="sideways">
+      ==
+      - $螿zoeng1
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-3} #3
+    ,{.williams} (2)奬
+    ,
+      <nav class="sideways">
+      ==
+      - ($奬zoeng2)
+      - $獎zoeng2
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-4} #4
+    ,{.williams} (2)槳
+    ,
+      <nav class="sideways">
+      ==
+      - $槳zoeng2
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-5} #5
+    ,{.williams} (2)蔣
+    ,
+      <nav class="sideways">
+      ==
+      - $蔣zoeng1, $蔣zoeng2
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-6} #6
+    ,{.williams} 醬(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $醬zoeng3
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-7} #7
+    ,{.williams} 將(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $將zoeng3
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-8} #8
+    ,{.williams} 象(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $象zoeng6
+      ==
+      </nav>
+  //
+    ,{#page-566-entry-9} #9
+    ,{.williams} 像(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $像zoeng6
+      - $象zoeng6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

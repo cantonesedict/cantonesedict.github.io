@@ -473,7 +473,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (1)漿(1)䊢]]
+  - [[Page~566 #1: (1)漿(1)䊢]]
     ==
     - Thick, half fluid, pasty [[Kangxi 漿: 一曰水米汁相將也]];
     - starch, syrup, pus, or matter;
@@ -665,7 +665,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (1)漿(1)䊢]]
+  - [[Page~566 #1: (1)漿(1)䊢]]
     --
     [[Alternative form of 漿. **See $漿zoeng1 for the canonical entry.**]]
     --
@@ -687,7 +687,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~566 (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to _(1)Ts(e/)ung_ (zoeng1)]]
+  - [[Page~566 #5: (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to _(1)Ts(e/)ung_ (zoeng1)]]
     ==
     - [[...]];
     - _(1)k(u/) ~~(2)ts(e/)ung~~ ``(1)ts(e/)ung``_
@@ -727,7 +727,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (1)螿]]
+  - [[Page~566 #2: (1)螿]]
     ==
     - Small species of cicada or grasshopper, whose elytra are green [[Kangxi: 寒螿蟬屬 etc.]].
     ==
@@ -814,7 +814,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)奬]]
+  - [[Page~566 #3: (2)奬]]
     --
     [[Alternative form of 獎. **See $獎zoeng2 for the canonical entry.**]]
     --
@@ -916,7 +916,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)槳]]
+  - [[Page~566 #4: (2)槳]]
     ==
     - An oar [[Kangxi: 楫屬 etc.]];
     - _ch(a/)u(6) (2)ts(e/)ung_
@@ -948,7 +948,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)奬; here normalised to 獎]]
+  - [[Page~566 #3: (2)奬; here normalised to 獎]]
     ==
     - To exhort, to animate, to excite, to encourage [[Kangxi 奬: 勸勉也]];
     - to laud, to praise, to commend [[Kangxi 奬: 褒美也]];
@@ -1003,7 +1003,7 @@ F
   ==
 W
   ====
-  - [[Page~566 (2)蔣]]
+  - [[Page~566 #5: (2)蔣]]
     ==
     - A surname [[Kangxi: 姓]];
     - [[...]].
@@ -1160,7 +1160,7 @@ F
   ==
 W
   ====
-  - [[Page~566 將(3)]]
+  - [[Page~566 #7: 將(3)]]
     ==
     - To take charge of troops, to lead troops into the field, to act as a general [[Kangxi: 將之也]];
     - a general, a leader [[Kangxi: 將帥也]];
@@ -1577,7 +1577,7 @@ F
   ==
 W
   ====
-  - [[Page~566 醬(3)]]
+  - [[Page~566 #6: 醬(3)]]
     ==
     - A sort of sauce, pickle or condiment [[Kangxi: 醢也, 醢肉醬也又豉醬又菜茹亦謂之醬]], made of salt and sugar;
     - relishes, seasoning, like oilmen's stores;
@@ -1844,7 +1844,7 @@ F
   ==
 W
   ====
-  - [[Page~566 像(6)]]
+  - [[Page~566 #9: 像(6)]]
     ==
     - [[...]];
     - like, similar [[Kangxi: 形象也肖似也]];
@@ -2073,7 +2073,7 @@ F
   ==
 W
   ====
-  - [[Page~566 象(6)]]
+  - [[Page~566 #8: 象(6)]]
     ==
     - An elephant [[Kangxi: 長鼻牙南越大獸 etc.]];
     - a figure, a form, an image;
@@ -2100,7 +2100,7 @@ W
         [[daai6 ban6 zoeng6 大笨象]]
         stupid, dull.
     ==
-  - [[Page~566 像(6)]]
+  - [[Page~566 #9: 像(6)]]
     ==
     - Interchanged with the preceding [[象]];
     - [[...]].
