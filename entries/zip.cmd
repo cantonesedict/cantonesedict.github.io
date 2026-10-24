@@ -324,7 +324,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~578 楫(8)]]
+  - [[Page~578 #4: 楫(8)]]
     ==
     - An oar, a paddle, or whatever is used to propel a boat [[Kangxi: 舟櫂也, 行舟具]];
     - to row;
@@ -357,11 +357,11 @@ F
   ==
 W
   ====
-  - [[Page~578 before 浹(8)]]
+  - [[Page~578: before 浹(8)]]
     --
     (This character [[浹]] is also read _h(a/)p_ [[haap]] ~~and _h(i/)p_ [[hip]]~~.)
     --
-  - [[Page~578 浹(8)]]
+  - [[Page~578 #5: 浹(8)]]
     --
     ~~Interchanged with _h(i/)p_ [[hip]] 挾 to assist.~~
     --

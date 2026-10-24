@@ -13632,6 +13632,52 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=5} Page~578
+    ,{#page-578-entry-1} #1
+    ,{.williams} (4)情
+    ,
+      <nav class="sideways">
+      ==
+      - $情cing4
+      ==
+      </nav>
+  //
+    ,{#page-578-entry-2} #2
+    ,{.williams} (4)晴
+    ,
+      <nav class="sideways">
+      ==
+      - $晴cing4
+      ==
+      </nav>
+  //
+    ,{#page-578-entry-3} #3
+    ,{.williams} (2)請
+    ,
+      <nav class="sideways">
+      ==
+      - ($請ceng2), $請cing2
+      ==
+      </nav>
+  //
+    ,{#page-578-entry-4} #4
+    ,{.williams} 楫(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $楫zip3
+      ==
+      </nav>
+  //
+    ,{#page-578-entry-5} #5
+    ,{.williams} 浹(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $浹zip3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

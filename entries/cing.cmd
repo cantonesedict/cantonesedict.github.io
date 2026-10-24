@@ -784,7 +784,7 @@ F
   ==
 W
   ====
-  - [[Page~578 (2)請]]
+  - [[Page~578 #3: (2)請]]
     ==
     - To request, to ask courteously, to pray, to beg [[Kangxi: 謁也, 求也, 乞也問也, 祈也扣也]];
     - to request liberty to do, to ask, as for orders;
@@ -1263,7 +1263,7 @@ F
   ==
 W
   ====
-  - [[Page~578 (4)情]]
+  - [[Page~578 #1: (4)情]]
     ==
     - The passions [[Kangxi: 人欲之謂情]], reckoned to be seven [[Kangxi: 喜怒哀懼愛惡欲]];
     - the feelings, the desires;
@@ -1402,7 +1402,7 @@ F
   ==
 W
   ====
-  - [[Page~578 (4)晴]]
+  - [[Page~578 #2: (4)晴]]
     ==
     - The sky clearing up after rain [[Kangxi: 雨止也晴明也無雲也]], the clear blue sky;
     - the stars coming out [[Kangxi: 夝雨而夜除星見也, 今俗作晴非]];

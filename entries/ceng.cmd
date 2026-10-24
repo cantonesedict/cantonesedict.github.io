@@ -122,7 +122,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~578 (2)請 _(2)Ts(')ing_ (cing2); _(2)Ts(')eng_ (ceng2) implied by variational note]]
+  - [[Page~578 #3: (2)請 _(2)Ts(')ing_ (cing2); _(2)Ts(')eng_ (ceng2) implied by variational note]]
     --
     [[Reading variation (vernacular). **See $請cing2 for the canonical entry.**]]
     --
