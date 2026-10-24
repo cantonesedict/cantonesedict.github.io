@@ -190,7 +190,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (1)榛]]
+  - [[Page~601 #2: (1)榛]]
     ==
     - A fruit like the hazel or filbert, smaller than the chestnut [[Kangxi: 果實如小栗]];
     - ~~wood, brushwood~~ ``a type of tree`` [[Kangxi: 木也]];
@@ -359,7 +359,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (1)溱]]
+  - [[Page~601 #3: (1)溱]]
     ==
     - A small stream in Hon(a/)n [[河南]] [[Kangxi: 水名在河南]],
       one of the headwaters of the R.~^~~Hw(a/)i~~^~``Hwui`` [[Kangxi: ::入~~淮~~``匯``::]];
@@ -487,13 +487,13 @@ F
   ==
 W
   ====
-  - [[Page~601 (1)溱]]
+  - [[Page~601 #3: (1)溱]]
     ==
     - [[...]];
     - to reach to [[Kangxi 溱: 至也與臻同]];
     - [[...]].
     ==
-  - [[Page~601 (1)臻]]
+  - [[Page~601 #4: (1)臻]]
     ==
     - To arrive or extend to [[Kangxi: 至也, 及也]];
     - the utmost, the highest degree;
@@ -538,7 +538,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (1)蓁]]
+  - [[Page~601 #5: (1)蓁]]
     ==
     - Abundant, exuberant herbage [[Kangxi: 草盛貌]];
     - bushy trees [[Kangxi: 與榛通木叢生也]];
@@ -659,7 +659,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (1)遵]]
+  - [[Page~601 #1: (1)遵]]
     ==
     - To follow [[Kangxi: 循也]] a superior;
     - to comply with, to obey, to conform to, to act as required, to yield;
@@ -734,7 +734,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (2)儘]]
+  - [[Page~601 #6: (2)儘]]
     ==
     - ~~Same as _tsun(6)_ [[zeon6]] 盡 to finish;~~
     - ~~empty;~~
@@ -924,7 +924,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (2)燼]]
+  - [[Page~601 #7: (2)燼]]
     ==
     - The ashes [[Kangxi 㶳: 火餘也]], embers [[Kangxi 㶳: 火餘木]], snuff [[Kangxi 㶳: 灺也, 燭餘也]], or residue after combustion;
     - a quenched brand;
@@ -937,7 +937,7 @@ W
         [[jyu4 zeon2 餘燼]],
         the remains, as of embers.
     ==
-  - [[Page~601 (2)藎]]
+  - [[Page~601 #8: (2)藎]]
     ==
     - Similar to the last [[燼]];
     - [[...]];
@@ -1000,7 +1000,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (2)藎]]
+  - [[Page~601 #8: (2)藎]]
     ==
     - [[...]];
     - a plant whose roots afford a yellow dye [[Kangxi: 藎草一名黃草一名盭草可染黃]];
@@ -1048,7 +1048,7 @@ F
   ==
 W
   ====
-  - [[Page~601 (2)贐]]
+  - [[Page~601 #9: (2)贐]]
     ==
     - Precious things [[Kangxi 賮: 財貨也]];
     - presents given to friends going on a journey [[Kangxi 賮: 送行財幣也]];
@@ -1662,7 +1662,7 @@ F
   ==
 W
   ====
-  - [[Page~601 進(3)]]
+  - [[Page~601 #10: 進(3)]]
     ==
     - To advance, to enter, to go up or on, to get on [[Kangxi: 登也, 升也, 前也]];
     - to present, to bring forward, to introduce, to promote, to recommend [[Kangxi: 薦也]];
@@ -1745,7 +1745,7 @@ F
   ==
 W
   ====
-  - [[Page~601 鐫(3)]]
+  - [[Page~601 #11: 鐫(3)]]
     ==
     - To engrave, to carve [[Kangxi: ::一曰[琢]石也::]];
     - to cut, to chissel;
