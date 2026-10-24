@@ -121,7 +121,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 _Fik(7)_ (fik1) exemplified; here corrected to _Fik(9)_ (fik6) and assigned to 掝]]
+  - [[Page~53 #12: _Fik(7)_ (fik1) exemplified; here corrected to _Fik(9)_ (fik6) and assigned to 掝]]
     ==
     - To brush off (as a fly);
     - _~~fik(7)~~ ``fik(9)`` (1)hoi_

@@ -64,7 +64,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (1)科]]
+  - [[Page~53 #14: (1)科]]
     ==
     - ~~A root, the hollow culm of grain;~~
     - ~~a vacuum, empty~~ ``a hollow in a tree`` [[Kangxi: 木中空也]];

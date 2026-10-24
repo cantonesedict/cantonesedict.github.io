@@ -8615,6 +8615,138 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~53
+    ,{#page-53-entry-1} #1
+    ,{.williams} (4)肥
+    ,
+      <nav class="sideways">
+      ==
+      - $肥fei4
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-2} #2
+    ,{.williams} (4)腓
+    ,
+      <nav class="sideways">
+      ==
+      - $腓fei4
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-3} #3
+    ,{.williams} (2)匪
+    ,
+      <nav class="sideways">
+      ==
+      - $騑fei1
+      - $匪fei2
+      - $篚fei2
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-4} #4
+    ,{.williams} (2)悱
+    ,
+      <nav class="sideways">
+      ==
+      - $悱fei2
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-5} #5
+    ,{.williams} (2)榧(2)棑
+    ,
+      <nav class="sideways">
+      ==
+      - $棐fei2
+      - $榧fei2
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-6} #6
+    ,{.williams} (2)斐
+    ,
+      <nav class="sideways">
+      ==
+      - $斐fei2
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-7} #7
+    ,{.williams} (2)篚
+    ,
+      <nav class="sideways">
+      ==
+      - $篚fei2
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-8} #8
+    ,{.williams} (2)菲
+    ,
+      <nav class="sideways">
+      ==
+      - $菲fei1, $菲fei2
+      - $屝fei6
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-9} #9
+    ,{.williams} (2)誹
+    ,
+      <nav class="sideways">
+      ==
+      - $誹fei2
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-10} #10
+    ,{.williams} 狒(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $狒fei6
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-11} #11
+    ,{.williams} 翡(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $翡fei2, ($翡fei6)
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-12} #12
+    ,{.williams} _Fik(7)_
+    ,
+      <nav class="sideways">
+      ==
+      - $掝fik6
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-13} #13
+    ,{.williams} 捹(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($捹fing6)
+      - $揈fing6
+      ==
+      </nav>
+  //
+    ,{#page-53-entry-14} #14
+    ,{.williams} (1)科
+    ,
+      <nav class="sideways">
+      ==
+      - $科fo1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

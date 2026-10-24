@@ -224,7 +224,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 捹(6)]]
+  - [[Page~53 #13: 捹(6)]]
     --
     [[Alternative form of 揈 (Cantonese). **See $揈fing6 for the canonical entry.**]]
     --
@@ -257,7 +257,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 捹(6); here normalised to 揈]]
+  - [[Page~53 #13: 捹(6); here normalised to 揈]]
     ==
     - To swing;
     - to shake in the wind;

@@ -207,7 +207,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1)]]
+  - [[Page~53 #8: (2)菲 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1)]]
     ==
     - [[...]];
     - fragrant [[Kangxi: 菲菲香也]], ~~beautiful~~ ``luxuriant`` [[Kangxi: 草茂貌, 芳菲也]];
@@ -527,7 +527,7 @@ W
         [[fei1 fei1 騑騑]],
         the regular march of horses [[Kangxi: 騑騑馬行不止貌]].
     ==
-  - [[Page~53 (2)匪 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1) and normalised to 騑]]
+  - [[Page~53 #3: (2)匪 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1) and normalised to 騑]]
     ==
     - [[...]];
     - regular march of horses [[Kangxi 匪: 同騑騑騑馬行不止貌]], beautiful [[Kangxi 匪: 行而有文也]];
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)匪]]
+  - [[Page~53 #3: (2)匪]]
     ==
     - [[...]];
     - not right, illegal;
@@ -666,7 +666,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)悱]]
+  - [[Page~53 #4: (2)悱]]
     ==
     - Embarrassed, unable to speak out one's ideas [[Kangxi: 口欲言而未能之貌]].
     ==
@@ -701,7 +701,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)斐]]
+  - [[Page~53 #6: (2)斐]]
     ==
     - Elegant, adorned [[Kangxi: 分別文也 etc.]], graceful, polished, applied to actions or writings;
     - _(2)f(i/) (5)m(i/)_
@@ -740,7 +740,7 @@ F
   ==
 W
   ====
-  - [[Page~53 ::~~(2)榧~~(2)~~棑~~``棐``::]]
+  - [[Page~53 #5: ::~~(2)榧~~(2)~~棑~~``棐``::]]
     ==
     - [[...]];
     - a piece of wood tied to a bow at the grasp to ~~strengthen~~ ``straighten`` it [[Kangxi 棐: 輔也, 輔卽弓檠也故从木]];
@@ -792,7 +792,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 ::(2)榧(2)~~棑~~``棐``::]]
+  - [[Page~53 #5: ::(2)榧(2)~~棑~~``棐``::]]
     ==
     - A kind of cabinet wood with lines [[Kangxi 榧: 榧似煔而材光文彩如柏古謂文木通作棐]],
       suitable to make furniture [[Kangxi 棐: 與榧同木名可爲几]];
@@ -832,7 +832,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)匪; here normalised to 篚]]
+  - [[Page~53 #3: (2)匪; here normalised to 篚]]
     ==
     - A ~~square~~ bamboo box``-like container`` [[Kangxi 匪: 匪如篋, ~~竹器方曰匪,~~ 器如竹篋今从竹爲筐篚字]];
     - [[...]].
@@ -840,7 +840,7 @@ W
     --
     [[...]]
     --
-  - [[Page~53 (2)篚]]
+  - [[Page~53 #7: (2)篚]]
     ==
     - A round bamboo basket [[Kangxi: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
     ==
@@ -870,7 +870,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 翡(6) _F(i/)(6)_ (fei6); here normalised to _(2)F(i/)_ (fei2)]]
+  - [[Page~53 #11: 翡(6) _F(i/)(6)_ (fei6); here normalised to _(2)F(i/)_ (fei2)]]
     ==
     - A kingfisher, with beautiful plumage [[Kangxi: 赤羽雀也出鬱林, 鳥似翠而赤]];
     - the cock is called _~~f(i/)(6)~~ ``(2)f(i/)``_ [[fei2 翡]]^,
@@ -908,7 +908,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)菲]]
+  - [[Page~53 #8: (2)菲]]
     ==
     - A red marshy plant [[Kangxi: 菜名, 芴也, 菲草生下濕地似蕪菁華紫赤色可食]];
     - pot-herbs, greens;
@@ -1025,7 +1025,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (2)誹]]
+  - [[Page~53 #9: (2)誹]]
     ==
     - To backbite, to speak against [[Kangxi: 謗也, {𧨚=⿰訁圼}也, 或省作非]];
     - _(2)f(i/) p(')ong(3)_
@@ -1164,7 +1164,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (4)肥]]
+  - [[Page~53 #1: (4)肥]]
     ==
     - Fat, oily, fleshy [[Kangxi: 多肉也]], rich [[Kangxi: 饒裕也]], fertile [[Kangxi: 田有肥瘠]];
     - _(4)f(i/) chong(3)_
@@ -1255,7 +1255,7 @@ F
   ==
 W
   ====
-  - [[Page~53 (4)腓]]
+  - [[Page~53 #2: (4)腓]]
     ==
     - Calf of the leg [[Kangxi: 脛腨也, 腳腨腸也, 腓䏿也, 脛後肉腓腸也]];
     - sick, diseased [[Kangxi: 病也, 變也]];
@@ -1351,7 +1351,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here normalised to 屝 _F(i/)(6)_ (fei6)]]
+  - [[Page~53 #8: (2)菲 _(2)F(i/)_ (fei2); here normalised to 屝 _F(i/)(6)_ (fei6)]]
     ==
     - [[...]];
     - straw sandals [[Kangxi 菲: 與屝通, 菲草履]];
@@ -1393,7 +1393,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 狒(6)]]
+  - [[Page~53 #10: 狒(6)]]
     ==
     - An animal of the monkey tribe, large and monstrous [[Kangxi: 狒狒如人被髮迅走食人, 梟羊也 etc.]];
     - _f(i/)(6) f(i/)(6)_
@@ -1423,7 +1423,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~53 翡(6)]]
+  - [[Page~53 #11: 翡(6)]]
     --
     [[Reading variation. **See $翡fei2 for the canonical entry.**]]
     --
