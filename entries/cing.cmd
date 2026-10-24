@@ -121,7 +121,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)淸]]
+  - [[Page~577 #6: (1)淸]]
     --
     [[Alternative form of 清. **See $清cing1 for the canonical entry.**]]
     --
@@ -149,7 +149,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)淸; here normalised to 清]]
+  - [[Page~577 #6: (1)淸; here normalised to 清]]
     ==
     - Pure, limpid [[Kangxi 淸: 朖也]], clear [[Kangxi 淸: 澂水之貌]], unsullied, sharpsighted [[Kangxi 淸: 視淸明也]];
     - clean [[Kangxi 淸: 潔也]], incorruptible, right principled;
@@ -513,7 +513,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)靑(1)青]]
+  - [[Page~577 #5: (1)靑(1)青]]
     --
     [[Alternative form of 青. **See $青cing1 for the canonical entry.**]]
     --
@@ -545,7 +545,7 @@ F
   ==
 W
   ====
-  - [[Page~577 (1)靑(1)青]]
+  - [[Page~577 #5: (1)靑(1)青]]
     ==
     - The color of nature,
       as the azure of the sky or the green of growing plants [[Kangxi 靑: 靑生也]];

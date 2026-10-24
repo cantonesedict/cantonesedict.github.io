@@ -1797,7 +1797,7 @@ F
   ==
 W
   ====
-  - [[Page~577 穽(6)阱(6)]]
+  - [[Page~577 #4: 穽(6)阱(6)]]
     --
     [[Alternative form of 阱. **See $阱zing6 for the canonical entry.**]]
     --
@@ -1860,7 +1860,7 @@ F
   ==
 W
   ====
-  - [[Page~577 穽(6)阱(6)]]
+  - [[Page~577 #4: 穽(6)阱(6)]]
     ==
     - A pit, a pitfall, a hole to catch beasts in [[Kangxi 阱: 坑也, 陷也]];
     - ~~to fall into a pit;~~
@@ -1906,7 +1906,7 @@ F
   ==
 W
   ====
-  - [[Page~577 靖(6)]]
+  - [[Page~577 #3: 靖(6)]]
     ==
     - To become ~~clean and~~ quiet;
     - small, fine [[Kangxi: 一曰細貌]];
@@ -1962,7 +1962,7 @@ F
   ==
 W
   ====
-  - [[Page~577 靚(6)]]
+  - [[Page~577 #2: 靚(6)]]
     --
     [[...]]
     --
@@ -2011,7 +2011,7 @@ F
   ==
 W
   ====
-  - [[Page~577 靜(6)]]
+  - [[Page~577 #1: 靜(6)]]
     ==
     - Still [[Kangxi: 動之對也]], silent, ~~impassible,~~ imperturbable;
     - at rest [[Kangxi: 息也]], quiet [[Kangxi: 靜安也]];
@@ -2044,7 +2044,7 @@ W
         [[je6 zing6 夜靜]]
         the stilly night.
     ==
-  - [[Page~577 靚(6); here normalised to 靜]]
+  - [[Page~577 #2: 靚(6); here normalised to 靜]]
     --
     [[...]]
     --

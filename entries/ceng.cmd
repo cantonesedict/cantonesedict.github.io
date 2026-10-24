@@ -63,7 +63,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~577 (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
+  - [[Page~577 #5: (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
     --
     [[Alternative form of 青, and reading variation (vernacular for "green" senses). **See $青cing1 for the canonical entry.**]]
     --
@@ -85,7 +85,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~577 (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
+  - [[Page~577 #5: (1)靑(1)青 _(1)Ts(')ing_ (cing1); _(1)Ts(')eng_ (ceng1) implied by variational note]]
     --
     [[Reading variation (vernacular for "green" senses). **See $青cing1 for the canonical entry.**]]
     --
