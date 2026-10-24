@@ -73,7 +73,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 催1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+### ~~傕~~``催``1 | _(1)Ts(')(u/)i_ [[ceoi1]]
 
 $$
 R
@@ -86,9 +86,9 @@ F
   ==
 W
   ====
-  - [[Page~598 #3: (1)催]]
+  - [[Page~598 #3: ::(1)~~傕~~``催``::]]
     ==
-    - To urge, to press, to egg on [[Kangxi: 促也迫也]];
+    - To urge, to press, to egg on [[Kangxi 催: 促也迫也]];
     - to importune;
     - to hasten, as the payment of a debt;
     - ~~to reiterate;~~
@@ -112,6 +112,8 @@ W
   ====
 C
   ==
+  - Williams misprints 催 as 傕; here corrected.
+    (The character 催 appears correctly on Page~741 in the character index.)
   - Williams' 乏价走催: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
 L
@@ -836,14 +838,14 @@ F
   ==
 W
   ====
-  - [[Page~598 #7: (4)漼 _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
+  - [[Page~598 #7: ::(4)~~㴶~~``漼``:: _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
     ==
-    - Deep [[Kangxi: 深也]], clear water;
-    - tears trickling down [[Kangxi: 涕垂貌]];
-    - fresh, new [[Kangxi: 鮮明也]], clean;
-    - spoiling, ruining [[Kangxi: 壞貌]];
+    - Deep [[Kangxi 漼: 深也]], clear water;
+    - tears trickling down [[Kangxi 漼: 涕垂貌]];
+    - fresh, new [[Kangxi 漼: 鮮明也]], clean;
+    - spoiling, ruining [[Kangxi 漼: 壞貌]];
     - [[...]];
-    - name of a stream [[Kangxi: 水名]].
+    - name of a stream [[Kangxi 漼: 水名]].
     ==
   ====
 L
@@ -1705,7 +1707,7 @@ S
   ==
 $$
 
-### 漼4 | _(4)Ts(')(u/)i_ [[ceoi4]]
+### ~~㴶~~``漼``4 | _(4)Ts(')(u/)i_ [[ceoi4]]
 
 $$
 R
@@ -1718,10 +1720,10 @@ F
   ==
 W
   ====
-  - [[Page~598 #7: (4)漼]]
+  - [[Page~598 #7: ::(4)~~㴶~~``漼``::]]
     ==
     - [[...]];
-    - snow drifted [[Kangxi: 漼溰雪霜積聚貌]];
+    - snow drifted [[Kangxi 漼: 漼溰雪霜積聚貌]];
     - [[...]].
     ==
   ====

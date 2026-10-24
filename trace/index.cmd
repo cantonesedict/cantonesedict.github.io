@@ -15249,7 +15249,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-598-entry-3} #3
-    ,{.williams} (1)催
+    ,{.williams} (1)傕
     ,
       <nav class="sideways">
       ==
@@ -15286,7 +15286,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-598-entry-7} #7
-    ,{.williams} (4)漼
+    ,{.williams} (4)㴶
     ,
       <nav class="sideways">
       ==
