@@ -7429,6 +7429,107 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~44
+    ,{#page-44-entry-1} #1
+    ,{.williams} (1)徽
+    ,
+      <nav class="sideways">
+      ==
+      - $徽fai1
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-2} #2
+    ,{.williams} 費(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $費fai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-3} #3
+    ,{.williams} 廢(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $廢fai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-5} #5
+    ,{.williams} 沸(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $沸fai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-6} #6
+    ,{.williams} 肺(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $肺fai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-7} #7
+    ,{.williams} 芾(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $芾fai3, $芾fat1
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-8} #8
+    ,{.williams} 吠(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $吠fai6
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-9} #9
+    ,{.williams} 快(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $快faai3
+      - $筷faai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-10} #10
+    ,{.williams} 塊(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $塊faai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-11} #11
+    ,{.williams} 傀(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $傀faai3
+      ==
+      </nav>
+  //
+    ,{#page-44-entry-12} #12
+    ,{.williams} 噲(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $噲faai3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

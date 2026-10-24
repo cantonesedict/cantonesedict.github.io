@@ -100,7 +100,7 @@ F
   ==
 W
   ====
-  - [[Page~44 (1)徽]]
+  - [[Page~44 #1: (1)徽]]
     ==
     - A cord of three strands [[Kangxi: 三糾繩也]];
     - a string;
@@ -694,7 +694,7 @@ F
   ==
 W
   ====
-  - [[Page~44 廢(3)]]
+  - [[Page~44 #3: 廢(3)]]
     ==
     - A house in ruins [[Kangxi: ::屋[頓]也::]];
     - to abandon, to throw aside [[Kangxi: 廢舍也, 舍放置]], to destroy, to lose;
@@ -750,7 +750,7 @@ F
   ==
 W
   ====
-  - [[Page~44 沸(3)]]
+  - [[Page~44 #5: 沸(3)]]
     ==
     - To bubble, as boiling water [[Kangxi: 涫也]] or a spring [[Kangxi: 觱沸泉出貌]];
     - _~~shui(3)~~ ``(2)shui`` fai(3) (1)ch(')ung (4)ch(')(a/)_
@@ -915,7 +915,7 @@ F
   ==
 W
   ====
-  - [[Page~44 肺(3)]]
+  - [[Page~44 #6: 肺(3)]]
     ==
     - The lungs [[Kangxi: 金藏也 etc.]];
     - they are connected with metal;
@@ -958,7 +958,7 @@ F
   ==
 W
   ====
-  - [[Page~44 芾(3)]]
+  - [[Page~44 #7: 芾(3)]]
     ==
     - Luxuriant [[Fan Wan: 蔽芾木盛也]];
     - small [[Kangxi: 蔽芾小貌]];
@@ -1017,7 +1017,7 @@ F
   ==
 W
   ====
-  - [[Page~44 費(3)]]
+  - [[Page~44 #2: 費(3)]]
     ==
     - To spend, to use [[Kangxi: 散財用也]];
     - to exert;
@@ -1112,7 +1112,7 @@ F
   ==
 W
   ====
-  - [[Page~44 吠(6)]]
+  - [[Page~44 #8: 吠(6)]]
     ==
     - The bark of a dog [[Kangxi: 犬吠鳴也, 犬聲]];
     - _l(u:)n(6) fai(6) (2)kau_
