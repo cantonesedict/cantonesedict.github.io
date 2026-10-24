@@ -3903,7 +3903,7 @@ F
   ==
 W
   ====
-  - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3)]]
+  - [[Page~617 #1: 恣(3) _Ts(')z'(3)_ (ci3)]]
     ==
     - Relaxation, dissipation;
     - licentious, gay, loose [[Kangxi: 縱也]];
@@ -5894,7 +5894,7 @@ F
   ==
 W
   ====
-  - [[Page~617 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Tsz'(6)_ (zi6)]]
+  - [[Page~617 #2: 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Tsz'(6)_ (zi6)]]
     ==
     - The canthus or corner of the eye [[Kangxi: 目厓也]];
     - [[...]];

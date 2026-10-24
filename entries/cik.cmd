@@ -681,7 +681,7 @@ W
     --
     [[Reading variation (for the "stab" senses). See $刺ci3.]]
     --
-  - [[Page~617 刺(3) _Ts(')z'(3)_ (ci3); here corrected to _Ts(')ik(8)_ (cik3)]]
+  - [[Page~617 #5: 刺(3) _Ts(')z'(3)_ (ci3); here corrected to _Ts(')ik(8)_ (cik3)]]
     ==
     - [[...]];
     - to pole, as a boat [[Kangxi: 撐也]];

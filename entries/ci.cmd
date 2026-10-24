@@ -1612,7 +1612,7 @@ F
   ==
 W
   ====
-  - [[Page~617 刺(3)]]
+  - [[Page~617 #5: 刺(3)]]
     ==
     - A thorn [[Kangxi: 棘芒也]];
     - a sting;
@@ -1686,7 +1686,7 @@ F
   ==
 W
   ====
-  - [[Page~617 廁(3)厠(3)]]
+  - [[Page~617 #7: 廁(3)厠(3)]]
     --
     [[Alternative form of 廁. **See $廁ci3 for the canonical entry.**]]
     --
@@ -1816,7 +1816,7 @@ F
   ==
 W
   ====
-  - [[Page~617 廁(3)厠(3)]]
+  - [[Page~617 #7: 廁(3)厠(3)]]
     ==
     - To cleanse, to wash [[Kangxi 廁: 廁淸也]];
     - a place which must be kept clean [[Kangxi 廁: ::[...]至穢之處宜常修治使潔淸也::]];
@@ -1853,7 +1853,7 @@ F
   ==
 W
   ====
-  - [[Page~617 恣(3)]]
+  - [[Page~617 #1: 恣(3)]]
     --
     [[Reading variation. **See $恣zi3 for the canonical entry.**]]
     --
@@ -1899,7 +1899,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~617 朿(3)]]
+  - [[Page~617 #4: 朿(3)]]
     --
     To be distinguished from 束 _ch(')uk(7)_ [[cuk1]] to bind.
     --
@@ -2209,7 +2209,7 @@ F
   ==
 W
   ====
-  - [[Page~617 賜(3)]]
+  - [[Page~617 #6: 賜(3)]]
     ==
     - To confer [[Kangxi: 予也]];
     - bestowed by a superior, usually refers to the emperor;
@@ -2322,7 +2322,7 @@ F
   ==
 W
   ====
-  - [[Page~617 骴(3)]]
+  - [[Page~617 #3: 骴(3)]]
     ==
     - An old bone of men or beasts [[Kangxi: ::鳥獸殘骨[曰]骴::, 謂死人骨也]];
     - putrid bones, having some flesh on them [[Kangxi: 骨之尚有肉者, 肉腐曰胔, 有骨曰胔亦作骴]].

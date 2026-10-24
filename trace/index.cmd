@@ -17020,6 +17020,71 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~617
+    ,{#page-617-entry-1} #1
+    ,{.williams} 恣(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($恣ci3), $恣zi3
+      ==
+      </nav>
+  //
+    ,{#page-617-entry-2} #2
+    ,{.williams} 眥(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $眥zaai6, $眥zi6
+      ==
+      </nav>
+  //
+    ,{#page-617-entry-3} #3
+    ,{.williams} 骴(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $骴ci3
+      ==
+      </nav>
+  //
+    ,{#page-617-entry-4} #4
+    ,{.williams} 朿(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $朿ci3
+      ==
+      </nav>
+  //
+    ,{#page-617-entry-5} #5
+    ,{.williams} 刺(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $刺ci3, $刺cik3
+      ==
+      </nav>
+  //
+    ,{#page-617-entry-6} #6
+    ,{.williams} 賜(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $賜ci3
+      ==
+      </nav>
+  //
+    ,{#page-617-entry-7} #7
+    ,{.williams} 廁(3)厠(3)
+    ,
+      <nav class="sideways">
+      ==
+      - ($厠ci3)
+      - $廁ci3
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

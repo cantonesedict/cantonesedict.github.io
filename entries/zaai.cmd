@@ -505,7 +505,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~617 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Ch(a/)i(6)_ (zaai6)]]
+  - [[Page~617 #2: 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Ch(a/)i(6)_ (zaai6)]]
     ==
     - [[...]];
     - a fierce look;
