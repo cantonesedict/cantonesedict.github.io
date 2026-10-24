@@ -3540,7 +3540,7 @@ F
   ==
 W
   ====
-  - [[Page~62 付(6)]]
+  - [[Page~62 #3: 付(6)]]
     ==
     - To give, to deliver, to hand over [[Kangxi: ::^{𢌿=⿱田廾}也授也::]];
     - _f(u/)(6) k(i/)(3)_
@@ -3603,7 +3603,7 @@ F
   ==
 W
   ====
-  - [[Page~62 傅(6)]]
+  - [[Page~62 #2: 傅(6)]]
     ==
     - To annex [[Kangxi: 麗著也]]~~, to arrange~~;
     - ~~to receive;~~
@@ -4025,7 +4025,7 @@ F
   ==
 W
   ====
-  - [[Page~62 賻(6)]]
+  - [[Page~62 #1: 賻(6)]]
     ==
     - To contribute to bury one [[Kangxi: 助也, 以財助喪也]];
     - to assist an interment by giving articles.

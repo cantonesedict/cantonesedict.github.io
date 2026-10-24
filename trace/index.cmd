@@ -9607,6 +9607,115 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=12} Page~62
+    ,{#page-62-entry-1} #1
+    ,{.williams} 賻(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $賻fu6
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-2} #2
+    ,{.williams} 傅(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $傅fu6
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-3} #3
+    ,{.williams} 付(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $付fu6
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-4} #4
+    ,{.williams} (1)魁
+    ,
+      <nav class="sideways">
+      ==
+      - $魁fui1
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-5} #5
+    ,{.williams} (1)灰
+    ,
+      <nav class="sideways">
+      ==
+      - $灰fui1
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-6} #6
+    ,{.williams} (1)恢
+    ,
+      <nav class="sideways">
+      ==
+      - $恢fui1
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-7} #7
+    ,{.williams} (1)詼
+    ,
+      <nav class="sideways">
+      ==
+      - $詼fui1
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-8} #8
+    ,{.williams} (1)悝
+    ,
+      <nav class="sideways">
+      ==
+      - $悝fui1
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-9} #9
+    ,{.williams} (1)虺
+    ,
+      <nav class="sideways">
+      ==
+      - $虺fui1
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-10} #10
+    ,{.williams} (2)賄
+    ,
+      <nav class="sideways">
+      ==
+      - ($賄fui2)
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-11} #11
+    ,{.williams} (2)鮪
+    ,
+      <nav class="sideways">
+      ==
+      - ($鮪fui2)
+      ==
+      </nav>
+  //
+    ,{#page-62-entry-12} #12
+    ,{.williams} (2)洧
+    ,
+      <nav class="sideways">
+      ==
+      - ($洧fui2)
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
