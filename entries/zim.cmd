@@ -183,7 +183,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)尖]]
+  - [[Page~571 #5: (1)尖]]
     ==
     - Sharp, pointed, acute, tapering to a peak or point [[Kangxi: 末銳也小也]];
     - wedge-like, pyramidal, conical, or needle-shaped;
@@ -367,7 +367,7 @@ F
   ==
 W
   ====
-  - [[Page~571 漸(6) _Ts(i/)m(6)_ (zim6); here corrected to _(1)Ts(i/)m_ (zim1)]]
+  - [[Page~571 #6: 漸(6) _Ts(i/)m(6)_ (zim6); here corrected to _(1)Ts(i/)m_ (zim1)]]
     ==
     - [[...]];
     - to find its way in, as water does [[Kangxi: 流入也]];
@@ -947,7 +947,7 @@ F
   ==
 W
   ====
-  - [[Page~571 漸(6)]]
+  - [[Page~571 #6: 漸(6)]]
     ==
     - Name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]
       near Ng(a/)nking f(u/) [[安慶府]] [[Kangxi: 水名, 水出丹陽黟南蠻中東入海]];

@@ -1319,12 +1319,12 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ts(i/)m",
-"text":"U+6F38 渐 (Mainland simplified) (F2.50 漸 _Tsim_ (zim6)) 次也徐也稍也漬也 (Page 571 漸 _Tsim_ (zim6); here corrected to _Tsim_ (zim1)) to find its way in, as water does (Kangxi: 流入也); to flow; to imbibe, to tinge, to soak, to penetrate (Kangxi: 漬也濕也, 浸也染也); 【漸-level】 (tsjem) (_verb-like_) to inflow (_verb-like_) to soak"
+"text":"U+6F38 渐 (Mainland simplified) (F2.50 漸 _Tsim_ (zim6)) 次也徐也稍也漬也 (Page 571 #6: 漸 _Tsim_ (zim6); here corrected to _Tsim_ (zim1)) to find its way in, as water does (Kangxi: 流入也); to flow; to imbibe, to tinge, to soak, to penetrate (Kangxi: 漬也濕也, 浸也染也); 【漸-level】 (tsjem) (_verb-like_) to inflow (_verb-like_) to soak"
 },
 "zim6":{
 "isCanonical":true,
 "williams":"ts(i/)m(6)",
-"text":"U+6F38 渐 (Mainland simplified) zim6-2 (rising second in reduplication 漸漸) (F2.50 漸) 次也徐也稍也漬也 (Page 571 漸) Name of an affluent of the Yangtsz' kiang (揚子江) near Nganking fu (安慶府) (Kangxi: 水名, 水出丹陽黟南蠻中東入海); to advance by degrees, slowly, by little and little (Kangxi: 漸次也進也稍也 etc.); stealthily, as decay; _tsim tsim loi_ (zim6 zim6 loi4 漸漸來), came on gradually; _tsim yap kai king_ (zim6 jap6 gaai1 ging2 漸入佳境), opens up a fine prospect; gradually improving, as one's prospects; _tsim ts'z'_ (zim6 ci3 漸次) many times, gradually; _ts'un tsu tsim tsun_ (ceon4 zeoi6 zim6 zeon3 循序漸進) to follow on regularly, to advance in order. 【漸-rising】 (dzjemX) (_adverb-like_) gradually (_verb-like_) to proceed gradually, to graduate, (_met._) to increase"
+"text":"U+6F38 渐 (Mainland simplified) zim6-2 (rising second in reduplication 漸漸) (F2.50 漸) 次也徐也稍也漬也 (Page 571 #6: 漸) Name of an affluent of the Yangtsz' kiang (揚子江) near Nganking fu (安慶府) (Kangxi: 水名, 水出丹陽黟南蠻中東入海); to advance by degrees, slowly, by little and little (Kangxi: 漸次也進也稍也 etc.); stealthily, as decay; _tsim tsim loi_ (zim6 zim6 loi4 漸漸來), came on gradually; _tsim yap kai king_ (zim6 jap6 gaai1 ging2 漸入佳境), opens up a fine prospect; gradually improving, as one's prospects; _tsim ts'z'_ (zim6 ci3 漸次) many times, gradually; _ts'un tsu tsim tsun_ (ceon4 zeoi6 zim6 zeon3 循序漸進) to follow on regularly, to advance in order. 【漸-rising】 (dzjemX) (_adverb-like_) gradually (_verb-like_) to proceed gradually, to graduate, (_met._) to increase"
 }
 },
 "𥕌":{
@@ -2984,12 +2984,12 @@
 "cek3":{
 "isCanonical":true,
 "williams":"ts(')ek(8)",
-"text":"U+24DEB 赤 (Cantonese) cek3-2 (rising second in vernacular 𤷫𤷫地) cik3 (alternative) (Page 571 𤷫 _Ts'ik_ (cik3); _Ts'ek_ (cek3) exemplified) A fullness in the stomach; a pain from laughing; rheumatic twinges, pain in the bones; _siu to t'o ts'ek_ (siu3 dou3 tou5 cek3 笑到肚𤷫) laughed till he ached; _kwat ts'ek_ (gwat1 cek3 骨𤷫) shooting pains; _sam ts'ek_ (sam1 cek3 心𤷫) sorry for, deeply pained for; _t'au ts'ek_ (tau4 cek3 頭𤷫) nervous headache. 【𤷫】 (cek3) Pain or aching. 頭𤷫 (tau4 cek3): \"Headache.\" The spelling 𤷫 is arbitrary."
+"text":"U+24DEB 赤 (Cantonese) cek3-2 (rising second in vernacular 𤷫𤷫地) cik3 (alternative) (Page 571 #4: 𤷫 _Ts'ik_ (cik3); _Ts'ek_ (cek3) exemplified) A fullness in the stomach; a pain from laughing; rheumatic twinges, pain in the bones; _siu to t'o ts'ek_ (siu3 dou3 tou5 cek3 笑到肚𤷫) laughed till he ached; _kwat ts'ek_ (gwat1 cek3 骨𤷫) shooting pains; _sam ts'ek_ (sam1 cek3 心𤷫) sorry for, deeply pained for; _t'au ts'ek_ (tau4 cek3 頭𤷫) nervous headache. 【𤷫】 (cek3) Pain or aching. 頭𤷫 (tau4 cek3): \"Headache.\" The spelling 𤷫 is arbitrary."
 },
 "cik3":{
 "isCanonical":false,
 "williams":"ts(')ik(8)",
-"text":"U+24DEB (Page 571 𤷫)"
+"text":"U+24DEB (Page 571 #4: 𤷫)"
 }
 },
 "赤":{
@@ -3884,7 +3884,7 @@
 "cik3":{
 "isCanonical":true,
 "williams":"ts(')ik(8)",
-"text":"U+523A (Page 571 刺) To bore through (Kangxi: 穿也傷也); to stab; to embroider (Kangxi: 針黹也); to tattoo, to mark the skin; a prickle, a thorn; _ts'ik ts'ik pat yau_ (cik3 cik3 bat1 jau1 刺刺不休), incessant talking (Kangxi: 刺刺多言貌). (Page 617 刺 _Ts'z'_ (ci3); here corrected to _Ts'ik_ (cik3)) to pole, as a boat (Kangxi: 撐也); to pry into, to overhear (Kangxi: 偵伺也); _~~ts'z' ts'z'~~ ts'ik ts'ik_ (cik3 cik3 刺刺) to talk much (Kangxi: 刺刺多言貌)."
+"text":"U+523A (Page 571 #3: 刺) To bore through (Kangxi: 穿也傷也); to stab; to embroider (Kangxi: 針黹也); to tattoo, to mark the skin; a prickle, a thorn; _ts'ik ts'ik pat yau_ (cik3 cik3 bat1 jau1 刺刺不休), incessant talking (Kangxi: 刺刺多言貌). (Page 617 刺 _Ts'z'_ (ci3); here corrected to _Ts'ik_ (cik3)) to pole, as a boat (Kangxi: 撐也); to pry into, to overhear (Kangxi: 偵伺也); _~~ts'z' ts'z'~~ ts'ik ts'ik_ (cik3 cik3 刺刺) to talk much (Kangxi: 刺刺多言貌)."
 }
 },
 "厠":{
@@ -4282,14 +4282,14 @@
 "cik1":{
 "isCanonical":true,
 "williams":"ts(')ik(7)",
-"text":"U+617C (F1.75 慼) 憂也 (Page 571 慼) Grief, sorrow (Kangxi: 憂也); to be afflicted, to be sad; pained, mournful."
+"text":"U+617C (F1.75 慼) 憂也 (Page 571 #1: 慼) Grief, sorrow (Kangxi: 憂也); to be afflicted, to be sad; pained, mournful."
 }
 },
 "戚":{
 "cik1":{
 "isCanonical":true,
 "williams":"ts(')ik(7)",
-"text":"U+621A 慼 (for \"grief\" sense) 鏚 (for \"battle-axe\" sense) (F1.75 戚) 親戚憂戚又戚戚心動貌 (Page 570 #9: 戚) A sort of pole-ax (Kangxi: 戉類, 戚斧也); to compassionate, to pity; mournful, sorry (Kangxi: 哀也); angry (Kangxi: 憤也), aroused, vexed (Kangxi: 憂也, 惱也); deformed~~, marked in any way~~ (Kangxi: 醜疾人曰戚施); near, related to, dear to (Kangxi: 戚近也); relatives (Kangxi: 親也); _ts'an ts'ik_ (can1 cik1 親戚) one's kindred; _yau ts'ik seung kwan_ (jau1 cik1 soeng1 gwaan1 休戚相關), to feel for other's woes, mutually effected; _ts'ik ts'ik_ (cik1 cik1 戚戚) melancholy. (Page 571 慼) Used for the preceding (戚) (for the \"grief\" sense) (Kangxi 慼: 又通作戚). A surname (Kangxi: 姓). 【戚】 (tshek) (_noun-like_) battle-axe (_adjective-like_) grieved, distressed, mournful (_noun-like_) kin"
+"text":"U+621A 慼 (for \"grief\" sense) 鏚 (for \"battle-axe\" sense) (F1.75 戚) 親戚憂戚又戚戚心動貌 (Page 570 #9: 戚) A sort of pole-ax (Kangxi: 戉類, 戚斧也); to compassionate, to pity; mournful, sorry (Kangxi: 哀也); angry (Kangxi: 憤也), aroused, vexed (Kangxi: 憂也, 惱也); deformed~~, marked in any way~~ (Kangxi: 醜疾人曰戚施); near, related to, dear to (Kangxi: 戚近也); relatives (Kangxi: 親也); _ts'an ts'ik_ (can1 cik1 親戚) one's kindred; _yau ts'ik seung kwan_ (jau1 cik1 soeng1 gwaan1 休戚相關), to feel for other's woes, mutually effected; _ts'ik ts'ik_ (cik1 cik1 戚戚) melancholy. (Page 571 #1: 慼) Used for the preceding (戚) (for the \"grief\" sense) (Kangxi 慼: 又通作戚). A surname (Kangxi: 姓). 【戚】 (tshek) (_noun-like_) battle-axe (_adjective-like_) grieved, distressed, mournful (_noun-like_) kin"
 }
 },
 "摵":{
@@ -4331,7 +4331,7 @@
 "cik1":{
 "isCanonical":true,
 "williams":"ts(')ik(7)",
-"text":"U+93DA (F1.75 鏚) 斧也 (Page 571 鏚) A sort of pole-ax, a bill (Kangxi: 干鏚斧鉞也, 鏚斧也); an ornamental kind of ax carried in processions. Fan Wan entry: Corrected 釜 to 斧."
+"text":"U+93DA (F1.75 鏚) 斧也 (Page 571 #2: 鏚) A sort of pole-ax, a bill (Kangxi: 干鏚斧鉞也, 鏚斧也); an ornamental kind of ax carried in processions. Fan Wan entry: Corrected 釜 to 斧."
 }
 },
 "飭":{
@@ -4359,21 +4359,21 @@
 "cim1":{
 "isCanonical":true,
 "williams":"(1)ts(')(i/)m",
-"text":"U+50C9 佥 (Mainland simplified) (F2.47 僉) 咸也皆也共也 (F2.47 ？) 咸也皆也共也 (Page 571 僉) All, the whole (Kangxi: 皆也咸也); an unanimous voice, the general opinion (Kangxi: 衆共言之也); a flail (Kangxi: 連枷亦曰僉打穀具也); _ts'im ~~ap~~ at_ (cim1 aat3 僉押) all signed it. Williams' 僉押: Changed _ap_ (aap3) to common reading _at_ (aat3). 【僉】 (tshjem) (_adjective-like_) all"
+"text":"U+50C9 佥 (Mainland simplified) (F2.47 僉) 咸也皆也共也 (F2.47 ？) 咸也皆也共也 (Page 571 #7: 僉) All, the whole (Kangxi: 皆也咸也); an unanimous voice, the general opinion (Kangxi: 衆共言之也); a flail (Kangxi: 連枷亦曰僉打穀具也); _ts'im ~~ap~~ at_ (cim1 aat3 僉押) all signed it. Williams' 僉押: Changed _ap_ (aap3) to common reading _at_ (aat3). 【僉】 (tshjem) (_adjective-like_) all"
 }
 },
 "𠠃":{
 "cim1":{
 "isCanonical":false,
 "williams":"(1)ts(')(i/)m",
-"text":"U+20803 (F2.47 ？) 切也割也 (Page 571 𠠃) Fan Wan entry: Corrected 竊 to 切."
+"text":"U+20803 (F2.47 ？) 切也割也 (Page 571 #10: 𠠃) Fan Wan entry: Corrected 竊 to 切."
 }
 },
 "㔐":{
 "cim1":{
 "isCanonical":true,
 "williams":"(1)ts(')(i/)m",
-"text":"U+3510 𠠃 (F2.47 ？) 切也割也 (Page 571 𠠃; here normalised to 㔐) To cut (Kangxi 𠠃: 切割也); to stick in the throat; _ts'im k'u hau lung_ (cim1 keoi5 hau4 lung4 㔐佢喉嚨), pierce his weasand; _ts'im chu_ (cim1 zyu1 㔐豬), to stick a pig; _ts'im shu_ (cim1 syu6 㔐樹) to ingraft by slips. Fan Wan entry: Corrected 竊 to 切. I have normalised 𠠃 to 㔐 for the better font support. 【㔐】 (cim1) To cut or sever. (_Chinese chess_) To capture a piece on an upper corner of the palace using an advisor. 士㔐 (si6 cim1): \"Advisor captures on the upper corner.\" Olden attestation for 㔐 _ts'im_ (cim1) meaning \"cut\" or \"sever\": 《廣韻》七廉切 𠠃 𠠃切割也 《康熙字典》𠠃 《五音集韻》七廉切音籤切割也 《康熙字典》㔐 《玉篇》千廉切音僉割也〇按《五音集韻》作𠠃"
+"text":"U+3510 𠠃 (F2.47 ？) 切也割也 (Page 571 #10: 𠠃; here normalised to 㔐) To cut (Kangxi 𠠃: 切割也); to stick in the throat; _ts'im k'u hau lung_ (cim1 keoi5 hau4 lung4 㔐佢喉嚨), pierce his weasand; _ts'im chu_ (cim1 zyu1 㔐豬), to stick a pig; _ts'im shu_ (cim1 syu6 㔐樹) to ingraft by slips. Fan Wan entry: Corrected 竊 to 切. I have normalised 𠠃 to 㔐 for the better font support. 【㔐】 (cim1) To cut or sever. (_Chinese chess_) To capture a piece on an upper corner of the palace using an advisor. 士㔐 (si6 cim1): \"Advisor captures on the upper corner.\" Olden attestation for 㔐 _ts'im_ (cim1) meaning \"cut\" or \"sever\": 《廣韻》七廉切 𠠃 𠠃切割也 《康熙字典》𠠃 《五音集韻》七廉切音籤切割也 《康熙字典》㔐 《玉篇》千廉切音僉割也〇按《五音集韻》作𠠃"
 }
 },
 "孅":{
@@ -4420,14 +4420,14 @@
 "cim1":{
 "isCanonical":true,
 "williams":"(1)ts(')(i/)m",
-"text":"U+7C3D 签 (Mainland simplified) (F2.47 簽) 竹簾又簽書 (Page 571 簽) to subscribe, to write one's name (Kangxi: 簽書文字也); a sort of basket (Kangxi: 簽籯籠也); _ts'im tsz'_ (cim1 zi6 簽字) a circular, a subscription paper; _ts'im meng_ (cim1 meng4-2 簽名), to write one's name; _ts'im t'ai_ (cim1 tai4 簽題), to subscribe to; _ts'im kwan_ (cim1 gwaan1 簽關), to join in engaging a teacher;"
+"text":"U+7C3D 签 (Mainland simplified) (F2.47 簽) 竹簾又簽書 (Page 571 #8: 簽) to subscribe, to write one's name (Kangxi: 簽書文字也); a sort of basket (Kangxi: 簽籯籠也); _ts'im tsz'_ (cim1 zi6 簽字) a circular, a subscription paper; _ts'im meng_ (cim1 meng4-2 簽名), to write one's name; _ts'im t'ai_ (cim1 tai4 簽題), to subscribe to; _ts'im kwan_ (cim1 gwaan1 簽關), to join in engaging a teacher;"
 }
 },
 "籤":{
 "cim1":{
 "isCanonical":true,
 "williams":"(1)ts(')(i/)m",
-"text":"U+7C64 簽 签 (Mainland simplified) (F2.47 籖) 神籤騐也又竹籌 (Page 571 簽; here normalised to 籤) Slips of bamboo written on for lots (...); _ts'im u_ (cim1 jyu5 籤語), to draw lots for a response. (Page 571 韱; here corrected to 籤) Similar to the above (簽); a slip, a lot (Kangxi 籤: 驗也, 竹籤用以卜者); a warrant, a permit, a ticket having the officer's name on it; to probe, to bore through (Kangxi 籤: 一曰...貫也); sharp-pointed (Kangxi 籤: 一曰銳也); _chai ts'im_ (zai3 cim1 掣籤) or _cha ts'im_ (zaa1 cim1 揸籤), to lot out officers to their stations; _ngo ts'im_ (ngou4 cim1 摮籤), to ~~draw~~ cast lots before idols; _ts'im t'ung_ (cim1 tung4 籤筒), a cup to hold the slips; _ch'ut ts'im_ (ceot1 cim1 出籤), to issue a warrant or permit; _k'au ts'im_ (kau4 cim1 求籤), to divine."
+"text":"U+7C64 簽 签 (Mainland simplified) (F2.47 籖) 神籤騐也又竹籌 (Page 571 #8: 簽; here normalised to 籤) Slips of bamboo written on for lots (...); _ts'im u_ (cim1 jyu5 籤語), to draw lots for a response. (Page 571 #9: 韱; here corrected to 籤) Similar to the above (簽); a slip, a lot (Kangxi 籤: 驗也, 竹籤用以卜者); a warrant, a permit, a ticket having the officer's name on it; to probe, to bore through (Kangxi 籤: 一曰...貫也); sharp-pointed (Kangxi 籤: 一曰銳也); _chai ts'im_ (zai3 cim1 掣籤) or _cha ts'im_ (zaa1 cim1 揸籤), to lot out officers to their stations; _ngo ts'im_ (ngou4 cim1 摮籤), to ~~draw~~ cast lots before idols; _ts'im t'ung_ (cim1 tung4 籤筒), a cup to hold the slips; _ch'ut ts'im_ (ceot1 cim1 出籤), to issue a warrant or permit; _k'au ts'im_ (kau4 cim1 求籤), to divine."
 }
 },
 "纖":{
@@ -15565,7 +15565,7 @@
 "zim1":{
 "isCanonical":true,
 "williams":"(1)ts(i/)m",
-"text":"U+5C16 鑯 (F2.48 尖) 小也 (Page 571 尖) Sharp, pointed, acute, tapering to a peak or point (Kangxi: 末銳也小也); wedge-like, pyramidal, conical, or needle-shaped; clever, ingenious; _ting tsim_ (ding2 zim1 頂尖), ready at, smart; _yuk tsim_ (juk6 zim1 玉尖), a lady's fingers (Kangxi: 玉尖十尖指也); _tsim li_ (zim1 lei6 尖利) sharp, quick-witted; _ta tsim_ (daa2 zim1 打尖), to wedge in, to work one's self in; _pan tsim hai_ (baan1 zim1 haai4 班尖鞋), to dress in women's shoes, to act the female parts. Harsh or ear-piercing (of sound). 【打尖】 (daa2 zim1) To push in. 【尖隊】 (zim1 deoi6-2) To push in line."
+"text":"U+5C16 鑯 (F2.48 尖) 小也 (Page 571 #5: 尖) Sharp, pointed, acute, tapering to a peak or point (Kangxi: 末銳也小也); wedge-like, pyramidal, conical, or needle-shaped; clever, ingenious; _ting tsim_ (ding2 zim1 頂尖), ready at, smart; _yuk tsim_ (juk6 zim1 玉尖), a lady's fingers (Kangxi: 玉尖十尖指也); _tsim li_ (zim1 lei6 尖利) sharp, quick-witted; _ta tsim_ (daa2 zim1 打尖), to wedge in, to work one's self in; _pan tsim hai_ (baan1 zim1 haai4 班尖鞋), to dress in women's shoes, to act the female parts. Harsh or ear-piercing (of sound). 【打尖】 (daa2 zim1) To push in. 【尖隊】 (zim1 deoi6-2) To push in line."
 }
 },
 "沾":{

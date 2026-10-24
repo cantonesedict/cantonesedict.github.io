@@ -176,7 +176,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 {𤷫=⿸疒刺}(8) _Ts(')ik(8)_ (cik3); _Ts(')ek(8)_ (cek3) exemplified]]
+  - [[Page~571 #4: {𤷫=⿸疒刺}(8) _Ts(')ik(8)_ (cik3); _Ts(')ek(8)_ (cek3) exemplified]]
     ==
     - A fullness in the stomach;
     - a pain from laughing;

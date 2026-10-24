@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~571 慼(7)]]
+  - [[Page~571 #1: 慼(7)]]
     ==
     - Grief, sorrow [[Kangxi: 憂也]];
     - to be afflicted, to be sad;
@@ -201,7 +201,7 @@ W
     --
     [[Otherwise, an alternative form of {𥄎=⿱目攴} (Cantonese). **See ${𥄎=⿱目攴}cik1 for the canonical entry.**]]
     --
-  - [[Page~571 慼(7)]]
+  - [[Page~571 #1: 慼(7)]]
     --
     [[...]]
     --
@@ -504,7 +504,7 @@ F
   ==
 W
   ====
-  - [[Page~571 鏚(7)]]
+  - [[Page~571 #2: 鏚(7)]]
     ==
     - A sort of pole-ax, a bill [[Kangxi: 干鏚斧鉞也, 鏚斧也]];
     - an ornamental kind of ax carried in processions.
@@ -663,7 +663,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 刺(8)]]
+  - [[Page~571 #3: 刺(8)]]
     ==
     - To bore through [[Kangxi: 穿也傷也]];
     - to stab;
@@ -706,7 +706,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 {𤷫=⿸疒刺}(8)]]
+  - [[Page~571 #4: {𤷫=⿸疒刺}(8)]]
     --
     [[Reading variation. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
     --

@@ -13041,6 +13041,100 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~571
+    ,{#page-571-entry-1} #1
+    ,{.williams} 慼(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $慼cik1
+      - $戚cik1
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-2} #2
+    ,{.williams} 鏚(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $鏚cik1
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-3} #3
+    ,{.williams} 刺(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $刺cik3
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-4} #4
+    ,{.williams} {𤷫=⿸疒刺}(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ${𤷫=⿸疒刺}cek3, (${𤷫=⿸疒刺}cik3)
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-5} #5
+    ,{.williams} (1)尖
+    ,
+      <nav class="sideways">
+      ==
+      - $尖zim1
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-6} #6
+    ,{.williams} 漸(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $漸zim1, $漸zim6
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-7} #7
+    ,{.williams} (1)僉
+    ,
+      <nav class="sideways">
+      ==
+      - $僉cim1
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-8} #8
+    ,{.williams} (1)簽
+    ,
+      <nav class="sideways">
+      ==
+      - $簽cim1
+      - $籤cim1
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-9} #9
+    ,{.williams} (1)韱
+    ,
+      <nav class="sideways">
+      ==
+      - $籤cim1
+      ==
+      </nav>
+  //
+    ,{#page-571-entry-10} #10
+    ,{.williams} (1){𠠃=⿰⿳从一韭刂}
+    ,
+      <nav class="sideways">
+      ==
+      - (${𠠃=⿰⿳从一韭刂}cim1)
+      - $㔐cim1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

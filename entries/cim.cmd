@@ -82,7 +82,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)僉]]
+  - [[Page~571 #7: (1)僉]]
     ==
     - All, the whole [[Kangxi: 皆也咸也]];
     - an unanimous voice, the general opinion [[Kangxi: 衆共言之也]];
@@ -118,7 +118,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}]]
+  - [[Page~571 #10: (1){𠠃=⿰⿳从一韭刂}]]
     --
     [[Alternative form of 㔐. **See $㔐cim1 for the canonical entry.**]]
     --
@@ -146,7 +146,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
+  - [[Page~571 #10: (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
     ==
     - To cut [[Kangxi {𠠃=⿰⿳从一韭刂}: 切割也]];
     - to stick in the throat;
@@ -407,7 +407,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)簽]]
+  - [[Page~571 #8: (1)簽]]
     ==
     - [[...]];
     - to subscribe, to write one's name [[Kangxi: 簽書文字也]];
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~571 (1)簽; here normalised to 籤]]
+  - [[Page~571 #8: (1)簽; here normalised to 籤]]
     ==
     - Slips of bamboo written on for lots [[...]];
     - [[...]];
@@ -458,7 +458,7 @@ W
         [[cim1 jyu5 籤語]],
         to draw lots for a response.
     ==
-  - [[Page~571 (1)韱; here corrected to 籤]]
+  - [[Page~571 #9: (1)韱; here corrected to 籤]]
     ==
     - Similar to the above [[簽]];
     - a slip, a lot [[Kangxi 籤: 驗也, 竹籤用以卜者]];
