@@ -158,7 +158,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)冲(1)沖]]
+  - [[Page~41 #1: (1)冲(1)沖]]
     --
     [[Alternative form of 沖. **See $沖cung1 for the canonical entry.**]]
     --
@@ -333,7 +333,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)憧]]
+  - [[Page~41 #3: (1)憧]]
     ==
     - Unsettled in mind, disturbed, undecided [[Kangxi: 意不定也]];
     - irresolute.
@@ -591,7 +591,7 @@ W
     - [[...]] a hollow vessel [[Kangxi: 器虛也, 通作沖]] [[...]];
     - [[...]].
     ==
-  - [[Page~41 (1)冲(1)沖; here normalised to 盅]]
+  - [[Page~41 #1: (1)冲(1)沖; here normalised to 盅]]
     ==
     - [[...]];
     - [[...]], hollow [[Kangxi 沖: 虛也]];
@@ -628,7 +628,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)罿]]
+  - [[Page~41 #4: (1)罿]]
     ==
     - A net to take birds, with a frame [[Kangxi: 罬也, 幡車罔]];
     - the Fan Wan says, a frame to cover rabbits [[Fan Wan: ::[掩]兔之車::]].
@@ -878,7 +878,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (1)衝]]
+  - [[Page~41 #2: (1)衝]]
     ==
     - A path, a crossway [[Kangxi: 通道也 etc.]];
     - ~~to support;~~
@@ -1074,7 +1074,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (2)冡; here corrected to 冢]]
+  - [[Page~41 #7: (2)冡; here corrected to 冢]]
     ==
     - The peak of a hill [[Kangxi 冢: 山頂也]];
     - a mound or tumulus [[Kangxi 冢: 墓之墳者亦曰冢]];
@@ -1130,7 +1130,7 @@ F
   ==
 W
   ====
-  - [[Page~41 ::(2)~~塜~~``塚``::]]
+  - [[Page~41 #8: ::(2)~~塜~~``塚``::]]
     ==
     - A grave, a tomb [[Kangxi 塚: 冢俗作塚]];
     - _(1)fong (2)ch(')ung_
@@ -1177,7 +1177,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (2){𠖥=⿱冖龍}; here normalised to 寵]]
+  - [[Page~41 #9: (2){𠖥=⿱冖龍}; here normalised to 寵]]
     ==
     - Grace, kindness, affection [[Kangxi 寵: 一曰愛也恩也]], regard, friendship;
     - favor of superiors;
@@ -1286,7 +1286,7 @@ F
   ==
 W
   ====
-  - [[Page~41 銃(3)]]
+  - [[Page~41 #10: 銃(3)]]
     ==
     - ~~A piece of iron bored~~ ``The eye of an axe`` [[Kangxi: 銎也, 斧穿也]];
     - a blunderbuss, a ginjall, a gun;
@@ -1865,7 +1865,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (4)虫(4)蟲]]
+  - [[Page~41 #5: (4)虫(4)蟲]]
     --
     [[Alternative form of 蟲. **See $蟲cung4 for the canonical entry.**]]
     --
@@ -1898,7 +1898,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (4)虫(4)蟲]]
+  - [[Page~41 #5: (4)虫(4)蟲]]
     ==
     - Term for featherless and hairless animals,
       including insects, frogs, snails, &c.;
@@ -1942,7 +1942,7 @@ F
   ==
 W
   ====
-  - [[Page~41 (4)重]]
+  - [[Page~41 #6: (4)重]]
     ==
     - To duplicate, to repeat, to reiterate [[Kangxi: 複也疊也]];
     - to add;

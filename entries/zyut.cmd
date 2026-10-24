@@ -473,7 +473,7 @@ F
   ==
 W
   ====
-  - [[Page~41 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+  - [[Page~41 #12: 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - Crimson [[Kangxi: 絳也]] silk;
     - to sew [[Kangxi: 紩也]];

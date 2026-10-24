@@ -7132,6 +7132,127 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=13} Page~41
+    ,{#page-41-entry-1} #1
+    ,{.williams} (1)冲(1)沖
+    ,
+      <nav class="sideways">
+      ==
+      - ($冲cung1)
+      - $盅cung1
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-2} #2
+    ,{.williams} (1)衝
+    ,
+      <nav class="sideways">
+      ==
+      - $衝cung1
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-3} #3
+    ,{.williams} (1)憧
+    ,
+      <nav class="sideways">
+      ==
+      - $憧cung1
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-4} #4
+    ,{.williams} (1)罿
+    ,
+      <nav class="sideways">
+      ==
+      - $罿cung1
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-5} #5
+    ,{.williams} (4)虫(4)蟲
+    ,
+      <nav class="sideways">
+      ==
+      - ($虫cung4)
+      - $蟲cung4
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-6} #6
+    ,{.williams} (4)重
+    ,
+      <nav class="sideways">
+      ==
+      - $重cung4
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-7} #7
+    ,{.williams} (2)冡
+    ,
+      <nav class="sideways">
+      ==
+      - $冢cung2
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-8} #8
+    ,{.williams} (2)塜
+    ,
+      <nav class="sideways">
+      ==
+      - $塚cung2
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-9} #9
+    ,{.williams} (2){𠖥=⿱冖龍}
+    ,
+      <nav class="sideways">
+      ==
+      - $寵cung2
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-10} #10
+    ,{.williams} 銃(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $銃cung3
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-11} #11
+    ,{.williams} 黜(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $黜zeot1
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-12} #12
+    ,{.williams} 絀(7)
+    ,
+      <nav class="sideways">
+      ==
+      - ($絀zeot1), $絀zyut3
+      - $黜zeot1
+      ==
+      </nav>
+  //
+    ,{#page-41-entry-13} #13
+    ,{.williams} 怵(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $怵zeot1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

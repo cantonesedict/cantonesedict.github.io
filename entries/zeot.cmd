@@ -138,7 +138,7 @@ F
   ==
 W
   ====
-  - [[Page~41 怵(7)]]
+  - [[Page~41 #13: 怵(7)]]
     ==
     - Fear, terror [[Kangxi: 恐也]];
     - to dread;
@@ -225,7 +225,7 @@ F
   ==
 W
   ====
-  - [[Page~41 絀(7)]]
+  - [[Page~41 #12: 絀(7)]]
     --
     [[Reading variation. **See $絀zyut3 for the canonical entry.**]]
     --
@@ -289,7 +289,7 @@ F
   ==
 W
   ====
-  - [[Page~41 黜(7)]]
+  - [[Page~41 #11: 黜(7)]]
     ==
     - ~~To blame;~~
     - to degrade, to dismiss, to put out of office [[Kangxi: 貶下也, 退也貶也下也去也放絕也減也]];
@@ -304,7 +304,7 @@ W
         [[juk6 zeot1 辱黜]]
         degraded and ashamed.
     ==
-  - [[Page~41 絀(7); here normalised to 黜]]
+  - [[Page~41 #12: 絀(7); here normalised to 黜]]
     ==
     - [[...]];
     - used for the preceding [[黜]] [[Kangxi 絀: 同黜]].
