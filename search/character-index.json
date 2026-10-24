@@ -7579,7 +7579,7 @@
 "fung2":{
 "isCanonical":false,
 "williams":"(2)fung",
-"text":"U+6CDB (Page 67 泛)"
+"text":"U+6CDB (Page 67 #4: 泛)"
 }
 },
 "畈":{
@@ -10472,14 +10472,14 @@
 "fung2":{
 "isCanonical":true,
 "williams":"(2)fung",
-"text":"U+8982 泛 (for \"overturn/overthrow\" sense) (Page 67 泛; here normalised to 覂) To overthrow (Kangxi 覂: 反覆也, 泛本作覂後通用耳), to throw a rider, to \"spill\" him; _fung ka chi ma_ (fung2 gaa3 zi1 maa5 覂駕之馬), a vicious horse, _met._ a stubborn boy. Lacking (Kangxi 覂: 乏也). 【覂】 (pjowngX) (_verb-like_) to overturn, to overthrow"
+"text":"U+8982 泛 (for \"overturn/overthrow\" sense) (Page 67 #4: 泛; here normalised to 覂) To overthrow (Kangxi 覂: 反覆也, 泛本作覂後通用耳), to throw a rider, to \"spill\" him; _fung ka chi ma_ (fung2 gaa3 zi1 maa5 覂駕之馬), a vicious horse, _met._ a stubborn boy. Lacking (Kangxi 覂: 乏也). 【覂】 (pjowngX) (_verb-like_) to overturn, to overthrow"
 }
 },
 "諷":{
 "fung3":{
 "isCanonical":true,
 "williams":"fung(3)",
-"text":"U+8AF7 風 讽 (Mainland simplified) (F1.61 諷 _Fung_ (fung2)) 譏諷又諷諫 (F1.61 風 _Fung_ (fung2)) 同上 (Page 67 諷 _Fung_ (fung2); here corrected to _Fung_ (fung3)) To recite (Kangxi: 誦也) ~~or rehearse in a musical tone~~; ~~recitative;~~ to ridicule, to satirize~~,~~; to reprove by irony~~;~~, metaphor, or allusion (Kangxi: 敎也, 譬喩也, 諫刺也); _fung kan_ (fung3 gaan3 諷諫) ~~satire,~~ to censure; _fung ts'z'_ (fung3 ci3 諷刺) pointed irony; _fung sz'_ (fung3 si6 諷？) satirical ballads; _fung tsung_ (fung3 zung6 諷誦) to chant (as priests do). Fan Wan entry: Corrected 幾 to 譏. Williams' \"or rehearse in a musical tone\", \"recitative\": Kangxi gives the commentary 《註》倍文曰諷以聲節之曰誦, which prescribes 誦, *not* 諷, as being the rhythmic (or musical) type of recitation. Williams' 諷諫: Not satire, but tactful or allusive remonstrance. This is, in a way, the *opposite* of the (non-classical) \"satire\" sense. 【諷】 (pjuwngH) (_verb-like_) to recite (_verb-like_) to criticise tactfully"
+"text":"U+8AF7 風 讽 (Mainland simplified) (F1.61 諷 _Fung_ (fung2)) 譏諷又諷諫 (F1.61 風 _Fung_ (fung2)) 同上 (Page 67 #1: 諷 _Fung_ (fung2); here corrected to _Fung_ (fung3)) To recite (Kangxi: 誦也) ~~or rehearse in a musical tone~~; ~~recitative;~~ to ridicule, to satirize~~,~~; to reprove by irony~~;~~, metaphor, or allusion (Kangxi: 敎也, 譬喩也, 諫刺也); _fung kan_ (fung3 gaan3 諷諫) ~~satire,~~ to censure; _fung ts'z'_ (fung3 ci3 諷刺) pointed irony; _fung sz'_ (fung3 si6 諷？) satirical ballads; _fung tsung_ (fung3 zung6 諷誦) to chant (as priests do). Fan Wan entry: Corrected 幾 to 譏. Williams' \"or rehearse in a musical tone\", \"recitative\": Kangxi gives the commentary 《註》倍文曰諷以聲節之曰誦, which prescribes 誦, *not* 諷, as being the rhythmic (or musical) type of recitation. Williams' 諷諫: Not satire, but tactful or allusive remonstrance. This is, in a way, the *opposite* of the (non-classical) \"satire\" sense. 【諷】 (pjuwngH) (_verb-like_) to recite (_verb-like_) to criticise tactfully"
 }
 },
 "縫":{
@@ -10512,21 +10512,21 @@
 "fung6":{
 "isCanonical":true,
 "williams":"fung(6)",
-"text":"U+5949 (F1.62 奉) 承也進也又奉侍奉養 (Page 67 奉) To respectfully receive in both hands, to receive from a superior (Kangxi: 承也 etc.), or offer to him (Kangxi: 與也獻也); to praise, to reverence; _fung ming_ (fung6 ming6 奉命) to receive orders; _shi fung_ (si6 fung6 侍奉) to cherish one's parents; _fung shing_ (fung6 sing4 奉承), to flatter; _fung ho_ (fung6 ho6 奉賀) to make a congratulatory present; _fung sz'_ (fung6 si6 奉事) to wait upon; _fung hau_ (fung6 hau6 奉候) to offer congratulations. Williams' 奉候: Or, to await respectfully. With both hands, i.e. respectfully. To serve, to provide for. To adhere to. To believe. To carry out. 【奉】 (bjowngX) (_verb-like_) to receive (two-handedly) (_verb-like_) to present (two-handedly) (_verb-like_) to carry (two-handedly), to serve (_verb-like_) (_met._) to carry out (_verb-like_) (_met._) to reverence (_verb-like_) (_met._) to adhere unto"
+"text":"U+5949 (F1.62 奉) 承也進也又奉侍奉養 (Page 67 #2: 奉) To respectfully receive in both hands, to receive from a superior (Kangxi: 承也 etc.), or offer to him (Kangxi: 與也獻也); to praise, to reverence; _fung ming_ (fung6 ming6 奉命) to receive orders; _shi fung_ (si6 fung6 侍奉) to cherish one's parents; _fung shing_ (fung6 sing4 奉承), to flatter; _fung ho_ (fung6 ho6 奉賀) to make a congratulatory present; _fung sz'_ (fung6 si6 奉事) to wait upon; _fung hau_ (fung6 hau6 奉候) to offer congratulations. Williams' 奉候: Or, to await respectfully. With both hands, i.e. respectfully. To serve, to provide for. To adhere to. To believe. To carry out. 【奉】 (bjowngX) (_verb-like_) to receive (two-handedly) (_verb-like_) to present (two-handedly) (_verb-like_) to carry (two-handedly), to serve (_verb-like_) (_met._) to carry out (_verb-like_) (_met._) to reverence (_verb-like_) (_met._) to adhere unto"
 }
 },
 "鳳":{
 "fung6":{
 "isCanonical":true,
 "williams":"fung(6)",
-"text":"U+9CF3 凤 fung6-2 (vernacular rising-tone noun) (F1.62 鳳) 鳳凰羽虫之長 (Page 67 鳳) A fabulous bird (Kangxi: 神鳥也 etc.), the male is called _fung_ (fung6 鳳), the female _wong_ (wong4 凰)_;_ the Chinese phoenix; it seems to be derived from the argus pheasant; the empress is poetically called _fung_ (fung6 鳳). Fan Wan entry: Corrected malformed 凰. That 鳳 in the generic \"phoenix\" sense is considered feminine is because it is contrasted with masculine 龍 \"dragon\". A surname (Kangxi: 姓). 【鳳】 (bjuwngH) (_noun-like_) male-phoenix The \"female prostitute\" sense appears to be local to Hong Kong. 【鳳】 (fung6, fung6-2) A female prostitute. 鳳姐 (fung6 ze2): \"Prostitute lady.\" 一樓一鳳 (jat1 lau4 jat1 fung6-2): \"One apartment one prostitute.\" 【鳳爪】 (fung6 zaau2) Chicken feet (as food)."
+"text":"U+9CF3 凤 fung6-2 (vernacular rising-tone noun) (F1.62 鳳) 鳳凰羽虫之長 (Page 67 #3: 鳳) A fabulous bird (Kangxi: 神鳥也 etc.), the male is called _fung_ (fung6 鳳), the female _wong_ (wong4 凰)_;_ the Chinese phoenix; it seems to be derived from the argus pheasant; the empress is poetically called _fung_ (fung6 鳳). Fan Wan entry: Corrected malformed 凰. That 鳳 in the generic \"phoenix\" sense is considered feminine is because it is contrasted with masculine 龍 \"dragon\". A surname (Kangxi: 姓). 【鳳】 (bjuwngH) (_noun-like_) male-phoenix The \"female prostitute\" sense appears to be local to Hong Kong. 【鳳】 (fung6, fung6-2) A female prostitute. 鳳姐 (fung6 ze2): \"Prostitute lady.\" 一樓一鳳 (jat1 lau4 jat1 fung6-2): \"One apartment one prostitute.\" 【鳳爪】 (fung6 zaau2) Chicken feet (as food)."
 }
 },
 "闊":{
 "fut3":{
 "isCanonical":true,
 "williams":"f(u/)t(8)",
-"text":"U+95CA 濶 䦢 阔 (Mainland simplified) fut3-2 (rising second in vernacular 闊闊地) (F2.79 濶) 廣也間濶疎濶 (Page 67 闊) Broad, wide (Kangxi: 廣也), large; ample; distant (Kangxi: 疏也一曰遠也, 闊遠也), separated (Kangxi: 乖闊); liberal; diligent (Kangxi: 契闊勤苦也); to widen, to enlarge, to relax (Kangxi: 寬也); _fut tai_ (fut3 daai6 闊大) ample, capacious; _wang fut_ (waang4 fut3 橫闊) broad across; _tim fut_ (dim6 fut3 掂闊) across the length; _sho fut_ (so1 fut3 疏闊) long separated (as friends); _kan fut_ (gaan3 fut3 間闊) widely sundered, long separated (Kangxi: 凡久不相見曰閒闊); _fut lok_ (fut3 lok6 闊落) agreeable, spacious. Fan Wan entry: Corrected ⿰𤴔朿 to 疎. Impractical (Kangxi: 迂闊). Sparse. 【契闊】 (khet khwat) (_adjective-like_) widely separated (_adjective-like_) hard working 【闊】 (khwat) (_adjective-like_) widely separated (_adjective-like_) wide (_verb-like_) to widen, (_met._) to ease Used in 契闊."
+"text":"U+95CA 濶 䦢 阔 (Mainland simplified) fut3-2 (rising second in vernacular 闊闊地) (F2.79 濶) 廣也間濶疎濶 (Page 67 #5: 闊) Broad, wide (Kangxi: 廣也), large; ample; distant (Kangxi: 疏也一曰遠也, 闊遠也), separated (Kangxi: 乖闊); liberal; diligent (Kangxi: 契闊勤苦也); to widen, to enlarge, to relax (Kangxi: 寬也); _fut tai_ (fut3 daai6 闊大) ample, capacious; _wang fut_ (waang4 fut3 橫闊) broad across; _tim fut_ (dim6 fut3 掂闊) across the length; _sho fut_ (so1 fut3 疏闊) long separated (as friends); _kan fut_ (gaan3 fut3 間闊) widely sundered, long separated (Kangxi: 凡久不相見曰閒闊); _fut lok_ (fut3 lok6 闊落) agreeable, spacious. Fan Wan entry: Corrected ⿰𤴔朿 to 疎. Impractical (Kangxi: 迂闊). Sparse. 【契闊】 (khet khwat) (_adjective-like_) widely separated (_adjective-like_) hard working 【闊】 (khwat) (_adjective-like_) widely separated (_adjective-like_) wide (_verb-like_) to widen, (_met._) to ease Used in 契闊."
 }
 },
 "丮":{
@@ -10554,7 +10554,7 @@
 "haa1":{
 "isCanonical":true,
 "williams":"(1)h(a/)",
-"text":"U+7615 (F2.74 瘕) 瘕嗽 (Page 67 ~~？~~瘕) A difficulty in breathing; _ha sau_ (haa1 sau3 瘕嗽) a hacking, a cough; Williams misprints the headword 瘕 with the 9th stroke missing; here corrected. Fan Wan entry: Normalised 𠻳 to 嗽. A throat ailment (Kangxi: 喉病或作疨)."
+"text":"U+7615 (F2.74 瘕) 瘕嗽 (Page 67 #7: 瘕) A difficulty in breathing; _ha sau_ (haa1 sau3 瘕嗽) a hacking, a cough; Fan Wan entry: Normalised 𠻳 to 嗽. A throat ailment (Kangxi: 喉病或作疨)."
 },
 "haa4":{
 "isCanonical":false,
@@ -10578,19 +10578,19 @@
 "haa1":{
 "isCanonical":true,
 "williams":"(1)h(a/)",
-"text":"U+8766 㗇 (for Cantonese \"bully\" sense) 鰕 虾 (Mainland simplified) (F2.74 蝦) 魚蝦 (F2.74 鰕) 同上 (Page 67 蝦鰕) A shrimp, prawn, crawfish (Kangxi 蝦: 與鰕通 etc.); _ha ch'un_ (haa1 ceon1 蝦膥), ~~crab's eggs~~ shrimp roe; _ha ch'un chap_ (haa1 ceon1 zaap6 蝦膥鈒) a skinflint; _lung ha_ (lung4 haa1 龍蝦), the sea crawfish _(Palinurus);_ _ngan ha_ (ngan4 haa1 銀蝦), sea shrimps; _ming ha_ (ming4 haa1 明蝦), large yellow prawns; _ha kom tsan_ (haa1 gam3 zaan2 蝦咁趲), ~~to~~ throwing the arms about passionately; _shang ha kom t'iu_ (saang1 haa1 gam3 tiu3 生蝦咁跳) lively, playful. (Page 68 㗇; here normalised to 蝦) _ha pa_ (haa1 baa3 蝦霸) to insult, to reproach. Williams' 生蝦咁跳: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【蝦】 (haa1) To bully, to pick on. 蝦蝦霸霸 (haa1 haa1 baa3 baa3): \"Bullying and tyrannising.\" 大蝦細 (daai6 haa1 sai3): \"Elder picking on younger.\" 唔准蝦人 (m4 zeon2 haa1 jan4): \"No bullying others!\" The spelling 蝦 is arbitrary (but well established)."
+"text":"U+8766 㗇 (for Cantonese \"bully\" sense) 鰕 虾 (Mainland simplified) (F2.74 蝦) 魚蝦 (F2.74 鰕) 同上 (Page 67 #6: 蝦鰕) A shrimp, prawn, crawfish (Kangxi 蝦: 與鰕通 etc.); _ha ch'un_ (haa1 ceon1 蝦膥), ~~crab's eggs~~ shrimp roe; _ha ch'un chap_ (haa1 ceon1 zaap6 蝦膥鈒) a skinflint; _lung ha_ (lung4 haa1 龍蝦), the sea crawfish _(Palinurus);_ _ngan ha_ (ngan4 haa1 銀蝦), sea shrimps; _ming ha_ (ming4 haa1 明蝦), large yellow prawns; _ha kom tsan_ (haa1 gam3 zaan2 蝦咁趲), ~~to~~ throwing the arms about passionately; _shang ha kom t'iu_ (saang1 haa1 gam3 tiu3 生蝦咁跳) lively, playful. (Page 68 㗇; here normalised to 蝦) _ha pa_ (haa1 baa3 蝦霸) to insult, to reproach. Williams' 生蝦咁跳: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【蝦】 (haa1) To bully, to pick on. 蝦蝦霸霸 (haa1 haa1 baa3 baa3): \"Bullying and tyrannising.\" 大蝦細 (daai6 haa1 sai3): \"Elder picking on younger.\" 唔准蝦人 (m4 zeon2 haa1 jan4): \"No bullying others!\" The spelling 蝦 is arbitrary (but well established)."
 },
 "haa4":{
 "isCanonical":true,
 "williams":"(4)h(a/)",
-"text":"U+8766 蛤 虾 (Mainland simplified) haa1 (common) (Page 67 蝦鰕) The first character (蝦) is also read _ha_ (haa4), as _ha ma_ (haa4 maa4 蝦蟆), a striped frog. Williams' 蝦蟆: Or, a toad. The common reading of 蝦蟆 (usually spelt 蛤蟆) is haa1 mou1; see ''Kung Fu Hustle''. The prescribed reading haa4 maa4 is almost never heard. 【蝦】 (hae) Used in 蝦蟆. 【蝦蟆】 (hae mae) (_noun-like_) frog, toad"
+"text":"U+8766 蛤 虾 (Mainland simplified) haa1 (common) (Page 67 #6: 蝦鰕) The first character (蝦) is also read _ha_ (haa4), as _ha ma_ (haa4 maa4 蝦蟆), a striped frog. Williams' 蝦蟆: Or, a toad. The common reading of 蝦蟆 (usually spelt 蛤蟆) is haa1 mou1; see ''Kung Fu Hustle''. The prescribed reading haa4 maa4 is almost never heard. 【蝦】 (hae) Used in 蝦蟆. 【蝦蟆】 (hae mae) (_noun-like_) frog, toad"
 }
 },
 "鰕":{
 "haa1":{
 "isCanonical":false,
 "williams":"(1)h(a/)",
-"text":"U+9C15 (F2.74 蝦) 魚蝦 (F2.74 鰕) 同上 (Page 67 蝦鰕)"
+"text":"U+9C15 (F2.74 蝦) 魚蝦 (F2.74 鰕) 同上 (Page 67 #6: 蝦鰕)"
 }
 },
 "吓":{
@@ -10602,7 +10602,7 @@
 "haa5":{
 "isCanonical":true,
 "williams":"(5)h(a/)",
-"text":"U+5413 haa5-2 (for Cantonese \"during\" suffix sense) (Page 67 吓) Once, a time; a while, momentarily; _tang yat ha_ (dang2 jat1 haa5 等一吓), stop a little; _ta yat ha_ (daa2 jat1 haa5 打一吓), strike it once; _ki ha_ (gei2 haa5 幾吓), several times; _yat ha ~~tung~~ t'ung hu_ (jat1 haa5 tung4 heoi3 一吓同去) I will go with you soon; _man hau ha k'u che_ (man6 hau6 haa5 keoi5 ze3 問候吓佢嗻) only came to visit him. Usually spelt 下 for the above senses (i.e. the occurrence classifier and \"moment/momentarily\" senses). This 下 (haa5) is *not* exclusive to Cantonese; it is the same 下 (haa5) that is present in 一下 (jat1 haa5) and in 一下子 (jat1 haa5 zi2). However, the spelling 下 for this haa5 can be confusing in Cantonese because this 下 is *not* homophonous with 下 (haa6) meaning \"down\" or \"go down\". This is especially true in some of Williams' examples, where there is insufficient semantic context to disambiguate between haa5 and haa6 if 下 is used (e.g. 觀吓場 vs 觀下場 under 場 coeng4, and 詳吓 vs 詳下 under 詳 coeng4). Thus, for practical purposes, I have *not* normalised 吓 to 下. However, there are separate haa5 that *are* exclusive to Cantonese; see the Cantonese entry below. Williams' 一吓同去: Corrected _tung_ (dung4) to _t'ung_ (tung4). Williams' 問候吓佢嗻: Corrected _che_ (ze2) to _che_ (ze3). In modern Cantonese the final particle would be 啫 ze1 instead of the (now) dated 嗻 ze3. 【吓-modifier】 (haa5) Suffixed after an adjective that has been degree-modified by 幾 \"quite\". The added suffix somewhat(?) lessens the degree. 今日幾凍吓 (gam1 jat6 gei2 dung3 haa5): \"It's quite cold today.\" 碟餸幾辣吓 (dip6 sung3 gei2 laat6 haa5): \"The dish is quite spicy.\" 【吓-during】 (haa5, haa5-2) Suffixed after a reduplicated verb, before introducing an event that occurs during the action of the verb (i.e. after the action has started but before the action ought to cease). The (tone-unchanged) reading haa5 is strongly preferred when the reduplicated verb is tone 2. 行行吓腳軟 (haang4 haang4 haa5-2 goek3 jyun5): \"In the middle of walking I felt weak-legged.\" 食食吓想嘔 (sik6 sik6 haa5 soeng2 au2): \"In the middle of eating I wanted to vomit.\" 講講吓唔記得咗 (gong2 gong2 haa5 m4 gei3 dak1 zo2): \"In the middle of speaking he forgot about it.\" The spelling 吓 is arbitrary."
+"text":"U+5413 haa5-2 (for Cantonese \"during\" suffix sense) (Page 67 #12: 吓) Once, a time; a while, momentarily; _tang yat ha_ (dang2 jat1 haa5 等一吓), stop a little; _ta yat ha_ (daa2 jat1 haa5 打一吓), strike it once; _ki ha_ (gei2 haa5 幾吓), several times; _yat ha ~~tung~~ t'ung hu_ (jat1 haa5 tung4 heoi3 一吓同去) I will go with you soon; _man hau ha k'u che_ (man6 hau6 haa5 keoi5 ze3 問候吓佢嗻) only came to visit him. Usually spelt 下 for the above senses (i.e. the occurrence classifier and \"moment/momentarily\" senses). This 下 (haa5) is *not* exclusive to Cantonese; it is the same 下 (haa5) that is present in 一下 (jat1 haa5) and in 一下子 (jat1 haa5 zi2). However, the spelling 下 for this haa5 can be confusing in Cantonese because this 下 is *not* homophonous with 下 (haa6) meaning \"down\" or \"go down\". This is especially true in some of Williams' examples, where there is insufficient semantic context to disambiguate between haa5 and haa6 if 下 is used (e.g. 觀吓場 vs 觀下場 under 場 coeng4, and 詳吓 vs 詳下 under 詳 coeng4). Thus, for practical purposes, I have *not* normalised 吓 to 下. However, there are separate haa5 that *are* exclusive to Cantonese; see the Cantonese entry below. Williams' 一吓同去: Corrected _tung_ (dung4) to _t'ung_ (tung4). Williams' 問候吓佢嗻: Corrected _che_ (ze2) to _che_ (ze3). In modern Cantonese the final particle would be 啫 ze1 instead of the (now) dated 嗻 ze3. 【吓-modifier】 (haa5) Suffixed after an adjective that has been degree-modified by 幾 \"quite\". The added suffix somewhat(?) lessens the degree. 今日幾凍吓 (gam1 jat6 gei2 dung3 haa5): \"It's quite cold today.\" 碟餸幾辣吓 (dip6 sung3 gei2 laat6 haa5): \"The dish is quite spicy.\" 【吓-during】 (haa5, haa5-2) Suffixed after a reduplicated verb, before introducing an event that occurs during the action of the verb (i.e. after the action has started but before the action ought to cease). The (tone-unchanged) reading haa5 is strongly preferred when the reduplicated verb is tone 2. 行行吓腳軟 (haang4 haang4 haa5-2 goek3 jyun5): \"In the middle of walking I felt weak-legged.\" 食食吓想嘔 (sik6 sik6 haa5 soeng2 au2): \"In the middle of eating I wanted to vomit.\" 講講吓唔記得咗 (gong2 gong2 haa5 m4 gei3 dak1 zo2): \"In the middle of speaking he forgot about it.\" The spelling 吓 is arbitrary."
 }
 },
 "暇":{
@@ -10621,7 +10621,7 @@
 "haa4":{
 "isCanonical":true,
 "williams":"(4)h(a/)",
-"text":"U+7455 瘕 (F2.74 瑕) 玉之玷也 (Page 67 ~~？~~瘕 _Ha_ (haa1); here corrected to _Ha_ (haa4) and normalised to 瑕) a ~~scar~~ blemish (Kangxi 瘕: 與瑕同); (Page 67 ~~？~~瑕) A blemish in a gem (Kangxi 瑕: 玉玷也, 瑕玉之病也); a crack (Kangxi 瑕: 瑕裂也), a flaw; a fault (Kangxi 瑕: 過也), a bad habit; (...), separated (Kangxi 瑕: 相閒曰瑕); _mi yuk mo ha_ (mei5 juk6 mou4 haa4 美玉無瑕), a gem without a flaw, perfect; _ha ts'z'_ (haa4 ci1 瑕疵) a mistake, carelessness. Williams misprints the headword 瑕 with an additional stroke in the middle component (equivalent to 𩙿 minus 亼); here corrected. Fan Wan entry: Corrected 𪻕 to 玷. Williams' \"a crack\": Metaphorically, a gap. Williams' 瑕疵: Corrected _ts'z'_ (ci3) to _ts'z'_ (ci4) and normalised to _ts'z'_ (ci1). Emptiness (Kangxi: 瑕謂虛脆也). 【瑕】 (hae) (_noun-like_) blemish, flaw"
+"text":"U+7455 瘕 (F2.74 瑕) 玉之玷也 (Page 67 #7: 瘕 _Ha_ (haa1); here corrected to _Ha_ (haa4) and normalised to 瑕) a ~~scar~~ blemish (Kangxi 瘕: 與瑕同); (Page 67 #9: ~~？~~瑕) A blemish in a gem (Kangxi 瑕: 玉玷也, 瑕玉之病也); a crack (Kangxi 瑕: 瑕裂也), a flaw; a fault (Kangxi 瑕: 過也), a bad habit; (...), separated (Kangxi 瑕: 相閒曰瑕); _mi yuk mo ha_ (mei5 juk6 mou4 haa4 美玉無瑕), a gem without a flaw, perfect; _ha ts'z'_ (haa4 ci1 瑕疵) a mistake, carelessness. Williams misprints the headword 瑕 with an additional stroke in the middle component (equivalent to 𩙿 minus 亼); here corrected. Fan Wan entry: Corrected 𪻕 to 玷. Williams' \"a crack\": Metaphorically, a gap. Williams' 瑕疵: Corrected _ts'z'_ (ci3) to _ts'z'_ (ci4) and normalised to _ts'z'_ (ci1). Emptiness (Kangxi: 瑕謂虛脆也). 【瑕】 (hae) (_noun-like_) blemish, flaw"
 }
 },
 "蕸":{
@@ -10635,26 +10635,26 @@
 "haa4":{
 "isCanonical":true,
 "williams":"(4)h(a/)",
-"text":"U+9050 徦 瑕 霞 (F2.74 遐) 遠也 (Page 67 遐) Remote, distant, far from (Kangxi: 遠也); why, how; _ha i kai chi_ (haa4 ji5 gaai1 zi1 遐邇皆知), it is known by everybody. (Page 67 ~~？~~瑕; here normalised to 遐) distant (Kangxi 瑕: 遠也), (...); Long-lasting. 【遐】 (hae) (_adjective-like_) distant, (_met._) lasting (_adverb-like_) how, why"
+"text":"U+9050 徦 瑕 霞 (F2.74 遐) 遠也 (Page 67 #8: 遐) Remote, distant, far from (Kangxi: 遠也); why, how; _ha i kai chi_ (haa4 ji5 gaai1 zi1 遐邇皆知), it is known by everybody. (Page 67 #9: ~~？~~瑕; here normalised to 遐) distant (Kangxi 瑕: 遠也), (...); Long-lasting. 【遐】 (hae) (_adjective-like_) distant, (_met._) lasting (_adverb-like_) how, why"
 }
 },
 "霞":{
 "haa4":{
 "isCanonical":true,
 "williams":"(4)h(a/)",
-"text":"U+971E 赮 (F2.74 霞) 雲霞烟霞 (Page 67 霞) Clouds tinged red (Kangxi: 赤雲氣也 etc., 通作赮); vapor, smokiness; _mok ha mo_ (mok6 haa4 mou6 莫霞霧) don't move about so, be still; _ha p'ui_ (haa4 pui3 霞珮) a noblewoman's robe. Williams' 霞珮: Whilst 珮 is literally a jade ornament, the rendering as \"robe\" is correct. See the Cantonese opera 《紫釵記》, which has 戴鳳冠、披霞珮 (\"put on the phoenix crown, and drape the sky-red ornamental robe\"). Sky-red."
+"text":"U+971E 赮 (F2.74 霞) 雲霞烟霞 (Page 67 #10: 霞) Clouds tinged red (Kangxi: 赤雲氣也 etc., 通作赮); vapor, smokiness; _mok ha mo_ (mok6 haa4 mou6 莫霞霧) don't move about so, be still; _ha p'ui_ (haa4 pui3 霞珮) a noblewoman's robe. Williams' 霞珮: Whilst 珮 is literally a jade ornament, the rendering as \"robe\" is correct. See the Cantonese opera 《紫釵記》, which has 戴鳳冠、披霞珮 (\"put on the phoenix crown, and drape the sky-red ornamental robe\"). Sky-red."
 }
 },
 "下":{
 "haa5":{
 "isCanonical":true,
 "williams":"(5)h(a/)",
-"text":"U+4E0B 吓 (Cantonese) (Page 67 下) The reading _ha_ (haa5) is present in Williams, but not with the correct senses. The alternative form 吓 may be more practical in Cantonese. See commentary at 吓 haa5. Classifier for occurrences of a repeatable action. A while, a moment, momentarily."
+"text":"U+4E0B 吓 (Cantonese) (Page 67 #11: 下) The reading _ha_ (haa5) is present in Williams, but not with the correct senses. The alternative form 吓 may be more practical in Cantonese. See commentary at 吓 haa5. Classifier for occurrences of a repeatable action. A while, a moment, momentarily."
 },
 "haa6":{
 "isCanonical":true,
 "williams":"h(a/)(6)",
-"text":"U+4E0B 丅 haa4 (common in 下巴) haa6-2 (vernacular in 咁上下) (F2.76 下) 上下低也早也降也 (Page 67 下 _Ha_ (haa5); here corrected to _Ha_ (haa6)) To descend, to come down (Kangxi: 降也自上而下也); _ha shun_ (haa6 syun4 下船) to go aboard; _ha lau_ (haa6 lau4 下樓), go down stairs; _ha hi_ (haa6 hei3 下氣) to restrain the temper; _ha kiu_ (haa6 giu6-2 下轎) to get out of a sedan; _ha tan_ (haa6 daan6-2 下蛋) to lay an egg; _ha t'ap_ (haa6 taap3 下榻) to lodge; _ha pat_ (haa6 bat1 下筆) to write; _kwan nang ha ha_ (gwan1 nang4 haa6 haa6 君能下下) a sage knows how to condescend; _ha shau_ (haa6 sau2 下手), to begin to act. (Page 68 下) Below, down, bottom, inferior (Kangxi: 在下之下對上之稱); mean, vulgar (Kangxi: 賤也); next (Kangxi: 後也); _tsoi tai ha_ (zoi6 dai2 haa6 在底下) it is below; _ha tai_ (haa6 dai2 下底), the bottom, underneath; _ha ~~t'sz'~~ ts'z'_ (haa6 ci3 下次) next time; _ha ut_ (haa6 jyut6 下月) next moon; _ha man_ (haa6 man4 下民), common people; _ha lau_ (haa6 lau4 下流), the lowest classes, lowlive, vicious; _mo ha lok_ (mou4 haa6 lok6 無下落) no fixed business or residence; _ha ma wai_ (haa6 maa5 wai1 下馬威), a humbug; _ha tsok_ (haa6 zok3 下作) to covet, to long for, unscrupulous; _ha ~~pa~~ p'a_ (haa6 paa4 下巴), the chin; _ha sheng_ (haa6 seng1 下聲), a low sound, or voice; _ha pin_ (haa6 bin6 下便) the right side, the lower; _ha yan_ (haa6 jan4 下人), official underlings. Fan Wan entry: Corrected ⿰亻氏 to 低. Williams has attempted to distinguish the now (very) obsolete rising-tone reading _ha_ (haa5) from the departing-tone reading _ha_ (haa6), but he has gotten the senses the wrong way round. Classically, it is the positional/directional sense that is rising, and the verb sense that is departing. Williams' 下船: That is, to go down *onto* the boat. Also used to mean the opposite (to go down *from* the boat, i.e. to disembark). Williams' 下底: Less common than 下低. Williams' 下次: Corrected _t'sz'_ (aspirate in wrong position) to _ts'z'_. Williams' 下馬威: Here, \"humbug\" means \"fraud\" or \"sham\". This is the meaning when 下馬威 is used sarcastically to mock a (vain) show of authority or might. Williams' 下作: Better rendered as adjectives. Williams' 下巴: Corrected _pa_ (baa4) to _p'a_ (paa4). 【下-rising】 (haeX) (_adverb-like_) down, downward (_postposition-like_) below, under (_adjective-like_) below, lower, inferior 【下-departing】 (haeH) (_verb-like_) to go down, to alight (_verb-like_) to down, to put down"
+"text":"U+4E0B 丅 haa4 (common in 下巴) haa6-2 (vernacular in 咁上下) (F2.76 下) 上下低也早也降也 (Page 67 #11: 下 _Ha_ (haa5); here corrected to _Ha_ (haa6)) To descend, to come down (Kangxi: 降也自上而下也); _ha shun_ (haa6 syun4 下船) to go aboard; _ha lau_ (haa6 lau4 下樓), go down stairs; _ha hi_ (haa6 hei3 下氣) to restrain the temper; _ha kiu_ (haa6 giu6-2 下轎) to get out of a sedan; _ha tan_ (haa6 daan6-2 下蛋) to lay an egg; _ha t'ap_ (haa6 taap3 下榻) to lodge; _ha pat_ (haa6 bat1 下筆) to write; _kwan nang ha ha_ (gwan1 nang4 haa6 haa6 君能下下) a sage knows how to condescend; _ha shau_ (haa6 sau2 下手), to begin to act. (Page 68 下) Below, down, bottom, inferior (Kangxi: 在下之下對上之稱); mean, vulgar (Kangxi: 賤也); next (Kangxi: 後也); _tsoi tai ha_ (zoi6 dai2 haa6 在底下) it is below; _ha tai_ (haa6 dai2 下底), the bottom, underneath; _ha ~~t'sz'~~ ts'z'_ (haa6 ci3 下次) next time; _ha ut_ (haa6 jyut6 下月) next moon; _ha man_ (haa6 man4 下民), common people; _ha lau_ (haa6 lau4 下流), the lowest classes, lowlive, vicious; _mo ha lok_ (mou4 haa6 lok6 無下落) no fixed business or residence; _ha ma wai_ (haa6 maa5 wai1 下馬威), a humbug; _ha tsok_ (haa6 zok3 下作) to covet, to long for, unscrupulous; _ha ~~pa~~ p'a_ (haa6 paa4 下巴), the chin; _ha sheng_ (haa6 seng1 下聲), a low sound, or voice; _ha pin_ (haa6 bin6 下便) the right side, the lower; _ha yan_ (haa6 jan4 下人), official underlings. Fan Wan entry: Corrected ⿰亻氏 to 低. Williams has attempted to distinguish the now (very) obsolete rising-tone reading _ha_ (haa5) from the departing-tone reading _ha_ (haa6), but he has gotten the senses the wrong way round. Classically, it is the positional/directional sense that is rising, and the verb sense that is departing. Williams' 下船: That is, to go down *onto* the boat. Also used to mean the opposite (to go down *from* the boat, i.e. to disembark). Williams' 下底: Less common than 下低. Williams' 下次: Corrected _t'sz'_ (aspirate in wrong position) to _ts'z'_. Williams' 下馬威: Here, \"humbug\" means \"fraud\" or \"sham\". This is the meaning when 下馬威 is used sarcastically to mock a (vain) show of authority or might. Williams' 下作: Better rendered as adjectives. Williams' 下巴: Corrected _pa_ (baa4) to _p'a_ (paa4). 【下-rising】 (haeX) (_adverb-like_) down, downward (_postposition-like_) below, under (_adjective-like_) below, lower, inferior 【下-departing】 (haeH) (_verb-like_) to go down, to alight (_verb-like_) to down, to put down"
 }
 },
 "厦":{
@@ -10908,7 +10908,7 @@
 "haam4":{
 "isCanonical":true,
 "williams":"(4)h(a/)m",
-"text":"U+9E79 咸 醎 haam4-2 (rising second in vernacular 鹹鹹地) (F2.63 鹹) 鹽味不淡也 (F2.63 醎) 同上 (Page 70 ~~？~~鹹) ~~Saltish, like sea-water~~ Salty (Kangxi 鹹: 北方味也, 不淡, 鹽味); salted, preserved in brine; _ham shap_ (haam4 sap1 鹹濕) salacious; _ham ts'oi_ (haam4 coi3 鹹菜) sour-krout; _ham t'o_ (haam4 tou4-2 鹹桃), salted peaches. (Page 716 鹹) In a figurative sense, bitter, distressing, hard to bear; _shau kwan ham fu_ (sau6 gwaan3 haam4 fu2 受慣鹹苦), he has long been used to hardships. Williams prints the headword on Page 70 with the last stroke of 鹵 missing; here corrected. (The character 鹹 appears correctly on Page 716 in the additional entry, and on Page 828 in the character index.) Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎, and corrected malformed 鹽 and 淡. 【鹹】 (heam) (_adjective-like_) salty 【鹹】 (haam4) Lewd, pornographic, erotic. 鹹片 (haam4 pin3-2): \"Pornographic video.\" 【鹹濕】 (haam4 sap1) Lewd, pornographic, erotic. 好鹹濕 (hou2 haam4 sap1): \"Very lewd\" (or erotic). 鹹濕鬼 (haam4 sap1 gwai2): \"Pervert.\""
+"text":"U+9E79 咸 醎 haam4-2 (rising second in vernacular 鹹鹹地) (F2.63 鹹) 鹽味不淡也 (F2.63 醎) 同上 (Page 70 ~~？~~鹹) ~~Saltish, like sea-water~~ Salty (Kangxi 鹹: 北方味也, 不淡, 鹽味); salted, preserved in brine; _ham shap_ (haam4 sap1 鹹濕) salacious; _ham ts'oi_ (haam4 coi3 鹹菜) sour-krout; _ham t'o_ (haam4 tou4-2 鹹桃), salted peaches. (Page 716 鹹) In a figurative sense, bitter, distressing, hard to bear; _shau kwan ham fu_ (sau6 gwaan3 haam4 fu2 受慣鹹苦), he has long been used to hardships. Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎, and corrected malformed 鹽 and 淡. 【鹹】 (heam) (_adjective-like_) salty 【鹹】 (haam4) Lewd, pornographic, erotic. 鹹片 (haam4 pin3-2): \"Pornographic video.\" 【鹹濕】 (haam4 sap1) Lewd, pornographic, erotic. 好鹹濕 (hou2 haam4 sap1): \"Very lewd\" (or erotic). 鹹濕鬼 (haam4 sap1 gwai2): \"Pervert.\""
 }
 },
 "陷":{

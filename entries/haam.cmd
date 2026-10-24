@@ -692,9 +692,6 @@ W
   ====
 C
   ==
-  - Williams prints the headword on Page~70 with the last stroke of 鹵 missing; here corrected.
-    (The character 鹹 appears correctly on Page~716 in the additional entry,
-    and on Page~828 in the character index.)
   - Fan Wan entry: Corrected 巳 to 口 in the component 咸 of headwords 鹹 and 醎,
     and corrected malformed 鹽 and 淡.
   ==

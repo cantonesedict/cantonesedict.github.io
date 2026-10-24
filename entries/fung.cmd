@@ -948,7 +948,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (2)泛]]
+  - [[Page~67 #4: (2)泛]]
     --
     [[Alternative form of 覂 (for the "overturn" sense). **See $覂fung2 for the canonical entry.**]]
     --
@@ -975,7 +975,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (2)泛; here normalised to 覂]]
+  - [[Page~67 #4: (2)泛; here normalised to 覂]]
     ==
     - To overthrow [[Kangxi 覂: 反覆也, 泛本作覂後通用耳]],
       to throw a rider, to "spill" him;
@@ -1050,7 +1050,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (2)諷 _(2)Fung_ (fung2); here corrected to _Fung(3)_ (fung3)]]
+  - [[Page~67 #1: (2)諷 _(2)Fung_ (fung2); here corrected to _Fung(3)_ (fung3)]]
     ==
     - To recite [[Kangxi: 誦也]] ~~or rehearse in a musical tone~~;
     - ~~recitative;~~
@@ -1440,7 +1440,7 @@ F
   ==
 W
   ====
-  - [[Page~67 奉(6)]]
+  - [[Page~67 #2: 奉(6)]]
     ==
     - To respectfully receive in both hands,
       to receive from a superior [[Kangxi: 承也 etc.]],
@@ -1537,7 +1537,7 @@ F
   ==
 W
   ====
-  - [[Page~67 鳳(6)]]
+  - [[Page~67 #3: 鳳(6)]]
     ==
     - A fabulous bird [[Kangxi: 神鳥也 etc.]],
       the male is called _fung(6)_ [[fung6 鳳]]^,

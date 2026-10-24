@@ -151,7 +151,7 @@ F
   ==
 W
   ====
-  - [[Page~67 ::(1)~~？~~``瘕``::]]
+  - [[Page~67 #7: (1)瘕]]
     ==
     - A difficulty in breathing;
     - _(1)h(a/) sau(3)_
@@ -165,8 +165,6 @@ W
   ====
 C
   ==
-  - Williams misprints the headword 瘕 with the 9th~stroke missing;
-    here corrected.
   - Fan Wan entry: Normalised {𠻳=⿰口敕} to 嗽.
   ==
 P
@@ -223,7 +221,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (1)蝦(1)鰕]]
+  - [[Page~67 #6: (1)蝦(1)鰕]]
     ==
     - A shrimp, prawn, crawfish [[Kangxi 蝦: 與鰕通 etc.]];
     - _(1)h(a/) (1)ch(')un_
@@ -302,7 +300,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (1)蝦(1)鰕]]
+  - [[Page~67 #6: (1)蝦(1)鰕]]
     --
     [[Alternative form of 蝦. **See $蝦haa1 for the canonical entry.**]]
     --
@@ -422,13 +420,13 @@ F
   ==
 W
   ====
-  - [[Page~67 ::(1)~~？~~``瘕``:: _(1)H(a/)_ (haa1); here corrected to _(4)H(a/)_ (haa4) and normalised to 瑕]]
+  - [[Page~67 #7: (1)瘕 _(1)H(a/)_ (haa1); here corrected to _(4)H(a/)_ (haa4) and normalised to 瑕]]
     ==
     - [[...]];
     - a ~~scar~~ ``blemish`` [[Kangxi 瘕: 與瑕同]];
     - [[...]].
     ==
-  - [[Page~67 ::(4)~~？~~``瑕``::]]
+  - [[Page~67 #9: ::(4)~~？~~``瑕``::]]
     ==
     - A blemish in a gem [[Kangxi 瑕: 玉玷也, 瑕玉之病也]];
     - a crack [[Kangxi 瑕: 瑕裂也]], a flaw;
@@ -564,7 +562,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (1)蝦(1)鰕]]
+  - [[Page~67 #6: (1)蝦(1)鰕]]
     --
     [[...]]
     --
@@ -616,7 +614,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (4)遐]]
+  - [[Page~67 #8: (4)遐]]
     ==
     - Remote, distant, far from [[Kangxi: 遠也]];
     - why``, how``;
@@ -624,7 +622,7 @@ W
         [[haa4 ji5 gaai1 zi1 遐邇皆知]],
         it is known by everybody.
     ==
-  - [[Page~67 ::(4)~~？~~``瑕``::; here normalised to 遐]]
+  - [[Page~67 #9: ::(4)~~？~~``瑕``::; here normalised to 遐]]
     ==
     - [[...]];
     - distant [[Kangxi 瑕: 遠也]], [[...]];
@@ -662,7 +660,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (4)霞]]
+  - [[Page~67 #10: (4)霞]]
     ==
     - Clouds tinged red [[Kangxi: 赤雲氣也 etc., 通作赮]];
     - vapor, smokiness;
@@ -717,7 +715,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (5)下]]
+  - [[Page~67 #11: (5)下]]
     --
     [[...]]
     --
@@ -755,7 +753,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~67 (5)吓]]
+  - [[Page~67 #12: (5)吓]]
     ==
     - Once, a time;
     - a while``, momentarily``;
@@ -870,7 +868,7 @@ F
   ==
 W
   ====
-  - [[Page~67 (5)下 _(5)H(a/)_ (haa5); here corrected to _H(a/)(6)_ (haa6)]]
+  - [[Page~67 #11: (5)下 _(5)H(a/)_ (haa5); here corrected to _H(a/)(6)_ (haa6)]]
     ==
     - To descend, to come down [[Kangxi: 降也自上而下也]];
     - _~~(5)h(a/)~~ ``h(a/)(6)`` (4)sh(u:)n_

@@ -69,7 +69,7 @@ F
   ==
 W
   ====
-  - [[Page~67 闊(8)]]
+  - [[Page~67 #5: 闊(8)]]
     ==
     - Broad, wide [[Kangxi: 廣也]], large;
     - ample;
