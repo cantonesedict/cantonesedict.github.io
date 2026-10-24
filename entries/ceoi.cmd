@@ -86,7 +86,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)催]]
+  - [[Page~598 #3: (1)催]]
     ==
     - To urge, to press, to egg on [[Kangxi: 促也迫也]];
     - to importune;
@@ -243,7 +243,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)崔]]
+  - [[Page~598 #2: (1)崔]]
     ==
     - Lofty, mountainous [[Kangxi: 高大也, 崔嵬也]];
     - rugged, as a hilly country;
@@ -388,7 +388,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)璀]]
+  - [[Page~598 #4: (1)璀]]
     ==
     - The lustre of a gem [[Kangxi: 璀璨玉光也]];
     - a gem hanging down, as from the girdle [[Kangxi: 璀璨珠垂貌]].
@@ -419,7 +419,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)衰(1)縗]]
+  - [[Page~598 #5: (1)衰(1)縗]]
     ==
     - The unhemmed, frayed edges of mourning clothes [[Kangxi 縗: 喪服也]], which are left so;
     - to ravel out;
@@ -499,7 +499,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (1)衰(1)縗]]
+  - [[Page~598 #5: (1)衰(1)縗]]
     --
     [[Alternative form of 縗. **See $縗ceoi1 for the canonical entry.**]]
     --
@@ -836,7 +836,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)漼 _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
+  - [[Page~598 #7: (4)漼 _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
     ==
     - Deep [[Kangxi: 深也]], clear water;
     - tears trickling down [[Kangxi: 涕垂貌]];
@@ -1574,7 +1574,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)摧]]
+  - [[Page~598 #6: (4)摧]]
     --
     [[Reading variation. **See $摧ceoi1 for the canonical entry.**]]
     --
@@ -1718,7 +1718,7 @@ F
   ==
 W
   ====
-  - [[Page~598 (4)漼]]
+  - [[Page~598 #7: (4)漼]]
     ==
     - [[...]];
     - snow drifted [[Kangxi: 漼溰雪霜積聚貌]];

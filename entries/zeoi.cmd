@@ -1351,7 +1351,7 @@ F
   ==
 W
   ====
-  - [[Page~598 足(7) read _Ts(u:)(6)_ (zeoi6); here corrected to _Ts(u:)(3)_ (zeoi3)]]
+  - [[Page~598 #8: 足(7) read _Ts(u:)(6)_ (zeoi6); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     --
     [[...]]
     --
@@ -1782,7 +1782,7 @@ F
   ==
 W
   ====
-  - [[Page~598 罪(6)辠(6)]]
+  - [[Page~598 #1: 罪(6)辠(6)]]
     ==
     - A bamboo net for fish [[Kangxi 罪: 捕魚竹罔]];
     - to become entangled in the net of the law;
@@ -2004,7 +2004,7 @@ F
   ==
 W
   ====
-  - [[Page~598 罪(6)辠(6)]]
+  - [[Page~598 #1: 罪(6)辠(6)]]
     --
     [[Alternative form of 罪. **See $罪zeoi6 for the canonical entry.**]]
     --

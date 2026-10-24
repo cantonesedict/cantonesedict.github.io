@@ -15228,6 +15228,81 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=8} Page~598
+    ,{#page-598-entry-1} #1
+    ,{.williams} 罪(6)辠(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $罪zeoi6
+      - ($辠zeoi6)
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-2} #2
+    ,{.williams} (1)崔
+    ,
+      <nav class="sideways">
+      ==
+      - $崔ceoi1
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-3} #3
+    ,{.williams} (1)催
+    ,
+      <nav class="sideways">
+      ==
+      - $催ceoi1
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-4} #4
+    ,{.williams} (1)璀
+    ,
+      <nav class="sideways">
+      ==
+      - $璀ceoi1
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-5} #5
+    ,{.williams} (1)衰(1)縗
+    ,
+      <nav class="sideways">
+      ==
+      - $縗ceoi1
+      - ($衰ceoi1)
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-6} #6
+    ,{.williams} (4)摧
+    ,
+      <nav class="sideways">
+      ==
+      - ($摧ceoi4)
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-7} #7
+    ,{.williams} (4)漼
+    ,
+      <nav class="sideways">
+      ==
+      - $漼ceoi2, $漼ceoi4
+      ==
+      </nav>
+  //
+    ,{#page-598-entry-8} #8
+    ,{.williams} 足(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $足zeoi3, $足zuk1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
