@@ -244,7 +244,7 @@ F
   ==
 W
   ====
-  - [[Page~43 化(3)]]
+  - [[Page~43 #1: 化(3)]]
     ==
     - To change, to influence so as to alter, to transform [[Kangxi: 化敎行也 etc.]];
     - to melt, to digest;

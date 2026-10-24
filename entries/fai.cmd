@@ -168,7 +168,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)揮]]
+  - [[Page~43 #2: (1)揮]]
     ==
     - To move, to shake [[Kangxi: 振也動也]];
     - to be agitated [[Kangxi: 奮也]];
@@ -257,7 +257,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)撝]]
+  - [[Page~43 #8: (1)撝]]
     ==
     - To rend open, to tear off [[Kangxi: 裂也]];
     - to point ~~out~~;
@@ -303,7 +303,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)暉]]
+  - [[Page~43 #5: (1)暉]]
     ==
     - Same as the two preceding [[輝, 煇]];
     - effulgent, glorious [[Kangxi: 光也]], as the sun.
@@ -336,7 +336,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)煇]]
+  - [[Page~43 #4: (1)煇]]
     --
     [[Alternative form of 輝. **See $輝fai1 for the canonical entry.**]]
     --
@@ -401,7 +401,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)翬]]
+  - [[Page~43 #7: (1)翬]]
     ==
     - To fly [[Kangxi: 大飛也]] with noise ``quickly`` [[Kangxi: 翬翬其飛疾羽聲也]];
     - a kind of colored pheasant [[Kangxi: 一曰伊洛而南雉五采皆備曰翬 etc.]];
@@ -443,7 +443,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)輝]]
+  - [[Page~43 #3: (1)輝]]
     ==
     - Brilliant, refulgent, glorious [[Kangxi: 光也火之光也]], like the sun;
     - to glisten;
@@ -454,7 +454,7 @@ W
         [[fai1 jin6 輝現]]
         exceedingly glorious.
     ==
-  - [[Page~43 (1)煇; here normalised to 輝]]
+  - [[Page~43 #4: (1)煇; here normalised to 輝]]
     ==
     - Luminous, splendid [[Kangxi 煇: 光也, 燿光也]], like fire [[Kangxi 煇: 火之光]];
     - _(1)fai (1)kwong_
@@ -510,7 +510,7 @@ F
   ==
 W
   ====
-  - [[Page~43 ::(1)~~{？=⿳隋𠆢氺}~~``隳``::]]
+  - [[Page~43 #10: ::(1)~~{？=⿳隋𠆢氺}~~``隳``::]]
     ==
     - To destroy, to overth``r``ow, to break [[Kangxi 隓: 俗作隳非, 廢也毀也損也, 亦作墮]];
     - to injure;
@@ -570,7 +570,7 @@ F
   ==
 W
   ====
-  - [[Page~43 (1)麾]]
+  - [[Page~43 #6: (1)麾]]
     ==
     - A signal or marking flag [[Kangxi: 旌旗之屬所以指麾也, 或作戲, 戲大將之旗]];
     - to make a signal, to motion to [[Kangxi: 與撝同以手指麾也]];

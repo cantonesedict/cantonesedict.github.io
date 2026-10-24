@@ -7346,6 +7346,89 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~43
+    ,{#page-43-entry-1} #1
+    ,{.williams} 化(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $化faa3
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-2} #2
+    ,{.williams} (1)揮
+    ,
+      <nav class="sideways">
+      ==
+      - $揮fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-3} #3
+    ,{.williams} (1)輝
+    ,
+      <nav class="sideways">
+      ==
+      - $輝fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-4} #4
+    ,{.williams} (1)煇
+    ,
+      <nav class="sideways">
+      ==
+      - ($煇fai1)
+      - $輝fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-5} #5
+    ,{.williams} (1)暉
+    ,
+      <nav class="sideways">
+      ==
+      - $暉fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-6} #6
+    ,{.williams} (1)麾
+    ,
+      <nav class="sideways">
+      ==
+      - $麾fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-7} #7
+    ,{.williams} (1)翬
+    ,
+      <nav class="sideways">
+      ==
+      - $翬fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-8} #8
+    ,{.williams} (1)撝
+    ,
+      <nav class="sideways">
+      ==
+      - $撝fai1
+      ==
+      </nav>
+  //
+    ,{#page-43-entry-10} #10
+    ,{.williams} (1){？=⿳隋𠆢氺}
+    ,
+      <nav class="sideways">
+      ==
+      - $隳fai1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
