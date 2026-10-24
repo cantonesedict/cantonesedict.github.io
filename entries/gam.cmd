@@ -22,6 +22,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 ==
 </nav>
 
+<## TODO: $感gam2 (⿱咸心 or ⿵咸心, extends) ##>
+
 <##
 $$
 W

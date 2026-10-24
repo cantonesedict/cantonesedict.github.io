@@ -140,6 +140,10 @@ R
   ⼼ + 11
 U
   U+617C
+H
+  May appear as either ⿱戚心 or ⿵戚心 (assumed here),
+  depending on the font.
+  This extends to all characters containing 慼 as a component.
 F
   ==
   - (F1.75 慼) 憂也
