@@ -155,7 +155,7 @@ F
   ==
 W
   ====
-  - [[Page~49 弗(7)]]
+  - [[Page~49 #11: 弗(7)]]
     ==
     - A negative [[Kangxi: 不也]];
     - not, it should not be, not permissible [[Kangxi: 不可也不然也]];
@@ -203,7 +203,7 @@ F
   ==
 W
   ====
-  - [[Page~49 彿(7)]]
+  - [[Page~49 #12: 彿(7)]]
     ==
     - Like, as if;
     - used in the phrase
@@ -356,7 +356,7 @@ F
   ==
 W
   ====
-  - [[Page~49 拂(7)]]
+  - [[Page~49 #13: 拂(7)]]
     ==
     - To brush, to wipe, to dust [[Kangxi: 去也拭也除也, 拂去塵埃也]];
     - to push away, [[...]];
@@ -751,7 +751,7 @@ F
   ==
 W
   ====
-  - [[Page~49 紼(7)]]
+  - [[Page~49 #15: 紼(7)]]
     ==
     - Raveled silk [[Kangxi: 亂糸也]];
     - [[...]];
@@ -853,7 +853,7 @@ W
         as _fat(7) fat(7)_ [[fat1 fat1 芾芾]]
         foliage abundant [[Kangxi: 草木翳薈也, 芾芾茂也]].
     ==
-  - [[Page~49 紼(7); here normalised to 芾]]
+  - [[Page~49 #15: 紼(7); here normalised to 芾]]
     ==
     - [[...]];
     - a ~~screen~~ ``covering for the knees`` [[Kangxi 紼: 與芾通, 紼者蔽也行以蔽前天子朱紼諸侯赤紼]];
@@ -902,7 +902,7 @@ F
   ==
 W
   ====
-  - [[Page~49 茀(7)]]
+  - [[Page~49 #14: 茀(7)]]
     ==
     - Brambles, or luxuriant herbage, concealing the path [[Kangxi: 道多草不可行, 茀茀茂也]];
     - happiness, luck [[Kangxi: 福也]];
@@ -1331,7 +1331,7 @@ F
   ==
 W
   ====
-  - [[Page~49 拂(7) _Fat(7)_ (fat1); here normalised to  _Fat(9)_ (fat6)]]
+  - [[Page~49 #13: 拂(7) _Fat(7)_ (fat1); here normalised to  _Fat(9)_ (fat6)]]
     ==
     - [[...]];
     - [[...]], to oppose [[Kangxi: 與咈通違也戾也]];

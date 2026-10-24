@@ -8099,6 +8099,145 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=15} Page~49
+    ,{#page-49-entry-1} #1
+    ,{.williams} 泛(3)汎(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $泛faan3
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-2} #2
+    ,{.williams} 氾(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $氾faan3
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-3} #3
+    ,{.williams} 畚(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $畈faan3
+      - ($畚faan3)
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-4} #4
+    ,{.williams} (2)坂
+    ,
+      <nav class="sideways">
+      ==
+      - ($坂faan2)
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-5} #5
+    ,{.williams} 販(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $販faan3
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-6} #6
+    ,{.williams} 犯(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $犯faan6
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-7} #7
+    ,{.williams} 范(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $範faan6
+      - $范faan6
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-8} #8
+    ,{.williams} 範(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $範faan6
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-9} #9
+    ,{.williams} 梵(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $梵faan4, ($梵faan6)
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-10} #10
+    ,{.williams} 飯(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $飯faan6
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-11} #11
+    ,{.williams} 弗(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $弗fat1
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-12} #12
+    ,{.williams} 彿(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $彿fat1
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-13} #13
+    ,{.williams} 拂(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $拂fat1, $拂fat6
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-14} #14
+    ,{.williams} 茀(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $茀fat1
+      ==
+      </nav>
+  //
+    ,{#page-49-entry-15} #15
+    ,{.williams} 紼(7)
+    ,
+      <nav class="sideways">
+      ==
+      - $紼fat1
+      - $芾fat1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

@@ -769,7 +769,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~49 (2)坂]]
+  - [[Page~49 #4: (2)坂]]
     --
     [[Alternative form of 阪, and reading variation. **See $阪baan2 for the canonical entry.**]] [[TODO]]
     --
@@ -928,7 +928,7 @@ F
   ==
 W
   ====
-  - [[Page~49 氾(3)]]
+  - [[Page~49 #2: 氾(3)]]
     ==
     - To overflow [[Kangxi: 水延漫也]], to fluctuate;
     - in motion, agitated [[Kangxi: 搖動貌]];
@@ -1035,7 +1035,7 @@ W
     --
     Used for the next character [[泛]].
     --
-  - [[Page~49 泛(3)汎(3)]]
+  - [[Page~49 #1: 泛(3)汎(3)]]
     ==
     - To float, to flow down [[Kangxi 泛: 浮也一曰流也通作汎]];
     - to transport;
@@ -1081,7 +1081,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~49 畚(3); here normalised to 畈]]
+  - [[Page~49 #3: 畚(3); here normalised to 畈]]
     <ins>
     --
     A colloquial word.
@@ -1128,7 +1128,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~49 畚(3)]]
+  - [[Page~49 #3: 畚(3)]]
     --
     [[Alternative form of 畈 (for the Cantonese "evil supernatural influences" sense). **See $畈faan3 for the canonical entry.**]]
     --
@@ -1162,7 +1162,7 @@ F
   ==
 W
   ====
-  - [[Page~49 販(3)]]
+  - [[Page~49 #5: 販(3)]]
     ==
     - To traffic, to deal in;
     - _f(a/)n(3) m(a/)i(6) (4)yan (2)hau_
@@ -1422,7 +1422,7 @@ F
   ==
 W
   ====
-  - [[Page~49 梵(6) _F(a/)n(6)_ (faan6); here normalised to _(4)F(a/)n_ (faan4)]]
+  - [[Page~49 #9: 梵(6) _F(a/)n(6)_ (faan6); here normalised to _(4)F(a/)n_ (faan4)]]
     ==
     - Name of a bonze;
     - the country of Magadha, whence Budha came;
@@ -2059,7 +2059,7 @@ F
   ==
 W
   ====
-  - [[Page~49 梵(6)]]
+  - [[Page~49 #9: 梵(6)]]
     --
     [[Reading variation. **See $梵faan4 for the canonical entry.**]]
     --
@@ -2132,7 +2132,7 @@ F
   ==
 W
   ====
-  - [[Page~49 犯(6)]]
+  - [[Page~49 #6: 犯(6)]]
     ==
     - To rush against [[Kangxi: 抵觸也]];
     - to offend [[Kangxi: 干也]];
@@ -2198,14 +2198,14 @@ F
   ==
 W
   ====
-  - [[Page~49 范(6)]]
+  - [[Page~49 #7: 范(6)]]
     --
     [[...]]
     --
     --
     Used for the following [[範]].
     --
-  - [[Page~49 範(6)]]
+  - [[Page~49 #8: 範(6)]]
     ==
     - A rule, a guide;
     - a custom, a usage;
@@ -2254,7 +2254,7 @@ F
   ==
 W
   ====
-  - [[Page~49 范(6)]]
+  - [[Page~49 #7: 范(6)]]
     ==
     - Herbs, grass [[Kangxi: 草也]];
     - a bee or wasp [[Kangxi: 蠭也]];
@@ -2324,7 +2324,7 @@ F
   ==
 W
   ====
-  - [[Page~49 飯(6)]]
+  - [[Page~49 #10: 飯(6)]]
     ==
     - Cooked rice;
     - a meal;
