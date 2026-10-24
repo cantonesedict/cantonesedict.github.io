@@ -14586,6 +14586,71 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=7} Page~590
+    ,{#page-590-entry-1} #1
+    ,{.williams} (1)啋
+    ,
+      <nav class="sideways">
+      ==
+      - $啋coi1
+      ==
+      </nav>
+  //
+    ,{#page-590-entry-2} #2
+    ,{.williams} (4)才
+    ,
+      <nav class="sideways">
+      ==
+      - $才coi4
+      - $材coi4
+      ==
+      </nav>
+  //
+    ,{#page-590-entry-3} #3
+    ,{.williams} (4)材
+    ,
+      <nav class="sideways">
+      ==
+      - $材coi4
+      ==
+      </nav>
+  //
+    ,{#page-590-entry-4} #4
+    ,{.williams} (4)財
+    ,
+      <nav class="sideways">
+      ==
+      - $財coi4
+      ==
+      </nav>
+  //
+    ,{#page-590-entry-5} #5
+    ,{.williams} (4)裁
+    ,
+      <nav class="sideways">
+      ==
+      - $裁coi4
+      ==
+      </nav>
+  //
+    ,{#page-590-entry-6} #6
+    ,{.williams} (4)纔
+    ,
+      <nav class="sideways">
+      ==
+      - $纔coi4
+      ==
+      </nav>
+  //
+    ,{#page-590-entry-7} #7
+    ,{.williams} (2)采
+    ,
+      <nav class="sideways">
+      ==
+      - $采coi2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

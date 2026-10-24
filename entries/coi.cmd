@@ -60,7 +60,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~590 (1)啋]]
+  - [[Page~590 #1: (1)啋]]
     --
     A colloquial word.
     --
@@ -403,7 +403,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (2)采]]
+  - [[Page~590 #7: (2)采]]
     --
     To be distinguished from 釆 _p(i/)n(6)_ [[bin6]] to divide.
     --
@@ -776,7 +776,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)才]]
+  - [[Page~590 #2: (4)才]]
     ==
     - [[...]];
     - talents, capacity, ability, powers [[Kangxi: 一曰能也, 質也力也]];
@@ -857,13 +857,13 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)才]]
+  - [[Page~590 #2: (4)才]]
     ==
     - Materials, stuff, or the substance of things,
       for which the next [[材]] is used;
     - [[...]].
     ==
-  - [[Page~590 (4)材]]
+  - [[Page~590 #3: (4)材]]
     ==
     - Materials of which things are made [[Kangxi: 五材金木水火土也 etc.]];
     - nature, qualities;
@@ -918,7 +918,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)纔]]
+  - [[Page~590 #6: (4)纔]]
     ==
     - An adverb of time;
     - near to, at hand, nearly reaching to;
@@ -966,7 +966,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)裁]]
+  - [[Page~590 #5: (4)裁]]
     ==
     - To make clothes, to cut out garments [[Kangxi: 制衣也]];
     - to tear, to cut off [[Kangxi: 裂也]];
@@ -1029,7 +1029,7 @@ F
   ==
 W
   ====
-  - [[Page~590 (4)財]]
+  - [[Page~590 #4: (4)財]]
     ==
     - Wealth, riches, valuables, property, possessions, goods,
       whatever men can use [[Kangxi: 人所寶也, 可入用者也, etc.]];
