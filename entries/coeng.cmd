@@ -521,7 +521,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~593 (1)瑲 _(1)Ts(')ong_ (cong1); here corrected to _(1)Ts(')(e/)ung_ (coeng1)]]
+  - [[Page~593 #10: (1)瑲 _(1)Ts(')ong_ (cong1); here corrected to _(1)Ts(')(e/)ung_ (coeng1)]]
     ==
     - [[...]];
     - a musical sound [[Kangxi: 玉聲也, 一曰樂聲]];

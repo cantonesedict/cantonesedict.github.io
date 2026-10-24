@@ -223,7 +223,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)牂]]
+  - [[Page~593 #3: (1)牂]]
     ==
     - A ~~ram or~~ ewe [[Kangxi: 牡羒牝牂]];
     - full, plenty [[Kangxi: 盛也]];
@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)臧]]
+  - [[Page~593 #1: (1)臧]]
     ==
     - Good [[Kangxi: 臧善也]], generous [[Kangxi: 厚也]];
     - virtuous, faithful;
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)贓(1)賍]]
+  - [[Page~593 #2: (1)贓(1)賍]]
     --
     [[Alternative form of 贓. **See $贓zong1 for the canonical entry.**]]
     --
@@ -657,7 +657,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)贓(1)賍]]
+  - [[Page~593 #2: (1)贓(1)賍]]
     ==
     - Booty, plunder, loot, stolen goods;
     - to receive bribes [[Kangxi 贓: 納賄曰贓]];
@@ -732,7 +732,7 @@ F
   ==
 W
   ====
-  - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
+  - [[Page~593 #4: ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     --
     [[Alternative form of 葬. **See $葬zong3 for the canonical entry.**]]
     --
@@ -834,7 +834,7 @@ F
   ==
 W
   ====
-  - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
+  - [[Page~593 #4: ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     ==
     - To bury, to inter, to put under the ground [[Kangxi 葬: 葬者藏也]];
     - _tsong(3) (4)m(a/)i_
@@ -1130,7 +1130,7 @@ F
   ==
 W
   ====
-  - [[Page~593 臟(6)]]
+  - [[Page~593 #5: 臟(6)]]
     ==
     - The viscera [[Kangxi: 五臟也 etc.]];
     - the entrails;
@@ -1197,7 +1197,7 @@ F
   ==
 W
   ====
-  - [[Page~593 藏(6)]]
+  - [[Page~593 #6: 藏(6)]]
     ==
     - A store-house, a retreat;
     - a strong-box, a casket;

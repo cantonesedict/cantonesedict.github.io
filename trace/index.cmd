@@ -14808,6 +14808,100 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~593
+    ,{#page-593-entry-1} #1
+    ,{.williams} (1)臧
+    ,
+      <nav class="sideways">
+      ==
+      - $臧zong1
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-2} #2
+    ,{.williams} (1)贓(1)賍
+    ,
+      <nav class="sideways">
+      ==
+      - ($賍zong1)
+      - $贓zong1
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-3} #3
+    ,{.williams} (1)牂
+    ,
+      <nav class="sideways">
+      ==
+      - $牂zong1
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-4} #4
+    ,{.williams} 葬(8)塟(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($塟zong3)
+      - $葬zong3
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-5} #5
+    ,{.williams} 臟(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $臟zong6
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-6} #6
+    ,{.williams} 藏(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $藏zong6
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-7} #7
+    ,{.williams} (1)倉
+    ,
+      <nav class="sideways">
+      ==
+      - $倉cong1
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-8} #8
+    ,{.williams} (1)蒼
+    ,
+      <nav class="sideways">
+      ==
+      - $倉cong1
+      - $蒼cong1
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-9} #9
+    ,{.williams} (1)滄
+    ,
+      <nav class="sideways">
+      ==
+      - $滄cong1
+      ==
+      </nav>
+  //
+    ,{#page-593-entry-10} #10
+    ,{.williams} (1)瑲
+    ,
+      <nav class="sideways">
+      ==
+      - $瑲coeng1, $瑲cong1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

@@ -84,7 +84,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)倉]]
+  - [[Page~593 #7: (1)倉]]
     ==
     - A granary [[Kangxi: 穀藏也]] of the government;
     - a storehouse;
@@ -114,7 +114,7 @@ W
     --
     [[Otherwise, an alternative form of 蒼. **See $蒼cong1 for the canonical entry.**]]
     --
-  - [[Page~593 (1)蒼; here normalised to 倉]]
+  - [[Page~593 #8: (1)蒼; here normalised to 倉]]
     ==
     - Occurs used for the last [[倉]], hastily;
     - [[...]];
@@ -225,7 +225,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)滄]]
+  - [[Page~593 #9: (1)滄]]
     ==
     - Vast like the sea;
     - name of a river and lake [[Kangxi: 水名, 河名, 湖名]];
@@ -258,7 +258,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)瑲]]
+  - [[Page~593 #10: (1)瑲]]
     ==
     - Color of gems [[Kangxi: 玉色]];
     - [[...]].
@@ -399,7 +399,7 @@ F
   ==
 W
   ====
-  - [[Page~593 (1)蒼]]
+  - [[Page~593 #8: (1)蒼]]
     ==
     - [[...]];
     - the green tint of plants [[Kangxi: 草色也]], or the azure of the sky;
