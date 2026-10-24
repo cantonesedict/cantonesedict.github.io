@@ -10572,6 +10572,99 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=10} Page~71
+    ,{#page-71-entry-1} #1
+    ,{.williams} (4)銜
+    ,
+      <nav class="sideways">
+      ==
+      - $銜haam4
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-2} #2
+    ,{.williams} (4){？=⿰口䣃}(4)㘅
+    ,
+      <nav class="sideways">
+      ==
+      - ($㘅haam4)
+      - $銜haam4
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-3} #3
+    ,{.williams} 喊(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $喊haam3
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-4} #4
+    ,{.williams} 陷(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($陷haam6)
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-5} #5
+    ,{.williams} 餡(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $餡haam6
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-6} #6
+    ,{.williams} (4)痕
+    ,
+      <nav class="sideways">
+      ==
+      - $痕han4
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-7} #7
+    ,{.williams} (2)懇
+    ,
+      <nav class="sideways">
+      ==
+      - $懇han2
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-8} #8
+    ,{.williams} (2)墾
+    ,
+      <nav class="sideways">
+      ==
+      - $墾han2
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-9} #9
+    ,{.williams} (2)很(2)狠
+    ,
+      <nav class="sideways">
+      ==
+      - $很han2
+      - $狠han2
+      ==
+      </nav>
+  //
+    ,{#page-71-entry-10} #10
+    ,{.williams} 恨(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $恨han6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

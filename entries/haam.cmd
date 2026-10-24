@@ -109,7 +109,7 @@ F
   ==
 W
   ====
-  - [[Page~71 喊(3)]]
+  - [[Page~71 #3: 喊(3)]]
     ==
     - To call, to halloo after, to call for, to vociferate [[Kangxi 嚂: 聲也亦與喊同]];
     - a call [[Kangxi: 喊聲也]];
@@ -378,7 +378,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (4){？=⿰口䣃}(4)㘅]]
+  - [[Page~71 #2: (4){？=⿰口䣃}(4)㘅]]
     --
     [[Alternative form of 銜. **See $銜haam4 for the canonical entry.**]]
     --
@@ -574,7 +574,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (4)銜]]
+  - [[Page~71 #1: (4)銜]]
     ==
     - Bit of a bridle [[Kangxi: 馬勒口中, 馬銜所以制之行也]];
     - to hold in the mouth [[Kangxi: 凡口含物曰銜]];
@@ -597,7 +597,7 @@ W
         [[haam4 han6 銜恨]]
         to restrain one's indignation.
     ==
-  - [[Page~71 (4){？=⿰口䣃}(4)㘅; here normalised to 銜]]
+  - [[Page~71 #2: (4){？=⿰口䣃}(4)㘅; here normalised to 銜]]
     ==
     - To hold in the mouth;
     - used for the preceding [[銜]] [[Kangxi 㘅: 同銜]];
@@ -805,7 +805,7 @@ F
   ==
 W
   ====
-  - [[Page~71 陷(6)]]
+  - [[Page~71 #4: 陷(6)]]
     --
     [[Reading variation. **See $陷ham6 for the canonical entry.**]] [[TODO]]
     --
@@ -848,7 +848,7 @@ F
   ==
 W
   ====
-  - [[Page~71 餡(6)]]
+  - [[Page~71 #5: 餡(6)]]
     ==
     - ~~Small flour cakes, like dumplings, with meat or fruit inside~~ ``The filling within flour cakes, dumplings, &c.`` [[Kangxi: 凡米麫食物坎其中實以雜味曰餡或作䭑]];
     - _~~(2)p(a/)u~~ ``(1)p(a/)u`` h(a/)m(6)_

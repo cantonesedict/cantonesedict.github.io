@@ -71,7 +71,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (2)墾]]
+  - [[Page~71 #8: (2)墾]]
     ==
     - To open new land [[Kangxi: 一曰開田用力反土也]], to plough, to cultivate [[Kangxi: 力治也]];
     - to injure [[Kangxi: 傷也如鉏墾之傷物也]];
@@ -125,7 +125,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (2)很(2)狠]]
+  - [[Page~71 #9: (2)很(2)狠]]
     ==
     - [[...]];
     - disobedient, perverse [[Kangxi 很: 不聽從也, 很違也]];
@@ -184,7 +184,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (2)懇]]
+  - [[Page~71 #7: (2)懇]]
     ==
     - To request, to beg, to ask as a favor;
     - importunate, truly, earnestly [[Kangxi: 悃也, 誠也, 信也, 或作貇, 款誠之意]];
@@ -235,7 +235,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (2)很(2)狠]]
+  - [[Page~71 #9: (2)很(2)狠]]
     ==
     <## TODO: correct to $狠waan4
     - Snarling of dogs [[Kangxi 狠: 犬鬭聲也]];
@@ -350,7 +350,7 @@ F
   ==
 W
   ====
-  - [[Page~71 (4)痕]]
+  - [[Page~71 #6: (4)痕]]
     ==
     - A scar, a cicatrix [[Kangxi: 胝瘢也, 瘢痕也]];
     - a mark, trace, or line left [[Kangxi: 凡物有迹者皆曰痕 etc.]];
@@ -422,7 +422,7 @@ F
   ==
 W
   ====
-  - [[Page~71 恨(6)]]
+  - [[Page~71 #10: 恨(6)]]
     ==
     - Indignation, resentment, dislike;
     - hatred [[Kangxi: 怨也]], spite;
