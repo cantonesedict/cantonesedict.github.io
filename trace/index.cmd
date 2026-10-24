@@ -16006,6 +16006,91 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~606
+    ,{#page-606-entry-1} #1
+    ,{.williams} 寸(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $寸cyun3
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-2} #2
+    ,{.williams} (1)宗
+    ,
+      <nav class="sideways">
+      ==
+      - $宗zung1
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-3} #3
+    ,{.williams} (1)悰
+    ,
+      <nav class="sideways">
+      ==
+      - ($悰zung1)
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-4} #4
+    ,{.williams} (1)棕(1)椶
+    ,
+      <nav class="sideways">
+      ==
+      - $棕zung1
+      - ($椶zung1)
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-5} #5
+    ,{.williams} (1)淙
+    ,
+      <nav class="sideways">
+      ==
+      - $淙zung1
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-6} #6
+    ,{.williams} (1)琮
+    ,
+      <nav class="sideways">
+      ==
+      - ($琮zung1)
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-7} #7
+    ,{.williams} (1)綜
+    ,
+      <nav class="sideways">
+      ==
+      - $綜zung1, $綜zung3
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-8} #8
+    ,{.williams} (1)踪(1)蹤
+    ,
+      <nav class="sideways">
+      ==
+      - ($踪zung1)
+      - $蹤zung1
+      ==
+      </nav>
+  //
+    ,{#page-606-entry-9} #9
+    ,{.williams} (1)縱
+    ,
+      <nav class="sideways">
+      ==
+      - $縱zung1
+      - $蹤zung1
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

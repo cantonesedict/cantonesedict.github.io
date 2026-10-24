@@ -203,7 +203,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)宗]]
+  - [[Page~606 #2: (1)宗]]
     ==
     - An ancestral temple [[Kangxi: 尊祖廟也]];
     - an ancestral tablet [[Kangxi: 宗者何宗有尊也爲先祖主也宗人之所尊也]];
@@ -367,7 +367,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)悰]]
+  - [[Page~606 #3: (1)悰]]
     --
     [[Reading variation. **See $悰cung4 for the canonical entry.**]]
     --
@@ -401,7 +401,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)棕(1)椶]]
+  - [[Page~606 #4: (1)棕(1)椶]]
     ==
     - A kind of gomuti palm, the _Chamœrops_ [[Kangxi 椶: 栟櫚也 etc.]],
       whose bracts furnish coir for ropes, mats, &c.;
@@ -437,7 +437,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)棕(1)椶]]
+  - [[Page~606 #4: (1)棕(1)椶]]
     --
     [[Alternative form of 棕. **See $棕zung1 for the canonical entry.**]]
     --
@@ -499,7 +499,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)淙]]
+  - [[Page~606 #5: (1)淙]]
     ==
     - The noise of water [[Kangxi: 水聲也]];
     - murmuring, flowing water [[Kangxi: 一曰水流貌]];
@@ -567,7 +567,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)琮]]
+  - [[Page~606 #6: (1)琮]]
     --
     [[Reading variation. **See $琮cung4 for the canonical entry.**]]
     --
@@ -737,7 +737,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)綜]]
+  - [[Page~606 #7: (1)綜]]
     ==
     - [[...]];
     - to hold the reins of authority [[Fan Wan: ::理也又[治]也::]].
@@ -784,7 +784,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)縱]]
+  - [[Page~606 #9: (1)縱]]
     ==
     - Perpendicularly, downward [[Kangxi: 縱橫也, 或作從]];
     - a meridian line [[Kangxi: 東西曰衡南北曰從]];
@@ -1033,7 +1033,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)踪(1)蹤]]
+  - [[Page~606 #8: (1)踪(1)蹤]]
     --
     [[Alternative form of 蹤. **See $蹤zung1 for the canonical entry.**]]
     --
@@ -1065,7 +1065,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)踪(1)蹤]]
+  - [[Page~606 #8: (1)踪(1)蹤]]
     ==
     - A vestige, a trace, a footstep [[Kangxi 蹤: 跡也, 從也人形從之也]];
     - to follow in the track of another;
@@ -1082,7 +1082,7 @@ W
         [[mou4 zung1 無蹤]],
         no trace of him.
     ==
-  - [[Page~606 (1)縱; here normalised to 蹤]]
+  - [[Page~606 #9: (1)縱; here normalised to 蹤]]
     ==
     - [[...]];
     - a vestige, a step [[Kangxi 縱: 與蹤通]];
@@ -2183,7 +2183,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)綜 _(1)Tsung_ (zung1); here corrected to _Tsung(3)_ (zung3)]]
+  - [[Page~606 #7: (1)綜 _(1)Tsung_ (zung1); here corrected to _Tsung(3)_ (zung3)]]
     ==
     - The harness of a loom [[Kangxi: 織縷也 etc.]];
     - to work the slaie, and arrange the patterns in weaving;

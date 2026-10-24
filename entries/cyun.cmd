@@ -741,7 +741,7 @@ F
   ==
 W
   ====
-  - [[Page~606 寸(3)]]
+  - [[Page~606 #1: 寸(3)]]
     ==
     - The Chinese inch [[Kangxi: 十分也]], regarded as long as the middle joint of the finger;
     - the tenth of a foot, and varies according to the _ch(')ek(8)_ [[cek3 尺]] [[Kangxi: 十寸爲一尺]]_;_
