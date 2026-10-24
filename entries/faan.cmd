@@ -81,7 +81,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~48 (2)反 _(2)F(a/)n_ (faan2); here normalised to _(1)F(a/)n_ (faan1)]]
+  - [[Page~48 #13: (2)反 _(2)F(a/)n_ (faan2); here normalised to _(1)F(a/)n_ (faan1)]]
     ==
     - [[...]];
     - _~~(2)f(a/)n~~ ``(1)f(a/)n`` ~~ts(i/)t~~ ``ts(')(i/)t(8)``_
@@ -329,7 +329,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)籓 _(4)F(a/)n_ (faan4); here normalised to _(1)F(a/)n_ (faan1)]]
+  - [[Page~48 #4: (4)籓 _(4)F(a/)n_ (faan4); here normalised to _(1)F(a/)n_ (faan1)]]
     ==
     - A dust basket or large sieve [[Kangxi: 大箕]];
     - to hide, to cover, to shade [[Kangxi: 一曰蔽也]].
@@ -493,7 +493,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~48 (4)藩(4)轓 _(4)F(a/)n_ (faan4); here corrected to _(1)F(a/)n_ (faan1)]]
+  - [[Page~48 #7: (4)藩(4)轓 _(4)F(a/)n_ (faan4); here corrected to _(1)F(a/)n_ (faan1)]]
     ==
     - [[...]];
     - a cover for a chariot [[Kangxi 轓: 轓車之蔽也]];
@@ -679,7 +679,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (2)反]]
+  - [[Page~48 #13: (2)反]]
     ==
     - To turn back, to return [[Kangxi: 反謂回還也]];
     - to be contrary, to rebel;
@@ -797,7 +797,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (2)㤆]]
+  - [[Page~48 #14: (2)㤆]]
     ==
     - Regret [[Kangxi: 悔也]];
     - _(2)f(a/)n f(u/)i(3)_
@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (2)返]]
+  - [[Page~48 #15: (2)返]]
     ==
     - To return, to come back [[Kangxi: 還也, 復也]];
     - to go back;
@@ -981,7 +981,7 @@ F
   ==
 W
   ====
-  - [[Page~48 汎(3)]]
+  - [[Page~48 #16: 汎(3)]]
     ==
     - To float [[Kangxi: 浮貌]];
     - driven by the wind [[Kangxi: 一曰任風波自縱也]];
@@ -1028,7 +1028,7 @@ F
   ==
 W
   ====
-  - [[Page~48 汎(3)]]
+  - [[Page~48 #16: 汎(3)]]
     --
     [[...]]
     --
@@ -1337,7 +1337,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)墦]]
+  - [[Page~48 #2: (4)墦]]
     ==
     - A grave [[Kangxi: 墦埌冢也]];
     - _(4)f(a/)n (1)k(a/)n_
@@ -1381,7 +1381,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)帆]]
+  - [[Page~48 #1: (4)帆]]
     ==
     - A sail of canvas [[Kangxi: 舟上幔以帆風]];
     - _kw(a/)(3) (4)f(a/)n_
@@ -1497,7 +1497,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)煩]]
+  - [[Page~48 #8: (4)煩]]
     ==
     - Troubled, annoyed, perplexed, heated [[Kangxi: 熱頭痛也]];
     - to trouble, to intrude on [[Kangxi: 干煩也, 煩勞也]];
@@ -1519,7 +1519,7 @@ W
         [[faan4 jiu2 煩擾]],
         interrupted, annoyed.
     ==
-  - [[Page~48 (4)繁; here corrected to 煩]]
+  - [[Page~48 #9: (4)繁; here corrected to 煩]]
     ==
     - [[...]];
     - _(4)'m noi(6) (4)f(a/)n_
@@ -1560,7 +1560,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)燔]]
+  - [[Page~48 #3: (4)燔]]
     ==
     - [[...]];
     - _(4)f(a/)n ~~chek(9)~~ ``chek(8)``_
@@ -1631,7 +1631,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)礬]]
+  - [[Page~48 #11: (4)礬]]
     ==
     - Mineral salts proper four painting or dyeing [[Kangxi: 礬石]];
     - _~~p(a/)k(8)~~ ``p(a/)k(9)`` (4)f(a/)n_
@@ -1671,7 +1671,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)籓]]
+  - [[Page~48 #4: (4)籓]]
     --
     [[Reading variation. **See $籓faan1 for the canonical entry.**]]
     --
@@ -1701,7 +1701,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)蕃; here normalised to 繁]]
+  - [[Page~48 #6: (4)蕃; here normalised to 繁]]
     ==
     - [[...]];
     - _(4)f(a/)n mau(6)_
@@ -1711,7 +1711,7 @@ W
         [[faan4 jin2 繁衍]],
         numerous progeny.
     ==
-  - [[Page~48 (4)繁]]
+  - [[Page~48 #9: (4)繁]]
     ==
     - Much, numerous [[Kangxi: 繁多也]];
     - many, confused, multitudinous [[Kangxi: 繁雜也]];
@@ -1769,12 +1769,12 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)燔; here normalised to 膰]]
+  - [[Page~48 #3: (4)燔; here normalised to 膰]]
     ==
     - To roast meat for sacrifices [[Kangxi 燔: 與膰通 etc.]];
     - [[...]].
     ==
-  - [[Page~48 (4)膰]]
+  - [[Page~48 #5: (4)膰]]
     ==
     - Meat roasted for sacrifice [[Kangxi: 宗廟火熟肉, 膰祭肉]];
     - the remnants of a sacrifice, sent to princes [[Kangxi: ::[...]以饋同姓諸侯::]].
@@ -1802,7 +1802,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)蕃]]
+  - [[Page~48 #6: (4)蕃]]
     ==
     - Plants growing luxuriantly [[Kangxi: 草茂也, 蕃滋也, 蕃息也]];
     - flourishing;
@@ -1853,7 +1853,7 @@ F
   ==
 W
   ====
-  - [[Page~48 ::(4)藩~~(4)轓~~::]]
+  - [[Page~48 #7: ::(4)藩~~(4)轓~~::]]
     ==
     - A fence [[Kangxi 藩: 籬也]], hedge, boundary;
     - a frontier;
@@ -1908,7 +1908,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)蘩]]
+  - [[Page~48 #10: (4)蘩]]
     ==
     - A kind of southernwood or Artemisia [[Kangxi: 白蒿也, 蘩皤蒿]],
       whose decoction is sprinkled on silkworm eggs to hasten their hatching [[Kangxi: 蘩所以生蠶, 蠶未出煑蘩以沃之則易出]];
@@ -1943,7 +1943,7 @@ F
   ==
 W
   ====
-  - [[Page~48 (4)蠜]]
+  - [[Page~48 #12: (4)蠜]]
     ==
     - A kind of cricket or grasshopper [[Kangxi: ::[蛗]螽蠜::]]~~, which goes by night~~.
     ==

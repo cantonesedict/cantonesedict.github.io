@@ -7949,6 +7949,156 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=16} Page~48
+    ,{#page-48-entry-1} #1
+    ,{.williams} (4)帆
+    ,
+      <nav class="sideways">
+      ==
+      - $帆faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-2} #2
+    ,{.williams} (4)墦
+    ,
+      <nav class="sideways">
+      ==
+      - $墦faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-3} #3
+    ,{.williams} (4)燔
+    ,
+      <nav class="sideways">
+      ==
+      - $燔faan4
+      - $膰faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-4} #4
+    ,{.williams} (4)籓
+    ,
+      <nav class="sideways">
+      ==
+      - $籓faan1, ($籓faan4)
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-5} #5
+    ,{.williams} (4)膰
+    ,
+      <nav class="sideways">
+      ==
+      - $膰faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-6} #6
+    ,{.williams} (4)蕃
+    ,
+      <nav class="sideways">
+      ==
+      - $繁faan4
+      - $蕃faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-7} #7
+    ,{.williams} (4)藩(4)轓
+    ,
+      <nav class="sideways">
+      ==
+      - $轓faan1
+      - $藩faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-8} #8
+    ,{.williams} (4)煩
+    ,
+      <nav class="sideways">
+      ==
+      - $煩faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-9} #9
+    ,{.williams} (4)繁
+    ,
+      <nav class="sideways">
+      ==
+      - $煩faan4
+      - $繁faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-10} #10
+    ,{.williams} (4)蘩
+    ,
+      <nav class="sideways">
+      ==
+      - $蘩faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-11} #11
+    ,{.williams} (4)礬
+    ,
+      <nav class="sideways">
+      ==
+      - $礬faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-12} #12
+    ,{.williams} (4)蠜
+    ,
+      <nav class="sideways">
+      ==
+      - $蠜faan4
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-13} #13
+    ,{.williams} (2)反
+    ,
+      <nav class="sideways">
+      ==
+      - $反faan1, $反faan2
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-14} #14
+    ,{.williams} (2)㤆
+    ,
+      <nav class="sideways">
+      ==
+      - $㤆faan2
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-15} #15
+    ,{.williams} (2)返
+    ,
+      <nav class="sideways">
+      ==
+      - $返faan2
+      ==
+      </nav>
+  //
+    ,{#page-48-entry-16} #16
+    ,{.williams} 汎(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $汎faan3
+      - $泛faan3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

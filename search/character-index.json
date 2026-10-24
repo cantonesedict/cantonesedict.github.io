@@ -7405,12 +7405,12 @@
 "faan1":{
 "isCanonical":true,
 "williams":"(1)f(a/)n",
-"text":"U+53CD 仮 (for an octave lower in the musical sense) 𢓉 (for an octave higher in the musical sense) faan2 (alternative for phonetics sense) (Page 48 反 _Fan_ (faan2); here normalised to _Fan_ (faan1)) _fan ~~tsit~~ ts'it_ (faan1 cit3 反切), to spell, to combine sounds; Williams' 反切: Corrected _tsit_ (zit) to _ts'it_ (cit3). Used in 反切 (back-dissection) or alone, referring to the method of indicating (Middle) Chinese pronunciation by two characters, marking the initial (consonant) and the final (rime) respectively. 【反-level】 (phjon) (_verb-like_) to flip, to overturn Used in 反切. 【反切】 (phjon tshet) (_noun-like_) back-dissection 【反】 (faan1) (_music_) Rough equivalent of solfege _fa_ half-sharp in 工尺譜 (Gongche notation)."
+"text":"U+53CD 仮 (for an octave lower in the musical sense) 𢓉 (for an octave higher in the musical sense) faan2 (alternative for phonetics sense) (Page 48 #13: 反 _Fan_ (faan2); here normalised to _Fan_ (faan1)) _fan ~~tsit~~ ts'it_ (faan1 cit3 反切), to spell, to combine sounds; Williams' 反切: Corrected _tsit_ (zit) to _ts'it_ (cit3). Used in 反切 (back-dissection) or alone, referring to the method of indicating (Middle) Chinese pronunciation by two characters, marking the initial (consonant) and the final (rime) respectively. 【反-level】 (phjon) (_verb-like_) to flip, to overturn Used in 反切. 【反切】 (phjon tshet) (_noun-like_) back-dissection 【反】 (faan1) (_music_) Rough equivalent of solfege _fa_ half-sharp in 工尺譜 (Gongche notation)."
 },
 "faan2":{
 "isCanonical":true,
 "williams":"(2)f(a/)n",
-"text":"U+53CD 阪 (F2.69 反) 反覆不順也 (Page 48 反) To turn back, to return (Kangxi: 反謂回還也); to be contrary, to rebel; to combine against; opposed to, but, contrary; again; _fan fuk_ (faan2 fuk1 反覆) repetition, to and fro, to retract; _seung fan_ (soeng1 faan2 相反), discordant; opposite, contrariwise; _tsok fan_ (zok3 faan2 作反), to rebel; _fan chiu_ (faan2 ziu3 反照) to reflect light; _fan min_ (faan2 min6-2 反面) to turn a cold shoulder; _fan kwat_ (faan2 gwat1 反骨) to backbite; _fan chun_ (faan2 zyun3 反轉), to turn over; _fan tau_ (faan2 dau2 反斗) clamor and play of children; _fan hau_ (faan2 hau2 反口) to unsay, to recant; _fan wai it shik_ (faan2 wai6 jit3 sik6 反胃噎食) the stomach rejects food. Williams' 反覆: Corrected _fuk_ (fuk6) to _fuk_ (fuk1). Williams' 反照: Corrected _chiu_ (ziu6) to _chiu_ (ziu3). Williams' 反轉: Corrected _chun_ (zyun2) to _chun_ (zyun3). Williams' 反斗: Corrected _tau_ (dau3) to _tau_ (dau2). Hence 玩具反斗城 for Toys \"R\" Us (with 反斗 being a pun on the flipped R in English). Williams' 反胃噎食: Corrected _it_ (jit6) to _it_ (jit3). To overturn (Kangxi: 覆也). Contrariwise. To reflect. 【反-rising】 (pjonX) (_verb-like_) to turn (over), to turn (back) (_verb-like_) to revolt (_adverb-like_) contrariwise Used in 反覆."
+"text":"U+53CD 阪 (F2.69 反) 反覆不順也 (Page 48 #13: 反) To turn back, to return (Kangxi: 反謂回還也); to be contrary, to rebel; to combine against; opposed to, but, contrary; again; _fan fuk_ (faan2 fuk1 反覆) repetition, to and fro, to retract; _seung fan_ (soeng1 faan2 相反), discordant; opposite, contrariwise; _tsok fan_ (zok3 faan2 作反), to rebel; _fan chiu_ (faan2 ziu3 反照) to reflect light; _fan min_ (faan2 min6-2 反面) to turn a cold shoulder; _fan kwat_ (faan2 gwat1 反骨) to backbite; _fan chun_ (faan2 zyun3 反轉), to turn over; _fan tau_ (faan2 dau2 反斗) clamor and play of children; _fan hau_ (faan2 hau2 反口) to unsay, to recant; _fan wai it shik_ (faan2 wai6 jit3 sik6 反胃噎食) the stomach rejects food. Williams' 反覆: Corrected _fuk_ (fuk6) to _fuk_ (fuk1). Williams' 反照: Corrected _chiu_ (ziu6) to _chiu_ (ziu3). Williams' 反轉: Corrected _chun_ (zyun2) to _chun_ (zyun3). Williams' 反斗: Corrected _tau_ (dau3) to _tau_ (dau2). Hence 玩具反斗城 for Toys \"R\" Us (with 反斗 being a pun on the flipped R in English). Williams' 反胃噎食: Corrected _it_ (jit6) to _it_ (jit3). To overturn (Kangxi: 覆也). Contrariwise. To reflect. 【反-rising】 (pjonX) (_verb-like_) to turn (over), to turn (back) (_verb-like_) to revolt (_adverb-like_) contrariwise Used in 反覆."
 },
 "faan6":{
 "isCanonical":true,
@@ -7448,12 +7448,12 @@
 "faan1":{
 "isCanonical":true,
 "williams":"(1)f(a/)n",
-"text":"U+7C53 faan4 (per Fan Wan) (F2.67 籓 _Fan_ (faan4)) 大箕也又蔽也 (Page 48 籓 _Fan_ (faan4); here normalised to _Fan_ (faan1)) A dust basket or large sieve (Kangxi: 大箕); to hide, to cover, to shade (Kangxi: 一曰蔽也)."
+"text":"U+7C53 faan4 (per Fan Wan) (F2.67 籓 _Fan_ (faan4)) 大箕也又蔽也 (Page 48 #4: 籓 _Fan_ (faan4); here normalised to _Fan_ (faan1)) A dust basket or large sieve (Kangxi: 大箕); to hide, to cover, to shade (Kangxi: 一曰蔽也)."
 },
 "faan4":{
 "isCanonical":false,
 "williams":"(4)f(a/)n",
-"text":"U+7C53 (F2.67 籓) 大箕也又蔽也 (Page 48 籓)"
+"text":"U+7C53 (F2.67 籓) 大箕也又蔽也 (Page 48 #4: 籓)"
 }
 },
 "繙":{
@@ -7479,7 +7479,7 @@
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+8543 (F2.67 蕃) 茂也滋也息也 (Page 48 蕃) Plants growing luxuriantly (Kangxi: 草茂也, 蕃滋也, 蕃息也); flourishing; plenty; many; ~~to settle;~~ 【蕃】 (bjon) (_adjective-like_) luxuriant, flourishing"
+"text":"U+8543 (F2.67 蕃) 茂也滋也息也 (Page 48 #6: 蕃) Plants growing luxuriantly (Kangxi: 草茂也, 蕃滋也, 蕃息也); flourishing; plenty; many; ~~to settle;~~ 【蕃】 (bjon) (_adjective-like_) luxuriant, flourishing"
 }
 },
 "藩":{
@@ -7491,14 +7491,14 @@
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+85E9 蕃 faan1 (per 《廣韻》甫煩切) (F2.67 藩) 藩籬藩屏藩垣 (Page 48 藩~~轓~~) A fence (Kangxi 藩: 籬也), hedge, boundary; a frontier; ~~to ward off,~~ to protect, to screen; _fan li_ (faan4 lei4 藩籬), a wattle or hurdle; _fan wik_ (faan4 wik6 藩域) the frontiers; _fan t'oi_ (faan4 toi4 藩臺), the treasurer of a province; _fan un_ (faan4 wun4 藩垣), a wall inclosing; _fan p'ing_ (faan4 ping4 藩屏), a screen; a statesman. A screen (Kangxi 藩: 與蕃通屛也). 【藩】 (pjon) (_noun-like_) fence (_noun-like_) screen"
+"text":"U+85E9 蕃 faan1 (per 《廣韻》甫煩切) (F2.67 藩) 藩籬藩屏藩垣 (Page 48 #7: 藩~~轓~~) A fence (Kangxi 藩: 籬也), hedge, boundary; a frontier; ~~to ward off,~~ to protect, to screen; _fan li_ (faan4 lei4 藩籬), a wattle or hurdle; _fan wik_ (faan4 wik6 藩域) the frontiers; _fan t'oi_ (faan4 toi4 藩臺), the treasurer of a province; _fan un_ (faan4 wun4 藩垣), a wall inclosing; _fan p'ing_ (faan4 ping4 藩屏), a screen; a statesman. A screen (Kangxi 藩: 與蕃通屛也). 【藩】 (pjon) (_noun-like_) fence (_noun-like_) screen"
 }
 },
 "轓":{
 "faan1":{
 "isCanonical":true,
 "williams":"(1)f(a/)n",
-"text":"U+8F53 藩 (Page 48 藩轓 _Fan_ (faan4); here corrected to _Fan_ (faan1)) a cover for a chariot (Kangxi 轓: 轓車之蔽也); a covered car; A large storage compartment of a chariot (Kangxi 轓: 車大箱也). 【轓】 (pjon, phjon) (_noun-like_) chariot-cover"
+"text":"U+8F53 藩 (Page 48 #7: 藩轓 _Fan_ (faan4); here corrected to _Fan_ (faan1)) a cover for a chariot (Kangxi 轓: 轓車之蔽也); a covered car; A large storage compartment of a chariot (Kangxi 轓: 車大箱也). 【轓】 (pjon, phjon) (_noun-like_) chariot-cover"
 }
 },
 "返":{
@@ -7510,7 +7510,7 @@
 "faan2":{
 "isCanonical":true,
 "williams":"(2)f(a/)n",
-"text":"U+8FD4 反 (F2.69 返) 還也 (Page 48 返) To return, to come back (Kangxi: 還也, 復也); to go back; _fan hiu heung ha_ (faan2 hiu1 hoeng1 haa6-2 返嘵鄉下), gone to his village; _fan hu kwai_ (faan2 heoi3 gwai1 返去歸), gone home; _wong fan ki yat_ (wong5 faan2 gei2 jat6 往返幾日) how many days will you be gone? Williams' 返嘵鄉下: Corrected _hiu_ (hiu4) to _hiu_ (hiu1) and changed (very) obsolete _ha_ (haa5) to _ha_ (haa6-2). Williams' 返去歸: Corrected _kwai_ (gwai4) to _kwai_ (gwai1). Williams' 往返幾日: Corrected _wong_ (wong2) to _wong_ (wong5). All three examples read like they belong under 返 faan1 instead. 【返】 (pjonX) (_verb-like_) to turn (back)"
+"text":"U+8FD4 反 (F2.69 返) 還也 (Page 48 #15: 返) To return, to come back (Kangxi: 還也, 復也); to go back; _fan hiu heung ha_ (faan2 hiu1 hoeng1 haa6-2 返嘵鄉下), gone to his village; _fan hu kwai_ (faan2 heoi3 gwai1 返去歸), gone home; _wong fan ki yat_ (wong5 faan2 gei2 jat6 往返幾日) how many days will you be gone? Williams' 返嘵鄉下: Corrected _hiu_ (hiu4) to _hiu_ (hiu1) and changed (very) obsolete _ha_ (haa5) to _ha_ (haa6-2). Williams' 返去歸: Corrected _kwai_ (gwai4) to _kwai_ (gwai1). Williams' 往返幾日: Corrected _wong_ (wong2) to _wong_ (wong5). All three examples read like they belong under 返 faan1 instead. 【返】 (pjonX) (_verb-like_) to turn (back)"
 }
 },
 "飜":{
@@ -7531,7 +7531,7 @@
 "faan2":{
 "isCanonical":true,
 "williams":"(2)f(a/)n",
-"text":"U+3906 faan3 (per 《廣韻》芳万切 and 《集韻》孚萬切) (F2.69 㤆) 㤆悔謂事旣成而生背心 (Page 48 㤆) Regret (Kangxi: 悔也); _fan fui_ (faan2 fui3 㤆悔) to regret an act; _fan chun min p'i_ (faan2 zyun2 min6 pei4 㤆轉面皮), to change the countenance; _fan sam_ (faan2 sam1 㤆心), sorry for. The other definitions given in Kangxi (惡心也急性也 and 急也) are not particularly illuminating."
+"text":"U+3906 faan3 (per 《廣韻》芳万切 and 《集韻》孚萬切) (F2.69 㤆) 㤆悔謂事旣成而生背心 (Page 48 #14: 㤆) Regret (Kangxi: 悔也); _fan fui_ (faan2 fui3 㤆悔) to regret an act; _fan chun min p'i_ (faan2 zyun2 min6 pei4 㤆轉面皮), to change the countenance; _fan sam_ (faan2 sam1 㤆心), sorry for. The other definitions given in Kangxi (惡心也急性也 and 急也) are not particularly illuminating."
 }
 },
 "阪":{
@@ -7562,14 +7562,14 @@
 "faan3":{
 "isCanonical":true,
 "williams":"f(a/)n(3)",
-"text":"U+6C4E fung4 (alternative per 《廣韻》房戎切) (F2.70 泛) 廣也泛濫也 (F2.70 汎) 廣也又汎舟 (F2.70 氾) 氾濫水溢也 (Page 48 汎) To float (Kangxi: 浮貌); driven by the wind (Kangxi: 一曰任風波自縱也); name of a river (Kangxi: 水名). Fan Wan entry: Corrected headword 㲹 to 汎. 【汎】 (phjomH, bjuwng) (_verb-like_) to float (about)"
+"text":"U+6C4E fung4 (alternative per 《廣韻》房戎切) (F2.70 泛) 廣也泛濫也 (F2.70 汎) 廣也又汎舟 (F2.70 氾) 氾濫水溢也 (Page 48 #16: 汎) To float (Kangxi: 浮貌); driven by the wind (Kangxi: 一曰任風波自縱也); name of a river (Kangxi: 水名). Fan Wan entry: Corrected headword 㲹 to 汎. 【汎】 (phjomH, bjuwng) (_verb-like_) to float (about)"
 }
 },
 "泛":{
 "faan3":{
 "isCanonical":true,
 "williams":"f(a/)n(3)",
-"text":"U+6CDB 氾 汎 faan6 (common) (F2.70 泛) 廣也泛濫也 (F2.70 汎) 廣也又汎舟 (F2.70 氾) 氾濫水溢也 (Page 48 汎) Used for the next character (泛). (Page 49 泛汎) To float, to flow down (Kangxi 泛: 浮也一曰流也通作汎); to transport; extensive (Kangxi 氾: 普博也, 氾廣也); to spill over; _fau fan_ (fau4 faan3 浮泛) to float, superficial; _fan in_ (faan3 jin4 泛言), vague words; _fan chau_ (faan3 zau1 泛舟), to sail in a boat; _fan in_ (faan3 jin4 泛？), lightminded. Fan Wan entry: Corrected headword 㲹 to 汎."
+"text":"U+6CDB 氾 汎 faan6 (common) (F2.70 泛) 廣也泛濫也 (F2.70 汎) 廣也又汎舟 (F2.70 氾) 氾濫水溢也 (Page 48 #16: 汎) Used for the next character (泛). (Page 49 泛汎) To float, to flow down (Kangxi 泛: 浮也一曰流也通作汎); to transport; extensive (Kangxi 氾: 普博也, 氾廣也); to spill over; _fau fan_ (fau4 faan3 浮泛) to float, superficial; _fan in_ (faan3 jin4 泛言), vague words; _fan chau_ (faan3 zau1 泛舟), to sail in a boat; _fan in_ (faan3 jin4 泛？), lightminded. Fan Wan entry: Corrected headword 㲹 to 汎."
 },
 "faan6":{
 "isCanonical":false,
@@ -7626,14 +7626,14 @@
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+58A6 (F2.67 墦) 墦間塚也 (Page 48 墦) A grave (Kangxi: 墦埌冢也); _fan kan_ (faan4 gaan1 墦間), at the graves, a sepulchre. Fan Wan entry: Fixed missing stroke in 間, and corrected 塜 to 塚. 【墦】 (bjon) (_noun-like_) grave"
+"text":"U+58A6 (F2.67 墦) 墦間塚也 (Page 48 #2: 墦) A grave (Kangxi: 墦埌冢也); _fan kan_ (faan4 gaan1 墦間), at the graves, a sepulchre. Fan Wan entry: Fixed missing stroke in 間, and corrected 塜 to 塚. 【墦】 (bjon) (_noun-like_) grave"
 }
 },
 "帆":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+5E06 㠶 䑺 颿 faan6 (per 《廣韻》扶泛切 for verb sense) (F2.68 帆) 風帆 (Page 48 帆) A sail of canvas (Kangxi: 舟上幔以帆風); _kwa fan_ (gwaa3 faan4 掛帆), to hoist sail; _fan po_ (faan4 bou3 帆布) canvas. 【帆-level】 (bjom) (_noun-like_) sail 【帆-departing】 (bjomH) (_verb-like_) to sail"
+"text":"U+5E06 㠶 䑺 颿 faan6 (per 《廣韻》扶泛切 for verb sense) (F2.68 帆) 風帆 (Page 48 #1: 帆) A sail of canvas (Kangxi: 舟上幔以帆風); _kwa fan_ (gwaa3 faan4 掛帆), to hoist sail; _fan po_ (faan4 bou3 帆布) canvas. 【帆-level】 (bjom) (_noun-like_) sail 【帆-departing】 (bjomH) (_verb-like_) to sail"
 }
 },
 "梵":{
@@ -7652,49 +7652,49 @@
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+7169 烦 (Mainland simplified) faan4-2 (rising second in vernacular 煩煩地) (F2.68 煩) 勞也擾也 (Page 48 煩) Troubled, annoyed, perplexed, heated (Kangxi: 熱頭痛也); to trouble, to intrude on (Kangxi: 干煩也, 煩勞也); troublesome, impertinent; grieved, sorry (Kangxi: 悶也); _to fan ni_ (do1 faan4 nei5 多煩你), I trouble you; _fan tai_ (faan4 daai3 煩帶) I trouble you to take this; _fan lo_ (faan4 lou4 煩勞), to trouble one to do a thing; _fan mun_ (faan4 mun6 煩悶) perplexed, grieved; _fan iu_ (faan4 jiu2 煩擾), interrupted, annoyed. (Page 48 繁; here corrected to 煩) _'m noi fan_ (m4 noi6 faan4 唔耐煩), unwilling to be troubled, can not endure; Williams' 煩擾: Changed _iu_ (jiu5) to common reading _iu_ (jiu2). Complex (Kangxi: 不簡也). 【煩】 (bjon) (_verb-like_) to vex, to bother (_adjective-like_) vexed, bothered (_adjective-like_) vexatious, bothersome"
+"text":"U+7169 烦 (Mainland simplified) faan4-2 (rising second in vernacular 煩煩地) (F2.68 煩) 勞也擾也 (Page 48 #8: 煩) Troubled, annoyed, perplexed, heated (Kangxi: 熱頭痛也); to trouble, to intrude on (Kangxi: 干煩也, 煩勞也); troublesome, impertinent; grieved, sorry (Kangxi: 悶也); _to fan ni_ (do1 faan4 nei5 多煩你), I trouble you; _fan tai_ (faan4 daai3 煩帶) I trouble you to take this; _fan lo_ (faan4 lou4 煩勞), to trouble one to do a thing; _fan mun_ (faan4 mun6 煩悶) perplexed, grieved; _fan iu_ (faan4 jiu2 煩擾), interrupted, annoyed. (Page 48 #9: 繁; here corrected to 煩) _'m noi fan_ (m4 noi6 faan4 唔耐煩), unwilling to be troubled, can not endure; Williams' 煩擾: Changed _iu_ (jiu5) to common reading _iu_ (jiu2). Complex (Kangxi: 不簡也). 【煩】 (bjon) (_verb-like_) to vex, to bother (_adjective-like_) vexed, bothered (_adjective-like_) vexatious, bothersome"
 }
 },
 "燔":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+71D4 (F2.67 燔) 熱炙也 (Page 48 燔) _fan chek_ (faan4 zek3 燔炙) to roast meat. Fan Wan entry: Normalised 𤍠 to 熱. Williams' 燔炙: Corrected _chek_ (zek6) to _chek_ (zek3). To roast, to burn (Kangxi: 爇也, 燒也, 炙也). 【燔】 (bjon) (_verb-like_) to roast, to burn"
+"text":"U+71D4 (F2.67 燔) 熱炙也 (Page 48 #3: 燔) _fan chek_ (faan4 zek3 燔炙) to roast meat. Fan Wan entry: Normalised 𤍠 to 熱. Williams' 燔炙: Corrected _chek_ (zek6) to _chek_ (zek3). To roast, to burn (Kangxi: 爇也, 燒也, 炙也). 【燔】 (bjon) (_verb-like_) to roast, to burn"
 }
 },
 "礬":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+792C 矾 (Mainland simplified) (F2.68 礬) 白礬 (Page 48 礬) Mineral salts proper four painting or dyeing (Kangxi: 礬石); _pak fan_ (baak6 faan4 白礬), alum; _ts'ing fan_ (cing1 faan4 青礬), copperas; _fan shek_ (faan4 sek6 礬石) alum shale; _tam fan_ (daam2 faan4 膽礬), blue vitriol; _~~fu~~ fui fan_ (fui1 faan4 灰礬), alum ash. Williams' 白礬: Corrected _pak_ (baak3) to _pak_ (baak6). Williams' 灰礬: Corrected _fu_ (fu1) to _fui_ (fui1)."
+"text":"U+792C 矾 (Mainland simplified) (F2.68 礬) 白礬 (Page 48 #11: 礬) Mineral salts proper four painting or dyeing (Kangxi: 礬石); _pak fan_ (baak6 faan4 白礬), alum; _ts'ing fan_ (cing1 faan4 青礬), copperas; _fan shek_ (faan4 sek6 礬石) alum shale; _tam fan_ (daam2 faan4 膽礬), blue vitriol; _~~fu~~ fui fan_ (fui1 faan4 灰礬), alum ash. Williams' 白礬: Corrected _pak_ (baak3) to _pak_ (baak6). Williams' 灰礬: Corrected _fu_ (fu1) to _fui_ (fui1)."
 }
 },
 "繁":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+7E41 煩 䋣 蕃 (F2.68 繁) 多也 (Page 48 蕃; here normalised to 繁) _fan mau_ (faan4 mau6 繁茂), abundant, prosperous; _fan in_ (faan4 jin2 繁衍), numerous progeny. (Page 48 繁) Much, numerous (Kangxi: 繁多也); many, confused, multitudinous (Kangxi: 繁雜也); a variety of affairs; _fan nan_ (faan4 naan4 繁難), wearisome; _fan wa_ (faan4 waa4 繁華), pomp, show; _fan fai_ (faan4 fai3 繁費) expensive. Complex. Abundant, flourishing (Kangxi: 繁猶盛也). 【繁】 (bjon) (_adjective-like_) abundant, manifold"
+"text":"U+7E41 煩 䋣 蕃 (F2.68 繁) 多也 (Page 48 #6: 蕃; here normalised to 繁) _fan mau_ (faan4 mau6 繁茂), abundant, prosperous; _fan in_ (faan4 jin2 繁衍), numerous progeny. (Page 48 #9: 繁) Much, numerous (Kangxi: 繁多也); many, confused, multitudinous (Kangxi: 繁雜也); a variety of affairs; _fan nan_ (faan4 naan4 繁難), wearisome; _fan wa_ (faan4 waa4 繁華), pomp, show; _fan fai_ (faan4 fai3 繁費) expensive. Complex. Abundant, flourishing (Kangxi: 繁猶盛也). 【繁】 (bjon) (_adjective-like_) abundant, manifold"
 }
 },
 "膰":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+81B0 燔 㸋 (F2.67 膰) 祭餘肉也 (Page 48 燔; here normalised to 膰) To roast meat for sacrifices (Kangxi 燔: 與膰通 etc.); (Page 48 膰) Meat roasted for sacrifice (Kangxi: 宗廟火熟肉, 膰祭肉); the remnants of a sacrifice, sent to princes (Kangxi: ...以饋同姓諸侯). 【膰】 (bjon) (_noun-like_) sacrificial-roast"
+"text":"U+81B0 燔 㸋 (F2.67 膰) 祭餘肉也 (Page 48 #3: 燔; here normalised to 膰) To roast meat for sacrifices (Kangxi 燔: 與膰通 etc.); (Page 48 #5: 膰) Meat roasted for sacrifice (Kangxi: 宗廟火熟肉, 膰祭肉); the remnants of a sacrifice, sent to princes (Kangxi: ...以饋同姓諸侯). 【膰】 (bjon) (_noun-like_) sacrificial-roast"
 }
 },
 "蘩":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+8629 (F2.68 蘩) 草名白蒿也 (Page 48 蘩) A kind of southernwood or Artemisia (Kangxi: 白蒿也, 蘩皤蒿), whose decoction is sprinkled on silkworm eggs to hasten their hatching (Kangxi: 蘩所以生蠶, 蠶未出煑蘩以沃之則易出); _fan ho_ (faan4 hou1 蘩蒿), a plant grown like celery, and pickled in winter. Williams' 蘩蒿: This is dubious. 【蘩】 (bjon) (_noun-like_) hoary-mugwort"
+"text":"U+8629 (F2.68 蘩) 草名白蒿也 (Page 48 #10: 蘩) A kind of southernwood or Artemisia (Kangxi: 白蒿也, 蘩皤蒿), whose decoction is sprinkled on silkworm eggs to hasten their hatching (Kangxi: 蘩所以生蠶, 蠶未出煑蘩以沃之則易出); _fan ho_ (faan4 hou1 蘩蒿), a plant grown like celery, and pickled in winter. Williams' 蘩蒿: This is dubious. 【蘩】 (bjon) (_noun-like_) hoary-mugwort"
 }
 },
 "蠜":{
 "faan4":{
 "isCanonical":true,
 "williams":"(4)f(a/)n",
-"text":"U+881C (F2.67 蠜) 虫名 (Page 48 蠜) A kind of cricket or grasshopper (Kangxi: 蛗螽蠜)~~, which goes by night~~. Williams' \"which goes by night\": This is a dubious reading of Kangxi 《本草》行夜一名氣蠜, which in any case is separate to the main sense."
+"text":"U+881C (F2.67 蠜) 虫名 (Page 48 #12: 蠜) A kind of cricket or grasshopper (Kangxi: 蛗螽蠜)~~, which goes by night~~. Williams' \"which goes by night\": This is a dubious reading of Kangxi 《本草》行夜一名氣蠜, which in any case is separate to the main sense."
 }
 },
 "蹯":{
