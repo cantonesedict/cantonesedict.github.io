@@ -10812,6 +10812,90 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~73
+    ,{#page-73-entry-1} #1
+    ,{.williams} (4)行
+    ,
+      <nav class="sideways">
+      ==
+      - ($行haang4), $行hang4
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-2} #2
+    ,{.williams} (4)珩
+    ,
+      <nav class="sideways">
+      ==
+      - $珩hang4
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-3} #3
+    ,{.williams} (4){𢖍=⿲彳魚亍}
+    ,
+      <nav class="sideways">
+      ==
+      - $衡hang4
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-4} #4
+    ,{.williams} (4){𧄇=⿱艹⿲彳魚亍}
+    ,
+      <nav class="sideways">
+      ==
+      - $蘅hang4
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-5} #5
+    ,{.williams} (4)莖
+    ,
+      <nav class="sideways">
+      ==
+      - ($莖hang4)
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-6} #6
+    ,{.williams} (4)恒
+    ,
+      <nav class="sideways">
+      ==
+      - $恆hang4
+      - ($恒hang4)
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-7} #7
+    ,{.williams} (2)肯
+    ,
+      <nav class="sideways">
+      ==
+      - $肯hang2
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-8} #8
+    ,{.williams} (2)悻
+    ,
+      <nav class="sideways">
+      ==
+      - $婞hang6
+      - $悻hang6
+      ==
+      </nav>
+  //
+    ,{#page-73-entry-9} #9
+    ,{.williams} 幸(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $幸hang6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

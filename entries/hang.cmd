@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (2)肯]]
+  - [[Page~73 #7: (2)肯]]
     ==
     - ~~The attachment of the muscles~~ ``Flesh attached to bone`` [[Kangxi: 著骨肉也]];
     - to assent, willing, acquiescing [[Kangxi: 肯可也]];
@@ -377,7 +377,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4)恒; here normalised to 恆]]
+  - [[Page~73 #6: (4)恒; here normalised to 恆]]
     ==
     - Constant, regular, perpetual [[Kangxi 恆: 常也, 恆久也]], according to rule [[Kangxi 恆: 恆故也必因循故法也]];
     - to continue of the same mind, persevering;
@@ -437,7 +437,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~73 (4)恒]]
+  - [[Page~73 #6: (4)恒]]
     --
     [[Alternative form of 恆. **See $恆hang4 for the canonical entry.**]]
     --
@@ -526,7 +526,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4)珩]]
+  - [[Page~73 #2: (4)珩]]
     ==
     - ~~An~~ ``The gem on an`` ornamented clasp~~, a gem which has a play of colors,
       worn on the person~~ [[Kangxi: 佩上玉也 etc., 通作衡]].
@@ -554,7 +554,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4)莖]]
+  - [[Page~73 #5: (4)莖]]
     --
     [[Reading variation. **See $莖ging3 for the canonical entry.**]] [[TODO]]
     --
@@ -590,7 +590,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4){𧄇=⿱艹⿲彳魚亍}; here normalised to 蘅]]
+  - [[Page~73 #4: (4){𧄇=⿱艹⿲彳魚亍}; here normalised to 蘅]]
     ==
     - A fragrant plant like mallows [[Kangxi 蘅: 香草也 etc.]];
     - _t(o\)(6) (4)hang_
@@ -628,11 +628,11 @@ F
   ==
 W
   ====
-  - [[Page~73 before (4)行]]
+  - [[Page~73: before (4)行]]
     --
     (This character [[行]] is often pronounced like the next syllable [[haang]].)
     --
-  - [[Page~73 (4)行]]
+  - [[Page~73 #1: (4)行]]
     ==
     - To go, to walk, to proceed [[Kangxi: 人之步趨也, 適也往也去也]];
     - to act, to do, to direct;
@@ -835,7 +835,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (4){𢖍=⿲彳魚亍}; here normalised to 衡]]
+  - [[Page~73 #3: (4){𢖍=⿲彳魚亍}; here normalised to 衡]]
     ==
     - A yoke or strap on the head of cattle [[Kangxi 衡: 楅衡所以楅持牛使不得抵觸也]];
     - the space under the eyebrows [[Kangxi 衡: 眉目之閒也]];
@@ -956,7 +956,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~73 (2)悻 _(2)Hang_ (hang2); here corrected to _Hang(6)_ (hang6) and normalised to 婞]]
+  - [[Page~73 #8: (2)悻 _(2)Hang_ (hang2); here corrected to _Hang(6)_ (hang6) and normalised to 婞]]
     ==
     - [[...]];
     - quarrelsome, pertinacious [[Kangxi 婞: 同悻, 很也]].
@@ -993,7 +993,7 @@ F
   ==
 W
   ====
-  - [[Page~73 幸(6)]]
+  - [[Page~73 #9: 幸(6)]]
     ==
     - Fortunate, lucky [[Kangxi: 吉而免凶也 etc.]];
     - blessed;
@@ -1064,7 +1064,7 @@ F
   ==
 W
   ====
-  - [[Page~73 (2)悻 _(2)Hang_ (hang2); here normalised to _Hang(6)_ (hang6)]]
+  - [[Page~73 #8: (2)悻 _(2)Hang_ (hang2); here normalised to _Hang(6)_ (hang6)]]
     ==
     - _~~(2)Hang (2)hang~~ ``Hang(6) hang(6)``_ [[hang6 hang6]],
         anger, hatred [[Kangxi: 悻悻很怒也]];

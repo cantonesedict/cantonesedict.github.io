@@ -180,7 +180,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~73 (4)行 _(4)Hang_ (hang4); _(4)H(a/)ng_ (haang4) implied by variational note]]
+  - [[Page~73 #1: (4)行 _(4)Hang_ (hang4); _(4)H(a/)ng_ (haang4) implied by variational note]]
     --
     [[Reading variation (vernacular longer syllable for the "walk" and "move" senses). **See $行hang4 for the canonical entry.**]]
     --
