@@ -69,7 +69,7 @@ F
   ==
 W
   ====
-  - [[Page~55 攉(8)]]
+  - [[Page~55 #5: 攉(8)]]
     ==
     - To ~~recall one with~~ ``flip over`` the hand [[Kangxi: 手反覆也]];
     - to motion ~~back~~ with the hand [[Kangxi: 搖手曰揮反手曰攉]];
@@ -189,7 +189,7 @@ F
   ==
 W
   ====
-  - [[Page~55 縛(8)]]
+  - [[Page~55 #1: 縛(8)]]
     --
     [[Reading variation. **See $縛bok3 for the canonical entry.**]] [[TODO]]
     --
@@ -217,7 +217,7 @@ F
   ==
 W
   ====
-  - [[Page~55 藿(8)]]
+  - [[Page~55 #4: 藿(8)]]
     ==
     - Leaves ``or young sprouts`` of pulse [[Kangxi: 尗之少也, 藿豆葉]], used as food;
     - ~~greens in general;~~
@@ -302,7 +302,7 @@ F
   ==
 W
   ====
-  - [[Page~55 钁(8)]]
+  - [[Page~55 #2: 钁(8)]]
     ==
     - A large hoe or mattock [[Kangxi: 大鉏也 etc.]],
       made of wood, edged with iron.
@@ -327,7 +327,7 @@ F
   ==
 W
   ====
-  - [[Page~55 霍(8)]]
+  - [[Page~55 #3: 霍(8)]]
     ==
     - Speed, celerity, agility [[揮霍, 揮霍猝遽也, 揮霍疾貌]];
     - a surname [[Kangxi: 姓]];

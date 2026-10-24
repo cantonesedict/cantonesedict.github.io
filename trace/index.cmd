@@ -8840,6 +8840,107 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~55
+    ,{#page-55-entry-1} #1
+    ,{.williams} 縛(8)
+    ,
+      <nav class="sideways">
+      ==
+      - ($縛fok3)
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-2} #2
+    ,{.williams} 钁(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $钁fok3
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-3} #3
+    ,{.williams} 霍(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $霍fok3
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-4} #4
+    ,{.williams} 藿(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $藿fok3
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-5} #5
+    ,{.williams} 攉(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $攉fok3
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-6} #6
+    ,{.williams} (1)方
+    ,
+      <nav class="sideways">
+      ==
+      - $方fong1
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-7} #7
+    ,{.williams} (1)妨
+    ,
+      <nav class="sideways">
+      ==
+      - $妨fong4
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-8} #8
+    ,{.williams} (1)坊
+    ,
+      <nav class="sideways">
+      ==
+      - $坊fong1
+      - $防fong4
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-9} #9
+    ,{.williams} (1)枋
+    ,
+      <nav class="sideways">
+      ==
+      - $枋fong1
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-10} #10
+    ,{.williams} (1)祊
+    ,
+      <nav class="sideways">
+      ==
+      - ($祊fong1)
+      ==
+      </nav>
+  //
+    ,{#page-55-entry-11} #11
+    ,{.williams} (1)芳
+    ,
+      <nav class="sideways">
+      ==
+      - $芳fong1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

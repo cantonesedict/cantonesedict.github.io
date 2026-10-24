@@ -82,7 +82,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)坊]]
+  - [[Page~55 #8: (1)坊]]
     ==
     - A neighborhood;
     - a street, a lane, an alley [[Kangxi: 邑里之名]];
@@ -206,7 +206,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)方]]
+  - [[Page~55 #6: (1)方]]
     ==
     - Square [[Kangxi: ::[...]方者中矩::]];
     - cornered, angular;
@@ -331,7 +331,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)枋]]
+  - [[Page~55 #9: (1)枋]]
     ==
     - A wood used by cartwrights [[Kangxi: 木可作車]], and shipwrights;
     - ~~the white~~ board``s`` used by fishermen to ~~entice~~ ``wall`` fish [[Kangxi: 蜀人以木偃魚曰枋]];
@@ -370,7 +370,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)祊]]
+  - [[Page~55 #10: (1)祊]]
     --
     [[Reading variation. **See $祊bang1 for the canonical entry.**]] [[TODO]]
     --
@@ -450,7 +450,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)芳]]
+  - [[Page~55 #11: (1)芳]]
     ==
     - Fragrant, odorous [[Kangxi: 芬芳香氣貌]];
     - beautiful, like flowers;
@@ -1681,7 +1681,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)妨 _(1)Fong_ (fong1); here normalised to _(4)Fong_ (fong4)]]
+  - [[Page~55 #7: (1)妨 _(1)Fong_ (fong1); here normalised to _(4)Fong_ (fong4)]]
     ==
     - An impediment, an obstacle, a hindrance [[Kangxi: 一曰礙也]];
     - to injure [[Kangxi: 害也]];
@@ -1821,7 +1821,7 @@ F
   ==
 W
   ====
-  - [[Page~55 (1)坊 _(1)Fong_ (fong1); here corrected to _(4)Fong_ (fong4) and normalised to 防]]
+  - [[Page~55 #8: (1)坊 _(1)Fong_ (fong1); here corrected to _(4)Fong_ (fong4) and normalised to 防]]
     ==
     - [[...]];
     - to guard, to impede;
