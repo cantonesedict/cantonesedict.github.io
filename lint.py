@@ -3656,7 +3656,7 @@ class WilliamsLocator:
     entry_marker: str
     entry_number: Optional[int]
     headword_run: str
-    unedited_headword_run: str
+    unedited_headword_run: Optional[str]
     clarification_run: str
     redirection_run: str
     content: str
@@ -3697,11 +3697,17 @@ class WilliamsLocator:
         if entry_number is not None:
             entry_number = int(entry_number)
 
-        unedited_headword_run = (
-            INSERTION_PATTERN.sub(repl='', string=headword_run)
-            .replace('~~', '')
-            .replace('::', '')
-        )
+        if (
+            not CHINESE_RUN_PATTERN.search(string=headword_run)
+            and any(verb in clarification_run for verb in ['exemplified', 'implied'])
+        ):
+            unedited_headword_run = None
+        else:
+            unedited_headword_run = (
+                INSERTION_PATTERN.sub(repl='', string=headword_run)
+                .replace('~~', '')
+                .replace('::', '')
+            )
 
         self.page_grouping = page_grouping
         self.page = page
@@ -4923,7 +4929,7 @@ class Linter:
                             else []
                         ),
                         f'    ,{{#page-{williams_locator.page_clean}-entry-{number}}} #{number}',
-                        f'    ,{{.williams}} {williams_locator.unedited_headword_run}',
+                        f'    ,{{.williams}}{headword_run_cell_space}{unedited_headword_run}',
                         f'    ,',
                         f'      <nav class="sideways">',
                         f'      ==',
@@ -4949,6 +4955,8 @@ class Linter:
                             (character_entry, character_entry.character)
                             for character_entry in character_entries_from_williams_locator[williams_locator]
                         ),
+                        unedited_headword_run := williams_locator.unedited_headword_run,
+                        headword_run_cell_space := ' ' if unedited_headword_run else '',
                     )
                 ]
                 for page, williams_locator_from_number in williams_locator_from_number_from_page.items()

@@ -8720,7 +8720,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-53-entry-12} #12
-    ,{.williams} _Fik(7)_
+    ,{.williams}
     ,
       <nav class="sideways">
       ==
@@ -17141,7 +17141,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-713-entry-7} #7
-    ,{.williams} ^_F(a/)k(8)_
+    ,{.williams}
     ,
       <nav class="sideways">
       ==
