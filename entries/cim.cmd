@@ -585,7 +585,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)鋟 _(1)Ts(')am_ (cam1); here normalised to _(1)Ts(')(i/)m_ (cim1)]]
+  - [[Page~552 #4: (1)鋟 _(1)Ts(')am_ (cam1); here normalised to _(1)Ts(')(i/)m_ (cim1)]]
     ==
     - To cut, to engrave [[Kangxi: 刻也]];
     - sharp-pointed [[Kangxi: 錐也]];

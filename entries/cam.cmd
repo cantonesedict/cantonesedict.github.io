@@ -72,7 +72,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)侵]]
+  - [[Page~552 #1: (1)侵]]
     ==
     - To usurp, to incroach upon, to enter gradually [[Kangxi: 漸進也]];
     - to appropriate, to plunder, to invade [[Kangxi: 朘削也]];
@@ -185,7 +185,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)祲]]
+  - [[Page~552 #3: (1)祲]]
     --
     [[Reading variation. **See $祲zam1 for the canonical entry.**]]
     --
@@ -211,7 +211,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)葠]]
+  - [[Page~552 #5: (1)葠]]
     --
     Used for _(1)sham_ [[sam1]] 參 ginseng~~, but erroneously~~.
     --
@@ -240,7 +240,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)鋟]]
+  - [[Page~552 #4: (1)鋟]]
     --
     [[Reading variation. **See $鋟cim1 for the canonical entry.**]]
     --
@@ -268,7 +268,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)駸]]
+  - [[Page~552 #2: (1)駸]]
     ==
     - ~~Occurs used for the preceding [[侵]];~~
     - properly a ~~swift~~ horse ``moving swiftly`` [[Kangxi: 駸駸馬行疾貌]];
@@ -311,7 +311,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)侵]]
+  - [[Page~552 #1: (1)侵]]
     --
     [[...]]
     --
@@ -351,7 +351,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (2)寢]]
+  - [[Page~552 #12: (2)寢]]
     ==
     - To sleep [[Kangxi: 臥也]];
     - rest, sleep;
@@ -543,7 +543,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)尋]]
+  - [[Page~552 #6: (4)尋]]
     ==
     - To hunt after, to search, on the track of;
     - to seek, to investigate [[Kangxi: 繹理也, 求也]];
@@ -821,7 +821,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)燖]]
+  - [[Page~552 #7: (4)燖]]
     --
     [[Alternative form of 爓. **See $爓cam4 for the canonical entry.**]]
     --
@@ -871,7 +871,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~552 (4)燖; here normalised to 爓]]
+  - [[Page~552 #7: (4)燖; here normalised to 爓]]
     ==
     - To scald, as a fowl, in order to pluck it;
     - to steep in hot broth [[Kangxi 爓: 爓沈肉于湯也]], to make a broth of.
@@ -919,7 +919,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鐔]]
+  - [[Page~552 #10: (4)鐔]]
     ==
     - The guard on the hilt of a sword [[Kangxi: 劒鼻也]];
     - a dagger, a dirk [[Kangxi: 鐔似劒而小]];
@@ -972,7 +972,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鬵]]
+  - [[Page~552 #11: (4)鬵]]
     ==
     - A vase with a large belly and small mouth [[Kangxi: 一曰鼎大上小下若甑曰鬵]];
     - a large kettle or boiler [[Kangxi: 大釜也]].
@@ -1044,7 +1044,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鱏]]
+  - [[Page~552 #9: (4)鱏]]
     ==
     - An enormous fish, with a long nose [[Kangxi: 鱏長鼻魚也重千斤]],
       found in the Y(a/)ngtsz' ki(a/)ng [[揚子江]];
@@ -1070,7 +1070,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (4)鱘]]
+  - [[Page~552 #8: (4)鱘]]
     ==
     - The sturgeon;
     - _(4)ts(')am (4)lung (4)(u:)_

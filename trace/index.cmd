@@ -11377,6 +11377,107 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~552
+    ,{#page-552-entry-1} #1
+    ,{.williams} (1)侵
+    ,
+      <nav class="sideways">
+      ==
+      - $侵cam1, $侵cam2
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-2} #2
+    ,{.williams} (1)駸
+    ,
+      <nav class="sideways">
+      ==
+      - $駸cam1
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-3} #3
+    ,{.williams} (1)祲
+    ,
+      <nav class="sideways">
+      ==
+      - ($祲cam1), $祲zam1
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-4} #4
+    ,{.williams} (1)鋟
+    ,
+      <nav class="sideways">
+      ==
+      - ($鋟cam1), $鋟cim1
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-6} #6
+    ,{.williams} (4)尋
+    ,
+      <nav class="sideways">
+      ==
+      - $尋cam4
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-7} #7
+    ,{.williams} (4)燖
+    ,
+      <nav class="sideways">
+      ==
+      - $燖cam4
+      - $爓cam4
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-8} #8
+    ,{.williams} (4)鱘
+    ,
+      <nav class="sideways">
+      ==
+      - $鱘cam4
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-9} #9
+    ,{.williams} (4)鱏
+    ,
+      <nav class="sideways">
+      ==
+      - $鱏cam4
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-10} #10
+    ,{.williams} (4)鐔
+    ,
+      <nav class="sideways">
+      ==
+      - $鐔cam4
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-11} #11
+    ,{.williams} (4)鬵
+    ,
+      <nav class="sideways">
+      ==
+      - $鬵cam4
+      ==
+      </nav>
+  //
+    ,{#page-552-entry-12} #12
+    ,{.williams} (2)寢
+    ,
+      <nav class="sideways">
+      ==
+      - $寢cam2
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

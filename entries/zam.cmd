@@ -253,7 +253,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
+  - [[Page~552 #3: (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
     ==
     - To influence, to act upon;
     - a malign halo [[Kangxi: 妖氛也]];
