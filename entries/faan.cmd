@@ -141,7 +141,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (1)幡]]
+  - [[Page~47 #10: (1)幡]]
     ==
     - A banner, or streamer [[Kangxi: 一曰幟也]] with sentences,
       hung in temples or carried in processions;
@@ -154,7 +154,7 @@ W
         [[faan1 jin4 幡然]],
         forthwith.
     ==
-  - [[Page~47 (1)旛; here corrected to 幡]]
+  - [[Page~47 #11: (1)旛; here corrected to 幡]]
     ==
     - [[...]];
     - [[...]] _(4)wan (1)f(a/)n_
@@ -209,7 +209,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (1)旛]]
+  - [[Page~47 #11: (1)旛]]
     ==
     - A streamer [[Kangxi: 幅胡也, 旛幡也]];
     - _(1)ts(')ing (1)f(a/)n_ [[cing1 faan1 青旛]]~~,
@@ -256,7 +256,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (1)番]]
+  - [[Page~47 #9: (1)番]]
     ==
     - [[...]];
     - a time, a turn, a repetition of [[Kangxi: 數也遞也]];
@@ -352,7 +352,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 (1)繙]]
+  - [[Page~47 #12: (1)繙]]
     ==
     - ~~To spread out~~;
     - ~~to agitate, or wave, as the wind does~~ a flag [[Kangxi: {𦆯=⿰糸@賔}繙風吹旗也]];
@@ -396,7 +396,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (1)繙; here normalised to 翻]]
+  - [[Page~47 #12: (1)繙; here normalised to 翻]]
     ==
     - [[...]];
     - to translate;
@@ -405,7 +405,7 @@ W
         [[faan1 jik6 翻譯]]
         to translate.
     ==
-  - [[Page~47 (1)翻]]
+  - [[Page~47 #13: (1)翻]]
     ==
     - To fly [[Kangxi: 飛也]] to and fro;
     - [[...]], to change [[Kangxi: 反覆也通作幡又通作反]];
@@ -530,7 +530,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 (1)翻; here normalised to 返]]
+  - [[Page~47 #13: (1)翻; here normalised to 返]]
     ==
     - [[...]];
     - to return, [[...]];
@@ -1248,7 +1248,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (4)凡(4)凢]]
+  - [[Page~47 #14: (4)凡(4)凢]]
     ==
     - All, everybody [[Kangxi 凡: 最括也, 非一也, 皆也]];
     - common, vulgar [[Kangxi 凡: 輕微之稱]], usual [[Kangxi 凡: 常也]];
@@ -1313,7 +1313,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (4)凡(4)凢]]
+  - [[Page~47 #14: (4)凡(4)凢]]
     --
     [[Alternative form of 凡. **See $凡faan4 for the canonical entry.**]]
     --
@@ -1972,7 +1972,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 (1)番 _(1)F(a/)n_ (faan1); here corrected to _(4)F(a/)n_ (faan4) and normalised to 蹯]]
+  - [[Page~47 #9: (1)番 _(1)F(a/)n_ (faan1); here corrected to _(4)F(a/)n_ (faan4) and normalised to 蹯]]
     ==
     - A beast's foot~~step~~ [[Kangxi 番: 獸足謂之番, 或作{𨆌=⿰𧾷煩}蹯]];
     - [[...]].

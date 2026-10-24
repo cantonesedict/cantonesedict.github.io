@@ -1621,7 +1621,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 瞓(3)]]
+  - [[Page~47 #6: 瞓(3)]]
     ==
     - To sleep, to rest;
     - _(5)n(i/) fan(3) (1)wan_
@@ -1711,7 +1711,7 @@ F
   ==
 W
   ====
-  - [[Page~47 糞(3)]]
+  - [[Page~47 #8: 糞(3)]]
     ==
     - Ordure, filth, muck [[Kangxi: 穢也]], excrement;
     - to manure [[Kangxi: 治也培也]];
@@ -1767,7 +1767,7 @@ F
   ==
 W
   ====
-  - [[Page~47 訓(3)]]
+  - [[Page~47 #7: 訓(3)]]
     ==
     - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]]~~, to exhort~~;
     - to explain [[Kangxi: 訓者釋所言之理也]];
@@ -2325,7 +2325,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)僨]]
+  - [[Page~47 #3: (5)僨]]
     ==
     - ~~Prostrate;~~
     - to overthrow, to ruin [[Kangxi: 覆敗也]];
@@ -2426,7 +2426,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)奮]]
+  - [[Page~47 #5: (5)奮]]
     ==
     - To endeavor after, to excite, to rouse [[Kangxi: 震動也]];
     - to spread abroad [[Kangxi: 揚也]] or reach to;
@@ -2482,7 +2482,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)忿]]
+  - [[Page~47 #1: (5)忿]]
     ==
     - Anger, resentment [[Kangxi: 悁也, 恨也怒也]];
     - _(5)fan n(o\)(6)_
@@ -2542,7 +2542,7 @@ F
   ==
 W
   ====
-  - [[Page~47 (5)憤]]
+  - [[Page~47 #4: (5)憤]]
     ==
     - Impatient desire [[Kangxi: 懣也]], zeal, ardor;
     - anger, violent feeling;
@@ -2691,7 +2691,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~47 (5)鼢]]
+  - [[Page~47 #2: (5)鼢]]
     ==
     - A mole or field rat [[Kangxi: 地行鼠 etc.]];
     - called _(4)lai (2)sh(u:)_
