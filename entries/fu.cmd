@@ -1510,7 +1510,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)俯]]
+  - [[Page~59 #10: (2)俯]]
     ==
     - To stoop ``the head`` [[Kangxi: 俛也]], to bow;
     - to consider, to look down on, to condescend;
@@ -1565,7 +1565,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)府]]
+  - [[Page~59 #9: (2)府]]
     ==
     - A store-house, a record office, a library [[Kangxi: 文書藏也]], a treasury [[Kangxi: 府謂寶藏財賄之處也]];
     - the officer over them [[Kangxi: 掌財幣之官皆曰府]];
@@ -1632,13 +1632,13 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)撫; here normalised to 拊]]
+  - [[Page~59 #11: (2)撫; here normalised to 拊]]
     ==
     - [[...]];
     - [[...]], to pat [[Kangxi 撫: 拍也]];
     - [[...]].
     ==
-  - [[Page~59 (2)拊]]
+  - [[Page~59 #12: (2)拊]]
     ==
     - To pat, [[...]], to strike``, to beat`` [[Kangxi: 擊也拍也, 重擊曰擊輕擊曰拊]];
     - ~~to permit;~~
@@ -1693,7 +1693,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)撫]]
+  - [[Page~59 #11: (2)撫]]
     ==
     - To keep down with the hand~~, to fold the hands~~;
     - to stroke, [[...]];
@@ -1716,7 +1716,7 @@ W
     --
     [[Otherwise, an alternative form of 拊. **See $拊fu2 for the canonical entry.**]]
     --
-  - [[Page~59 (2)拊]]
+  - [[Page~59 #12: (2)拊]]
     ==
     - [[...]], to put the hand on, [[...]];
     - [[...]];
@@ -1767,7 +1767,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)斧]]
+  - [[Page~59 #7: (2)斧]]
     ==
     - An ax, a hatchet [[Kangxi: 斫也 etc.]];
     - to cut, to hack, to fell [[Kangxi: 凡以斧斫物亦曰斧]];
@@ -1906,7 +1906,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)甫]]
+  - [[Page~59 #3: (2)甫]]
     ==
     - Large;
     - beautiful, good;
@@ -1965,7 +1965,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)簠]]
+  - [[Page~59 #4: (2)簠]]
     ==
     - A sort of basket, square outside and round within,
       used to contain grain [[Kangxi: 外方內圓曰簠用貯稻粱容一斗二升]]
@@ -2003,7 +2003,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)脯]]
+  - [[Page~59 #5: (2)脯]]
     ==
     - Preserved or dried meat [[Kangxi: 肉乾也, 脯腊也, 乾脯, 乾肉爲脯]];
     - ~~flesh;~~
@@ -2052,7 +2052,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)腑]]
+  - [[Page~59 #13: (2)腑]]
     ==
     - The inferior viscera [[Kangxi: 臟腑, 本作府]];
     - _luk(9) (2)f(u/)_
@@ -2099,7 +2099,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)苦]]
+  - [[Page~59 #14: (2)苦]]
     ==
     - A marshy plant, which becomes sweet when frozen [[Kangxi: 苦苦菜也陸璣云生田及山澤中得霜甜脃而美]];
     - bitter [[Kangxi: 味也]], unpleasant;
@@ -2253,7 +2253,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)釜]]
+  - [[Page~59 #8: (2)釜]]
     ==
     - A boiler or caldron without feet [[Kangxi: 鬴或作{𨥏=⿱父金}俗省作釜, 有足曰錡無足曰釜]];
     - _(2)f(u/) tsang(3)_
@@ -2349,7 +2349,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (2)黼]]
+  - [[Page~59 #6: (2)黼]]
     ==
     - Black and white, diversified``, in embroidery`` [[Kangxi: 白與黑相次文 etc.]];
     - embroidered, elegant dress;
@@ -3242,7 +3242,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (4)蚨]]
+  - [[Page~59 #1: (4)蚨]]
     ==
     - A species of cicada or dytiscus,
       called _(1)ts(')ing (4)f(u/)_ [[cing1 fu4 青蚨]],
@@ -3295,7 +3295,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (4)鳬; here normalised to 鳧]]
+  - [[Page~59 #2: (4)鳬; here normalised to 鳧]]
     ==
     - A sheldrake or mallard [[Kangxi 鳧: 野曰鳧家曰鴨]];
     - a wild duck with a crest;
@@ -3335,7 +3335,7 @@ F
   ==
 W
   ====
-  - [[Page~59 (4)鳬]]
+  - [[Page~59 #2: (4)鳬]]
     --
     [[Alternative form of 鳧. **See $鳧fu4 for the canonical entry.**]]
     --

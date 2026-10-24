@@ -9294,6 +9294,136 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=14} Page~59
+    ,{#page-59-entry-1} #1
+    ,{.williams} (4)蚨
+    ,
+      <nav class="sideways">
+      ==
+      - $蚨fu4
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-2} #2
+    ,{.williams} (4)鳬
+    ,
+      <nav class="sideways">
+      ==
+      - $鳧fu4
+      - ($鳬fu4)
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-3} #3
+    ,{.williams} (2)甫
+    ,
+      <nav class="sideways">
+      ==
+      - $甫fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-4} #4
+    ,{.williams} (2)簠
+    ,
+      <nav class="sideways">
+      ==
+      - $簠fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-5} #5
+    ,{.williams} (2)脯
+    ,
+      <nav class="sideways">
+      ==
+      - $脯fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-6} #6
+    ,{.williams} (2)黼
+    ,
+      <nav class="sideways">
+      ==
+      - $黼fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-7} #7
+    ,{.williams} (2)斧
+    ,
+      <nav class="sideways">
+      ==
+      - $斧fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-8} #8
+    ,{.williams} (2)釜
+    ,
+      <nav class="sideways">
+      ==
+      - $釜fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-9} #9
+    ,{.williams} (2)府
+    ,
+      <nav class="sideways">
+      ==
+      - $府fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-10} #10
+    ,{.williams} (2)俯
+    ,
+      <nav class="sideways">
+      ==
+      - $俯fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-11} #11
+    ,{.williams} (2)撫
+    ,
+      <nav class="sideways">
+      ==
+      - $拊fu2
+      - $撫fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-12} #12
+    ,{.williams} (2)拊
+    ,
+      <nav class="sideways">
+      ==
+      - $拊fu2
+      - $撫fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-13} #13
+    ,{.williams} (2)腑
+    ,
+      <nav class="sideways">
+      ==
+      - $腑fu2
+      ==
+      </nav>
+  //
+    ,{#page-59-entry-14} #14
+    ,{.williams} (2)苦
+    ,
+      <nav class="sideways">
+      ==
+      - $苦fu2
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴
