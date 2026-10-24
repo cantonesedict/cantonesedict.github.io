@@ -9507,6 +9507,106 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=11} Page~61
+    ,{#page-61-entry-1} #1
+    ,{.williams} 父(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $父fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-2} #2
+    ,{.williams} 駙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $駙fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-3} #3
+    ,{.williams} 鮒(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $鮒fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-4} #4
+    ,{.williams} 祔(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $祔fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-5} #5
+    ,{.williams} 附(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $附fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-6} #6
+    ,{.williams} 腐(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $腐fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-7} #7
+    ,{.williams} 輔(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $輔fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-8} #8
+    ,{.williams} 仆(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $仆fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-9} #9
+    ,{.williams} 赴(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $赴fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-10} #10
+    ,{.williams} 訃(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $訃fu6
+      ==
+      </nav>
+  //
+    ,{#page-61-entry-11} #11
+    ,{.williams} 負(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $負fu6
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

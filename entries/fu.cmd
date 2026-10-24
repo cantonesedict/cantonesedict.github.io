@@ -3491,7 +3491,7 @@ F
   ==
 W
   ====
-  - [[Page~61 仆(6)]]
+  - [[Page~61 #8: 仆(6)]]
     ==
     - To fall down ``prostrate`` [[Kangxi: 偃也僵也]];
     - to fall to the earth;
@@ -3735,7 +3735,7 @@ F
   ==
 W
   ====
-  - [[Page~61 父(6)]]
+  - [[Page~61 #1: 父(6)]]
     ==
     - A father [[Kangxi: 矩也家長率敎者 etc.]];
     - a senior, an ancestor, an old man [[Kangxi: 老叟之稱]];
@@ -3814,7 +3814,7 @@ F
   ==
 W
   ====
-  - [[Page~61 祔(6)]]
+  - [[Page~61 #4: 祔(6)]]
     ==
     - To sacrifice to ``the newly dead alongside`` ancestors in the hall [[Kangxi: 後死者合食於先祖]];
     - to inter in the same tomb [[Kangxi: 合葬亦曰祔]];
@@ -3853,7 +3853,7 @@ F
   ==
 W
   ====
-  - [[Page~61 腐(6)]]
+  - [[Page~61 #6: 腐(6)]]
     ==
     - Corrupted, carious, rotten [[Kangxi: 爛也, 朽也敗也]];
     - ~~crushed to powder;~~
@@ -3912,7 +3912,7 @@ F
   ==
 W
   ====
-  - [[Page~61 訃(6)]]
+  - [[Page~61 #10: 訃(6)]]
     ==
     - To announce the death [[Kangxi: 吿喪也]] of a parent or relative
       by the nearest mourner on the 7th~day;
@@ -3952,7 +3952,7 @@ F
   ==
 W
   ====
-  - [[Page~61 負(6)]]
+  - [[Page~61 #11: 負(6)]]
     ==
     - To carry on the back, to bear [[Kangxi: 負背也置項背也, 擔也, 荷也]];
     - to take a duty;
@@ -4058,7 +4058,7 @@ F
   ==
 W
   ====
-  - [[Page~61 赴(6)]]
+  - [[Page~61 #9: 赴(6)]]
     ==
     - To go to, to repair to, to hasten [[Kangxi: 赴至也, 趨而至也, 趨也]];
     - to arrive at, to come;
@@ -4139,7 +4139,7 @@ F
   ==
 W
   ====
-  - [[Page~61 輔(6)]]
+  - [[Page~61 #7: 輔(6)]]
     ==
     - The rack or cheeks of a cart [[Kangxi: 車輔兩旁夾車木也 etc.]];
     - end of the jaw bones [[Kangxi: 人頰骨也, 輔上頷也]];
@@ -4185,7 +4185,7 @@ F
   ==
 W
   ====
-  - [[Page~61 附(6)]]
+  - [[Page~61 #5: 附(6)]]
     ==
     - Near, about, ~~approaching~~ ``attached`` [[Kangxi: 依也近也著也]];
     - to lean on, to follow;
@@ -4263,7 +4263,7 @@ F
   ==
 W
   ====
-  - [[Page~61 駙(6)]]
+  - [[Page~61 #2: 駙(6)]]
     ==
     - Near [[Kangxi: 一曰近也]];
     - quick [[Kangxi: 一曰疾也]];
@@ -4292,7 +4292,7 @@ F
   ==
 W
   ====
-  - [[Page~61 鮒(6)]]
+  - [[Page~61 #3: 鮒(6)]]
     ==
     - A ``small`` freshwater fish resembling the perch [[Kangxi: 魚名, 鮒鰿也今作鯽, 鮒魚魚之小者]],
       said to go in pairs or shoals [[Kangxi: 以相附謂之鮒]], and be faithful to each other [[Kangxi: 義取夫婦相依附者也]];
