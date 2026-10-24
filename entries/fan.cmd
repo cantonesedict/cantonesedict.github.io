@@ -100,7 +100,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)分]]
+  - [[Page~45 #15: (1)分]]
     ==
     - To separate, to divide [[Kangxi: 別也]];
     - to halve [[Kangxi: 半也]];
@@ -238,7 +238,7 @@ F
   ==
 W
   ====
-  - [[Page~45 ::(1)~~{？=⿺熏力}~~``勳``::]]
+  - [[Page~45 #2: ::(1)~~{？=⿺熏力}~~``勳``::]]
     ==
     - Loyal merit [[Kangxi 勳: 能成王功也 etc.]], meritorious;
     - to spend strength for one's king;
@@ -347,7 +347,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)婚]]
+  - [[Page~45 #8: (1)婚]]
     ==
     - Marriage [[Kangxi: 婚姻嫁也]];
     - to take a wife;
@@ -429,7 +429,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)惛]]
+  - [[Page~45 #9: (1)惛]]
     ==
     - Stupid [[Kangxi: 不憭也, 不明了也, 心不明也]], forgetful [[Kangxi: 迷忘也]];
     - confused ~~recollection~~ [[Kangxi: 昏意也]].
@@ -461,7 +461,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)昏]]
+  - [[Page~45 #7: (1)昏]]
     ==
     - The sun setting [[Kangxi: 日冥也]];
     - ``evening`` twilight;
@@ -543,7 +543,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)熏; here normalised to 曛]]
+  - [[Page~45 #1: (1)熏; here normalised to 曛]]
     ==
     - [[...]];
     - evening ``twilight``;
@@ -553,7 +553,7 @@ W
         ``evening`` twilight;
     - [[...]].
     ==
-  - [[Page~45 (1)曛]]
+  - [[Page~45 #3: (1)曛]]
     ==
     - ~~Twilight~~ ``Evening twilight, dusk`` [[Kangxi: 黃昏時]];
     - the light reflected after sunset [[Kangxi: 日入餘光]];
@@ -765,7 +765,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)涽]]
+  - [[Page~45 #10: (1)涽]]
     ==
     - Unsettled, unstable, like water [[Kangxi: 涽涽未定貌]];
     - [[...]].
@@ -818,7 +818,7 @@ F
   ==
 W
   ====
-  - [[Page~45 ::~~(1)蔒~~(1)焄::]]
+  - [[Page~45 #14: ::~~(1)蔒~~(1)焄::]]
     ==
     - [[...]];
     - fumes from cooked vegetables;
@@ -872,7 +872,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)熏]]
+  - [[Page~45 #1: (1)熏]]
     ==
     - Vapor, exhalations, steam [[Kangxi: 火氣盛貌]];
     - smoke rising [[Kangxi: 火煙上出也]];
@@ -903,7 +903,7 @@ W
     --
     [[Otherwise, an alternative form of 醺. **See $醺fan1 for the canonical entry.**]]
     --
-  - [[Page~45 ::~~(1)蔒~~(1)焄::]]
+  - [[Page~45 #14: ::~~(1)蔒~~(1)焄::]]
     ==
     - Vapor or steam [[Kangxi 焄: 火上出也, 亦作熏]];
     - [[...]].
@@ -973,7 +973,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)獯]]
+  - [[Page~45 #4: (1)獯]]
     ==
     - A tribe of aborigines, called _(1)fan yuk(9)_ [[fan1 juk6 獯鬻]] [[Kangxi: 獯鬻 etc.]]^;
     - they dwelt near Shens(i/) [[陝西]].
@@ -1162,7 +1162,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)葷]]
+  - [[Page~45 #13: (1)葷]]
     ==
     - Leeks, onions, and strong flavored vegetables [[Kangxi: 蔥薤也, 葷臭菜也 etc.]];
     - animal food;
@@ -1204,7 +1204,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~45 ::(1)蔒~~(1)焄~~::]]
+  - [[Page~45 #14: ::(1)蔒~~(1)焄~~::]]
     --
     [[Alternative form of 葷. **See $葷fan1 for the canonical entry.**]]
     --
@@ -1233,7 +1233,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)薰]]
+  - [[Page~45 #5: (1)薰]]
     ==
     - Fragrant plants [[Kangxi: 香草也]], fragrance;
     - used ~~in houses~~ to expel demons [[Kangxi: 古人祓除以此草薰之故謂之薰]];
@@ -1287,7 +1287,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)醺]]
+  - [[Page~45 #6: (1)醺]]
     ==
     - Intoxicated, drunk [[Kangxi: 醉也 etc.]];
     - smelling of liquor;
@@ -1323,7 +1323,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)閽]]
+  - [[Page~45 #11: (1)閽]]
     ==
     - ~~To shut~~ ``The lowly servant who shuts`` the door at evening [[Kangxi: 常以昏閉門隸也]];
     - a ``lowly`` porter [[Kangxi: 閽者守門之賤者也]];
@@ -1404,7 +1404,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)餴]]
+  - [[Page~45 #12: (1)餴]]
     --
     [[Alternative form of 饙. **See $饙fan1 for the canonical entry.**]]
     --
@@ -1433,7 +1433,7 @@ F
   ==
 W
   ====
-  - [[Page~45 (1)餴; here normalised to 饙]]
+  - [[Page~45 #12: (1)餴; here normalised to 饙]]
     ==
     - Rice steamed thoroughly;
     - to steam rice [[Kangxi 饙: ::[...]然則蒸米爲之饙饙必餾而熟之[...]::]].
@@ -2809,7 +2809,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~45 (1)分 read _Fan(3)_ (fan3); here corrected to _Fan(6)_ (fan6)]]
+  - [[Page~45 #15: (1)分 read _Fan(3)_ (fan3); here corrected to _Fan(6)_ (fan6)]]
     --
     [[...]]
     --
