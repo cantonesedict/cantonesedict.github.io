@@ -249,7 +249,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4) and normalised to 疵 _(1)Ts(')z'_ (ci1)]]
+  - [[Page~613 #6: (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4) and normalised to 疵 _(1)Ts(')z'_ (ci1)]]
     ==
     - [[...]];
     - a defect, a flaw [[Kangxi 呰: 瑕也]].

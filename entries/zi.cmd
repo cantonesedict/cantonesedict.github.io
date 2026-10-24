@@ -2189,7 +2189,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)呰]]
+  - [[Page~613 #6: (2)呰]]
     ==
     - ~~To molest, to be needlessly strict;~~
     - to revile``, to denigrate`` [[Kangxi: 苛也, 口毀也]];
@@ -2367,7 +2367,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)姊]]
+  - [[Page~613 #2: (2)姊]]
     ==
     - An elder sister [[Kangxi 姉: ::男子謂女子先生[爲]姉::]];
     - a school-mistress;
@@ -2991,7 +2991,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)泲]]
+  - [[Page~613 #3: (2)泲]]
     ==
     - Name of a river on the east of China [[Kangxi: 泲沇也東流於海]];
     - to strain spirits [[Kangxi: 莤泲釃酒也]];
@@ -3053,7 +3053,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)滓]]
+  - [[Page~613 #1: (2)滓]]
     ==
     - Sediments, dregs [[Kangxi: 澱也]];
     - _chap(7) (2)tsz'_
@@ -3198,7 +3198,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)秭]]
+  - [[Page~613 #4: (2)秭]]
     ==
     - A stack of corn;
     - ~~to number;~~
@@ -3369,7 +3369,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)紫]]
+  - [[Page~613 #7: (2)紫]]
     ==
     - A reddish blue [[Kangxi: 帛靑赤色]], ~~a clay color,~~ a nankeen tint;
     - ~~a fugacious, undecided hue;~~
@@ -3466,7 +3466,7 @@ F
   ==
 W
   ====
-  - [[Page~613 (2)胏]]
+  - [[Page~613 #5: (2)胏]]
     ==
     - The remnants of a meal [[Kangxi: 食所遺也]];
     - dried meat with the bones in it [[Kangxi: 脯有骨也]];
@@ -5297,7 +5297,7 @@ F
   ==
 W
   ====
-  - [[Page~613 字(6)]]
+  - [[Page~613 #9: 字(6)]]
     ==
     - A character [[Kangxi: 文字 etc.]], a letter;
     - lettered, marked, written on;
@@ -6147,7 +6147,7 @@ F
   ==
 W
   ====
-  - [[Page~613 自(6)]]
+  - [[Page~613 #8: 自(6)]]
     ==
     - A preposition, from, commencing at [[Kangxi: 由也, 從也]];
     - a pronoun, self, I [[Kangxi: ::[己]也::]];

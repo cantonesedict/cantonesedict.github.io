@@ -16619,6 +16619,90 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~613
+    ,{#page-613-entry-1} #1
+    ,{.williams} (2)滓
+    ,
+      <nav class="sideways">
+      ==
+      - $滓zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-2} #2
+    ,{.williams} (2)姊
+    ,
+      <nav class="sideways">
+      ==
+      - $姊zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-3} #3
+    ,{.williams} (2)泲
+    ,
+      <nav class="sideways">
+      ==
+      - $泲zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-4} #4
+    ,{.williams} (2)秭
+    ,
+      <nav class="sideways">
+      ==
+      - $秭zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-5} #5
+    ,{.williams} (2)胏
+    ,
+      <nav class="sideways">
+      ==
+      - $胏zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-6} #6
+    ,{.williams} (2)呰
+    ,
+      <nav class="sideways">
+      ==
+      - $疵ci1
+      - $呰zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-7} #7
+    ,{.williams} (2)紫
+    ,
+      <nav class="sideways">
+      ==
+      - $紫zi2
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-8} #8
+    ,{.williams} 自(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $自zi6
+      - $住zyu6
+      ==
+      </nav>
+  //
+    ,{#page-613-entry-9} #9
+    ,{.williams} 字(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $字zi6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)

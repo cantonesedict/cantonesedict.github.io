@@ -1858,7 +1858,7 @@ W
         [[jan2 bat1 zyu6 忍不住]]
         I can not bear it.
     ==
-  - [[Page~613 自(6) _Tsz'(6)_ (zi6); here corrected to 住 _Ch(u:)(6)_ (zyu6)]]
+  - [[Page~613 #8: 自(6) _Tsz'(6)_ (zi6); here corrected to 住 _Ch(u:)(6)_ (zyu6)]]
     ==
     - [[...]];
     - _(5)mai ~~tsz'(6)~~ ``ch(u:)(6)``_
