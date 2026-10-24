@@ -14214,6 +14214,90 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=9} Page~585
+    ,{#page-585-entry-1} #1
+    ,{.williams} (2)璪
+    ,
+      <nav class="sideways">
+      ==
+      - $璪zou2
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-2} #2
+    ,{.williams} (2)藻
+    ,
+      <nav class="sideways">
+      ==
+      - $藻zou2
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-3} #3
+    ,{.williams} 竈(3)灶(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $灶zou3
+      - ($竈zou3)
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-4} #4
+    ,{.williams} 做(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $做zou6
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-5} #5
+    ,{.williams} 造(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $造zou6
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-6} #6
+    ,{.williams} 皁(6)皂(6)
+    ,
+      <nav class="sideways">
+      ==
+      - ($皁zou6)
+      - $皂zou6
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-7} #7
+    ,{.williams} 祚(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $祚zou6
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-8} #8
+    ,{.williams} 胙(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $胙zou6
+      ==
+      </nav>
+  //
+    ,{#page-585-entry-9} #9
+    ,{.williams} 阼(6)
+    ,
+      <nav class="sideways">
+      ==
+      - $阼zou6
+      ==
+      </nav>
+  //
     ,{r=1} Page~716
     ,{#page-716-entry-8} #8
     ,{.williams} 洽(9)
