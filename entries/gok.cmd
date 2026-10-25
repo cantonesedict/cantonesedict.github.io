@@ -56,6 +56,19 @@ $$
 $$
 W
   ====
+  - [[Page~171 #5: 捔(8)]]
+    ==
+    - To seize an animal and drag it along by the horns;
+    - to stab an animal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~171 #3: 擱(8)]]
     ==
     - To obstruct, to hinder;
