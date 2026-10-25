@@ -154,6 +154,18 @@ E
        - 喺澳洲 (hai2 ou3 zau1): "In Australia."
        ==
     ++
+  - 【喺度】 (hai2 dou6)
+    ++
+    1. To be here.
+       ==
+       - 唔喺度 (m4 hai2 dou6): "[It] isn't here."
+       - 唔喺度 (m4 hai2 dou6): "[He] isn't here" (sometimes used euphemistically to indicate that someone has died).
+       ==
+    1. To be in the process of.
+       ==
+       - 喺度打機 (hai2 dou6 daa2 gei1): "Playing video games."
+       ==
+    ++
   ====
   --
   The spelling 喺 is arbitrary (but well established).

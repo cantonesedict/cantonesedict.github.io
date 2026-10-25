@@ -799,6 +799,9 @@ window.onload = applyFilter;
     , hai2
     , [喺](/entries/hai#cantonese-喺)
   //
+    , hai2 dou6
+    , [喺度](/entries/hai#cantonese-喺度)
+  //
     , hai6
     , [係](/entries/hai#cantonese-係)
   //
