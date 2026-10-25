@@ -303,6 +303,23 @@ $$
 $$
 W
   ====
+  - [[Page~173 #7: (2)鰔; here normalised to 鱤]]
+    ==
+    - A mudfish;
+    - _(2)k(o\)m (4)(u:)_ [[gam2 jyu4]]
+        or
+      _(1)f(a/) (2)k(o\)m_ [[faa1 gam2]],
+        a dusky green silure, the _Pimelodus guttatus_,
+        common in Canton in the spring months.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 噤(3)]]
     ==
     - Unable to speak from lockjaw or other disease;
