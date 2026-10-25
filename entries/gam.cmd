@@ -380,6 +380,11 @@ E
   噉~gam2 ("like so") is one of the few words with a Williams final of _(o\)m_
   that has resisted the shift to _am_ in modern Cantonese.
   --
+  --
+  **Note that 噉~gam2 ("like so") is a distinct word
+  from [錦~gam2 (particle of partiality)](#cantonese-錦).**
+  The latter *cannot* be pronounced [kom].
+  --
 $$
 
 <##
@@ -474,6 +479,7 @@ U
   U+9326
 A
   ==
+  - {𡄎=⿰口錦} (for Cantonese particle of partiality)
   - 锦 (Mainland simplified)
   ==
 F
@@ -518,6 +524,27 @@ L
     - (_noun-like_) brocade
     ==
   ====
+E
+  ====
+  - 【錦】 (gam2)
+    ++
+    1. A particle of partial amount.
+       ==
+       - 食錦啲先 (sik6 gam2 di1 sin1): "Eat [a] bit of [it] first."
+       - 冇錦唿 (mou5 gam2 fat1): "Lost [a] patch of [it]."
+       ==
+    ++
+  ====
+  --
+  The spelling 錦 is arbitrary.
+  The alternative spelling {𡄎=⿰口錦} has poorer font support.
+  --
+  --
+  The spellings 噉 and 咁 are inadvisable,
+  because [噉~gam2 ("like so")](#cantonese-噉) is a distinct word.
+  Unlike 噉~gam2 ("like so"), the particle 錦~gam2
+  *cannot* be pronounced [kom].
+  --
 $$
 
 <##

@@ -109,7 +109,7 @@ E
     ++
     1. A connected part or portion.
        ==
-       - 甩錦唿 (lat1 gam2 fat1): "Lost [a] patch [of hair]."
+       - 甩錦唿 (lat1 gam2 fat1): "Lost [a] patch of [hair]."
        - 邊一唿 (bin1 jat1 fat1): "Which part?"
        - 呢一唿 (ni1 jat1 fat1): "This part."
        ==

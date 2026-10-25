@@ -706,6 +706,9 @@ window.onload = applyFilter;
     , gam2
     , [噉](/entries/gam#cantonese-噉)
   //
+    , gam2
+    , [錦](/entries/gam#cantonese-錦)
+  //
     , gam3
     , [咁](/entries/gam#cantonese-咁)
   //
