@@ -84,6 +84,23 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~171 #6: 桷(8)]]
+    ==
+    - A rafter, the strips on which the tiles rest;
+    - a mallet;
+    - a handle;
+    - a tree in Kw(a/)ngtung [[廣東]],
+      called _(1)t(o\) kok(8) (2)tsz'_ [[dou1 gok3 zi2]],
+      whose fruit is the size of an egg.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with central vertical stroke not poking through (assumed here)
   or poking through toward the baseline.
