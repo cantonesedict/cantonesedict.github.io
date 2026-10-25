@@ -101,6 +101,59 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~171 #8: 覺(8)]]
+    ==
+    - Grand, exalted;
+    - correct, upright;
+    - to understand, to perceive;
+    - intelligent;
+    - to notice, to advert to;
+    - awake, aroused to;
+    - conscious;
+    - to feel;
+    - to bring to light, to manifest;
+    - _(5)ngo (4)'m kok(8) p(')ung(3) (1)ts(')an (5)n(i/)_
+        [[ngo5 m4 gok3 pung3 can1 nei5]],
+        I ran against you inadvertently;
+    - _kok(8) 'ng(6)_
+        [[gok3 ng6]]
+        aroused to a sense of;
+    - _f(a/)t(8) kok(8)_
+        [[faat3 gok3]]
+        divulged, discovered, transpired, brought to light;
+    - _kok(8) (4)wong_
+        [[gok3 wong4]],
+        Budha;
+    - _kok(8) tak(7) t(')ung(3)_
+        [[gok3 dak1 tung3]]
+        it hurts, I feel the pain;
+    - _shat(7) kok(8)_
+        [[sat1 gok3]]
+        inattentive;
+    - _(5)ts(')z' kok(8) hai(6) (2)k(o\)m_
+        [[ci5 gok3 hai6 gam2]],
+        I think it was like that;
+    - _Kok(8) (4)lo_
+        [[gok3 lo4]],
+        the Ghioro, the surname of the reigning family in Manch(u/);
+    - _(1)fan (4)mai pat(7) kok(8)_
+        [[fan1 mai4 bat1 gok3]]
+        stupid from grief;
+    - _(5)ngo kok(8) tak(7) (2)k(o\)m_
+        [[ngo5 gok3 dak1 gam2]],
+        I understood it in this way.
+    ==
+    --
+    [[...]]
+    --
+  ====
+$$
+##>
+
+<##
+$$
 H
   May appear with central vertical stroke not poking through (assumed here)
   or poking through toward the baseline.

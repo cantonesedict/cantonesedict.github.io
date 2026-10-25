@@ -586,7 +586,7 @@ W
     --
     ~~This character [[覺]] is merely used for these sounds.~~
     --
-  - [[Page~171 覺(8)]]
+  - [[Page~171 #8: 覺(8)]]
     --
     [[...]]
     --
