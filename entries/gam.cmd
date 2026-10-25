@@ -87,6 +87,20 @@ $$
 $$
 W
   ====
+  - [[Page~173 #3: (1)泔]]
+    ==
+    - Water in which rice has been washed,
+      called _(5)mai (1)k(o\)m (2)shui_ [[mai5 gam1 seoi2]]_;_
+    - it is used for washing sores.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #11: (1)甘]]
     ==
     - Sweet, grateful, relishing, agreeable to the taste;
