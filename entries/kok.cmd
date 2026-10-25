@@ -40,6 +40,21 @@ $$
 $$
 W
   ====
+  - [[Page~172 #3: 愨(8)]]
+    ==
+    - Sincere, guileless, good hearted, ingenuous, upright.
+    ==
+    --
+    Much the same as the preceding.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #2: 確(8)]]
     ==
     - A rock very prominent;
