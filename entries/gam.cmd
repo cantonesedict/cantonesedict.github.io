@@ -148,6 +148,24 @@ $$
 $$
 W
   ====
+  - [[Page~173 #4: (1)疳]]
+    ==
+    - A disease of children arising from imperfect digestion or bad treatment;
+    - _(1)k(o\)m tsik(7)_
+        [[gam1 zik1]]
+        pot bellied;
+    - _(1)k(o\)m (1)ch(')ong_
+        [[gam1 cong1]],
+        venereal ulcers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~173 #2: (1)苷]]
     ==
     - Liquorice, much used in Chinese pharmacy,
