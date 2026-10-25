@@ -21,3 +21,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~171 #7: 埆(8) _Kok(8)_ (gok3); here normalised to _K(')ok(8)_ (kok3)]]
+    ==
+    - Rough land, hilly and rocky;
+    - bad, poor land, like barrens;
+    - a rugged country.
+    ==
+  ====
+$$
+##>
