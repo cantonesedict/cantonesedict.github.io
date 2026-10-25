@@ -62,6 +62,19 @@ $$
 $$
 W
   ====
+  - [[Page~172 #10: 恪(8)]]
+    ==
+    - Diligent, attentive to, careful of, as one who serves in a temple;
+    - to respect, to regard, to revere.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #3: 愨(8)]]
     ==
     - Sincere, guileless, good hearted, ingenuous, upright.
