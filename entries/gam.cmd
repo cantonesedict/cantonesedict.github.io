@@ -61,6 +61,32 @@ $$
 $$
 W
   ====
+  - [[Page~173 #1: (1)柑]]
+    ==
+    - The coolie-mandarin orange _(Citrus margarita)_,
+      called _(4)ch(')(a/) (1)ch(i/) (1)k(o\)m_ [[caa4 zi1 gam1]]_;_
+    - _(1)k(o\)m (4)p(')(i/)_
+        [[gam1 pei4]],
+        orange peel;
+    - _(1)hoi (1)k(o\)m (1)pi(u/)_
+        [[hoi1 gam1 biu1]],
+        to gamble with guessing orange seeds;
+    - _(1)fan (1)k(o\)m (4)t(')ung m(i/)(6)_
+        [[fan1 gam1 tung4 mei6]]
+        to have the same taste after dividing the orange,
+        to divide a delicacy with others;
+    - _(1)k(o\)m k(o\)m(3) t(a/)i(6) p(i/)(6)_
+        [[gam1 gam3 daai6 bei6]]
+        a nose as big as an orange, supercilious.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #11: (1)甘]]
     ==
     - Sweet, grateful, relishing, agreeable to the taste;
