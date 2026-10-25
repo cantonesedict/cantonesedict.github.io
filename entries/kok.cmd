@@ -55,6 +55,22 @@ $$
 $$
 W
   ====
+  - [[Page~172 #4: {𣙜=⿰木寉}(8); here normalised to 榷]]
+    ==
+    - A kind of drawbridge, where toll is gathered;
+    - _k(')ok(8) shui(3)_
+        [[kok3 seoi3]]
+        toll;
+    - a species of Hovenia.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #2: 確(8)]]
     ==
     - A rock very prominent;
