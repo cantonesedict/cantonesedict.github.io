@@ -71,6 +71,24 @@ $$
 $$
 W
   ====
+  - [[Page~172 #6: 涸(8)]]
+    ==
+    - Dry, dried up, exhausted, run out;
+    - _(1)kon k(')ok(8)_
+        [[gon1 kok3]]
+        thirsty, parched by the sun, out of funds, needy;
+    - _(1)s(u/) k(')ok(8) ch(')(i/)t(8)_
+        [[sou1 kok3 cit3]]
+        to supply one in need, to give life [to a fish] in a dry rut.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #2: 確(8)]]
     ==
     - A rock very prominent;
