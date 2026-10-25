@@ -1428,6 +1428,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - ($幨cim1), $幨zim1
+      - $錦gam2
       ==
       </nav>
   //

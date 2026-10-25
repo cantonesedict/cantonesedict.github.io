@@ -11000,6 +11000,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~125
+    ,{#page-125-entry-3} #3
+    ,{.williams} (2)錦
+    ,
+      <nav class="sideways">
+      ==
+      - $錦gam2
+      ==
+      </nav>
+  //
     ,{r=1} Page~152
     ,{#page-152-entry-7} #7
     ,{.williams} (4)祇

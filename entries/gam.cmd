@@ -267,6 +267,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $噉2
+- $錦2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -463,32 +464,61 @@ W
 $$
 ##>
 
-<##
+### 錦2 | _(2)Kam_ [[gam2]]
+
 $$
+R
+  ⾦ + 8
+  ⼱ + 13
+U
+  U+9326
+A
+  ==
+  - 锦 (Mainland simplified)
+  ==
+F
+  ==
+  - (F2.37 錦) 五色絲所織
+  ==
 W
   ====
-  - [[Page~125 (2)錦]]
+  - [[Page~125 #3: (2)錦]]
     ==
-    - A kind of variegated silk used in ornamental work;
+    - ~~A kind~~ ``Ornamental work`` of variegated silk ~~used in ornamental work~~ [[Kangxi: 襄色織文也 etc.]];
     - embroidered, worked, or knit in colors;
     - elegant, figurative fine writing;
     - flowery, pictured;
-    - _(1)(i/) (2)kam_
-        [[ji1 gam2]],
+    - _~~(1)(i/)~~ ``(i/)(3)`` (2)kam_
+        [[ji3 gam2 衣錦]],
         the gentry, official persons;
     - _(2)kam (4)ch(')au_
-        [[gam2 cau4]],
+        [[gam2 cau4 錦綢]],
         figured pongee;
     - _shap(9) (2)kam (2)(u/)n t(i/)p(9)_
-        [[sap6 gam2 wun2 dip6]]
+        [[sap6 gam2 wun2 dip6 什錦碗碟]]
         colored chinaware;
     - _(2)kam sau(3) (4)man_
-        [[gam2 sau3 man4]],
+        [[gam2 sau3 man4 錦繡文]],
         an elegant style.
     ==
   ====
+C
+  ==
+  - Williams' "A kind of variegated silk used in ornamental work":
+    This is a poor rendering of both Kangxi 襄色織文也,
+    which defines 錦 as the ornamental work (not the silk),
+    and Fan Wan 五色絲所織,
+    which defines 錦 as 所織 "that weaved" (not the silk).
+  - Williams' 衣錦: Corrected _(1)(i/)_ (ji1) to _(i/)(3)_ (ji3).
+  ==
+L
+  ====
+  * 【錦】 (kimX)
+    ==
+    - (_noun-like_) brocade
+    ==
+  ====
 $$
-##>
 
 <##
 $$

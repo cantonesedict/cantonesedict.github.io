@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-10-06
+* %date-modified --> 2026-10-25
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4125,6 +4125,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) cave
       - (_noun-like_) hole
+      ==
+  //
+    , `kimX`
+    , [錦](/entries/gam#rendering-錦)
+    ,
+      ==
+      - (_noun-like_) brocade
       ==
   //
     , `kjwak`
