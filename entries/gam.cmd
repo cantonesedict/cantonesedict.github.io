@@ -359,6 +359,10 @@ E
     ++
   ====
   --
+  The spelling 噉 for gam2 is arbitrary (but well established).
+  The alternative spelling 咁 is also very common.
+  --
+  --
   **The word 噉~gam2 ("like so") is conservatively pronounced [kom], not [kɐm].**
   (Arguably, it would be better to romanise the conservative pronunciation
   as gum2 rather than gam2, but standard Jyutping does not permit this.)
@@ -367,9 +371,6 @@ E
   Alongside [咁~gam3 ("so/that")](#cantonese-咁),
   噉~gam2 ("like so") is one of the few words with a Williams final of _(o\)m_
   that has resisted the shift to _am_ in modern Cantonese.
-  --
-  --
-  The spellings 噉 and 咁 for gam2 are arbitrary (but well established).
   --
 $$
 
