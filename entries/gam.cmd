@@ -243,6 +243,39 @@ $$
 $$
 W
   ====
+  - [[Page~173 #6: (2)敢]]
+    ==
+    - To walk up to and take;
+    - to dare, to have the hardihood, to venture;
+    - presuming, bold, rash, intrepid;
+    - saucy;
+    - to offend good manners;
+    - at the beginning of a sentence, it answers to how, can;
+    - _(4)'m (2)k(o\)m ts(o\)(6)_
+        [[m4 gam2 zou6]]
+        dare not do it;
+    - _(4)'m (2)k(o\)m (1)tong_
+        [[m4 gam2 dong1]],
+        presume not to take it, can not venture;
+    - _(2)h(i/) (2)k(o\)m_
+        [[hei2 gam2]],
+        how can I presume?---\
+        are all polite expressions;
+    - _(2)t(a/)m (2)k(o\)m_
+        [[daam2 gam2]],
+        fearless, valorous;
+    - _(2)k(o\)m tsok(8) (2)k(o\)m (4)wai_
+        [[gam2 zok3 gam2 wai4]],
+        not afraid of doing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 (2)錦]]
     ==
     - A kind of variegated silk used in ornamental work;
