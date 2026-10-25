@@ -134,6 +134,19 @@ $$
 $$
 W
   ====
+  - [[Page~173 #2: (1)苷]]
+    ==
+    - Liquorice, much used in Chinese pharmacy,
+      called _(1)k(o\)m (2)ts(')(o\)_ [[gam1 cou2]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 (1)金]]
     ==
     - Metal, one of the five elements;
