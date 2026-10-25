@@ -616,7 +616,7 @@ E
     ++
   - 【啊-list】 (aa3)
     ++
-    1. A particle after each item in a list of examples.
+    1. A particle used after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
        ==
        - 例如蘋果啊、橙啊、香蕉啊 (lai6 jyu4 ping4 gwo2 aa3, caang4-2 aa3, hoeng1 ziu1 aa3): "Such as apples, oranges, bananas, ...."
