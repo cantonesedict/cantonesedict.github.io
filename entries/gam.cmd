@@ -335,6 +335,7 @@ E
        - 就噉 (zau6 gam2): "Leave it at that."
        - 噉點得㗎 (gam2 dim2 dak1 gaa3): "How [is] this acceptable?"
        - 噉至得咖嘛 (gam2 zi3 dak1 ga1 maa3): "Only like so [will it be] acceptable."
+       - 你噉都唔知 (nei5 gam2 dou1 m4 zi1): "[How can] you not even know [a simple thing] like that?"
        - 成個乞兒噉 (seng4 go3 hat1 ji4-1 gam2): "Like [a] complete beggar."
        - 如果你好似狗一樣噉食嘢 (jyu4 gwo2 nei5 hou2 ci5 gau2 jat1 joeng6 gam2 sik6 je5): "If you [will] eat things in such [a] manner [that is the] same as [a] dog" (see ''Kill Bill: Volume~2'').
        ==
