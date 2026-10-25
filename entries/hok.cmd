@@ -141,6 +141,24 @@ $$
 $$
 W
   ====
+  - [[Page~172 #9: 貉(8) _K(')ok(8)_ (kok3); here normalised to _Hok(9)_ (hok6)]]
+    ==
+    - A kind of animal, allied to the fox;
+    - it burrows, and sleeps much;
+    - has a sharp nose and long piebald fur;
+    - a badger?
+    - _(2)t(a/) ~~k(')ok(8)~~ ``hok(9)`` shui(6)_
+        [[daa2 hok6 seoi6]]
+        sleepy, lethargic.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~91 鶴(9)]]
     ==
     - A crane;
