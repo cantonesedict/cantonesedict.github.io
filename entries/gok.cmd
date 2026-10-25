@@ -56,6 +56,23 @@ $$
 $$
 W
   ====
+  - [[Page~171 #3: 擱(8)]]
+    ==
+    - To obstruct, to hinder;
+    - _(1)t(a/)m kok(8)_ [[daam1 gok3]]
+        or
+      _kok(8) ch(u:)(6)_ [[gok3 zyu6]]
+        to defer, to adjourn, to impede,
+        to put difficulties in the way.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~171 #2: 閣(8)]]
     ==
     - A door screen;
