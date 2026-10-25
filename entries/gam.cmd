@@ -61,6 +61,53 @@ $$
 $$
 W
   ====
+  - [[Page~172 #11: (1)甘]]
+    ==
+    - Sweet, grateful, relishing, agreeable to the taste;
+    - pleased, happy;
+    - voluntary, willing;
+    - pleasing, delightsome;
+    - specious, winning;
+    - the 99th~radical [[U+2F62 ⽢ "sweet"]] of characters of taste;
+    - _(1)k(o\)m (1)sam_
+        [[gam1 sam1]],
+        pleased, contented, resigned;
+    - _(1)k(o\)m m(i/)(6)_
+        [[gam1 mei6]]
+        luscious;
+    - _(1)k(o\)m (1)k(o\)m tik(7)_
+        [[gam1 gam1 dik1]]
+        rather sweet;
+    - _(1)k(o\)m (2)ch(i/)_
+        [[gam1 zi2]],
+        pleasant fond, such as is given to aged parents;
+    - _(1)k(o\)m (4)lam_
+        [[gam1 lam4]],
+        a timely rain;
+    - _(1)k(o\)m (2)f(u/)_
+        [[gam1 fu2]],
+        prosperity and adversity;
+    - _(1)k(o\)m (4)(i/)n_
+        [[gam1 jin4]]
+        a soft answer, kind words;
+    - _(1)k(o\)m lat(7) (5)(i/)_
+        [[gam1 lat1 ji5]],
+        very sweet;
+    - _(1)k(o\)m (4)yam (4)yam_
+        [[gam1 jam4 jam4]],
+        delicious;
+    - _(1)k(o\)m (5)k(')(u:) k(e/)(3)_
+        [[gam1 keoi5 ge3]]
+        it was stolen.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 (1)金]]
     ==
     - Metal, one of the five elements;
