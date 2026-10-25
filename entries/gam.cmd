@@ -22,7 +22,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 ==
 </nav>
 
-<## TODO: $感gam2 (⿱咸心 or ⿵咸心, extends) ##>
 
 <##
 $$
@@ -234,6 +233,55 @@ W
     - _chap(7) (1)kam_
         [[zap1 gam1]],
         to take up and re-inter the ashes of the dead.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+H
+  May appear as either ⿱咸心 or ⿵咸心 (assumed here),
+  depending on the font.
+  This extends to all characters containing 感 as a component.
+W
+  ====
+  - [[Page~173 #8: (2)感]]
+    ==
+    - To move the feelings, to excite;
+    - affected by, influenced, physically or mentally;
+    - _(2)k(o\)m (1)yan_
+        [[gam2 jan1]],
+        grateful, thankful;
+    - _(2)k(o\)m t(')(a/)n(3)_
+        [[gam2 taan3]]
+        moved to tears, sorry;
+    - _(2)k(o\)m k(a/)k(8)_
+        [[gam2 gaak3]]
+        to act upon beneficially;
+    - _(2)k(o\)m ts(e/)(6) (5)n(i/)_
+        [[gam2 ze6 nei5]],
+        obliged for, thank you much---\
+        the word _cumshaw_ is corrupted from this phrase;
+    - _(1)to (2)k(o\)m_
+        [[do1 gam2]],
+        many thanks;
+    - _(2)k(o\)m f(a/)(3) (4)yan (1)sam_
+        [[gam2 faa3 jan4 sam1]],
+        to transform the heart, converted;
+    - _(1)k(a/)u (2)k(o\)m_
+        [[gaau1 gam2]],
+        influence of the dual powers, conception;
+    - _(2)k(o\)m m(o\)(6) (1)fung (4)hon_
+        [[gam2 mou6 fung1 hon4]],
+        affected by the weather;
+    - _(2)k(o\)m tak(7) (1)sham_ [[gam2 dak1 sam1]],
+        or
+      _(2)k(o\)m kik(7)_ [[gam2 gik1]]
+        deeply thankful;
+    - _(2)k(o\)m (2)k(o\)m_
+        [[gam2 gam2]],
+        thanks.
     ==
   ====
 $$
