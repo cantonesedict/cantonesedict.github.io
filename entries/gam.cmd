@@ -10,10 +10,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
---{.modern}
-(From Page~125 (Kam) and Page~172 (K(o\)m) of the original onwards.)
---
-
 #{.williams} Kam. K(o\)m. [[gam]]
 
 <nav class="sideways">
@@ -21,6 +17,30 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Kam. [[Page~125]]
+  - K(o\)m. [[Page~172]]
+  ==
+WP
+  ==
+  - Kam <span class="modern">= *[kɐm]</span>
+  - K(o\)m <span class="modern">= *[koum]</span>
+  ==
+MP
+  ==
+  - gam = [kɐm], [kom] ((conservative in $噉gam2 "like so" and $咁gam3 "so/that"))
+  ==
+$$
 
 
 <##
