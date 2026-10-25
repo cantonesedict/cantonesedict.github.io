@@ -11021,6 +11021,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~172
+    ,{#page-172-entry-5} #5
+    ,{.williams} 篧(8)
+    ,
+      <nav class="sideways">
+      ==
+      - $篧zok6
+      ==
+      </nav>
+  //
     ,{r=1} Page~183
     ,{#page-183-entry-3} #3
     ,{.williams} (1)車

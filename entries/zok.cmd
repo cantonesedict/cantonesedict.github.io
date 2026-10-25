@@ -237,6 +237,7 @@ $$
 - $柞6
 - $濯6
 - $笮6
+- $篧6
 - $酢6
 - $鑿6
 - $鷟6
@@ -470,6 +471,44 @@ W
 S
   ==
   - $笮zaak3
+  ==
+$$
+
+###+ 篧6 | _Chok(9)_ [[zok6]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BE7
+A
+  ==
+  - 籗
+  - 籱
+  ==
+V
+  ==
+  - kok3 (per Fan Wan)
+  - zok3 (alternative per 《廣韻》側角切)
+  ==
+F
+  ==
+  - (F1.102 ::[篧]:: _K(')ok(8)_ (kok3)) 取魚之器
+  ==
+W
+  ====
+  - [[Page~172 #5: 篧(8) _K(')ok(8)_ (kok3); here normalised to _Chok(9)_ (zok6)]]
+    ==
+    - A lifting-net for fish [[Kangxi: 魚{𦋇=⿱罓卓} etc.]], made of fine bamboo network [[Kangxi: 李巡云編細竹以爲{𦋇=⿱罓卓}捕魚也]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱𥫗寉 to 篧.
+  ==
+S
+  ==
+  - ($篧kok3) (TODO)
   ==
 $$
 
