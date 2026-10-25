@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [gam2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -38,7 +39,7 @@ WP
   ==
 MP
   ==
-  - gam = [kɐm], [kom] ((conservative in $噉gam2 "like so" and $咁gam3 "so/that"))
+  - gam = [kɐm], [kom] ((conservative in [噉~gam2 ("like so")](#cantonese-噉) and [咁~gam3 ("so/that")](#cantonese-咁)^))
   ==
 $$
 
@@ -257,6 +258,104 @@ W
   ====
 $$
 ##>
+
+
+##{#2 .williams} (2)Kam (2)K(o\)m [[gam2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $噉2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 噉2 | _(2)K(o\)m_ [[gam2]]
+
+$$
+R
+  ⼝ + 12
+U
+  U+5649
+A
+  ==
+  - 咁 (Cantonese)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~173 #9: (2)噉]]
+    ==
+    - An adverb of quality, so, thus, this manner;
+    - an interjection of surprise;
+    - _(2)k(o\)m ~~(5)y(e/)ung~~ ``y(e/)ung(6)`` ts(o\)(6) tak(7)_
+        [[gam2 joeng6-2 zou6 dak1 噉樣做得]]
+        this will do, very well;
+    - _tsau(6) (2)k(o\)m_
+        [[zau6 gam2 就噉]],
+        stop, well;
+    - _(2)k(o\)m ~~(5)y(e/)ung~~ ``y(e/)ung(6)`` (2)tsz'_
+        [[gam2 joeng6 zi2 噉樣子]]
+        such a style!
+        used in depreciation;
+    - _(2)k(o\)m w(a/)(6)_
+        [[gam2 waa6 噉話]]
+        if you say so, if it be so;
+    - _(1)t(')ung (1)t(o\) hai(6) (2)k(o\)m k(e/)(3)_
+        [[tung1 dou1 hai6 gam2 ge3 通都係噉嘅]]
+        they are all just so, all alike;
+    - _(2)k(o\)m k(e/)(3)! (4)'m (2)h(o\) (2)k(o\)m_
+        [[gam2 ge3-2! m4 hou2 gam2 噉嘅、唔好噉]],
+        so! don't do so, that'll not do;
+    - _(2)k(o\)m (2)t(a/)m ts(o\)(6)_
+        [[gam2 daam2 zou6 噉膽做]]
+        so daring, brave.
+    ==
+  ====
+C
+  ==
+  - Williams' 噉樣做得: Corrected _(5)y(e/)ung_ (joeng5) to _y(e/)ung(6)_ (joeng6-2).
+  - Williams' 噉樣子: Corrected _(5)y(e/)ung_ (joeng5) to _y(e/)ung(6)_ (joeng6).
+    A more modern equivalent would be 噉嘅樣 gam2 ge3 joeng6-2.
+  - Williams' 噉膽做: Better rendered "[to] do [with] gall like so".
+    Not the best example with which to demonstrate 噉.
+  ==
+E
+  ====
+  - 【噉】 (gam2)
+    ++
+    1. Like so, like that, in such a manner, this way.
+       ==
+       - 噉樣 (gam2 joeng6-2): "Like so."
+       - 噉嘅樣 (gam2 ge3 joeng6-2): "Looking like that."
+       - 爛成噉 (laan6 seng4 gam2): "Broken to such [a degree]."
+       - 就噉 (zau6 gam2): "Leave it at that."
+       - 噉點得㗎 (gam2 dim2 dak1 gaa3): "How [is] this acceptable?"
+       - 噉至得咖嘛 (gam2 zi3 dak1 ga1 maa3): "Only like so [will it be] acceptable."
+       - 成個乞兒噉 (seng4 go3 hat1 ji4-1 gam2): "Like [a] complete beggar."
+       - 如果你好似狗一樣噉食嘢 (jyu4 gwo2 nei5 hou2 ci5 gau2 jat1 joeng6 gam2 sik6 je5): "If you [will] eat things in such [a] manner [that is the] same as [a] dog" (see ''Kill Bill: Volume~2'').
+       ==
+    1. Used conjunctively.
+       ==
+       - 噉走㗎喇 (gam2 zau2 ga3 laa3): "So then we'll [be] leaving."
+       ==
+    ++
+  ====
+  --
+  **The word 噉~gam2 ("like so") is conservatively pronounced [kom], not [kɐm].**
+  (Arguably, it would be better to romanise the conservative pronunciation
+  as gum2 rather than gam2, but standard Jyutping does not permit this.)
+  --
+  --
+  Alongside [咁~gam3 ("so/that")](#cantonese-咁),
+  噉~gam2 ("like so") is one of the few words with a Williams final of _(o\)m_
+  that has resisted the shift to _am_ in modern Cantonese.
+  --
+  --
+  The spellings 噉 and 咁 for gam2 are arbitrary (but well established).
+  --
+$$
 
 <##
 $$

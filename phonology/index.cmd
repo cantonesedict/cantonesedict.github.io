@@ -575,7 +575,7 @@ that collapses the merged pairs (including Jyutping).
     , [__um__ as in s__um__],
       in a general Australian accent,
     , Conservatively pronounced [om] in vernacular
-      $噉gam2 "like so" and $咁gam3 "so/that".
+      [噉~gam2 ("like so")](/entries/gam#cantonese-噉) and [咁~gam3 ("so/that")](/entries/gam#cantonese-咁).
       Also heard as [om] in 泵 (bam1) "pump" etc.
   //
     , 真

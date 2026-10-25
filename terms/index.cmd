@@ -703,6 +703,9 @@ window.onload = applyFilter;
     , gai1 pei4 zi2
     , [雞皮紙](/entries/zi#cantonese-雞皮紙)
   //
+    , gam2
+    , [噉](/entries/gam#cantonese-噉)
+  //
     , gam3 zai6
     , [咁嚌](/entries/zai#cantonese-咁嚌)
   //

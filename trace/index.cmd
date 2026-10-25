@@ -11031,6 +11031,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~173
+    ,{#page-173-entry-9} #9
+    ,{.williams} (2)噉
+    ,
+      <nav class="sideways">
+      ==
+      - $噉gam2
+      ==
+      </nav>
+  //
     ,{r=1} Page~183
     ,{#page-183-entry-3} #3
     ,{.williams} (1)車
