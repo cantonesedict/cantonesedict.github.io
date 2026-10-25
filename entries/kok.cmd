@@ -40,6 +40,28 @@ $$
 $$
 W
   ====
+  - [[Page~172 #7: 壑(8)]]
+    ==
+    - A valley, bed of a torrent, a deep gully;
+    - a fosse, a city-ditch;
+    - _(4)ngai (4)ng(a/)m ~~ts(u:)t(8)~~ ``ts(u:)t(9)`` k(')ok(8)_
+        [[ngai4 ngaam4 zyut6 kok3]]
+        an abrupt precipice, a road impassible from gulches and ravines;
+    - _t(a/)i(6) k(')ok(8)_
+        [[daai6 kok3]]
+        the ocean;
+    - _(1)k(')ai k(')ok(8)_
+        [[kai1 kok3]]
+        mountain streams.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~172 #3: 愨(8)]]
     ==
     - Sincere, guileless, good hearted, ingenuous, upright.
