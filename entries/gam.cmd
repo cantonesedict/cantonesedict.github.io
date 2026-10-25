@@ -346,7 +346,7 @@ E
     ++
   - 【係噉意】 (hai6 gam2 ji3-2)
     ++
-    1. With barely any effort put in.
+    1. With barely any effort put in. (Literally, "intention being like so".)
        ==
        - 係噉意 (hai6 gam2 ji3-2): "[I] barely made [an] effort" (used when presenting someone with a gift).
        - 係噉意揩吓 (hai6 gam2 ji3-2 haai1 haa5): "Brushed against with barely any effort" (i.e. not washed properly).
