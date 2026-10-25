@@ -318,6 +318,8 @@ C
   - Williams' 噉樣做得: Corrected _(5)y(e/)ung_ (joeng5) to _y(e/)ung(6)_ (joeng6-2).
   - Williams' 噉樣子: Corrected _(5)y(e/)ung_ (joeng5) to _y(e/)ung(6)_ (joeng6).
     A more modern equivalent would be 噉嘅樣 gam2 ge3 joeng6-2.
+  - Williams' 噉嘅: This is a rhetorical interrogative,
+    better rendered "like so?" than "so!".
   - Williams' 噉膽做: Better rendered "[to] do [with] gall like so".
     Not the best example with which to demonstrate 噉.
   ==
