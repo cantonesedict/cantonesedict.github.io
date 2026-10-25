@@ -652,7 +652,7 @@ E
        ==
        - 之前去過 (zi1 cin4 heoi3 gwo3): "[I've] been [there] before."
        ==
-    1. Before (when used as a suffix to an event).
+    1. Before, when used as a suffix to an event.
        ==
        - 瞓覺之前 (fan3 gaau3 zi1 cin4): "Before sleeping."
        - 上機之前 (soeng5 gei1 zi1 cin4): "Before boarding [the] flight."
