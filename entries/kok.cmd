@@ -35,3 +35,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~172 #2: 確(8)]]
+    ==
+    - A rock very prominent;
+    - hard, firm, solid;
+    - really, certainly, in fact, indeed;
+    - sincere, truthful;
+    - resolute;
+    - _(4)'m k(')ok(8)_
+        [[m4 kok3]]
+        doubtful;
+    - _k(')ok(8) shat(9) hai(6)_
+        [[kok3 sat6 hai6]]
+        verily so;
+    - _tik(7) k(')ok(8)_
+        [[dik1 kok3]]
+        in fact, even so;
+    - _k(')ok(8) tsok(9)_
+        [[kok3 zok6]]
+        substantial;
+    - _k(')ok(8) (4)(i/)n_
+        [[kok3 jin4]],
+        surely.
+    ==
+  ====
+$$
+##>
