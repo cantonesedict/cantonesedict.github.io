@@ -285,15 +285,14 @@ F
 W
   [[Not present]]
 E
-  ^
-  --
-  **One of the five profanities censored on Hong Kong television.**
-  --
   ====
   - 【{𨳍=⿵門七}】 (cat6)
     ++
     1. (_vulgar_) A flaccid penis.
     ++
+    --
+    **One of the five profanities censored on Hong Kong television.**
+    --
     --
     A literal translation would be "droop-dick".
     For non-literal senses, see the [Wiktionary entry for {𨳍=⿵門七}][wiktionary-𨳍^].

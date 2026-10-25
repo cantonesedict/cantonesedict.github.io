@@ -65,16 +65,15 @@ F
 W
   [[Not present]]
 E
-  ^
-  --
-  **One of the five profanities censored on Hong Kong television.**
-  --
   ====
   - 【閪】 (hai1)
     ++
     1. (_vulgar_) The vulva.
     1. (_vulgar_) The vagina.
     ++
+    --
+    **One of the five profanities censored on Hong Kong television.**
+    --
     --
     More or less equivalent to English "cunt".
     For non-literal senses, see the [Wiktionary entry for 閪][wiktionary-閪].
