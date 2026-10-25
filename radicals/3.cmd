@@ -114,6 +114,7 @@ For all radicals, see [Index of characters by radical](./).
       - ${𠱥=⿰口卉}fik1
       - $呼fu1
       - $咐fu3
+      - $咁gam3
       - $咋zaa3, $咋zaak3
       - $周zau1
       - ($呪zau3)

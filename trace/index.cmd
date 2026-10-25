@@ -11031,13 +11031,22 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
-    ,{r=1} Page~173
+    ,{r=2} Page~173
     ,{#page-173-entry-9} #9
     ,{.williams} (2)噉
     ,
       <nav class="sideways">
       ==
       - $噉gam2
+      ==
+      </nav>
+  //
+    ,{#page-173-entry-10} #10
+    ,{.williams} 咁(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $咁gam3
       ==
       </nav>
   //

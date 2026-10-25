@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [gam2](#2)
+- [gam3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -315,6 +316,8 @@ W
   ====
 C
   ==
+  - Even in modern Cantonese,
+    this word is conservatively pronounced [kom], not [kɐm]. See below.
   - Williams' 噉樣做得: Corrected _(5)y(e/)ung_ (joeng5) to _y(e/)ung(6)_ (joeng6-2).
   - Williams' 噉樣子: Corrected _(5)y(e/)ung_ (joeng5) to _y(e/)ung(6)_ (joeng6).
     A more modern equivalent would be 噉嘅樣 gam2 ge3 joeng6-2.
@@ -329,6 +332,7 @@ E
     ++
     1. Like so, like that, in such a manner, this way.
        ==
+       - 乜你噉㗎 (mat1 nei5 gam2 gaa3): "Why [are] you like this?"
        - 噉樣 (gam2 joeng6-2): "Like so."
        - 噉嘅樣 (gam2 ge3 joeng6-2): "Looking like that."
        - 爛成噉 (laan6 seng4 gam2): "Broken to such [a degree]."
@@ -502,6 +506,93 @@ W
   ====
 $$
 ##>
+
+
+##{#3 .williams} Kam(3) K(o\)m(3) [[gam3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $咁3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 咁3 | _K(o\)m(3)_ [[gam3]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+5481
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~173 #10: 咁(3)]]
+    ==
+    - An adverb of quantity;
+    - so, such;
+    - _k(o\)m(3) (5)(u:)n_
+        [[gam3 jyun5 咁遠]],
+        so far!
+    - _k(o\)m(3) (2)ts(o\)_
+        [[gam3 zou2 咁早]],
+        so early!
+    - _k(o\)m(3) mat(7) (5)y(e/)_
+        [[gam3 mat1 je5 咁乜嘢]],
+        why so? what is the reason?
+    - _s(e/)ung(3) ~~mau(6)~~ ``m(a/)u(6)`` k(o\)m(3) (2)ch(')au_
+        [[soeng3 maau6 gam3 cau2 相貌咁醜]],
+        such an ugly face;
+    - _k(o\)m(3) (1)sh(a/) (2)t(a/)m_
+        [[gam3 saa1 daam2 咁沙膽]],
+        ``such`` great courage;
+    - _k(o\)m(3) (1)to_
+        [[gam3 do1 咁多]],
+        so many.
+    ==
+  ====
+C
+  ==
+  - Even in modern Cantonese,
+    this word is conservatively pronounced [kom], not [kɐm]. See below.
+  - Williams' 相貌咁醜: Corrected _mau(6)_ (mau6) to _m(a/)u(6)_ (maau6).
+  ==
+E
+  ====
+  - 【咁】 (gam3)
+    ++
+    1. So, that, to such an extent.
+       ==
+       - 乜你咁蠢㗎 (mat1 nei5 gam3 ceon2 gaa3): "Why [are] you so stupid?"
+       - 得咁多 (dak1 gam3 do1): "[There's] only that much."
+       - 咁晏 (gam3 aan3): "That late [in the day]?"
+       - 咁夜 (gam3 je6): "That late [at night]?"
+       - 咁誇張 (gam3 kwaa1 zoeng1): "[Is it] that ridiculous?"
+       - 咁得人驚 (gam3 dak1 jan4 geng1): "[Is it] that frightful?"
+       - 冇你咁好氣 (mou5 nei5 gam3 hou2 hei3): "[I] don't have that good endurance as you" (i.e. I won't persist with you).
+       ==
+    ++
+  ====
+  --
+  The spelling 咁 is arbitrary (but well established).
+  --
+  --
+  **The word 咁~gam3 ("so/that") is conservatively pronounced [kom], not [kɐm].**
+  (Arguably, it would be better to romanise the conservative pronunciation
+  as gum3 rather than gam3, but standard Jyutping does not permit this.)
+  --
+  --
+  Alongside [噉~gam2 ("like so")](#cantonese-噉),
+  咁~gam3 ("so/that") is one of the few words with a Williams final of _(o\)m_
+  that has resisted the shift to _am_ in modern Cantonese.
+  --
+S
+  ==
+  - ($咁gam2) (TODO)
+  ==
+$$
 
 <##
 $$
