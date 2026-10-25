@@ -192,6 +192,22 @@ $$
 $$
 W
   ====
+  - [[Page~173 #5: (1)橄 _(1)K(o\)m_ (gam1); here normalised to _K(a/)m(3)_ (gaam3)]]
+    ==
+    - The Chinese olive, called _~~(1)k(o\)m~~ ``k(a/)m(3)`` (2)l(a/)m_ [[gaam3 laam5-2]],
+      the _Canarium_.
+    ==
+    --
+    It belongs to the Terebinthaceæ, and resembles the real olive chiefly in shape.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~127 鑒(3)鑑(3)]]
     ==
     - A tub in which the moon shines;
