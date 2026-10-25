@@ -593,7 +593,7 @@ W
   ====
 $$
 
-### ~~{𦋇=⿱罓卓}~~``罩``3 | _Ch(a/)u(3)_ [[zaau3]]
+###+ 罩3 | _Ch(a/)u(3)_ [[zaau3]]
 
 $$
 R
@@ -604,6 +604,7 @@ A
   ==
   - 箌
   - 䈇
+  - {𦋇=⿱罓卓}
   ==
 F
   ==
@@ -612,7 +613,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 #4: ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
+  - [[Page~29|n72 #4: {𦋇=⿱罓卓}(3); here normalised to 罩]]
     ==
     - A net, or basket to catch mud fish by covering them [[Kangxi 罩: 捕魚器也]];
     - to catch or cover over;
