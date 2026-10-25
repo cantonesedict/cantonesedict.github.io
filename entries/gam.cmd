@@ -341,6 +341,10 @@ E
        - 噉走㗎喇 (gam2 zau2 ga3 laa3): "So then we'll [be] leaving."
        ==
     ++
+  - 【係噉先】 (hai6 gam2 sin1)
+    ++
+    1. Used to wrap up a conversation. (Literally, "[let it] be like so [at] first".)
+    ++
   ====
   --
   **The word 噉~gam2 ("like so") is conservatively pronounced [kom], not [kɐm].**

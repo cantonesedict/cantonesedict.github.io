@@ -808,6 +808,9 @@ window.onload = applyFilter;
     , hai6 gam2
     , [係噉](/entries/hai#cantonese-係噉)
   //
+    , hai6 gam2 sin1
+    , [係噉先](/entries/gam#cantonese-係噉先)
+  //
     , hai6 mai6
     , [係咪](/entries/hai#cantonese-係咪)
   //
