@@ -514,6 +514,17 @@ E
        - 係都唔聽 (hai6 dou1 m4 teng1): "[He just] *has* to not listen [to me]."
        ==
     ++
+  - 【係噉】 (hai6 gam2)
+    ++
+    1. Incessantly.
+       (Literally, "like being".
+       This term is spoken with an emphasis or lingering on 係,
+       so as to distinguish it from conjunctive 係噉 "being so" or "then".)
+       ==
+       - 係噉鬧 (hai6 gam2 naau6): "Incessantly scolding."
+       - 係噉嘈 (hai6 gam2 cou4): "Incessantly making noise."
+       ==
+    ++
   - 【係咪】 (hai6 mai6)
     ++
     1. Short for ::[係](#cantonese-係)唔係::, "is [it or] isn't [it]".
