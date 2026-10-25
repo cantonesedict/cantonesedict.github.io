@@ -233,6 +233,20 @@ $$
 $$
 W
   ====
+  - [[Page~172 #1: 較(8)]]
+    ==
+    - Brazen horns used to support the flagstaffs and spears in a chariot;
+    - a boot in a car;
+    - to wrangle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~171 #2: 閣(8)]]
     ==
     - A door screen;
