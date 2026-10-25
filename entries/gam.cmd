@@ -353,6 +353,10 @@ E
     ++
     1. Used to wrap up a conversation. (Literally, "[let it] be like so [at] first".)
     ++
+  - 【就噉】 (zau6 gam2)
+    ++
+    1. To leave it at that, to not do any more.
+    ++
   ====
   --
   **The word 噉~gam2 ("like so") is conservatively pronounced [kom], not [kɐm].**

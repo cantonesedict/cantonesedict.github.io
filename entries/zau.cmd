@@ -2241,10 +2241,6 @@ E
     ++
     1. Soon.
     ++
-  - 【就噉】 (zau6 gam2)
-    ++
-    1. To leave it at that, to not do any more.
-    ++
   - 【就嚟】 (zau6 lai4)
     ++
     1. Soon.

@@ -1274,7 +1274,7 @@ window.onload = applyFilter;
     , [就快](/entries/zau#cantonese-就快)
   //
     , zau6 gam2
-    , [就噉](/entries/zau#cantonese-就噉)
+    , [就噉](/entries/gam#cantonese-就噉)
   //
     , zau6 lai4
     , [就嚟](/entries/zau#cantonese-就嚟)
