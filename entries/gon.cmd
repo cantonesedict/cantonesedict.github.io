@@ -144,3 +144,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~174 #8: (1)肝]]
+    ==
+    - The liver;
+    - it belongs to wood, and rules the system;
+    - intimate;
+    - the feelings;
+    - a brown, umber color;
+    - _(2)p(i/) tong(3) (1)sam (1)kon_
+        [[bei2 dong3 sam1 gon1]],
+        he is, as my heart and liver, as myself;
+    - _(1)ch(u:) (1)kon shik(7)_
+        [[zyu1 gon1 sik1]]
+        dark brown, color of pig's liver;
+    - _(1)kon (4)ch(')(e/)ung ts(')(u:)n(3) t(u:)n(6)_
+        [[gon1 coeng4 cyun3 dyun6]]
+        liver and bowels cut into inches, greatly afflicted.
+    ==
+  ====
+$$
+##>
