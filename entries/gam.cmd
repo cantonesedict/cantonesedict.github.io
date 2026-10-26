@@ -721,6 +721,20 @@ $$
 $$
 W
   ====
+  - [[Page~174 #2: 贛(3)]]
+    ==
+    - The prefecture of K(a/)nchau [[贛州]]
+      in the southern part of Ki(a/)ngs(i/) [[江西]];
+    - K(a/)n hien [[贛縣]] is a district in this department.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 搇(6); here normalised to 撳]]
     ==
     - To press down, to hold fast, to lay the hand on;
