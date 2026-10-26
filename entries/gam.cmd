@@ -346,7 +346,7 @@ E
        ==
     1. Used conjunctively.
        ==
-       - 噉走㗎喇 (gam2 zau2 ga3 laa3): "So then we'll [be] leaving."
+       - 噉走㗎喇 (gam2 zau2 ga3 laa3): "So [then we'll be] leaving."
        ==
     ++
   - 【係噉意】 (hai6 gam2 ji3-2)
