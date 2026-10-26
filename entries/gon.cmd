@@ -100,3 +100,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~174 #6: (1)竿]]
+    ==
+    - Culm of the bamboo;
+    - slender wooden things as a rod, pole, cane, shaft, staff, &c.,
+      often made of bamboo;
+    - _ch(')ing(3) (1)kon_
+        [[cing3 gon1]],
+        beam of the dotchin;
+    - _ti(u/)(3) (1)kon_
+        [[diu3 gon1]],
+        a fishing-rod;
+    - _yat(7) (1)kon chuk(7)_
+        [[jat1 gon1 zuk1]]
+        a bamboo;
+    - _ts(i/)n(3) (1)kon_
+        [[zin3 gon1]],
+        shaft of an arrow;
+    - _ch(e/)ung(3) (1)kon chuk(7)_
+        [[zoeng3 gon1 zuk1]]
+        stick for a curtain valance.
+    ==
+  ====
+$$
+##>
