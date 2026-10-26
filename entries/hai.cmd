@@ -528,7 +528,7 @@ E
   - 【係噉】 (hai6 gam2)
     ++
     1. Incessantly.
-       (Literally, "like being".
+       (Literally, "in such manner [as] being".
        This term is typically spoken with a subtle emphasis or lingering on 係,
        so as to distinguish it from conjunctive 係噉 "being so" or "then".)
        ==
