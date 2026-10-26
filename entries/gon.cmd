@@ -77,3 +77,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~174 #5: (1)杆]]
+    ==
+    - A valuable tree, good for spear handles;
+    - a club, a staff;
+    - post in a railing;
+    - _(4)wai (1)kon_
+        [[wai4 gon1]],
+        a mast, a flag-staff;
+    - _(4)k(')(i/) (1)kon k(a/)p(8)_
+        [[kei4 gon1 gaap3]]
+        the clamps or fids which uphold a mast;
+    - _(1)p(i/)n (1)kon_
+        [[bin1 gon1]],
+        a walking stick.
+    ==
+  ====
+$$
+##>
