@@ -105,6 +105,21 @@ $$
 $$
 W
   ====
+  - [[Page~174 #7: (1)玕]]
+    ==
+    - An inferior gem, a kind of coral;
+    - _(4)long (1)kon_
+        [[long4 gon1]],
+        name given to ornaments made of branching coral of the genus Isis.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~174 #6: (1)竿]]
     ==
     - Culm of the bamboo;
