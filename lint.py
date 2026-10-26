@@ -1777,11 +1777,12 @@ class CmdSource:
     file_name: str
     content: str
     digest: str
+    linter_digest: str
     todo_count: int
     entry_page: Optional['EntryPage']
     radical_page: Optional['RadicalPage']
 
-    def __init__(self, file_name: str, content: str, digest: str):
+    def __init__(self, file_name: str, content: str, digest: str, linter_digest: str):
         todo_count = content.count('TODO')
 
         try:
@@ -1825,6 +1826,7 @@ class CmdSource:
         self.file_name = file_name
         self.content = content
         self.digest = digest
+        self.linter_digest = linter_digest
         self.todo_count = todo_count
         self.entry_page = entry_page
         self.radical_page = radical_page
@@ -3912,6 +3914,11 @@ class Linter:
     cantonese_entries: list['CantoneseEntry']
 
     def __init__(self):
+        with open(__file__, 'rb') as linter_file:
+            linter_binary = linter_file.read()
+
+        linter_digest = hashlib.sha256(linter_binary).hexdigest()
+
         cmd_file_names = [
             os.path.normpath(os.path.join(path, file_name)).replace('\\', '/')
             for path, _, file_names in os.walk(os.curdir)
@@ -3927,20 +3934,22 @@ class Linter:
             try:
                 cached_cmd_source = cached_cmd_source_from_file_name[file_name]
                 cached_digest = cached_cmd_source.digest
-            except KeyError:
+                cached_linter_digest = cached_cmd_source.linter_digest
+            except (AttributeError, KeyError):
                 cached_cmd_source = None
                 cached_digest = None
+                cached_linter_digest = None
 
             with open(file_name, 'rb') as cmd_file:
                 content_binary = cmd_file.read()
 
             digest = hashlib.sha256(content_binary).hexdigest()
 
-            if digest == cached_digest:
+            if digest == cached_digest and linter_digest == cached_linter_digest:
                 cmd_sources.append(cached_cmd_source)
             else:
                 content = content_binary.decode('utf-8')
-                cmd_sources.append(CmdSource(file_name, content, digest))
+                cmd_sources.append(CmdSource(file_name, content, digest, linter_digest))
 
         entry_pages = [
             entry_page
