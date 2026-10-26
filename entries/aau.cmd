@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,7 +118,7 @@ V
   ==
 F
   ==
-  - (F2.42 上聲 拗) 屋狡切以手拉折物
+  - (F2.42 (上聲) 拗) 屋狡切以手拉折物
   ==
 W
   ====
@@ -317,7 +317,7 @@ V
   ==
 F
   ==
-  - (F2.42 去聲 拗) 偏急不相合也
+  - (F2.42 (去聲) 拗) 偏急不相合也
   ==
 W
   ====
