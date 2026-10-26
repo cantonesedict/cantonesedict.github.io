@@ -708,6 +708,19 @@ $$
 $$
 W
   ====
+  - [[Page~174 #1: 紺(3)]]
+    ==
+    - A violet color, a rose red,
+      which the good man, it is said, does not wear.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 搇(6); here normalised to 撳]]
     ==
     - To press down, to hold fast, to lay the hand on;
