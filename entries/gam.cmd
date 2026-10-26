@@ -672,6 +672,19 @@ $$
 $$
 W
   ====
+  - [[Page~174 #3: 灨(3)]]
+    ==
+    - The large river of Ki(a/)ngs(i/) [[江西]]
+      which flows north into the Poy(a/)ng [[鄱陽]] lake.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~125 禁(3)]]
     ==
     - To prohibit, to guard against, to warn or forbid,
