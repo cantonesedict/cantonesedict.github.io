@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hai
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-26
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -529,7 +529,7 @@ E
     ++
     1. Incessantly.
        (Literally, "like being".
-       This term is spoken with an emphasis or lingering on 係,
+       This term is typically spoken with a subtle emphasis or lingering on 係,
        so as to distinguish it from conjunctive 係噉 "being so" or "then".)
        ==
        - 係噉鬧 (hai6 gam2 naau6): "Incessantly scolding."
