@@ -228,3 +228,49 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~175 #1: (2)赶(2)趕]]
+    ==
+    - To pursue, to run after;
+    - to hurry, to do quick;
+    - to expel;
+    - to strive with, to emulate;
+    - busy, urged by, hastened, in a hurry;
+    - _(2)kon f(a/)i(3)_
+        [[gon2 faai3]]
+        in a hurry, haste;
+    - _(2)kon (2)kan ts(o\)(6)_
+        [[gon2 gan2 zou6]]
+        do it quick;
+    - _(2)kon ~~ch(')uk(9)~~ ``chuk(9)``_
+        [[gon2 zuk6]]
+        to drive out, to eject;
+    - _(5)ngo (2)kon (5)sh(e/)ung (5)n(i/)_
+        [[ngo5 gon2 soeng5 nei5]],
+        I'll catch up with you;
+    - _(2)kon (5)yau sz'(6)_
+        [[gon2 jau5 si6]]
+        hurried by business;
+    - _(2)kon l(o\)(6)_
+        [[gon2 lou6]]
+        to hasten one's pace;
+    - _(2)kon ch(')(a/)m(3)_
+        [[gon2 caam3]]
+        to hurry home;
+    - _(2)kon t(o\)(3) (5)m(o\) l(o\)(6)_
+        [[gon2 dou3 mou5 lou6]]
+        driven into a corner, no means of relief;
+    - _(2)kon shun(6) (2)shui_
+        [[gon2 seon6 seoi2]],
+        to avail of the tide;
+    - _(2)kon kwo(3) (4)t(')au_
+        [[gon2 gwo3 tau4]],
+        needlessly fast.
+    ==
+  ====
+$$
+##>
