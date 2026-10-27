@@ -130,3 +130,24 @@ $$
 ##>
 
 <## TODO: $扛gong6 (crab) claw, also spelt 螯 (appropriation), 弶 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~719 #11: 抗(6)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - Obstinate, willful;
+    - _kong(6) (2)keng k(e/)(3) (4)yan_
+        [[gong6 geng2 ge3 jan4]],
+        an obstinate fellow;
+    - _kong(6) (4)lui_
+        [[gong6 leoi4]],
+        perverse.
+    ==
+  ====
+$$
+##>
