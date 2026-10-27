@@ -348,3 +348,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~175 #4: 骭(3)]]
+    ==
+    - The tibia;
+    - the ribs;
+    - applied to the bones of the body generally.
+    ==
+  ====
+$$
+##>
