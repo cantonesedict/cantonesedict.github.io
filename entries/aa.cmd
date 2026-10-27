@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -754,6 +754,7 @@ E
        ==
        - 今晚呀 (gam1 maan5-1 a4): "Tonight?"
        - 唔飲呀 (m4 jam2 a4): "[Oh, you're] not drinking [it]?"
+       - 噉呀 (gam2 a4): "[Oh, it's] like that..." (used to indicate need for reconsideration in light of new or surprising information).
        ==
     1. A vocative particle, especially used before asking a question.
        ==
