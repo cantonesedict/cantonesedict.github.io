@@ -129,6 +129,25 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~176 #1: 鋼(3)]]
+    ==
+    - Iron assayed by fire, steel;
+    - hard;
+    - _(4)t(')au hok(8) (5)yau kong(3)_
+        [[tau4 hok3 jau5 gong3]]
+        hardheaded;
+    - _kong(3) (1)p(i/)n_
+        [[gong3 bin1]]
+        steel whip, a sort of mace.
+    ==
+  ====
+$$
+##>
+
 <## TODO: $扛gong6 (crab) claw, also spelt 螯 (appropriation), 弶 ##>
 
 <##
