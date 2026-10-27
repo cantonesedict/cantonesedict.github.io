@@ -626,6 +626,7 @@ E
        - 得咁多 (dak1 gam3 do1): "[There's] only that much."
        - 咁晏 (gam3 aan3): "That late [in the day]?"
        - 咁夜 (gam3 je6): "That late [at night]?"
+       - 咁啱嘅 (gam3 ngaam1 ge3-2): "What [a] coincidence!" (i.e. fancy seeing you here).
        - 咁誇張 (gam3 kwaa1 zoeng1): "[Is it] that ridiculous?"
        - 咁得人驚 (gam3 dak1 jan4 geng1): "[Is it] that frightful?"
        - 冇你咁好氣 (mou5 nei5 gam3 hou2 hei3): "[I] don't have that good endurance as you" (i.e. I won't persist with you).
