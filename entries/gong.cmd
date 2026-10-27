@@ -90,6 +90,10 @@ W
         [[gong1 deng2 cung4]],
         [like a] hill-top fir, unapproachable.
     ==
+  - [[Page~719 #9: (1)崗]]
+    --
+    is a common form of 岡, a hill.
+    --
   ====
 $$
 ##>
