@@ -133,6 +133,22 @@ $$
 $$
 W
   ====
+  - [[Page~176 #2: (1)罡]]
+    ==
+    - A star;
+    - _(1)t(')(i/)n (1)kong_
+        [[tin1 gong1]],
+        the seven stars in the constellation of the Great Bear, the Dipper;
+        much used in charms.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #1: 鋼(3)]]
     ==
     - Iron assayed by fire, steel;
