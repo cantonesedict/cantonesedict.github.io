@@ -371,7 +371,7 @@ E
   The alternative spelling 咁 is also very common.
   --
   --
-  **The word 噉~gam2 ("like so") is conservatively pronounced [kom], not [kɐm].**
+  The word 噉~gam2 ("like so") is conservatively pronounced [kom], not [kɐm].
   (Arguably, it would be better to romanise the conservative pronunciation
   as gum2 rather than gam2, but standard Jyutping does not permit this.)
   --
@@ -381,8 +381,8 @@ E
   that has resisted the shift to _am_ in modern Cantonese.
   --
   --
-  **Note that 噉~gam2 ("like so") is a distinct word
-  from [錦~gam2 (particle of partiality)](#cantonese-錦).**
+  Note that 噉~gam2 ("like so") is a *distinct* word
+  from [錦~gam2 (particle of partiality)](#cantonese-錦).
   The latter *cannot* be pronounced [kom].
   --
 $$
@@ -641,7 +641,7 @@ E
   The spelling 咁 is arbitrary (but well established).
   --
   --
-  **The word 咁~gam3 ("so/that") is conservatively pronounced [kom], not [kɐm].**
+  The word 咁~gam3 ("so/that") is conservatively pronounced [kom], not [kɐm].
   (Arguably, it would be better to romanise the conservative pronunciation
   as gum3 rather than gam3, but standard Jyutping does not permit this.)
   --
