@@ -26,6 +26,65 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~174 #9: (1)乾(1)亁]]
+    ==
+    - Dry, exhausted;
+    - to dry;
+    - clean, entirely;
+    - _(1)kon tseng(6)_
+        [[gon1 zeng6 乾淨]]
+        ~~limped~~ ``limpid``, pure;
+    - _m(a/)i(6) (1)kon tseng(6)_
+        [[maai6 gon1 zeng6]]
+        all sold;
+    - _(1)kon m(u/)t(9)_
+        [[gon1 mut6]]
+        to defraud;
+        a defalcation, use of another's goods;
+    - _(1)kon f(u/)(6)_
+        [[gon1 fu6]]
+        an adopted father of different surname;
+    - _(1)kon (2)fo (2)shau_
+        [[gon1 fo2 sau2]],
+        a shoplifter;
+    - _sh(a/)i(3) (1)kon_
+        [[saai3 gon1 曬乾]],
+        to dry;
+    - _(1)kon ts(')(o\)(3)_
+        [[gon1 cou3]]
+        feverish, heated;
+    - _(1)kon (2)shong_
+        [[gon1 song2]],
+        dry, airy;
+    - _hong(3) (1)kon_
+        [[hong3 gon1]],
+        to dry at a fire;
+    - _(1)kon hong(3) (2)h(i/) (4)lai_
+        [[gon1 hong3 hei2 lai4]],
+        deluded by vain promises;
+    - _(1)kon (1)kung_
+        [[gon1 gung1]],
+        "dry work," a sinecure;
+    - _(1)kon (5)n(a/)i_
+        [[gon1 naai5]],
+        a dry nurse;
+    - _(1)kon (4)(u/)i p(o\)(3)_
+        [[gon1 wui4 bou3]]
+        to gull one, to report falsely, or without inquiry.
+    ==
+  ====
+C
+  ==
+  - Williams' 乾淨: Better rendered "clean".
+  - Williams' 曬乾: Specifically, to sun-dry.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~174 #4: (1)干]]
     ==
     - A shield, a buckler;
