@@ -233,6 +233,32 @@ $$
 $$
 W
   ====
+  - [[Page~175 #2: (2)秆; here normalised to 稈]]
+    ==
+    - Stubble, straw of rice;
+    - _(2)kon s(o\)(3)_
+        [[gon2 sou3]]
+        a straw broom;
+    - _(2)kon (4)yan_
+        [[gon2 jan4]],
+        an effigy;
+    - _(4)wo (2)kon_
+        [[wo4 gon2]],
+        paddy straw;
+        it is called _(2)Kwong (1)tung (1)ch(i/)n_ [[gwong2 dung1 zin1]],
+        _i.~e._ a Canton blanket;
+    - _(2)kon (4)t(')au_
+        [[gon2 tau4]],
+        roots of grain, stubble.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~175 #1: (2)赶(2)趕]]
     ==
     - To pursue, to run after;
