@@ -102,6 +102,32 @@ $$
 $$
 W
   ====
+  - [[Page~176 #3: (1)扛]]
+    ==
+    - To carry between two;
+    - to bear burdens on a pole;
+    - several lifting a thing;
+    - _pat(9) lik(7) (1)kong_
+        [[bat6 lik1 gong1]],
+        to draw and paint;
+    - _(1)kong (2)ki(u/)_
+        [[gong1 giu6-2]],
+        to carry a sedan;
+    - _(1)kong (4)t(')oi_
+        [[gong1 toi4]],
+        to carry;
+    - _(1)kong (4)p(')(a/)i k(e/)uk(8) shik(7)_
+        [[gong1 paai4 goek3 sik1]]
+        boasting of one's honors, a braggart.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~175 #7: ::(1)~~網~~``綱``::]]
     ==
     - The large rope to which a net is strung;
