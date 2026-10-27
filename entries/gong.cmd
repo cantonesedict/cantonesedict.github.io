@@ -93,3 +93,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~175 #7: ::(1)~~網~~``綱``::]]
+    ==
+    - The large rope to which a net is strung;
+    - a bond or institution of society, great principles;
+    - _(1)kong (5)ling_
+        [[gong1 ling5]]
+        a control``l``ing or guiding power;
+        argument of a book;
+    - _(1)s(a/)m (1)kong_
+        [[saam1 gong1]],
+        "three bonds," are the relative duties
+        of a king, father``,`` and husband;
+    - _(1)kong muk(9)_
+        [[gong1 muk6]]
+        a synopsis of;
+    - _(1)kong k(a/)m(3)_
+        [[gong1 gaam3]]
+        a survey of (dynasties, or) princes, a history.
+    ==
+  ====
+$$
+##>
