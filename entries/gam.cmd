@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> gam
-* %date-modified --> 2026-10-26
+* %date-modified --> 2026-10-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -630,6 +630,10 @@ E
        - 咁得人驚 (gam3 dak1 jan4 geng1): "[Is it] that frightful?"
        - 冇你咁好氣 (mou5 nei5 gam3 hou2 hei3): "[I] don't have that good endurance as you" (i.e. I won't persist with you).
        ==
+    ++
+  - 【咁上下】 (gam3 soeng6 haa6-2)
+    ++
+    1. Roughly that much, roughly to that extent.
     ++
   ====
   --
