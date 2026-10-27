@@ -300,3 +300,51 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~175 #3: 幹(3)]]
+    ==
+    - The trunk of a plant;
+    - the material of, the basis or original;
+    - to bribe, to give money;
+    - capable, skillful;
+    - business, affairs;
+    - to do business, to attend to;
+    - a well curb;
+    - _(2)t(a/) kon(3)_
+        [[daa2 gon3]]
+        to bribe;
+    - _(5)m(o\) mat(7) kon(3) l(o\)(6)_
+        [[mou5 mat1 gon3 lou6]]
+        indifferent to bribes;
+    - _kon(3) sz'(6)_
+        [[gon3 si6]]
+        to do business;
+    - _kon(3) ko(3) k(')(u:)t(8) (5)ng(a/)n_
+        [[gon3 go3 kyut3 ngaan5]],
+        to buy an appointment;
+    - _kon(3) (4)ying (1)shang_
+        [[gon3 jing4 sang1]],
+        to pay for a situation with a trader;
+    - _(5)yau mat(7) kwai(3) kon(3)_
+        [[jau5 mat1 gwai3 gon3]]
+        what is your business?
+    - _(1)kung kon(3)_
+        [[gung1 gon3]]
+        public affairs;
+    - _kon(3) f(u/)(6) (1)ch(i/) (2)k(u/)_
+        [[gon3 fu6 zi1 gu2]],
+        to follow a father's occupation;
+    - _kon(3) (4)s(u:)n t(a/)i(6) sz'(6)_
+        [[gon3 syun4 daai6 si6]]
+        to bring about a settlement of, to make peace;
+    - _kon(3) (4)t(')au (4)yan_
+        [[gon3 tau4 jan4]],
+        to buy the post of a headman.
+    ==
+  ====
+$$
+##>
