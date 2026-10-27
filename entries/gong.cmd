@@ -128,6 +128,42 @@ $$
 $$
 W
   ====
+  - [[Page~174 #4: (1)江]]
+    ==
+    - A river;
+    - par excellence, the Y(a/)ngtsz' ki(a/)ng [[揚子江]],
+      also called _t(a/)i(6) (1)kong_ [[daai6 gong1]], the great river;
+    - _(1)kong (4)ho_ [[gong1 ho4]],
+        or
+      _(1)kong (1)sh(a/)n_ [[gong1 saan1]],
+        the empire, the government, the country;
+    - _kok(8) (1)kong fo(3) mat(9)_
+        [[gok3 gong1 fo3 mat6]]
+        goods from every quarter;
+    - _(1)kong (4)(u/) ~~h(a/)k(9)~~ ``h(a/)k(8)``_
+        [[gong1 wu4 haak3]]
+        itinerant professional men;
+    - _(1)kong (1)ch(u:)_
+        [[gong1 zyu1]],
+        a cetacea found in the Y(a/)ngtsz' [[揚子]];
+    - _(4)t(')au (1)kong_
+        [[tau4 gong1]],
+        to drown one's self;
+    - _kwo(3) (1)kong (1)hing tai(6)_
+        [[gwo3 gong1 hing1 dai6]]
+        brothers in affliction;
+    - _ngoi(6) (1)kong (4)yan_
+        [[ngoi6 gong1 jan4]],
+        people from another province, northerners.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~175 #7: ::(1)~~網~~``綱``::]]
     ==
     - The large rope to which a net is strung;
