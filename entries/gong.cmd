@@ -121,6 +121,10 @@ W
         [[gong1 gaam3]]
         a survey of (dynasties, or) princes, a history.
     ==
+  - [[Page~719 #10: (1)網]]
+    --
+    should be 綱, the first [[網]] being read _(5)mong_ [[mong5]].
+    --
   ====
 $$
 ##>
