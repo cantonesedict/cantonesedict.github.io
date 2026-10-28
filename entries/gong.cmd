@@ -383,6 +383,19 @@ $$
 $$
 W
   ====
+  - [[Page~177 #4: 絳(3)]]
+    ==
+    - A deep red, like the petals of the _Hibiscus rosa-sinensis_,
+      a deep rose color.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #1: 鋼(3)]]
     ==
     - Iron assayed by fire, steel;
