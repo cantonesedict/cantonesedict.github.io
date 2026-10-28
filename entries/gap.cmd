@@ -74,4 +74,35 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~178 #1: 合(8)]]
+    ==
+    - A measure, containing about a gill;
+    - ten make almost a pint;
+    - to join together, to come together, to meet, to correspond,
+      like the edges of shears, or two lids; <# TODO: now $夾gaap3 #>
+    - _~~(5)h(o\)~~ ``(2)h(o\)`` (2)ts(')oi! ~~k(o\)p(8)~~ ``k(a/)p(8)`` t(a/)i(6) w(a/)(6)_
+        [[hou2 coi2! gaap3 daai6 waa6]]
+        good! it matches his lie;
+        _i.~e._ he lied, but it happened to be true;
+    - _~~k(o\)p(8)~~ ``k(a/)p(8)`` k(a/)u(3) (2)ts(i/)n (2)hau_
+        [[gaap3 gaau3 zin2 hau2]],
+        scissar blades meet;
+    - _~~k(o\)p(8)~~ ``k(a/)p(8)`` (4)m(a/)i_
+        [[gaap3 maai4]],
+        to join, to make one.
+    ==
+    --
+    Often pronounced _h(o\)p(9)_ [[hap6]] in many phrases,
+    with ~~the same~~ ``a similar`` meaning.
+    --
+  ====
+$$
+##>
+
+<# TODO: ${𠶲=⿰口厒} jau4 seoi2 gap6 zoek6 ke1 #>
+
 <# TODO: {𥄫=⿰目及} gap6 #>
