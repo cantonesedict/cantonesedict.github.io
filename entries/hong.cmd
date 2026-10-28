@@ -216,6 +216,21 @@ $$
 $$
 W
   ====
+  - [[Page~177 #9: (2)慷 _(2)K(')ong_ (kong2); here normalised to _(2)Hong_ (hong2)]]
+    ==
+    - Generous-minded, magnanimous;
+    - _~~(2)k(')ong~~ ``(2)hong`` k(')oi(3)_
+        [[hong2 koi3]]
+        noble, liberal, unmoved by slander, firm, grieved at wrongdoing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~95 炕(3)]]
     ==
     - To roast, or broil;
