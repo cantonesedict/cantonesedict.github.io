@@ -370,6 +370,19 @@ $$
 $$
 W
   ====
+  - [[Page~177 #3: 洚(3)]]
+    ==
+    - Waters overflowing, an inundation;
+    - waters swelling over their banks, and running in many directions.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #1: 鋼(3)]]
     ==
     - Iron assayed by fire, steel;
