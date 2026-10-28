@@ -370,6 +370,29 @@ $$
 $$
 W
   ====
+  - [[Page~177 #6: 杠(3)]]
+    ==
+    - A cross-piece on the legs of a bed;
+    - a flag-staff;
+    - a foot bridge;
+    - thills of a sedan;
+    - the yards on a ship;
+    - cross-pieces in frames;
+    - _(2)t(a/) kong(3)_
+        [[daa2 gong3]]
+        highway robbery;
+    - _(4)t(')oi kong(3)_
+        [[toi4 gong3]]
+        altercation, tiresome bickering.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~177 #3: 洚(3)]]
     ==
     - Waters overflowing, an inundation;
