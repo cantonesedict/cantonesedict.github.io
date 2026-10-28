@@ -129,6 +129,32 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~178 #3: 鴿(8)]]
+    ==
+    - The Columbidæ;
+    - a dove, a pigeon;
+    - _p(a/)k(9) k(o\)p(8)_
+        [[baak6 gap3-2]]
+        a house pigeon;
+    - _fong(3) p(a/)k(9) k(o\)p(8)_
+        [[fong3 baak6 gap3-2]]
+        to let off a pigeon;
+        to make a false marriage;
+    - _(2)y(e/) k(o\)p(8)_
+        [[je5 gap3-2]]
+        a wild pigeon;
+    - _t(i/)(6) k(o\)p(8)_
+        [[dei6 gap3-2]]
+        a ground pigeon.
+    ==
+  ====
+$$
+##>
+
 <# TODO: ${𠶲=⿰口厒} jau4 seoi2 gap6 zoek6 ke1 #>
 
 <# TODO: {𥄫=⿰目及} gap6 #>
