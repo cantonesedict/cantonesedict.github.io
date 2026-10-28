@@ -103,6 +103,32 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~178 #2: 蛤(8)]]
+    ==
+    - Bivalve shells, thin and marked, like a Tellina or Donax;
+    - _(4)man k(o\)p(8)_
+        [[man4 gap3]]
+        shells with ribs or lines;
+    - _(1)sh(a/)n k(o\)p(8)_
+        [[saan1 gap3]]
+        a sort of striped toad;
+    - _(4)t(')(i/)n k(o\)p(8)_ [[tin4 gap3]]
+        or
+      _k(o\)p(8) ~~(5)n(a/)~~ ``(2)n(a/)``_ [[gap3 naa2]],
+        a frog;
+    - _k(o\)p(8) k(a/)i(3)_
+        [[gap3 gaai3]]
+        a kind of gecko, brought to Canton as an aphrodisiac,
+        and commonly thought to be a transformation of a swallow.
+    ==
+  ====
+$$
+##>
+
 <# TODO: ${𠶲=⿰口厒} jau4 seoi2 gap6 zoek6 ke1 #>
 
 <# TODO: {𥄫=⿰目及} gap6 #>
