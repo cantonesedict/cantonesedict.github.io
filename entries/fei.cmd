@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -462,6 +462,11 @@ C
 P
   ++
   1. The 183rd~radical (U+2FB6 ⾶ "fly").
+  1. (_mahjong_) A winning tile, in the context of a numbered suit.
+      ==
+      - 叫兩飛 (giu3 loeng5 fei1): "Calling for two [different] winning tiles."
+      - 叫幾飛 (giu3 gei2 fei1): "Calling for several [different] winning tiles."
+      ==
   ++
 L
   ====
