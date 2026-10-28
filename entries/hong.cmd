@@ -243,6 +243,23 @@ $$
 $$
 W
   ====
+  - [[Page~177 #8: (2)吭 _(2)K(')ong_ (kong2)]]
+    ==
+    - The neck or throat of a bird;
+    - an important pass into a country;
+    - to swallow.
+    ==
+    --
+    Usually read _(4)hong_ [[hong4]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~94 (4)杭]]
     ==
     - Hongchau f(u/) [[杭州府]], the capital of Chehki(a/)ng [[浙江]],
