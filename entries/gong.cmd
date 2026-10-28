@@ -26,6 +26,31 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~177 #7: (1)亢 _(1)K(')ong_ (kong1); here normalised to _(1)Kong_ (gong1)]]
+    ==
+    - The neck of a man.
+    ==
+    --
+    Read _k(')ong(3)_ [[kong3]]
+    --
+    ==
+    - strong, overbearing, domineering;
+    - unbending;
+    - to oppose, to resist;
+    - to shelter, to protect;
+    - a star near Arcturus;
+    - _(1)s(e/)ung k(')ong(3)_
+        [[soeng1 kong3]]
+        are equally matched.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~175 #6: (1)剛]]
     ==
     - Hard, solid, unyielding, firm, rigorous, inflexible;
