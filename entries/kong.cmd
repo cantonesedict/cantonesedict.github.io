@@ -58,3 +58,33 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~177 #12: 抗(3)]]
+    ==
+    - To raise with the hand, to lift;
+    - to oppose, to withstand, to resist, to rebel against;
+    - to screen, to shield;
+    - to rescue;
+    - _k(')ong(3) (1)k(u/)n_
+        [[kong3 gun1]],
+        to oppose the government;
+    - _k(')ong(3) sing(3)_
+        [[kong3 sing3]]
+        perverse;
+    - _k(')ong(3) (5)k(')(u:)_
+        [[kong3 keoi5]],
+        to prevent coming, to resist, disobedient;
+    - _(1)fan ~~(4)t(')eng~~ ``(4)t(')ing`` k(')ong(3) (5)lai_
+        [[fan1 ting4 kong3 lai5]],
+        disputing about precedence;
+    - _(5)l(e/)ung (1)s(e/)ung k(i/)t(8) k(')ong(3)_
+        [[loeng5 soeng1 git3 kong3]]
+        the two contracted an enmity, two parties matched against each other.
+    ==
+  ====
+$$
+##>
