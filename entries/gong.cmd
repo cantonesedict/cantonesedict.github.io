@@ -235,6 +235,26 @@ $$
 $$
 W
   ====
+  - [[Page~176 #7: (1)肛]]
+    ==
+    - The colon;
+    - the large intestine;
+    - the anus;
+    - _(1)kong (4)m(u/)n_
+        [[gong1 mun4]],
+        the rectum;
+    - _t(')an(3) (1)kong_
+        [[tan3 gong1]],
+        the piles.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #6: (1)釭]]
     ==
     - An iron-tire on a hub;
