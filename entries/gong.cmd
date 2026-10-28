@@ -273,6 +273,76 @@ $$
 $$
 W
   ====
+  - [[Page~176 #8: (2)講]]
+    ==
+    - To converse, to talk, to speak about, to narrate, to relate;
+    - to explain, to unfold, to discourse, propound, or preach;
+    - to investigate;
+    - to plan;
+    - to confer;
+    - to reason upon;
+    - discourse, talk, explanation;
+    - _(4)'m (2)h(o\) (2)kong_
+        [[m4 hou2 gong2]],
+        don't speak about it, better be still;
+    - _(2)kong k(e/)uk(8)_
+        [[gong2 goek3]]
+        to boast;
+    - _(2)kong (4)wo_
+        [[gong2 wo4]],
+        to propose peace;
+    - _(2)kong (2)k(u/)_
+        [[gong2 gu2]],
+        to tell stories, to talk on former things;
+        to preach the-Gospel is so termed;
+    - _(2)kong kau(3)_
+        [[gong2 gau3]]
+        to investigate, to search into the truth of;
+    - _k(o\)m(3) (2)kong kau(3)_
+        [[gam3 gong2 gau3]]
+        so fine! superior, beautiful, first rate;
+    - _(2)kong ts(a/)p(9)_
+        [[gong2 zaap6]]
+        to hold disputations, a colloquy;
+    - _(2)kong (2)k(a/)i (4)man ngai(6)_
+        [[gong2 gaai2 man4 ngai6]]
+        to lecture on literature;
+    - _(2)kong sh(u:)t(8) w(a/)(6)_
+        [[gong2 syut3 waa6]]
+        conversation, speech;
+    - _(5)ngo (4)'m ~~(2)(u/)i~~ ``(2)hi(u/)`` (2)kong_
+        [[ngo5 m4 hiu2 gong2]],
+        I know not how to speak it;
+    - _(4)'m tsoi(6) (2)kong_
+        [[m4 zoi6 gong2]],
+        no need of telling of it, I know all about it;
+    - _(2)kong (1)sam_
+        [[gong2 sam1]],
+        honest, plain talk;
+    - _(4)m(o\) tak(7) (2)kong_
+        [[mou4 dak1 gong2]],
+        nothing more to be said;
+    - _(2)kong m(i/)n(6) ~~(5)^tsz'~~ ``(2)tsz'``_
+        [[gong2 min6 zi2]]
+        of good credit, worthy of trust;
+    - _(2)kon``g`` ~~(1)w(a/)ng~~ ``(4)w(a/)ng`` (2)kong t(i/)m(6)_
+        [[gong2 waang4 gong2 dim6]]
+        to carp at;
+    - _(2)kong t(o\)(3) (5)k(')(u:) fuk(9)_
+        [[gong2 dou3 keoi5 fuk6]]
+        to convince one by reasoning;
+    - _(2)k(u/) (5)n(i/) (2)kong si(u/)(3)_
+        [[gu2 nei5 gong2 siu3]]
+        I think you are joking.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #1: 鋼(3)]]
     ==
     - Iron assayed by fire, steel;
