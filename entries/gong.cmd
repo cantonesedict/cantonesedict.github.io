@@ -235,6 +235,24 @@ $$
 $$
 W
   ====
+  - [[Page~176 #6: (1)釭]]
+    ==
+    - An iron-tire on a hub;
+    - a sconce, a globular shade in which to hang lamps;
+    - a lamp;
+    - _(1)kam (4)(u:) (1)kong_
+        [[gam1 jyu4 gong1]],
+        globular jars for fish;
+    - ornaments or fastenings on the ends of beams.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #1: 鋼(3)]]
     ==
     - Iron assayed by fire, steel;
