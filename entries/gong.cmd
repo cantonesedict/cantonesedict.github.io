@@ -128,7 +128,7 @@ $$
 $$
 W
   ====
-  - [[Page~174 #4: (1)江]]
+  - [[Page~176 #4: (1)江]]
     ==
     - A river;
     - par excellence, the Y(a/)ngtsz' ki(a/)ng [[揚子江]],
