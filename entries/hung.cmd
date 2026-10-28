@@ -568,6 +568,11 @@ W
       because it splits the sky;
     - connected together.
     ==
+  - [[Page~177 #5: 虹(3) _Kong(3)_ (gong3)]]
+    ==
+    - A vapor on a hill-top;
+    - the rainbow, vulgarly called _(1)t(')(i/)n kong(3)_ [[tin1 gong3]].
+    ==
   ====
 $$
 ##>
