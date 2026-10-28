@@ -273,6 +273,33 @@ $$
 $$
 W
   ====
+  - [[Page~177 #1: (2)港]]
+    ==
+    - Streams diverging, as one ascends a river;
+    - a passage for ships, a reach;
+    - a frith, an estuary;
+    - a rivulet running into the sea, a cove;
+    - _(2)kong (2)hau_
+        [[gong2 hau2]],
+        a port, a mart, a spot where traders meet;
+    - _(2)kong k(e/)uk(8) (4)sh(u:)n_
+        [[gong2 goek3 syun4]],
+        ships from India are so called at Canton;
+    - _(2)p(u/)n (2)kong (4)sh(u:)n_
+        [[bun2 gong2 syun4]],
+        native junks;
+    - _kok(8) (2)kong fo(3)_
+        [[gok3 gong2 fo3]]
+        the products of every port.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #8: (2)講]]
     ==
     - To converse, to talk, to speak about, to narrate, to relate;
