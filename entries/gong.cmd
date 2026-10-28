@@ -385,6 +385,54 @@ W
 $$
 ##>
 
+<##
+$$
+W
+  ====
+  - [[Page~177 #2: 降(3)]]
+    ==
+    - To descend, to come or fall down (as rain), to go down;
+    - to send down, to confer;
+    - to subject, to reduce to submission; <# TODO: correct to $降hong4(?) #>
+    - to degrade;
+    - _kong(3) fuk(7)_
+        [[gong3 fuk1]]
+        to bless;
+    - _kong(3) k(')ap(7)_
+        [[gong3 kap1]]
+        to degrade, really or nominally;
+    - _kong(3) lok(9)_
+        [[gong3 lok6]]
+        to descend (as a bird);
+    - _kong(3) shai(3)_
+        [[gong3 sai3]]
+        to come into the world;
+    - _kong(3) (1)k(a/)i_
+        [[gong3 gaai1]],
+        to go down the steps;
+    - _(4)ming (1)shing (o\)m(3) kong(3)_
+        [[ming4 sing1 am3 gong3]]
+        apparent gain or rise, but real loss;
+    - _kong(3) t(a/)n(3)_
+        [[gong3 daan3]]
+        to be born;
+    - _(5)n(i/) (2)k(i/) (4)sh(i/) (1)kwong kong(3)_
+        [[nei5 gei2 si4 gwong1 gong3]]
+        when will you deign to visit me?
+    - _h(a/)(6) kong(3)_
+        [[haa6 gong3]]
+        to come down, to visit;
+    - _(2)t(a/) kong(3)_
+        [[daa2 gong3]]
+        to erase, to draw a line through;
+        also to fire at a picture of
+        _(1)S(e/)ung kong(3) (4)shan_ [[soeng1 gong3 san4]],
+        a custom known at Canton in the month of October.
+    ==
+  ====
+$$
+##>
+
 <## TODO: $扛gong6 (crab) claw, also spelt 螯 (appropriation), 弶 ##>
 
 <##
