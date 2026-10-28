@@ -195,6 +195,30 @@ $$
 $$
 W
   ====
+  - [[Page~176 #5: (1)缸]]
+    ==
+    - An earthenware jar, usually glazed;
+    - _(1)kong (5)ng(a/)_
+        [[gong1 ngaa5]],
+        pottery generally;
+    - _(1)kong ung(3)_
+        [[gong1 ung3]]
+        glazed jars, used to contain water, oil, &c.;
+    - _t(i/)n(6) (1)kong_
+        [[din6 gong1]],
+        dyeing jars;
+    - _(2)p(i/) ung(3) (1)kong (5)n(i/) ts(o\)(6) (2)t(a/)m_
+        [[bei2 ung3 gong1 nei5 zou6 daam2]],
+        give you a jar for your gall-bladder---you want more spunk.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~176 #2: (1)罡]]
     ==
     - A star;
