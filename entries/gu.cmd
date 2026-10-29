@@ -83,3 +83,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~179 #3: (1)酤]]
+    ==
+    - To buy or trade in liquor;
+    - liquor just made or kept over night;
+    - a liquor-shop;
+    - _(4)t(')(o\) (1)k(u/) (1)ch(i/) sz'(3)_
+        [[tou4 gu1 zi1 si3]]
+        an eating-house.
+    ==
+    --
+    Interchanged with the last [[沽]].
+    --
+  ====
+$$
+##>
