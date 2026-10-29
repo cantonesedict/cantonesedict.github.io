@@ -301,6 +301,63 @@ $$
 $$
 W
   ====
+  - [[Page~180 #2: (2)古]]
+    ==
+    - Ancient, that which has come down through *ten mouths*;
+    - remote, from of old;
+    - antique, old;
+    - antiquity;
+    - former, old, practiced in, accustomed;
+    - _(2)k(u/) (1)kam_
+        [[gu2 gam1]],
+        ancient and modern;
+    - _(2)k(u/) (2)tung_
+        [[gu2 dung2]],
+        antiques, curiosities;
+    - _(2)k(u/) (2)k(u/) tik(7)_
+        [[gu2 gu2 dik1]]
+        old fashioned;
+    - _k(o\)m(3) (2)k(u/) kw(a/)i(3)_
+        [[gam3 gu2 gwaai3]]
+        so odd, strange;
+    - _(2)kong chek(8) (2)k(u/) (2)tsai_
+        [[gong2 zek3 gu2 zai2]],
+        to tell a strange story, a funny incident;
+    - _(2)k(u/) (5)l(o\) y(e/)ung(6)_
+        [[gu2 lou5 joeng6]]
+        of an ancient shape;
+    - _(2)k(u/) chap(7)_
+        [[gu2 zap1]]
+        set in his way, fixed;
+    - _(2)k(u/) (4)yan_ [[gu2 jan4]],
+        or
+      _(1)s(i/)n (2)k(u/)_ [[sin1 gu2]],
+        ancestors, one's progenitors;
+        the ancients;
+    - _~~(5)^k(u/)~~ ``(2)k(u/)`` tsik(7)_
+        [[gu2 zik1]]
+        relics, sacred or venerated spots;
+    - _(2)k(u/) (4)man_
+        [[gu2 man4-2]],
+        ancient writings, the classic style;
+    - _tsok(8) (2)k(u/) (4)yan_
+        [[zok3 gu2 jan4]],
+        to die;
+    - _tsz'(6) (2)k(u/) (5)(i/) (4)loi_
+        [[zi6 gu2 ji5 loi4]],
+        from of old;
+    - _(1)s(a/)m (2)k(u/)_
+        [[saam1 gu2]],
+        the three periods of antiquity, _i.~e._ at B.~C.~2850, 1120, and 550.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #11: (2)罟]]
     ==
     - Interchanged with the last [[罛]];
