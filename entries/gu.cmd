@@ -59,3 +59,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~179 #2: (1)沽]]
+    ==
+    - Name of a river in Ts(')iuen-chau f(u/) [[泉州府]] in Fuhkien [[福建]];
+    - to trade in, to contract, to buy or sell;
+    - unworthy, anything trashy;
+    - to abridge;
+    - _(1)k(u/) (2)tsau_
+        [[gu1 zau2]],
+        to buy wine;
+    - _(4)ling (1)k(u/)_
+        [[ling4 gu1]],
+        sold by retail;
+    - _(1)k(u/) ~~(4)meng~~ ``(4)ming``_
+        [[gu1 ming4]],
+        to buy a name, to purchase office.
+    ==
+  ====
+$$
+##>
