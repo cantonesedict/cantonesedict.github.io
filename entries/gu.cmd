@@ -171,3 +171,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~179 #6: (1)鴣]]
+    ==
+    - _Ch(e/)(3) (1)k(u/)_
+        [[ze3 gu1]],
+        the partridge,
+        but seems also to include other birds of the same habits and size.
+    ==
+  ====
+$$
+##>
