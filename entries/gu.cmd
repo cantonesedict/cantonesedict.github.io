@@ -155,6 +155,25 @@ $$
 $$
 W
   ====
+  - [[Page~179 #10: (1)罛]]
+    ==
+    - A fishing-net, a large net dragged between boats;
+    - to fish;
+    - _yat(7) (1)k(u/) (4)n(a/)u_
+        [[jat1 gu1 naau4]],
+        a haul, all taken together, lump them;
+    - _yat(7) (1)k(u/) kw(a/)t(8)_
+        [[jat1 gu1 gwaat3]]
+        a clean sweep, take them all.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #5: (1)蛄]]
     ==
     - A variety of the mole-cricket, called _(4)lau (1)k(u/)_ [[lau4 gu1]]_;_
