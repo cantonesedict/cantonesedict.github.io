@@ -156,6 +156,31 @@ $$
 $$
 W
   ====
+  - [[Page~179 #7: (1)辜]]
+    ==
+    - A fault, a crime;
+    - guilt, sin, transgression;
+    - necessary to be, must;
+    - to engross goods, to monopolize;
+    - to dissect a sacrificial victim;
+    - _(4)m(o\) (1)k(u/)_
+        [[mou4 gu1]],
+        innocent, guiltless;
+    - _(1)k(u/) f(u/)(6)_
+        [[gu1 fu6]]
+        ungrateful, unmindful of;
+    - _(4)m(o\) (1)k(u/) shau(6) lui(6)_
+        [[mou4 gu1 sau6 leoi6]]
+        to compromise the guiltless.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #3: (1)酤]]
     ==
     - To buy or trade in liquor;
