@@ -117,6 +117,20 @@ $$
 $$
 W
   ====
+  - [[Page~179 #9: (1)柧]]
+    ==
+    - Interchanged with the last [[觚]];
+    - angular, a corner;
+    - the cornice of a house.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #2: (1)沽]]
     ==
     - Name of a river in Ts(')iuen-chau f(u/) [[泉州府]] in Fuhkien [[福建]];
