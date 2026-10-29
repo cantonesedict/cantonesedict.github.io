@@ -434,3 +434,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~180 #5: (2)詁]]
+    ==
+    - To explain the words of the ancients by modern illustrations;
+    - _(2)k(u/) fan(3)_
+        [[gu2 fan3]]
+        to expound;
+    - _(2)k(u/) (4)(i/)n_
+        [[gu2 jin4]],
+        traditions.
+    ==
+  ====
+$$
+##>
