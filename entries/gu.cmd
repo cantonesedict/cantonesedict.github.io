@@ -141,6 +141,21 @@ $$
 $$
 W
   ====
+  - [[Page~179 #5: (1)蛄]]
+    ==
+    - A variety of the mole-cricket, called _(4)lau (1)k(u/)_ [[lau4 gu1]]_;_
+    - _wai(6) (1)k(u/)_
+        [[wai6 gu1]],
+        a variety of the cicada.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #3: (1)酤]]
     ==
     - To buy or trade in liquor;
