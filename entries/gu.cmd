@@ -174,6 +174,38 @@ $$
 $$
 W
   ====
+  - [[Page~180 #1: (1)菇(1)菰]]
+    ==
+    - A water vegetable, called _(1)tsz' (1)k(u/)_ [[zi1 gu1]],
+      the Caladium, cultivated for its tubers;
+    - _(4)mo (1)k(u/)_ [[mo4 gu1]],
+        and
+      _(2)t(')(o\) (1)k(u/)_ [[tou2 gu1]],
+        are edible varieties of mushrooms,
+        the former is brought from Tartary;
+    - _(1)f(u/)i (1)k(u/)_ [[fui1 gu1]],
+        or
+      _(4)ngau (2)sh(i/) (1)k(u/)_ [[ngau4 si2 gu1]],
+        a puffball, the lycoperdon;
+    - _(2)ts(')(o\) (1)k(u/)_ [[cou2 gu1]],
+        or
+      _(1)tung ~~(2)k(u/)~~ ``(1)k(u/)``_ [[dung1 gu1]],
+        small edible mushrooms.
+    ==
+    --
+    A sort of upland rice.
+    --
+    --
+    These two characters [[菇, 菰]] are often interchanged.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #5: (1)蛄]]
     ==
     - A variety of the mole-cricket, called _(4)lau (1)k(u/)_ [[lau4 gu1]]_;_
