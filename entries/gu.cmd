@@ -452,3 +452,76 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~180 #6: (2)皷(2)鼓]]
+    ==
+    - A drum, skin instruments of music once made of earthen;
+    - ``the 207th``~radical [[U+2FCE ⿎ "drum"]] of characters pertaining to drums;
+    - earthen seats or flower-stands;
+    - a measure of about ten pecks;
+    - drum-shaped;
+    - to drum;
+    - to excite, to encourage, to arouse;
+    - to urge a fire;
+    - to soothe;
+    - a watch of the night;
+    - to play on a lute;
+    - _(2)k(u/) ngok(9)_
+        [[gu2 ngok6]]
+        instrumental music;
+    - _yat(7) f(u/)(3) (2)k(u/) ngok(9)_
+        [[jat1 fu3 gu2 ngok6]]
+        a band of music;
+    - _l(a/)n(6) t(a/)i(6) (2)k(u/)_
+        [[laan6 daai6 gu2]],
+        a vile wretch;
+    - _(2)k(u/) (2)ch(e/)ung_
+        [[gu2 zoeng2]],
+        to clap the hands;
+    - _(2)k(u/) ch(u:)(3)_
+        [[gu2 zyu3]]
+        to melt metals;
+    - _(4)t(')ung (2)k(u/)_
+        [[tung4 gu2]],
+        a knobbed gong;
+    - _(2)k(u/) ts(')(o\)(3)_
+        [[gu2 cou3]]
+        a great hubbub;
+    - _(1)pong (2)k(u/)_
+        [[bong1 gu2]],
+        a tamborine;
+    - _(1)f(a/) (2)k(u/)_
+        [[faa1 gu2]],
+        a side drum;
+    - _(i/)(6) (2)k(u/)_
+        [[ji6 gu2]],
+        the second watch;
+    - _(2)t(a/) (1)k(a/)ng (2)k(u/)_
+        [[daa2 gaang1 gu2]],
+        to strike the watches;
+    - _tsz'(6) (4)p(')(a/) (4)sh(u:)n, tsz'(6) (2)t(a/) (2)k(u/)_
+        [[zi6 paa4 zyun4, zi6 daa2 gu2]],
+        I can myself paddle and drum---I am independent;
+    - _shek(9) (2)k(u/)_
+        [[sek6 gu2]],
+        an earthenware seat or stand;
+    - _(4)(u:) (2)k(u/)_
+        [[jyu4 gu2]],
+        a fish tamborine used by the Rationalists;
+    - _(4)lui (2)k(u/)_
+        [[leoi4 gu2]],
+        to drum rapidly;
+    - _(2)k(u/) fuk(7)_
+        [[gu2 fuk1]]
+        pursy, corpulent;
+    - _(4)ho (2)k(u/)_
+        [[ho4 gu2]],
+        the stars _α_, _β_, _γ_ in Aquila.
+    ==
+  ====
+$$
+##>
