@@ -301,6 +301,41 @@ $$
 $$
 W
   ====
+  - [[Page~180 #3: (2)估]]
+    ==
+    - To price, to estimate, to value;
+    - to guess, to reckon;
+    - price, value;
+    - _(4)t(')oi (2)k(u/)_
+        [[toi4 gu2]],
+        to raise the price;
+    - _(2)k(u/) hai(6) mat(7)_
+        [[gu2 hai6 mat1]]
+        what do you think it is?
+    - _(2)k(u/) l(e/)ung(6)_
+        [[gu2 loeng6]]
+        to suppose, to give an opinion;
+    - _tsoi(3) pat(7) (2)k(u/)_
+        [[zoi3 bat1 gu2]],
+        very unexpected;
+    - _(5)n(i/) (2)k(u/) chung(3)_
+        [[nei5 gu2 zung3]]
+        you guessed right;
+    - _(2)k(u/) kai(3)_
+        [[gu2 gai3]]
+        to reckon the price of;
+    - _(2)k(u/) (2)k(u/) (5)h(a/)_
+        [[gu2 gu2 haa5]],
+        make a guess.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~180 #2: (2)古]]
     ==
     - Ancient, that which has come down through *ten mouths*;
