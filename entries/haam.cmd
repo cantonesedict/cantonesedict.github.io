@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haam
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-29
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -443,7 +443,7 @@ W
   - [[Page~70 #10: (4)㮀; here normalised to 椷]]
     ==
     - [[...]];
-    - but K(a/)ngh(i/) defines it a wooden ~~bowl~~ ``cup`` [[Kangxi 椷: 杯也 etc.]].
+    - but K(a/)ngh(i/) [[康熙]] defines it a wooden ~~bowl~~ ``cup`` [[Kangxi 椷: 杯也 etc.]].
     ==
     --
     [[Otherwise, an alternative form of 函 (for the "contain" sense). **See $函haam4 for the canonical entry.**]]

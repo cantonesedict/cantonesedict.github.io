@@ -393,6 +393,28 @@ $$
 $$
 W
   ====
+  - [[Page~180 #4: (2)牯]]
+    ==
+    - A bull;
+    - the male of quadrupeds, usually of those domesticated;
+    - _(1)ch(u:) (2)k(u/)_
+        [[zyu1 gu2]],
+        a boar;
+    - _(5)m(a/) (2)k(u/)_
+        [[maa5 gu2]],
+        a stallion.
+    ==
+    --
+    According to K(a/)ngh(i/) [[康熙]]'s dictionary, a cow.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #11: (2)罟]]
     ==
     - Interchanged with the last [[罛]];
