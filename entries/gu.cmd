@@ -156,6 +156,26 @@ $$
 $$
 W
   ====
+  - [[Page~179 #8: (1)觚]]
+    ==
+    - A wine vase used in feasts, holding two or three pints;
+    - square, angular;
+    - a law, a rule, a plan;
+    - _k(i/)m(3) (1)k(u/)_
+        [[gim3 gu1]],
+        a sword-hilt;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (1)k(u/) (1)ch(i/) (4)yan_
+        [[kyut3 gu1 zi1 jan4]],
+        a litigious man.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #7: (1)辜]]
     ==
     - A fault, a crime;
