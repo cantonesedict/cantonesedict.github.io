@@ -108,3 +108,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~178 #6: 轕(8)]]
+    ==
+    - The rushing clamor of chariots to battle;
+    - hasty, precipitate, violent motion;
+    - _(1)k(a/)u kot(8)_
+        [[gaau1 got3]]
+        glancing of armor, confused melée.
+    ==
+  ====
+$$
+##>
