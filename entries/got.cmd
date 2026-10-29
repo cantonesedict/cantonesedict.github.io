@@ -81,3 +81,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~178 #5: 葛(8)]]
+    ==
+    - A creeping edible plant (the _Dolichos tuberosus_),
+      of whose fibres a yellow coarse cloth is made;
+    - creepers;
+    - _met._ relatives, posterity;
+    - _(5)yau mat(7) (1)kw(a/) kot(8) (5)n(i/)_
+        [[jau5 mat1 gwaa1 got3 nei5]],
+        is there any relationship between you?
+    - _(4)m(o\) (1)k(a/)u kot(8)_
+        [[mou4 gaau1 got3]]
+        nothing to do with him;
+    - _kot(8) p(o\)(3)_
+        [[got3 bou3]]
+        coarse summer cloth;
+    - a plant _(Dolichos trilobus)_ producing a long spindle-shaped root,
+      used for food, called _(2)fan kot(8)_ [[fan2 got3-2]] the mealy taro;
+      its stems are tough.
+    ==
+  ====
+$$
+##>
