@@ -1552,12 +1552,6 @@ LINTING_LINK_PATTERN = re.compile(
 LINTING_LINK_CHARACTER_CONTENT_GROUP = 'link_character_content'
 LINTING_LINK_JYUTPING_GROUP = 'link_jyutping'
 
-INDEXING_WILLIAMS_VOWEL_PATTERN = re.compile(
-    pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
-    flags=re.IGNORECASE | re.VERBOSE,
-)
-INDEXING_WILLIAMS_VOWEL_REPL = r'\g<vowel>'
-
 INDEXING_ELLIPSIS_ITEM_NECESSITY = '[[...]]'
 INDEXING_ELLIPSIS_ITEM_PATTERN = re.compile(
     pattern=r'[- ] \[\[\.\.\.\]\][;.\n]'
@@ -3444,11 +3438,6 @@ class CharacterEntry:
         text = text.replace('æ', 'ae')
         text = text.replace('Œ', 'Oe')
         text = text.replace('œ', 'oe')
-
-        # Remove Williams typography
-        text = text.replace("(')", "'")
-        text = WILLIAMS_TONE_PATTERN.sub(repl='', string=text)
-        text = INDEXING_WILLIAMS_VOWEL_PATTERN.sub(repl=INDEXING_WILLIAMS_VOWEL_REPL, string=text)
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
