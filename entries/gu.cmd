@@ -264,3 +264,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~179 #11: (2)罟]]
+    ==
+    - Interchanged with the last [[罛]];
+    - a nets dragged along;
+    - nets for birds;
+    - the net of the law;
+    - _(1)t(')o (2)k(u/) (4)sh(u:)n_
+        [[to1 gu2 syun4]],
+        fishing-smacks;
+    - _ts(u/)i(6) (2)k(u/)_
+        [[zeoi6 gu2]],
+        involved in guilt;
+    - _(5)mong (2)k(u/)_
+        [[mong5 gu2]],
+        nets for fishing.
+    ==
+  ====
+$$
+##>
