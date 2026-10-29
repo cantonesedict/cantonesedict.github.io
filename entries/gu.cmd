@@ -26,6 +26,59 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~179 #4: (1)姑]]
+    ==
+    - A polite term for females;
+    - a husband's mother is called
+      _(1)k(u/)_ [[gu1]] or _(1)yung (1)k(u/)_ [[jung1 gu1]]
+      by his wife;
+    - _t(a/)i(6) (1)k(u/)_ [[daai6 gu1]],
+      _(2)si(u/) (1)k(u/)_ [[siu2 gu1]],
+        a husband's sisters;
+    - _(1)k(u/) (4)n(e/)ung_
+        [[gu1 noeng4]],
+        a paternal aunt, a respectful term for young ladies;
+    - _(1)k(u/) (5)m(o\)_ [[gu1 mou5]]
+        and
+      _(1)k(u/) (4)p(')o_ [[gu1 po4]],
+        a father's and grandfather's sisters;
+    - _(1)k(u/) (4)y(e/)_
+        [[gu1 je4]],
+        a husband's brother-in-law;
+    - _(1)ts(')(u:)n (1)k(u/)_
+        [[cyun1 gu1]],
+        village girls.
+    ==
+    ==
+    - To tolerate, lenient, lax, yielding;
+    - for the time, temporarily, just, merely;
+    - _(1)k(u/) (2)ch(')(e/) m(a/)n(6) m(a/)n(6)_
+        [[gu1 ce2 maan6 maan6]]
+        let it be, gently;
+    - _(a/)(3) (1)k(u/)_
+        [[aa3 gu1]],
+        a girl, a miss;
+    - _(1)s(a/)m (1)k(u/)_
+        [[saam1 gu1]],
+        are nuns, wizards, and wives of Rationalists;
+    - _(1)k(u/) (2)s(o\)_
+        [[gu1 sou2]],
+        sisters-in-law;
+    - _(1)k(u/) sik(7)_
+        [[gu1 sik1]]
+        indulgent, easy with, lax;
+    - _(1)k(u/) sik(7) (5)y(e/)ung (1)k(a/)n_
+        [[gu1 sik1 joeng5 gaan1]],
+        too much leniency nourishes treachery.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #1: (1)孤]]
     ==
     - Fatherless;
