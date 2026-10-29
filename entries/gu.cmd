@@ -415,6 +415,32 @@ $$
 $$
 W
   ====
+  - [[Page~180 #7: (2)瞽]]
+    ==
+    - Eves without pupils, or which can not see objects;
+    - blind;
+    - a leader of an orchestra, a musician;
+    - _(u:)(6) (2)k(u/)_
+        [[jyu6 gu2]],
+        musicians in the palace;
+    - _(2)k(u/) muk(9) (4)yan_
+        [[gu2 muk6 jan4]],
+        a blind man;
+    - _(2)k(u/) muk(9) (u:)n(6)_
+        [[gu2 muk6 jyun6-2]]
+        a blind asylum;
+    - _(5)l(e/)ung (2)k(u/) (1)s(e/)ung (4)f(u/)_
+        [[loeng5 gu2 soeng1 fu4]],
+        a blind man leading another.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~179 #11: (2)罟]]
     ==
     - Interchanged with the last [[罛]];
