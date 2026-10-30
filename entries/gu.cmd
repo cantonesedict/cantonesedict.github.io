@@ -721,6 +721,45 @@ $$
 $$
 W
   ====
+  - [[Page~182 #2: 固(3)]]
+    ==
+    - Shut around, shut up;
+    - well strengthened, fortified;
+    - impervious, solid;
+    - firm, constant, obstinate, pertinacious, fixed, determined;
+    - chronic, as disease;
+    - to defend;
+    - to render stable;
+    - assuredly, certainly, firmly;
+    - vulgar, rude, rustic;
+    - _(2)ch(u:) k(u/)(3)_
+        [[zyu2 gu3]]
+        lasting, strongly made;
+    - _k(u/)(3) chap(7) pat(7) (1)t(')ung_
+        [[gu3 zap1 bat1 tung1]],
+        immovable and deaf to reason, perverse;
+    - _k(u/)(3) (4)(i/)n hai(6) (2)k(o\)m_
+        [[gu3 jin4 hai6 gam2]],
+        it certainly is so_;_
+    - _k(u/)(3) (4)ts(')z'_
+        [[gu3 ci4]]
+        to decline firmly;
+    - _k(u/)(3) lau(6) (5)y(e/) (4)m(a/)n_
+        [[gu3 lau6 je5 maan4]],
+        the rustic, unpolished people;
+    - _k(u/)(3) (1)tang_ [[gu3 dang1]],
+        or
+      _k(u/)(3) (i/)(3)_ [[gu3 ji3]]
+        willful, will have his own way.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~181 #6: 故(3)]]
     ==
     - A cause, an occasion, pretext, that which affects or induces a result;
