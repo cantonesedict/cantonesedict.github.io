@@ -822,6 +822,22 @@ $$
 $$
 W
   ====
+  - [[Page~182 #3: 錮(3)]]
+    ==
+    - To fuse iron or copper to mend cracks, to stop up carefully;
+    - _kam(3) k(u/)(3)_
+        [[gam3 gu3]]
+        to bind more carefully, to keep out,
+        to repress, to prevent, as good men reaching office.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~181 #7: 顧(3)]]
     ==
     - To turn the head and look,
