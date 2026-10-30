@@ -465,6 +465,23 @@ $$
 $$
 W
   ====
+  - [[Page~181 #1: (2)羖]]
+    ==
+    - A ram, a particolored ram;
+    - a sheep, male or female;
+    - _(5)'ng (2)k(u/) t(a/)i(6) (1)f(u/)_
+        [[ng5 gu2 daai6 fu1]],
+        the lord of the five sheepskins---\
+        a story of Peh-l(i/)-h(i/) [[百里奚]], B.~C.~660.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~180 #5: (2)詁]]
     ==
     - To explain the words of the ancients by modern illustrations;
