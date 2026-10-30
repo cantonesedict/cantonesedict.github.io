@@ -526,6 +526,51 @@ $$
 $$
 W
   ====
+  - [[Page~181 #4: (2)蠱]]
+    ==
+    - Worms in the abdomen, which are thought to cause dropsy;
+    - a venemous worm, used to poison people;
+    - a slow poison;
+    - an inquiet ghost;
+    - to disturb, to disquiet;
+    - to stir up;
+    - to delude;
+    - suspicious;
+    - to trouble one with doubts, to pervert from rectitude;
+    - the 18th~diagram;
+    - _(2)k(u/) ch(e/)ung(3)_
+        [[gu2 zoeng3]]
+        the dropsy;
+    - _fong(3) (2)k(u/)_
+        [[fong3 gu2]],
+        to poison one, said to be done by the women in Kw(a/)ngs(i/) [[廣西]];
+    - _shau(6) (2)k(u/)_
+        [[sau6 gu2]],
+        poisoned;
+    - _(1)f(i/) (2)k(u/)_
+        [[fei1 gu2]],
+        flies produced from worms in grain;
+    - _(2)k(u/) tuk(9)_
+        [[gu2 duk6]]
+        poisonous;
+    - _kon(3) (2)k(u/) (1)ch(i/) (2)tsz'_
+        [[gon3 gu2 zi1 zi2]]
+        a son who atones or repairs a parent's errors;
+    - _(1)i(u/) (2)k(u/)_
+        [[jiu1 gu2]],
+        possessed by a malicious goblin, elf-shot;
+    - _(2)k(u/) w(a/)k(9)_
+        [[gu2 waak6]]
+        to impose on, to cozen.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~180 #5: (2)詁]]
     ==
     - To explain the words of the ancients by modern illustrations;
