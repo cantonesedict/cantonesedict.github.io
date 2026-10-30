@@ -526,6 +526,21 @@ $$
 $$
 W
   ====
+  - [[Page~181 #5: (2)盬]]
+    ==
+    - A salt pond in ~~near~~ or ``near`` Sh(a/)ntung [[山東]];
+    - not lasting, not durable, badly made;
+    - to suck;
+    - temporary, for the time.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~181 #4: (2)蠱]]
     ==
     - Worms in the abdomen, which are thought to cause dropsy;
