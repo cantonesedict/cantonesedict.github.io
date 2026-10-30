@@ -822,6 +822,18 @@ $$
 $$
 W
   ====
+  - [[Page~182 #4: 痼(3)]]
+    ==
+    - A chronic, incurable disease, such as leprosy, gout, &c.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~182 #3: 錮(3)]]
     ==
     - To fuse iron or copper to mend cracks, to stop up carefully;
