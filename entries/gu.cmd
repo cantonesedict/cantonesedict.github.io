@@ -691,3 +691,65 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~181 #6: 故(3)]]
+    ==
+    - A cause, an occasion, pretext, that which affects or induces a result;
+    - a reason for;
+    - because, therefore, on that account, on purpose;
+    - that which was formerly, old, forgotten, neglected;
+    - to die, to decease;
+    - old, long in possession;
+    - death;
+    - a matter or affair;
+    - _~~yat(7) yat(7)~~ ``yat(9) yat(9)`` (4)(u:) k(u/)(3)_
+        [[jat6 jat6 jyu4 gu3]]
+        daily the same as before;
+    - _k(u/)(3) (1)h(e/)ung_
+        [[gu3 hoeng1]],
+        my native village;
+    - _k(u/)(3) f(a/)n(6)_
+        [[gu3 faan6]]
+        presumptuous error;
+    - _k(u/)(3) sz'(6)_
+        [[gu3 si6]]
+        an old affair, an ancient story;
+    - _(2)p(a/)i k(u/)(3) sz'(6)_
+        [[baai2 gu3 si6]]
+        to parade old things, as in a procession;
+    - _t(a/)i(6) k(u/)(3)_
+        [[daai6 gu3]]
+        death of parents, the 'great death;'
+    - _(1)shan k(u/)(3)_ [[san1 gu3]]
+        or
+      _mat(9) k(u/)(3)_ [[mat6 gu3]]
+        dead;
+    - _k(u/)(3) ~~(5)yan~~ ``(5)yau``_
+        [[gu3 jau5]]
+        an old (or deceased) friend;
+    - _(4)ho k(u/)(3)_
+        [[ho4 gu3]]
+        why;
+    - _k(u/)(3) ~~(5)ts(')z'~~ ``(2)ts(')z'``_
+        [[gu3 ci2]]
+        therefore;
+    - _k(u/)(3) (i/)(3)_
+        [[gu3 ji3]]
+        purposely;
+    - _k(u/)(3) kau(6)_
+        [[gu3 gau6]]
+        old, long used;
+    - _(4)m(o\) k(u/)(3)_
+        [[mou4 gu3]]
+        causeless, unseasonable;
+    - _(1)s(e/) (1)sui sai(3) k(u/)(3)_
+        [[se1 seoi1 sai3 gu3]]
+        a trifling matter.
+    ==
+  ====
+$$
+##>
