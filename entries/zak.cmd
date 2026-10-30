@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -110,6 +110,10 @@ A
   ==
   - $仄1
   - 侧 (Mainland simplified)
+  ==
+V
+  ==
+  - zap1 (lazy elision in 側邊)
   ==
 F
   ==
