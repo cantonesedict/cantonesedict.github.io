@@ -544,6 +544,25 @@ $$
 $$
 W
   ====
+  - [[Page~181 #3: (2)賈]]
+    ==
+    - A shopman, one who trades in a market, a resident tradesman;
+    - to trade, to traffic;
+    - _(2)k(u/) (5)sh(i/)_
+        [[gu2 si5]],
+        a market, a bazaar;
+    - _(1)sh(e/)ung (2)k(u/)_
+        [[soeng1 gu2]],
+        a merchant.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~180 #6: (2)皷(2)鼓]]
     ==
     - A drum, skin instruments of music once made of earthen;
