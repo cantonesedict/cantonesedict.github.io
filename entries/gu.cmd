@@ -753,3 +753,60 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~181 #7: 顧(3)]]
+    ==
+    - To turn the head and look,
+      to look after, to attend to, to care for, to regard;
+    - considerate;
+    - to reflect upon, to consider;
+    - consonant to, corresponding;
+    - to assist with one's counsel or business, to patronize;
+    - an initial word, but, on the contrary;
+    - _k(u/)(3) ch(u:)(6) (5)k(')(u:)_
+        [[gu3 zyu6 keoi5]]
+        look after him, to see to;
+    - _k(u/)(3) n(i/)m(6)_
+        [[gu3 nim6]]
+        to remember, to consider;
+    - _pat(7) k(u/)(3)_
+        [[bat1 gu3]]
+        to disregard, inattentive;
+    - _k(u/)(3) hau(6)_
+        [[gu3 hau6]]
+        to lay up, to reflect on the consequences;
+    - _(1)s(e/)ung k(u/)(3)_
+        [[soeng1 gu3]]
+        correspondent, mutual action;
+    - _k(u/)(3) (2)p(u/)n_
+        [[gu3 bun2]]
+        to be careful of one's capital;
+    - _(5)n(i/) k(u/)(3) (2)kan_
+        [[nei5 gu3 gan2]],
+        do you look well after it;
+    - _tsz'(6) k(u/)(3) pat(7) h(a/)(6)_
+        [[zi6 gu3 bat1 haa6]]
+        I have no leisure (or not enough) for myself;
+    - _(4)'m k(u/)(3) m(i/)n(6) (4)p(')(i/)_
+        [[m4 gu3 min6 pei4]],
+        careless of one's name, disreputable;
+    - _(4)mung (1)kwong k(u/)(3)_
+        [[mung4 gwong1 gu3]]
+        to favor one with custom---a shop phrase;
+    - _(4)'m (4)shui k(u/)(3)_
+        [[m4 seoi4 gu3]]
+        not heeding;
+    - _k(u/)(3) (4)m(u/)n (2)hau_
+        [[gu3 mun4 hau2]],
+        to regard the reputation of the shop.
+    ==
+    --
+    Used for the next [[僱]].
+    --
+  ====
+$$
+##>
