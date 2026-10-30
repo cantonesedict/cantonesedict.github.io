@@ -696,6 +696,31 @@ $$
 $$
 W
   ====
+  - [[Page~182 #1: 僱(3)雇(3)]]
+    ==
+    - To hire, to rent, to engage for wages;
+    - to borrow;
+    - _k(u/)(3) (1)kung_
+        [[gu3 gung1]],
+        workmen;
+    - _~~k(u/)(6)~~ ``k(u/)(3)`` (4)sh(u:)n_
+        [[gu3 syun4]],
+        to hire a boat;
+    - _k(u/)(3) yam(6) ~~(4)^kong~~ ``(4)fong``_
+        [[gu3 jam6 fong4]],
+        to rent a house;
+    - _k(u/)(3) (2)teng ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
+        [[gu3 deng2 giu6-2]]
+        engage a sedan.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~181 #6: 故(3)]]
     ==
     - A cause, an occasion, pretext, that which affects or induces a result;
