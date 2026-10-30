@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -808,10 +808,10 @@ W
         [[hung2 zoek3-2 孔雀]]
         a peacock;
     - _(4)m(a/) ts(e/)uk(8)_
-        [[ma4 zoek3-2 麻雀]]
+        [[maa4 zoek3-2 麻雀]]
         a sparrow;
     - _(1)sh(a/)n (4)m(a/) ts(e/)uk(8)_
-        [[saan1 ma4 zoek3-2 山麻雀]]
+        [[saan1 maa4 zoek3-2 山麻雀]]
         a lark;
     - _ts(e/)uk(8) kok(8)_
         [[zoek3 gok3 雀角]]

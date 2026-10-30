@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -274,7 +274,7 @@ W
     - _(2)ch(u:) (1)ch(e/)ung_
         [[zyu2 zoeng1 主張]],
         to direct, to lord over;
-    - _yat(7) (1)ch(e/)ung (4)m(u/)n (4)lim_
+    - _yat(7) (1)ch(e/)ung (4)m(u/)n (4)l(i/)m_
         [[jat1 zoeng1 mun4 lim4-2 一張門簾]],
         a door-curtain.
     ==

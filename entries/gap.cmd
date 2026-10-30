@@ -144,7 +144,7 @@ W
         [[fong3 baak6 gap3-2]]
         to let off a pigeon;
         to make a false marriage;
-    - _(2)y(e/) k(o\)p(8)_
+    - _(5)y(e/) k(o\)p(8)_
         [[je5 gap3-2]]
         a wild pigeon;
     - _t(i/)(6) k(o\)p(8)_

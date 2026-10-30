@@ -548,7 +548,7 @@ W
       _(1)sham kau(3)_ [[sam1 gau3]]
         to investigate thoroughly;
     - _kau(3) (2)king (2)t(i/)m y(e/)ung(6)_
-        [[gau6 ging2 dim2 joeng6-2]]
+        [[gau3 ging2 dim2 joeng6-2]]
         how was it finally?
     - _kau(3) kau(3)_
         [[gau3 gau3]]

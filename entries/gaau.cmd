@@ -406,7 +406,7 @@ W
     - _(2)k(a/)u (1)f(a/)_
         [[gaau2 faa1]],
         to spin cotton;
-    - _(1)s(a/)m (2)kau (4)shing_
+    - _(1)s(a/)m (2)k(a/)u (4)shing_
         [[saam1 gaau2 sing4-2]],
         a three-stranded cord.
     ==

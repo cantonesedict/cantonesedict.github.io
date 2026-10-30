@@ -500,7 +500,7 @@ W
         [[jat1 gu2 saang1 ji3]]
         a share in a business;
     - _t(a/)i(6) (2)k(u/) ~~fan(3)~~ ``fan(6)``_
-        [[gaai6 gu2 fan6-2]]
+        [[daai6 gu2 fan6-2]]
         the head partner;
     - _(1)fan (2)k(u/)_
         [[fan1 gu2]]

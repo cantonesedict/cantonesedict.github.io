@@ -343,7 +343,7 @@ W
         [[jat1 giu3 zau6 dou3]]
         came as soon as called;
     - _mat(7) (4)shui ki(u/)(3) (5)n(i/) ts(o\)(6)_
-        [[mat1 seoi4-2 geoi3 nei5 zou6]]
+        [[mat1 seoi4-2 giu3 nei5 zou6]]
         who told you to do that?
     - _(5)n(i/) mat(7) (5)y(e/) ki(u/)(3) tak(7) (5)ngo k(o\)m(3) (4)'m (1)on_
         [[nei5 mat1 je5 giu3 dak1 ngo5 gam3 m4 on1]],
@@ -448,7 +448,7 @@ W
         [[ming4 giu6-2]],
         an open chair, used by officers;
     - _(4)t(')oi ~~(5)^ki(u/)~~ ``(2)ki(u/)`` (2)l(o\)_
-        [[tiu4 giu6-2 lou2]],
+        [[toi4 giu6-2 lou2]],
         sedan-bearers;
     - _~~tso(6)~~ ``(5)ts(')o`` ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
         [[co5 giu6-2]],

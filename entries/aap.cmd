@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -106,7 +106,7 @@ W
     - _l(a/)p(9) (a/)p(8)_
         [[laap6 aap3-2 臘鴨]]
         dried ducks;
-    - _(2)ch(')(a/)u (a/)p(8) p(')in(3)_
+    - _(2)ch(')(a/)u (a/)p(8) p(')(i/)n(3)_
         [[caau2 aap3 pin3-2 炒鴨片]]
         fried duck cutlet;
     - _(a/)p(8) (4)mi(u/)_

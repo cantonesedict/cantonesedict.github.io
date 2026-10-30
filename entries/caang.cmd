@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -453,7 +453,7 @@ W
     - _ch(')(a/)ng(3) (1)i(u/) (5)k(')(i/) ch(u:)(6)_
         [[caang3 jiu1 kei5 zyu6 撐腰企住]]
         to stand akimbo;
-    - _ch(')(a/)ng(3) (1)hoi (1)ch(e/)ung (4)m(u/)n_
+    - _ch(')(a/)ng(3) (1)hoi (1)ch(')(e/)ung (4)m(u/)n_
         [[caang3 hoi1 coeng1 mun4-2 住開窗門]],
         fasten open the window;
     - _ch(')(a/)ng(3) ch(u:)(6)_

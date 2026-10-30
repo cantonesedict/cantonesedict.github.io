@@ -90,7 +90,7 @@ W
     - A mirror, a glass, a looking-glass;
     - to reflect, to illustrate;
     - clear, bright;
-    - _(2)ng(a/)n keng(3)_
+    - _(5)ng(a/)n keng(3)_
         [[ngaan5 geng3-2]]
         spectacles;
     - _(1)ts(')(i/)n (5)l(i/) keng(3)_

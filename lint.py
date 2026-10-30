@@ -1391,7 +1391,7 @@ LINTING_DUAL_ROMANISATION_PATTERN = re.compile(
         \s+
         (?: \[\[ | \( )
             (?P<jyutping_caret> \^? )
-            (?P<jyutping> [a-z1-6 ]+ )
+            (?P<jyutping> [a-z1-6 -]+ )
             (?P<character_content> [^a-z1-6 \]\)]*? )
             (?P<character_caret> \^? )
         (?: \]\] | \) )
@@ -2186,7 +2186,16 @@ class RomanisationComparison:
 
     def __init__(self, williams: str, jyutping: str):
         expected_jyutping_list = RomanisationComparison.compute_expected_jyutping_list(williams)
-        is_consistent = jyutping in expected_jyutping_list
+
+        if changed_match := READING_VARIATION_CHANGED_PATTERN.fullmatch(string=jyutping):
+            unchanged_jyutping = changed_match.group(READING_VARIATION_CHANGED_UNCHANGED_JYUTPING_GROUP)
+            changed_tone = changed_match.group(READING_VARIATION_CHANGED_TONE_GROUP)
+            effective_jyutping = unchanged_jyutping[:-1] + changed_tone
+        else:
+            unchanged_jyutping = jyutping
+            effective_jyutping = None
+
+        is_consistent = unchanged_jyutping in expected_jyutping_list or effective_jyutping in expected_jyutping_list
 
         self.williams = williams
         self.jyutping = jyutping

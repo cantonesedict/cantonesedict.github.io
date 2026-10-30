@@ -31,7 +31,7 @@ W
     - To beg, to ask alms;
     - to intreat, to request;
     - _hat(7) (4)(i/)_
-        [[hat ji4-1]],
+        [[hat1 ji4-1]],
         a beggar;
     - _fuk(9) hat(7)_
         [[fuk6 hat1]]
