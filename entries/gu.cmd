@@ -482,6 +482,50 @@ $$
 $$
 W
   ====
+  - [[Page~181 #2: (2){𦙶=⿰⺼古}(2)股]]
+    ==
+    - The haunches, the upper part of the thigh, the rump;
+    - the leg;
+    - a strand of a cord;
+    - a share in a concern;
+    - a division;
+    - a proportion, a fold, a quota;
+    - a chapter or head of a discourse;
+    - a spoke in a wheel;
+    - strong, stable;
+    - _(1)fan (2)k(u/) (2)tsz'_
+        [[fan1 gu2 zi2]]
+        to pay the portion due to writers in a y(a/)mun [[衙門]];
+    - _yat(7) (2)k(u/) ~~(1)shang~~ ``(1)sh(a/)ng`` (i/)(3)_
+        [[jat1 gu2 saang1 ji3]]
+        a share in a business;
+    - _t(a/)i(6) (2)k(u/) ~~fan(3)~~ ``fan(6)``_
+        [[gaai6 gu2 fan6-2]]
+        the head partner;
+    - _(1)fan (2)k(u/)_
+        [[fan1 gu2]]
+        to divide the assets;
+    - _(1)s(a/)m (2)k(u/) (4)shing_
+        [[saam1 gu2 sing4]],
+        a threefold cord;
+    - _(2)k(u/) ch(i/)n(3) (4)(i/) lut(9)_
+        [[gu2 zin3 ji4 leot6]]
+        trembling with fear;
+    - _(2)k(u/) (1)kwang_
+        [[gu2 gwang1]],
+        the limbs, _met._ statesmen;
+    - _p(a/)t(8) (2)k(u/)_
+        [[baat3 gu2]],
+        eight heads in an essay.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~180 #5: (2)詁]]
     ==
     - To explain the words of the ancients by modern illustrations;
