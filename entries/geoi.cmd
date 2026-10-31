@@ -392,6 +392,25 @@ $$
 $$
 W
   ====
+  - [[Page~184 #4: ::~~窶(3)~~``窶(6)``::]]
+    ==
+    - Poor, miserable;
+    - rustic, rude, unceremonious;
+    - _~~k(u:)(3)~~ ``k(u:)(6)`` (4)p(')an_
+        [[geoi6 pan4]],
+        poor;
+    - _k(u:)(6) sh(o\)(3)_
+        [[geoi6 sou3]]
+        a defense for the head when carrying burdens.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #3: ::~~遽(3)~~``遽(6)``::]]
     ==
     - Hastily, instantly, suddenly, quickly;
