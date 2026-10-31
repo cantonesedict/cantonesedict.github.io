@@ -504,6 +504,32 @@ $$
 $$
 W
   ====
+  - [[Page~185 #4: 懼(6)惧(6)]]
+    ==
+    - To fear, to stand in awe of;
+    - apprehensive;
+    - _(2)hung k(u:)(6)_ [[hung2 geoi6]]
+        or
+      _~~k(u:)(3)~~ ``k(u:)(6)`` p(')(a/)(3)_ [[geoi6 paa3]]
+        to dread, afraid lest;
+    - _wai(3) k(u:)(6) ~~wong(6)~~ ``(4)wong`` ~~fat(7)~~ ``f(a/)t(8)``_
+        [[wai3 geoi6 wong4 faat3]]
+        to respectfully fear the laws;
+    - _(4)h(o\) (4)m(o\) k(u:)(6) t(a/)n(6)_
+        [[hou4 mou4 geoi6 daan6]]
+        not afraid a bit;
+    - _ch(i/)n(3) k(u:)(6)_
+        [[zin3 geoi6]]
+        trembling with fear.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #3: 秬(6)]]
     ==
     - A kind of black millet,
