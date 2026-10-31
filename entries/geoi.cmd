@@ -182,6 +182,33 @@ $$
 $$
 W
   ====
+  - [[Page~183 #6: (2)矩]]
+    ==
+    - A carpenter's square;
+    - a rule, law, usage;
+    - a pattern;
+    - strict, exact;
+    - what is constant, uniform;
+    - an angle;
+    - to square, to adjust;
+    - _(1)kw(')ai (2)k(u:)_
+        [[kwai1 geoi2]],
+        usage, custom;
+    - _pat(7) (u:)(6) (2)k(u:)_
+        [[bat1 jyu6 geoi2]],
+        [Confucius] did not overstep equity;
+    - _k(i/)t(8) (2)k(u:)_
+        [[git3 geoi2]],
+        rules of conduct which influence others.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~183 #5: (2){𦦙=⿱與丰}(2){？=⿱文㐄}; here normalised to 舉]]
     ==
     - To raise with the hands, to carry between two, to elevate;
