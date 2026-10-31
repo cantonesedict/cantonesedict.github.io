@@ -141,3 +141,39 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~183 #3: (1)車]]
+    ==
+    - A wheeled barrow, vehicle, cart, &c.;
+    - the 159th~radical [[U+2F9E ⾞ "cart"]] of characters pertaining to vehicles;
+    - [[...]];
+    - _yat(7) shing(6) (1)k(u:)_
+        [[jat1 sing6 geoi1]],
+        a carriage;
+    - _(2)fo (4)lun (1)k(u:)_
+        [[fo2 leon4 geoi1]],
+        a rail-car;
+    - _(1)kung (1)k(u:)_
+        [[gung1 geoi1]],
+        a public office;
+    - _~~tso(6)~~ ``(5)ts(')o`` (1)k(u:)_
+        [[co5 geoi1]],
+        to ride in a carriage;
+    - _h(a/)(6) (1)k(u:)_
+        [[haa6 geoi1]],
+        to get out of a car, to arrive at;
+    - _hok(9) f(u/)(3) (5)'ng (1)k(u:)_
+        [[hok6 fu3 ng5 geoi1]]
+      ~~(or _(1)ch(')(e/)_ [[ce1]])~~
+        master of five cart-loads of books---very learned;
+    - _h(a/)(6) (1)k(u:) (1)(i/) (2)ch(')(i/)_
+        [[haa6 geoi1 ji1 ci2]],
+        having just arrived here.
+    ==
+  ====
+$$
+##>
