@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -237,7 +237,7 @@ S
   ==
 $$
 
-### 甌1 | _(1)Au_ [[au1]]
+### 甌1 | _~~(7)Au~~ ``(1)Au``_ [[au1]]
 
 $$
 R
@@ -280,7 +280,8 @@ W
   ====
 C
   ==
-  - Williams misprints the headword tone marker (1)^ as ^(7); here corrected.
+  - Williams misprints the headword tone marker (1)^ mirrored as ^(7); here corrected.
+    (The correct tone marker (1)^ appears against 甌 on Page~784 of the character index.)
   ==
 $$
 
