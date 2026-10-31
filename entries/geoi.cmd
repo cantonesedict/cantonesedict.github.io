@@ -581,6 +581,20 @@ $$
 $$
 W
   ====
+  - [[Page~719 #13: 炬(6)]]
+    ==
+    - A link, a torch made of old bamboo cables cut up,
+      commonly called _(2)fo (1)ch(i/)_ [[fo2 zi1]],
+      or fire twigs.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #3: 秬(6)]]
     ==
     - A kind of black millet,
