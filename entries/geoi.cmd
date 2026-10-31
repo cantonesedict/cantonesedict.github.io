@@ -541,6 +541,31 @@ $$
 $$
 W
   ====
+  - [[Page~185 #1: 詎(6)]]
+    ==
+    - How, in what manner?
+    - often implying the opposite of what is said;
+    - to stop at, to reach to;
+    - ignorant of a language;
+    - _k(u:)(6) (4)(u:) (2)ts(')z' ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[geoi6 jyu4 ci2 fu4]],
+        was it till this?
+    - _k(u:)(6) (i/)(3)_
+        [[geoi6 ji3]]
+        who would have thought it?
+        _i.~e._ it was unexpected, unwished.
+    ==
+    --
+    The last [[巨]] is sometimes used in this sense.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #3: ::~~遽(3)~~``遽(6)``::]]
     ==
     - Hastily, instantly, suddenly, quickly;
