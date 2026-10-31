@@ -177,3 +177,60 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~183 #5: (2){𦦙=⿱與丰}(2){？=⿱文㐄}; here normalised to 舉]]
+    ==
+    - To raise with the hands, to carry between two, to elevate;
+    - sometimes denotes the action of the next verb,
+      as _(2)k(u:) (2)yam_ [[geoi2 jam2]], drinking;
+    - to raise in public opinion, to introduce to, to recommend to;
+    - to venerate, to rise in one's esteem;
+    - to speak of, to allude to, to extol, to praise;
+    - to advance, to promote;
+    - all, the whole number;
+    - to confiscate;
+    - an ancient weight of three taels [[両]];
+    - _(2)k(u:) (4)yan_ [[geoi2 jan4]],
+        or
+      _(2)k(u:) p(a/)k(8)_ [[geoi2 baak3]]
+        a "promoted man," a _k(u:)jin_ [[舉人]] graduate;
+    - _(2)k(u:) ~~(4)h(e/)ung~~ ``(1)h(e/)ung`` (4)(i/)n_
+        [[geoi2 hoeng1 jin4]],
+        to set forth (or nominate) a village worthy;
+    - _(2)k(u:) ts(i/)n(3)_
+        [[geoi2 zin3]]
+        to recommend one;
+    - _(2)k(u:) t(a/)i(6) (1)t(o\)_
+        [[geoi2 daai6 dou1]],
+        to lift a falchion;
+    - _(1)kung (2)k(u:)_
+        [[gung1 geoi2]],
+        nominated by the public;
+    - _(2)k(u:) shai(3)_
+        [[geoi2 sai3]]
+        mankind;
+    - _pat(7) (1)chung (4)t(')oi (2)k(u:)_
+        [[bat1 zung1 toi4 geoi2]],
+        not worth bringing forward;
+    - _(5)l(o\) (2)k(u:)_
+        [[lou5 geoi2]],
+        a whore (also called _(4)man (4)ngau_ [[man4 ngau4 文牛]],
+        from the parts of this character [[⿱文㐄]]);
+    - _(2)k(u:) (2)shau_
+        [[geoi2 sau2]]
+        to raise the hand;
+    - _(2)k(u:) (2)ch(i/)_
+        [[geoi2 zi2]],
+        deportment;
+    - _(2)k(u:) on(3) (4)ts(')ai (4)m(i/)_
+        [[geoi2 on3 cai4 mei4]],
+        "table even with the eyebrows," to respect a husband---\
+        refers to an old legend of Mang Kw(a/)ng [[孟光]].
+    ==
+  ====
+$$
+##>
