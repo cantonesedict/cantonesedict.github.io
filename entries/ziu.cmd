@@ -785,6 +785,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected 王 to 上.
+  - Williams misprints the headword tone marker (2)^ as (1); here corrected.
+    (The correct tone marker (2)^ appears against 剿 on Page~744 of the character index.)
   ==
 P
   ++
