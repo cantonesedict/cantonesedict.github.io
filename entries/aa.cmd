@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-10-27
+* %date-modified --> 2026-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -32,7 +32,7 @@ WH
 WV
   ==
   - (A/).
-    Words in _a_ [[a]] or _(a/)_ [[aa]],
+    \[Words in _a_ [[a]] or _(a/)_ [[aa]],
     are often heard beginning with _ng_ [[ng]],
     as _ng(a/)_ [[ngaa]],
     _ngai_ [[ngai]],
