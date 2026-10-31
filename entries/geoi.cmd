@@ -530,6 +530,21 @@ $$
 $$
 W
   ====
+  - [[Page~719 #14: 埧(6)]]
+    ==
+    - An embankment, a dyke to confine water;
+    - _chuk(7) k(u:)(6)_
+        [[zuk1 geoi6]]
+        to build a bank.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #10: 巨(6)]]
     ==
     - The chief, the great one, first of its sort,
