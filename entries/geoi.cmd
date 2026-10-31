@@ -387,3 +387,36 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~184 #3: ::~~遽(3)~~``遽(6)``::]]
+    ==
+    - Hastily, instantly, suddenly, quickly;
+    - fleet, hurried, swift;
+    - agitated, trembling, fluttered;
+    - to forward, to send on, to transmit;
+    - a post, an express;
+    - _kap(7) k(u:)(6)_
+        [[gap1 geoi6]]
+        hurried, urged on;
+    - _(1)king k(u:)(6)_
+        [[ging1 geoi6]]
+        frightened;
+    - _k(u:)(6) k(i/)n(3)_
+        [[geoi6 gin3]]
+        a slight glance at;
+    - _(4)ch(')(u:)n k(u:)(6) (1)ch(i/) yik(9)_
+        [[cyun4 geoi6 zi1 jik6]]
+        a postman, a courier.
+    ==
+  ====
+C
+  ==
+  - Williams misprints the headword tone marker ^(6) as ^(3); here corrected.
+    (The correct tone marker ^(6) appears against 遽 on Page~815 of the character index.)
+  ==
+$$
+##>
