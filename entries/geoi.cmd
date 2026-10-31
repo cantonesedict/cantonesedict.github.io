@@ -99,6 +99,19 @@ $$
 $$
 W
   ====
+  - [[Page~183 #1: (1)椐]]
+    ==
+    - A tree found in Hon(a/)n [[河南]],
+      used for whip-handles, and old men's walking-staves.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~182 #6: (1)裾]]
     ==
     - The skirt of a robe, the tail of a coat;
