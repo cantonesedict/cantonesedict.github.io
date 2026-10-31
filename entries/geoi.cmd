@@ -386,6 +386,24 @@ $$
 $$
 W
   ====
+  - [[Page~185 #7: 屨(3)]]
+    ==
+    - Shoes or sandals, formerly made of coarse cloth;
+    - _(1)ch(')(u:)n ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[cyun1 geoi3]]
+        to put on shoes;
+    - _s(i/)t(8) ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[sit3 geoi3]]
+        to steal a pair of shoes.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #5: 據(3)]]
     ==
     - To lay the hand on;
