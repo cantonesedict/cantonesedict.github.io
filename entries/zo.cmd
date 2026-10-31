@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -15,6 +15,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zo1](#1)
 - [zo2](#2)
 - [zo3](#3)
 - [zo6](#6)
@@ -36,6 +37,49 @@ WP
 MP
   ==
   - zo = [tsɔː], [tɕɔː] ((preferred))
+  ==
+$$
+
+
+##{#1 .williams} ``(1)Cho`` [[zo1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $咗1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 咗1 | _(1)Cho_ [[zo1]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+5497
+A
+  ==
+  - 左 (Cantonese)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【阿吱阿咗】 (aa3 zi1 aa3 zo1)
+    ++
+    1. To nag, to make unwarranted remarks,
+       especially when uninvolved, unqualified, etc.
+    ++
+  ====
+  --
+  The spelling 阿吱阿咗 is arbitrary.
+  --
+S
+  ==
+  - $咗zo2
   ==
 $$
 
@@ -157,6 +201,10 @@ E
   --
   The spelling 咗 is arbitrary (but well established).
   --
+S
+  ==
+  - $咗zo1
+  ==
 $$
 
 ###+ 唨2 | _(2)Cho_ [[zo2]]

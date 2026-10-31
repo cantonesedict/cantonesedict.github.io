@@ -16379,18 +16379,23 @@
 "text":"U+8D99 赵 (Mainland simplified) (F2.7 趙) 趨也久也利也又姓 (Page 24* #6: 趙(6)) To hasten to (Kangxi: 趨趙也); to announce to a suzerain (Kangxi: 趙朝也本小邑朝事于大國也); a long time; ~~sharp, acute;~~ a few; a feudal state (Kangxi: 國名) in the south of Sh(a/)ns(i/) (山西) and Chihl(i/) (直隸), its capital was the present Ch(a/)uching (趙城) in Sh(a/)ns(i/) (山西). Williams' \"a long time\", \"a few\": Per 久也 and 少也 from 《廣韻》. I am not aware of any texts that use these senses. Williams' \"sharp\": This is perhaps a rendering of Fan Wan 利也, which is likely erroneous. Williams' \"acute\": This is a misreading of 刺也, which belongs under the reading _(5)t(')i(u/)_ (tiu5) per 《集韻》徒了切. A surname (Kangxi: 姓). 【趙-hasten】 (drjewX) (_verb-like_) to hasten (unto)"
 }
 },
+"咗":{
+"zo1":{
+"isCanonical":true,
+"williams":"(1)cho",
+"text":"U+5497 左 (Cantonese) 【阿吱阿咗】 (aa3 zi1 aa3 zo1) To nag, to make unwarranted remarks, especially when uninvolved, unqualified, etc. The spelling 阿吱阿咗 is arbitrary."
+},
+"zo2":{
+"isCanonical":true,
+"williams":"(2)cho",
+"text":"U+5497 唨 (Cantonese) 阻 (Cantonese) (Page 25* #8: (2)阻; here normalised to 咗) A colloquial word. A sign of ~~the past tense~~ completion, placed after verbs, like _(1)hi(u/)_ (hiu1 嘵)_;_ _~~(1)ning~~ (1)ling (2)cho (4)lai_ (ling1 zo2 lai4 拎咗嚟), brought it; _h(u(3) (2)cho_ (heoi3 zo2 去咗), gone. Williams' 拎咗嚟: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1). 【咗】 (zo2) Marker of the perfective aspect (whole completion of an action). 走咗 (zau2 zo2): \"He's gone.\" 死咗 (sei2 zo2): \"He's died.\" 笨咗添 (ban6 zo2 tim1): \"Oh, I've been foolish!\" 瞓着咗 (fan3 zoek6 zo2): \"Fallen asleep.\" 畢咗業 (bat1 zo2 jip6): \"I've graduated.\" 食咗飯未 (sik6 zo2 faan6 mei6): \"Have you eaten dinner yet?\" Used with certain imperatives. 飲咗佢吖 (jam2 zo2 keoi5 a1): \"Drink it up.\" 剷咗條片啦 (caan2 zo2 tiu4 pin3-2 laa1): \"Delete that video!\" 噉炒咗佢囉 (gam2 caau2 zo2 keoi5 lo1): \"So just fire him!\" The spelling 咗 is arbitrary (but well established)."
+}
+},
 "俎":{
 "zo2":{
 "isCanonical":true,
 "williams":"(2)cho",
 "text":"U+4FCE 爼 (F2.60 爼) 爼豆祭器 (Page 25* #7: (2)爼; here normalised to 俎) A basin or bowl like a tripod, used in sacrifice (Kangxi 俎: 祭享之器); _(2)cho tau(6)_ (zo2 dau6 俎豆) a basin used in worship. A small table (Kangxi: 俎几也). A chopping board (Kangxi: 刀俎, 俎椹版也). 【俎】 (tsrjoX) (_noun-like_) sacrificial-stand"
-}
-},
-"咗":{
-"zo2":{
-"isCanonical":true,
-"williams":"(2)cho",
-"text":"U+5497 唨 (Cantonese) 阻 (Cantonese) (Page 25* #8: (2)阻; here normalised to 咗) A colloquial word. A sign of ~~the past tense~~ completion, placed after verbs, like _(1)hi(u/)_ (hiu1 嘵)_;_ _~~(1)ning~~ (1)ling (2)cho (4)lai_ (ling1 zo2 lai4 拎咗嚟), brought it; _h(u(3) (2)cho_ (heoi3 zo2 去咗), gone. Williams' 拎咗嚟: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1). 【咗】 (zo2) Marker of the perfective aspect (whole completion of an action). 走咗 (zau2 zo2): \"He's gone.\" 死咗 (sei2 zo2): \"He's died.\" 笨咗添 (ban6 zo2 tim1): \"Oh, I've been foolish!\" 瞓着咗 (fan3 zoek6 zo2): \"Fallen asleep.\" 畢咗業 (bat1 zo2 jip6): \"I've graduated.\" 食咗飯未 (sik6 zo2 faan6 mei6): \"Have you eaten dinner yet?\" Used with certain imperatives. 飲咗佢吖 (jam2 zo2 keoi5 a1): \"Drink it up.\" 剷咗條片啦 (caan2 zo2 tiu4 pin3-2 laa1): \"Delete that video!\" 噉炒咗佢囉 (gam2 caau2 zo2 keoi5 lo1): \"So just fire him!\" The spelling 咗 is arbitrary (but well established)."
 }
 },
 "左":{
