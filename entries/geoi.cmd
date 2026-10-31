@@ -517,12 +517,12 @@ W
         [[geoi6 san4 zi1 ling4 ze2]],
         in whom is the Spirit of God.
     ==
+  - [[Page~719 after #14: 埧(6)]]
+    ==
+    - The three characters 具, 遽, and 窶 on page~184
+      should all be read _k(u:)(6)_ [[geoi6]] and not _k(u:)(3)_ [[geoi3]].
+    ==
   ====
-C
-  ==
-  - Williams misprints the headword tone marker ^(6) as ^(3); here corrected.
-    (The correct tone marker ^(6) appears against 具 on Page~742 of the character index.)
-  ==
 $$
 ##>
 
@@ -634,6 +634,11 @@ W
         [[geoi6 sou3]]
         a defense for the head when carrying burdens.
     ==
+  - [[Page~719 after #14: 埧(6)]]
+    ==
+    - The three characters 具, 遽, and 窶 on page~184
+      should all be read _k(u:)(6)_ [[geoi6]] and not _k(u:)(3)_ [[geoi3]].
+    ==
   ====
 $$
 ##>
@@ -712,12 +717,12 @@ W
         [[cyun4 geoi6 zi1 jik6]]
         a postman, a courier.
     ==
+  - [[Page~719 after #14: 埧(6)]]
+    ==
+    - The three characters 具, 遽, and 窶 on page~184
+      should all be read _k(u:)(6)_ [[geoi6]] and not _k(u:)(3)_ [[geoi3]].
+    ==
   ====
-C
-  ==
-  - Williams misprints the headword tone marker ^(6) as ^(3); here corrected.
-    (The correct tone marker ^(6) appears against 遽 on Page~815 of the character index.)
-  ==
 $$
 ##>
 
