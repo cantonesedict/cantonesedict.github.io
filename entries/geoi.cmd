@@ -182,6 +182,21 @@ $$
 $$
 W
   ====
+  - [[Page~185 #6: 梖(6) _K(u:)(6)_ (geoi6); here corrected to 椇 _(2)K(u:)_ (geoi2)]]
+    ==
+    - A reddish, sweet fruit;
+    - _(2)ch(i/) ~~k(u:)(6)~~ ``(2)k(u:)``_
+        [[zi2 geoi2]]
+        the _Hovenia dulcis_, used to settle spirits or wines.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~183 #6: (2)矩]]
     ==
     - A carpenter's square;
