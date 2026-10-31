@@ -261,3 +261,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~183 #7: (2)莒]]
+    ==
+    - A name for the taro in Sh(a/)ntung [[山東]];
+    - name of ~~an~~ ``a`` petty ancient state in that province,
+      now the superior district of K(u:) chau [[莒州]] in (I/)chau f(u/) [[沂州府]].
+    ==
+  ====
+$$
+##>
