@@ -479,6 +479,31 @@ $$
 $$
 W
   ====
+  - [[Page~184 #10: 巨(6)]]
+    ==
+    - The chief, the great one, first of its sort,
+      great, vast, very, mighty, large;
+    - _k(u:)(6) m(a/)n(6)_
+        [[geoi6 maan6]]
+        a myriad of myriads, innumerable;
+    - _k(u:)(6) (4)ch(')(a/)_
+        [[geoi6 caa4]],
+        the great raft, is supposed to refer to Noah's ark;
+    - _k(u:)(6) m(a/)k(8)_
+        [[geoi6 maak3]]
+        the thumb;
+    - _(1)ch(e/)ung (1)hoi k(u:)(6) (2)hau_
+        [[zoeng1 hoi1 geoi6 hau2]],
+        to open the mouth wide.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #4: ::~~窶(3)~~``窶(6)``::]]
     ==
     - Poor, miserable;
