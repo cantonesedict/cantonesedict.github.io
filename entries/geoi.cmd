@@ -456,6 +456,24 @@ $$
 $$
 W
   ====
+  - [[Page~184 #7: 鐻(6); here normalised to 虡]]
+    ==
+    - A frame for a bell or drum;
+    ==
+    --
+    read _(4)k(')(u:)_ [[keoi4]],
+    --
+    ==
+    - an ancient table utensil of gold or silver.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #3: ::~~遽(3)~~``遽(6)``::]]
     ==
     - Hastily, instantly, suddenly, quickly;
