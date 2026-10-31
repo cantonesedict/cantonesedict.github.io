@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3760,6 +3760,11 @@ W
         an old lady---a term used by the young.
     ==
   ====
+C
+  ==
+  - Williams misprints the headword tone marker (5)^ as (2)^; here corrected.
+    (The correct tone marker (5)^ appears against 姒 on Page~753 of the character index.)
+  ==
 $$
 
 ###+ 柿5 | _(5)Ts(')z'_ [[ci5]]
