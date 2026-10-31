@@ -351,6 +351,51 @@ $$
 $$
 W
   ====
+  - [[Page~184 #5: 據(3)]]
+    ==
+    - To lay the hand on;
+    - to defend, to bar off;
+    - to maintain a place;
+    - to seize, to take possession of;
+    - to lean against or on;
+    - to have form or substance;
+    - substantial, tangible;
+    - proof, testimony, evidence;
+    - relying, according to, depending on;
+    - conformably to, it appears that;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` p(')(o\)(3)_
+        [[geoi3 pou3]]
+        to take possession of a shop;
+    - _ch(i/)m(3) ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[zim3 geoi3]]
+        to occupy by force, to eject;
+    - _p(a/)(3) ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[baa3 geoi3]]
+        to usurp;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` sh(u:)t(8)_
+        [[geoi3 syut3]]
+        from what he says, &c.;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` (2)shau_
+        [[geoi3 sau2]],
+        to guard carefully;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` y(e/)uk(8)_
+        [[geoi3 joek3]]
+        according to the contract;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` sz'(6) (4)lun sz'(6)_
+        [[geoi3 si6 leon4 si6]]
+        each thing to be done in its own way;
+    - _(5)yau (4)ho ching(3) ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[jau5 ho4 zing3 geoi3]]
+        what proof is there?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #2: ::~~具(3)~~``具(6)``::]]
     ==
     - Prepared, arranged;
