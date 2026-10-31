@@ -94,3 +94,19 @@ W
   ======
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~182 #6: (1)裾]]
+    ==
+    - The skirt of a robe, the tail of a coat;
+    - _(4)ch(')(e/)ung (1)k(u:)_
+        [[coeng4 geoi1]],
+        a long skirt, a train;
+        proud, haughty.
+    ==
+  ====
+$$
+##>
