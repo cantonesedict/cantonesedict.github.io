@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-10-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -251,7 +251,7 @@ E
   """"
 $$
 
-### 拆3 | _Ch(')(a/)k(8)_ [[caak3]]
+### 拆3 | _~~Ch(')(a/)k(9)~~ ``Ch(')(a/)k(8)``_ [[caak3]]
 
 $$
 R
@@ -296,6 +296,8 @@ W
   ====
 C
   ==
+  - Williams misprints the headword tone marker ^(8) as ^(9); here corrected.
+    (The correct tone marker ^(8) appears against 拆 on Page~764 of the character index.)
   - Williams' 拆散:
     Note the subtle difference between the two readings
     _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and
