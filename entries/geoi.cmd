@@ -484,3 +484,26 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~184 #6: ::~~{𩗗=⿺風貝}(3)~~``{𩗗=⿺風貝}(6)``::; here normalised to 颶]]
+    ==
+    - A furious wind, common along the southern coasts of China;
+    - a whirlwind, a cyclone, a tyfoon;
+    - _k(u:)(6) (5)m(o\)_ [[geoi6 mou5]],
+        or
+      _(1)fung k(u:)(6) (5)^tan_ [[fung1 geoi6 dan5]],
+        the prognostics of a tyfoon.
+    ==
+  ====
+C
+  ==
+  - Williams misprints the headword tone marker ^(6) as ^(3); here corrected.
+    (The correct tone marker ^(6) appears against the orthodox form 颶
+    (not {𩗗=⿺風貝}) on Page~823 of the character index.)
+  ==
+$$
+##>
