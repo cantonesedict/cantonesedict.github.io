@@ -304,3 +304,45 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ======
+  - [[Page~183 #10: 句(3)]]
+    ====
+    - A stop in reading, a comma;
+    - a period, a sentence;
+    - a phrase, an expression, a term, a word;
+    - a line in a stanza;
+    - a classifier of phrases, as
+      ==
+      - _yat(7) k(u:)(3) w(a/)(6)_
+          [[jat1 geoi3 waa6]]
+          a phrase;
+      - _yat(7) k(u:)(3) (1)sh(i/)_
+          [[jat1 geoi3 si1]],
+          a verse;
+      ==
+    - _(1)fan k(u:)(3) tau(6)_
+        [[fan1 geoi3 dau6]]
+        divide it into sentences;
+    - _(2)k(i/) k(u:)(3) sh(u:)t(8) w(a/)(6)_
+        [[gei2 geoi3 syut3 waa6]]
+        several phrases;
+    - _(2)t(i/)m (5)t(')(u:)n k(u:)(3)_
+        [[dim2 tyun5 geoi3]]
+        punctuate it;
+    - _(4)'m tuk(9) tak(7) (5)t(')(u:)n k(u:)(3)_
+        [[m4 duk6 dak1 tyun5 geoi3]]
+        you don't read it properly;
+    - _(4)'m (4)shing (1)ch(e/)ung k(u:)(3)_
+        [[m4 sing4 zoeng1 geoi3]]
+        ungrammatical, unintelligible;
+    - _yat(7) k(u:)(3) k(u:)(3) (1)t(o\) (2)hi(u/)_
+        [[jat1 geoi3 geoi3 dou1 hiu2]],
+        I understand every word.
+    ====
+  ======
+$$
+##>
