@@ -346,3 +346,44 @@ W
   ======
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~184 #2: ::~~具(3)~~``具(6)``::]]
+    ==
+    - Prepared, arranged;
+    - placed together orderly;
+    - to present, to furnish, to lay before;
+    - tools, implements;
+    - _(2)kan k(u:)(6)_
+        [[gan2 geoi6]]
+        carefully prepared;
+    - _k(u:)(6) ~~(4)^tsai~~ ``(4)ts(')ai`` p(i/)(6)_
+        [[geoi6 cai4 bei6]] <# TODO: correct to $俱keoi1 (?) #>
+        all is ready;
+    - _(1)ch(i/) (4)ming pat(7) k(u:)(6)_
+        [[zi1 ming4 bat1 geoi6]]
+        I omit the name, as you know it;
+    - _k(u:)(6) fung(6) kwo(3) (5)n(i/)_
+        [[geoi6 fung6 gwo3 nei5]],
+        give them to you;
+    - _(4)ying k(u:)(6)_
+        [[jing4 geoi6]]
+        implements of torture;
+    - _h(i/)(3) k(u:)(6)_
+        [[hei3 geoi6]]
+        theatrical apparatus;
+    - _k(u:)(6) (4)Shan (1)ch(i/) (4)Ling (2)ch(e/)_
+        [[geoi6 san4 zi1 ling4 ze2]],
+        in whom is the Spirit of God.
+    ==
+  ====
+C
+  ==
+  - Williams misprints the headword tone marker ^(6) as ^(3); here corrected.
+    (The correct tone marker ^(6) appears against 具 on Page~742 of the character index.)
+  ==
+$$
+##>
