@@ -308,6 +308,26 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~184 #8: 倨(6) _K(u:)(6)_ (geoi6); here normalised to _K(u:)(3)_ (geoi3)]]
+    ==
+    - To stand or sit carelessly;
+    - a free and easy way;
+    - a proud, sans-souci, haughty, carriage;
+    - a vain, self-confident gait;
+    - strong, as _~~k(u:)(6)~~ ``k(u:)(3)`` (4)ng(a/)_ [[geoi3 ngaa4]],
+      strong teeth, tusks;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` ng(o\)(6)_
+        [[geoi3 ngou6]]
+        haughty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~183 #10: 句(3)]]
     ====
