@@ -599,6 +599,26 @@ $$
 $$
 W
   ====
+  - [[Page~185 #2: 鉅(6)]]
+    ==
+    - Hard as iron or steel, obdurate;
+    - great, chief;
+    - fierce, implacable;
+    - _k(u:)(6) (1)kung_
+        [[geoi6 gung1]],
+        a term for the emperor;
+    - _k(u:)(6) t(')(i/)t(8)_
+        [[geoi6 tit3]]
+        iron-hard.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #6: ::~~{𩗗=⿺風貝}(3)~~``{𩗗=⿺風貝}(6)``::; here normalised to 颶]]
     ==
     - A furious wind, common along the southern coasts of China;
