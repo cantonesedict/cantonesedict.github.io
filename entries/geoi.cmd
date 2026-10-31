@@ -209,6 +209,19 @@ $$
 $$
 W
   ====
+  - [[Page~183 #8: (2)筥]]
+    ==
+    - A round osier basket, holding about half a peck of rice;
+    - four handfulls of grain, or a sheaf.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~183 #5: (2){𦦙=⿱與丰}(2){？=⿱文㐄}; here normalised to 舉]]
     ==
     - To raise with the hands, to carry between two, to elevate;
