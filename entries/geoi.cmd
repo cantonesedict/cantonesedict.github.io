@@ -416,6 +416,28 @@ $$
 $$
 W
   ====
+  - [[Page~184 #9: 踞(6) _K(u:)(6)_ (geoi6); here normalised to _K(u:)(3)_ (geoi3)]]
+    ==
+    - To squat, to sit on the feet;
+    - to sit in a rude, uncivil style;
+    - _(1)k(i/) ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[gei1 geoi3]]
+        to sit like a tailor;
+    - _~~k(u:)(6)~~ ``k(u:)(3)`` tso(6)_
+        [[geoi3 zo6]]
+        to take the best seat;
+    - _(4)p(')(u/)n ~~k(u:)(6)~~ ``k(u:)(3)``_
+        [[pun4 geoi3]]
+        to sit improperly.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #2: ::~~具(3)~~``具(6)``::]]
     ==
     - Prepared, arranged;
