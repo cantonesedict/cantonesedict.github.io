@@ -504,6 +504,19 @@ $$
 $$
 W
   ====
+  - [[Page~185 #3: 秬(6)]]
+    ==
+    - A kind of black millet,
+      of which spirits used in libations were anciently made.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~184 #4: ::~~窶(3)~~``窶(6)``::]]
     ==
     - Poor, miserable;
