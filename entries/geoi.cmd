@@ -112,6 +112,24 @@ $$
 $$
 W
   ====
+  - [[Page~183 #2: (1)琚]]
+    ==
+    - Ornamental gems hanging from the girdle, one on each side;
+    - _(4)k(')ing (1)k(u:)_
+        [[king4 geoi1]],
+        precious ornaments, bijoutry;
+    - _(1)k(u:) p(')(u/)i(3)_
+        [[geoi1 pui3]]
+        girdle trappings.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~182 #6: (1)裾]]
     ==
     - The skirt of a robe, the tail of a coat;
