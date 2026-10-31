@@ -288,3 +288,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~183 #9: (2)踽]]
+    ==
+    - A stately, solitary, independent gait;
+    - going alone, unsociable;
+    - _(2)k(u:) (2)k(u:) (4)l(e/)ung (4)l(e/)ung_
+        [[geoi2 geoi2 loeng4 loeng4]],
+        careless way, wanting no help.
+    ==
+  ====
+$$
+##>
