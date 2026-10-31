@@ -572,6 +572,13 @@ W
     ==
     - an ancient table utensil of gold or silver.
     ==
+  - [[Page~185 #5: {𥲤=⿱𥫗虛}(6); here normalised to 虡]]
+    ==
+    - The upright posts of a frame on which bells or tinkling stones are hung;
+    - _sun(3) k(u:)(6)_
+        [[seon3 geoi6]]
+        a bell-frame.
+    ==
   ====
 $$
 ##>
