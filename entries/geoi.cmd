@@ -99,6 +99,24 @@ $$
 $$
 W
   ====
+  - [[Page~719 #12: (1)据]]
+    ==
+    - The grip of the hand between the thumb and fingers;
+    - a hand diseased, restrained, or embarrassed;
+    - stiffnecked;
+    - imperturbable, supercilious, prim;
+    - _kat(7) (1)k(u:)_
+        [[gat1 geoi1]],
+        embarrassed, as for want of funds.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~183 #1: (1)椐]]
     ==
     - A tree found in Hon(a/)n [[河南]],
