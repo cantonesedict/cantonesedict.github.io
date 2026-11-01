@@ -373,3 +373,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~186 #10: (4)鸜(4)鴝]]
+    ==
+    - A species of thrush, or grackle called
+      _(4)k(')(u:) kuk(7)_ [[keoi4 guk1]]
+        or
+      _p(a/)t(8) (1)ko_ [[baat3 go1]];
+    - its plumage is black, with a white spot on the secondaries
+      (the _Turdus violaceus?);_
+    - _(4)k(')(u:) kuk(7) (5)ng(a/)n_
+        [[keoi4 guk1 ngaan5]],
+        the grease colored spots seen in argillite inkstones.
+    ==
+  ====
+$$
+##>
