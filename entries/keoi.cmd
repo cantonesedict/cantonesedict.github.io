@@ -313,6 +313,20 @@ $$
 $$
 W
   ====
+  - [[Page~186 #11: (4)磲]]
+    ==
+    - A kind of milky stone, resembling argentine,
+      used for cap knobs by officers of the sixth rank;
+    - it is called _(1)ch(')(e/) (4)k(')(u:)_ [[ce1 keoi4]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~186 #4: (4)籧]]
     ==
     - A kind of coarse bamboo mat, used for floors;
