@@ -84,6 +84,21 @@ $$
 $$
 W
   ====
+  - [[Page~719 #17: (2)嶇 _(2)K(')(u:)_ (keoi2); here corrected to _(1)K(')(u:)_ (keoi1)]]
+    ==
+    - A rugged or peaked mountain, a steep ascent;
+    - _(1)k(')(i/) ~~(2)k(')(u:)~~ ``(1)k(')(u:)``_
+        [[kei1 keoi1]],
+        a rough road.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #8: (1)拘]]
     ==
     - To grasp with the hand, to detain, to grapple with, to stop;
