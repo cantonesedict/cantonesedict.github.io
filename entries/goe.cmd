@@ -48,7 +48,7 @@ $$
 $$
 V
   ==
-  - goe3-1 (vernacular alternative for verb sense)
+  - goe3-1 (vernacular alternative for verb senses)
   ==
 W
   ====
