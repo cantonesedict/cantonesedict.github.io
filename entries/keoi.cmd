@@ -446,3 +446,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~186 #14: (5)佢]]
+    ==
+    - Used for the last [[渠]];
+    - the third person personal pronoun;
+    - he, she, it;
+    - _(5)k(')(u:) t(i/)(6)_
+        [[keoi5 dei6]]
+        they, them;
+    - _(5)k(')(u:) k(e/)(3)_
+        [[keoi5 ge3]]
+        his;
+    - _(5)k(')(u:) hai(6)_
+        [[keoi5 hai6]]
+        it is him;
+    - _hai(6) (5)k(')(u:) k(e/)(3)_
+        [[hai6 keoi5 ge3]]
+        it belongs to him.
+    ==
+  ====
+$$
+##>
