@@ -163,7 +163,7 @@ C
   ==
   - Williams misprints 羹 as ⿱羔㺯 (which is *not quite* 羮); here corrected.
     (The character 羮 appears on Page~796 in the character index,
-    but with a radical stroke count of 13, which actually corresponds to 羹.)
+    but with a residual stroke count of 13, which actually corresponds to 羹.)
   ==
 $$
 ##>
