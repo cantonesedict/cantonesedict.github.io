@@ -269,6 +269,22 @@ $$
 $$
 W
   ====
+  - [[Page~719 #15: (4)痀]]
+    ==
+    - A crooked back;
+    - a humpback, a curved spine;
+    - _(4)k(')(u:) ch(e/)ung(6)_
+        [[keoi4 zoeng6]]
+        an old man bent over with age.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~186 #8: (4)癯]]
     ==
     - Thin, emaciated, poor, like a ghost;
