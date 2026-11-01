@@ -254,6 +254,22 @@ $$
 $$
 W
   ====
+  - [[Page~186 #4: (4)籧]]
+    ==
+    - A kind of coarse bamboo mat, used for floors;
+    - it is likened to a shriveled, deformed, man;
+    - _(4)k(')(u:) (1)hong_
+        [[keoi4 hong1]],
+        a tray for silkworms.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~136 (1)絇 _(1)Kau_ (gau1); here normalised to _(4)K(')(u:)_ (keoi4)]]
     ==
     - Embroidery on shoes, the fanciful devices on the front of shoes;
