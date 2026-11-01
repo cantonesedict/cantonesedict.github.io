@@ -154,6 +154,20 @@ $$
 $$
 W
   ====
+  - [[Page~186 #2: (1)袪]]
+    ==
+    - The cuff of the sleeve, a wristband;
+    - an ornamented cuff;
+    - a sleeve.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #11: (1)軀]]
     ==
     - The body, the entire person;
