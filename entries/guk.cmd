@@ -179,3 +179,29 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~188 #5: 鵠(7)]]
+    ==
+    - A target, a bull's eye;
+    - an end, a design;
+    - a little bird;
+    - the swan, called _(1)t(')(i/)n (4)ngo_ [[tin1 ngo4]] or sky goose;
+    - white, hoar, venerable, like an old man;
+    - _kuk(7) (1)ch(i/) ch(i/)(3)_
+        [[guk1 zi1 zi3]]
+        high, comprehensive views, great designs---\
+        alluding to the aerial flight of the swan;
+    - _kuk(7) lap(9)_
+        [[guk1 lap6]]
+        to stand on the lookout like a swan;
+    - _kuk(7) ~~f(a/)t(9)~~ ``f(a/)t(8)``_
+        [[guk1 faat3]]
+        grayhaired.
+    ==
+  ====
+$$
+##>
