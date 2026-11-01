@@ -278,3 +278,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~186 #5: (4)蘧]]
+    ==
+    - A kind of wild wheat,
+      called _(4)k(')(u:) mak(9)_ [[keoi4 mak6]]
+      used in simples;
+    - a mushroom;
+    - _(4)k(')(u:) (4)k(')(u:)_
+        [[keoi4 keoi4]],
+        contented, satisfied.
+    ==
+  ====
+$$
+##>
