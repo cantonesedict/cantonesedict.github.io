@@ -41,6 +41,33 @@ $$
 $$
 W
   ====
+  - [[Page~188 #3: 梏(7)]]
+    ==
+    - Manacles, handcuffs;
+    - sedition;
+    - a neck-collar;
+    - _chat(9) kuk(7)_
+        [[zat6 guk1]]
+        fetters, stocks;
+    - _~~h(a/)m(6)~~ ``ham(6)`` (1)(u:) kuk(7) (4)mong_
+        [[ham6 jyu1 guk1 mong4]],
+        involved in sedition and death.
+    ==
+    --
+    Read _Kok(8)_ [[gok3]]_;_
+    --
+    ==
+    - self-restrained;
+    - straightfo``r``ward.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~187 #11: ::穀(7)~~{？=⿰⿳士冖米殳}~~``糓``(7)::]]
     ==
     - Grain, cereals, corn;
