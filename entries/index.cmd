@@ -432,7 +432,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $king (work in progress)
 - $kit (work in progress)
 - $kiu (work in progress)
-- $koe (work in progress)
+- $koe
 - $koek (work in progress)
 - $koeng (work in progress)
 - $koi (work in progress)
