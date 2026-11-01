@@ -78,7 +78,7 @@ W
 C
   ==
   - Williams prints the abbreviated form as {𡕕=⿱夂子},
-    but places it under radical ⽁ on Page~767 of the character index,
+    but places it under radical ⽁ on Page~767 in the character index,
     which instead corresponds to the form {𢻯=⿱攵子}.
   ==
 $$

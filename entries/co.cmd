@@ -1044,7 +1044,7 @@ C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
   - Williams misprints the headword tone marker (4)^ as (5); here corrected.
-    (The correct tone marker (4)^ appears against 鋤 on Page~817 of the character index.)
+    (The correct tone marker (4)^ appears against 鋤 on Page~817 in the character index.)
   ==
 $$
 
@@ -1083,7 +1083,7 @@ C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
   - Williams misprints the headword tone marker (4)^ as (5); here corrected.
-    (The correct tone marker (4)^ appears against 鋤 on Page~817 of the character index.)
+    (The correct tone marker (4)^ appears against 鋤 on Page~817 in the character index.)
   ==
 L
   ====

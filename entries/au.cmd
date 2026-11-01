@@ -281,7 +281,7 @@ W
 C
   ==
   - Williams misprints the headword tone marker (1)^ mirrored as ^(7); here corrected.
-    (The correct tone marker (1)^ appears against 甌 on Page~784 of the character index.)
+    (The correct tone marker (1)^ appears against 甌 on Page~784 in the character index.)
   ==
 $$
 

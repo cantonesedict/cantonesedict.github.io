@@ -104,7 +104,7 @@ W
     ==
   ====
   - Williams misprints the headword tone marker ^(9) as ^(8); here corrected.
-    (The correct tone marker ^(9) appears against 峽 on Page~756 of the character index.)
+    (The correct tone marker ^(9) appears against 峽 on Page~756 in the character index.)
 $$
 ##>
 

@@ -3763,7 +3763,7 @@ W
 C
   ==
   - Williams misprints the headword tone marker (5)^ as (2)^; here corrected.
-    (The correct tone marker (5)^ appears against 姒 on Page~753 of the character index.)
+    (The correct tone marker (5)^ appears against 姒 on Page~753 in the character index.)
   ==
 $$
 

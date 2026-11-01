@@ -741,7 +741,7 @@ C
   ==
   - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
   - Williams misprints the headword tone marker ^(3) as ^(8); here corrected.
-    (The correct tone marker ^(3) appears against 塟 and 葬 on Page~802 of the character index.)
+    (The correct tone marker ^(3) appears against 塟 and 葬 on Page~802 in the character index.)
   ==
 $$
 
@@ -868,7 +868,7 @@ C
   ==
   - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
   - Williams misprints the headword tone marker ^(3) as ^(8); here corrected.
-    (The correct tone marker ^(3) appears against 塟 and 葬 on Page~802 of the character index.)
+    (The correct tone marker ^(3) appears against 塟 and 葬 on Page~802 in the character index.)
   - Williams' 厚葬: Normalised _hau(6)_ (hau6) to _(5)hau_ (hau5).
   - Williams' 把佢監生葬: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).

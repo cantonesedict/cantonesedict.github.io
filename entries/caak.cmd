@@ -297,7 +297,7 @@ W
 C
   ==
   - Williams misprints the headword tone marker ^(8) as ^(9); here corrected.
-    (The correct tone marker ^(8) appears against 拆 on Page~764 of the character index.)
+    (The correct tone marker ^(8) appears against 拆 on Page~764 in the character index.)
   - Williams' 拆散:
     Note the subtle difference between the two readings
     _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and

@@ -162,7 +162,7 @@ W
 C
   ==
   - Williams misprints the headword tone marker ^(8) as ^(9); here corrected.
-    (The correct tone marker ^(8) appears against 碣 on Page~789 of the character index.)
+    (The correct tone marker ^(8) appears against 碣 on Page~789 in the character index.)
   ==
 $$
 ##>

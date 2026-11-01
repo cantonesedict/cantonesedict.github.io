@@ -764,7 +764,7 @@ C
   ==
   - Williams misprints the headword tone marker ^(6) as ^(3); here corrected.
     (The correct tone marker ^(6) appears against the orthodox form 颶
-    (not {𩗗=⿺風貝}) on Page~823 of the character index.)
+    (not {𩗗=⿺風貝}) on Page~823 in the character index.)
   ==
 $$
 ##>
