@@ -50,6 +50,12 @@ W
         [[wat1 kuk1]]
         to bend.
     ==
+  - [[Page~189 #2: 曲(7)]]
+    --
+    This character is often pronounced _k(')uk_ [[kuk]]~~.~~``,``
+    when meaning a song;
+    but the most correct sound is _huk_ [[huk]], which see.
+    --
   ====
 $$
 ##>
