@@ -1104,7 +1104,7 @@ CHARACTER_ENTRY_WILLIAMS_LOCATOR_PATTERN = re.compile(
             (?P<position> (?: [ ] (?: before | after) )? )
             (?P<entry_marker> (?: [ ][#] (?P<entry_number> [0-9]+ ) [:] )? )
             (?P<spaces> [ ]+ )
-            (?P<headword_run> (?i: _[()a-z1-9_ ]+_ ) | [^\s;]+ )
+            (?P<headword_run> (?i: _[()a-z1-9_ ]+_ ) | [^\s;]+ (?: [ ] \( [a-z]+[1-6] \)[.] )? )
             (?P<clarification_run> .*? )
             (?P<redirection_run> (?: ;.*? )? )
         \]\]

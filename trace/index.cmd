@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Trace of Williams entries
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-01
 * %copyright-prior-years -->
 * %meta-description --> trace of Williams (1856) entries
 
@@ -17462,7 +17462,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-714-entry-8} #8
-    ,{.williams} ^_(1)Fing_
+    ,{.williams} ^_(1)Fing_.
     ,
       <nav class="sideways">
       ==
@@ -17471,7 +17471,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-714-entry-9} #9
-    ,{.williams} ^_Fing(3)_
+    ,{.williams} ^_Fing(3)_.
     ,
       <nav class="sideways">
       ==
@@ -17480,7 +17480,7 @@ OrdinaryDictionaryReplacement: #.properties-override
       </nav>
   //
     ,{#page-714-entry-10} #10
-    ,{.williams} ^_Fing(6)_
+    ,{.williams} ^_Fing(6)_.
     ,
       <nav class="sideways">
       ==
@@ -17787,7 +17787,7 @@ OrdinaryDictionaryReplacement: #.properties-override
   //
     ,{r=2} Page~724
     ,{#page-724-entry-4} #4
-    ,{.williams} ^_(4)Ng(e/)_
+    ,{.williams} ^_(4)Ng(e/)_.
     ,
       <nav class="sideways">
       ==
