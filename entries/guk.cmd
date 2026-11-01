@@ -26,6 +26,51 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~187 #11: ::穀(7)~~{？=⿰⿳士冖米殳}~~``糓``(7)::]]
+    ==
+    - Grain, cereals, corn;
+    - real, well off, substantial;
+    - good, excellent, virtuous;
+    - a succession, connected, to continue;
+    - living, alive;
+    - income, salary``;``
+    - _(5)'ng kuk(7)_
+        [[ng5 guk1]]
+        the common kinds of grain;
+    - _p(a/)k(8) kuk(7)_
+        [[baak3 guk1]]
+        all kinds of vegetables;
+    - _pat(7) kuk(7)_
+        [[bat1 guk1]]
+        "the not worthy," _i.~e._ I, your humble servant;
+    - _(1)shau kuk(7)_
+        [[sau1 guk1]]
+        to lay up ~ provision;
+    - _kuk(7) t(a/)n(3)_
+        [[guk1 daan3]]
+        a lucky day;
+    - _kuk(7) (1)ts(')ong_
+        [[guk1 cong1]],
+        a granary, a bin;
+    - _kuk(7) (1)ts(')(e/)ung_
+        [[guk1 coeng1]],
+        the beard or awn of grain.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 糓 as ⿰⿳士冖米殳 (missing an horizontal stroke above the radical); here corrected.
+    (Despite this, a residual stroke count of 10 is given against the character
+    on Page~793 in the character index.)
+  - Williams' "income, salary": Corrected upside-down semicolon.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~187 #10: 谷(7)]]
     ==
     - A valley, a gulf, a ravine, with or without a stream;
