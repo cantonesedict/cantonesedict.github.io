@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
-  - [[Page~187 #4: (2)儈 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+  - [[Page~187 #4: (2)儈 _(2)K(u/)i_ (gui2); here corrected to _(2)K(')(u/)i_ (kui2)]]
     ==
     - One who acts as a broker to keep up or settle the price of goods;
     - _(4)ng(a/) ~~(2)k(u/)i~~ ``(2)k(')(u/)i``_
@@ -41,7 +41,7 @@ $$
 $$
 W
   ====
-  - [[Page~187 #5: (2)劊 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+  - [[Page~187 #5: (2)劊 _(2)K(u/)i_ (gui2); here corrected to _(2)K(')(u/)i_ (kui2)]]
     ==
     - To cut off, to amputate, to decapitate;
     - to break asunder, to cut in two;
@@ -58,7 +58,7 @@ $$
 $$
 W
   ====
-  - [[Page~187 #6: (2)檜 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+  - [[Page~187 #6: (2)檜 _(2)K(u/)i_ (gui2); here corrected to _(2)K(')(u/)i_ (kui2)]]
     ==
     - A durable kind of wood, a sort of juniper or cedar,
       the timber of which is suitable for coffins and ships;
@@ -73,7 +73,7 @@ $$
 $$
 W
   ====
-  - [[Page~187 #7: (2)獪 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+  - [[Page~187 #7: (2)獪 _(2)K(u/)i_ (gui2); here corrected to _(2)K(')(u/)i_ (kui2)]]
     ==
     - Crafty, cunning, mischief-making;
     - _(2)k(a/)u ~~(2)k(u/)i~~ ``(2)k(')(u/)i``_
