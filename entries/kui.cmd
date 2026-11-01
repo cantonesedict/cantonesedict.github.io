@@ -83,3 +83,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #8: (2)膾(2)鱠 _(2)K(u/)i_ (gui2); here corrected to _(2)K(')(u/)i_ (kui2)]]
+    ==
+    - Hashed meat or fish;
+    - a salad;
+    - to cut small;
+    - _~~(2)k(u/)i~~ ``(2)k(')(u/)i`` ~~chek(9)~~ ``chek(8)``_
+        [[kui2 zek3]]
+        hashed and roasted.
+    ==
+  ====
+$$
+##>
