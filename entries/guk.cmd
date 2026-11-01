@@ -68,6 +68,21 @@ $$
 $$
 W
   ====
+  - [[Page~188 #4: 牿(7)]]
+    ==
+    - A shed, stable, or pen, for cattle and horses;
+    - _(4)t(')ung (4)ngau kuk(7)_
+        [[tung4 ngau4 guk1]],
+        a pen for calves.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~187 #11: ::穀(7)~~{？=⿰⿳士冖米殳}~~``糓``(7)::]]
     ==
     - Grain, cereals, corn;
