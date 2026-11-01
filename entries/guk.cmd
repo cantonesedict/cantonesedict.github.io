@@ -326,3 +326,110 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~188 #12: 局(9)]]
+    ==
+    - A square on a chessboard;
+    - a game of chess;
+    - an order, a rank, a distinction;
+    - contracted, coiled, bent up;
+    - narrow, mean, low-lived;
+    - the body confined or cooped;
+    - appearance, look, aspect;
+    - an affair, matter, undertaking;
+    - a company, a club, association;
+    - a place where work is carried on,
+      which must be guarded or carefully looked to,
+      as a mint, a powder-factory, or a manufactory;
+    - a gaming-house;
+    - the cheeks in anger;
+    - to delude, to put out a bait for;
+    - to bake, to heat under a cover, to make tea; <# TODO: $焗guk6 #>
+    - curly;
+    - _(5)n(i/) (4)'m (1)ch(i/) kuk(9) (1)chung (1)ch(i/) (2)f(u/)_
+        [[nei5 m4 zi1 guk6 zung1 zi1 fu2]],
+        you don't know what trouble will attend it;
+    - _kuk(9) (1)chung_
+        [[guk6 zung1]],
+        a teacup with a cover;
+    - _(1)tong kuk(9) (2)ch(e/) (4)mai_
+        [[dong1 guk6 ze2 mai4]]
+        besotted with [gaming or venery];
+    - _kuk(9) ~~(1)l(o\)~~ ``(4)l(o\)``_
+        [[guk6 lou4]],
+        an oven;
+    - _(4)m(o\) (4)shing kuk(9)_
+        [[mou4 sing4 guk6]]
+        an unfinished game or affair, a stillborn business;
+    - _(4)p(')ing kuk(9)_
+        [[ping4 guk6]]
+        a fair, even, bargain, no loss on either side;
+    - _(2)t(')ai mat(7) (5)y(e/) kuk(9) m(i/)n(6)_
+        [[tai2 mat1 je5 guk6 min6]]
+        see what is meant by it, learn the real object;
+    - _(2)k(i/) (4)sh(i/) (5)li(u/) kuk(9)_
+        [[gei2 si4 liu5 guk6]]
+        when will the casting be over, when will the matter be finished?
+    - _(5)m(i/) (4)yan kuk(9)_
+        [[mei5 jan4 guk6]]
+        a house of assignation;
+    - _ch(')(i/)t(8) kuk(9)_ [[cit3 guk6]]
+        or
+      _(2)p(a/)i kuk(9)_ [[baai2 guk6]]
+        to do a game well, to take one in nicely;
+    - _kuk(9) ngoi(6) (1)ch(i/) (4)yan_
+        [[guk6 ngoi6 zi1 jan4]],
+        a looker-on, one not concerned in;
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` yat(7) kuk(9) (4)k(')(i/)_
+        [[haa6 jat1 guk6 kei4-2]],
+        to play a game of chess;
+    - _kuk(9) ~~tsuk(7)~~ ``ts(')uk(7)``_
+        [[guk6 cuk1]] <# TODO: $侷guk6 #>
+        confined, too narrow or too small;
+    - _kuk(9) l(e/)ung(6) (2)p(i/)n (2)si(u/)_
+        [[guk6 loeng6 bin2 siu2]],
+        a little minded, mean-spirited fellow;
+    - _k(a/)k(8) kuk(9)_
+        [[gaak3 guk6]]
+        appearance of, physiognomy, symptoms, looks;
+    - _y(e/)uk(9) kuk(9)_
+        [[joek6 guk6-2]]
+        a dispensary;
+    - _(4)ts(')(i/)n kuk(9)_
+        [[cin4 guk6-2]]
+        a mint;
+    - _chan(3) tsai(3) kuk(9)_
+        [[zan3 zai3 guk6-2]]
+        a room for dispensing food to the poor;
+    - _kuk(9) shai(3)_
+        [[guk6 sai3]]
+        the position of a game, a situation, advantages of;
+    - _(2)t(o\) kuk(9)_
+        [[dou2 guk6]]
+        a gaming-shop;
+    - _kuk(9) p(')(i/)n(3)_
+        [[guk6 pin3]]
+        to trick one;
+    - _shau(6) kuk(9)_
+        [[sau6 guk6]]
+        gulled;
+    - _(4)'m (2)p(i/) yap(9) kuk(9)_
+        [[m4 bei2 jap6 guk6]]
+        not let him join the company, to black-ball one;
+    - _(2)h(o\) ngoi(6) kuk(9)_
+        [[hou2 ngoi6 guk6]]
+        great show, all pretension, fine outside;
+    - _kuk(9) shai(3) (5)(i/) (4)shing_
+        [[guk6 sai3 ji5 sing4]],
+        the matter is all arranged, the contract is made;
+    - _kuk(9) (2)t(o\) (5)k(')(u:)_
+        [[guk6 dou2 keoi5]],
+        to pigeon or fleece one.
+    ==
+  ====
+$$
+##>
