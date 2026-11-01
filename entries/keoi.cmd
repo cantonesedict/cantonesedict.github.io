@@ -472,3 +472,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~186 #15: (5)拒]]
+    ==
+    - To ward off with the hand;
+    - to stop, to obstruct, to withstand;
+    - to oppose a plan, to stand out against;
+    - _k(')ong(3) (5)k(')(u:)_
+        [[kong3 keoi5]],
+        to resist;
+    - _lik(9) (5)k(')(u:)_
+        [[lik6 keoi5]],
+        strenuous opposition;
+    - _(5)k(')(u:) p(o\)(6)_
+        [[keoi5 bou6]]
+        to resist legal authority;
+    - _(5)k(')(u:) ts(u:)t(9)_
+        [[keoi5 zyut6]]
+        to repel utterly;
+    - _(5)k(')(u:) (1)sh(e/)ung (2)h(o\) (1)to (4)yan_
+        [[keoi5 soeng1 hou2 do1 jan4]],
+        wounded many men;
+    - _(5)k(')(u:) ch(u:)(6)_
+        [[keoi5 zyu6]]
+        to stop one, to defend one's self.
+    ==
+  ====
+$$
+##>
