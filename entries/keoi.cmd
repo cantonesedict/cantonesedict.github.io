@@ -132,6 +132,28 @@ $$
 $$
 W
   ====
+  - [[Page~186 #1: (1)祛]]
+    ==
+    - To dissipate or expel noxious influences or malaria;
+    - to avert evil;
+    - _(1)k(')(u:) (1)fung_
+        [[keoi1 fung1]],
+        to expel windy humors;
+    - _(1)k(')(u:) (1)k(')(u:)_
+        [[keoi1 keoi1]],
+        strong;
+    - _(1)k(')(u:) s(a/)n(3)_
+        [[keoi1 saan3]]
+        to scatter.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #11: (1)軀]]
     ==
     - The body, the entire person;
