@@ -56,6 +56,54 @@ $$
 $$
 W
   ====
+  - [[Page~185 #8: (1)拘]]
+    ==
+    - To grasp with the hand, to detain, to grapple with, to stop;
+    - to restrain, to moderate, to repress;
+    - to hold, to adhere to~~:~~``;``
+    - obstinately attached to, bigoted;
+    - to take, to, receive;
+    - to hook;
+    - _pat(7) (1)k(')(u:) (5)wong (4)loi_
+        [[bat1 keoi1 wong5 loi4]],
+        no limit upon your proceedings, come as you please;
+    - _(1)k(')(u:) chap(7)_ [[keoi1 zap1]]
+        or
+      _(1)k(')(u:) n(i/)(6)_ [[keoi1 nei6]]
+        obstinate, self-willed in one's own views;
+    - _(1)k(')(u:) (4)n(a/)_
+        [[keoi1 naa4]],
+        to seize, to arrest;
+    - _(1)k(')(u:) chuk(7)_
+        [[keoi1 zuk1]]
+        to restrain, to keep in order, as inferiors;
+    - _(1)k(')(u:) (1)h(i/)n_
+        [[keoi1 hin1]],
+        to drag along;
+    - _(1)t(o\) (4)'m (1)k(')(u:)_
+        [[dou1 m4 keoi1]],
+        intimate, perfectly free, no restraint;
+    - _pat(7) (1)k(')(u:) (2)k(i/) (1)to_
+        [[bat1 keoi1 gei2 do1]],
+        no limit as to the number;
+    - _(4)'m (2)shai (1)k(')(u:)_
+        [[m4 sai2 keoi1]],
+        don't be so particular, don't stand for trifles;
+    - _(1)k(')(u:) ~~(4)nai~~ ``n(i/)(6)`` pat(7) (1)t(')ung_
+        [[keoi1 nei6 bat1 tung1]],
+        obscure, unintelligible;
+    - _(1)k(')(u:) chap(7) kwo(3) (4)t(')au_
+        [[keoi1 zap1 gwo3 tau4]],
+        too fastidious.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~136 (1)絇 _(1)Kau_ (gau1); here normalised to _(4)K(')(u:)_ (keoi4)]]
     ==
     - Embroidery on shoes, the fanciful devices on the front of shoes;
