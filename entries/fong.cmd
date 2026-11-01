@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -31,7 +31,7 @@ WH
 WV
   ==
   - Fong.
-    The last three characters under this syllable <span class="caps-emphasis">Fong</span>
+    The last three characters [[壙, 曠, 纊]] under this syllable <span class="caps-emphasis">Fong</span>
     are often pronounced <span class="caps-emphasis">~~Kwong~~ ``Kw(')ong``</span> [[kwong]].
   ==
 WP
