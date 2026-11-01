@@ -267,6 +267,28 @@ $$
 $$
 W
   ====
+  - [[Page~188 #10: 鞫(7)]]
+    ==
+    - To investigate a case judicially, to question a criminal,
+      to get at the truth;
+    - _(2)sham kuk(7)_
+        [[sam2 guk1]]
+        to inquire into and judge a case;
+    - _kuk(7) man(6)_
+        [[guk1 man6]]
+        to strictly examine.
+    ==
+    --
+    Often interchanged with the last [[鞠]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~188 #5: 鵠(7)]]
     ==
     - A target, a bull's eye;
