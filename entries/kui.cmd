@@ -21,3 +21,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #4: (2)儈 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+    ==
+    - One who acts as a broker to keep up or settle the price of goods;
+    - _(4)ng(a/) ~~(2)k(u/)i~~ ``(2)k(')(u/)i``_
+        [[ngaa4 kui2]],
+        a midsman in trade.
+    ==
+  ====
+$$
+##>
