@@ -2097,12 +2097,13 @@ class CmdSource:
 
             dual_romanisation_reduced = WHITESPACE_RUN_PATTERN.sub(repl=' ', string=dual_romanisation)
 
-            if character_count and jyutping_count != character_count and not character_caret:
-                raise LintException(
-                    f'inconsistent Jyutping count `{jyutping_count}` vs character count `{character_count}` '
-                    f'in `{dual_romanisation_reduced}` '
-                    f'(suppress with caret before closing bracket if characters are tone commentary)'
-                )
+            if character_count and not character_caret:
+                if jyutping_count != character_count:
+                    raise LintException(
+                        f'inconsistent Jyutping count `{jyutping_count}` vs character count `{character_count}` '
+                        f'in `{dual_romanisation_reduced}` '
+                        f'(suppress with caret before closing bracket if characters are tone commentary)'
+                    )
 
             if jyutping_caret:
                 continue
