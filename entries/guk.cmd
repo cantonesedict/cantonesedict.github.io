@@ -157,6 +157,27 @@ $$
 $$
 W
   ====
+  - [[Page~188 #8: 菊(7)]]
+    ==
+    - Syngenesious flowers like the Aster, Chrysanthemum, marygold, &c.;
+    - _kuk(7) (1)f(a/)_
+        [[guk1 faa1]],
+        the China aster;
+    - _kuk(7) (1)f(a/) (2)tsau_
+        [[guk1 faa1 zau2]],
+        spirits with petals of the aster steeped in it;
+    - _(2)sh(e/)ung kuk(7)_
+        [[soeng2 guk1]]
+        to enjoy the beauty of Asters.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~187 #10: 谷(7)]]
     ==
     - A valley, a gulf, a ravine, with or without a stream;
