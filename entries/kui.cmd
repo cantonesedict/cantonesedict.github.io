@@ -36,3 +36,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #5: (2)劊 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+    ==
+    - To cut off, to amputate, to decapitate;
+    - to break asunder, to cut in two;
+    - _~~(2)k(u/)i~~ ``(2)k(')(u/)i`` (2)tsz'_ [[kui2 zi2]]
+        or
+      _~~(2)k(u/)i~~ ``(2)k(')(u/)i`` (2)tsz' (2)shau_ [[kui2 zi2 sau2]],
+        a headsman.
+    ==
+  ====
+$$
+##>
