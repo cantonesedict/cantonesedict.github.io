@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~188 #2: 嚳(7)]]
+    ==
+    - To inform with haste, an urgent communication;
+    - _tai(3) Kuk(7)_
+        [[dai3 guk1]]
+        the emperor Kuh, B.~C.~2435, or 720~years after the deluge.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~187 #11: ::穀(7)~~{？=⿰⿳士冖米殳}~~``糓``(7)::]]
     ==
     - Grain, cereals, corn;
