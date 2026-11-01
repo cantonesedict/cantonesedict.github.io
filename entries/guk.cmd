@@ -310,3 +310,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~188 #11: 麴(7)]]
+    ==
+    - Leaven, barm;
+    - the slime or mother which collects on liquors;
+    - _kuk(7) (i/)t(9)_
+        [[guk1 jit6]]
+        spirit-cakes, used for fermentation.
+    ==
+  ====
+$$
+##>
