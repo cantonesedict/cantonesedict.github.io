@@ -356,6 +356,21 @@ $$
 $$
 W
   ====
+  - [[Page~186 #12: (4)蕖]]
+    ==
+    - The water lily, called _(4)ho (4)f(u/) (4)k(')(u:)_ [[ho4 fu4 keoi4]]_;_
+    - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` y(e/)uk(9) (4)f(u/) (4)k(')(u:)_
+        [[coek3 joek6 fu4 keoi4]],
+        splendid as the lotus flower.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~186 #5: (4)蘧]]
     ==
     - A kind of wild wheat,
