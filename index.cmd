@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-01
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -72,6 +72,7 @@ by [Samuel Wells Williams].
   - [Search character entries](/search/)
   - [Index of characters by radical](/radicals/)
   - [Index of literary renderings by Baxter notation](/renderings/)
+  - [Trace of Williams entries](/trace/)
   ==
 ====
 </nav>
