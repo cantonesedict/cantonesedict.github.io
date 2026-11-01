@@ -104,6 +104,23 @@ $$
 $$
 W
   ====
+  - [[Page~185 #9: (1)駒]]
+    ==
+    - A colt under two years' old;
+    - a fine colt;
+    - a small sized horse, a pony;
+    - _(1)ts(')(i/)n (5)l(i/) (1)k(')(u:)_
+        [[cin1 lei5 keoi1]],
+        swift horse, a term of praise for sprightly lads.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~136 (1)絇 _(1)Kau_ (gau1); here normalised to _(4)K(')(u:)_ (keoi4)]]
     ==
     - Embroidery on shoes, the fanciful devices on the front of shoes;
