@@ -36,7 +36,7 @@ WV
     are often heard beginning with _ng_ [[ng]],
     as _ng(a/)_ [[ngaa]],
     _ngai_ [[ngai]],
-    _ngat_ [[ngat]].
+    _ngat_ [[ngat]].``\]``
   ==
 WP
   ==
