@@ -356,6 +356,30 @@ $$
 $$
 W
   ====
+  - [[Page~186 #13: (4)渠]]
+    ==
+    - A drain, aqueduct, or gutter;
+    - a pool, pond, or cesspool, into which a drain empties;
+    - great, ample, wide;
+    - gradual;
+    - a district of Shunking f(u/) [[順慶府]] in Sz'chuen [[四川]];
+    - a personal pronoun, he, she, it,
+      for which the next [[佢]] is now chiefly used;
+    - _(4)k(')(u:) (4)k(')(u:)_
+        [[keoi4 keoi4]],
+        careful;
+    - _luk(9) mak(9) (4)k(')(u:)_
+        [[luk6 mak6 keoi4]],
+        a large sewer passing through the new city at Canton.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~186 #12: (4)蕖]]
     ==
     - The water lily, called _(4)ho (4)f(u/) (4)k(')(u:)_ [[ho4 fu4 keoi4]]_;_
