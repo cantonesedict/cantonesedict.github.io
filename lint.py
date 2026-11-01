@@ -2105,6 +2105,13 @@ class CmdSource:
                         f'(suppress with caret before closing bracket if characters are tone commentary)'
                     )
 
+                for jyutping_, character_ in zip(jyutping_list, characters):
+                    if jyutping_ == 'gam2' and character_ == '咁':
+                        raise LintException('gam2 should be spelt 噉 (rather than 咁)')
+
+                    if jyutping_ == 'gam3' and character_ == '噉':
+                        raise LintException('gam3 should be spelt 咁 (rather than 噉)')
+
             if jyutping_caret:
                 continue
 
