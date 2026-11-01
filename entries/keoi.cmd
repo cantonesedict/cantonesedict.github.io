@@ -267,6 +267,21 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~186 #8: (4)癯]]
+    ==
+    - Thin, emaciated, poor, like a ghost;
+    - _(4)ying (4)yung sham(6) (4)k(')(u:)_
+        [[jing4 jung4 sam6 keoi4]],
+        a lean, cadaverous look.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
   ⽬ + 13
   ⾫ + 10
 W
