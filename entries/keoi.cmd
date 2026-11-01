@@ -355,3 +355,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~186 #9: (4)衢]]
+    ==
+    - A street, a broadway, a highway, a public road, from which others diverge;
+    - _(1)t(')ung (4)k(')(u:)_
+        [[tung1 keoi4]],
+        a thoroughfare;
+    - _p(o\)(6) ~~yap(7)~~ ``yap(9)`` (1)t(')(i/)n (4)k(')(u:)_
+        [[bou6 jap6 tin1 keoi4]],
+        to go to the equator, _i.~e._ to see his Majesty.
+    ==
+  ====
+$$
+##>
