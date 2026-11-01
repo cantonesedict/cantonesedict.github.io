@@ -132,6 +132,25 @@ $$
 $$
 W
   ====
+  - [[Page~185 #11: (1)軀]]
+    ==
+    - The body, the entire person;
+    - a body or substance;
+    - _yuk(9) (1)k(')(u:)_
+        [[juk6 keoi1]],
+        the body;
+    - _(1)k(u:)n (1)k(')(u:) wai(6) kwok(8)_
+        [[gyun1 keoi1 wai6 gwok3]]
+        to offer one's self for his country.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #9: (1)駒]]
     ==
     - A colt under two years' old;
