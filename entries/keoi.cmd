@@ -241,6 +241,19 @@ $$
 $$
 W
   ====
+  - [[Page~186 #3: (4)璩]]
+    ==
+    - A sort of ring;
+    - a surname.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~136 (1)絇 _(1)Kau_ (gau1); here normalised to _(4)K(')(u:)_ (keoi4)]]
     ==
     - Embroidery on shoes, the fanciful devices on the front of shoes;
