@@ -396,6 +396,21 @@ $$
 $$
 W
   ====
+  - [[Page~719 #16: (4)胊]]
+    ==
+    - Pork cut in strips and dried in the wind;
+    - _(4)k(')(u:) (2)f(u/)_
+        [[keoi4 fu2]],
+        curled bacon, jerked cutlets of pork.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~186 #12: (4)蕖]]
     ==
     - The water lily, called _(4)ho (4)f(u/) (4)k(')(u:)_ [[ho4 fu4 keoi4]]_;_
