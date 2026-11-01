@@ -41,6 +41,35 @@ $$
 $$
 W
   ====
+  - [[Page~188 #7: 匊(7)掬(7)]]
+    ==
+    - To hold or grasp with both hands;
+    - a handful, the hand filled;
+    - the hollow of the hand;
+    - _pat(7) (4)ying yat(7) kuk(7)_
+        [[bat1 jing4 jat1 guk1]]
+        not enough for a handfull;
+    - _si(u/)(3) (4)yung (2)ho kuk(7)_
+        [[siu3 jung4 ho2 guk1]]
+        much pleased with;
+    - _kuk(7) (4)m(a/)i (5)k(')(u:)_
+        [[guk1 maai4 keoi5]],
+        to drain one of funds, to bring in custom to;
+    - _kuk(7) (2)h(i/) (1)p(')(a/)u (1)soi_
+        [[guk1 hei2 paau1 soi1]],
+        to swell out the cheeks in anger;
+    - _kuk(7) (1)ts(')au_
+        [[guk1 cau1]],
+        overworked, no rest.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~188 #3: 梏(7)]]
     ==
     - Manacles, handcuffs;
