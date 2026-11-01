@@ -11070,6 +11070,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~187
+    ,{#page-187-entry-3} #3
+    ,{.williams} ^_(1)K(')(u\)_.
+    ,
+      <nav class="sideways">
+      ==
+      - ${𢳉=⿱絇手}koe1
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

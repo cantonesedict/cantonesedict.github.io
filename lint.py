@@ -240,6 +240,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "k(')(u:)": ['keoi'],
     "k(')(u:)n": ['kyun'],
     "k(')(u:)t": ['kyut'],
+    "k(')(u\\)": ['koe'],
     "k(')ai": ['kai'],
     "k(')ak": ['kak'],
     "k(')am": ['kam'],
