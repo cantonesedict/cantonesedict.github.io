@@ -433,3 +433,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~189 #1: 跼(9)]]
+    ==
+    - To bow the head, to bend down, to humble one's self;
+    - crooked, bent;
+    - _(4)k(')(u:)n kuk(9)_
+        [[kyun4 guk6]]
+        bent.
+    ==
+  ====
+$$
+##>
