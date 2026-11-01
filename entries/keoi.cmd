@@ -504,3 +504,32 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #1: (5)距]]
+    ==
+    - A cock's spur;
+    - a dew-claw, a hallux;
+    - to go to, to reach;
+    - to oppose, to attack;
+    - to stand over against, opposite;
+    - to border on, conterminous;
+    - the distance between, distant from;
+    - to skip or leap over;
+    - to stab backhanded;
+    - _(1)kai (5)k(')(u:)_
+        [[gai1 keoi5]],
+        a cock's spur;
+    - _~~(1)kau~~ ``(1)ngau`` (5)k(')(u:)_
+        [[ngau1 keoi5]],
+        a sort of grappling-hook, used in war, a lure;
+    - _(1)ch(')i(u/) (5)k(')(u:)_
+        [[ciu1 keoi5]],
+        to leap over.
+    ==
+  ====
+$$
+##>
