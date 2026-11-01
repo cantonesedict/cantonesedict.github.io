@@ -68,3 +68,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #7: (2)獪 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+    ==
+    - Crafty, cunning, mischief-making;
+    - _(2)k(a/)u ~~(2)k(u/)i~~ ``(2)k(')(u/)i``_
+        [[gaau2 kui2]],
+        deceitful, fraudulent.
+    ==
+  ====
+$$
+##>
