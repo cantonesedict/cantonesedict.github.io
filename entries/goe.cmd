@@ -27,6 +27,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+W
+  ====
+  - [[Page~187 #2: ^_(1)K(u\)_ (goe1).; here assigned to 啹]]
+    ==
+    - To pout;
+    - _(1)k(u\) (2)h(i/) (2)tsui_
+        [[goe1 hei2 zeoi2]],
+        to pout out the lips.
+    ==
+  ====
+S
+  ==
+  - $啹goe4 (TODO)
+  ==
+$$
+##>
+
+<##
+$$
 V
   ==
   - goe3-1 (vernacular alternative for verb sense)
