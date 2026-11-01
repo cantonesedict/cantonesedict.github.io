@@ -71,3 +71,17 @@ C
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~188 #6: 鵒(7) _Kuk(7)_ (guk1); here normalised to _Yuk(9)_ (juk6)]]
+    ==
+    - A species of singing thrush,
+      called _(4)k(')(u:) ~~kuk(7)~~ ``yuk(9)``_ [[keoi4 juk6]]
+      or more commonly _(5)li(u/) (1)ko_ [[liu5 go1]].
+    ==
+  ====
+$$
+##>
