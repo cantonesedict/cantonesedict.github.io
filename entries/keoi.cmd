@@ -267,6 +267,35 @@ $$
 
 <##
 $$
+  ⽬ + 13
+  ⾫ + 10
+W
+  ====
+  - [[Page~186 #7: (4)瞿]]
+    ==
+    - A fearful glance of a bird, timid, apprehensive;
+    - to look at;
+    - to examine wildly, carefully, or hurriedly;
+    - a surname.
+    ==
+    --
+    Also read _k(u:)(3)_ [[geoi3]]_;_
+    --
+    ==
+    - carefully, circumspect;
+    - _(4)l(e/)ung sz'(6) k(u:)(3) k(u:)(3)_
+        [[loeng4 si6 geoi3 geoi3]]
+        a discreet, wellbred scholar;
+    - _k(u:)(3) (4)(i/)n_
+        [[geoi3 jin4]]
+        alarmed.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~186 #4: (4)籧]]
