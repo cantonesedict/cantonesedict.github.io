@@ -241,6 +241,21 @@ $$
 $$
 W
   ====
+  - [[Page~186 #6: (4)劬]]
+    ==
+    - Labor, care, anxious solicitude;
+    - _(4)k(')(u:) (4)l(o\)_
+        [[keoi4 lou4]],
+        the toils and troubles of parents, the pangs of childbirth.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~186 #3: (4)璩]]
     ==
     - A sort of ring;
