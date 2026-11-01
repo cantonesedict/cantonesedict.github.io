@@ -59,7 +59,7 @@ W
   ====
 C
   ==
-  - Williams misprints 糓 as ⿰⿳士冖米殳 (missing an horizontal stroke above the radical); here corrected.
+  - Williams misprints 糓 as ⿰⿳士冖米殳; here corrected.
     (Despite this, a residual stroke count of 10 is given against the character
     on Page~793 in the character index.)
   - Williams' "income, salary": Corrected upside-down semicolon.
@@ -92,5 +92,33 @@ W
     Often used erroneously for the next [[穀]].
     --
   ====
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~188 #1: ::~~{？=⿰⿳士冖車殳}~~``轂``(7)::]]
+    ==
+    - The nave or hub of a wheel,
+      _met._ wheel, carriage;
+    - _(4)lun kuk(7)_
+        [[leon4 guk1]]
+        hub of a wheel;
+    - _(1)ch(')ui kuk(7)_
+        [[ceoi1 guk1]]
+        to push on the nave, to recommend one;
+    - _l(i/)m(6) kuk(7) (1)ch(i/) h(a/)(6)_
+        [[lim6 guk1 zi1 haa6]]
+        at or about court.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 轂 as ⿰⿳士冖車殳; here corrected.
+    (Despite this, a residual stroke count of 10 is given against the character
+    on Page~813 in the character index.)
+  ==
 $$
 ##>
