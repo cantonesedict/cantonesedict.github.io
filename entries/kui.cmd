@@ -53,3 +53,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #6: (2)檜 _(2)K(u/)i_ (gui2); here normalised to _(2)K(')(u/)i_ (kui2)]]
+    ==
+    - A durable kind of wood, a sort of juniper or cedar,
+      the timber of which is suitable for coffins and ships;
+    - ornaments on coffins;
+    - an ancient principality in Hon(a/)n [[河南]].
+    ==
+  ====
+$$
+##>
