@@ -168,6 +168,43 @@ $$
 $$
 W
   ====
+  - [[Page~185 #12: (1)驅敺]]
+    ==
+    - A fleet horse;
+    - to run fast;
+    - to drive out beasts from grain;
+    - to drive them in to a battue;
+    - to lash, to switch up;
+    - to drive on;
+    - to urge, to exhort;
+    - to move, to order into their place;
+    - _(1)k(')(u:) chuk(9)_
+        [[keoi1 zuk6]]
+        to drive out, to expel;
+    - _(1)s(i/)n (1)k(')(u:)_
+        [[sin1 keoi1]],
+        the vanguard;
+    - _hau(6) (1)k(')(u:)_
+        [[hau6 keoi1]],
+        the rearward;
+    - _(4)ch(')(i/) (1)k(')(u:) (1)pan (2)tsau_
+        [[ci4 keoi1 ban1 zau2]],
+        to whip up and gallop fast;
+    - _(1)k(')(u:) (4)ts(')(e/)_
+        [[keoi1 ce4]],
+        to expel what is noxious;
+    - _(1)k(')(u:) (1)hi(u/) (5)k(')(u:) h(u:)(3)_
+        [[keoi1 hiu1 keoi5 heoi3]]
+        take him out.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~136 (1)絇 _(1)Kau_ (gau1); here normalised to _(4)K(')(u:)_ (keoi4)]]
     ==
     - Embroidery on shoes, the fanciful devices on the front of shoes;
