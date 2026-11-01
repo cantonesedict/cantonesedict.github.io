@@ -56,6 +56,34 @@ $$
 $$
 W
   ====
+  - [[Page~185 #10: (1)區]]
+    ==
+    - A place or hold for storing or concealing;
+    - a dwelling, a hamlet, a small house or storeroom;
+    - to class, to sort, to assign to its own place or rank;
+    - a line of division, a boundary;
+    - _(1)k(')(u:) (1)k(')(u:)_
+        [[keoi1 keoi1]],
+        trifling, petty;
+        used to denote one's own things, gift, or opinions;
+    - _(1)k(')(u:) p(i/)t(9)_
+        [[keoi1 bit6]]
+        to properly discriminate;
+    - _(1)k(')(u:) (4)ts(')ong_
+        [[keoi1 cong4]],
+        to hide away``;``
+    - _(1)k(')(u:) (1)k(')(u:) (1)ch(i/) (1)sam_
+        [[keoi1 keoi1 zi1 sam1]],
+        my private feelings, my trifling regard.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~185 #8: (1)拘]]
     ==
     - To grasp with the hand, to detain, to grapple with, to stop;
