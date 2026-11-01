@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -544,7 +544,7 @@ E
     ++
   ====
   --
-  The spellings 巢 and 巢{𠵼=⿰口孟}{𠵼=⿰口孟} is arbitrary.
+  The spellings 巢 and 巢{𠵼=⿰口孟}{𠵼=⿰口孟} are arbitrary.
   --
 $$
 
