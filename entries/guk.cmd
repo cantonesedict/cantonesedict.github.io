@@ -234,6 +234,39 @@ $$
 $$
 W
   ====
+  - [[Page~188 #9: 鞠(7)]]
+    ==
+    - A ball, a sort of chaff football;
+    - an awl;
+    - to bear, to bring up, to nourish, to train;
+    - to rule;
+    - a boy, a child;
+    - being, life;
+    - full, much;
+    - to bend the body;
+    - to investigate;
+    - to push to an extreme;
+    - _kuk(7) (1)kung_
+        [[guk1 gung1]],
+        to incline the head;
+    - _t(')ap(9) kuk(7)_
+        [[tap6 guk1]]
+        to kick a football;
+    - _kuk(7) yuk(9)_
+        [[guk1 juk6]]
+        to nourish, to rear;
+    - _kuk(7) (2)tsz'_
+        [[guk1 zi2]]
+        a stripling.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~188 #5: 鵠(7)]]
     ==
     - A target, a bull's eye;
