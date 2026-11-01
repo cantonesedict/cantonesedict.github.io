@@ -21,3 +21,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~187 #9: 癐(6); here normalised to 攰]]
+    --
+    A colloquial word;
+    --
+    ==
+    - tired, weak, without strength, worn out;
+    - _k(o\)m(3) kau(3) k(u/)i(6)_
+        [[gam3 gau3 gui6]]
+        So tired and weak;
+    - _k(e/)uk(8) k(u/)i(6)_
+        [[goek3 gui6]]
+        weary from walking.
+    ==
+  ====
+$$
+##>
