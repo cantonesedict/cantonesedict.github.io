@@ -160,6 +160,21 @@ $$
 $$
 W
   ====
+  - [[Page~190 #3: (1)鞙]]
+    ==
+    - A bridle;
+    - the traces of a harness;
+    - a scabbard;
+    - long, ample, as a fringe.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #1: (1)睊 _(1)K(u:)n_ (gyun1); here normalised to _K(u:)n(3)_ (gyun3)]]
     ==
     - Looking askance, and with displeasure at;
