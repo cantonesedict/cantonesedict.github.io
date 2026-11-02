@@ -21,3 +21,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~189 #4: (1)蜎 _(1)K(u:)n_ (gyun1); here normalised to _(1)(U:)n_ (jyun1)]]
+    ==
+    - Little red larvæ found in puddles;
+    - the larvæ of musketoes;
+    - a large caterpillar;
+    - crawling;
+    - to stir up, to disturb, to agitate.
+    ==
+    --
+    Used for the last [[娟]].
+    --
+  ====
+$$
+##>
