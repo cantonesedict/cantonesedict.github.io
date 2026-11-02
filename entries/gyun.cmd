@@ -160,6 +160,33 @@ $$
 $$
 W
   ====
+  - [[Page~190 #5: (1)蠲]]
+    ==
+    - A worm, produced in rotten vegetables---appears to be a glowworm;
+    - bright, pure, shining;
+    - to purify, to clean;
+    - to maintain purity;
+    - to illustrate, to manifest;
+    - to put aside, to excuse, to remit government dues;
+    - haste, quickly;
+    - _(1)k(u:)n ch(e/)ung(3)_
+        [[gyun1 zoeng3]]
+        to excuse the payment of taxes;
+    - _pat(7) (1)k(u:)n_
+        [[bat1 gyun1]],
+        impure, sordid;
+    - _(1)k(u:)n (5)m(i/)n_
+        [[gyun1 min5]],
+        to remit dues to government.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #3: (1)鞙]]
     ==
     - A bridle;
