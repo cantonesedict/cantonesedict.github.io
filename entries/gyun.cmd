@@ -71,3 +71,64 @@ S
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~189 #6: (1)捐]]
+    ==
+    - To reject, to throw away, to cast off;
+    - to disdain, to leave, to renounce;
+    - to subscribe at a call from government, to buy office or title;
+    - to part, as at death;
+    - _(1)k(u:)n (4)t(')ai_
+        [[gyun1 tai4]],
+        to subscribe;
+    - _(1)k(u:)n (4)ngan_
+        [[gyun1 ngan4]],
+        to pay up money;
+    - _(1)k(u:)n chik(7)_
+        [[gyun1 zik1]]
+        to buy a title;
+    - _(1)k(u:)n (1)k(u/)n_
+        [[gyun1 gun1]],
+        to buy an office;
+    - _(1)k(u:)n n(a/)p(9)_
+        [[gyun1 naap6]]
+        to contribute to government;
+    - _(1)hoi (1)k(u:)n_
+        [[hoi1 gyun1]],
+        to open a subscription to aid government;
+    - _(1)k(u:)n h(i/)(3)_
+        [[gyun1 hei3]]
+        to risk, to cast away, to die;
+    - _(1)k(u:)n (1)p(a/)n_
+        [[gyun1 baan1]],
+        he purchased the office.
+    ==
+    --
+    A colloquial word;
+    --
+    ==
+    - to examine carefully, to pry;
+    - to squeeze through;
+    - to stoop;
+    - to make a hole in;
+    - to guess luckily, as in lottery tickets;
+    - _(1)k(u:)n tak(7) t(')au(3)_
+        [[gyun1 dak1 tau3]]
+        to examine thoroughly;
+    - _(1)k(u:)n kwo(3) h(u:)(3)_
+        [[gyun1 gwo3 heoi3]]
+        to squeeze through, to wriggle in;
+    - _(1)k(u:)n (1)lung_
+        [[gyun1 lung1]],
+        to get through a hole;
+    - _(1)k(u:)n (4)t(')oi (2)tai_
+        [[gyun1 toi4-2 dai2]],
+        to stoop under the table.
+    ==
+  ====
+$$
+##>
