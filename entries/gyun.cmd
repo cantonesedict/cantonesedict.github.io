@@ -224,6 +224,45 @@ $$
 $$
 W
   ====
+  - [[Page~190 #6: (2)捲]]
+    ==
+    - To roll up in a scroll;
+    - spiral, crisped, curled, rolled up;
+    - to whirl about;
+    - to seize, to carry off;
+    - _(2)k(u:)n (4)m(a/)i_ [[gyun2 maai4]]
+        or
+      _(2)k(u:)n (2)h(i/)_ [[gyun2 hei2]],
+        to roll up;
+    - _(2)k(u:)n f(a/)t(8)_
+        [[gyun2 faat3]]
+        curly hair;
+    - _tsik(9) (2)k(u:)n (1)sh(a/)n (1)ch(')(u:)n_
+        [[zik6 gyun2 saan1 cyun1]],
+        to seize the country or region;
+    - _tsik(9) (2)k(u:)n (4)(i/) (4)t(')(o\)_
+        [[zik6 gyun2 ji4 tou4]],
+        run off with the whole;
+    - _(1)fung (2)k(u:)n (5)(u:)_
+        [[fung1 gyun2 jyu5]],
+        the wind whirls the rain;
+    - _t(a/)n(6) (2)k(u:)n_
+        [[daan6 gyun2]],
+        rolled wafers;
+    - _(1)sh(u:)_ [[syu1]] and _(2)k(u:)n_ [[gyun2]],
+        are to unroll and to roll up.
+    ==
+    --
+    Interchanged with the next [[卷]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #1: (1)睊 _(1)K(u:)n_ (gyun1); here normalised to _K(u:)n(3)_ (gyun3)]]
     ==
     - Looking askance, and with displeasure at;
