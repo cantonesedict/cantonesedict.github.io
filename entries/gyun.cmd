@@ -46,3 +46,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~189 #5: (1)悁]]
+    ==
+    - Angry, irritated, impetuous;
+    - distressed;
+    - anxious;
+    - _(5)fan (1)k(u:)n_
+        [[fan5 gyun1]],
+        angered;
+    - _(1)k(u:)n (1)k(u:)n_
+        [[gyun1 gyun1]],
+        careworn, tristful.
+    ==
+  ====
+S
+  ==
+  - $悁gyun3 (TODO)
+  - ($悁jyun1) (TODO)
+  ==
+$$
+##>
