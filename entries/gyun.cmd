@@ -132,3 +132,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~190 #1: (1)睊 _(1)K(u:)n_ (gyun1); here normalised to _K(u:)n(3)_ (gyun3)]]
+    ==
+    - Looking askance, and with displeasure at;
+    - reciprocal dislike;
+    - _~~(1)k(u:)n (1)k(u:)n~~ ``k(u:)n(3) k(u:)n(3)``_
+        [[gyun3 gyun3]],
+        to reprove with a look.
+    ==
+  ====
+$$
+##>
