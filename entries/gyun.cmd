@@ -175,6 +175,28 @@ $$
 $$
 W
   ====
+  - [[Page~190 #4: (1)鵑]]
+    ==
+    - The cuckoo, or a species of goatsucker
+      of the same habit of laying its eggs in other nests,
+      called _t(o\)(6) (1)k(u:)n_ [[dou6 gyun1]]_;_
+    - _t(o\)(6) (1)k(u:)n (1)f(a/)_
+        [[dou6 gyun1 faa1]],
+        the Azalea;
+    - _t(o\)(6) (1)k(u:)n (4)t(')ai_
+        [[dou6 gyun1 tai4]],
+        the cry of the cuckoo,
+        continued all night till blood comes into its eyes---\
+        as the Chinese believe.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #1: (1)睊 _(1)K(u:)n_ (gyun1); here normalised to _K(u:)n(3)_ (gyun3)]]
     ==
     - Looking askance, and with displeasure at;
