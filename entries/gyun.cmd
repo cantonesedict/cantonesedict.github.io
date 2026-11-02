@@ -137,6 +137,29 @@ $$
 $$
 W
   ====
+  - [[Page~190 #2: (1)涓]]
+    ==
+    - A brook, a runlet, a small stream, which swells as it runs;
+    - pure, clear;
+    - to cleanse, to purify;
+    - to select;
+    - to exclude;
+    - a river in Sh(a/)ntung [[山東]];
+    - _(1)k(u:)n kat(7)_
+        [[gyun1 gat1]]
+        to select lucky time;
+    - _(1)k(u:)n ~~ok(9)~~ ``ok(8)``_
+        [[gyun1 ok3]]
+        to exclude the bad.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #1: (1)睊 _(1)K(u:)n_ (gyun1); here normalised to _K(u:)n(3)_ (gyun3)]]
     ==
     - Looking askance, and with displeasure at;
