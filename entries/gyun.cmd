@@ -224,6 +224,49 @@ $$
 $$
 W
   ====
+  - [[Page~190 #7: (2)卷]]
+    ==
+    - A roll, a manuscript, a scroll, a book;
+    - a section, a division, a part of a book;
+    - ruled paper for writing essays on;
+    - a classifier of things rolled up, of books, manuscripts, &c.;
+    - to roll up;
+    - _(1)hoi (2)k(u:)n_
+        [[hoi1 gyun2]],
+        to begin a lesson;
+    - _(1)ch(')o (1)hoi (2)k(u:)n_
+        [[co1 hoi1 gyun2]],
+        commenced his studies;
+    - _(2)shau (2)k(u:)n_
+        [[sau2 gyun2]]
+        a scroll containing pictures;
+    - _(1)sh(u:) (2)k(u:)n_
+        [[syu1 gyun2]],
+        books;
+    - _mak(9) (2)k(u:)n_
+        [[mak6 gyun2]],
+        original essays of the candidates for _k(u:)jin_ [[舉人]]_;_
+    - _lok(9) (2)k(u:)n_
+        [[lok6 gyun2]],
+        rejected essays.
+    ==
+    --
+    Read _k(u:)n(3)_ [[gyun3]],
+    --
+    ==
+    - a case at law;
+    - _on(3) k(u:)n(3)_
+        [[on3 gyun3]]
+        the papers relating to a case.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #6: (2)捲]]
     ==
     - To roll up in a scroll;
