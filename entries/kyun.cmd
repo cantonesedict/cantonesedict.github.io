@@ -94,3 +94,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~191 #9: (4)鬈]]
+    ==
+    - A fine head of hair;
+    - curly hair;
+    - _(4)k(')(i/) (4)yan (5)m(i/) (2)ch(')(e/) (4)k(')(u:)n_
+        [[kei4 jan4 mei5 ce2 kyun4]],
+        he is handsome and adorned with fine hair.
+    ==
+  ====
+$$
+##>
