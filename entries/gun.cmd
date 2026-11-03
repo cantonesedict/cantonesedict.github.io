@@ -38,6 +38,54 @@ $$
 $$
 W
   ====
+  - [[Page~193 #2: (1)冠]]
+    ==
+    - A conical cap or bonnet, a covering for the head;
+    - comb of cocks, crest on the head of birds;
+    - _(1)k(a/) (1)k(u/)n_
+        [[gaa1 gun1]],
+        to cap a young man;
+    - _(2)ts(')ing (1)shing (1)k(u/)n_
+        [[cing2 sing1 gun1]],
+        please remove your caps;
+    - _(1)kai (1)k(u/)n (1)f(a/)_
+        [[gai1 gun1 faa1]],
+        cockscomb flower;
+    - _h(a/)(6) (1)k(u/)n_
+        [[haa6 gun1]],
+        wattles;
+    - _(5)m(i/)n (1)k(u/)n_
+        [[min5 gun1]],
+        off with your caps,
+        said to officers in the presence of their judge;
+    - _(1)k(u/)n (2)m(i/)n sz'(6)_
+        [[gun1 min6-2 si6]]
+        with parade, showy.
+    ==
+    --
+    Read _K(u/)n(3)_ [[gun3]]_;_
+    --
+    ==
+    - to cap a young man, now done at marriage,
+      and equivalent to putting on the _toga virilis;_
+    - the chief or head;
+    - able, superior;
+    - _(2)yung k(u/)n(3) (1)s(a/)m (1)kwan_
+        [[jung2 gun3 saam1 gwan1]],
+        the bravest "capped" in three armies---\
+        one who has been promoted for courage;
+    - _k(u/)n(3) (4)ch(')(e/)ung_
+        [[gun3 coeng4]],
+        excelling in the three martial tests.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~192 #2: (1)官]]
     ==
     - An officer of government;
