@@ -425,6 +425,34 @@ $$
 $$
 W
   ====
+  - [[Page~191 #5: 倦(6)]]
+    ==
+    - Tired, fatigued, wearied;
+    - to desist from labor;
+    - _(4)p(')(i/) k(u:)n(6)_
+        [[pei4 gyun6]]
+        fagged out;
+    - _(4)m(o\) k(u:)n(6)_
+        [[mou4 gyun6]]
+        unwearied, persevering;
+    - _pat(7) (1)ch(i/) (i/)m(3) k(u:)n(6)_
+        [[bat1 zi1 jim3 gyun6]]
+        indefatigable_;_
+    - _(1)shan k(u:)n(6)_
+        [[san1 gyun6]]
+        tired out;
+    - _(2)h(o\) kau(3) k(u:)n(6)_
+        [[hou2 gau3 gyun6]]
+        very tired.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~191 #4: 圈(6)]]
     ==
     - A pen for animals is commonly called _k(u:)n(6)_ [[gyun6]],
