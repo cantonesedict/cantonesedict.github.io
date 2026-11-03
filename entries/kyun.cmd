@@ -84,6 +84,69 @@ $$
 $$
 W
   ====
+  - [[Page~191 #10: (4)權]]
+    ==
+    - The weight of the steelyard;
+    - a weight;
+    - to weigh;
+    - to balance, to equalize;
+    - to plan, to devise;
+    - power, authority, influence;
+    - influential;
+    - circumstances, position;
+    - meanwhile, for the time, temporary;
+    - contracted;
+    - _(4)k(')(u:)n (2)ch(')(e/)_
+        [[kyun4 ce2]],
+        under the circumstances;
+    - _(4)k(')(u:)n (4)(i/)_
+        [[kyun4 ji4]],
+        temporarily obliged;
+    - _(1)ch(a/) (4)k(')(u:)n ~~ping(3)~~ ``peng(3)``_
+        [[zaa1 kyun4 beng3]]
+        to wield power;
+    - _(4)k(')(u:)n (2)tsz' (5)m(o\)_
+        [[kyun4 zi2 mou5]],
+        to get interest on money;
+    - _(4)k(')(u:)n (1)heng ~~chung(6)~~ ``(5)ch(')ung``_
+        [[kyun4 heng1 cung5]]
+        weigh it;
+    - _(4)k(')(u:)n p(i/)n(3)_
+        [[kyun4 bin3]]
+        to adapt one's self to circumstances;
+    - _(4)k(')(u:)n (4)(u:)_
+        [[kyun4 jyu4]]
+        in the beginning;
+    - _(4)k(')(u:)n (4)shan_
+        [[kyun4 san4]],
+        a powerful statesman;
+    - _(4)k(')(u:)n (4)nang_
+        [[kyun4 nang4]],
+        power and ability, influential;
+    - _~~(1)p(')ing~~ ``(1)ping`` (4)k(')(u:)n_
+        [[bing1 kyun4]],
+        military power;
+    - _(4)k(')(u:)n (4)mau_
+        [[kyun4 mau4]],
+        to plan at the instant, sagacious;
+    - _tsung(6) (4)k(')(u:)n_
+        [[zung6 kyun4]],
+        according to circumstances;
+    - _(5)yau (4)k(')(u:)n_
+        [[jau5 kyun4]],
+        powerful, having the authority;
+    - _(4)k(')(u:)n yam(6)_
+        [[kyun4 jam6]]
+        a substitute in office, left in charge.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~191 #8: (4)踡]]
     ==
     - The limbs contracted or doubled up;
