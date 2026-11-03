@@ -335,6 +335,37 @@ W
     --
     Same as the next [[眷]] in these senses.
     --
+  - [[Page~190 #10: 眷(3)]]
+    ==
+    - To love, to care for, to regard affectionately;
+    - those whom one loves, relatives, family, kindred;
+    - related to;
+    - gracious;
+    - _(2)p(o\) k(u:)n(3)_
+        [[bou2 gyun3]]
+        your wife;
+    - _(1)k(a/) k(u:)n(3)_
+        [[gaa1 gyun3]]
+        a family, one's household;
+    - _(4)m(o\) (1)k(a/) k(u:)n(3)_
+        [[mou4 gaa1 gyun3]]
+        widowed;
+    - _k(u:)n(3) k(u/)(3)_
+        [[gyun3 gu3]]
+        to regard with affection, to see to carefully;
+    - _(1)yan k(u:)n(3) tai(6)_
+        [[jan1 gyun3 dai6]]
+        your relative by marriage;
+    - _(1)t(')(i/)n k(u:)n(3) shai(3) (4)yan_
+        [[tin1 gyun3 sai3 jan4]],
+        Heaven's gracious regard for men_;_
+    - _k(u:)n(3) (5)mai_
+        [[gyun3 mai5]],
+        rice for family use, best rice;
+    - _noi(6) k(u:)n(3)_
+        [[noi6 gyun3]]
+        women are inside---a notice to visitors.
+    ==
   ====
 $$
 ##>
