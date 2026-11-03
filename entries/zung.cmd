@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-03
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -909,6 +909,23 @@ L
     - (_noun-like_) pounding-stick
     ==
   ====
+E
+  ====
+  - 【舂】 (zung1)
+    ++
+    1. To stumble head-first.
+       ==
+       - 舂咗落樓梯 (zung1 zo2 lok6 lau4 tai1): "Stumbled head-first down [the] stairs."
+       ==
+    1. To move the head as if stumbling head-first.
+       ==
+       - 即刻舂個頭埋嚟 (zik1 haak1 zung1 go3 tau4 maai4 lai4): "Immediately thrust [his] head head-first toward here."
+       ==
+    ++
+  ====
+  --
+  The spelling 舂 is arbitrary.
+  --
 $$
 
 ### 螽1 | _(1)Chung_ [[zung1]]
