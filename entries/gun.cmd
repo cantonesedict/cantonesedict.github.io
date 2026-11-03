@@ -123,3 +123,41 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~192 #4: (1)棺]]
+    ==
+    - That which closes all affairs for this world, a coffin;
+    - the inner one, when there are two;
+    - to encoffin, to close up;
+    - _(1)k(u/)n (4)ts(')oi_
+        [[gun1 coi4]],
+        a coffin;
+    - _(1)k(u/)n (4)ts(')oi tsok(9)_
+        [[gun1 coi4 zok6-2]]
+        a reproachful epithet, you coffin-chissel!
+    - _wan(6) (1)k(u/)n_
+        [[wan6 gun1]],
+        to take a coffin home;
+    - _(2)sh(e/) (1)k(u/)n_
+        [[se2 gun1]],
+        to give coffins---a religious act;
+    - _(4)ts(')z' h(i/)(3) (1)k(u/)n (4)ts(')oi_
+        [[ci4 hei3 gun1 coi4]],
+        a crockery cofin, _met._ a skinflint;
+    - _(1)k(u/)n (4)ts(')oi (1)shan ch(')ut(7) (2)shau_
+        [[gun1 coi4 san1 ceot1 sau2]],
+        a hand comes out of the coffin, grasping till death;
+    - _(1)k(u/)n ch(a/)u(3)_
+        [[gun1 zaau3]]
+        a pall;
+    - _(1)k(u/)n (4)ts(')oi ~~h(a/)m(6)~~ ``ham(6)``_
+        [[gun1 coi4 ham6]]
+        one sick unto death.
+    ==
+  ====
+$$
+##>
