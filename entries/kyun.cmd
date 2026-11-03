@@ -79,3 +79,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~191 #8: (4)踡]]
+    ==
+    - The limbs contracted or doubled up;
+    - _(4)k(')(u:)n kuk(9)_
+        [[kyun4 guk6]]
+        stooping, bent up.
+    ==
+  ====
+$$
+##>
