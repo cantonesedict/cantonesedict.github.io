@@ -420,3 +420,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~191 #4: 圈(6)]]
+    ==
+    - A pen for animals is commonly called _k(u:)n(6)_ [[gyun6]],
+      as _(5)m(a/) k(u:)n(6)_ [[maa5 gyun6]] a horse-stable, or shed.
+    ==
+    --
+    Otherwise read _(1)h(u:)n_ [[hyun1]], as
+    --
+    ==
+    - _(1)h(u:)n ch(u:)(6) (5)k(')(u:) ts(o\)(6)_
+        [[hyun1 zyu6 keoi5 zou6]]
+        give him this for a stint.
+    ==
+  ====
+$$
+##>
