@@ -317,3 +317,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~190 #9: 睠(3); here normalised to 眷]]
+    ==
+    - To look upon with affection, as parents do;
+    - _k(u:)n(3) k(u:)n(3) pat(7) (2)sh(e/)_
+        [[gyun3 gyun3 bat1 se2]],
+        unremitted care;
+    - _k(u:)n(3) (4)w(a/)i_
+        [[gyun3 waai4]],
+        solicitous for, anxious.
+    ==
+    --
+    Same as the next [[眷]] in these senses.
+    --
+  ====
+$$
+##>
