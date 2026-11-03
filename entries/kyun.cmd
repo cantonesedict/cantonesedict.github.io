@@ -162,6 +162,24 @@ $$
 $$
 W
   ====
+  - [[Page~192 #1: (4)顴]]
+    ==
+    - The cheek-bones;
+    - _(5)l(e/)ung (4)k(')(u:)n_
+        [[loeng5 kyun4]],
+        the cheek-hones;
+    - _(5)l(e/)ung (4)k(')(u:)n (1)k(o\), sh(a/)t(8) (1)f(u/) (1)t(o\)_
+        [[loeng5 kyun4 gou1, saat3 fu1 dou1]],
+        [a wife] with high cheek-bones is a husband-killing knife.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~191 #9: (4)鬈]]
     ==
     - A fine head of hair;
