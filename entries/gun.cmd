@@ -26,6 +26,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~192 #3: (1)倌]]
+    ==
+    - The emperor's charioteer, or one who has the care of his carriage.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~192 #2: (1)官]]
     ==
     - An officer of government;
