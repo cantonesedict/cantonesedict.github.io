@@ -306,6 +306,21 @@ $$
 $$
 W
   ====
+  - [[Page~191 #3: 狷(6)獧(6) _K(u:)n(6)_ (gyun6); here normalised to _K(u:)n(3)_ (gyun3)]]
+    ==
+    - To skip about, frisky, playful;
+    - hasty, prompt, light-minded;
+    - a moderate, modest man of probity, but not talented,
+      one who must be guided.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~190 #1: (1)睊 _(1)K(u:)n_ (gyun1); here normalised to _K(u:)n(3)_ (gyun3)]]
     ==
     - Looking askance, and with displeasure at;
