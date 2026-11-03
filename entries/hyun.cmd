@@ -313,3 +313,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~190 #8: 綣(3) _K(u:)n(3)_ (gyun3); here normalised to _H(u:)n(3)_ (hyun3)]]
+    ==
+    - Bound with silken cord;
+    - _(2)h(i/)n ~~k(u:)n(3)~~ ``h(u:)n(3)``_
+        [[hin2 hyun3]]
+        attached to each other in friendship, united, inseparable.
+    ==
+  ====
+$$
+##>
