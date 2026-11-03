@@ -392,3 +392,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~191 #2: 罥(3)羂(3)]]
+    ==
+    - A net or gin for taking animals;
+    - to entangle or catch in a net.
+    ==
+  ====
+$$
+##>
