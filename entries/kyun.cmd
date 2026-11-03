@@ -26,6 +26,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~191 #7: (4)惓]]
+    ==
+    - Careful;
+    - _(4)k(')(u:)n (4)k(')(u:)n_
+        [[kyun4 kyun4]],
+        attentive, earnest about, applying one's self;
+    - to stop.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~191 #6: (4)拳]]
     ==
     - The hand doubled up, the fist;
