@@ -369,3 +369,26 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~191 #1: 絹(3)]]
+    ==
+    - A thin cheap silk, used for linings or covers, for painting on, &c.;
+    - a kind of lustring or taffeta, of which there are many sorts;
+    - a bird-net, once made of lustring;
+    - _w(a/)(6) k(u:)n(3)_
+        [[waa6 gyun3]]
+        lustring for painting on;
+    - _(1)s(e/)ung k(u:)n(3) (1)p(i/)n_
+        [[soeng1 gyun3 bin1]],
+        to bind the edge with lustring;
+    - _k(u:)n(3) p(o\)(3)_
+        [[gyun3 bou3]]
+        cotton lustring or lutestring.
+    ==
+  ====
+$$
+##>
