@@ -161,3 +161,57 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~193 #1: (1)觀(1)覌]]
+    ==
+    - To look at carefully, to see;
+    - to observe, to travel and see;
+    - to take a wide view of;
+    - to manifest;
+    - observed, manifested, the appearance of;
+    - a spectacle;
+    - many;
+    - _(1)k(u/)n mong(6)_
+        [[gun1 mong6]]
+        to look at;
+    - _(1)k(u/)n (1)kwong_
+        [[gun1 gwong1]],
+        first entrance to the literary examination;
+    - _(1)k(u/)n s(e/)ung(3)_
+        [[gun1 soeng3]]
+        to judge physiognomies;
+    - _(1)K(u/)n (1)yam (4)p(')(o\) s(a/)t(8)_
+        [[gun1 jam1 pou4 saat3]]
+        the idol Kw(a/)nyin [[觀音]], called the Goddess of Mercy;
+    - _(1)k(u/)n (1)fung_
+        [[gun1 fung1]],
+        to mark the manners and wonders of a place;
+    - _(5)m(i/) (1)k(u/)n_
+        [[mei5 gun1]],
+        a beautiful aspect, a fine action;
+    - _(1)k(u/)n (1)t(')(i/)n (4)man_
+        [[gun1 tin1 man4]],
+        astrology;
+    - _~~(1)kun~~ ``(1)k(u/)n`` (1)yam ~~(1)p(')ing~~ ``(4)p(')ing``_
+        [[gun1 jam1 ping4]],
+        a lady's man.
+    ==
+    --
+    Read _K(u/)n(3)_ [[gun3]]
+    --
+    ==
+    - a temple of the Rationalists;
+    - a hermitage, a secluded cell or retreat;
+    - a gallery;
+    - to make known;
+    - _(5)'Ng (1)S(i/)n k(u/)n(3)_
+        [[ng5 sin1 gun3]]
+        the Five Genii monastery in Canton.
+    ==
+  ====
+$$
+##>
