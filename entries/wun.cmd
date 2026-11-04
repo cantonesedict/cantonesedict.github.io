@@ -21,3 +21,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~720 #3: (2)逭 _(2)K(u/)n_ (gun2)]]
+    ==
+    - To run away, to escape from;
+    - to turn round, to step off;
+    - to revolve;
+    - _f(a/)t(8) pat(7) (2)ho (2)k(u/)n_
+        [[faat3 bat1 ho2 gun2]],
+        he cannot escape the law.
+    ==
+    --
+    Also read _(u/)n(6)_ [[wun6]].
+    --
+  ====
+$$
+##>
