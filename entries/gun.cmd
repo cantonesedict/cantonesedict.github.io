@@ -445,6 +445,13 @@ W
         [[ji1 gun2]],
         a hospital.
     ==
+  - [[Page~720 #4: (2)舘]]
+    --
+    As a verb;
+    --
+    ==
+    - to lodge, to rest at.
+    ==
   ====
 $$
 ##>
