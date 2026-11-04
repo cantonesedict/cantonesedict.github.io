@@ -458,6 +458,11 @@ W
         [[guk6 dou2 keoi5]],
         to pigeon or fleece one.
     ==
+  - [[Page~720 #2: 局(9)]]
+    ==
+    - Also an office or headquarters
+      where people assemble to manage public affairs.
+    ==
   ====
 $$
 ##>
