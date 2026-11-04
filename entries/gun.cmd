@@ -281,6 +281,19 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~193 #5: (2)痯]]
+    ==
+    - Impotent, week, worn out;
+    - sick from grief or disheartened by disappointment.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~193 #3: (2)管(2){𬋩=⿳爫冖㠯}]]
     ====
