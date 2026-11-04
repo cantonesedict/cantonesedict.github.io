@@ -481,6 +481,21 @@ $$
 $$
 W
   ====
+  - [[Page~194 #5: 祼(3)]]
+    ==
+    - To pour out a libation on the ground to spirits;
+    - _k(u/)n(3) (2)tsau_
+        [[gun3 zau2]]
+        to offer a libation when calling upon the spirits.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~194 #3: 貫(3)]]
     ==
     - A string of 1000~cash;
