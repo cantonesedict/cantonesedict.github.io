@@ -155,6 +155,34 @@ $$
 
 <##
 $$
+A
+  ==
+  - 谷 (Cantonese)
+  ==
+W
+  ====
+  - [[Page~720 #1: ^_Kuk(7)_ (guk1).; here assigned to 䏱]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To excite, to swell, to start up, to irritate;
+    - _kuk(7) yat(7) (1)shan hon(6)_
+        [[guk1 jat1 san1 hon6]]
+        wrap yourself up to get a sweat;
+    - _(2)p(i/) (5)k(')(u:) kuk(7) w(a/)i(6) (5)ngo_
+        [[bei2 keoi5 guk1 waai6 ngo5]],
+        he has greatly angered me;
+    - _kuk(7) t(a/)i(6) (1)p(')(a/)u (1)soi_
+        [[guk1 daai6 paau1 soi1]],
+        he looked very glum.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~188 #8: 菊(7)]]
