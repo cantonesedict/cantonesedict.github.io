@@ -267,6 +267,20 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~193 #4: (2)琯]]
+    ==
+    - A tube of stone, made into flutes;
+    - to polish metals;
+    - a gem-like pebble.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~193 #3: (2)管(2){𬋩=⿳爫冖㠯}]]
     ====
