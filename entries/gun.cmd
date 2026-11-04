@@ -374,6 +374,27 @@ $$
 $$
 W
   ====
+  - [[Page~194 #2: (2)莞]]
+    ==
+    - _(1)Tung (2)k(u/)n (u:)n(6)_
+        [[dung1 gun2 jyun6]],
+        the district east of the Pearl River, near the Bogue.
+    ==
+    --
+    Read _(4)(u:)n_ [[jyun4]],
+    --
+    ==
+    - a kind of coarse grass _(Coix lachryma?_) used to weave mats;
+    - to smile, to look pleased.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~193 #6: (2)館(2)舘]]
     ==
     - A hotel, an inn, a caravan-serai,
