@@ -354,3 +354,61 @@ W
   ======
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~193 #6: (2)館(2)舘]]
+    ==
+    - A hotel, an inn, a caravan-serai,
+      a lodging or stopping-place for travelers;
+    - a council-room, an assembly-hall,
+      an exchange or place for public consultations, a hall;
+    - an office, study, or counting-room, when they are built separately;
+    - a saloon;
+    - a room for any public purpose;
+    - a school-room;
+    - _h(a/)k(8) (2)k(u/)n_
+        [[haak3 gun2]],
+        a tavern;
+    - _(1)kung (2)k(u/)n_
+        [[gung1 gun2]],
+        a governmental hall, the lodging of an officer;
+    - _~~(u/)i(3)~~ ``(u/)i(6)`` (2)k(u/)n_
+        [[wui6 gun2]],
+        a mercantile hall, often called in Canton, a consoo-house;
+    - _(1)sh(u:) (2)k(u/)n_
+        [[syu1 gun2]],
+        a college, a school;
+    - _(2)k(u/)n sh(e/)(3)_
+        [[gun2 se3]]
+        lodgings to let, a hired hall;
+    - _(2)s(e/) (2)ch(i/) (2)k(u/)n_
+        [[se2 zi2 gun2]],
+        office for opium-orders;
+    - _(1)hoi (2)k(u/)n_
+        [[hoi1 gun2]],
+        to open school;
+    - _p(a/)n(6) (2)k(u/)n_
+        [[baan6 gun2]],
+        purveyor in a y(a/)mun [[衙門]];
+    - _(1)k(o\) (4)lau (2)k(u/)n_
+        [[gou1 lau4 gun2]],
+        an eating room;
+    - _shui(3) (2)k(u/)n_
+        [[seoi3 gun2]],
+        custom-houses;
+    - _(2)k(u/)n t(i/)(6)_
+        [[gun2 dei6]]
+        a post in a y(a/)mun [[衙門]] as a writer, a literary man's occupation;
+    - _(2)k(u/)n kuk(7)_
+        [[gun2 guk1]]
+        salary;
+    - _(1)(i/) (2)k(u/)n_
+        [[ji1 gun2]],
+        a hospital.
+    ==
+  ====
+$$
+##>
