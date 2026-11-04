@@ -139,6 +139,85 @@ $$
 $$
 W
   ====
+  - [[Page~195 #2: (1)工]]
+    ==
+    - A laborer, a workman, an artisan, a mechanic;
+    - labor, craft;
+    - art;
+    - an ornament requiring skill;
+    - a work;
+    - an officer;
+    - the 48th~radical [[U+2F2F ⼯ "work"]];
+    - _(1)kung (4)yan_
+        [[gung1 jan4]],
+        laborers;
+    - _(1)kung ts(e/)ung(6)_
+        [[gung1 zoeng6]]
+        artisans;
+    - _(1)kung ~~(4)f(u/)~~ ``(1)f(u/)``_
+        [[gung1 fu1]],
+        work, labor;
+    - _(1)kung ~~(4)f(u/)~~ ``(1)f(u/)`` (4)ch(')(a/)_
+        [[gung1 fu1 caa4]],
+        congou tea;
+    - _(1)kung (4)ngan_ [[gung1 ngan4]],
+        or
+      _(1)kung (4)ts(')(i/)n_ [[gung1 cin4]],
+        wages;
+    - _(1)hoi (1)kung_ [[hoi1 gung1]],
+      _~~(4)shau~~ ``(1)shau`` (1)kung_ [[sau1 gung1]],
+        to begin work, to stop work;
+    - _(2)t(u:)n (1)kung_ [[dyun2 gung1]]
+        or
+      _~~s(a/)n(3)~~ ``(2)s(a/)n`` (1)kung_ [[saan2 gung1]],
+        job-work;
+    - _(4)ch(')(e/)ung (1)kung_
+        [[coeng4 gung1]],
+        constant occupation;
+    - _(2)t(a/) (1)kung (2)tsai_
+        [[daa2 gung1 zai2]],
+        assistants, clerks;
+    - _(1)kung tsok(8)_
+        [[gung1 zok3]]
+        skill;
+        quality of work;
+    - _(2)t(a/) (1)kung_
+        [[daa2 gung1]],
+        to work;
+    - _(1)ts(')(o\) (1)kung_
+        [[cou1 gung1]],
+        poor work;
+    - _p(')(u/)n(3) (1)kung_
+        [[pun3 gung1]],
+        a piece of work;
+    - _ts(o\)(6) f(a/)(3) (1)kung_
+        [[zou6 faa3 gung1]],
+        the maker of all things;
+    - _(1)tsing (1)kung_ [[zing1 gung1]],
+        or
+      _(2)h(a/)u (1)kung_ [[haau2 gung1]],
+        skillful or fine work;
+    - _(5)yau (1)kung ~~(4)f(u/)~~ ``(1)f(u/)``_
+        [[jau5 gung1 fu1]],
+        busy, occupied;
+    - _(1)kung tsz'(6) pat(7) ch(')ut(7) (4)t(')au_
+        [[gung1 zi6 bat1 ceot1 tau4 工字不出頭]],
+        the letter _kung_ [[工]] has no head---\
+        a workman can not become a boss.
+    ==
+  ====
+C
+  ==
+  - Williams' 工字不出頭: Better rendered "does not poke out its head",
+    rather than "has no head".
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #1: (1)蚣]]
     ==
     - An insect;
