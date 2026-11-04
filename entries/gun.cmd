@@ -453,6 +453,34 @@ $$
 $$
 W
   ====
+  - [[Page~194 #4: 灌(3)]]
+    ==
+    - To run or flow together;
+    - to discharge or disembogue into, to water, to moisten;
+    - to give one drink, to pour down one's throat;
+    - much;
+    - bushy trees;
+    - _k(u/)n(3) (5)k(')(u:) ~~(5)yam~~ ``(2)yam``_
+        [[gun3 keoi5 jam2]],
+        force him to drink;
+    - _k(u/)n(3) (1)f(a/)_
+        [[gun3 faa1]],
+        to water plants;
+    - _k(u/)n(3) tsui(3)_
+        [[gun3 zeoi3]]
+        made him drunk.
+    ==
+    --
+    Used for the next [[祼]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~194 #3: 貫(3)]]
     ==
     - A string of 1000~cash;
