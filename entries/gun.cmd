@@ -448,3 +448,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~194 #3: 貫(3)]]
+    ==
+    - A string of 1000~cash;
+    - to thread, to string upon, to run thread through;
+    - to connect, to traverse;
+    - linked, joined to;
+    - to implicate, to involve;
+    - to penetrate, to go through;
+    - _yat(7) k(u/)n(3) (4)ts(')(i/)n_
+        [[jat1 gun3 cin4]],
+        a string of cash;
+    - _k(u/)n(3) (4)ming_
+        [[gun3 ming4]],
+        to see through;
+    - _tsik(9) k(u/)n(3)_
+        [[zik6 gun3]]
+        origin and parentage, account of one's self required at examinations;
+    - _(4)(u:) (4)lui k(u/)n(3) (5)(i/)_
+        [[jyu4 leoi4 gun3 ji5]],
+        like thunder piercing the ear;
+    - _k(u/)n(3) ~~ch(')(u:)n(3)~~ ``(1)ch(')(u:)n``_
+        [[gun3 cyun1]]
+        to run or get through, to bore through;
+    - _k(u/)n(3) (2)kan (5)k(')(u:)_
+        [[gun3 gan2 keoi5]],
+        fasten it tightly, as by running a string through.
+    ==
+  ====
+$$
+##>
