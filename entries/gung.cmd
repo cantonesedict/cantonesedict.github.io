@@ -134,3 +134,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~195 #1: (1)蚣]]
+    ==
+    - An insect;
+    - _(4)'ng (1)kung_
+        [[ng4 gung1]],
+        the centipede,
+        commonly called _p(a/)k(8) tsuk(7)_ [[baak3 zuk1]] or hundred feet.
+    ==
+  ====
+$$
+##>
