@@ -263,3 +263,67 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ======
+  - [[Page~193 #3: (2)管(2){𬋩=⿳爫冖㠯}]]
+    ====
+    - A little flute or flageolet;
+    - a reed, a tube, tubes to make pencils of;
+    - a classifier of fifes, flutes, quills, and tubular things;
+    - to rule, to govern, to control;
+    - to have the management or care of;
+    - to sway, to influence primarily;
+    - _(2)k(u/)n (1)k(a/)_
+        [[gun2 gaa1]],
+        a butler, a major-domo;
+    - _(2)k(u/)n h(a/)(6)_
+        [[gun2 haa6]]
+        to rule over;
+    - _pat(7) (2)k(u/)n_
+        [[bat1 gun2]],
+        tube of a pencil;
+    - _(2)k(u/)n sz'(6) (4)fong_
+        [[gun2 si6 fong4]],
+        a manager's room, a pantry;
+    - _(2)k(u/)n t(i/)m(3)_
+        [[gun2 dim3]]
+        a coolie, a shop assistant;
+    - _(2)k(u/)n (5)l(i/)_
+        [[gun2 lei5]],
+        to manage, to rule;
+    - _(2)k(u/)n k(i/)n(3)_
+        [[gun2 gin3]]
+        to see partially, as through a tube;
+        one's imperfect views, my opinion;
+    - _~~chat(7)~~ ``(2)ch(i/)`` (2)k(u/)n_ [[zi2 gun2]] before other verbs
+      intimates compulsion or constraint, can not be helped,---as
+      ==
+      - _~~chat(7)~~ ``(2)ch(i/)`` (2)k(u/)n ts(o\)(6)_
+          [[zi2 gun2 zou6]]
+          must be done;
+      - _~~chat(7)~~ ``(2)ch(i/)`` (2)k(u/)n (2)kong_
+          [[zi2 gun2 gong2]],
+          talk away, let him talk;
+      ==
+    - _(2)k(u/)n sh(o\)(3)_
+        [[gun2 sou3]]
+        a treasurer or money-keeper;
+    - _(2)tsung (2)k(u/)n_
+        [[zung2 gun2]],
+        a superior ruler, to superintend;
+    - _shau(6) (2)k(u/)n hat(9)_
+        [[sau6 gun2 hat6]],
+        governed by;
+    - _(2)k(u/)n (5)k(')(u:) (4)'m_
+        [[gun2 keoi5 m4]],
+        must make the best of him, hard to manage;
+    - _(2)k(u/)n (4)'m ch(u:)(6)_
+        [[gun2 m4 zyu6]]
+        unmanageable.
+    ====
+  ======
+$$
+##>
