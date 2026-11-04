@@ -545,3 +545,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~194 #7: 鸛(3)]]
+    ==
+    - A crane;
+    - two species of it are noticed,
+      the _p(a/)k(9) k(u/)n(3)_ [[baak6 gun3]] entirely white;
+    - and the _(1)(u/) ~~k(u:)n(3)~~ ``k(u/)n(3)``_ [[wu1 gun3]]
+      of an ashy plumage and a black tail.
+    ==
+  ====
+$$
+##>
