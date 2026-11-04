@@ -496,6 +496,25 @@ $$
 $$
 W
   ====
+  - [[Page~194 #6: 罐(3)礶(3)]]
+    ==
+    - A jar, a gallipot, a cruse, a vase, a mug;
+    - a water or oil jar, round and having no spout;
+    - _(4)ch(')(a/) k(u/)n(3)_
+        [[caa4 gun3]]
+        a tea-canister.
+    ==
+    --
+    The second form [[礶]] is local.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~194 #3: 貫(3)]]
     ==
     - A string of 1000~cash;
