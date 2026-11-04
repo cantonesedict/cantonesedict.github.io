@@ -294,6 +294,21 @@ $$
 <##
 $$
 W
+  ====
+  - [[Page~194 #1: (2)筦]]
+    ==
+    - A fife or small wind instrument like it;
+    - a string to suspend drums;
+    - to rule;
+    - a shuttle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
   ======
   - [[Page~193 #3: (2)管(2){𬋩=⿳爫冖㠯}]]
     ====
