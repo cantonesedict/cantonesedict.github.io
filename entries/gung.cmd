@@ -200,6 +200,56 @@ $$
 $$
 W
   ====
+  - [[Page~197 #2: (1)宮]]
+    ==
+    - A mansion, a building;
+    - now confined to the imperial residence;
+    - the palace;
+    - a wall;
+    - a temple;
+    - a district college;
+    - the first note in the octave;
+    - to castrate;
+    - to surround;
+    - the circuit of;
+    - _(1)kung t(i/)n(6)_
+        [[gung1 din6]]
+        a palace;
+    - _(1)kung (2)ts(')am_
+        [[gung1 cam2]],
+        the seraglio;
+    - _(1)kung ~~'f(i/)~~ ``(1)f(i/)``_
+        [[gung1 fei1]],
+        imperial concubines;
+    - _(1)kung (4)ying_
+        [[gung1 jing4]],
+        "punishment of the palace," castration;
+    - _(1)kung (4)ngo_
+        [[gung1 ngo4]],
+        maids of honor;
+    - _hok(9) (1)kung_
+        [[hok6 gung1]],
+        a college in a district or prefecture;
+    - _(4)hang (1)kung_
+        [[hang4 gung1]],
+        a rural palace;
+    - _(1)chai lok(9) (5)l(a/)ng (1)kung_
+        [[zai1 lok6 laang5 gung1]],
+        put her in the "cold palace,"
+        said of a wife or concubine who is discarded;
+        it refers to the hareem where rejected women used to be sent;
+    - _(2)shau (1)kung_
+        [[sau2 gung1]],
+        a house lizard.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #4: (1)功]]
     ==
     - Actions deserving praise, honor, reward, or merit;
