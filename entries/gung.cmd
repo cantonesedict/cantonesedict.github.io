@@ -79,6 +79,19 @@ W
         [[cit3 gung3]]
         to arrange the offerings.
     ==
+  - [[Page~720 #5 (1)供]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To eat much, to eat to satiety;
+    - _~~shik(7)~~ ``shik(9)`` ti(u/)(6) (1)kung_
+        [[sik6 diu6 gung1]],
+        had a plenty, eaten to the full;
+    - _(2)t(a/) ti(u/)(6) (1)kung_
+        [[daa2 diu6 gung1]],
+        to have a fight, to try a bout.
+    ==
   ====
 $$
 ##>
