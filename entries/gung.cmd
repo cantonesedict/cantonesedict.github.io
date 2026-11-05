@@ -644,3 +644,41 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~197 #6: 貢(3)]]
+    ==
+    - To offer to a liege, to present;
+    - to offer tribute or taxes;
+    - tribute, taxes, or presents given by inferiors or fiefs,
+      as the peltry, gems, &c., of Tartar tribes sent to Peking [[北京]];
+    - to announce;
+    - offers of service---and hence merit, worthy actions;
+    - _tsun(3) kung(3)_
+        [[zeon3 gung3]]
+        to offer tribute or taxes;
+    - _kung(3) (2)pan_
+        [[gung3 ban2]],
+        articles of tribute;
+    - _kung(3) sz'(3)_
+        [[gung3 si3]]
+        the tribute-bearer;
+    - _n(a/)p(9) kung(3)_
+        [[naap6 gung3]]
+        to pay taxes;
+    - _~~p(a/)t(8)~~ ``pat(9)`` kung(3)_
+        [[bat6 gung3 拔貢]]
+        a selected si(u/)ts(a/)i [[秀才]];
+    - _kung(3) (u:)n(6)_
+        [[gung3 jyun6-2]]
+        provincial examination-hall;
+    - _kung(3) (4)sh(u:)n_
+        [[gung3 syun4]],
+        vessel bringing tribute.
+    ==
+  ====
+$$
+##>
