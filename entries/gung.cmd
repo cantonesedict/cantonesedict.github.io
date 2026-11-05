@@ -287,6 +287,44 @@ $$
 $$
 W
   ====
+  - [[Page~196 #1: (1)弓]]
+    ==
+    - A bow;
+    - the 57th~radical [[U+2F38 ⼸ "bow"]] of characters relating to bows;
+    - archery;
+    - crescent, curved;
+    - a cover of a carriage;
+    - a measure of five or six _~~ch(')ek(9)~~ ``ch(')ek(8)``_ [[cek3]]
+      the length of a bow---fifty made a bowshot;
+    - to measure;
+    - _(1)kung ts(i/)n(3)_
+        [[gung1 zin3]]
+        bows and arrows;
+    - _(1)kung (4)h(a/)i_
+        [[gung1 haai4]],
+        women's shoes;
+    - _(1)kung (1)ch(')(a/)_
+        [[gung1 caa1]],
+        a stretch used in archery;
+    - _(1)kung (4)(i/)n_
+        [[gung1 jin4]],
+        a bowstring;
+    - _(1)l(a/)i (1)kung_
+        [[laai1 gung1]],
+        to pull a bow;
+    - _(1)kung, (1)t(o\), ~~shek(8)~~ ``shek(9)``_
+        [[gung1, dou1, sek6]]
+        trials in pulling a bow, fencing, and in lifting stones---\
+        at the military examinations.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #3: (1)攻]]
     ==
     - To attack, to assault, to fight with, to beat;
