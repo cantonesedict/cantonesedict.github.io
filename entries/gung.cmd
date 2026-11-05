@@ -682,3 +682,54 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~197 #7: 共(6)]]
+    ==
+    - Generally, all, altogether, in all, collectively;
+    - in fine, in short, to sum up;
+    - with, and, together with;
+    - the same, alike;
+    - to include in, to live with;
+    - _kung(6) (2)tsung_
+        [[gung6 zung2]],
+        the whole, altogether;
+    - _h(o\)p(9) kung(6)_
+        [[hap6 gung6]]
+        in all, all taken together;
+    - _kung(6) kai(3)_
+        [[gung6 gai3]]
+        the whole amount;
+    - _kung(6) (4)t(')ung (5)k(')(u:) ~~h(u:)(6)~~ ``h(u:)(3)``_
+        [[gung6 tung4 keoi5 heoi3]]
+        all are gone with him;
+    - _(5)ngo kung(6) (5)n(i/)_
+        [[ngo5 gung6 nei5]],
+        I and you;
+    - _(4)t(')ung (1)sam kung(6) (2)shui_
+        [[tung4 sam1 gung6 seoi2]],
+        of the same mind;
+    - _pat(7) kung(6) yat(7) shat(7)_
+        [[bat1 gung6 jat1 sat1]]
+        can not live in the same house;
+    - _kung(6) (4)shing (5)m(i/) (2)k(u:)_
+        [[gung6 sing4 mei5 geoi2]],
+        it will be a good act to make up the sum;
+    - _~~kung(3)~~ ``kung(6)`` (2)kwai (2)kong (1)m(e/)_
+        [[gung6 gwai2 gong2 me1]],
+        have you been taking with a ghost?
+    ==
+    --
+    Read _(2)Kung_ [[gung2]],
+    --
+    ==
+    - to superintend work;
+    - towards;
+    - openly.
+    ==
+  ====
+$$
+##>
