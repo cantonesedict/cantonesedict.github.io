@@ -325,6 +325,40 @@ $$
 $$
 W
   ====
+  - [[Page~196 #4: (1)恭]]
+    ==
+    - To respect, to behold with regard,
+      to venerate by an outward serious, sedate, deportment;
+    - respectful, complaisant, collected, courteous,
+      affable in one's conduct;
+    - as an adjective, often merely enforces the next word;
+    - _(1)kung (2)h(i/)_
+        [[gung1 hei2]],
+        respectfully wish you joy;
+    - _(1)kung king(3)_
+        [[gung1 ging3]]
+        respectful, venerating;
+    - _(1)kung shun(6)_
+        [[gung1 seon6]]
+        submissive;
+    - _(1)kung ho(6)_
+        [[gung1 ho6]]
+        congratulatory presents;
+    - _(1)kung (1)kung (4)(u:) (5)lai_
+        [[gung1 gung1 jyu4 lai5]],
+        very polite, according to etiquette;
+    - _(1)kung (4)yan_
+        [[gung1 jan4]],
+        ladies of officers of the 4th~rank.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #3: (1)攻]]
     ==
     - To attack, to assault, to fight with, to beat;
