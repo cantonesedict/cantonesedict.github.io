@@ -505,3 +505,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~197 #1: (1)龔]]
+    ==
+    - Interchanged with the two last [[恭, 供共]];
+    - a surname;
+    - to give;
+    - respectful.
+    ==
+  ====
+$$
+##>
