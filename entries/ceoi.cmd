@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1902,7 +1902,7 @@ C
   - Williams' "12~taels": As noted by Kangxi,
     this differs from the 《說文》 definition of 八銖,
     which works out to one third of a tael.
-  - Williams' 一錘打倒: Corrected _yat_ (jat) to _yat(7)_ (jat1).
+  - Williams' 一錘打倒: Fixed missing tone marker _(7)_ on _yat_ (jat).
   ==
 E
   ====

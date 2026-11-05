@@ -467,10 +467,14 @@ W
         [[jin4 ban1]],
         to invite guests;
     - _(4)(i/)n k(')ap(9) (1)t(')(a/) ``(4)``yan_
-        [[jin4 kap6 taa1 jan4]],
+        [[jin4 kap6 taa1 jan4 延及他人]],
         to compromise another. ~~_(4)_~~
     ==
   ====
+C
+  ==
+  - Williams' 延及他人: Fixed misplaced tone marker _(4)_.
+  ==
 $$
 ##>
 

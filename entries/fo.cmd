@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -497,6 +497,7 @@ C
   ==
   - Fan Wan entry: Fixed missing strokes in 燒.
   - Williams' 火焰: Corrected _(1)(i/)m_ (jim1) to _(i/)m(6)_ (jim6).
+  - Williams' 借火: Fixed missing tone marker _(2)_ on _fo_ (fo).
   - Williams' 火船: Dated.
   - Williams' 火熄: Corrected _sik(9)_ (sik6) to _sik(7)_ (sik1).
   - Williams' 無名火: Corrected _(5)m(o\)_ (mou5) to _(4)m(o\)_ (mou4).

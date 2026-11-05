@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> han
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -151,7 +151,7 @@ C
     I have split things up accordingly.
   - Williams' "perverse": Meaning "contrary".
   - Williams' "intractable": Meaning "obstinate".
-  - Williams' 多得很: Fixed missing tone marker _(2)_ for 很.
+  - Williams' 多得很: Fixed missing tone marker _(2)_ on _han_ (han).
   ==
 L
   ====

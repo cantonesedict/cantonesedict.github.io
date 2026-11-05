@@ -838,7 +838,7 @@ W
         [[kei5 gou1]],
         stand up higher;
     - _(5)k(')(i/) nap``(7)`` t(i/)(6)_
-        [[kei5 nap1 dei6-2]]
+        [[kei5 nap1 dei6-2 企凹地]]
         to refuse to stir;
     - _(5)k(')(i/) ~~(1)shang~~ ``(1)sh(a/)ng`` (5)t(')am_
         [[kei5 saang1 tam5]],
@@ -866,5 +866,9 @@ W
         a _de facto_ emperor, one who rules really.
     ==
   ====
+C
+  ==
+  - Williams' 企凹地: Inferred incompletely printed tone marker _(7)_ in _nap(7)_.
+  ==
 $$
 ##>

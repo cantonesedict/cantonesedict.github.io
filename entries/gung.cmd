@@ -199,7 +199,7 @@ W
   ====
 C
   ==
-  - Williams' 功同再造: Fixed missing tone marker _(4)_ for 同.
+  - Williams' 功同再造: Fixed missing tone marker _(4)_ on _t(')ung_ (tung).
   ==
 $$
 ##>
