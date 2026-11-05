@@ -570,3 +570,37 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~197 #3: (2)拱]]
+    ==
+    - To join the hands before the breast as when bowing;
+    - to hold or take with both hands;
+    - to encircle;
+    - an arch;
+    - arched, bowing;
+    - _(2)kung (2)teng_
+        [[gung2 deng2]],
+        a dome, a cupola;
+    - _(2)kung (2)shau_
+        [[gung2 sau2]],
+        to bow with the hands even with the head;
+    - _(2)kung p(i/)t(9)_
+        [[gung2 bit6]]
+        to bow and part;
+    - _(2)kung (4)p(')ung_
+        [[gung2 pung4]],
+        a kind of door-porch;
+    - _kat(7) (1)sing (2)kung chi(u/)(3)_
+        [[gat1 sing1 gung2 ziu3]]
+        may happy stars shine around you;
+    - _(2)kung (5)ng(a/)_
+        [[gung2 ngaa5]],
+        semi-cylindrical tiles.
+    ==
+  ====
+$$
+##>
