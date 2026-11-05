@@ -26,6 +26,67 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~196 #5: (1)供(1)共]]
+    ==
+    - To place before, to offer or present to, to lay out, to arrange;
+    - to supply with;
+    - to provide, to succor, to give;
+    - to confess, to give in evidence, to declare;
+    - _(1)kung ~~kap(7)~~ ``k(')ap(7)``_
+        [[gung1 kap1]]
+        to furnish;
+    - _(1)kung ying(3)_
+        [[gung1 jing3]],
+        to provide superiors, to pay the dues of office;
+    - _(2)hau (1)kung_
+        [[hau2 gung1]],
+        verbal evidence;
+    - _(5)ngo (1)kung (5)k(')(u:)_
+        [[ngo5 gung1 keoi5]],
+        I accuse him;
+    - _(1)kung (1)ch(')ing_
+        [[gung1 cing1]],
+        he confesses saying;
+    - _(4)ch(')(u:)n (1)kung (4)yan_
+        [[cyun4 gung1 jan4]],
+        interpreters for witnesses;
+    - _(1)kung (2)tong_
+        [[gung1 dong2]],
+        to tell of one's accomplices;
+    - _(1)kung (1)p(')(a/)n_
+        [[gung1 paan1]],
+        to accuse falsely;
+    - _(1)kung chik(7)_
+        [[gung1 zik1]]
+        to assume an office;
+    - _(1)kung (u/)i(6)_
+        [[gung1 wui6-2]]
+        to pay back to the club one's proportion.
+    ==
+    --
+    Read _Kung(3)_ [[gung3]]_;_
+    --
+    ==
+    - to nourish, to support;
+    - offerings;
+    - _kung(3) y(e/)ung(6)_
+        [[gung3 joeng6]]
+        to sustain one's parents;
+    - _kung(3) (4)(i/)n_
+        [[gung3 jin4]],
+        to offer in worship;
+    - _ch(')(i/)t(8) kung(3)_
+        [[cit3 gung3]]
+        to arrange the offerings.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~194 #8: (1)公]]
     ==
     - The opposite of selfish or mean;
