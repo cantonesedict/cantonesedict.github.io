@@ -604,3 +604,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~197 #4: (2)栱]]
+    ==
+    - A post, prop, or pillar;
+    - _(2)kung (2)tau_
+        [[gung2 dau2]],
+        the capital or top of a pillar.
+    ==
+  ====
+$$
+##>
