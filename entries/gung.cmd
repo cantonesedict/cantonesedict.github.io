@@ -139,6 +139,75 @@ $$
 $$
 W
   ====
+  - [[Page~195 #4: (1)功]]
+    ==
+    - Actions deserving praise, honor, reward, or merit;
+    - meritorious;
+    - virtuous, worthy;
+    - a good service, work, or affair;
+    - virtues of medicines;
+    - _(1)kung (4)l(o\)_
+        [[gung1 lou4]]
+        merit, that which deserves reward;
+    - _(1)kung lik(9)_
+        [[gung1 lik6]]
+        merits;
+        very efficacious as medicine;
+    - _t(a/)i(6) (1)kung_
+        [[daai6 gung1]],
+        nine months' mourning, put on for uncles;
+    - _(2)si(u/) (1)kung_
+        [[siu2 gung1]],
+        five months' mourning for cousins;
+    - _k(i/)(3) (1)kung_
+        [[gei3 gung1]],
+        to record merits;
+    - _(4)shing (1)kung_
+        [[sing4 gung1]],
+        a finished work;
+    - _(1)king (4)(i/) tsz'(6) (1)kung_
+        [[ging1 ji4 zi6 gung1]],
+        self-laudation, vain-glorious;
+    - _(5)yau (1)kung_
+        [[jau5 gung1]],
+        meritorious;
+    - _(5)m(o\) (1)kung_
+        [[mou5 gung1]],
+        undeserving;
+    - _pat(7) kai(3) (1)kung_
+        [[bat1 gai3 gung1]],
+        regardless of the labor;
+    - _(1)ts(e/)ung (1)kung shuk(9) ts(u/)i(6)_
+        [[zoeng1 gung1 suk6 zeoi6]]
+        to expiate faults by good deeds;
+    - _y(e/)uk(9) lik(9) (1)kung h(a/)u(6)_
+        [[joek6 lik6 gung1 haau6]]
+        the virtue of the medicine is great;
+    - _(1)kung (4)ming_
+        [[gung1 ming4]],
+        high rank;
+    - _(2)hai (1)p(i/)n ch(')(u:)(3) yung(6) (1)kung_
+        [[hai2 bin1 cyu3 jung6 gung1]],
+        where do you study?
+    - _(1)kung (4)n(a/)n (2)p(o\) kwo(3)_
+        [[gung1 naan4 bou2 gwo3]]
+        no good acts can wipe out his crimes;
+    - _(1)kung ``(4)``t(')ung tsoi(3) ts(o\)(6)_
+        [[gung1 tung4 zoi3 zou6 功同再造]],
+        your goodness has [as it were] recreated me.
+    ==
+  ====
+C
+  ==
+  - Williams' 功同再造: Fixed missing tone marker _(4)_ for 同.
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #2: (1)工]]
     ==
     - A laborer, a workman, an artisan, a mechanic;
