@@ -619,3 +619,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~197 #5: (2)鞏]]
+    ==
+    - To bind with thongs, to bind securely;
+    - firm, strong, well secured;
+    - well guarded against attack;
+    - to shrink or dry at the fire;
+    - a district in Hon(a/)n f(u/) [[河南府]] in Hon(a/)n [[河南]];
+    - _(2)kung k(u/)(3)_
+        [[gung2 gu3]]
+        well guarded;
+    - _(1)sh(u:) (4)p(')(i/) (2)kung (2)h(i/)_
+        [[syu1 pei4 gung2 hei2]],
+        the book-covers warp;
+    - _(2)kung (1)kon_
+        [[gung2 gon1]],
+        to dry at a fire.
+    ==
+  ====
+$$
+##>
