@@ -386,3 +386,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~196 #3: (1)躬]]
+    ==
+    - One's person, personally, one's self or body;
+    - _(1)kung (1)ts(')an (4)k(')(i/) sz'(6)_
+        [[gung1 can1 kei4 si6]]
+        to do a thing one's self;
+    - _cham(6) (1)kung_
+        [[zam6 gung1]],
+        Ourself, the emperor;
+    - _shing(3) (1)kung_
+        [[sing3 gung1]],
+        the sacred person;
+    - _~~huk(7)~~ ``k(')uk(7)`` (1)kung_
+        [[kuk1 gung1]]
+        the bended body.
+    ==
+  ====
+$$
+##>
