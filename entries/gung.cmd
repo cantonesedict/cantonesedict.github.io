@@ -360,6 +360,21 @@ $$
 $$
 W
   ====
+  - [[Page~196 #2: (1)芎]]
+    ==
+    - A medicinal plant, the root of which resembles tormentilla;
+    - the best is from Sz'ch(')uen [[四川]],
+      called _(1)ch(')(u:)n (1)kung_ [[cyun1 gung1]]_;_
+    - the decoction is used to purify the blood.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #1: (1)蚣]]
     ==
     - An insect;
