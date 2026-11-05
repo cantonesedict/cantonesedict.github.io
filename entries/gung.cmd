@@ -218,6 +218,41 @@ $$
 $$
 W
   ====
+  - [[Page~195 #3: (1)攻]]
+    ==
+    - To attack, to assault, to fight with, to beat;
+    - to put in order, to set to work at, to apply diligently to;
+    - to rouse, to reprove for faults;
+    - to stimulate the energies or vital powers;
+    - urgency of desire on the heart, temptation;
+    - strong, enduring;
+    - _(1)kung (2)t(a/)_
+        [[gung1 daa2]],
+        to set on, to fight;
+    - _(1)kung (1)sh(u:)_
+        [[gung1 syu1]],
+        to study hard;
+    - _(1)kung (2)f(u/)_
+        [[gung1 fu2]],
+        to seize robbers;
+    - _yat(7) (1)sam (1)kung (1)ch(i/) (2)ch(e/) chung(3)_
+        [[jat1 sam1 gung1 zi1 ze2 zung3]]
+        a crowd of desires attack the heart;
+    - _(1)kung yuk(9)_
+        [[gung1 juk6-2]]
+        to work gems;
+    - _(1)k(a/)n (1)kung_
+        [[gaan1 gung1]],
+        to join battle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~195 #1: (1)蚣]]
     ==
     - An insect;
