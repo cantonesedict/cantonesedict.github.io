@@ -120,3 +120,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~198 #5: (4)銎]]
+    ==
+    - The eye of an ax or hammer;
+    - _(2)f(u/) (4)k(')ung_
+        [[fu2 kung4]],
+        the hole of an ax.
+    ==
+  ====
+$$
+##>
