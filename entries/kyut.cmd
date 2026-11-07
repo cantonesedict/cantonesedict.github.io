@@ -75,13 +75,55 @@ $$
 <##
 $$
 W
-  ====
+  ======
   - [[Page~102 缺(8)觖(8)]]
     --
     For these two characters, see _K(')(u:)t_ [[kyut]],
     their usual pronunciation in Canton.
     --
-  ====
+  - [[Page~199 #1: 缺(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ====
+    - A broken, defective, clipped, or cracked, vessel;
+    - deficient, wanting, short;
+    - defects;
+    - a deficiency;
+    - to make a vacancy in an office;
+    - duties of an official post, of which there are three sorts---\
+      ==
+      - _(2)k(a/)n ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+          [[gaan2 kyut3]]
+          an easy post,
+      - _(1)chung ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+          [[zung1 kyut3]]
+          medium post, and
+      - _i(u/)(3) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+          [[jiu3 kyut3]]
+          an important post;
+      ==
+      and the salaries are proportioned;
+    - _(1)hoi ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[hoi1 kyut3]]
+        to make a vacancy;
+    - _(2)p(o\) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[bou2 kyut3]]
+        to supply a vacancy;
+    - _(2)h(o\) ~~k(u:)t(8)~~ ``k(')(u:)t(8)`` fan(6)_
+        [[hou2 kyut3 fan6]]
+        a good office, a profitable situation;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` ~~f(a/)t(9)~~ ``fat(9)``_
+        [[kyut3 fat6]]
+        wanting, not enough;
+    - _(1)pang ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[bang1 kyut3]]
+        broken, defective;
+    - _t(a/)i(6) ~~k(u:)t(8)~~ ``k(')(u:)t(8)`` h(o\)m(6)_
+        [[daai6 kyut3 ham6]]
+        a grievous thing or event;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (2)p(u/)n_
+        [[kyut3 bun2]],
+        to affect or reduce the principal.
+    ====
+  ======
 $$
 ##>
 
