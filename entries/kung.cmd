@@ -92,3 +92,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~198 #3: (4)邛]]
+    ==
+    - An inferior department near Chingt(u/) f(u/) [[成都府]] in Sz'ch(')uen [[四川]];
+    - name of a river;
+    - poorly, sick, infirm;
+    - troublesome.
+    ==
+  ====
+$$
+##>
