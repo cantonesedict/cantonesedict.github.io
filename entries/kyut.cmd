@@ -73,6 +73,46 @@ $$
 $$
 W
   ====
+  - [[Page~198 #8: 訣(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - Parting or dying words;
+    - to take leave, to depart;
+    - a farewell;
+    - an art, a rule, a precept;
+    - a mystery or secret;
+    - abstruse doctrine;
+    - a trick, a sleight;
+    - _p(i/)(3) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[bei3 kyut3]]
+        undivulged secrets;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` p(i/)t(9)_
+        [[kyut3 bit6]]
+        to take a lasting farewell;
+    - _(4)lau ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[lau4 kyut3]]
+        a dying legacy or words;
+    - _(4)ch(')(e/)ung ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[coeng4 kyut3]]
+        eternal separation;
+    - _mak(9) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[mak6 kyut3]]
+        the doctrine of the pulse;
+    - _(2)hau ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[hau2 kyut3]]
+        gibberish;
+        to teach a craft.
+    ==
+    --
+    Interchanged with the last [[決]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 闕(8) _H(u:)t(8)_ (hyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Looking out a door, a lookout above a gate;
