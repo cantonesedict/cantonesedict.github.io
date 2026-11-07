@@ -26,6 +26,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~198 #2: (4)穹]]
+    ==
+    - Lofty;
+    - high and vast as the sky;
+    - eminent;
+    - spacious, empty;
+    - _(4)k(')ung (1)ts(')ong_
+        [[kung4 cong1]],
+        the azure canopy, the empyrean;
+    - to stop up, to prevent entrance.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #1: (4)窮]]
     ==
     - Brought to the last degree;
