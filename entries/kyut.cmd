@@ -26,6 +26,40 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~198 #7: 決(8)决(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - Name of a river;
+    - streams flowing different ways;
+    - to flow, to lead streams;
+    - to spread abroad;
+    - to decide, to pass sentence, to settle;
+    - to cut off;
+    - decided upon, certainly, fixed, positively;
+    - doubtless;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (4)(i/)n_
+        [[kyut3 jin4]],
+        certainly is so;
+    - _(2)ch(')(u:) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[cyu2 kyut3]]
+        to sentence to death;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` ts(u:)t(9)_
+        [[kyut3 zyut6]]
+        to utterly renounce;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` i(u/)(3)_
+        [[kyut3 jiu3]]
+        must have it;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` yuk(9)_
+        [[kyut3 juk6]]
+        to take out of prison.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 缺(8)觖(8)]]
     --
     For these two characters, see _K(')(u:)t_ [[kyut]],
