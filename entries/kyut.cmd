@@ -43,6 +43,26 @@ $$
 $$
 W
   ====
+  - [[Page~199 #5: 厥(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - A personal pronoun, he, she, it;
+    - that, that one, the man;
+    - its, his;
+    - short;
+    - to project stones;
+    - to bow the head to the ground;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (2)tang_
+        [[kyut3 dang2]],
+        they.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #7: 決(8)决(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Name of a river;
