@@ -26,6 +26,43 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~720 #6: (4)夐; here normalised to 敻]]
+    --
+    Read _h(u:)n(3)_ [[hyun3]].
+    --
+    ==
+    - To scheme for, to seek, to undertake.
+    ==
+    --
+    Read _(4)wing_ [[wing4]]_;_
+    --
+    ==
+    - far;
+    - to go to a distance.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - A bunch, a cluster;
+    - _yat(7) (4)k(')ung (1)tsi(u/)_
+        [[jat1 kung4 ziu1]],
+        a bunch of plantains;
+    - _yat(7) (4)k(')ung sh(u:)(6) (i/)p(9)_
+        [[jat1 kung4 syu6 jip6]]
+        a branch of leaves;
+    - _yat(7) (4)k(')ung (1)f(a/)_
+        [[jat1 kung4 faa1]],
+        a clump of flowers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #2: (4)穹]]
     ==
     - Lofty;
