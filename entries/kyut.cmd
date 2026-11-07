@@ -26,6 +26,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~199 #4: 𠄌(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - A catch, a mark by which to remember a character;
+    - to mark off;
+    - _~~(1)kau~~ ``(1)ngau`` ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[ngau1 kyut3]]
+        to mark off criminals for execution,
+        as is done by the emperor at the autumnal assizes.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #7: 決(8)决(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Name of a river;
