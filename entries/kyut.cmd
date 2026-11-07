@@ -192,6 +192,28 @@ $$
 $$
 W
   ====
+  - [[Page~199 #3: 闋(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - To shut the door, to close the office;
+    - to stop, to rest;
+    - terminated, done;
+    - to prohibit;
+    - end of a song;
+    - _fuk(9) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[fuk6 kyut3]]
+        to take off mourning;
+    - _(1)ko sh(o\)(3) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[go1 sou3 kyut3]]
+        several tunes or songs.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 闕(8) _H(u:)t(8)_ (hyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Looking out a door, a lookout above a gate;
