@@ -76,9 +76,9 @@ $$
 $$
 W
   ======
-  - [[Page~102 缺(8)觖(8)]]
+  - [[Page~102 缺(8)觖(8) _H(u:)t(8)_ (hyut3)]]
     --
-    For these two characters, see _K(')(u:)t_ [[kyut]],
+    For these two characters [[缺, 觖]], see _K(')(u:)t_ [[kyut]],
     their usual pronunciation in Canton.
     --
   - [[Page~199 #1: 缺(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
@@ -124,6 +124,27 @@ W
         to affect or reduce the principal.
     ====
   ======
+$$
+##>
+
+<##
+$$
+W
+  ====
+  - [[Page~102 缺(8)觖(8) _H(u:)t(8)_ (hyut3)]]
+    --
+    For these two characters [[缺, 觖]], see _K(')(u:)t_ [[kyut]],
+    their usual pronunciation in Canton.
+    --
+  - [[Page~199 #2 : 觖(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - To hope or expect impatiently, to long for one's return;
+    - to make known;
+    - to regard with dissatisfaction;
+    - to want;
+    - deficient.
+    ==
+  ====
 $$
 ##>
 
