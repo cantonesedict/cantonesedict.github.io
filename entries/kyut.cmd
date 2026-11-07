@@ -60,6 +60,22 @@ $$
 $$
 W
   ====
+  - [[Page~198 #9: 玦(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - A broken or halved ring,
+      formerly used to indicate breaking off all connection;
+    - a semicircle;
+    - an archer's ring;
+    - personal ornaments.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 缺(8)觖(8)]]
     --
     For these two characters, see _K(')(u:)t_ [[kyut]],
