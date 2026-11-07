@@ -97,6 +97,19 @@ $$
 $$
 W
   ====
+  - [[Page~198 #4: (4)筇]]
+    ==
+    - Bamboos fit for making walking-sticks for old men;
+    - a kind of bamboo.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #3: (4)邛]]
     ==
     - An inferior department near Chingt(u/) f(u/) [[成都府]] in Sz'ch(')uen [[四川]];
