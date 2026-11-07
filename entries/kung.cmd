@@ -110,6 +110,28 @@ $$
 $$
 W
   ====
+  - [[Page~198 #6: (4)蛩]]
+    ==
+    - A fabulous animal like a griffon;
+    - a kind of locust;
+    - _(1)f(i/) (4)k(')ung (5)m(u/)n (5)y(e/)_
+        [[fei1 kung4 mun5 je5]],
+        the flying locusts fill the plains;
+    - _(4)k(')ung (4)k(')ung_
+        [[kung4 kung4]],
+        concerned for, sad;
+    - _(4)k(')ung (4)yam_
+        [[kung4 jam4]],
+        the locust's chirp.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #3: (4)邛]]
     ==
     - An inferior department near Chingt(u/) f(u/) [[成都府]] in Sz'ch(')uen [[四川]];
