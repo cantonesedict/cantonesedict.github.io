@@ -291,6 +291,21 @@ $$
 $$
 W
   ====
+  - [[Page~199 #11: 蹶(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - To stumble, to fall, to slip down;
+    - to fail in;
+    - to leap, to jump;
+    - prostrate, to go quick.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~199 #3: 闋(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - To shut the door, to close the office;
