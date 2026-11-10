@@ -307,6 +307,21 @@ $$
 $$
 W
   ====
+  - [[Page~199 #13: 譎(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - Feigned, counterfeited;
+    - to impose on;
+    - hypocritical, crafty;
+    - to please or agree with one to gain an end.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~199 #11: 蹶(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - To stumble, to fall, to slip down;
