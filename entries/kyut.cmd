@@ -75,6 +75,24 @@ $$
 $$
 W
   ====
+  - [[Page~720 #7: 抉(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - To dig, to rake;
+    - to pluck out, to gouge;
+    - to snatch;
+    - to play with the tassel of a bow;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (5)ng(a/)n_
+        [[kyut3 ngaan5]],
+        to gouge out an eye.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #7: 決(8)决(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Name of a river;
