@@ -26,6 +26,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~200 #1: 佸(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - To unite all the parts, united strength;
+    - to tug at;
+    - to reach;
+    - to collect or assemble;
+    - _~~k(u/)t(8) k(u/)t(8)~~ ``k(')(u/)t(8) k(')(u/)t(8)``_
+        [[kut3 kut3]]
+        tugging.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~720 #10: 鴰(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
     ==
     - A species of crane;
