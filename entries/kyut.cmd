@@ -251,6 +251,22 @@ $$
 $$
 W
   ====
+  - [[Page~199 #12: {𧥎=⿰角⿳⿱⺈𠔿目攴}(8) _K(u:)t(8)_ (gyut3); here normalised to 觼 _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - Tongue of a buckle, a hasp;
+    - a ring on a carriage for fastening the reins to,
+      called _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` n(a/)p(9)_ [[kyut3 naap6]]_;_
+    - a ring with a tongue or hook for fastening to;
+    - part of a lock.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #8: 訣(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Parting or dying words;
