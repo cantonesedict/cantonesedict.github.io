@@ -127,6 +127,20 @@ $$
 $$
 W
   ====
+  - [[Page~720 #8: 潏(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - Water bubbling up;
+    - an islet or bank formed by labor in a stream, for placing a house on;
+    - a river in Sh(a/)ns(i/) [[山西]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~199 #9: 獗(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - Insolent;
