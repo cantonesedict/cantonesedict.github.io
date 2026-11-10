@@ -43,6 +43,18 @@ $$
 $$
 W
   ====
+  - [[Page~199 #6: 劂(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - A gouge, chissel, burin, or graver, used by carvers and carpenters.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~199 #5: 厥(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - A personal pronoun, he, she, it;
