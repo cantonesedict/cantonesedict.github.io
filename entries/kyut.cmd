@@ -420,3 +420,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~720 #9: 鱖(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - A sort of ray or skate, whose flesh is like pork;
+    - a spotted fish like a bream,
+      in which sense the character is read _kwai(3)_ [[gwai3]].
+    ==
+  ====
+S
+  ==
+  - $鱖gwai3 (TODO)
+  ==
+$$
+##>
