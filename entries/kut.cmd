@@ -93,6 +93,27 @@ $$
 $$
 W
   ====
+  - [[Page~200 #4: 适(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - Fleet, hasty;
+    - quick;
+    - to hasten one;
+    - a man's name;
+    - _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` (1)t(')ung_
+        [[kut3 tung1]],
+        to understand soon;
+    - _P(a/)k(8)-~~k(u/)t(8)~~ ``k(')(u/)t(8)``_
+        [[baak3 kut3]]
+        was one of Wan W(a/)ng [[文王]]'s officers.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~720 #10: 鴰(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
     ==
     - A species of crane;
