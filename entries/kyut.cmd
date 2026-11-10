@@ -180,6 +180,26 @@ $$
 $$
 W
   ====
+  - [[Page~199 #8: 蕨(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - An edible fern;
+    - the stalks are cooked for food when tender,
+      and a flour is made from the root;
+    - _~~k(u:)t(8)~~ ``k(')(u:)t(8)`` (2)fan_
+        [[kyut3 fan2]],
+        farina of the fern-root.
+    ==
+    --
+    The drawing of the _~~k(u:)t(8)~~ ``k(')(u:)t(8)``_ [[kyut3]] resembles an Aspidium.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~102 缺(8)觖(8) _H(u:)t(8)_ (hyut3)]]
     --
     For these two characters [[缺, 觖]], see _K(')(u:)t_ [[kyut]],
