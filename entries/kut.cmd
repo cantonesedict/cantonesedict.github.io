@@ -93,6 +93,24 @@ $$
 $$
 W
   ====
+  - [[Page~200 #5: 蛞(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - A garden slug, called _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` (4)(u:)_ [[kut3 jyu4]]_;_
+    - vulgarly _p(i/)(6) t(')ai(3) (4)ch(')ung_ [[bei6 tai3 cung4]],
+      or the snivel worm;
+    - a frog's eggs;
+    - _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` (4)lau_
+        [[kut3 lau4]],
+        the mole-cricket.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~200 #4: 适(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
     ==
     - Fleet, hasty;
