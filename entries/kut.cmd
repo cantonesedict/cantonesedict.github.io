@@ -70,6 +70,29 @@ $$
 $$
 W
   ====
+  - [[Page~200 #3: 聒(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - To make a great clamor, to stun one, to make a din;
+    - importunate, bothering, distracting, noisy;
+    - to injure an affair by talking;
+    - _~~k(u/)t(8) k(u/)t(8)~~ ``k(')(u/)t(8) k(')(u/)t(8)``_
+        [[kut3 kut3]]
+        inapt, ignorant;
+    - _(1)to (4)(i/)n ~~k(u/)t(8)~~ ``k(')(u/)t(8)`` (5)(i/)_
+        [[do1 jin4 kut3 ji5]],
+        to din in one's ears;
+    - _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` ~~(5)i(u/)~~ ``(2)i(u/)``_
+        [[kut3 jiu2]],
+        clamorous.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~720 #10: 鴰(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
     ==
     - A species of crane;
