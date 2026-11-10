@@ -111,6 +111,27 @@ $$
 $$
 W
   ====
+  - [[Page~200 #6: 豁(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - An open valley;
+    - to penetrate through;
+    - to understand;
+    - liberal, magnanimous;
+    - _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` t(a/)t(9)_
+        [[kut3 daat6]]
+        perspicacious;
+    - _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` (4)(i/)n (4)ming_
+        [[kut3 jin4 ming4]],
+        fully understand it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~200 #4: 适(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
     ==
     - Fleet, hasty;
