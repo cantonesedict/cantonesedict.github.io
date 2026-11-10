@@ -214,6 +214,20 @@ $$
 
 <##
 $$
+H
+W
+  ====
+  - [[Page~199 #10: 蟨(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - An animal that carries another;
+    - the vague description of it may refer to some marsupial animal.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~102 缺(8)觖(8) _H(u:)t(8)_ (hyut3)]]
