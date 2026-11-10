@@ -44,6 +44,32 @@ $$
 $$
 W
   ====
+  - [[Page~200 #2: 括(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - To inclose or embrace;
+    - to bundle-up, to tie up, to envelop;
+    - to infold, to comprehend;
+    - to examine into;
+    - to arrive at;
+    - _(1)p(a/)u ~~k(u/)t(8)~~ ``k(')(u/)t(8)``_
+        [[baau1 kut3]]
+        to bundle or wrap up;
+        to contain, to have an understanding of;
+    - _(4)nong ~~k(u/)t(8)~~ ``k(')(u/)t(8)`` sz'(3) (2)hoi_
+        [[nong4 kut3 si3 hoi2]],
+        he "bags up the four seas," _i.~e._ he knows everything;
+    - _~~k(u/)t(8)~~ ``k(')(u/)t(8)`` f(a/)t(8)_
+        [[kut3 faat3]]
+        to do up the hair in a coil.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~720 #10: 鴰(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
     ==
     - A species of crane;
