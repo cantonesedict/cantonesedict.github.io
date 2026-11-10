@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-(Not present in the original ''Tonic Dictionary''.)
+(Not present in the original ''Tonic Dictionary''.) <## TODO: change to implied ##>
 --
 
 #{.williams} ``K(')(u/)t.`` [[kut]]
@@ -21,3 +21,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~720 #10: 鴰(8) _K(u/)t(8)_ (gut3); here normalised to _K(')(u/)t(8)_ (kut3)]]
+    ==
+    - A species of crane;
+    - _(1)ts(')ong ~~k(u/)t(8)~~ ``k(')(u/)t(8)``_
+        [[cong1 kut3]]
+        the black crane;
+        it has red cheeks.
+    ==
+  ====
+$$
+##>
