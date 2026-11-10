@@ -109,6 +109,22 @@ $$
 $$
 W
   ====
+  - [[Page~199 #9: 獗(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - Insolent;
+    - _(1)ch(')(e/)ung ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
+        [[coeng1 kyut3]]
+        unruly, ferocious, disobedient,
+        according as applied to children, robbers, or animals.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~198 #9: 玦(8) _K(u:)t(8)_ (gyut3); here normalised to _K(')(u:)t(8)_ (kyut3)]]
     ==
     - A broken or halved ring,
