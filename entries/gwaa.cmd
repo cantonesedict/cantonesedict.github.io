@@ -139,3 +139,60 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+  ==
+  - kwaa3 (common for "hang/suspend" sense)
+  ==
+W
+  ====
+  - [[Page~201 #1: 挂(3)掛(3)]]
+    ==
+    - To suspend, to hang up;
+    - to dwell on or prolong;
+    - to divine by straws;
+    - to remember;
+    - to distinguish;
+    - to lay aside;
+    - in suspense, anxious;
+    - _kw(a/)(3) h(o\)(6)_
+        [[gwaa3 hou6]]
+        to enter names in a visiting-book,
+        to make or keep a list of articles or names;
+    - _kw(a/)(3) (2)ch(')(i/)_
+        [[gwaa3 ci2]],
+        to make people talk of;
+    - _kw(a/)(3) mong(6)_
+        [[gwaa3 mong6]]
+        to hope for;
+    - _kw(a/)(3) (1)sam_ [[gwaa3 sam1]]
+        or
+      _kw(a/)(3) l(u:)(6)_ [[gwaa3 leoi6]]
+        to be anxious for;
+    - _kw(a/)(3) (5)sh(e/)ung_
+        [[gwaa3 soeng5]],
+        to hang up;
+    - _kw(a/)(3) (1)k(u/)n_
+        [[gwaa3 gun1]],
+        to secretly leave office;
+    - _kw(a/)(3) ch(u:)(6) (5)k(')(u:)_
+        [[gwaa3 zyu6 keoi5]],
+        to keep thinking of;
+    - _kw(a/)(3) n(i/)m(6)_
+        [[gwaa3 nim6]]
+        to bear in mind;
+    - _t(o\)(3) kw(a/)(3)_
+        [[dou3 gwaa3]]
+        a small green parrot;
+    - _kw(a/)(3) (4)meng_
+        [[gwaa3 meng4-2]],
+        to call by, in name only;
+    - _kw(a/)(3) (2)h(i/) f(a/)n(6) wok(9)_
+        [[gwaa3 hei2 faan6 wok6]]
+        you may hang up the griddle---out of business.
+    ==
+  ====
+$$
+##>
