@@ -114,3 +114,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~200 #9: 卦(3)]]
+    ==
+    - Divining lines or diagrams invented by Fuhh(i/) [[伏羲]],
+      to serve as an abacus by which to philosophize;
+    - first there were eight, then these were involved to sixty-four;
+    - to divine;
+    - _(1)ch(i/)m kw(a/)(3)_ [[zim1 gwaa3]]
+        or
+      _puk(7) kw(a/)(3)_ [[buk1 gwaa3]]
+        to divine;
+    - _(4)ng(a/) (2)ch(')(i/) (2)t(a/) kw(a/)(3)_
+        [[ngaa4 ci2 daa2 gwaa3]]
+        shivering from cold or terror;
+    - _kw(a/)(3) (4)t(')au (2)chun_
+        [[gwaa3 tau4 zeon2]],
+        he guessed right.
+    ==
+  ====
+$$
+##>
