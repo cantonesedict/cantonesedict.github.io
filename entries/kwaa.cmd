@@ -26,6 +26,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~201 #8: (1)夸]]
+    ==
+    - Prodigious;
+    - to vaunt, to brag;
+    - magniloquent;
+    - self-conceited.
+    ==
+    --
+    Same as the next [[誇]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~201 #7: 跨(3) _Kw(a/)(3)_ (gwaa3); here corrected to _(1)Kw(')(a/)_ (kwaa1)]]
     ==
     - Interchanged with the last [[胯]];
