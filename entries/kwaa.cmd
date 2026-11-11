@@ -44,6 +44,22 @@ $$
 $$
 W
   ====
+  - [[Page~201 #10: (1)姱]]
+    ==
+    - Vain, conceited;
+    - good, pretty;
+    - _(1)kw(')(a/) ts(i/)t(8)_
+        [[kwaa1 zit3]]
+        regardful of one's appearance or conduct, fastidious, finical.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~201 #9: (1)誇]]
     ==
     - To talk big, to boast;
