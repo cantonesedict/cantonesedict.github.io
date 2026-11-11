@@ -142,6 +142,30 @@ $$
 
 <##
 $$
+W
+  ====
+  - [[Page~201 #5: 啩(3)]]
+    ==
+    - A final word, indicating a doubt, or one's opinion of;
+    - _(5)k(')(u:) (4)lai (1)hi(u/) kw(a/)(3)_
+        [[keoi5 lai4 hiu1 gwaa3]]
+        I think he has come;
+    - _w(a/)k(9) (2)ch(e/) hai(6) kw(a/)(3)_
+        [[waak6 ze2 hai6 gwaa3]]
+        I think it is so;
+    - _p(')(a/)(3) (4)'m hok(9) tak(7) kw(a/)(3)_
+        [[paa3 m4 hok6 dak1 gwaa3]]
+        I'm afraid I can't learn it;
+    - _~~k(o\)m(3)~~ ``(2)k(o\)m`` kw(a/)(3)_
+        [[gam2 gwaa3]]
+        so? are you sure it is so?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 V
   ==
   - kwaa3 (common for "hang/suspend" sense)
