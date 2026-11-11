@@ -44,6 +44,31 @@ $$
 $$
 W
   ====
+  - [[Page~201 #9: (1)誇]]
+    ==
+    - To talk big, to boast;
+    - to vaunt;
+    - bragging, grandiloquence;
+    - conceited, arrogant;
+    - wide, ample---said of a dress;
+    - _(1)kw(')(a/) (2)hau_
+        [[kwaa1 hau2]]
+        boastful;
+    - _(1)kw(')(a/) ~~(5)^ts(e/)ung~~ ``(2)ts(e/)ung`` (5)k(')(u:)_
+        [[kwaa1 zoeng2 keoi5]],
+        to adulate one;
+    - _tsz'(6) (1)kw(')(a/)_
+        [[zi6 kwaa1]],
+        self-laudation.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~201 #7: 跨(3) _Kw(a/)(3)_ (gwaa3); here corrected to _(1)Kw(')(a/)_ (kwaa1)]]
     ==
     - Interchanged with the last [[胯]];
