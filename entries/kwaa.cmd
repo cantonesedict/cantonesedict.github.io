@@ -45,3 +45,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~201 #6: 胯(3)袴(3) _Kw(a/)(3)_ (gwaa3); here corrected to _Kw(')(a/)(3)_ (kwaa3)]]
+    ==
+    - The thighs, space between the legs, the crotch;
+    - _~~kw(a/)(3)~~ ``kw(')(a/)(3)`` (5)m(a/)_
+        [[kwaa3 maa5]],
+        to bestride a horse;
+    - _~~kw(a/)(3)~~ ``kw(')(a/)(3)`` yuk(9)_
+        [[kwaa3 juk6]]
+        to shame one by making him go between one's legs;
+    - _~~kw(a/)(3)~~ ``kw(')(a/)(3)`` (1)f(u/)_
+        [[kwaa3 fu1]],
+        one forced to submit.
+    ==
+    --
+    The second character [[袴]] also means trowsers.
+    --
+  ====
+$$
+##>
