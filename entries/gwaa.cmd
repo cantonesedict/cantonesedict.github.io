@@ -196,3 +196,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~201 #3: {𦊱=⿱𠔿圭}(3); here normalised to 罣]]
+    ==
+    - An impediment, a hindrance;
+    - to hinder, to obstruct;
+    - to fall into a snare;
+    - _kw(a/)(3) ngoi(6)_
+        [[gwaa3 ngoi6]]
+        an obstruction.
+    ==
+  ====
+$$
+##>
