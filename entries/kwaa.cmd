@@ -26,6 +26,34 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~201 #7: 跨(3) _Kw(a/)(3)_ (gwaa3); here corrected to _(1)Kw(')(a/)_ (kwaa1)]]
+    ==
+    - Interchanged with the last [[胯]];
+    - to pass over, to straddle, to bestride;
+    - to surpass, to excel;
+    - to border on a country;
+    - the crotch;
+    - _~~kw(a/)(3)~~ ``(1)kw(')(a/)`` ts(o\)(3)_
+        [[kwaa1 zou3]]
+        a son who excels his father;
+    - _~~kw(a/)(3)~~ ``(1)kw(')(a/)`` (u:)t(9)_
+        [[kwaa1 jyut6]]
+        to excel;
+    - _pat(7) ~~kw(a/)(3)~~ ``(1)kw(')(a/)`` (4)k(')(i/) kwok(8)_
+        [[bat1 kwaa1 kei4 gwok3]]
+        not incroach on his territory;
+    - _~~kw(a/)(3)~~ ``(1)kw(')(a/)`` (1)hoi t(u/)i(3) (2)shau_
+        [[kwaa1 hoi1 deoi3 sau2]],
+        to stretch or throw out the arms.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~201 #2: 褂(3) _Kw(a/)(3)_ (gwaa3); here normalised to _(2)Kw(')(a/)_ (kwaa2)]]
     ==
     - A jacket worn over the robe, having short and wide sleeves;
