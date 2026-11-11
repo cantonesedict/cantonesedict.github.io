@@ -213,3 +213,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~201 #4: 詿(3)]]
+    ==
+    - To deceive, to cozen, to impose on;
+    - to disturb;
+    - _kw(a/)(3) 'ng(6)_
+        [[gwaa3 ng6]]
+        to mislead;
+    - _kw(a/)(3) l(u:)n(6) (1)t(')(i/)n h(a/)(6)_
+        [[gwaa3 lyun6 tin1 haa6]]
+        to distract the empire.
+    ==
+  ====
+$$
+##>
