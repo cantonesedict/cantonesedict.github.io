@@ -74,3 +74,43 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~200 #8: (2)寡]]
+    ==
+    - To distribute to several;
+    - few, little;
+    - seldom, unusual, rarely;
+    - alone;
+    - deficient, what is short;
+    - a widow;
+    - the regal We;
+    - _(1)k(u/) (2)kw(a/)_
+        [[gu1 gwaa2]],
+        orphans and widows, left alone desolate;
+    - _(1)to (2)kw(a/)_
+        [[do1 gwaa2]],
+        much or few, how many?
+    - _(2)kw(a/) (5)f(u/)_ [[gwaa2 fu5]]
+        or
+      _(2)kw(a/) (5)m(o\) (4)p(')o_ [[gwaa2 mou5 po4]],
+        a widow;
+    - _(2)kw(a/) (4)yan_
+        [[gwaa2 jan4]],
+        Ourself, I, the king;
+    - _(2)kw(a/) ~~(5)l(o\)~~ ``(2)l(o\)``_
+        [[gwaa2 lou2]],
+        a widower, an old bachelor;
+    - _(2)kw(a/) pat(7) tik(9) chung(3)_
+        [[gwaa2 bat1 dik6 zung3]]
+        alone I can't stand them all;
+    - _(2)kw(a/) (4)man_
+        [[gwaa2 man4]],
+        little experience.
+    ==
+  ====
+$$
+##>
