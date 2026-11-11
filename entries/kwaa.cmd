@@ -21,3 +21,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~201 #2: 褂(3) _Kw(a/)(3)_ (gwaa3); here normalised to _(2)Kw(')(a/)_ (kwaa2)]]
+    ==
+    - A jacket worn over the robe, having short and wide sleeves;
+    - _(5)m(a/) ~~kw(a/)(3)~~ ``(2)kw(')(a/)``_
+        [[maa5 kwaa2]]
+        a riding-jacket, a sort of dress overcoat or sack;
+    - _t(a/)i(6) ~~kw(a/)(3)~~ ``(2)kw(')(a/)``_
+        [[daai6 kwaa2]]
+        a pelisse worn by ladies, a short robe;
+    - _(4)p(')(o\) ~~kw(a/)(3)~~ ``(2)kw(')(a/)``_
+        [[pou4 kwaa2]]
+        ceremonial dress, robes;
+    - _(1)kwan (1)k(i/) ~~kw(a/)(3)~~ ``(2)kw(')(a/)``_
+        [[gwan1 gei1 kwaa2]]
+        a sort of vest, with very short sleeves.
+    ==
+  ====
+$$
+##>
