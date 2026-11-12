@@ -279,6 +279,38 @@ $$
 $$
 W
   ====
+  - [[Page~203 #7: (2)詭]]
+    ==
+    - To deceive, to cheat, to defraud;
+    - to blame, to reprimand;
+    - to oppose what is good;
+    - to vilify, to insult, to defame;
+    - bad, malicious, perverse;
+    - odd, strange;
+    - _(2)kwai kwat(7)_
+        [[gwai2 gwat1]]
+        crafty, fraudulent;
+    - _(2)kwai ch(a/)(3)_
+        [[gwai2 zaa3]]
+        lying;
+    - _(4)m(o\) (4)ts(')ung (2)kwai (4)ts(')ui_
+        [[mou4 cung4 gwai2 ceoi4]],
+        do not follow cunning tales_;_
+    - _(2)kwai (i/)(6)_
+        [[gwai2 ji6]]
+        extravagancies, wonderful things, incredible;
+    - _(2)kwai (5)m(a/) k(e/)uk(8) ~~shik(9)~~ ``shik(7)``_
+        [[gwai2 maa5 goek3 sik1]]
+        a bad fellow.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~203 #4: (2)宄(2)軌]]
     ==
     - An axle;
