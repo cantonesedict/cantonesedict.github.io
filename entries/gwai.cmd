@@ -26,6 +26,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~202 #4: (1)刲]]
+    ==
+    - To butcher;
+    - to eviscerate, to cut open;
+    - to stab, to stick a knife into.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~202 #1: (1)歸(1)㱕]]
     ==
     - To return to the same place or state;
