@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-11-05
+* %date-modified --> 2026-11-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -217,7 +217,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing/blurred strokes in 體.
+  - Fan Wan entry: Fixed missing/blurred strokes in 體.
   - Williams' 雷公魚: Corrected _(4)lui_ to _(4)l(u/)i_.
   ==
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -582,7 +582,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing strokes in 驅.
+  - Fan Wan entry: Fixed missing strokes in 驅.
   ==
 L
   ====
