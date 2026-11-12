@@ -95,3 +95,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~202 #2: (1)皈]]
+    ==
+    - To conform to, to receive instruction, to comply with;
+    - _(1)kwai (1)(i/), fuk(9) f(a/)t(8)_
+        [[gwai1 ji1, fuk6 faat3]]
+        to hearken and conform to instructions---as disciples do.
+    ==
+  ====
+$$
+##>
