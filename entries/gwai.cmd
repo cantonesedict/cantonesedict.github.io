@@ -214,6 +214,30 @@ $$
 $$
 W
   ====
+  - [[Page~203 #3: (2)簋]]
+    ==
+    - A dish for holding grain at sacrifices,
+      once made round within and square without;
+    - a dish or platter;
+    - _(2)kau t(a/)i(6) (2)kwai_
+        [[gau2 daai6 gwai2]],
+        nine platters---a set out;
+    - _(2)kwai (2)(u/)n_
+        [[gwai2 wun2]],
+        large dishes or basins;
+    - _muk(9) (2)kwai_
+        [[muk6 gwai2]],
+        wooden open dishes,
+        used for holding the grain in the equinoctial worship of Confucius.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~203 #2: (2)鬼]]
     ==
     - A spirit of a dead person, a manes,
