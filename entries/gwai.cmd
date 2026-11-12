@@ -143,3 +143,31 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~202 #6: (1)閨]]
+    ==
+    - The door separating the private from the public part of a house;
+    - the apartments of the women;
+    - unmarried females, who have not yet left the hareem;
+    - women;
+    - female, lady like, feminine;
+    - _(1)kwai (5)n(u:)_
+        [[gwai1 neoi5]],
+        a virgin, a young lady;
+    - _(1)sham (1)kwai_
+        [[sam1 gwai1]],
+        the inner apartments;
+    - _(1)kwai (4)m(u/)n_
+        [[gwai1 mun4]],
+        to stay at home, of a retiring disposition---said of maids;
+    - _(1)kam (1)kwai tsik(9)_
+        [[gam1 gwai1 zik6]]
+        a rollster.
+    ==
+  ====
+$$
+##>
