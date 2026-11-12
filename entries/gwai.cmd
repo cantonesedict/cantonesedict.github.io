@@ -235,6 +235,26 @@ $$
 $$
 W
   ====
+  - [[Page~203 #6: (2){？=⿰土⿸厃巳}; here corrected to 垝]]
+    ==
+    - A ruinous wall, one ready to fall;
+    - ruinous, dilapidated;
+    - to destroy, to demolish.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 垝 as ⿰土⿸厃巳; here corrected.
+    (Despite this, a residual stroke count of 6 is given against the character
+    on Page~750 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~203 #3: (2)簋]]
     ==
     - A dish for holding grain at sacrifices,
