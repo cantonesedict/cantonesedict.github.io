@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fui
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -43,6 +43,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $奎1
 - $恢1
 - $悝1
 - $灰1
@@ -52,6 +53,54 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 奎1 | _(1)F(u/)i_ [[fui1]]
+
+$$
+R
+  ⼤ + 6
+U
+  U+594E
+A
+  ==
+  - 㚝
+  ==
+V
+  ==
+  - gwai1 (per Fan Wan)
+  - kwai1 (alternative)
+  ==
+F
+  ==
+  - (F1.27 ::[奎]::) ::宿[名]::
+  ==
+W
+  ====
+  - [[Page~202 #5: (1)奎 _(1)Kwai_ (gwai1); here normalised to _(1)F(u/)i_ (fui1)]]
+    ==
+    - The stride of a man [[Kangxi: ::兩[髀]之閒::]];
+    - the 15th of the 28~constellations [[Kangxi: 星名二十八宿之一 etc.]],
+      answering to parts of Andromeda and Pisces,
+      and auspicious to students.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed extra stroke in headword and fixed missing dot in 名.
+  - Williams' "The stride of a man": Better rendered "The space between the thighs".
+  ==
+L
+  ====
+  * 【奎】 (khwej)
+    ==
+    - (_noun-like_) thigh-gap
+    ==
+  ====
+S
+  ==
+  - ($奎kwai1) (TODO)
+  ==
+$$
 
 ### 恢1 | _(1)F(u/)i_ [[fui1]]
 

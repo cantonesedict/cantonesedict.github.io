@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Trace of Williams entries
-* %date-modified --> 2026-11-01
+* %date-modified --> 2026-11-12
 * %copyright-prior-years -->
 * %meta-description --> trace of Williams (1856) entries
 
@@ -11077,6 +11077,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       <nav class="sideways">
       ==
       - ${𢳉=⿱絇手}koe1
+      ==
+      </nav>
+  //
+    ,{r=1} Page~202
+    ,{#page-202-entry-5} #5
+    ,{.williams} (1)奎
+    ,
+      <nav class="sideways">
+      ==
+      - $奎fui1
       ==
       </nav>
   //
