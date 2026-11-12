@@ -214,6 +214,27 @@ $$
 $$
 W
   ====
+  - [[Page~203 #5: (2){？=⿷匚⿰車丸}; here corrected to 匭]]
+    ==
+    - A box;
+    - a casket for papers;
+    - to put in a box;
+    - to bind with cords.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 匭 as ⿷匚⿰車丸; here corrected.
+    (Despite this, a residual stroke count of 9 is given against the character
+    on Page~745 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~203 #3: (2)簋]]
     ==
     - A dish for holding grain at sacrifices,
