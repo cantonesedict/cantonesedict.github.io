@@ -255,6 +255,28 @@ $$
 $$
 W
   ====
+  - [[Page~203 #8: (2)晷]]
+    ==
+    - A gnomon, a dial;
+    - daytime, the day;
+    - _yat(9) (2)kwai_
+        [[jat6 gwai2]],
+        a sundial;
+    - _mat(7) (5)y(e/) (2)kwai ~~h(a/)k(9)~~ ``hak(7)``_
+        [[mat1 je5 gwai2 hak1]]
+        what is the mark on the dial?
+    - _(4)fan (1)k(o\) kai(3) (2)kwai_
+        [[fan4 gou1 gai3 gwai2]],
+        to prolong the day by burning candles.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~203 #3: (2)簋]]
     ==
     - A dish for holding grain at sacrifices,
