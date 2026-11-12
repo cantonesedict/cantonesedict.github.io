@@ -171,3 +171,41 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~202 #7: (1)龜(1){𬺞=⿱⺈黾}]]
+    ==
+    - The tortoise, the chief of mailed beings;
+    - the 213th~radical [[U+2FD4 ⿔ "turtle"]]
+      of characters pertaining to the cheloniæ;
+    - _(1)kam (1)kwai_
+        [[gam1 gwai1]],
+        a small species of Emys,
+        whose carapace, divided into 28~plates on the edges,
+        is used in divination;
+    - _(1)kwai hok(8)_
+        [[gwai1 hok3]]
+        a tortoise's shell;
+    - _(1)kwai (1)kung_
+        [[gwai1 gung1]],
+        a cuckold;
+    - _(1)kwai (2)ch(a/)u_
+        [[gwai1 zaau2]],
+        a pimp;
+    - _(1)kwai t(a/)n(6)_ [[gwai1 daan6-2]]
+        or
+      _(1)kwai ~~(5)^tsai~~ ``(2)tsai``_ [[gwai1 zai2]],
+        a bastard;
+    - _(1)kwai p(u/)i(3)_
+        [[gwai1 bui3]]
+        arched over, like a tortoise's back;
+    - _t(a/)i(6) ~~ngong(3)~~ ``ngong(6)`` (1)kwai_
+        [[daai6 ngong6 gwai1]],
+        you stupid dolt.
+    ==
+  ====
+$$
+##>
