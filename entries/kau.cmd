@@ -147,6 +147,14 @@ W
     --
     This character is often read _(1)kwai_ [[gwai1]].
     --
+  - [[Page~203 #1: (1)鬮 _(1)Kwai_ (gwai1); here normalised to _(1)K(')au_ (kau1)]]
+    ==
+    - Lots made of paper or wood;
+    - to choose by lot;
+    - _(1)n(i/)m ~~(1)kwai~~ ``(1)k(')au``_
+        [[nim1 kau1]],
+        to draw lots.
+    ==
   ====
 $$
 ##>
