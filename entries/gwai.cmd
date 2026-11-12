@@ -100,6 +100,25 @@ $$
 $$
 W
   ====
+  - [[Page~202 #3: (1)圭(1)珪]]
+    ==
+    - A sceptre or baton made of stone,
+      given to noblemen and princes as a sign of rank,
+      and used at levees;
+    - a measure equal to a pinch or six grains of millet;
+    - some say, 64~grains, or what can be taken up in three fingers;
+    - _chap(7) (1)kwai_
+        [[zap1 gwai1]],
+        to hold the baton.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~202 #2: (1)皈]]
     ==
     - To conform to, to receive instruction, to comply with;
