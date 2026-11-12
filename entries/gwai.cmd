@@ -209,3 +209,83 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~203 #2: (2)鬼]]
+    ==
+    - A spirit of a dead person, a manes,
+      that which the soul reverts or turns to at death;
+    - the 194th~radical [[U+2FC1 ⿁ "ghost"]] of characters of demons, phantasms, &c.;
+    - a ghost, an apparition, a spectre;
+    - a demon, a devil;
+    - a horrid looking object;
+    - a miserable person, a wretch;
+    - the Cantonese stigmatize foreigners as _~~(1)kwai~~ ``(2)kwai``_ [[gwai2]],
+      and say their shrill voices resemble the plaintive cry of spirits;
+    - _(5)n(i/) k(i/)n(3) (2)kwai (1)m(e/)_
+        [[nei5 gin3 gwai2 me1]],
+        have you seen a ghost---what are you scared at?
+    - _(2)kwai (4)t(')au (2)kwai (5)n(o\)_
+        [[gwai2 tau4 gwai2 nou5]],
+        to peep, to hide and seek;
+    - _(2)kwai (2)sh(u:)_
+        [[gwai2 syu2]],
+        a suspicious, dishonest, person;
+    - _(2)kwai (2)shai (5)n(i/) (1)m(e/)_
+        [[gwai2 sai2 nei5 me1]],
+        did a sprite get you to do this?
+    - _chong(6) (2)kwai_
+        [[zong6-2 gwai2]],
+        to meet a foreigner;
+    - _(2)kwai (4)t(')au (1)fung_
+        [[gwai2 tau4 fung1]],
+        a whirlwind;
+    - _t(')ai(3) (2)sz' (2)kwai_
+        [[tai3 sei2 gwai2]],
+        a wretch taken instead of the real criminal;
+    - _ts(o\)(6) w(a/)i(6) (2)kwai (4)t(')au_
+        [[zou6 waai6 gwai2 tau4]],
+        done altogether wrong;
+    - _(2)kwai (4)mai (5)n(i/)_
+        [[gwai2 mai4 nei5]],
+        are you possessed!
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (2)kwai k(o\)m(3) (2)f(a/)n_
+        [[saang1 gwai2 gam3 faan2]],
+        frisky as an elf;
+    - _(2)kwai (2)t(a/) (2)kwai_
+        [[gwai2 daa2 gwai2]],
+        a joint plan to swindle one;
+    - _(2)kwai suk(7)_
+        [[gwai2 suk1]]
+        the 23d of the 28~constellations, stars _γ_, _δ_, _η_, _θ_ in Cancer;
+    - _(2)kwai ~~(1)shan~~ ``(4)shan``_
+        [[gwai2 san4]],
+        the gods, spirits;
+    - _(2)shui (2)kwai_
+        [[seoi2 gwai2]],
+        ghost of a drowned man;
+    - _(1)(a/) p(')(i/)n(3) (2)kwai_
+        [[aa1 pin3 gwai2]],
+        a besotted opium-slave;
+    - _(1)(u:)n (2)kwai_
+        [[jyun1 gwai2]],
+        unavenged spirit of a murdered man;
+    - _(2)kwai (5)m(a/)_
+        [[gwai2 maa5]],
+        badly done, careless;
+    - _(4)m(u/)n (2)kwai_
+        [[mun4 gwai2]],
+        a catch in a bolt;
+    - _yap(9) (2)kwai (4)m(u/)n (1)kw(a/)n_
+        [[jap6 gwai2 mun4 gwaan1]],
+        entered the door of demons---dead;
+    - _sh(i/)p(8) (1)sing ``(2)``kwai ~~k(o\)m(3)~~ ``(2)k(o\)m`` y(e/)ung(6)_
+        [[sip3 sing1 gwai2 gam2 joeng6-2]]
+        he is like a ghost, afraid of the face of men.
+    ==
+  ====
+$$
+##>
