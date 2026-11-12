@@ -238,6 +238,30 @@ $$
 $$
 W
   ====
+  - [[Page~203 #4: (2)宄(2)軌]]
+    ==
+    - An axle;
+    - a rut;
+    - a trace, a vestige;
+    - an orbit, a path;
+    - a law, a rule;
+    - treasonable plans against a country; <# TODO: separate $宄gwai2 #>
+    - to imitate;
+    - _pat(7) (2)kwai_
+        [[bat1 gwai2]],
+        unconformable;
+    - _(2)kwai t(o\)(6)_
+        [[gwai2 dou6]]
+        to follow in the path, a constant path.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~203 #2: (2)鬼]]
     ==
     - A spirit of a dead person, a manes,
