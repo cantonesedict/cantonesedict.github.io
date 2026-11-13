@@ -230,3 +230,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~206 #3: (4)馗]]
+    ==
+    - The jaw-bones, the sides of the face;
+    - a place where nine or many roads meet, a thoroughfare;
+    - name of a mushroom;
+    - _(1)chung (4)kw(')ai_
+        [[zung1 kwai4]],
+        a man of the T(')(a/)ng [[唐]] dynasty,
+        now deified as a protector against devils,
+        and drawn clutching a sword, and standing on one foot.
+    ==
+  ====
+$$
+##>
