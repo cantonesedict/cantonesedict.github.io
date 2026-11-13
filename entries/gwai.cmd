@@ -609,6 +609,42 @@ $$
 $$
 W
   ====
+  - [[Page~204 #10: 匱(6)櫃(6)]]
+    ==
+    - A case with doors, a press, a chest, a locker;
+    - exhausted, wearied out;
+    - to fail in;
+    - _(1)sh(u:) kwai(6)_
+        [[syu1 gwai6]]
+        a book-case;
+    - _kwai(6) (4)wai_
+        [[gwai6 wai4]],
+        a counter;
+    - _kwai(6) (2)t(')ung_
+        [[gwai6 tung2]],
+        a drawer;
+    - _(1)(i/) fuk(9) kwai(6)_
+        [[ji1 fuk6 gwai6]]
+        a wardrobe, a bureau;
+    - _(a/)t(8) kwai(6)_
+        [[aat3 gwai6]]
+        a sum put in deposit for rent;
+    - _(5)k(')(i/) kwai(6)_ [[kei5 gwai6]]
+        or
+      _(2)ch(e/)ung kwai(6)_ [[zoeng2 gwai6]]
+        a clerk in a shop;
+    - _(1)kam (4)t(')ang kwai(6)_
+        [[gam1 tang4 gwai6]]
+        state records, archives of state.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #9: 蕢(6)]]
     ==
     - A basket or hamper of straw or bamboo for carrying;
