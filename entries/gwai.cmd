@@ -522,6 +522,25 @@ $$
 $$
 W
   ====
+  - [[Page~204 #5: 癸(3)]]
+    ==
+    - The last of the ten stems,
+      which with _(4)yam_ [[jam4]], belong to water;
+    - the character is supposed to represent water flowing to a center;
+    - to consider, to calculate;
+    - _(1)t(')(i/)n kwai(3)_
+        [[tin1 gwai3]]
+        the menses;
+        puberty.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #1: 貴(3)]]
     ==
     - Honorable, noble, exalted, illustrious;
