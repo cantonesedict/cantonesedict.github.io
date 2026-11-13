@@ -26,6 +26,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~205 #6: (1)盔]]
+    ==
+    - A helmet, a casque or defense for the head;
+    - a block on which caps are ironed and fashioned;
+    - a basin or porringer;
+    - _(4)t(')au (1)kw(')ai_
+        [[tau4 kwai1]],
+        a casque made of iron plates, worn by military officers;
+    - _(1)kw(')ai k(a/)p(8)_
+        [[kwai1 gaap3]]
+        armor.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~205 #4: (1)窺]]
     ==
     - To peep at, to look furtively at, as through a crevice;
