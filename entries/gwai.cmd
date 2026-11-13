@@ -522,6 +522,24 @@ $$
 $$
 W
   ====
+  - [[Page~204 #6: 瑰(3)]]
+    ==
+    - A perfect pearl, which is lustrous by night,
+      called _(4)m(u/)i kwai(3)_ [[mui4 gwai3]]_;_
+    - hence _(4)m(u/)i kwai(3) (1)f(a/)_ [[mui4 gwai3 faa1]], the red rose;
+    - rare, precious, excellent, admirable;
+    - _(4)k(')ing kwai(3)_
+        [[king4 gwai3]]
+        a kind of jasper.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #5: 癸(3)]]
     ==
     - The last of the ten stems,
