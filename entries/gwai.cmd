@@ -659,6 +659,32 @@ $$
 $$
 W
   ====
+  - [[Page~205 #1: 跪(6)]]
+    ==
+    - To kneel, to bend the knee to the ground;
+    - the legs;
+    - a crab's leg;
+    - _kwai(6) h(a/)(6)_
+        [[gwai6 haa6]]
+        to kneel down;
+    - _p(a/)i(3) kwai(6)_
+        [[baai3 gwai6]]
+        to bow and kneel to;
+    - _kwai(6) l(i/)n(6)_
+        [[gwai6 lin6]]
+        to kneel on chains---a mode of torture;
+    - _kwai(6) sat(7)_
+        [[gwai6 sat1]]
+        knee-pads.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #8: 餽(6)]]
     ==
     - To present to, to give, to offer;
