@@ -300,3 +300,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~206 #7: 愧(3)媿(3) _Kw(')ai(3)_ (kwai3); here normalised to _(5)Kw(')ai_ (kwai5)]]
+    ==
+    - Ashamed, abashed, disconcerted;
+    - shamefaced, bashful;
+    - to feel shame when detected;
+    - conscience-stricken, remorse;
+    - _(1)sau ~~kw(')ai(3)~~ ``(5)kw(')ai``_
+        [[sau1 kwai5]]
+        ashamed;
+    - _~~kw(')ai(3)~~ ``(5)kw(')ai`` (5)ngo (4)m(o\) (4)ts(')oi_
+        [[kwai5 ngo5 mou4 coi4]],
+        I feel shame for my stupidity;
+    - _~~kw(')ai(3)~~ ``(5)kw(')ai`` f(u/)i(3)_
+        [[kwai5 fui3]]
+        contrite.
+    ==
+  ====
+$$
+##>
