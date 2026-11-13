@@ -144,6 +144,34 @@ $$
 $$
 W
   ====
+  - [[Page~205 #8: (4)携(4)攜]]
+    ==
+    - To lead by the hand, as a child or blind man;
+    - to go with, to take along, to join, to lock arms;
+    - to carry;
+    - to take up from the ground;
+    - to leave;
+    - _(4)t(')ai (4)kw(')ai_
+        [[tai4 kwai4]],
+        to lead by the hand, to carry, to recommend one;
+    - _(4)kw(')ai t(a/)i(3)_
+        [[kwai4 daai3]]
+        to take along, to sustain from falling;
+    - _(4)kw(')ai (2)shau_
+        [[kwai4 sau2]],
+        to take by the hand, to take an arm;
+    - _(4)kw(')ai (4)l(a/)m_
+        [[kwai4 laam4-2]],
+        to carry a basket on the arm.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~205 #7: (4)葵]]
     ==
     - A term for malvaceous plants
