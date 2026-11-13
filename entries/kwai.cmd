@@ -139,3 +139,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~205 #7: (4)葵]]
+    ==
+    - A term for malvaceous plants
+      resembling the Malva, Geranium, Althea, Hibiscus, &c.
+    - _(4)kw(')ai (1)f(a/)_
+        [[kwai4 faa1]],
+        the _Althea rosea;_
+    - _(4)wong shuk(9) (4)kw(')ai_
+        [[wong4 suk6 kwai4]],
+        the _Hibiscus manihot;_
+    - _h(e/)ung(3) yat(9) (4)kw(')ai_
+        [[hoeng3 jat6 kwai4]],
+        the sunflower;
+    - _(4)kw(')ai sh(i/)n(3)_
+        [[kwai4 sin3]]
+        leaf fans, made from the leaves of the _Raphis flabelliformis;_
+    - _(4)kw(')ai (4)p(')ung_
+        [[kwai4 pung4]],
+        awnings or thatch made of leaves;
+    - _(4)kw(')ai ts(')oi(3)_
+        [[kwai4 coi3]]
+        an esculent mallows.
+    ==
+  ====
+$$
+##>
