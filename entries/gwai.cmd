@@ -609,6 +609,20 @@ $$
 $$
 W
   ====
+  - [[Page~204 #9: 蕢(6)]]
+    ==
+    - A basket or hamper of straw or bamboo for carrying;
+    - a vegetable like the blite or strawberry-spinach, having a red stem;
+    - name of a hill.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #8: 餽(6)]]
     ==
     - To present to, to give, to offer;
