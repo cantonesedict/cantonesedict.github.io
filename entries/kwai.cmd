@@ -158,6 +158,27 @@ $$
 $$
 W
   ====
+  - [[Page~206 #5: (5)揆 _(5)Kw(')ai_ (kwai5); here normalised to _(4)Kw(')ai_ (kwai4)]]
+    ==
+    - To consider;
+    - to calculate, to guess;
+    - to surmise the meaning, to weigh in the mind;
+    - to examine;
+    - _~~(5)kw(')ai~~ ``(4)kw(')ai`` tok(9)_
+        [[kwai4 dok6]]
+        to estimate, to reason upon;
+    - _p(a/)k(8) ~~(5)kw(')ai~~ ``(4)kw(')ai``_
+        [[baak3 kwai4]],
+        a superintendent.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~205 #8: (4)携(4)攜]]
     ==
     - To lead by the hand, as a child or blind man;
