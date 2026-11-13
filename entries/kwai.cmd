@@ -198,3 +198,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~206 #1: (4)觿]]
+    ==
+    - An ivory stiletto or horn bodkin, for opening knots,
+      anciently worn on the girdle;
+    - a kind of tortoise;
+    - the name of a star.
+    ==
+  ====
+$$
+##>
