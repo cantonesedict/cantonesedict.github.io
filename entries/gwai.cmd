@@ -609,6 +609,23 @@ $$
 $$
 W
   ====
+  - [[Page~205 #2: 蹶(3)]]
+    ==
+    - Quick, active, diligent;
+    - to play with the feet;
+    - _~~kwai(6) kwai(6)~~ ``kwai(3) kwai(3)`` (4)ts(')ung sz'(6)_
+        [[gwai3 gwai3 cung4 si6]]]
+        to stir up one to attend to business, diligent.
+    ==
+  ====
+  <# TODO: Williams flukes $gwai3 with a typo #>
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #10: 匱(6)櫃(6)]]
     ==
     - A case with doors, a press, a chest, a locker;
