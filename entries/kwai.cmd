@@ -144,6 +144,20 @@ $$
 $$
 W
   ====
+  - [[Page~206 #4: (4)夔]]
+    ==
+    - A one-legged monster, dragon, ox``,`` and man combined;
+    - a statesman in the days of Shun [[舜]];
+    - a certain plant.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~205 #8: (4)携(4)攜]]
     ==
     - To lead by the hand, as a child or blind man;
