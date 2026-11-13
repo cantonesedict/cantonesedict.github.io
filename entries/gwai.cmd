@@ -437,6 +437,43 @@ $$
 $$
 W
   ====
+  - [[Page~204 #2: 季(3)]]
+    ==
+    - Little, tender, junior, whatever is young and immature;
+    - the least or last of a series;
+    - a season, a quarter of the year;
+    - half of the year, when speaking of crops or paying rent;
+    - _~~mang(3)~~ ``m(a/)ng(6)``_ [[maang6]],
+      _chung(6)_ [[zung6]],
+      _kwai(3)_ [[gwai3]],
+        a series of three;
+    - _sz'(3) kwai(3)_
+        [[sei3 gwai3]]
+        the four seasons;
+    - _(1)ch(')un kwai(3)_
+        [[ceon1 gwai3]]
+        spring;
+    - _(1)ch(')un kwai(3) (u:)t(9)_
+        [[ceon1 gwai3 jyut6]]
+        the third month of spring;
+    - _kwai(3) (2)tsz'_
+        [[gwai3 zi2]]
+        the youngest child;
+    - _kwai(3) shai(3)_
+        [[gwai3 sai3]]
+        the last generation or dynasty;
+    - _(5)m(a/)n kwai(3)_
+        [[maan5 gwai3]]
+        the late or second crop.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #1: 貴(3)]]
     ==
     - Honorable, noble, exalted, illustrious;
