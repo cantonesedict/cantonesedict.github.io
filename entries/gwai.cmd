@@ -474,6 +474,20 @@ $$
 $$
 W
   ====
+  - [[Page~204 #3: 悸(3)]]
+    ==
+    - To perturb;
+    - agitation of mind;
+    - the end or fringe of a belt or girdle.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #1: 貴(3)]]
     ==
     - Honorable, noble, exalted, illustrious;
