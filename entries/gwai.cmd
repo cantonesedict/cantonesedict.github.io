@@ -488,6 +488,40 @@ $$
 $$
 W
   ====
+  - [[Page~204 #4: 桂(3)]]
+    ==
+    - Cassia tree _(Laurus cassia _and_ cinnamomea);_
+    - _met._ literary reputation and honor;
+    - _kwai(3) (4)p(')(i/)_
+        [[gwai3 pei4]],
+        cassia bark;
+    - _kwai(3) (4)p(')(i/) (4)yau_
+        [[gwai3 pei4 jau4]],
+        cassia oil;
+    - _kwai(3) (2)tsz'_
+        [[gwai3 zi2]]
+        cassia buds;
+    - _(2)shau (1)p(')(a/)n (1)t(a/)n kwai(3)_
+        [[sau2 paan1 daan1 gwai3]]
+        to pick a cassia twig,---to become a k(u:)jin [[舉人]];
+    - _kwai(3) (1)f(a/)_
+        [[gwai3 faa1]],
+        the _Olea fragrans;_
+    - _kwai(3) (1)f(a/) p(o\)(3)_
+        [[gwai3 faa1 bou3]]
+        figured calicoes;
+    - _(u:)t(9) kwai(3)_
+        [[jyut6 gwai3]]
+        the monthly rose _(Rosa semperflorens)_.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #1: 貴(3)]]
     ==
     - Honorable, noble, exalted, illustrious;
