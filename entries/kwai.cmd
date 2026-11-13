@@ -207,6 +207,22 @@ $$
 $$
 W
   ====
+  - [[Page~206 #6: (5)暌 _(5)Kw(')ai_ (kwai5); here normalised to _(4)Kw(')ai_ (kwai4)]]
+    ==
+    - The sun and moon in apposition;
+    - distant from, absent from, separated;
+    - _~~(5)kw(')ai~~ ``(4)kw(')ai`` (4)wai yat(9) (2)kau_
+        [[kwai4 wai4 jat6 gau2]],
+        [we have been] a long time sundered.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~206 #2: (4)畦]]
     ==
     - A field containing 50~_(5)mau_ [[mau5]], or about 8~English acres;
