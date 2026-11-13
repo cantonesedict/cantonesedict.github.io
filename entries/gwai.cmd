@@ -604,3 +604,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~204 #7: 饋(6)]]
+    ==
+    - Food, victuals, viands;
+    - presents of food;
+    - to prepare food;
+    - to attend to the kitchen, to present food to one;
+    - _kwai(6) (4)yan_
+        [[gwai6 jan4]],
+        a king^'s baker.
+    ==
+  ====
+$$
+##>
