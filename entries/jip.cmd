@@ -80,7 +80,7 @@ W
   - [[Page~114 孽(9) _(I/)t(9)_ (jit6); here normalised to _(I/)p(9)_ (jip6)]]
     ==
     - The son of a concubine;
-    - an illegitimate child, the '_son_ of _guilt_,'
+    - an illegitimate child, the '_son _of_ guilt_,'
       as the composition of the character shows;
     - _met._ the consequences or reward of crime;
     - sorrow;

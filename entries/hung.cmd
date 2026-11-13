@@ -454,7 +454,7 @@ W
   ====
   - [[Page~100 (4)鴻]]
     ==
-    - A swan, or wild goose _(sc._ a _river_ or marsh _bird);_
+    - A swan, or wild goose _(sc. _a_ river _or marsh_ bird);_
     - large, vast;
     - profound, learned;
     - a letter-carrier, a postman;

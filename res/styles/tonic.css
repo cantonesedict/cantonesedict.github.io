@@ -175,6 +175,11 @@ html {
 }
 
 
+i > i {
+  font-style: normal;
+}
+
+
 input {
   font-size: 1em;
   max-width: 90%;
