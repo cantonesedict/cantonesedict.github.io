@@ -172,6 +172,23 @@ $$
 $$
 W
   ====
+  - [[Page~206 #2: (4)畦]]
+    ==
+    - A field containing 50~_(5)mau_ [[mau5]], or about 8~English acres;
+    - a plat of ground;
+    - a low wall around a field;
+    - _(4)kw(')ai ts(')oi(3)_
+        [[kwai4 coi3]]
+        a kitchen-garden.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~205 #7: (4)葵]]
     ==
     - A term for malvaceous plants
