@@ -26,6 +26,34 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~205 #4: (1)窺]]
+    ==
+    - To peep at, to look furtively at, as through a crevice;
+    - to spy;
+    - to look on slily;
+    - to observe for one's own use;
+    - the length of a step;
+    - _(1)kw(')ai t(')(a/)m(3)_
+        [[kwai1 taam3]]
+        to spy, to go about looking into;
+    - _(1)kw(')ai sh(i/)(6)_
+        [[kwai1 si6]]
+        to make secret inspection of;
+    - _(1)kw(')ai sz'(6)_
+        [[kwai1 si6]]
+        to wait for one, to see what is going on;
+    - _(1)k(u/)n (1)kw(')ai_
+        [[gun1 kwai1]],
+        "a tube-view," a partial examination of, a bird's-eye view.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~205 #3: (1)規]]
     ==
     - A pair of compasses;
