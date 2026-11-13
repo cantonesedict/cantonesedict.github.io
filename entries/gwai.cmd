@@ -432,3 +432,53 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~204 #1: 貴(3)]]
+    ==
+    - Honorable, noble, exalted, illustrious;
+    - dignified, worthy, good;
+    - your, thine, in direct address;
+    - dear, high-priced;
+    - precious, valuable;
+    - to esteem, to honor, to desire, to make much of;
+    - _kwai(3) sing(3)_
+        [[gwai3 sing3]]
+        your name;
+    - _kwai(3) tak(7) tsai(6)_
+        [[gwai3 dak1 zai6]]
+        very dear;
+    - _(1)tsun kwai(3) (5)yau tak(7)_
+        [[zeon1 gwai3 jau5 dak1]]
+        to honor the virtuous;
+    - _kwai(3) s(e/)ung(3)_
+        [[gwai3 soeng3]]
+        a noble, ingenuous countenance;
+    - _(5)yau mat(7) kwai(3) kon(3)_
+        [[jau5 mat1 gwai3 gon3]]
+        what is your business?
+    - _(4)t(')ai (1)k(o\) kwai(3) (2)shau_
+        [[tai4 gou1 gwai3 sau2]],
+        please lift up (or off) your hand, please let me off;
+    - _(1)king kwai(3)_
+        [[ging1 gwai3]]
+        rare, precious;
+    - _kwai(3) sai(3)_
+        [[gwai3 sai3]]
+        delicate, elegant, as manners;
+    - _kwai(3) h(i/)(3)_
+        [[gwai3 hei3]]
+        precious things---applied to darling children;
+    - _kwai(3) t(a/)i(6) (4)yan_
+        [[gwai3 daai6 jan4]],
+        your excellency;
+    - _kwai(3) chung(6) (5)y(e/)_
+        [[gwai3 zung6 je5]],
+        a rare article.
+    ==
+  ====
+$$
+##>
