@@ -474,6 +474,23 @@ $$
 $$
 W
   ====
+  - [[Page~720 #11: ::~~庋(8)~~``庋(3)``::]]
+    ==
+    - A pantry, a cupboard for keeping provisions in.
+    ==
+  ====
+C
+  ==
+  - Williams misprints the headword tone marker ^(3) as ^(8); here corrected.
+    (The correct tone marker ^(3) appears against 庋 on Page~759 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #3: 悸(3)]]
     ==
     - To perturb;
