@@ -99,3 +99,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~205 #5: (1)闚]]
+    ==
+    - To peep from under or behind a door, or through a crack;
+    - to observe;
+    - to glance at, or have a slight view of;
+    - _s(i/)t(8) (1)kw(')ai_
+        [[sit3 kwai1]],
+        to look at by stealth.
+    ==
+    --
+    Interchanged with the last [[窺]].
+    --
+  ====
+$$
+##>
