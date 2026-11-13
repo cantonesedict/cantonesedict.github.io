@@ -609,6 +609,22 @@ $$
 $$
 W
   ====
+  - [[Page~204 #8: 餽(6)]]
+    ==
+    - To present to, to give, to offer;
+    - gifts of food.
+    ==
+    --
+    Nearly the same as the last [[饋]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~204 #7: 饋(6)]]
     ==
     - Food, victuals, viands;
