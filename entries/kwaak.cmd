@@ -88,7 +88,7 @@ W
   ====
 C
   ==
-  - All examples correctly read _kw(')(a/)k(7)_ (kwaak1 or kwaak3^)
+  - All of Williams' examples correctly read _kw(')(a/)k(7)_ (kwaak1 or kwaak3^)
     despite the entry being erroneously placed under _kw(a/)k(8)_ (gwaak3).
   ==
 E
