@@ -21,3 +21,31 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~206 #8: (1)乖]]
+    ==
+    - Perverse, obstinate, to turn the back on;
+    - cross-purposes;
+    - to contradict;
+    - strange, extravagant;
+    - cunning, crafty;
+    - _(1)kw(a/)i (2)h(a/)u_
+        [[gwaai1 haau2]],
+        wily, ingenious;
+    - _mat(7) tak(7) k(o\)m(3) (1)kw(a/)i_
+        [[mat1 dak1 gam3 gwaai1]],
+        so well trained---said of children;
+    - _(1)tsing (1)kw(a/)i_
+        [[zing1 gwaai1]],
+        clever, ingenious at contriving;
+    - _(1)kw(a/)i p(')ik(7)_
+        [[gwaai1 pik1]]
+        malicious.
+    ==
+  ====
+$$
+##>
