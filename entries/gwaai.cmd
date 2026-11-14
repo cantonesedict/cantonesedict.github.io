@@ -128,3 +128,55 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~206 #13: 怪(3)]]
+    ==
+    - Strange, marvelous, extraordinary;
+    - bizarre, supernatural, portentous, monstrous;
+    - rare, wonderful, curious;
+    - to dislike, to bear a grudge against;
+    - to deem strange, surprised at;
+    - _(4)k(')(i/) kw(a/)i(3)_
+        [[kei4 gwaai3]]
+        strange, surprising;
+    - _kw(a/)i(3) mat(9)_
+        [[gwaai3 mat6]]
+        a monster, an apparition;
+    - _(4)'m (2)h(o\) k(i/)n(3) kw(a/)i(3)_
+        [[m4 hou2 gin3 gwaai3]]
+        don't be surprised, don't feel angry;
+    - _(2)f(a/)n kw(a/)i(3) (5)n(i/)_
+        [[faan2 gwaai3 nei5]],
+        he lays the blame on you wrongly;
+    - _kw(a/)i(3) ch(a/)k(8) (5)k(')(u:)_
+        [[gwaai3 zaak3 keoi5]],
+        reprimand him;
+    - _(4)n(a/)n kw(a/)i(3) (5)k(')(u:)_
+        [[naan4 gwaai3 keoi5]],
+        can not (or ought not to) blame him;
+    - _kw(a/)i(3) (1)tsoi_
+        [[gwaai3 zoi1]],
+        strange!
+    - _kw(a/)i(3) (4)'m tak(7)_
+        [[gwaai3 m4 dak1]]
+        not surprising;
+    - _(1)chi(u/) kw(a/)i(3)_
+        [[ziu1 gwaai3]]
+        to bring blame on one's self;
+    - _kw(a/)i(3) t(a/)n(3) (2)ch(i/) sz'(6)_
+        [[gwaai3 daan3 zi2 si6]]
+        marvelous, ghost-like;
+    - _(1)kwai kw(a/)i(3)_
+        [[gwai1 gwaai3]]
+        horrid, ugly;
+    - _(5)yau mat(7) kw(a/)i(3) (4)t(')au_
+        [[jau5 mat1 gwaai3 tau4]],
+        what wrong have I done?
+    ==
+  ====
+$$
+##>
