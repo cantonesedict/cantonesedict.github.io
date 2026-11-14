@@ -102,6 +102,22 @@ $$
 $$
 W
   ====
+  - [[Page~206 #12: (2)蒯]]
+    ==
+    - A rush or grass, used for making sandals, withes, or mats;
+    - _(2)kw(a/)i (5)l(i/)_
+        [[gwaai2 lei5]],
+        grass sandals, used by chief mourners;
+    - a surname.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~206 #9: (2)夬 _(2)Kw(a/)i_ (gwaai2); here normalised to _Kw(a/)i(3)_ (gwaai3)]]
     ==
     - Different, to pull or flow different ways;
