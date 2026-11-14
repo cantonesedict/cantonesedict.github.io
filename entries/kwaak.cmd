@@ -10,13 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Kw(')(a/)k. [[kwaak]]
-
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
+#{.williams} ``Kw(')(a/)k.`` [[kwaak]]
 
 <## tones ##>
 <nav class="sideways">
@@ -29,11 +23,11 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Kw(')(a/)k. [[Page~207 implied]]
+  - ``Kw(')(a/)k.`` [[Not present^]]
   ==
 WP
   ==
-  - Kw(')(a/)k <span class="modern">= *[kʷʰaːk̚]</span>
+  - ``Kw(')(a/)k`` <span class="modern">= *[kʷʰaːk̚]</span>
   ==
 MP
   ==
@@ -42,7 +36,7 @@ MP
 $$
 
 
-##{#1 .williams} Kw(')(a/)k(7) [[kwaak1 高陰入]]
+##{#1 .williams} ``Kw(')(a/)k(7)`` [[kwaak1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways characters">
