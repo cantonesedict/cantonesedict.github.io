@@ -49,3 +49,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~206 #9: (2)夬 _(2)Kw(a/)i_ (gwaai2); here normalised to _Kw(a/)i(3)_ (gwaai3)]]
+    ==
+    - Different, to pull or flow different ways;
+    - parted, dividing;
+    - absolute, certain;
+    - the 54th of the 64~diagrams.
+    ==
+  ====
+$$
+##>
