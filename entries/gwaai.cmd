@@ -52,6 +52,39 @@ $$
 
 <##
 $$
+H
+W
+  ====
+  - [[Page~206 #10: (2)拐]]
+    ==
+    - To deceive, to swindle, to gull;
+    - to seduce, to kidnap, to decoy one in order to carry him off;
+    - to entrap persons;
+    - _(2)kw(a/)i p(')(i/)n(3)_
+        [[gwaai2 pin3]]
+        to gull, to swindle;
+    - _(2)kw(a/)i (2)tsz'_
+        [[gwaai2 zi2]]
+        a kidnapper;
+    - _(2)kw(a/)i p(')(i/)n(3) (4)yan ts(')(i/)p(8)_
+        [[gwaai2 pin3 jan4 cip3]]
+        to elope with a man's concubine;
+    - _(2)kw(a/)i t(a/)i(3) (4)yan (2)hau_
+        [[gwaai2 daai3 jan4 hau2]],
+        to cajole in order to carry off;
+    - _(2)kw(a/)i k(e/)uk(8)_
+        [[gwaai2 goek3]]
+        crippled, lame;
+    - _(2)kw(a/)i (4)yan lok(9) tam(6)_
+        [[gwaai2 jan4 lok6 dam6]]
+        to lead one into evil.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~206 #9: (2)夬 _(2)Kw(a/)i_ (gwaai2); here normalised to _Kw(a/)i(3)_ (gwaai3)]]
