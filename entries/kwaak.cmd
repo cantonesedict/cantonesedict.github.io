@@ -17,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Kw(')(a/)k. [[Page~207 implied]]
+  ==
+WP
+  ==
+  - Kw(')(a/)k <span class="modern">= *[kʷʰaːk̚]</span>
+  ==
+MP
+  ==
+  - kwaak = [kʷʰaːk̚]
+  ==
+$$
