@@ -21,3 +21,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~207 #1: 摑(8)]]
+    ==
+    - To slap the face with the hand;
+    - _kw(a/)k(8) yat(7) (1)p(a/)_
+        [[gwaak3 jat1 baa1]],
+        a single slap;
+    - _kw(a/)k(8) (1)sheng_
+        [[gwaak3 seng1]],
+        a clap.
+    ==
+  ====
+$$
+##>
