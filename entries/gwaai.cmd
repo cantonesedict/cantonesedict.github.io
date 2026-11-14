@@ -87,6 +87,21 @@ $$
 $$
 W
   ====
+  - [[Page~206 #11: (2)柺; here normalised to 枴]]
+    ==
+    - An old man's staff or crutch, with a crooked top;
+    - _(2)kw(a/)i ch(e/)ung(6)_
+        [[gwaai2 zoeng6-2]]
+        a cane or staff.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~206 #9: (2)夬 _(2)Kw(a/)i_ (gwaai2); here normalised to _Kw(a/)i(3)_ (gwaai3)]]
     ==
     - Different, to pull or flow different ways;
