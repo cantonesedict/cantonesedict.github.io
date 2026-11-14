@@ -11096,6 +11096,7 @@ OrdinaryDictionaryReplacement: #.properties-override
     ,
       <nav class="sideways">
       ==
+      - ${𡃈=⿰口緙}kwaak1
       - ($緙kwaak1)
       ==
       </nav>
