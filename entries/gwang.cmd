@@ -42,6 +42,24 @@ $$
 $$
 W
   ====
+  - [[Page~211 #7: (1)薨]]
+    ==
+    - The death of a prince or grandee;
+    - to die;
+    - many;
+    - fleet, prompt;
+    - _(1)kwang (1)kwang_
+        [[gwang1 gwang1]],
+        the buzzing or hum of insects.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~211 #6: (1)觥]]
     ==
     - A large cyathiform goblet made of rhinoceros' horn;
