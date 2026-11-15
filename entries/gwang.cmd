@@ -42,6 +42,21 @@ $$
 $$
 W
   ====
+  - [[Page~211 #6: (1)觥]]
+    ==
+    - A large cyathiform goblet made of rhinoceros' horn;
+    - _(2)tsau (1)kwang_
+        [[zau2 gwang1]],
+        a wine cup.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~211 #4: (1)轟]]
     ==
     - The rumbling of wheels, muttering of thunder, roaring of cannon;
