@@ -69,6 +69,37 @@ $$
 $$
 W
   ====
+  - [[Page~208 #3: (1)均]]
+    ==
+    - An instrument for moulding pottery;
+    - equal, just, in similar parts;
+    - even, level, plane, flat;
+    - to equalize, to adjust or harmonize;
+    - a musical instrument;
+    - _(1)kwan (1)fan_
+        [[gwan1 fan1]],
+        equally divided;
+    - _(1)kwan (4)p(')ing_
+        [[gwan1 ping4]],
+        impartial, equal;
+    - _(2)f(u/) lok(9) (1)kwan (1)ch(i/)m_
+        [[fu2 lok6 gwan1 zim1]],
+        sorrow and joy equally portioned;
+    - _(1)kwan (4)ts(')ai (1)fong ching(3)_
+        [[gwan1 cai4 fong1 zing3]]
+        all regular and proper;
+    - _(1)kwan (1)ch(i/) hai(6)_
+        [[gwan1 zi1 hai6]]
+        let it be so now, don't change it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~207 #4: (1)軍]]
     ==
     - An army, a force of 12,500~men;
