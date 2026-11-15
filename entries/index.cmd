@@ -448,7 +448,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - $kwaang
 - $kwai (work in progress)
 - $kwan (work in progress)
-- $kwang (work in progress)
+- $kwang
 - $kwik (work in progress)
 - $kwok (work in progress)
 - $kwong (work in progress)
