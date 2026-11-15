@@ -72,6 +72,30 @@ $$
 $$
 W
   ====
+  - [[Page~208 #6: (1)焜 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
+    ==
+    - Fire, fiery, the flame of a fire;
+    - _~~(1)kwan~~ ``(1)kw(')an`` ~~i(u/)(3)~~ ``i(u/)(6)``_
+        [[kwan1 jiu6]]
+        blazing.
+    ==
+    --
+    Read _wan(6)_ [[wan6]]_;_
+    --
+    ==
+    - flame;
+    - _(2)fo wan(6) wan(6) (4)(i/) sh(e/)ung(6) (1)ching_
+        [[fo2 wan6 wan6 ji4 soeng6 zing1]],
+        the lambent flame curled upwards.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~208 #1: (1)鯤 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
     ==
     - The roe or spawn of fishes;
