@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [kwaang1](#1)
+- [kwaang2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -102,5 +103,53 @@ W
 S
   ==
   - $筐hong1 (TODO)
+  ==
+$$
+
+
+##{#2 .williams} (2)Kw(')(a/)ng [[kwaang2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $梗2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### ``梗``2 | _(2)Kw(')(a/)ng_ [[kwaang2]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+6897
+V
+  ==
+  - gwaang2 (uncommon)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~211 #13: ^_(2)Kw(')(a/)ng_ (kwaang2).; here assigned to 梗]]
+    ==
+    - A twig, a sprig, the small stems of herbs and trees;
+    - peduncles, stalks of leaves;
+    - _(5)lau (2)kw(')(a/)ng_
+        [[lau5 kwaang2 柳梗]],
+        willow twigs;
+    - _(1)ch(i/) (2)kw(')(a/)ng_
+        [[zi1 kwaang2 枝梗]],
+        twigs, stalks.
+    ==
+    --
+    [[Reading variation (vernacular for the "stem" sense). See $梗gang2.]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $梗gang2 (TODO) <# TODO: supplement (Kangxi: 枝梗) "stem" #>
+  - ($梗gwaang2) (TODO)
   ==
 $$

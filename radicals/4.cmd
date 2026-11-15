@@ -1243,6 +1243,7 @@ For all radicals, see [Index of characters by radical](./).
       - $梵faan4, ($梵faan6)
       - ($桴fau4), $桴fu1
       - $械haai6
+      - $梗kwaang2
       - $梔zi1
       - $梓zi2
       - $梲zyut3
