@@ -21,3 +21,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #5: (1)鈞 _(1)Kwan_ (gwan1)]]
+    ==
+    - The green tough skin of the bamboo, which contains silex.
+    ==
+    --
+    Also read _(4)Wan_ [[wan4]].
+    --
+  ====
+$$
+##>
