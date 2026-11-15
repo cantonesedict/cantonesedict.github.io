@@ -200,6 +200,45 @@ $$
 $$
 W
   ====
+  - [[Page~209 #4: (2)綑]]
+    ==
+    - To bind, to tie up with cords, to fetter;
+    - to plait, to braid;
+    - a border or fold on the skirt of a garment for ornament;
+    - to hem, to put on a band or fold;
+    - _(2)kw(')an (5)leng_
+        [[kwan2 leng5]],
+        to bind the neck of a dress;
+    - _(2)kw(')an (2)pong_
+        [[kwan2 bong2]],
+        to bind up;
+    - _(2)kw(')an (4)m(a/)i yat(7) ch(')uk(7)_
+        [[kwan2 maai4 jat1 cuk1]]
+        tie them up together;
+    - _(2)kw(')an (4)t(')i(u/)_
+        [[kwan2 tiu4-2]],
+        tape used for hems;
+    - _(2)kw(')an (1)p(i/)n_
+        [[kwan2 bin1]],
+        a broad fold;
+    - _(2)kw(')an (4)t(')ang_
+        [[kwan2 tang4]]
+        to bind with rattans;
+    - _(2)kw(')an (1)shan_
+        [[kwan2 san1]],
+        to tie on the girdle;
+    - _(1)s(e/)ung (2)kw(')an_
+        [[soeng1 kwan2]],
+        to insert a fold or band on garments.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
