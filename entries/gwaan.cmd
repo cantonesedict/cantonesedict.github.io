@@ -147,6 +147,19 @@ $$
 $$
 W
   ====
+  - [[Page~211 #3: 丱(3)]]
+    ==
+    - The two tufts made in dressing children's hair,
+      commonly called _(1)(a/) kok(8) kai(3)_ [[aa1 gok3 gai3]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~211 #2: 慣(3)]]
     ==
     - Accustomed to, experienced;
