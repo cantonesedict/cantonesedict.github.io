@@ -162,6 +162,25 @@ $$
 $$
 W
   ====
+  - [[Page~209 #2: (2)悃]]
+    ==
+    - Sincerity, singleness of heart;
+    - unadorned, simple, said of style;
+    - _(2)kw(')an shat(9)_
+        [[kwan2 sat6]]
+        unaffected, simple-minded;
+    - _(4)yung (1)shan ts(e/)(6) (2)kw(')an_
+        [[jung4 san1 ze6 kwan2]],
+        I can not forget your kindness---used at the end of letters.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
