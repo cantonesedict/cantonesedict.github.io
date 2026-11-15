@@ -118,3 +118,27 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~211 #1: (1)鰥]]
+    ==
+    - A large fish;
+    - a widower;
+    - an old man, who has never been married;
+    - alone, single, unattended;
+    - _(1)kw(a/)n (1)f(u/)_
+        [[gwaan1 fu1]],
+        a widower;
+    - _(1)kw(a/)n (1)k(u:)_
+        [[gwaan1 geoi1]],
+        to live alone;
+    - _muk(9) (4)sh(e/)ung (1)kw(a/)n (1)kw(a/)n_
+        [[muk6 soeng4 gwaan1 gwaan1]],
+        sleepless, restless.
+    ==
+  ====
+$$
+##>
