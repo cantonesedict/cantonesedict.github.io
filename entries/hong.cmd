@@ -123,9 +123,18 @@ W
         baskets for sending presents in.
     ==
     --
-    Often pronounced _(1)kw(')(a/)ng_ [[kwaang1]].
+    Often pronounced _``(1)``kw(')(a/)ng_ [[kwaang1]].
     --
+  - [[Page~211 #12: (1)筐]]
+    ==
+    - Colloquially called _(1)kw(')(a/)ng_ [[kwaang1]],
+      as _(4)l(a/)m (1)kw(')(a/)ng_ [[laam4 kwaang1]], baskets.
+    ==
   ====
+S
+  ==
+  - ($筐kwaang1) (TODO)
+  ==
 $$
 ##>
 
