@@ -142,3 +142,48 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~211 #2: 慣(3)]]
+    ==
+    - Accustomed to, experienced;
+    - habitual, addicted to;
+    - practiced in;
+    - to slip, to stumble; <# TODO: normalise to $躀gwaan3 #>
+    - _kw(a/)n(3) shuk(9)_
+        [[gwaan3 suk6]]
+        used to;
+    - _h(u:)(3) kw(a/)n(3)_
+        [[heoi3 gwaan3]]
+        often going there;
+    - _~~(2)f(a/)n~~ ``(2)w(a/)n`` kw(a/)n(3)_
+        [[waan2 gwaan3]]
+        very playful;
+    - _(4)'m kw(a/)n(3)_
+        [[m4 gwaan3]]
+        unskilled, unused to;
+    - _kw(a/)n(3) (2)t(o\)_
+        [[gwaan3 dou2]],
+        to stumble and fall;
+    - _kw(a/)n(3) (1)king_
+        [[gwaan3 ging1]],
+        in the habit of;
+    - _yat(7) (1)k(a/)u kw(a/)n(3) (2)t(o\)_
+        [[jat1 gaau1 gwaan3 dou2]],
+        a fall;
+    - _kw(a/)n(3) lai(6)_
+        [[gwaan3 lai6]]
+        the common way or custom;
+    - _(2)t(a/) kw(a/)n(3)_
+        [[daa2 gwaan3]]
+        to overlook, to be easy with;
+    - _(2)t(o\) kw(a/)n(3)_
+        [[dou2 gwaan3]]
+        addicted to gaming.
+    ==
+  ====
+$$
+##>
