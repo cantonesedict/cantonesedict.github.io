@@ -21,3 +21,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~211 #4: (1)轟]]
+    ==
+    - The rumbling of wheels, muttering of thunder, roaring of cannon;
+    - a buzzing, stunning noise;
+    - _(4)l(u/)i (1)kwang_
+        [[leoi4 gwang1]],
+        noise of thunder;
+    - _(1)kwang l(i/)t(9)_
+        [[gwang1 lit6]]
+        irascible, techy;
+    - _(1)kwang (1)kwang_
+        [[gwang1 gwang1]],
+        stunning, as a noise;
+    - _(1)kwang (1)lang_
+        [[gwang1 lang1]],
+        the clang of glass, tin, or other sonorous bodies.
+    ==
+  ====
+$$
+##>
