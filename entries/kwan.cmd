@@ -380,6 +380,49 @@ $$
 $$
 W
   ====
+  - [[Page~210 #2: 困(3)]]
+    ==
+    - A ruined house;
+    - confined, cramped, cribbed, like a plant which has no room;
+    - exhausted, disheartened, weary, worn out, jaded;
+    - poor, beggared;
+    - weak, diseased;
+    - wanting, insufficient, needy;
+    - to tire, to weary, to repress;
+    - to impoverish;
+    - to influence so as to hinder, to be the slave of;
+    - hampered for want of;
+    - the 47th~diagram;
+    - mourning for, sorry, afflicted, oppressed with;
+    - to put forth labor;
+    - flustered;
+    - _kw(')an(3) k(u:)n(6)_
+        [[kwan3 gyun6]]
+        wearied out;
+    - _p(i/)(6) (2)tsau kw(')an(3)_
+        [[bei6 zau2 kwan3]]
+        confused by drink;
+    - _kw(')an(3) ch(u:)(6)_
+        [[kwan3 zyu6]]
+        to restrain, to disable;
+    - _kw(')an(3) (2)shau_
+        [[kwan3 sau2]],
+        poor, nothing to do;
+    - _kw(')an(3) kik(9)_
+        [[kwan3 gik6]]
+        beggared;
+    - _(4)hang (5)l(i/) kw(')an(3) ~~f(a/)t(8)~~ ``fat(9)``_
+        [[hang4 lei5 kwan3 fat6]]
+        in want of funds or baggage on a ~~jaurney~~ ``journey``.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
