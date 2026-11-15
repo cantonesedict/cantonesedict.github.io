@@ -255,6 +255,31 @@ $$
 $$
 W
   ====
+  - [[Page~209 #6: (2)菌]]
+    ==
+    - The mushroom;
+    - mold on bread or paste;
+    - _f(a/)t(8) (2)kw(')an_
+        [[faat3 kwan2]],
+        moldy;
+    - _t(i/)(6) (2)kw(')an_
+        [[dei6 kwan2]],
+        toadstool;
+    - _(2)kw(')an kwai(3)_
+        [[kwan2 gwai3]]
+        a sort of fine-quilled cassia;
+    - _(4)wo (2)ts(')(o\) (2)kw(')an_
+        [[wo4 cou2 kwan2]]
+        fine mushrooms raised on muck.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
