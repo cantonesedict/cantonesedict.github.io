@@ -330,6 +330,24 @@ $$
 $$
 W
   ====
+  - [[Page~209 #11: ::(2)~~{？=⿰魚糸}~~``鯀``::]]
+    ==
+    - A large fish;
+    - name of the father of Y(u/) the Great, who lived B.~C.~2200.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 鯀 as ⿰魚糸; here corrected.
+    (The character 鯀 appears correctly on Page~826 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
