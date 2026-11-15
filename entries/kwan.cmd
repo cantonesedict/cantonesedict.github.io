@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~208 #9: (1)坤]]
+    ==
+    - The earth, _q.~d._ inferior or obsequious to heaven;
+    - hence applied to the moon, statesmen, wives,
+      and to whatever has a correlative superior;
+    - the 2d~diagram;
+    - favorable, compliant, obedient;
+    - _(2)tau shat(7) (4)k(')(i/)n (1)kw(')an t(a/)i(6)_
+        [[dau2 sat1 kin4 kwan1 daai6]]
+        a cottage can contain a great mind;
+    - _(1)kw(')an (2)k(a/)n_
+        [[kwan1 gaan2]],
+        a betrothed's horoscope.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~207 #6: (1)崑 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
     ==
     - The Kwanlun [[崑崙]] or Koulkun range of mountains,
