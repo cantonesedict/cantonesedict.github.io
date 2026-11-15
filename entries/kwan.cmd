@@ -309,6 +309,24 @@ $$
 $$
 W
   ====
+  - [[Page~209 #12: (2)衮; here normalised to 袞]]
+    ==
+    - Imperial robes embroidered with dragons;
+    - _(2)kw(')an (5)m(i/)n_
+        [[kwan2 min5]],
+        robes and crown, a royal dress;
+    - _(2)kw(')an (2)kw(')an ~~(2)ho(1)^ t(')eng~~ ``(2)ho (1)t(')eng``_
+        [[kwan2 kwan2 ho2 teng1]]
+        worth hearing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #7: (2)閫]]
     ==
     - A threshold;
