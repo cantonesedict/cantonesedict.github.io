@@ -75,6 +75,24 @@ $$
 $$
 W
   ====
+  - [[Page~211 #8: (1)訇]]
+    ==
+    - Noise of drums or bells, clamor;
+    - rushing of waters;
+    - din of loud voices.
+    ==
+  ====
+S
+  ==
+  - $訇gwang4 (TODO)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~211 #4: (1)轟]]
     ==
     - The rumbling of wheels, muttering of thunder, roaring of cannon;
