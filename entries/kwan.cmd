@@ -162,6 +162,22 @@ $$
 $$
 W
   ====
+  - [[Page~209 #10: (2)壼]]
+    ==
+    - Paths between or among buildings or rooms in the palace;
+    - to dwell in;
+    - _(1)kwai (2)kw(')an_
+        [[gwai1 kwan2]],
+        a virtuous woman.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #2: (2)悃]]
     ==
     - Sincerity, singleness of heart;
