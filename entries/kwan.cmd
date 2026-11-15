@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~207 #6: (1)崑 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
+    ==
+    - The Kwanlun [[崑崙]] or Koulkun range of mountains,
+      lying about lat.~35°~ N., between the Desert of Gobi and Tibet;
+    - the Chinese regard it
+      as the abode of everything mysterious and supernatural.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~207 #5: (1)昆 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
     ==
     - Together, alike or comparable, at the same time;
