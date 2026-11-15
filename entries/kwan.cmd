@@ -200,6 +200,22 @@ $$
 $$
 W
   ====
+  - [[Page~209 #5: (2)稛]]
+    ==
+    - To bind with rope;
+    - full, well-provided;
+    - _(2)kw(')an tsoi(3) (4)(i/) (1)kwai_
+        [[kwan2 zoi3 ji4 gwai1]]
+        to return home well laden, successful in business.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #4: (2)綑]]
     ==
     - To bind, to tie up with cords, to fetter;
