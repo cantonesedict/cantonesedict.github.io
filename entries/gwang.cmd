@@ -26,6 +26,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~211 #5: (1)肱]]
+    ==
+    - The upper arm, the humerus;
+    - the arm;
+    - _~~huk(7)~~ ``k(')uk(7)`` (1)kwang (4)(i/) ~~(2)cham~~ ``cham(3)``_
+        [[kuk1 gwang1 ji4 zam3]],
+        to pillow his head on his arms.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~211 #4: (1)轟]]
     ==
     - The rumbling of wheels, muttering of thunder, roaring of cannon;
