@@ -67,3 +67,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #1: (1)鯤 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
+    ==
+    - The roe or spawn of fishes;
+    - a leviathan, a whale;
+    - _~~(1)kwan~~ ``(1)kw(')an`` f(a/)(3) (4)wai (4)p(')ang_
+        [[kwan1 faa3 wai4 pang4]],
+        the whale turned into a roc.
+    ==
+  ====
+$$
+##>
