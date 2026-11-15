@@ -167,3 +167,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #7: 棍(3)]]
+    ==
+    - A round stick, a club;
+    - to bind up sticks;
+    - a sharper;
+    - _ts(a/)p(9) (5)(i/)m kwan(3) (4)shing_
+        [[zaap6 jim5 gwan3 sing4]],
+        practice makes a thing natural;
+    - _(1)kwong kwan(3)_
+        [[gwong1 gwan3]]
+        a "bare-stick," a scoundrel;
+    - _(4)(i/)n m(i/)n(6) kwan(3)_
+        [[jin4 min6 gwan3]]
+        a pastry roller;
+    - _~~(1)kwan~~ ``kwan(3)`` (4)t(')(o\)_
+        [[gwan3 tou4]],
+        a knave, a band of pestilent fellows;
+    - _tsung(6) kwan(3)_
+        [[zung6 gwan3]]
+        a pettifogger;
+    - _kwan(3) k(o\)m(3) (1)kwong_
+        [[gwan3 gam3 gwong1]],
+        bare as a stick, poor;
+    - _kwan(3) k(e/)uk(8)_
+        [[gwan3 goek3]]
+        a dangerous fellow.
+    ==
+  ====
+$$
+##>
