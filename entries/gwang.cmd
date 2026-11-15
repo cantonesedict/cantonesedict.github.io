@@ -26,6 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~211 #9: (1)渹]]
+    ==
+    - _(1)Kwang (1)kwang_
+        [[gwang1 gwang1]],
+        roaring of waters over stones;
+        dashing of waves.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~211 #5: (1)肱]]
     ==
     - The upper arm, the humerus;
