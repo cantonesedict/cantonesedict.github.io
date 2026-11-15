@@ -11433,6 +11433,13 @@
 "text":"U+7DD9 (Page 207 #2: ~~？~~緙(7) _Kw(a/)k(7)_ (gwaak1); here corrected to _Kw(')(a/)k(7)_ (kwaak1)) Williams erroneously places this under _kw(a/)k(8)_ (gwaak3), notwithstanding the reading within the entry is correctly _kw(')(a/)k(7)_ (kwaak1 or kwaak3)."
 }
 },
+"框":{
+"kwaang1":{
+"isCanonical":true,
+"williams":"(1)kw(')(a/)ng",
+"text":"U+6846 hong1 (alternative) A frame. 門框 (mun4 kwaang1): \"Doorframe.\" 窗框 (coeng1 kwaang1): \"Window frame.\" 框架 (kwaang1 gaa3-2): \"Framework.\""
+}
+},
 "筐":{
 "kwaang1":{
 "isCanonical":false,

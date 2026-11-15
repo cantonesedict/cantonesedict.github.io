@@ -47,12 +47,41 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $框1
 - ($筐1)
 ==
 </nav>
 <## /tone-1-characters ##>
 
-<# TODO: $框kwaang1 #>
+###+ 框1 | _(1)Kw(')(a/)ng_ [[kwaang1]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+6846
+V
+  ==
+  - hong1 (alternative)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A frame.
+      ==
+      - 門框 (mun4 kwaang1): "Doorframe."
+      - 窗框 (coeng1 kwaang1): "Window frame."
+      - 框架 (kwaang1 gaa3-2): "Framework."
+      ==
+  ++
+S
+  ==
+  - ($框hong1) (TODO)
+  ==
+$$
 
 ### 筐1 | _(1)Kw(')(a/)ng_ [[kwaang1]]
 
