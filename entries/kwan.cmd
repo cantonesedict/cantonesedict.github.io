@@ -181,6 +181,19 @@ $$
 $$
 W
   ====
+  - [[Page~209 #9: (2)攟; here normalised to 捃]]
+    ==
+    - To take up and put in order, to put to rights;
+    - to complete an unfinished work.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #3: (2)捆]]
     ==
     - To tie or put together;
