@@ -11433,6 +11433,13 @@
 "text":"U+7DD9 (Page 207 #2: ~~？~~緙(7) _Kw(a/)k(7)_ (gwaak1); here corrected to _Kw(')(a/)k(7)_ (kwaak1)) Williams erroneously places this under _kw(a/)k(8)_ (gwaak3), notwithstanding the reading within the entry is correctly _kw(')(a/)k(7)_ (kwaak1 or kwaak3)."
 }
 },
+"筐":{
+"kwaang1":{
+"isCanonical":false,
+"williams":"(1)kw(')(a/)ng",
+"text":"U+7B50 (Page 211 #12: (1)筐)"
+}
+},
 "纊":{
 "kwang3":{
 "isCanonical":true,

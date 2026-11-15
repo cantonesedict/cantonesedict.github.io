@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [kwaang1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,37 @@ MP
   ==
 $$
 
+
+##{#1 .williams} (1)Kw(')(a/)ng [[kwaang1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($筐1)
+==
+</nav>
+<## /tone-1-characters ##>
+
 <# TODO: $框kwaang1 #>
+
+### 筐1 | _(1)Kw(')(a/)ng_ [[kwaang1]]
+
+$$.
+R
+  ⽵ + 6
+U
+  U+7B50
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~211 #12: (1)筐]]
+    --
+    [[Reading variation. **See $筐hong1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $筐hong1 (TODO)
+  ==
+$$
