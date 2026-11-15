@@ -202,3 +202,25 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #8: 郡(6)]]
+    ==
+    - An inhabited place, a principality, a small district;
+    - now applied to a prefecture;
+    - _(2)f(u/) kwan(6)_
+        [[fu2 gwan6]]
+        a department;
+    - _(5)n(i/) hai(6) mat(7) kwan(6)_
+        [[nei5 hai6 mat1 gwan6]]
+        what prefecture are you from?
+    - _kwan(6) (5)m(a/)_
+        [[gwan6 maa5]],
+        a king^'s brother-in-law or ~~neice~~ ``niece``.
+    ==
+  ====
+$$
+##>
