@@ -64,3 +64,48 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~207 #4: (1)軍]]
+    ==
+    - An army, a force of 12,500~men;
+    - the head-quarters of a troop;
+    - an inclosure;
+    - military, warlike;
+    - _(1)kwan (4)ying_
+        [[gwan1 jing4]],
+        a camp;
+    - _(4)hang (1)kwan_
+        [[hang4 gwan1]],
+        to move troops;
+    - _k(a/)m(3) sh(i/)(3) (1)kwan_
+        [[gaam3 si3 gwan1]],
+        servants who attend the candidates within the hall;
+    - _hon(3) (1)kwan_
+        [[hon3 gwan1]],
+        Chinese Bannermen;
+    - _(1)kwan (4)man (2)f(u/)_
+        [[gwan1 man4 fu2]],
+        a sub-prefect;
+    - _(1)kwan (1)k(i/) t(a/)i(6) (4)shan_
+        [[gwan1 gei1 daai6 san4]],
+        the General Council of state;
+    - _(4)t(')au (1)kwan_
+        [[tau4 gwan1]],
+        to enlist;
+    - _(5)yau mat(7) (1)kwan ~~(2)m(a/)~~ ``(5)m(a/)``_
+        [[jau5 mat1 gwan1 maa5]],
+        what plan has he, what will (or can) he do?
+    - _(1)kwan (1)kung_
+        [[gwan1 gung1]],
+        military merit;
+    - _man(6) (1)kwan_
+        [[man6 gwan1]],
+        banishment to the garrisons.
+    ==
+  ====
+$$
+##>
