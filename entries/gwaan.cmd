@@ -26,6 +26,22 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~210 #6: (1){𤸄=⿸疒⿱罒水}; here normalised to 瘝]]
+    ==
+    - Diseased, infirm, sick;
+    - incapable, incompetent for the duties of;
+    - _(1)kw(a/)n (1)k(u/)n_
+        [[gwaan1 gun1]],
+        an inefficient ruler.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~210 #5: (1)關]]
     ==
     - To shut or bar a door, to stop up a doorway;
