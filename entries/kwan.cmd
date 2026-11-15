@@ -162,6 +162,36 @@ $$
 $$
 W
   ====
+  - [[Page~209 #1: (4)羣; here normaised to (4)群]]
+    ==
+    - A flock of sheep, as few as three;
+    - a herd;
+    - a concourse, a group, a multitude, a horde, a company;
+    - men of the same sort;
+    - friends, equals, companions, fellow-officers;
+    - a form of the plural number;
+    - to sort with, to agree with;
+    - _(4)kw(')an (1)shang_
+        [[kwan4 sang1]],
+        all living;
+    - _(4)kw(')an (2)tong_
+        [[kwan4 dong2]],
+        a company, messmates;
+    - _(4)kw(')an (4)m(a/)i yat(7) t(u/)i(6)_
+        [[kwan4 maai4 jat1 deoi6]]
+        to form a group, to go together;
+    - _(4)m(a/)i (4)kw(')an_
+        [[maai4 kwan4]],
+        to consummate a marriage.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~208 #11: (4)裙]]
     ==
     - The plaited skirt of a lady's dress, sometimes elegantly embroidered;
