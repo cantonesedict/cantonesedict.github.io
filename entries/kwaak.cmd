@@ -102,6 +102,9 @@ E
     1. To enclose or loop.
     ++
   ====
+  --
+  The spelling {𡃈=⿰口緙} is arbitrary.
+  --
 $$
 
 ### ~~{？=⿰糹⿱龷⿻中二}~~``緙``1 | _~~Kw(a/)k(8)~~ ``Kw(')(a/)k(7)``_ [[kwaak1]]
