@@ -26,6 +26,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~210 #4: 囷(3) _Kw(')an(3)_ (kwan3); here normalised to _(1)Kw(')an_ (kwan1)]]
+    ==
+    - A round granary;
+    - a spiral;
+    - twisted;
+    - _(4)lun ~~kw(')an(3)~~ ``(1)kw(')an``_
+        [[leon4 kwan1]]
+        contorted like roots, spiral.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~208 #9: (1)坤]]
     ==
     - The earth, _q.~d._ inferior or obsequious to heaven;
