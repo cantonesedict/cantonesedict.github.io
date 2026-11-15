@@ -186,6 +186,45 @@ $$
 $$
 W
   ====
+  - [[Page~209 #13: (2)滚 _(2)Kw(')an_ (kwan2); here normalised to 滾 _(2)Kwan_ (gwan2)]]
+    ==
+    - Water flowing in a rapid, bubbling manner;
+    - boiling, welling up, rolling;
+    - to roll, to go off;
+    - to boil;
+    - _~~(2)kw(')an~~ ``(2)kwan`` (2)shui_
+        [[gwan2 seoi2]],
+        boiling water;
+    - _~~(2)kw(')an~~ ``(2)kwan`` p(a/)(6)_
+        [[gwan2 baa6]]
+        clear out, be off!
+    - _~~(2)kw(')an~~ ``(2)kwan`` t(a/)n(6)_
+        [[gwan2 daan6-2]]
+        to go away;
+    - _(4)ts(')oi (4)(u:)n ~~(2)kw(')an (2)kw(')an~~ ``(2)kwan (2)kwan``_
+        [[coi4 jyun4 gwan2 gwan2]],
+        my capital must be constantly circulating---a shop phrase;
+    - _~~(2)kw(')an~~ ``(2)kwan`` l(a/)n(6)_
+        [[gwan2 laan6]]
+        boiled to rags;
+    - _~~(2)kw(')an~~ ``(2)kwan`` l(u:)n(6)_
+        [[gwan2 lyun6]]
+        to make mistakes;
+    - _(2)t(a/) ~~(2)kw(')an~~ ``(2)kwan``_
+        [[daa2 gwan2]],
+        to roll about, to make a feint in fencing by rolling over;
+    - _(2)lo ~~(2)kw(')an~~ ``(2)kwan`` (5)ngo_
+        [[lo2 gwan2 ngo5]],
+        he vexes me.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~208 #7: 棍(3)]]
     ==
     - A round stick, a club;
