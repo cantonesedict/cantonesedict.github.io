@@ -423,6 +423,27 @@ $$
 $$
 W
   ====
+  - [[Page~210 #3: 窘(3)]]
+    ==
+    - Afflicted, enfeebled;
+    - poor, distressed, in urgent want of;
+    - urged by;
+    - to distress, to harass;
+    - _kw(')an(3) pik(7)_
+        [[kwan3 bik1]]
+        straitened;
+    - _kw(')an(3) kap(7)_
+        [[kwan3 gap1]]
+        in need.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
