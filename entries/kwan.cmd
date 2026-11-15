@@ -83,3 +83,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #2: (1)鵾 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
+    ==
+    - A sort of gallinaceous bird;
+    - perhaps a heathcock or jungle-fowl.
+    ==
+  ====
+$$
+##>
