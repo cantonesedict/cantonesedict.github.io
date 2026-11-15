@@ -61,7 +61,7 @@ R
 U
   U+7E8A
 H
-  May appear with phonetic component as ⿸广黃 (+15 assumed here) or ⿸广黄 (+14),
+  May appear with phonetic component ⿸广黃 (+15 assumed here) or ⿸广黄 (+14),
   depending on the font.
 A
   ==

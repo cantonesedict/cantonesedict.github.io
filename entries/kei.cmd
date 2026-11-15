@@ -545,7 +545,7 @@ $$
   ⽰ + 3
   ⾢ + 4
 H
-  May appear with phonetic component as 示 (+5) or 礻 (+4 assumed here),
+  May appear with phonetic component 示 (+5) or 礻 (+4 assumed here),
   depending on the font.
 W
   ====
