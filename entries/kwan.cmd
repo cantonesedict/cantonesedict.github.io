@@ -284,6 +284,20 @@ $$
 $$
 W
   ====
+  - [[Page~210 #1: (2)緄]]
+    ==
+    - A ribbon, a cord;
+    - to sew, to stitch together;
+    - to bind.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #6: (2)菌]]
     ==
     - The mushroom;
