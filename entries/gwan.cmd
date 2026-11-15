@@ -172,6 +172,20 @@ $$
 $$
 W
   ====
+  - [[Page~209 #8: (2){𪊽=⿱鹿困} _(2)Kw(')an_ (kwan2); here normalised to 麇 _(1)Kwan_ (gwan1)]]
+    ==
+    - A general name for deer;
+    - perhaps specially the _Antilope gutturosa_,
+      the doe of which is hornless, and both sexes are easily frightened.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~208 #7: 棍(3)]]
     ==
     - A round stick, a club;
