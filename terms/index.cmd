@@ -919,6 +919,9 @@ window.onload = applyFilter;
     , kwaak1
     , [{𡃈=⿰口緙}](/entries/kwaak#cantonese-𡃈)
   //
+    , kwang3
+    , [纊](/entries/kwang#cantonese-纊)
+  //
     , laa5 zaa2
     , [揦鮓](/entries/zaa#cantonese-揦鮓)
   //

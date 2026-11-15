@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-15
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -92,7 +92,7 @@ E
   ====
   - 【揩】 (haai1)
     ++
-    1. To brush against.
+    1. To brush against. Gentler than $纊kwang3 "catch against".
        ==
        - 揩到佢架車 (haai1 dou3-2 keoi5 gaa3 ce1): "Brushed against his car."
        - 揩花咗 (haai1 faa1 zo2): "Scratched [from being] brushed against."

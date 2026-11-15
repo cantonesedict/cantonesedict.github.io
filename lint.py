@@ -311,6 +311,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "kw(')(a/)ng": ['kwaang'],
     "kw(')ai": ['kwai'],
     "kw(')an": ['kwan'],
+    "kw(')ang": ['kwang'],
     "kw(')ik": ['kwik'],
     "kw(')ok": ['kwok'],
     "kw(')ong": ['kwong'],

@@ -11101,6 +11101,16 @@ OrdinaryDictionaryReplacement: #.properties-override
       ==
       </nav>
   //
+    ,{r=1} Page~211
+    ,{#page-211-entry-11} #11
+    ,{.williams} 纊(3)
+    ,
+      <nav class="sideways">
+      ==
+      - $纊kwang3
+      ==
+      </nav>
+  //
     ,{r=3} Page~341
     ,{#page-341-entry-3} #3
     ,{.williams} (1)庵(1)菴

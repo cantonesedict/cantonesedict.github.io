@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-11-01
+* %date-modified --> 2026-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1001,6 +1001,7 @@ W
 C
   ==
   - Williams' 撞着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  - More severe than vernacular $纊kwang3 "catch against".
   ==
 L
   ====
