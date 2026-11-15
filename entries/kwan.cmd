@@ -118,6 +118,21 @@ $$
 $$
 W
   ====
+  - [[Page~208 #10: (1)髡]]
+    ==
+    - A punishment of shaving the head,
+      inflicted on the prince's family for slight offenses;
+    - bald;
+    - a leafless tree.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~208 #1: (1)鯤 _(1)Kwan_ (gwan1); here normalised to _(1)Kw(')an_ (kwan1)]]
     ==
     - The roe or spawn of fishes;
