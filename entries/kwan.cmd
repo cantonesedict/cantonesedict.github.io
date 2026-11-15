@@ -280,6 +280,27 @@ $$
 $$
 W
   ====
+  - [[Page~209 #7: (2)閫]]
+    ==
+    - A threshold;
+    - door-posts;
+    - a small door in a gate;
+    - door of the female apartments;
+    - females;
+    - _(2)kw(')an noi(6)_ [[kwan2 noi6]]
+        and
+      _(2)kw(')an ngoi(6)_ [[kwan2 ngoi6]]
+        are terms used for within and without the palace,
+        the court and country.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
