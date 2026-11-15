@@ -181,6 +181,25 @@ $$
 $$
 W
   ====
+  - [[Page~209 #3: (2)捆]]
+    ==
+    - To tie or put together;
+    - to plait;
+    - to make firm by beating, to work at;
+    - _(2)kw(')an k(u:)(6)_
+        [[kwan2 geoi6]], to weave sandals.
+    ==
+    --
+    Same as the next [[綑]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~209 #1: (4)羣; here normaised to (4)群]]
     ==
     - A flock of sheep, as few as three;
