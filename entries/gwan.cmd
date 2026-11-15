@@ -140,3 +140,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #4: (1)鈞]]
+    ==
+    - A quarter of a _shek(9)_ [[sek6]] or pecul [[擔]];
+    - a weight of 30~catties [[斤]];
+    - a potter's lathe;
+    - to equalize, to harmonize;
+    - just;
+    - important;
+    - _t(a/)i(6) (1)kwan_ [[daai6 gwan1]]
+        or
+      _(4)hung (1)kwan_ [[hung4 gwan1]],
+        the Great Framer, wheel of events, heaven, nature;
+    - _(1)kwan (u:)(6)_
+        [[gwan1 jyu6]]
+        your wishes or orders---a polite phrase.
+    ==
+    --
+    Used for the last [[均]].
+    --
+  ====
+$$
+##>
