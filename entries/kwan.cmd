@@ -157,3 +157,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~208 #11: (4)裙]]
+    ==
+    - The plaited skirt of a lady's dress, sometimes elegantly embroidered;
+    - rim of a turtle's ~~skell~~ ``shell``;
+    - _(1)chung (4)kw(')an_ [[zung1 kwan4]],
+        or
+      _noi(6) (4)kw(')an_ [[noi6 kwan4]],
+        petticoats;
+    - _~~(4)wai(3)~~ ``(4)wai`` (4)kw(')an_
+        [[wai4 kwan4-2]],
+        an apron, a bib;
+    - _(4)ch(')i(u/) (4)kw(')an_
+        [[ciu4 kwan4]],
+        an embroidered silk apron worn by officers;
+    - _(4)kw(')an k(e/)uk(8) (1)m(u/)i_
+        [[kwan4 goek3 mui1]],
+        waiting-maids;
+    - _(4)kw(')an (1)ch(')(a/)_
+        [[kwan4 caa1]],
+        a gore in a skirt;
+    - _(4)kw(')an ~~t(a/)i(6)~~ ``t(a/)i(3)`` (1)ch(i/) (1)ts(')an_
+        [[kwan4 daai3-2 zi1 can1]],
+        relatives of a different surname;
+    - _(2)h(e/)ung (4)kw(')an_
+        [[hoeng2 kwan4]],
+        a skirt with bells or jingles.
+    ==
+  ====
+$$
+##>
