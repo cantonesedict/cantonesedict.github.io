@@ -139,6 +139,27 @@ $$
 $$
 W
   ====
+  - [[Page~212 #6: ::~~崛(7)~~``崛(9)``::]]
+    ==
+    - Rising loftily like a solitary peak;
+    - eminent, distinguished;
+    - _kwat(9) (2)h(i/)_
+        [[gwat6 hei2]]
+        standing alone.
+    ==
+  ====
+C
+  ==
+  - Williams misprints the headword tone marker ^(9) as ^(7); here corrected.
+    (The correct tone marker ^(9) appears against 崛 on Page~756 in the character index.)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~212 #5: 掘(9)]]
     ==
     - To dig into the ground, to excavate, to scoop, to open, to hollow out;
