@@ -139,6 +139,38 @@ $$
 $$
 W
   ====
+  - [[Page~212 #7: 倔(9)]]
+    ==
+    - Obstinate, opinionated;
+    - _kwat(9) (4)k(')(e/)ung_
+        [[gwat6 koeng4]],
+        perverse, willful.
+    ==
+    --
+    A colloquial word:
+    --
+    ==
+    - to cut off short;
+    - a dull or broken point;
+    - abrupt;
+    - a way stopped up;
+    - _l(o\)(6) kwat(9)_
+        [[lou6 gwat6]]
+        the road is stopped;
+    - _sh(u:)t(8) w(a/)(6) kwat(9)_
+        [[syut3 waa6 gwat6]]
+        an abrupt sentence;
+    - _(1)ts(i/)m_ [[zim1]] and _kwat(9)_ [[gwat6]] are opposites,
+        sharp and dull.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~212 #6: ::~~崛(7)~~``崛(9)``::]]
     ==
     - Rising loftily like a solitary peak;
