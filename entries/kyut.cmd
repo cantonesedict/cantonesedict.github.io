@@ -346,6 +346,15 @@ W
     - hypocritical, crafty;
     - to please or agree with one to gain an end.
     ==
+  - [[Page~212 #4: 譎(7) _Kwat(7)_ (gwat1); here normalised to _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - False, crafty, intriguing;
+    - to impose on;
+    - time-serving, wily, crooked;
+    - _~~kwat(7)~~ ``k(')(u:)t(8)`` ch(a/)(3)_
+        [[kyut3 zaa3]]
+        tortuous conduct.
+    ==
   ====
 $$
 ##>
