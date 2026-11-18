@@ -26,6 +26,44 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~212 #2: 汩(7)]]
+    ==
+    - The noise of waves;
+    - to confound, to mix;
+    - to unstop, to let flow out;
+    - to rise, to float;
+    - _kwat(7) (4)ch(')au_
+        [[gwat1 cau4]],
+        to confuse.
+    ==
+    --
+    Read _~~Mat(7)~~ ``Mik(9)``_ [[mik6]]_;_ <# TODO: correct to $汨mik6 #>
+    --
+    ==
+    - a river in H(u/)n(a/)n [[湖南]],
+      called _~~Mat(7)~~ ``Mik(9)`` (4)lo (1)kong_ [[mik6 lo4 gong1]],
+      which enters Tungt(')ing [[洞庭]] Lake on the southeast.
+    ==
+  ====
+C
+  ==
+  - For the visually similar character with phonetic "sun", see $汨mik6. (TODO)
+  - Kangxi erroneously puts all senses of the word read 古忽切 _kwat(7)_ (gwat1)
+    under the "sun"-phonetic character.
+  - Williams prints the "say"-phonetic character on Page~212,
+    but prints the "sun"-phonetic character on Page~776 in the character index.
+  ==
+S
+  ==
+  - ($汩wat6) (TODO)
+  ==
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~212 #1: 骨(7)]]
     ==
     - The bones of bodies;
