@@ -134,3 +134,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~212 #5: 掘(9)]]
+    ==
+    - To dig into the ground, to excavate, to scoop, to open, to hollow out;
+    - _kwat(9) (1)lung_
+        [[gwat6 lung4-1]],
+        to dig a hole;
+    - _kwat(9) (1)kam_
+        [[gwat6 gam1]],
+        to dig for gold;
+    - _kwat(9) (2)ch(')ung_
+        [[gwat6 cung2]]
+        to dig a grave;
+    - _kwat(9) (1)h(a/)ng_
+        [[gwat6 haang1]],
+        to open a drain.
+    ==
+    --
+    Used for the next [[崛]].
+    --
+  ====
+$$
+##>
