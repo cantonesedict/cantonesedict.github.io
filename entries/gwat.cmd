@@ -21,3 +21,56 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~212 #1: 骨(7)]]
+    ==
+    - The bones of bodies;
+    - whatever is hard that is inclosed in something soft,
+      as the ribs of leaves, sticks among leaves,
+      knots in cloth, or seams in garments;
+    - the 188th~radical [[U+2FBB ⾻ "bone"]] of characters relating to bones;
+    - the figure, the person;
+    - _kwat(7) k(a/)k(8) t(a/)i(6)_
+        [[gwat1 gaak3 daai6]]
+        a large frame or person;
+    - _yat(7) f(u/)(3) kwat(7) k(a/)k(8)_
+        [[jat1 fu3 gwat1 gaak3]]
+        a skeleton;
+    - _sh(u:)(6) kwat(7)_
+        [[syu6 gwat1]]
+        heart-wood;
+    - _kwat(7) (2)tsz'_
+        [[gwat1 zi2]]
+        particular, exact, finical;
+    - _kwat(7) yuk(9)_
+        [[gwat1 juk6]]
+        brothers, children, relatives by blood;
+    - _shau(3) kwat(7) (4)(u:) (4)ch(')(a/)i_
+        [[sau3 gwat1 jyu4 caai4]],
+        lean and bony as a stick;
+    - _(5)m(o\) (1)i(u/) kwat(7)_
+        [[mou5 jiu1 gwat1]]
+        regardless of his promise;
+    - _(2)f(a/)n kwat(7)_
+        [[faan2 gwat1]]
+        to turn against one for a slight cause;
+    - _(1)sung kwat(7)_
+        [[sung1 gwat1]]
+        to crack the joints;
+    - _tsz'(6) (5)yau kwat(7) lik(9)_
+        [[zi6 jau5 gwat1 lik6]]
+        the characters are vigorously written;
+    - _ts(i/)n(6) kwat(7) (4)t(')au_
+        [[zin6 gwat1 tau4]],
+        you baseborn runt;
+    - _kwat(7) (4)p(')(a/)i_
+        [[gwat1 paai4-2]],
+        dominoes.
+    ==
+  ====
+$$
+##>
