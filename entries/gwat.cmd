@@ -26,6 +26,28 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~212 #3: 橘(7)]]
+    ==
+    - A small kind of orange;
+    - _(1)kam kwat(7)_
+        [[gam1 gwat1]]
+        the _Citrus madurensis_, or kumquot orange, used for sweetmeats;
+    - _(1)kam kwat(7) (2)tsz' tai(6)_
+        [[gam1 gwat1 zi2 dai6]]
+        a dear little fellow;
+    - _kwat(7) (4)hung_
+        [[gwat1 hung4]],
+        dried orange-skin brought from Hw(a/) chau [[化州]]
+        in the S.~W. of Kw(a/)ngtung [[廣東]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~212 #2: 汩(7)]]
     ==
     - The noise of waves;
