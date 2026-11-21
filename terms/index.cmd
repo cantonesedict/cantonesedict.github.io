@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-11-15
+* %date-modified --> 2026-11-22
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -732,6 +732,9 @@ window.onload = applyFilter;
   //
     , goek3 zi2 mei5-1
     , [腳趾尾](/entries/zi#cantonese-腳趾尾)
+  //
+    , gwit1
+    , [{𠵯=⿰口刮}](/entries/gwit#cantonese-𠵯)
   //
     , haa1
     , [㗇](/entries/haa#cantonese-㗇)
