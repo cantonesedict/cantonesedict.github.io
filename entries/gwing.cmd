@@ -131,3 +131,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+V
+W
+  ====
+  - [[Page~213 #17: (2)駉]]
+    ==
+    - A large and fat horse, one in good case;
+    - a pasture or paddock for horses;
+    - _(2)kwing (2)kwing ~~(5)mau~~ ``(5)m(a/)u`` (5)m(a/)_
+        [[gwing2 gwing2 maau5 maa5]],
+        robust, fine stallions.
+    ==
+  ====
+$$
+##>
