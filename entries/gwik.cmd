@@ -41,6 +41,22 @@ $$
 
 <##
 $$
+H
+W
+  ====
+  - [[Page~213 #7: 虩(7)]]
+    ==
+    - To terrify, to make afraid;
+    - alarmed;
+    - as when seeing a tiger;
+    - a kind of fly.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~213 #5: 聝(7)馘(7)]]
