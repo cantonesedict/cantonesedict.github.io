@@ -317,6 +317,25 @@ $$
 $$
 W
   ====
+  - [[Page~213 #18: (2)憬 _(2)Kwing_ (gwing2)]]
+    ==
+    - To advert to and understand, to be excited upon;
+    - distant, to appear remote; <# TODO: keep under $憬gwing2 #>
+    - _(2)kwing kok(8)_
+        [[gwing2 gok3]]
+        to perceive.
+    ==
+    --
+    Also read _(2)king_ [[ging2]] in the Fan Wan.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~159 (2)景]]
     ==
     - Bright clear, sunlight;
