@@ -24,6 +24,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+W
+  ====
+  - [[Page~213 #5: 聝(7)馘(7)]]
+    ==
+    - To take the heads, or to cut off the left ears of persons killed,
+      or prisoners taken in battle, and send them to court\
+      ^---this was done in ancient times as evidence of victory;
+    - the face.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 A
   ==
   - 鶪
