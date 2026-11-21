@@ -447,3 +447,18 @@ S
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~213 #8: 鴂(8) _Kwik(7)_ (gwik1); here normalised to 鴃 _K(')(u:)t(8)_ (kyut3)]]
+    ==
+    - The tailor bird,
+      called _(2)h(a/)u (5)f(u/) (5)ni(u/)_ [[haau2 fu5 niu5]],
+      "the cunning wife," and many other names;
+    - it sings at the equinoxes, and marks the seasons.
+    ==
+  ====
+$$
+##>
