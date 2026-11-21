@@ -76,6 +76,22 @@ $$
 $$
 W
   ====
+  - [[Page~213 #14: (2)炯]]
+    ==
+    - To examine with a clear light;
+    - brightness, lustre;
+    - _(2)kwing (2)kwing_
+        [[gwing2 gwing2]],
+        effulgent.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~132 (2)熲 _(2)Kang_ (gang2); here corrected to _(2)Kwing_ (gwing2)]]
     ==
     - ~~Used for the last [[耿]];~~
