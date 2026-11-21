@@ -101,3 +101,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~213 #15: (2)絅(2)褧]]
+    ==
+    - A garment without any lining and of a plain color;
+    - to drag or lead one along quickly.
+    ==
+  ====
+$$
+##>
