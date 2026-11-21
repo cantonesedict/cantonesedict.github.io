@@ -721,8 +721,8 @@ W
   - [[Page~103 (4)嶷]]
     ==
     - Name of a range, called (2)Kau (4)(I/) [[gau2 ji4]], or Nine Mts.,
-      where the Emperor Shun [[舜]] was buried---\
-      said to be in Sh(a/)ns(i/) [[山西]];
+      where the Emperor Shun [[舜]] was buried\
+      ---said to be in Sh(a/)ns(i/) [[山西]];
     - eminent, promising;
     - to know.
     ==

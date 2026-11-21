@@ -557,8 +557,8 @@ W
   ====
   - [[Page~100 (4)虹]]
     ==
-    - Colored vapor, the rainbow, halo---\
-      all thought to be an impure effluence of the sky;
+    - Colored vapor, the rainbow, halo\
+      ---all thought to be an impure effluence of the sky;
     - _(1)t(')(i/)n (4)hung_ [[tin1 hung4]],
       _(4)hung (4)ngai_ [[hung4 ngai4]],
         or

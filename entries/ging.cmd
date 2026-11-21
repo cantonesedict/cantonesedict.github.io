@@ -450,9 +450,9 @@ W
         a near path;
     - _(4)ts(')(e/) king(3)_
         [[ce4 ging3]]
-        smart, underhand, tricky conduct;---\
-        the opposite of _king(3) (4)ts(')ing_ [[ging3 cing4]],
-        straightforward.
+        smart, underhand, tricky conduct;\
+        ---the opposite of _king(3) (4)ts(')ing_ [[ging3 cing4]],
+           straightforward.
     ==
   ====
 $$

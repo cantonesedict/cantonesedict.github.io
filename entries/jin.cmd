@@ -612,8 +612,8 @@ W
         a narrow iron mortar in which drugs are ground;
     - _(4)(i/)n kau(3)_
         [[jin4 gau3]]
-        to investigate, to search out thoroughly---\
-        usually implies by torturing.
+        to investigate, to search out thoroughly\
+        ---usually implies by torturing.
     ==
   ====
 $$

@@ -113,8 +113,8 @@ W
         clear as a mirror, perspicacious;
     - _(4)ming keng(3) (1)k(o\) (4)(u:)n_
         [[ming4 geng3 gou1 jyun4]],
-        it is clearly reflected in your mind---\
-        said in praise of astute officers~~.~~``,``
+        it is clearly reflected in your mind\
+        ---said in praise of astute officers~~.~~``,``
     - _(2)h(i/)n (4)m(i/) keng(3)_
         [[hin2 mei4 geng3]]
         a microscope;

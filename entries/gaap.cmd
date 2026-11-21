@@ -83,8 +83,8 @@ W
       the budding forth of a plant;
     - a sprout or bud;
     - the first of the 'ten stems;'
-      _met._ the first, number one, the head, excellent, the best---\
-      from the common use of the 'stems' as ordinal numbers;
+      _met._ the first, number one, the head, excellent, the best\
+      ---from the common use of the 'stems' as ordinal numbers;
     - to begin, to get the start of;
     - to excel, to surpass;
     - armor for the body, a cuirass, a corselet;

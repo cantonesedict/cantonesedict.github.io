@@ -471,8 +471,8 @@ W
     - a sheep, male or female;
     - _(5)'ng (2)k(u/) t(a/)i(6) (1)f(u/)_
         [[ng5 gu2 daai6 fu1]],
-        the lord of the five sheepskins---\
-        a story of Peh-l(i/)-h(i/) [[百里奚]], B.~C.~660.
+        the lord of the five sheepskins\
+        ---a story of Peh-l(i/)-h(i/) [[百里奚]], B.~C.~660.
     ==
   ====
 $$

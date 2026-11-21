@@ -300,8 +300,8 @@ W
     - ~~to reject, to extinguish, as good resolutions~~ ``to remove`` [[Kangxi: 去也徹也]];
     - _~~ch(a/)k(9)~~ ``chok(9)`` f(a/)t(8) (4)n(a/)n (2)sh(o\)_
         [[zok6 faat3 naan4 sou2 擢髮難數]],
-        the hairs can not be counted by pulling them out---\
-        his crimes are ~~unmberless~~ ``numberless``.
+        the hairs can not be counted by pulling them out\
+        ---his crimes are ~~unmberless~~ ``numberless``.
     ==
   ====
 L

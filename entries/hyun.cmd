@@ -49,8 +49,8 @@ W
     - _(1)h(u:)n n(a/)u(6)_
         [[hyun1 naau6]]
         boisterous merriment;
-        to deceive;---\
-        in which sense the second character [[諠]] is the same as the next [[諼]].
+        to deceive;\
+        ---in which sense the second character [[諠]] is the same as the next [[諼]].
     ==
   ====
 $$

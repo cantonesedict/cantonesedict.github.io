@@ -204,8 +204,8 @@ W
         to influence at a distance;
       - to ~~commmunicate~~ ``communicate``;
       - to connect, to implicate;
-      - effected, completed---\
-        in which senses it is often a sign of the past tense.
+      - effected, completed\
+        ---in which senses it is often a sign of the past tense.
       ==
     - As a conjunction:
       ==

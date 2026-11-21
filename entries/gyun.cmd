@@ -213,8 +213,8 @@ W
     - _t(o\)(6) (1)k(u:)n (4)t(')ai_
         [[dou6 gyun1 tai4]],
         the cry of the cuckoo,
-        continued all night till blood comes into its eyes---\
-        as the Chinese believe.
+        continued all night till blood comes into its eyes\
+        ---as the Chinese believe.
     ==
   ====
 $$

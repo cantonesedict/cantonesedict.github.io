@@ -77,8 +77,8 @@ W
     ==
     - To strike, to beat, to lap or knock on;
     - to rush upon or against, to charge, to attack or kill, as in battle;
-    - to interfere with to injury---\
-      as in eating things disagreeing with each other;
+    - to interfere with to injury\
+      ---as in eating things disagreeing with each other;
     - to see, to examine one's self;
     - _kik(7) (2)k(u/)_
         [[gik1 gu2]],

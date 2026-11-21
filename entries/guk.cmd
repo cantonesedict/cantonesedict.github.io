@@ -326,8 +326,8 @@ W
     - white, hoar, venerable, like an old man;
     - _kuk(7) (1)ch(i/) ch(i/)(3)_
         [[guk1 zi1 zi3]]
-        high, comprehensive views, great designs---\
-        alluding to the aerial flight of the swan;
+        high, comprehensive views, great designs\
+        ---alluding to the aerial flight of the swan;
     - _kuk(7) lap(9)_
         [[guk1 lap6]]
         to stand on the lookout like a swan;

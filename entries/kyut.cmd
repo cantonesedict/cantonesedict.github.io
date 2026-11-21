@@ -185,7 +185,7 @@ W
     - defects;
     - a deficiency;
     - to make a vacancy in an office;
-    - duties of an official post, of which there are three sorts---\
+    - duties of an official post, of which there are three sorts---
       ==
       - _(2)k(a/)n ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
           [[gaan2 kyut3]]

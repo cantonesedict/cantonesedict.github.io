@@ -410,8 +410,8 @@ W
         to act upon beneficially;
     - _(2)k(o\)m ts(e/)(6) (5)n(i/)_
         [[gam2 ze6 nei5]],
-        obliged for, thank you much---\
-        the word _cumshaw_ is corrupted from this phrase;
+        obliged for, thank you much\
+        ---the word _cumshaw_ is corrupted from this phrase;
     - _(1)to (2)k(o\)m_
         [[do1 gam2]],
         many thanks;
@@ -456,8 +456,8 @@ W
         presume not to take it, can not venture;
     - _(2)h(i/) (2)k(o\)m_
         [[hei2 gam2]],
-        how can I presume?---\
-        are all polite expressions;
+        how can I presume?\
+        ---are all polite expressions;
     - _(2)t(a/)m (2)k(o\)m_
         [[daam2 gam2]],
         fearless, valorous;

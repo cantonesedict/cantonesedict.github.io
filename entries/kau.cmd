@@ -517,7 +517,7 @@ W
     - proud;
     ==
     --
-    ^---in which senses it is ~~usually~~ pronounced _~~(4)ch(')au~~ ``(4)shau``_ [[sau4]].
+    ---in which senses it is ~~usually~~ pronounced _~~(4)ch(')au~~ ``(4)shau``_ [[sau4]].
     --
     ==
     - _(4)K(')au (5)ngau_

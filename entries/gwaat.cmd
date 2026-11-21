@@ -52,8 +52,8 @@ W
         to destroy a place;
     - _kw(a/)t(8) muk(9) (1)s(e/)ung (1)hon_
         [[gwaat3 muk6 soeng1 hon1]],
-        to rub one's eyes and to treat well---\
-        spoken of another's sudden prosperity;
+        to rub one's eyes and to treat well\
+        ---spoken of another's sudden prosperity;
     - _l(i/)(6) kw(a/)t(8)_
         [[lei6 gwaat3]]
         a tongue-scraper.

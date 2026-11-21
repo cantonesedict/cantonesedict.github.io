@@ -172,8 +172,8 @@ W
         run against it;
     - _(4)ts(')z' pat(7) (2)h(o\)m (5)ng(a/)_
         [[ci4 bat1 ham2 ngaa5]],
-        porcelain does not batter earthenware---\
-        _i.~e._ I will not contend with him;
+        porcelain does not batter earthenware\
+        ---_i.~e._ I will not contend with him;
     - _(2)h(o\)m (4)t(')au (4)m(a/)i (4)ts(')(e/)ung_
         [[ham2 tau4-2 maai4 coeng4]],
         I have run my head against the wall;

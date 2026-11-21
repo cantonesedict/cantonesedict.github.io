@@ -301,8 +301,8 @@ W
         deportment;
     - _(2)k(u:) on(3) (4)ts(')ai (4)m(i/)_
         [[geoi2 on3 cai4 mei4]],
-        "table even with the eyebrows," to respect a husband---\
-        refers to an old legend of Mang Kw(a/)ng [[孟光]].
+        "table even with the eyebrows," to respect a husband\
+        ---refers to an old legend of Mang Kw(a/)ng [[孟光]].
     ==
   ====
 $$

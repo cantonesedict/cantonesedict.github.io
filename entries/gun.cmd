@@ -72,8 +72,8 @@ W
     - able, superior;
     - _(2)yung k(u/)n(3) (1)s(a/)m (1)kwan_
         [[jung2 gun3 saam1 gwan1]],
-        the bravest "capped" in three armies---\
-        one who has been promoted for courage;
+        the bravest "capped" in three armies\
+        ---one who has been promoted for courage;
     - _k(u/)n(3) (4)ch(')(e/)ung_
         [[gun3 coeng4]],
         excelling in the three martial tests.
@@ -113,9 +113,9 @@ W
         what is your name or office?
     - _~~(4)^Ting~~ ``(4)T(')ing`` (1)k(u/)n_
         [[ting4 gun1]],
-        Mr.~Ting, or Tingqua, as it is commonly called in Canton---\
-        the change to _qua_ is derived from _~~(1)kwⁿá~~ ``(1)kwáⁿ``_,
-        the pronunciation of _(1)k(u/)n_ at Amoy [[廈門]];
+        Mr.~Ting, or Tingqua, as it is commonly called in Canton\
+        ---the change to _qua_ is derived from _~~(1)kwⁿá~~ ``(1)kwáⁿ``_,
+           the pronunciation of _(1)k(u/)n_ at Amoy [[廈門]];
     - _(2)k(i/) (2)pan (1)k(u/)n_
         [[gei2 ban2 gun1]],
         what rank is he?

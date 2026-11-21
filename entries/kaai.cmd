@@ -54,8 +54,8 @@ W
   ====
   - [[Page~122 (5){𢬿=⿰扌戒} _(5)^K(a/)i_ (gaai5); here corrected to _(5)K(')(a/)i_ (kaai5)]]
     ==
-    - A colloquial word---\
-      to pass (at table), to take, to carry in the hand, to bring for use;
+    - A colloquial word\
+      ---to pass (at table), to take, to carry in the hand, to bring for use;
     - _~~(5)^k(a/)i~~ ``(5)k(')(a/)i`` (2)p(a/) (1)t(o\) ~~(5)^tsai~~ ``(2)tsai`` (4)lai (5)ngo_
         [[kaai5 baa2 dou1 zai2 lai4 ngo5]],
         bring me a penknife;

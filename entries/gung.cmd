@@ -395,8 +395,8 @@ W
         busy, occupied;
     - _(1)kung tsz'(6) pat(7) ch(')ut(7) (4)t(')au_
         [[gung1 zi6 bat1 ceot1 tau4 工字不出頭]],
-        the letter _kung_ [[工]] has no head---\
-        a workman can not become a boss.
+        the letter _kung_ [[工]] has no head\
+        ---a workman can not become a boss.
     ==
   ====
 C
@@ -438,8 +438,8 @@ W
         to pull a bow;
     - _(1)kung, (1)t(o\), ~~shek(8)~~ ``shek(9)``_
         [[gung1, dou1, sek6]]
-        trials in pulling a bow, fencing, and in lifting stones---\
-        at the military examinations.
+        trials in pulling a bow, fencing, and in lifting stones\
+        ---at the military examinations.
     ==
   ====
 $$
