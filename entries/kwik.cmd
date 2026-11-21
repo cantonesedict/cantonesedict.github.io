@@ -24,6 +24,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+W
+  ====
+  - [[Page~213 #2: 洫(7) _Kwik(7)_ (gwik1); here normalised to _Kw(')ik(7)_ (kwik1)]]
+    ==
+    - A water-course in fields;
+    - a moat;
+    - a sluice for water;
+    - overflowing.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 U
   U+9699
 H
