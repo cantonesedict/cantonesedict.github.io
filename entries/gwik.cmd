@@ -26,6 +26,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~213 #9: 綌(7)]]
+    ==
+    - A sort of coarse hempen fabric, made of the Dolichos;
+    - anciently used for towels and kerchiefs.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~213 #6: 虢(7)]]
     ==
     - The gash or marks made by a tiger when seizing his prey;
