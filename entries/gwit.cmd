@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> gwit
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-11-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
-
---{.modern}
-(From Page~214 of the original onwards.)
---
 
 #{.williams} Kw(i/)t. [[gwit]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Kw(i/)t. [[Page~214]]
+  ==
+WP
+  ==
+  - Kw(i/)t <span class="modern">= *[kʷiːt̚]</span>
+  ==
+MP
+  ==
+  - gwit = [kʷiːt̚]
+  ==
+$$
