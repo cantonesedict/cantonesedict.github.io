@@ -72,6 +72,19 @@ $$
 $$
 W
   ====
+  - [[Page~213 #10: 闃(7)]]
+    ==
+    - Silent, from being unoccupied;
+    - empty, solitary, alone.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~213 #5: 聝(7)馘(7)]]
     ==
     - To take the heads, or to cut off the left ears of persons killed,
