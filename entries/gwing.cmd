@@ -114,3 +114,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~213 #16: (2)迥]]
+    ==
+    - Void, waste, desert;
+    - remote;
+    - also, bright, lustrous;
+    - _(2)kwing p(i/)t(9)_
+        [[gwing2 bit6]]
+        very different.
+    ==
+  ====
+$$
+##>
