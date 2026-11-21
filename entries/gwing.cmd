@@ -61,6 +61,21 @@ $$
 $$
 W
   ====
+  - [[Page~213 #13: (2)泂]]
+    ==
+    - Distant, remote;
+    - profound, vague;
+    - an abyss;
+    - to forbid.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~132 (2)熲 _(2)Kang_ (gang2); here corrected to _(2)Kwing_ (gwing2)]]
     ==
     - ~~Used for the last [[耿]];~~
