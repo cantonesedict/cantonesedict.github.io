@@ -45,6 +45,20 @@ $$
 
 <##
 $$
+V
+W
+  ====
+  - [[Page~213 #12: (2)坰]]
+    ==
+    - A desert or void place, a wild remote from towns;
+    - the edge of a forest.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~132 (2)熲 _(2)Kang_ (gang2); here corrected to _(2)Kwing_ (gwing2)]]
