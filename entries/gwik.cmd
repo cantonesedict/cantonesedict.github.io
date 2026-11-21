@@ -26,6 +26,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~213 #6: 虢(7)]]
+    ==
+    - The gash or marks made by a tiger when seizing his prey;
+    - a surname;
+    - name of a state in the Tsin [[秦]] dynasty,
+      now Yungy(a/)ng hien [[滎陽縣]]
+      in K(')(a/)ifung f(u/) [[開封府]]
+      in Hon(a/)n [[河南]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~213 #5: 聝(7)馘(7)]]
     ==
     - To take the heads, or to cut off the left ears of persons killed,
