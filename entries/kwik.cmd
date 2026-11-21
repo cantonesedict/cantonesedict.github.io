@@ -33,6 +33,18 @@ W
     - a sluice for water;
     - overflowing.
     ==
+  - [[Page~213 #3: 淢(7) _Kwik(7)_ (gwik1); here normalised to _Kw(')ik(7)_ (kwik1)]]
+    --
+    Same as the last [[洫]].
+    --
+    --
+    Read _wik(9)_ [[wik6]]
+    --
+    ==
+    - to flow rapidly;
+    - a current;
+    - water foaming and rising.
+    ==
   ====
 $$
 ##>
