@@ -437,6 +437,25 @@ $$
 $$
 W
   ====
+  - [[Page~219 #5: 栵(6)]]
+    ==
+    - Trees growing in rows;
+    - a kind of wood used by cartwrights.
+    ==
+    --
+    Read _l(i/)t(9)_ [[lit6]]
+    --
+    ==
+    - a kind of wild chestnut.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~218 #7: 濿(6)]]
     ==
     - To cross a stream on stepping-stones, to ford a rivulet;
