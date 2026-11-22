@@ -430,3 +430,19 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #11: 蠣(6)]]
+    ==
+    - A rock oyster,
+      called _~~(5)mau~~ ``(5)m(a/)u`` lai(6)_ [[maau5 lai6]]_;_
+    - _lai(6) (4)fong_
+        [[lai6 fong4]],
+        the shell of this mollusk used as a medicine.
+    ==
+  ====
+$$
+##>
