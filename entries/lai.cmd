@@ -319,6 +319,23 @@ $$
 $$
 W
   ====
+  - [[Page~219 #1: 儷(6)]]
+    ==
+    - A pair, a couple, as husband and wife;
+    - together with;
+    - companions, mates, fellows;
+    - _k(')ong(3) lai(6)_
+        [[kong3 lai6]]
+        a match.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~218 #6: 勵(6)]]
     ==
     - To exert;
