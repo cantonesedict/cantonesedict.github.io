@@ -60,6 +60,29 @@ $$
 $$
 W
   ====
+  - [[Page~217 #7: (4)藜]]
+    ==
+    - A kind of herb, whose leaves are edible when young,
+      and the stalks fit for canes when grown;
+    - a sort of golden rod;
+    - _p(')(u/)i(3) (4)lai_
+        [[pui3 lai4]],
+        a confused multitude;
+    - _(4)lai ch(e/)ung(6)_
+        [[lai4 zoeng6]]
+        a cane;
+    - _tsat(9) (4)lai_
+        [[zat6 lai4]],
+        a spinous herb used in ophthalmia.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~217 #6: (4)黎]]
     ==
     - To prepare ground for rice;
