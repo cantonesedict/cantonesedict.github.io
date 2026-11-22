@@ -78,6 +78,22 @@ $$
 $$
 W
   ====
+  - [[Page~215 #3: 幗(8)]]
+    ==
+    - A hempen cap or kerchief worn by women when mourning;
+    - a female headdress;
+    - _(1)kan kwok(8) (1)ch(i/) yuk(9)_
+        [[gan1 gwok3 zi1 juk6]]
+        the "disgrace of kerchiefs,"---poltroonry.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~215 #2: 蟈(8)]]
     ==
     - A kind of small green frog,
