@@ -21,3 +21,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~219 #3: 酈(6) _Lai(6)_ (lai6); here normalised to _(4)L(i/)_ (lei4)]]
+    ==
+    - Name of a place in the state L(u/) [[魯]],
+      now comprised in the prefecture of Tangchau [[滕州]] in Sh(a/)ntung [[山東]];
+    - a surname. <# TODO: correct to $酈lik6 #>
+    ==
+  ====
+$$
+##>
