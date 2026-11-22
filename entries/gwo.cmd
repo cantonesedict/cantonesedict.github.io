@@ -162,3 +162,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~214 #7: (2)裹]]
+    ==
+    - To bundle up, to wrap or wind around;
+    - to envelop;
+    - a bundle;
+    - the receptacle of flowers, place where the fruit sets;
+    - _(2)kwo k(e/)uk(8)_
+        [[gwo2 goek3]]
+        to bind the feet;
+    - _(1)p(a/)u (2)kwo_
+        [[baau1 gwo2]],
+        to wrap up;
+    - _(1)chong (2)kwo_
+        [[zong1 gwo2]],
+        habiliments of the dead;
+    - _(2)kwo (5)t(')(o\)_
+        [[gwo2 tou5]],
+        a belly-wrapper, a stomacher.
+    ==
+  ====
+$$
+##>
