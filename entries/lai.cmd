@@ -276,6 +276,30 @@ $$
 $$
 W
   ====
+  - [[Page~218 #4: (5)蠡]]
+    ==
+    - A wood borer, bugs which eat wood;
+    - _(4)p(')(a/)ng (5)lai_
+        [[paang4 lai5]],
+        a marsh in Y(a/)ngchau f(u/) [[揚州府]].
+    ==
+    --
+    Read _(4)lai_ [[lai4]],
+    --
+    ==
+    - a calabash;
+    - _(5)(i/) (4)lai ch(')ak(7) (2)hoi_
+        [[ji5 lai4 cak1 hoi2]],
+        to measure the ocean with a gourd---presumptuous ignorance.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~218 #2: (5)醴]]
     ==
     - Sweet or newly distilled spirits, made from glutinous rice;
