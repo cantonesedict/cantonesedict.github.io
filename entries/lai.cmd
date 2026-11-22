@@ -319,6 +319,54 @@ $$
 $$
 W
   ====
+  - [[Page~219 #4: 例(6)]]
+    ==
+    - To compare together, to classify, to adjust, to arrange;
+    - laws, rules, regulations, directions, by-laws;
+    - order, disposition of things, mode or custom of;
+    - _tsak(7) lai(6)_
+        [[zak1 lai6]]
+        rules of the Boards;
+        regulations;
+    - _(2)p(i/) lai(6)_
+        [[bei2 lai6]]
+        to compare;
+    - _f(a/)n(6) lai(6)_ [[faan6 lai6]]
+        or
+      _(4)wai lai(6)_ [[wai4 lai6]]
+        to oppose or break the law;
+    - _(1)hoi lai(6)_
+        [[hoi1 lai6]]
+        to make a rule;
+    - _(4)'m h(o\)p(9) sz'(6) lai(6)_
+        [[m4 hap6 si6 lai6]]
+        it is not the way or custom;
+    - _lai(6) (4)t(')au_
+        [[lai6 tau4]],
+        a regulation;
+    - _lai(6) shau(6)_
+        [[lai6 sau6]]
+        "would have legally been given,"\
+        ---a phrase applied to titles of deceased graduates;
+    - _lai(6) pat(7) (4)f(u/)_
+        [[lai6 bat1 fu4]],
+        not according to etiquette or law;
+    - _~~teng(6)~~ ``ting(6)`` lai(6)_
+        [[ding6 lai6]]
+        a settled custom;
+    - _(4)shing lai(6)_
+        [[sing4 lai6]]
+        it has become a custom.
+    ==
+  ====
+  <# TODO: 例牌 lai6 paai4-2, 例湯 lai6 tong1 #>
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~219 #1: 儷(6)]]
     ==
     - A pair, a couple, as husband and wife;
