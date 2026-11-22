@@ -55,3 +55,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~217 #6: (4)黎]]
+    ==
+    - To prepare ground for rice;
+    - black, dark brown;
+    - many, numerous;
+    - _(4)lai (4)ming_
+        [[lai4 ming4]],
+        early dawn;
+    - _(4)lai (4)man_
+        [[lai4 man4]],
+        the black-haired race---the Chinese;
+    - _(4)lai chung(3)_
+        [[lai4 zung3]]
+        the people, a multitude, all;
+    - _(4)Lai (4)yan_
+        [[lai4 jan4]],
+        tribes of aborigines in H(a/)in(a/)n [[海南]] I.
+    ==
+  ====
+$$
+##>
