@@ -314,3 +314,39 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #5: 厲(6)]]
+    ==
+    - A whetstone;
+    - to grind, to rub, to sharpen;
+    - to inspirit, to excite, to animate;
+    - to discipline;
+    - to commence;
+    - severe, harsh, stern, majestic;
+    - raging, furious, violent, cruel, excessive, tyrannical;
+    - ugly;
+    - to ford a stream;
+    - dangerous disease;
+    - _(4)(i/)m lai(6)_
+        [[jim4 lai6]]
+        severely strict;
+    - _lai(6) (4)man_
+        [[lai6 man4]],
+        to oppress the people;
+    - _lai(6) (1)ping_
+        [[lai6 bing1]],
+        to animate troops;
+    - _lai(6) (2)kwai_
+        [[lai6 gwai2]],
+        an orbate spirit, a fierce demon.
+    ==
+    --
+    Used for the four following [[勵, 濿, 癘, 礪]].
+    --
+  ====
+$$
+##>
