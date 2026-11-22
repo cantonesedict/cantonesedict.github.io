@@ -36,6 +36,11 @@ W
         [[gwaak3 seng1]],
         a clap.
     ==
+  - [[Page~215 #4: 摑(8) _Kwok(8)_ (gwok3)]]
+    ==
+    - To slap one's head or mouth;
+    - often pronounced _kw(a/)k(8)_ [[gwaak3]] in Canton.
+    ==
   ====
 $$
 ##>
