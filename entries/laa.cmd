@@ -49,3 +49,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~217 #2: (2)揦]]
+    ==
+    - To take with the fingers, to grab at, to clutch up;
+    - _(2)l(a/) (2)h(i/) (4)lai_
+        [[laa2 hei2 lai4]],
+        take it up.
+    ==
+    <# TODO: 攻鼻揦喉 laa2 ("irritate", "corrode") #>
+  ====
+S
+  ==
+  - $揦laa5 (TODO)
+  ==
+$$
+##>
