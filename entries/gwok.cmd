@@ -116,3 +116,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~215 #6: 郭(8)]]
+    ==
+    - The wall inclosing the gates of Chinese cities,
+      forming a greater security for defending the gate,
+      commonly called _ung(3) (1)h(u:)n_ [[ung3 hyun1]]_;_
+    - a surname.
+    ==
+  ====
+$$
+##>
