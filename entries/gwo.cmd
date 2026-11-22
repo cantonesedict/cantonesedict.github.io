@@ -73,3 +73,77 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~214 #5: (2)果(2)菓]]
+    ==
+    - Edible fruits, fruits with seeds or kernels in them;
+    - to overcome, to surpass;
+    - results;
+    - to conclude, to see the end of;
+    - courageous, hardy;
+    - really, truly, indeed;
+    - perfection or nigban of the Budhists;
+    - _p(a/)k(8) (2)kwo_
+        [[baak3 gwo2]],
+        all sorts of fruits;
+    - _(2)kwo (4)(i/)n_
+        [[gwo2 jin4]],
+        certainly;
+    - _k(i/)t(8) (2)kwo (5)k(')(u:)_
+        [[git3 gwo2 keoi5]],
+        finish him, make away with him,---said of criminals;
+    - _(2)kwo t(u:)n(3)_
+        [[gwo2 dyun3]]
+        to decide finally or justly;
+    - _(2)kwo (2)tsz'_
+        [[gwo2 zi2]]
+        fruit;
+    - _(2)kwo (2)k(o\)m_
+        [[gwo2 gam2]],
+        great courage, intrepid;
+    - _(1)yan (2)kwo_
+        [[jan1 gwo2]],
+        cause and effect;
+        absorption into Budha;
+    - _(4)(u:) (2)kwo hai(6) (2)k(o\)m_
+        [[jyu4 gwo2 hai6 gam2]],
+        is it so, really?
+        or as a reply, it certainly is so;
+    - _(2)kwo (2)pan_
+        [[gwo2 ban2]],
+        sorts of fruits;
+    - _(1)kwai ching(3) (2)kwo_
+        [[gwai1 zing3 gwo2]],
+        to reform one's conduct;
+    - _(4)n(i/) tik(7) (2)kwo (1)shang_
+        [[nei4 dik1 gwo2 sang1]],
+        this fruit is green;
+    - _(2)fan (2)kwo_
+        [[fan2 gwo2]],
+        meat cakes steamed;
+    - _(4)t(')ong (2)kwo_
+        [[tong4 gwo2]],
+        sweet meats;
+    - _(2)kwo ~~t(i/)p(8)~~ ``t(i/)p(9)``_
+        [[gwo2 dip6]]
+        plates of fruit;
+    - _(4)sh(i/) (2)kwo_
+        [[si4 gwo2]],
+        fruits in season;
+    - _(2)kwo (1)l(a/)n_
+        [[gwo2 laan1]],
+        a fruit-market;
+    - _(4)k(')(i/) sz'(6) pat(7) (2)kwo_
+        [[kei4 si6 bat1 gwo2]],
+        the matter is not yet ended.
+    ==
+    --
+    The second character [[菓]] is commonly used for fruit.
+    --
+  ====
+$$
+##>
