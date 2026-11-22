@@ -74,6 +74,24 @@ $$
 $$
 W
   ====
+  - [[Page~217 #4: {？=⿰口鏬}(3); here normalised to 喇]]
+    ==
+    - A final particle, used when a matter is finished, or will do as it is;
+    - _(2)k(o\)m w(a/)(6) l(a/)(3)_
+        [[gam2 waa6 laa3]]
+        well, as you say;
+    - _ts(o\)(6) mat(7) (5)y(e/) l(a/)(3)_
+        [[zou6 mat1 je5 laa3]]
+        what have you been doing?
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~217 #3: 罅(3)]]
     ==
     - A crevice, a cleft, a crack or very slight fissure;
