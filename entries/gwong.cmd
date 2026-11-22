@@ -137,3 +137,41 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~216 #4: (2)廣]]
+    ==
+    - Broad, extensive, wide, spacious;
+    - large, ample;
+    - to enlarge, to make broader or wider, to extend;
+    - to increase;
+    - to diffuse;
+    - a body of 15~chariots;
+    - _(2)kwong (4)hang_
+        [[gwong2 hang4]],
+        extensively diffused or made known;
+    - _(2)kwong t(a/)i(6)_
+        [[gwong2 daai6]]
+        large, profound, as one's learning or estate;
+    - _(2)kwong (4)y(e/)ung_
+        [[gwong2 joeng4]],
+        to publish everywhere;
+    - _(2)Kwong (1)tung (4)sheng_
+        [[gwong2 dung1 seng4]],
+        the city of Canton;
+    - _(5)l(o\) (2)Kwong (1)tung_
+        [[lou5 gwong2 dung1]],
+        an old resident of Canton;
+    - _(5)L(e/)ung (2)Kwong_
+        [[loeng5 gwong2]],
+        the two Broad provinces;
+    - _l(e/)ung(6) (2)kwong_
+        [[loeng6 gwong2]],
+        able to drink much.
+    ==
+  ====
+$$
+##>
