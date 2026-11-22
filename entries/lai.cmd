@@ -188,3 +188,72 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #1: (5)禮(5)礼]]
+    ==
+    - Propriety, etiquette;
+    - ceremonies, rites, acts which are meet when serving the gods;
+    - decorum, manners, politeness;
+    - the rules of society, what is requisite and becoming to a station;
+    - official obeisance, worship;
+    - courtesy, prompted by good feeling;
+    - offerings, a gift required by usage;
+    - _(5)lai (4)(i/)_ [[lai5 ji4]],
+        or
+      _(1)kon (5)lai_ [[gon1 lai5]],
+        a present of money;
+    - _(5)lai sh(o\)(3)_
+        [[lai5 sou3]]
+        requirements of politeness, rules of society;
+    - _(5)lai m(a/)u(6)_
+        [[lai5 maau6]]
+        good manners;
+    - _h(o\)p(9) (5)lai_
+        [[hap6 lai5]],
+        courteous;
+    - _(4)m(o\) (5)lai_
+        [[mou4 lai5]],
+        impertinent, rude;
+    - _(1)kam yat(9) (5)lai p(a/)i(3)_
+        [[gam1 jat6 lai5 baai3]]
+        to-day is Sabbath;
+    - _yat(7) ko(3) (5)lai p(a/)i(3)_
+        [[jat1 go3 lai5 baai3]]
+        a week;
+    - _(5)lai p(a/)i(3) (i/)(6)_
+        [[lai5 baai3 ji6]]
+        Tuesday;
+    - _(5)lai p(a/)i(3) (4)t(')ong_
+        [[lai5 baai3 tong4]],
+        a church;
+    - _sung(3) (5)lai_
+        [[sung3 lai5]],
+        to send a present;
+    - _(5)lai (1)kam_ [[lai5 gam1]]
+        or
+      _(5)lai sz'(6)_ [[lai5 si6]]
+        money paid at betrothing;
+    - _shap(7) (5)lai_
+        [[sap1 lai5]],
+        a present (not of money);
+    - _(5)lai (1)to_
+        [[lai5 do1]],
+        obsequious;
+    - _(4)sh(e/)ung (5)lai_
+        [[soeng4 lai5]],
+        usual etiquette;
+    - _(4)hang t(a/)i(6) (5)lai_
+        [[hang4 daai6 lai5]],
+        to perform a high obeisance;
+    - _(5)lai (4)fong_
+        [[lai5 fong4]],
+        the department or office in a y(a/)mun [[衙門]]
+        which attends to observances.
+    ==
+  ====
+$$
+##>
