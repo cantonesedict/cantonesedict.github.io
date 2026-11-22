@@ -437,6 +437,21 @@ $$
 $$
 W
   ====
+  - [[Page~720 #13: 捩(6)]]
+    ==
+    - A plectrum for thrumming a guitar;
+    - to snap the strings;
+    - to snap asunder, to twitch;
+    - to guide, as a helm.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~219 #5: 栵(6)]]
     ==
     - Trees growing in rows;
