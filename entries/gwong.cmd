@@ -89,3 +89,21 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~216 #1: (1)桄]]
+    ==
+    - A kind of palm like the areca,
+      called _(1)kwong (4)long_ [[gwong1 long4]],
+      of which sedan thills are made;
+    - a cut water;
+    - _(1)k(i/) (1)kwong_
+        [[gei1 gwong1]],
+        the beam of the loom.
+    ==
+  ====
+$$
+##>
