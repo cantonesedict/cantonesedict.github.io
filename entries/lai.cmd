@@ -319,6 +319,23 @@ $$
 $$
 W
   ====
+  - [[Page~218 #6: 勵(6)]]
+    ==
+    - To exert;
+    - to encourage, to animate;
+    - to urge to;
+    - _(5)m(i/)n lai(6)_
+        [[min5 lai6]]
+        to rouse up to effort.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~218 #5: 厲(6)]]
     ==
     - A whetstone;
