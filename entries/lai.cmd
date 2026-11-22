@@ -193,6 +193,20 @@ $$
 $$
 W
   ====
+  - [[Page~218 #3: (5)澧]]
+    ==
+    - Name of a river emptying into Tungting [[洞庭]] Lake;
+    - _(5)Lai (1)chau_ [[lai5 zau1]],
+      an inferior prefecture in the north of H(u/)n(a/)n [[湖南]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~218 #1: (5)禮(5)礼]]
     ==
     - Propriety, etiquette;
