@@ -24,6 +24,40 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <##
 $$
+W
+  ====
+  - [[Page~217 #9: (2){𡅏=⿰口禮}; here normalised to 捩]]
+    --
+    A colloquial word;
+    --
+    ==
+    - to turn,
+      as _(2)lai (2)ch(u:)n (4)t(')au_ [[lai2 zyun2 tau4]],
+      to turn the head;
+    - stiff,
+      as _fan(3) (2)lai (2)keng_ [[fan3 lai2 geng2]],
+      a stiff neck from sleeping awry;
+    - to accuse falsely;
+    - _(2)lai (5)k(')(u:) ts(o\)(6) ts(')(a/)k(9)_
+        [[lai2 keoi5 zou6 caak6-2]]
+        impeached him as a robber;
+    - _(1)(u:)n (2)lai (5)k(')(u:)_
+        [[jyun1 lai2 keoi5]],
+        involved him falsely;
+    - _(2)lai (2)shau (2)p(i/)_
+        [[lai2 sau2 bei2]],
+        give it behind his back;
+    - _(2)lai (2)shau (1)t(o\) (2)hang_
+        [[lai2 sau2 dou1 hang2]],
+        he'll take less if he is beat down.
+    ==
+  ====
+  <# TODO: Wiktionary $捩lai6-2 is not defensible #>
+$$
+##>
+
+<##
+$$
 V
   ==
   - lai4-2 (emphatic in 嚟喇)
