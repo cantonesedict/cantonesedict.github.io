@@ -69,3 +69,38 @@ S
   ==
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~217 #3: 罅(3)]]
+    ==
+    - A crevice, a cleft, a crack or very slight fissure;
+    - _(5)yau l(a/)(3)_
+        [[jau5 laa3]]
+        it is cracked, opened;
+    - _lau(6) l(a/)(3)_
+        [[lau6 laa3]]
+        leaky;
+        to escape, to elude;
+    - _l(a/)(3) (1)l(i/) l(a/)(3) (1)lung_
+        [[laa3 lei1 laa3 lung4-1]],
+        a cranny, a hole, by-place;
+    - _k(a/)(3) l(a/)(3) (2)s(e/)_
+        [[gaa3 laa3-2 se2]],
+        write it between the lines;
+    - _l(a/)(3) (2)ch(a/)_
+        [[laa3 zaa2]], <# TODO: move under $揦laa5 #>
+        dirty, fouled;
+    - _l(a/)(3) ~~kwik(7)~~ ``kw(')ik(7)``_
+        [[laa3 kwik1]]
+        a cause of offense;
+        a crack;
+    - _hong(6) l(a/)(3)_
+        [[hong6 laa3]]
+        a very narrow alley.
+    ==
+  ====
+$$
+##>
