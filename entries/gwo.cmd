@@ -46,6 +46,21 @@ $$
 $$
 W
   ====
+  - [[Page~214 #4: (1)渦]]
+    ==
+    - A branch of the R.~Hw(a/)i [[淮]],
+      which rises in Hon(a/)n [[河南]],
+      and flows S.~E. into it at Hw(a/)iyuen hien [[懷遠縣]]
+      in Ng(a/)nhwui [[安徽]].
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~214 #3: (1)簻(1)薖]]
     ==
     - To strike, to whip a horse;
