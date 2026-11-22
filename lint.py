@@ -344,7 +344,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "l(e/)m": ['lem'],
     "l(e/)uk": ['loek'],
     "l(e/)ung": ['loeng'],
-    "l(i/)": ['lei'],
+    "l(i/)": ['lei', 'li'],
     "l(i/)m": ['lim'],
     "l(i/)n": ['lin'],
     "l(i/)p": ['lip'],
