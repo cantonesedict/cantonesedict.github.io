@@ -131,3 +131,15 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~215 #7: 鞹(8)]]
+    ==
+    - Hide, dressed and curried skin, with the hair taken off.
+    ==
+  ====
+$$
+##>
