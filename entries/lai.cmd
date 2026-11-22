@@ -446,3 +446,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #12: 麗(6)]]
+    ==
+    - A stag walking and then stopping;
+    - an adjective of praise;
+    - elegant, graceful, glorious, adorned, good, lovely, fair, beautiful\
+      ---according to the character of the noun;
+    - luxurious, extravagant;
+    - flowery, bright;
+    - to couple, a pair;
+    - attached to, belonging to, as clothes or the heart do to the body;
+    - a boat;
+    - a beam;
+    - a number;
+    - to hit;
+    - _(4)w(a/) lai(6)_
+        [[waa4 lai6]]
+        magnifical;
+    - _(5)m(i/) lai(6)_
+        [[mei5 lai6]]
+        beautiful;
+    - _(1)K(o\) lai(6) kwok(8)_
+        [[gou1 lai6 gwok3]] <# TODO: normalise to $麗lei4 #>
+        Corea;
+    - _(1)s(e/)ung f(u/)(6) lai(6)_
+        [[soeng1 fu6 lai6]]
+        proportional, corresponding to, as guilt and punishment.
+    ==
+  ====
+$$
+##>
