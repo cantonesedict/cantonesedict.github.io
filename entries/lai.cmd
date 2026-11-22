@@ -396,3 +396,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #9: 礪(6)]]
+    ==
+    - A coarse kind of sandstone, a whetstone for sharpening tools;
+    - _lai(6) shek(9)_
+        [[lai6 sek6]]
+        sandstone.
+    ==
+  ====
+$$
+##>
