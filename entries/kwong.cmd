@@ -21,3 +21,20 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~216 #6: 礦(3)鑛(3) _Kwong(3)_ (gwong3); here normalised to _Kw(')ong(3)_ (kwong3)]]
+    ==
+    - The ore of iron, lead, and other metals;
+    - minerals;
+    - the lode of metals, gems in the matrix;
+    - _t(')(i/)t(8) ~~kwong(3)~~ ``kw(')ong(3)``_
+        [[tit3 kwong3]]
+        iron ore, ironstone.
+    ==
+  ====
+$$
+##>
