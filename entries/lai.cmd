@@ -546,6 +546,25 @@ $$
 $$
 W
   ====
+  - [[Page~219 #6: 茘(6); here normalised to 荔(6)]]
+    ==
+    - A fruit tree, the l(i/)ch(i/) or laich(i/) _(Dimocarpus leche);_
+    - a kind of flag with fibrous roots;
+    - _kw(a/)(3) luk(9) lai(6) (1)ch(i/)_
+        [[gwaa3 luk6 lai6 zi1]],
+        small-pit laichi, the best sort;
+    - _t(a/)i(6) (4)ho (1)p(a/)u lai(6) (1)ch(i/)_
+        [[daai6 ho4 baau1 lai6 zi1]],
+        the early laich(i/).
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~218 #11: 蠣(6)]]
     ==
     - A rock oyster,
