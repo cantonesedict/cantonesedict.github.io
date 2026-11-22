@@ -175,3 +175,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~216 #5: (2)誑]]
+    ==
+    - Wild, incoherent talk;
+    - to deceive, to mislead, to lie to;
+    - _(2)kwong (4)(i/)n_
+        [[gwong2 jin4]],
+        lying words;
+    - _yau(3) (2)tsz' (4)sh(e/)ung sh(i/)(6) (4)m(o\) (2)kwong_
+        [[jau3 zi2 soeng4 si6 mou4 gwong2]],
+        children never mislead one.
+    ==
+  ====
+$$
+##>
