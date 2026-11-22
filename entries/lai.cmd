@@ -382,3 +382,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #8: 癘(6)]]
+    ==
+    - Foul, virulent ulcers, plague sores;
+    - a pestilence, epidemic;
+    - noxious vapors.
+    ==
+  ====
+$$
+##>
