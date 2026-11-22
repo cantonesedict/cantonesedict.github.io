@@ -411,3 +411,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #10: 糲(6)]]
+    ==
+    - Coarse, rough, food;
+    - unhulled or uncleansed rice;
+    - _lai(6) shik(9)_
+        [[lai6 sik6]]
+        coarse food;
+    - _(1)ts(')(o\) lai(6)_
+        [[cou1 lai6]]
+        plain---applied to fare.
+    ==
+  ====
+$$
+##>
