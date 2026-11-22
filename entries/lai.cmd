@@ -257,3 +257,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #2: (5)醴]]
+    ==
+    - Sweet or newly distilled spirits, made from glutinous rice;
+    - sweet, applied to fountains;
+    - _(2)h(e/)ung (5)lai_
+        [[hoeng2 lai5]],
+        an imperial feast;
+    - _(2)tsau (5)lai_
+        [[zau2 lai5]],
+        spirits used in sacrifice.
+    ==
+  ====
+$$
+##>
