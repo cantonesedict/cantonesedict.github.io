@@ -94,6 +94,22 @@ $$
 $$
 W
   ====
+  - [[Page~215 #8: 椁(8); here normalised to 槨]]
+    ==
+    - A coffin or box which incloses the true coffin;
+    - to measure;
+    - _shek(9) kwok(8)_
+        [[sek6 gwok3]]
+        a stone sarcophagus.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~215 #5: 膕(8)]]
     ==
     - The popliteal space;
