@@ -107,3 +107,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~216 #2: (1)洸]]
+    ==
+    - Water sparkling and glistening in the sun;
+    - a river in Sh(a/)ns(i/) [[山西]];
+    - wide;
+    - _(1)kwong (1)kwong_
+        [[gwong1 gwong1]]
+        martial, threatening.
+    ==
+  ====
+$$
+##>
