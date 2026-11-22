@@ -367,3 +367,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~218 #7: 濿(6)]]
+    ==
+    - To cross a stream on stepping-stones, to ford a rivulet;
+    - _(1)sham tsak(7) lai``(6)``_
+        [[sam1 zak1 lai6]],
+        if deep then get stones to cross.
+    ==
+  ====
+$$
+##>
