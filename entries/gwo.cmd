@@ -147,3 +147,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~214 #6: (2)蜾]]
+    ==
+    - The solitary wasp or sphex;
+    - _(2)kwo (2)lo_
+        [[gwo2 lo2]],
+        wasps, which imprison caterpillars in their nests.
+    ==
+  ====
+$$
+##>
