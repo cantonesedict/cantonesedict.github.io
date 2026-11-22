@@ -416,6 +416,33 @@ $$
 
 <##
 $$
+A
+  ==
+  - 矖 (Cantonese)
+  ==
+W
+  ====
+  - [[Page~219 #2: 矖(6); here normalised to 矋]]
+    <ins>
+    --
+    A colloquial word.
+    --
+    </ins>
+    ==
+    - To look at, to gaze;
+    - _(5)ng(a/)n lai(6) lai(6)_
+        [[ngaan5 lai6 lai6]]
+        to stare at;
+    - _(5)n(i/) (5)mai lai(6) ch(u:)(6) (5)ngo_
+        [[nei5 mai5 lai6 zyu6 ngo5]],
+        don't stare at me.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~218 #9: 礪(6)]]
