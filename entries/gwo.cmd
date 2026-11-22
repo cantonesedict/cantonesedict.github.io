@@ -21,3 +21,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~214 #2: (1)戈]]
+    ==
+    - A kind of halberd, the cross bar of which is used as a hook;
+    - the 62d~radical [[U+2F3D ⼽ "halberd"]] of characters referring to arms;
+    - warlike weapons;
+    - _(2)cham (1)kwo toi(6) ~~t(a/)n(6)~~ ``t(a/)n(3)``_
+        [[zam2 gwo1 doi6 daan3]]
+        laid on their arms till morning;
+    - _tung(6) (1)kon (1)kwo_
+        [[dung6 gon1 gwo1]],
+        to take up arms, to commence war.
+    ==
+  ====
+$$
+##>
