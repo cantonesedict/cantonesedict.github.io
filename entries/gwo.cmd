@@ -41,3 +41,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~214 #3: (1)簻(1)薖]]
+    ==
+    - To strike, to whip a horse;
+    - a switch, a lash;
+    - grass, plants;
+    - wide, easy;
+    - hunger;
+    - the first of these [[簻]] is also read _(1)ch(a/)_ [[zaa1]].
+    ==
+  ====
+$$
+##>
