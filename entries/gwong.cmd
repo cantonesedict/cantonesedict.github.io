@@ -124,3 +124,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~216 #3: (1)胱]]
+    ==
+    - The bladder is called _(4)p(')ong (1)kwong_ [[pong4 gwong1]],
+      the last word referring to its breadth.
+    ==
+  ====
+$$
+##>
