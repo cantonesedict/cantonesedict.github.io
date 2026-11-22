@@ -70,6 +70,14 @@ W
         [[zin3 gwok3]]
         the contending states, about B.~C.~400--260.
     ==
+  - [[Page~720 #12: 國(8)]]
+    ==
+    - As a verb;
+    - to maintain the dignity of a state;
+    - _(4)ho (5)(i/) (4)wai kwok(8)_
+        [[ho4 ji5 wai4 gwok3]]
+        how can the majesty of the country be maintained?
+    ==
   ====
 $$
 ##>
