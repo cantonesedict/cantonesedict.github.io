@@ -73,3 +73,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~215 #2: 蟈(8)]]
+    ==
+    - A kind of small green frog,
+      called _(4)lau kwok(8)_ [[lau4 gwok3]]
+      with long thighs.
+    ==
+  ====
+$$
+##>
