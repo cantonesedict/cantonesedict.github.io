@@ -78,3 +78,46 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~220 #8: 勒(9)]]
+    ==
+    - A bridle-bit, a curb;
+    - a headstall;
+    - to bridle, to rein in, to restrain;
+    - to oblige, to require, to force to do;
+    - to exact unjustly, to vex;
+    - to engrave, to cut in stone;
+    - to tie up or around, to strangle;
+    - _(5)m(a/) lak(9)_
+        [[maa5 lak6]]
+        a horse's bit;
+    - _lak(9) sok(8)_
+        [[lak6 sok3]]
+        to extort;
+        to compel one to take up with;
+    - _lak(9) ch(u:)(6) ~~chek(9)~~ ``chek(8)`` (5)m(a/)_
+        [[lak6 zyu6 zek3 maa5]],
+        hold in the horse;
+    - _lak(9) (1)i(u/)_
+        [[lak6 jiu1]],
+        to tie by the waist;
+    - _lak(9) pik(7)_
+        [[lak6 bik1]]
+        to force or insist on doing;
+    - _lak(9) (1)yau_
+        [[lak6 jau1]],
+        to require to resign;
+    - _lak(9) ch(a/)(3)_
+        [[lak6 zaa3]]
+        to oppress in order to get money;
+    - _lak(9) (2)sz'_
+        [[lak6 sei2]]
+        to strangle to death.
+    ==
+  ====
+$$
+##>
