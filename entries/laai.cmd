@@ -167,6 +167,22 @@ $$
 $$
 W
   ====
+  - [[Page~220 #3: 䄤(6)]]
+    ==
+    - Fallen in ruins;
+    - remiss in sacrificing;
+    - _(1)ch(u:) l(a/)i(6)_
+        [[zyu1 laai6]]
+        to curse, to imprecate.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~220 #2: 賴(6)頼(6)]]
     ==
     - To depend on, to lean on;
