@@ -105,3 +105,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~219 #9: (4){？=⿰口頼}; here normalised to {𡃤=⿰口賴}]]
+    --
+    A colloquial word;
+    --
+    ==
+    - to leave behind one, to omit, to pass over;
+    - tired, indisposed to;
+    - _(1)i(u/) (4)l(a/)i kwat(7) ts(')ik(8)_
+        [[jiu1 laai4 gwat1 cik3]]
+        tired out, my back aches;
+    - _(4)l(a/)i lau(6)_
+        [[laai4 lau6]]
+        careless, slovenly;
+    - _(4)l(a/)i (4)t(')au s(a/)t(8) (5)m(i/)_
+        [[laai4 tau4 saat3 mei5]],
+        negligent in everything.
+    ==
+  ====
+  <# TODO: 軟{𡃤=⿰口賴}{𡃤=⿰口賴} jyun5 laai4 laai4 #>
+  <# TODO: 長{𡃤=⿰口賴}？ coeng4 laai4 kwaai4 #>
+$$
+##>
