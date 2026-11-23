@@ -183,6 +183,22 @@ $$
 $$
 W
   ====
+  - [[Page~220 #4: 藾(6)]]
+    ==
+    - A water vegetable, a sort of celery;
+    - to cover, shaded;
+    - _(1)s(a/)m l(a/)i(6)_
+        [[saam1 laai6]]
+        capoor cutchery.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~220 #2: 賴(6)頼(6)]]
     ==
     - To depend on, to lean on;
