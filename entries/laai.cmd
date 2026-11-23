@@ -183,6 +183,23 @@ $$
 $$
 W
   ====
+  - [[Page~220 #5: 籟(6)]]
+    ==
+    - A musical pipe with three tubes or reeds;
+    - any arrangement of tubes or pipes;
+    - a whizzing, moaning, or soughing noise;
+    - _(1)t(')(i/)n l(a/)i(6) tsz'(3) (4)ming_
+        [[tin1 laai6 zi3 ming4]],
+        the whistling of the wind.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~220 #4: 藾(6)]]
     ==
     - A water vegetable, a sort of celery;
