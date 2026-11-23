@@ -110,6 +110,36 @@ $$
 $$
 W
   ====
+  - [[Page~220 #1: 癩(3)]]
+    ==
+    - A virulent blotch or eruption;
+    - the leprosy or a scrofulous affection like it;
+    - now applied to the itch, the impetigo,
+      and other chronic cutaneous diseases;
+    - _(1)kon l(a/)i(3)_
+        [[gon1 laai3]]
+        the itch;
+    - _shap(7) l(a/)i(3)_
+        [[sap1 laai3]]
+        the impetigo;
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` l(a/)i(3)_
+        [[saang1 laai3]]
+        to have the itch;
+    - _l(a/)i(3) (1)s(i/)n_
+        [[laai3 sin1]],
+        one covered with itch;
+    - _l(a/)i(3) (1)ch(')ong_
+        [[laai3 cong1]],
+        itch sores.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~219 #9: (4){？=⿰口頼}; here normalised to {𡃤=⿰口賴}]]
     --
     A colloquial word;
