@@ -21,3 +21,24 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~219 #7: (1)孻]]
+    ==
+    - The last child;
+    - _(1)l(a/)i (2)tsai_
+        [[laai1 zai2]],
+        the youngest child;
+    - _(1)l(a/)i (5)m(i/)_
+        [[laai1 mei5-1]],
+        the last one;
+    - _(1)kw(a/) (1)l(a/)i_
+        [[gwaa1 laai1]],
+        any small _(1)kw(a/)_ [[gwaa1]] or melons.
+    ==
+  ====
+$$
+##>
