@@ -21,3 +21,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~221 #2: 喀(8); here normalised to 嘞]]
+    ==
+    - A final particle, implying a fullfilment, a finish of a matter;
+    - _(2)h(o\) l(a/)k(8)_
+        [[hou2 laak3]]
+        very well;
+        so, that will do;
+        no more;
+    - _h(u:)(3) l(a/)k(8)_
+        [[heoi3 laak3]]
+        certainly, he's gone.
+    ==
+  ====
+$$
+##>
