@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-23
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -214,7 +214,7 @@ S
   ==
 $$
 
-###+ 赤3 | _Ch(')ek(8)_ [[cek3]]
+###+ 赤3 | _Ch(')ek(8)_ _Ts(')ek(8)_ [[cek3]]
 
 $$.
 R
@@ -225,6 +225,11 @@ F
   [[Not present]]
 W
   [[Not present]]
+C
+  ==
+  - Here, _ch(')ek(8)_ is for the reading variation of $赤cik3,
+    while _ts(')ek(8)_ is for the alternative form of ${𤷫=⿸疒刺}cek3.
+  ==
 P
   ++
   1. Reading variation. **See $赤cik3 for the canonical entry.**

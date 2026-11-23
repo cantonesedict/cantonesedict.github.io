@@ -2995,8 +2995,8 @@
 "赤":{
 "cek3":{
 "isCanonical":false,
-"williams":"ch(')ek(8)",
-"text":"U+8D64"
+"williams":"ch(')ek(8) ts(')ek(8)",
+"text":"U+8D64 Here, _ch(')ek(8)_ is for the reading variation of 赤 cik3, while _ts(')ek(8)_ is for the alternative form of 𤷫 cek3."
 },
 "cik3":{
 "isCanonical":true,
