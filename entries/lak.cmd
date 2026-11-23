@@ -26,6 +26,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~220 #7: 扐(7) _Lak(7)_ (lak1); here corrected to _Lak(9)_ (lak6)]]
+    ==
+    - To divine with fifty straws between the fingers;
+    - they are reduced to 49, and divided into two parcels at hazard,
+      from one of which a straw is taken and put by the little finger,
+      and four others then selected to put with it,
+      the remainder of the parcel
+      being distributed between the other two fingers;
+    - the other parcel is then divided in the same manner on the other hand,
+      and the lengths of the two compared with the 64~diagrams
+      to ascertain the luck.
+    ==
+    --
+    Also, to bind.
+    --
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~220 #6: 肋(7) _Lak(7)_ (lak1); here corrected to _Lak(9)_ (lak6)]]
     ==
     - The ribs, the side of the body;
