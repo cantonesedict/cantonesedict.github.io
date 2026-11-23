@@ -162,3 +162,47 @@ W
   <# TODO: 長{𡃤=⿰口賴}？ coeng4 laai4 kwaai4 #>
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~220 #2: 賴(6)頼(6)]]
+    ==
+    - To depend on, to lean on;
+    - to rely on, to confide in, to trust to;
+    - to assume, to act on a falsity, to trump up;
+    - to profit one's self, to get advantage;
+    - to calumniate, to accuse falsely;
+    - to leave, to forget;
+    - _(4)t(')(o\) l(a/)i(6)_
+        [[tou4 laai6]]
+        to involve the guiltless in punishment;
+    - _(4)m(o\) (4)li(u/) (4)m(o\) l(a/)i(6)_
+        [[mou4 liu4 mou4 laai6-2]]
+        living by his wits, a haphazard living;
+    - _(4)m(o\) l(a/)i(6) (1)ch(i/) (4)t(')(o\)_
+        [[mou4 laai6-2 zi1 tou4]]
+        no dependance on, a loafer, a lazy fellow, a suspicious chap;
+    - _l(a/)i(6) lok(9)_
+        [[laai6 lok6]]
+        to forget to take away;
+    - _l(a/)i(6) sh(o\)(3)_
+        [[laai6 sou3]]
+        to extort a trumped up debt;
+    - _kung(6) (5)k(')(u:) l(a/)i(6) hau(6)_
+        [[gung6 keoi5 laai6 hau6]]
+        very intimate with him;
+    - _l(a/)i(6) (1)hi(u/) tsz'(6)_
+        [[laai6 hiu1 zi6]]
+        to omit a character;
+    - _l(a/)i(6) shing(6) yat(7) (4)t(')i(u/)_
+        [[laai6 sing6 jat1 tiu4]],
+        left one behind me;
+    - _l(a/)i(6) ts(')o(3)_
+        [[laai6 co3]]
+        to accuse falsely, a groundless charge.
+    ==
+  ====
+$$
+##>
