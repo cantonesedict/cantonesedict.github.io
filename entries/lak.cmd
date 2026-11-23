@@ -49,6 +49,36 @@ $$
 $$
 W
   ====
+  - [[Page~221 #1: 簕(9)竻(9)]]
+    ==
+    - A spinous and thorny kind of bamboo, used for hedges;
+    - bamboo roots;
+    - spines, thorns;
+    - _lak(9) k(o\)m(3) (4)h(a/)i_
+        [[lak6 gam3 haai4]],
+        rough as a bramble;
+    - _lak(9) lam(6)_
+        [[lak6 lam6]]
+        a bramble or quickset bush;
+    - _(2)fo (1)y(e/)ung lak(9)_
+        [[fo2 joeng1 lak6]]
+        a cactus;
+    - _(2)ch(')(a/)i ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` lak(9)_
+        [[caai2 zoek6 lak6]]
+        to stick a thorn in the foot.
+    ==
+    ==
+    - ~~The first character [[簕]] is also read _(1)kan_ [[gan1]]_;_~~
+    - ~~the second [[竻]] is unauthorized.~~
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~220 #6: 肋(7) _Lak(7)_ (lak1); here corrected to _Lak(9)_ (lak6)]]
     ==
     - The ribs, the side of the body;
