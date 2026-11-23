@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1216,7 +1216,7 @@ W
         [[caam5 hoi1 bin1 鏨開邊]],
         to split open an edge;
     - _(2)p(i/) lak(9) ~~ts(a/)m~~ ``(5)ts(')(a/)m``_
-        [[bei2 lak6-1 caam5 畀竻鏨]],
+        [[bei2 lak6 caam5 畀竻鏨]],
         the thorn pierced me.
     ==
   ====

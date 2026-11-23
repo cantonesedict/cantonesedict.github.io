@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> haai
-* %date-modified --> 2026-11-15
+* %date-modified --> 2026-11-23
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -143,7 +143,7 @@ W
     - An exclamation of disappointment, Alas! Oh!
     - rough, hispid, harsh;
     - _lak(9) k(o\)m(3) (4)h(a/)i_
-        [[lak6-1 gam3 haai4 竻咁嚡]],
+        [[lak6 gam3 haai4 竻咁嚡]],
         sharp as a bramble, morose, surly;
     - _(1)ts(')(o\) (4)h(a/)i_
         [[cou1 haai4 粗嚡]],
