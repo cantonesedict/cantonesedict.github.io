@@ -68,8 +68,8 @@ W
         to stick a thorn in the foot.
     ==
     ==
-    - ~~The first character [[簕]] is also read _(1)kan_ [[gan1]]_;_~~
-    - ~~the second [[竻]] is unauthorized.~~
+    - The ~~first~~ ``second`` character [[竻]] is also read _(1)kan_ [[gan1]]_;_
+    - the ~~second~~ ``first`` [[簕]] is unauthorized.
     ==
   ====
 $$
