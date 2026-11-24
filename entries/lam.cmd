@@ -87,3 +87,29 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~221 #5: (4)淋]]
+    ==
+    - Dropping;
+    - dripping, water running off;
+    - to soak, to moisten, to wet;
+    - _(4)lam (1)f(a/)_
+        [[lam4 faa1]],
+        to sprinkle flowers;
+    - _(4)lam (4)l(i/)_
+        [[lam4 lei4]],
+        soaked, drenched, continual dropping;
+    - _chi(u/)(3) (4)t(')au (4)lam_
+        [[ziu3 tau4 lam4]],
+        to throw water on one;
+    - _(4)lam shap(7)_
+        [[lam4 sap1]]
+        wet through.
+    ==
+  ====
+$$
+##>
