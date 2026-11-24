@@ -113,3 +113,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~221 #6: (4)霖]]
+    ==
+    - Interchanged with the last [[淋]];
+    - a timely rain of three days fall;
+    - incessant rains;
+    - _(1)k(o\)m (4)lam_
+        [[gam1 lam4]],
+        an opportune shower;
+    - _(5)(u:) (4)lam (4)t(')au_
+        [[jyu5 lam4 tau4]],
+        wet in a shower;
+    - _met._ care taken after losing things.
+    ==
+  ====
+$$
+##>
