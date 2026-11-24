@@ -261,3 +261,38 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #2: (5)廩]]
+    ==
+    - A government granary;
+    - a corn-house, a grange, a dépôt for grain;
+    - to give grain to students;
+    - _(1)ts(')ong (5)lam_
+        [[cong1 lam5]],
+        a granary;
+    - _(5)lam luk(9)_
+        [[lam5 luk6]]
+        the stipend for certain students;
+    - _(5)lam (1)shang_
+        [[lam5 sang1]],
+        a stipendary si(u/)ts(a/)i [[秀才]];
+    - _(2)p(o\) (5)lam_
+        [[bou2 lam5]],
+        to get on the list of stipendaries.
+    ==
+    --
+    A colloquial word;
+    --
+    ==
+    - to sooth, to make sleek, to soften what is harsh, to smooth;
+    - _(5)lam (1)ts(i/)m (4)t(')i(u/) (5)m(i/)_
+        [[lam5 zim1 tiu4 mei5]],
+        smooth its tail, _met._ polish or mollify his expressions.
+    ==
+  ====
+$$
+##>
