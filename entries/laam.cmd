@@ -21,3 +21,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #6: (4)婪]]
+    ==
+    - Covetous, greedy of gain;
+    - to desire, to long after;
+    - _~~(1)t(a/)m~~ ``(1)t(')(a/)m`` (4)l(a/)m_
+        [[taam1 laam4]],
+        avaricious, niggardly;
+    - _(4)l(a/)m s(a/)p(8)_
+        [[laam4 saap3]]
+        grasping, close;
+    - _(4)l(a/)m (1)tsong_
+        [[laam4 zong1]],
+        hoards obtained by griping dealings~~;~~``.``
+    ==
+  ====
+$$
+##>
