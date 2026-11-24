@@ -151,6 +151,75 @@ $$
 $$
 W
   ====
+  - [[Page~221 #9: (4)臨]]
+    ==
+    - To look down upon, to behold with a care for, to superintend;
+    - a superior regarding or going to an inferior;
+    - to bless or curse, by coming to;
+    - to descend upon;
+    - to go to;
+    - to commence, at the point of, about to do;
+    - during, when, time of meeting;
+    - makes the present gerundive;
+    - the 19th~diagram;
+    - great;
+    - _(4)lam (2)sz'_
+        [[lam4 sei2]]
+        near death, when he was dying;
+    - _(4)lam (4)man_
+        [[lam4 man4]]
+        to superintend or govern the people;
+    - _(4)lam shai(3)_
+        [[lam4 sai3]]
+        to come into the world;
+    - _(1)ts(')an (4)lam (2)t(')ai_
+        [[can1 lam4 tai2]],
+        go and see myself;
+    - _(4)lam (4)sh(i/) 'ng(6) sz'(6)_
+        [[lam4 si4 ng6 si6]]
+        to hinder a matter at the time;
+    - _(4)lam h(u:)(3)_
+        [[lam4 heoi3]]
+        going;
+    - _(4)lam kap(7) (4)lam (4)mong_
+        [[lam4 gap1 lam4 mong4]],
+        to hurry one's self, be quick;
+    - _(4)lam y(e/)(6)_
+        [[lam4 je6]]
+        nightfall;
+    - _(1)kwong ~~(4)l(a/)m~~ ``(4)lam`` (4)m(a/)u sh(e/)(3)_
+        [[gwong1 lam4 maau4 se3]]
+        you honor my hamlet;
+    - _(4)lam (1)sham_
+        [[lam4 sam1]],
+        to face or brave danger, fearless;
+    - _(4)lam lok(9) (4)lau_
+        [[lam4 lok6 lau4-2]],
+        when he goes down stairs;
+    - _(4)lam (5)l(o\) yap(9) (1)f(a/) (4)ts(')ung_
+        [[lam4 lou5 jap6 faa1 cung4]],
+        to take a young wife when old;
+    - _(4)lam t(')(i/)p(8)_
+        [[lam4 tip3-2]]
+        to imitate a writing;
+    - _(4)lam ching(3)_
+        [[lam4 zing3]]
+        to examine diseases;
+    - _(4)lam (4)ch(')i(u/)_
+        [[lam4 ciu4]],
+        to be at a levee;
+    - _(4)lam (4)p(')(u/)n_
+        [[lam4 pun4]],
+        time of childbirth.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~221 #6: (4)霖]]
     ==
     - Interchanged with the last [[淋]];
