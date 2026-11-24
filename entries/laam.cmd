@@ -78,3 +78,34 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #9: (4)藍]]
+    ==
+    - A plant used to dye blue, the Isatis;
+    - _(4)l(a/)m shik(7)_
+        [[laam4 sik1]]
+        a blue or indigo color;
+    - _(4)y(e/)ung (4)l(a/)m_
+        [[joeng4 laam4]],
+        foreign indigo;
+    - _(5)l(o\) (4)l(a/)m_
+        [[lou5 laam4]],
+        blue black;
+    - _(4)l(a/)m (4)t(')(i/)n_
+        [[laam4 tin4]],
+        the blue field, a famous place in the district of that name
+        near S(i/)ng(a/)n f(u/) [[西安府]] in Shens(i/) [[陝西]];
+    - _(4)l(a/)m t(i/)n(6)_
+        [[laam4 din6]]
+        native indigo.
+    ==
+    --
+    Used for the next [[襤]].
+    --
+  ====
+$$
+##>
