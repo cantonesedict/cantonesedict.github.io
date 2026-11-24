@@ -326,3 +326,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #5: 㨆(6)]]
+    --
+    A colloquial word;
+    --
+    ==
+    - to pile up, to lay on each other;
+    - a group, to go in a crowd;
+    - ~~to sooth, to soften what is harsh;~~
+    - _lam(6) (2)h(i/)_
+        [[lam6 hei2]],
+        pile it up;
+    - _lam(6) (4)ch(')(a/)_
+        [[lam6 caa4]],
+        pile up tea;
+    - _(2)tsau (4)m(a/)i (4)yan lam(6)_
+        [[zau2 maai4 jan4 lam6]]
+        to hide in the crowd;
+    - _lam(6) (4)ts(')ai_
+        [[lam6 cai4]],
+        to pile or lay even;
+    - _lam(6) (4)ts(')(e/)ung_
+        [[lam6 coeng4]],
+        to lay a wall.
+    ==
+  ====
+$$
+##>
