@@ -128,3 +128,35 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #11: (2)㰖 _(2)L(a/)m_ (laam2); here normalised to 欖 _(5)L(a/)m_ (laam5)]]
+    ==
+    - _(1)K(o\)m (2)l(a/)m_
+        [[gam1 laam5-2]],
+        the _Canarium_, of which the _p(a/)k(9) (2)l(a/)m_ [[baak6 laam5-2]]
+        is the _Canarium album;_
+        and the _(1)(u/) (2)l(a/)m_ [[wu1 laam5-2]] is the _Canarium pimela;_
+    - _(2)l(a/)m sh(i/)(6)_ [[laam5-2 si6]]
+        or
+      _(2)l(a/)m kok(8)_ [[laam5-2 gok3]]
+        a condiment of olives;
+    - _(4)h(a/)m (2)l(a/)m_
+        [[haam4 laam5-2]],
+        salted olives;
+    - _(4)hau (2)l(a/)m_
+        [[hau4 laam5-2]],
+        Adam^'s apple;
+    - _(4)h(o\)m muk(9) (2)l(a/)m_
+        [[ham4 muk6 laam5-2]],
+        to hold a wooden olive---silent;
+    - _(1)ti(u/) (2)l(a/)m wat(9)_
+        [[diu1 laam5-2 wat6]]
+        carved olive seeds.
+    ==
+  ====
+$$
+##>
