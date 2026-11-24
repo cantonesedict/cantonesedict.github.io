@@ -109,3 +109,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #10: (4)襤]]
+    ==
+    - A single coverlet;
+    - ragged, mean clothes, without collar or trimming;
+    - _(1)(i/) (1)sh(a/)m (4)l(a/)m l(u:)(6)_
+        [[ji1 saam1 laam4 leoi6]]
+        tattered raiment;
+    - _(4)l(a/)m ~~(5)lau~~ ``(5)l(u:)``_
+        [[laam4 leoi5]],
+        dirty, as raiment.
+    ==
+  ====
+$$
+##>
