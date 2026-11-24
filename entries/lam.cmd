@@ -132,6 +132,25 @@ $$
 $$
 W
   ====
+  - [[Page~221 #8: (4)痳]]
+    ==
+    - A disease of the bladder or ureter;
+    - a strangury or dysury arising from any cause;
+    - _(1)sh(a/) (4)lam_
+        [[saa1 lam4]],
+        gravel;
+    - _h(u:)t(8) (4)lam_
+        [[hyut3 lam4]],
+        bloody urine.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~221 #6: (4)霖]]
     ==
     - Interchanged with the last [[淋]];
