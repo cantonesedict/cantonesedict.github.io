@@ -118,6 +118,20 @@ $$
 $$
 W
   ====
+  - [[Page~221 #7: (4)琳]]
+    ==
+    - A kind of precious stone,
+      called _(4)k(')au (4)lam_ [[kau4 lam4]],
+      perhaps a species of prase.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~221 #6: (4)霖]]
     ==
     - Interchanged with the last [[淋]];
