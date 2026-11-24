@@ -43,3 +43,17 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #7: (4)嵐]]
+    ==
+    - Vapor or cloudy mist on a hill top
+      is called _(1)sh(a/)n (4)l(a/)m_ [[saan1 laam4]]_;_
+    - name of a hill near T(a/)``i``yuen f(u/) [[太原府]] in Sh(a/)ns(i/) [[山西]].
+    ==
+  ====
+$$
+##>
