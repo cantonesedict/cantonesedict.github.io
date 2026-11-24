@@ -296,3 +296,18 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #3: (5)懍]]
+    ==
+    - Fear, respect;
+    - _(5)lam (5)lam_
+        [[lam5 lam5]],
+        serious, afraid of, reverentially obedient or accordant to.
+    ==
+  ====
+$$
+##>
