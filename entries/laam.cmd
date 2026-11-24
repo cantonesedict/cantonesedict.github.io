@@ -57,3 +57,24 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #8: (4)籃]]
+    ==
+    - Baskets, usually with cross handles, made of bamboo, wire, or rattan;
+    - _(4)l(a/)m ~~(1)kw(')(a/)ng~~ ``(1)hong``_
+        [[laam4 hong1]],
+        baskets in general;
+    - _(1)m(e/) (4)ch(')(e/)ung (5)(i/) (4)l(a/)m_
+        [[me1 coeng4 ji5 laam4-2]],
+        to back a long-eared basket---to be a beggar;
+    - _(1)f(a/) (4)l(a/)m_
+        [[faa1 laam4-2]],
+        baskets made of flowers.
+    ==
+  ====
+$$
+##>
