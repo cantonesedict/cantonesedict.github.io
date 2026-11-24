@@ -311,3 +311,16 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #4: (5)稟]]
+    ==
+    - To nourish, to give, to sustain, to provide food or pay for;
+    - to give out grain.
+    ==
+  ====
+$$
+##>
