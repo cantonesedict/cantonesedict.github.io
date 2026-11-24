@@ -236,3 +236,28 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~222 #1: (5)凛; here normalised to 凜]]
+    ==
+    - Shivering with cold;
+    - great cold;
+    - an awe-inspiring manner;
+    - trembling, fearing, as people should in presence of rulers;
+    - _(5)lam (5)lam_
+        [[lam5 lam5]],
+        piercingly cold;
+        awe-struck;
+    - _(5)lam l(i/)t(9)_
+        [[lam5 lit6]]
+        stern, terrific;
+    - _(5)lam (1)tsun_
+        [[lam5 zeon1]],
+        trembling obedience.
+    ==
+  ====
+$$
+##>
