@@ -197,3 +197,31 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~223 #2: (5)覽]]
+    ==
+    - To behold, to look at carefully, to see from a distance;
+    - to understand, to perceive;
+    - _yat(7) (5)l(a/)m_
+        [[jat1 laam5]],
+        at one view;
+    - _(5)l(a/)m sh(i/)(6)_
+        [[laam5 si6]]
+        to see;
+    - _(1)kung ~~(4)^ching~~ ``(4)ch(')ing`` (u:)(6) (5)l(a/)m_
+        [[gung1 cing4 jyu6 laam5]]
+        sent up for his majesty's inspection;
+    - _(1)p(')ai (5)l(a/)m_
+        [[pai1 laam5]],
+        to publish judicial cases to the people;
+    - _(5)l(a/)m (1)k(u/)n (1)kam (2)k(u/)_
+        [[laam5 gun1 gam1 gu2]],
+        an extensively read man.
+    ==
+  ====
+$$
+##>
