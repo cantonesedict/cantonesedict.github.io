@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-10-25
+* %date-modified --> 2026-11-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1042,6 +1042,13 @@ L
     ==
     - (_noun-like_) steelyard
     ==
+  ====
+E
+  ====
+  - 【抽秤】 (cau1 cing3)
+    ++
+    1. To find fault with.
+    ++
   ====
 S
   ==
