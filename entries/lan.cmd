@@ -21,3 +21,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<##
+$$
+A
+  ==
+  - {𠹹=⿰口倫} (Cantonese)
+  ==
+W
+  ====
+  - [[Page~223 #7: _(1)Lan_ (lan1); here corrected to _(4)Lan_ (lan4) and assigned to 蹸]]
+    --
+    A colloquial word;
+    --
+    ==
+    - quick, speedy;
+    - _(4)p(')an ~~(1)lan~~ ``(4)lan``_
+        [[pan4 lan4]],
+        in a hurry, quick.
+    ==
+  ====
+$$
+##>
