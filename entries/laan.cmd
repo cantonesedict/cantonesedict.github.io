@@ -26,6 +26,36 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ====
+  - [[Page~721 #2: (1)囒]]
+    ==
+    - Is used in writing foreign words;
+    - as _(4)Ho (1)l(a/)n kwok(8)_
+        [[ho4 laan1 gwok3]]
+        Holland;
+    - _f(a/)t(8) (1)l(a/)n (4)yan_
+        [[faat3 laan1 jan4]],
+        flannel;
+    - _f(a/)t(8) (1)l(a/)n (1)sai_
+        [[faat3 laan1 sai1]],
+        France;
+    - _(4)ng(a/) (1)l(a/)n (5)mai_
+        [[ngaa4 laan1 mai5]],
+        cochineal.
+    ==
+    --
+    Read _(4)l(a/)n_ [[laan4]]_;_
+    --
+    ==
+    - a jargon, an unintelligible talk.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~223 #8: (1)欄]]
     --
     A colloquial word;
