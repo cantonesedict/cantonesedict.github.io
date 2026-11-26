@@ -1390,7 +1390,7 @@ LINTING_MISSPELT_JYUTPING_YOD_RUN_PATTERN = re.compile(
 
 LINTING_DUAL_ROMANISATION_PATTERN = re.compile(
     pattern=r'''
-        _ (?P<williams> \S [^_\n]*? \S ) _
+        (?: _ | [<][|] ) (?P<williams> \S [^_|\n]*? \S ) (?: _ | [|][>] )
         \s+
         (?: \[\[ | \( )
             (?P<jyutping_caret> \^? )
