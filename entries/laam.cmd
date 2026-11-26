@@ -228,6 +228,47 @@ $$
 
 <##
 $$
+V
+W
+  ====
+  - [[Page~223 #4: 濫(6)]]
+    ==
+    - A fresh, a rising of water;
+    - excess;
+    - incroaching, overflowing, violating, intruding on;
+    - to float;
+    - to soak;
+    - excessive, profuse, beyond bounds;
+    - irregular, careless, loose, or lawless,
+      according to the circumstances;
+    - _l(a/)m(6) (4)ying_
+        [[laam6 jing4]],
+        illegal punishments;
+    - _l(a/)m(6) yung(6)_
+        [[laam6 jung6]]
+        to use profusely;
+    - _l(a/)m(6) (2)s(e/)_
+        [[laam6 se2]],
+        scribbling;
+    - _(4)m(o\) l(a/)m(6)_
+        [[mou4 laam6]]
+        no excess;
+    - _l(a/)m(6) fai(3)_
+        [[laam6 fai3]]
+        to waste;
+    - _l(a/)m(6) (1)k(a/)u_
+        [[laam6 gaau1]],
+        to associate with the lowbred;
+    - _l(a/)m(6) (1)hoi sh(o\)(3) muk(9)_
+        [[laam6 hoi1 sou3 muk6]]
+        to charge higher than the settled price.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
 W
   ====
   - [[Page~223 #3: 䌫(6); here normalised to 纜]]
