@@ -225,3 +225,41 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~223 #3: 䌫(6); here normalised to 纜]]
+    ==
+    - A rope, a hawser, a cable, a painter;
+    - to tie on, to bind with cord;
+    - to drag with a rope;
+    - _l(a/)m(6) (4)sh(u:)n_
+        [[laam6 syun4]],
+        to track a vessel;
+    - _t(a/)i(6) l(a/)m(6)_
+        [[daai6 laam6]]
+        a cable;
+    - _(2)t(a/) l(a/)m(6)_
+        [[daa2 laam6]]
+        to twist ropes;
+    - _(2)k(a/)i l(a/)m(6)_
+        [[gaai2 laam6]]
+        to weigh anchor;
+    - _l(a/)m(6) (4)t(')au p(a/)k(9)_
+        [[laam6 tau4 baak6]]
+        to bind on a mourning cap, a funeral garb;
+    - _(1)l(a/)i l(a/)m(6)_
+        [[laai1 laam6]]
+        to haul the rope;
+    - _l(a/)m(6) (2)k(a/)u (4)'m (4)m(a/)i_
+        [[laam6 gaau2 m4 maai4]],
+        a rope will not join them,---very unlike;
+    - _l(a/)m(6) l(o\)(6)_
+        [[laam6 lou6]]
+        a tracking path.
+    ==
+  ====
+$$
+##>
