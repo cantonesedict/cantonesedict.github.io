@@ -75,6 +75,21 @@ $$
 $$
 W
   ====
+  - [[Page~224 #7: (4)斕]]
+    ==
+    - A mixture of colors on animals, mottled, speckled;
+    - _(1)p(a/)n (4)l(a/)n_
+        [[baan1 laan4]],
+        striped, brindled.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~224 #5: (4)攔]]
     ==
     - To stop with the hand, to hinder, to prevent;
