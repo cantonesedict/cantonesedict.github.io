@@ -70,3 +70,23 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~224 #2: (4)欄]]
+    ==
+    - A railing or balustrade for a support and defense;
+    - a pen or bar for animals;
+    - to rail in;
+    - _(4)l(a/)n (1)kon_
+        [[laan4 gon1]],
+        a railing;
+    - _(5)m(a/) (4)l(a/)n_
+        [[maa5 laan4]],
+        a horse pen.
+    ==
+  ====
+$$
+##>
