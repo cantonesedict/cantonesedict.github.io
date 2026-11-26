@@ -231,6 +231,30 @@ $$
 V
 W
   ====
+  - [[Page~223 #5: 檻(6)]]
+    ==
+    - A baluster, a railing, a row of bars below a window;
+    - a den for furious beasts;
+    - to cage;
+    - _l(a/)m(6) l(a/)m(6)_
+        [[laam6 laam6]]
+        rumbling of carriages;
+    - _l(a/)m(6) (1)ch(')(e/)_
+        [[laam6 ce1]],
+        a cart with a cage on it.
+    ==
+    --
+    Sometimes read _K(a/)m(3)_ [[gaam3]], and used for the last [[濫]].
+    --
+  ====
+$$
+##>
+
+<##
+$$
+V
+W
+  ====
   - [[Page~223 #4: 濫(6)]]
     ==
     - A fresh, a rising of water;
