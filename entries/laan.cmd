@@ -226,3 +226,42 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~224 #8: (5){？=⿰忄頼}; here normalised to 懶]]
+    ==
+    - A listless, lazy lout;
+    - remiss, sluttish;
+    - sleepy;
+    - averse, disinclined to do;
+    - _(5)l(a/)n to(6)_
+        [[laan5 do6]]
+        lazy;
+    - _t(a/)i(6) shik(9) (5)l(a/)n_
+        [[daai6 sik6 laan5]],
+        a lazy glutton;
+    - _(2)to (5)l(a/)n_
+        [[do2 laan5]],
+        to shirk work;
+    - _(5)l(a/)n (2)s(a/)n_
+        [[laan5 saan2]],
+        to lofe, to dawdle;
+    - _(1)shan (5)l(a/)n_
+        [[san1 laan5]],
+        to gape and stretch;
+    - _ts(o\)(6) (5)l(a/)n (4)shan_
+        [[zou6 laan5 san4]],
+        an idler;
+    - _(5)l(a/)n (2)l(o\) k(e/)(3) (1)kung (1)f(u/)_
+        [[laan5 lou2 ge3 gung1 fu1]],
+        very easy work;
+    - _yat(7) (1)shan (5)l(a/)n kwat(7)_
+        [[jat1 san1 laan5 gwat1]]
+        incurably lazy.
+    ==
+  ====
+$$
+##>
