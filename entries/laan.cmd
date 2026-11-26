@@ -90,3 +90,37 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~224 #3: (4)蘭]]
+    ==
+    - A general name for gynandrous flowers,
+      and others with a single flower on a peduncle;
+    - used in a good sense in comparisons;
+    - _met._ adopted, sworn;
+    - pleasant, delightful;
+    - _(1)ch(u:) (4)l(a/)n_
+        [[zyu1 laan4]],
+        the _Chloranthus inconspicuus;_
+    - _ti(u/)(3) (4)l(a/)n_
+        [[diu3 laan4]],
+        the air-plant;
+    - _k(i/)t(8) p(a/)i(3) (1)kam (4)l(a/)n_
+        [[git3 baai3 gam1 laan4]],
+        to adopt one for a sister;
+    - _(4)l(a/)n (2)ts(e/)_
+        [[laan4 ze2]],
+        an adopted sister;
+    - _(4)l(a/)n (1)hing_
+        [[laan4 hing1]],
+        a sworn brother;
+    - _(4)l(a/)n (4)p(')(u/)n y(e/)ung(6)_
+        [[laan4 pun4 joeng6]]
+        cyathiform.
+    ==
+  ====
+$$
+##>
