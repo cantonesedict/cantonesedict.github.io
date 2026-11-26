@@ -31,8 +31,8 @@ WH
 WV
   ==
   - Fong.
-    The last three characters [[壙, 曠, 纊]] under this syllable <span class="caps-emphasis">Fong</span>
-    are often pronounced <span class="caps-emphasis">~~Kwong~~ ``Kw(')ong``</span> [[kwong]].
+    The last three characters [[壙, 曠, 纊]] under this syllable <|Fong|>
+    are often pronounced <|~~Kwong~~ ``Kw(')ong``|> [[kwong]].
   ==
 WP
   ==

@@ -142,7 +142,7 @@ W
     ==
     --
     A colloquial word; <# TODO: normalise to ${𨈇=⿰𧾷覽}laam3 #>
-    see <span class="caps-emphasis">n(a/)m(3)</span> [[naam3]].
+    see <|n(a/)m(3)|> [[naam3]].
     --
     ==
     - To overpass, to skip;

@@ -696,6 +696,16 @@ FixedDelimitersReplacement: #.syntax.highlight
 - tag_name: mark
 
 
+FixedDelimitersReplacement: #.syntax.caps-emphasis
+- queue_position: BEFORE #escape-idle-html
+- syntax_type: INLINE
+- opening_delimiter: <|
+- attribute_specifications: .caps-emphasis
+- prohibited_content: BLOCKS
+- closing_delimiter: |>
+- tag_name: span
+
+
 FixedDelimitersReplacement: #.syntax.chinese-lang-forced
 - queue_position: BEFORE #escape-idle-html
 - syntax_type: INLINE
