@@ -267,3 +267,58 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~224 #9: 爛(6)]]
+    ==
+    - To cook thoroughly, to boil to rags;
+    - rotten, corrupted, putrid, over-ripe;
+    - torn, tattered, worn out, broken, spoiled, ruined;
+    - to break;
+    - splendor, bright;
+    - to oppress;
+    - many;
+    - very, a superlative, as _l(a/)n(6) (1)to_ [[laan6 do1]], a great many;
+    - _(2)kong w(a/)(6) l(a/)n(6) (5)l(o\)_
+        [[gong2 waa6 laan6 lou5]],
+        he speaks very well;
+    - _l(a/)n(6) (2)tsai_
+        [[laan6 zai2]],
+        a rascal;
+    - _l(a/)n(6) (2)hau_
+        [[laan6 hau2]],
+        a blackguard;
+    - _ch(u:)(3) l(a/)n(6)_
+        [[zyu3 laan6]]
+        worm-eaten;
+    - _(2)t(a/) l(a/)n(6)_
+        [[daa2 laan6]]
+        to break;
+    - _l(a/)n(6) (5)li(u/)_
+        [[laan6 liu5]],
+        broken, spoiled;
+    - _l(a/)n(6) (4)h(a/)i_
+        [[laan6 haai4]],
+        old shoes;
+    - _l(a/)n(6) (4)t(')ung l(a/)n(6) t(')(i/)t(8)_
+        [[laan6 tung4 laan6 tit3]]
+        bits of broken copper and iron;
+    - _l(a/)n(6) (4)ch(')(a/)i (4)t(')au_
+        [[laan6 caai4 tau4]],
+        a hard knot to split, _met._ a hard matter;
+    - _l(a/)n(6) meng(6)_
+        [[laan6 meng6]]
+        a hard fate;
+    - _l(a/)n(6) (4)t(')au (5)t(')eng_
+        [[laan6 tau4 teng5]],
+        a reckless dare-devil;
+    - _l(a/)n(6) (1)ch(i/)n (4)t(')(o\) l(a/)i(6)_
+        [[laan6 zin1 tou4 laai6-2]]
+        a beggarly scamp who tries to involve one.
+    ==
+  ====
+$$
+##>
