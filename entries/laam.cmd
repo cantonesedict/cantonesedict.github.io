@@ -328,3 +328,20 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~223 #6: 艦(6)]]
+    ==
+    - A war-junk;
+    - a man-of-war with strong bulwarks, a frigate;
+    - a kind of defended roundhouse on deck;
+    - _ch(i/)n(3) l(a/)m(6)_
+        [[zin3 laam6]]
+        a man-of-war.
+    ==
+  ====
+$$
+##>
