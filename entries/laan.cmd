@@ -136,6 +136,25 @@ $$
 $$
 W
   ====
+  - [[Page~224 #6: (4)瀾]]
+    ==
+    - Swelling, continuous waves, surges;
+    - dirty rice-water;
+    - _(1)p(o\) (4)l(a/)n_
+        [[bou1 laan4]],
+        rolling waves;
+    - _(4)(U/)i (4)l(a/)n (4)k(')i(u/)_
+        [[wui4 laan4 kiu4]],
+        the Eddy (or returning current) Bridge, the bridge near the Factories.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~224 #3: (4)蘭]]
     ==
     - A general name for gynandrous flowers,
