@@ -133,6 +133,42 @@ $$
 $$
 W
   ====
+  - [[Page~721 #1: {𨅏=⿰𧾷嵐}(3)]]
+    --
+    Read _(4)l(a/)m_ [[laam4]]_;_
+    --
+    ==
+    - to walk fast.
+    ==
+    --
+    A colloquial word; <# TODO: normalise to ${𨈇=⿰𧾷覽}laam3 #>
+    see <span class="caps-emphasis">n(a/)m(3)</span> [[naam3]].
+    --
+    ==
+    - To overpass, to skip;
+    - to leap over;
+    - an interval;
+    - _l(a/)m(3) yat(9)_
+        [[laam3 jat6]]
+        every other day;
+    - _l(a/)m(3) ch(')ut(7) (4)m(u/)n (2)hau_
+        [[laam3 ceot1 mun4 hau2]],
+        he went out doors;
+    - _l(a/)m(3) (1)k(o\)_
+        [[laam3 gou1]],
+        to step high;
+    - _t(a/)i(6) p(o\)(6) l(a/)m(3)_
+        [[daai6 bou6 laam3]]
+        give a good leap and cross it.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~223 #1: (5){𭣄=⿰扌覧}(5)擥; here normalised to 攬]]
     ==
     - To grasp, to carry with a firm hold, to carry in both arms;
