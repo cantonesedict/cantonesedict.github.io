@@ -51,3 +51,22 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~224 #1: (1)躝]]
+    ==
+    - To overstep, to pass over;
+    - to creep, to twine around;
+    - _(1)l(a/)n t(i/)(6)_
+        [[laan1 dei6]]
+        to crawl on the earth;
+    - _(1)l(a/)n (4)t(')ang_
+        [[laan1 tang4]],
+        to twine over, as a grape vine grows.
+    ==
+  ====
+$$
+##>
