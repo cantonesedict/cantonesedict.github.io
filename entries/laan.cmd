@@ -124,3 +124,30 @@ W
   ====
 $$
 ##>
+
+<##
+$$
+W
+  ====
+  - [[Page~224 #4: (4)闌]]
+    ==
+    - A door-screen;
+    - a wristlet;
+    - to shut in, to seclude, to separate;
+    - late, evening;
+    - failing, fading, falling into ruins;
+    - few, rare;
+    - in limited quantities, moderate;
+    - _(4)l(a/)n yap(9)_
+        [[laan4 jap6]]
+        to go in abruptly;
+    - _(4)m(u/)n (4)l(a/)n_
+        [[mun4 laan4]],
+        a door-screen;
+    - _y(e/)(6) (4)l(a/)n_
+        [[je6 laan4]],
+        the night nearly past, very late.
+    ==
+  ====
+$$
+##>
