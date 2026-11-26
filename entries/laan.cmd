@@ -75,6 +75,47 @@ $$
 $$
 W
   ====
+  - [[Page~224 #5: (4)攔]]
+    ==
+    - To stop with the hand, to hinder, to prevent;
+    - to embarrass;
+    - to divide, to separate;
+    - _(1)ch(e/) (4)l(a/)n_
+        [[ze1 laan4]],
+        to hinder, to prevent seeing or going;
+    - _(4)(i/)n (5)(u:) (1)ch(e/) (4)l(a/)n_
+        [[jin4 jyu5 ze1 laan4]],
+        to bamboozle, to dissuade, to use amphibology;
+    - _(4)l(a/)n (4)(u:)_
+        [[laan4 jyu4]],
+        to stop an officer's sedan;
+    - _(4)l(a/)n l(o\)(6) (2)ts(')(e/)ung k(i/)p(8)_
+        [[laan4 lou6 coeng2 gip3]]
+        to stop up the road to rob men;
+    - _(4)l(a/)n (1)hoi_
+        [[laan4 hoi1]],
+        to part [combatants];
+    - _(4)l(a/)n (1)k(a/)i hat(7) shik(9)_
+        [[laan4 gaai1 hat1 sik6]]
+        beggars blocking up the street;
+    - _(4)m(o\) (1)kw(a/)n (4)l(a/)n_
+        [[mou4 gwaan1 laan4]],
+        nothing to guard it with;
+    - _(4)l(a/)n ts(i/)t(9)_
+        [[laan4 zit6]]
+        to stop the way;
+    - _(4)l(a/)n (4)t(')au chong(6)_
+        [[laan4 tau4 zong6]]
+        to wait to meet one.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~224 #2: (4)欄]]
     ==
     - A railing or balustrade for a support and defense;
