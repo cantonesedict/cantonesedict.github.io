@@ -78,6 +78,13 @@ W
         [[gwo2 laan1]],
         the fruit market.
     ==
+  - [[Page~721 #3: (1)欄]]
+    ==
+    - Is also applied to a hong;
+    - _(1)l(a/)n (5)m(i/)_
+        [[laan1 mei5]],
+        the river front of the hong, the water side.
+    ==
   ====
 $$
 ##>
