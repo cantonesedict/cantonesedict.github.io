@@ -133,6 +133,43 @@ $$
 $$
 W
   ====
+  - [[Page~223 #1: (5){𭣄=⿰扌覧}(5)擥; here normalised to 攬]]
+    ==
+    - To grasp, to carry with a firm hold, to carry in both arms;
+    - to usurp, to interfere in;
+    - to monopolize, to hoard;
+    - grasping;
+    - an armful;
+    - _(5)l(a/)m fo(3)_
+        [[laam5 fo3]]
+        to engross goods;
+    - _(5)l(a/)m (2)ts(')(u:)_
+        [[laam5 ceoi2]],
+        to carry in the arms, to seize all;
+    - _(5)l(a/)m (4)m(a/)i p(a/)n(6)_
+        [[laam5-2 maai4 baan6]]
+        to manage alone;
+    - _(5)l(a/)m (4)t(')au_
+        [[laam5 tau4]],
+        head manager of an affair;
+    - _(4)ch(')(a/)i yat(7) (5)l(a/)m_
+        [[caai4 jat1 laam5]],
+        an armful of wood;
+    - _(5)l(a/)m (2)pong_
+        [[laam5 bong2]],
+        the last name on the list of k(u:)jin [[舉人]] graduates;
+    - _(5)l(a/)m (1)shan (5)l(a/)m shai(3)_
+        [[laam5-2 san1 laam5-2 sai3]]
+        to wrestle and play.
+    ==
+  ====
+$$
+##>
+
+<##
+$$
+W
+  ====
   - [[Page~222 #11: (2)㰖 _(2)L(a/)m_ (laam2); here normalised to 欖 _(5)L(a/)m_ (laam5)]]
     ==
     - _(1)K(o\)m (2)l(a/)m_
